@@ -161,7 +161,7 @@ title_english = "017 Vali s questioning Rama s propriety"
 आदित्यम् इव कालेन  
 युगान्ते भुवि पातितम्।  
 महेन्द्रम् इव दुर्धर्षम्  
-उपेन्द्रम् इव दुःसहम्॥ १०॥  
+उपेन्द्रम् इव दुःसहम्॥ १०॥+++(5)+++  
 
 महेन्द्र-पुत्रं पतितं  
 वालिनं हेम-मालिनम्।  
@@ -621,9 +621,17 @@ title_english = "017 Vali s questioning Rama s propriety"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पञ्च पञ्चनखा भक्ष्या ब्रह्मक्षत्रेण राघव।  
-शल्यकः श्वाविधो गोधा शशः कूर्मश्च पञ्चमः॥ ३९॥
+पञ्च पञ्चनखा भक्ष्या  
+ब्रह्मक्षत्रेण राघव।  
+शल्यकः श्वाविधो+++(=porcupine)+++ गोधा  
+शशः कूर्मश् च पञ्चमः॥ ३९॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+O scion of raghu, five five-fingered animals are edible for v1s& v2s: the hedgehog, the porcupine, the Varanus lizard, the hare & the turtle as the 5th
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -638,9 +646,22 @@ title_english = "017 Vali s questioning Rama s propriety"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चर्म चास्थि च मे राम न स्पृशन्ति मनीषिणः।  
-अभक्ष्याणि च मांसानि सोऽहं पञ्चनखो हतः॥ ४०॥
+चर्म चास्थि च मे राम  
+न स्पृशन्ति मनीषिणः।  
+अभक्ष्याणि च मांसानि  
+सोऽहं पञ्चनखो हतः॥ ४०॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+O king, educated folks don't touch (i.e., wear) my skin& bones. I, that five-fingered animal whose meat is proscribed, have been slain.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+The taboo against eating primates/wearing bones/skin
+</details>
+
 
 <details><summary>मूलम्</summary>
 

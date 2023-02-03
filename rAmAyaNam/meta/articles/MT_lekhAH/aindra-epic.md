@@ -63,13 +63,28 @@ Was dasharatha infertile: we do not know if he was infertile, having erectile is
 
 Now if the hayamedha was sole for removing his sins there is no such explicit mention that he desired his sins to be removed: he says he wants to do it for offspring. 
 
+## vAli-vadha
+Source: [TW](https://threadreaderapp.com/thread/1621049814115917825.html)
+
++++(वलस्यापत्यम् इति वालिः। )+++
+
+There has been a lot of discussion about the deceitful killing of vAlin by rAma. Despite the justifications which rAma offers they seem hollow. However, after some thought I concluded that vAlmIki purposefully presented it that way. As we have seen he closely follows the shruti & repeatedly tries to illustrate the indra-nature of the ikShvAku prince by paralleling the acts of indra in the shruti. This I believe represents that side of indra which is hard to grasp for the unrealized:
+
+> बह्वीः सन्धा अतिक्रम्य  
+> दिवि प्रह्लादीयान् अतृण्  
+> अहम् अन्तरिक्षे पौलोमान्  
+> पृथिव्यां कालकाञ्जान् ।  
+> तस्य मे तत्र न लोम चनामीयत ।
+> 
+> I guess a later day votary felt similarly about the slaying of vAlin as an Arya of yore might have felt when he heard the above shruti-vAkya-s: perhaps, even a sense of awe.
+
 ## Multi-level interpretation
 ... I’ve said that an epic can be read at many levels
 
 Now if you want to historicize it you have to be tethered to biological realities; hence, when coupled with dasharatha’s condition we have to come to the reading as above of a direct agency of r in generating the offspring
 
 ### A mirror of shruti
-^^yes, that is my intention of itihAsa-s read in the divine sense as a mirror of the shruti. In that type of reading rishyashR^i~Nga is like the udgAtR^i coming from the forest reciting the shakvarI sAman to generate rain. that’s for romapAda. In the same way like the udgAtR^i in the somayAga he brings indra (and other deva-s) to the ikShkvAku-s in the rAmAyaNa; laksh being viShNu, bharata being probably bhaga and shatrughna being aryaman
+That is my intention of itihAsa-s read in the divine sense as a mirror of the shruti. In that type of reading rishyashR^i~Nga is like the udgAtR^i coming from the forest reciting the shakvarI sAman to generate rain. that’s for romapAda. In the same way like the udgAtR^i in the somayAga he brings indra (and other deva-s) to the ikShkvAku-s in the rAmAyaNa; laksh being viShNu, bharata being probably bhaga and shatrughna being aryaman
 
 ## Conclusion
 What I will not go into is all the meta-information. So when we opt for a historicized reading then this role of rishyashR^i~Nga falls out as I’ve stated.
