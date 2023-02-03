@@ -323,145 +323,203 @@ He believes strongly that if undertaken by the ignorant, the actions, however gr
 
 2. Cf. also aqt a 56: etc. under ch. XVII, 23-27,
 
-## 9
-3 
-In this Section we may study two other important points found in the GS. They are based on some notable variations in the readings of the BG text which Ag seems to have had with him. The first point is in connection with the relationship between the Sāṅkhya (Jñāna) and Karman or Karmayoga, as means of Mokṣa. According to the Jñāna-Karma samuccayavāda of Bhāskara, both the Saṅkhya and the Karman have co-equality and they jointly help the aspirant in attaining emancipation. On the other hand according to the Sarvakarma - samnyāsa - pūrvaka - jñānaprāpya - mokṣavāda of Śaṅkara, Saṅkhya alone is the means of Mokṣa; by their very nature both the Saṅkhya and the Karman are mutually opposed to one another, even though the Karman performed with detachment, may help 
+## 9 jñāna, karma, jaḍatā
+### jñāna and karma
+In this Section we may study two other important points found in the GS. They are based on some notable variations in the readings of the BG text which Ag seems to have had with him. The first point is in connection with the relationship between the Sāṅkhya (Jñāna) and Karman or Karmayoga, as means of Mokṣa. 
 
-xliv धौमजूगवद्गीता गीतार्थसंग्रहोपैता one to gain wisdom or Sāńkhya.” As we saw earlier Ag, explicitly says that he cannot subscribe to the former school. At the same time he would not agree with the other theory of mutual incompatibility of the jñāna and the Karman. For him both are of mutually inclusive nature. In fact, the teaching for the Sāṅkhya, i.e. proper knowledge, and the teaching for the efficient performance of action, i. e. Karma. yoga are basically not different. Ag. formulates this idea on the basis of ch. II, 40. Agi's text of the first helf of the BG verse seems to read: एषा तेऽभिहिता सांख्ये बद्धिर्योगे यथा शृण as against एषा तेऽभिहिता सांस्ये बुद्धिर्योग विमां Ty which is the reading of the vulgate and of the Kashmirian text commented upon by Bhāskara and Rāmakaṇṭha. With all power at his disposal Śaṅkara stresses on the word tu 'but', 'on the other hand and often quotes this passage to substantiate his theory. But Bhāskara seems to ignore this lu, while Rāma kaṇṭha has to labour a little to explain away the word. 
-This theory of mutual inclusiveness of the Saṅkhya and the Karman, Ag, seems to read also in 
-1. See above. 2. For, Karman, in its broadest sense signifies, not the Vedic 
-and Smārta ritualistic practices alone, but Kriyā "action', in general; and the Jñāna and Kriyā are two 
-aspects of the Samvid. (Ch. III, 3; V, 14 ) 8. See pt. II, pp. 44-45. If one has to believe that Agi's 
-text too must have read as in the vulgate only, even then it might have been possible for Ag. to read, of course not very easily, in the verse his theory of mutual inclusiveness of the Jñāna and the Karman, See the Anubandha (pt.I). 
-xlv 
-Introduction ch.111,3. Here the first half of Ag.'s text seems to read: – sfera fefaur facer gir fara as against 
-lesfera fafae facot get start FATAE, the reading of the vulgate and of the Kashmir text followed by Bhāskara and Rāmakaṇṭha. 
-Of course there are charges of alleged manipu lation of the BG text levelled by Jayatīrtha against 
-Bhāskara with regard to the latter's reading in -ch. "VI,7. And basing on these charges Belvalkar has gone to the extent of suspecting whether most of 
-the Kashmirian variants in the BG text are due to - some partisans' over-zeal. However, the above variants followed by Ag. seem to go extremely well with the BG Aiegun gora 15: gaafa afogar: etc.? Further, Belvalkar himself draws our attention to the fact that the old Javanese translation cum para phrase (datable c. 1000 A.D.) of the BG is not aware of the difference between the Saṅkhya and the Yoga view-points, as we find in the vulgate. 
-The second interesting point of similar nature in the GS is: Ag.'s observations on ch. VII, 4-5 seem to suggest that the first hemistich of verse 5 of Ag.'s text perhaps read something like अपरेयमितोऽनन्यां प्रकृति fafe ra as against stafakarat safar fare 
-1. See the Bhagavadgitz, Critical Ed. (S. K Belvalkar, Poona, 
-1945), intro, pp. xix and xxi. 2. Ch. V, 4. 3. Op.cit., intro, p. xxiii and Critical Notes p. 96. 
-xlvi 
-धीमाङ्कगवद्गीता गीतार्थसंग्रहोपेता of the vulgate and of the Kashmirian text followed by Bhāskara and Rāmakaṇṭha. No doubt here in ch. VII, 4-5, Ag. tries to read the cardinal principle of the Kashmir śaiva school viz., the Parā Samvid mani fests as both the sentient and the non-sentient, star ting from Brahmā (the Personal God) down to the insignificant grass; because sentiency is recognisable in men etc., they are called ajada or the sentient; and because it is concealed (not recognisable) in pot etc., they are known as jada or the non-sentient. Ag. elucidates this theory further later on. The origin of this theory is traceable in the Upaniṣads." The theory is referred to by the Vyakaraṇa Vārttika kāra Kātyāyana,' and is exemplified by the Maha bhāṣyakāra Patañjali, Śaṅkara twice refers to and 
-1. See pt. II, pp 151-152. Cf 
-सोऽयमात्मानगावृत्य स्थितो जडादं गतः । आवतानावृतात्मा तु देवादिस्थावरान्तगः । 
-Tefardaru ecoutea faaat 11 -TA, I, 133-35. 2. Ch. IX, 4-9. 
-3. 
-Cf. & afeag at — (Chindogya, III, xiv, 1 etc.) fana a 
-CD 21 A na (Taittiriya, 11,6). But the Advaitin would take these sentences as instances of būdhayām sāmānādhikaran yam, i.e. sentences giving identity of the two (or more) in contradiction. See above. Cf. páru ar garaTaTa, the last Vārttika under gat: Fre: Farmaciazgiai at (PA III, i, 7). Cf. a 18. $T: offer, FATTIGST rafafer etc.-the Maha. bhāsya under the above Varttika. 
-5. 
-Introduction 
-xlvii 
-defends this theory while refuting the Sāṅkhya dualism. 
+According to the Jñāna-Karma samuccayavāda of Bhāskara, both the Saṅkhya and the Karman have co-equality and they jointly help the aspirant in attaining emancipation. 
+
+On the other hand according to the Sarvakarma-saṁnyāsa - pūrvaka-jñāna-prāpya-mokṣavāda of Śaṅkara, Sāṅkhya alone is the means of Mokṣa; by their very nature both the Saṅkhya and the Karman are mutually opposed to one another, even though the Karman performed with detachment, may help one to gain wisdom or Sāńkhya. (1. See above. ) 
+
+As we saw earlier Ag, explicitly says that he cannot subscribe to the former school. At the same time he would not agree with the other theory of mutual incompatibility of the jñāna and the Karman. For him both are of mutually inclusive nature. For, Karman, in its broadest sense signifies, not the Vedic and Smārta ritualistic practices alone, but Kriyā "action', in general; and the Jñāna and Kriyā are two
+   aspects of the Samvid. (Ch. III, 3; V, 14 )
+
+In fact, the teaching for the Sāṅkhya, i.e. proper knowledge, and the teaching for the efficient performance of action, i. e. Karma. yoga are basically not different. Ag. formulates this idea on the basis of ch. II, 40. Ag's text of the first helf of the BG verse seems to read: एषा तेऽभिहिता सांख्ये बद्धिर्योगे यथा शृण as against एषा तेऽभिहिता सांख्ये बुद्धिर्योग tv शृण which is the reading of the vulgate and of the Kashmirian text commented upon by Bhāskara and Rāmakaṇṭha. With all power at his disposal Śaṅkara stresses on the word tu 'but', 'on the other hand' and often quotes this passage to substantiate his theory. But Bhāskara seems to ignore this tu, while Rāma kaṇṭha has to labour a little to explain away the word. 
+
+- 3. See pt. II, pp. 44-45. If one has to believe that Ag's text too must have read as in the vulgate only, even then it might have been possible for Ag. to read, of course not very easily, in the verse his theory of mutual inclusiveness of the Jñāna and the Karman, See the Anubandha (pt.I).
+
+This theory of mutual inclusiveness of the Saṅkhya and the Karman, Ag, seems to read also in [[xlv]] ch.111,3. Here the first half of Ag.'s text seems to read: – lōkē’smin dvividhā niṣṭhā puraikōktā mayānagha as against lōkē’smin dvividhā niṣṭhā purā prōktā mayānagha, the reading of the vulgate and of the Kashmir text followed by Bhāskara and Rāmakaṇṭha. 
+
+Of course there are charges of alleged manipulation of the BG text levelled by Jayatīrtha against Bhāskara with regard to the latter's reading in ch. VI,7. +++(5)+++ And basing on these charges Belvalkar has gone to the extent of suspecting whether most of the Kashmirian variants in the BG text are due to - some partisans' over-zeal. 
+
+- 1. See the Bhagavadgitz, Critical Ed. (S. K Belvalkar, Poona, 1945), intro, pp. xix and xxi.
+
+However, the above variants followed by Ag. seem to go extremely well with the BG sāṅkhyayōgau pr̥thag bālāḥ pravadanti na paṇḍitāḥ etc. (2. Ch. V, 4. )
+
+Further, Belvalkar himself draws our attention to the fact that the old Javanese translation cum para phrase (datable c. 1000 A.D.) of the BG is not aware of the difference between the Saṅkhya and the Yoga view-points, as we find in the vulgate. (3. Op.cit., intro, p. xxiii and Critical Notes p. 96. )
+
+### saṁvit in non-sentience
+The second interesting point of similar nature in the GS is: Ag.'s observations on ch. VII, 4-5 seem to suggest that the first hemistich of verse 5 of Ag.'s text perhaps read something like अपरेयम् इतो ऽनन्यां प्रकृतिṁ viddhi mē parām  as against apareyam itas tvanyāṁ prakr̥tiṁ viddhi mē parām [[xlvi]] of the vulgate and of the Kashmirian text followed by Bhāskara and Rāmakaṇṭha. No doubt here in ch. VII, 4-5, Ag. tries to read the cardinal principle of the Kashmir śaiva school viz., the Parā Samvid manifests as both the sentient and the non-sentient, starting from Brahmā (the Personal God) down to the insignificant grass; because sentiency is recognisable in men etc., they are called ajaḍa or the sentient; and because it is concealed (not recognisable) in pot etc., they are known as jaḍa or the non-sentient. 
+
+- 1. See pt. II, pp 151-152. Cf  
+     सोऽयमात्मानमावृत्य स्थितो जडपदं गतः ।  
+     आवृतानावृतात्मा तु देवादिस्थावरान्तगः ।  
+     जडाजडस्याप्येतस्य द्रैरूप्यस्यास्ति citratā  
+     -TA, I, 133-35.
+
+
+Ag. elucidates this theory further later on. (2. Ch. IX, 4-9.) The origin of this theory is traceable in the Upaniṣads." 
+
+- 3. sarvaṁ khalv idaṁ brahma — (Chāndogya, III, xiv, 1 etc.) vijñānaṁ cāvijñānaṁ ca . satyaṁ cānr̥taṁ ca satyam abhavat (Taittiriya, 11,6). But the Advaitin would take these sentences as instances of bādhāyāṁ sāmānādhikaraṇyam, i.e. sentences giving identity of the two (or more) in contradiction. See above.
+
+The theory is referred to by the Vyakaraṇa Vārttikakāra Kātyāyana,' and is exemplified by the Mahābhāṣyakāra Patañjali. 
+
+- Cf. sarvasy vā cētanāvattvād, the last Vārttika under gat: dhātōḥ karmaṇaḥ samānakartr̥kād icchāyāṁ vā (PA III, i, 7). 
+- Cf. evaṁ hy āha - kaṁsakāḥ sarpanti, śirīṣō ’yaṁ svapiti etc. -the Maha. bhāsya under the above Varttika. 
+
+[[xlvii]]
+
+Śaṅkara twice refers to and defends this theory while refuting the Sāṅkhya dualism. 
+
+- 1. Cf. (A) योऽपि कश्चिद् आचक्षीत श्रुत्या जगतश् चेतनप्रकृतिकतां, तद्बलेनैव समस्तं जगत् चेतनम् अवगमिष्यामि etc. Sankara under न विलक्षणत्वाद् अस्य तथात्वं च शब्दात् (BS II, i, 4).  
+- (B) योऽपि चेतन-कारण-श्रवण-बलेनैव समस्तस्य जगतश् चेतनताम् उत्प्रेक्षते etc. Cf. Ag.'s observations under ch. VII, 4-7.
+
+
+## 10 Materials used
+
 The materials used for the present edition of the text are the following two manuscripts and two earlier editions of the work. 
-(A) Manuscripts S-Poona, Bhandarkar Oriental Research Institute MS No. 163/1883-84. This has not been catalogued so far. So let us examine this a bit elaborately. 
-Size: 33 c, m. by 16 c. m. 
-Extent: Complete; 26 unnumbered leaves with no marginal lines; 13 lines to a page, 55 letters to a line, excluding the additions on sides and in between the lines. Fol. 24a-b & Fol. 25a bear 15-16 lines, 26b 11 lines 
-Description:- Country paper: Sārada characters: writing generally uniform: wrong writings scored off and portions originally omitted are added on sides or above the lines with the indicator, Kakapāda in pro per places. At time marginal notes are added. 
-Age: The MS bears no date. But it has an old look. 1. Cf. (A) uitsfa facrufla - STEA1 ataraqagefamat mea 
-HART Ta haaaangifa etc. Śaṅkara under a faluat \*FU TAK a nera (BS IT, i, 4). (B) atsfahaafikutana na mara baaaaange etc. Śaṅkara under ypaa y (BS II, 1, 6). Cf. Ag.'s observations under ch. VII, 4-7. 
-C 
-LTC 
-xlviii 
-श्रीमद्भगवद्गीता गीतार्थसंग्रहोपेता 
-Begins: Fol. 1b. line 1: सिद्धम् स्वस्ति । गणेशाय नमः। य एष विततस्फुरद्विविध etc. 
-Line 11 : विघ्नमात्रफलैग्जिालैः ॥धृतराष्ट्र उवाच । धर्मक्षेत्रे - - - - - किमकुर्वत संजय । अत्र केचित 
-to Folio 2a : lines 11-13 : तदत्र संग्रहः - विद्या विद्योभयाघात --- भवेन्म निः ।। इति श्रीमदभिनवगुप्तविरचिते गीतार्थसंग्रहे प्रथमोऽध्यायः। संजयः तं तथेति । आदौ लोकव्यवहार ----मित्याह । अनार्य । अर्जुनः । कथं भीष्म . मित्यादि। OFFolio 5b: lines 1-3: अथार्थसंग्रहः । अहो न चेतसश्चित्रा---- परित्यजेत् ॥ इति श्रीमदभिनवगुप्तपादविरचिते गीतार्थसंग्रहे द्वितीयोध्यायः । 
-ज्यायसी । च्यामि। On Line 4: ---- श्रीभगवान् । लोकेस्मिन् -... 
-Folio 8a: lines 9-11: शत्वं जहीति शिवम् । धनानि दारान -.. विधमाः । इति संग्रहः । इति श्रीमदभिनवगुप्तविरचिते गीतासंग्रहे तृतीयो ध्यायः । श्रीभगवान् । इमं । एवं । स ए। - - - - 
-Ends folio 26a : lines 1-2 : ... सूचयन् भाविनोनु गीतार्थस्यावकाशं ददाति ॥ संजयः ॥ इत्यहं यत्रयोगीत्यन्तम् । संजयवचनेन --- 
-Lines 3-5: -- - - विभूतय इति । शिवम् ॥ संगृह(ह्य)ते भङ् क्त्वाज्ञान ---- श्रीमदभिनवगुप्तविरचिते गीतार्थसंग्रहेष्टादशोध्यायः। Jo Lines 9-11: परिपूर्गोयं गीतार्थ संग्रहः कृतिस्त्रिनयनचरणचिन्तन 
-लब्धप्रसिद्धेश्श्रीमदभिनवगुप्तस्येति शिवम् । 
-- अभिनवरूपा शक्तिस्तद्गुप्तो यो महेश्वरो देवः । । तदुभयामलरूपं अभिनवगुप्तं शिवं वन्दे। 
-From the above this is clear: The MS has simple colophons; calls the work Gītārthasangraha and 
-1. Expressed by a symbol. 
-Introduction 
-xlix 
-at times Gītāsangraha; omits uvāca in major number of cases; does not contain any of the BG verses in full excepting the first one; quotes only a few initial syllables of the verses; and omits even that in the case of many other verses. These remarks hold good to a great extent for the next MS also i.e. B. 
-Ag.'s remark: grofasfagfafaaruia fafataal' seems however to suggest that he actually wrote down the entire text of the BG so that his readers might not have any misconception about the readings of the BG text he was depending on. Once Ag. speaks of some interpolated verses of repetitive nature.\* Had we got Ag.'s text, we could know what those intere polated verses are. But unfortunately we have lost this important help in ascertaining the BG text Ag. could have had. This Sārada manuscript is marked in the present edition as S, denoting the Sārada characters in which the text of the MS is written, 
-B - Poona, Bhandarkar Oriental Research Insti tute: MS No. 422/1875-76 (New No.28): Same as the Sl. No. 658 of the Descriptive Catalogue of MSS in the Govt. Manuscripts Library, Bhandarkar O. R. Institute, Poona. 
-Size: 35 cm. by 15 cm. 
-Extent : 41 leaves, numbered; no marginal line; 12 lines to a page; 40 letters to a line. Devanāgart characters; writing bold and uniform; here and there marginal corrections and additions. 
-2. Ch. XVII, 2. 2. Cf. pt. II, p. 299. 3. Ch. XIV, 16-20. See also pt. II, p. 264. 
-Gita-7श्रीमद्भगवद्गीता गीतार्थसंग्रहोपेती to Date : Saṁvat 1951 (1895 AD), Bhādrapada, Su. 10, followed by Su. 11, Friday. 
-od: Begins : folio 1b: line 1: fi sigte AA: 11 sangat 
-A: n Spanig ga fara etc. 
-Ends: folio 41b: çfa semaiatuffmancafadiga maa waren eragitea TT: 11 DÍTAkaita Hazafa ----aqw7142 रूपं-- ---- वन्दे इति । भद्रं वो भवतु सद्भक्तानां संवत् १९५१ भाद्रपदमासे शुक्लपक्षे शुक्रवासरान्वितायां दशम्यां परता(त) एकादश्यां चित्रितमिति शिवम् ।। This manuscript is referred to as B, denoting its place of deposit viz. Bhandarkar Oriental Research Institute. 
-te 
-ES 
-(B) Published Text 
-N - Śrīmad Bhagavadgītā with the Gītābhāsya of Śaṅkara and the commentaries of Anandagiri, Nīla kaṇṭha, Śrīdhara, Madhusudana Sarasvati and Dhanapati and the GS: Ed. Pansikar Vasudeva Sarma: published by the Nirnayasagar Press, Bombay, 1912. The editor says that this edition of the GS is based on two MSS : (a) A defective MS of Kashmir origin and (b) a MS preserved in the Deccan College, 
-3. It seems not easy to reconcile this date with the MS No. IS 422/1875-76. The details of the date given in the MS 
-seem to point to Friday, the 30th August 1895 A.D. The Samvat meant here was Vikrama year, Karttikādi expired. However, $u. 10 ended about three hours before the sun rise on that day as per Swamikannu Pillai's An Indian 
-Ephemeris-A.D. 1800 to A.D. 1999. 2. This has been republished by NSP in 1936 and by Munshi 
-ram Manoharlal Co., Delhi in 1978. 
-Introduction Poona. The textual variants of this edition are marked in the present edition as N denoting the publisher Nirnayasagar Press, 
-K - Śrīmad Bhagavadgītā with the commentary by Mahāmāheśvara Abhinavagupta: Ed. with notes by Rājānaka Pandit Lakshman Raina Brahmachari, Śrī nagar, Kashmir, 1933. The editor informs us that he had made use of some three Sārada MSS of Kashmir origin and gives us some details about them. This edition had gone out of print long ago and was hard to find anywhere. Hence at the instance of Prof. K. Satchidananda Murthy, the then Vice-Chancellor, S. V. University, I requested Dr. Karan Singh, for. mer Maharaja of Kashmir and the then M. P., for help. Dr. Karan Singh was good enough to arrange to get me a photostat copy of the edition preserved in his library in Jammu. The variants in the text main and the variants noted in the footnotes of this edition are referred to in the present edition as K (denoting Kashmir origin of the edition) and K(n) respectively. dwie 
-( I 
-XI Regarding the present edition, the following may be observed:-) 
-(A) The Bhagavadgītā, Text We saw above that both the MSS at our disposal do not help us in deciding the BG text which Ag. might have had. Further the GS is very brief and leaves many verses untouched. Therefore the BG text of Pandit Lakshman Raina's edition is generally 
-IS 
-4. I am unable to ascertain whether these two MSS are th 
-the same as S and B. 
-श्रीमद्भगवद्गीता गौतार्थसंग्रहोपैता 
-followed in the present edition, because it is entirely based on the Kashmir MSS. Again, it is not alto gether improbable that Pandit's MSS contained the BG text too. At times the texts commented upon by Rāmakaṇṭha, as found in T.R. Chintamani's edition are also taken into account, provided they do not appear to go against the spirit a the GS. This is done with a view to have as far as possible the Kashmir variants of Ag.'s time. Fur seems to suggest, as we saw above, that in certain places the BG text of Ag. might have differed from the text usually found in the Kashmir MSS. Those differences are indicated with a question mark in the present edition. They are also discussed in the Tippaṇī and in the Notes. An Anukrámaṇikā is added at the end (pt. I) so that one may have a comprehen sive idea about the differences between the text followed here and that of the vulgate. 
-5. Op. cit. These textual variants, whenever adopted, are 
-specified as such in the Tippaṇi (pt. I) and in the Notes (pt. II). 
-6. There has been good amount of discussion on the utility, 
-authenticity etc. of the Kashmir variants of the BG text. See e.g. (i) F. Otto Schrader of the Kiel University (Germany): The Kashmir Recension of the Bhagavad gita (Stutt gart, 1930, pp. 1-52). (ii) Śrīmad Bhagavadgita : Ed. S. N. Tadpatrikar (of BORI, Poona, 1934): intro pp. 1-10. (iii) S. K. Belvalkar : The So-called Kashmir Recension of the Bhagavadgita : The New Indian Antiquary, Vol. II No 4 (July 1939), pp. 211-251. (iv) The Bhavadgitā: Critical Ed. 
-(op. cit) pp. xvi-xxiii. 3. I. e, the text as found in the Critical ed. of the BG (op. cit) 
-Introduction (B) The Gitārthasangraha, Text The GS text as found in K is generally followed in the present edition. For, it comes directly from the MSS of Kashmir, the home of Ag. The variants found in S and B are also adopted whereever they appear preferable. The other variants are noted in the footnotes. The obviously very imperfect and insignificant variations are not entered. Again where ever all our sources seem to have defective text, the least defective one (of course it is subjective) is adopted. In these cases, attempts have been made in the Tippans and Notes to trace the fairly probable original. In an instance, a quotation of the GS as found in Anandavardhana's BG commentary named Fñānakarmasamuccaya' has been of immense help in this task. The bhāsyas of Śaṅkara and Bhāskara have also been helpful in some cases. 
-be 
-The GS texts of our Critical Appartus contain in most cases no Pratīkadhārana indicating the beginn 
-ings of the verses of the BG, such as the far etc., ? under the verses like gra natat: etc. Such 
-Pratīkadhāraṇas are however introduced in the pre sent edition, only for the sake of convenience. I crave the indulgence of the scholars for this addition. 
-e 
-7. Árimad Bhagavadg ti with the Jnanakarmasamuccaya of Ananda 
-vardhana: Ed. S K Belvalkar: Poona, 1941. This commen tator, according to the colophon of the commentary, belongs to Kali year 4781 (1680 A.D.), while the other Anandava 
-rdhana, the author of the Dhvanyaloka belongs to c. 850. 2. Ch. VII, 12-14. 3 See e.g. ch. V, 22. 
-0 0 
-liv 
-श्रीमद्भगवद्गीता गीतार्थसंग्रहोपैता At the end of every chapter a Sanskrit Tippaṇi is added. It is intended mainly to discuss the points of grammar, syntax, the textual difficulties and the like. 
-(C) Translation The second part of the present edition contains an English translation of the BG and the GS. Probably it is the first English translation of the work. The GS has a remarkable brevity, an occasional vagueness, and a mystic quality. There are weighty technical expressions of Kashmir śaivism. Further Ag. seems to take it for granted that his Lotaka (for whose sake, Ag, says, he wrote the GS) and other readers of his must have already well acquainted with many of the basic principles in the vast literature of the Pratyabhijñā system as well as in the standard works of other Śāstras, like Vyakaraṇa, Mimāṁsā, Yoga, Advaita and so on. All these in deed make the work of translating the GS a hard 
-S 
-ISTE DESPRE task 
-dous Before I commenced translating the GS, I learnt 
-that Prof, Raniero Gnoli of the Rome University had already published his Italian Translation of the GS, I wrote to Prof. Gnoli requesting him for a copy of his translation. Unfortunately for me he had no copy to spare Then I wrote to Dr. T. Venkata. charya, Professor of Sanskrit, University of Toronto Canada, for help. Prof. Venkatacharya was good 
-8. IL CANTO DEL BEATO (Bhagavadgita), A Cura Di : 
-Raniero Gnoli : Torino, 1976. It is in the series known as Elassici Delle Religioni in which the Italian Translation of other works of Ag. are also published, I am told. 
-15 
-Introduction 
-enough to act immediately. He somehow acquired a copy of this beautifully got-up costly book and presented the same to me soon But, my total igno. rance of the Italian came in the way. Luckily a Belgian scholar, by name Mr. Hemaraj was here at Tirupati during 1979 in connection with his study of Indian religions and he knew Italian. He was kind enough to help me by giving me an idea of the Italian translation of certain passages here and there. Yet, I am sorry that I could not get the full benefit of Prof. Gnoli's translation. However attempts were made, as far as one can, to understand the GS pro perly and to translate it suitably. Help did come from Ag. himself, i.e. from his own works like the Tantrāloka, Pratyabhijñāvimarsini, Paramarthasāra etc. A study of other works like Sivadosti, Pratyabhijñā. hrdaya etc. was also helpful. I was happy indeed. 
-While translating the BG verses not commented upon by Ag., the gloss of the Kashmirian Råmaka ntha is generally followed. The idea is this: Ag. tells us that he is interested in giving the hidden meaning only.' So he must have, it is presumed, accepted the general meaning of the BG as given by the Kash mirian scholars of his days. One more point: It has been said above that certain passages of the GS, found defective in the Critical Apparatus are retained in the body of the text and that probable correct readings are suggested in the Tippañī thereon. But 
-9. I feel, even now, that had I known the Italian language, the 
-translation of mine would have been not only easier but 
-also more informative. 2. GS, intro, ch. XVIII, 2; etc. 
-lvi 
-श्रीमद्भगवद्गीता गौतार्थसंग्रहोपेता the English translations of the passages, concerned follow only the readings suggestd in the Tippaṇi. 
-At the end of each chapter of the Translation explanatory notes are added. Here those points that are found in need of elucidation are discussed generally with the help of cognate works. Occa sionally humble attempts are also made to compare the approaches of Ag., Bhāskara, Śaṅkara and Rāma kaṇṭha with regard to certain verses of the BG. Further, six anukramanikās and one anubandha are added to Part I and four indeces to Part II. 
 
-Inspite of all these, I feel diffident I am con scious of the depth of the GS on one hand and of my limitations on the other. Ag. is one of the greatest thinkers, mystics and scholar-writers of ancient India and he has written the GS in such a manner as to make it a painting-on-sky. (nabhaścitramiva) for those who are not initiated in the secret oral tradi tions of the Kashmir śaivism. At the same time my knowledge is limitted and I have not been initiated in the said tradition. Hence I am not sure whether I have entered the core of the GS and understood the heart of Ag, and whether I have chosen appro priate English words in the translation. However I have made sincere effort to do the job well. In my effort there are bound to be ommissions, commissions etc. For after fe eta gaifafralaar: (ch. XVIII, 48). I request the scholars (dosajñās) to forgive me for these lapses. I conclude 
-ऊनाधिकमविज्ञातं पौर्वापर्यविजितम् ।। yararaferi qafarurnai Tatil 
-lvi 
-1 Introduction fatte: gáfuae realfagat 1 ### $901 wasa: #TOTT: 11 
-dorina T bruno masin 
+(A) Manuscripts S-Poona, Bhandarkar Oriental Research Institute MS No. 163/1883-84. This has not been catalogued so far. So let us examine this a bit elaborately. 
+
+- Size: 33 c, m. by 16 c. m. 
+- Extent: Complete; 26 unnumbered leaves with no marginal lines; 13 lines to a page, 55 letters to a line, excluding the additions on sides and in between the lines. Fol. 24a-b & Fol. 25a bear 15-16 lines, 26b 11 lines 
+- Description:- Country paper: Sārada characters: writing generally uniform: wrong writings scored off and portions originally omitted are added on sides or above the lines with the indicator, Kakapāda in pro per places. At time marginal notes are added. 
+- Age: The MS bears no date. But it has an old look. 
+
+
+Begins: Fol. 1b.  
+
+line 1: सिद्धम् (1. Expressed by a symbol.) स्वस्ति । गणेशाय नमः। य एष विततस्फुरद्विविध etc. 
+Line 11 : विघ्नमात्रफलैर् वाग्जिालैः ॥ धृतराष्ट्र उवाच । धर्मक्षेत्रे - - - - - किमकुर्वत संजय । अत्र केचित 
+
+Folio 2a :  
+
+lines 11-13 : तदत्र संग्रहः - विद्या विद्योभयाघात --- भवेन्मुनिः ।। इति श्रीमदभिनवगुप्तविरचिते गीतार्थसंग्रहे प्रथमोऽध्यायः। संजयः तं तथेति । आदौ लोकव्यवहार ----मित्याह । अनार्य । अर्जुनः । कथं भीष्ममित्यादि। 
+
+Folio 5b: lines 1-3: अथार्थसंग्रहः । अहो न चेतसश्चित्रा---- परित्यजेत् ॥ इति श्रीमदभिनवगुप्तपादविरचिते गीतार्थसंग्रहे द्वितीयोध्यायः । ज्यायसी । व्यामि। 
+
+On Line 4: ---- श्रीभगवान् । लोकेस्मिन् -... 
+
+Folio 8a: lines 9-11: शत्रुं जहीति शिवम् । धनानि दारान -.. विभ्रमाः । इति संग्रहः । इति श्रीमदभिनवगुप्तविरचिते गीतासंग्रहे तृतीयो ध्यायः । श्रीभगवान् । इमं । एवं । स ए। - - - -   
+
+Ends folio 26a : lines 1-2 : ... सूचयन् भाविनोनु गीतार्थस्यावकाशं ददाति ॥ संजयः ॥ इत्यहं यत्रयोगीत्यन्तम् । संजयवचनेन ---  
+Lines 3-5: -- - - विभूतय इति । शिवम् ॥ संगृह(ह्य)ते भङ्क्त्वाज्ञान ---- श्रीमदभिनवगुप्तविरचिते गीतार्थसंग्रहेष्टादशोध्यायः। 
+
+Lines 9-11: परिपूर्णोयं गीतार्थसंग्रहः कृतिस्त्रिनयनचरणचिन्तन -लब्ध-प्रसिद्धेश् श्रीमदभिनवगुप्तस्येति शिवम् । 
+
+- अभिनवरूपा शक्तिस्तद्गुप्तो यो महेश्वरो देवः ।   
+  तदुभयामलरूपम् अभिनवगुप्तं शिवं वन्दे। 
+
+From the above this is clear: The MS has simple colophons; calls the work Gītārthasangraha and [[xlix]] at times Gītāsangraha; omits uvāca in major number of cases; does not contain any of the BG verses in full excepting the first one; quotes only a few initial syllables of the verses; and omits even that in the case of many other verses. These remarks hold good to a great extent for the next MS also i.e. B. 
+
+Ag.'s remark: पाठविप्रतिपत्तिनिवारणायैव विलिख्यते (Ch. XVII, 2.) seems however to suggest that he actually wrote down the entire text of the BG so that his readers might not have any misconception about the readings of the BG text he was depending on. (2. Cf. pt. II, p. 299. ) Once Ag. speaks of some interpolated verses of repetitive nature. (3. Ch. XIV, 16-20. See also pt. II, p. 264. ) Had we got Ag.'s text, we could know what those interepolated verses are. But unfortunately we have lost this important help in ascertaining the BG text Ag. could have had. This Sārada manuscript is marked in the present edition as S, denoting the Sārada characters in which the text of the MS is written.
+
+B - Poona, Bhandarkar Oriental Research Institute: MS No. 422/1875-76 (New No.28): Same as the Sl. No. 658 of the Descriptive Catalogue of MSS in the Govt. Manuscripts Library, Bhandarkar O. R. Institute, Poona. 
+
+Size: 35 cm. by 15 cm.  
+Extent : 41 leaves, numbered; no marginal line; 12 lines to a page; 40 letters to a line. Devanāgarii characters; writing bold and uniform; here and there marginal corrections and additions. 
+
+
+Date : Saṁvat 1951 (1895 AD), Bhādrapada, Su. 10, followed by Su. 11, Friday. 
+
+- 1. It seems not easy to reconcile this date with the MS No. IS 422/1875-76. The details of the date given in the MS seem to point to Friday, the 30th August 1895 A.D. The Samvat meant here was Vikrama year, Karttikādi expired. However, shu. 10 ended about three hours before the sun rise on that day as per Swamikannu Pillai's An Indian Ephemeris-A.D. 1800 to A.D. 1999.
+
+Begins: folio lb : line 1: ओं श्रीगुरवे नमः ॥ श्रीगणपतये नमः ॥ श्रीरस्तु । ओं । य एष वितत etc.  
+Ends : folio 4lb: इति प्रत्यक्षशिवाचार्याभिनवगुप्तविरचिते भगवद्-गीतार्थसंग्रहे अष्टादशोध्यायः ॥  
+श्रीमत्कात्यायनोभूद् वररुचि…तदुभयामल-रूपं - - वन्दे इति ।  
+भद्रं वो भवतु सद्भक्तानां संवत् १९५१ भाद्रपद मासे शुक्लपक्षे शुक्रवासरान्वितायां दशम्यां परता (त) एकादश्यां चित्रितम् इति शिवम् ।।
+
+This manuscript is referred to as B, denoting its place of deposit viz. Bhandarkar Oriental Research Institute. 
+
+(B) Published Text 
+
+N - Śrīmad Bhagavadgītā with the Gītābhāsya of Śaṅkara and the commentaries of Anandagiri, Nīlakaṇṭha, Śrīdhara, Madhusudana Sarasvati and Dhanapati and the GS: Ed. Pansikar Vasudeva Sarma: published by the Nirnayasagar Press, Bombay, 1912. The editor says that this edition of the GS is based on two MSS : (a) A defective MS of Kashmir origin and (b) a MS preserved in the Deccan College, Poona.
+
+- 2. This has been republished by NSP in 1936 and by Munshiram Manoharlal Co., Delhi in 1978. 
+
+The textual variants of this edition are marked in the present edition as N denoting the publisher Nirnayasagar Press.
+
+- 4. I am unable to ascertain whether these two MSS are th
+   the same as S and B.
+
+
+K - Śrīmad Bhagavadgītā with the commentary by Mahāmāheśvara Abhinavagupta: Ed. with notes by Rājānaka Pandit Lakshman Raina Brahmachari, Śrīnagar, Kashmir, 1933. The editor informs us that he had made use of some three Sārada MSS of Kashmir origin and gives us some details about them. This edition had gone out of print long ago and was hard to find anywhere. Hence at the instance of Prof. K. Satchidananda Murthy, the then Vice-Chancellor, S. V. University, I requested Dr. Karan Singh, former Maharaja of Kashmir and the then M. P., for help. Dr. Karan Singh was good enough to arrange to get me a photostat copy of the edition preserved in his library in Jammu. The variants in the text main and the variants noted in the footnotes of this edition are referred to in the present edition as K (denoting Kashmir origin of the edition) and K(n) respectively. 
+
+## 11 Meta-edition
+XI Regarding the present edition, the following may be observed:-) 
+
+(A) The Bhagavadgītā, Text We saw above that both the MSS at our disposal do not help us in deciding the BG text which Ag. might have had. Further the GS is very brief and leaves many verses untouched. Therefore the BG text of Pandit Lakshman Raina's edition is generally followed in the present edition, because it is entirely based on the Kashmir MSS. Again, it is not altogether improbable that Pandit's MSS contained the BG text too. At times the texts commented upon by Rāmakaṇṭha, as found in T.R. Chintamani's edition are also taken into account, provided they do not appear to go against the spirit a the GS. 
+
+- 5. Op. cit. These textual variants, whenever adopted, are
+     specified as such in the Tippaṇi (pt. I) and in the Notes (pt. II).
+
+
+This is done with a view to have as far as possible the Kashmir variants of Ag.'s time. 
+
+- 6. There has been good amount of discussion on the utility, authenticity etc. of the Kashmir variants of the BG text. See e.g. (i) F. Otto Schrader of the Kiel University (Germany): The Kashmir Recension of the Bhagavad gita (Stutt gart, 1930, pp. 1-52). (ii) Śrīmad Bhagavadgita : Ed. S. N. Tadpatrikar (of BORI, Poona, 1934): intro pp. 1-10. (iii) S. K. Belvalkar : The So-called Kashmir Recension of the Bhagavadgita : The New Indian Antiquary, Vol. II No 4 (July 1939), pp. 211-251. (iv) The Bhavadgitā: Critical Ed. (op. cit) pp. xvi-xxiii.
+
+
+
+Further GS seems to suggest, as we saw above, that in certain places the BG text of Ag. might have differed from the text usually found in the Kashmir MSS. Those differences are indicated with a question mark in the present edition. They are also discussed in the Tippaṇī and in the Notes. An Anukrámaṇikā is added at the end (pt. I) so that one may have a comprehensive idea about the differences between the text followed here and that of the vulgate. 
+
+- 3. I. e, the text as found in the Critical ed. of the BG (op. cit) 
+
+(B) The Gitārthasangraha, Text The GS text as found in K is generally followed in the present edition. For, it comes directly from the MSS of Kashmir, the home of Ag. The variants found in S and B are also adopted whereever they appear preferable. The other variants are noted in the footnotes. The obviously very imperfect and insignificant variations are not entered. Again where ever all our sources seem to have defective text, the least defective one (of course it is subjective) is adopted. In these cases, attempts have been made in the Tippans and Notes to trace the fairly probable original. In an instance, a quotation of the GS as found in Anandavardhana's BG commentary named Jñānakarmasamuccaya has been of immense help in this task. (2. Ch. VII, 12-14.)
+
+- 7. Árimad Bhagavadg ti with the Jnanakarmasamuccaya of Anandavardhana: Ed. S K Belvalkar: Poona, 1941. This commen tator, according to the colophon of the commentary, belongs to Kali year 4781 (1680 A.D.), while the other Anandavardhana, the author of the Dhvanyaloka belongs to c. 850.
+
+
+The bhāsyas of Śaṅkara and Bhāskara have also been helpful in some cases. (3 See e.g. ch. V, 22.  )
+
+The GS texts of our Critical Appartus contain in most cases no Pratīkadhārana indicating the beginnings of the verses of the BG, such as धर्मक्षेत्रेइति etc., under the verses like धर्मक्षेत्रे कुरुक्षेत्रे etc. Such Pratīkadhāraṇas are however introduced in the present edition, only for the sake of convenience. 
+
+I crave the indulgence of the scholars for this addition. 
+
+
+At the end of every chapter a Sanskrit Tippaṇi is added. It is intended mainly to discuss the points of grammar, syntax, the textual difficulties and the like. 
+
+(C) Translation The second part of the present edition contains an English translation of the BG and the GS. Probably it is the first English translation of the work. The GS has a remarkable brevity, an occasional vagueness, and a mystic quality. There are weighty technical expressions of Kashmir śaivism. Further Ag. seems to take it for granted that his Loṭaka (for whose sake, Ag, says, he wrote the GS) and other readers of his must have already well acquainted with many of the basic principles in the vast literature of the Pratyabhijñā system as well as in the standard works of other Śāstras, like Vyakaraṇa, Mimāṁsā, Yoga, Advaita and so on. All these in deed make the work of translating the GS a hard task. 
+
+Before I commenced translating the GS, I learnt that Prof, Raniero Gnoli of the Rome University had already published his Italian Translation of the GS. 
+
+- 8. IL CANTO DEL BEATO (Bhagavadgita), A Cura Di :Raniero Gnoli : Torino, 1976. It is in the series known as Elassici Delle Religioni in which the Italian Translation of other works of Ag. are also published, I am told.
+     
+I wrote to Prof. Gnoli requesting him for a copy of his translation. Unfortunately for me he had no copy to spare. Then I wrote to Dr. T. Venkatacharya, Professor of Sanskrit, University of Toronto Canada, for help. Prof. Venkatacharya was good enough to act immediately. He somehow acquired a copy of this beautifully got-up costly book and presented the same to me soon. But, my total ignorance of the Italian came in the way. Luckily a Belgian scholar, by name Mr. Hemaraj was here at Tirupati during 1979 in connection with his study of Indian religions and he knew Italian. He was kind enough to help me by giving me an idea of the Italian translation of certain passages here and there. Yet, I am sorry that I could not get the full benefit of Prof. Gnoli's translation. 
+
+- 9. I feel, even now, that had I known the Italian language, the translation of mine would have been not only easier but also more informative.
+
+
+However attempts were made, as far as one can, to understand the GS properly and to translate it suitably. Help did come from Ag. himself, i.e. from his own works like the Tantrāloka, Pratyabhijñā-vimarṣiṇī, Paramarthasāra etc. A study of other works like Sivadr̥ṣṭi, Pratyabhijñā-hr̥daya etc. was also helpful. I was happy indeed. 
+
+While translating the BG verses not commented upon by Ag., the gloss of the Kashmirian Rāmakaṇṭha is generally followed. The idea is this: Ag. tells us that he is interested in giving the hidden meaning only. (2. GS, intro, ch. XVIII, 2; etc. ) So he must have, it is presumed, accepted the general meaning of the BG as given by the Kashmirian scholars of his days. One more point: It has been said above that certain passages of the GS, found defective in the Critical Apparatus are retained in the body of the text and that probable correct readings are suggested in the Tippañī thereon. But  the English translations of the passages, concerned follow only the readings suggested in the Tippaṇi. 
+
+At the end of each chapter of the Translation explanatory notes are added. Here those points that are found in need of elucidation are discussed generally with the help of cognate works. Occasionally humble attempts are also made to compare the approaches of Ag., Bhāskara, Śaṅkara and Rāma kaṇṭha with regard to certain verses of the BG. Further, six anukramaṇikās and one anubandha are added to Part I and four indeces to Part II. 
+
+Inspite of all these, I feel diffident. I am conscious of the depth of the GS on one hand and of my limitations on the other. Ag. is one of the greatest thinkers, mystics and scholar-writers of ancient India and he has written the GS in such a manner as to make it a painting-on-sky. (nabhaścitramiva) for those who are not initiated in the secret oral traditions of the Kashmir śaivism. At the same time my knowledge is limitted and I have not been initiated in the said tradition. Hence I am not sure whether I have entered the core of the GS and understood the heart of Ag, and whether I have chosen appro priate English words in the translation. However I have made sincere effort to do the job well. In my effort there are bound to be ommissions, commissions etc. For after fe eta gaifafralaar: (ch. XVIII, 48). I request the scholars (dosajñās) to forgive me for these lapses. I conclude 
+
+ऊनाधिकमविज्ञातं पौर्वापर्यविजितम् ।। यच्चावधानरहितं बुद्धेर् विस्खलितं च यत् ॥  
+हे विद्वांसः सर्वमिदं रहस्याविदुषो मम । क्षमध्वं कृपया यस्मात् भवन्तः करुणापराः ॥
+
+Note :-After the introduction was printed off I learnt that Dr. Aravinda Sarma of the Sydney University had brought out in 1983 his translation of the GS with an introduction. But this translation is not available to me.
+
 
 ## Acknowledgements
 
-OTER tri In 1977 Prof. K. Satchidananda Murti, lathe former learned Vice-Chanceller of Śrī Venkateswaran University was gracious enough to assign the work of editing and translating the GS. He rightly cau. tioned me not to take the work lightly. I took this as an advice given by a well-wishing teacher to his pet research student. Further he made use of his good offices to get me a copy of K which happens to be the basis of the present edition. Above all he, now the Hony. Professor, Dept. of Philosophy, Andhra University has been so kind as to adorn this edition with his scholarly Forword. For all his favour I am very much thankful to him. 
-monum \*\* Stofu 51001 TO 19. Prof. Santappa and Prof. M.V. Rama Sarma, Prof. G.N. Reddy the next three Vice-Chancellors of the University sanctioned funds for publishing the English Translation as well as the Sanskrit text of the GS. The present scholar Vice-Chancellor Prof. G.N. Reddy garu kindly enabled the publication to see the light of the day. I am immensely grateful to all these Vice-Chancellors who are scholars of repute. 
-ODGE Dr. Karan Singh, the former M.P. and the Philosopher - Maharaja of Kashmir was good enough to arrange to get me a photostat copy of K, Prof. R.N. Dandekar, Hon. Secretary of the Bhandarkar Oriental Research Institute, Poona, sent me with ho hesitation the manuscripts S and B for my study.o 
-11-8 
-lviii 
-श्रीमद्भगवद्गीता गोसार्थसंग्रहोपेता Dr. T. Venkatacharya, Sanskrit Professor, Toronto University, Canada, helped me quite unreservedly by acquiring and presenting me a copy of the costly book of Prof. R. Gnoli's Italian Translation of the GS. Mr. Hemaraj, a Belgian scholar kindly took the pain of explaining to me some of the passages from the Italian Translation. I am deeply indebted to ? all these scholars for their help.ro 
+In 1977 Prof. K. Satchidananda Murti, lathe former learned Vice-Chanceller of Śrī Venkateswaran University was gracious enough to assign the work of editing and translating the GS. He rightly cautioned me not to take the work lightly. I took this as an advice given by a well-wishing teacher to his pet research student. Further he made use of his good offices to get me a copy of K which happens to be the basis of the present edition. Above all he, now the Hon. Professor, Dept. of Philosophy, Andhra University has been so kind as to adorn this edition with his scholarly Forword. For all his favour I am very much thankful to him. 
 
-The members of Research Staff of the Oriental Research Institute, S.V. University, particularly my lamented friend Śrī Śrīnivasavaradan and Śrī Ananta narayana, Research Assistants in Sanskrit, assisted me in collating the readings of the Critical Apparatus and in preparing the press copy of the text. They all have also corrected proof pages and helped me in preparing the indices. Besides, the members of the Clerical Staff of the Institute have also put their efforts in more than one way in bringing out the volumes, I thank all these colleagues of mine for their coroperation. :v and to b 
-e As early as 1979 the press copies of the parts I and II were sent to the S.V. University Press for printing There had been many difficulties in bring ing out the volumes. In 1983, the Govt. of India, Dept. of Culture(Ministry of Education and Culture) was good enough to give the Oriental Research Institute S. V. University, financial assistance under its, scheme of preservation and publication of manut. scripts. We are grateful to the authorities of the Department concerned for this good gesture and to the authorities of the S.V. University for enabling us to get this grant. Then allowing the S.V. University 
-Introduction in 
-lix Press to continue the work of printing Part II, the press copy of Part I was withdrawn from that press and the work of printing the same was entrusted to the Elango Achukoodam, Madras, by the end of 1983. This Achukoodam has done its job, nicely. For this, I offer my sincere thanks to Śrī Maniyavan, Proprietor of this press. 
-My prayer is: a ratfot 989 AT fagsunta 
-S. Śaṅkaranarayanan 
+Prof. Santappa and Prof. M.V. Rama Sarma, Prof. G.N. Reddy the next three Vice-Chancellors of the University sanctioned funds for publishing the English Translation as well as the Sanskrit text of the GS. The present scholar Vice-Chancellor Prof. G.N. Reddy garu kindly enabled the publication to see the light of the day. I am immensely grateful to all these Vice-Chancellors who are scholars of repute. 
+
+Dr. Karan Singh, the former M.P. and the Philosopher - Maharaja of Kashmir was good enough to arrange to get me a photostat copy of K, Prof. R.N. Dandekar, Hon. Secretary of the Bhandarkar Oriental Research Institute, Poona, sent me with ho hesitation the manuscripts S and B for my study. 
+
+
+Dr. T. Venkatacharya, Sanskrit Professor, Toronto University, Canada, helped me quite unreservedly by acquiring and presenting me a copy of the costly book of Prof. R. Gnoli's Italian Translation of the GS. Mr. Hemaraj, a Belgian scholar kindly took the pain of explaining to me some of the passages from the Italian Translation. I am deeply indebted to all these scholars for their help.
+
+The members of Research Staff of the Oriental Research Institute, S.V. University, particularly my lamented friend Śrī Śrīnivasavaradan and Śrī Ananta narayana, Research Assistants in Sanskrit, assisted me in collating the readings of the Critical Apparatus and in preparing the press copy of the text. They all have also corrected proof pages and helped me in preparing the indices. Besides, the members of the Clerical Staff of the Institute have also put their efforts in more than one way in bringing out the volumes, I thank all these colleagues of mine for their coroperation. 
+
+As early as 1979 the press copies of the parts I and II were sent to the S.V. University Press for printing. There had been many difficulties in bringing out the volumes. In 1983, the Govt. of India, Dept. of Culture(Ministry of Education and Culture) was good enough to give the Oriental Research Institute S. V. University, financial assistance under its, scheme of preservation and publication of manutscripts. We are grateful to the authorities of the Department concerned for this good gesture and to the authorities of the S.V. University for enabling us to get this grant. Then allowing the S.V. University Press to continue the work of printing Part II, the press copy of Part I was withdrawn from that press and the work of printing the same was entrusted to the Elango Achukoodam, Madras, by the end of 1983. This Achukoodam has done its job, nicely. For this, I offer my sincere thanks to Śrī Maniyavan, Proprietor of this press. 
+
+My prayer is: सर्वे भद्राणि पश्यन्ति, मा कश्चिद् दुःखभाग् भवेत्।  
+S. Śaṅkaranarayanan   
 Oriental Research Institute Śrī Venkateswara University, Tirupati. 3rd May, 1985. 
 
 ## CORRECTIONS 
@@ -479,4 +537,5 @@ must have already been well Ivi
 indices Ivii 
 to assign to me the work 15 
 
-Foreword Note :-After the introduction was printed off I learnt that Dr. Aravinda Sarma of the Sydney University had brought out in 1983 his translation of the GS with an introduction. But this translation is not available to me.
+Foreword 
+
