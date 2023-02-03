@@ -361,11 +361,16 @@ title_english = "019 Tara s arrival at Vali in battlefield"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षेप्तारं पर्वतेन्द्राणां वज्राणामिव वासवम्।  
-महावातसमाविष्टं महामेघौघनिःस्वनम्॥ २२॥  
-शक्रतुल्यपराक्रान्तं वृष्ट्वेवोपरतं घनम्।  
-नर्दन्तं नर्दतां भीमं शूरं शूरेण पातितम्।  
-शार्दूलेनामिषस्यार्थे मृगराजमिवाहतम्॥ २३॥
+क्षेप्तारं पर्वतेन्द्राणां  
+वज्राणाम् इव वासवम्।  
+महावात-समाविष्टं  
+महामेघौघ-निःस्वनम्॥ २२॥  
+शक्र-तुल्य-पराक्रान्तं,  
+वृष्ट्वेवोपरतं घनम्।  
+नर्दन्तं नर्दतां भीमं  
+शूरं शूरेण पातितम्।  
+शार्दूलेनामिषस्यार्थे  
+मृगराजम् इवाहतम्॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -384,8 +389,16 @@ title_english = "019 Tara s arrival at Vali in battlefield"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अर्चितं सर्वलोकस्य सपताकं सवेदिकम्।  
-नागहेतोः सुपर्णेन चैत्यमुन्मथितं यथा॥ २४॥
+अर्चितं सर्वलोकस्य,  
+सपताकं सवेदिकम् …।  
+नाग-हेतोः सुपर्णेन  
+चैत्यम् उन्मथितं यथा॥ २४॥
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+A peculiar simile with an early allusion to temple worship in the rAmAyaNa.  
+vAlin felled by rAma is compared to chaitya equipped with flags & altars ravaged by an eagle in hunting a snake. Evidently, it implies a small shrine that a snake might seek as shelter & or for prey & the eagle chasing it damages the shrine going after it. Perhaps hard to picture unless one has seen something like that.
 </details>
 
 <details><summary>मूलम्</summary>

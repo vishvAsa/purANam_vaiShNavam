@@ -633,10 +633,19 @@ title_english = "018 Rama s elucidation of dharma to vali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यान्ति राजर्षयश्चात्र मृगयां धर्मकोविदाः।  
-तस्मात् त्वं निहतो युद्धे मया बाणेन वानर।  
-अयुध्यन् प्रतियुध्यन् वा यस्माच्छाखामृगो ह्यसि॥ ४०॥
+यान्ति राजर्षयश् चात्र  
+मृगयां धर्मकोविदाः।  
+तस्मात् त्वं निहतो युद्धे  
+मया बाणेन वानर।  
+अयुध्यन् प्रतियुध्यन् वा  
+यस्माच् छाखामृगो ह्य् असि॥ ४०॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+One of the aikShvAkava's justifications for killing vAlin. In the process, he mentions that hunting was practiced specifically by v2 R^iShi-s. Does this imply that only v2 R^iShi-s had the sanction to hunt? May be, though earlier vaidika texts indicate v1 R^iShi-s like gaurivIti shAktya of the vasiShTha clan hunted to obtain meat for the pashu-puroDhASha-s.
+</details>
+
 
 <details><summary>मूलम्</summary>
 

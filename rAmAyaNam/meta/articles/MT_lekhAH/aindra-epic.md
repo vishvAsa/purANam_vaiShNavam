@@ -75,8 +75,11 @@ There has been a lot of discussion about the deceitful killing of vAlin by rAma.
 > अहम् अन्तरिक्षे पौलोमान्  
 > पृथिव्यां कालकाञ्जान् ।  
 > तस्य मे तत्र न लोम चनामीयत ।
-> 
-> I guess a later day votary felt similarly about the slaying of vAlin as an Arya of yore might have felt when he heard the above shruti-vAkya-s: perhaps, even a sense of awe.
+
+
+I guess a later day votary felt similarly about the slaying of vAlin as an Arya of yore might have felt when he heard the above shruti-vAkya-s: perhaps, even a sense of awe.
+
+More precisely, there is a separate orthogonal element here. To establish the aindra nature of rAma, vAlmIki has him supersede the otherwise most powerful character in the epic vAlin (perhaps even most powerful in direct combat) who is the prior occupant of the aindra status.
 
 ## Multi-level interpretation
 ... I’ve said that an epic can be read at many levels
