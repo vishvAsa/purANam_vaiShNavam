@@ -5,10 +5,17 @@ title = "उपोद्घातः"
 BHAGVAD -GUNA-DARPANA  
 Commentary by Parasara Bhattarya on Vishnu Sahasranama  
 
-<details open><summary>मूलम्</summary>
+श्रीः श्रीपराशरभट्टार्यविरचितं भगवद्गुणदर्पणाख्यं श्रीविष्णुसहस्रनामभाष्यम्
 
-श्रीः श्रीपराशरभट्टार्यविरचितं भगवद्गुणदर्पणाख्यं श्रीविष्णुसहस्रनामभाष्यम् 
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
 
+वन्दे गोविन्द+++(=ऎम्बार्)+++-तातौ+++(=श्रीवत्साङ्कः)+++, मुनिम् अथ मनवै लक्ष्मणार्यं+++(=रामानुजं)+++, महान्तं+++(=पॆरिय-नम्बि)+++  
+ध्यायेयं, यामुनार्यं मम हृदि तनवै, रामम् +++(मिश्रम्)+++ एवाभियायाम् ।  
+पद्माक्षं प्रेक्षिषीय, प्रथमम् अपि मुनिं नाथम् ईडे, शठारिं  
+स्तौमि, प्रेक्षेय लक्ष्मीं, शरणम् अशरणः श्रीधरं संश्रयेयम् ॥ 1 ॥ +++(5 तिङन्तानि बहु रोचन्ते)+++
+</details>
+
+<details><summary>मूलम्</summary>
 
 वन्दे गोविन्दतातौ मुनिमथ मनवै लक्ष्मणार्यं महान्तं ध्यायेयं यामुनार्यं मम हृदि तनवै राममेवाभियायाम् ।  
 पद्माक्षं प्रेक्षिषीय प्रथममपि मुनिं नाथमीडे शठारिं स्तौमि प्रेक्षेय लक्ष्मीं शरणमशरणः श्रीधरं संश्रयेयम् ॥ 1 ॥ 
@@ -17,10 +24,20 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 
 <details><summary>English</summary>
 
-(1) My salutation to Govinda (Embar) and my father (Srivatsanka). I contemplate on Lakshmanarya (Sri Ramanuja) and meditate on Mahan (Peria Nambi). My mind be full of Yamunarya (Alavandar). I approach respectfully Ramamisra. May I see face to face Pundari- kaksha Acharya. I adore Natha- muni, the first of our Acharyas. My adorations and praises go to Satari (i.e., Nammazhvar). May I have a vision of Lakshmi. Helpless as I am I surrender myself unto Sridhara (i.e., the Lord of Lakshmi). (Thus, the Guru-parampara, the line of spiritual precepters, is extolled.)(Embar and Kurattazhvan are referred to by the dual, Govinda-Tatau, because both are the direct preceptors of Sri Parasara Bhatta and the disciples of Sri Ramanuja) 
+(1) My salutation to Govinda (Embar) and my father (Srivatsanka). I contemplate on Lakshmanarya (Sri Ramanuja) and meditate on Mahan (Peria Nambi). My mind be full of Yamunarya (Alavandar). I approach respectfully Ramamisra. May I see face to face Pundari- kaksha Acharya. I adore Natha-muni, the first of our Acharyas. My adorations and praises go to Satari (i.e., Nammazhvar). May I have a vision of Lakshmi. Helpless as I am I surrender myself unto Sridhara (i.e., the Lord of Lakshmi). 
+
+(Thus, the Guru-parampara, the line of spiritual precepters, is extolled.)(Embar and Kurattazhvan are referred to by the dual, Govinda-Tatau, because both are the direct preceptors of Sri Parasara Bhatta and the disciples of Sri Ramanuja) 
 </details>
 
-<details open><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+ओं नमो गजवक्त्राद्यैः  
+पारिषद्यैः प्रशासते ।  
+श्रीरङ्गराज-सेनान्ये  
+सूत्रवत्या समेयुषे ॥ 2 ॥ 
+</details>
+
+<details><summary>मूलम्</summary>
 
 ओं नमो गजवक्त्राद्यैः पारिषद्यैः प्रशासते ।  
 श्रीरङ्गराजसेनान्ये सूत्रवत्या समेयुषे ॥ 2 ॥ 
@@ -29,10 +46,22 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 
 <details><summary>English</summary>
 
-(2) Salutation to Vishvaksena, the commander-in-chief of Lord Sri Ranga, and who rules with his followers, such as Gajanana, and who is ever with Sutravati (his wife). (In the usual Guruparampara, Vishvaksena comes between Namm- azhwar and Lakshmi. Here, Vishvaksena gets a whole stanza to himself; his name was omitted in the previous stanza.) 
+(2) Salutation to Vishvaksena, the commander-in-chief of Lord Sri Ranga, and who rules with his followers, such as Gajanana, and who is ever with Sutravati (his wife). 
+
+(In the usual Guruparampara, Vishvaksena comes between Namm- azhwar and Lakshmi. Here, Vishvaksena gets a whole stanza to himself; his name was omitted in the previous stanza.) 
 </details>
 
-<details open><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+नमो नारायणायेदं  
+कृष्णद्वैपायनात्मने ।  
+यद्-आमुष्यायणा वेदाः  
+महाभारत-पञ्चमाः ॥ 3 ॥ 
+</details>
+
+
+
+<details><summary>मूलम्</summary>
 
 नमो नारायणायेदं कृष्णद्वैपायनात्मने ।  
 यदामुष्यायणा वेदाः महाभारतपञ्चमाः ॥ 3 ॥ 
@@ -44,7 +73,15 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 (3) Salutation to Narayana, who incarnated as Krishna Dvaipayana, to whom belong all the Vedas, with the Mahabharata which is the fifth Veda (because it is he that divided and made them available to the world). 
 </details>
 
-<details open><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+जातो लक्ष्मण-मिश्र+++(=रामानुज)+++-संश्रय-धनात् श्रीवत्स-चिह्नाद् ऋषेर्,  
+भूयो भट्टपराशरेति फणितः+++(=भणितः?)+++ श्रीरङ्ग-भर्त्रा स्वयम् ।  
+श्रीश्रीरङ्ग-पति-प्रसाद-तृषया श्रीरङ्ग-नाथाह्वयः  
+श्रीरङ्गेश्वर-कारितो विवृणुते नाम्नां सहस्रं हरेः ॥ 4 ॥ 
+</details>
+
+<details><summary>मूलम्</summary>
 
 जातो लक्ष्मणमिश्रसंश्रयधनात् श्रीवत्सचिह्नात् ऋषेः भूयो भट्टपराशरेति फणितः श्रीरङ्गभर्त्रा स्वयम् ।  
 श्रीश्रीरङ्गपतिप्रसादतृषया श्रीरङ्गनाथाह्वयः श्रीरङ्गेश्वरकारितो विवृणुते नाम्नां सहस्रं हरेः ॥ 4 ॥ 
@@ -56,10 +93,18 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 (4) Inspired by Rangesa and given the title of Parasara Bhatta by the lord of Sriranga Himself, I, the person named Ranganatha, the son of the sage, Srivatsanka, who (the said Srivatsanka) ever considered his discipleship under Ramanuja as a great treasure - I now proceed to comment on the (holy) Names of lord Hari, with a view to obtain the blessings of Lord Ranganatha and His Consort, Sri Laksmi. 
 </details>
 
-<details open><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+संसारोऽयम् अपण्डितो भगवति प्राग् एव भूयः कलौ  
+पूर्णं-मन्यतमे जने श्रुति-शिरो-गुह्यं ब्रुवे साहसात् ।  
+तत्र स्तोत्रम् इदं प्रकाशयति यः, स्तुत्यश् च यस् तावुभौ -  
+व्यासः, कारुणिको हरिश् च तद् इदं मौर्ख्यं सहेतां मम ॥ 5 ॥+++(4)+++ 
+</details>
+
+<details><summary>मूलम्</summary>
 
 संसारोऽयमपण्डितो भगवति प्रागेव भूयः कलौ पूर्णंमन्यतमे जने श्रुतिशिरोगुह्यं ब्रुवे साहसात् ।  
-तत्र स्तोत्रमिदं प्रकाशयति यः स्तुत्यश्च यस्तावुभौ व्यासः कारुणिको हरिश्च तदिदं मौर्ख्यं सहेतां मम ॥ 5 ॥ 
+तत्र स्तोत्रमिदं प्रकाशयति यः स्तुत्यश्च यस्तावुभौ व्यासः कारुणिको हरिश्च तदिदं मौर्ख्यं सहेतां मम ॥ 5 ॥
 </details>
 
 
@@ -68,23 +113,36 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 (5) In samsara (the world of recurring births and deaths) generally, there is already great ignorance about the Lord; more so in the Kaliyuga (the age of darkness and sin). And it is out of foolhardiness that I venture to speak to men who deem them- -selves perfect, of the secret of the Vedanta. May Vyasa who composed this hymn of praise, and the Merciful Lord Hari who is the object of praise there in - may they both bear with me for this folly. 
 </details>
 
-<details open><summary>मूलम्</summary>
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+अर्थे हरौ, तद्-अभिधायिनि नामवर्गे,  
+तद्-व्यञ्जके मयि च बन्ध-विशेषम् एत्य ।  
+सेवध्वम् एतद् अमृतं प्रणिपत्य याचे  
+मध्य-स्थ--मत्सरि--जना इह मा च भूवन् ॥ 6 ॥+++(5)+++ 
+</details>
+
+<details><summary>मूलम्</summary>
 
 अर्थे हरौ तदभिधायिनि नामवर्गे तद्व्यञ्जके मयि च बन्धविशेषमेत्य ।  
-सेवध्वम् एतदमृतं प्रणिपत्य याचे मध्यस्थमत्सरिजना इह मा च भूवन् ॥ 6 ॥ 
+सेवध्वम् एतदमृतं प्रणिपत्य याचे मध्यस्थमत्सरिजना इह मा च भूवन् ॥ 6 ॥
 </details>
 
 
 <details><summary>English</summary>
 
-(6) I prostrate and pray (to you, kind readers): please place faith in Lord Hari and the collection of his Names and feel kindly towards me who attempt to explain the Names, and drink this nectar. Let there be no indifference or enmity in the matter. (After the above preliminary and benedictory verses Parasara Bhatta proceeds with the preface to his Com- mentary.)
+(6) I prostrate and pray (to you, kind readers): please place faith in Lord Hari and the collection of his Names and feel kindly towards me who attempt to explain the Names, and drink this nectar. Let there be no indifference or enmity in the matter. 
+
+(After the above preliminary and benedictory verses Parasara Bhatta proceeds with the preface to his Com- mentary.)
 </details>
 
-## THE VALIDITY OF MAHABHARATA. LIKE RAMAYANA
+## श्रीरामायणवत् महाभारतस्य प्रामाण्यसमर्थनम्
+<details><summary>English</summary>
+THE VALIDITY OF MAHABHARATA. LIKE RAMAYANA
+</details>
 
 <details open><summary>मूलम्</summary>
 
-श्रीरामायणवत् महाभारतस्य प्रामाण्यसमर्थनम् इह खलु निखिलोऽपि चेतयमानः प्रमाणतः प्रमेयं परिच्छिन्दन्, तच्चेत् प्रमेयम् अनुकूलं तदुपाददीत, यथा स्रक्चन्दनकनकादिकम्; तच्चेत् विपरीतम् अपोहेत, यथा क्षुरकण्टकादिकम् ; तच्चेत्् अनुभयरूपम् उपेक्षेत, यथा काष्ठलोष्टादिकम् । तत्र प्रत्यक्षादिप्रमाणान्तरगोचरयोः अत्यल्पत्व-अनर्थकत्व-बीभत्स्यत्व-भङ्गुरत्व- दुःखमिश्रत्व-दुस्साधनत्वाद्यनन्त-दोषानुषङ्गेण त्याज्यत्वात् ; शास्त्रप्रमेययोः धर्मपरतत्त्वयोः तद्वैपरीत्यात् अनन्त-मङ्गल-सङ्गतत्वाच्च, शास्त्र-तदर्थयोः उपादेयत्वं प्रकृष्यते । यथा आहुः ऐतिहासिकाः पौराणिकाश्च एककण्ठाः- "सत्यं सत्यं पुनः सत्यम् उद्धृत्य भुजमुच्यते । वेदशास्त्रात् परं नास्ति न दैवं केशवात् परम् ॥" (भारत-भीष्म.?) इति । तत्र चतुर्दशविद्यास्थान-प्रधानभूतस्य वेदस्य "इतिहासपुराणाभ्यां वेदं समुपबृंहयेत् । बिभेत्यल्पश्रुताद्वेदो मामयं प्रतरिष्यति ॥ " (भार. 1.1.204) इति प्रकारेण इतिहासपुराणाभ्याम् अर्थे निर्णेतव्ये, पुराणेभ्यः इतिहासोत्कर्षे च विवक्षिते, श्रीमद्रामायणवत् महाभारतं शरणम् ॥ 
+इह खलु निखिलोऽपि चेतयमानः प्रमाणतः प्रमेयं परिच्छिन्दन्, तच्चेत् प्रमेयम् अनुकूलं तदुपाददीत, यथा स्रक्चन्दनकनकादिकम्; तच्चेत् विपरीतम् अपोहेत, यथा क्षुरकण्टकादिकम् ; तच्चेत्् अनुभयरूपम् उपेक्षेत, यथा काष्ठलोष्टादिकम् । तत्र प्रत्यक्षादिप्रमाणान्तरगोचरयोः अत्यल्पत्व-अनर्थकत्व-बीभत्स्यत्व-भङ्गुरत्व- दुःखमिश्रत्व-दुस्साधनत्वाद्यनन्त-दोषानुषङ्गेण त्याज्यत्वात् ; शास्त्रप्रमेययोः धर्मपरतत्त्वयोः तद्वैपरीत्यात् अनन्त-मङ्गल-सङ्गतत्वाच्च, शास्त्र-तदर्थयोः उपादेयत्वं प्रकृष्यते । यथा आहुः ऐतिहासिकाः पौराणिकाश्च एककण्ठाः- "सत्यं सत्यं पुनः सत्यम् उद्धृत्य भुजमुच्यते । वेदशास्त्रात् परं नास्ति न दैवं केशवात् परम् ॥" (भारत-भीष्म.?) इति । तत्र चतुर्दशविद्यास्थान-प्रधानभूतस्य वेदस्य "इतिहासपुराणाभ्यां वेदं समुपबृंहयेत् । बिभेत्यल्पश्रुताद्वेदो मामयं प्रतरिष्यति ॥ " (भार. 1.1.204) इति प्रकारेण इतिहासपुराणाभ्याम् अर्थे निर्णेतव्ये, पुराणेभ्यः इतिहासोत्कर्षे च विवक्षिते, श्रीमद्रामायणवत् महाभारतं शरणम् ॥ 
 </details>
 
 <details><summary>English</summary>
@@ -92,11 +150,14 @@ Commentary by Parasara Bhattarya on Vishnu Sahasranama
 We see in the world that any intelligent person, after having gained some knowledge of the objects of human pur- suit through the sources of knowledge (such as perception; in- ference etc. ). desires to enjoy the good things of life like flow- ers, sandal, gold, etc., to eschew things like knife, thorns, etc., which are unpleasant, and is indifferent to neutral things like a piece of wood or mud. Of these, the two purusharthas (objects desired by men) known as artha and kama (wealth and pleasure) are experienced by means of actual direct perception and inference. They are to be given up, because they are associated with innumerable imperfections like the following;- they are (1) petty, (2) lead to harmful conse- quences. (3) are disgusting, ( 4) are evanescent,(5) are mixed with distressful things, and (6) are not even easily obtainable. On the other hand, (the other two primary objects of human pur- suit), dharma (virtue) and paratattva (salvation) can be learnt only from the scriptures. These are opposed to the other two purusharthas (i.e. artha and kama) and are full of beneficent qualities. Therefore, the sastras (scriptures and works of reli- gious authority) and their teachings are to be preferred. As is proclaimed with one voice by those learned in the Itihasas (epic history) and the Puranas: "Truth, this is the Truth and again the Truth. This is procla- imed with hands uplifted that there is no sastra (authority) higher than the Vedas, no God higher than Kesava." As regards the V edas, the highest of the fourteen subjects of' study (vidyasthanas), they are to be understood in their fullest extent and scope through the ltihasas and Puranas. It is also said that "Veda trembles with fear at the sight of ignorant or half-learned persons, thinking, 'They will betray me' (by mis- interpretation):' Hence, it is clear that the understanding or interpretation of the Vedas can be done only through the study of the Itihasas and Puranas ; and of these two since the Puranas are mentio- ned subsequent to ltihasas, the Itihasas are more important. [This reasoning is arrived at according to rules of grammar . In a copulative (dvandva) compound, the word with less number of vowels must be mentioned first, except in that case where the thing denoted by the word with the larger number of vowels is preferred for some reason .] Hence, the Mahabharata, like the Ramayana, is the proper refuge for us (to understand the Vedas.)
 </details>
 
-## GREATNESS OF THE CHAPTER ON SAHASRANAMA
+## श्रीसहस्रनामाध्यायोत्कर्षसमर्थनम्
+<details><summary>English</summary>
+GREATNESS OF THE CHAPTER ON SAHASRANAMA
+</details>
 
 <details open><summary>मूलम्</summary>
 
-श्रीसहस्रनामाध्यायोत्कर्षसमर्थनम् तत्र --- महाभारतसारत्वात् ऋषिभिः परिगानतः । वेदाचार्यसमाहारात् भीष्मोत्कृष्टमतत्वतः ॥ परिग्रहातिशयतो गीताद्यैकार्थ्यतश्च नः । सहस्रनाम्नामध्याय उपादेयतमो मतः ॥ 
+तत्र --- महाभारतसारत्वात् ऋषिभिः परिगानतः । वेदाचार्यसमाहारात् भीष्मोत्कृष्टमतत्वतः ॥ परिग्रहातिशयतो गीताद्यैकार्थ्यतश्च नः । सहस्रनाम्नामध्याय उपादेयतमो मतः ॥ 
 </details>
 
 
@@ -186,7 +247,10 @@ Not only this. Even the Supreme Lord, Sri Krishna Himself (exhorted Dharmaraja t
 The venerable Narada also (said) : "He knows fully well all the dharmas of the four varnas (castes). Hence tell him all your doubts (and get them cleared)". Narada also praised Bhishma as one of great eminence who had attained the vision of God on account of his association with and service to great rishis and elders, and also by his life-long and uninterrupted observance of celibacy, penance and contemplation. He also blessed Bhishma and directed him to expound to the listeners not only the Ultimate Truth but also the dharmas and rules of conduct. Moreover, Bhishma has already received the bless- ings of his father and mother by his services to them. Bhishma himself said these words about his knowledge of the Supreme Truth: "O Govinda ! By The grace and The blessings, the heat of the body, doubts, weariness, languor, exhaustion, disease, have all vanished from me. I see like a fruit in the palm of my hand, the past, the present and the future. O Achyuta, ! By Thy gracious gift are present in my mind all the dharmas mentioned in the Vedas and laid down in the Vedantas. By Thy grace again, O Janardana, and by constant contemplation on Thee, I feel strong like a young man and I can expound the dharmas". Such a Bhishma introduced the subject of the Thousand Names in these words. "I consider this dharma as the highest of the dharmas," and expressed his view that the chanting of the Thousand Names was his greatest mata or creed of faith. 
 </details>
 
-## UNIVERSAL ACCEPTANCE OF THE SAHASRA NAMA
+## सर्वग्राह्यता
+<details><summary>English</summary>
+UNIVERSAL ACCEPTANCE OF THE SAHASRA NAMA
+</details>
 
 <details open><summary>मूलम्</summary>
 
@@ -210,7 +274,10 @@ The venerable Narada also (said) : "He knows fully well all the dharmas of the f
 Even ordinary poets and writers describe this hymn as a protective force. In the Kadambari, Bhatta Bana, when he describes a room used for confinement of women at child- birth, mentions it as a place where the recitation of Narayana's Thousand Names is incessantly going on. Also in this world, it is seen that the Thousand Names are accepted with faith, because many persons learn, memorise, hear, recite, sing, write, comment on and show respect to those versed in the Thousand Names for the purpose of getting rid of inauspicious and grievous troubles caused by poison, ghosts, diseases, planetary influence, bad dreams and omens. (The Thousand Names are also used) for expiating grievous sins, gaining prosperity both here and hereafter, loosening the knot of the bondage of samsara and attaining Paramapada , the supreme abode of Vishnu. Some use them for the mere delight derived through the recitation of the names, from tasting the nectar of His beneficent and auspicious qualities. So too this hymn acts as the only effective medicine for children, mutes, foolhardy persons, women and atheists. Even the Vedas are not accepted as readily by all persons as this hymn, for fools and such others will not accept the Vedas. Besides, this hymn is open to all; but not the Vedas, as they are divided into many divisions, each to be resorted to by particular families, clans or sects. Hence it can be said that the Thousand Names have the excellence of being accepted by all. 
 </details>
 
-## BECAUSE OF ITS CONFORMITY WITH THE GITA ETC.
+### गीताद्यैकार्थता
+<details><summary>English</summary>
+BECAUSE OF ITS CONFORMITY WITH THE GITA ETC.
+</details>
 
 <details open><summary>मूलम्</summary>
 
@@ -267,7 +334,10 @@ We have already mentioned :- "An intelligent person should first examine the pra
 Since the means (upaya) is required only for the purpose of gaining the end (upeya) and the end is therefore more important, the question in the first instance is about the upeya. Such upeya is dealt with by the sastras in two ways: one as the supreme tattva (Truth) and the other as the supreme goal to be reached. The question therefore covers both the aspects. First, Yudhishthira asks about the Supreme Reality. 
 </details>
 
-## QUESTION ABOUT THE SUPREME REALITY
+## किमेकं दैवतं लोके
+<details><summary>English</summary>
+QUESTION ABOUT THE SUPREME REALITY
+</details>
 
 <details open><summary>मूलम्</summary>
 
@@ -280,11 +350,14 @@ Since the means (upaya) is required only for the purpose of gaining the end (upe
 Yudhishthira said: (2) Who is the One (Supreme) Deity according to the sastras ? What is the one Supreme Goal? (3) By reciting which mantra is a man released from bonds of birth and samsara? According to the 'sastras' :- This phrase is to be taken along with each one of the questions. "Considered by you as the best" :- This phrase (in the third stanza) is to be taken to link up with the previous stanza also, according to the simha-avalokana-nyaya - the maxim of the lion turning back to have a look. That is, this must be taken to qualify each one of the questions, of course, making the necessary changes in the case-inflections (of the nouns). Loke :- The word in the original, loka, means the thing by which we see, i.e., the body of sastras, consisting of sruti, smriti, etc. (Because only the sastras can teach us about the gods). The One (Ekam):- That which has none superior to or equal to itself. This is inferable from the later passages, "Of Him who is the greatest in the world" and "He who is the great, supreme splendour", which answer the question. This word is used here not to denote an individual or its number, because this is always inferable from the form of the word daivatam, which consists of the nominal stem (pratipadika) and the suffix indicating the singular. Then, the word One would become superfluous. Besides, if there is any deity not indicated as one and not possessing an individuality, the word One may perhaps be used. Since there is no such deity who is without individuality or is manifold, the word One must have its distinctive meaning as stated above. Moreover, it cannot be the attribute of any (deity), since in the answer to the question, there is nothing referring to One as number. Deity (daivatam):- That which possesses qualities like brightness, etc., peculiar to the Rulership of the Universe. The question, therefore, is: "Which is that Deity, which you conider as the Deity spoken of as the best in the sastras which reveal the ultimate truths?" Doubts arise on account of difference even in the minds of persons who believe that one Supreme God (i.e., one possessing all the qualities required for the Rulership of the Uni- verse) is taught in the various sastras and philosophies. These doubts are as to whether such qualities of Supreme lordship as, unlimited Knowledge and powers arise with reference to a particular modification of the unreal, evolving under the limiting adjunct of Maya, Vivarta, Parinama, Visesha etc. or whether rulership over all is natural (to any deity). Specifically also the question arises as to whether Hari (Vishnu) or Hara (Siva) or Hiranyagarbha (Brahma) is the Supreme Deity, because in the sastras such qualities (of Rulership, etc.) are ascribed to them indiscriminately both individually and in common. Hence the question is in the form: "Which is the Supreme Deity?"
 </details>
 
-## QUESTION ABOUT THE SUPREME GOAL
+## परमोपेयप्रश्नः
+<details><summary>English</summary>
+QUESTION ABOUT THE SUPREME GOAL
+</details>
 
 <details open><summary>मूलम्</summary>
 
-परमोपेयप्रश्नः फलशास्त्रेषु मोक्षे तावत् स्वरूप-अविद्या-विशेष- वैशेषिकगुणोच्छेद-परमात्म-साधर्म्य-तद्गुणसंक्रान्ति-तच्छायापत्ति- आनन्दादि-स्वरूपाविर्भावमात्र-तत्कैङ्कर्याविर्भावादि-लक्षण- विप्रतिपत्ति-दर्शनात् सन्दिहानः परममुपेयं पृच्छति - किं वाऽपि एकं परायणम् इति । 'दैवतम्' 'परायणम्' इत्यादि किम् अन्यदन्यत् उपदिश्यते, उत तत्तदवस्थामात्र-भेदेन एकमेव इति विवेक्तुम् वा अपि इति निपातद्वयम् । एकम् इति पूर्ववत् । परम् - निर्दोषनिरतिशयमङ्गलस्वभावतया उत्कृष्टतमम् । अयनम् - प्राप्यम् । ऐ हिकामुष्मिकेषु पुरुषाभिलषणीयेषु कः परमपुरुषार्थो भवतोऽभिमतः इति । एवम् उपेयं द्विधा पृष्टम् ॥
+फलशास्त्रेषु मोक्षे तावत् स्वरूप-अविद्या-विशेष- वैशेषिकगुणोच्छेद-परमात्म-साधर्म्य-तद्गुणसंक्रान्ति-तच्छायापत्ति- आनन्दादि-स्वरूपाविर्भावमात्र-तत्कैङ्कर्याविर्भावादि-लक्षण- विप्रतिपत्ति-दर्शनात् सन्दिहानः परममुपेयं पृच्छति - किं वाऽपि एकं परायणम् इति । 'दैवतम्' 'परायणम्' इत्यादि किम् अन्यदन्यत् उपदिश्यते, उत तत्तदवस्थामात्र-भेदेन एकमेव इति विवेक्तुम् वा अपि इति निपातद्वयम् । एकम् इति पूर्ववत् । परम् - निर्दोषनिरतिशयमङ्गलस्वभावतया उत्कृष्टतमम् । अयनम् - प्राप्यम् । ऐ हिकामुष्मिकेषु पुरुषाभिलषणीयेषु कः परमपुरुषार्थो भवतोऽभिमतः इति । एवम् उपेयं द्विधा पृष्टम् ॥
 </details>
 
 
@@ -293,11 +366,14 @@ Yudhishthira said: (2) Who is the One (Supreme) Deity according to the sastras ?
 The second question is: "Which is the supreme goal of attainment?" This question is propounded because there are conflicting opinions in sastras dealing with the ultimate benefit as to what is moksha (salvation) and what happens at that stage, such as whether (i) the atman perishes in moksha, or (ii) Nescience covering the atman is dispelled, or (iii) the qualities of the atman perish, leaving the atman alone to exist (Vaiseshika), or (iv) equality with the Paramatman is.attained, or (v) there is acquisition of the quality of the Paramatman, or (vi) the status of being a shadow of the Paramatman is attained, or (vii) the acquisition is only of the essential nature of bliss, etc., or (viii) a status of continuous service to the Lord is attained. In the original text, the words used in connection with the goal are "Kim va api ekam parayanam". Here va is a syllable denoting alternatives, and api conveys a conjunctive sense. Therefore, it is to be understood from this that the questioner wants to know whether the Deity to be determined as the Supreme One is different from the goal to be reached or whether such Deity is itself the goal to be attained. Or again, it may be said that the questioner wants to know whether the benefit (Moksha) to be enjoyed is the same for all or different in each particular case. Goal (Param Ayanam): all-beneficent and free from imperfection, hence, the Highest. Therefore, the question is: "What is considered by you as the highest goal desired by a person out of the very many desires relating to this world or the next?" Thus is the twofold question about upeya, the goal.
 </details>
 
-## THE QUESTION ABOUT THE MEANS (ALREADY EXISTENT)
+## लघु-अलघूपाय-साध्य-सिद्धोपाय-प्रश्नः
+<details><summary>English</summary>
+THE QUESTION ABOUT THE MEANS (ALREADY EXISTENT)
+</details>
 
 <details open><summary>मूलम्</summary>
 
-लघु-अलघूपाय साध्य सिद्धोपाय प्रश्नः अथ उपायः तत्तच्छास्त्रेषु कर्म-ज्ञान-भक्तियोगानां विकल्प- समुच्चय-अङ्गाङ्गि-भावादि-विवादात् संशयानेन प्रष्टव्यः । स च सिद्धः साध्यः सालंबनरूपश्च । सिद्धस्तु आराध्यमानतया फलप्रदा देवता । तां च लघ्वलघूपाय-साध्यतया द्वेधा विभज्य पृच्छति - स्तुवन्तः कम् इत्यर्धेन । स्तुवन्तः कं कमर्चन्तः प्राप्नुयुर्मानवाः शुभम् ॥ 2 ॥ कं स्तुवन्तः -- गुणसंकीर्तनमात्रेण आराधयन्तः, कम् अर्चन्तः - उपासनरूपया भक्त्या परमं पूजनं कुर्वन्तः । मानवाः - मनुष्यत्वमात्र-परिकराः । शुभं -- द्विविधम् अभ्युदय-निःश्रेयसरूपम् । प्राप्नुयुः ॥
+अथ उपायः तत्तच्छास्त्रेषु कर्म-ज्ञान-भक्तियोगानां विकल्प- समुच्चय-अङ्गाङ्गि-भावादि-विवादात् संशयानेन प्रष्टव्यः । स च सिद्धः साध्यः सालंबनरूपश्च । सिद्धस्तु आराध्यमानतया फलप्रदा देवता । तां च लघ्वलघूपाय-साध्यतया द्वेधा विभज्य पृच्छति - स्तुवन्तः कम् इत्यर्धेन । स्तुवन्तः कं कमर्चन्तः प्राप्नुयुर्मानवाः शुभम् ॥ 2 ॥ कं स्तुवन्तः -- गुणसंकीर्तनमात्रेण आराधयन्तः, कम् अर्चन्तः - उपासनरूपया भक्त्या परमं पूजनं कुर्वन्तः । मानवाः - मनुष्यत्वमात्र-परिकराः । शुभं -- द्विविधम् अभ्युदय-निःश्रेयसरूपम् । प्राप्नुयुः ॥
 </details>
 
 
@@ -306,11 +382,14 @@ The second question is: "Which is the supreme goal of attainment?" This question
 Then about the upaya. The question about the upaya (means) arises because there are disputes as to whether karma yoga, jnana yoga and bhakti yoga are alternative means or are to be adopted together or whether one or other among them is to be treated as the principal and the rest as subsidiaries. Again, the means are divided into three kinds; siddha, sadhya and salambana. The siddha upaya is one that is already existing, such as God, who, being worshipped, grants favours. This Deity may be worshipped in two ways - laghu (easy) or alaghu (difficult). Therefore the question is put in the said two ways by this half stanza: Praising whom or worshipping whom, will men attain the good? The question is about the deity worshipped, i. e., 'praised and worshipped'. Praising: reciting in praise the several auspicious qualities of the Deity. Worshipping:- carrying out supreme worship by means of bhakti (devotion) in the form of meditation . Men:- those possessing the only qualification of being a human being (irrespective of caste, creed, etc.) The good: -- This is of two kinds, relating to prosperity in this world or bliss in the next. (All this relates to the siddhopaya).
 </details>
 
-## QUESTION ABOUT, MEANS TO BE PRACTISED
+## परमसाध्योपायप्रश्नः
+<details><summary>English</summary>
+QUESTION ABOUT, MEANS TO BE PRACTISED
+</details>
 
 <details open><summary>मूलम्</summary>
 
-परमसाध्योपायप्रश्नः अथ साध्यः वाङ्मनः-काय-निष्पाद्य-जपध्यानार्चनप्रभृतिः देवतावर्जनात्मको धर्मः । तत्र परमं पृच्छति - को धर्मः इति । को धर्मः सर्वधर्माणां भवतः परमो मतः ?। उक्तलक्षणानां सर्वधर्माणां मध्ये, परमः -- निस्तुल्याधिकः, को भवतः, अभिमतः -- सुनिश्चित्य आपद्धनवत् स्वीकृतः ? 
+अथ साध्यः वाङ्मनः-काय-निष्पाद्य-जपध्यानार्चनप्रभृतिः देवतावर्जनात्मको धर्मः । तत्र परमं पृच्छति - को धर्मः इति । को धर्मः सर्वधर्माणां भवतः परमो मतः ?। उक्तलक्षणानां सर्वधर्माणां मध्ये, परमः -- निस्तुल्याधिकः, को भवतः, अभिमतः -- सुनिश्चित्य आपद्धनवत् स्वीकृतः ? 
 </details>
 
 <details><summary>English</summary>
@@ -318,11 +397,14 @@ Then about the upaya. The question about the upaya (means) arises because there 
 Next, the sadhyopaya, i e., the means to be adopted, with the help of speech, mind and body for gaining the grace of the Deity, such as repeating prayers, meditation, Worship with offerings of flowers, etc. Which of them is the best? This is the question propounded in the phrase, "Ko dharmah", etc. What Dharma is considered by you as the best of Dharmas? Best:-with no equal or a superior. considered (Matah) (determined by you after full examination as the ultimate refuge and adopted by you) like wealth set apart for use in exigencies (apat-dhana).
 </details>
 
-## QUESTION ABOUT THE MEANS THAT STANDS IN NEED OF A SUPPORT
+## वाचिकजपालंबनप्रश्नः
+<details><summary>English</summary>
+QUESTION ABOUT THE MEANS THAT STANDS IN NEED OF A SUPPORT
+</details>
 
 <details open><summary>मूलम्</summary>
 
-वाचिकजपालंबनप्रश्नः अथ सालंबनेषु स्तोत्र-मन्त्र-शुभाश्रय-गंध-पुष्पाद्युपकरणेषु वाचिकजपालंबनं पृच्छति -- किं जपन् इति । किं जपन् मुच्यते जन्तुः जन्मसंसार बन्धनात् ॥ 3 ॥ नियमविशेषवन्मन्त्राद्यावर्तनं जपः । "जप्येनैव तु संसिध्येत् ब्राह्मणो नात्र संशयः । कुर्यादन्यत् न वा कुर्यात् मैत्रो ब्राह्मण उच्यते ॥" (मनु 2-87) "द्रव्ययज्ञात् जपो यज्ञो विशिष्टो दशभिर्गुणैः ।" (मनु 2-85) "यज्ञानां जपयज्ञोऽस्मि" (गीता 10-25) इति जपश्रैष्ठ्यात् मानस- कायिकविषयौ न पृच्छ्येते । जन्तुः - जनन धर्मा । जन्म-संसारबन्धनात् - जन्म इति जरामरणगर्भ-निरययातनादिः संसारस्य कार्यवर्गः प्रदर्श्यते । संसार इति च अविद्या- कर्म-वासना-रुचि-प्रकृति संबन्धरूपः कारणवर्गः । ताम्यां बन्धनं - परमपदप्राप्तिबन्धः । तस्मात् मुच्यते । इदं च सर्वफलोपलक्षणम् जपादेः सकलफलसाधनत्वस्य वक्ष्यमाणत्वात् । तत्र 'अशेषेण' सर्वशः इत्युपक्रमेण 'लोके मानवाः शुभम्' इत्यादिविशेषणैश्च काल-अधिकारि-अङ्ग-फल-प्रकार-विशेषाः अपि प्रकृष्टाः प्रष्टव्यतया सूचिताः ॥
+अथ सालंबनेषु स्तोत्र-मन्त्र-शुभाश्रय-गंध-पुष्पाद्युपकरणेषु वाचिकजपालंबनं पृच्छति -- किं जपन् इति । किं जपन् मुच्यते जन्तुः जन्मसंसार बन्धनात् ॥ 3 ॥ नियमविशेषवन्मन्त्राद्यावर्तनं जपः । "जप्येनैव तु संसिध्येत् ब्राह्मणो नात्र संशयः । कुर्यादन्यत् न वा कुर्यात् मैत्रो ब्राह्मण उच्यते ॥" (मनु 2-87) "द्रव्ययज्ञात् जपो यज्ञो विशिष्टो दशभिर्गुणैः ।" (मनु 2-85) "यज्ञानां जपयज्ञोऽस्मि" (गीता 10-25) इति जपश्रैष्ठ्यात् मानस- कायिकविषयौ न पृच्छ्येते । जन्तुः - जनन धर्मा । जन्म-संसारबन्धनात् - जन्म इति जरामरणगर्भ-निरययातनादिः संसारस्य कार्यवर्गः प्रदर्श्यते । संसार इति च अविद्या- कर्म-वासना-रुचि-प्रकृति संबन्धरूपः कारणवर्गः । ताम्यां बन्धनं - परमपदप्राप्तिबन्धः । तस्मात् मुच्यते । इदं च सर्वफलोपलक्षणम् जपादेः सकलफलसाधनत्वस्य वक्ष्यमाणत्वात् । तत्र 'अशेषेण' सर्वशः इत्युपक्रमेण 'लोके मानवाः शुभम्' इत्यादिविशेषणैश्च काल-अधिकारि-अङ्ग-फल-प्रकार-विशेषाः अपि प्रकृष्टाः प्रष्टव्यतया सूचिताः ॥
 </details>
 
 
@@ -331,7 +413,10 @@ Next, the sadhyopaya, i e., the means to be adopted, with the help of speech, mi
 Next, as to Salambana Upaya, the means depending on aids such as the things or articles used for worship like Mantras to be repeated, flowers, incense (as also auspicious ob- jects of meditation like the idol or the figure of God). Of these, the question relates to the oral basis of japam (the mantra to be recited) by the words, Kim japan. By reciting which Mantra is a man released from bonds of birth and Samsara? Japa is repetitive recitation of a mantra, accompanied by prescribed rites, etc. Manu (11.87) says: "A Brahmin can attain anything only by japa. There is no doubt about it. Whether he does anything else or not it does not matter. For a person doing japa is friendly to all (but a person performing a sacrifice has to do cruel acts, such, as killing a goat, horse, etc.). Hence, he is the real Brahmin." Again, he says (11.85): "Japa-Yagna is ten times more effective than dravya Yajna, (sacrifice conducted with the help of articles.). In the Gita (X. 25) also, Sri Krishna says: "Of all Yajnas I am the japa-yajna." Thus among the actions of three kinds done by the mind, speech and body, japa is superior and the question here is only about the japa which is to be done by word of mouth - not about others which are to be performed either by the mind or by the body. Man (jantu) : anyone who has the characteristic of being born. ( Man is born only for the worship of the Lord) . Bonds of birth and samsara:- By birth is denoted, old age, death, the womb and tortures in hell, etc. which, result from the life in this world. Samsara denotes ignorance, the latent impressions from the sins or merits of one's actions, inclinations, desires and the contact with prakriti (matter): all these form the reasons or causes for the bondage (in the form of birth). Bonds (bandhana):- These are obstructions to the attainment of salvation. Released (Muchyate): Here the reference is only to moksha, the ultimate release: but from the trend of answers given, that the japa is the sadhana for all kinds of benefits. It must be taken that the question relates to all kinds of phalas (benefits). From the use of the words, loke (scripture), aseshena (in entirety), sarvasah (in full), and manavah (persons) it is clear that Yudhishthira has heard all things relating to dharmas, such as the seasons for performance, the qualification of the performer, the divisions and subsidiaries of actions and the benefits which are superior. So also he wants .all such information in respect of the dharma considered best by Bhishma.
 </details>
 
-## REPLY ABOUT JAPA AMONGST THE VARIOUS MEANS
+### जपालंबनप्रतिवचनम्
+<details><summary>English</summary>
+REPLY ABOUT JAPA AMONGST THE VARIOUS MEANS
+</details>
 
 <details open><summary>मूलम्</summary>
 
@@ -355,11 +440,15 @@ These six questions are answered by Bhishma not in their order, but sometimes in
 Thus in the Taittiriya Upanishad (1.7): '"When for security (from fear of samsara) a devotee stands firm in the Lord, who is unseeable, bodiless, indescribable and needing no support, he obtains that security. But one who breaks away from the Lord (in his meditation) suffers from fears of samsara." This is explained in the Smriti also thus: The fact that Vasudeva is absent in the mind (contemplation) of a person even for a Muhurta or a second is a big loss, gives wide room (for bad things), results in perverse thoughts and wicked actions." Also: "Sitting in a cage made of the flames of fire is preferable to the torment suffered by associating with persons who have turned away from the thoughts of the Lord." Again "Even if one moment is lost without thoughts of the Lord one should weep, as though he has been robbed (of wealth) by thieves."
 </details>
 
-## THE SUPREME OBJECT OF WORSHIP
+### अर्च्यतमत्वावधारणम्
+<details><summary>English</summary>
+THE SUPREME OBJECT OF WORSHIP
+</details>
 
 <details open><summary>मूलम्</summary>
 
-जपालंबन विषयस्यैव अर्च्यतमत्वावधारणम् अर्चनस्तवनयोरेव परमधर्मत्वेन विवक्षितत्वात् धर्मविषयं पञ्चमं प्रश्नमुल्लंघ्य, प्रथमम् अर्चनीय-स्तोतव्यविषयौ चतुर्थंतृतीयौ प्रतिवदन्, अर्च्यतमं तावत् सार्चनाप्रकारमाह - तमेव इति यजमान इत्यन्तेन ॥ तमेव चार्चयन् नित्यं भक्त्या पुरुषमव्ययम् । ध्यायन् स्तुवन् नमस्यंश्च यजमानस्तमेव च ॥ 5 ॥ उक्तजपालंबनविषय एव अर्च्यतमोऽपि इत्यवधारयति - तमेव च इति । यथाहुः - "तमिमं सर्वसंपन्नम् आचार्यं पितरं गुरुम् । अर्च्यमर्चितुम् इच्छामः सर्वे संमन्तुमर्हथ ॥" (भारत सभा) "तस्मात् पूज्यतमं नान्यत् अहं मन्ये जनार्दनात् । " (भारत सभा) "ब्रह्माणं शितिकण्ठं च याश्च अन्या देवताः स्मृताः । प्रतिबुद्धा न सेवन्ते यस्मात् परिमितं फलम् ॥" (भा.मो.342.36) इत्यादि; "अन्तवत्तु फलं तेषाम्" (गीता 7.23) इति च ॥ पुरुषम् -- पुण्डरीकाक्षम् । अव्ययम् - सदा अनुभवेऽपि अनुरूपाक्षयोत्तरोत्तरगुणसंस्तवम् । अर्चयन् - तत्परिचरणरूपं भक्तियोगमुपाददानः अधिकारी । नित्यम् - "मच्चित्ताः मद्गतप्राणाः" (गीता 10.9) इति प्रक्रियया अन्यथा क्षणमपि स्थातुम् अशक्नुवन् । कथमर्चयन् ? भक्त्या - स्वामिनि दासस्य अनुरागमयी स्थितिः भक्तिः; तया इत्थंभूतः । पुनश्च कथम् ? ध्यायन् - मानसम् अविच्छिन्नामृतधाराकारं निःशेषसंसार-तापत्रय-निर्वापणभगवद्गुणचिन्तनं कुर्वन् । पुनश्च कथम् ? स्तुवन् - वाचिकं च तादृशं तदनुभवजन्यहर्षप्रकर्ष-पुलकितशरीरं बाष्पगद्गदकण्ठं तदुगुणसंकीर्तनं समीहमानः । पुनश्च कथम् ? नमस्यन् - अत्यन्तं प्रह्वीभवन् । भक्तिपराधीनतया बाह्यान्तरसकलकरणैः निर्ममत्वावनम्रैः आत्मीयैः शरीरेण वचसा च सह 'सर्वं मदीयं त्वदीयं त्वमेव गृहाण' इति भगवत्पादपद्मयोः आत्मानम् अहंमान-मलीमसं समर्पयन् इत्यर्थः । पुनश्च कथम् ? यजमानः देवपूजनमाचरन् । स्वविषयीकार- महोपकारानुरूप-प्रत्युपकारादर्शन-भुवा संभ्रमेण अकृत्रिम-भक्त्युपहृत- प्रयतमनोहर-अर्घ्य-पुष्प-मधुपर्कप्रभृति-औपचारिक-सांस्पर्शिक- आभ्यवहारिकरूप-भोगानुरूप- भोगानुपूर्व्या देवसमाराधनम् असाधारणम् अत्यन्तम् आदरेण कुर्वाणः इत्यर्थः । एवं वृत्तः 'सर्वदुःखातिगो भवेत्' इति ॥
+जपालंबन-विषयस्यैव अर्च्यतमत्वावधारणम्  
+अर्चनस्तवनयोरेव परमधर्मत्वेन विवक्षितत्वात् धर्मविषयं पञ्चमं प्रश्नमुल्लंघ्य, प्रथमम् अर्चनीय-स्तोतव्यविषयौ चतुर्थंतृतीयौ प्रतिवदन्, अर्च्यतमं तावत् सार्चनाप्रकारमाह - तमेव इति यजमान इत्यन्तेन ॥ तमेव चार्चयन् नित्यं भक्त्या पुरुषमव्ययम् । ध्यायन् स्तुवन् नमस्यंश्च यजमानस्तमेव च ॥ 5 ॥ उक्तजपालंबनविषय एव अर्च्यतमोऽपि इत्यवधारयति - तमेव च इति । यथाहुः - "तमिमं सर्वसंपन्नम् आचार्यं पितरं गुरुम् । अर्च्यमर्चितुम् इच्छामः सर्वे संमन्तुमर्हथ ॥" (भारत सभा) "तस्मात् पूज्यतमं नान्यत् अहं मन्ये जनार्दनात् । " (भारत सभा) "ब्रह्माणं शितिकण्ठं च याश्च अन्या देवताः स्मृताः । प्रतिबुद्धा न सेवन्ते यस्मात् परिमितं फलम् ॥" (भा.मो.342.36) इत्यादि; "अन्तवत्तु फलं तेषाम्" (गीता 7.23) इति च ॥ पुरुषम् -- पुण्डरीकाक्षम् । अव्ययम् - सदा अनुभवेऽपि अनुरूपाक्षयोत्तरोत्तरगुणसंस्तवम् । अर्चयन् - तत्परिचरणरूपं भक्तियोगमुपाददानः अधिकारी । नित्यम् - "मच्चित्ताः मद्गतप्राणाः" (गीता 10.9) इति प्रक्रियया अन्यथा क्षणमपि स्थातुम् अशक्नुवन् । कथमर्चयन् ? भक्त्या - स्वामिनि दासस्य अनुरागमयी स्थितिः भक्तिः; तया इत्थंभूतः । पुनश्च कथम् ? ध्यायन् - मानसम् अविच्छिन्नामृतधाराकारं निःशेषसंसार-तापत्रय-निर्वापणभगवद्गुणचिन्तनं कुर्वन् । पुनश्च कथम् ? स्तुवन् - वाचिकं च तादृशं तदनुभवजन्यहर्षप्रकर्ष-पुलकितशरीरं बाष्पगद्गदकण्ठं तदुगुणसंकीर्तनं समीहमानः । पुनश्च कथम् ? नमस्यन् - अत्यन्तं प्रह्वीभवन् । भक्तिपराधीनतया बाह्यान्तरसकलकरणैः निर्ममत्वावनम्रैः आत्मीयैः शरीरेण वचसा च सह 'सर्वं मदीयं त्वदीयं त्वमेव गृहाण' इति भगवत्पादपद्मयोः आत्मानम् अहंमान-मलीमसं समर्पयन् इत्यर्थः । पुनश्च कथम् ? यजमानः देवपूजनमाचरन् । स्वविषयीकार- महोपकारानुरूप-प्रत्युपकारादर्शन-भुवा संभ्रमेण अकृत्रिम-भक्त्युपहृत- प्रयतमनोहर-अर्घ्य-पुष्प-मधुपर्कप्रभृति-औपचारिक-सांस्पर्शिक- आभ्यवहारिकरूप-भोगानुरूप- भोगानुपूर्व्या देवसमाराधनम् असाधारणम् अत्यन्तम् आदरेण कुर्वाणः इत्यर्थः । एवं वृत्तः 'सर्वदुःखातिगो भवेत्' इति ॥
 </details>
 
 
@@ -436,11 +525,14 @@ The Supreme Dharma ; Now, Bhishma proceeds to answer the 5th question. (8) This 
 So the venerable Vyasa says: "Those distressed, afflicted or enfeebled and those under fear or suffering from terrible diseases - all these, by mere uttering of the word 'Narayana'' are relieved of grief and become happy." In the Vishnu Purana, it is said: ''If one utters the Name even unconsciously ..." So also in the Vishnu Dharma: "Consciously or unconsciously if a man utters the (holy) Name of Vasudeva, all that (i.e., every sin commited wittingly or unwittingly) becomes dissolved like salt in water". Again, in the same work: "Water is sufficient to put out fire; sunrise dispels darkness; (so also) recitation of the Name of Hari extinguishes a multitude of sins of kaliyuga." So also the passages (in the same work): "By recitation of His Name, a person is saved"; "By recitation of His Name, a person is released from great fear" ; "One who utters once the two syllables of the name of 'Hari' has (thereby) packed his luggage to go to moksha" : "A person who remember His Name, attains after his death the highest world of Vishnu, hence there is no return to this world" ; "This utterance of the names, 'Achyuta'. 'Ananta' and 'Govinda', acts as an effective medicine to cure all diseases, This is true, this is true, I say". Elsewhere also: "Utter the name of Jagannatha or recite the Vedas. (They are equally efficacious)," In the Vishnu Sukta: "Those, who understand the holy Names as being the most distinguished and utter them, become fixed (in Vaikunta), without return to this world". Worship: This indicates that this dharma is of the form of serving a particular Supreme Being and that it is not very much beyond direct experience. In the Gita (IX. 2), it is said: penance and pilgrimage are pleasing to God is known only from faith in sastras (land is not directly seen); but, in the case of the stotra (or praise) we see from direct experience that it ought to be pleasing.
 </details>
 
-## THE ELIGIBILITY OF ALL CLASSES FOR WORSHIP (ARCHANA)
+## अर्चनादेः सर्ववर्णाधिकारता
+<details><summary>English</summary>
+THE ELIGIBILITY OF ALL CLASSES FOR WORSHIP (ARCHANA)
+</details>
 
 <details open><summary>मूलम्</summary>
 
-अर्चनादेः सर्ववर्णाधिकारता नरः इति प्रायेण सर्वचेतनानां यथासंभवम् अथिकारं सूचयति । एकवचनं च महायागादि-बहुसहकारि- नैरपेक्ष्यपरम् । निन्द्य-गुणवृत्त-जन्मनामपि भक्त्यभिरुचिमात्र-महागुणेन अकुतोभयं भजनीयो हि भगवान् ॥ अथ क्षिप्रमेव भागीरथीप्रवाहेनेव निर्णिक्त-कल्मषरुचिः परमधार्मिको भवतीति गीयते । गुणविषये तावत् "समोऽहं सर्वभूतेषु"; वृत्तविषयेषु च (गीता 9.29) "अपि चेत् सुदुराचारः"; जन्मविषयेऽपि (गीता 9.30) "मां हि पार्थ! व्यपाश्रित्य येऽपि स्युः पापयोनयः" इत्यादि । (गीता 9.32) । न च एतावता दुराचारादेः धर्मत्वम् । "नाविरतो दुश्चरितात् नाशान्तो नासमाहितः" (कठ 12.23) "अप्राप्यः केशवो राजन् इन्द्रियैरजितैः नृणाम्" इत्येवंप्रकारवचनेभ्यः तस्य भगवदनिष्टत्वेन अधर्मत्वावगमात् । अत एव अनन्तरमाह "क्षिप्रं भवति धर्मात्मा" इति (गीता 9.31) । सर्वाश्रमिणाम् अनाश्रिमणश्च विधुरादेः "शमदमाद्युपेतः स्यात्" (ब्र.सू.3-4-27) "अन्तरा चापि तु तद्दृष्टेः" (ब्र.सू.3.4.36) इत्यादीनि ब्रह्मसूत्राणि अधिकारं निरणैषत ॥ युक्तश्चैषः सर्वावस्थेनापि पुरुषेण मातुरिव पुत्रेण परमवत्सलस्य सर्वबन्धोः निसर्गसुहृदश्च भगवतो नामग्रहणादौ अप्रतिषेधः । दृष्टश्च गजेन्द्र-गृध्रराज-वायस-रावणावरज-कोशलनागरजानपद-वल्लवी-मालाकार-प्रमुखेषु ॥
+नरः इति प्रायेण सर्वचेतनानां यथासंभवम् अथिकारं सूचयति । एकवचनं च महायागादि-बहुसहकारि- नैरपेक्ष्यपरम् । निन्द्य-गुणवृत्त-जन्मनामपि भक्त्यभिरुचिमात्र-महागुणेन अकुतोभयं भजनीयो हि भगवान् ॥ अथ क्षिप्रमेव भागीरथीप्रवाहेनेव निर्णिक्त-कल्मषरुचिः परमधार्मिको भवतीति गीयते । गुणविषये तावत् "समोऽहं सर्वभूतेषु"; वृत्तविषयेषु च (गीता 9.29) "अपि चेत् सुदुराचारः"; जन्मविषयेऽपि (गीता 9.30) "मां हि पार्थ! व्यपाश्रित्य येऽपि स्युः पापयोनयः" इत्यादि । (गीता 9.32) । न च एतावता दुराचारादेः धर्मत्वम् । "नाविरतो दुश्चरितात् नाशान्तो नासमाहितः" (कठ 12.23) "अप्राप्यः केशवो राजन् इन्द्रियैरजितैः नृणाम्" इत्येवंप्रकारवचनेभ्यः तस्य भगवदनिष्टत्वेन अधर्मत्वावगमात् । अत एव अनन्तरमाह "क्षिप्रं भवति धर्मात्मा" इति (गीता 9.31) । सर्वाश्रमिणाम् अनाश्रिमणश्च विधुरादेः "शमदमाद्युपेतः स्यात्" (ब्र.सू.3-4-27) "अन्तरा चापि तु तद्दृष्टेः" (ब्र.सू.3.4.36) इत्यादीनि ब्रह्मसूत्राणि अधिकारं निरणैषत ॥ युक्तश्चैषः सर्वावस्थेनापि पुरुषेण मातुरिव पुत्रेण परमवत्सलस्य सर्वबन्धोः निसर्गसुहृदश्च भगवतो नामग्रहणादौ अप्रतिषेधः । दृष्टश्च गजेन्द्र-गृध्रराज-वायस-रावणावरज-कोशलनागरजानपद-वल्लवी-मालाकार-प्रमुखेषु ॥
 </details>
 
 
@@ -471,11 +563,14 @@ Then the question arises: What about the Apasudra Adhikarana? What is stated the
 In the case of even those who have no knowledge of God, there is no prohibition about thinking of God, singing His praise and hearing of Him. These form the beginning of the bhakti proper, which they will develop in course of time. The great law-givers have laid down :- Dharmas which are open to all classes from the Chandala upwards are non-violence, truth, purity, service to others, love and gratitude towards parents and performance of acts pleasing to the Supreme Deity. Even when a person is forbidden to do sankirtana (praising God), he will get related to God indirectly by merely following, rejoicing with, tolerating or showing no enmity towards one doing sankirtana. In the Mahabharata, It is said: "A person gets purified, if he hears of dharma, sees it performed, speaks of it or approves of it". In fact, any dharma, relating to God, promoted, approved or practised is said particularlly to be sparsavedin (that is, something that transforms by mere touch). That is, a relation to God in any manner established purifies him. Again, it is said: "The Lord, cried to for help in a loud voice, worshipped, seen or bowed to (as in temple), destroys with force all sins. Who then will not worship Hari?"; ..Hari, whether worshipped remembered, meditated upon or adorned with flowers etc., grants all protection to a person in this world and the next" and .'Those who hear, read about Me or see or praise Me'. In the Itihasa and purana it is said that even a low born person like the dog-flesh eater is allowed to sing in praise of God (bhajana). Thus, in the Vishnu Dharma : "Narada ! That devotee of Mine who with faith says 'Salutation to Thee', even if he is a dog-flesh eater, attains the Eternal world." All these statements, which show that the persons above-mentioned should be highly esteemed and that they all attained moksha are all supported by authority. Since each mandate has a particular individual in view, the apparent contradictions in the sastras are reconciled and no sastra goes in vain. Thus far about Names.
 </details>
 
-## NO RESTRICTION ABOUT TIME, PLACE OR PERSON FOR WORSHIP
+## काल-देशाधिकारि-नियमानपेक्षत्वम्
+<details><summary>English</summary>
+NO RESTRICTION ABOUT TIME, PLACE OR PERSON FOR WORSHIP
+</details>
 
 <details open><summary>मूलम्</summary>
 
-ध्यानार्चनादेः कालदेशाधिकारि नियमानपेक्षत्वम् सदा इति कालविशेषानपेक्षत्वम् । देशशौचादि-विशेषानपेक्षाया अपि प्रदर्शनमेतत् । तेन अयन-ऋतु-मास-पक्ष- नक्षत्र-मुहूर्त-विशेष-सव्यपेक्षेभ्यः प्रकर्षः । अत्र च "चक्तायुधस्य नामानि सदा सर्वत्र कीर्तयेत् । नाशौचं कीर्तने तस्य पवित्रं भगवान् हरिः ॥" (वि.ध.) "प्रातर्देवेति कृष्णेति गोविन्देति च जल्पताम् । मध्याह्ने चापराह्ने च योऽवसादः स उच्यताम् ॥" (वि.ध. 90.78) इत्येतानि ऋषिवचनानि द्रष्टव्यानि । न हि भगवतः प्रयताप्रयताधिकारि-संसर्गात् उपघातः तच्छौचादिसहकारिविरहात् तदनुग्रहासामर्थ्यं वा । प्रत्युत स्वसंबन्धायोग्यमपि पुनानः स्वोचितं विधाय स्वीकरोति, परमपावनत्वात् । अतो हि इदम् उदीर्यते -- "नाशौचं कीर्तने" इत्यादि (वि.ध.) । सदसदधिकारि-तारतम्यशास्त्राणि तु उच्चावचानाम् अधिकारिणां परस्परसङ्करेण धर्मसंप्लवो मा प्रसांक्षीत् इति । स्वरूपतो अल्पीयान् अपि सङ्कीर्तनादिः फलतो महीयान् । यदाह -- "स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्" इति (गीता 2.40) । न चास्य धर्मान्तरवत् अभिक्रमनाशः "नेहाभिक्रमनाशोऽस्ति", (गीता 2.40) इति वचनात् । "न मे भक्तः प्रणश्यति" (गीता 9.31), "तं प्रणम्य न सीदति" (वि.ध),"न वासुदेवं प्रणिपत्य सीदति" (श्रीरंग.मा 8.50) (वि.ध.70), "जनार्दनं प्रणिपतितो न सीदति" (वि.ध.7.28) । न च अयथा-विध्यनुष्ठानात् प्रबलप्रतिपक्षाद् वा प्रत्यवायः । "प्रत्यवायो न विद्यते" (गीता.2.40) इति । न च एतेषामर्थवादत्वं शक्यशङ्कम्; अनतिवादित्वात् ॥
+ध्यानार्चनादेः काल-देशाधिकारि-नियमानपेक्षत्वम् सदा इति कालविशेषानपेक्षत्वम् । देशशौचादि-विशेषानपेक्षाया अपि प्रदर्शनमेतत् । तेन अयन-ऋतु-मास-पक्ष- नक्षत्र-मुहूर्त-विशेष-सव्यपेक्षेभ्यः प्रकर्षः । अत्र च "चक्तायुधस्य नामानि सदा सर्वत्र कीर्तयेत् । नाशौचं कीर्तने तस्य पवित्रं भगवान् हरिः ॥" (वि.ध.) "प्रातर्देवेति कृष्णेति गोविन्देति च जल्पताम् । मध्याह्ने चापराह्ने च योऽवसादः स उच्यताम् ॥" (वि.ध. 90.78) इत्येतानि ऋषिवचनानि द्रष्टव्यानि । न हि भगवतः प्रयताप्रयताधिकारि-संसर्गात् उपघातः तच्छौचादिसहकारिविरहात् तदनुग्रहासामर्थ्यं वा । प्रत्युत स्वसंबन्धायोग्यमपि पुनानः स्वोचितं विधाय स्वीकरोति, परमपावनत्वात् । अतो हि इदम् उदीर्यते -- "नाशौचं कीर्तने" इत्यादि (वि.ध.) । सदसदधिकारि-तारतम्यशास्त्राणि तु उच्चावचानाम् अधिकारिणां परस्परसङ्करेण धर्मसंप्लवो मा प्रसांक्षीत् इति । स्वरूपतो अल्पीयान् अपि सङ्कीर्तनादिः फलतो महीयान् । यदाह -- "स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्" इति (गीता 2.40) । न चास्य धर्मान्तरवत् अभिक्रमनाशः "नेहाभिक्रमनाशोऽस्ति", (गीता 2.40) इति वचनात् । "न मे भक्तः प्रणश्यति" (गीता 9.31), "तं प्रणम्य न सीदति" (वि.ध),"न वासुदेवं प्रणिपत्य सीदति" (श्रीरंग.मा 8.50) (वि.ध.70), "जनार्दनं प्रणिपतितो न सीदति" (वि.ध.7.28) । न च अयथा-विध्यनुष्ठानात् प्रबलप्रतिपक्षाद् वा प्रत्यवायः । "प्रत्यवायो न विद्यते" (गीता.2.40) इति । न च एतेषामर्थवादत्वं शक्यशङ्कम्; अनतिवादित्वात् ॥
 </details>
 
 
@@ -506,11 +601,15 @@ Is it so? Is it not exaggeration to say that the praise of the Lord can lead one
 (Here the commentator starts the question: Why not apply here the rule about purna-ahuti, the last or completing oblation, or the oblation made with a full ladle ? Though such ahuti is stated to secure all sorts of fruits, it has been ascertained by the Mimamsakas that such a statement is mere praise. The reasoning adopted there is that the purna ahuti is prescribed in the context of several other rites, some to be performed before and others to follow. If all the phalas mentioned are to be ascribed to this ahuti alone, the other rites will be fruitless and may be given up. But that is not the case here. For, in the context of speaking of sankirtana, no other rites are prescribed, nor is any rite combined with it; not even any prayers are mentioned. Mere sankirtana is enough certainly to destory sins. So the commentator sums up.) This is not subject to the purna ahuti maxim. For the subject there is exaggeration. Moreover, elements of arthavada like incomplete statement and prayers are not seen here. Besides even arthavada is not altogether to be neglected; if otherwise not opposed to any authority, we must not omit to give it its proper meaning and significance to the extent possible. To omit is improper.
 </details>
 
-## ATTAINMENT OF THE KNOWLEDGE OF THE ULTIMATE REALITY BY MERE RECITATION.
+## तत्त्वज्ञानस्य लघुतर-वाङ्मात्र-साध्यता
+<details><summary>English</summary>
+ATTAINMENT OF THE KNOWLEDGE OF THE ULTIMATE REALITY BY MERE RECITATION.
+</details>
 
 <details open><summary>मूलम्</summary>
 
-गुरुतर तपस्समाधिसाध्य-तत्त्वज्ञानस्य लघुतरवाङ्मात्रसाध्यता ननु गुरुदीर्घ-दुष्कर-तपस्समाधिविशेषरूपमहाधर्मसाध्य- तत्त्वज्ञानोपक्रमस्य वाङ्मात्रसाध्यत्व-वादोऽपि अतिवादः गुरुशास्त्रवैयर्थ्य- प्रसङ्गेन प्रमाणविरुद्धं च ॥ तदिदम् अविदितभगवत्प्रभावस्य छान्दसस्य पैशाचम् । लघीयोऽपि भगवत्संकीर्तनं दुर्वहामपि धुरं धारयति एव । न गुरुशास्त्रानर्थक्यम्, तस्य समर्थाधिकारत्वात् । अस्य तु सति असति वा सामर्थ्ये, भगवदसाधारणरुचि-समुचित- भाग्यवदधिकारत्वाच्च । गरीयसोऽपि भगवत्प्रसाद एव फलहेतुः लघीयसि किं दण़्डवारितः ? यथा च गरीयसि प्रयोगवैपुल्यात् देवः प्रसीदति, तथा लघीयसि अपि भावशुद्धिविशेषात् प्रसीदेत् । यथोक्तम् - "सम्यक् व्यवसितो हि सः", (गीता 9.30) "पत्रं पुष्पं फलं तोयम्", (गीता 9.26) "यो न वित्तैः न विभवैः न वासोभिः न भूषणैः । तोष्यते हृदयेनैव कस्तम् ईशं न पूजयेत् ?॥" (वि.ध.90.69) व्यासस्मृतौ -- "दद्यात् पुरुषसूक्तेन यः पुष्पाणि अप एव वा । अर्चितं स्यात् जगदिदं तेन सर्वं चराचरम् । वैष्णवे ध र्मे - "पृथिवीं रत्नसंपूर्णां यः कृष्णाय प्रयच्छति । तस्यापि अन्यमनस्कस्य सुलभो न जनार्दनः ॥" (वि.ध. 73.6) इत्यादि ॥ भावभेद एव हि धर्माधर्मनिदानं, न क्रियाविशेषः । यथा श्रीविष्णुतत्त्वे - "भावशुद्धिः मनुष्याणां प्रमाणं सर्ववस्तुषु । अन्यथाऽऽलिङ्ग्यते कान्ता स्नेहेन दुहिताऽन्यथा ॥" तथा "तपो न कल्कः अध्ययनं न कल्कः स्वाभाविको वेदविधिर्न कल्कः । प्रसह्य चित्ताहरणं न कल्कः (वित्ताहरणं - पा) तान्येव भावोपहितानि कल्कः ॥" अन्यत्र "गङ्गातीर्थेषु वसन्ति मत्स्याः देवालये पक्षिसंघाश्च नित्यम् । भावोज्झितास्ते न फलं लभन्ते तीर्थानि पुण्यायतनाश्च मुख्याः ॥" इति ॥ (भार.वन.1.279) 
+गुरुतर-तपस्-समाधि-साध्य--तत्त्वज्ञानस्य लघुतर-वाङ्मात्र-साध्यता  
+ननु गुरुदीर्घ-दुष्कर-तपस्समाधिविशेषरूपमहाधर्मसाध्य- तत्त्वज्ञानोपक्रमस्य वाङ्मात्रसाध्यत्व-वादोऽपि अतिवादः गुरुशास्त्रवैयर्थ्य- प्रसङ्गेन प्रमाणविरुद्धं च ॥ तदिदम् अविदितभगवत्प्रभावस्य छान्दसस्य पैशाचम् । लघीयोऽपि भगवत्संकीर्तनं दुर्वहामपि धुरं धारयति एव । न गुरुशास्त्रानर्थक्यम्, तस्य समर्थाधिकारत्वात् । अस्य तु सति असति वा सामर्थ्ये, भगवदसाधारणरुचि-समुचित- भाग्यवदधिकारत्वाच्च । गरीयसोऽपि भगवत्प्रसाद एव फलहेतुः लघीयसि किं दण़्डवारितः ? यथा च गरीयसि प्रयोगवैपुल्यात् देवः प्रसीदति, तथा लघीयसि अपि भावशुद्धिविशेषात् प्रसीदेत् । यथोक्तम् - "सम्यक् व्यवसितो हि सः", (गीता 9.30) "पत्रं पुष्पं फलं तोयम्", (गीता 9.26) "यो न वित्तैः न विभवैः न वासोभिः न भूषणैः । तोष्यते हृदयेनैव कस्तम् ईशं न पूजयेत् ?॥" (वि.ध.90.69) व्यासस्मृतौ -- "दद्यात् पुरुषसूक्तेन यः पुष्पाणि अप एव वा । अर्चितं स्यात् जगदिदं तेन सर्वं चराचरम् । वैष्णवे ध र्मे - "पृथिवीं रत्नसंपूर्णां यः कृष्णाय प्रयच्छति । तस्यापि अन्यमनस्कस्य सुलभो न जनार्दनः ॥" (वि.ध. 73.6) इत्यादि ॥ भावभेद एव हि धर्माधर्मनिदानं, न क्रियाविशेषः । यथा श्रीविष्णुतत्त्वे - "भावशुद्धिः मनुष्याणां प्रमाणं सर्ववस्तुषु । अन्यथाऽऽलिङ्ग्यते कान्ता स्नेहेन दुहिताऽन्यथा ॥" तथा "तपो न कल्कः अध्ययनं न कल्कः स्वाभाविको वेदविधिर्न कल्कः । प्रसह्य चित्ताहरणं न कल्कः (वित्ताहरणं - पा) तान्येव भावोपहितानि कल्कः ॥" अन्यत्र "गङ्गातीर्थेषु वसन्ति मत्स्याः देवालये पक्षिसंघाश्च नित्यम् । भावोज्झितास्ते न फलं लभन्ते तीर्थानि पुण्यायतनाश्च मुख्याः ॥" इति ॥ (भार.वन.1.279) 
 </details>
 
 
@@ -541,22 +640,29 @@ It is but proper that, God who is omniscient, with no wish of His unfulfilled an
 It is the conclusion arrived at by Bhishma that sankirtana and similar disciplines are the best form of worship of the Lord for the following and other reasons :- (1) The worship is of the dearest Person and hence performed with ease and no effort. (2) It can be done easily with littre or no expense or exertion. (3) It is attractive, because it is inspired by the consciousness that it is being offered to please one's own master, who is not very much out of sight. (4) Though the service is comparatively slight, it secures to the worshipper the great fruit of moksha which dispels the great and unbearable fear of the mortal world. (5) There is no sin incurred, even if the performance is not strictly regular or in the proper manner . (6) Those who are qualified to do this worship are innumerable, and hence it is suitable to all men, (7) There is nothing which can affect the worship on account of time, place, etc., and hence it is not dependent on any condition. (8) Owing to the glory of God, who is the object of worship, there can be no obstruction to the attainment of the goal. The above is the opinion of other rishis also, as stated in the following and similar passages: "Vishnu-worship is higher than any other form of worship. The Lord. Vishnu protects His devotees as His own body"; and "There is nothing higher than worshipful devotion to Govinda'.
 </details>
 
-<details open><summary>मूलम्</summary>
-
-भगवतः आदित्याद्यवभासक-तेजोरूपता अथ उपेयप्रश्नं प्रतिवदन् श्रीमन्नामसहस्रश्रवणाय धर्मराजो नियुज्यते...परमं यः इति चतुर्भिः ॥ तत्र प्रथमेन सार्धेन "किं वाऽप्येकं परायणम्" इति द्वितीयं प्रत्याह ॥ परमं यो महत् तेजः परमं यो महत् तपः । परमं यो महत् ब्रह्म परमं यः परायणम् ॥ 9 ॥ पवित्राणां पवित्रं यो मङ्गलानां च मङ्गलम् । तेजः आदिभिः नपुंसकलिङ्गैः यः इति समभिव्यहारेण लिङ्गवैरूप्यम् न शङ्क्यम् । लिङ्गसंख्याभ्यां पूर्वं विशेषितस्य पदस्य पदान्तर- समभिव्याहारात्, तल्लिङ्ग-संख्या-विशेषेण अविशेष्यत्वाच्च विशेष्यस्य, वेदाः प्रमाणम् (वि.ध.75.15), "तत्त्वं नारायणः परः" (तै.ना.11) इतिवत् । सर्वथा स्पृहणीयतमत्वेन परमपुरुषार्थख्यापकानि परमतेजस्त्वादीनि षट् विशेषणानि । तेजः स्वभावत एव भास्वरम्, अन्यावभासकं च । "परं ज्योतिः उपसंपद्य" (छा.8.12.2), "तस्य आदित्यो भामुपभुज्य भाति" इति भास्वरस्य निस्सीमत्वम् । महत् इति परम् इति च समातिशाय्यसंभवः । एवमुत्तरत्रापि यथाविशेष्यम् । ईष्टे सर्वस्य इति तपः। यथा "यो देवेभ्यः आतपति" (तै.ना) , "तमीश्वराणां परमं महेश्वरम्" (श्वे. 6.7),"एष सर्वेश्वरः" (बृ 4.4.22), इत्यादि । अनवच्छिन्नकल्याणस्वरूपगुणत्वेन बृहत्त्वात्, सर्वशक्तित्वेन सर्वबृम्हणत्वाच्च ब्रह्म ।
-
-## THE SOURCE OF LUSTRE EVEN TO LUMINOUS BODIES
+## भगवतः आदित्याद्यवभासक-तेजोरूपता
+<details><summary>English</summary>
+THE SOURCE OF LUSTRE EVEN TO LUMINOUS BODIES
 </details>
+
+<details open><summary>मूलम्</summary>
+ 
+अथ उपेयप्रश्नं प्रतिवदन् श्रीमन्नामसहस्रश्रवणाय धर्मराजो नियुज्यते...परमं यः इति चतुर्भिः ॥ तत्र प्रथमेन सार्धेन "किं वाऽप्येकं परायणम्" इति द्वितीयं प्रत्याह ॥ परमं यो महत् तेजः परमं यो महत् तपः । परमं यो महत् ब्रह्म परमं यः परायणम् ॥ 9 ॥ पवित्राणां पवित्रं यो मङ्गलानां च मङ्गलम् । तेजः आदिभिः नपुंसकलिङ्गैः यः इति समभिव्यहारेण लिङ्गवैरूप्यम् न शङ्क्यम् । लिङ्गसंख्याभ्यां पूर्वं विशेषितस्य पदस्य पदान्तर- समभिव्याहारात्, तल्लिङ्ग-संख्या-विशेषेण अविशेष्यत्वाच्च विशेष्यस्य, वेदाः प्रमाणम् (वि.ध.75.15), "तत्त्वं नारायणः परः" (तै.ना.11) इतिवत् । सर्वथा स्पृहणीयतमत्वेन परमपुरुषार्थख्यापकानि परमतेजस्त्वादीनि षट् विशेषणानि । तेजः स्वभावत एव भास्वरम्, अन्यावभासकं च । "परं ज्योतिः उपसंपद्य" (छा.8.12.2), "तस्य आदित्यो भामुपभुज्य भाति" इति भास्वरस्य निस्सीमत्वम् । महत् इति परम् इति च समातिशाय्यसंभवः । एवमुत्तरत्रापि यथाविशेष्यम् । ईष्टे सर्वस्य इति तपः। यथा "यो देवेभ्यः आतपति" (तै.ना) , "तमीश्वराणां परमं महेश्वरम्" (श्वे. 6.7),"एष सर्वेश्वरः" (बृ 4.4.22), इत्यादि । अनवच्छिन्नकल्याणस्वरूपगुणत्वेन बृहत्त्वात्, सर्वशक्तित्वेन सर्वबृम्हणत्वाच्च ब्रह्म ।
+</details>
+
 <details><summary>English</summary>
 
 Paramam Yo Mahat Tejah Paramam Yo Mahat Tapah I Paramam Yo Mahat Brahma Paramam Yah paraayanam II (9) Pavitraanaam pavitram Yo Mangalaanaam cha Mangalam II Then Bhishma proceeds to answer the question about the ultimate goal (parayanam) and directs Dharmaraja to listen to the Thousand Names in the following stanzas (9 to 12). There the first one and a half stanza deals with the second question (which relates to the ultimate goal). (9) (He) who is the supreme and great effulgence; who is the supreme and great director (tapas); who is the supreme and great Brahman; and who is the supreme and highest ultimate goal; (10) (a) He is the purest of the pure and who is the auspicious amongst the auspicious, The combination of the word yah (He who) in the masculine gender with tejas (radiance) and other wolds, which are in the neuter gender, should not make us think that there is confusion in genders. The attempt here is only to lelate a word (Pundarikaksha) with a number of new words different in gender. This is grammatically correct. For example, see "Vedah pramanam.' (' Vedas are the authority) (Vishnu Dharma) and "Tattvam Narayanah" (Narayana is the truth) (Narayana Sukta). In the former example, there is a difference in number and in the latter there is a difference in gender.) Vedah is plural and pramanam is singular; Tattvam is in neutel gender and Narayana in masculine. There are six attributes of the Lord mentioned to show that He is most attractive and that He is the Supreme purushartha (moksha) - (1) Effulgence (tejas), It is itself lustrous and It makes other things also lustrous., Thus it is said, "Having attained the Supreme Light'. (Chh. Up, VII.12.2) and "The sun shines with light borrowed from Him". (2) Great (mahat). This shows that there is no limit to His lustre. (3) Supreme (paramam). There is nothing equal or superior. This is the meaning to be adopted in later places also, (4) Director (tapas). He issues decrees and orders, He is the ruler, So it has been said: "He radiates His conquering powers for the sake of the gods" (Narayana Sukta); "Him who is the supreme ruler" (Svet. Up.VI.7); and He is the ruler of all" (Brih. Up. 4.422). (5) Brahman (the extremely great) - He is great because His nature and qualities are beneficent to an unlimited extent. He makes all others also great by His omnipotence.
 </details>
 
-## CONTACT WITH BHAGAVAN REMOVES THE DEFECTS OF ALL
+## भगवत्-संबन्धस्य चेतनाचेतन-दोष-निवारकता
+<details><summary>English</summary>
+CONTACT WITH BHAGAVAN REMOVES THE DEFECTS OF ALL
+</details>
 
 <details open><summary>मूलम्</summary>
 
-भगवत्संबन्धस्य चेतनाचेतनदोषनिवारकता पवित्राणां मध्ये परमं महत् पवित्रम् । शुद्धिविशेषहेतुः शुद्धिश्च दोषविशेषनिर्मोकः । रजस्तमः-प्राय-परिणाम- भेदास्पदत्त्वम् अचेतनस्य, चेतनस्य तु तत्परिरंभसंभवः अविद्याभगवदपराधरागद्वेषादिः । तं भगवानेव समूलकाषं कषति । तस्यैव सर्वथा तद्विरोधिस्वभावत्वात् ॥ क्रोशन्ति च शास्त्राणि - "एतम् ह वाव न तपति" (तै.आनंद 9) "तद्यथा पुष्करपलाश आपो न श्लिष्यन्ते" (छा.4.14.3) "तद्यथा इषीकतूलमग्नौ प्रोतं प्रदूयेत" (छा. 5.24.3) "तत् सुकृतदुष्कृते धूनुते" (कौषी 1.4) "तदा विद्वान् पुष्यपापे विधूय" (मुंड 3.1.3) "क्षेत्रज्ञस्य ईश्वरज्ञानात् विशुद्धिः परमा मता" (याज्ञ.स्मृ.प्रा.34) "ध्यायेन्नारायणं देवं स्नानादिषु च कर्मसु । प्रायश्चित्तिर्हि सर्वस्य दुष्कृतस्य इति वै श्रुतिः ॥" (दक्षस्मृ) "यो माम् अजम् अनादिं च" (गीता 10.3), "पावनः सर्वलोकानां त्वमेव रघुनन्दन" (गीता 82.9) "प्रायश्चित्तानि अशेषाणि" इत्यादि । प्रायश्चित्तप्रकरणं कार्त्स्न्येन । (वि.पु.2.6.39) "यथा अग्निः उद्धतशिखः कक्षं दहति सानिलः । तथा चित्तस्थितो विष्णुः योगिनां सर्वकिल्बिषम् ॥" इति (वि.पु.6.7.74) । 
+पवित्राणां मध्ये परमं महत् पवित्रम् । शुद्धिविशेषहेतुः शुद्धिश्च दोषविशेषनिर्मोकः । रजस्तमः-प्राय-परिणाम- भेदास्पदत्त्वम् अचेतनस्य, चेतनस्य तु तत्परिरंभसंभवः अविद्याभगवदपराधरागद्वेषादिः । तं भगवानेव समूलकाषं कषति । तस्यैव सर्वथा तद्विरोधिस्वभावत्वात् ॥ क्रोशन्ति च शास्त्राणि - "एतम् ह वाव न तपति" (तै.आनंद 9) "तद्यथा पुष्करपलाश आपो न श्लिष्यन्ते" (छा.4.14.3) "तद्यथा इषीकतूलमग्नौ प्रोतं प्रदूयेत" (छा. 5.24.3) "तत् सुकृतदुष्कृते धूनुते" (कौषी 1.4) "तदा विद्वान् पुष्यपापे विधूय" (मुंड 3.1.3) "क्षेत्रज्ञस्य ईश्वरज्ञानात् विशुद्धिः परमा मता" (याज्ञ.स्मृ.प्रा.34) "ध्यायेन्नारायणं देवं स्नानादिषु च कर्मसु । प्रायश्चित्तिर्हि सर्वस्य दुष्कृतस्य इति वै श्रुतिः ॥" (दक्षस्मृ) "यो माम् अजम् अनादिं च" (गीता 10.3), "पावनः सर्वलोकानां त्वमेव रघुनन्दन" (गीता 82.9) "प्रायश्चित्तानि अशेषाणि" इत्यादि । प्रायश्चित्तप्रकरणं कार्त्स्न्येन । (वि.पु.2.6.39) "यथा अग्निः उद्धतशिखः कक्षं दहति सानिलः । तथा चित्तस्थितो विष्णुः योगिनां सर्वकिल्बिषम् ॥" इति (वि.पु.6.7.74) । 
 </details>
 
 
@@ -565,11 +671,14 @@ Paramam Yo Mahat Tejah Paramam Yo Mahat Tapah I Paramam Yo Mahat Brahma Paramam 
 (6) Purest of the pure (Pavitram) The words paramam (supreme) and mahat (great) should be understood here. The words mean that He is the agency for purifying in a particular way. Purification means the removal of impurity (doshas). Impurity arises in inanimate matter when it evolves under the influence of rajas and tamas. In the soul, It is caused by contact with such matter. And it consists of ignorance, offences against the Lord, attachment, hate, etc. The Lord alone is capable of destroying utterly the doshas root and branch, because He is always of a nature opposed to them. He is the purest of the pure. So proclaim the sastras: "He (the knower of Brahman) does not feel anxious (about his salvation) (Taitt. UP. 11. 9); 'just as water does not cling to the lotus leaf" (Chh. Up. IV. iv.3); "Just as a bit of cotton thrown into fire is burnt (Chh. Up. V. xxvi. 3); "He (the soul) shakes off his sins and merits (when attaining moksha),' (Kaush. Up. 1.4), "After getting rid of merits and sins the wise man..." (Mund. Up., III.1.3); "The highest purification for the soul is held to arise from knowledge of God,' (Yajnyavalkya Smriti'); and '.Remember Narayana while doing all acts in cluding bathing. This is the most efficacious expiation for all- sins". To the same effect the Gita says: .'He who knows Me or one without beginning and without birth" (X.3). In the Ramayana, it is said: "You are the purifier of all persons, O ! scion of the Raghu race. " The Vishnu Purana declares: "The continued remembrance of Krishna is the best of all expiatory ceremonies" (II. vi. 39), and also: "Vishnu, enshrined in the minds of the yogins, destroys all sins, as fire combined with wind flares up and burns dry grass" (VI. vii 74). The entire section on Prayaschitta (expiation) is full of such statements.
 </details>
 
-## THE SOURCE OF SANCTITY FOR HOLY THINGS IS THEIR CONTACT WITH THE LORD
+## भगवत्संबन्धेनैव तीर्थादीनां पवित्रता
+<details><summary>English</summary>
+THE SOURCE OF SANCTITY FOR HOLY THINGS IS THEIR CONTACT WITH THE LORD
+</details>
 
 <details open><summary>मूलम्</summary>
-
-भगवत्संबन्धेनैव तीर्थादीनां पवित्रता अन्यस्यापि तीर्थादेः पवित्रत्वं तत्संश्लेषायत्तं दर्शयति परम् महत् इति विशेषणाभ्याम् । न खलु स्वभाव- मलिनानाम् (अ) चेतनानां तदुपहतानां वा देवादीनां स्वसदृशवस्त्वन्तरशोधकत्वं युक्तिमत् । अत एव पराशर- शौनकादिभिः शुभाश्रयप्रकरणादिषु तत्संशीलनं निषिध्यते - "अशुद्धास्ते समस्तास्तु देवाद्याः कर्मयोनयः ।" (वि.पु.6.7.77) "आब्रह्मस्तंबपर्यन्ताः जगदन्तर्व्यवस्थिताः । प्राणिनः कर्मजनिताः संसारवशवर्तिनः ॥' (वि.ध.104.23) इत्यादिषु । तत्र देवतानां पावनत्वं तदुपासनार्चन-पादोदक-सेवादिना प्रसिद्धम्; तीर्थायतनादेः तत्सामीप्यात्; यथा गङ्गायाः वैष्णवे "विष्णुवामपदाङ्गुष्ठ" (वि.पु.4.4.30) विनिस्सृतस्य जलस्य एतत् माहात्म्यम् इति । 'विष्णोरायतनं ह्यापः स ह्यपां पतिरुच्यते' इति जलमात्रस्य च । कालस्य च तदवतार-तद्दैवत्य-तच्छयन-उत्थानवत्त्वात् द्वादशी-जयन्ती श्रवणादिवत् तत्संबन्धात् । आत्मगुणानां शमादीनां तज्ज्ञानानुगुण्यात् । क्रियाणां च यज्ञदानतपःश्राद्धप्रभृतीनां तदाराधनत्वात् । ब्राह्मणादिजातेः तत्परवेदाध्ययनादौ साक्षादधिकारात् - यथा "विष्णुं क्रान्तं वासुदेवं विजानन् विप्रो विप्रत्वम् आप्नुयात् तत्त्वदर्शी" इति । श्रुतिस्मृत्यादेः तत्परत्वात् तच्छासनत्वाच्च, "नारायणपरा वेदाः" (भागव.2.5.15) "श्रुतिस्मृती ममैवाज्ञा" इति । (वि.ध.76.31), आरण्यके तीर्थयात्रायां "पुण्या द्वारवती" इत्युपक्रम्य (भारत.वन. 88.24), "आस्ते हरिरचिन्त्यात्मा तत्रैव मधुसूदनः । तत्पुण्यं तत् परं ब्रह्म तत् तीर्थं तत् तपोधनम् ॥ " इति तत्संबन्धहेतुकं देशस्य पावनत्त्वमभिधाय "पवित्राणां हि गोविन्दः पवित्रं परमुच्यते । पुण्यानामपि पुण्योऽसौ" इत्येवमेव स्पष्टं निगम्यते ॥
+ 
+अन्यस्यापि तीर्थादेः पवित्रत्वं तत्संश्लेषायत्तं दर्शयति परम् महत् इति विशेषणाभ्याम् । न खलु स्वभाव- मलिनानाम् (अ) चेतनानां तदुपहतानां वा देवादीनां स्वसदृशवस्त्वन्तरशोधकत्वं युक्तिमत् । अत एव पराशर- शौनकादिभिः शुभाश्रयप्रकरणादिषु तत्संशीलनं निषिध्यते - "अशुद्धास्ते समस्तास्तु देवाद्याः कर्मयोनयः ।" (वि.पु.6.7.77) "आब्रह्मस्तंबपर्यन्ताः जगदन्तर्व्यवस्थिताः । प्राणिनः कर्मजनिताः संसारवशवर्तिनः ॥' (वि.ध.104.23) इत्यादिषु । तत्र देवतानां पावनत्वं तदुपासनार्चन-पादोदक-सेवादिना प्रसिद्धम्; तीर्थायतनादेः तत्सामीप्यात्; यथा गङ्गायाः वैष्णवे "विष्णुवामपदाङ्गुष्ठ" (वि.पु.4.4.30) विनिस्सृतस्य जलस्य एतत् माहात्म्यम् इति । 'विष्णोरायतनं ह्यापः स ह्यपां पतिरुच्यते' इति जलमात्रस्य च । कालस्य च तदवतार-तद्दैवत्य-तच्छयन-उत्थानवत्त्वात् द्वादशी-जयन्ती श्रवणादिवत् तत्संबन्धात् । आत्मगुणानां शमादीनां तज्ज्ञानानुगुण्यात् । क्रियाणां च यज्ञदानतपःश्राद्धप्रभृतीनां तदाराधनत्वात् । ब्राह्मणादिजातेः तत्परवेदाध्ययनादौ साक्षादधिकारात् - यथा "विष्णुं क्रान्तं वासुदेवं विजानन् विप्रो विप्रत्वम् आप्नुयात् तत्त्वदर्शी" इति । श्रुतिस्मृत्यादेः तत्परत्वात् तच्छासनत्वाच्च, "नारायणपरा वेदाः" (भागव.2.5.15) "श्रुतिस्मृती ममैवाज्ञा" इति । (वि.ध.76.31), आरण्यके तीर्थयात्रायां "पुण्या द्वारवती" इत्युपक्रम्य (भारत.वन. 88.24), "आस्ते हरिरचिन्त्यात्मा तत्रैव मधुसूदनः । तत्पुण्यं तत् परं ब्रह्म तत् तीर्थं तत् तपोधनम् ॥ " इति तत्संबन्धहेतुकं देशस्य पावनत्त्वमभिधाय "पवित्राणां हि गोविन्दः पवित्रं परमुच्यते । पुण्यानामपि पुण्योऽसौ" इत्येवमेव स्पष्टं निगम्यते ॥
 </details>
 
 
@@ -578,11 +687,15 @@ Paramam Yo Mahat Tejah Paramam Yo Mahat Tapah I Paramam Yo Mahat Brahma Paramam 
 In other cases, like that of the sacred waters which are purifying agencies, they acquire that characteristic only by their contact with the Lord. This is shown by the adjectives, 'supreme' and 'great'. It is not reasonable to hold that either sentient beings who are themselves naturally impure or the gods whe are also affected by impurity can purify others who are similarly situated. Hence it is that Parasara, Saunaka and others in the context of subhasraya (God as the substratum of auspiciousness) prohibit contemplation and worship of other gods, Subhasraya means an object of worship or meditation which is at once auspicious (i.e., subha or sin-destroying) and easy asraya for contemplation. Thus: "All the gods are impure because they are born in karma and are subject to karma" (Vishnu Purana), VI. 7.77); "All beings in this world, from Brahma (the four- faced creator) down to a clump of grass, are all born in karma and are in the grip of samsara - Vishnu dharma). It is well stated (by authorities) that the gods acquire the capacity to purify only by contemplating on Him, worshipping Him, doing services to Him like sipping the water that has washed His feet, etc,. Similarly, the holy water and sacred temple acquire this capacity to purify only by their nearness to Him. Hence, says the Vishnu Purana (IV. 4.30) about the Ganga :"This is the greatness of the water that has flowed down from the toe of the left foot of Vishnu". And as for mere waters, it is said: "The waters are indeed the abode of Vishnu, and He is the Lord of the waters." In the same way, Time is (said to be auspicious and purificatory) because of its connection with Him, as being the hour of His Incarnation, or having Him as its deity, or as the hour of his going to sleep orwaking up, as for example dvadasi, (the welfth day of the lunar fortnight), jayanthi (birthday), sravanam, (a day when the moon is in conjunction with a lunar asterism in Capricorn sacred to Vishnu). Again atma-gunas (spiritual virtues such as self-contro1 , etc.) are said to be purificatory because they are helpful in knowing and realising Him. Sacrifices, charity, tapas and sraddha are purificatory because they acquire their purity because of their eligibility to study the Vedas which sing of Him. Hence it is said in the Mahabharata: "A Brahmin becomes a Brahmin and a seer of Truth only when he knows Vasudeva as the Pervader of the universe and as having traversed it by His feet. (Kranta)" The Vedas and the Smritis are also purifying as they are but His commands and recognise Him as supreme. Thus it is said: "The Vedas are about Narayana" (Bhagavata, 2, 5. 15.) and "The Srutis and Smritis are My commands". Temples are sacred and capable of cleansing a person because the Lord resides or presides there; this is so stated in the Mahabharata, Aranyaka, Tirthayatra chapter. Beginning with the statement, "Dvaraka is holy", it goes on to observe: There Hari, whose nature is beyond thought, and who has killed the demon, Madhu, dwells. It is holy, It is supremely great, it has holy waters, it is the penance-grove" (88. 24). Thus the purifying power of a place is said to be due to His connection with it. It is then concluded clearly: "Govinda indeed is the supremely pure among the pure. He is the holiest of the holy". (88. 26)
 </details>
 
-## THE MOST DESIRABLE NATURE OF BHAGAVAN
+## अभिलषणीयता
+<details><summary>English</summary>
+THE MOST DESIRABLE NATURE OF BHAGAVAN
+</details>
 
 <details open><summary>मूलम्</summary>
 
-भगवतः स्रगादि प्रत्यगात्मभ्यामभिलषणीयता सुरभि-स्रगङ्गराग-सुरसुन्दरी-सुधारसादिभ्यो निरस्तसमस्तसंसार- निर्मल-निर्मर्यादस्वरससंविदानन्दसान्द्रात् प्रत्यगात्मनश्च अत्यन्तम् अभिलषणीयत्वात् मङ्गलानां च मङ्गलम् । अतः परमं यः परायणम् - प्राप्यम् । प्रपञ्चयिष्यते चैतत् ॥ यः एवं सः परमं परायणम् इति विधाय प्रतिवक्तव्ये यः परायणम् इति सिद्धवत् अनुवादः शास्त्र-प्रसिद्ध्यतिशयप्रदर्शनार्थः ॥ 1 ॥
+भगवतः स्रगादि-प्रत्यगात्मभ्याम् अभिलषणीयता  
+सुरभि-स्रगङ्गराग-सुरसुन्दरी-सुधारसादिभ्यो निरस्तसमस्तसंसार- निर्मल-निर्मर्यादस्वरससंविदानन्दसान्द्रात् प्रत्यगात्मनश्च अत्यन्तम् अभिलषणीयत्वात् मङ्गलानां च मङ्गलम् । अतः परमं यः परायणम् - प्राप्यम् । प्रपञ्चयिष्यते चैतत् ॥ यः एवं सः परमं परायणम् इति विधाय प्रतिवक्तव्ये यः परायणम् इति सिद्धवत् अनुवादः शास्त्र-प्रसिद्ध्यतिशयप्रदर्शनार्थः ॥ 1 ॥
 </details>
 
 <details><summary>English</summary>
@@ -590,11 +703,14 @@ In other cases, like that of the sacred waters which are purifying agencies, the
 Auspicious of the Auspicious (Mangalanam cha mangalam) He is the most intensely desirable, being more desirable than fragrant garlands, sandal paste, heavenly damsels and even nectar, and also more desirable than the individual soul which has destroyed all the impurities of samsara and is full of bliss and knowledge in its essence, pure and unlimited. For these reasons, He is the Supreme Object to be attained. This will be elaborated later. (yah: He who): It would have been appropriate to conclude that such a Person is the supreme goal. Instead of this, there is the statement. "He who is the goal", as if this is established. The intention is to show that this indeed is well- known as well-established in the sastras.
 </details>
 
-## BHAGAVAN, THE SENTIENT CAUSE
+## ब्रह्मादीनामपि परब्रह्म-निमित्तकत्वोपपादनम्
+<details><summary>English</summary>
+BHAGAVAN, THE SENTIENT CAUSE
+</details>
 
 <details open><summary>मूलम्</summary>
-
-ब्रह्मादीनामपि परब्रह्मनिमित्तकत्वोपपादनम् अथ किमेकं दैवतम् इति प्रथमं प्रश्नं प्रतिब्रूते -- दैवतम् इति सार्धेन । दैवतं देवतानां च भूतानां योऽव्ययः पिता ॥ 10 ॥ यतः सर्वाणि भूतानि भवन्त्यादि-युगागमे । यस्मिंश्च प्रलयं यान्ति पुनरेव युगक्षये ॥ स एव देवतानां विधिशिवशतमखादीनां महादैवतं तत्त्वम् । कुतः ? तेषामेव भूतानां सद्भावभाजां पिता; यतः तस्य अर्वाचीन-पितृभ्यो विशेषः अव्ययः इति । न हि तेन सनातनेन पितृमन्तः कदाचित् अनाथाः । पितृत्वम् उपपादयति - यतः सर्वाणि इति । यतः निमित्तकारणात् । सर्वाणि-द्रुहिण-द्रुमावधीनि । भूतानि भवन्ति । जायन्ते । यद्यपि ब्रह्मसर्गात् उपरि अवान्तरसर्गे च ब्रह्मादिमुखेन सृजति, अथापि प्रथम सृष्टौ न तथा इति सूचयति -- आदियुगागमे इति ॥
+ 
+अथ किमेकं दैवतम् इति प्रथमं प्रश्नं प्रतिब्रूते -- दैवतम् इति सार्धेन । दैवतं देवतानां च भूतानां योऽव्ययः पिता ॥ 10 ॥ यतः सर्वाणि भूतानि भवन्त्यादि-युगागमे । यस्मिंश्च प्रलयं यान्ति पुनरेव युगक्षये ॥ स एव देवतानां विधिशिवशतमखादीनां महादैवतं तत्त्वम् । कुतः ? तेषामेव भूतानां सद्भावभाजां पिता; यतः तस्य अर्वाचीन-पितृभ्यो विशेषः अव्ययः इति । न हि तेन सनातनेन पितृमन्तः कदाचित् अनाथाः । पितृत्वम् उपपादयति - यतः सर्वाणि इति । यतः निमित्तकारणात् । सर्वाणि-द्रुहिण-द्रुमावधीनि । भूतानि भवन्ति । जायन्ते । यद्यपि ब्रह्मसर्गात् उपरि अवान्तरसर्गे च ब्रह्मादिमुखेन सृजति, अथापि प्रथम सृष्टौ न तथा इति सूचयति -- आदियुगागमे इति ॥
 </details>
 
 
@@ -603,11 +719,14 @@ Auspicious of the Auspicious (Mangalanam cha mangalam) He is the most intensely 
 What follows is the answer to the first question. The next stanza and a half are devoted to answering; "Who is the one Deity?" Daivatam devataanaam cha Bhootaanaam yo Avyayah Pitaa II (10) (b) Yatas-sarvani bhootaani Bhavanti Aadi-yugaagame I Yasmin cha pralayam yaanti Punar eva Yuga-kshaye II (11) (10) (b) The God of gods and the indestructible Father of beings. (11) From whom all beings originate in the beginning of the first yuga and in whom they merge again at the end of the yuga. He alone is the principal, who is the Great God of all the gods. i.e., of Siva, Brahma and others. Why? Because He is the Father of all the beings, that is those who are existent. The word 'Indestructible' is to show that He is not like ordinary fathers. When He is their ancient and imperishable Father they cannot be said to be without a protector at any time. How He is the father, is explained in the next stanza. From whom (yatah) denotes the nimitta karana, the instrumental cause, 'All' (sarvani) :- Beginning with Brahma (the four-faced) down to the stump of a tree. Beginning of the first yuga (Adiyugagame) is significant to show that in the beginning it was different from what prevailed after the creation of Brahma, when through him further creation proceeded. (That is, the Lord Himself directly was responsible for the primary creation at the beginning.)
 </details>
 
-## LORD, THE MATERIAL CAUSE
+## परब्रह्मणः उपादानसहकारिकारणत्वोपपादनम्
+<details><summary>English</summary>
+LORD, THE MATERIAL CAUSE
+</details>
 
 <details open><summary>मूलम्</summary>
-
-परब्रह्मणः उपादानसहकारिकारणत्वोपपादनम् उपादानकारणमपि तमेव आह । अन्तिमे युगक्षये पुनः यस्मिन्नेव तानि प्रलयं यान्ति -- प्रलीयन्ते । लयः खलु उपादाने एव कार्यस्य, यथा ऊर्णनाभित- न्त्त्वादेः लालादौ । स्थितिप्रवृत्त्यादिहेतुत्वं सहकारिकारणत्वं च चकारेण द्योत्यते । एवं लक्षणकं हि परतत्त्वं श्रूयते -- "यतो वा इमानि" (तै.भृ.1) इत्यादौ । सूत्र्यते च "जन्माद्यस्य यतः' (ब्र.सू.1.1.2) इति । अस्य चैव त्रिविधकारणत्वं च "ब्रह्म वनं ब्रह्म स वृक्ष आसीत्" (यजु.अष्टक 2.8.7) इति उदाहृत्य, "प्रकृतिश्च प्रतिज्ञादृष्टान्तानुपरोधात्" (ब्र.सू.1.4.2) इत्यधिकरणे निरणायि । एतेन "उपादानं तु भगवान् निमित्तं तु महेश्वरः" इति कारणभेदेन अभिमतमहेश्वरवादो न वैदिकः । न च जगदुपादानत्वात् भगवति विकारादि-दोषप्रसक्तिः । स्वशरीरतया परिगृहीतप्रकृत्याद्येकदेशद्वारकत्वं परिणामादेः ऊर्णनाभिदृष्टान्तावष्टंभेन उपपादयन्ती तत्र भवती श्रुतिरेव पर्यहार्षीत् ॥
+ 
+उपादानकारणमपि तमेव आह । अन्तिमे युगक्षये पुनः यस्मिन्नेव तानि प्रलयं यान्ति -- प्रलीयन्ते । लयः खलु उपादाने एव कार्यस्य, यथा ऊर्णनाभित- न्त्त्वादेः लालादौ । स्थितिप्रवृत्त्यादिहेतुत्वं सहकारिकारणत्वं च चकारेण द्योत्यते । एवं लक्षणकं हि परतत्त्वं श्रूयते -- "यतो वा इमानि" (तै.भृ.1) इत्यादौ । सूत्र्यते च "जन्माद्यस्य यतः' (ब्र.सू.1.1.2) इति । अस्य चैव त्रिविधकारणत्वं च "ब्रह्म वनं ब्रह्म स वृक्ष आसीत्" (यजु.अष्टक 2.8.7) इति उदाहृत्य, "प्रकृतिश्च प्रतिज्ञादृष्टान्तानुपरोधात्" (ब्र.सू.1.4.2) इत्यधिकरणे निरणायि । एतेन "उपादानं तु भगवान् निमित्तं तु महेश्वरः" इति कारणभेदेन अभिमतमहेश्वरवादो न वैदिकः । न च जगदुपादानत्वात् भगवति विकारादि-दोषप्रसक्तिः । स्वशरीरतया परिगृहीतप्रकृत्याद्येकदेशद्वारकत्वं परिणामादेः ऊर्णनाभिदृष्टान्तावष्टंभेन उपपादयन्ती तत्र भवती श्रुतिरेव पर्यहार्षीत् ॥
 </details>
 
 
@@ -671,11 +790,14 @@ Yaani Naamaani gaunaani Vikhyaataani Mahaatmanah I Rishibhih Parigeetaani Taani 
 For, the Taittiriya Upanishad this describes the existence (sat) and non-existence (asat) of the individual soulI; "He who knows the Brahman as non-existent, himself becomes non- existent. Whoever knows the Brahman as existent is indeed truly existent. " (I,. vi. I) Of the great soul: Great is His glory and His knowledge deep and immeasurable. Hince it is impossible to give out all the Names of His. So it is said: "I have listened to the auspicious interpretation of the names of this God. From it I know only this, that Kesava indeed cannot be known fully." Those who wish to experience in this manner the Thousand Names of Vishnu, will be doing good to themselves. This is the meaning suggested by word Mahatmanah. The persons above-mentioned who are competent to utter these (Names of His) should not, as these Names are due to the gunas, mix with persons who are thieves of the gunas (i.e., those who deny these gunas to Vishnu or those who ascribe them to other deities).
 </details>
 
-## ENQUIRY ABOUT BRAHMAN IF IT IS ENDOWED WITH QUALITIES OR NOT (SAGUNA OR NIRGUNA)
+## सगुण निर्गुणवाक्यविचारः
+<details><summary>English</summary>
+ENQUIRY ABOUT BRAHMAN IF IT IS ENDOWED WITH QUALITIES OR NOT (SAGUNA OR NIRGUNA)
+</details>
 
 <details open><summary>मूलम्</summary>
 
-सगुण निर्गुणवाक्यविचारः 'अस्तु इयं सगुणब्रह्मविद्या अर्वाचीनफलाधिकारिणाम्; निर्गुणविद्या तु मुमुक्षूणामेव हि' इति चेत् - धिक् त्वां बधिरं यः अस्या एव "मुच्यते जन्तुः जन्मसंसारबन्धनात्", "याति ब्रह्म सनातनम्" इति उपायत्वं घुष्यमाणं न शृणोषि । किं च सगुणनिर्गुणे द्वे ब्रह्मणी प्रसज्येयाताम् इति अद्वैतं विपद्येत । "परमो मतः" इति, "अधिकतमो मतः" इति सर्वशास्त्रार्था- धिकतर-सारसमुद्धारैक- प्रयोजनताधिकृतस्य अर्वाचीन-विषयत्वोक्तौ क्व अन्यत्र अनर्वाचीनसिद्धिः अनयोर्विद्ययोः ? 
+'अस्तु इयं सगुणब्रह्मविद्या अर्वाचीनफलाधिकारिणाम्; निर्गुणविद्या तु मुमुक्षूणामेव हि' इति चेत् - धिक् त्वां बधिरं यः अस्या एव "मुच्यते जन्तुः जन्मसंसारबन्धनात्", "याति ब्रह्म सनातनम्" इति उपायत्वं घुष्यमाणं न शृणोषि । किं च सगुणनिर्गुणे द्वे ब्रह्मणी प्रसज्येयाताम् इति अद्वैतं विपद्येत । "परमो मतः" इति, "अधिकतमो मतः" इति सर्वशास्त्रार्था- धिकतर-सारसमुद्धारैक- प्रयोजनताधिकृतस्य अर्वाचीन-विषयत्वोक्तौ क्व अन्यत्र अनर्वाचीनसिद्धिः अनयोर्विद्ययोः ? 
 </details>
 
 
