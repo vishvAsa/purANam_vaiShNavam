@@ -457,11 +457,20 @@ title_english = "022 Vali s death time advises"
 ‘हाय! आज वानरराज वालीके स्वर्गलोक चले जानेसे सारी किष्किन्धापुरी सूनी हो गयी। उद्यान, पर्वत और वन भी सूने हो गये॥ २६॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+1 of the mightiest characters of the rAmAyaNa was the ape vAlin. Among his great acts were the slaying of the dAnava-s dundubhi & mAyAvin &mighty gandharva golabha after a continuous 16 year battle. An account this was recited by the apes in the funerary elegy to their great lord
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हते प्लवगशार्दूले निष्प्रभा वानराः कृताः।  
-यस्य वेगेन महता काननानि वनानि च॥ २७॥  
-पुष्पौघेणानुबद्‍ध्यन्ते करिष्यति तदद्य कः।
+हते प्लवगशार्दूले  
+निष्प्रभा वानराः कृताः।  
+यस्य वेगेन महता  
+काननानि वनानि च॥ २७॥  
+पुष्पौघेणानुबद्‍ध्यन्ते  
+करिष्यति तद् अद्य कः।+++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -478,9 +487,12 @@ title_english = "022 Vali s death time advises"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-येन दत्तं महद् युद्धं गन्धर्वस्य महात्मनः॥ २८॥  
-गोलभस्य महाबाहोर्दश वर्षाणि पञ्च च।  
-नैव रात्रौ न दिवसे तद् युद्धमुपशाम्यति॥ २९॥
+येन दत्तं महद् युद्धं  
+गन्धर्वस्य महात्मनः॥ २८॥  
+गोलभस्य महाबाहोर् दश  
+वर्षाणि पञ्च च।  
+नैव रात्रौ न दिवसे  
+तद् युद्धम् उपशाम्यति॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -497,9 +509,12 @@ title_english = "022 Vali s death time advises"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः षोडशमे वर्षे गोलभो विनिपातितः।  
-तं हत्वा दुर्विनीतं तु वाली दंष्ट्राकरालवान्।  
-सर्वाभयंकरोऽस्माकं कथमेष निपातितः॥ ३०॥
+ततः षोडशमे वर्षे  
+गोलभो विनिपातितः।  
+तं हत्वा दुर्विनीतं तु  
+वाली दंष्ट्राकरालवान्।  
+सर्वाभयंकरोऽस्माकं  
+कथम् एष निपातितः॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
