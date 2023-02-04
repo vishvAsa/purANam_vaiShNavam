@@ -1171,8 +1171,15 @@ Possessed of lovely feathers. According to the etymologists. 'सुपर्ण
 ## 195 भुजगोत्तमः
 <details><summary>English</summary>
 
-The master of Serpent. In the names पद्मनाभः and अमरप्रभुः (48 and 49) mention was made of पद्मनाभः who is अनिरुद्ध , the last of व्यूहा-s ( or Emanations). Here, by the name भुजगोत्तमः , that पद्मनाभः is being referred to who is the first among the manifestations of भगवान् . He is उत्तम (the master) of Bhujaga (the serpent आदिशेष ); i.e. He who sleeps on the couch which is the body of Anantha (the serpent). The rule is laid down for His meditation as 'The great Lord possessed of a body of celestial consciousness lying on the Anantha-couch in mind." In आरण्य-पर्व (महाभारत ):- "भगवान् विष्णु slept all alone on the waters on the vast body of (Anantha) the serpent who is possessed of limitless splendour." In the विष्णु पुराण " भगवान् sleeps on the couch viz. the Serpent having become great by swallowing the three worlds." 196. हिरण्यनाभः He who is possessed of a lovely navel. He is पद्मनाभ .NULL
+The master of Serpent. In the names पद्मनाभः and अमरप्रभुः (48 and 49) mention was made of पद्मनाभः who is अनिरुद्ध , the last of व्यूहा-s ( or Emanations). Here, by the name भुजगोत्तमः , that पद्मनाभः is being referred to who is the first among the manifestations of भगवान् . He is उत्तम (the master) of Bhujaga (the serpent आदिशेष ); i.e. He who sleeps on the couch which is the body of Anantha (the serpent). The rule is laid down for His meditation as 'The great Lord possessed of a body of celestial consciousness lying on the Anantha-couch in mind." In आरण्य-पर्व (महाभारत ):- "भगवान् विष्णु slept all alone on the waters on the vast body of (Anantha) the serpent who is possessed of limitless splendour." In the विष्णु पुराण " भगवान् sleeps on the couch viz. the Serpent having become great by swallowing the three worlds."
 </details>
+
+## 196. हिरण्यनाभः 
+<details><summary>English</summary>
+
+He who is possessed of a lovely navel. He is पद्मनाभ .
+</details>
+
 
 ## 197 सुतपाः
 <details><summary>English</summary>
