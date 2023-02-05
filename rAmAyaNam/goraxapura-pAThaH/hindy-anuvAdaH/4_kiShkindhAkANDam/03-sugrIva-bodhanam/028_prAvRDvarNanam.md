@@ -51,9 +51,17 @@ title_english = "028 Eulogy on Rainy Season"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नवमासधृतं गर्भं भास्करस्य गभस्तिभिः।  
-पीत्वा रसं समुद्राणां द्यौः प्रसूते रसायनम्॥ ३॥
+नव-मास-धृतं गर्भं  
+भास्करस्य गभस्तिभिः।  
+**पीत्वा रसं** समुद्राणां  
+**द्यौः प्रसूते रसायनम्**॥ ३॥ +++(5)+++
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Bearing for 9 months the embryo fertilized by the sun's rays, having drunk the juice of the seas, the heaven births the elixir [of life]
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -170,9 +178,17 @@ title_english = "028 Eulogy on Rainy Season"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मेघकृष्णाजिनधरा धारायज्ञोपवीतिनः।  
-मारुतापूरितगुहाः प्राधीता इव पर्वताः॥ १०॥
+मेघ-कृष्णाजिन-धरा  
+धारा-यज्ञोपवीतिनः।  
+मारुतापूरित-गुहाः  
+प्राधीता इव पर्वताः॥ १०॥ +++(5)+++
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainfed] streams, with caves [resounding] with the winds, the mountains are like students.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -698,11 +714,20 @@ title_english = "028 Eulogy on Rainy Season"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-षट्पादतन्त्रीमधुराभिधानं  
-प्लवंगमोदीरितकण्ठतालम्।  
-आविष्कृतं मेघमृदङ्गनादै-  
-र्वनेषु संगीतमिव प्रवृत्तम्॥ ३६॥
+षट्-पाद-तन्त्री-मधुराभिधानं  
++++(मण्डूक→)+++प्लवं-गमोदीरित-कण्ठ-तालम्।  
+आविष्कृतं मेघ-मृदङ्ग-नादैर्  
+वनेषु संगीतम् इव प्रवृत्तम्॥ ३६॥+++(4)+++
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The sweet sounds of the six-legged string musicians,
+the frogs+++(5)+++ croaking the rhythms with their throats,
+revealed through the मृदङ्ग of the clouds,  
+It is as if an orchestra has commenced in the forest.
+</details>
+
 
 <details><summary>मूलम्</summary>
 
@@ -740,11 +765,25 @@ title_english = "028 Eulogy on Rainy Season"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वनैर्घनानां प्लवगाः प्रबुद्धा  
-विहाय निद्रां चिरसंनिरुद्धाम्।  
-अनेकरूपाकृतिवर्णनादा  
-नवाम्बुधाराभिहता नदन्ति॥ ३८॥
+स्वनैर् घनानां प्लवगाः+++(=मण्डूकाः)+++ प्रबुद्धा,  
+विहाय निद्रां चिर-संनिरुद्धाम्।  
+अनेक-रूपाकृति-वर्ण-नादा  
+नवाम्बु-धाराभिहता नदन्ति॥ ३८॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+By the sounds of the dense clouds, the frogs are awakened,
+casting off the confinement of their long hibernation,
+of many sizes, shapes, colors & calls, struck by the fresh [monsoonal] streams the resound.
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत् - टिप्पनी</summary>
+
+Thus, we can see vAlmIki himself uses frog similes/metaphors. The second triShTubh hearkens to the long hibernation also mentioned by vasiShTha maitrAvaruNi in the shruti (aMvatsaraM shashayAnA |). 
+</details>
+
+
 
 <details><summary>मूलम्</summary>
 
@@ -1019,8 +1058,10 @@ title_english = "028 Eulogy on Rainy Season"
 
 <details><summary>मूलम्</summary>
 
-सुरतामर्दविच्छिन्नाः स्वर्गस्त्रीहारमौक्तिकाः।  
-पतन्ति चातुला दिक्षु तोयधाराः समन्ततः॥ ५१॥
+सुरतामर्दविच्छिन्नाः  
+स्वर्ग-स्त्री-हार-मौक्तिकाः।  
+पतन्ति चातुला दिक्षु  
+तोयधाराः समन्ततः॥ ५१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1047,8 +1088,10 @@ title_english = "028 Eulogy on Rainy Season"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृत्ता यात्रा नरेन्द्राणां सेना पथ्येव वर्तते।  
-वैराणि चैव मार्गाश्च सलिलेन समीकृताः॥ ५३॥
++++(यद्)+++ वृत्ता यात्रा नरेन्द्राणां,  
++++(तत्र तत्र)+++ सेना पथ्येव वर्तते।  
+वैराणि चैव मार्गाश् च  
+सलिलेन समीकृताः॥ ५३॥ +++(4)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1064,9 +1107,24 @@ title_english = "028 Eulogy on Rainy Season"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मासि प्रौष्ठपदे ब्रह्म ब्राह्मणानां विवक्षताम्।  
-अयमध्यायसमयः सामगानामुपस्थितः॥ ५४॥
+मासि प्रौष्ठपदे ब्रह्म  
+ब्राह्मणानां विवक्षताम्।  
+अयम् **अध्याय-समयः**  
+सामगानाम् **उपस्थितः**॥ ५४॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+In the month of prauShTapada there is recitation of the mantra of the v1s.
+At this time of study the sAman songs are presented.
+</details>
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+कुतः प्रौष्ठपद उच्यते??
+यदा दक्षिणायनारम्भः, वर्षाकालः, वेदाध्ययनोपाकर्म च पुरा ऽसीद् युगपत्, प्रौष्ठपदासु तु तन्नासीत् ३५०० BCE तः परम् …
+</details>
+
 
 <details><summary>मूलम्</summary>
 
