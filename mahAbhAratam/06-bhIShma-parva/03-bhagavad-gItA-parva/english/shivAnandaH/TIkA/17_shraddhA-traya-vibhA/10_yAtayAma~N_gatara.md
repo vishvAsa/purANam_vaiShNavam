@@ -4,7 +4,7 @@ title = "10 यातयामङ् गतरसम्"
 +++
 17.10 यातयामम् state; गतरसम् tasteless; पूति putrid; पर्युषितम् rotten;
 च and; यत् which; उच्छिष्टम् refuse; अपि also; च and; अमेध्यम् impure;
-भोजनम् food; तामसप्रियम् liked by the Tamasic.Commentary Cannabis indica
+भोजनम् food; तामसप्रियम् liked by the Tamasic. Commentary Cannabis indica
 (Ganja); Bhang; opium; cocaine; Charas; Chandoo; all stale and putrid
 articles; are Tamasic.Yatayamam Stale; literally means cooked three
 hours ago. Yatayamam and Gatarasam mean the same thing.Paryushitam
