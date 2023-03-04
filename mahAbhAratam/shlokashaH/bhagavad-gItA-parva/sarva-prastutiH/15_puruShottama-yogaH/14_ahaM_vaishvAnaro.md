@@ -2,14 +2,14 @@
 title = "14 अहं वैश्वानरो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।  
 प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।15.14।।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।  
@@ -20,7 +20,7 @@ title = "14 अहं वैश्वानरो"
 
 _________________
 ## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।15.14।।**अहं वैश्वानरो** जाठरानलो **भूत्वा** सर्वेषां **प्राणिनां
@@ -32,7 +32,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
   
@@ -48,7 +48,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 15.14 Becoming the 'digestive fire', or the fire of digestion, I
@@ -67,7 +67,7 @@ eating these glories with Himself.
 
 _________________
 ## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
 ।।15.12 -- 15.14।। यदादित्येत्यादि चतुर्विधमित्यन्तम्।
@@ -86,7 +86,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 15.12-14 Yad aditya-etc. upto caturvidham. While clarifying the role
@@ -125,7 +125,7 @@ Lord; to be independent in all knowledges; and to be the Creator of all;
 
 _________________
 ## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।15.12 -- 15.14।। पूर्वोक्तमेव ज्ञानं प्रपञ्चयति --
@@ -133,7 +133,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
 ।।15.13 -- 15.14।। धेनोरावेशो न भूतधारणे कारणमित्यत आह -- **गामि**ति।
@@ -144,7 +144,7 @@ _________________
 
 _________________
 ## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
 ।।15.14।। -- **अहमे**व **वैश्वानरः** उदरस्थः अग्निः भूत्वा --
@@ -158,7 +158,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
 ।।15.14।। तथा --, मैं ही; पेटमें रहनेवाला जठराग्नि होकर अर्थात् यह अग्नि
@@ -172,7 +172,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 15.14 Bhutva, taking the form of; vaisvanarah, Vaisvanara, the fire in
@@ -194,7 +194,7 @@ and Soma, is not affected by the impurity of food. Further,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
 ।।15.14।। भगवतः सर्वात्मत्वे हेत्वन्तरमाह -- **किञ्चेति।**
@@ -212,7 +212,7 @@ and Soma, is not affected by the impurity of food. Further,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
 ।।15.14।। अहमिति। किंचाहमीश्वर एव वैश्वानरो
@@ -231,7 +231,7 @@ and Soma, is not affected by the impurity of food. Further,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
 ।।15.14।। अहं वैश्वानरसंज्ञ उदरस्थोऽग्निर्भूत्वा प्राणिनां सर्वेषां
@@ -245,7 +245,7 @@ and Soma, is not affected by the impurity of food. Further,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।15.14।। किंचाहं परमात्मा वैश्वानर उदरस्थोऽग्निर्भूत्वा प्राणिनां
@@ -266,7 +266,7 @@ and Soma, is not affected by the impurity of food. Further,
 
 _________________
 ## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।15.14।। किञ्च अहं वैश्वानर इति। वैश्वांनरः साधारणशब्दविशेषात्
@@ -279,7 +279,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
   
@@ -296,7 +296,7 @@ _________________
 
 _________________
 ## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
 ।।15.14।। किंच **-- अहमिति।** वैश्वानरो जाठरो भूत्वा प्राणिनां
@@ -314,7 +314,7 @@ _________________
 
 _________________
 ## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/hindI/chinmayAnandaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
 
 ।।15.14।। वैश्वानर वही चैतन्यस्वरूप परमात्मा समस्त जीवित प्राणियों के
@@ -346,7 +346,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।15.14।। मैं ही समस्त प्राणियों के देह में स्थित वैश्वानर अग्निरूप होकर
@@ -355,7 +355,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
 ।।15.14।। प्राणियोंके शरीरमें रहनेवाला मैं प्राण-अपानसे युक्त वैश्वानर
@@ -363,7 +363,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
 
 ।।15.14।।***व्याख्या --***  **अहं वैश्वानरो भूत्वा प्राणिनां
@@ -409,7 +409,7 @@ _________________
 
 _________________
 ## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 15.14. Being the digestive fire dwelling within the body of living
@@ -418,7 +418,7 @@ creatures, and being in association with the upward and downward winds
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 15.14 Taking the form of Vaisvanara and residing in the bodies of
@@ -427,7 +427,7 @@ of food.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 15.14 Becoming the fire of life, I pass into their bodies and, uniting
@@ -436,7 +436,7 @@ food.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 15.14 Becoming the digestive fire, I function within the bodies of all
@@ -445,7 +445,7 @@ four kinds of food.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 15.14 Having become the fire Vaisvanara, I abide in the body of living
@@ -454,7 +454,7 @@ food.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/shivAnandaH/TIkA/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 15.14 अहम् I; वैश्वानरः (the fire) Vaisvanara; भूत्वा having become;

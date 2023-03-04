@@ -2,14 +2,14 @@
 title = "21 सुखमात्यन्तिकं"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
 
 सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम्।  
 वेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः।।6.21।।
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम्।  
@@ -20,7 +20,7 @@ title = "21 सुखमात्यन्तिकं"
 
 _________________
 ## रामानुज-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।6.21।।**यत्तद् अतीन्द्रियम्** आत्मबुद्ध्येक**ग्राह्यम् आत्यन्तिकं सुखं
@@ -29,7 +29,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
 ।। 6.21पुनरपि योगदशैव आदरातिरेकाय निरतिशयपुरुषार्थत्वप्रतिपादनेन
@@ -89,7 +89,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 6.20 - 6.23 Where, through the practice of Yoga, the mind, which is
@@ -116,7 +116,7 @@ zestful exaltation.
 
 _________________
 ## अभिनवगुप्त-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
 ।।6.20 6.23।। इदानीं तस्य स्वस्वभावस्य ब्रह्मणो बहुतरविशेषणद्वारेण
@@ -133,7 +133,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 6.20 See Comment under 6.23
@@ -144,14 +144,14 @@ _________________
 
 _________________
 ## माध्व-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।6.21 6.22।। तत्त्वतो भगवद्रूपत्वात्।
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः जयतीर्थः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/jayatIrthaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) मध्वः जयतीर्थः ...{Loading}...</h3></summary>
 
 ।।6.21 6.22।। तत्त्वतस्तद्भावात् ब्रह्मत्वादिति प्रमाणविरुद्धं व्याख्यानं
@@ -163,7 +163,7 @@ _________________
 
 _________________
 ## शाङ्कर-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
 ।।6.21।। **सुखम्** आत्यन्तिकं अत्यन्तमेव भवति इत्या**त्यन्तिकम्**
@@ -175,7 +175,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (हि) हरिकृष्णदासः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/hindI/harikRShNadAsaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) शङ्करः (हि) हरिकृष्णदासः ...{Loading}...</h3></summary>
 
 ।।6.21।। तथा जो सुख अत्यन्त यानी अन्तसे रहित अनन्त है जो इन्द्रियोंकी कुछ
@@ -186,7 +186,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 6.21 Yatra, when, at the time when; vetti, one experiences; tat, that;
@@ -201,7 +201,7 @@ deviate from the nature of Reality-. Further,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
 ।।6.21।। योगसिद्धिकालं प्रकारान्तरेण प्रकटयति **किञ्चेति।** बुद्धिशब्दः
@@ -212,7 +212,7 @@ deviate from the nature of Reality-. Further,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मधुसूदन-सरस्वती" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/madhusUdana-sarasvatI/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) शङ्करः मधुसूदन-सरस्वती ...{Loading}...</h3></summary>
 
 ।।6.21।। आत्मन्येव तोषे हेतुमाह यत्र यस्मिन्नवस्थाविशेष आत्यन्तिकमनन्तं
@@ -237,7 +237,7 @@ deviate from the nature of Reality-. Further,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
 ।।6.21।। किं च **सुखमिति।** आत्यन्तिकमनन्तं यत्सुखं तत्केवलं
@@ -251,7 +251,7 @@ deviate from the nature of Reality-. Further,
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।6.21।। किंच सुखमत्यन्तमेव भवतीत्यात्यन्तिकं अनन्तमित्यर्थः। यदेतादृशं
@@ -267,7 +267,7 @@ deviate from the nature of Reality-. Further,
 
 _________________
 ## वल्लभ-सम्प्रदायः
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।6.21।। आत्मसुखप्राप्तिलक्षणेन फलेन तमेव लक्षयति यत्रेति। सुखमात्यन्तिकं
@@ -276,7 +276,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः पुरुषोत्तमः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/puruShottamaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) वल्लभः पुरुषोत्तमः ...{Loading}...</h3></summary>
 
   
@@ -296,7 +296,7 @@ _________________
 
 _________________
 ## संस्कृतटीकान्तरम्
-<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
 ।।6.21।। आत्मन्येव तोषे हेतुमाह **सुखमिति।** यत्र यस्मिन्नवस्थाविशेषे
@@ -311,7 +311,7 @@ _________________
 
 _________________
 ## हिन्दी-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/hindI/chinmayAnandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) चिन्मयानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/chinmayAnandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(हि) चिन्मयानन्दः ...{Loading}...</h3></summary>
 
 ।।6.21।। No commentary.  
@@ -319,7 +319,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।6.21।। जो सुख आत्यन्तिक, अतीन्द्रिय और बुध्दिग्राह्म है, उस सुखका जिस
@@ -328,7 +328,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/anuvAdaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(हि) रामसुखदासः अनुवादः ...{Loading}...</h3></summary>
 
 ।।6.21।। जो सुख आत्यन्तिक, अतीन्द्रिय और बुद्धिग्राह्य है, उस सुखका जिस
@@ -337,7 +337,7 @@ _________________
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(हि) रामसुखदासः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/rAmasukhadAsaH/TIkA/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(हि) रामसुखदासः टीका ...{Loading}...</h3></summary>
 
 ।।6.21।।***व्याख्या--*'सुखमात्यन्तिकं यत्'--**ध्यानयोगी अपने द्वारा
@@ -358,7 +358,7 @@ _________________
 
 _________________
 ## आङ्ग्ल-टीकाः
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 6.21. Where he realises that limitless Bliss Which is to be grasped by
@@ -367,7 +367,7 @@ from the Reality;
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 6.21 When one experienece that absolute Blisss which can be intuited by
@@ -376,7 +376,7 @@ the intellect and which is beyond the senses, and being established
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 6.21 When he enjoys the Bliss which passes sense, and which only the
@@ -385,7 +385,7 @@ Self, never again will he stray from reality.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 6.21 Where one knows that infinite happiness which can be grasped by the
@@ -394,7 +394,7 @@ swerves not from that condition;
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 6.21 When he (the Yogi) feels that Infinite Bliss which can be grasped
@@ -403,7 +403,7 @@ wherein he never moves from the Reality.
 
 </details>
 </div>
-<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
+<div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.21 सुखम् bliss; आत्यन्तिकम् infinite; यत् which; तत् that;
