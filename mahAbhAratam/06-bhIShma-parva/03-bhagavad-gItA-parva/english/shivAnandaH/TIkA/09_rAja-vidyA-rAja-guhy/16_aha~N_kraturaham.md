@@ -10,5 +10,5 @@ the offering.Commentary Kratu is a kind of Vedic sacrifice.Yajna is the
 worship enjoined in the Smriti or the holy books laying down lay and the
 code of conduct.I am the Mantra; the chant with which the oblation is
 offered to the manes or ancestors; and the shining ones (the Devatas or
-gods).Hutam also means the act of offering.Aushadham All plants
+gods). Hutam also means the act of offering. Aushadham All plants
 including rice and barley or medicine that can cure diseases. (Cf.IV.24)
