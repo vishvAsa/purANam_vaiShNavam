@@ -1,162 +1,17 @@
 +++
 title = "भूत्र-विज्ञानम्"
 +++
-सिद्धानां देवतानां च यदा परिमिता गतिः ।  
-तदा गौनमनन्तस्य नामानन्तेति विश्रुतम् ।  
-
-नामधेयानुरूपस्य मानसस्य महात्मनः ॥ ३२ ॥  
-यदा तु दिव्यं तद्रूपं ह्रसते वर्धते पुनः ।  
-कोऽन्यस्तद्वेदितुं शक्तो योऽपि स्यात्तद्विधोऽपरः ॥ ३३ ॥  
-
-ततः पुष्करतः सृष्टः सर्वज्ञो मूर्तिमान्प्रभुः ।  
-ब्रह्मा धर्ममयः पूर्वः प्रजापतिरनुत्तमः ॥ ३४ ॥  
-
-
-भरद्वाज पुष्कराद्यदि सम्भूतो ज्येष्ठं भवति पुष्करम् ।  
-ब्रह्माणं पूर्वजं चाह भवान्सन्देह एव मे ॥ ३५ ॥  
-Bharadvāja asked: “If the lotus-like form emerged first, then that become primary, yet why is Brahmā called the progenitor? This is my doubt” भृगुरुवाच मानसस्येह या मूर्तिर्ब्रह्मत्वं समुपागता ।  
-तस्यासन विधानार्थं पृथिवी पद्ममुच्यते ॥ ३६ ॥  
-A form of Mānasa became Brahmā. The lotus like form is the solid element which provides a substratum for [Brahmā]. कनिका तस्य पद्मस्य मेरुर्गगनमुच्छ्रितः ।  
-तस्य मध्ये स्थितो लोकान्सृजते जगतः प्रभुः ॥ ३७ ॥  
-The pericarp of the lotus became Meru, which formed the axis of the world. Residing in its midst [Brahmā] gave rise to the world. ॥ १  ॥  
-भरद्वाज प्रजा विसर्गं विविधं कथं स सृजते प्रभुः ।  
-मेरुमध्ये स्थितो ब्रह्मा तद्ब्रूहि द्विजसत्तम ॥ १ ॥  
-Bharadvāja asked: “O best of the twice-born, tell me how did the mighty Brahmā, seated in the midst of Meru, give rise to various objects and emanations?” भृगुरुवाच Bhṛgu said: प्रजा विसर्गं विविधं मानसो मनसासृजत् ।  
-सन्धुक्षणार्थं भूतानां सृष्टं प्रथमतो जलम् ॥ २ ॥  
-Mānasa generated the diverse emanations through Manasa [9]. The liquid element, which sustains all beings emanated first. यत् प्राणाः सर्वभूतानां वर्धन्ते येन च प्रजाः ।  
-परित्यक्ताश्च नश्यन्ति तेनेदं सर्वमावृतम् ॥ ३ ॥  
-It is the metabolism of all living beings; they grow and reproduce due to it. If it were not there all life would have perished. पृथिवी पर्वता मेघा मूर्तिमन्तश च ये परे ।  
-सर्वं तद्वारुणं ज्ञेयमापस्तस्तम्भिरे पुनः ॥ ४ ॥  
-The Earth, the mountains, the coulds, their forms are pervade from within and without by [the liquid element]. All is that element Varuṇa, know them to be condensations thereof.
-
-भरद्वाज Bharadvāja spoke: कथं सलिलमुत्पन्नं कथं चैवाग्निमारुतौ ।  
-कथं च मेदिनी सृष्टेत्यत्र मे संशयो महान् ॥ ५ ॥  
-“How did the liquid element arise? How did heat and gas emerge? How did the solid element arise? I have great doubts in this regard.” भृगुरुवाच Bhṛgu said: ब्रह्मकल्पे पुरा ब्रह्मन्ब्रह्मर्षीणां समागमे ।  
-लोकसम्भव सन्देहः समुत्पन्नो महात्मनाम् ॥ ६ ॥  
-In the ancient epoch of the Brahmakalpa, when the Brahmaṛṣis endued with Brahma assembled together, the great ones developed this same question regarding the origin of the universe. तेऽतिष्ठन्ध्यानमालम्ब्य मौनमास्थाय निश्चलाः ।  
-त्यक्ताहाराः पवनपा दिव्यं वर्षशतं द्विजाः ॥ ७ ॥  
-These twice-born ones remained silent and unmoved in contemplation [on this problem], staying away from food and merely subsisting on air for a hundred divine years. तेषां धर्ममयी वाणी सर्वेषां श्रोत्रमागमत् ।  
-दिव्या सरस्वती तत्र सम्बभूव नभस्तलात् ॥ ८ ॥  
-Thereafter, [the below] Dharma-filled words reached the ears of all of them. Indeed this was the celestial Sarasvatī that emerged in the sky [10]. पुरा स्तिमितनिःशब्दमाकाशमचलोपमम् ।  
-नष्ट चन्द्रार्कपवनं प्रसुप्तमिव सम्बभौ ॥ ९ ॥  
-In the beginning there was only the motionless and immovable space. Without bodies like the sun or moon or the gaseous element it was as though in a state of dormancy. ततः सलिलमुत्पन्नं तमसीवापरं तमः ।  
-तस्माच्च सलिलोत्पीडादुदतिष्ठत मारुतः ॥ १० ॥  
-Then the liquid element emerged, like something denser than the existing emptiness[11].  From the outward pressure in the liquid element arose the gaseous element.  
-यथा भाजनमच्छिद्रं निःशब्दमिव लक्ष्यते ।  
-तच्चाम्भसा पूर्यमाणं सशम्ब्दं कुरुतेऽनिलः ॥ ११ ॥  
-Like a vessel without a fissure the universe was without sound. But when filled with the liquid element sound was transmitted gaseous element. तथा सलिलसंरुद्धे नभसोऽन्ते निरन्तरे ।  
-भित्त्वार्णव तलं वायुः समुत्पतति घोषवान् ॥ १२ ॥  
-Thus the space permeated throughout by the liquid element, and from it [liquid element] penetrated by waves arose the vibrating gaseous element. स एष चरते वायुरर्णवोत्पीड सम्भवः ।  
-आकाशस्थानमासाद्य प्रशान्तिं नाधिगच्छति ॥ १३ ॥  
-The gas thus by the pressure of the waves in water keeps moving. In the midst of space where there is no countering force it never stops. तस्मिन्वाय्वम्बुसङ्घर्षे दीप्ततेजा महाबलः ।  
-प्रादुर्भवत्यूर्ध्वशिखः कृत्वा वितिमिरं नभः ॥ १४ ॥  
-Where the gas encountered the liquid element, there was friction and this gave rise the light and heat filled with energy. These radiated forth with upward- directed rays and dispelled the darkness from the space. अग्निः पवनसंयुक्तः खात्समुत्पतते जलम् ।  
-सोऽग्निर्मारुत संयोगाद्घनत्वमुपपद्यते ॥ १५ ॥  
-The heat acting on the gaseous element spread the liquid element into space. Through the combination with heat and the gaseous element it [the liquid element] gave rise to dense structures. तस्याकाशे निपतितः स्नेहस्तिष्ठति योऽपरः ।  
-स सङ्घातत्वमापन्नो भूमित्वमुपगच्छति ॥ १६ ॥  
-These condensates of the liquid element fell of from the sky and solidified to give rise to the solid element. रसानां सर्वगन्धानां स्नेहानां प्रानिनां तथा ।  
-भूमिर्योनिरिह ज्ञेया यस्यां सर्वं प्रसूयते ॥ १७ ॥  
-This solid element as the earth is known to be the source from which all liquids, substances, smells and living beings originated. ॥ २  ॥  
-भरद्वाज Bharadvāja asked: एते ते धातवः पञ्च ब्रह्मा यानसृजत्पुरा ।  
-आवृता यैरिमे लोका महाभूताभिसञ्ज्ञितैः ॥ १ ॥  
-These five substances emerged first from Brahmā, and they constitute the universe and are known as the Mahābhūtas. यदासृजत्सहस्राणि भूतानां स महामतिः ।  
-पञ्चानामेव भूतत्वं कथं समुपपद्यते ॥ २ ॥  
-Thousands of substances emerged from the great [Brahmā] but why are only these 5  considered the primary Bhūta?
-
-भृगुरुवाच Bhṛgu said: अमितानां महाशब्दो यान्ति भूतानि सम्भवम् ।  
-ततस्तेषां महाभूतशब्दोऽयमुपपद्यते ॥ ३ ॥  
-Those elements which are further undefinable are known as “Mahā”, hence these elements are known as Mahābhūtas. चेष्टा वायूः खमाकासमूष्माग्निः सलिलं द्रवः ।  
-पृथिवी चात्र सङ्घातः शरीरं पाञ्च भौतिकम् ॥ ४ ॥  
-Activity is in gas, vacuum is in space, vapor is due to heat, viscosity is in liquid and conjoint structure is in solid. So the bodies are made of the five Bhūtas. इत्येतैः पञ्चभिर्भूतैर्युक्तं स्थावरजङ्गमम् ।  
-श्रोत्रं घ्राणं रसः स्पर्शो दृष्टिश्चेन्द्रियसञ्ज्ञिताः ॥ ५ ॥  
-Thus are all objects mobile and immobile made of the the five Bhūtas. [The five Bhūtas] are also perceived the ears, nose, taste organs, touch organs and eyes.
-
-भरद्वाज Bharadvāja asked: पञ्चभिर्यदि भूतैस्तु युक्ताः स्थावरजङ्गमाः ।  
-स्थावराणां न दृश्यन्ते शरीरे पञ्च धातवः ॥ ६ ॥  
-If all bodies mobile and immobile are made of these five Bhūtas, then why do we not see these 5 substances in the bodies of the immobile? अनूष्मनामष्टानां घनानां चैव तत्त्वतः ।  
-वृक्षाणां नोपलभ्यन्ते शरीरे पञ्च धातवः ॥ ७ ॥  
-The trees have no heat and they do not seem to have [their own] motion or solid particles. So they are not made of the 5 substances. न शृण्वन्ति न पश्यन्ति न गन्धरसवेदिनः ।  
-न च स्पर्शं विजानन्ति ते कथं पाञ्च भौतिकाः ॥ ८ ॥  
-They do not hearm, they do not see, they do not perceive smell or taste and they do not perceive touch. So how can they sense the 5 Bhūtas. अद्रवत्वादनग्नित्वादभौमत्वादवायुतः ।  
-आकाशस्याप्रमेयत्वाद्वृक्षाणां नास्ति भौतिकम् ॥ ९ ॥  
-It seems to me that as they lack any liquid material, and heat, any solidity, any gas and space, plants cannot be considered as conglomerates of Bhūtas.
-
-भृगुरुवाच Bhṛgu said: घनानामपि वृक्षाणामाकाशोऽस्ति न संशयः ।  
-तेषां पुष्प फले व्यक्तिर्नित्यं समुपलभ्यते ॥ १० ॥  
-Without doubt the plants have space and solidity contained within them. It is due to this these put forth flowers and fruits from within them. ऊष्मतो ग्लान पर्णानां त्वक्फलं पुष्पमेव च ।  
-म्लायते चैव शीतेन स्पर्शस्तेनात्र विद्यते ॥ ११ ॥  
-They heat within them hence the leaf, bark, fruit and flowers ripen. They sicken and dry up suggesting that they have a sence of touch. वाय्वग्न्यशनि निष्पेषैः फलपुष्पं विशीर्यते ।  
-श्रोत्रेण गृह्यते शब्दस्तस्माच्छृण्वन्ति पादपाः ॥ १२ ॥  
-Under the sounds of wind, fire and thunder, fruits fall off and flowers close. This suggests that they have organs by which they sense sound. वल्ली वेष्टयते वृक्षं सर्वतश चैव गच्छति ।  
-न ह्यदृष्टेश्च मार्गोऽस्ति तस्मात्पश्यन्ति पादपाः ॥ १३ ॥  
-The creepers winds on trees moving all around. One cannot sense path without seeing, so they have the sense of light. पुण्यापुण्यैस्तथा गन्धैर्धूपैश च विविधैरपि ।  
-अरोगाः पुष्पिताः सन्ति तस्माज्जिघ्रन्ति पादपाः ॥ १४ ॥  
-They have diverse smells, good and bad, and perfumes. They sense these scents to recover from disease and put out flowers. पादैः सलिलपानं च व्याधीनामपि दर्शनम् ।  
-व्याधिप्रतिक्रियत्वाच्च विद्यते रसनं द्रुमे ॥ १५ ॥  
-With their roots [plants] drink water and they are also seen to acquire diseases. These diseases can be cured with medicines, and this suggests that the plants have a sense of taste. वक्त्रेणोत्पल नालेन यथोर्ध्वं जलमाददेत् ।  
-तथा पवनसंयुक्तः पादैः पिबति पादपाः ॥ १६ ॥  
-Just as one can suck water through tubes in a bent lotus stalk, thus plants, by means of the force of the gaseous element suck water with their roots. ग्रहणात्सुखदुःखस्य छिन्नस्य च विरोहणात् ।  
-जीवं पश्यामि वृक्षाणामचैतन्यं न विद्यते ॥ १७ ॥  
-They are affected by pleasures and pains and regenerate when cut up. Hence, I conclude that plants have have life and are capable of sensory perception.   
-तेन तज्जलमादत्तं जरयत्यग्निमारुतौ ।  
-आहारपरिनामाच्च स्नेहो वृद्धिश्च जायते ॥ १८ ॥  
-The action of heat and the gaseous element cause the sap that has been thus sucked to be digested. Depending on the amount of sap that has been consumed there is an advance in [the plant’s] growth. जङ्गमानां च सर्वेषां शरीरे पञ्च धातवः ।  
-प्रत्येकशः प्रभिद्यन्ते यैः शरीरं विचेष्टते ॥ १९ ॥  
-All animals are similarly composed of 5 primary substances, in each the [5 substances] occur in different proportions and are responsible for the activities of their bodies. त्वक्च मांसं तथास्थीनि मज्जा स्नायु च पञ्चमम् ।  
-इत्येतदिह सङ्ख्यातं शरीरे पृथिवी मयम् ॥ २० ॥  
-Integument, muscles, skeleton, marrow, sinews, these five combine together in the body and are dominated by the solid element. तेजोऽग्निश्च तथा क्रोधश्चक्षुरूष्मा तथैव च ।  
-अग्निर्जरयते चापि पञ्चाग्नेयाः शरीरिणः ॥ २१ ॥  
-Metabolic energy, anger, sight, internal heat, and also the digestive fire are the five fires in all organisms. श्रोत्रं घ्राणमथास्यं च हृदयं कोष्ठमेव च ।  
-आकाशात्प्राणिनामेते शरीरे पञ्च धातवः ॥ २२ ॥  
-Hearing and smelling organs, mouth, heart and the gut comprise the 5 representations of space in the body of animal. श्लेष्मा पित्तमथ स्वेदो वसा शोनितमेव च ।  
-इत्यापः पञ्चधा देहे भवन्ति प्राणिनां सदा ॥ २३ ॥  
-Lymph, digestive secretions, excretory secretions, fats and blood are the five derivatives of the liquid element tha always occur in animals. प्राणात्प्राणीयते प्राणी व्यानाद्व्यायच्छते तथा ।  
-गच्छत्यपानोऽवाक्चैव समानो हृद्यवस्थिथ ॥ २४ ॥  
-The Prāṇa runs the bodily metabolism of animals; through Vyāna they show muscular action. Apāna excretes things out, Samāna is in cardiac action.  
-उदानादुच्छ्वसिति च प्रतिभेदाच्च भासते ।  
-इत्येते वायवः पञ्च चेष्टयन्तीह देहिनम् ॥ २५ ॥  
-Udāna erupts upwards and causes speech. These are the 5 winds that drive metabolic activity in bodies. भूमेर्गन्धगुणान्वेत्ति रसं चाद्भ्यः शरीरवान् ।  
-ज्योतिः पश्यति चक्षुर्भ्यां स्पर्शं वेत्ति च वायुना ॥ २६ ॥  
-An animal sense scents with solid element, tastes with the liquid element, light through the eyes allows sensing forms, and though the gaseous element it senses touch. तस्य गन्धस्य वक्ष्यामि विस्तराभिहितान्गुणान् ।  
-इष्टश्चानिष्ट गन्धश्च मधुरः कटुरेव च ॥ २७ ॥  
-I shall describe the general properties of sense of smell and the other senses that are common to both animal and plants. The smells sensed are “attractive”, “unattractive”, sweet and pungent. निर्हारी संहतः स्निग्धो रूक्षो विशद एव च ।  
-एवं नवविधो ज्ञेयः पार्थिवो गन्धविस्तरः ॥ २८ ॥  
-There are also [smells] like “far-reaching”, “complex”, “moist”, “dry” and “sulfurous stench”. These nine varieties of smell are all derived from the solid element. शब्दः स्पर्शश्च रूपं च रसश्चापां गुणाः स्मृताः ।  
-रसज्ञानं तु वक्ष्यामि तन्मे निगदतः शृणु ॥ २९ ॥  
-Sound, touch, visual form and taste are the properties of water. I shall now expound the perception of taste; listen to me. रसो बहुविधः प्रोक्तः सूरिभिः प्रथितात्मभिः ।  
-मधुरो लवनस्तिक्तः कसायोऽम्लः कटुस्तथा ।  
-एष षड्विध विस्तारो रसो वारि मयः स्मृतः ॥ ३० ॥  
-The learned scholars have identified many varieties of tastes, namely sweet, salty, tingling, bitter, sour and pungent. These six are the types of tastes emanating from the liquid element.  
-शब्दः स्पर्शश्च रूपं च त्रिगुणं ज्योतिरुच्यते ।  
-ज्योतिः पश्यति रूपाणि रूपं च बहुधा स्मृतम् ॥ ३१ ॥  
-The heat and light element has properties of sound, touch and form. Form is sensed via light and forms are known to be of many types. ह्रस्वो दीर्घस्तथा स्थूलश्चतुरस्रोऽनु वृत्तवान् ।  
-शुक्लः कृष्णस्तथा रक्तो नीलः पीतोऽरुणस्तथा ।  
-तथा खरो मृदुः श्लक्ष्णो लघुर् गुरुतरो ऽपि च ।  
-एवं द्वादश विस्तारो ज्योती रूपगुण स्मृतः ॥ ३२ ॥  
-Short, tall, large, four-cornered, round, white, black, blood-red, blue, yellow, dawn-hued, stark, softened, standing-out, heavy and light;  these twelve different types [12] constitute the property of light (vision). शब्दस्पर्शौ तु विज्ञेयौ द्विगुणो वायुरुच्यते ।  
-वायव्यस्तु गुणः स्पर्शः स्पर्शश्च बहुधा स्मृतः ॥ ३३ ॥  
-Both sound and touch are the known to be two properties of the gaseous element.The property of the wind-element is touch and its known to be of many kinds कठिनश्चिक्कनः श्लक्ष्णः पिच्छलो मृदु दारुणः ।  
-उष्णः शीतः सुखो दुःखः स्निग्धो विशद एव च ।  
-एवं द्वादश विस्तारो वायव्यो गुण उच्यते ॥ ३४ ॥  
-Hard, soft, agreeable, disagreeable, smooth, rough, hot, cool, pleasurable, painful, viscous and fluid are said to be the twelve types of properties of the gaseous element. तत्रैकगुणमाकाशं शब्द इत्येव तत्स्मृतम् ।  
-तस्य शब्दस्य वक्ष्यामि विस्तरं विविधात्मकम् ॥ ३५ ॥  
-Space has only one property; it is known as sound. I shall now tell you the different kinds of sound.  
-षड्ज ऋषभगान्धारौ मध्यमः पञ्चमस्तथा ।  
-धैवतश्चापि विज्ञेयस्तथा चापि निषादकः ॥ ३६॥  
-They are ṣaḍja, ṛṣabha, gāndhāra, madhyama, pañcama, dhaivata and niṣādaka.  
-एष सप्त विधः प्रोक्तो गुण आकाशलक्षणः ।  
-त्रैस्वर्येण तु सर्वत्र स्थितोऽपि पटहादिषु ॥ ३७ ॥  
-These are the seven kinds of properties that are related to space. The three tones present within all space, but are attached especially to drums [13].  
+  
 मृदङ्ग भेरी शङ्खानां स्तनयित्नो रथस्य च ।  
 यः कश्चिच्छ्रूयते शब्दः प्राणिनो ऽप्राणिनो ऽपि वा ।  
 
 एतेषाम् एव सर्वेषां विषये संप्रकीर्तितः ।  
 
-Whatever sound is heard from a mṛdaṅga (drum), bherī (pipe), conch, thunder, and a chariot, as also those produced by living and non-living objects, are all included in these seven kinds of sound already enumerated.  
+
 एवं बहुविधाकारः शब्द आकाशसंभवः ।  
 आकाशजं शब्दमाहुरेभिर्वायुगुणैः सह ।  
 अव्याहतैश्चेतयते न वेत्ति विषमागतैः ॥ ३८॥  
-Thus sound of various kinds, emerges due to space. It is said that sound emerges in space in combination with the gaseous element. When induced by impact it propogates, but cannot be propogated otherwise.  
+When induced by impact it propogates, but cannot be propogated otherwise.  
 आप्यायन्ते च ते नित्यं धातवस्तैस्तु धातुभिः ।  
 आपोऽग्निर्मारुतश्चैव नित्यं जाग्रति ।  
 देहिषु मूलम् एते शरीरस्य व्याप्य प्राणान् इह स्थिताः॥ ३९ ॥  
