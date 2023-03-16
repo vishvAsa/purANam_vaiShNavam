@@ -1044,10 +1044,19 @@ Thus sound of various kinds, emerges due to space. It is said that sound emerges
 जब वायुसम्बन्धी गुण बाधित न होकर शब्दके साथ रहता है, तब मनुष्य शब्दको सुनता और समझता है; किंतु जब वायुसम्बन्धी गुण दीवार अथवा प्रतिकूल वायुसे बाधित होकर विषम अवस्थामें स्थित हो जाते हैं, तब शब्दका ग्रहण नहीं होता है। वे शब्द आदिके उत्पादक धातु (इन्द्रियगोलक) धातुओं (इन पाँचों भूतों) द्वारा ही पोषित होते हैं॥४३॥
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+When induced by impact it propogates, but cannot be propogated otherwise.  
+The element combining with the other elements [in the body] constantly grow the compounds.
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपोऽग्निर्मारुतश्चैव नित्यं जाग्रति देहिषु।  
-मूलमेते शरीरस्य व्याप्य प्राणानिह स्थिताः ॥ ४४ ॥
+आपो ऽग्निर् मारुतश् चैव  
+नित्यं जाग्रति देहिषु।  
+मूलम् एते शरीरस्य  
+व्याप्य प्राणान् इह स्थिताः ॥ ४४ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1060,6 +1069,12 @@ Thus sound of various kinds, emerges due to space. It is said that sound emerges
 
 जल, अग्नि और वायु—ये तीन तत्त्व सदा देहधारियोंमें जाग्रत् रहते हैं। ये ही शरीरके मूल हैं और प्राणोंमें ओत-प्रोत होकर शरीरमें स्थित रहते हैं॥४४॥
 </details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The liquid, heat and gaseous elements are constantly active in the bodies. They are the roots of the body and pervading the metabolic processes they constitute the bodies. 
+</details>
+
 
 <details><summary>मूलम् (समाप्तिः)</summary>
 

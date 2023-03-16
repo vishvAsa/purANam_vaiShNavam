@@ -2,32 +2,10 @@
 title = "भूत्र-विज्ञानम्"
 +++
   
-मृदङ्ग भेरी शङ्खानां स्तनयित्नो रथस्य च ।  
-यः कश्चिच्छ्रूयते शब्दः प्राणिनो ऽप्राणिनो ऽपि वा ।  
-
-एतेषाम् एव सर्वेषां विषये संप्रकीर्तितः ।  
 
 
-एवं बहुविधाकारः शब्द आकाशसंभवः ।  
-आकाशजं शब्दमाहुरेभिर्वायुगुणैः सह ।  
-अव्याहतैश्चेतयते न वेत्ति विषमागतैः ॥ ३८॥  
-When induced by impact it propogates, but cannot be propogated otherwise.  
-आप्यायन्ते च ते नित्यं धातवस्तैस्तु धातुभिः ।  
-आपोऽग्निर्मारुतश्चैव नित्यं जाग्रति ।  
-देहिषु मूलम् एते शरीरस्य व्याप्य प्राणान् इह स्थिताः॥ ३९ ॥  
-The element combining with the other elements [in the body] constantly grow the compounds. The liquid, heat and gaseous elements are constantly active in the bodies. They are the roots of the body and pervading the metabolic processes they constitute the bodies. ॥ ३  ॥  
 
-भरद्वाज Bharadvāja asked: पार्थिवं धातुमाश्रित्य शारीरोऽग्निः कथं भवेत् ।  
-अवकाश विशेषेण कथं वर्तयतेऽनिलः ॥ १ ॥  
-How in the body does the solid element present itself and what becomes of the heat? How also does space manifest itself, and how does the gaseous element circulate in the body?
-
-भृगुरुवाच Bhṛgu said: वायोर्गतिमहं ब्रह्मन्कीर्तयिष्यामि तेऽनघ ।  
-प्राणिनामनिलो देहान्यथा चेष्टयते बली ॥ २ ॥  
-I shall, O sage, speak to you of the path by which which the gaseous element moves, and how, O sinless one, that mighty substance causes the bodies of organisms to move. श्रितो मूर्धानमग्निस्तु शरीरं परिपालयन् ।  
-प्राणो मूर्धनि चाग्नौ च वर्तमानो विचेष्टते ॥ ३ ॥  
-Heat resides within the brain and takes care of the entire body. The metabolic activity, Prāṇa, residing within the head, along with the heat, causes movements and actions. सजन्तुः सर्वभूतात्मा पुरुषः स सनातनः ।  
-मनो बुद्धिरहङ्कारो भूतानि विषयाश्च सः ॥ ४ ॥  
-That is mark of life, the core of all life forms also known as the eternal puruṣa, basis of the mind, intelligence, and consciousness, as also sensory apparatus of of all organisms. एवं त्विह स सर्वत्र प्राणेन परिपाल्यते ।  
+एवं त्विह स सर्वत्र प्राणेन परिपाल्यते ।  
 पृष्ठतश्च समानेन स्वां स्वां गतिमुपाश्रितः ॥ ५ ॥  
 Thus the organism is, in every respect, controlled by the metabolic activities. At the basis of every activity is the metabolic process called Samāna, which makes every muscular activity run. वस्ति मूलं गुदं चैव पावकं च समाश्रितः ।  
 वहन्मूत्रं पुरीसं चाप्यपानः परिवर्तते ॥ ६ ॥  
