@@ -2,8 +2,8 @@
 title = "08 अमानित्वमदम्भित्वमहिंसा"
 
 +++
-13.8 'Amanitva' means freedom from superiority complex towards eminent
-people. 'Adambhitva': 'Dambha' is the practice of Dharma for winning
+13.8 'Amanitva' means freedom from superiority complex towards eminent people. +++(5)+++ 
+'Adambhitva': 'Dambha' is the practice of Dharma for winning
 fame as a virtuous person; freedom from it is Adambhitva. 'Ahima' is
 absence of tendency to injure others by speech, mind and body. 'Ksanti'
 is the tendency of keeping the mind unmodified even when harmed by
