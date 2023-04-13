@@ -86,13 +86,13 @@ title_english = "015 Rishyashringa officiates putrakAmeShTi ritual for dasharath
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ताः समेत्य यथान्यायं तस्मिन् सदसि देवताः।  
-अब्रुवँल्लोककर्तारं ब्रह्माणं वचनं ततः॥ ५॥
+अब्रुवल्ँ लोककर्तारं ब्रह्माणं वचनं ततः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ताः समेत्य यथान्यायं तस्मिन् सदसि देवताः।  
-अब्रुवँल्लोककर्तारं ब्रह्माणं वचनं ततः॥ ५॥
+अब्रुवल्ँ लोककर्तारं ब्रह्माणं वचनं ततः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>

@@ -86,7 +86,7 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तुर्भाग्यं तु नार्येका प्राप्नोति पुरुषर्षभ।  
-अतश्चैवाहमादिष्टा वने वस्तव्यमित्यपि॥ ५॥
+अतश्चैवाहमादिष्टा वने वस्तव्यमित्यपि॥ ५॥+++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -103,7 +103,7 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न पिता नात्मजो वात्मा न माता न सखीजनः।  
-इह प्रेत्य च नारीणां पतिरेको गतिः सदा॥ ६॥
+इह प्रेत्य च नारीणां पतिरेको गतिः सदा॥ ६॥+++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
@@ -212,13 +212,13 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखं वने निवत्स्यामि यथैव भवने पितुः।  
-अचिन्तयन्ती त्रीँल्लोकांश्चिन्तयन्ती पतिव्रतम्॥ १२॥
+अचिन्तयन्ती त्रील्ँ लोकांश्चिन्तयन्ती पतिव्रतम्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सुखं वने निवत्स्यामि यथैव भवने पितुः।  
-अचिन्तयन्ती त्रीँल्लोकांश्चिन्तयन्ती पतिव्रतम्॥ १२॥
+अचिन्तयन्ती त्रील्ँ लोकांश्चिन्तयन्ती पतिव्रतम्॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -229,7 +229,7 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुश्रूषमाणा ते नित्यं नियता ब्रह्मचारिणी।  
-सह रंस्ये त्वया वीर वनेषु मधुगन्धिषु॥ १३॥
+**सह रंस्ये** त्वया वीर वनेषु मधुगन्धिषु॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -315,8 +315,10 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हंसकारण्डवाकीर्णाः पद्मिनीः साधुपुष्पिताः॥ १८॥  
-इच्छेयं सुखिनी द्रष्टुं त्वया वीरेण संगता।
+हंसकारण्डवाकीर्णाः  
+पद्मिनीः साधुपुष्पिताः॥ १८॥  
+इच्छेयं सुखिनी द्रष्टुं  
+त्वया वीरेण संगता।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -383,10 +385,10 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहं गमिष्यामि वनं सुदुर्गमं  
+अहं **गमिष्यामि** वनं सुदुर्गमं  
 मृगायुतं वानरवारणैश्च।  
-वने निवत्स्यामि यथा पितुर्गृहे  
-तवैव पादावुपगृह्य सम्मता॥ २२॥
+वने **निवत्स्यामि** यथा पितुर्गृहे  
+तवैव पादाव् **उपगृह्य** सम्मता॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -406,8 +408,8 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 
 अनन्यभावामनुरक्तचेतसं  
 त्वया वियुक्तां मरणाय निश्चिताम्।  
-नयस्व मां साधु कुरुष्व याचनां  
-नातो मया ते गुरुता भविष्यति॥ २३॥
+**नयस्व** मां साधु **कुरुष्व** याचनां  
+नातो मया ते **गुरुता भविष्यति**॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -426,7 +428,7 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा ब्रुवाणामपि धर्मवत्सलां  
-न च स्म सीतां नृवरो निनीषति।  
+**न** च स्म सीतां नृवरो **निनीषति**।  
 उवाच चैनां बहु संनिवर्तने  
 वने निवासस्य च दुःखितां प्रति॥ २४॥
 </details>

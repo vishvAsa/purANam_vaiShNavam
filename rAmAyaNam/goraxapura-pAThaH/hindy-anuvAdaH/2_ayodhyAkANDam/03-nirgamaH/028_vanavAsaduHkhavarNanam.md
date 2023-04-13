@@ -452,7 +452,7 @@ title_english = "028 Rama warns Seetha of difficulties of staying in forest"
 
 वनं तु नेतुं न कृता मतिर्यदा  
 बभूव रामेण तदा महात्मना।  
-न तस्य सीता वचनं चकार तं  
+**न** तस्य सीता **वचनं चकार** तं  
 ततोऽब्रवीद् राममिदं सुदुःखिता॥ २६॥
 </details>
 
