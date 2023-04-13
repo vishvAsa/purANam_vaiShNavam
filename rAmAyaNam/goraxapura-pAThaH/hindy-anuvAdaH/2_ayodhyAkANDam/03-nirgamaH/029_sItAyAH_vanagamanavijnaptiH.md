@@ -227,8 +227,10 @@ title_english = "029 Seetha s insistence on going to the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रसादितश्च वै पूर्वं त्वं मे बहुतिथं प्रभो।  
-गमनं वनवासस्य कांक्षितं हि सह त्वया॥ १४॥
+प्रसादितश् च वै पूर्वं  
+त्वं मे बहुतिथं प्रभो।  
+गमनं वनवासस्य  
+कांक्षितं हि सह त्वया॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
