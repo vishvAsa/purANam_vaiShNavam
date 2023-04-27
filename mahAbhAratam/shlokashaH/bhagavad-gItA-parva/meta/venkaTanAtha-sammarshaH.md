@@ -4,7 +4,8 @@ title = "वेङ्कटनाथ-सम्मर्शः"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-18.66 इत्यत्रान्ते प्रस्तुतम्। 
+18.66 इत्यत्रान्ते प्रस्तुतम्।
+Source: [TW](https://archive.org/details/PrasthanatrayaVishishtadvaitaBhashya/Gita%20Ramanuja%20Bhashyam/page/n673/mode/2up?view=theater)
 </details>
 
 
