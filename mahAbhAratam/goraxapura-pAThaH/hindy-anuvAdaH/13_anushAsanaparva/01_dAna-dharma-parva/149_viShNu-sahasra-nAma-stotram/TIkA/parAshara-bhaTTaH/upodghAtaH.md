@@ -295,7 +295,13 @@ This hymn is in conformity with and establishes conclusive teachings of the Maha
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवतारिका तत्र प्रागेव पौनःपुन्येन तत्र तत्र परतत्त्वपरेषु प्रदेशेषु अशेषार्थ-निर्णयश्रवणात् तुष्टंमन्यतया स्वयमपृच्छते जनमेजयाय परम-सौहार्दात् अन्यत् गुह्यतमं ग्राहयन् स्वयमेव श्रीवैशंपायन उवाच --- श्रुत्वा धर्मान् अशेषेण पावनानि च सर्वशः । युधिष्ठिरः शान्तनवं पुनरेवाभ्यभाषत ॥ (1) श्रुत्वा इत्यादि । धर्मान् -- श्रुतिस्मृत्यादिचोदना-लक्ष्णाभ्युदयनिःश्रेयस-फलान् राज-मोक्ष- दानधर्मरूपेण बहून् । अशेषेण - कार्त्स्न्येन; ये च यावन्तः तावतश्च इत्यर्थः । पावनानि च - तपस्तीर्थ-सेवादीनि शुद्धिकराणि च । सर्वशः सर्वप्रकारम्; फलतोऽङ्गतः स्वरूपतोऽधिकारतश्च । श्रुत्वा, युधिष्ठिरः- साक्षात् धर्मसूनुः शान्तनवम् - शन्तनोः गङ्गायां जातत्वेन अभिजाततमम् । पुनरेव अभ्यभाषत - पुनश्च पप्रच्छ; पुनःपृच्छा च भीष्मेण आत्मनीनतया स्वीकृतमतं ज्ञातुम् । "को धर्मः सर्वधर्माणां भवतः परमो मतः ?" इति अनन्तरोक्तेः । तच्च सदाचारप्रावण्यात् । सन्तो हि आचार्यनिष्ठाम् अन्विष्य तद्रुचि-परिगृहीतमेव तत्त्वं च रोचयन्ते; न तु प्रामाणिकत्वमात्रेण ॥ 1 ॥
+अवतारिका॥  
+तत्र प्रागेव पौनःपुन्येन  
+तत्र तत्र परतत्त्व-परेषु प्रदेशेषु  
+अशेषार्थ-निर्णय-श्रवणात् तुष्टं-मन्यतया  
+स्वयम् अपृच्छते जनमेजयाय परम-सौहार्दात्  
+अन्यत् गुह्यतमं ग्राहयन्  
+स्वयमेव श्रीवैशंपायन उवाच --- श्रुत्वा धर्मान् अशेषेण पावनानि च सर्वशः । युधिष्ठिरः शान्तनवं पुनरेवाभ्यभाषत ॥ 
 </details>
 
 
@@ -310,9 +316,39 @@ Vaisampayana narrated this chapter as another great secret without being asked a
 </details>
 
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+(1) श्रुत्वा इत्यादि ।  
+**धर्मान्** -- श्रुतिस्मृत्यादि-चोदना-लक्ष्णाभ्युदय-निःश्रेयस-फलान् राज-मोक्ष-दान-धर्म-रूपेण बहून् ।  
+
+**अशेषेण** - कार्त्स्न्येन; ये च यावन्तः तावतश्च इत्यर्थः ।  
+
+**पावनानि च** - तपस्तीर्थ-सेवादीनि शुद्धिकराणि च । 
+
+**सर्वशः** सर्वप्रकारम्; फलतोऽङ्गतः स्वरूपतोऽधिकारतश्च । 
+
+**श्रुत्वा, युधिष्ठिरः**- साक्षात् धर्मसूनुः **शान्तनवम्** - शन्तनोः गङ्गायां जातत्वेन अभिजाततमम् । 
+
+**पुनरेव अभ्यभाषत** - पुनश्च पप्रच्छ; पुनःपृच्छा च भीष्मेण आत्मनीनतया स्वीकृतमतं ज्ञातुम् । 
+
+"को धर्मः सर्वधर्माणां भवतः परमो मतः ?" इति अनन्तरोक्तेः ।  
+तच् च सदाचार-प्रावण्यात् ।
+
+सन्तो ह्य् आचार्य-निष्ठाम् अन्विष्य
+तद्-रुचि-परिगृहीतम् एव तत्त्वं हितं च रोचयन्ते।  
+न तु प्रामाणिकत्व-मात्रेण ॥ 1 ॥
+</details>
+
+
 <details><summary>English</summary>
 
-Sri Vaisampayana said : (1) Having heard all the dharmas in their entirety (without anything being left out) and all other purificatory acts, Yudhishthira addressed again Santanu's son (Bhishma) as follows: Here 'dharmas' means all those acts which are many and of the form of Raja-dharma (the duties of kings) , Moksha-dharma (the way to salvation) and Dana- dharma (the duty of charity), which are prescribed by injunct- ions contained in Sruti, Smriti, etc., as leading to worldly and heavenly' benefits as well as to eternal salvation. In entirety - completely to the extent to which it extends. Purificatory acts:- such as penance, pilgrimage to holy places. All - everything connected with them - i.e., the benefits to be derived by performing them, their divisions and their charact- eristics and those who have the qualification to perform them. Yudhishthira - himself the son of the god of dharma. The son of Santanu - Bhishma is the son of Santanu by Ganga and is thus of illustrious birth. Addressed again - The question is put to learn what exactly is considered by Bhishma as the most beneilcial. In fact, that is known from the nature of the question put later on, "What is the dharma which is considered by you to be the best of all dharmas?. " His interest was sincere to follow the course of conduct of great men. For good men seek to know the stand taken by the preceptors and take delight in what is considered by them as the truth and as beneficial conduct. They do not do any action merely because it is laid down in Sastras. (Sanction by an authoritative sastra is not enough; it must be accepted and followed by great and good men). 
+Sri Vaisampayana said : (1) Having heard all the dharmas in their entirety (without anything being left out) and all other purificatory acts, Yudhishthira addressed again Santanu's son (Bhishma) as follows: Here 'dharmas' means all those acts which are many and of the form of Raja-dharma (the duties of kings) , Moksha-dharma (the way to salvation) and Dana- dharma (the duty of charity), which are prescribed by injunct- ions contained in Sruti, Smriti, etc., as leading to worldly and heavenly' benefits as well as to eternal salvation. In entirety - completely to the extent to which it extends. Purificatory acts:- such as penance, pilgrimage to holy places. All - everything connected with them - i.e., the benefits to be derived by performing them, their divisions and their charact- eristics and those who have the qualification to perform them. Yudhishthira - himself the son of the god of dharma. The son of Santanu - Bhishma is the son of Santanu by Ganga and is thus of illustrious birth. Addressed again - The question is put to learn what exactly is considered by Bhishma as the most beneficial. 
+
+In fact, that is known from the nature of the question put later on, "What is the dharma which is considered by you to be the best of all dharmas?. " 
+
+His interest was sincere to follow the course of conduct of great men. 
+
+For good men seek to know the stand taken by the preceptors and take delight in what is considered by them as the truth and as beneficial conduct. They do not do any action merely because it is laid down in Sastras. (Sanction by an authoritative sastra is not enough; it must be accepted and followed by great and good men). 
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
