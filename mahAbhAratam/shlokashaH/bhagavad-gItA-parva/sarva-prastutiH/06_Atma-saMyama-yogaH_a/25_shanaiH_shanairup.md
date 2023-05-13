@@ -2,11 +2,13 @@
 title = "25 शनैः शनैरुपरमेद्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/25_shanaiH_shanairup.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/25_shanaiH_shanairup.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-शनैः शनैरुपरमेद् बुद्ध्या धृतिगृहीतया।  
-आत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत्।।6.25।।
+शनैः **शनैर् उपरमेद्**  
+बुद्ध्या धृति-गृहीतया।  
+**आत्म-सं-स्थं मनः कृत्वा**  
++++(विषयाणां त्यागग्रहणादिकं)+++ न किञ्चिद् अपि चिन्तयेत्॥6.25॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/25_shanaiH_shanairup.md">
@@ -85,18 +87,13 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/25_shanaiH_shanairup.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
-।।6.24 6.25।। कामानां त्यागे +++(SN कामानामुपायत्यागे)+++ उपायः संकल्पत्याग
-इत्याह संकल्पेति। शनैः शनैरिति। मनसैव न +++(S omit न)+++ व्यापारोपरमेण। धृतिं
-गृहीत्वा क्रमात् क्रममभिलाषदुःखं प्रतनूकृत्य किंचिदपि विषयाणां
-त्यागग्रहणादिकं न चिन्तयेत्। यत्तु +++(S यथात्वन्यैर् यथा तु कैश्चिद्)+++
-अन्यैर्व्याख्यातम् नकिञ्चिदपि चिन्तयेत् इति तन्नास्मभ्यं रुचितम्।
-शून्यवादप्रसंगात्।।6.24 6.25।। कामानां त्यागे +++(SN कामानामुपायत्यागे)+++
-उपायः संकल्पत्याग इत्याह संकल्पेति। शनैः शनैरिति। मनसैव न +++(S omit न)+++
-व्यापारोपरमेण। धृतिं गृहीत्वा क्रमात् क्रममभिलाषदुःखं प्रतनूकृत्य
-किंचिदपि विषयाणां त्यागग्रहणादिकं न चिन्तयेत्। यत्तु +++(S यथात्वन्यैर् यथा
-तु कैश्चिद्)+++ अन्यैर्व्याख्यातम् नकिञ्चिदपि चिन्तयेत् इति तन्नास्मभ्यं
-रुचितम्। शून्यवादप्रसंगात्।
+।।6.24 6.25।। कामानां त्यागे +++(SN कामानामुपायत्यागे)+++ उपायः संकल्पत्याग इत्याह संकल्पेति।
 
+शनैः शनैरिति।  
+मनसैव न +++(S omit न)+++ व्यापारोपरमेण।  
+धृतिं  गृहीत्वा क्रमात् क्रमम् अभिलाष-दुःखं प्रतनू-कृत्य  
+किंचिद् अपि विषयाणां त्याग-ग्रहणादिकं न चिन्तयेत्।  
+यत्तु +++(S यथात्वन्यैर् यथा तु कैश्चिद्)+++ अन्यैर् व्याख्यातम् - "न किञ्चिद् अपि चिन्तयेत्" इति तन् नास्मभ्यं रुचितम् - शून्य-वाद-प्रसंगात्।।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/25_shanaiH_shanairup.md">
@@ -317,7 +314,8 @@ _________________
 
   
   
-।।6.25।। ननु कथमिन्द्रियग्रामं विनियच्छेदित्यपेक्षयामाह शनैः शनैरिति।
+।।6.25।। ननु कथम् इन्द्रियग्रामं विनियच्छेद् इत्य् अपेक्षयाम् आह - शनैः शनैरिति।  
+
 धृतिगृहीतया वियोगतापादिदुःखसहनशीलधैर्यगृहीतया बुद्ध्या मनः आत्मसंस्थं
 भावात्मकस्थितं कृत्वा शनैःशनैरुपरमेत् स्वभोगरूपेभ्य उपशमयेत्।
 कथमुपरतिर्भवेदित्यत आह न किञ्चिदपि चिन्तयेदिति। भावात्मकस्वरूपातिरिक्तं

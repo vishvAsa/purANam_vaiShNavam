@@ -2,13 +2,13 @@
 title = "68 य इमम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 य इमं परमं गुह्यं  
-मद्भक्तेष्व् अभिधास्यति।  
+**मद्-भक्तेष्व् अभिधास्यति**।  
 भक्तिं मयि परां कृत्वा  
-माम् एवैष्यत्य् असंशयः।।18.68।।
+**माम् एवैष्यत्य्** असंशयः॥18.68॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">

@@ -2,11 +2,13 @@
 title = "23 गतसङ्गस्य मुक्तस्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः।  
-यज्ञायाचरतः कर्म समग्रं प्रविलीयते।।4.23।।
+गत-सङ्गस्य मुक्तस्य  
+ज्ञानावस्थित-चेतसः।  
+**यज्ञायाचरतः कर्म**  
+समग्रं **प्रविलीयते**॥4.23॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">

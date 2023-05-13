@@ -2,14 +2,15 @@
 title = "09 एवमुक्त्वा हृषीकेशम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सञ्जय उवाच  
-एवम् उक्त्वा हृषीकेशं  
++++(सञ्जय उवाच)+++
+
+एवम् **उक्त्वा** हृषीकेशं  
 गुडाकेशः परन्तप।  
-न योत्स्य इति गोविन्दम्  
-उक्त्वा तूष्णीं बभूव ह।।2.9।।+++(4)+++
+**न योत्स्य** इति गोविन्दम्  
+उक्त्वा **तूष्णीं बभूव** ह॥2.9॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
@@ -27,21 +28,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।2.9।। संजय उवाच एवं अस्थाने समुपस्थितस्नेहकारुण्याभ्याम् अप्रकृतिं गतं
-क्षत्रियाणां युद्धं परमं धर्मम् अपि अधर्मं मन्वानं धर्मबुभुत्सया च
-शरणागतं पार्थम् उद्दिश्य आत्मयाथात्म्यज्ञानेन युद्धस्य फलाभिसन्धिरहितस्य
-स्वधर्मस्य आत्मयाथार्थ्यप्राप्त्युपायताज्ञानेन च विना अस्य मोहो न
-शाम्यति इति मत्वा भगवता परमपुरुषेण अध्यात्मशास्त्रावतरणं कृतम्।
-तदुक्तम्अस्थाने स्नेहकारुण्यधर्माधर्मधियाकुलम्। पार्थं प्रपन्नमुद्दिश्य
-शास्त्रावतरणं कृतम्।। (गीतार्थसंग्रह 5) इति।।  
-तम् एवं देहात्मनोः याथात्म्यज्ञाननिमित्तशोकाविष्टं
-देहातिरिक्तात्मज्ञाननिमित्तिं च धर्मं भाषमाणं परस्परं विरुद्धगुणान्वितम्
-उभयोः सेनयोः युद्धाय उद्युक्तयोः मध्ये अकस्मात् निरुद्योगं पार्थम्
-आलोक्य परमपुरुषः प्रहसन् इव इदम् उवाच। परिहासवाक्यं वदन् इव
-आत्मपरमात्मयाथात्म्यतत्प्राप्त्युपायभूतकर्मयोगज्ञानयोगभक्तियोगगोचरम्न
-त्वेवाहं जातु नासम् (गीता 2।12) इत्यारभ्यअहं त्वा सर्वपापेभ्यो
-मोक्षयिष्यामि मा शुचः। (गीता 18।66) इत्येतदन्तम् उवाच इत्यर्थः।  
-
+[[अग्रिमम् ईक्षताम्]]
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">

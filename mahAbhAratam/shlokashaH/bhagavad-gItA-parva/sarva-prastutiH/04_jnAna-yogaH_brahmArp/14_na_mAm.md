@@ -2,11 +2,13 @@
 title = "14 न माम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा।  
-इति मां योऽभिजानाति कर्मभिर्न स बध्यते।।4.14।।
+न मां कर्माणि लिम्पन्ति  
+**न मे कर्मफले स्पृहा**।  
+इति मां **योऽभिजानाति**  
+कर्मभिर् **न स बध्यते**॥4.14॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
@@ -30,11 +32,11 @@ _________________
 सृष्टिलब्धकरणकलेवराः सृष्टिलब्धं भोग्यजातं फलसङ्गादिहेतुस्वकर्मानुगुणं
 भुञ्जते सृष्ट्यादि**कर्मफले** च तेषाम् एव स्पृहा इति **न मे स्पृहा।  
   
-तथा सूत्रकारः वैषम्यनैर्घृण्ये न सापेक्षत्वात् (ब्र0 सू0 2।1।34) इति।
+तथा सूत्रकारः वैषम्यनैर्घृण्ये न सापेक्षत्वात् (ब्र॰ सू॰ 2।1।34) इति।
 तथा आह भगवान् पराशरः निमित्तमात्रमेवायं सृज्यानां सर्गकर्माणि।
 प्रधानकारणीभूता यतो वै सृज्यशक्तयः।। निमित्तमात्रं मुक्त्वेदं
 नान्यत्किञ्चिदपेक्ष्यते। नीयते तपतां श्रेष्ठ स्वशक्त्या वस्तु
-वस्तुताम्।। (वि0 पु0 1।4।5152) इति। सृज्यानां देवादीनां क्षेत्रज्ञानां
+वस्तुताम्।। (वि॰ पु॰ 1।4।5152) इति। सृज्यानां देवादीनां क्षेत्रज्ञानां
 सृष्टेः कारणमात्रम् एव अयं परमपुरुषः देवादिवैचित्र्ये तु प्रधानकारणं
 सृज्यभूतक्षेत्रज्ञानां प्राचीनकर्मशक्तय एव। अतो निमित्तमात्रं मुक्तवा
 सृष्टेः कर्तारं परमपूरुषं मुक्त्वा इदं क्षेत्रज्ञवस्तु देवादिविचित्रभावे

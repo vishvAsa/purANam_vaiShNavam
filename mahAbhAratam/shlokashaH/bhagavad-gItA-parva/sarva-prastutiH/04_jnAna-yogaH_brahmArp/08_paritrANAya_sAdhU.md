@@ -2,11 +2,13 @@
 title = "08 परित्राणाय साधूनाम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-परित्राणाय साधूनां विनाशाय च दुष्कृताम्।  
-धर्मसंस्थापनार्थाय संभवामि युगे युगे।।4.8।।
+परित्राणाय साधूनां  
+विनाशाय च दुष्कृताम्।  
+धर्म-संस्थापनार्थाय  
+**संभवामि युगे युगे**॥4.8॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">

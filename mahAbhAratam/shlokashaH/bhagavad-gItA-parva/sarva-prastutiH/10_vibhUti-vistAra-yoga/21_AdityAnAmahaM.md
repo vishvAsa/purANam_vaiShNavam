@@ -2,11 +2,13 @@
 title = "21 आदित्यानामहं"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान्।  
-मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी।।10.21।।
+आदित्यानाम् अहं **विष्णुर्**  
+ज्योतिषां **रविर्** अंशुमान्।  
+**मरीचिर्** मरुताम् अस्मि  
+नक्षत्राणाम् अहं **शशी**॥10.21॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/21_AdityAnAmahaM.md">

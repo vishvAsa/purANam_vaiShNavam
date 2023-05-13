@@ -2,11 +2,13 @@
 title = "22 एतैर्विमुक्तः कौन्तेय"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः।  
-आचरत्यात्मनः श्रेयस्ततो याति परां गतिम्।।16.22।।
+एतैर् विमुक्तः कौन्तेय  
+तमो-द्वारैस् त्रिभिर् नरः।  
+आचरत्य् आत्मनः श्रेयस्  
+ततो **याति परां गतिम्**॥16.22॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">

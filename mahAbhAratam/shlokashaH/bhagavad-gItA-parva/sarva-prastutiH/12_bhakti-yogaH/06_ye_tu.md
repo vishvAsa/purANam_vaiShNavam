@@ -2,11 +2,13 @@
 title = "06 ये तु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/06_ye_tu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/06_ye_tu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः।  
-अनन्येनैव योगेन मां ध्यायन्त उपासते।।12.6।।
+ये तु सर्वाणि **कर्माणि**  
+मयि **संन्यस्य** मत्-पराः।  
+अनन्येनैव योगेन मां  
+ध्यायन्त उपासते॥12.6॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/06_ye_tu.md">
@@ -23,10 +25,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/12_bhakti-yogaH/06_ye_tu.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।12.6।।**ये तु** लौकिकानि देहयात्राशेषभूतानि देहधारणार्थानि च अशनादीनि
-**कर्माणि;** वैदिकानि च यागदानहोमतपःप्रभृतीनि **सर्वाणि** सकारणानि
-सोद्देश्यानि अध्यात्मचेतसा **मयि संन्यस्य;** **मत्पराः**
-मदेकप्राप्याः,**अनन्येन एव योगेन मां ध्यायन्तः उपासते;**
+।।12.6।।**ये तु** लौकिकानि देहयात्राशेष-भूतानि देह-धारणार्थानि च अशनादीनि **कर्माणि;** वैदिकानि च याग-दान-होम-तपः-प्रभृतीनि **सर्वाणि** सकारणानि सोद्देश्यानि अध्यात्म-चेतसा  
+**मयि संन्यस्य;** **मत्पराः** मदेकप्राप्याः,  
+**अनन्येन एव योगेन मां ध्यायन्तः उपासते;**  
 ध्यानार्चनप्रणामस्तुतिकीर्तनादीनि स्वयम् एव अत्यर्थप्रियाणि प्राप्यसमानि
 कुर्वन्तो माम् उपासते इत्यर्थः। **तेषां** मत्प्राप्तिविरोधितया
 मृत्युभूतान् **संसारा**ख्यात् **सागराद् अहम्** अचिरेण एव कालेन
@@ -120,8 +121,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/12_bhakti-yogaH/06_ye_tu.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
-।।12.6 -- 12.7।। मदुपासकानां भक्तानां न कश्चित्क्लेश इति दर्शयति -- ये
-त्वित्यादिना। उक्तं च सौकरायणश्रुतौ -- उपासते ये पुरुषं
+।।12.6 -- 12.7।। मदुपासकानां भक्तानां न कश्चित् क्लेश इति दर्शयति -- ये त्वित्यादिना। उक्तं च सौकरायणश्रुतौ -- उपासते ये पुरुषं
 वासुदेवमव्यक्तादेरीप्सितं किन्नु तेषाम् इति। तेषामेकान्तिनः श्रेष्ठास्ते
 चैवानन्यदेवताः। अहमेव गतिस्तेषां निराशीः कर्मकारिणाम् इति च मोक्षधर्मे
 \[म.भा.12\]।

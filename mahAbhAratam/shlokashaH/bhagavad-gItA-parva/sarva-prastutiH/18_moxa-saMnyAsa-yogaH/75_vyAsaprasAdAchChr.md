@@ -2,11 +2,13 @@
 title = "75 व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/75_vyAsaprasAdAchChr.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/75_vyAsaprasAdAchChr.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम्।  
-योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम्।।18.75।।
+व्यास-प्रसादाच् **छ्रुतवान्**  
+एतद् **गुह्यम्** अहं परम्।  
+योगं योगेश्वरात् **कृष्णात्**  
+साक्षात् कथयतः स्वयम्॥18.75॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/75_vyAsaprasAdAchChr.md">

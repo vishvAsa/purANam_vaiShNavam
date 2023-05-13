@@ -2,13 +2,13 @@
 title = "28 यथा नदीनाम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यथा नदीनां बहवोऽम्बुवेगाः  
-समुद्रमेवाभिमुखाः द्रवन्ति।  
-तथा तवामी नरलोकवीरा  
-विशन्ति वक्त्राण्यभिविज्वलन्ति।।11.28।।
+यथा नदीनां बहवो ऽम्बु-वेगाः  
+समुद्रम् एवाभिमुखाः द्रवन्ति।  
+तथा तवामी नर-लोक-वीरा  
+**विशन्ति वक्त्राण्य्** अभिविज्वलन्ति॥11.28॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/28_yathA_nadInAm.md">

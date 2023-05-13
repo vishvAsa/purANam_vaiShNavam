@@ -2,11 +2,13 @@
 title = "10 सहयज्ञाः प्रजाः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः।  
-अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्।।3.10।।
+**सह-यज्ञाः प्रजाः सृष्ट्वा**  
+पुरोवाच प्रजापतिः।  
+अनेन **प्रसविष्यध्वम्**  
+एष वोऽस्त्व् इष्ट-काम-धुक्॥3.10॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/10_sahayajnAH_prajAH.md">
@@ -23,7 +25,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।3.10।। पतिं विश्वरस्य आत्मेश्वरम् (तै0 ना0 11।3) इत्यादिश्रुतेः
+।।3.10।। पतिं विश्वरस्य आत्मेश्वरम् (तै॰ ना॰ 11।3) इत्यादिश्रुतेः
 निरुपाधिकः प्रजापतिशब्दः सर्वेश्वरं विश्वस्रष्टारं विश्वात्मानं परायणं
 नारायणम् आह **पुरा** सर्गकाले स भगवान् **प्रजापतिः**
 अनादिकालप्रवृत्ताचित्संसर्गविवशा उपसंहृतनामरूपविभागाः स्वस्मिन् प्रलीनाः

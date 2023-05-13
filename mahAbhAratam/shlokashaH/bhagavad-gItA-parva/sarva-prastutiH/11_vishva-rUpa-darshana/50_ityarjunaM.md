@@ -2,14 +2,15 @@
 title = "50 इत्यर्जुनं"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सञ्जय उवाच  
-इत्यर्जुनं वासुदेवस्तथोक्त्वा  
-स्वकं रूपं दर्शयामास भूयः।  
-आश्वासयामास च भीतमेनं  
-भूत्वा पुनः सौम्यवपुर्महात्मा।।11.50।।
++++(सञ्जय उवाच)+++
+
+इत्य् अर्जुनं वासुदेवस् तथोक्त्वा  
+स्वकं **रूपं दर्शयाम् आस** भूयः।  
+आश्वासयाम् आस च भीतम् एनं  
+भूत्वा पुनः सौम्य-वपुर् महात्मा॥11.50॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/50_ityarjunaM.md">
@@ -37,12 +38,12 @@ _________________
 भीतवसुदेवप्रार्थनेन आकंसवधात् पूर्वं भुजद्वयम् उपसंहृतं पश्चाद्
 आविष्कृतं च।  
   
-जातोऽसि देवदेवेश शङ्खचक्रगदाधर। दिव्यरूपमिदं देव प्रसादेनोपसंहर।। (वि0
-पु0 5।3।10)उपसंहर विश्वात्मन् रूपमेतच्चतुर्भुजम् (वि0 पु0 5।3।13) इति हि
+जातोऽसि देवदेवेश शङ्खचक्रगदाधर। दिव्यरूपमिदं देव प्रसादेनोपसंहर।। (वि॰
+पु॰ 5।3।10)उपसंहर विश्वात्मन् रूपमेतच्चतुर्भुजम् (वि॰ पु॰ 5।3।13) इति हि
 प्रार्थितम्।  
   
 शिशुपालस्य अपि द्विषतःअनवरतभावनाविषयं चतुर्भुजम् एव वसुदेवसूनो
-रूपम्उदारपीवर चतुर्बाहुं शङ्खचक्रगदाधरम्। (वि0 पु0 4।15।10) इति अतः
+रूपम्उदारपीवर चतुर्बाहुं शङ्खचक्रगदाधरम्। (वि॰ पु॰ 4।15।10) इति अतः
 पार्थेन अत्रतेनैव रूपेण चतुर्भुजेन (गीता 11।46) इति उच्यते।
 
 </details>

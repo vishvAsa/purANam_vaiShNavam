@@ -2,13 +2,13 @@
 title = "26 अथ चैनम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अथ चैनं नित्य-जातं  
-नित्यं वा मन्यसे मृतम्।  
+**अथ** चैनं नित्य-जातं,  
+नित्यं वा **मन्यसे मृतम्**।  
 तथापि त्वं महाबाहो  
-नैवं शोचितुमर्हसि।।2.26।।+++(5)+++
+**नैवं शोचितुमर्हसि**॥2.26॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
@@ -288,7 +288,7 @@ _________________
   
   
 ।।2.26।। एवं
-विद्वत्सिद्धान्तमुक्त्वाऽविद्वत्सि**द्वा৷৷৷৷৷৷৷৷৷৷৷৷**न्तेनापि शोकं
+विद्वत्सिद्धान्तमुक्त्वाऽविद्वत्सिद्वान्तेनापि शोकं
 कर्तुं नार्हसीत्याह अथ चेति। अथ च पक्षान्तरेण। एनं नित्यजातं तत्तद्देहेन
 सह जातं तस्मिन्मृते मृतं वा मन्यसे तथापि त्वं एनं शोचितुं नार्हसि।
 यतस्त्वं महाबाहुः। अत्रायमर्थः नित्यस्यास्य जन्ममरणज्ञानं तु

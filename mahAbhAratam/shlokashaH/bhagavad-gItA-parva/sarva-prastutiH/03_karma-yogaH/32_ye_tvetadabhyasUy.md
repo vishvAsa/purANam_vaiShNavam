@@ -2,11 +2,13 @@
 title = "32 ये त्वेतदभ्यसूयन्तो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम्।  
-सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः।।3.32।।
+**ये** त्व् एतद् अभ्यसूयन्तो  
+**नानुतिष्ठन्ति** मे मतम्।  
+सर्व-ज्ञान-विमूढांस् तान्  
+**विद्धि नष्टान्** अचेतसः॥3.32॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/32_ye_tvetadabhyasUy.md">

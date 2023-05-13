@@ -2,12 +2,15 @@
 title = "09 एवमुक्त्वा ततो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सञ्जय उवाच  
-एवमुक्त्वा ततो राजन्महायोगेश्वरो हरिः।  
-दर्शयामास पार्थाय परमं रूपमैश्वरम्।।11.9।।
++++(सञ्जय उवाच)+++
+
+एवम् उक्त्वा ततो राजन्  
+महायोगेश्वरो हरिः।  
+**दर्शयामास** पार्थाय  
+परमं **रूपम् ऐश्वरम्**॥11.9॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">

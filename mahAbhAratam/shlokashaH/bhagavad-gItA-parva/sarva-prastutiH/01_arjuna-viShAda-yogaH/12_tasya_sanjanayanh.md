@@ -2,13 +2,13 @@
 title = "12 तस्य सञ्जनयन्हर्षम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/12_tasya_sanjanayanh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/12_tasya_sanjanayanh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 तस्य संजनयन् हर्षं  
-कुरु-वृद्धः पितामहः।  
+कुरु-वृद्धः **पितामहः**।  
 सिंहनादं विनद्योच्चैः  
-शङ्खं दध्मौ प्रतापवान्।।1.12।।+++(5)+++
+**शङ्खं दध्मौ** प्रतापवान्॥1.12॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/12_tasya_sanjanayanh.md">

@@ -2,11 +2,13 @@
 title = "27 यत्करोषि यदश्नासि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यत्करोषि यदश्नासि यज्जुहोषि ददासि यत्।  
-यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम्।।9.27।।
+यत् करोषि, यद् अश्नासि  
+यज् जुहोषि, ददासि यत्।  
+यत् तपस्यसि कौन्तेय,  
+तत् **कुरुष्व मद्-अर्पणम्**॥9.27॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/27_yatkaroShi_yadash.md">

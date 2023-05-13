@@ -2,11 +2,13 @@
 title = "09 यज्ञार्थात्कर्मणोऽन्यत्र"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/09_yajnArthAtkarmaNo.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः।  
-तदर्थं कर्म कौन्तेय मुक्तसंगः समाचर।।3.9।।
+**यज्ञार्थात्** कर्मणो **ऽन्यत्र**  
+लोकोऽयं **कर्म-बन्धनः**।  
+तद्-अर्थं **कर्म** कौन्तेय  
+मुक्त-संगः **समाचर**॥3.9॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/09_yajnArthAtkarmaNo.md">

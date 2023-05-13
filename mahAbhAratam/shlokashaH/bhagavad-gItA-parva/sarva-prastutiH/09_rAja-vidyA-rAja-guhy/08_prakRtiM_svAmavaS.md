@@ -2,11 +2,13 @@
 title = "08 प्रकृतिं स्वामवष्टभ्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः।  
-भूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात्।।9.8।।
+प्रकृतिं स्वाम् अवष्टभ्य  
+**विसृजामि** पुनः पुनः।  
+**भूत-ग्रामम्** इमं कृत्स्नम्  
+अवशं प्रकृतेर् वशात्॥9.8॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">

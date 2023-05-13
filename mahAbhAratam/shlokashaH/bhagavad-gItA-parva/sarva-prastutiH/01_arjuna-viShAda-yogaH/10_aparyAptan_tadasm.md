@@ -2,13 +2,13 @@
 title = "10 अपर्याप्तन् तदस्माकम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अपर्याप्तं तद् अस्माकं  
-बलं भीष्माऽभिरक्षितम्।  
-पर्याप्तं त्व् इदम् एतेषां  
-बलं भीमाभिरक्षितम्।।1.10।।+++(5)+++
+**अपर्याप्तं** तद् **अस्माकं**  
+बलं भीष्मा ऽभिरक्षितम्।  
+**पर्याप्तं** त्व् इदम् **एतेषां**  
+बलं भीमाभिरक्षितम्॥1.10॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">

@@ -2,11 +2,13 @@
 title = "19 तपाम्यहमहं वर्षम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च।  
-अमृतं चैव मृत्युश्च सदसच्चाहमर्जुन।।9.19।।
+**तपाम्य्** अहम् अहं वर्षं  
+**निगृह्णाम्य् उत्सृजामि** च।  
+अमृतं चैव मृत्युश् च  
+सद् असच्+++(→अतीतम् अनागतं च, अव्यक्तं वा)+++ चाहम् अर्जुन॥9.19॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">

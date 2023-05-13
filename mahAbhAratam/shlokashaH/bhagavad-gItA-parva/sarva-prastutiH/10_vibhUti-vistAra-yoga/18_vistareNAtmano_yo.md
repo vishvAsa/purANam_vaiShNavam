@@ -2,11 +2,13 @@
 title = "18 विस्तरेणात्मनो योगम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-विस्तरेणात्मनो योगं विभूतिं च जनार्दन।  
-भूयः कथय तृप्तिर्हि श्रृण्वतो नास्ति मेऽमृतम्।।10.18।।
+विस्तरेणात्मनो योगं  
+**विभूतिं** च जनार्दन।  
+**भूयः कथय** तृप्तिर् हि  
+श्रृण्वतो नास्ति मेऽमृतम्॥10.18॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">

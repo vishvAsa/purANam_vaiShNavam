@@ -2,13 +2,13 @@
 title = "34 अकीर्तिञ् चापि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अकीर्तिं चापि भूतानि  
-कथयिष्यन्ति तेऽव्ययाम्।  
+**अकीर्तिं** चापि भूतानि  
+**कथयिष्यन्ति** तेऽव्ययाम्।  
 संभावितस्य चाकीर्तिर्  
-मरणाद् अतिरिच्यते।।2.34।।+++(5)+++
+**मरणाद् अतिरिच्यते**॥2.34॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
@@ -247,7 +247,7 @@ _________________
   
 ।।2.34।। किञ्च पापात्परलोकनाश एव भविष्यतीति न किन्त्विह
 लोकेऽप्यपकीर्तिर्भविष्यतीत्याह अकीर्तिं चापीति। भूतानि अपि ते
-अकी**र्ति৷৷৷৷৷৷৷৷৷৷৷৷**मव्ययां सदानुवर्त्तमानां कथयिष्यन्ति। भूतानीति
+अकीर्तिमव्ययां सदानुवर्त्तमानां कथयिष्यन्ति। भूतानीति
 नपुंसकलिङ्गकथनेन तथा कथनायोग्या अपि कथयिष्यन्तीति व्यञ्जितम्।
 नन्वकीर्तिकथनेन किं स्यादित्यत आह सम्भावितस्येति। सम्भावितस्य युद्धादौ
 अकीर्तिः मरणात् अतिरिच्यते अधिका भवतीत्यर्थः।  

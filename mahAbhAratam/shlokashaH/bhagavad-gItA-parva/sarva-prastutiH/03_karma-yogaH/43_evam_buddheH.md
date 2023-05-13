@@ -2,11 +2,13 @@
 title = "43 एवम् बुद्धेः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/43_evam_buddheH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/43_evam_buddheH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना।  
-जहि शत्रुं महाबाहो कामरूपं दुरासदम्।।3.43।।
+एवं बुद्धेः परं बुद्ध्वा  
+**संस्तभ्यात्मानम् आत्मना**।  
+**जहि** शत्रुं महाबाहो  
+**काम-रूपं** दुरासदम्॥3.43॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/43_evam_buddheH.md">

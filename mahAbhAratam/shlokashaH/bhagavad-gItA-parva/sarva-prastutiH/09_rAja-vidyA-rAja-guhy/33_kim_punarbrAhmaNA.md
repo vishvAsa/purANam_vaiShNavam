@@ -2,11 +2,13 @@
 title = "33 किम् पुनर्ब्राह्मणाः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-किं पुनर्ब्राह्मणाः पुण्या भक्ता राजर्षयस्तथा।  
-अनित्यमसुखं लोकमिमं प्राप्य भजस्व माम्।।9.33।।
+किं पुनर् ब्राह्मणाः पुण्या  
+भक्ता राजर्षयस् तथा।  
+अनित्यम् असुखं लोकम्  
+इमं प्राप्य **भजस्व माम्**॥9.33॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">

@@ -2,11 +2,13 @@
 title = "13 महात्मानस्तु माम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः।  
-भजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम्।।9.13।।
+महात्मानस् तु मां पार्थ  
+**दैवीं प्रकृतिम् आश्रिताः**।  
+**भजन्त्य्** अनन्य-मनसो  
+ज्ञात्वा भूतादिम् अव्ययम्॥9.13॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">

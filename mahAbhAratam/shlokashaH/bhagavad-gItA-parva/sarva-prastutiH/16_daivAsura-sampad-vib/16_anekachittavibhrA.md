@@ -2,11 +2,13 @@
 title = "16 अनेकचित्तविभ्रान्ता"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अनेकचित्तविभ्रान्ता मोहजालसमावृताः।  
-प्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ।।16.16।।
+अनेकचित्त-विभ्रान्ता  
+मोह-जाल-समावृताः।  
+प्रसक्ताः काम-भोगेषु  
+**पतन्ति नरके** ऽशुचौ॥16.16॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
@@ -188,7 +190,7 @@ Raurava, Kumbhipaka, and so on.\]
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः धनपतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/dhanapatiH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
-।।16.16।। एवमभिप्रायवन्त आसुराः कृत्याकत्यविवेकहीनाः कस्मिँल्लोके
+।।16.16।। एवमभिप्रायवन्त आसुराः कृत्याकत्यविवेकहीनाः कस्मिल्ँ लोके
 गच्छन्तीत्याकाङ्क्षायामाह।
 अनेकचित्तविभ्रान्ताःउक्तप्रकारेरनैकेश्चत्तैस्तदुष्टसंकल्पैर्विभ्रान्ताः
 विवधं भ्रान्ताः मोहजालसमावृताः कार्याकार्यहिताहितसारसारहेयोपादेयाविवेको

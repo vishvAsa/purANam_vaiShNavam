@@ -2,11 +2,13 @@
 title = "18 विद्याविनयसम्पन्ने"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-विद्याविनयसंपन्ने ब्राह्मणे गवि हस्तिनि।  
-शुनि चैव श्वपाके च पण्डिताः समदर्शिनः।।5.18।।
+विद्या-विनय-संपन्ने  
+ब्राह्मणे गवि हस्तिनि।  
+शुनि चैव श्वपाके च  
+**पण्डिताः +++(गुण-व्यवस्था-समानतया)+++ समदर्शिनः**॥5.18॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">

@@ -2,11 +2,13 @@
 title = "05 न हि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/05_na_hi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/05_na_hi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत्।  
-कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः।।3.5।।
+**न** हि कश्चित् क्षणम् अपि  
+जातु **तिष्ठत्य् अकर्मकृत्**।  
+**कार्यते** ह्य् अवशः **कर्म**  
+सर्वः प्रकृतिजैर् **गुणैः**॥3.5॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/05_na_hi.md">

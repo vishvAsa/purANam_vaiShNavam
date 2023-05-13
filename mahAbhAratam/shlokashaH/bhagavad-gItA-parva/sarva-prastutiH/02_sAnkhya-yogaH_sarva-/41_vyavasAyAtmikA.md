@@ -2,13 +2,13 @@
 title = "41 व्यवसायात्मिका"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-+++(आत्म-याथात्म्य-निश्चय-पूर्विका बन्ध-मुमुक्षूचित-कर्मणि)+++ व्यवसायात्मिका बुद्धिर्  
-+++(धर्म-युद्ध-पलायनवन्-मोह-राहित्याद्)+++ एकेह कुरु-नन्दन।  
++++(आत्म-याथात्म्य-निश्चय-पूर्विका बन्ध-मुमुक्षूचित-कर्मणि)+++ **व्यवसायात्मिका बुद्धिर्**  
++++(धर्म-युद्ध-पलायनवन्--मोह-राहित्याद्)+++ **एकेह** कुरु-नन्दन।  
 बहु-शाखा ह्य् अनन्ताश् च  
-+++(काम्य-कर्मसु)+++ बुद्धयो ऽव्यवसायिनाम्।।2.41।।+++(5)+++
++++(काम्य-कर्मसु)+++ बुद्धयो ऽव्यवसायिनाम्॥2.41॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">

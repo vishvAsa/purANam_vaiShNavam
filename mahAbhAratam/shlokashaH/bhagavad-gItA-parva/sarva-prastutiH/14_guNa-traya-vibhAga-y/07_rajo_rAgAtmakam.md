@@ -2,13 +2,13 @@
 title = "07 रजो रागात्मकम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-रजो रागात्मकं विद्धि  
+**रजो रागात्मकं** विद्धि  
 तृष्णा-सङ्ग-समुद्भवम्।  
-तन् निबध्नाति कौन्तेय  
-कर्म-सङ्गेन देहिनम्।।14.7।। +++(5)+++
+तन् **निबध्नाति** कौन्तेय  
+**कर्म-सङ्गेन** देहिनम्॥14.7॥ +++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/07_rajo_rAgAtmakam.md">

@@ -2,11 +2,13 @@
 title = "06 महाभूतान्यहङ्कारो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-महाभूतान्यहङ्कारो बुद्धिरव्यक्तमेव च।  
-इन्द्रियाणि दशैकं च पञ्च चेन्द्रियगोचराः।।13.6।।
+**महा-भूतान्य् अहङ्कारो**  
+**बुद्धिर् अ-व्यक्तम्**+++(=प्रकृतिः)+++ एव च।  
++++(५ज्ञान+५कर्म+)+++इन्द्रियाणि दशैकं +++(मनः)+++ च  
+पञ्च चेन्द्रिय-गोचराः …॥13.6॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
@@ -23,17 +25,13 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।13.6।।**इच्छा द्वेषः सुखं दुःखम्** इति क्षेत्रकार्याणि क्षेत्रविकाराः
-उच्यन्ते यद्यपि इच्छाद्वेषसुखदुःखानि आत्मधर्मभूतानि; तथापि आत्मनः
-क्षेत्रसंबन्धप्रयुक्तानि इति क्षेत्रकार्यतया क्षेत्रविकारा उच्यन्ते।
-तेषां पुरुष धर्मत्वम्पुरुषः सुखदुःखानां भोक्तृत्वे हेतुरुच्यते (गीता
-13।20) इति वक्ष्यते। **संघातः चेतनाधृतिः;** आधृतिः आधारः; सुखदुःखे
-भुञ्जानस्य भोगापवर्गौ साधयतः च चेतनस्य आधारतया उत्पन्नो भूतसंघातः;
-प्रकृत्यादिपृथिव्यन्तद्रव्यारब्धम् इन्द्रियाश्रयभूतम्;
-इच्छाद्वेषसुखदुःखविकारिभूतसंघातरूपं,चेतनसुखदुःखोपभोगाधारत्वप्रयोजनं
-क्षेत्रम् इति उक्तं भवति।**एतत् क्षेत्रं समासेन** संक्षेपेण **सविकारं**
-सकार्यम् **उदाहृतम्। अथ क्षेत्रकार्येषु आत्मज्ञानसाधनतया उपादेया गुणाः
-प्रोच्यन्ते --**
+।।13.5।।**महाभूतानि अहंकारो बुद्धिः अव्यक्तम् एव च** इति
+क्षेत्रारम्भकद्रव्याणि; पृथिव्यप्तेजोवाय्वाकाशमहाभूतानि; अहंकारो
+भूतादिः; बुद्धिः महान्; अव्यक्तं प्रकृतिः। **इन्द्रियाणि दश एकं च पञ्च च
+इन्द्रियगोचराः;** इति क्षेत्राश्रितानि तत्त्वानि;
+श्रोत्रत्वक्चक्षुर्जिह्वाघ्राणानि पञ्च ज्ञानेन्द्रियाणि
+वाक्पाणिपादपायूपस्थानि पञ्च कर्मेन्द्रियाणि; तानि दश; एकम् इति मनः।
+इन्द्रियगोचराः च पञ्च शब्दस्पर्शरूपरसगन्धाः।
 
 </details>
 </div>

@@ -2,13 +2,13 @@
 title = "32 यदृच्छया चोपपन्नम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 यद्-ऋच्छया चोपपन्नं  
 स्वर्ग-द्वारम् अपावृतम्।  
-सुखिनः क्षत्रियाः पार्थ  
-लभन्ते युद्धम् ईदृशम्।।2.32।।
+**सुखिनः** क्षत्रियाः पार्थ  
+**लभन्ते युद्धम् ईदृशम्**॥2.32॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/32_yadRchChayA_chopa.md">

@@ -2,11 +2,13 @@
 title = "15 यस्मान्नोद्विजते लोको"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः।  
-हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः।।12.15।।
+यस्मान् नोद्विजते लोको  
+लोकान् नोद्विजते च यः।  
+**हर्षामर्ष-भयोद्-वेगैर्**  
+**मुक्तो** यः स च मे प्रियः॥12.15॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">

@@ -2,11 +2,13 @@
 title = "29 अपाने जुह्वति"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अपाने जुह्वति प्राण प्राणेऽपानं तथाऽपरे।  
-प्राणापानगती रुद्ध्वा प्राणायामपरायणाः।।4.29।।
+**अपाने जुह्वति प्राणं**  
+**प्राणेऽपानं** तथाऽपरे।  
+**प्राणापान-गती रुद्ध्वा**  
+प्राणायाम-परायणाः॥4.29॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/29_apAne_juhvati.md">

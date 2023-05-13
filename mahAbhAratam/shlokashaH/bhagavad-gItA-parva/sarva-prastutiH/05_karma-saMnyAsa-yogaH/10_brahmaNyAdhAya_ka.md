@@ -2,11 +2,13 @@
 title = "10 ब्रह्मण्याधाय कर्माणि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः।  
-लिप्यते न स पापेन पद्मपत्रमिवाम्भसा।।5.10।।
+ब्रह्मण्य् आधाय कर्माणि  
+**+++(फल-)+++सङ्गं त्यक्त्वा करोति** यः।  
+**लिप्यते न स पापेन**  
+पद्म-पत्रम् इवाम्भसा॥5.10॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
@@ -267,10 +269,13 @@ _________________
 
   
   
-।।5.10।। ब्रह्मणि पुरुषोत्तमे सङ्गं आधाय संयोगावस्थायां स्थित्वा सङ्गं
-त्यक्त्वा वा विप्रयोगावस्थायां स्थित्वा कर्माण्यपि यः करोति स तेन न
-लिप्यते। तत्र दृष्टान्तमाह पद्मपत्रमिवेति। अम्भसा पद्मपत्रमिव। जले
-तिष्ठन्नपि तद्यथा न लिप्तं भवति तथेत्यर्थः।  
+।।5.10।। **ब्रह्मणि** पुरुषोत्तमे  
+**सङ्गं आधाय** संयोगावस्थायां स्थित्वा,  
+**सङ्गं त्यक्त्वा** वा - विप्रयोगावस्थायां स्थित्वा  
+**कर्माण्य्** अपि यः **करोति**  
+**स तेन न लिप्यते**।  
+तत्र दृष्टान्तमाह - पद्मपत्रमिवेति।  
+**अम्भसा पद्मपत्रमिव**। जले तिष्ठन्नपि तद्यथा न लिप्तं भवति तथेत्यर्थः।  
   
 
 </details>

@@ -2,13 +2,13 @@
 title = "18 अन्तवन्त इमे"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 अन्तवन्त इमे देहा  
 नित्यस्योक्ताः शरीरिणः।  
 अनाशिनो ऽप्रमेयस्य  
-तस्माद् युध्यस्व भारत।।2.18।।
+**तस्माद् युध्यस्व** भारत॥2.18॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
@@ -28,7 +28,7 @@ _________________
 देहानां तु विनाशित्वम् एव स्वभाव इत्याह -
 ।।2.18।। दिह उपचये इति उपचयरूपा **इमे देहा अन्तवन्तः** विनाशस्वभावाः
 उपचयात्माका हि घटादयः अन्वन्तो दृष्टाः। **नित्यस्य शरीरिणः**
-कर्मफलभोगार्थतया भूतसंघातरूपा देहाःपुण्यः पुण्येन (बृ0 उ₀ 4।4।5)
+कर्मफलभोगार्थतया भूतसंघातरूपा देहाःपुण्यः पुण्येन (बृ॰ उ॰ 4।4।5)
 इत्यादिशास्त्रैः **उक्ताः** कर्मावसानविनाशिनः। आत्मा तु अविनाशी कुतः
 अप्रमेयत्वात्। न हि आत्मा प्रमेयतया उपलभ्यते अपि तु प्रमातृतया। तथा च
 वक्ष्यते एतद्यो वेत्ति तं प्राहुः क्षेत्रज्ञ इति तद्विदः।। (गीता 13।1)

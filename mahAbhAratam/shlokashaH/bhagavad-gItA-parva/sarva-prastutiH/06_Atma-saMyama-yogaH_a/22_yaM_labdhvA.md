@@ -2,11 +2,14 @@
 title = "22 यं लब्ध्वा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः।  
-यस्मिन्स्थितो न दुःखेन गुरुणापि विचाल्यते।।6.22।।
++++(स योगः)+++  
+यं लब्ध्वा चापरं लाभं  
+मन्यते नाधिकं ततः।  
+यस्मिन् स्थितो **न दुःखेन**  
+**गुरुणापि विचाल्यते**॥6.22॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
@@ -118,19 +121,7 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।6.20 6.23।। इदानीं तस्य स्वस्वभावस्य ब्रह्मणो बहुतरविशेषणद्वारेण
-स्वरूपं निरूप्यते यः तीर्थान्तरकल्पितेभ्यश्च रूपेभ्यो व्यतिरेकः
-यत्रेत्यादि अनिर्विण्णचेतसा इत्यन्तम्। यत्र मनो निरुद्धम् उपरमते
-स्वयमेव। आत्यन्तिकं विषयकृतकालुष्याभावात् सुखं यत्र वेत्ति। अपरो लाभो
-धनदारपुत्रादीनां संनियोगलब्धश्च योगः अन्यत्र सुखधीर्निवर्तते च इति
-वस्तुस्वभावोऽयमित्यर्थः। न विचाल्यते विशेषेण न चाल्यते अपि तु
-संस्कारमात्रेणैवास्य प्रथमक्षणमात्रमेव चलनं कारुण्यादिवशात् न तु मूढतया
-विनष्टो बताहम्। किं मया प्रतिपत्तव्यम् इत्यादि। दुःखसंयोगस्य वियोगो यतः
-स च निश्चयेन आस्तिकताजनितया श्रद्धया सर्वथा योक्तव्यः अभ्यसनीयः।
-अनिर्विण्णम् उपेयप्राप्तौ दृढतरं संसारं दुःखबहुलम् प्रति निर्विण्णं वा
-+++(S N omit वा)+++ चेतो यस्य।
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/23_taM_vidyAd.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">

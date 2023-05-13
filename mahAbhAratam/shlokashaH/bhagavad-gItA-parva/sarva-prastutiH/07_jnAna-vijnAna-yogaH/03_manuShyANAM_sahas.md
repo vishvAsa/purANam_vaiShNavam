@@ -2,11 +2,13 @@
 title = "03 मनुष्याणां सहस्रेषु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये।  
-यततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः।।7.3।।
+मनुष्याणां सहस्रेषु  
+**कश्चिद् यतति** सिद्धये।  
+यतताम् अपि सिद्धानां  
+**कश्चिन् मां वेत्ति** तत्त्वतः॥7.3॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">

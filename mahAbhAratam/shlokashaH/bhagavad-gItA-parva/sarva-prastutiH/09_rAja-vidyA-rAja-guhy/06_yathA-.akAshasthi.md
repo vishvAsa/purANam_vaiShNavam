@@ -2,11 +2,13 @@
 title = "06 यथाऽऽकाशस्थितो नित्यम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यथाऽऽकाशस्थितो नित्यं वायुः सर्वत्रगो महान्।  
-तथा सर्वाणि भूतानि मत्स्थानीत्युपधारय।।9.6।।
+यथाऽऽकाश-स्थितो नित्यं  
+वायुः सर्वत्रगो महान्।  
+तथा **सर्वाणि** भूतानि  
+**मत्-स्थानीत्य् उपधारय**॥9.6॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/06_yathA-.akAshasthi.md">
@@ -31,9 +33,9 @@ _________________
 यथा आहुः वेदविदःमेघोदयः सागरसन्निवृत्तिरिन्दोर्विभागः स्फुरितानि वायोः।
 विद्युद्विभङ्गो गतिरुष्णरश्मेर्विष्णोर्विचित्राः प्रभवन्ति मायाः।। इति
 विष्णोः अनन्यसाधारणानि महाश्चर्याणि इत्यर्थः। श्रुतिः अपि -- एतस्य वा
-अक्षरस्य प्रशासने गार्गि सूर्याचन्द्रमसौ विधृतौ तिष्ठतः (बृ0 उ₀
+अक्षरस्य प्रशासने गार्गि सूर्याचन्द्रमसौ विधृतौ तिष्ठतः (बृ॰ उ॰
 3।8।9)भीषास्माद्वातः पवते भीषोदेति सूर्यः। भीषास्मादग्निश्चेन्द्रश्च
-मृत्युर्धावति पञ्चमः (तै0 उ₀ 2।8।1) इत्यादिका। सकलेतरनिरपेक्षस्य भगवतः
+मृत्युर्धावति पञ्चमः (तै॰ उ॰ 2।8।1) इत्यादिका। सकलेतरनिरपेक्षस्य भगवतः
 संकल्पात् सर्वेषां स्थितिः प्रवृत्तिः च उक्ताः तथा तत्संकल्पाद् एव
 सर्वेषाम् उत्पत्तिप्रलयौ अपि; इति आह --**
 

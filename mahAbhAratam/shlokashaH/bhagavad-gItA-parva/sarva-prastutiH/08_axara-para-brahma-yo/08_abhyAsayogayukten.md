@@ -2,11 +2,13 @@
 title = "08 अभ्यासयोगयुक्तेन चेतसा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अभ्यासयोगयुक्तेन चेतसा नान्यगामिना।  
-परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन्।।8.8।।
+**अभ्यास-योग-युक्तेन**  
+**चेतसा** नान्य-गामिना।  
+परमं **पुरुषं** दिव्यं  
+**याति** पार्थानुचिन्तयन्॥8.8॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/08_abhyAsayogayukten.md">
@@ -317,7 +319,7 @@ _________________
 किन्तु मदाज्ञाव्यतिरेकेणापि येऽनन्यभावेन स्मरन्ति तेऽपि मां
 प्राप्नुवन्तीत्याह -- अभ्यासेति। हे पार्थ मद्भक्त अभ्यासो
 भगवत्सङ्गानुशीलनं स एव योग उपायः तद्युक्तेन नान्यगामिना
-अन्यत्रोत्तमत्वज्ञानजचाञ्चल्यदोषरहितेन चेतसा दिव्यं क्री़डात्मकं परमं
+अन्यत्रोत्तमत्वज्ञानजचाञ्चल्यदोषरहितेन चेतसा दिव्यं क्रीडात्मकं परमं
 पुरुषं पुरुषोत्तमभावं निर्जितचेतसा अनुचिन्तयन् भगवत्कृतस्मरणानन्तरं
 चिन्तयन् स्मरन् हे पार्थ तमेव याति प्राप्नोतीत्यर्थः। पार्थेति सम्बोधनेन
 पृथासम्बन्धान्मत्कृतस्मरणानन्तरस्मरणेन यथा त्वं मामाप्नोषीति बोध्यते।  

@@ -2,11 +2,13 @@
 title = "23 येऽप्यन्यदेवता भक्ता"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-येऽप्यन्यदेवता भक्ता यजन्ते श्रद्धयाऽन्विताः।  
-तेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम्।।9.23।।
+ये ऽप्य् **अन्य-देवता** भक्ता  
+**यजन्ते** श्रद्धया ऽन्विताः।  
+तेऽपि **माम्** एव कौन्तेय  
+**यजन्त्य्** अविधि-पूर्वकम्॥9.23॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
@@ -28,7 +30,7 @@ _________________
 पूर्वोक्तेन न्यायेन सर्वस्य मच्छरीरतया मदात्मत्वेन इन्द्रादिशब्दानां च
 मद्वाचित्वाद् वस्तुतो **माम् एव यजन्ते** अपि तु **अविधिपूर्वकं** यजन्ते।
 इन्द्रादीनां देवतानां कर्मसु आराध्यतया अन्वयं यथा
-वेदान्तवाक्यानिचतुर्होतारो यत्र संपदं गच्छन्ति देवैः (तै0 आ0 4)
+वेदान्तवाक्यानिचतुर्होतारो यत्र संपदं गच्छन्ति देवैः (तै॰ आ॰ 4)
 इत्यादीनि विदधति; न तत्पूर्वकं यजन्ते। वेदान्तवाक्यजातं हि
 परमपुरुषशरीरतया अवस्थितानाम् इन्द्रादीनाम् आराध्यत्वं विदधद् आत्मभूतस्य
 परमपुरुषस्य एव साक्षाद् आराध्यत्वं विदधाति। चतुर्होतारः

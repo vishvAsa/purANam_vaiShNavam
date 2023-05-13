@@ -2,11 +2,13 @@
 title = "21 बाह्यस्पर्शेष्वसक्तात्मा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम्।  
-स ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते।।5.21।।
+बाह्य-स्पर्शेष्व् असक्तात्मा  
+**विन्दत्य् आत्मनि यत् सुखम्**।  
+स ब्रह्म-योग-युक्तात्मा  
+सुखम् अक्षयम् अश्नुते॥5.21॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">

@@ -2,15 +2,15 @@
 title = "14 यदा सत्त्वे"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यदा सत्त्वे प्रवृद्धे तु  
+यदा **सत्त्वे प्रवृद्धे** तु  
 प्रलयं याति देहभृत्।  
-तदोत्तम-विदां लोकान्  
-अमलान् प्रतिपद्यते।।14.14।।
+**तदोत्तम-विदां लोकान्**  
+अमलान् **प्रतिपद्यते**॥14.14॥
 
-#### टिप्पनी
+### टिप्पनी
 कश्चनाजन्म-मरून्मत्तः सत्त्वाधिक्याद् राक्षसज्ञानम् बहु सम्पाद्य सत्त्वनिष्ठ-रजसा वर्तेत "लोकमोचने" वा पीडनात्मके। तत्र किम् ऊर्ध्वगतिः; न। तत्र सत्त्वगुणप्रवृत्ताव् अपि राक्षसग्रन्थनिबद्धत्वात् स कुण्ठितः। न तावद् रजस् तस्य सत्त्वाधीनम्।
 </details>
 </div>

@@ -2,13 +2,13 @@
 title = "13 देहिनोऽस्मिन्यथा देहे"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 देहिनो ऽस्मिन् यथा देहे  
 कौमारं यौवनं जरा।  
 तथा देहान्तर-प्राप्तिर्  
-धीरस् तत्र न मुह्यति।।2.13।।+++(4)+++
+**धीरस्** तत्र **न मुह्यति**॥2.13॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
@@ -176,7 +176,7 @@ _________________
 तत्पूर्वोत्तरदेहेष्वात्मैक्यमेवासिद्धं प्रमाणाभावात्। तथाच
 देहोत्पत्तावुत्पत्तिमतस्तद्विनाशे च विनाशवतः कथमनादित्वेन नित्यत्वं
 साध्यते इति। उभयस्यापि परिहारदर्शनादेवं योज्यम् अर्थद्वयानुगुण्यायैव
-बहुवचने प्रकृतेऽप्येकवचनम् तथा भाव इति पुँल्लिङ्गे प्रकृतेऽपि तदेवेति
+बहुवचने प्रकृतेऽप्येकवचनम् तथा भाव इति पुल्ँ लिङ्गे प्रकृतेऽपि तदेवेति
 सामान्यग्रहणाय नपुंसकनिर्देशः। नेत्याहेति शेषः।
 देहिनोऽस्मिन्नित्यतःपरमितिशब्दश्च। आक्षेपद्वयपरिहाराय पादत्रयं
 व्याख्याति **यथे**ति। अत्र देहीति तदीक्षिता सिद्ध इति

@@ -2,13 +2,13 @@
 title = "37 कस्माच्च ते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कस्माच्च ते न नमेरन्महात्मन्  
-गरीयसे ब्रह्मणोऽप्यादिकर्त्रे।  
-अनन्त देवेश जगन्निवास  
-त्वमक्षरं सदसत्तत्परं यत्।।11.37।।
+कस्माच् च ते न नमेरन् महात्मन्  
+गरीयसे ब्रह्मणो ऽप्य् आदि-कर्त्रे।  
+अनन्त देवेश जगन्-निवास  
+**त्वम् अक्षरं सद् असत्**+++(=भूतं+भविष्यत्, अव्यक्तं वा)+++ **तत्-परं**+++(=henads)+++ यत्॥11.37॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
@@ -30,7 +30,7 @@ _________________
 ।।11.37।।**महात्मन् ते** तुभ्यं **गरीयसे ब्रह्मणः** हिरण्यगर्भस्य **अपि
 आदि**भूताय **कर्त्रे;** हिरण्यगर्भादयः **कस्माद्** हेतोः **न**
 नमस्कुर्युः; **अनन्त देवेश जगन्निवास त्वम्** एव **अक्षरम्** न क्षरति इति
-अक्षरम् जीवात्मतत्त्वम्न जायते म्रियते वा विपश्चित् (कठ0 1।2।18)
+अक्षरम् जीवात्मतत्त्वम्न जायते म्रियते वा विपश्चित् (कठ॰ 1।2।18)
 इत्यादिश्रुतिसिद्धो जीवात्मा हि न क्षरति।**सद् असत्** च त्वम् एव;
 सदसच्छब्दनिर्दिष्टं कार्यकारणभावेन अवस्थितं प्रकृतितत्त्वम्;
 नामरूपविभागवत्तया कार्यावस्थं सच्छब्दनिर्दिष्टं तदनर्हतया कारणावस्थम्

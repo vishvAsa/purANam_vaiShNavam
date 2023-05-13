@@ -2,11 +2,13 @@
 title = "08 नियतङ् कुरु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/08_niyata~N_kuru.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/08_niyata~N_kuru.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः।  
-शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः।।3.8।।
+नियतं **कुरु कर्म** त्वं,  
+कर्म ज्यायो ह्य् अकर्मणः।  
+शरीर-यात्रापि च ते  
+न प्रसिद्ध्येद् अकर्मणः॥3.8॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/08_niyata~N_kuru.md">
@@ -38,7 +40,7 @@ _________________
   
 यावत्साधनसमाप्ति शरीरधारणं च अवश्यं कार्यम् न्यायार्जितधनेन महायज्ञादिकं
 कृत्वा तच्छिष्टाशनेन एव शरीरधारणं कार्यम्आहारशुद्धौ सत्त्वशुद्धिः
-सत्त्वशुद्धौ ध्रुवा स्मृतिः। (छा0 उ₀ 7।26।2) इत्यादिश्रुतेः। भुञ्जते ते
+सत्त्वशुद्धौ ध्रुवा स्मृतिः। (छा॰ उ॰ 7।26।2) इत्यादिश्रुतेः। भुञ्जते ते
 त्वघं पापाः (गीता 3।13) इति च वक्ष्यते। अतो ज्ञाननिष्ठस्य अपि कर्म
 अकुर्वतो देहयात्रा न सेत्स्यति। यतो ज्ञाननिष्ठस्य अपि ध्रियमाणशरीरस्य
 यावत्साधनसमाप्ति महायज्ञादिनित्यनैमित्तिकं कर्म अवश्यं कार्यम्। यतश्च

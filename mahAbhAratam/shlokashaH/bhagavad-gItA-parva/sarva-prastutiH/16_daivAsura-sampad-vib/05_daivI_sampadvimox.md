@@ -2,11 +2,13 @@
 title = "05 दैवी सम्पद्विमोक्षाय"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता।  
-मा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव।।16.5।।
+**दैवी** सम्पद् **विमोक्षाय**  
+**निबन्धायासुरी** मता।  
+मा शुचः - सम्पदं दैवीम्  
+अभिजातोऽसि पाण्डव॥16.5॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">

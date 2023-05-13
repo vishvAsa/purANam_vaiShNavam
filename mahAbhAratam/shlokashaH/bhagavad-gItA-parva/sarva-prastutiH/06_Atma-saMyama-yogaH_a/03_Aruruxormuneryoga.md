@@ -2,11 +2,13 @@
 title = "03 आरुरुक्षोर्मुनेर्योगङ्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते।  
-योगारूढस्य तस्यैव शमः कारणमुच्यते।।6.3।।
+**आरुरुक्षोर्** मुनेर् योगं  
++++(प्रयत्न-पूर्वकं फल-त्यागरूपं)+++ **कर्म +++(योग-)+++कारणम्** उच्यते।  
+**योगारूढस्य** तस्यैव  
++++(अनुकरणादि-प्रयास-रहितं)+++ **शमः** +++(योग-)+++कारणम् उच्यते॥6.3॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
@@ -22,6 +24,8 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+कर्मयोग एव अप्रमादेन योगं साधयति इत्याह - 
 
 ।।6.3।।**योगम्** आत्मावलोकनं प्राप्तुम् इच्छोः मुमुक्षोः **कर्मयोग** एव
 **कारणम् उच्यते तस्य एव योगारूढस्य** प्रतिष्ठितयोगस्य एव **शमः**
@@ -84,9 +88,9 @@ _________________
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 6.3 Aruruksoh etc for a sage : For a man of wisdom. Action : that which
-reires to be performed. Cause (1st) : a means to attain. Quietude : to
+requires to be performed. Cause (1st) : a means to attain. Quietude : to
 remain uninterrupted at the stage \[already\] achieved. Here Cause (2nd)
-is an indicator. The same idea is made clear as-
+is an indicator.
 
 </details>
 </div>
@@ -150,16 +154,23 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
-।।6.3।। **आरुरुक्षोः** आरोढुमिच्छतः अनारूढस्य ध्यानयोगे
-अवस्थातुमशक्तस्यैवेत्यर्थः। कस्य तस्य आरुरुक्षोः **मुनेः**
-कर्मफलसंन्यासिन इत्यर्थः। किमारुरुक्षोः **योगम्। कर्म कारणं** साधनम्
-**उच्यते। योगारूढस्य** पुनः **तस्यैव शमः** उपशमः सर्वकर्मभ्यो निवृत्तिः
-**कारणं** योगारूढस्य साधनम् **उच्यते** इत्यर्थः। यावद्यावत् कर्मभ्यः
-उपरमते तावत्तावत् निरायासस्य जितेन्द्रियस्य चित्तं समाधीयते। तथा सति स
-झटिति योगारूढो भवति। तथा चोक्तं व्यासेन नैतादृशं ब्राह्मणस्यास्ति चित्तं
-यथैकता समता सत्यता च। शीलं स्थितिर्दण्डनिधानमार्जवं ततस्ततश्चोपरमः
-क्रियाभ्यः (महा0 शान्ति0 175।37) इति।। अथेदानीं कदा योगारूढो भवति
-इत्युच्यते
+।।6.3।। **आरुरुक्षोः** आरोढुम् इच्छतः अनारूढस्य ध्यानयोगे  अवस्थातुम् अशक्तस्यैवेत्यर्थः।  
+कस्य? तस्य आरुरुक्षोः **मुनेः** कर्म-फल-संन्यासिन इत्यर्थः।  
+किमारुरुक्षोः? **योगम्। कर्म कारणं** साधनम् **उच्यते।**
+
+**योगारूढस्य** पुनः **तस्यैव शमः** उपशमः सर्वकर्मभ्यो निवृत्तिः **कारणं** योगारूढस्य साधनम् **उच्यते** इत्यर्थः।  
+यावद्यावत् कर्मभ्यः उपरमते  
+तावत्तावत् निरायासस्य जितेन्द्रियस्य चित्तं समाधीयते।  
+तथा सति स झटिति योगारूढो भवति।  
+तथा चोक्तं व्यासेन 
+
+&gt; नैतादृशं ब्राह्मणस्यास्ति चित्तं  
+यथैकता समता सत्यता च।  
+शीलं स्थितिर् दण्ड-निधानम् आर्जवं  
+ततस् ततश् चोपरमः क्रियाभ्यः  
+(महा0 शान्ति0 175।37) इति।। 
+
+
 
 </details>
 </div>
@@ -306,12 +317,14 @@ _________________
 
   
   
-।।6.3।। ननु स्वसुखानुभवसङ्कल्पत्यागः सिद्धस्य भवति साधनदशापन्नस्य किं
-कर्त्तव्यं इत्यत आह आरुरुक्षोरिति। योगं आरुरुक्षोः
-संयोगरसप्राप्तीच्छोर्मुनेर्मननशीलस्य कारणं कर्म
-सेवात्मकमनुकारणरूपमुच्यते कथ्यत इत्यर्थः तस्यैव सेवादिकरणेन योगारूढस्य
-संयोगरसव्याप्तमनसः शमः अनुकरणादिकृतिरहितभावनाप्रवणस्थितिः कारणमुच्यते
-कथ्यते तत्प्राप्त्यर्थमिति शेषः।  
+।।6.3।। ननु स्वसुखानुभव-सङ्कल्प-त्यागः सिद्धस्य भवति,  
+साधन-दशापन्नस्य किं कर्त्तव्यं इत्यत आह - आरुरुक्षोरिति। 
+
+**योगं आरुरुक्षोः** संयोग-रस-प्राप्तीच्छोर् **मुनेर्** मननशीलस्य  
+**कारणं कर्म** सेवात्मकम् अनुकारणरूपम् +++(→अनुकरणरूपम्)+++  
+**उच्यते** कथ्यत इत्यर्थः।  
+
+तस्यैव सेवादि-करणेन **योगारूढस्य** संयोग-रस-व्याप्त-मनसः **शमः** अनुकरणादि-कृति-रहित-भावना-प्रवण-स्थितिः **कारणम् उच्यते** कथ्यते तत्-प्राप्त्य्-अर्थम् इति शेषः।  
   
 
 </details>

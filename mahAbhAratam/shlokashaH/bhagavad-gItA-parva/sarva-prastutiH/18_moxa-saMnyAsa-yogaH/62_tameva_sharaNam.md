@@ -2,11 +2,13 @@
 title = "62 तमेव शरणम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तमेव शरणं गच्छ सर्वभावेन भारत।  
-तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम्।।18.62।।
+**तम्** एव **शरणं गच्छ**  
+सर्व-भावेन भारत।  
+तत्-प्रसादात् परां शान्तिं  
+स्थानं प्राप्स्यसि शाश्वतम्॥18.62॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
@@ -30,11 +32,11 @@ _________________
 भविष्यसि। अतो मदुक्तप्रकारेण युद्धादिकं कुरु इत्यर्थः। एवं कुर्वाणः
 **तत्प्रसादात् परां शान्तिं** सर्वकर्मबन्धोपशमनं **शाश्वतं** च **स्थानं
 प्राप्स्यसि।** यद् अभिधीयते श्रुतिशतैः -- तद्विष्णोः परमं पदं सदा
-पश्यन्ति सूरयः। (ऋ0 सं0 1।2।6।5)ते ह नाकं महिमानः सचन्त यत्र पूर्वे
-साध्याः सन्ति देवाः। (यजुः सं0 31।16)यत्र ऋषयः प्रथमजा ये पुराणाः। परेण
-नाकं विहितं गुहायाम् (महाना0 8।14)यो अस्याध्यक्षः परमे व्योमन्। (ऋ0 सं0
-8।7।17।7)अथ यदतः परो दिवो ज्योतिर्दीप्यते (छ0 उ₀ 3।13।7)सोऽध्वनः
-पारमाप्नोति तद्विष्णोः परमं पदम् (क0 उ₀ 3।9) इत्यादिभिः।
+पश्यन्ति सूरयः। (ऋ॰ सं॰ 1।2।6।5)ते ह नाकं महिमानः सचन्त यत्र पूर्वे
+साध्याः सन्ति देवाः। (यजुः सं॰ 31।16)यत्र ऋषयः प्रथमजा ये पुराणाः। परेण
+नाकं विहितं गुहायाम् (महाना॰ 8।14)यो अस्याध्यक्षः परमे व्योमन्। (ऋ॰ सं॰
+8।7।17।7)अथ यदतः परो दिवो ज्योतिर्दीप्यते (छ॰ उ॰ 3।13।7)सोऽध्वनः
+पारमाप्नोति तद्विष्णोः परमं पदम् (क॰ उ॰ 3।9) इत्यादिभिः।
 
 </details>
 </div>

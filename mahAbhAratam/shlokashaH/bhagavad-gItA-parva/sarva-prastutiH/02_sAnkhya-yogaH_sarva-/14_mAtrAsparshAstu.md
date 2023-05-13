@@ -2,13 +2,13 @@
 title = "14 मात्रास्पर्शास्तु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 मात्रा+++(=इन्द्रिय‌/इन्दिर्यविषय)+++-स्पर्शास् तु कौन्तेय  
 शीतोष्ण-सुख-दुःख-दाः।  
-आगमापायिनो ऽनित्यास्  
-तांस् तितिक्षस्व भारत।।2.14।।
+आगमापायिनो **ऽनित्यास्**,  
+**तांस् तितिक्षस्व** भारत॥2.14॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/14_mAtrAsparshAstu.md">

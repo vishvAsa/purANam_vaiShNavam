@@ -2,11 +2,13 @@
 title = "21 यत्तु प्रत्युपकारार्थम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यत्तु प्रत्युपकारार्थं फलमुद्दिश्य वा पुनः।  
-दीयते च परिक्लिष्टं तद्दानं राजसं स्मृतम्।।17.21।।
+यत् तु **प्रत्युपकारार्थं**  
+फलम् उद्दिश्य वा पुनः।  
+दीयते च **परिक्लिष्टं** तद्  
+दानं **राजसं** स्मृतम्॥17.21॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">

@@ -2,11 +2,13 @@
 title = "14 न कर्तृत्वम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः।  
-न कर्मफलसंयोगं स्वभावस्तु प्रवर्तते।।5.14।।
+**न कर्तृत्वं न कर्माणि**  
+लोकस्य **सृजति** प्रभुः।  
+न कर्म-फल-संयोगं,  
+स्वभावस् तु प्रवर्तते॥5.14॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
@@ -22,6 +24,8 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/14_na_kartRtvam.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+साक्षाद् आत्मनः स्वाभाविकरूपम् आह -
 
 ।।5.14।। अस्य देवतिर्यङ्मनुष्यस्थावरात्मना प्रकृतिसंसर्गेण वर्तमानस्य
 **लोकस्य** देवाद्यसाधारणं **कर्तृत्वं** तत्तदसाधारणानि **कर्माणि**

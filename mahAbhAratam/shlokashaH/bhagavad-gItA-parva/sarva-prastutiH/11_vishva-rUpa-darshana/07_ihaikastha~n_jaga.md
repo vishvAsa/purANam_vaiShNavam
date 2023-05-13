@@ -2,11 +2,13 @@
 title = "07 इहैकस्थञ् जगत्कृत्स्नम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम्।  
-मम देहे गुडाकेश यच्चान्यद्द्रष्टुमिच्छसि।।11.7।।
+इहैकस्थं **जगत्** कृत्स्नं  
+**पश्याद्य** सचराचरम्।  
+मम देहे गुडाकेश  
+यच् चान्यद् द्रष्टुम् इच्छसि॥11.7॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">

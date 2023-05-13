@@ -2,11 +2,13 @@
 title = "26 अश्वत्थः सर्ववृक्षाणाम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/26_ashvatthaH_sarvav.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/26_ashvatthaH_sarvav.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः।  
-गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः।।10.26।।
+**अश्वत्थः** सर्व-वृक्षाणां  
+देवर्षीणां च **नारदः**।  
+गन्धर्वाणां **चित्ररथः**  
+सिद्धानां **कपिलो** मुनिः॥10.26॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/26_ashvatthaH_sarvav.md">

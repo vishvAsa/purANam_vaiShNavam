@@ -2,11 +2,13 @@
 title = "16 एवम् प्रवर्तितम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/16_evam_pravartitam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/16_evam_pravartitam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः।  
-अघायुरिन्द्रियारामो मोघं पार्थ स जीवति।।3.16।।
+एवं प्रवर्तितं चक्रं  
+नानुवर्तयतीह यः।  
+**अघायुर् इन्द्रियारामो**  
+मोघं पार्थ स जीवति॥3.16॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/16_evam_pravartitam.md">

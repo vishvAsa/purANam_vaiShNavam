@@ -2,11 +2,13 @@
 title = "46 यतः प्रवृत्तिर्भूतानाम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम्।  
-स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः।।18.46।।
+यतः प्रवृत्तिर् भूतानां  
+येन सर्वम् इदं ततम्।  
+**स्व-कर्मणा** तम् **अभ्यर्च्य**  
+सिद्धिं विन्दति मानवः॥18.46॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">

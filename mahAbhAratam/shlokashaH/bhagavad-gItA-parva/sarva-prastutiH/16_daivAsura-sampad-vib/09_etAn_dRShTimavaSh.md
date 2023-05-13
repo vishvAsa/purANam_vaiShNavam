@@ -2,11 +2,13 @@
 title = "09 एतान् दृष्टिमवष्टभ्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः।  
-प्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः।।16.9।।
+एतां दृष्टिम् अवष्टभ्य+++(=अवलम्ब्य)+++  
+नष्टात्मानो ऽल्प-बुद्धयः।  
+**प्रभवन्त्य् उग्र-कर्माणः**  
+क्षयाय जगतो ऽहिताः॥16.9॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
@@ -220,7 +222,7 @@ _________________
 वस्तुतोऽल्पबुद्धयः सर्वस्य जगतः क्षयाय प्रभवन्त्युद्भवन्ति। विष्णुपुराणे
 तूक्तं -- तदेतदक्षयं नित्यं जगन्मुनिवारिखलम्।
 आविर्भावतिरोभावजन्मनाशविकल्पवत् इत्यादि। तथाभूतस्यात्र
-क्षयायोद्भवन्ति। वर्त्तमानसामीप्ये वर्त्तमानवद्वा \[अष्टा.3।3।131़\] इति
+क्षयायोद्भवन्ति। वर्त्तमानसामीप्ये वर्त्तमानवद्वा \[अष्टा.3।3।131\] इति
 सूत्राद्भविष्यति वा वर्त्तमानप्रयोगः।
 
 </details>

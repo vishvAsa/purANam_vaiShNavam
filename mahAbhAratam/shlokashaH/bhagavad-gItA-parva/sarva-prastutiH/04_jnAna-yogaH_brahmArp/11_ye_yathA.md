@@ -2,11 +2,13 @@
 title = "11 ये यथा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम्।  
-मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः।।4.11।।
+ये **यथा** मां **प्रपद्यन्ते**  
+तांस् **तथैव भजाम्य्** अहम्।  
+**मम वर्त्मानुवर्तन्ते**  
+मनुष्याः पार्थ सर्वशः॥4.11॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">

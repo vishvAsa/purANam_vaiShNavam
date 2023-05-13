@@ -2,12 +2,15 @@
 title = "01 मदनुग्रहाय परमम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अर्जुन उवाच  
-मदनुग्रहाय परमं गुह्यमध्यात्मसंज्ञितम्।  
-यत्त्वयोक्तं वचस्तेन मोहोऽयं विगतो मम।।11.1।।
++++(अर्जुन उवाच)+++
+
+मद्-अनुग्रहाय परमं  
+गुह्यम् अध्यात्म-संज्ञितम्।  
+यत् त्वयोक्तं वचस् तेन  
+**मोहोऽयं विगतो** मम॥11.1॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
@@ -24,6 +27,8 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+एवं भक्तियोगनिष्पत्तये तद्विवृद्धये च सकलेतरविलक्षणेन स्वाभाविकेन भगवदसाधारणेन कल्याणगुणगणेन सह भगवतः सर्वात्मत्वं तत एव तद्व्यतिरिक्तस्य कृत्स्नस्य चिदचिदात्मकस्य वस्तुजातस्य तच्छरीरतया तदायत्तस्वरूपस्थितिप्रवृत्तित्वं चोक्तम् । तम् एतं भगवदसाधारणं स्वभावं कृत्स्नस्य तदायत्तस्वरूपस्थितिप्रवृत्तितां च भगवत्सकाशाद् उपश्रुत्य एवम् एवेति नित्यश् च तथाभूतं भगवन्तं साक्षात्कर्तुकामो ऽर्जुन उवाच । तथैव भगवत्प्रसादाद् अनन्तरं द्रक्ष्यति । "सर्वाश्चर्यमयं देवम् अनन्तं विश्वतोमुखम् ॥। तत्रैकस्थं जगत् कृत्स्नं प्रतिभक्तम् अनेकधाः" इति हि वक्ष्यते ।
 
 ।।11.1।। अर्जुन उवाच -- देहात्माभिमानरूपमोहेन मोहितस्य मम
 अनुग्रहैकप्रयोजनाय **परमं गुह्यं** परमं रहस्यम् **अध्यात्मसंज्ञितम्**
@@ -149,6 +154,9 @@ _________________
 ## शाङ्कर-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/11_vishva-rUpa-darshana/01_madanugrahAya_par.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+
+
+भगवतो विभूतय उक्ताः । तत्र च ‘विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्’ (भ. गी. १० । ४२) इति भगवता अभिहितं श्रुत्वा, यत् जगदात्मरूपम् आद्यमैश्वरं तत् साक्षात्कर्तुमिच्छन् , अर्जुन उवाच —
 
 ।।11.1।। --,**मदनुग्रहाय** ममानुग्रहार्थं **परमं** निरतिशयं **गुह्यं**
 गोप्यम् **अध्यात्मसंज्ञितम्** आत्मानात्मविवेकविषयं **यत् त्वया उक्तं

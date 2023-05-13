@@ -2,11 +2,13 @@
 title = "14 अहं वैश्वानरो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।  
-प्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम्।।15.14।।
+अहं **वैश्वानरो भूत्वा**  
+प्राणिनां देहमाश्रितः।  
+प्राणापान-समायुक्तः  
+**पचाम्य् अन्नं** चतुर्विधम्॥15.14॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/14_ahaM_vaishvAnaro.md">

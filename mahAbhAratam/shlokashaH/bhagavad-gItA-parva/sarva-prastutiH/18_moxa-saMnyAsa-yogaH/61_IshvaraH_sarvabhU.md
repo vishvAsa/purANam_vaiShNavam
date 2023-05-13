@@ -2,11 +2,13 @@
 title = "61 ईश्वरः सर्वभूतानाम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति।  
-भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया।।18.61।।
+**ईश्वरः** सर्व-भूतानां  
+हृद्-देशेऽर्जुन **तिष्ठति**।  
+भ्रामयन् सर्वभूतानि  
+यन्त्रारूढानि मायया॥18.61॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
@@ -30,7 +32,7 @@ _________________
 सत्त्वादिगुणमय्या मायया गुणानुगुणं प्रवर्तयन् तिष्ठति इत्यर्थः। पूर्वम्
 अपि एतद् उक्तम्सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनं च
 (गीता 15।15) इतिमत्तः सर्वं प्रवर्तते (गीता 10।8) इति च। श्रुतिश्च -- य
-आत्मनि तिष्ठन् (शत0 ब्रा0 1।13।1) इत्यादिका। एतन्मायानिवृत्तिहेतुम् आह --
+आत्मनि तिष्ठन् (शत॰ ब्रा॰ 1।13।1) इत्यादिका। एतन्मायानिवृत्तिहेतुम् आह --
 
 </details>
 </div>

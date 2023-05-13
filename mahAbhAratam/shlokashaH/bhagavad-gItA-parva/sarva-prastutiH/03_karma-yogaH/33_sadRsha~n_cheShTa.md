@@ -2,11 +2,13 @@
 title = "33 सदृशञ् चेष्टते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि।  
-प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति।।3.33।।
+**सदृशं चेष्टते** स्वस्याः  
+**प्रकृतेर्** ज्ञानवानपि।  
+प्रकृतिं यान्ति भूतानि,  
+निग्रहः किं करिष्यति॥3.33॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/33_sadRsha~n_cheShTa.md">

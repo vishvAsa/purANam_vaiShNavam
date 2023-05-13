@@ -2,11 +2,13 @@
 title = "03 तेजः क्षमा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता।  
-भवन्ति सम्पदं दैवीमभिजातस्य भारत।।16.3।।
+**तेजः** क्षमा धृतिः शौचम्  
+अद्रोहो **नाति-मानिता**।  
+**भवन्ति** सम्पदं **दैवीम्**  
+**अभिजातस्य** भारत॥16.3॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
@@ -23,24 +25,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।16.3।।**तेजः** दुर्जनैः अनभिभवनीयत्वम्।  
-  
-**क्षमा** परनिमित्तपीडानुभवे अपि परेषुं तं प्रति चित्तविकाररहितता।  
-  
-**धृतिः** महत्याम् अपि आपदि कृत्यकर्तव्यतावधारणम्।  
-  
-**शौचं** बाह्यान्तःकरणानां कृत्ययोग्यता शास्त्रीया।  
-  
-**अद्रोहः** परेषु अनुपरोधः परेषु स्वच्छन्दवृत्तिनिरोधरहितत्वम्
-इत्यर्थः।  
-  
-**नातिमानिता** अस्थाने गर्वः अतिमानित्वम्; तद्रहितता।  
-  
-एते गुणा **दैवीं संपदम् अभिजातस्य भवन्ति।** देवसम्बन्धिनी संपत् दैवी
-देवा भगवदाज्ञानुवृत्तिशीलाः; तेषां संपत्। सा च भगवदाज्ञानुवृत्तिः एव;
-ताम अभिजातस्य ताम् अभिमुखीकृतस्य जातस्य तां निर्वर्तयितुं जातस्य भवन्ति
-इत्यर्थः।
-
+16.01 इति वीक्षताम्। 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">

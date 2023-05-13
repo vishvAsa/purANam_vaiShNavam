@@ -2,11 +2,13 @@
 title = "07 मत्तः परतरम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय।  
-मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव।।7.7।।
+मत्तः परतरं नान्यत्  
+किञ्चिद् अस्ति धनञ्जय।  
+**मयि सर्वम् इदं प्रोतं**  
+सूत्रे मणिगणा इव॥7.7॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
@@ -30,8 +32,8 @@ _________________
 **चिदचिद्वस्तुजातं कार्यावस्थं कारणावस्थं च मच्छरीरभूतं** सूत्रे
 **मणिगणवदात्मतया अवस्थिते** मयि प्रोतम् **आश्रितम्।  
   
-यस्य पृथिवी शरीरम् (बृ0 उ₀ 3।7।3)यस्यात्मा शरीरम् (बृ उ 3।7।22)एष
-सर्वभूतान्तरात्मापहतपाप्मा दिव्यो देव एको नारायणः (सु0 उ₀ 7) इति
+यस्य पृथिवी शरीरम् (बृ॰ उ॰ 3।7।3)यस्यात्मा शरीरम् (बृ उ 3।7।22)एष
+सर्वभूतान्तरात्मापहतपाप्मा दिव्यो देव एको नारायणः (सु॰ उ॰ 7) इति
 आत्मशरीरभावेन अवस्थानम् च जगद्ब्रह्मणोः अन्तर्यामिब्राह्मणादिषु
 सिद्धम्। अतः सर्वस्य परमपुरुषशरीरत्वेन आत्मभूतपरमपुरुषप्रकारत्वात्
 सर्वप्रकारः परमपुरुष एव अवस्थित इति सर्वैः शब्दैः तस्य एव अभिधानम् इति

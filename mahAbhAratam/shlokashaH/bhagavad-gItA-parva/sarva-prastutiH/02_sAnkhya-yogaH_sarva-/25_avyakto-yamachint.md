@@ -2,13 +2,13 @@
 title = "25 अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अव्यक्तो ऽयम् अचिन्त्यो ऽयम्  
+अव्यक्तो ऽयम्, अचिन्त्यो ऽयम्  
 अविकार्योऽयम् उच्यते।  
 तस्माद् एवं विदित्वैनं  
-नानुशोचितुम् अर्हसि।।2.25।।
+**नानुशोचितुम् अर्हसि**॥2.25॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">

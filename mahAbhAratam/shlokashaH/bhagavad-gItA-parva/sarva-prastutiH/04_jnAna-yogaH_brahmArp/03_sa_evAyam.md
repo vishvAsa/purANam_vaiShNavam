@@ -2,11 +2,13 @@
 title = "03 स एवायम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः।  
-भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम्।।4.3।।
+स एवायं मया तेऽद्य  
+**योगः प्रोक्तः** पुरातनः।  
+भक्तोऽसि मे सखा चेति  
++++(अभक्तेभ्यो दुष्प्रापत्वाद्)+++ रहस्यं ह्य् एतद् उत्तमम् ॥4.3॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
@@ -112,7 +114,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
-।।4.1 4.3।। श्रीमदमलबोधाय नमः। हरिः ँ़। बुद्धेः परस्य माहात्म्यं कर्मभेदो
+।।4.1 4.3।। श्रीमदमलबोधाय नमः। हरिः ॐ। बुद्धेः परस्य माहात्म्यं कर्मभेदो
 ज्ञानमाहात्म्यं चोच्यतेऽस्मिन्नध्याये। पूर्वानुष्ठितश्चायं धर्म इत्याह
 इममिति।
 
@@ -264,11 +266,11 @@ _________________
 
   
   
-।।4.3।। स एवं पुरातनो योगोऽयमिति प्रत्यक्षं मत्सम्बन्धजनकस्ते तुभ्यं
-प्रोक्तः प्रकर्षेण मत्प्रीत्यात्मकफलयुक्त उक्तः। ननु योग एव
-फलसाधकश्चेद्भक्तिरस्मदादिभिः किमर्थं कर्तव्या इत्याशङ्क्याह भक्तोऽसीति।
-त्वं भक्तोऽसि सखा चासीति मे मदीयं रहस्यम्। एतदुत्तमं कर्मयोगादुत्तमम्।
-हीति निश्चयेन।  
+।।4.3।। **स** एवं पुरातनो **योगो ऽयम्** इति  
+प्रत्यक्षं मत्-सम्बन्ध-जनकस्ते तुभ्यं **प्रोक्तः** प्रकर्षेण मत्प्रीत्यात्मकफलयुक्त उक्तः।  
+ननु योग एव फलसाधकश् चेद्, भक्तिर् अस्मदादिभिः किमर्थं कर्तव्या? इत्य् आशङ्क्याह - भक्तोऽसीति।  
+**त्वं भक्तोऽसि सखा चासीति मे** मदीयं **रहस्यम्** **एतद् उत्तमं** कर्मयोगादुत्तमम्।
+**हीति** निश्चयेन।  
   
 
 </details>

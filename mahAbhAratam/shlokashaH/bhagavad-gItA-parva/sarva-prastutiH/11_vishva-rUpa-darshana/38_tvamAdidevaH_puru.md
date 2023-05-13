@@ -2,13 +2,13 @@
 title = "38 त्वमादिदेवः पुरुषः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-त्वमादिदेवः पुरुषः पुराण  
-स्त्वमस्य विश्वस्य परं निधानम्।  
-वेत्तासि वेद्यं च परं च धाम  
-त्वया ततं विश्वमनन्तरूप।।11.38।।
+त्वम् आदि-देवः पुरुषः पुराणस्,  
+त्वम् अस्य विश्वस्य परं निधानम्।  
+**वेत्तासि वेद्यं च** परं च धाम  
+त्वया **ततं विश्वम्** अनन्त-रूप॥11.38॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/38_tvamAdidevaH_puru.md">

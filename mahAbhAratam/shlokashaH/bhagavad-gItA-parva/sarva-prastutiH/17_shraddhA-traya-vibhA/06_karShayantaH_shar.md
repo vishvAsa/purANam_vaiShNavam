@@ -2,11 +2,13 @@
 title = "06 कर्षयन्तः शरीरस्थम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/06_karShayantaH_shar.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/06_karShayantaH_shar.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कर्षयन्तः शरीरस्थं भूतग्राममचेतसः।  
-मां चैवान्तःशरीरस्थं तान्विद्ध्यासुरनिश्चयान्।।17.6।।
+… **कर्षयन्तः** शरीर-स्थं  
+**भूत-ग्रामम्** अचेतसः।  
+मां चैवान्तःशरीरस्थं  
+तान् विद्ध्य् **आसुर-निश्चयान्**॥17.6॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/06_karShayantaH_shar.md">
@@ -36,7 +38,7 @@ _________________
   
 अथ प्रकृतम् एव शास्त्रीयेषु यज्ञादिषु गुणतो विशेषं प्रपञ्चयति तत्र अपि
 आहारमूलत्वात् सत्त्वादिवृद्धेः; आहारत्रैविध्यं प्रथमम् उच्यते। अन्नमयं हि
-सोम्य मनः (छा0 उ₀ 6।5।4) आहारशुद्धौ सत्त्वशुद्धिः (छा0 उ₀ 7।26।2) इति हि
+सोम्य मनः (छा॰ उ॰ 6।5।4) आहारशुद्धौ सत्त्वशुद्धिः (छा॰ उ॰ 7।26।2) इति हि
 श्रूयते।**
 
 </details>

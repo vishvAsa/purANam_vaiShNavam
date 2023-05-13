@@ -2,13 +2,13 @@
 title = "19 य एनम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-य एनं वेत्ति हन्तारं  
-यश् चैनं मन्यते हतम्।  
-उभौ तौ न विजानीतो  
-नायं हन्ति न हन्यते।।2.19।।+++(5)+++
+**य** एनं **वेत्ति हन्तारं**  
+यश् चैनं **मन्यते हतम्**।  
+उभौ तौ **न विजानीतो**  
+**नायं हन्ति न हन्यते**॥2.19॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
@@ -30,7 +30,7 @@ _________________
 विजानीतः।** उक्तैः हेतुभिः अस्य नित्यत्वाद् एव **अयं** हननहेतुः न
 भवति अत एव च अयम् आत्मा **न हन्यते।** हन्तिधातुः अपि
 आत्मकर्मकःशरीरवियोगकरणवाची। न हिंस्यात् सर्वा भूतानिब्राह्मणो न हन्तव्यः
-(क0 स्मृ0 8।2) इत्यादीनि अपि शास्त्राणि अविहितशरीरवियोगकरणविषयाणि।  
+(क॰ स्मृ॰ 8।2) इत्यादीनि अपि शास्त्राणि अविहितशरीरवियोगकरणविषयाणि।  
 
 </details>
 </div>

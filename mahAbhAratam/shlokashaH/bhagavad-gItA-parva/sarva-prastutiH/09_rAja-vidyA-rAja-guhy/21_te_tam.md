@@ -2,13 +2,13 @@
 title = "21 ते तम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ते तं भुक्त्वा स्वर्गलोकं विशालं  
-क्षीणे पुण्ये मर्त्यलोकं विशन्ति।  
-एव त्रयीधर्ममनुप्रपन्ना  
-गतागतं कामकामा लभन्ते।।9.21।।
+ते तं भुक्त्वा स्वर्ग-लोकं विशालं  
+क्षीणे पुण्ये **मर्त्य-लोकं विशन्ति**।  
+एवं त्रयी-धर्मम् अनु-प्रपन्ना  
+**गतागतं** काम-कामा **लभन्ते**॥9.21॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/21_te_tam.md">
@@ -16,7 +16,7 @@ title = "21 ते तम्"
 
 ते तं भुक्त्वा स्वर्गलोकं विशालं  
 क्षीणे पुण्ये मर्त्यलोकं विशन्ति।  
-एव त्रयीधर्ममनुप्रपन्ना  
+एवं त्रयीधर्ममनुप्रपन्ना  
 गतागतं कामकामा लभन्ते।।9.21।।
 </details>
 </div>
@@ -326,7 +326,7 @@ _________________
 ।।9.21।। ते पुण्यात्मकं सुरेन्द्रलोकमासाद्य प्राप्य दिवि स्वर्गे
 स्वर्गलोकं विशालं सकलविषयभोगयोग्यं भुक्त्वा भोगेन पुण्ये क्षीणे सति
 मर्त्यलोकं विशन्ति; प्राप्नुवन्तीत्यर्थः। एवं प्रकारेण
-त्रयीधर्म**मि**ष्टं৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷. परित्यज्य,कामकामाः
+त्रयीधर्म**मि**ष्टं परित्यज्य,कामकामाः
 सन्तोऽनुप्रपन्नाः गतागतं जन्ममरणात्मकप्रवाहं लभन्ते
 प्राप्नुवन्तीत्यर्थः।  
   

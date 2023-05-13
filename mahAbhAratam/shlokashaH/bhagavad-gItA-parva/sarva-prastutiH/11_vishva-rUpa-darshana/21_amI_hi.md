@@ -2,13 +2,13 @@
 title = "21 अमी हि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/21_amI_hi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/21_amI_hi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अमी हि त्वां सुरसङ्घाः विशन्ति  
-केचिद्भीताः प्राञ्जलयो गृणन्ति।  
-स्वस्तीत्युक्त्वा महर्षिसिद्धसङ्घाः  
-स्तुवन्ति त्वां स्तुतिभिः पुष्कलाभिः।।11.21।।
+अमी हि त्वां **सुर-सङ्घाः विशन्ति**  
+केचिद् भीताः प्राञ्जलयो **गृणन्ति**।  
+स्वस्तीत्युक्त्वा महर्षि-सिद्ध-सङ्घाः  
+**स्तुवन्ति** त्वां स्तुतिभिः पुष्कलाभिः॥11.21॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/21_amI_hi.md">

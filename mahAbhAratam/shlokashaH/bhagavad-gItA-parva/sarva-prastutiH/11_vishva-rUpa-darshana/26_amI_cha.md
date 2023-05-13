@@ -2,13 +2,13 @@
 title = "26 अमी च"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/26_amI_cha.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/26_amI_cha.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अमी च त्वां धृतराष्ट्रस्य पुत्राः  
-सर्वे सहैवावनिपालसङ्घैः।  
-भीष्मो द्रोणः सूतपुत्रस्तथाऽसौ  
-सहास्मदीयैरपि योधमुख्यैः।।11.26।।
+**अमी** च त्वां धृत-राष्ट्रस्य पुत्राः  
+**सर्वे** सहैवावनिपाल-सङ्घैः।  
+भीष्मो द्रोणः सूत-पुत्रस् तथाऽसौ  
+सहास्मदीयैर् अपि योधमुख्यैः …॥11.26॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/26_amI_cha.md">

@@ -2,12 +2,15 @@
 title = "01 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
-परं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम्।  
-यज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः।।14.1।।
++++(श्री भगवानुवाच)+++
+
+परं भूयः **प्रवक्ष्यामि**  
+ज्ञानानां **ज्ञानम्** उत्तमम्।  
+यज् ज्ञात्वा मुनयः सर्वे  
+परां सिद्धिमितो गताः॥14.1॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
@@ -24,6 +27,8 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+त्रयोदशे प्रकृतिपुरुषयोर् अन्यान्यसंसृष्टयोः स्वरूपयाथात्मयं विज्ञाय अमानित्वादिभिः भगवद्भक्त्यनुगृहीतैर् बन्धान् मुच्यत इत्य् उक्तम् । तत्र बन्धहेतुः पूर्वपूर्वसत्त्वादिगुणमयसुखादिसङ्ग इति चाभिहितम्, "कारणं गुणसङ्गो ऽस्य सदसद्योनिजन्मसु" इति । अथेदानीं गुणानां बन्धहेतुताप्रकारः, गुणनिवर्तनप्रकारश् चोच्यते ।
 
 ।।14.1।। श्रीभगवानुवाच -- **परं** पूर्वोक्ताद् अन्यत्
 प्रकृतिपुरुषान्तर्गतम् एव सत्त्वादिगुणविषयं ज्ञानं **भूयः प्रवक्ष्यामि**
@@ -142,6 +147,8 @@ _________________
 ## शाङ्कर-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+
+सर्वम् उत्पद्यमानं क्षेत्रक्षेत्रज्ञसंयोगात् उत्पद्यते इति उक्तम् । तत् कथमिति, तत्प्रदर्शनार्थम् ‘परं भूयः’ इत्यादिः अध्यायः आरभ्यते । अथवा, ईश्वरपरतन्त्रयोः क्षेत्रक्षेत्रज्ञयोः जगत्कारणत्वं न तु साङ्ख्यानामिव स्वतन्त्रयोः इत्येवमर्थम् । प्रकृतिस्थत्वं गुणेषु च सङ्गः संसारकारणम् इति उक्तम् । कस्मिन् गुणे कथं सङ्गः ? के वा गुणाः ? कथं वा ते बध्नन्ति इति ? गुणेभ्यश्च मोक्षणं कथं स्यात् ? मुक्तस्य च लक्षणं वक्तव्यम् , इत्येवमर्थं च भगवान् उवाच —
 
 ।।14.1।। --,**परं** ज्ञानम् इति व्यवहितेन संबन्धः; **भूयः** पुनः
 पूर्वेषु सर्वेष्वध्यायेषु असकृत् उक्तमपि **प्रवक्ष्यामि।** तच्च परं

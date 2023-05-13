@@ -2,13 +2,13 @@
 title = "05 निर्मानमोहा जितसङ्गदोषा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-निर्मानमोहा जितसङ्गदोषा  
-अध्यात्मनित्या विनिवृत्तकामाः।  
-द्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञै  
-र्गच्छन्त्यमूढाः पदमव्ययं तत्।।15.5।।
+निर्मान-मोहा **जित-सङ्ग-दोषा**  
+अध्यात्म-नित्या विनिवृत्त-कामाः।  
+द्वन्द्वैर् विमुक्ताः सुख-दुःख-संज्ञैर्  
+**गच्छन्त्य्** अमूढाः **पदम् अव्ययं** तत्॥15.5॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">

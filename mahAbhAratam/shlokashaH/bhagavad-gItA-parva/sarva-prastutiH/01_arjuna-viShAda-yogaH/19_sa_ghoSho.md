@@ -2,13 +2,13 @@
 title = "19 स घोषो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/19_sa_ghoSho.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/19_sa_ghoSho.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-स घोषो धार्तराष्ट्राणां  
-हृदयानि व्यदारयत्।  
+स **घोषो** धार्तराष्ट्राणां  
+**हृदयानि व्यदारयत्**।  
 नभश् च पृथिवीं चैव  
-तुमुलो व्यनुनादयन्।।1.19।।+++(4)+++
+तुमुलो व्यनुनादयन् +++(घोषः)+++॥1.19॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/19_sa_ghoSho.md">

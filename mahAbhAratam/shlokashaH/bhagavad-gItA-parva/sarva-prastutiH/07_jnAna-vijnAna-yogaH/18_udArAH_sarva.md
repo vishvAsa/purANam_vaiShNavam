@@ -2,11 +2,13 @@
 title = "18 उदाराः सर्व"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/18_udArAH_sarva.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/18_udArAH_sarva.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम्।  
-आस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम्।।7.18।।
++++(मत्कृपापात्राणि)+++ उदाराः+++(=समृद्धाः)+++ सर्व एवैते,  
+**ज्ञानी त्वात्मैव मे** मतम्।  
+आस्थितः स हि युक्तात्मा  
+माम् एवानुत्तमां गतिम्॥7.18॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/18_udArAH_sarva.md">

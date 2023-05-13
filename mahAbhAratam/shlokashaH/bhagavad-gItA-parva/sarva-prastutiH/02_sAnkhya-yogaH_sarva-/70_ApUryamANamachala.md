@@ -2,13 +2,13 @@
 title = "70 आपूर्यमाणमचलप्रतिष्ठं"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-आपूर्यमाणमचलप्रतिष्ठं  
-समुद्रमापः प्रविशन्ति यद्वत्।  
-तद्वत्कामा यं प्रविशन्ति सर्वे  
-स शान्तिमाप्नोति न कामकामी।।2.70।।
+आपूर्यमाणम् अचलप्रतिष्ठं  
+**समुद्रम् आपः प्रविशन्ति** यद्-वत्।  
+तद्-वत् **कामा यं प्रविशन्ति** सर्वे  
+स **शान्तिम् आप्नोति** न काम-कामी॥2.70॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/70_ApUryamANamachala.md">

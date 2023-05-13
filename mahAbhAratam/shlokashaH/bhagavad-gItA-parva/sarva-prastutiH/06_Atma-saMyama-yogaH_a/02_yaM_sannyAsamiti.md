@@ -2,11 +2,13 @@
 title = "02 यं सन्न्यासमिति"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव।  
-न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन।।6.2।।
+यं **संन्यासम्** इति प्राहुर्  
++++(कर्म-)+++**योगं** तं **विद्धि** पाण्डव।  
+**न** ह्य् **अ-संन्यस्त-+++(फल-कर्तृत्वादि-)+++सङ्कल्पो**  
+योगी भवति कश्चन॥6.2॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
@@ -23,15 +25,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।6.2।। ज्ञानयोग इति आत्मयाथात्म्यज्ञानम् **इति प्राहुः** तं
-कर्म**योगम्** एव **विद्धि।** तद् उपपादयति **न ह्यसंन्यस्तसंकल्पो योगी
-भवति कश्चन इति।  
+।।6.2।। ज्ञान-योग इति आत्म-याथात्म्य-ज्ञानम् **इति प्राहुः** तं
+कर्म-**योगम्** एव **विद्धि।** तद् उपपादयति  -  
+**न ह्यसंन्यस्तसंकल्पो योगी भवति कश्चन** इति।  
   
-आत्मयाथात्म्यानुसन्धानेन अनात्मनि प्रकृतौ आत्मसंकल्पः संन्यस्तः
-परित्यक्तो येन स संन्यस्तसंकल्पः अनेवंभूतो यः स असंन्यस्तसंकल्पः। न हि
-उक्तेषु कर्मयोगेषु अनेवंभूतः कश्चन कर्मयोगी भवतियस्य सर्वे समारम्भाः
-कामसंकल्पवर्जिताः। (गीता 4।19) इति हि उक्तम्। कर्मयोग एव अप्रमादेन योगं
-साधयति इत्याह**
+आत्मयाथात्म्यानुसन्धानेन अनात्मनि प्रकृतौ आत्म-संकल्पः संन्यस्तः
+परित्यक्तो येन स संन्यस्त-संकल्पः अनेवं-भूतो यः स **असंन्यस्त-संकल्पः**। न हि उक्तेषु कर्मयोगेषु अनेवंभूतः कश्चन कर्मयोगी भवतियस्य सर्वे समारम्भाः कामसंकल्पवर्जिताः। (गीता 4।19) इति हि उक्तम्।
 
 </details>
 </div>

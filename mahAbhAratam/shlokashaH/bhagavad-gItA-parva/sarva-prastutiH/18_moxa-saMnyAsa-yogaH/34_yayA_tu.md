@@ -2,11 +2,13 @@
 title = "34 यया तु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यया तु धर्मकामार्थान् धृत्या धारयतेऽर्जुन।  
-प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी।।18.34।।
+यया तु धर्म-कामार्थान्  
+धृत्या धारयतेऽर्जुन।  
+प्रसङ्गेन **फलाकाङ्क्षी**  
+धृतिः सा पार्थ **राजसी**॥18.34॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">

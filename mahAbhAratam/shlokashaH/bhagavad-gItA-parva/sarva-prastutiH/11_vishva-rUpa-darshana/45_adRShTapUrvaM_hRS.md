@@ -2,13 +2,13 @@
 title = "45 अदृष्टपूर्वं हृषितोऽस्मि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/45_adRShTapUrvaM_hRS.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/45_adRShTapUrvaM_hRS.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अदृष्टपूर्वं हृषितोऽस्मि दृष्ट्वा  
-भयेन च प्रव्यथितं मनो मे।  
-तदेव मे दर्शय देव रूपं  
-प्रसीद देवेश जगन्निवास।।11.45।।
+अ-दृष्ट-पूर्वं **हृषितोऽस्मि दृष्ट्वा**  
+भयेन च **प्रव्यथितं मनो** मे।  
+**तद् एव मे दर्शय** देव रूपं  
+प्रसीद देवेश जगन्-निवास॥11.45॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/45_adRShTapUrvaM_hRS.md">

@@ -2,13 +2,13 @@
 title = "40 नमः पुरस्तादथ"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/40_namaH_purastAdath.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/40_namaH_purastAdath.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-नमः पुरस्तादथ पृष्ठतस्ते  
+नमः पुरस्ताद् अथ पृष्ठतस् ते  
 नमोऽस्तु ते सर्वत एव सर्व।  
-अनन्तवीर्यामितविक्रमस्त्वं  
-सर्वं समाप्नोषि ततोऽसि सर्वः।।11.40।।
+अनन्त-वीर्याऽमित-विक्रमस् त्वं  
+सर्वं समाप्नोषि ततो **ऽसि सर्वः**॥11.40॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/40_namaH_purastAdath.md">

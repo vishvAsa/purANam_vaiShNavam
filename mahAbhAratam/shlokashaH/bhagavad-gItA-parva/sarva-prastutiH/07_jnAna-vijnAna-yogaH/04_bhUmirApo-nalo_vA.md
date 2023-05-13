@@ -2,11 +2,13 @@
 title = "04 भूमिरापोऽनलो वायुः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च।  
-अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा।।7.4।।
+भूमिर् आपोऽनलो वायुः  
+खं मनो बुद्धिर् एव च।  
+अहङ्कार इतीयं मे  
+भिन्ना **प्रकृतिर् अष्टधा**॥7.4॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">

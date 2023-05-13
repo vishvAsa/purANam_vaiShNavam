@@ -2,13 +2,13 @@
 title = "03 मम योनिर्महद्ब्रह्म"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-मम +++(प्रजाजननाय)+++ योनिर् महद् ब्रह्म  
-तस्मिन् गर्भं दधाम्यहम्।  
-संभवः सर्वभूतानां  
-ततो भवति भारत।।14.3।।
+मम +++(प्रजाजननाय)+++ **योनिर्** महद् **ब्रह्म**  
+तस्मिन् **गर्भं दधाम्य् अहम्** +++(देवग्रामः)+++।  
+संभवः सर्व-भूतानां  
+ततो भवति भारत॥14.3॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
@@ -30,8 +30,8 @@ _________________
 अहंकार इतीयं मे भिन्ना प्रकृतिरष्टघा।। अपेरयम् (गीता 7।45) इति निर्दिष्टा
 अचेतना प्रकृतिः महदहंकारादिविकाराणां कारणतयामहद्ब्रह्म इति उच्यते।
 श्रुतौ अपि क्वचित् प्रकृतिः अपि ब्रह्म इति निर्दिश्यते। यः सर्वज्ञः
-सर्ववित्; यस्य ज्ञानमयं तपः; तस्मादेतद्ब्रह्म नामरूपमन्नं च जायते (मु0
-उ₀ 1।1।9) इति  
+सर्ववित्; यस्य ज्ञानमयं तपः; तस्मादेतद्ब्रह्म नामरूपमन्नं च जायते (मु॰
+उ॰ 1।1।9) इति  
   
 इतस्त्वन्यां प्रकृतिं विद्धि मे पराम्। जीवभूताम् (गीता 7।5) इति
 चेतनपुञ्जरूपा या प्रकृति निर्दिष्टा; सा इह सकलप्राणिबीजतया गर्भशब्देन

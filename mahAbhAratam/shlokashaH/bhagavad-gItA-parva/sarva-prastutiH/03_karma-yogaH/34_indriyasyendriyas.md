@@ -2,11 +2,13 @@
 title = "34 इन्द्रियस्येन्द्रियस्यार्थे"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/34_indriyasyendriyas.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/34_indriyasyendriyas.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ।  
-तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ।।3.34।।
+इन्द्रियस्येन्द्रियस्यार्थे  
+**राग-द्वेषौ व्यवस्थितौ**।  
+**तयोर् न वशम् आगच्छेत्** -  
+तौ ह्य् अस्य +++(श्रेयोमार्गे)+++ परिपन्थिनौ॥3.34॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/34_indriyasyendriyas.md">

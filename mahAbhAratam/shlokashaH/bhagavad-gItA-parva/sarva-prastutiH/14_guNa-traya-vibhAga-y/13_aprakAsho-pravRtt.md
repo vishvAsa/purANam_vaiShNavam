@@ -2,13 +2,13 @@
 title = "13 अप्रकाशोऽप्रवृत्तिश्च"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अप्रकाशो ऽप्रवृत्तिश्च  
-प्रमादो मोह एव च।  
-तमस्य् एतानि जायन्ते  
-विवृद्धे कुरुनन्दन।।14.13।।
+अप्रकाशो ऽप्रवृत्तिश् च  
+**प्रमादो मोह** एव च।  
+**तमस्य्** एतानि जायन्ते  
+**विवृद्धे** कुरुनन्दन॥14.13॥
 
 </details>
 </div>

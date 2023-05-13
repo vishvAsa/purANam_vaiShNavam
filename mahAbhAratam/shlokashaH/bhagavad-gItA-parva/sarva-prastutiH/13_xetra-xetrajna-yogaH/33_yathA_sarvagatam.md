@@ -2,11 +2,13 @@
 title = "33 यथा सर्वगतम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यथा सर्वगतं सौक्ष्म्यादाकाशं नोपलिप्यते।  
-सर्वत्रावस्थितो देहे तथाऽऽत्मा नोपलिप्यते।।13.33।।
+यथा सर्व-गतं सौक्ष्म्याद्  
+आकाशं नोपलिप्यते।  
+सर्वत्रावस्थितो देहे  
+तथा **ऽऽत्मा नोपलिप्यते**॥13.33॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
@@ -23,11 +25,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।13.33।।**यथा एक** आदित्यः स्वया प्रभया **कृत्स्नम् इमं लोकं
-प्रकाशयति;** **तथा क्षेत्रम्** अपि **क्षेत्री** मम इदं क्षेत्रम् ईदृशम्
-इति **कृत्स्नं** बहिः अन्तः च आपादतलमस्तकं स्वकीयेन ज्ञानेन प्रकाशयति।
-अतः प्रकाश्यात् लोकात् प्रकाशकादित्यवद् वेदितृत्वेन वेद्यभूताद् अस्मात्
-क्षेत्राद् अत्यन्तविलक्षणः अयम् उक्तलक्षण आत्मा इत्यर्थः।
+।।13.32।। यथा **आकाशं सर्वगतम्** अपि सर्वैः वस्तुभिः संयुक्तम् अपि
+**सौक्ष्म्यात्** सर्ववस्तुस्वभावैः **न लिप्यते;** **तथा आत्मा**
+अतिसौक्ष्म्यात् **सर्वत्र** देवमनुष्यादौ **देहे अवस्थितः** अति
+तत्तद्देहस्वमावैः **न लिप्यते।**
 
 </details>
 </div>
@@ -148,9 +149,8 @@ is not; upalipyate, defiled. Further,
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।13.33।। न करोति न लिप्यते चेत्यत्र द्रष्टृत्वेन दृश्यधर्मशून्यत्वं
-हेतुमाह -- **किञ्चेति।** दृष्टान्तेन विवक्षितमर्थं दर्शयति -- **रवीति।**
-उभयविधमर्थमेव स्फुटयति -- **रविवदिति।**
+।।13.32।। सूक्ष्मभावात् अप्रतिहतस्वभावत्वादित्यर्थः। न संबध्यते
+पङ्कादिभिरिति शेषः।
 
 </details>
 </div>

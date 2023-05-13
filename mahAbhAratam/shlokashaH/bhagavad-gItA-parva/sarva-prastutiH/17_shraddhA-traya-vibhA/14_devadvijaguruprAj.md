@@ -2,11 +2,13 @@
 title = "14 देवद्विजगुरुप्राज्ञपूजनं"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-देवद्विजगुरुप्राज्ञपूजनं शौचमार्जवम्।  
-ब्रह्मचर्यमहिंसा च शारीरं तप उच्यते।।17.14।।
+देव-द्विज-गुरु-प्राज्ञ-  
+**पूजनं शौचम्** आर्जवम्।  
+**ब्रह्मचर्यम् अहिंसा** च  
+**शारीरं तप** उच्यते॥17.14॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">

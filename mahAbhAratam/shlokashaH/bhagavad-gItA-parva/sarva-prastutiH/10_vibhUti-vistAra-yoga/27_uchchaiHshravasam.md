@@ -2,11 +2,13 @@
 title = "27 उच्चैःश्रवसमश्वानां"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम्।  
-ऐरावतं गजेन्द्राणां नराणां च नराधिपम्।।10.27।।
+**उच्चैःश्रवसम्** अश्वानां  
+विद्धि माम् अमृतोद्भवम्।  
+**ऐरावतं** गजेन्द्राणां  
+नराणां च **नराधिपम्**॥10.27॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">

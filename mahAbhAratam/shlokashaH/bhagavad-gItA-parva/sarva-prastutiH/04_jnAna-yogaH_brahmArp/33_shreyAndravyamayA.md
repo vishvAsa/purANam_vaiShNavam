@@ -2,11 +2,13 @@
 title = "33 श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/33_shreyAndravyamayA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/33_shreyAndravyamayA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप।  
-सर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते।।4.33।।
+**श्रेयान्** द्रव्य-मयाद् यज्ञाज् +++(ज्ञानहीनात्)+++  
+**ज्ञान-यज्ञः** परन्तप।  
+सर्वं कर्माखिलं पार्थ  
+**ज्ञाने परिसमाप्यते**॥4.33॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/33_shreyAndravyamayA.md">

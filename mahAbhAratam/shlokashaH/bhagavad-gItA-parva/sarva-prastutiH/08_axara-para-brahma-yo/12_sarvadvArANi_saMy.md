@@ -2,11 +2,13 @@
 title = "12 सर्वद्वाराणि संयम्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च।  
-मूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम्।।8.12।।
+सर्व-द्वाराणि +++(इन्द्रियरूपाणि)+++ संयम्य  
+**मनो हृदि निरुध्य** च।  
+मूर्ध्न्य् आधायात्मनः प्राणम्  
+आस्थितो योग-धारणाम्॥8.12॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
@@ -409,7 +411,7 @@ _________________
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
 ।।8.12 -- 8.13।। तत्प्राप्तौ साङ्गमुपायमाह -- सर्वद्वाराणीति द्वाभ्याम्।
-ब्रह्मवादे ममैव नामरूपात्मकत्वादिति योगी मां ँ़इत्येकाक्षररूपमनुस्मरन्
+ब्रह्मवादे ममैव नामरूपात्मकत्वादिति योगी मां ँइत्येकाक्षररूपमनुस्मरन्
 तथा व्याहरन्नन्तकाले परमामेतां पदत्वेन निर्दिष्टां गतिं याति।
 
 </details>

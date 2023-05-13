@@ -2,11 +2,13 @@
 title = "18 गतिर्भर्ता प्रभुः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत्।  
-प्रभवः प्रलयः स्थानं निधानं बीजमव्ययम्।।9.18।।
+गतिर् भर्ता प्रभुः साक्षी  
+निवासः शरणं सुहृत्।  
+प्रभवः प्रलयः स्थानं  
+निधानं **बीजम् अव्ययम्**॥9.18॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">

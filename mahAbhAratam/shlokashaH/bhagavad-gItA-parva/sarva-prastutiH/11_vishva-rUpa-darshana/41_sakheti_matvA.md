@@ -2,13 +2,13 @@
 title = "41 सखेति मत्वा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सखेति मत्वा प्रसभं यदुक्तं  
-हे कृष्ण हे यादव हे सखेति।  
+**सखेति मत्वा प्रसभं यद् उक्तं**  
+हे कृष्ण, हे यादव, हे सखेति।  
 अजानता महिमानं तवेदं  
-मया प्रमादात्प्रणयेन वापि।।11.41।।
+मया प्रमादात् प्रणयेन वापि …॥11.41॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/41_sakheti_matvA.md">

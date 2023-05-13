@@ -2,13 +2,13 @@
 title = "20 द्यावापृथिव्योरिदमन्तरं"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/20_dyAvApRthivyorida.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/20_dyAvApRthivyorida.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-द्यावापृथिव्योरिदमन्तरं हि  
-व्याप्तं त्वयैकेन दिशश्च सर्वाः।  
-दृष्ट्वाऽद्भुतं रूपमुग्रं तवेदं  
-लोकत्रयं प्रव्यथितं महात्मन्।।11.20।।
+द्यावा-पृथिव्योर् इदम् अन्तरं हि  
+**व्याप्तं** त्वयैकेन दिशश् च सर्वाः।  
+**दृष्ट्वा** ऽद्भुतं रूपम् उग्रं तवेदं  
+**लोक-त्रयं प्रव्यथितं** महात्मन्॥11.20॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/20_dyAvApRthivyorida.md">

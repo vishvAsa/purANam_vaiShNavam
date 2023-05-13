@@ -2,11 +2,13 @@
 title = "57 चेतसा सर्वकर्माणि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः।  
-बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव।।18.57।।
++++(तेन -)+++ चेतसा **सर्व-कर्माणि**  
+मयि **संन्यस्य** मत्परः।  
+बुद्धि-योगम् उपाश्रित्य  
+**मच्-चित्तः** सततं **भव**॥18.57॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">

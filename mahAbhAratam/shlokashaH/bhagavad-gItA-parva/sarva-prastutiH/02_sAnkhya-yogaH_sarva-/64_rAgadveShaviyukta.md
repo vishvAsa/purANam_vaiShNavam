@@ -2,11 +2,13 @@
 title = "64 रागद्वेषवियुक्तैस्तु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन्।  
-आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति।।2.64।।
+राग-द्वेष-वियुक्तैस् तु  
+विषयान् **इन्द्रियैश् चरन्**।  
+**आत्म-वश्यैर्** विधेयात्मा  
+**प्रसादम् अधिगच्छति**॥2.64॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">

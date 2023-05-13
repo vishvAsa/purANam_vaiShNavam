@@ -2,11 +2,13 @@
 title = "33 धृत्या यया"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः।  
-योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी।।18.33।।
+धृत्या यया **धारयते**  
+मनः-प्राणेन्द्रिय-क्रियाः।  
+योगेनाव्यभिचारिण्या  
+**धृतिः** सा पार्थ **सात्त्विकी**॥18.33॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/33_dhRtyA_yayA.md">

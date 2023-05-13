@@ -2,13 +2,13 @@
 title = "20 त्रैविद्या माम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-त्रैविद्या मां सोमपाः पूतपापा  
-यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते।  
-ते पुण्यमासाद्य सुरेन्द्रलोक  
-मश्नन्ति दिव्यान्दिवि देवभोगान्।।9.20।।
+त्रै-विद्या मां सोम-पाः पूत-पापा  
+यज्ञैर् इष्ट्वा **स्वर्-गतिं प्रार्थयन्ते**।  
+ते पुण्यम् आसाद्य सुरेन्द्र-लोकम्  
+**अश्नन्ति** दिव्यान् दिवि **देवभोगान्**॥9.20॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">

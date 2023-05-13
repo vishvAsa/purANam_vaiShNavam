@@ -2,11 +2,13 @@
 title = "19 ज्ञानङ् कर्म"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः।  
-प्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि।।18.19।।
+**ज्ञानं कर्म च कर्ता** च  
+**त्रिधैव** गुण-भेदतः।  
+**प्रोच्यते गुण-संख्याने**  
+यथावच् छृणु तान्य् अपि॥18.19॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">

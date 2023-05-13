@@ -2,12 +2,15 @@
 title = "05 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
-बहूनि मे व्यतीतानि जन्मानि तव चार्जुन।  
-तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप।।4.5।।
++++(श्री भगवानुवाच)+++
+
+बहूनि मे **व्यतीतानि**  
+**जन्मानि** तव चार्जुन।  
+तान्य् **अहं वेद** सर्वाणि  
+**न त्वं** वेत्थ परन्तप॥4.5॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">

@@ -2,13 +2,13 @@
 title = "19 अनादिमध्यान्तमनन्तवीर्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/19_anAdimadhyAntaman.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/19_anAdimadhyAntaman.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अनादिमध्यान्तमनन्तवीर्य  
-मनन्तबाहुं शशिसूर्यनेत्रम्।  
-पश्यामि त्वां दीप्तहुताशवक्त्रम्  
-स्वतेजसा विश्वमिदं तपन्तम्।।11.19।।
+अनादि-मध्यान्तम् अनन्त-वीर्यम्  
+**अनन्त-बाहुं** शशि-सूर्य-नेत्रम्।  
+**पश्यामि** त्वां दीप्त-हुताश-वक्त्रम्  
+स्व-तेजसा विश्वम् इदं तपन्तम्॥11.19॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/19_anAdimadhyAntaman.md">

@@ -2,11 +2,13 @@
 title = "21 निराशीर्यतचित्तात्मा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः।  
-शारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम्।।4.21।।
+निराशीर् यत-चित्तात्मा  
+त्यक्त-सर्व-परिग्रहः।  
+**शारीरं** केवलं **कर्म**  
+**कुर्वन् नाप्नोति किल्बिषम्**॥4.21॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
@@ -394,7 +396,7 @@ devoted people.\] (Bo. Sm. 21. 8. 12) etc., the Lord says:
 निराशीरपि यतचित्तात्मापि केवलमपि शारीरं कर्म कुर्वन्
 विहिताकरणात्किल्बिषं प्राप्नोत्येवेत्यर्थं इति तदुपेक्ष्यम्।
 निराशीरित्यादिविशेषणाननुरुपया कुकल्पनया व्यतिरेकमुखेननैव किंचित्करोति
-सः। कृत्वापि न निबध्यते। हत्वापि स इमाँल्लोकान्न हन्ति न निबध्यत
+सः। कृत्वापि न निबध्यते। हत्वापि स इमाल्ँ लोकान्न हन्ति न निबध्यत
 इत्यादिविरुद्धार्थप्रदर्शनानौचित्यात्कथमसतः सज्जायेत इति श्रुत्या
 अकरणादभावरुपात्किल्बिषस्य भावस्य उत्पर्तिर्न जायतेऽपितु प्रतिषिद्धा
 चरणादित्यसकृद्भाष्यकारैरुक्तत्वेन च शरीरं केवलमिति विशेषणात्

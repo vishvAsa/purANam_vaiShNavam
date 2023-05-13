@@ -2,11 +2,13 @@
 title = "25 यान्ति देवव्रता"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यान्ति देवव्रता देवान् पितॄन्यान्ति पितृव्रताः।  
-भूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम्।।9.25।।
+**यान्ति** देव-व्रता **देवान्**  
+**पितॄन् यान्ति** पितृव्रताः।  
+**भूतानि यान्ति** भूतेज्या  
+यान्ति **मद्-याजिनो** ऽपि माम्॥9.25॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">

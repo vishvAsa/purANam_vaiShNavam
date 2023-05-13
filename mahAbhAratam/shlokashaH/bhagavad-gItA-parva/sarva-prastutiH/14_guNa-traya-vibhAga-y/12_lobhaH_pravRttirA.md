@@ -2,13 +2,13 @@
 title = "12 लोभः प्रवृत्तिरारम्भः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 लोभः प्रवृत्तिर् आरम्भः  
-कर्मणाम् अशमः स्पृहा।  
-रजस्य् एतानि जायन्ते  
-विवृद्धे भरतर्षभ।।14.12।।
+**कर्मणाम् अशमः स्पृहा**।  
+**रजस्य्** एतानि जायन्ते  
+**विवृद्धे** भरतर्षभ॥14.12॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">

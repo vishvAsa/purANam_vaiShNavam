@@ -2,14 +2,15 @@
 title = "32 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
-कालोऽस्मि लोकक्षयकृत्प्रवृद्धो  
-लोकान्समाहर्तुमिह प्रवृत्तः।  
-ऋतेऽपि त्वां न भविष्यन्ति सर्वे  
-येऽवस्थिताः प्रत्यनीकेषु योधाः।।11.32।।
++++(श्री भगवानुवाच)+++
+
+**कालोऽस्मि** लोक-क्षय-कृत् प्रवृद्धो  
+लोकान् समाहर्तुम् इह प्रवृत्तः।  
+ऋतेऽपि त्वां **न भविष्यन्ति** सर्वे  
+येऽवस्थिताः प्रत्य्-अनीकेषु योधाः॥11.32॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">

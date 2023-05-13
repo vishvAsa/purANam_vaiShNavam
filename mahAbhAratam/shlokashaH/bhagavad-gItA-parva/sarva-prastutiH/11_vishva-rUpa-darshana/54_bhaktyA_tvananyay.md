@@ -2,11 +2,13 @@
 title = "54 भक्त्या त्वनन्यया"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-भक्त्या त्वनन्यया शक्यमहमेवंविधोऽर्जुन।  
-ज्ञातुं दृष्टुं च तत्त्वेन प्रवेष्टुं च परंतप।।11.54।।
+**भक्त्या** त्व् अनन्यया **शक्यम्** +++(अस्मि)+++  
+अहम् एवंविधो ऽर्जुन।  
+**ज्ञातुं दृष्टुं** च तत्त्वेन  
+प्रवेष्टुं च परंतप॥11.54॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
@@ -29,7 +31,7 @@ _________________
 तत्त्वतः **प्रवेष्टुं च शक्यः।  
   
 तथा च श्रुतिःनायमात्मा प्रवचनेन लभ्यो न मेधया न बहुना श्रुतेन। यमेवैष
-वृणुते तेन लभ्यस्तस्यैष आत्मा विवृणुते तनूं स्वाम्। (कठ0 2।23) इति।**
+वृणुते तेन लभ्यस्तस्यैष आत्मा विवृणुते तनूं स्वाम्। (कठ॰ 2।23) इति।**
 
 </details>
 </div>

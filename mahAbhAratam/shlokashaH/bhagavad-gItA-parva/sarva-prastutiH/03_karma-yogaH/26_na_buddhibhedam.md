@@ -2,11 +2,13 @@
 title = "26 न बुद्धिभेदम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/26_na_buddhibhedam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/26_na_buddhibhedam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम्।  
-जोषयेत्सर्वकर्माणि विद्वान् युक्तः समाचरन्।।3.26।।
+**न बुद्धि-भेदं जनयेद्**  
+अज्ञानां कर्म-सङ्गिनाम्।  
+**जोषयेत् सर्व-कर्माणि**  
+विद्वान् युक्तः समाचरन्॥3.26॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/26_na_buddhibhedam.md">

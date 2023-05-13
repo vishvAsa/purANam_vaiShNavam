@@ -2,11 +2,13 @@
 title = "09 सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/09_suhRnmitrAryudAsI.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/09_suhRnmitrAryudAsI.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु।  
-साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते।।6.9।।
+सुहृन्-मित्रार्य्-उदासीन-  
+मध्य-स्थ--द्वेष्य-बन्धुषु।  
+साधुष्व् अपि च पापेषु  
++++(कर्म-फल-सङ्ग-त्यागेन)+++ **सम-बुद्धिर् विशिष्यते**॥6.9॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/09_suhRnmitrAryudAsI.md">

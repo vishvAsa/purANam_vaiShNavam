@@ -2,22 +2,22 @@
 title = "46 यावानर्थ उदपाने"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 +++(पानाय ऽनपेक्षितस्य जलस्योपेक्षया)+++  
-यावान् अर्थ उद-पाने +++(पिपासोः)+++  
+**यावान् अर्थ उद-पाने** +++(पिपासोः)+++  
 सर्वतः संप्लुतोदके।  
 +++(आत्मनिष्ठायाय् अनपेक्षितस्य वाग्-राशेर् उपेक्षया)+++  
-तावान् सर्वेषु वेदेषु +++(आत्म-निष्ठा-परो ऽर्थः)+++  
-ब्राह्मणस्य विजानतः।।2.46।।
+**तावान् सर्वेषु वेदेषु** +++(आत्म-निष्ठा-परो ऽर्थः)+++  
+ब्राह्मणस्य विजानतः॥2.46॥
 
 +++(अथवा शङ्करदृष्टिम् अनुसृत्य)+++  
 यावान् अर्थ उद-पाने+++(→क्षुद्रजलाशये)+++,  
 +++(यस्)+++ सर्वतः संप्लुतोदके +++(ऽन्तर्भवति)+++।  
 तावान् सर्वेषु वेदेषु+++(→क्षुद्रफलद-कर्मसु)+++ +++(लभ्यः क्षुद्रफलरूपो ऽर्थः)+++  
-ब्राह्मणस्य विजानतः +++(विज्ञानरूपे सम्प्लुतोदकतुल्ये ऽर्थे ऽन्तर्भवति)+++।।2.46।।  
-+++(किञ्च, यथा ऽग्रे निरूपयिष्यते - ज्ञाननिष्ठाधिकारात् प्राक् क्षुद्रजलाशयथानीयम् अपि कर्म करणीयम्।)+++
+ब्राह्मणस्य विजानतः +++(विज्ञानरूपे सम्प्लुतोदकतुल्ये ऽर्थे ऽन्तर्भवति)+++॥2.46॥  
++++(किञ्च, यथा ऽग्रे निरूपयिष्यते - ज्ञाननिष्ठाधिकारात् प्राक् क्षुद्र-जलाशय-स्थानीयम् अपि कर्म करणीयम्।)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">

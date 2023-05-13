@@ -2,11 +2,13 @@
 title = "13 सर्वकर्माणि मनसा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी।  
-नवद्वारे पुरे देही नैव कुर्वन्न कारयन्।।5.13।।
+सर्वकर्माणि मनसा  
++++(नवद्वारपुरे)+++ **संन्यस्यास्ते** सुखं वशी।  
++++(रन्ध्रगणनया)+++ नव-द्वारे +++(शरीर-)+++पुरे देही  
+नैव कुर्वन् न कारयन्॥5.13॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
@@ -23,10 +25,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।5.13।। आत्मनः प्राचीनकर्ममूलदेहसम्बन्धप्रयुक्तम् इदं कर्मणां कर्तृत्वं
-न स्वरूपप्रयुक्तम् इति विवेकविषयेण **मनसा** सर्वाणि **कर्माणि नवद्वारे
-पुरे सन्यस्य वशी देही** स्वयं देहाधिष्ठानप्रयत्नम् **अकुर्वन्** देहेन
-**न एव कारयन् सुखम् आस्ते। साक्षाद् आत्मनः स्वाभाविकरूपम् आह**
+।।5.13।। आत्मनः प्राचीन-कर्म-मूल-देह-सम्बन्ध-प्रयुक्तम् इदं कर्मणां कर्तृत्वं, न स्वरूपप्रयुक्तम्  
+इति विवेकविषयेण **मनसा** सर्वाणि **कर्माणि नवद्वारे
+पुरे सन्यस्य वशी देही**  
+स्वयं देहाधिष्ठान-प्रयत्नम् **अकुर्वन्** देहेन
+**न एव कारयन् सुखम् आस्ते।** 
 
 </details>
 </div>
@@ -456,7 +459,7 @@ _________________
 नेतरेषामित्याह सर्वकर्माणीति। वशी भगवद्वशे स्थितः सर्वकर्माणि सन्नयस्य
 त्यक्त्वा नवद्वारे पुरे श्रवणादिकरणसमर्थे देहे देही भगवदर्थं
 देहाभिमानवान् सुखमास्ते तिष्ठति। मनसा नैव कुर्वन् स्वार्थाहङ्काराभावान्न
-किञ्चित्कुर्वन्। न वा ममताभावादन्ये**भ्यः৷৷৷৷৷৷৷৷.** परोपकार उपदेशादिना
+किञ्चित्कुर्वन्। न वा ममताभावादन्येभ्यः परोपकार उपदेशादिना
 कारयन् सुखमास्त इति भावः।  
   
 

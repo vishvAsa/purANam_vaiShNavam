@@ -2,13 +2,13 @@
 title = "22 यावदेतान्निरीक्षेऽहं"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/22_yAvadetAnnirIxe-h.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/22_yAvadetAnnirIxe-h.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यावद् एतान् निरीक्षे ऽहं  
+यावद् **एतान् निरीक्षे** ऽहं  
 योद्धु-कामान् अवस्थितान्।  
-कैर् मया सह योद्धव्यम्  
-अस्मिन् रण-समुद्यमे।।1.22।।+++(4)+++
+**कैर्** मया सह **योद्धव्यम्**  
+अस्मिन् रण-समुद्यमे॥1.22॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/22_yAvadetAnnirIxe-h.md">
@@ -25,9 +25,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/01_arjuna-viShAda-yogaH/22_yAvadetAnnirIxe-h.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।1.22।। अर्जुन उवाच संजय उवाच स च तेन चोदितः तत्क्षणाद् एव
-भीष्मद्रोणादीनां सर्वेषाम् एव महीक्षितां पश्यतां यथाचोदितम् अकरोत्।
-ईदृशी भवदीयानां विजयस्थितिः इति च अवोचत्।  
+२५-तमस्य टीका दृश्या। 
 
 </details>
 </div>

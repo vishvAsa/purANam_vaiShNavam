@@ -2,11 +2,13 @@
 title = "37 वृष्णीनां वासुदेवोऽस्मि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनंजयः।  
-मुनीनामप्यहं व्यासः कवीनामुशना कविः।।10.37।।
+वृष्णीनां **वासुदेवो** ऽस्मि  
+पाण्डवानां **धनंजयः**।  
+मुनीनाम् अप्यहं **व्यासः**  
+कवीनाम् उशना कविः॥10.37॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">

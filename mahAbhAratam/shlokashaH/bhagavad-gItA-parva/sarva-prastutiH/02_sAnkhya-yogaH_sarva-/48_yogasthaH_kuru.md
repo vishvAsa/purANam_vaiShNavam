@@ -2,11 +2,13 @@
 title = "48 योगस्थः कुरु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय।  
-सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते।।2.48।।
+**योगस्थः कुरु** कर्माणि  
+सङ्गं त्यक्त्वा धनञ्जय।  
+सिद्ध्य्-असिद्ध्योः **समो भूत्वा**  
+समत्वं **योग उच्यते**॥2.48॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
@@ -23,11 +25,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।2.48।। राज्यबन्धुप्रभृतिषु **सङ्गं त्यक्त्वा** युद्धादीनि **कर्माणि
-योगस्थः कुरु।** तदन्तर्भूतविजयादि**सिद्ध्यसिद्ध्योः समो भूत्वा**
-कुरु। तद् इदं सिद्ध्यसिद्ध्योः **समत्वम्** योगस्थ इत्यत्र योगशब्देन
-**उच्यते। योगः** सिद्ध्यसिद्ध्योः समत्वरूपं चित्तसमाधानम्।  
-किमर्थम् इदम् असकृद् उच्यते इत्यत आह  
+।।2.48।। राज्य-बन्धु-प्रभृतिषु **सङ्गं त्यक्त्वा** युद्धादीनि **कर्माणि योगस्थः कुरु।**  
+तदन्तर्भूत-विजयादि-**सिद्ध्य्-असिद्ध्योः समो भूत्वा** कुरु।  
+तद् इदं सिद्ध्य्-असिद्ध्योः **समत्वं** योगस्थ इत्यत्र योग-शब्देन **उच्यते।**  
+**योगः** सिद्ध्य्-असिद्ध्योः समत्व-रूपं चित्त-समाधानम्।  
+किमर्थम् इदम् असकृद् उच्यते - इत्यत आह  
 
 </details>
 </div>
@@ -252,7 +254,7 @@ _________________
 कुरु सङ्गं त्यक्त्वा सर्वत्यागं कृत्वेति भावः। धनञ्जय इति सम्बोधनेन
 स्वविभूतिरूपत्वात्स्वसंयोगयोग्यता बोधिता किञ्च सिद्ध्यसिद्ध्योः सिद्धिः
 सर्वदा योगः असिद्धिर्विप्रयोगस्तत्र समो भूत्वा
-संयोगानन्तरभाविविप्रयोगानन्तरभाविपरमसुखज्ञानेच्छाजनितानन्द**भ৷৷৷৷৷৷৷৷৷৷৷৷**रभगवद्दत्तविप्रयोगे
+संयोगानन्तरभाविविप्रयोगानन्तरभाविपरमसुखज्ञानेच्छाजनितानन्दभरभगवद्दत्तविप्रयोगे
 वैमनस्यमविचार्य तथा कुरु। तत्र समत्वे योग उच्यते। तद्रसज्ञैरिति शेषः।
 मया वा भगवद्दत्तविप्रयोगस्यापि परमानन्दरूपत्वात्तद्दत्तत्वेन योगरूपतेति
 भावः। संयोगानन्तरजत्वात्तन्मध्यपातित्वादपि तथा तत्साधकत्वेनापि तथा।  

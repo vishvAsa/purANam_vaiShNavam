@@ -2,12 +2,15 @@
 title = "01 ये शास्त्रविधिमुत्सृज्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अर्जुन उवाच  
-ये शास्त्रविधिमुत्सृज्य यजन्ते श्रद्धयाऽन्विताः।  
-तेषां निष्ठा तु का कृष्ण सत्त्वमाहो रजस्तमः।।17.1।।
++++(अर्जुन उवाच)+++
+
+ये **शास्त्रविधिम् उत्सृज्य**  
+**यजन्ते** श्रद्धयाऽन्विताः।  
+तेषां **निष्ठा** तु **का** कृष्ण  
+सत्त्वम् आहो रजस् तमः॥17.1॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
@@ -24,6 +27,8 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+देवासुरविभागोक्तिमुखेन प्राप्यतत्त्वज्ञानं तत्प्राप्त्युपायज्ञानं च वेदैकमूलम् इत्युक्तम् । इदानीम् अशास्त्रविहितस्यासुरत्वेनाफलत्वम्, शास्त्रविहितस्य च गुणतस् त्रैविध्यम्, शास्त्रसिद्धस्य लक्षणं चोच्यते । तत्राशास्त्रविहितस्य निष्फलत्वम् अजानन् अशास्त्रविहिते श्रद्धासंयुक्ते यागादौ सत्त्वादिनिमित्तफलभेदबुभुत्सया अर्जुनः पृच्छति
 
 ।।17.1।। अर्जुन उवाच -- **शास्त्रविधिम् उत्सृज्य श्रद्धयान्विता ये यजन्ते
 तेषां निष्ठा का** किं **सत्वम्** **आहो** स्वित् **रजः** अथ **तमःनिष्ठा
@@ -178,7 +183,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
-  
+‘तस्माच्छास्त्रं प्रमाणं ते’ (भ. गी. १६ । २४) इति भगवद्वाक्यात् लब्धप्रश्नबीजः अर्जुन उवाच —
   
 ।।17.1।। --,**ये** केचित् अविशेषिताः **शास्त्रविधिं** शास्त्रविधानं
 श्रुतिस्मृतिशास्त्रचोदनाम् **उत्सृज्य** परित्यज्य **यजन्ते** देवादीन्

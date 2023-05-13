@@ -2,13 +2,13 @@
 title = "29 आश्चर्यवत्पश्यति"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-आश्चर्यवत् पश्यति +++(पुण्यात्मा)+++ कश्चिद् एनम् +++(आत्मानं)+++  
-आश्चर्यवद् वदति तथैव चान्यः।  
-आश्चर्यवच् चैनम् अन्यः श्रृणोति  
-श्रुत्वाप्य् एनं वेद न चैव कश्चित् +++(द्रष्टा वक्ता शोता वा ऽचिन्त्यत्वात्)+++।।2.29।।+++(5)+++
+**आश्चर्यवत् पश्यति** +++(पुण्यात्मा)+++ कश्चिद् एनम् +++(आत्मानं)+++  
+आश्चर्यवद् **वदति** तथैव चान्यः।  
+आश्चर्यवच् चैनम् अन्यः **श्रृणोति**  
+श्रुत्वाप्य् एनं **वेद न** चैव कश्चित् +++(अचिन्त्यत्वात्, मूढत्वाद् वा)+++॥2.29॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">

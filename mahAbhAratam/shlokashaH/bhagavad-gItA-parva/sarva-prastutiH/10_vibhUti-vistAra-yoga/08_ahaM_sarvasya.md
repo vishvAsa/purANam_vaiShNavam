@@ -2,11 +2,13 @@
 title = "08 अहं सर्वस्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते।  
-इति मत्वा भजन्ते मां बुधा भावसमन्विताः।।10.8।।
+अहं सर्वस्य प्रभवो  
+**मत्तः सर्वं प्रवर्तते**।  
+इति मत्वा भजन्ते मां  
+बुधा भाव-समन्विताः॥10.8॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
@@ -247,7 +249,7 @@ _________________
 सेवायां स्थितिस्तेषामुक्तासेवायां वा कथायां वा इति भक्तिवर्द्धिन्यां
 कथायां च स्थितिमाह -- परस्परं बोधयन्तः कथयन्तश्च मां इति। तदपि नित्यं; न
 तु नैमित्तिकम्। तथैव च तुष्यन्ति मनउत्सवादिषु च रमन्ति अनुकरणेन वा
-क्री़डन्ति तथाभूतानां तेषां प्रीतिपूर्वकं
+क्रीडन्ति तथाभूतानां तेषां प्रीतिपूर्वकं
 पुष्टिमर्यादानुकूलापरानुरक्तिरीश्वरे सर्वात्मना प्रीतिस्तत्पूर्वकं भजतां
 सेवतां -- अनेनचेतस्तत्प्रवणं सेवा इति मानसीस्वरूपमुक्तं -- तेषामेव
 बुद्धियोगं विपाकदशामापन्नं ददामि येन ते मां पुरुषोत्तमं उप समीप एव

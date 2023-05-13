@@ -2,11 +2,13 @@
 title = "25 नाहम् प्रकाशः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-नाहं प्रकाशः सर्वस्य योगमायासमावृतः।  
-मूढोऽयं नाभिजानाति लोको मामजमव्ययम्।।7.25।।
+नाहं प्रकाशः सर्वस्य  
+योग-माया-समावृतः।  
+मूढोऽयं **नाभिजानाति**  
+**लोको माम्** अजम् अव्ययम्॥7.25॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
@@ -270,7 +272,7 @@ _________________
 अहं सर्वस्य साधारणस्य प्रकाशः प्रकटो न भवामि किन्तु कस्यचिद्भक्तस्यैव।
 तत्र हेतुमाह योगमायासमावृत इति। योगार्थमेव या माया अन्तरङ्गा दासीभूता
 शक्तिस्तया आवृतो रसार्थमाच्छन्नः। अतो मूढो भक्त्यालोचनादिज्ञानशून्योऽयं
-**परिदृश्य৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷मानो** मां पश्यन्नपि स्वरूपज्ञानरहितो लोको
+**परिदृश्यमानो** मां पश्यन्नपि स्वरूपज्ञानरहितो लोको
 बहिर्दृष्टिर्मामजं जन्मरहितं लीलया प्रकटमव्ययं नित्यं नाभिजानाति अभितः
 सर्वभावेन न जानाति।  
   

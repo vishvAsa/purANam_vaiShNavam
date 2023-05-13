@@ -2,13 +2,13 @@
 title = "40 नेहाभिक्रमनाशोऽस्ति"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-नेहाभिक्रम+++(=[कर्म-]आरम्भ)+++-नाशोऽस्ति +++(बुद्धिपूर्वक-कर्म-योगे)+++  
-+++(असमाप्त-कर्म-विच्छेदेऽपि)+++ प्रत्य्-अवायो न विद्यते।  
+**नेहाभिक्रम+++(=[कर्म-]आरम्भ)+++-नाशो ऽस्ति** +++(बुद्धिपूर्वक-कर्म-योगे)+++  
++++(असमाप्त-कर्म-विच्छेदेऽपि)+++ **प्रत्य्-अवायो न विद्यते**।  
 स्वल्पम् अप्य् अस्य धर्मस्य  
-त्रायते महतो भयात्।।2.40।।+++(5)+++
+**त्रायते** महतो भयात्॥2.40॥+++(5)+++
 
 </details>
 </div>

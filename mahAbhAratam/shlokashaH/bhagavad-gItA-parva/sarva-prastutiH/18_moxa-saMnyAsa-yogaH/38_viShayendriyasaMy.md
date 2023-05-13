@@ -2,11 +2,13 @@
 title = "38 विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम्।  
-परिणामे विषमिव तत्सुखं राजसं स्मृतम्।।18.38।।
+विषयेन्द्रिय-संयोगाद्  
+यत् तद् अग्रेऽमृतोपमम्।  
+परिणामे विषम् इव  
+तत् सुखं **राजसं** स्मृतम्॥18.38॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">

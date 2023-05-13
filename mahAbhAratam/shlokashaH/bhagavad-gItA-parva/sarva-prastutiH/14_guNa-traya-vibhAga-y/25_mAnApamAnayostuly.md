@@ -2,13 +2,13 @@
 title = "25 मानापमानयोस्तुल्यस्तुल्यो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 मानापमानयोस् तुल्यस्  
-तुल्यो मित्रारि-पक्षयोः।  
+**तुल्यो मित्रारि-पक्षयोः**।  
 +++("गुणानाम् आरम्भः, न ममे"ति)+++ सर्वाऽऽरम्भ-परित्यागी  
-गुणातीतः स उच्यते।।14.25।।
+**गुणातीतः स उच्यते**॥14.25॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">

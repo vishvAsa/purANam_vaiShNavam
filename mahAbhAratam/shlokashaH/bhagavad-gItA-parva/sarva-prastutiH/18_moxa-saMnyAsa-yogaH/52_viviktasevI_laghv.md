@@ -2,11 +2,13 @@
 title = "52 विविक्तसेवी लघ्वाशी"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-विविक्तसेवी लघ्वाशी यतवाक्कायमानसः।  
-ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः।।18.52।।
+**विविक्त-सेवी** लघ्वाशी  
+यत-वाक्-काय-मानसः।  
+ध्यान-योग-परो नित्यं  
+वैराग्यं समुपाश्रितः॥18.52॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">

@@ -2,11 +2,13 @@
 title = "07 तेषामहं समुद्धर्ता"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तेषामहं समुद्धर्ता मृत्युसंसारसागरात्।  
-भवामि नचिरात्पार्थ मय्यावेशितचेतसाम्।।12.7।।
+तेषाम् अहं **समुद्धर्ता**  
+मृत्यु-संसार-सागरात्।  
+**भवामि** नचिरात् पार्थ  
+**मय्य् आवेशित-चेतसाम्**॥12.7॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
@@ -153,9 +155,7 @@ _________________
 ।।12.7।। --,**तेषां** मदुपासनैकपराणाम् **अहम्** ईश्वरः **समुद्धर्ता।**
 कुतः इति आह -- **मृत्युसंसारसागरात्** मृत्युयुक्तः संसारः मृत्युसंसारः;
 स एव सागर इव सागरः; दुस्तरत्वात्; तस्मात् मृत्युसंसारसागरात् अहं तेषां
-समुद्धर्ता **भवामि न चिरात्।** किं तर्हि क्षिप्रमेव हे **पार्थ; मयि
-आवेशितचेतसां** मयि विश्वरूपे आवेशितं समाहितं चेतः येषां ते
-मय्यावेशितचेतसः तेषाम्।। यतः एवम्; तस्मात् --,
+समुद्धर्ता **भवामि न चिरात्।** किं तर्हि क्षिप्रमेव हे **पार्थ; मयि आवेशितचेतसां** मयि विश्वरूपे आवेशितं समाहितं चेतः येषां ते मय्यावेशितचेतसः तेषाम्।। 
 
 </details>
 </div>

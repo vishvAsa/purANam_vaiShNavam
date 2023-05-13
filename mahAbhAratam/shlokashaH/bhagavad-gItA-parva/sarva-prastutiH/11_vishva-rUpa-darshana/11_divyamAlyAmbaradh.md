@@ -2,11 +2,13 @@
 title = "11 दिव्यमाल्याम्बरधरन्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-दिव्यमाल्याम्बरधरं दिव्यगन्धानुलेपनम्।  
-सर्वाश्चर्यमयं देवमनन्तं विश्वतोमुखम्।।11.11।।
+दिव्य-माल्याम्बर-धरं  
+दिव्य-गन्धानुलेपनम्।  
+सर्वाश्चर्य-मयं देवम्  
+**अनन्तं विश्व-तोमुखम्**॥11.11॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">

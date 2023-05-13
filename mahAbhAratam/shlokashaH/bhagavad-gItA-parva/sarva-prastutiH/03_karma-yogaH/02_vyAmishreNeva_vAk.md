@@ -2,11 +2,13 @@
 title = "02 व्यामिश्रेणेव वाक्येन"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे।  
-तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्।।3.2।।
+व्यामिश्रेणेव वाक्येन  
+**बुद्धिं मोहयसीव** मे।  
+तद् **एकं वद** निश्चित्य  
+येन श्रेयोऽहम् आप्नुयाम्॥3.2॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/02_vyAmishreNeva_vAk.md">

@@ -2,11 +2,13 @@
 title = "07 योगयुक्तो विशुद्धात्मा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः।  
-सर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते।।5.7।।
+योग-युक्तो विशुद्धात्मा  
+विजितात्मा जितेन्द्रियः।  
+सर्वभूतात्म-भूतात्मा  
+**कुर्वन्न् अपि न लिप्यते**॥5.7॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">

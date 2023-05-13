@@ -2,11 +2,13 @@
 title = "55 भक्त्या मामभिजानाति"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः।  
-ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम्।।18.55।।
+भक्त्या **माम् अभिजानाति**  
+यावान् यश् चास्मि तत्त्वतः।  
+**ततो** मां तत्त्वतो ज्ञात्वा  
++++(मयि समा)+++**विशते** तद्-अनन्तरम्॥18.55॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
@@ -548,11 +550,14 @@ _________________
 
   
   
-।।18.55।। भक्तिलाभफलमाह -- भक्त्येति। ततस्तदनन्तरं भक्त्या भजनेन वा
-अगणितानन्दलीलारूपो यश्च केवलमानन्दरसरूपोऽस्मि तादृशं मां तत्त्वतः
-कारणात्मकधर्मैः अभिजानाति सर्वथा जानाति। तदनन्तरं तत्त्वतो ज्ञात्वा मां
-लीलाकर्त्तारं विशते; आनन्दरूपो भवतीत्यर्थः। यद्वा मां ज्ञात्वा विशते
-लीलास्विति शेषः।  
+।।18.55।। भक्तिलाभफलमाह -- भक्त्येति।  
+**ततस्** तद्-अनन्तरं भक्त्या भजनेन वा  
+अगणितानन्द-लीला-रूपो यश् च केवलम् आनन्द-रस-रूपो ऽस्मि तादृशं **मां तत्त्वतः** कारणात्मकधर्मैः  
+**अभिजानाति** सर्वथा जानाति। 
+
+तद्-अनन्तरं तत्त्वतो ज्ञात्वा  
+**मां** लीलाकर्त्तारं **विशते**; आनन्दरूपो भवतीत्यर्थः।  
+यद्वा **मां** ज्ञात्वा **विशते** लीलास्विति शेषः।  
   
 
 </details>

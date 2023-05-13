@@ -2,11 +2,13 @@
 title = "47 श्रेयान्स्वधर्मो विगुणः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्।  
-स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम्।।18.47।।
+**श्रेयान् स्वधर्मो विगुणः**  
+परधर्मात् स्वनुष्ठितात्।  
+स्व-भाव-नियतं कर्म  
+कुर्वन् **नाप्नोति किल्बिषम्**॥18.47॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
@@ -564,7 +566,7 @@ who does his duty as his own nature reveals it, never sins.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 18.47 Better is one's own duty, though ill done, than the duty of
-another, though well-performed৷৷৷৷৷৷ When one does the duty ordained by
+another, though well-performed When one does the duty ordained by
 his own nature, he incurs no stain.
 
 </details>

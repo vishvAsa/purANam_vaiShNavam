@@ -2,11 +2,13 @@
 title = "40 नान्तोऽस्ति मम"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/40_nAnto-sti_mama.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/40_nAnto-sti_mama.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-नान्तोऽस्ति मम दिव्यानां विभूतीनां परंतप।  
-एष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया।।10.40।।
+नान्तो ऽस्ति मम दिव्यानां  
+विभूतीनां परंतप।  
+एष **तूद्देशतः प्रोक्तो**  
+विभूतेर् विस्तरो मया॥10.40॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/40_nAnto-sti_mama.md">

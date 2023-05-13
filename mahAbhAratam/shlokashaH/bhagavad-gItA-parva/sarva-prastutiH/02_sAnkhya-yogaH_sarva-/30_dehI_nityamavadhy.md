@@ -2,13 +2,13 @@
 title = "30 देही नित्यमवध्योऽयम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 देही नित्यम् अवध्योऽयं  
 देहे सर्वस्य भारत।  
 तस्मात् सर्वाणि भूतानि  
-न त्वं शोचितुम् अर्हसि।।2.30।।
+**न त्वं शोचितुम् अर्हसि**॥2.30॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
@@ -228,7 +228,7 @@ _________________
   
 ।।2.30।। पूर्वोक्तमुपसंहरन् शोकाभावमुपदिशति देहीति। देही सर्वस्य देहे
 अवध्यस्तस्मात्सर्वाणि भूतानि जातदेहानि नतु देही जायत इति त्वं शोचितुं
-ना**र्ह৷৷৷৷৷৷৷৷৷৷**सि। भारतेति सम्बोधनात्तथाज्ञानभवत्वं बोध्यते।  
+नार्हसि। भारतेति सम्बोधनात्तथाज्ञानभवत्वं बोध्यते।  
   
   
   

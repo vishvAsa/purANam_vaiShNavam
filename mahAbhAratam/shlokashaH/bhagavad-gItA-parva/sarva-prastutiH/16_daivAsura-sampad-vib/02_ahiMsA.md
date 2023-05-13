@@ -2,11 +2,13 @@
 title = "02 अहिंसा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/02_ahiMsA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/02_ahiMsA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम्।  
-दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम्।।16.2।।
+अहिंसा **सत्यम् अक्रोधस्**  
+**त्यागः** शान्तिर् अपैशुनम्।  
+**दया** भूतेष्व् अलोलुप्त्वं  
+**मार्दवं** ह्रीर् अचापलम्॥16.2॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/02_ahiMsA.md">
@@ -23,29 +25,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/16_daivAsura-sampad-vib/02_ahiMsA.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।16.2।।**अहिंसा** परपीडावर्जनम्।  
-  
-**सत्यं** यथादृष्टार्थगोचरभूतहितवाक्यम्।  
-  
-**अक्रोधः** परपीडाफलचित्तविकाररहितत्वम्।  
-  
-**त्यागः** आत्महितप्रत्यनीकपरिग्रहविमोचनम्।  
-  
-**शान्तिः** इन्द्रियाणां विषयप्रावण्यनिरोधसंशीलनम्।  
-  
-**अपैशुनं** परानर्थकवाक्यनिवेदनाकरणम्।  
-  
-**दया** भूतेषु सर्वेषु दुःखासहिष्णुत्वम्।  
-  
-**अलोलुप्त्वम्;** अलोलुपत्वम्; अलोलुत्वम् इति वा पाठः। विषयेषु
-निःस्पृहत्वम् इत्यर्थः।  
-  
-**मार्दवम्** अकाठिन्यम् साधुजनसंश्लेषार्हता इत्यर्थः।  
-  
-**ह्रीः** अकार्यकरणे व्रीडा।  
-  
-**अचापलं** स्पृहणीयविषयसन्निधौ अचपलत्वम्।
-
+16.01 इति वीक्षताम्। 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/16_daivAsura-sampad-vib/02_ahiMsA.md">

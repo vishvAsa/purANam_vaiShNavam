@@ -2,11 +2,13 @@
 title = "07 प्रवृत्तिञ् च"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः।  
-न शौचं नापि चाचारो न सत्यं तेषु विद्यते।।16.7।।
+प्रवृत्तिं च निवृत्तिं च  
+जना **न विदुर्** आसुराः।  
+न शौचं नापि **चाचारो**  
+न **सत्यं** तेषु विद्यते॥16.7॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">

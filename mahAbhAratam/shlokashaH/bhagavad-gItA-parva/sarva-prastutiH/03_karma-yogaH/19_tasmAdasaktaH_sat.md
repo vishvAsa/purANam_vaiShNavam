@@ -2,11 +2,13 @@
 title = "19 तस्मादसक्तः सततम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तस्मादसक्तः सततं कार्यं कर्म समाचर।  
-असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः।।3.19।।
+तस्माद् **असक्तः** सततं  
+कार्यं **कर्म समाचर**।  
+असक्तो ह्य् आचरन् कर्म  
+**परम् आप्नोति** पूरुषः॥3.19॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/19_tasmAdasaktaH_sat.md">

@@ -2,11 +2,13 @@
 title = "15 आढ्योऽभिजनवानस्मि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/15_ADhyo-bhijanavAna.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/15_ADhyo-bhijanavAna.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया।  
-यक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः।।16.15।।
+आढ्यो **ऽभिजनवान् अस्मि**  
+**को ऽन्यो ऽस्ति** सदृशो मया।  
+यक्ष्ये, दास्यामि, मोदिष्य  
+इत्य् अ-ज्ञान-विमोहिताः॥16.15॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/15_ADhyo-bhijanavAna.md">
@@ -36,8 +38,8 @@ _________________
 
   
   
-।।16.15।। अस्मिँल्लोके इति -- लोकान्तरं तु नास्तीति हि तदभिप्रायः यद्वा
-अस्तिशब्दाभिप्रेतः सार्वकालिकसमनिषेधविवक्षयाअस्मिँल्लोके इति निर्देशः।
+।।16.15।। अस्मिल्ँ लोके इति -- लोकान्तरं तु नास्तीति हि तदभिप्रायः यद्वा
+अस्तिशब्दाभिप्रेतः सार्वकालिकसमनिषेधविवक्षयाअस्मिल्ँ लोके इति निर्देशः।
 यावल्लोकमन्वेषणेऽपीति भावः। प्रकृतैरेवाकारैरेकैकशोऽपि सदृशः प्रतिषिध्यत
 इत्याह -- स्वसामर्थ्येति। मया सदृशः कः इत्येतावति वक्तव्ये अन्यशब्दः
 अन्यत्वमेवासामर्थ्ये हेतुरिति द्योतनार्थः। यद्वा;मत्तोऽन्यो मया सदृशो

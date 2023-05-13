@@ -2,14 +2,15 @@
 title = "35 एतच्छ्रुत्वा वचनम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सञ्जय उवाच  
-एतच्छ्रुत्वा वचनं केशवस्य  
-कृताञ्जलिर्वेपमानः किरीटी।  
-नमस्कृत्वा भूय एवाह कृष्णं  
-सगद्गदं भीतभीतः प्रणम्य।।11.35।।
++++(सञ्जय उवाच)+++
+
+एतच् छ्रुत्वा वचनं केशवस्य  
+कृताञ्जलिर् वेपमानः किरीटी।  
+नमस् कृत्वा **भूय एवाह** कृष्णं  
+सगद्गदं भीत-भीतः प्रणम्य॥11.35॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">

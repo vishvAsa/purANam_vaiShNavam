@@ -2,11 +2,13 @@
 title = "19 मूढग्राहेणात्मनो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-मूढग्राहेणात्मनो यत्पीडया क्रियते तपः।  
-परस्योत्सादनार्थं वा तत्तामसमुदाहृतम्।।17.19।।
+मूढ-ग्राहेणात्मनो यत्  
+**पीडया** क्रियते तपः।  
+**परस्योत्सादनार्थं** वा  
+तत् **तामसम्** उदाहृतम्॥17.19॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">

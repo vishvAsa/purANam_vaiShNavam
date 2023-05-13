@@ -2,15 +2,16 @@
 title = "21 हृषीकेशन् तदा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अर्जुन उवाच  
++++(अर्जुन उवाच)+++
 
-हृषीकेशं तदा वाक्यम्  
-इदम् आह महीपते।  
+
+हृषीकेशं तदा **वाक्यम्**  
+इदम् **आह** महीपते।  
 सेनयोर् उभयोर् मध्ये  
-रथं स्थापय मेऽच्युत।।1.21।।
+**रथं स्थापय** मेऽच्युत॥1.21॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
@@ -28,9 +29,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।1.21।। अर्जुन उवाच संजय उवाच स च तेन चोदितः तत्क्षणाद् एव
-भीष्मद्रोणादीनां सर्वेषाम् एव महीक्षितां पश्यतां यथाचोदितम् अकरोत्।
-ईदृशी भवदीयानां विजयस्थितिः इति च अवोचत्।  
+२५-तमस्य टीका दृश्या।
 
 </details>
 </div>

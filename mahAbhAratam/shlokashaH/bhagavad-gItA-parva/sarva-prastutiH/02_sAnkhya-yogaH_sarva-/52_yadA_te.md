@@ -2,11 +2,13 @@
 title = "52 यदा ते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति।  
-तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च।।2.52।।
+यदा ते मोह-कलिलं+++(=गहनं)+++  
++++(पुरुष-युक्ता)+++ **बुद्धिर् व्यतितरिष्यति**।  
+तदा **गन्तासि निर्वेदं** +++("प्रकृतिसम्बद्धं तत्सर्वम्" इति)+++  
++++(क्षुद्रस्य)+++ श्रोतव्यस्य श्रुतस्य च॥2.52॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">

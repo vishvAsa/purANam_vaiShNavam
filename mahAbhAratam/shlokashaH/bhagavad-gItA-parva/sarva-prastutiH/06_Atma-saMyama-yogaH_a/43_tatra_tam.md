@@ -2,11 +2,13 @@
 title = "43 तत्र तम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम्।  
-यतते च ततो भूयः संसिद्धौ कुरुनन्दन।।6.43।।
+तत्र तं बुद्धि-संयोगं  
+**लभते पौर्वदेहिकम्**।  
+**यतते** च ततो भूयः  
+**संसिद्धौ** कुरु-नन्दन॥6.43॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
@@ -76,16 +78,7 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।6.43 6.45।। तत्रेत्यादि परां गतिमित्यन्तम्। संसिद्धौ मोक्षात्मिकायाम्।
-अवशः परतन्त्र एव किल तेन पूर्वाभ्यासेन बलादेव योगाभ्यासं प्रति नीयते। न
-चैतत् सामान्यम्। योगजिज्ञासामात्रेणैव हि शब्दब्रह्मातिवृत्तिः
-मन्त्रस्वाध्यायादिरूपं च शब्दब्रह्म अतिवर्तते न स्वीकुरुते। ततः
-जिज्ञासानन्तरम् यत्नवान् अभ्यासक्रमेण देहान्ते वासुदेवत्वं प्राप्नोति। न
-चासौ तेनैव देहेन सिद्ध इति मन्तव्यम्। अपि तु बहूनि जन्मानि तेन
-तदभ्यस्तमिति मन्तव्यम्। अत एव यस्य अनन्यव्यापारतया
-भगद्व्यापारानुरागित्वं स योगभ्रष्ट इति निश्चेयम् +++(N निश्चेयः)+++।
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">

@@ -2,11 +2,13 @@
 title = "02 एवम् परम्पराप्राप्तमिमम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/02_evam_paramparAprA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/02_evam_paramparAprA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-एवं परम्पराप्राप्तमिमं राजर्षयो विदुः।  
-स कालेनेह महता योगो नष्टः परन्तप।।4.2।।
+एवं परम्परा-प्राप्तम्  
+इमं **राजर्षयो विदुः**।  
+स **कालेनेह** महता  
+योगो **नष्टः** परन्तप॥4.2॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/02_evam_paramparAprA.md">
@@ -139,7 +141,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मध्वः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/madhvaH/mUlam/04_jnAna-yogaH_brahmArp/02_evam_paramparAprA.md">
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
-।।4.1 4.3।। श्रीमदमलबोधाय नमः। हरिः ँ़। बुद्धेः परस्य माहात्म्यं कर्मभेदो
+।।4.1 4.3।। श्रीमदमलबोधाय नमः। हरिः ॐ। बुद्धेः परस्य माहात्म्यं कर्मभेदो
 ज्ञानमाहात्म्यं चोच्यतेऽस्मिन्नध्याये। पूर्वानुष्ठितश्चायं धर्म इत्याह
 इममिति।
 
@@ -300,11 +302,10 @@ _________________
 
   
   
-।।4.2।। एवं परम्पराप्राप्तं मत्परम्परयाऽऽप्तमिमं योगं राजर्षयः राज्यादिकं
-परित्यज्य मदर्थैकप्रयोजनवन्तोऽविदुः। ननु परम्परागतं चेदिदानीं केनापि कथं
-न ज्ञायत इत्याशङ्क्याहुः स कालेनेति। स योगो महता कालेन प्रमाणादिनिरासकेन
-महता मदिच्छारूपेण तद्व्यवधानादनवतारदशायां दर्शकाभावान्नष्टः। परन्तपेति
-सम्बोधनेन तवोत्कृष्टतापसंक्लेशेनाहं दर्शयामीति ज्ञापितम्।  
+।।4.2।। **एवं परम्पराप्राप्तं** मत्परम्परया ऽऽप्तम् **इमं** योगं **राजर्षयः** राज्यादिकं परित्यज्य मदर्थैकप्रयोजनवन्तो **विदुः**। 
+
+ननु परम्परागतं चेद् इदानीं केनापि कथं न ज्ञायत इत्याशङ्क्याहुः - स कालेनेति।  
+**स योगो महता कालेन** प्रमाणादिनिरासकेन महता मद्-इच्छारूपेण तद्व्यवधानाद् अनवतार-दशायां दर्शकाभावान् **नष्टः**। **परन्तपेति** सम्बोधनेन तवोत्कृष्ट-ताप-संक्लेशेनाहं दर्शयामीति ज्ञापितम्।  
   
 
 </details>

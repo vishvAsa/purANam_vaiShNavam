@@ -2,12 +2,15 @@
 title = "19 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
-हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः।  
-प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे।।10.19।।
++++(श्री भगवानुवाच)+++
+
+हन्त ते **कथयिष्यामि**  
+दिव्या ह्य् आत्म-विभूतयः।  
+प्राधान्यतः कुरु-श्रेष्ठ  
+**नास्त्य् अन्तो विस्तरस्य** मे॥10.19॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">

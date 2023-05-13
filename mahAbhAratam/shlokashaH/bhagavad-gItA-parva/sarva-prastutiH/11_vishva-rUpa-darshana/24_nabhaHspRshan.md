@@ -2,13 +2,13 @@
 title = "24 नभःस्पृशन्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-नभःस्पृशं दीप्तमनेकवर्णं  
-व्यात्ताननं दीप्तविशालनेत्रम्।  
+नभःस्पृशं दीप्तम् अनेकवर्णं  
+व्यात्ताननं दीप्त-विशाल-नेत्रम्।  
 दृष्ट्वा हि त्वां प्रव्यथितान्तरात्मा  
-धृतिं न विन्दामि शमं च विष्णो।।11.24।।
+**धृतिं न विन्दामि** शमं च विष्णो॥11.24॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
@@ -27,9 +27,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।11.24।। नभःशब्दःतदक्षरे परमे व्योमन् (महाना0 1।2)आदित्यवर्णं तमसः
-परस्तात् (श्वे0 उ₀ 3।8 यजुः सं0 31।18)क्षयन्तमस्य रजसः पराके (ऋक्स0
-2।6।25।5)यो अस्याध्यक्षः परमे व्योमन् (ऋक्सं0 8।9।17।7
+।।11.24।। नभःशब्दःतदक्षरे परमे व्योमन् (महाना॰ 1।2)आदित्यवर्णं तमसः
+परस्तात् (श्वे॰ उ॰ 3।8 यजुः सं॰ 31।18)क्षयन्तमस्य रजसः पराके (ऋक्स॰
+2।6।25।5)यो अस्याध्यक्षः परमे व्योमन् (ऋक्सं॰ 8।9।17।7
 इत्यादिश्रुतिसिद्धत्रिगुणप्रकृत्यतीत -- परमव्योमवाची; सविकारस्य
 प्रकृतितत्त्वस्य पुरुषस्य च सर्वावस्थस्य; कृत्स्नस्य आश्रयतया नभःस्पृशम्
 इति वचनात्। द्यावापृथिव्योरिदमन्तरं हि व्याप्तम् (गीता 11।20) इति

@@ -2,11 +2,13 @@
 title = "08 असत्यमप्रतिष्ठन् ते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम्।  
-अपरस्परसम्भूतं किमन्यत्कामहैतुकम्।।16.8।।
++++(बहु-प्रमाण-तिरस्काराद्)+++ अ-सत्यम् अ-प्रतिष्ठं ते  
+**जगद् आहुर् अनीश्वरम्**।  
+अ-परस्-पर-सम्भूतं  
+किम् अन्यत् **काम-हैतुकम्**॥16.8॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
@@ -27,7 +29,7 @@ _________________
 ब्रह्मात्मकम् इति न आहुः। **अप्रतिष्ठं** तथा ब्रह्मणि प्रतिष्ठितम् इति न
 वदन्ति। ब्रह्मणा अनन्तेन धृता हि पृथिवी; सर्वान् लोकान् बिभर्ति।
 यथोक्तन्तेनेयं नागवर्येण शिरसा विधृता मही। बिभर्ति मालां लोकानां
-सदेवासुरमानुषाम्।। (वि0 पु0 2।5।27) इति।  
+सदेवासुरमानुषाम्।। (वि॰ पु॰ 2।5।27) इति।  
   
 अनीश्वरं सत्यसंकल्पेन परब्रह्मणा सर्वेश्वरेण मया एतत् नियमितम् इति च न
 वदन्ति। अहं सर्वस्यं प्रभवो मत्तः सर्वं प्रवर्तते। (गीता 10।8) इति हि

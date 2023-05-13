@@ -2,11 +2,13 @@
 title = "29 सर्वभूतस्थमात्मानं"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि।  
-ईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः।।6.29।।
+**सर्व-भूत-स्थम् आत्मानं**  
+सर्व-भूतानि चात्मनि।  
+**ईक्षते** योग-युक्तात्मा  
+सर्वत्र सम-दर्शनः॥6.29॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">

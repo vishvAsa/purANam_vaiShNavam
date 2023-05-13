@@ -2,11 +2,13 @@
 title = "21 यो यो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति।  
-तस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम्।।7.21।।
+यो यो यां **यां तनुं** भक्तः  
+श्रद्धया ऽर्चितुम् **इच्छति**।  
+तस्य तस्याचलां **श्रद्धां**  
+ताम् एव **विदधाम्य्** अहम् +++(देवग्रामो देवग्राम-सौहार्दात्)+++॥7.21॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
@@ -24,7 +26,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।7.21।। ता अपि देवताः मदीयाः तनवःय आदित्ये तिष्ठन्यमादित्यो न वेद
-यस्यादित्यः शरीरम् (बृ0 उ₀ 3।7।9) इत्यादिश्रुतिभिः प्रतिपादिताः मदीयाः
+यस्यादित्यः शरीरम् (बृ॰ उ॰ 3।7।9) इत्यादिश्रुतिभिः प्रतिपादिताः मदीयाः
 तनवः। इति अजानन् अपि **यो यो यां यां** मदीयाम् इन्द्रादिकां **तनुं भक्तः
 श्रद्धया अर्चितुम् इच्छति तस्य तस्य** अजानतः अपि मत्तनुविषया एषा श्रद्धा
 इति अहम् एव अनुसन्धाय **ताम् एव अचलां** निर्विघ्नां **विदधामि** अहम्।
@@ -84,14 +86,7 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।7.20 7.23।। कामैरित्यादि मामपीत्यन्तम्। ये पुनः स्वेन
-स्वेनोत्तमादिकामनास्वभावेन विचित्रेण परिच्छिन्नमनसस्ते कामनापहृतचेतनाः
-+++(N चेतस)+++) तत्समुचितामेव ममैवावान्तरतनुं देवताविशेषमुपासते। अतो मत एव
-कामफलमुपाददते +++(S पासते)+++। किं तु तस्यान्तोऽस्ति निजयैव वासनया
-परिमितीकृतत्त्वात्। अत एवेन्द्रादिभावनातात्पर्येण यागादि
-कुर्वन्तस्तथाविधमेव फलमुपाददते। मत्प्राप्तिपरास्तु मामेव।
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">

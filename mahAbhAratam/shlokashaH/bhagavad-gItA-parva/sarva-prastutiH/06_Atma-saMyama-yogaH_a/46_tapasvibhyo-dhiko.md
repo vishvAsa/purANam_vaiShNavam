@@ -2,11 +2,13 @@
 title = "46 तपस्विभ्योऽधिको योगी"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/46_tapasvibhyo-dhiko.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/46_tapasvibhyo-dhiko.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः।  
-कर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन।।6.46।।
+तपस्विभ्यो **ऽधिको योगी**  
+ज्ञानिभ्यो ऽपि मतोऽधिकः।  
+कर्मिभ्यश् चाधिको योगी  
+तस्माद् **योगी भवार्जुन**॥6.46॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/46_tapasvibhyo-dhiko.md">
@@ -128,6 +130,8 @@ _________________
 ## शाङ्कर-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/06_Atma-saMyama-yogaH_a/46_tapasvibhyo-dhiko.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+
+यस्मादेवं तस्मात् -
 
 ।।6.46।। **तपस्विभ्यः अधिकः योगी ज्ञानिभ्योऽपि** ज्ञानमत्र
 शास्त्रार्थपाण्डित्यम् तद्वद्भ्योऽपि **मतः** ज्ञातः **अधिकः** श्रेष्ठः

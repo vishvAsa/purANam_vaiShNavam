@@ -2,11 +2,13 @@
 title = "22 स तया"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-स तया श्रद्धया युक्तस्तस्याराधनमीहते।  
-लभते च ततः कामान्मयैव विहितान् हि तान्।।7.22।।
+स तया श्रद्धया युक्तस्  
+तस्याराधनम् ईहते।  
+**लभते** च ततः **कामान्**  
+मयैव +++(देवग्रामेन)+++ **विहितान्** हि तान्॥7.22॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
@@ -39,7 +41,7 @@ _________________
 ।।7.22।। स तया इति श्लोकेऽपि पूर्ववद्वीप्सा भाव्या। तया इत्यस्य
 प्रस्तुतोपयुक्ताकारपरामर्शित्वज्ञापनायनिर्विघ्नयेत्युक्तम्।
 स्त्रीलिङ्गेन देवताशब्देन तनुशब्देन च पूर्वनिर्देशेऽपितस्य इति
-पुँल्लिङ्गेन बुद्धिस्थतत्तद्देवपरः। देवान्देवयजो यान्ति 7।23 इति
+पुल्ँ लिङ्गेन बुद्धिस्थतत्तद्देवपरः। देवान्देवयजो यान्ति 7।23 इति
 ह्यनन्तरमुच्यत इत्यभिप्रायेण तस्येन्द्रादेरित्युक्तम्। यद्यपितस्याः इति
 पदच्छेदः शक्यः तथापिराधनं इत्यस्योपसर्गरहितस्य आराधने
 प्रसिद्ध्यभावात्तदनादरः। यद्वा फलितोक्तिरियंराधनं इत्येव पदच्छेदः। तत इति
@@ -81,14 +83,7 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।7.20 7.23।। कामैरित्यादि मामपीत्यन्तम्। ये पुनः स्वेन
-स्वेनोत्तमादिकामनास्वभावेन विचित्रेण परिच्छिन्नमनसस्ते कामनापहृतचेतनाः
-+++(N चेतस)+++) तत्समुचितामेव ममैवावान्तरतनुं देवताविशेषमुपासते। अतो मत एव
-कामफलमुपाददते +++(S पासते)+++। किं तु तस्यान्तोऽस्ति निजयैव वासनया
-परिमितीकृतत्त्वात्। अत एवेन्द्रादिभावनातात्पर्येण यागादि
-कुर्वन्तस्तथाविधमेव फलमुपाददते। मत्प्राप्तिपरास्तु मामेव।
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
@@ -245,7 +240,7 @@ _________________
 मत्कृतया श्रद्धया युक्तस्तस्या मूर्तेराराधनमीहते करोति। ततः श्रद्धातः
 स्वशुद्धान्तःकरणतस्तान् कामान् स्वमनोरथरूपान् मयैव विहितान् निर्मितान्
 अन्यया मदाज्ञां विना देवादीनां न सामर्थ्यम् अतो मयैव निश्चयेन
-विहिताँल्लभते प्राप्नोतीत्यर्थः।  
+विहिताल्ँ लभते प्राप्नोतीत्यर्थः।  
   
 
 </details>

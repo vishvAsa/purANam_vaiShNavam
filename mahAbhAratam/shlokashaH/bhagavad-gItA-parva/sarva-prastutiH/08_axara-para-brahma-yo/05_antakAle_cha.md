@@ -2,11 +2,13 @@
 title = "05 अन्तकाले च"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/05_antakAle_cha.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/05_antakAle_cha.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्।  
-यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः।।8.5।।
+**अन्तकाले** च माम् एव  
+**स्मरन्** मुक्त्वा कलेवरम्।  
+यः प्रयाति स **मद्-भावं**  
+**याति**, नास्त्य् अत्र संशयः॥8.5॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/05_antakAle_cha.md">
@@ -22,6 +24,8 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/08_axara-para-brahma-yo/05_antakAle_cha.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+इदमपि त्रयाणां साधारणम् --
 
 ।।8.5।।**अन्तकाले च माम् एव स्मरन् कलेवरं** त्यक्त्वाः **यः प्रयाति स
 मद्भावं याति।** मम यो भावः स्वभावः तं याति तदानीं यथा माम् अनुसंधत्ते

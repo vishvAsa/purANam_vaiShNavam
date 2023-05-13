@@ -2,11 +2,13 @@
 title = "59 यदहङ्कारमाश्रित्य न"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यदहङ्कारमाश्रित्य न योत्स्य इति मन्यसे।  
-मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति।।18.59।।
+यद् अहङ्कारम् आश्रित्य  
+न योत्स्य इति मन्यसे।  
+मिथ्यैष व्यवसायस् ते  
+**प्रकृतिस् त्वां नियोक्ष्यति**॥18.59॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">

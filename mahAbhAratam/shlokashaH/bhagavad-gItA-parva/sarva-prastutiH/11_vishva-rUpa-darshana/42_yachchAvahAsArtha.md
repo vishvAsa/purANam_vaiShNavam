@@ -2,13 +2,13 @@
 title = "42 यच्चावहासार्थमसत्कृतोऽसि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यच्चावहासार्थमसत्कृतोऽसि  
-विहारशय्यासनभोजनेषु।  
-एकोऽथवाप्यच्युत तत्समक्षं  
-तत्क्षामये त्वामहमप्रमेयम्।।11.42।।
+यच् चावहासार्थम् **असत्-कृतोऽसि**  
+विहार-शय्यासन-भोजनेषु।  
+एकोऽथवाप्य् अच्युत तत् +++(अन्येषां)+++ समक्षं  
+**तत् क्षामये**+++(=क्षमां कारये [कृष्ण-तन्वा])+++ त्वाम् अहम् अप्रमेयम्॥11.42॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/42_yachchAvahAsArtha.md">

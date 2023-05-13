@@ -2,11 +2,13 @@
 title = "42 अथवा बहुनैतेन"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अथवा बहुनैतेन किं ज्ञातेन तवार्जुन।  
-विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्।।10.42।।
+अथवा बहुनैतेन  
+किं ज्ञातेन तवार्जुन।  
+विष्टभ्याहम् इदं कृत्स्नम्  
+**एकांशेन स्थितो जगत्**॥10.42॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
@@ -27,7 +29,7 @@ _________________
 चिदचिदात्मकं **कृत्स्नं जगत्** कार्यावस्थं कारणावस्थं स्थूलं सूक्ष्मं च
 स्वरूपसद्भावे स्थितौ प्रवृत्तिभेदे च यथा मत्संकल्पं न अतिवर्तेत तथा मम
 महिम्नः अयुतायुतांशेन **विष्टभ्य अहम् अवस्थितः।** यथा उक्तं भगवता
-पराशरेण -- यस्यायुतायुतांशांशे विश्वशक्तिरियं स्थिता। (वि0 पु0 1।9।53)
+पराशरेण -- यस्यायुतायुतांशांशे विश्वशक्तिरियं स्थिता। (वि॰ पु॰ 1।9।53)
 इति।
 
 </details>
@@ -116,7 +118,7 @@ desirous of realising that \[all-pervasiveness\]. Hence, while
 concluding, \[the Bhagavat\] teaches the theory of duality-cumunity by
 saying 'whatsoever being exists with the manifesting power' etc., and
 then concludes the topic with the theory of absolute unity, as 'Or what
-is the use of this elaboration;৷৷৷৷.I remain pervading this \[universe\]
+is the use of this elaboration;I remain pervading this \[universe\]
 by a single fraction \[of Myself\] This has been declared indeed \[in
 the scriptures\] as : 'All beings constitute \[only\] His one-fourth;
 His \[other\] immortal three-forths are in the heaven.' (Rgveda, X, xc,

@@ -2,11 +2,13 @@
 title = "33 अक्षराणामकारोऽस्मि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च।  
-अहमेवाक्षयः कालो धाताऽहं विश्वतोमुखः।।10.33।।
+अक्षराणाम् **अकारो** ऽस्मि  
++++(उभयपदार्थप्रधानत्वान्मुख्यः)+++ **द्वन्द्वः** सामासिकस्य च।  
+अहम् एवाक्षयः **कालो**  
+**धाता** ऽहं विश्वतोमुखः॥10.33॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
@@ -23,7 +25,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।10.33।।**अक्षराणां** मध्येअकारो वै सर्वा वाक् (ऐ0 पू₀ 3।6) इति
+।।10.33।।**अक्षराणां** मध्येअकारो वै सर्वा वाक् (ऐ॰ पू॰ 3।6) इति
 श्रुतिसिद्धः; सर्ववर्णानां प्रकृतिः **अकारः** अहम्; सामासिकः समासमूहः;
 तस्य मध्ये द्वन्द्वसमासः अहम् स हि उभयपदार्थप्रधानत्वेन उत्कृष्टः।
 कलामुहूर्तादिमयः **अक्षयः कालः अहम् एव** सर्वस्य स्रष्टा हिरण्यगर्भः

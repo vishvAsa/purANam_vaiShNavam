@@ -2,11 +2,13 @@
 title = "54 ब्रह्मभूतः प्रसन्नात्मा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति।  
-समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम्।।18.54।।
+ब्रह्मभूतः प्रसन्नात्मा  
+**न शोचति न काङ्क्षति**।  
++++(देवग्रामनिष्ठया)+++ समः सर्वेषु भूतेषु  
+**मद्-भक्तिं लभते** पराम्॥18.54॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">

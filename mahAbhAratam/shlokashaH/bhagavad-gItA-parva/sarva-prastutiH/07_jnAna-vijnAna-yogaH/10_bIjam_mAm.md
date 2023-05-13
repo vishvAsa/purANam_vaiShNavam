@@ -2,11 +2,13 @@
 title = "10 बीजम् माम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम्।  
-बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम्।।7.10।।
+**बीजं** मां सर्व-भूतानां  
+**विद्धि** पार्थ सनातनम्।  
+बुद्धिर् बुद्धिमताम् अस्मि  
+तेजस् तेजस्विनाम् अहम्॥7.10॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/10_bIjam_mAm.md">

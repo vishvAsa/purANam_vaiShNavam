@@ -2,11 +2,13 @@
 title = "07 सर्वभूतानि कौन्तेय"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम्।  
-कल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम्।।9.7।।
+सर्व-भूतानि कौन्तेय  
+**प्रकृतिं यान्ति** मामिकाम्।  
+**कल्प-क्षये** पुनस् तानि  
+**कल्पादौ विसृजाम्य्**** अहम्॥9.7॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
@@ -26,10 +28,10 @@ _________________
 ।।9.7।। स्थावरजङ्गमात्मकानि **सर्वाणि भूतानि मामिकां** मच्छरीरभूतां
 **प्रकृतिं** तमःशब्दवाच्यां नामरूपविभागानर्हां **कल्पक्षये**
 चतुर्मुखावसानसमये मत्संकल्पाद् **यान्ति। तानि** एव भूतानि **कल्पादौ पुनः
-विसृजामि अहम्।** यथा आह मनुः -- आसीदिदं तमोभूतम् (मनु0 1।5)सोऽभिध्याय
-शरीरात् स्वात् (मनु0 1।8) इति श्रुतिरपि -- यस्याव्यक्तं शरीरम् (सु0 उ₀
+विसृजामि अहम्।** यथा आह मनुः -- आसीदिदं तमोभूतम् (मनु॰ 1।5)सोऽभिध्याय
+शरीरात् स्वात् (मनु॰ 1।8) इति श्रुतिरपि -- यस्याव्यक्तं शरीरम् (सु॰ उ॰
 7) इत्यादिकाअव्यक्तमक्षरे लीयते अक्षरं तमसि लीयते; तमः परे देवे एकीभवति
-(सु0 उ₀ 2)तम आसीत्तमसा गूढमग्रेऽप्रकेतम् (ऋ0 सं0 8।7।17।3) इति च।
+(सु॰ उ॰ 2)तम आसीत्तमसा गूढमग्रेऽप्रकेतम् (ऋ॰ सं॰ 8।7।17।3) इति च।
 
 </details>
 </div>

@@ -2,11 +2,13 @@
 title = "18 समः शत्रौ"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/18_samaH_shatrau.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/18_samaH_shatrau.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-समः शत्रौ च मित्रे च तथा मानापमानयोः।  
-शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः।।12.18।।
+**समः** शत्रौ च मित्रे च  
+तथा **मानापमानयोः**।  
+शीतोष्ण-सुख-दुःखेषु  
+समः सङ्ग-विवर्जितः॥12.18॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/18_samaH_shatrau.md">

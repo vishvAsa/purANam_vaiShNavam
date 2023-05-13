@@ -2,11 +2,13 @@
 title = "38 कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति।  
-अप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि।।6.38।।
+कच्चिन्नोभय-विभ्रष्टश्  
+छिन्नाभ्रम् इव **नश्यति**।  
+अप्रतिष्ठो महाबाहो  
+विमूढो **ब्रह्मणः पथि?**॥6.38॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">

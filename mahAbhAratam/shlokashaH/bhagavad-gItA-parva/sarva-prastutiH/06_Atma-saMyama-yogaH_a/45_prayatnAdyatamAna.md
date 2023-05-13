@@ -2,11 +2,13 @@
 title = "45 प्रयत्नाद्यतमानस्तु योगी"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः।  
-अनेकजन्मसंसिद्धस्ततो याति परां गतिम्।।6.45।।
+प्रयत्नाद् यतमानस् तु  
+योगी संशुद्ध-किल्बिषः।  
+अनेक-जन्म-संसिद्धस्  
+ततो **याति परां गतिम्**॥6.45॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
@@ -23,7 +25,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।6.45।।**अनेकजन्मा**र्जितपुण्यसञ्चयैः **संशुद्धकिल्बिषः संसिद्धः**
+यत एवं योगमाहात्म्यम्, ततः -  
+
+।।6.45।।**अनेकजन्म**+अर्जित-पुण्य-सञ्चयैः **संशुद्धकिल्बिषः संसिद्धः**
 संजातः **प्रयत्नाद् यतमानः तु योगी** चलितः अपि पुनः **परां गतिं याति
 एव। अतिशयितपुरुषार्थनिष्ठतया योगिनः सर्वस्माद् आधिक्यम् आह**
 
@@ -65,14 +69,19 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
-।।6.43 6.45।। तत्रेत्यादि परां गतिमित्यन्तम्। संसिद्धौ मोक्षात्मिकायाम्।
-अवशः परतन्त्र एव किल तेन पूर्वाभ्यासेन बलादेव योगाभ्यासं प्रति नीयते। न
-चैतत् सामान्यम्। योगजिज्ञासामात्रेणैव हि शब्दब्रह्मातिवृत्तिः
-मन्त्रस्वाध्यायादिरूपं च शब्दब्रह्म अतिवर्तते न स्वीकुरुते। ततः
-जिज्ञासानन्तरम् यत्नवान् अभ्यासक्रमेण देहान्ते वासुदेवत्वं प्राप्नोति। न
-चासौ तेनैव देहेन सिद्ध इति मन्तव्यम्। अपि तु बहूनि जन्मानि तेन
-तदभ्यस्तमिति मन्तव्यम्। अत एव यस्य अनन्यव्यापारतया
-भगद्व्यापारानुरागित्वं स योगभ्रष्ट इति निश्चेयम् +++(N निश्चेयः)+++।
+
+।।6.43 6.45।। तत्रेत्यादि परां गतिम् इत्य्-अन्तम्।
+
+**संसिद्धौ** मोक्षात्मिकायाम्।
+**अवशः** - पर-तन्त्र एव किल ,तेन **पूर्वाभ्यासेन** बलादेव योगाभ्यासं प्रति नीयते।
+
+न चैतत् सामान्यम्।  
+**योगजिज्ञासामात्रेणैव** हि शब्दब्रह्मातिवृत्तिः मन्त्र-स्वाध्यायादिरूपं च शब्दब्रह्म **अतिवर्तते** न स्वीकुरुते।  
+ततः जिज्ञासानन्तरम् यत्नवान् अभ्यास-क्रमेण देहान्ते वासुदेवत्वं प्राप्नोति।  
+न चासौ तेनैव देहेन सिद्ध इति मन्तव्यम्।  
+अपि तु बहूनि जन्मानि तेन तदभ्यस्तमिति मन्तव्यम्।  
+अत एव यस्य अनन्य-व्यापारतया भगवद-व्यापारानुरागित्वं -  
+स योगभ्रष्ट इति निश्चेयम् +++(N निश्चेयः)+++।+++(5)+++
 
 </details>
 </div>
@@ -134,11 +143,13 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
+कुतश्च योगित्वं श्रेयः इति -
+
 ।।6.45।। **प्रयत्नात् यतमानः** अधिकं यतमान इत्यर्थः। तत्र योगी विद्वान्
 **संशुद्धकिल्बिषः** विशुद्धकिल्बिषः संशुद्धपापः अनेकजन्मसंसिद्धः अनेकेषु
 जन्मसु किञ्चित्किञ्चित् संस्कारजातम् उपचित्य तेन उपचितेन अनेकजन्मकृतेन
 संसिद्धः **अनेकजन्मसंसिद्धः ततः** लब्धसम्यग्दर्शनः सन् **याति परां**
-प्रकृष्टां **गतिम्**।। यस्मादेवं तस्मात्
+प्रकृष्टां **गतिम्**।।
 
 </details>
 </div>

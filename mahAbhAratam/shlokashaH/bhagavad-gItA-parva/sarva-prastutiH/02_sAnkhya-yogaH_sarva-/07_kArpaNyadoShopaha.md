@@ -2,13 +2,13 @@
 title = "07 कार्पण्यदोषोपहतस्वभावः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 कार्पण्य-दोषोपहत-स्वभावः  
-पृच्छामि त्वां धर्म-संमूढ-चेताः।  
-यच् छ्रेयः स्यान् निश्चितं ब्रूहि तन् मे  
-शिष्यस् तेऽहं शाधि मां त्वां प्रपन्नम्।।2.7।।+++(5)+++
+**पृच्छामि त्वां** धर्म-संमूढ-चेताः।  
+यच् छ्रेयः स्यान् **निश्चितं ब्रूहि** तन् मे  
+शिष्यस् तेऽहं **शाधि मां** त्वां प्रपन्नम्॥2.7॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
@@ -27,34 +27,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।2.7।। एवं युद्धम् आरभ्य निवृत्तव्यापारान् भवतो धार्तराष्ट्राः प्रसह्य
-हन्युः इति चेत् अस्तु तद्वधलब्धविजयात् अधर्म्याद् अस्माकं धर्माधर्मौ
-अजानद्भिः तैः हननम् एव गरीयः इति मे प्रतिभाति इति उक्त्वा यत् मह्यं
-श्रेय इति निश्चितं तत् शरणागताय तव शिष्याय मे ब्रूहि इति अतिमात्रकृपणो
-भगवत्पादाम्बुजम् उपससार।  
+अग्रिमम् ईक्षताम्।
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/07_kArpaNyadoShopaha.md">
 <details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
 
-।। 2.7न चैतद्विद्मः इत्यादेश्चकारद्योतितशङ्कापूर्वकं तात्पर्यार्थमाह
-एवमिति। बन्धुविनाशाद्भीतेन त्वया धर्मसुतभीमनकुलाद्यासन्नतरबन्धुविनाश एव
-कारितः स्यादितिभवत इत्यनेन सूचितम्। विद्मः इत्यादिबहुवचनानुसारेणाह
-अस्माकमिति। अस्माकमित्यनेन हन्तव्यतया निर्दिष्टभीष्मद्रोणाद्यपेक्षया
-सर्वेषां शिष्यत्वादिकमभिप्रेतम्। पूर्वोत्तरार्धाभ्यां
-विमर्शस्वाभिमतपक्षौ व्यञ्जितौ। यद्वा इतियदि वा इति च तुल्यार्थम्। येषां
-वधेन जीवनमस्माकमनिष्टं त एवास्मान् जिघांसन्तः स्वहननानुरूपत्वेनावस्थिता
-इतियानेव इत्यादेरन्वयार्थः। न जिजीविषामः इत्यनेन सूचितां
-अनिर्णयपर्यवसितां अत एव प्रश्नहेतुभूतां प्रतिभामाह इति मे
-प्रतिभातीति। यच्छ्रेयः इत्यादेरन्वयफलितार्थमुपदेशयोग्यत्वायोक्तां
-शिष्यगुणसम्पत्तिं च स्फुटयति यन्मह्यमित्यादिना।
-निश्चेतव्याकारनिष्कर्षणाय इतिकरणम्। शासनीयो हि शिष्यः अतःशिष्यस्तेऽहं
-शाधि माम् इति वदति। स्वभावोऽत्र धैर्यम् कर्तव्यविशेषाज्ञानात्
-शोकापनोदनोपायराहित्यादिना वा अतिमात्रकार्पण्यम्।
-त्याज्यस्यापरित्यागोऽत्र कार्पण्यमित्येके
-दयाजनकदीनवृत्तिनिरतत्वमित्यपरे। भगवत्पादाम्बुजमुपससारेति
-शिष्यत्वप्रपन्नत्वाद्युक्तिफलमेव।  
+अग्रिमम् ईक्षताम्।
   
   
   

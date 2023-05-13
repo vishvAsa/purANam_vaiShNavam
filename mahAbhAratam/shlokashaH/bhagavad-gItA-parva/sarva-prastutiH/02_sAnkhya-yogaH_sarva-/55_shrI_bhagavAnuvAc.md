@@ -2,12 +2,15 @@
 title = "55 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
-प्रजहाति यदा कामान् सर्वान् पार्थ मनोगतान्।  
-आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते।।2.55।।
++++(श्री भगवानुवाच)+++
+
+**प्रजहाति** यदा **कामान्**  
+सर्वान् पार्थ मनोगतान्।  
+आत्मन्य् एवात्मना तुष्टः  
+**स्थितप्रज्ञस् तदोच्यते**॥2.55॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
@@ -81,7 +84,7 @@ _________________
 <details><summary><h3>(सं) मध्वः मूलम् ...{Loading}...</h3></summary>
 
 ।।2.55।। गमनादिप्रवृत्तिर्नात्यभिसन्धिपूर्विका मात्रादिप्रवृत्तिवदितिया
-निशा 2।69 इत्यादिना दर्शयिष्यँल्लक्षणं प्रथमत आह एवं परमानन्दतृप्तः
+निशा 2।69 इत्यादिना दर्शयिष्यल्ँ लक्षणं प्रथमत आह एवं परमानन्दतृप्तः
 किमर्थमेवं प्रवृत्तिं करोतीति प्रश्नाभिप्रायः।
 प्रारब्धकर्मणेषत्तिरोहितब्रह्मणो वासना प्रायोऽल्पाभिसन्धिप्रवृत्तिः
 सम्भवतीत्याशयवान् परिहरति। प्रायः सर्वान्कामान्प्रजहाति

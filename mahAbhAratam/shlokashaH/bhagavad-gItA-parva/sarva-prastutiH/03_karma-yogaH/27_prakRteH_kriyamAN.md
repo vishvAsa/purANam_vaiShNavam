@@ -2,11 +2,13 @@
 title = "27 प्रकृतेः क्रियमाणानि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः।  
-अहङ्कारविमूढात्मा कर्ताऽहमिति मन्यते।।3.27।।
+प्रकृतेः **क्रियमाणानि**  
+**गुणैः** कर्माणि सर्वशः।  
+अहङ्कार-विमूढात्मा  
+**कर्ता ऽहम् इति मन्यते**॥3.27॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/27_prakRteH_kriyamAN.md">
@@ -278,7 +280,7 @@ _________________
 कर्मव्यावृत्त्यासेवाद्यनवसरादित्यतोऽविदुषो विदुषश्च भेदमाह प्रकृतेरिति।
 अहङ्कारेण विमूढात्मा अविद्वान् सर्वशः प्रकृतेर्गुणैरिन्द्रियैः
 क्रियमाणानि कर्माणिअहमेव कर्ता इति मन्यते न तु भगवदिच्छाम्। तानि च
-भगवाँल्लोकव्यामोहार्थं कारयति।  
+भगवाल्ँ लोकव्यामोहार्थं कारयति।  
   
 
 </details>

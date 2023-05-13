@@ -2,11 +2,13 @@
 title = "11 मयि चानन्ययोगेन"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-मयि चानन्ययोगेन भक्तिरव्यभिचारिणी।  
-विविक्तदेशसेवित्वमरतिर्जनसंसदि।।13.11।।
+**मयि** चानन्य-योगेन  
+**भक्तिर्** अव्यभिचारिणी।  
+विविक्त-देश-सेवित्वम्  
+**अरतिर् जनसंसदि**॥13.11॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
@@ -23,15 +25,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।13.11। आत्मनि ज्ञानम् अध्यात्मज्ञानं तन्निष्ठत्वम्;
-**तत्त्वज्ञानार्थदर्शनं** तत्त्वज्ञानप्रयोजनं यत् तत्त्वं तन्निरतत्वम्
-इत्यर्थः। ज्ञायते अनेन आत्मा इति **ज्ञानम्** आत्मज्ञानसाधनम् इत्यर्थः।
-क्षेत्रसंबन्धिनः पुरुषस्य अमानित्वादिकम् उक्तं गुणवृन्दम् एव
-आत्मज्ञानोपयोगि; एतद्व्यतिरिक्तं सर्वं क्षेत्रकार्यम् आत्मज्ञानविरोधि
-इति अज्ञानम्।  
-  
-अथएतद् यो वेत्ति (गीता 13।1) इति वेदितृत्वलक्षणेन उक्तस्य क्षेत्रज्ञस्य
-स्वरूपं विशोध्यते --
+।।13.10।।**मयि** सर्वेश्वरे **च** ऐकान्तिक**योगेन** स्थिरा **भक्तिः**
+जनवर्जितदेशवासित्वं जनसंसदि च अप्रीतिः।
 
 </details>
 </div>
@@ -70,22 +65,12 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।13.8 -- 13.12।। एवं क्षेत्रं व्याख्यातम्; क्षेत्रज्ञश्च। इदानीं
-ज्ञानमुच्यते -- अमानित्वमित्यादि अन्यथा इत्यन्तम्। अनन्ययोगेनेति --
-परमात्मनो महेश्वारत् अन्यत् अपरं न किंचिदस्ति इत्यनन्यरूपो यो निश्चयः; स
-एव योगः तेन निश्चयेन मयि भक्तिः। अत एव सा न कदाचित् व्यभिचरति;
-व्यभिचारहेतुत्वाभिमतानां +++(S;;N -- त्वाभिगतानाम्)+++ कामनानामभावात्; तासामपि
-वा चित्तवृत्त्यन्तररूपाणां तदेकमयत्त्वात्। एवं सर्वत्रानुसन्धेयम्।
-एतद्विपरीतम् अज्ञानम् यथा मानित्वादीनि।
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-13.11 See Comment under 13.12
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/12_adhyAtmajnAnanity.md"></div>
 </details>
 </div>
 
@@ -179,16 +164,14 @@ Knowledge since it leads to Knowledge. Besides,
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।13.11।। साधनान्तरमाह -- **किञ्चेति।**
-आत्मादीत्यादिशब्दोऽनात्मार्थस्तद्विषयं ज्ञानं विवेकस्तन्नित्यत्वं तत्रैव
-निष्ठावत्त्वं; विवेकनिष्ठो हि वाक्यार्थज्ञानसमर्थो भवति। तेषां
-भावनापरिपाको नाम यत्नेन साधितानां प्रकर्षपर्यन्तत्वं तन्निमित्तं
-तत्त्वज्ञानमैक्यसाक्षात्कारः। तत्फलालोचनं किमर्थमित्याशङ्क्याह --
-**तत्त्वेति।** प्रवृत्तिः स्यादित्यतस्तत्त्वज्ञानार्थदर्शनमर्थवदिति
-शेषः। ज्ञानस्यान्तरङ्गहेतुमुक्तमुपसंहरति -- **एतदिति।** किमिति तस्य
-विज्ञेयत्वमित्याशङ्क्याह -- **परिहरणायेति।** तत्र हेतुः -- **संसारेति।**
-तस्य प्रवृत्तिरुत्पत्तिस्तद्धेतुत्वान्मानित्वादि त्याज्यं ज्ञाते च
-त्याज्यत्वे तेन तस्य ज्ञेयतेत्यर्थः। इतिशब्दः साधनाधिकारसमाप्त्यर्थः।
+।।13.10।। साधनान्तरमाह -- **किञ्चेति।** अनन्ययोगमेव संक्षिप्तं व्यनक्ति
+-- **नेत्यादिना।** उक्तधीद्वारा जाताया भक्तेर्भगवति स्थैर्यं दर्शयति --
+**नेति।** तत्रापि ज्ञानशब्दस्तद्धेतुत्वादित्याह -- **सा चेति।** देशस्य
+विविक्तत्वं द्विविधमुदाहरति -- **विविक्त इति।** तदेव स्पष्टयति --
+**अरण्येति।** उक्तदेशसेवित्वं कथं ज्ञाने हेतुस्तत्राह --
+**विविक्तेष्विति।** आत्मादीत्यादिशब्देन परमात्मा वाक्यार्थश्चोच्यते।
+नन्वरतिविषयत्वेनाविशेषतो जनसंसन्मात्रं किमिति न गृह्यते तत्राह --
+**तस्या इति।** सतः सङ्गस्य भेषजमित्युपालम्भादित्यर्थः।
 
 </details>
 </div>

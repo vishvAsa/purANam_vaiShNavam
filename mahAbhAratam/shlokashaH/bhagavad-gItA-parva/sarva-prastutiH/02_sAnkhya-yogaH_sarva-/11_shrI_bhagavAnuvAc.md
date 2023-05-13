@@ -2,15 +2,16 @@
 title = "11 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
++++(श्री भगवानुवाच)+++
+
 
 अशोच्यान् अन्वशोचंस् त्वं  
-प्रज्ञावादांश् च भाषसे।  
+**प्रज्ञावादांश्** च **भाषसे**।  
 गतासून् अगतासूंश् च  
-नानुशोचन्ति पण्डिताः।।2.11।।+++(4)+++
+**नानुशोचन्ति पण्डिताः**॥2.11॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
@@ -730,7 +731,7 @@ _________________
 कर्त्तव्य इति पूर्वं सर्वशास्त्रोक्तज्ञानमुक्त्वा
 भक्तिमुपदिशन्नात्मानात्मज्ञानार्थमात्मानात्मज्ञानमाह भगवान् अशोच्यानिति।
 त्वं अशोच्यान् शोकानर्हान् अन्वशोचः अनुशोचितवानसि यतस्तेऽसुरावेशिनो
-भूभारहरणार्थं मे मारणीया एव न तु ते **भक्ताः৷৷৷৷৷৷৷৷৷৷৷৷.**। किञ्च
+भूभारहरणार्थं मे मारणीया एव न तु ते भक्ताः। किञ्च
 तेषां शोकं कृत्वा प्रज्ञावादान् प्रज्ञावतां पण्डितानां वादान् भाषसे
 वदसि। तेषां वादानेव वदसि न तु त्वं प्रज्ञावान्। यतस्ते प्रज्ञावन्तः
 पण्डिता मदिच्छयैव सर्वं भवतीति ज्ञानवन्तः अतः गतासून् गतप्राणान्परलोके

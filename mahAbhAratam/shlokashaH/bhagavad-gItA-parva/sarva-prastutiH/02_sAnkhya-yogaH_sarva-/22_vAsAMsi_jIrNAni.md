@@ -2,13 +2,13 @@
 title = "22 वासांसि जीर्णानि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-वासांसि जीर्णानि यथा विहाय  
-नवानि गृह्णाति नरोऽपराणि।  
-तथा शरीराणि विहाय जीर्णान्य्  
-अन्यानि संयाति नवानि देही।।2.22।।+++(5)+++
+**वासांसि** जीर्णानि यथा **विहाय**  
+**नवानि गृह्णाति** नरोऽपराणि।  
+तथा **शरीराणि विहाय** जीर्णान्य्  
+अन्यानि **संयाति** नवानि देही॥2.22॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">

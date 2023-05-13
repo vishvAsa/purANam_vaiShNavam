@@ -2,11 +2,13 @@
 title = "63 क्रोधाद्भवति सम्मोहः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-क्रोधाद्भवति संमोहः संमोहात्स्मृतिविभ्रमः।  
-स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति।।2.63।।
+क्रोधाद् **भवति संमोहः**  
+संमोहात् **स्मृति-विभ्रमः**।  
+स्मृति-भ्रंशाद् **बुद्धि-नाशो**  
+बुद्धि-नाशात् **प्रणश्यति**॥2.63॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
@@ -281,7 +283,7 @@ _________________
 
   
   
-।।2.63।। क्रोधाच्च सम्मोहः। सम्य**कं्৷৷৷৷৷৷৷৷.**कारेण मोहो
+।।2.63।। क्रोधाच्च सम्मोहः। सम्यकं्कारेण मोहो
 विवेकराहित्यम्। सम्मोहात्स्मृतेर्भगवत्स्मरणस्य विभ्रमः विशेषेण भ्रमः।
 भगवत्स्मरणानन्तरमनुस्मरणभ्रमे विशेषः। स्मृतिभ्रंशात्पूर्वोक्तबुद्धिनाशः
 स्यात्।  

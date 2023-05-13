@@ -2,11 +2,13 @@
 title = "08 आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-आयुःसत्त्वबलारोग्यसुखप्रीतिविवर्धनाः।  
-रस्याः स्निग्धाः स्थिरा हृद्या आहाराः सात्त्विकप्रियाः।।17.8।।
+आयुः-सत्त्व-बलारोग्य-  
+सुख-प्रीति-विवर्धनाः।  
+रस्याः स्निग्धाः स्थिरा हृद्या  
+**आहाराः सात्त्विक-प्रियाः**॥17.8॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">

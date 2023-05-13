@@ -2,17 +2,19 @@
 title = "39 श्रद्धावाँल्लभते ज्ञानम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः।  
-ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति।।4.39।।
+**श्रद्धावाल्ँ लभते ज्ञानं**  
+तत्-परः संयतेन्द्रियः।  
+ज्ञानं लब्ध्वा **परां शान्तिम्**  
+अचिरेणाधिगच्छति॥4.39॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
-श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः।  
+श्रद्धावाल्ँ लभते ज्ञानं तत्परः संयतेन्द्रियः।  
 ज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति।।4.39।।
 </details>
 </div>

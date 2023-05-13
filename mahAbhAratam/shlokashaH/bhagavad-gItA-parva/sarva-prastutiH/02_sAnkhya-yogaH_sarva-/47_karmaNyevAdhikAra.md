@@ -2,13 +2,13 @@
 title = "47 कर्मण्येवाधिकारस्ते मा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कर्मण्य् एवाधिकारस् ते  
+**कर्मण्य् एवाधिकारस्** ते  
 मा फलेषु कदाचन।  
-मा कर्म-फल-हेतुर् भूर्,  
-मा ते सङ्गोऽस्त्वकर्मणि।।2.47।।+++(5)+++
+**मा कर्म-फल-हेतुर् भूर्**,  
+**मा ते सङ्गो ऽस्त्व् अकर्मणि**॥2.47॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
@@ -410,7 +410,7 @@ _________________
 कर्मण्येवाधिकारस्त इति। ते तव स्वपराह**न्मभ()**ज्ञानयुक्तस्य कर्मण्येव
 अधिकारः। अस्तीति शेषः। अत्रायं भावः यावत्पर्यन्तं स्वपरेति ज्ञान तावन्न
 कर्मत्यागः। अत एवतावत्कर्माणि कुर्वीत न निर्विद्येत यावता इत्याद्युक्तं
-श्रीभागवते 11।20।9़ ननु तर्हि पूर्वोक्तबाध इति चेत्तत्राह मा फलेषु इति।
+श्रीभागवते 11।20।9 ननु तर्हि पूर्वोक्तबाध इति चेत्तत्राह मा फलेषु इति।
 फलेषु तदुक्तेषु अधिकारो मनसि कामो मास्तु। कदाचनेति साधनदशायामपि। ननु कृतं
 कर्म कामाभावे स्वफलं करिष्यत्येव अज्ञानादपि भक्षणे विषवन्मृत्युमित्यत आह
 मा कर्मफलहेतुरिति। त्वं कर्मफलहेतुः कर्मफलभोगभोग्यदेहयुक्तो मा भूः। न

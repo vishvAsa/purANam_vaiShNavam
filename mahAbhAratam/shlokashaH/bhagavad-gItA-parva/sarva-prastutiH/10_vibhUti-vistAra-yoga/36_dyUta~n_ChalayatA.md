@@ -2,11 +2,13 @@
 title = "36 द्यूतञ् छलयतामस्मि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम्।  
-जयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम्।।10.36।।
+**द्यूतं** छलयताम् अस्मि  
+**तेजस्** तेजस्विनाम् अहम्।  
+**जयो** ऽस्मि **व्यवसायो** ऽस्मि  
+**सत्त्वं** सत्त्ववताम् अहम्॥10.36॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">

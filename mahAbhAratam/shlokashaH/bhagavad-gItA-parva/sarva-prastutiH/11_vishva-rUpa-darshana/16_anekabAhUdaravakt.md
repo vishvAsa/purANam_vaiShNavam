@@ -2,13 +2,13 @@
 title = "16 अनेकबाहूदरवक्त्रनेत्रम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अनेकबाहूदरवक्त्रनेत्रं  
-पश्यामि त्वां सर्वतोऽनन्तरूपम्।  
-नान्तं न मध्यं न पुनस्तवादिं  
-पश्यामि विश्वेश्वर विश्वरूप।।11.16।।
+अनेक-बाहूदर-वक्त्र-नेत्रं  
+**पश्यामि** त्वां सर्वतो ऽनन्त-रूपम्।  
+**नान्तं** न मध्यं न पुनस् तवादिं  
+**पश्यामि** विश्वेश्वर विश्वरूप॥11.16॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/16_anekabAhUdaravakt.md">

@@ -2,11 +2,13 @@
 title = "17 उत्तमः पुरुषस्त्वन्यः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः।  
-यो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः।।15.17।।
+उत्तमः पुरुषस् त्व् **अन्यः**  
+**परमात्मेत्य्** उदाहृतः +++(देवग्रामः)+++।  
+यो लोक-त्रयम् आविश्य  
+**बिभर्त्य्** अव्यय ईश्वरः॥15.17॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
@@ -123,15 +125,7 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।15.16 -- 15.18।। द्वावित्यादि पुरुषोत्तम इत्यन्तम्। द्वाविमौ पुरुषौ इति
-ग्रन्थेनेदमुच्यते -- लोके तावदप्रबुद्धस्वभावोऽपि सर्वः
-पृथिव्यादिभूतारब्धशरीरम् आत्मानं चेतनं क्षररूपं जानाति इति लोकस्य
-मूढत्वात् द्वैतधीर्न निवर्तते। अहं तु सकलानुग्राही द्वैतग्रन्थिं विभिद्य
-सकललोकव्यापकतया वेद्य इति। क्षरमतीतः; भूतानां जडत्वात्। अक्षरमतीतः;
-आत्मनोऽप्रबुद्धत्वे सर्वव्यापकत्वखण्डनात्। पुरुषोत्तमो लोके वेदेऽपि सः
-उत्तमः पुरुषः इत्यादिभिर्वाक्यैः स एव परमात्मा अद्वयः एवमुच्यते।
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="../18_yasmAtxaramatIto-.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">

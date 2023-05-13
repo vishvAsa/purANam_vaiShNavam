@@ -2,13 +2,13 @@
 title = "33 तस्मात्त्वमुत्तिष्ठ यशो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तस्मात्त्वमुत्तिष्ठ यशो लभस्व  
-जित्वा शत्रून् भुङ्क्ष्व राज्यं समृद्धम्।  
-मयैवैते निहताः पूर्वमेव  
-निमित्तमात्रं भव सव्यसाचिन्।।11.33।।
+तस्मात् त्वम् **उत्तिष्ठ यशो लभस्व**  
+जित्वा शत्रून् **भुङ्क्ष्व राज्यं** समृद्धम्।  
+मयैवैते निहताः पूर्वम् एव  
+**निमित्त-मात्रं भव** सव्यसाचिन्॥11.33॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/33_tasmAttvamuttiShT.md">
@@ -31,7 +31,7 @@ _________________
 **शत्रून् जित्वा यशो लभस्व;** धर्म्यं **राज्यं** च समृद्धं भुङ्क्ष्व।
 **मया एव एते** कृतापराधाः **पूर्वम् एव निहताः;** हनने विनियुक्ताः; त्वं
 तु तेषां हनने **निमित्तमात्रं भव।** मया हन्यमानानां शस्त्रादिस्थानीयो
-भव; सव्यसाचिन्षच समवाये (धा0 पा0 1।1022) सव्येन शरसचनशीलः सव्यसाची
+भव; सव्यसाचिन्षच समवाये (धा॰ पा॰ 1।1022) सव्येन शरसचनशीलः सव्यसाची
 सव्येन अपि करेण शरसमवायकरः; करद्वयेन योद्धुं समर्थ इत्यर्थः।
 
 </details>

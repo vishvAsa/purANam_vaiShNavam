@@ -2,12 +2,15 @@
 title = "01 सन्न्यासङ् कर्मणाम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अर्जुन उवाच  
-संन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि।  
-यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्।।5.1।।
++++(अर्जुन उवाच)+++
+
+**संन्यासं कर्मणां** कृष्ण  
+पुनर् **योगं च शंससि**।  
+यच् छ्रेय एतयोर् **एकं**  
+तन्मे **ब्रूहि** सुनिश्चितम्॥5.1॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
@@ -24,6 +27,8 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+चतुर्थे ऽध्याये कर्मयोगस्य ज्ञानाकारतापूर्वकस्वरूपभेदो ज्ञानांशस्य च प्राधान्यम् उक्तम्; ज्ञानयोगाधिकारिणो ऽपि कर्मयोगस्यान्तर्गतात्मज्ञानत्वाद् अप्रमादत्वात् सुकरत्वान् निरपेक्षत्वाच् च ज्यायस्त्वं तृतीय एवोक्तम् । इदानीं कर्मयोगस्यात्मप्राप्तिसाधनत्वे ज्ञाननिष्ठायाश् शैघ्र्यं कर्मयोगान्तर्गताकर्ट्र्त्वानुसन्धानप्रकारं च प्रतिपाद्य तन्मूलं ज्ञानं च विशोध्यते ॥  
 
 ।।5.1।। अर्जुन उवाच **कर्मणां सन्यासं** ज्ञानयोगं **पुनः** कर्म**योगं च
 शंससि।** एतद् उक्तं भवति द्वितीये अध्यायेमुमुक्षोः प्रथमं कर्मयोग एव

@@ -2,11 +2,13 @@
 title = "44 कृषिगौरक्ष्यवाणिज्यं"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम्।  
-परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम्।।18.44।।
+कृषि-गौरक्ष्य-वाणिज्यं  
+**वैश्य-कर्म** स्वभावजम्।  
+परिचर्यात्मकं कर्म  
+**शूद्रस्यापि** स्वभावजम्॥18.44॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">

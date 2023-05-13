@@ -2,12 +2,15 @@
 title = "37 अयतिः श्रद्धयोपेतो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अर्जुन उवाच  
-अयतिः श्रद्धयोपेतो योगाच्चलितमानसः।  
-अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति।।6.37।।
++++(अर्जुन उवाच)+++
+
+**अयतिः श्रद्धयोपेतो**  
+योगाच् चलित-मानसः।  
+अप्राप्य योग-संसिद्धिं  
+**कां गतिं** कृष्ण **गच्छति**॥6.37॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">

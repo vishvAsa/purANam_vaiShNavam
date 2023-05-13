@@ -2,11 +2,13 @@
 title = "22 न मे"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/22_na_me.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/22_na_me.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन।  
-नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि।।3.22।।
+**न मे** पार्थास्ति **कर्तव्यं**  
+त्रिषु लोकेषु किञ्चन।  
+नानवाप्तम् अवाप्तव्यं  
+**वर्त एव** च **कर्मणि**॥3.22॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/22_na_me.md">

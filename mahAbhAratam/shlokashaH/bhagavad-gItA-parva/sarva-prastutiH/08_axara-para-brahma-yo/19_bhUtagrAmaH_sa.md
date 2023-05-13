@@ -2,11 +2,13 @@
 title = "19 भूतग्रामः स"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते।  
-रात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे।।8.19।।
+भूत-ग्रामः स एवायं  
+भूत्वा **भूत्वा प्रलीयते**।  
+रात्र्य्-आगमे, ऽवशः पार्थ  
+**प्रभवत्य्** अहर्-आगमे॥8.19॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">

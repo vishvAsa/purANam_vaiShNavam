@@ -2,12 +2,15 @@
 title = "01 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
-इदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे।  
-ज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात्।।9.1।।
++++(श्री भगवानुवाच)+++
+
+इदं तु ते **गुह्यतमं**  
+**प्रवक्ष्याम्य्** अनसूयवे।  
+ज्ञानं विज्ञान-सहितं  
+यज् ज्ञात्वा मोक्ष्यसे ऽशुभात्॥9.1॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
@@ -24,6 +27,9 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+
+उपासकभेदनिबन्धना विशेषाः प्रतिपादिताः । इदानीम् उपास्यस्य परमपुरुषस्य माहात्म्यम्, ज्ञानिनां विशेषं च विशोध्य भक्तिरूपस्योपासनस्य स्वरूपम् उच्यते ।  
 
 ।।9.1।। श्री भगवानुवाच -- **इदं तु ते गुह्यतमं** भक्तिरूपम् उपासनाख्यं
 ज्ञानं विज्ञानसहितम् उपासनगतिविशेषज्ञानसहितम् **अनसूयवे ते
@@ -146,6 +152,8 @@ _________________
 ## शाङ्कर-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/09_rAja-vidyA-rAja-guhy/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+
+अष्टमे नाडीद्वारेण धारणायोगः सगुणः उक्तः । तस्य च फलम् अग्न्यर्चिरादिक्रमेण कालान्तरे ब्रह्मप्राप्तिलक्षणमेव अनावृत्तिरूपं निर्दिष्टम् । तत्र ‘अनेनैव प्रकारेण मोक्षप्राप्तिफलम् अधिगम्यते, न अन्यथा’ इति तदाशङ्काव्याविवर्तयिषया श्रीभगवान् उवाच —
 
 ।।9.1।। -- **इदं** ब्रह्मज्ञानं वक्ष्यमाणम् उक्तं च पूर्वषु अध्यायेषु;
 तत् बुद्धौ संनिधीकृत्य इदम् इत्याह। **तु**शब्दो विशेषनिर्धारणार्थः।

@@ -2,13 +2,13 @@
 title = "20 अथ व्यवस्थितान्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/20_atha_vyavasthitAn.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/20_atha_vyavasthitAn.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अथ व्यवस्थितान् दृष्ट्वा  
+अथ **व्यवस्थितान् दृष्ट्वा**  
 धार्तराष्ट्रान् कपि-ध्वजः।  
-प्रवृत्ते शस्त्रसंपाते  
-धनुर् उद्यम्य पाण्डवः।।1.20।।
+प्रवृत्ते शस्त्र-संपाते  
+**धनुर् उद्यम्य** पाण्डवः॥1.20॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/20_atha_vyavasthitAn.md">
@@ -25,9 +25,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/01_arjuna-viShAda-yogaH/20_atha_vyavasthitAn.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।1.20।। अर्जुन उवाच संजय उवाच स च तेन चोदितः तत्क्षणाद् एव
-भीष्मद्रोणादीनां सर्वेषाम् एव महीक्षितां पश्यतां यथाचोदितम् अकरोत्।
-ईदृशी भवदीयानां विजयस्थितिः इति च अवोचत्।  
+२५-तमस्य टीका दृश्या।
 
 </details>
 </div>

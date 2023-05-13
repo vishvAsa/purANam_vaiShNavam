@@ -2,13 +2,13 @@
 title = "18 त्वमक्षरम् परमम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-त्वमक्षरं परमं वेदितव्यं  
-त्वमस्य विश्वस्य परं निधानम्।  
-त्वमव्ययः शाश्वतधर्मगोप्ता  
-सनातनस्त्वं पुरुषो मतो मे।।11.18।।
+**त्वम् अक्षरं** परमं वेदितव्यं  
+त्वम् अस्य विश्वस्य परं निधानम्।  
+त्वम् अव्ययः शाश्वत-धर्म-गोप्ता  
+सनातनस् त्वं पुरुषो मतो मे॥11.18॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
@@ -27,13 +27,13 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।11.18।। उपनिषत्सुद्वे विद्ये वेदितव्ये (मु0 उ₀ 1।1।4) इत्यादिषु
+।।11.18।। उपनिषत्सुद्वे विद्ये वेदितव्ये (मु॰ उ॰ 1।1।4) इत्यादिषु
 वेदितव्यतया निर्दिष्टं **परमम् अक्षरं त्वम्** एव। **अस्य विश्वस्य परं
 निधानं** विश्वस्य अस्य परमाधारभूतः **त्वम्** एव; **त्वम् अव्ययः**
 व्ययंरहितः; यत्स्वरूपो यद्गुणो यद्विभवश्च त्वं तेन एव रूपेण सर्वदा
 अवतिष्ठसे; **शाश्वतधर्मगोप्ता** शाश्वतस्य नित्यस्य वैदिकस्य धर्मस्य
 एवमादिभिः अवतारैः त्वम् एव गोप्ता। **सनातनः त्वं पुरुषो मतो
-मे**वेदामहेतं पुरुषं महान्तम् (तै. आ. 3।12।7)परात्परं पुरुषम् (मु0 उ₀
+मे**वेदामहेतं पुरुषं महान्तम् (तै. आ. 3।12।7)परात्परं पुरुषम् (मु॰ उ॰
 3।2।8) इत्यादिषु उदितः सनातनपुरुषः त्वम् एव इति मे मतो
 ज्ञातः। ,यदुकुलतिलकः त्वम् एवंभूत इदानीं साक्षात्कृतो मया इत्यर्थः।
 

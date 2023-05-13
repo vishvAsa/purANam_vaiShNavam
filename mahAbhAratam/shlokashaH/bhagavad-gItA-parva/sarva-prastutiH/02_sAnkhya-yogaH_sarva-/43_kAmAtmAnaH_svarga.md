@@ -2,14 +2,14 @@
 title = "43 कामात्मानः स्वर्गपरा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/43_kAmAtmAnaH_svarga.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 +++(आत्मज्ञानादिभ्यः पराङ्मुखा, क्षुद्रफलेषु काम्यकर्मसु च वेद-वाद-रता अविपश्चितः)+++  
 कामात्मानः +++(आत्मनिष्ठोपेक्षया)+++ स्वर्ग-परा  
 +++(पुनर्-)+++जन्म--कर्म-फल-प्रदाम्।  
 +++(तत्त्व-ज्ञान-रहिततया)+++ क्रिया-विशेष-बहुलां +++(वाचम्)+++  
-+++(क्षुद्र-)+++भोगैश्वर्य-गतिं प्रति +++(, तेषां …)+++।।2.43।।  
++++(क्षुद्र-)+++भोगैश्वर्य-गतिं प्रति +++(, तेषां …)+++॥2.43॥  
 +++(अग्रिमे श्लोके ऽनुवर्तनम्।)+++
 </details>
 </div>

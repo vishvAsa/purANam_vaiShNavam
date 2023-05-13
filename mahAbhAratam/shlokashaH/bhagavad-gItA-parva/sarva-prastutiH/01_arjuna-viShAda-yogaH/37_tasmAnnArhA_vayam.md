@@ -2,13 +2,13 @@
 title = "37 तस्मान्नार्हा वयम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तस्मान् नार्हा वयं हन्तुं  
+तस्मान् **नार्हा वयं हन्तुं**  
 धार्तराष्ट्रान् स्व-बान्धवान्।  
-स्वजनं हि कथं हत्वा  
-सुखिनः स्याम माधव।।1.37।।
+स्वजनं हि **कथं** हत्वा  
+**सुखिनः स्याम** माधव॥1.37॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
@@ -25,13 +25,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।1.37।। अर्जुन उवाच संजय उवाच स तु पार्थो महामनाः परमकारुणिको
-दीर्घबन्धुः परमधार्मिकः सभ्रातृको भवद्भिः अतिघोरैः मारणैः जतुगृहादिभिः
-असकृद् वञ्चितः अपि परमपुरुषसहायः अपि हनिष्यमाणान् भवदीयान् विलोक्य
-बन्धुस्नेहेन परमया च कृपया धर्माधर्मभयेन च अतिमात्रस्विन्नसर्वगात्रः
-सर्वथा अहं न योत्स्यामि इति उक्त्वा बन्धुविश्लेषजनितशोकसंविग्नमानसः सशरं
-चापं विसृज्य रथोपस्थे उपाविशत्।  
-
+।।1.37।। अन्तिमश्लोकव्याख्या दृश्या। 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">

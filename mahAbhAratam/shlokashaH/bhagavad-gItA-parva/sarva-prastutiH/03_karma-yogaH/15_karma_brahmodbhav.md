@@ -2,11 +2,13 @@
 title = "15 कर्म ब्रह्मोद्भवम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/15_karma_brahmodbhav.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/15_karma_brahmodbhav.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्।  
-तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्।।3.15।।
+**कर्म +++(प्रकृति-रूप-)+++ब्रह्मोद्भवं** विद्धि  
+**ब्रह्माक्षर-समुद्भवम्**।  
+तस्मात् सर्व-गतं +++(शरीर-वर्ति)+++ **ब्रह्म**  
+नित्यं **यज्ञे प्रतिष्ठितम्**॥3.15॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/15_karma_brahmodbhav.md">
@@ -24,7 +26,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।3.15।।**कर्म ब्रह्मोद्भवम्।** अत्र च ब्रह्मशब्दनिर्दिष्टं
-प्रकृतिपरिणामरूपशरीरन्तस्मादेतद् ब्रह्म नाम रूपमन्नं च जायते (मु0 1।1।9)
+प्रकृतिपरिणामरूपशरीरन्तस्मादेतद् ब्रह्म नाम रूपमन्नं च जायते (मु॰ 1।1।9)
 इति ब्रह्मशब्देन प्रकृतिः निर्दिष्टा। इहापिमम योनिर्महद्ब्रह्म (गीता
 14।3) इति वक्ष्यते। अतः कर्म ब्रह्मोद्भवम् इति
 प्रकृतिपरिणामरूपशरीरोद्भवं कर्म इत्युक्तं भवति। **ब्रह्म

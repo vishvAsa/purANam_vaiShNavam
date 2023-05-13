@@ -2,13 +2,13 @@
 title = "25 भीष्मद्रोणप्रमुखतः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/25_bhIShmadroNapramu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/25_bhIShmadroNapramu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 भीष्म-द्रोण-प्रमुखतः  
 सर्वेषां च मही-क्षिताम्।  
-उवाच - पार्थ पश्यैतान्  
-समवेतान् कुरून् इति।।1.25।।
+**उवाच** - "पार्थ पश्यैतान्  
+समवेतान् कुरून्" इति॥1.25॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/25_bhIShmadroNapramu.md">
@@ -25,7 +25,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/01_arjuna-viShAda-yogaH/25_bhIShmadroNapramu.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।1.25।। अर्जुन उवाच संजय उवाच स च तेन चोदितः तत्क्षणाद् एव
+स च तेन चोदितः तत्क्षणाद् एव
 भीष्मद्रोणादीनां सर्वेषाम् एव महीक्षितां पश्यतां यथाचोदितम् अकरोत्।
 ईदृशी भवदीयानां विजयस्थितिः इति च अवोचत्।  
 

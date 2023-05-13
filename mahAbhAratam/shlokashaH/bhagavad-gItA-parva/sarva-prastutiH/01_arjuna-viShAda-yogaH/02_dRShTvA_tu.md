@@ -2,14 +2,15 @@
 title = "02 दृष्ट्वा तु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/02_dRShTvA_tu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/02_dRShTvA_tu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सञ्जय उवाच  
-दृष्ट्वा तु पाण्डवानीकं  
-व्यूढं दुर्योधनस् तदा।  
-आचार्यम् उपसङ्गम्य  
-राजा वचनम् अब्रवीत्।।1.2।।
++++(सञ्जय उवाच)+++
+
+**दृष्ट्वा** तु पाण्डवानीकं  
+व्यूढं **दुर्योधनस्** तदा।  
+आचार्यम् **उपसङ्गम्य**  
+राजा **वचनम् अब्रवीत्**॥1.2॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/02_dRShTvA_tu.md">

@@ -2,13 +2,13 @@
 title = "44 तस्मात्प्रणम्य प्रणिधाय"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/44_tasmAtpraNamya_pr.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/44_tasmAtpraNamya_pr.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तस्मात्प्रणम्य प्रणिधाय कायं  
-प्रसादये त्वामहमीशमीड्यम्।  
-पितेव पुत्रस्य सखेव सख्युः  
-प्रियः प्रियायार्हसि देव सोढुम्।।11.44।।
+तस्मात् प्रणम्य प्रणिधाय कायं  
+**प्रसादये त्वाम्** अहम् ईशम् ईस्ड्यम्।  
+पितेव पुत्रस्य, सखेव सख्युः,  
+प्रियः प्रियायार्हसि देव सोढुम्॥11.44॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/44_tasmAtpraNamya_pr.md">

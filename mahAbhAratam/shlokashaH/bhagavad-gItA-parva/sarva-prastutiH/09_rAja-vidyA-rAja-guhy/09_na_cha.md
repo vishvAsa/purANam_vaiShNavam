@@ -2,11 +2,13 @@
 title = "09 न च"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-न च मां तानि कर्माणि निबध्नन्ति धनञ्जय।  
-उदासीनवदासीनमसक्तं तेषु कर्मसु।।9.9।।
+**न** च मां तानि **कर्माणि**  
+**निबध्नन्ति** धनञ्जय।  
+उदासीनवद् आसीनम्  
+असक्तं तेषु कर्मसु॥9.9॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
@@ -26,8 +28,8 @@ _________________
 ।।9.9।।**न च तानि** विषमसृष्ट्यादीनि **कर्माणि मां निबध्नन्ति** मयि
 नैर्घृण्यादिकं न आपादयन्ति; यतः क्षेत्रज्ञानां पूर्वकृत्यानि एव कर्माणि
 देवादिविषमभावहेतवः अहं तु तत्र वैषम्ये **असक्तः** तत्र **उदासीनवद्**
-**आसीनः।** यथा आह सूत्रकारः -- वैषम्यनैर्घृण्ये न सापेक्षत्वात् (ब्र0
-सू0 2।1।34) न कर्माविभागादिति चेन्नानादित्वात् (ब्र0 सू0 2।1।35) इति।
+**आसीनः।** यथा आह सूत्रकारः -- वैषम्यनैर्घृण्ये न सापेक्षत्वात् (ब्र॰
+सू॰ 2।1।34) न कर्माविभागादिति चेन्नानादित्वात् (ब्र॰ सू॰ 2।1।35) इति।
 
 </details>
 </div>

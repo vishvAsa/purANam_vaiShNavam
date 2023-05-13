@@ -2,13 +2,13 @@
 title = "18 ऊर्ध्वङ् गच्छन्ति"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ऊर्ध्वं गच्छन्ति सत्त्वस्था  
-मध्ये तिष्ठन्ति राजसाः।  
+**ऊर्ध्वं गच्छन्ति सत्त्वस्था**  
+**मध्ये** तिष्ठन्ति **राजसाः**।  
 जघन्य-गुणवृत्तिस्था  
-अधो गच्छन्ति तामसाः।।14.18।।
+**अधो** गच्छन्ति **तामसाः**॥14.18॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">

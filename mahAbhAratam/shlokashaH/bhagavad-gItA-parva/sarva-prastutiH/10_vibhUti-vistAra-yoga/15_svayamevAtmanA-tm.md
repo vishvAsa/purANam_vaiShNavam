@@ -2,11 +2,13 @@
 title = "15 स्वयमेवात्मनाऽत्मानं"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-स्वयमेवात्मनाऽत्मानं वेत्थ त्वं पुरुषोत्तम।  
-भूतभावन भूतेश देवदेव जगत्पते।।10.15।।
+स्वयम् **एवात्मना ऽत्मानं**  
+**वेत्थ** त्वं पुरुषोत्तम।  
+भूत-भावन भूतेश  
+देवदेव जगत्-पते॥10.15॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
@@ -240,7 +242,7 @@ _________________
   
   
 ।।10.15।। यतोऽन्ये न विदुरतः स्वस्वरूपं स्वयमेव
-जाना**सी**त्याह৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷. -- स्वयमेवेति। स्वयं स्वेच्छयैव; न
+जाना**सी**त्याह -- स्वयमेवेति। स्वयं स्वेच्छयैव; न
 केनचित् प्रेरितः। आत्मना स्वस्वरूपेणैव आत्मानं यादृशोऽसि तादृशं त्वमेव
 वेत्थ; जानासीत्यर्थः। अन्यथा ज्ञानहेतुभूतत्वेन सम्बोधयति। हे पुरुषोत्तम
 केन कथं वा ज्ञातुं योग्य इत्यर्थः। अतएव ब्रह्माण्डपुराणे -- नैष भावयितुं

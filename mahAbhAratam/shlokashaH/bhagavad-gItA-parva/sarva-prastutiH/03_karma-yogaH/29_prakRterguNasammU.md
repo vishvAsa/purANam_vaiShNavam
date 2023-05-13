@@ -2,11 +2,13 @@
 title = "29 प्रकृतेर्गुणसम्मूढाः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/29_prakRterguNasammU.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/29_prakRterguNasammU.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु।  
-तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत्।।3.29।।
+प्रकृतेर् गुण-सम्मूढाः  
+सज्जन्ते गुण-कर्मसु।  
+तान् **अकृत्स्न-विदो** मन्दान्  
+**कृत्स्न-विन् न विचालयेत्**॥3.29॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/29_prakRterguNasammU.md">

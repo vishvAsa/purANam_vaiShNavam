@@ -2,13 +2,13 @@
 title = "42 यामिमाम् पुष्पिताम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/42_yAmimAm_puShpitAm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 याम् इमां पुष्पितां+++(→अ-तर्पक-फलाम् अप्य् आपात-रमणीयां)+++ वाचं  
-प्रवदन्त्य् अविपश्चितः।  
-+++(स्वर्गादिषु क्षुद्र-फलेषु तत्कर्मसु च)+++ वेद-वाद-रताः पार्थ  
-+++(आत्म-ज्ञानादिकं)+++ नान्यद् अस्तीति वादिनः +++(ते…)+++।।2.42।।  
+**प्रवदन्त्य्** अविपश्चितः।  
++++(स्वर्गादिषु क्षुद्र-फलेषु तत्कर्मसु च)+++ **वेद-वाद-रताः** पार्थ  
++++(आत्म-ज्ञानादिकं)+++ **नान्यद् अस्तीति** वादिनः +++(ते…)+++॥2.42॥  
 +++(अग्रिमे श्लोके ऽनुवर्तनम्।)+++
 </details>
 </div>

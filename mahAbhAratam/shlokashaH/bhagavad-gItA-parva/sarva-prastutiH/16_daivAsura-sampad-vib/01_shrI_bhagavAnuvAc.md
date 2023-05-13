@@ -2,12 +2,15 @@
 title = "01 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
-अभयं सत्त्वसंशुद्धिः ज्ञानयोगव्यवस्थितिः।  
-दानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम्।।16.1।।
++++(श्री भगवानुवाच)+++
+
+अ-भयं **सत्त्व-संशुद्धिः**  
+ज्ञान-योग-व्यवस्थितिः।  
+दानं दमश् च **यज्ञश्** च  
+**स्वाध्यायस्** तप आर्जवम्॥16.1॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
@@ -24,6 +27,8 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+अतीतेनाध्यायत्रयेण प्रकृतिपुरुषयोर् विविक्तयोः संसृष्टयोश् च याथात्म्यं तत्संसर्गवियोगयोश् च गुणसङ्गतद्विपर्ययहेतुत्वम्, सर्वप्रकारेणावस्थितयोः प्रकृतिपुरुषयोर् भगवद्विभूतित्वम्, विभूतिमतो भगवतो विभूतिभूताद् अचिद्वस्तुनश् चिद्वस्तुनश् च बद्धमुक्तोभयरूपाद् अव्ययत्वव्यापनभरणस्वाम्यैर् अर्थान्तरतया पुरुषोत्तमत्वेन याथात्म्यञ् च वर्णितम् । अनन्तरम्, उक्तस्य कृत्स्नस्यार्थस्य स्थेम्ने शास्त्रवश्यतां वक्तुं शास्त्रवश्यतद्विपरीतयोर् देवासुरसर्गयोर् विभागं
 
 ।।16.1।। श्रीभगवानुवाच -- इष्टानिष्टवियोगसंयोगरूपस्य दुःखस्य हेतुदर्शनजं
 दुःखं भयम्; तन्निवृत्तिः **अभयम्।  
@@ -226,8 +231,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
-  
-  
+दैवी आसुरी राक्षसी इति प्राणिनां प्रकृतयः नवमे अध्याये सूचिताः । तासां विस्तरेण प्रदर्शनाय ‘अभयं सत्त्वसंशुद्धिः’ इत्यादिः अध्यायः आरभ्यते । तत्र संसारमोक्षाय दैवी प्रकृतिः, निबन्धाय आसुरी राक्षसी च इति दैव्याः आदानाय प्रदर्शनं क्रियते, इतरयोः परिवर्जनाय च ॥ 
+
 ।।16.1।। --,**अभयम्** अभीरुता। **सत्त्वसंशुद्धिः** सत्त्वस्य अन्तःकरणस्य
 संशुद्धिः संव्यवहारेषु परवञ्चनामायानृतादिपरिवर्जनं शुद्धसत्त्वभावेन
 व्यवहारः इत्यर्थः।।**ज्ञानयोगव्यवस्थितिः** ज्ञानं शास्त्रतः आचार्यतश्च

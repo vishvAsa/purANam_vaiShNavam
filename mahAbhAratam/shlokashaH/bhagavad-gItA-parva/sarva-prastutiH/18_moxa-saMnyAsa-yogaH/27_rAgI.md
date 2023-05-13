@@ -2,11 +2,13 @@
 title = "27 रागी"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः।  
-हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः।।18.27।।
+रागी **कर्म-फल-प्रेप्सुर्**  
+लुब्धो हिंसात्मको ऽशुचिः।  
+हर्ष-शोकान्वितः कर्ता  
+**राजसः** परिकीर्तितः॥18.27॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/27_rAgI.md">

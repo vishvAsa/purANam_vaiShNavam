@@ -2,13 +2,13 @@
 title = "29 सीदन्ति मम"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/29_sIdanti_mama.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/29_sIdanti_mama.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सीदन्ति मम गात्राणि  
-मुखं च परिशुष्यति।  
-वेपथुश् च शरीरे मे  
-रोमहर्षश् च जायते।।1.29।।
+**सीदन्ति** मम **गात्राणि**  
+**मुखं** च **परिशुष्यति**।  
+**वेपथुश्** च शरीरे मे  
+**रोमहर्षश्** च **जायते**॥1.29॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/29_sIdanti_mama.md">
@@ -25,13 +25,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/01_arjuna-viShAda-yogaH/29_sIdanti_mama.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।1.29।। अर्जुन उवाच संजय उवाच स तु पार्थो महामनाः परमकारुणिको
-दीर्घबन्धुः परमधार्मिकः सभ्रातृको भवद्भिः अतिघोरैः मारणैः जतुगृहादिभिः
-असकृद् वञ्चितः अपि परमपुरुषसहायः अपि हनिष्यमाणान् भवदीयान् विलोक्य
-बन्धुस्नेहेन परमया च कृपया धर्माधर्मभयेन च अतिमात्रस्विन्नसर्वगात्रः
-सर्वथा अहं न योत्स्यामि इति उक्त्वा बन्धुविश्लेषजनितशोकसंविग्नमानसः सशरं
-चापं विसृज्य रथोपस्थे उपाविशत्।  
-
+।।1.29।। अन्तिमश्लोकव्याख्या दृश्या। 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/01_arjuna-viShAda-yogaH/29_sIdanti_mama.md">
@@ -260,7 +254,7 @@ _________________
 ।।1.29।। मनसंभ्रम के कारण मानसिक रोगी के शरीर में उत्पन्न होने वाले
 लक्षणों को यहाँ विस्तार से बताया गया है। जिसे संजय ने करुणा कहा थाउसकी
 वास्तविकता स्वयं अर्जुन के शब्दों से स्पष्ट ज्ञात होती है। वह कहता है इन
-स्वजनों को देखकर ৷৷৷৷৷৷.मेरे अंग कांपते हैं৷৷৷৷৷৷৷৷৷৷. इत्यादि।  
+स्वजनों को देखकर मेरे अंग कांपते हैं इत्यादि।  
 आधुनिक मनोविज्ञान में एक व्याकुल असन्तुलित रोगी व्यक्ति के उपर्युक्त
 लक्षणों वाले रोग का नाम चिन्ताजनित नैराश्य की स्थिति दिया गया है।  
 

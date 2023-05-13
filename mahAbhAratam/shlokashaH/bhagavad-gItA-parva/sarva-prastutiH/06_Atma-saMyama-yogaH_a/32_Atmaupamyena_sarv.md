@@ -2,11 +2,13 @@
 title = "32 आत्मौपम्येन सर्वत्र"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन।  
-सुखं वा यदि वा दुःखं सः योगी परमो मतः।।6.32।।
+**आत्मौपम्येन** सर्वत्र  
+**समं पश्यति** योऽर्जुन।  
+सुखं वा यदि वा दुःखं  
+सः योगी परमो मतः॥6.32॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/32_Atmaupamyena_sarv.md">

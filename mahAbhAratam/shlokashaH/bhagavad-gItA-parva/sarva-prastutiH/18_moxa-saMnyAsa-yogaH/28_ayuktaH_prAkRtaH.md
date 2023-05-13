@@ -2,11 +2,13 @@
 title = "28 अयुक्तः प्राकृतः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः।  
-विषादी दीर्घसूत्री च कर्ता तामस उच्यते।।18.28।।
+अयुक्तः प्राकृतः **स्तब्धः**  
+शठो नैष्कृतिको ऽलसः।  
+**विषादी दीर्घसूत्री** च  
+कर्ता **तामस** उच्यते॥18.28॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">

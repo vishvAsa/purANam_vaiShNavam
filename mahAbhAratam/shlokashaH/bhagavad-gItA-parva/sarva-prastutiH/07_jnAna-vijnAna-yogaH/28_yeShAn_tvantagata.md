@@ -2,11 +2,13 @@
 title = "28 येषान् त्वन्तगतम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम्।  
-ते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः।।7.28।।
+येषां त्व् **अन्त-गतं पापं**  
+जनानां पुण्य-कर्मणाम्।  
+ते द्वन्द्व-मोह-निर्मुक्ता  
+**भजन्ते मां** दृढव्रताः॥7.28॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
@@ -87,15 +89,7 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।7.28 7.30।। येषामित्यादि युक्तचेतस इत्यन्तम्। ये तु विनष्टतामसाः
-पुण्यापुण्यपरिक्षयक्षेमीकृतात्मानः ते विपाटितमहामोहवितानाः सर्वमेव
-भगवद्रश्मिखचितं जरामरणमयतमिस्रस्रुतं ब्रह्म विदन्ति
-आध्यात्मिकाधिभौतिकाधिदैविकाधियाज्ञिकानि च ममैव रूपान्तराणि। प्रयाणकाले च
-नित्यं भगवद् भावितान्तःकरणत्वात् मां जानन्ति यतो येषां जन्म पूर्वमेव
-भगवत्तत्त्वं ते अन्तकाले परमेश्वरं संस्मरेयुः। किं जन्मासेवनया इति ये
-मन्यन्ते तेषां तूष्णींभाव एव शोभनः इति।
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
@@ -255,7 +249,7 @@ _________________
 विनयादियुक्तानाम्। तु पुनः जनादिक्लेशयुक्तानां पापं
 मत्स्वरूपज्ञानप्रतिबन्धकं अन्तभावं गतं प्राप्तं नष्टमिति यावत्। ते
 द्वन्द्वमोहनिर्मुक्ताः स्वसुखदुःखादिमोहनिर्मुक्ताः दृढव्रताः
-द़ृढसङ्कल्पाः मदेकनिष्ठाः मां भजन्ते। अत्रायं भावः पूर्वजन्मकृतं
+दृढसङ्कल्पाः मदेकनिष्ठाः मां भजन्ते। अत्रायं भावः पूर्वजन्मकृतं
 यत्किञ्चित् पुण्यकर्म तेन जन्मान्तरे प्रवृद्धमाने वाऽनेकजन्मनि वयसः
 परिपाके पुण्योपचितमरणभयेन तन्निवृत्त्यर्थं मद्भजनप्रवृत्ता भवन्ति।
 अतएवजन्मान्तरसहस्रेषु तपोज्ञानसमाधिभिः। नराणां क्षीणपापानां कृष्णे

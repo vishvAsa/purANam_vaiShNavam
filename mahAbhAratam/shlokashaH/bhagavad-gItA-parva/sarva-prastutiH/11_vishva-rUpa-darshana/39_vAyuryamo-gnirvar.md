@@ -2,13 +2,13 @@
 title = "39 वायुर्यमोऽग्निर्वरुणः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-वायुर्यमोऽग्निर्वरुणः शशाङ्कः  
-प्रजापतिस्त्वं प्रपितामहश्च।  
-नमो नमस्तेऽस्तु सहस्रकृत्वः  
-पुनश्च भूयोऽपि नमो नमस्ते।।11.39।।
+वायुर् यमो ऽग्निर् वरुणः शशाङ्कः  
+प्रजापतिस् त्वं प्रपितामहश् च।  
+नमो **नमस् तेऽस्तु** सहस्र-कृत्वः  
+पुनश् च भूयो ऽपि नमो नमस् ते॥11.39॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">

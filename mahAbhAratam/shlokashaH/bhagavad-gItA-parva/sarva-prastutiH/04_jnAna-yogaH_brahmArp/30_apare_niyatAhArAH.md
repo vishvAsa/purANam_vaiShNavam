@@ -2,11 +2,13 @@
 title = "30 अपरे नियताहाराः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/30_apare_niyatAhArAH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/30_apare_niyatAhArAH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति।  
-सर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषाः।।4.30।।
+अपरे नियताहाराः  
+**प्राणान् प्राणेषु जुह्वति**।  
+सर्वेऽप्य् एते यज्ञ-विदो  
+यज्ञ-क्षपित-कल्मषाः॥4.30॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/30_apare_niyatAhArAH.md">

@@ -2,11 +2,13 @@
 title = "35 यज्ज्ञात्वा न"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव।  
-येन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि।।4.35।।
+यज् ज्ञात्वा न पुनर् मोहम्  
+एवं यास्यसि पाण्डव।  
+येन **भूतान्य् अशेषेण**  
+**द्रक्ष्यस्य् आत्मन्य्** अथो मयि॥4.35॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
@@ -33,7 +35,7 @@ _________________
 **अथो मयि** सर्वाणि भूतानि **अशेषेण** द्रक्ष्यसि मत्स्वरूपसाम्यात् च
 परिशुद्धस्य सर्वस्य आत्मवस्तुनः। इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः
 (गीता 14।2) इति हि वक्ष्यतेतथा विद्वान् पुण्यपापे विधूय निरञ्जनः परमं
-साम्यमुपैति (मु0 उ₀ 3।1।3) इत्येवमादिषु नामरूपविनिर्मुक्तस्य आत्मवस्तुनः
+साम्यमुपैति (मु॰ उ॰ 3।1।3) इत्येवमादिषु नामरूपविनिर्मुक्तस्य आत्मवस्तुनः
 परं स्वरूपसाम्यम् अवगम्यते अतः प्रकृतिविनिर्मुक्तं सर्वम् आत्मवस्तु
 परस्परं समं सर्वेश्वरेण च समम्।
 

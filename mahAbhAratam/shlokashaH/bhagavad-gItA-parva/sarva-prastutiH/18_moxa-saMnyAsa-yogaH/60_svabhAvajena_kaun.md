@@ -2,11 +2,13 @@
 title = "60 स्वभावजेन कौन्तेय"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा।  
-कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत्।।18.60।।
+स्व-भावजेन कौन्तेय  
+निबद्धः स्वेन कर्मणा।  
+कर्तुं नेच्छसि यन् मोहात् 
+**करिष्यस्य् अवशोऽपि** तत्॥18.60॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">

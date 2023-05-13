@@ -2,13 +2,13 @@
 title = "16 कर्मणः सुकृतस्याहुः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कर्मणः सुकृतस्याहुः  
-सात्त्विकं निर्मलं फलम्।  
-रजसस् तु फलं दुःखम्  
-अज्ञानं तमसः फलम्।।14.16।।
++++(सात्त्विकस्य ज्ञानपूर्णस्य)+++ कर्मणः सुकृतस्याहुः  
+सात्त्विकं **निर्मलं फलम्**।  
+**रजसस्** तु +++(कर्मणा)+++ फलं +++(सुखमिश्रं)+++ **दुःखम्**  
+**अज्ञानं तमसः** +++(कर्मणा)+++ फलम्॥14.16॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
@@ -25,15 +25,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।14.16।। एवं सत्त्ववृद्धौ मरणम् उपगम्य आत्मविदां कुले जातेन अनुष्ठितस्य
-**सुकृतस्य** फलाभिसन्धिरहितस्य मदाराधनरूपस्य **कर्मणः फलं** पुनः अपि ततः
-अधिकसत्त्वजनितं **निर्मलं** दुःखगन्धरहितं भवति; इति आहुः
-सत्त्वगुणपरिणामविदः। अन्त्यकालप्रवृद्धस्य **रजसः तु फलं**
-फलसाधनकर्मसङ्गिकुले जन्म;
-फलाभिसन्धिपूर्वककर्मारम्भतत्फलानुभवपुनर्जन्मरजोवृद्धिफलाभिसन्धिपूर्वककर्मारम्भपरम्परारूपं
-सांसारिकं दुखप्रायम् एव इति आहुः तद्गुणयाथात्म्यविदः।**अज्ञानं तमसः
-फलम्** एवम् अन्तकालप्रवृद्धस्य तमसः फलम् अज्ञानपरम्परारूपम्। तद्
-अधिकसत्त्वादिजनितं निर्मलादिफलं किम् इति अत्र आह --
+।।14.16।।  
+एवं सत्त्ववृद्धौ मरणम् उपगम्य  
+आत्मविदां कुले जातेन  
+अनुष्ठितस्य **सुकृतस्य** फलाभिसन्धि-रहितस्य+++(5)+++ मदाराधन-रूपस्य **कर्मणः फलं**  
+पुनः अपि ततः अधिकसत्त्वजनितं **निर्मलं** दुःखगन्धरहितं भवति;  
+इति आहुः सत्त्वगुणपरिणामविदः। 
+
+अन्त्यकालप्रवृद्धस्य **रजसः तु फलं** फल-साधन-कर्म-सङ्गिकुले+++(5)+++ जन्म;  
+फलाभिसन्धि-पूर्वक-कर्मारम्भ--तत्-फलानुभव-पुनर्-जन्म--रजो-वृद्धि-फलाभिसन्धि-पूर्वक-कर्मारम्भ--परम्परा-रूपं  
+सांसारिकं दुख-प्रायम् एव  
+इति आहुः तद्-गुणयाथात्म्यविदः।
+
+**अज्ञानं तमसः फलम्**  
+एवम् अन्तकालप्रवृद्धस्य तमसः फलम् अज्ञान-परम्परारूपम्।  
+
 
 </details>
 </div>

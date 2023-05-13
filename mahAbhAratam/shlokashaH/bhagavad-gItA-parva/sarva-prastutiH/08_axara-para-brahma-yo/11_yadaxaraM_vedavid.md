@@ -2,13 +2,13 @@
 title = "11 यदक्षरं वेदविदो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यदक्षरं वेदविदो वदन्ति  
-विशन्ति यद्यतयो वीतरागाः।  
-यदिच्छन्तो ब्रह्मचर्यं चरन्ति  
-तत्ते पदं संग्रहेण प्रवक्ष्ये।।8.11।।
+यद् **अक्षरं** वेदविदो **वदन्ति**  
+**विशन्ति** यद् यतयो **वीतरागाः**।  
+यद् **इच्छन्तो ब्रह्मचर्यं चरन्ति**  
+तत् ते पदं संग्रहेण प्रवक्ष्ये॥8.11॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">

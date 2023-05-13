@@ -2,13 +2,13 @@
 title = "10 तमुवाच हृषीकेशः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तमुवाच हृषीकेशः  
+**तम् उवाच** हृषीकेशः  
 प्रहसन्न् इव भारत।  
 सेनयोर् उभयोर् मध्ये  
-विषीदन्तम् इदं वचः।।2.10।।
+विषीदन्तम् इदं वचः॥2.10॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
@@ -36,9 +36,10 @@ _________________
 देहातिरिक्तात्मज्ञाननिमित्तिं च धर्मं भाषमाणं परस्परं विरुद्धगुणान्वितम्
 उभयोः सेनयोः युद्धाय उद्युक्तयोः मध्ये अकस्मात् निरुद्योगं पार्थम्
 आलोक्य परमपुरुषः प्रहसन् इव इदम् उवाच। परिहासवाक्यं वदन् इव
-आत्मपरमात्मयाथात्म्यतत्प्राप्त्युपायभूतकर्मयोगज्ञानयोगभक्तियोगगोचरम्न
-त्वेवाहं जातु नासम् (गीता 2।12) इत्यारभ्यअहं त्वा सर्वपापेभ्यो
-मोक्षयिष्यामि मा शुचः। (गीता 18।66) इत्येतदन्तम् उवाच इत्यर्थः।  
+आत्म-परमात्म-याथात्म्य--तत्-प्राप्त्य्-उपाय-भूत-  
+कर्म-योग--ज्ञान-योग--भक्ति-योग--गोचरं  
+"न त्वेवाहं जातु नासम्" \[2।12\] इत्यारभ्य  
+"अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः" (गीता 18।66) इत्य्-एतद्-अन्तं वच उवाचेत्यर्थः।
 
 </details>
 </div>

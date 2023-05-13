@@ -2,11 +2,13 @@
 title = "10 वीतरागभयक्रोधा मन्मया"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-वीतरागभयक्रोधा मन्मया मामुपाश्रिताः।  
-बहवो ज्ञानतपसा पूता मद्भावमागताः।।4.10।।
+वीत-राग-भय-क्रोधा  
+मन्मया माम् उपाश्रिताः।  
+बहवो **ज्ञान-तपसा**  
+पूता **मद्-भावम् आगताः**॥4.10॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">

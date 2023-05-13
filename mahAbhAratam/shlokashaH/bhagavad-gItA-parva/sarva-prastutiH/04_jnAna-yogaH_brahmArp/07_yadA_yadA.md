@@ -2,11 +2,13 @@
 title = "07 यदा यदा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।  
-अभ्युत्थानमधर्मस्य तदाऽऽत्मानं सृजाम्यहम्।।4.7।।
+यदा यदा हि धर्मस्य  
+ग्लानिर् भवति भारत।  
+अभ्युत्थानम् अधर्मस्य  
+**तदाऽऽत्मानं सृजाम्य् अहम्**॥4.7॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
@@ -229,7 +231,7 @@ _________________
 ।।4.7।। एतदेव प्रकटयति यदा यदेति। हे भारत यदा यदा धर्मस्य
 मद्भक्त्यादिरूपस्य ग्लानिः सङ्कोचो भवति। अधर्मस्य
 ज्ञानादिनाशकस्याभ्युत्थानमुत्पत्तिर्भवति। हीति निश्चयेन। तदा आत्मानं
-लीलोपयोग्या़ञ्जीवान् ज्ञानोपयोग्याँश्चाहं सृजामि। भारतेति
+लीलोपयोग्याञ्जीवान् ज्ञानोपयोग्याँश्चाहं सृजामि। भारतेति
 सम्बोधनाद्यथेदानीं धर्मरक्षार्थं त्वं सृष्टोऽसीति ज्ञाप्यते। आत्मानं
 इत्यत्रैकवचनं मुख्यात्माभिप्रायेण वा।  
   

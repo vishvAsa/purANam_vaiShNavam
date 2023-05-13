@@ -2,11 +2,13 @@
 title = "18 कर्मण्यकर्म यः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः।  
-स बुद्धिमान् मनुष्येषु स युक्तः कृत्स्नकर्मकृत्।।4.18।।
++++(स्वकर्तृत्वत्यागेन)+++ **कर्मण्य् अकर्म यः पश्येद्**,  
++++(तत्त्व-ज्ञानाख्य-)+++**अकर्मणि च कर्म** यः।  
+स बुद्धिमान् मनुष्येषु  
+स **युक्तः कृत्स्न-कर्मकृत्**॥4.18॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
@@ -1024,11 +1026,12 @@ _________________
 
   
   
-।।4.18।। दुर्विज्ञेयत्वाज्ज्ञानार्थं तत्स्वरूपमाह कर्मणीति। यः कर्मणि
-अकर्म पश्येत् कर्त्तव्ये अकर्तव्यं पश्येत्। मत्सम्बन्धं विना मदाज्ञां
-विना विकर्मणि अकर्त्तव्यं पश्येत्। तथैव मदाज्ञया अकर्मणि अकर्त्तव्ये
-कर्मणि कर्तव्यं पश्येत्। एवं ज्ञात्वा यः कृत्स्नकर्मकर्ता मनुष्येषु स
-बुद्धिमान् भवेत् स ज्ञानवान् स युक्तः। ममेति शेषः।  
+।।4.18।। दुर्विज्ञेयत्वाज् ज्ञानार्थं तत्स्वरूपम् आह - कर्मणीति। 
+
+**यः कर्मणि अकर्म पश्येत्** कर्त्तव्ये अकर्तव्यं पश्येत् - मत्सम्बन्धं विना, मदाज्ञां विना विकर्मणि अकर्त्तव्यं पश्येत्।  
+तथैव मदाज्ञया **अकर्मणि** अकर्त्तव्ये **कर्म** कर्तव्यं **पश्येत्**। 
+
+एवं ज्ञात्वा यः कृत्स्न-कर्म-कर्ता मनुष्येषु स **बुद्धिमान्** भवेत् स **ज्ञानवान्** स **युक्तः**। ममेति शेषः।  
   
 
 </details>

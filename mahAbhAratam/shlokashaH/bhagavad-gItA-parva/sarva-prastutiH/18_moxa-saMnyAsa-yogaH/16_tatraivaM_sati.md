@@ -2,11 +2,13 @@
 title = "16 तत्रैवं सति"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तत्रैवं सति कर्तारमात्मानं केवलं तु यः।  
-पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः।।18.16।।
+तत्रैवं सति **कर्तारम्**  
+**आत्मानं** केवलं तु यः।  
+**पश्यत्य्** अकृत-बुद्धित्वान्  
+न स पश्यति **दुर्मतिः**॥18.16॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/16_tatraivaM_sati.md">

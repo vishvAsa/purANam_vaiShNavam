@@ -2,11 +2,13 @@
 title = "09 प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/09_pralapanvisRjangR.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/09_pralapanvisRjangR.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि।  
-इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन्।।5.9।।
+प्रलपन् विसृजन् गृह्णन्न्  
+उन्मिषन् निमिषन्न् अपि।  
+**इन्द्रियाणीन्द्रियार्थेषु**  
+**वर्तन्त** इति धारयन्॥5.9॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/09_pralapanvisRjangR.md">

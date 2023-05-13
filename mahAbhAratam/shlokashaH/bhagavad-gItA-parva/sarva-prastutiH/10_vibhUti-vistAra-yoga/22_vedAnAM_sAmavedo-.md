@@ -2,11 +2,13 @@
 title = "22 वेदानां सामवेदोऽस्मि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-वेदानां सामवेदोऽस्मि देवानामस्मि वासवः।  
-इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना।।10.22।।
+वेदानां **साम-वेदो** ऽस्मि  
+देवानाम् अस्मि **वासवः**।  
+इन्द्रियाणां **मनश्** चास्मि  
+भूतानाम् अस्मि **चेतना**॥10.22॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">

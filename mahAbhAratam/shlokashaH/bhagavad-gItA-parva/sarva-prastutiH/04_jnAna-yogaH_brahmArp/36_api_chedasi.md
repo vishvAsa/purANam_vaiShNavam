@@ -2,11 +2,13 @@
 title = "36 अपि चेदसि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः।  
-सर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि।।4.36।।
+अपि चेद् असि पापेभ्यः  
+सर्वेभ्यः पाप-कृत्-तमः।  
+सर्वं **ज्ञान-प्लवेनैव**  
+**वृजिनं सन्तरिष्यसि**॥4.36॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">

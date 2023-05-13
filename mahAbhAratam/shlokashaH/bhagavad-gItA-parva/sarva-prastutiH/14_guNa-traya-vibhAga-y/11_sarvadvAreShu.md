@@ -2,13 +2,13 @@
 title = "11 सर्वद्वारेषु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सर्वद्वारेषु देहेऽस्मिन्  
-+++(वस्तु-यथात्म्य-)+++प्रकाश उपजायते।  
-ज्ञानं यदा तदा विद्याद्  
-विवृद्धं सत्त्वम् इत्य् उत।।14.11।। +++(5)+++
+सर्व-द्वारेषु देहे ऽस्मिन्  
++++(वस्तु-यथात्म्य-)+++**प्रकाश उपजायते**।  
+**ज्ञानं** यदा तदा विद्याद्  
+**विवृद्धं सत्त्वम्** इत्य् उत॥14.11॥ +++(5)+++
 
 </details>
 </div>

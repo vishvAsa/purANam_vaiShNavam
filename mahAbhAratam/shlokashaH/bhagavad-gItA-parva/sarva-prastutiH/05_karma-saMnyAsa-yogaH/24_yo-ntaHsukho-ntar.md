@@ -2,11 +2,13 @@
 title = "24 योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-योऽन्तःसुखोऽन्तरारामस्तथान्तर्ज्योतिरेव यः।  
-स योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति।।5.24।।
+यो ऽन्तः-सुखो ऽन्तरारामस्  
+तथान्तर्-ज्योतिर् एव यः।  
+स योगी **ब्रह्म-निर्वाणं+++(=लयं)+++**  
+ब्रह्म-भूतो **ऽधिगच्छति**॥5.24॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/24_yo-ntaHsukho-ntar.md">

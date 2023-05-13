@@ -2,11 +2,13 @@
 title = "17 तेषाञ् ज्ञानी"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते।  
-प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः।।7.17।।
+तेषां **ज्ञानी** नित्य-युक्त  
+एक-भक्तिर् +++(न त्व् अर्थभक्तस् सन् देवभक्तः)+++ **विशिष्यते**।  
+प्रियो हि ज्ञानिनो ऽत्यर्थम्  
+अहं, स च मम प्रियः॥7.17॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
@@ -32,7 +34,7 @@ _________________
 ज्ञानिनः अहं यथा प्रियः तथा मया सर्वज्ञेन सर्वशक्तिना अपि अभिधातुं न
 शक्यते इत्यर्थः प्रियत्वस्य इयत्तारहितत्वात्। यथा ज्ञानिनाम् अग्रेसरस्य
 प्रह्लादस्य स त्वासक्तमतिः कृष्णे देश्यमानो महोरगैः। न विवेदात्मनो
-गात्रं तत्स्मृत्याह्लादसंस्थितः (वि0 पु0 1।17।39) इति **सः** अपि तथा एव
+गात्रं तत्स्मृत्याह्लादसंस्थितः (वि॰ पु॰ 1।17।39) इति **सः** अपि तथा एव
 **मम प्रियः।**
 
 </details>

@@ -2,11 +2,13 @@
 title = "07 जितात्मनः प्रशान्तस्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-जितात्मनः प्रशान्तस्य परमात्मा समाहितः।  
-शीतोष्णसुखदुःखेषु तथा मानापमानयोः।।6.7।।
+जितात्मनः+++(→जित-विषयसक्त-प्रकृत्यंशस्य)+++ प्रशान्तस्य  
+**परमात्मा**+++(→योगासक्तात्मा)+++ **समाहितः**।  
++++(फल-सङ्ग-त्यागेन)+++ शीतोष्ण-सुख-दुःखेषु  
+तथा मानापमानयोः॥6.7॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">

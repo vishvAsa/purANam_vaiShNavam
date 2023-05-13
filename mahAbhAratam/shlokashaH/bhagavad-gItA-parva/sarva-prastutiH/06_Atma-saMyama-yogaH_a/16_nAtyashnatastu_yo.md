@@ -2,11 +2,13 @@
 title = "16 नात्यश्नतस्तु योगोऽस्ति"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः।  
-न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।।6.16।।
+**नात्य्-अश्नतस्** तु योगोऽस्ति  
+**न** चैकान्तम् **अनश्नतः**।  
+न चातिस्वप्न-शीलस्य  
+जाग्रतो नैव चार्जुन॥6.16॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">

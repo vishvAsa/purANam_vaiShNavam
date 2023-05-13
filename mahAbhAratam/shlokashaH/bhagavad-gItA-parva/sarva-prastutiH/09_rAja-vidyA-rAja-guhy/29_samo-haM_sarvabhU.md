@@ -2,11 +2,13 @@
 title = "29 समोऽहं सर्वभूतेषु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः।  
-ये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम्।।9.29।।
+समोऽहं सर्व-भूतेषु  
+**न मे द्वेष्योऽस्ति न प्रियः**।  
+ये भजन्ति तु मां भक्त्या-  
+**मयि ते, तेषु चाप्य् अहम्** +++(इति देवग्रामसमावेशः)+++॥9.29॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/29_samo-haM_sarvabhU.md">

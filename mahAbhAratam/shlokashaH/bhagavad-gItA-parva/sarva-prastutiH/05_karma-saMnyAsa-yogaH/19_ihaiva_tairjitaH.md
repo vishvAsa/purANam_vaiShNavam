@@ -2,11 +2,13 @@
 title = "19 इहैव तैर्जितः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः।  
-निर्दोषं हि समं ब्रह्म तस्माद्ब्रह्मणि ते स्थिताः।।5.19।।
+इहैव तैर् **जितः सर्गो**  
+येषां साम्ये स्थितं मनः।  
+निर्दोषं हि समं ब्रह्म  
+तस्माद् **ब्रह्मणि ते स्थिताः**॥5.19॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
@@ -375,7 +377,7 @@ _________________
 ।।5.19।। य एतादृशास्त उत्तमा इत्याह इहैवेति। येषां मनः साम्ये समभावे
 स्थितं तैरिहैव सर्गो जितः। अत्रायं भावः भगवता स्वक्रीडार्थं जगदुत्पादितं
 तत्र यस्य यादृशेच्छया यो भाव उत्पादितः स तथैव करोति। स योग्यो भवति नवेति
-किमर्थं विचारणीयम् अतो येषां मनः साम्ये भगवत्क्री़डारूपे स्थितं तैरिहैव
+किमर्थं विचारणीयम् अतो येषां मनः साम्ये भगवत्क्रीडारूपे स्थितं तैरिहैव
 अधिष्ठानात्मकदेह एव सर्गः संसारो मायारूपो जितः। यतो ब्रह्म समं
 स्वक्रीडार्थरूपेषु निर्दोषं तेषु दोषादिरहितं तस्माद्येषां मनः साम्ये
 स्थितं ते ब्रह्मणि ब्रह्मभावे स्थिताः अतस्तैः संसारो जित इत्यर्थः। यद्वा

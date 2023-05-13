@@ -2,11 +2,13 @@
 title = "10 न द्वेष्ट्यकुशलम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते।  
-त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः।।18.10।।
+**न द्वेष्ट्य्** अकुशलं कर्म  
+कुशले **नानुषज्जते**।  
+त्यागी **सत्त्व-समाविष्टो**  
+मेधावी छिन्न-संशयः॥18.10॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/10_na_dveShTyakushal.md">
@@ -30,7 +32,7 @@ _________________
 त्यक्तब्रह्मव्यतिरिक्तसर्वफलत्वात्; त्यक्तकर्तृत्वात् च तयोः क्रियमाणयोः
 प्रीतिद्वेषौ न करोति। अनिष्टफलं पापं कर्म अत्र प्रामादिकम्
 अभिप्रेतम्;नाविरतो दुश्चरितान्नाशान्तो नासमाहितः। नाशान्तमानसो वापि
-प्रज्ञानेनैनमाप्नुयात्।। (कठ0 उ₀ 1।2।24) इति दुश्चरिताविरतेः
+प्रज्ञानेनैनमाप्नुयात्।। (कठ॰ उ॰ 1।2।24) इति दुश्चरिताविरतेः
 ज्ञानोत्पत्तिविरोधित्वश्रवणात्। अतः कर्मणि कर्तृत्वसङ्गफलानां त्यागः
 शास्त्रीयः त्यागः न कर्मस्वरूपत्यागः। तद् आह --**
 

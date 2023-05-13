@@ -2,11 +2,13 @@
 title = "53 श्रुतिविप्रतिपन्ना ते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला।  
-समाधावचला बुद्धिस्तदा योगमवाप्स्यसि।।2.53।।
++++(क्षुद्र-)+++श्रुति-विप्रतिपन्ना ते  
+यदा **स्थास्यति** निश्चला।  
+समाधाव् **अचला बुद्धिस्**  
+तदा **योगम् अवाप्स्यसि**॥2.53॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">

@@ -2,11 +2,13 @@
 title = "13 समङ् कायशिरोग्रीवम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-समं कायशिरोग्रीवं धारयन्नचलं स्थिरः।  
-संप्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन्।।6.13।।
+**समं काय-शिरो-ग्रीवं**  
+धारयन्न् अचलं स्थिरः।  
+**संप्रेक्ष्य नासिकाग्रं** स्वं,  
+दिशश् चानवलोकयन्॥6.13॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/13_sama~N_kAyashirog.md">

@@ -2,11 +2,13 @@
 title = "12 दिवि सूर्यसहस्रस्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-दिवि सूर्यसहस्रस्य भवेद्युगपदुत्थिता।  
-यदि भाः सदृशी सा स्याद्भासस्तस्य महात्मनः।।11.12।।
+दिवि **सूर्य-सहस्रस्य**  
+भवेद् युगपद् उत्थिता।  
+यदि भाः सदृशी सा स्याद्  
+**भासस्** तस्य महात्मनः॥11.12॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">

@@ -2,11 +2,13 @@
 title = "35 बृहत्साम तथा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-बृहत्साम तथा साम्नां गायत्री छन्दसामहम्।  
-मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः।।10.35।।
+**बृहत्-साम** तथा साम्नां  
+**गायत्री** छन्दसाम् अहम्।  
++++(-1400तो -600 BCE वसन्तादिम् इवासूचयद् इति)+++ मासानां **मार्गशीर्षो** ऽहम्  
+**ऋतूनां** कुसुमाकरः॥10.35॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">

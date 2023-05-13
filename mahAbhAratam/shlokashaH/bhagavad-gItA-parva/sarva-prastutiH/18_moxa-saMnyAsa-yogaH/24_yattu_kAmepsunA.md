@@ -2,11 +2,13 @@
 title = "24 यत्तु कामेप्सुना"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः।  
-क्रियते बहुलायासं तद्राजसमुदाहृतम्।।18.24।।
+यत् तु कामेप्सुना कर्म  
+साहङ्कारेण वा पुनः।  
+क्रियते बहुलायासं  
+तद् **राजसम्** उदाहृतम्॥18.24॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
@@ -230,7 +232,7 @@ _________________
   
   
 ।।18.24।। राजसं कर्माऽऽह -- यत्त्विति। यत् पुनः कर्म कामेप्सुना
-फलप्राप्त्यभिलाषेण वा; फलाभि**लाष৷৷৷৷৷৷৷৷৷৷.**रहितेन साहङ्कारेण लोकेषु
+फलप्राप्त्यभिलाषेण वा; फलाभिलाषरहितेन साहङ्कारेण लोकेषु
 स्वमहत्त्वख्यापनाय पुनः बहुलायासं अतिक्लेशयुक्तं शारीरोपद्रवसहितं
 क्रियते तत् कर्म राजस मुदाहृतम्।  
   

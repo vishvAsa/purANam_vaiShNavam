@@ -2,11 +2,13 @@
 title = "13 विधिहीनमसृष्टान्नम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-विधिहीनमसृष्टान्नं मन्त्रहीनमदक्षिणम्।  
-श्रद्धाविरहितं यज्ञं तामसं परिचक्षते।।17.13।।
+विधि-हीनम् असृष्टान्नं  
+**मन्त्रहीनम् अदक्षिणम्**।  
+**श्रद्धा-विरहितं** यज्ञं  
+**तामसं** परिचक्षते॥17.13॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">

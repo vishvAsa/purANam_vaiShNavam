@@ -2,11 +2,13 @@
 title = "21 त्रिविधन् नरकस्येदम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः।  
-कामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत्।।16.21।।
+त्रि-विधं नरकस्येदं  
+द्वारं नाशनम् आत्मनः।  
++++(अधर्म्यम् अज्ञानपूर्वकं)+++ **कामः क्रोधस् तथा लोभस्**+++(=कामप्राप्ताव् अप्य् असन्तुष्टिः)+++  
+तस्माद् एतत् त्रयं **त्यजेत्**॥16.21॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/21_trividhan_narakas.md">

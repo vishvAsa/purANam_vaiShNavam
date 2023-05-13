@@ -2,11 +2,13 @@
 title = "18 यस्मात्क्षरमतीतोऽहमक्षरादपि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/18_yasmAtxaramatIto-.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/18_yasmAtxaramatIto-.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः।  
-अतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः।।15.18।।
+यस्मात् क्षरम् +++(→भूतसङ्घातानि )+++ अतीतो ऽहम्,   
+अक्षराद् +++(→विभु-चेतसो)+++ अपि चोत्तमः।  
+अतोऽस्मि लोके वेदे च  
+प्रथितः **पुरुषोत्तमः**॥15.18॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/18_yasmAtxaramatIto-.md">
@@ -29,8 +31,8 @@ _________________
 स्मृतिः इह उच्यते। श्रुतौ स्मृतौ च इत्यर्थः।  
   
 श्रुतौ तावत् -- परं ज्योतिरूपं संपद्य स्वेन रूपेणाभिनिष्पद्यते स उत्तमः
-पुरुषः (छ0 उ₀ 8।12।3) इत्यादौ। स्मृतौ अपिअंशावतारं पुरुषोत्तमस्य
-ह्यनादिमध्यान्तमजस्य विष्णोः। (वि0 पु 5।17।33) इत्यादौ।
+पुरुषः (छ॰ उ॰ 8।12।3) इत्यादौ। स्मृतौ अपिअंशावतारं पुरुषोत्तमस्य
+ह्यनादिमध्यान्तमजस्य विष्णोः। (वि॰ पु 5।17।33) इत्यादौ।
 
 </details>
 </div>
@@ -127,14 +129,18 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/18_yasmAtxaramatIto-.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
-।।15.16 -- 15.18।। द्वावित्यादि पुरुषोत्तम इत्यन्तम्। द्वाविमौ पुरुषौ इति
-ग्रन्थेनेदमुच्यते -- लोके तावदप्रबुद्धस्वभावोऽपि सर्वः
-पृथिव्यादिभूतारब्धशरीरम् आत्मानं चेतनं क्षररूपं जानाति इति लोकस्य
-मूढत्वात् द्वैतधीर्न निवर्तते। अहं तु सकलानुग्राही द्वैतग्रन्थिं विभिद्य
-सकललोकव्यापकतया वेद्य इति। क्षरमतीतः; भूतानां जडत्वात्। अक्षरमतीतः;
-आत्मनोऽप्रबुद्धत्वे सर्वव्यापकत्वखण्डनात्। पुरुषोत्तमो लोके वेदेऽपि सः
-उत्तमः पुरुषः इत्यादिभिर्वाक्यैः स एव परमात्मा अद्वयः एवमुच्यते।
+।।15.16 -- 15.18।। द्वावित्यादि पुरुषोत्तम इत्यन्तम्। 
 
+**द्वाविमौ पुरुषौ** इति ग्रन्थेनेदम् उच्यते --  
+लोके तावद् अप्रबुद्ध-स्वभावोऽपि सर्वः पृथिव्य्-आदि-भूतारब्ध-शरीरम् आत्मानं चेतनं क्षर-रूपं जानाति  
+इति लोकस्य मूढत्वात् द्वैत-धीर् न निवर्तते।
+
+अहं तु सकलानुग्राही द्वैत-ग्रन्थिं विभिद्य सकल-लोक-व्यापकतया वेद्य इति। 
+
+क्षरम् अतीतः; भूतानां जडत्वात्।  
+अक्षरमतीतः; आत्मनो ऽप्रबुद्धत्वे सर्वव्यापकत्व-खण्डनात्। 
+
+**पुरुषोत्तमो** लोके वेदेऽपि सः उत्तमः पुरुषः इत्य्-आदिभिर् वाक्यैः स एव परमात्मा अद्वयः एवमुच्यते।
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/15_puruShottama-yogaH/18_yasmAtxaramatIto-.md">

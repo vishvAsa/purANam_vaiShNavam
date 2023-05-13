@@ -2,11 +2,13 @@
 title = "26 सद्भावे साधुभावे"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सद्भावे साधुभावे च सदित्येतत्प्रयुज्यते।  
-प्रशस्ते कर्मणि तथा सच्छब्दः पार्थ युज्यते।।17.26।।
+सद्-भावे साधु-भावे च  
+**सद्** इत्य् एतत् **प्रयुज्यते**।  
+प्रशस्ते कर्मणि तथा  
+सच्-छब्दः पार्थ युज्यते॥17.26॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/26_sadbhAve_sAdhubhA.md">

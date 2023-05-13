@@ -2,11 +2,13 @@
 title = "39 यच्चापि सर्वभूतानाम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/39_yachchApi_sarvabh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/39_yachchApi_sarvabh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यच्चापि सर्वभूतानां बीजं तदहमर्जुन।  
-न तदस्ति विना यत्स्यान्मया भूतं चराचरम्।।10.39।।
+यच् चापि सर्वभूतानां  
+**बीजं** तद् अहम् अर्जुन।  
+न तद् अस्ति विना यत् स्यान्  
+मया भूतं चराचरम्॥10.39॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/39_yachchApi_sarvabh.md">

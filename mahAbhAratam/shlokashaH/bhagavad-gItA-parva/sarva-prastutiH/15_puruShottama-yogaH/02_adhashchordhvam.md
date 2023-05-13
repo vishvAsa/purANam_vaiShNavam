@@ -2,13 +2,14 @@
 title = "02 अधश्चोर्ध्वम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/02_adhashchordhvam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/02_adhashchordhvam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अधश्चोर्ध्वं प्रसृतास्तस्य शाखा  
-गुणप्रवृद्धा विषयप्रवालाः।  
-अधश्च मूलान्यनुसन्ततानि  
-कर्मानुबन्धीनि मनुष्यलोके।।15.2।।
+अधश् चोर्ध्वं प्रसृतास् तस्य **शाखा**  
+गुण-प्रवृद्धा **विषय-प्रवालाः**।  
+अधश् च **मूलान्य्** अनुसन्ततानि  
+कर्मानुबन्धीनि मनुष्य-लोके॥15.2॥
+
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/02_adhashchordhvam.md">

@@ -2,11 +2,13 @@
 title = "56 सर्वकर्माण्यपि सदा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः।  
-मत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम्।।18.56।।
+सर्व-कर्माण्य् अपि सदा  
+कुर्वाणो मद्-व्यपाश्रयः।  
+मत्-प्रसादाद् **अवाप्नोति**  
+**शाश्वतं पदम्** अव्ययम्॥18.56॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">

@@ -2,11 +2,13 @@
 title = "09 जन्म कर्म"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः।  
-त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन।।4.9।।
+**जन्म कर्म** च मे दिव्यम्  
+एवं यो **वेत्ति** तत्त्वतः।  
+त्यक्त्वा देहं **पुनर्जन्म**  
+**नैति, माम् एति** सोऽर्जुन॥4.9॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/09_janma_karma.md">

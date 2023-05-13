@@ -2,11 +2,13 @@
 title = "26 शुक्लकृष्णे गती"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते।  
-एकया यात्यनावृत्तिमन्ययाऽऽवर्तते पुनः।।8.26।।
+शुक्ल-कृष्णे **गती** ह्येते  
+जगतः **शाश्वते मते**।  
+एकया यात्य् अनावृत्तिम्  
+अन्ययाऽऽवर्तते पुनः॥8.26॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
@@ -26,9 +28,9 @@ _________________
 ।।8.26।। शुक्ला गतिः अर्चिरादिका कृष्णा च धूमादिका। शुक्लया
 **अनावृत्तिं** यान्ति कृष्णया तु **पुनः** आवर्तन्ते। **एते शुक्लकृष्णे**
 गती ज्ञानिनां विविधानां पुण्यकर्मणां च श्रुतौ **शाश्वते मते।**तद्य इत्थं
-विदुर्ये चेमेऽरण्ये श्रद्धां तप इत्युपासते तेऽर्चिषमभिसंभवन्ति। (छा0 उ₀
+विदुर्ये चेमेऽरण्ये श्रद्धां तप इत्युपासते तेऽर्चिषमभिसंभवन्ति। (छा॰ उ॰
 5।10।1)अथ य इमे ग्रामे इष्टापूर्ते दत्तमित्युपासते ते धूममभिसम्भवन्ति
-(छा0 उ₀ 5।10।3) इति।
+(छा॰ उ॰ 5।10।3) इति।
 
 </details>
 </div>

@@ -2,14 +2,15 @@
 title = "15 पश्यामि देवांस्तव"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अर्जुन उवाच  
-पश्यामि देवांस्तव देव देहे  
-सर्वांस्तथा भूतविशेषसङ्घान्।  
-ब्रह्माणमीशं कमलासनस्थ  
-मृषींश्च सर्वानुरगांश्च दिव्यान्।।11.15।।
++++(अर्जुन उवाच)+++
+
+**पश्यामि देवांस्** तव देव देहे  
+सर्वांस् तथा भूत-विशेष-सङ्घान्।  
+ब्रह्माणम् ईशं कमलासनस्थ  
+**मृषींश्** च सर्वान् **उरगांश्** च दिव्यान्॥11.15॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
@@ -207,7 +208,7 @@ _________________
   
   
 ।।11.15।। तद्वाक्यमेवाह -- पश्यामीति सप्तदशभिः। हे देव पूज्य तव देहे
-उपचितस्वरूपे देवान् इन्द्रादीन् क्री़डामयान्; तथा क्रीडात्मकानेव सर्वान्
+उपचितस्वरूपे देवान् इन्द्रादीन् क्रीडामयान्; तथा क्रीडात्मकानेव सर्वान्
 भूतविशेषाणां चतुर्विधानां सङ्घान् समूहान्। दिव्यान् क्रीडार्थप्रकटितान्;
 ऋषीन् नारदादीन्; पुनस्तामसान् उरगान् शेषादीन्; तन्मूलभूतं कमलासनस्थं
 नाभिपद्मस्थं; ब्रह्माणम्; ईशं महादेवम्; एवमेतान् सर्वान् पश्यामि।  

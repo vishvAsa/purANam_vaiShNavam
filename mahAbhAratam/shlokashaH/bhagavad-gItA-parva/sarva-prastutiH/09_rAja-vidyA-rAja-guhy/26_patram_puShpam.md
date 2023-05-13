@@ -2,11 +2,13 @@
 title = "26 पत्रम् पुष्पम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति।  
-तदहं भक्त्युपहृतमश्नामि प्रयतात्मनः।।9.26।।
+पत्रं पुष्पं फलं तोयं  
+यो मे भक्त्या प्रयच्छति।  
+तद् अहं भक्त्य्-उपहृतम्  
+**अश्नामि** प्रयता ऽऽत्मनः॥9.26॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
@@ -31,7 +33,7 @@ _________________
 अनवधिकातिशयासंख्येकल्याणगुणगणः स्वाभाविकानवधिकातिशयानन्दस्वानुभवे
 वर्तमानः अपि; मनोरथपथदूरवर्ति प्रियं प्राप्य इव **अश्नामि।** यथा उक्तं
 मोक्षधर्मे -- याः क्रियाः संप्रयुक्ताः स्युः एकान्तगतबुद्धिभिः। ताः
-सर्वाः शिरसा देवः प्रतिगृह्णाति वै स्वयम्।। (महा0 शा0 340।64)
+सर्वाः शिरसा देवः प्रतिगृह्णाति वै स्वयम्।। (महा॰ शा॰ 340।64)
 इति। यस्माद् ज्ञानिनां महात्मनां वाङ्मनसागोचरः अयं विशेषः तस्मात् त्वं च
 ज्ञानी भूत्वा उक्तलक्षणभक्तिभारावनतात्मा आत्मीयः
 कीर्तनयतनार्चनप्रणामादिकं सततं कुर्वाणो लौकिकं वैदिकं च नित्यनैमित्तिकं

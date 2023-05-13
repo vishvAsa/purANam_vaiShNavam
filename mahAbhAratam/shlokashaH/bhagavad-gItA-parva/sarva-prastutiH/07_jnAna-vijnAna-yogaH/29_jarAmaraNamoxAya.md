@@ -2,11 +2,13 @@
 title = "29 जरामरणमोक्षाय"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-जरामरणमोक्षाय मामाश्रित्य यतन्ति ये।  
-ते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम्।।7.29।।
+जरा-मरण-मोक्षाय  
+माम् आश्रित्य यतन्ति ये।  
+ते **ब्रह्म** तद् **विदुः कृत्स्नम्**,  
+**अध्यात्मं कर्म** चाखिलम्॥7.29॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
@@ -62,15 +64,7 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।7.28 7.30।। येषामित्यादि युक्तचेतस इत्यन्तम्। ये तु विनष्टतामसाः
-पुण्यापुण्यपरिक्षयक्षेमीकृतात्मानः ते विपाटितमहामोहवितानाः सर्वमेव
-भगवद्रश्मिखचितं जरामरणमयतमिस्रस्रुतं ब्रह्म विदन्ति
-आध्यात्मिकाधिभौतिकाधिदैविकाधियाज्ञिकानि च ममैव रूपान्तराणि। प्रयाणकाले च
-नित्यं भगवद् भावितान्तःकरणत्वात् मां जानन्ति यतो येषां जन्म पूर्वमेव
-भगवत्तत्त्वं ते अन्तकाले परमेश्वरं संस्मरेयुः। किं जन्मासेवनया इति ये
-मन्यन्ते तेषां तूष्णींभाव एव शोभनः इति।
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">

@@ -2,13 +2,13 @@
 title = "36 अवाच्यवादांश्च बहून्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 अवाच्य-वादांश् च बहून्  
-वदिष्यन्ति तवाऽहिताः।  
-निन्दन्तस् तव सामर्थ्यं  
-ततो दुःखतरं नु किम्।।2.36।।
+**वदिष्यन्ति तवाऽहिताः**।  
+**निन्दन्तस्** तव सामर्थ्यं  
+ततो दुःखतरं नु किम्॥2.36॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">

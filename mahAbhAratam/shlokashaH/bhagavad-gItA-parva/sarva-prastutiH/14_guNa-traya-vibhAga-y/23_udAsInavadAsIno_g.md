@@ -2,13 +2,13 @@
 title = "23 उदासीनवदासीनो गुणैर्यो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 उदासीनवद् आसीनो  
-गुणैर् यो न +++(द्वेषाकाङ्क्षाद्वारेण)+++ विचाल्यते।  
+गुणैर् यो **न** +++(द्वेषाकाङ्क्षाद्वारेण)+++ **विचाल्यते**।  
 गुणा वर्तन्त इत्येव  
-यो ऽवतिष्ठति, नेङ्गते +++(=न चेष्टते [स्वात्मना])+++।।14.23।।
+**यो ऽवतिष्ठति, नेङ्गते** +++(=न चेष्टते [स्वात्मना])+++॥14.23॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">

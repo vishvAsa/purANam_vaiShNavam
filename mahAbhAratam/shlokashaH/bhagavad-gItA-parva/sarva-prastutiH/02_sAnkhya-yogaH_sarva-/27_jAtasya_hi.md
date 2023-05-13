@@ -2,13 +2,13 @@
 title = "27 जातस्य हि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/27_jAtasya_hi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/27_jAtasya_hi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-जातस्य हि ध्रुवो मृत्युर्  
+**जातस्य हि ध्रुवो मृत्युर्**  
 ध्रुवं जन्म मृतस्य च।  
-तस्माद् अपरिहार्ये ऽर्थे  
-न त्वं शोचितुम् अर्हसि।।2.27।।+++(5)+++
+तस्माद् **अपरिहार्ये ऽर्थे**  
+**न त्वं शोचितुम् अर्हसि**॥2.27॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/27_jAtasya_hi.md">

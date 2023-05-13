@@ -2,11 +2,13 @@
 title = "28 द्रव्ययज्ञास्तपोयज्ञा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे।  
-स्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः।।4.28।।
+**द्रव्य-यज्ञास् तपोयज्ञा**  
+**योग-यज्ञास्** तथापरे।  
+**स्वाध्याय-ज्ञान-यज्ञाश्** च  
+यतयः संशित-व्रताः॥4.28॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">

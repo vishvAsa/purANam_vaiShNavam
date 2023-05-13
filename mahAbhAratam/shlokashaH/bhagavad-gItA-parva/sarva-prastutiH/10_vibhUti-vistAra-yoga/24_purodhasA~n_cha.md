@@ -2,11 +2,13 @@
 title = "24 पुरोधसाञ् च"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम्।  
-सेनानीनामहं स्कन्दः सरसामस्मि सागरः।।10.24।।
+पुरोधसां च मुख्यं मां  
+विद्धि पार्थ **बृहस्पतिम्**।  
+सेनानीनाम् अहं **स्कन्दः**  
+सरसाम् अस्मि **सागरः**॥10.24॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">

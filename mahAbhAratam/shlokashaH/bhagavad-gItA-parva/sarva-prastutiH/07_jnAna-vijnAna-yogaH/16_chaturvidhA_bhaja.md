@@ -2,11 +2,13 @@
 title = "16 चतुर्विधा भजन्ते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन।  
-आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ।।7.16।।
+**चतुर्विधा भजन्ते** मां  
+जनाः सुकृतिनोऽर्जुन।  
+आर्तो जिज्ञासुर् अर्थार्थी  
+ज्ञानी च भरतर्षभ॥7.16॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">

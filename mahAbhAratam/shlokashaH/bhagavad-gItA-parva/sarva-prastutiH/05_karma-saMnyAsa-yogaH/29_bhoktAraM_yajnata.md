@@ -2,11 +2,13 @@
 title = "29 भोक्तारं यज्ञतपसाम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम्।  
-सुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति।।5.29।।
+भोक्तारं यज्ञ-तपसां  
+सर्व-लोक-महेश्वरम्।  
+सुहृदं सर्व-भूतानां  
+**ज्ञात्वा मां शान्तिम् ऋच्छति**॥5.29॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/29_bhoktAraM_yajnata.md">
@@ -27,7 +29,7 @@ _________________
 ज्ञात्वा शान्तिम् ऋच्छति** कर्मयोगकरण एव सुखम् ऋच्छति।  
   
 सर्वलोकमहेश्वरं सर्वेषां लोकेश्वराणाम् अपि ईश्वरन्तमीश्वराणां परमं
-महेश्वरम् (श्वेता0 उ₀ 6।7) इति हि श्रूयते। मां सर्वलोकमहेश्वरं
+महेश्वरम् (श्वेता॰ उ॰ 6।7) इति हि श्रूयते। मां सर्वलोकमहेश्वरं
 सर्वसुहृदं ज्ञात्वा मदाराधनरूपः कर्मयोग इति सुखेन तत्र प्रवर्तते
 इत्यर्थः सुहृदाम्आराधनाय सर्वे प्रवर्तन्ते।
 

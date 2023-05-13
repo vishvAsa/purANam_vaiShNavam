@@ -2,12 +2,15 @@
 title = "01 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
-भूय एव महाबाहो श्रृणु मे परमं वचः।  
-यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया।।10.1।।
++++(श्री भगवानुवाच)+++
+
+भूय एव महाबाहो  
+**श्रृणु** मे परमं वचः।  
+यत्तेऽहं प्रीयमाणाय  
+**वक्ष्यामि** हित-काम्यया॥10.1॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
@@ -24,6 +27,9 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+
+भक्तियोगः सपरिकर उक्तः । इदानीं भक्त्युत्पत्तये तद्विवृद्धये च भ्गवतो निरङ्कुशाइश्वर्यादिकल्याणगुणगणानन्त्यम्, कृत्स्नस्य जगतस् तच्छरीरतया तदात्मकत्वेन तत्प्रवर्त्यत्वं च प्रपञ्च्यते
 
 ।।10.1।। श्री भगवानुवाच -- मम माहात्म्यं श्रुत्वा **प्रीयमाणाय ते**
 मद्भक्त्युत्पत्तिविवृद्धिरूपहितकामनाय **भूयः** मन्माहात्म्यप्रपञ्चविषयम्
@@ -134,6 +140,8 @@ _________________
 ## शाङ्कर-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+
+सप्तमे अध्याये भगवतस्तत्त्वं विभूतयश्च प्रकाशिताः, नवमे च । अथ इदानीं येषु येषु भावेषु चिन्त्यो भगवान् , ते ते भावा वक्तव्याः, तत्त्वं च भगवतो वक्तव्यम् उक्तमपि, दुर्विज्ञेयत्वात् , इत्यतः श्रीभगवानुवाच —
 
 ।।10.1।। --,**भूयः एव भूयः** पुनः हे **महाबाहो श्रृणु** मे मदीयं
 **परमं** प्रकृष्टं निरतिशयवस्तुनः प्रकाशकं **वचः** वाक्यं **यत्** परमं

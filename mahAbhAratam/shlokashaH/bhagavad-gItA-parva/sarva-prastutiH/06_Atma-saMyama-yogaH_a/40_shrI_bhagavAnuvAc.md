@@ -2,12 +2,15 @@
 title = "40 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
-पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते।  
-नहि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति।।6.40।।
++++(श्री भगवानुवाच)+++
+
+पार्थ नैवेह नामुत्र  
+विनाशस् तस्य विद्यते।  
+**न हि कल्याण-कृत्** कश्चिद्  
+**दुर्गतिं** तात **गच्छति**॥6.40॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
@@ -234,7 +237,7 @@ was his disciple.\] But what happens to him;
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।6.40।। एवमर्जुनेन संशयच्छेदनाय प्रार्थितः तं छेत्तुं श्रीभगवानुवाच
-पार्थेति। तस्य योगभ्रष्टस्येहास्मिँल्लोकेऽमुत्र परलोके वा विनाशः
+पार्थेति। तस्य योगभ्रष्टस्येहास्मिल्ँ लोकेऽमुत्र परलोके वा विनाशः
 पूर्वस्माद्धीनजन्मलाभो नरकप्राप्तिर्वा न विद्यते। हि
 यस्मात्कल्याणकृत्छुभकृत्कश्चिदपि दुर्गतिं न गच्छति न प्राप्नोति।
 तनोत्यात्मनां पुत्ररुपेणेति पिता ताता उच्यते। पितैव पुत्ररुपेणोत्पद्यति

@@ -2,11 +2,13 @@
 title = "42 शमो दमस्तपः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/42_shamo_damastapaH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/42_shamo_damastapaH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च।  
-ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम्।।18.42।।
+शमो दमस् **तपः** शौचं  
+क्षान्तिर् आर्जवम् एव च।  
+**ज्ञानं** विज्ञानम् आस्तिक्यं  
+**ब्रह्म-कर्म स्वभावजम्**॥18.42॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/42_shamo_damastapaH.md">

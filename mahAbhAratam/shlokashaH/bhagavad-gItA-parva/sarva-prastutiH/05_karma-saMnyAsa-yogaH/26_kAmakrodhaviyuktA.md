@@ -2,11 +2,13 @@
 title = "26 कामक्रोधवियुक्तानां"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कामक्रोधवियुक्तानां यतीनां यतचेतसाम्।  
-अभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम्।।5.26।।
+काम-क्रोध-वियुक्तानां  
+यतीनां यत-चेतसाम्।  
+अभितो **ब्रह्म-निर्वाणं**  
+**वर्तते** विदितात्मनाम्॥5.26॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
@@ -227,7 +229,7 @@ _________________
 वृन्दावनीयवृक्षादिवत् यतचेतसां भगवत्स्वरूपानुभवैकपरचित्तानां
 विदितात्मनां भगवत्स्वरूपज्ञानिनां अभितः सर्वजन्मसु सर्वदिक्षु वा
 ब्रह्मनिर्वाणं लीलात्मकत्वं वर्त्तते अनुवर्तत इत्यर्थः। यथा वृन्दावने
-वृक्षेषु तन्मूलेषु परितश्च क्री़डति तथेति भावः।  
+वृक्षेषु तन्मूलेषु परितश्च क्रीडति तथेति भावः।  
   
 
 </details>

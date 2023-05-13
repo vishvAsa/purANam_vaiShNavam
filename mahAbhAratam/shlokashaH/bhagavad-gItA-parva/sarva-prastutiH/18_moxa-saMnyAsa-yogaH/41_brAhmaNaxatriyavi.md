@@ -2,11 +2,13 @@
 title = "41 ब्राह्मणक्षत्रियविशां"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ब्राह्मणक्षत्रियविशां शूद्राणां च परंतप।  
-कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः।।18.41।।
+ब्राह्मण-क्षत्रिय-विशां  
+शूद्राणां च परंतप।  
+**कर्माणि प्रविभक्तानि**  
+स्वभाव-प्रभवैर् **गुणैः**॥18.41॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/41_brAhmaNaxatriyavi.md">

@@ -2,11 +2,13 @@
 title = "58 मच्चित्तः सर्वदुर्गाणि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि।  
-अथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि।।18.58।।
+मच्-चित्तः **सर्व-दुर्गाणि**  
+मत्-प्रसादात् **तरिष्यसि**।  
+अथ चेत् त्वम् अहङ्कारान्  
+न श्रोष्यसि विनङ्क्ष्यसि॥18.58॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">

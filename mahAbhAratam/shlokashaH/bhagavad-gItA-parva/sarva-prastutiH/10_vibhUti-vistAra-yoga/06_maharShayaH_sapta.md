@@ -2,11 +2,13 @@
 title = "06 महर्षयः सप्त"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा।  
-मद्भावा मानसा जाता येषां लोक इमाः प्रजाः।।10.6।।
+महर्षयः सप्त पूर्वे  
+चत्वारो मनवस् तथा।  
+मद्भावा, **मानसा जाता**  
+येषां लोक इमाः प्रजाः॥10.6॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/06_maharShayaH_sapta.md">
@@ -257,7 +259,7 @@ by Me through My mind itself.
 मानसाः मनःसंकल्पादेवोत्पन्ना नतु योनिजाः। अतो विशुद्धजन्मत्वेन
 सर्वप्राणिश्रेष्ठा मत्तएव हिरण्यगर्भात्मनो जाताः सर्गाद्यकाले
 प्रादुर्भूताः। येषां महर्षीणां सप्तानां,भृग्वादीनां चतुर्णां च सनकादीनां
-मनूनां च चतुर्दशानां अस्मिँल्लोके जन्मना च विद्यया च सन्ततिभूता इमा
+मनूनां च चतुर्दशानां अस्मिल्ँ लोके जन्मना च विद्यया च सन्ततिभूता इमा
 ब्राह्मणाद्याः सर्वाः प्रजाः।
 
 </details>

@@ -2,11 +2,13 @@
 title = "43 शौर्यन् तेजो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम्।  
-दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्।।18.43।।
+**शौर्यं** तेजो धृतिर् दाक्ष्यं  
+युद्धे चाप्य् अपलायनम्।  
+**दानम् ईश्वर-भावश्** च  
+**क्षात्रं कर्म** स्वभावजम्॥18.43॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/43_shauryan_tejo.md">

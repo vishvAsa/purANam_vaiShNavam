@@ -2,11 +2,13 @@
 title = "25 महर्षीणाम् भृगुरहम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/25_maharShINAm_bhRgu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/25_maharShINAm_bhRgu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम्।  
-यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः।।10.25।।
+महर्षीणां **भृगुर्** अहं  
+गिराम् अस्म्य् **एकम् अक्षरम्**।  
+यज्ञानां **जप-यज्ञो** ऽस्मि  
+स्थावराणां **हिमालयः**॥10.25॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/25_maharShINAm_bhRgu.md">

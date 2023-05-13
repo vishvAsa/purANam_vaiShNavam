@@ -2,11 +2,13 @@
 title = "27 इच्छाद्वेषसमुत्थेन"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/27_ichChAdveShasamut.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/27_ichChAdveShasamut.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत।  
-सर्वभूतानि संमोहं सर्गे यान्ति परन्तप।।7.27।।
+**इच्छा-द्वेष-समुत्थेन**  
+द्वन्द्व-मोहेन भारत।  
+सर्व-भूतानि **संमोहं**  
+सर्गे **यान्ति** परन्-तप॥7.27॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/27_ichChAdveShasamut.md">

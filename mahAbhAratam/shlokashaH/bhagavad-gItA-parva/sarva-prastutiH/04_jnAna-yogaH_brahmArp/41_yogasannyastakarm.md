@@ -2,11 +2,13 @@
 title = "41 योगसन्न्यस्तकर्माणञ्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-योगसंन्यस्तकर्माणं ज्ञानसंछिन्नसंशयम्।  
-आत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय।।4.41।।
+**योग-संन्यस्त-कर्माणं**  
+ज्ञान-संछिन्न-संशयम्।  
+आत्मवन्तं **न कर्माणि**  
+**निबध्नन्ति** धनञ्जय॥4.41॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">

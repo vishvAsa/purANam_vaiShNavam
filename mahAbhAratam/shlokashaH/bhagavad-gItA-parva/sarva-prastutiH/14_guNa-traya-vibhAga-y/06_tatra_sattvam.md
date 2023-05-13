@@ -2,15 +2,15 @@
 title = "06 तत्र सत्त्वम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/06_tatra_sattvam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तत्र +++(गुणेषु)+++ सत्त्वं निर्मलत्वात्  
-प्रकाशकम् अनामयम्।  
+तत्र +++(गुणेषु)+++ **सत्त्वं** निर्मलत्वात्  
+**प्रकाशकम्** अनामयम्।  
 सुख-सङ्गेन बध्नाति  
-ज्ञान-सङ्गेन चानघ।।14.6।। +++(5)+++
+**ज्ञान-सङ्गेन** चानघ॥14.6॥ +++(5)+++
 
-#### टिप्पनी
+### टिप्पनी
 ज्ञानसङ्ग इत्य् उक्तम्। यत्र चिन्तनशीलता - चौर्यादाव् अपि - तत्र सत्त्वगुणो लक्षणीयः।
 </details>
 </div>

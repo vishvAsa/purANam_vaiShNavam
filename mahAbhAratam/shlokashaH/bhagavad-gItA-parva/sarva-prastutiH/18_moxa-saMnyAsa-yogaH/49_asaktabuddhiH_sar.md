@@ -2,11 +2,13 @@
 title = "49 असक्तबुद्धिः सर्वत्र"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः।  
-नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति।।18.49।।
+अ-सक्त-बुद्धिः सर्वत्र  
+जितात्मा विगत-स्पृहः।  
+**नैष्कर्म्य-सिद्धिं** परमां  
+**संन्यासेनाधिगच्छति**॥18.49॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/49_asaktabuddhiH_sar.md">

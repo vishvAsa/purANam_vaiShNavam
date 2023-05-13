@@ -2,11 +2,13 @@
 title = "58 यदा संहरते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः।  
-इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता।।2.58।।
+**यदा संहरते** चायं  
+कूर्मो ऽङ्गानीव सर्वशः।  
+इन्द्रियाणीन्द्रियार्थेभ्यस्  
+तस्य **प्रज्ञा प्रतिष्ठिता**॥2.58॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
@@ -227,7 +229,7 @@ _________________
 प्रज्ञा प्रतिष्ठिता भवतीत्यर्थः। अत्र दृष्टान्तमाह कूर्मोऽङ्गानीवेति।
 यथा कूर्मः करचरणाद्यङ्गानि स्वभावादपकर्षति। कूर्मदृष्टान्तेन
 भोग्यदर्शनात् स्वत एवेन्द्रियनिवृत्तिः स्वभावतः स्यात् तथा संहरणं
-कर्त्तव्यं नित्यमिन्द्रियनियमं कु**र्वं৷৷৷৷৷৷৷৷**स्तिष्ठेदित्यर्थः।  
+कर्त्तव्यं नित्यमिन्द्रियनियमं कुर्वंस्तिष्ठेदित्यर्थः।  
   
   
   

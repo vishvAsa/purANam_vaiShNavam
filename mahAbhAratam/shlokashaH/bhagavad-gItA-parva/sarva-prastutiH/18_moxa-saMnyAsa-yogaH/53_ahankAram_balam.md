@@ -2,11 +2,13 @@
 title = "53 अहङ्कारम् बलम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम्।  
-विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते।।18.53।।
+अहङ्कारं बलं दर्पं  
+कामं क्रोधं परिग्रहम्।  
+विमुच्य **निर्ममः** शान्तो  
+**ब्रह्म-भूयाय+++(=भावाय)+++ कल्पते**॥18.53॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">

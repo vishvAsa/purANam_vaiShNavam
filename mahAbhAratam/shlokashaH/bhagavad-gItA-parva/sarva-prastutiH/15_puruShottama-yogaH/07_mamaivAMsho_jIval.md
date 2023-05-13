@@ -2,11 +2,13 @@
 title = "07 ममैवांशो जीवलोके"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ममैवांशो जीवलोके जीवभूतः सनातनः।  
-मनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति।।15.7।।
+**ममैवांशो** जीव-लोके  
+जीव-भूतः सनातनः।  
+**मनःषष्ठानीन्द्रियाणि**  
+प्रकृतिस्थानि **कर्षति**॥15.7॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
@@ -72,11 +74,13 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/07_mamaivAMsho_jIval.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
-।।15.7।। ममेति। ब्रह्मण एवायमंश इति। अज्ञानधर्मतया परिपूर्णस्य असंवेदनात्
-चेतनताऽनिवृत्तेश्च अंशत्वमुपचरितम् न +++(;N omit न)+++ पुनर्वस्तुतः
-अंशवत्तोपपद्यते। प्रदेशोऽपि ब्रह्मणः सार्वरूप्यमनतिक्रान्तः इति हि
-श्रुतिः +++(N श्रुतेः)+++। एषैव च औपचारिकता यथावसरं योजनीया इति न
-विप्रतिपत्तव्यम्।
+।।15.7।। ममेति। ब्रह्मण एवायमंश इति।  
+अज्ञानधर्मतया परिपूर्णस्य असंवेदनात् चेतनताऽनिवृत्तेश् च  
+अंशत्वम् उपचरितम्  
+न +++(;N omit न)+++ पुनर् वस्तुतः अंशवत्तोपपद्यते। 
+
+प्रदेशोऽपि ब्रह्मणः सार्व-रूप्यम् अनतिक्रान्तः इति हि श्रुतिः +++(N श्रुतेः)+++।  
+एषैव च औपचारिकता यथावसरं योजनीया इति न विप्रतिपत्तव्यम्।
 
 </details>
 </div>
@@ -444,7 +448,7 @@ _________________
 पञ्चभिः। जीवलोके मत्क्रीडार्थप्रकटिते जीवभूतः
 आनन्दांशतिरोधानेनाऽनीशितृत्वोद्भावनेन
 क्रीडारसभोगार्थसेवारसानुभवार्थजीवत्वलक्षणो ममैवांशः सनातनः सदा मयि
-विद्यमानः। मनः षष्ठं येषां तादृशानि प़ञ्चेन्द्रियाणि प्रकृतौ
+विद्यमानः। मनः षष्ठं येषां तादृशानि पञ्चेन्द्रियाणि प्रकृतौ
 क्रीडार्थमाविर्भूतायां स्थितानि तद्भोगाद्यनुभवार्थं कर्षति। अत्रायं भावः
 -- साक्षात्स्वक्रीडानुभवार्थप्रकटितो जीवभावः सनातनः पुरुषोत्तमांश एव
 साक्षात् तद्द्वारा प्रकृत्युत्पादितभोगानुभवार्थं प्रकृटितोंऽशः सांसारिको

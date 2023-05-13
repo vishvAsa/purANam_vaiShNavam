@@ -2,11 +2,13 @@
 title = "02 अधियज्ञः कथम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन।  
-प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः।।8.2।।
+**अधियज्ञः कथं**, **कोऽत्र**  
+देहेऽस्मिन् मधुसूदन।  
+प्रयाण-काले च **कथं**  
+**ज्ञेयोऽसि** नियतात्मभिः॥8.2॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
@@ -23,11 +25,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।8.2।। अर्जुन उवाच -- जरामरणमोक्षाय भगवन्तम् आश्रित्य यतमानानां
-ज्ञातव्यतया उक्तं **तद् ब्रह्म अध्यात्मं** च कर्म च **किम्** इति
-वक्तव्यम् ऐश्वर्यार्थिनां ज्ञातव्यम् **अधिभूतम् अधिदैवं च किं** त्रयाणां
-ज्ञातव्यः अधियज्ञशब्दनिर्दिष्टश्च **कः** तस्य च अधियज्ञभावः कथं
-**प्रयाणकाले** च एभिः त्रिभिः **नियतात्मभिः कथं ज्ञेयः असि।**
+[[01 इति वीक्षताम्। ]]
 
 </details>
 </div>
@@ -272,7 +270,7 @@ _________________
 प्रकारेण ज्ञेयोऽसि। अत्रायं भावः -- पुरुषोत्तमेति सम्बोधनेन त्वमेव
 पुरुषोत्तमः त्वत्तः पराभावात्। कथं तद्ब्रह्मेत्युक्तम् आधिदैविकं तु
 त्वत्स्वरूपमेव अतस्त्वत्तोऽन्याधिदैवं किम्
-अध्यात्माद**यस्तु৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷.** हीना एव तेषां ज्ञानं किं प्रयोजनकम्
+अध्यात्मादयस्तु हीना एव तेषां ज्ञानं किं प्रयोजनकम्
 सेवा च कथं कार्या इत्यादिव्यञ्जितम्। मधुसूदनेति सम्बोधनेन त्वदीयानां
 मरणादिभयाभावे तत्समये त्वं कथं स्वज्ञानमुक्तवानिति ज्ञापितमिति भावः।  
   

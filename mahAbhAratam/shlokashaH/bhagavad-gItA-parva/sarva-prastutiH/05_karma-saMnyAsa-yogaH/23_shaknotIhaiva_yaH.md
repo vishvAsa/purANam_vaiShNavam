@@ -2,11 +2,13 @@
 title = "23 शक्नोतीहैव यः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात्।  
-कामक्रोधोद्भवं वेगं स युक्तः स सुखी नरः।।5.23।।
+शक्नोतीहैव यः **सोढुं**  
+**प्राक्-शरीर-विमोक्षणात्**।  
+**काम-क्रोधोद्भवं वेगं**  
+स युक्तः स सुखी नरः॥5.23॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/23_shaknotIhaiva_yaH.md">

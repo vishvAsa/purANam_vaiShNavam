@@ -2,13 +2,13 @@
 title = "27 वक्त्राणि ते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-वक्त्राणि ते त्वरमाणा विशन्ति  
-दंष्ट्राकरालानि भयानकानि।  
-केचिद्विलग्ना दशनान्तरेषु  
-संदृश्यन्ते चूर्णितैरुत्तमाङ्गैः।।11.27।।
+**वक्त्राणि** ते त्वरमाणा **विशन्ति**  
+दंष्ट्रा-करालानि भयानकानि।  
+केचिद् **विलग्ना** दशनान्तरेषु  
+**संदृश्यन्ते** चूर्णितैर् उत्तमाङ्गैः॥11.27॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/27_vaktrANi_te.md">

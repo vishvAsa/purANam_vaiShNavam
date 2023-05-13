@@ -2,11 +2,13 @@
 title = "02 ज्ञानन् तेऽहम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः।  
-यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते।।7.2।।
+**ज्ञानं** तेऽहं सविज्ञानम्  
+इदं **वक्ष्याम्य्** अशेषतः।  
+यज् ज्ञात्वा **नेह भूयो** ऽन्यज्  
+ज्ञातव्यम् **अवशिष्यते**॥7.2॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/02_jnAnan_te-ham.md">
@@ -64,7 +66,7 @@ _________________
 जपो वासुदेवेति मुक्तिबीजमनुत्तमम् वि.पु.2।6।44 इत्यादिभिर्भगवद्भक्ते
 स्वादुतमत्वं सिद्धम्। स्मृतिः सन्तन्यते यत्रेति वा स्मृतेः सन्तानो
 यत्रेति वा स्मृतिसन्तानशब्देन प्रकृतं वेदनं विशेष्यते इति
-नपुंसकत्वोपपत्तिः। पुँल्लिङ्गतया वा पठितव्यम्। अस्त्वेवं तथापि
+नपुंसकत्वोपपत्तिः। पुल्ँ लिङ्गतया वा पठितव्यम्। अस्त्वेवं तथापि
 भक्तेर्मोक्षोपायत्वं कथमित्यत्राह तदेव हीति। महनीयविषये प्रीतिरेव हि
 भक्तिरिति भावः। तत्र प्रमाणमाह स्नेहेति। महनीयविषये
 स्नेहपूर्वमनुध्यानमिति भाव्यम् अन्यथा स्नेहपूर्वस्वप्रियतमानुध्यानस्यापि

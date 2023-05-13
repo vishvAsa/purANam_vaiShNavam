@@ -2,13 +2,13 @@
 title = "21 वेदाविनाशिनन् नित्यम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-वेदाऽविनाशिनं नित्यं  
+**वेदाऽविनाशिनं** नित्यं  
 य एनम् अजम् अव्ययम्।  
 कथं स पुरुषः पार्थ  
-कं घातयति? हन्ति कम्।।2.21।।
+**कं घातयति? हन्ति** कम्॥2.21॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
@@ -784,7 +784,7 @@ like; That is being said in, 'As after rejecting wornout clothes,' etc.
 शीतोष्णयोरिव द्वयोरेककार्यकारित्वस्य रथाश्वन्यायेनासंभवादित्यन्यत्र
 विस्तरः। मादृशानां ज्ञानिनां व्युत्थानकाले अविद्यालेशानुवृत्त्या
 घातयितृत्वादेः प्रसक्तावपि विद्यया तस्य बाधितत्वादागामिकर्मणामश्लेषाच्च
-न दोषः। तथा च वक्ष्यतेहत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते इति।  
+न दोषः। तथा च वक्ष्यतेहत्वापि स इमाल्ँ लोकान्न हन्ति न निबध्यते इति।  
 
 </details>
 </div>

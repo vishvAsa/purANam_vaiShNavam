@@ -2,11 +2,13 @@
 title = "04 यदा हि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते।  
-सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते।।6.4।।
+यदा हि नेन्द्रियार्थेषु  
+**न कर्मस्व् अनुषज्जते**।  
+सर्व-सङ्कल्प-संन्यासी  
+**योगारूढस्** तदोच्यते॥6.4॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
@@ -87,6 +89,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
+The same idea is made clear as-
+
 6.4 Yada etc. What is desired by the senses : Objects of senses. The
 actions for them : actions such as earning the objects and so on. In
 this \[path of\] knowledge one should be necessarily attentive. This
@@ -124,6 +128,8 @@ _________________
 ## शाङ्कर-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+
+अथेदानीं कदा योगारूढो भवति इत्युच्यते -
 
 ।।6.4।। **यदा** समाधीयमानचित्तो योगी **हि इन्द्रियार्थेषु**
 इन्द्रियाणामर्थाः शब्दादयः तेषु इन्द्रियार्थेषु कर्मसु च

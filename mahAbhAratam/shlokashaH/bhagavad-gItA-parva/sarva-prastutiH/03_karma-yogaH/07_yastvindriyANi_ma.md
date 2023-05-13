@@ -2,11 +2,13 @@
 title = "07 यस्त्विन्द्रियाणि मनसा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/07_yastvindriyANi_ma.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/07_yastvindriyANi_ma.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन।  
-कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते।।3.7।।
+यस् त्व् **इन्द्रियाणि**  
+मनसा **नियम्यारभते** ऽर्जुन।  
+कर्मेन्द्रियैः **कर्म-योगम्**  
+असक्तः स विशिष्यते॥3.7॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/07_yastvindriyANi_ma.md">

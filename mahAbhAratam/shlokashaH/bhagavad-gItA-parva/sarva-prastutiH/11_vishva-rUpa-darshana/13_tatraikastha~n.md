@@ -2,11 +2,13 @@
 title = "13 तत्रैकस्थञ्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तत्रैकस्थं जगत्कृत्स्नं प्रविभक्तमनेकधा।  
-अपश्यद्देवदेवस्य शरीरे पाण्डवस्तदा।।11.13।।
+तत्रैकस्थं **जगत्** कृत्स्नं  
+प्रविभक्तम् अनेकधा।  
+**अपश्यद्** देवदेवस्य  
+शरीरे पाण्डवस् तदा॥11.13॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/13_tatraikastha~n.md">

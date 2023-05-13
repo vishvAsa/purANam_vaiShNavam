@@ -2,11 +2,13 @@
 title = "13 इदमद्य मया"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/13_idamadya_mayA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम्।  
-इदमस्तीदमपि मे भविष्यति पुनर्धनम्।।16.13।।
+इदम् अद्य मया **लब्धम्**,  
+इमं **प्राप्स्ये** मनो-रथम्।  
+इदम् **अस्तीदम्** अपि मे  
+**भविष्यति** पुनर् धनम्॥16.13॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/13_idamadya_mayA.md">

@@ -2,11 +2,13 @@
 title = "11 यतन्तो योगिनश्चैनम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम्।  
-यतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः।।15.11।।
+**यतन्तो** योगिनश् चैनं  
+**पश्यन्त्य्** आत्मन्य् अवस्थितम्।  
+यतन्तो ऽप्य् **अकृतात्मानो**  
+**नैनं पश्यन्त्य्** अचेतसः॥15.11॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
@@ -85,14 +87,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
-।।15.9 -- 15.11।। एवं सृष्टौ संहारे च एतैः साहित्यमस्योक्त्वा स्थितावपि
-स्थानासनमननादिरूपायां +++(N ममतादि)+++ विषयग्रहणात्मिकायां +++(omits स्थितावपि
--- त्मिकायाम्)+++ तत्सहितस्यैवास्य व्यापार इति निश्चीयते -- श्रोत्रमित्यादि
-अचेतस इत्यन्तम्। मनः इत्यनेनान्तःकरणमुपलक्ष्यते। अत एव
+।।15.9 -- 15.11।। एवं सृष्टौ संहारे च एतैः साहित्यम् अस्योक्त्वा स्थिताव् अपि स्थानासन-मननादि-रूपायां +++(N ममतादि)+++ विषय-ग्रहणात्मिकायां +++(omits स्थितावपि
+-- त्मिकायाम्)+++ तत्-सहितस्यैवास्य व्यापार इति निश्चीयते -- श्रोत्रमित्यादि अचेतस इत्यन्तम्।
+
+मनः इत्यनेनान्तःकरणमुपलक्ष्यते। अत एव
 शरीरस्थितियोगात्तिष्ठन्तम् शरीरान्तरग्रहणाय उत्क्रामन्तम् विषयान्वा
-भुञ्जानं मूढा न पश्यन्ति; अप्रबुद्धत्त्वात्। प्रबुद्धास्तु
-सर्वत्रैव,बोधरूपमेव अनुसंदधाना +++(S;;N -- रूपमनुसंदधानाः)+++ जानन्त्येव;
-इत्यलुप्तमसमाधयः; तेषां यत्नपरत्त्वात्। अकृतात्मनां तु यत्नोऽपि न फलाय;
+भुञ्जानं मूढा न पश्यन्ति; अप्रबुद्धत्त्वात्। प्रबुद्धास्तु सर्वत्रैव
+बोधरूपमेव अनुसंदधाना +++(S;;N -- रूपमनुसंदधानाः)+++ जानन्त्येव;
+इत्यलुप्तमसमाधयः; तेषां यत्नपरत्त्वात्। ,अकृतात्मनां तु यत्नोऽपि न फलाय;
 अपरिपक्वकषायत्त्वात्। न हि शरदि सलिलादिसामग्रीसंमर्देऽपि धान्यबीजानि
 उप्यमानानि फलसंपदे अलम्। अत एव सामग्री एव सा अस्य न भवति। अन्यदेव किल,+++(S
 omits किल)+++ मधुमाससंभृतजलधरपटलीप्रेरितमम्भः काचिदेव च सा भूः; यस्यां

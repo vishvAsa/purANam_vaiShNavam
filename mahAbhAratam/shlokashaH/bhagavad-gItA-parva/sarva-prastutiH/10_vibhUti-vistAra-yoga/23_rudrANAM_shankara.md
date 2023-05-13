@@ -2,11 +2,13 @@
 title = "23 रुद्राणां शङ्करश्चास्मि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम्।  
-वसूनां पावकश्चास्मि मेरुः शिखरिणामहम्।।10.23।।
+रुद्राणां **शङ्करश्** चास्मि  
+**वित्तेशो** यक्ष-रक्षसाम्।  
+वसूनां **पावकश्** चास्मि  
+**मेरुः** शिखरिणाम् अहम्॥10.23॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">

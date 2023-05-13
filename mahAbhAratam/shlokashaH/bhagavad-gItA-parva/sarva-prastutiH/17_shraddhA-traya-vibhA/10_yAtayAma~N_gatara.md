@@ -2,11 +2,13 @@
 title = "10 यातयामङ् गतरसम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यातयामं गतरसं पूति पर्युषितं च यत्।  
-उच्छिष्टमपि चामेध्यं भोजनं तामसप्रियम्।।17.10।।
+यात-यामं गत-रसं  
+पूति पर्युषितं च यत्।  
+उच्छिष्टम् अपि **चामेध्यं**  
+**भोजनं तामस-प्रियम्**॥17.10॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
@@ -627,9 +629,7 @@ of the Tamas (Strand).
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.10 Food which is not properly cooked, lacking in essence, putrid and
-stale, and even ort and that which is unfit for sacrifice, is dear to
-one possessed of tamas.
+17.10 Food which is not properly cooked, lacking in essence, putrid and stale, and even ort and that which is unfit for sacrifice, is dear to one possessed of tamas.
 
 </details>
 </div>
@@ -662,7 +662,7 @@ is the food liked by the Tamasic.
 
 17.10 यातयामम् state; गतरसम् tasteless; पूति putrid; पर्युषितम् rotten;
 च and; यत् which; उच्छिष्टम् refuse; अपि also; च and; अमेध्यम् impure;
-भोजनम् food; तामसप्रियम् liked by the Tamasic.Commentary Cannabis indica
+भोजनम् food; तामसप्रियम् liked by the Tamasic. Commentary Cannabis indica
 (Ganja); Bhang; opium; cocaine; Charas; Chandoo; all stale and putrid
 articles; are Tamasic.Yatayamam Stale; literally means cooked three
 hours ago. Yatayamam and Gatarasam mean the same thing.Paryushitam

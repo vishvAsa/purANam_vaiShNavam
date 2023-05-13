@@ -2,11 +2,13 @@
 title = "40 अज्ञश्चाश्रद्दधानश्च"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति।  
-नायं लोकोऽस्ति न परो न सुखं संशयात्मनः।।4.40।।
+अज्ञश् चाश्रद्-दधानश् च  
+**संशयात्मा विनश्यति**।  
+नायं लोकोऽस्ति न परो  
+न सुखं संशयात्मनः॥4.40॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">

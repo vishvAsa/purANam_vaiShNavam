@@ -2,11 +2,13 @@
 title = "15 ज्ञानयज्ञेन चाप्यन्ये"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते।  
-एकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम्।।9.15।।
+**ज्ञान-यज्ञेन** चाप्यन्ये  
+**यजन्तो** माम् उपासते।  
+एकत्वेन, पृथक्त्वेन  
+बहुधा विश्वतो-मुखम्॥9.15॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">

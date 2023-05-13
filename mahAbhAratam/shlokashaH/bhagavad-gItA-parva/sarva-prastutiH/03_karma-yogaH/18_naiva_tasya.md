@@ -2,11 +2,13 @@
 title = "18 नैव तस्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/18_naiva_tasya.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/18_naiva_tasya.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन।  
-न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः।।3.18।।
+**नैव** तस्य **कृतेनार्थो**  
+**नाकृतेनेह** कश्चन।  
+न चास्य सर्व-भूतेषु  
+कश्चिद् अर्थ-व्यपाश्रयः॥3.18॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/18_naiva_tasya.md">

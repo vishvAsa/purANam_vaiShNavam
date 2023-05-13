@@ -2,11 +2,13 @@
 title = "10 मयाऽध्यक्षेण प्रकृतिः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-मयाऽध्यक्षेण प्रकृतिः सूयते सचराचरम्।  
-हेतुनाऽनेन कौन्तेय जगद्विपरिवर्तते।।9.10।।
+मयाऽध्यक्षेण **प्रकृतिः**  
+**सूयते** सचराचरम्।  
+हेतुनाऽनेन कौन्तेय  
+जगद्-विपरिवर्तते॥9.10॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
@@ -29,7 +31,7 @@ _________________
 मत्स्वाम्यं सत्यसंकल्पत्वं नैर्घृण्यादिदोषरहितत्वम् इत्येवमादिकं मम
 वसुदेवसूनोः ऐश्वरं योगं पश्य। यथा श्रुतिः -- अस्मान्मायी सृजते
 विश्वमेतत्तस्मिंश्वान्यो मायया संनिरूद्धः।। मायां तु प्रकृतिं विद्यात्
-मायिनं तु महेश्वरम् (श्वेता0 4।910) इति।
+मायिनं तु महेश्वरम् (श्वेता॰ 4।910) इति।
 
 </details>
 </div>

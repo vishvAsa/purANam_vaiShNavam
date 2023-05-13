@@ -2,11 +2,13 @@
 title = "04 बुद्धिर्ज्ञानमसम्मोहः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/04_buddhirjnAnamasam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/04_buddhirjnAnamasam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-बुद्धिर्ज्ञानमसंमोहः क्षमा सत्यं दमः शमः।  
-सुखं दुःखं भवोऽभावो भयं चाभयमेव च।।10.4।।
+बुद्धिर् ज्ञानम् असंमोहः  
+क्षमा सत्यं दमः शमः।  
+सुखं दुःखं भवोऽभावो  
+भयं चाभयम् एव च +++(भवन्ति मत्तः)+++॥10.4॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/04_buddhirjnAnamasam.md">

@@ -2,11 +2,13 @@
 title = "42 तस्मादज्ञानसम्भूतं"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तस्मादज्ञानसंभूतं हृत्स्थं ज्ञानासिनाऽऽत्मनः।  
-छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत।।4.42।।
+तस्माद् अज्ञान-संभूतं  
+हृत्-स्थं ज्ञानासिनाऽऽत्मनः।  
+छित्त्वैनं संशयं **योगम्**  
+**आतिष्ठोत्तिष्ठ** भारत॥4.42॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">

@@ -2,11 +2,13 @@
 title = "62 ध्यायतो विषयान्पुंसः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते।  
-सङ्गात् संजायते कामः कामात्क्रोधोऽभिजायते।।2.62।।
+**ध्यायतो विषयान्** पुंसः  
+**सङ्गस् तेषूपजायते**।  
+सङ्गात् **संजायते कामः**  
+कामात् **क्रोधो ऽभिजायते**॥2.62॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">

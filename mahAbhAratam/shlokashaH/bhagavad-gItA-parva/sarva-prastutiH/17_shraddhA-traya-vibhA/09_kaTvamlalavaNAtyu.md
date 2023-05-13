@@ -2,11 +2,13 @@
 title = "09 कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः।  
-आहारा राजसस्येष्टा दुःखशोकामयप्रदाः।।17.9।।
+कट्व्-अम्ल-लवणात्य्-उष्ण-  
+तीक्ष्ण-रूक्ष-विदाहिनः।  
+**आहारा राजसस्येष्टा**  
+**दुःख-शोकामय-प्रदाः**॥17.9॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">

@@ -2,11 +2,13 @@
 title = "10 अनेकवक्त्रनयनमनेकाद्भुतदर्शनम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/10_anekavaktranayana.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/10_anekavaktranayana.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अनेकवक्त्रनयनमनेकाद्भुतदर्शनम्।  
-अनेकदिव्याभरणं दिव्यानेकोद्यतायुधम्।।11.10।।
+**अनेक-वक्त्र-नयनम्**  
+अनेकाद्भुत-दर्शनम्।  
+अनेक-दिव्याभरणं  
+दिव्यानेकोद्यतायुधम्॥11.10॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/10_anekavaktranayana.md">

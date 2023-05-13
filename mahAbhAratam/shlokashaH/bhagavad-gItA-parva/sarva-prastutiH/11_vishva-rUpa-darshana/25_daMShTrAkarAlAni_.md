@@ -2,13 +2,13 @@
 title = "25 दंष्ट्राकरालानि च"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/25_daMShTrAkarAlAni_.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/25_daMShTrAkarAlAni_.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-दंष्ट्राकरालानि च ते मुखानि  
-दृष्ट्वैव कालानलसन्निभानि।  
-दिशो न जाने न लभे च शर्म  
-प्रसीद देवेश जगन्निवास।।11.25।।
+दंष्ट्रा-करालानि च ते मुखानि  
+दृष्ट्वैव कालानल-सन्निभानि।  
+**दिशो न जाने**, न लभे च शर्म  
+**प्रसीद** देवेश जगन्-निवास॥11.25॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/25_daMShTrAkarAlAni_.md">

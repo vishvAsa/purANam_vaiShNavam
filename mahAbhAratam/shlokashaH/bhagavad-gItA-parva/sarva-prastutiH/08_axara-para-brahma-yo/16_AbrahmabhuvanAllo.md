@@ -2,11 +2,13 @@
 title = "16 आब्रह्मभुवनाल्लोकाः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन।  
-मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते।।8.16।।
+आब्रह्म-भुवनाल् **लोकाः**  
+पुनर् **आवर्तिनो** ऽर्जुन।  
+**माम् उपेत्य** तु कौन्तेय  
+पुनर्जन्म **न** विद्यते॥8.16॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">

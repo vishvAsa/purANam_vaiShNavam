@@ -2,11 +2,13 @@
 title = "06 एतद्योनीनि भूतानि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-एतद्योनीनि भूतानि सर्वाणीत्युपधारय।  
-अहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा।।7.6।।
+**एतद्-योनीनि भूतानि**  
+सर्वाणीत्य् उपधारय।  
+अहं कृत्स्नस्य जगतः  
+प्रभवः प्रलयस् तथा॥7.6॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
@@ -32,11 +34,11 @@ _________________
   
 तयोः चिदचित्समष्टिभूतयोः प्रकृतिपुरुषयोः अपि परमपुरुषयोनित्वं
 श्रुतिस्मृतिसिद्धम्। महानव्यक्ते लीयते अव्यक्तमक्षरे अक्षरं तमसि लीयते
-तमः परे देवे एकीभवति (सु0 उ₀ 2)विष्णोः स्वरूपात्परतोदिते द्वे रूपे
-प्रधानं पुरुषश्च (वि0 पु0 1।2।24)प्रकृतिर्या मया ख्याता
+तमः परे देवे एकीभवति (सु॰ उ॰ 2)विष्णोः स्वरूपात्परतोदिते द्वे रूपे
+प्रधानं पुरुषश्च (वि॰ पु॰ 1।2।24)प्रकृतिर्या मया ख्याता
 व्यक्ताव्यक्तस्वरूपिणी। पुरुषश्चाप्युभावेतौ लीयेते परमात्मनि।। परमात्मा च
-सर्वेषामाधारः परमेश्वरः। विष्णुनामा स वेदेषु वेदान्तेषु च गीयते।। (वि0
-पु0 6।4।38 39) इत्यादिका हि श्रुतिस्मृतयः।
+सर्वेषामाधारः परमेश्वरः। विष्णुनामा स वेदेषु वेदान्तेषु च गीयते।। (वि॰
+पु॰ 6।4।38 39) इत्यादिका हि श्रुतिस्मृतयः।
 
 </details>
 </div>

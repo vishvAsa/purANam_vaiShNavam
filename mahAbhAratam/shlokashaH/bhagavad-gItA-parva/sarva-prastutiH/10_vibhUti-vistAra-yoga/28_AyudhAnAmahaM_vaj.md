@@ -2,11 +2,13 @@
 title = "28 आयुधानामहं वज्रम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/28_AyudhAnAmahaM_vaj.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/28_AyudhAnAmahaM_vaj.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-आयुधानामहं वज्रं धेनूनामस्मि कामधुक्।  
-प्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः।।10.28।।
+आयुधानाम् अहं **वज्रं**  
+धेनूनाम् अस्मि **कामधुक्**।  
+प्रजनश्+++(=प्रजनयिता)+++ चास्मि **कन्दर्पः**  
+सर्पाणाम् अस्मि **वासुकिः**॥10.28॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/28_AyudhAnAmahaM_vaj.md">

@@ -2,11 +2,13 @@
 title = "31 यया धर्ममधर्मम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यया धर्ममधर्मं च कार्यं चाकार्यमेव च।  
-अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी।।18.31।।
+यया धर्मम् अधर्मं च  
+कार्यं चाकार्यम् एव च।  
+**अयथावत् प्रजानाति**  
+बुद्धिः सा पार्थ **राजसी**॥18.31॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/31_yayA_dharmamadhar.md">

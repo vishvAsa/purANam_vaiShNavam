@@ -2,11 +2,13 @@
 title = "07 नियतस्य तु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-नियतस्य तु संन्यासः कर्मणो नोपपद्यते।  
-मोहात्तस्य परित्यागस्तामसः परिकीर्तितः।।18.7।।
+**नियतस्य** तु **संन्यासः**  
+कर्मणो नोपपद्यते।  
+मोहात् तस्य परित्यागस्  
+**तामसः** परिकीर्तितः॥18.7॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
@@ -29,9 +31,9 @@ _________________
 निर्वर्त्यमाना सम्यग् ज्ञानाय प्रभवति। अन्यथाभुञ्जते ते त्वघं पापाः
 (गीता 3।13) इति अयज्ञशिष्टाघरूपाशनाप्यायनं मनसो विपरीतज्ञानाय भवति।  
   
-अन्नमयं हि सोम्य मनः (छा0 उ₀ 6।5।4) इति अन्नेन हि मन आप्यायते। आहारशुद्धौ
+अन्नमयं हि सोम्य मनः (छा॰ उ॰ 6।5।4) इति अन्नेन हि मन आप्यायते। आहारशुद्धौ
 सत्त्वशुद्धिः सत्त्वशुद्धौ ध्रुवा स्मृतिः। स्मृतिलम्भे सर्वग्रन्थीनां
-विप्रमोक्षः (छ0 उ₀ 7।26।2) इति ब्रह्मसाक्षात्काररूपं ज्ञानम्
+विप्रमोक्षः (छ॰ उ॰ 7।26।2) इति ब्रह्मसाक्षात्काररूपं ज्ञानम्
 आहारशुद्ध्यायत्तमिति श्रूयते। तस्मात् महायज्ञादिनित्यनैमित्तिकं कर्म
 आप्रयाणात् ब्रह्मज्ञानाय एव उपादेयम् इति तस्य त्यागो न उपपद्यते।  
   

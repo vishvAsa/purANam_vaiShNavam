@@ -2,13 +2,13 @@
 title = "23 रूपम् महत्ते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-रूपं महत्ते बहुवक्त्रनेत्रं  
-महाबाहो बहुबाहूरुपादम्।  
-बहूदरं बहुदंष्ट्राकरालं  
-दृष्ट्वा लोकाः प्रव्यथितास्तथाऽहम्।।11.23।।
+रूपं महत्ते बहु-वक्त्र-नेत्रं  
+महा-बाहो बहु-बाहूरु-पादम्।  
+बहूदरं बहु-दंष्ट्रा-करालं  
+**दृष्ट्वा लोकाः प्रव्यथितास्** तथाऽहम्॥11.23॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">

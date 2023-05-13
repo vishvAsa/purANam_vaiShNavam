@@ -2,11 +2,13 @@
 title = "06 कर्मेन्द्रियाणि संयम्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/06_karmendriyANi_saM.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/06_karmendriyANi_saM.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन्।  
-इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते।।3.6।।
+कर्मेन्द्रियाणि **संयम्य** य  
+**आस्ते** मनसा **स्मरन्**।  
+**इन्द्रियार्थान्** विमूढात्मा  
+**मिथ्याचारः** स उच्यते॥3.6॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/06_karmendriyANi_saM.md">

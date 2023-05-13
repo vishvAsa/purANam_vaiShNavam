@@ -2,13 +2,13 @@
 title = "03 क्लैब्यम् मा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-क्लैब्यं मा स्म गमः पार्थ  
-नैतत् त्वय्य् उपपद्यते।  
+**क्लैब्यं मा स्म गमः** पार्थ  
+**नैतत्** त्वय्य् **उपपद्यते**।  
 क्षुद्रं हृदय-दौर्बल्यं  
-त्यक्त्वोत्तिष्ठ परन्तप।।2.3।।
+**त्यक्त्वोत्तिष्ठ** परन्तप॥2.3॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">

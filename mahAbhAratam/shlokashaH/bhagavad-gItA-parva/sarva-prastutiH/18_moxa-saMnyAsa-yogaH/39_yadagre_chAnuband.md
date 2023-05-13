@@ -2,11 +2,13 @@
 title = "39 यदग्रे चानुबन्धे"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यदग्रे चानुबन्धे च सुखं मोहनमात्मनः।  
-निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम्।।18.39।।
+यद् अग्रे चानुबन्धे च  
+सुखं **मोहनम्** आत्मनः।  
+**निद्रालस्य-प्रमादोत्थं**  
+तत् **तामसम्** उदाहृतम्॥18.39॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">

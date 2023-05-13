@@ -2,13 +2,13 @@
 title = "48 न वेदयज्ञाध्ययनैर्न"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/48_na_vedayajnAdhyay.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/48_na_vedayajnAdhyay.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-न वेदयज्ञाध्ययनैर्न दानै  
-र्न च क्रियाभिर्न तपोभिरुग्रैः।  
-एवंरूपः शक्य अहं नृलोके  
-द्रष्टुं त्वदन्येन कुरुप्रवीर।।11.48।।
+न वेद-यज्ञाध्ययनैर् न दानैर्  
+**न** च क्रियाभिर् न तपोभिर् उग्रैः।  
+**एवं-रूपः शक्य**+++(ः)+++ अहं नृ-लोके  
+**द्रष्टुं** त्वद्-अन्येन कुरु-प्रवीर॥11.48॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/48_na_vedayajnAdhyay.md">

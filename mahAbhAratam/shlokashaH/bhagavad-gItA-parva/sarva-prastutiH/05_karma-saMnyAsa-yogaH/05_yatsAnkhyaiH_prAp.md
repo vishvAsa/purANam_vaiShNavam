@@ -2,11 +2,13 @@
 title = "05 यत्साङ्ख्यैः प्राप्यते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यत्साङ्ख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते।  
-एकं साङ्ख्यं च योगं च यः पश्यति स पश्यति।।5.5।।
+यत् साङ्ख्यैः प्राप्यते स्थानं  
+तद् योगैर् अपि गम्यते।  
+**एकं साङ्ख्यं च योगं च**  
+यः पश्यति स पश्यति॥5.5॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/05_yatsAnkhyaiH_prAp.md">

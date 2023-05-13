@@ -2,11 +2,13 @@
 title = "61 तानि सर्वाणि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/61_tAni_sarvANi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/61_tAni_sarvANi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तानि सर्वाणि संयम्य युक्त आसीत मत्परः।  
-वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता।।2.61।।
+तानि सर्वाणि **संयम्य**  
+**युक्त आसीत** मत्-परः।  
+वशे हि यस्येन्द्रियाणि  
+तस्य **प्रज्ञा प्रतिष्ठिता**॥2.61॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/61_tAni_sarvANi.md">
@@ -28,7 +30,7 @@ _________________
 आसीत। मनसि मद्विषये सति निर्दग्धाशेषकल्मषतया निर्मलीकृतं विषयानुरागरहितं
 मन इन्द्रियाणि स्ववशानि करोति। ततो वश्येन्द्रियं मन आत्मदर्शनाय प्रभवति।
 उक्तं च यथाग्निरुद्धतशिखः कक्षं दहति सानिलः। तथा चित्तस्थितो
-विष्णुर्योगिनां सर्वकिल्बिषम्।। (वि0 पु0 6।7।74) इति। तदाह वशे हि
+विष्णुर्योगिनां सर्वकिल्बिषम्।। (वि॰ पु॰ 6।7।74) इति। तदाह वशे हि
 यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता इति।  
 एवं मयि अनिवेश्य मनः स्वयत्नगौरवेण इन्द्रियजये प्रवृत्तो विनष्टो भवति
 इत्याह  

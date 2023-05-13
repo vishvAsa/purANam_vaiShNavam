@@ -2,11 +2,13 @@
 title = "19 बहूनाञ् जन्मनामन्ते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते।  
-वासुदेवः सर्वमिति स महात्मा सुदुर्लभः।।7.19।।
+बहूनां जन्मनाम् अन्ते  
+ज्ञानवान् मां प्रपद्यते।  
+**वासुदेवः +++(→देवग्रामः)+++ सर्वम्** इति  
+स महात्मा सुदुर्लभः॥7.19॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">

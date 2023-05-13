@@ -2,11 +2,13 @@
 title = "20 त्यक्त्वा कर्मफलासङ्गम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः।  
-कर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः।।4.20।।
++++(वक्ष्यमाण-रीत्या)+++ **त्यक्त्वा कर्मफलासङ्गं**  
+नित्य-तृप्तो निराश्रयः।  
+कर्मण्य् अभिप्रवृत्तोऽपि  
+**नैव किञ्चित् करोति** सः॥4.20॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">

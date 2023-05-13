@@ -2,11 +2,13 @@
 title = "13 गामाविश्य च"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-गामाविश्य च भूतानि धारयाम्यहमोजसा।  
-पुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः।।15.13।।
+गाम्+++(=पृथिवीं)+++ आविश्य च **भूतानि**  
+**धारयाम्य्** अहम् ओजसा।  
+**पुष्णामि चौषधीः** सर्वाः,  
+सोमो भूत्वा रसात्मकः॥15.13॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
@@ -23,7 +25,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।15.13।।**अहं** पृथिवीम् **आविश्य** सर्वाणि **भूतानि ओजसा** मम
+।।15.13।।**अहं [गां]** पृथिवीम् **आविश्य** सर्वाणि **भूतानि ओजसा** मम
 अप्रतिहतसामर्थ्येन **धारयामि।** तथा अहम् अमृतरसमयः **सोमो भूत्वा
 सर्वौषधीः पुष्णामि।**
 

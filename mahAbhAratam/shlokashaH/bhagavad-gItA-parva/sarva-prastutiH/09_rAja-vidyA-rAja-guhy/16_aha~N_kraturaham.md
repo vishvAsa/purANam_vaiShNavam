@@ -2,18 +2,20 @@
 title = "16 अहङ् क्रतुरहम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अहं क्रतुरहं यज्ञः स्वधाऽहमहमौषधम्।  
-मंत्रोऽहमहमेवाज्यमहमग्निरहं हुतम्।।9.16।।
+अहं **क्रतुर्** अहं यज्ञः  
+स्वधाऽहम् अहम् **औषधम्**।  
+**मन्त्रो** ऽहम् **अहम् एवाज्यम्**  
+अहम् **अग्निर्** अहं **हुतम्**॥9.16॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 अहं क्रतुरहं यज्ञः स्वधाऽहमहमौषधम्।  
-मंत्रोऽहमहमेवाज्यमहमग्निरहं हुतम्।।9.16।।
+मन्त्रोऽहमहमेवाज्यमहमग्निरहं हुतम्।।9.16।।
 </details>
 </div>
 
@@ -403,7 +405,7 @@ the offering.Commentary Kratu is a kind of Vedic sacrifice.Yajna is the
 worship enjoined in the Smriti or the holy books laying down lay and the
 code of conduct.I am the Mantra; the chant with which the oblation is
 offered to the manes or ancestors; and the shining ones (the Devatas or
-gods).Hutam also means the act of offering.Aushadham All plants
+gods). Hutam also means the act of offering. Aushadham All plants
 including rice and barley or medicine that can cure diseases. (Cf.IV.24)
 
 </details>

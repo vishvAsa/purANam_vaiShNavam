@@ -2,11 +2,13 @@
 title = "06 पश्यादित्यान्वसून्रुद्रानश्िवनौ"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/06_pashyAdityAnvasUn.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/06_pashyAdityAnvasUn.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-पश्यादित्यान्वसून्रुद्रानश्विनौ मरुतस्तथा।  
-बहून्यदृष्टपूर्वाणि पश्याऽश्चर्याणि भारत।।11.6।।
+पश्यादित्यान् वसून् रुद्रान्  
+अश्विनौ मरुतस् तथा।  
+बहून्य् अदृष्ट-पूर्वाणि  
+**पश्याऽश्चर्याणि** भारत॥11.6॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/06_pashyAdityAnvasUn.md">

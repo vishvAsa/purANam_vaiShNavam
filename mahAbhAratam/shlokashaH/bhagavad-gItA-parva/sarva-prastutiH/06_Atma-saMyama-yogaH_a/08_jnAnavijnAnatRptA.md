@@ -2,11 +2,13 @@
 title = "08 ज्ञानविज्ञानतृप्तात्मा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः।  
-युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः।।6.8।।
++++(औपदेशिक-)+++ज्ञान-+++(अपरोक्ष-)+++विज्ञान-तृप्तात्मा  
++++(योग-)+++**कूट-स्थो** विजितेन्द्रियः।  
+**युक्त** इत्युच्यते योगी  
++++(फल-सङ्ग-त्यागेन)+++ सम-लोष्टाश्म-काञ्चनः॥6.8॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
@@ -311,12 +313,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) श्रीधर-स्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shrIdhara-svAmI/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 <details><summary><h3>(सं) श्रीधर-स्वामी ...{Loading}...</h3></summary>
 
-।।6.8।। योगारूढस्य लक्षणं श्रैष्ठ्यं चोक्तमुपपाद्योपसंहरति
-**ज्ञानविज्ञानतृप्तात्मेति।** ज्ञानमौपदेशिकं
-विज्ञानमपरोक्षानुभवस्ताभ्यां तृप्तो निराकाङ्क्ष आत्मा चित्तं यस्य। अतः
-कूटस्थो निर्विकारः अतएव विजितानीन्द्रियाणि येन अतएव समानि लोष्टादीनि
-यस्य मृत्खण्डपाषाणसुवर्णेषु हेयोपादेयबुद्धिशून्यः स युक्तो योगारूढ
-इत्युच्यते।
+।।6.8।। योगारूढस्य लक्षणं श्रैष्ठ्यं चोक्तम् उपपाद्योपसंहरति **ज्ञानविज्ञानतृप्तात्मेति।** 
+
+**ज्ञानम्** औपदेशिकं **विज्ञानम्** अपरोक्षानुभवस्  
+ताभ्यां **तृप्तो** निराकाङ्क्ष  
+**आत्मा** चित्तं यस्य। 
+
+अतः **कूटस्थो** निर्विकारः  
+अत एव **विजितानीन्द्रियाणि** येन - अत एव **समानि लोष्टादीनि** यस्य मृत्-खण्ड-पाषाण-सुवर्णेषु हेयोपादेय-बुद्धि-शून्यः स **युक्तो** योगारूढ इत्युच्यते।
 
 </details>
 </div>

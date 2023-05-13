@@ -2,11 +2,13 @@
 title = "13 अद्वेष्टा सर्वभूतानाम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/13_adveShTA_sarvabhU.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/13_adveShTA_sarvabhU.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च।  
-निर्ममो निरहङ्कारः समदुःखसुखः क्षमी।।12.13।।
+**अद्वेष्टा** सर्वभूतानां  
+**मैत्रः** करुण एव च।  
+**निर्ममो** निर्-अहङ्-कारः  
+**सम-दुःख-सुखः** क्षमी॥12.13॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/13_adveShTA_sarvabhU.md">
@@ -22,6 +24,8 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/12_bhakti-yogaH/13_adveShTA_sarvabhU.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+अनभिसंहितफलकर्मनिष्ठस्य उपादेयान् गुणान् आह --
 
 ।।12.13।।**अद्वेष्टा सर्वभूतानां** विद्विषताम् अपकुर्वताम् अपि सर्वेषां
 भूतानाम् अद्वेष्टा मदपराधानुगुणम् ईश्वरप्रेरितानि एतानि भूतानि द्विषन्ति
@@ -177,6 +181,11 @@ _________________
 ## शाङ्कर-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/12_bhakti-yogaH/13_adveShTA_sarvabhU.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+
+तस्मात् अक्षरोपासकानां
+सम्यग्दर्शननिष्ठानां संन्यासिनां त्यक्तसर्वैषणानाम् अद्वेष्टा
+सर्वभूतानाम् (गीता 12।13) इत्यादिधर्मपूतं साक्षात् अमृतत्वकारणं
+वक्ष्यामीति प्रवर्तते --
 
 ।।12.13।। --,**अद्वेष्टा सर्वभूतानां** न द्वेष्टा; आत्मनः दुःखहेतुमपि न
 किञ्चित् द्वेष्टि; सर्वाणि भूतानि आत्मत्वेन हि पश्यति। **मैत्रः**

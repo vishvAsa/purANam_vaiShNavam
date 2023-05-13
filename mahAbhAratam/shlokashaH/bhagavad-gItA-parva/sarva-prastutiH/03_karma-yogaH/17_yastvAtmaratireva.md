@@ -2,11 +2,13 @@
 title = "17 यस्त्वात्मरतिरेव"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/17_yastvAtmaratireva.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/17_yastvAtmaratireva.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः।  
-आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते।।3.17।।
+यस्त्व् आत्म-रतिर् एव  
+स्याद् **आत्म-तृप्तश्** च मानवः।  
+आत्मन्य् एव च सन्तुष्टस्  
+तस्य **कार्यं न विद्यते**॥3.17॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/17_yastvAtmaratireva.md">

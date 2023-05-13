@@ -2,11 +2,13 @@
 title = "09 कार्यमित्येव यत्कर्म"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन।  
-सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः।।18.9।।
+**कार्यम् इत्य् एव** यत् कर्म  
+**नियतं क्रियते** ऽर्जुन।  
+सङ्गं+++(→ममतां)+++ त्यक्त्वा फलं चैव  
+स त्यागः **सात्त्विको** मतः॥18.9॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/09_kAryamityeva_yatk.md">

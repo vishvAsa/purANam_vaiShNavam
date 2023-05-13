@@ -2,11 +2,13 @@
 title = "66 नास्ति बुद्धिरयुक्तस्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना।  
-न चाभावयतः शान्तिरशान्तस्य कुतः सुखम्।।2.66।।
+**नास्ति बुद्धिर् अयुक्तस्य**  
+न चायुक्तस्य **भावना**।  
+न चाभावयतः **शान्तिर्**  
+अशान्तस्य कुतः **सुखम्**॥2.66॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
@@ -23,12 +25,13 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।2.66।। मयि संन्यस्तमनोरहितस्य खयत्नेन इन्द्रियदमने प्रवृत्तस्य कदाचिद्
-अपि विविक्तात्मविषया **बुद्धिः** न सेत्स्यति। अत एव तस्य तद्भावना **च
-न** संभवति। विविक्तात्मानम् **अभावयतो** विषयस्पृहा**शान्तिः** न
-भवति। **अशान्तस्य** विषयस्पृहायुक्तस्य **कुतो**
-नित्यनिरतिशयसुखप्राप्तिः।  
-पुनरपि उक्तेन प्रकारेण इन्द्रियनियमनम् अकुर्वतः अनर्थम् आह  
+।।2.66।। मयि संन्यस्त-मनो-रहितस्य  
+स्व-यत्नेन इन्द्रिय-दमने प्रवृत्तस्य  
+कदाचिद् अपि विविक्तात्म-विषया **बुद्धिः** न सेत्स्यति। 
+अत एव तस्य तद्-भावना **च न** संभवति।  
+विविक्तात्मानम् **अभावयतो** विषयस्पृहा-**शान्तिः** न भवति।  
+**अशान्तस्य** विषयस्पृहा-युक्तस्य **कुतो** नित्य-निरतिशय-सुख-प्राप्तिः।  
+पुनर् अपि उक्तेन प्रकारेण इन्द्रिय-नियमनम् अकुर्वतः अनर्थम् आह  
 
 </details>
 </div>

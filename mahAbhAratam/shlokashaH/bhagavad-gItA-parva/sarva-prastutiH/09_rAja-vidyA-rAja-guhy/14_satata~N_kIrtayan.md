@@ -2,11 +2,13 @@
 title = "14 सततङ् कीर्तयन्तो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः।  
-नमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते।।9.14।।
+सततं कीर्तयन्तो मां  
+यतन्तश् च दृढव्रताः।  
+नमस्यन्तश् च मां भक्त्या  
+**नित्य-युक्ता उपासते**॥9.14॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/14_satata~N_kIrtayan.md">
@@ -324,7 +326,7 @@ _________________
 श्रीभागवतोक्तप्रकारेण गुणगानं कुर्वन्तः; सर्वत्र मदुत्कर्षं कथयन्तः।
 यतन्तश्च कीर्तने यत्नादिकं कुर्वाणाः; इन्द्रियनिग्रहं वा कुर्वन्तः।
 चकारेण श्रवणादिकं ज्ञाप्यते। पुनः कीदृशाः दृढव्रताः दृढं
-ऐहिकपारलौकिकयोर्मदेकनिष्ठं मोहशा**त्रा৷৷৷৷৷৷৷৷৷৷৷৷**द्यपरिभूतं व्रतं
+ऐहिकपारलौकिकयोर्मदेकनिष्ठं मोहशात्राद्यपरिभूतं व्रतं
 निश्चयो येषां तादृशाः। किञ्च नमस्यन्तश्चकिमासनं ते गरुडासनाय इत्यादिना
 परमकाष्ठापन्नवस्तुरूपनमस्कारं कुर्वन्तः स्वदैन्याविर्भावपूर्वकं; चकारेण
 नृत्यादिकमपि कुर्वन्तः। पुनः कीदृशाः। नित्ययुक्ताः सावधानाः

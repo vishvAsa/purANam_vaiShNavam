@@ -2,11 +2,13 @@
 title = "28 यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः।  
-विगतेच्छाभयक्रोधो यः सदा मुक्त एव सः।।5.28।।
+**यतेन्द्रिय-मनो-बुद्धिर्**  
+मुनिर् मोक्ष-परायणः।  
+विगतेच्छा-भय-क्रोधो  
+यः **सदा मुक्त एव** सः॥5.28॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
@@ -369,7 +371,7 @@ _________________
 
 ।। 5.28ननु स्पर्शभावरूपा स्थितिरतिकठिना अतः स्पर्शसंयोगेऽपि या
 प्राप्तिः स्यात् स्पर्शजबन्धाभावे न तथा भवेदित्यभिप्रायेणाह स्पर्शानिति
-द्वयेन। बहिर्बाह्यान् स्पर्शान् कृत्वा बाह्याँल्लौकिकान्
+द्वयेन। बहिर्बाह्यान् स्पर्शान् कृत्वा बाह्याल्ँ लौकिकान्
 स्पर्शानिन्द्रियादिविषयभोगान् बहिः तेषूत्तमाद्यभावेन प्रारब्धकर्मभोगवत्।
 किञ्च पुनर्भ्रुवोः कालयमरूपयोरन्तरैव चक्षुः दृष्टिं कृत्वा कालयममध्ये
 मरणरूपोऽस्मीति दृष्ट्वा नासाभ्यन्तरचारिणौ प्राणापानावूर्ध्वाधोगतिरूपौ

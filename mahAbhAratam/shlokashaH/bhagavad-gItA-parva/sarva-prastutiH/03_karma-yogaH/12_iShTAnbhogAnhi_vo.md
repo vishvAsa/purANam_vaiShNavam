@@ -2,11 +2,13 @@
 title = "12 इष्टान्भोगान्हि वो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः।  
-तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः।।3.12।।
+इष्टान् **भोगान्** हि वो देवा  
+**दास्यन्ते** यज्ञ-भाविताः।  
+तैर् दत्तान् अप्रदायैभ्यो  
+यो भुङ्क्ते स्तेन एव सः॥3.12॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/12_iShTAnbhogAnhi_vo.md">
@@ -261,7 +263,7 @@ _________________
 
   
   
-।।3.12।। ननु श्रेयसोऽनेकरूपत्वात्किँल्लक्षण श्रेयःप्राप्तिर्भविष्यतीत्याह
+।।3.12।। ननु श्रेयसोऽनेकरूपत्वात्किल्ँ लक्षण श्रेयःप्राप्तिर्भविष्यतीत्याह
 इष्टानिति। वो युष्मभ्यं यज्ञभाविता देवा इष्टान् भोगान्
 वृष्ट्यादिकरणेनान्नाद्दीन् दास्यन्ते। यद्वा वो युष्मभ्यं इष्टान्
 यदेवेष्टं भवताम्। भगवत्सेवौपयिकबलाद्यर्थकान्नादिसम्पत्त्यर्थं

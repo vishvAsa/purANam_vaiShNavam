@@ -2,11 +2,13 @@
 title = "50 बुद्धियुक्तो जहातीह"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते।  
-तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्।।2.50।।
+बुद्धि-युक्तो **जहातीह**  
+उभे **सुकृत-दुष्कृते**।  
+तस्माद् **योगाय युज्यस्व**  
+योगः कर्मसु कौशलम्॥2.50॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
@@ -75,7 +77,7 @@ _________________
 
 ।।2.50।। ज्ञानफलमाह बुद्धियुक्त इति। सुकृतमप्यप्रियं मानुष्यादिफलं जहाति
 न बृहत्फलमुपासनादिनिमित्तम्। न हास्य कर्म क्षीयते बृ.उ.1।4।15
-अविदित्वाऽस्मिँल्लोके जुहोति यजते तपस्तप्यते बहूनि
+अविदित्वाऽस्मिल्ँ लोके जुहोति यजते तपस्तप्यते बहूनि
 वर्षसहस्राण्यन्तवदेवास्य तद्भवति बृ.उ.3।8।10 इत्यादिश्रुतिभ्यः। अतः
 कर्मक्षयश्रुतिरज्ञानिविषया सर्वत्र। उभयक्षयश्रुतिरप्यनिष्टविषया।
 नहीष्टपुण्यक्षये किञ्चित्प्रयोजनम्। न चेष्टनाशो ज्ञानिनो युक्तः।  

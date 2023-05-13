@@ -2,11 +2,13 @@
 title = "20 कामैस्तैस्तैर्हृतज्ञानाः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः।  
-तं तं नियममास्थाय प्रकृत्या नियताः स्वया।।7.20।।
+कामैस् तैस् तैर् **हृत-ज्ञानाः**  
+**प्रपद्यन्ते ऽन्यदेवताः**+++(=देवताव्यक्तिं, न तु देवग्रामम् अखिलम्)+++ ।  
+तं तं नियमम् आस्थाय  
+प्रकृत्या नियताः स्वया॥7.20॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">
@@ -87,14 +89,7 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।7.20 7.23।। कामैरित्यादि मामपीत्यन्तम्। ये पुनः स्वेन
-स्वेनोत्तमादिकामनास्वभावेन विचित्रेणपरिच्छिन्नमनसस्ते कामनापहृतचेतनाः +++(N
-चेतस)+++) तत्समुचितामेव ममैवावान्तरतनुं देवताविशेषमुपासते। अतो मत एव
-कामफलमुपाददते +++(S पासते)+++। किं तु तस्यान्तोऽस्ति निजयैव वासनया
-परिमितीकृतत्त्वात्। अत एवेन्द्रादिभावनातात्पर्येण यागादि
-कुर्वन्तस्तथाविधमेव फलमुपाददते। मत्प्राप्तिपरास्तु मामेव।
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">

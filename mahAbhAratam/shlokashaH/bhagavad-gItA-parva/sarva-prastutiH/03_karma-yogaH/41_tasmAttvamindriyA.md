@@ -2,11 +2,13 @@
 title = "41 तस्मात्त्वमिन्द्रियाण्यादौ"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/41_tasmAttvamindriyA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/41_tasmAttvamindriyA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ।  
-पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम्।।3.41।।
+तस्मात् त्वम् **इन्द्रियाण्य्** आदौ  
+**नियम्य** भरतर्षभ।  
+पाप्मानं **प्रजहि** ह्य् **एनं**  
+ज्ञान-विज्ञान-नाशनम्॥3.41॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/41_tasmAttvamindriyA.md">

@@ -2,11 +2,13 @@
 title = "12 अनिष्टमिष्टम् मिश्रम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम्।  
-भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित्।।18.12।।
+**अनिष्टम् इष्टं मिश्रं** च  
+त्रिविधं कर्मणः **फलम्**।  
+भवत्य् **अत्यागिनां** प्रेत्य  
+न तु संन्यासिनां क्वचित्॥18.12॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/12_aniShTamiShTam_mi.md">
@@ -32,7 +34,7 @@ _________________
 एतद् उक्तं भवति -- यद्यपि अग्निहोत्रमहायज्ञादीनि नित्यानि एव; तथापि
 जीवनाधिकारकामाधिकारयोः इव मोक्षाधिकारे च विनियोगपृथक्त्वेन परिह्रियते;
 मोक्षविनियोगः च -- तमेतं वेदानुवचनेन ब्राह्मणाविविदिषन्ति यज्ञेन दानेन
-तपसानाशकेन (बृ0 उ₀ 4।4।22) इत्यादिभिः इति। तद् एवं क्रियमाणेषु एव कर्मसु
+तपसानाशकेन (बृ॰ उ॰ 4।4।22) इत्यादिभिः इति। तद् एवं क्रियमाणेषु एव कर्मसु
 कर्तृत्वादिपरित्यागः शास्त्रसिद्धः संन्यासः स एव च त्याग इति
 उक्तः। इदानीं भगवति पुरुषोत्तमे अन्तर्यामिणि कर्तृत्वानुसंधानेन आत्मनि
 अकर्तृत्वानुसन्धानप्रकारम् आह। तत एव फलकर्मणोः अपि ममतापरित्यागो भवति

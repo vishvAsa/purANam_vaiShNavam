@@ -2,13 +2,13 @@
 title = "33 अथ चेत् त्वमिमम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अथ चेत् त्वम् इमं धर्म्यं  
-संग्रामं न करिष्यसि।  
-ततः स्वधर्मं कीर्तिं च  
-हित्वा पापम् अवाप्स्यसि।।2.33।।+++(4)+++
+अथ **चेत्** त्वम् इमं धर्म्यं  
+**संग्रामं न करिष्यसि**।  
+ततः स्वधर्मं **कीर्तिं** च  
+**हित्वा पापम् अवाप्स्यसि**॥2.33॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">

@@ -2,11 +2,13 @@
 title = "22 यत्तु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/22_yattu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम्।  
-अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम्।।18.22।।
+यत् तु कृत्स्न-वद् एकस्मिन्  
+कार्ये सक्तम् अहैतुकम्।  
+अ-तत्त्वार्थ-वद् अल्पं च  
+तत् **तामसम्** उदाहृतम्॥18.22॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/22_yattu.md">
@@ -267,12 +269,15 @@ _________________
 
   
   
-।।18.22।। तामसं ज्ञानमाह -- यत्त्विति। यत् एकस्मिन् कार्ये भक्ते
-लीलास्वरूपे वा कृत्स्नवत् पूर्णवत्; न तु
-सर्वलीलासामग्र्यादिविशिष्टार्विभूतभगवदनुभवानन्दभगवद्रूपत्वेन सक्तम्;
-असक्तम्; अहैतुकं भगवदाकारत्वेन,तत्स्मारकानन्दानुभवोपपत्तिरहितम्;
-अतत्त्वार्थवत् भगवदाविर्भाववियुक्तम्; अल्पं परिच्छिन्नं स्वरूपतः फलतश्च
-तज्ज्ञानं तामसं निष्फलं विपरीतफलं वा उदाहृतम्।  
+।।18.22।। तामसं ज्ञानमाह -- यत्त्विति। 
+
+**यत् एकस्मिन् कार्ये** भक्ते लीलास्वरूपे वा कृत्स्नवत् पूर्णवत्;  
+न तु सर्व-लीला-सामग्र्य्-आदि-विशिष्टाविर्-भूत-भगवद्-अनुभवानन्द-भगवद्-रूपत्वेन  
+**सक्तम्** आसक्तम्;  
+**अहैतुकं** भगवद्-आकारत्वेन, तत्-स्मारकानन्दानुभवोपपत्ति-रहितम्;  
+**अतत्त्वार्थवत्** भगवद्-आविर्भाव-वियुक्तम्;  
+**अल्पं** परिच्छिन्नं स्वरूपतः फलतश्च  
+तज् ज्ञानं **तामसं** निष्फलं विपरीतफलं वा **उदाहृतम्**।  
   
 
 </details>

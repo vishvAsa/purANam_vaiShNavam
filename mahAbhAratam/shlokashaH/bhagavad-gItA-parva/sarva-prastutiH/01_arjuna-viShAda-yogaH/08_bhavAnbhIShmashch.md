@@ -2,13 +2,13 @@
 title = "08 भवान्भीष्मश्च कर्णश्च"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/08_bhavAnbhIShmashch.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/08_bhavAnbhIShmashch.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 भवान् भीष्मश् च कर्णश् च  
 कृपश् च समितिञ्जयः।  
 अश्वत्थामा विकर्णश् च  
-सौमदत्तिस् तथैव च।।1.8।।
+सौमदत्तिस् तथैव च॥1.8॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/08_bhavAnbhIShmashch.md">
@@ -227,7 +227,7 @@ _________________
 कृपाचार्योऽपि तथा। एते सर्वेऽपि समिंतिञ्जयाः सङ्ग्रामजेतारः भिन्नतया
 सर्वेषां विशेषणम्। अश्वत्थामा त्वत्पुत्रः विकर्णश्च सौमदत्तिः
 भूरिश्रवाः। तथेति यथा भवदादयस्तुल्या अप्यस्मत्पक्षपातिनस्तथैव
-सौमदत्तिरित्यर्थः। **यद्वा (यथा)৷৷৷৷৷৷৷৷৷৷** तथैवेत्युत्तरत्र
+सौमदत्तिरित्यर्थः। यद्वा (यथा) तथैवेत्युत्तरत्र
 योज्यम्।  
   
   

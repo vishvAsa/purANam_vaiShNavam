@@ -2,11 +2,13 @@
 title = "11 अथैतदप्यशक्तोऽसि कर्तुम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/11_athaitadapyashakt.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/11_athaitadapyashakt.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः।  
-सर्वकर्मफलत्यागं ततः कुरु यतात्मवान्।।12.11।।
+अथैतद् अप्य् अशक्तोऽसि  
+कर्तुं, **मद्+++(=आत्म)+++-योगम् आश्रितः**।  
+**सर्व-कर्म-फल-त्यागं**  
+ततः कुरु यतात्मवान्॥12.11॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/11_athaitadapyashakt.md">
@@ -23,20 +25,30 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/12_bhakti-yogaH/11_athaitadapyashakt.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।12.11।। अथ मद्योगम् आश्रित्य **एतद् अपि कर्तुं** न शक्नोषि;
-मद्गुणानुसंधानकृतं मदेकप्रियत्वाकारं भक्तियोगम् आश्रित्य
-भक्तियोगाङ्गरूपम् एतद् मत्कर्म अपि कर्तुं न शक्नोषि **ततः** अक्षरयोगम्
-आत्मस्वभावानुसंधानरूपं परभक्तिजननं पूर्वषट्कोदितम् आश्रित्य तदुपायतया
-**सर्वकर्मफलत्यागं कुरु।** मत्प्रियत्वेन मदेकप्राप्यताबुद्धिः हि
-प्रक्षीणाशेषपापस्य एव जायते **यतात्मवान्** यतमनस्कः। ततः अनभिसंहितफलेन
-मदाराधनरूपेण अनुष्ठितेन कर्मणा सिद्धेन आत्मज्ञानेन
-निवृत्ताविद्यादिसर्वतिरोधाने मच्छेषतैकस्वरूपे प्रत्यगात्मनि साक्षात्कृते
-सति मयि परा भक्तिः स्वयम् एव उत्पद्यते।  
-  
-तथा च वक्ष्यते -- स्वकर्मणा तमभ्यर्चय सिद्धिं विन्दति मानवः। (गीता
-18।46) इत्यारभ्यविमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते।। ब्रह्मभूतः
-प्रसन्नात्मा न शोचति न काङ्क्षति।। समः सर्वेषु भूतेषु मद्भक्तिं लभते
-पराम्।। (18।5354) इति।
+।।12.11।। अथ मद्योगम् आश्रित्य **एतद् अपि कर्तुं** न शक्नोषि;  
+मद्गुणानुसंधान-कृतं मद्-एक-प्रियत्वाकारं भक्ति-योगम् आश्रित्य  
+भक्ति-योगाङ्ग-रूपम् एतद् मत्-कर्म अपि कर्तुं न शक्नोषि;  
+**ततः**  
+अक्षर-**योगम्** आत्म-स्वभावानुसंधान-रूपं पर-भक्ति-जननं पूर्व-+++(अध्याय??)+++षट्कोदितम् **आश्रित्य**  
+तद्-उपायतया **सर्व-कर्म-फल-त्यागं कुरु।**  
+मत्-प्रियत्वेन मद्-एक-प्राप्यता-बुद्धिः हि प्रक्षीणाशेष-पापस्य एव जायते।
+**यतात्मवान्** यतमनस्कः। 
+
+ततः अनभिसंहित-फलेन मद्-आराधन-रूपेण अनुष्ठितेन कर्मणा सिद्धेन आत्मज्ञानेन निवृत्ताविद्यादि-सर्व-तिरोधाने मच्छेषतैक-स्वरूपे प्रत्यग्-आत्मनि साक्षात्-कृते सति  
+मयि परा भक्तिः स्वयम् एव उत्पद्यते।  
+
+तथा च वक्ष्यते -- "स्व-कर्मणा तम् अभ्यर्चय सिद्धिं विन्दति मानवः।" (गीता
+18।46) इत्यारभ्य 
+
+&gt; विमुच्य निर्ममः शान्तो  
+&gt; ब्रह्मभूयाय कल्पते।।  
+&gt; ब्रह्मभूतः प्रसन्नात्मा  
+&gt; न शोचति न काङ्क्षति।।  
+&gt; समः सर्वेषु भूतेषु  
+&gt; मद्भक्तिं लभते पराम्।।  
+&gt; (18।5354) 
+
+इति।
 
 </details>
 </div>
@@ -108,38 +120,40 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/11_athaitadapyashakt.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.11 If you are unable to do even this 'taking refuge in My Yoga,'
-i.e., if you are unable even to do actions for My sake, which forms the
-sprout of Bhakti Yoga, wherein through meditation I am made the
-exclusive and sole object of love - then you should resort to Aksara
-Yoga described in the first six chapters. It consists in contemplation
-on the nature of the individual self. This engenders devotion to the
-Lord. As a means for practice of this (Aksara Yoga), renounce the fruit
-of every action. The state of mind that holds Me as the only worthy
-object of attainment and love arises only when all the sins of an
-aspirant are destroyed without exception. 'One with a controlled mind'
-means one with the mind subdued. When the individual self is visualised
-to be of the nature of a Sesa (subsidiary) to the Lord, and when the
-veil of nescience consisting in identifying the self with the body is
-removed by contemplation on the self generated through the performance
-of works without attachment to the fruits and with My propitiation as
-the sole objective - then supreme Bhakti to Me will originate by itself.
-\[The point driven home is this: It is nescience that stands between the
-Jiva and the Lord. This nescience consists in identification of the self
-with the body. It is through works done without an eye on their fruits
-but exclusively as an offering to the Lord, that this nescience is
-removed. Thus Karma Yoga is the sprout of self-realisation, and of
-Bhakti. On the nescience being removed, the knowledge that one (i.e.,
-the Jiva) is a Sesa (an absolutely dependent liege) of the Lord, dawns
-on the Jiva. Such knowledge generates exclusive devotion or Bhakti
-accompanied by Prapatti. Or if the Jiva gets immersed in Its own bliss,
-It will attain Kaivalya.\] In the same manner, Sri Krsna will further
-show in the text beginning with 'By worshipping Him with his work will a
-man reach perfection' (18.46) and ending with 'Forsaking the feeling of
-"I" and with no feeling of "mine" and tranil, one becomes worthy of the
-state of Brahman. Having realised the state of Brahman, tranil, he
-neither grieves nor craves. Regarding all beings alike, he attains
-supreme devotion to Me' (18.53-54).
+12.11 If you are unable to do even this 'taking refuge in My Yoga,'  
+i.e., if you are unable even to do actions for My sake, which forms the sprout of Bhakti Yoga,  
+wherein through meditation I am made the exclusive and sole object of love -  
+then you should resort to Aksara Yoga described in the first six chapters. 
+
+It consists in contemplation on the nature of the individual self.  
+This engenders devotion to the Lord.  
+As a means for practice of this (Aksara Yoga), renounce the fruit of every action.  
+
+The state of mind that holds Me as the only worthy object of attainment and love arises only when all the sins of an aspirant are destroyed without exception.  
+
+'One with a controlled mind' means one with the mind subdued. 
+
+When the individual self is visualised to be of the nature of a Sesa (subsidiary) to the Lord,  
+and when the veil of nescience consisting in identifying the self with the body is removed by contemplation on the self  
+generated through the performance of works without attachment to the fruits  
+and with My propitiation as the sole objective -  
+then supreme Bhakti to Me will originate by itself.
+
+\[The point driven home is this:  
+It is nescience that stands between the Jiva and the Lord.  
+This nescience consists in identification of the self with the body.  
+It is through works done without an eye on their fruits but exclusively as an offering to the Lord, that this nescience is removed.  
+Thus Karma Yoga is the sprout of self-realisation, and of Bhakti.  
+On the nescience being removed, the knowledge that one (i.e., the Jiva) is a Sesa (an absolutely dependent liege) of the Lord, dawns on the Jiva.  
+Such knowledge generates exclusive devotion or Bhakti accompanied by Prapatti.  
+Or if the Jiva gets immersed in Its own bliss, It will attain Kaivalya.\] 
+
+In the same manner, Sri Krsna will further show in the text beginning with 'By worshipping Him with his work will a man reach perfection' (18.46)  
+and ending with 
+
+&gt; 'Forsaking the feeling of "I" and with no feeling of "mine" and tranquil, one becomes worthy of the state of Brahman.  
+&gt; Having realised the state of Brahman, tranquil, he neither grieves nor craves.  
+&gt; Regarding all beings alike, he attains supreme devotion to Me' (18.53-54).
 
 </details>
 </div>
@@ -150,20 +164,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/12_bhakti-yogaH/11_athaitadapyashakt.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
 
-।।12.11।। अथेति। यदि च भगवत्कर्म कर्तुं न शक्तोऽसि; +++(N न शक्नोषि)+++ ;
-अज्ञत्वात्,शास्त्रोक्तक्रमावेदनात् तत् सर्वं मयि संन्यसेः +++(N संन्यस्येः)+++
-आत्मनिवेदनद्वारेणेत्याशयः। अमुमेवाशयमाश्रित्य लघुप्रक्रियायां मयैवोक्तम्
--- ऊनाधिकमविज्ञातं पौर्वापर्यविवर्जितम्।  
+।।12.11।। अथेति। यदि च **भगवत्-कर्म** कर्तुं **न** शक्तोऽसि; +++(N न शक्नोषि)+++ ;
+अज्ञत्वात्, शास्त्रोक्त-क्रमावेदनात्  
+तत् सर्वं मयि संन्यसेः +++(N संन्यस्येः)+++ आत्म-निवेदन-द्वारेणेत्याशयः। 
+
+अमुमेवाशयमाश्रित्य लघुप्रक्रियायां मयैवोक्तम् -- 
+
+&gt; ऊनाधिकम् अविज्ञातं  
+&gt; पौर्वापर्यविवर्जितम्।  
+&gt; यच् चावधानरहितं  
+&gt; बुद्धेर्विस्खलितं च यत्।।  
+&gt; तत्सर्वं मम सर्वेश  
+&gt; भक्तस्यार्तस्य दुर्मतेः।  
+&gt; क्षन्तव्यं कृपया शम्भो  
+&gt; यतस्त्वं करुणापरः।।  
+&gt; अनेन स्तोत्रयोगेन  
+&gt; तवात्मानं निवेदये +++(S निवेदयेत)+++।  
+&gt; पुनर् निष्कारणमहं  
+&gt; दुःखानां नैमि पात्रताम्।। 
+
+इति  
   
-यच्चावधानरहितं बुद्धेर्विस्खलितं च यत्।। तत्सर्वं मम सर्वेश
-भक्तस्यार्तस्य दुर्मतेः।  
-  
-क्षन्तव्यं कृपया शम्भो यतस्त्वं करुणापरः।। अनेन स्तोत्रयोगेन तवात्मानं
-निवेदये +++(S निवेदयेत)+++।  
-  
-पुनर्निष्कारणमहं दुःखानां नैमि पात्रताम्।। इति  
-  
-पारमेश्वरेषु हि सिद्धान्तशास्त्रेषु आत्मनिवेदने अयमेवाभिप्रायः।
+पारमेश्वरेषु हि सिद्धान्तशास्त्रेषु आत्मनिवेदने अयम् एवाभिप्रायः।
 
 </details>
 </div>
@@ -183,9 +205,7 @@ Yours; for you are compassionate; With this prayer-Yoga, I offer myself
 to You \[so that\] I do not become a receptacle of miseries again
 unnecessarily.' the same idea may be observed in the scriptural texts of
 the Siddhanta \[system\] - that have the Supreme Lord as their subject
-matter - while they speak of offering oneself \[to the Lord\]. The same
-purport is summed up -
-
+matter - while they speak of offering oneself \[to the Lord\].
 </details>
 </div>
 
@@ -213,11 +233,13 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/12_bhakti-yogaH/11_athaitadapyashakt.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
-।।12.11।। --,अथ पुनः **एतदपि** यत् उक्तं मत्कर्मपरमत्वम्; तत् **कर्तुम्
-अशक्तः असि; मद्योगम् आश्रितः** मयि क्रियमाणानि कर्माणि संन्यस्य यत् करणं
-तेषाम् अनुष्ठानं सः मद्योगः; तम् आश्रितः सन्; **सर्वकर्मफलत्यागं**
-सर्वेषां कर्मणां फलसंन्यासं सर्वकर्मफलत्यागं **ततः** अनन्तरं **कुरु
-यतात्मवान्** संयतचित्तः सन् इत्यर्थः।। इदानीं सर्वकर्मफलत्यागं स्तौति --,
+।।12.11।। अथ पुनः **एतदपि** यत् उक्तं मत्कर्मपरमत्वम्; तत् **कर्तुम् अशक्तः असि; मद्योगम् आश्रितः** मयि क्रियमाणानि कर्माणि संन्यस्य  
+यत् करणं तेषाम् अनुष्ठानं  
+सः मद्योगः; तम् आश्रितः सन्;  
+**सर्व-कर्म-फल-त्यागं** सर्वेषां कर्मणां फल-संन्यासं सर्व-कर्म-फल-त्यागं  
+**ततः** अनन्तरं  
+**कुरु यतात्मवान्** संयतचित्तः सन् इत्यर्थः।। 
+
 
 </details>
 </div>
@@ -315,13 +337,13 @@ _________________
 
   
   
-।।12.11।। एतत्प्राप्त्यर्थमतिसुगमोपायमाह -- अथैतदिति। अथ चेत् एतदपि
-मदर्थकं कर्तुमशक्तोऽसि न समर्थोऽसि; स्वरूपाज्ञानात् तदा मद्योगं मम योगः
-संयोगो यस्मिन् यस्य वा तादृशं भक्तमाश्रितः सन् यतात्मवान् तदेकपरचित्तो
-भूत्वा सर्वकर्मफलत्यागं सन्ध्यावन्दनाग्निहोत्रादीनां स्वर्गादिरूपफलानां
-त्यागं कुरु; चिन्तनं त्यजेत्यर्थः। तत्फलानभिलाषे मदाज्ञया करणात्
-कर्मभिश्चित्तशुद्ध्या मद्भक्तोपदिष्टं ज्ञानं स्थिरीभविष्यति; तेन
-मत्कर्मसिद्धिर्भविष्यतीति भावः।  
+।।12.11।। एतत्-प्राप्त्य्-अर्थम् अतिसुगमोपायम् आह -- अथैतदिति। 
+
+**अथ** चेत् **एतद् अपि** मदर्थकं **कर्तुम् अशक्तोऽसि** न समर्थोऽसि; स्वरूपाज्ञानात् तदा  
+**मद्योगं** मम योगः संयोगो यस्मिन् यस्य वा तादृशं भक्तम् **आश्रितः** सन् यतात्मवान् तदेकपरचित्तो भूत्वा  
+**सर्वकर्मफलत्यागं** सन्ध्यावन्दनाग्निहोत्रादीनां स्वर्गादिरूपफलानां त्यागं कुरु; चिन्तनं त्यजेत्यर्थः। 
+
+तत्फलानभिलाषे मद्-आज्ञया करणात् कर्मभिश् चित्तशुद्ध्या मद्भक्तोपदिष्टं ज्ञानं स्थिरीभविष्यति; तेन मत्-कर्म-सिद्धिर् भविष्यतीति भावः।  
   
 
 </details>

@@ -2,11 +2,13 @@
 title = "04 निश्चयं श्रृणु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-निश्चयं श्रृणु मे तत्र त्यागे भरतसत्तम।  
-त्यागो हि पुरुषव्याघ्र त्रिविधः संप्रकीर्तितः।।18.4।।
+**निश्चयं श्रृणु** मे तत्र  
+त्यागे भरत-सत्तम।  
+**त्यागो** हि पुरुष-व्याघ्र  
+**त्रिविधः** संप्रकीर्तितः॥18.4॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/04_nishchayaM_shrRNu.md">

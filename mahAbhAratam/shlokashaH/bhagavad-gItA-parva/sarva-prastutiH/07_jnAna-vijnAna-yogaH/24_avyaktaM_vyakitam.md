@@ -2,11 +2,13 @@
 title = "24 अव्यक्तं व्यक्ितमापन्नम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/24_avyaktaM_vyakitam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/07_jnAna-vijnAna-yogaH/24_avyaktaM_vyakitam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः।  
-परं भावमजानन्तो ममाव्ययमनुत्तमम्।।7.24।।
+**अव्यक्तं** व्यक्तिम् आपन्नं  
+**मन्यन्ते** माम् **अबुद्धयः**।  
+परं भावम् अजानन्तो  
+मम् आव्ययम् अनुत्तमम्॥7.24॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/07_jnAna-vijnAna-yogaH/24_avyaktaM_vyakitam.md">

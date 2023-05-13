@@ -2,12 +2,15 @@
 title = "36 अथ केन"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/36_atha_kena.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/36_atha_kena.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अर्जुन उवाच  
-अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः।  
-अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः।।3.36।।
++++(अर्जुन उवाच)+++
+
+अथ **केन** प्रयुक्तो ऽयं  
+**पापं चरति** पूरुषः।  
+अनिच्छन्न् अपि वार्ष्णेय  
+बलाद् इव नियोजितः॥3.36॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/36_atha_kena.md">
@@ -134,6 +137,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/03_karma-yogaH/36_atha_kena.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
 
+
+यद्य् अपि अनर्थमूलम् ध्यायतो विषयान् पुंसः (गीता 2.62) इति रागद्वेषौ ह्यस्य परिपन्थिनौ इति च +उक्तम्,  
+विक्षिप्तम् अनवधारितं च तदुक्तम्।
+
+तत् संक्षिप्तं निश्चितं च इदम् एवेति ज्ञातुम् इच्छन् अर्जुनः उवाच ज्ञाते हि तस्मिन् तदुच्छेदाय यत्नं कुर्याम् इति अर्जुन उवाच -
+
 ।।3.36।। **अथ केन** हेतुभूतेन **प्रयुक्तः** सन् राज्ञेव भृत्यः **अयं
 पापं** कर्म **चरति** आचरति **पूरुषः** पुरुषः स्वयम् **अनिच्छन् अपि** हे
 **वार्ष्णेय** वृष्णिकुलप्रसूत **बलात् इव नियोजितः** राज्ञेव इत्युक्तो
@@ -165,6 +174,14 @@ _________________
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः (Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/english/gambhIrAnandaH/03_karma-yogaH/36_atha_kena.md">
 <details><summary><h3>(सं) शङ्करः (Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
+
+Although the root cause of evil was stated in, 'In the case of a
+person who dwells on objects' (2.62) and 'because they (attraction
+and repulsion) are his adversaries' (34), that was presented desultorily
+and vaguely. Wishing to know it briefly and definitely as, 'This is
+thus, to be sure', Arjuna, with the idea, 'When this indeed becomes
+known, I shall make effort for its eradication', said:
+
 
 3.36 Atha, now then; varsneya, O scion of the Vrsni dynasty; being
 prayuktah, impelled; kena, by what acting as the cause; as a servant is

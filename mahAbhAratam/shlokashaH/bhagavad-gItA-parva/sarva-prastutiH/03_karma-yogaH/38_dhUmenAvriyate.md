@@ -2,11 +2,13 @@
 title = "38 धूमेनाव्रियते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/38_dhUmenAvriyate.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/38_dhUmenAvriyate.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-धूमेनाव्रियते वह्निर्यथाऽऽदर्शो मलेन च।  
-यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्।।3.38।।
+धूमेनाव्रियते वह्निर्  
+यथा ऽऽदर्शो मलेन च।  
+यथोल्बेनावृतो गर्भस्  
+तथा **तेनेदम् आवृतम्**॥3.38॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/38_dhUmenAvriyate.md">

@@ -2,11 +2,13 @@
 title = "28 युञ्जन्नेवं सदाऽऽत्मानम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-युञ्जन्नेवं सदाऽऽत्मानं योगी विगतकल्मषः।  
-सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते।।6.28।।
+युञ्जन्न् एवं सदाऽऽत्मानं  
+**योगी** विगत-कल्मषः।  
+सुखेन **ब्रह्म-संस्पर्शम्**  
+अत्यन्तं सुखम् **अश्नुते**॥6.28॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">

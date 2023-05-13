@@ -2,11 +2,13 @@
 title = "14 अन्नाद्भवन्ति भूतानि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/14_annAdbhavanti_bhU.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/14_annAdbhavanti_bhU.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः।  
-यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।3.14।।
+अन्नाद् भवन्ति भूतानि  
+पर्जन्याद् अन्न-सम्भवः।  
+**यज्ञाद्** भवति **पर्जन्यो**  
+**यज्ञः कर्म-समुद्भवः**॥3.14॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/14_annAdbhavanti_bhU.md">
@@ -26,7 +28,7 @@ _________________
 ।।3.14।।**अन्नात्** सर्वाणि **भूतानि भवन्ति पर्जन्याद् अन्नसंभवः** इति
 सर्वलोकसाक्षिकम्। **यज्ञात् पर्जन्यो भवति** इति च शास्त्रेण अवगम्यते
 अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते। आदित्याज्जायते
-वृष्टिर्वृष्टेरन्नं ततः प्रजाः।। (मनु0 3।76) इत्यादिना। **यज्ञः** च
+वृष्टिर्वृष्टेरन्नं ततः प्रजाः।। (मनु॰ 3।76) इत्यादिना। **यज्ञः** च
 द्रव्यार्जनादिकर्तृपुरुषव्यापाररूप**कर्मसमुद्भवः।**
 
 </details>

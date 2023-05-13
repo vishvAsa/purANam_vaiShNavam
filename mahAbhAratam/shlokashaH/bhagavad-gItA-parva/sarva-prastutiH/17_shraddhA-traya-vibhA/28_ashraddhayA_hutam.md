@@ -2,11 +2,13 @@
 title = "28 अश्रद्धया हुतम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अश्रद्धया हुतं दत्तं तपस्तप्तं कृतं च यत्।  
-असदित्युच्यते पार्थ न च तत्प्रेत्य नो इह।।17.28।।
+**अश्रद्धया हुतं** दत्तं  
+तपस् तप्तं कृतं च यत्।  
+**असद्** इत्य् उच्यते पार्थ  
+न च तत् प्रेत्य नो इह +++(फलदम्)+++॥17.28॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/28_ashraddhayA_hutam.md">

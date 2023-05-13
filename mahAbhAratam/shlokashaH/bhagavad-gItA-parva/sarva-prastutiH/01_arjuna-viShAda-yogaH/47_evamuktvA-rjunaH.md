@@ -2,15 +2,16 @@
 title = "47 एवमुक्त्वाऽर्जुनः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सञ्जय उवाच  
++++(सञ्जय उवाच)+++
 
-एवम् उक्त्वा ऽर्जुनः संख्ये  
-रथोपस्थ उपाविशत्।  
+
+एवम् **उक्त्वा** ऽर्जुनः संख्ये  
+रथोपस्थ **उपाविशत्**।  
 विसृज्य सशरं चापं  
-शोक-संविग्न-मानसः।।1.47।।
+शोक-संविग्न-मानसः॥1.47॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
@@ -28,12 +29,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।1.47।। अर्जुन उवाच संजय उवाच स तु पार्थो महामनाः परमकारुणिको
+स तु पार्थो महामनाः परमकारुणिको
 दीर्घबन्धुः परमधार्मिकः सभ्रातृको भवद्भिः अतिघोरैः मारणैः जतुगृहादिभिः
 असकृद् वञ्चितः अपि परमपुरुषसहायः अपि हनिष्यमाणान् भवदीयान् विलोक्य
 बन्धुस्नेहेन परमया च कृपया धर्माधर्मभयेन च अतिमात्रस्विन्नसर्वगात्रः
 सर्वथा अहं न योत्स्यामि इति उक्त्वा बन्धुविश्लेषजनितशोकसंविग्नमानसः सशरं
-चापं विसृज्य रथोपस्थे उपाविशत्।
+चापं विसृज्य रथोपस्थे उपाविशत्।  
 
 </details>
 </div>
@@ -177,10 +178,6 @@ _________________
 
 </details>
 </div>
-
-
-_________________
-## संस्कृतटीकान्तरम्
 
 
 _________________

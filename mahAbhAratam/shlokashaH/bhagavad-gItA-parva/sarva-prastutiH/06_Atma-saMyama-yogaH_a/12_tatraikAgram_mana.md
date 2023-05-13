@@ -2,11 +2,13 @@
 title = "12 तत्रैकाग्रम् मनः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः।  
-उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये।।6.12।।
+**तत्रैकाग्रं मनः** कृत्वा  
+यत-चित्तेन्द्रिय-क्रियः।  
+उपविश्यासने **युञ्ज्याद्**  
+योगम् आत्म-विशुद्धये॥6.12॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/12_tatraikAgram_mana.md">

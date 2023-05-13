@@ -2,12 +2,15 @@
 title = "33 योऽयं योगस्त्वया"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अर्जुन उवाच  
-योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन।  
-एतस्याहं न पश्यामि चञ्चलत्वात् स्थितिं स्थिराम्।।6.33।।
++++(अर्जुन उवाच)+++
+
+योऽयं **योगस्** त्वया प्रोक्तः  
+**साम्येन** मधुसूदन।  
+एतस्याहं **न पश्यामि**  
+चञ्चलत्वात् **स्थितिं स्थिराम्**॥6.33॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">

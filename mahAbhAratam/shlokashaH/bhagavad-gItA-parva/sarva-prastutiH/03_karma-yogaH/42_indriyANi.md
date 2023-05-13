@@ -2,11 +2,13 @@
 title = "42 इन्द्रियाणि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/42_indriyANi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/42_indriyANi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः।  
-मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः।।3.42।।
+**इन्द्रियाणि** पराण्य् आहुर्  
+इन्द्रियेभ्यः परं **मनः**।  
+मनसस्तु परा **बुद्धिर्**  
+यो बुद्धेः **परतस् तु सः**॥3.42॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/42_indriyANi.md">

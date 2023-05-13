@@ -2,12 +2,15 @@
 title = "03 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
-लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ।  
-ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम्।।3.3।।
++++(श्री भगवानुवाच)+++
+
+लोकेऽस्मिन् **द्विविधा निष्ठा**  
+पुरा **प्रोक्ता** मयानघ।  
+ज्ञान-योगेन साङ्ख्यानां  
+कर्मयोगेन योगिनाम्॥3.3॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">

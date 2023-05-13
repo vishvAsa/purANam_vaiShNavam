@@ -2,18 +2,20 @@
 title = "40 न तदस्ति"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः।  
-सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्ति्रभिर्गुणैः।।18.40।।
+न तद् अस्ति पृथिव्यां वा  
+दिवि देवेषु वा पुनः।  
+**सत्त्वं** प्रकृतिजैर् मुक्तं  
+यदेभिः स्यात् **त्रिभिर् गुणैः**॥18.40॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
 न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः।  
-सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्ति्रभिर्गुणैः।।18.40।।
+सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः।।18.40।।
 </details>
 </div>
 
@@ -25,7 +27,7 @@ _________________
 
 ।।18.40।।**पृथिव्यां** मनुष्यादिषु **दिवि देवेषु वा** प्रकृतिसंसृष्टेषु
 ब्रह्मादिस्थावरान्तेषु **प्रकृतिजैः एभिः त्रिभिः गुणैः मुक्तं यत्
-सत्त्वं** प्राणिजातं **न तद् अस्ति। त्यागेनैके अमृतत्वमानशुः (महाना0
+सत्त्वं** प्राणिजातं **न तद् अस्ति। त्यागेनैके अमृतत्वमानशुः (महाना॰
 8।14) इत्यादिषु मोक्षसाधनतया निर्दिष्टः त्यागः संन्यासशब्दार्थाद्
 अनन्यः; स च क्रियमाणेषु एव कर्मसु कर्तृत्वत्यागमूलः फलकर्मणोः त्यागः
 कर्तृत्वत्यागः च परमपुरुषे कर्तृत्वानुसन्धानेन इति उक्तम्। एतत् सर्वं

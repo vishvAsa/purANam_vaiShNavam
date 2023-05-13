@@ -2,11 +2,13 @@
 title = "51 कर्मजम् बुद्धियुक्ता"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः।  
-जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्।।2.51।।
+कर्म-जं **बुद्धि-युक्ता** हि  
+फलं त्यक्त्वा मनीषिणः।  
+जन्म-बन्ध-विनिर्मुक्ताः  
+**पदं गच्छन्त्य् अनामयम्**॥2.51॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">

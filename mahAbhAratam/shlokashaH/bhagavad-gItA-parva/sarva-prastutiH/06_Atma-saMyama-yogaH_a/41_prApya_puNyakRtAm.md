@@ -2,11 +2,13 @@
 title = "41 प्राप्य पुण्यकृताम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः।  
-शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते।।6.41।।
+**प्राप्य पुण्य-कृतां लोकान्**  
+उषित्वा शाश्वतीः समाः।  
+शुचीनां श्रीमतां गेहे  
+**योग-भ्रष्टो ऽभिजायते**॥6.41॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
@@ -225,7 +227,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) वल्लभः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vallabhaH/mUlam/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 <details><summary><h3>(सं) वल्लभः मूलम् ...{Loading}...</h3></summary>
 
-।।6.41।। किन्तु पुण्यकृताँल्लोकान् प्राप्य यावत् कल्याणकर्मफलभोगेन
+।।6.41।। किन्तु पुण्यकृताल्ँ लोकान् प्राप्य यावत् कल्याणकर्मफलभोगेन
 शाश्वतीः समा वर्षानुषित्वा मध्ये भ्रंशात्पूर्वकृतादेव हेतोरिह
 योगभ्रष्टोऽभिजायते परं श्रीमतां शुचीनां सदाचाराणां गेहे जन्मवान् भवति
 अशुभस्याकृतत्वात्तत्फलभाक् न भवति इति भावः।
@@ -244,7 +246,7 @@ _________________
 शाश्वतीः समाः बहून् संवत्सरान् उषित्वा स्थित्वा तत्फलभोगं कृत्वा तत्र
 विचिकित्सयाऽभावकेन मनसा पूर्वश्रद्धासाधनेनैव भवति। जन्मप्रार्थनया
 शुचीनां कापट्यादिदोषरहितानां श्रीमतां भगवच्छोभायुक्तानां भक्तानां
-गृहेऽभिजायते जन्म प्राप्नोति। उपसर्गेण **स৷৷৷৷৷৷৷৷৷৷৷৷৷৷.**रतिपूर्वकं
+गृहेऽभिजायते जन्म प्राप्नोति। उपसर्गेण सरतिपूर्वकं
 प्राप्तिर्ज्ञापिता।  
   
 

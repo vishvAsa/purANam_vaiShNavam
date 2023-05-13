@@ -2,11 +2,13 @@
 title = "09 इन्द्रियार्थेषु"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-इन्द्रियार्थेषु वैराग्यमनहङ्कार एव च।  
-जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम्।।13.9।।
+इन्द्रियार्थेषु **वैराग्यम्**  
+**अनहङ्कार** एव च।  
+जन्म-मृत्यु-जरा-व्याधि-  
+**दुःख-दोषानुदर्शनम्** …॥13.9॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
@@ -23,10 +25,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।13.9।।**असक्तिः** आत्मव्यतिरिक्तविषयेषु सङ्गरहितत्वम्;
-**अनभिष्वङ्गःपुत्रदारगृहादिषु** तेषु शास्त्रीयकर्मोपकरणत्वातिरेकेण
-आश्लेषरहितत्वम् **नित्यं च समचित्तत्वम् इष्टानिष्टोपपत्तिषु** --
-संकल्पप्रभवेषु इष्टानिष्टोपनिपातेषु हर्षोद्वेगरहितत्वम्।
+।।13.8।।**इन्द्रियार्थेषु** **वैराग्यम्** आत्मव्यतिरिक्तेषु विषयेषु
+सदोषतानुसंधानेन उद्वेजनम्। **अनहंकारः** अनात्मनि देहे
+आत्माभिमानरहितत्वम्; प्रदर्शनार्थम् इदम्; अनात्मीयेषु
+आत्मीयाभिमानरहितत्वं च अपिविवक्षितम्।
+**जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम्** -- सशरीरत्वे
+जन्ममृत्युजराव्याधिदुःखस्वरूपस्य दोषस्य अवर्जनीयत्वानुसंधानम्।
 
 </details>
 </div>
@@ -75,22 +79,12 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।13.8 -- 13.12।। एवं क्षेत्रं व्याख्यातम्; क्षेत्रज्ञश्च। इदानीं
-ज्ञानमुच्यते -- अमानित्वमित्यादि अन्यथा इत्यन्तम्। अनन्ययोगेनेति --
-परमात्मनो महेश्वारत् अन्यत् अपरं न किंचिदस्ति इत्यनन्यरूपो यो निश्चयः; स
-एव योगः तेन निश्चयेन मयि भक्तिः। अत एव सा न कदाचित् व्यभिचरति;
-व्यभिचारहेतुत्वाभिमतानां +++(S;;N -- त्वाभिगतानाम्)+++ कामनानामभावात्; तासामपि
-वा चित्तवृत्त्यन्तररूपाणां तदेकमयत्त्वात्। एवं सर्वत्रानुसन्धेयम्।
-एतद्विपरीतम् अज्ञानम् यथा मानित्वादीनि।
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/13_xetra-xetrajna-yogaH/08_amAnitvamadambhit.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
-
-13.9 See Comment under 13.12
-
+<div class="js_include" includetitle="false" newlevelforh1="5" unfilled="" url="/purANam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/12_adhyAtmajnAnanity.md"></div>
 </details>
 </div>
 
@@ -191,15 +185,25 @@ Moreover,
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/13_xetra-xetrajna-yogaH/09_indriyArtheShu.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।13.9।। ज्ञानस्यान्तरङ्गमेव हेत्वन्तरमाह -- **किञ्चेति।**
-नन्वसक्तिरेवाभिष्वङ्गाभावस्तथाच
-पुनरुक्तिरित्याशङ्क्याभिष्वङ्गोक्तिद्वारा निरस्यति -- **अभिष्वङ्गो
-नामेति।** अन्यस्मिन्नेव पुत्रादावन्यत्वधिया तद्गते सुखादावात्मनि
-तद्भावनाख्यं शक्तिविशेषमेवोदाहरति -- **यथेति।**
-उक्तविशेषणयोराकाङ्क्षाद्वारा विषयमाह -- **क्वेत्यादिना।**
-उक्तविशेषणयोर्ज्ञानशब्दस्योपपत्तिमाह -- **तच्चेति।** सदा
-हर्षविषादशून्यमनस्त्वमपि ज्ञानहेतुरित्याह -- **नित्यं चेति।** तदेव
-विभजते -- **इष्टेति।** तस्य ज्ञानहेतुत्वं निगमयति -- **तच्चैतदिति।**
+।।13.8।। न केवलममानित्वादीन्येव ज्ञानस्यान्तरङ्गसाधनानि किंतु
+वैराग्यादीन्यपि तथाविधानि सन्तीत्याह -- **किञ्चेति।**
+दृष्टादृष्टेष्वनेकार्थेषु रागे तत्प्रतिबद्धं ज्ञानं नोत्पद्येतेति मत्वा
+व्याकरोति -- **इन्द्रियेति।** आविर्भूतो गर्वोऽहंकारस्तदभावोऽपि
+ज्ञानहेतुरित्याह -- **अनहंकार इति।** इन्द्रियार्थेषु
+वैराग्यमुक्तमुपपादयति -- **जन्मेति।** प्रत्येकं दोषानुदर्शनमित्युक्तं
+तत्र जन्मनि दोषानुदर्शनं विशदयति -- **जन्मनीति।** यथा जन्मनि
+दोषानुसंधानं तथा मृत्यौ दोषस्य सर्वमर्मनिकृन्तनादेरालोचनं कार्यमित्याह
+-- **तथेति।** जन्मनि मृत्यौ च दोषानुसंधानवज्जरादिष्वपि दोषानुसंधानं
+कर्तव्यमित्याह -- **तथेति।** व्याधिषु दोषस्यासह्यतारूपस्यानुसंधानं;
+दुःखेषु त्रिविधेष्वपि दोषानुसंधानं प्रसिद्धम्। व्याख्यानान्तरमाह --
+**अथवेति।** यथा जन्मादिषु दुःखान्तेषु दोषदर्शनमुक्तं तथा तेष्वेव
+दुःखाख्यदोषस्य दर्शनं स्फुटयति -- **दुःखमित्यादिना।** कथं जन्मादीनां
+बाह्येन्द्रियग्राह्याणां दुःखत्वं तत्राह -- **दुःखेति।** जन्मादिषु
+दोषानुदर्शनकृतं फलमाह -- **एवमिति।** वैराग्ये सत्यात्मदृष्ट्यर्थं
+करणानां तदाभिमुख्येन प्रवृत्तिरिति वैराग्यफलमाह -- **तत इति।**
+जन्मादिदुःखदोषानुदर्शनं ज्ञानहेतुषु किमित्युपसंख्यातमित्याशङ्क्य
+वैराग्यद्वारा धीहेतुत्वादित्याह -- **एवमिति।**
+
 
 </details>
 </div>

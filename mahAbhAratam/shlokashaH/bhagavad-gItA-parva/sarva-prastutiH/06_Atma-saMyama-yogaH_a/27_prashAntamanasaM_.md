@@ -2,11 +2,13 @@
 title = "27 प्रशान्तमनसं ह्येनम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम्।  
-उपैति शान्तरजसं ब्रह्मभूतमकल्मषम्।।6.27।।
+प्रशान्त-मनसं ह्य् एनं  
+**योगिनं सुखम्** उत्तमम्।  
+**उपैति** शान्त-रजसं  
+ब्रह्म-भूतम् अकल्मषम्॥6.27॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">

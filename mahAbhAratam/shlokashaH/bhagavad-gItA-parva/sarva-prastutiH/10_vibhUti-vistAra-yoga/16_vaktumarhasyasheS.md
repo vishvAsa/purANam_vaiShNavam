@@ -2,11 +2,13 @@
 title = "16 वक्तुमर्हस्यशेषेण दिव्या"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/16_vaktumarhasyasheS.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/16_vaktumarhasyasheS.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः।  
-याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि।।10.16।।
+**वक्तुम्** अर्हस्य् अशेषेण  
+दिव्या ह्य् **आत्म-विभूतयः**।  
+याभिर् विभूतिभिर् लोकान्  
+इमांस् त्वं व्याप्य तिष्ठसि॥10.16॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/16_vaktumarhasyasheS.md">
@@ -178,7 +180,7 @@ iman, these; lokan, worlds.
 <details><summary><h3>(सं) शङ्करः धनपतिः ...{Loading}...</h3></summary>
 
 ।।10.16।। अतोऽप्राकृता हि आत्मनो विभूतयः माहात्म्यविस्ताराः यास्ताः
-वक्तुमर्हसि। याभिर्विभूतिस्त्वमिमाँल्लोकान्वाप्य तिष्ठसि।
+वक्तुमर्हसि। याभिर्विभूतिस्त्वमिमाल्ँ लोकान्वाप्य तिष्ठसि।
 
 </details>
 </div>
@@ -191,7 +193,7 @@ _________________
 
 ।।10.16।। यतो देवादयो न विदुस्तस्माद्वक्तुमर्हसि अशेषेणेति। या
 दिव्यास्तवासाधारण्यो विभूतयः ता अशेषेण वद। याभिः
-स्वांशभवनरूपैर्नियमनविशेषैर्गुणभूतैस्तदात्मभूतैश्चेमाँल्लोकांस्त्रीन्
+स्वांशभवनरूपैर्नियमनविशेषैर्गुणभूतैस्तदात्मभूतैश्चेमाल्ँ लोकांस्त्रीन्
 व्याप्य तिष्ठसि।
 
 </details>

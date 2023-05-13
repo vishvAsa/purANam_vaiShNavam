@@ -2,11 +2,13 @@
 title = "36 असंयतात्मना योगो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-असंयतात्मना योगो दुष्प्राप इति मे मतिः।  
-वश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः।।6.36।।
+असंयतात्मना **योगो**  
+दुष्प्राप इति मे मतिः।  
+वश्यात्मना तु यतता  
+**शक्यो ऽवाप्तुम् उपायतः**॥6.36॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">

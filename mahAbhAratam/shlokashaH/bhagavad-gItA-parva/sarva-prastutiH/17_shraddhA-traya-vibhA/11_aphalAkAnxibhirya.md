@@ -2,11 +2,13 @@
 title = "11 अफलाकाङ्क्षिभिर्यज्ञो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अफलाकाङ्क्षिभिर्यज्ञो विधिदृष्टो य इज्यते।  
-यष्टव्यमेवेति मनः समाधाय स सात्त्विकः।।17.11।।
+**अ-फलाकाङ्क्षिभिर् यज्ञो**  
+विधि-दृष्टो य इज्यते।  
+यष्टव्यम् एवेति मनः  
+समाधाय स **सात्त्विकः**॥17.11॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/11_aphalAkAnxibhirya.md">

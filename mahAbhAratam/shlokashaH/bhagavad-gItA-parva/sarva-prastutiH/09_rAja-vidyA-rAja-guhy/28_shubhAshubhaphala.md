@@ -2,11 +2,13 @@
 title = "28 शुभाशुभफलैरेवम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः।  
-संन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि।।9.28।।
+शुभाशुभ-फलैर् एवं  
+**मोक्ष्यसे कर्म-बन्धनैः**।  
+संन्यास-योग-युक्तात्मा  
+विमुक्तो **माम् उपैष्यसि**॥9.28॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">

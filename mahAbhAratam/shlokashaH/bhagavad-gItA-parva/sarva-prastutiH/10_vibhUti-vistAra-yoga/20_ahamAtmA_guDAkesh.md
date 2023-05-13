@@ -2,11 +2,13 @@
 title = "20 अहमात्मा गुडाकेश"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अहमात्मा गुडाकेश सर्वभूताशयस्थितः।  
-अहमादिश्च मध्यं च भूतानामन्त एव च।।10.20।।
+**अहम् आत्मा** गुडाकेश+++(=गुडाका [निद्रा]+ईश)+++  
+सर्व-भूताशय-स्थितः।  
+अहम् आदिश् च मध्यं च  
+भूतानाम् अन्त एव च॥10.20॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
@@ -30,9 +32,9 @@ _________________
 सर्वभूतानि यन्त्रारूढानि मायया।। (गीता 18।61) इति। श्रूयते च -- यः
 सर्वेषु भूतेषु तिष्ठन्सर्वेभ्यो भूतेभ्योऽन्तरो यं सर्वाणि भूतानि न
 विदुः। यस्य सर्वाणि भूतानि शरीरं यः सर्वाणि भूतायन्तरो यमयति। एष त
-आत्मान्तर्याम्यमृतः (बृ0 उ₀ 3।7।15) इतिय आत्मनि तिष्ठन् आत्मनोऽन्तरो
+आत्मान्तर्याम्यमृतः (बृ॰ उ॰ 3।7।15) इतिय आत्मनि तिष्ठन् आत्मनोऽन्तरो
 यमात्मा न वेद यस्य आत्मा शरीरं य आत्मानमन्तरो यमयति स त
-आत्मान्तर्याम्यमृतः (श0 प0 14।5।30) इति च। एवं सर्व**भूतानाम्** आत्मतया
+आत्मान्तर्याम्यमृतः (श॰ प॰ 14।5।30) इति च। एवं सर्व**भूतानाम्** आत्मतया
 अवस्थितः **अहं** तेषाम् **आदिः मध्यं च अन्तः च;** तेषाम्
 उत्पत्तिस्थितिप्रलयहेतुः इत्यर्थः। एवं भगवतः स्वविभूतिभूतेषु सर्वेषु
 आत्मतया अवस्थानं तत्तच्छब्दसामानाधिकरण्यनिर्देशहेतुं प्रतिपाद्य

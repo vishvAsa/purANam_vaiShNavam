@@ -2,11 +2,13 @@
 title = "25 सक्ताः कर्मण्यविद्वांसो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत।  
-कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम्।।3.25।।
+**सक्ताः** कर्मण्य् अविद्वांसो  
+****यथा कुर्वन्ति** भारत।  
+**कुर्याद्** विद्वांस् तथा **ऽसक्तश्**  
+चिकीर्षुर् **लोकसंग्रहम्**॥3.25॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/03_karma-yogaH/25_saktAH_karmaNyavi.md">

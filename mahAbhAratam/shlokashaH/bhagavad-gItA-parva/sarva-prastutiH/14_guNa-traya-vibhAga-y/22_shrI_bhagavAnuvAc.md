@@ -2,14 +2,15 @@
 title = "22 श्री भगवानुवाच"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/22_shrI_bhagavAnuvAc.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/22_shrI_bhagavAnuvAc.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्री भगवानुवाच  
++++(श्री भगवानुवाच)+++
+
 +++(सत्त्व-जन्यं)+++ प्रकाशं च +++(रजो-जन्यं)+++ प्रवृत्तिं च  
 +++(तमो-जन्यं)+++ मोहम् एव च पाण्डव।  
-न द्वेष्टि +++(गुणप्रभावेण)+++ सम्प्रवृत्तानि,  
-न +++(गुणप्रभावेण)+++ निवृत्तानि काङ्क्षति।।14.22।।
+**न द्वेष्टि** +++(गुणप्रभावेण)+++ सम्प्रवृत्तानि,  
+**न** +++(गुणप्रभावेण)+++ निवृत्तानि **काङ्क्षति**॥14.22॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/22_shrI_bhagavAnuvAc.md">

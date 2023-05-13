@@ -2,12 +2,15 @@
 title = "51 दृष्ट्वेदम् मानुषम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अर्जुन उवाच  
-दृष्ट्वेदं मानुषं रूपं तवसौम्यं जनार्दन।  
-इदानीमस्मि संवृत्तः सचेताः प्रकृतिं गतः।।11.51।।
++++(अर्जुन उवाच)+++
+
+दृष्ट्वेदं मानुषं रूपं  
+तव सौम्यं जनार्दन।  
+इदानीम् **अस्मि** संवृत्तः  
+**सचेताः** प्रकृतिं गतः॥11.51॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/51_dRShTvedam_mAnuSh.md">

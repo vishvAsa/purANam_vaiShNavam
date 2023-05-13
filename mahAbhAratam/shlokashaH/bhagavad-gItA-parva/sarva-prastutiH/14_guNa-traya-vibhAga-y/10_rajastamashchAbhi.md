@@ -2,15 +2,15 @@
 title = "10 रजस्तमश्चाभिभूय सत्त्वम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/10_rajastamashchAbhi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/10_rajastamashchAbhi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-रजस् तमश् चाभिभूय  
-सत्त्वं भवति भारत +++(क्वचित्)+++।  
-रजः सत्त्वं तमश् चैव +++(क्वचित्)+++  
-तमः सत्त्वं रजस् तथा +++(क्वचित्)+++।।14.10।।
+रजस् तमश् **चाभिभूय**  
+**सत्त्वं** **भवति** भारत +++(क्वचित्)+++।  
+**रजः** सत्त्वं तमश् चैव +++(क्वचित्)+++  
+**तमः** सत्त्वं रजस् तथा +++(क्वचित्)+++॥14.10॥
 
-#### टिप्पनी
+### टिप्पनी
 चौर्येऽपि सत्त्वगुणो वर्तते - चिन्तनं यतो ऽपेक्षितम्। चौर्यादौ रजोधीनः सत्त्वगुणः। धर्मिष्ठेषु सक्रियेषु तु सत्त्वाधीनो रजोगुणः।
 </details>
 </div>

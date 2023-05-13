@@ -2,11 +2,14 @@
 title = "26 श्रोत्रादीनीन्द्रियाण्यन्ये"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/26_shrotrAdInIndriyA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/04_jnAna-yogaH_brahmArp/26_shrotrAdInIndriyA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति।  
-शब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति।।4.26।।
+श्रोत्रादीनीन्द्रियाण्य् अन्ये  
+**संयमाग्निषु जुह्वति**।  
+शब्दादीन् विषयान् अन्य  
+**इन्द्रियाग्निषु जुह्वति**॥4.26॥+++(5)+++  
++++(त्रिकशास्त्रोक्तं ध्यानविशेषं स्मारयति।)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/04_jnAna-yogaH_brahmArp/26_shrotrAdInIndriyA.md">
@@ -302,11 +305,11 @@ _________________
 
   
   
-।।4.26।। अन्ये योगिनः श्रोत्रादीनीन्द्रियाणि संयमाग्निषु जुह्वति। अयमर्थः
-योगेन मत्प्राप्तीच्छया प्राप्तिप्रतिबन्धकानीन्द्रियाणि
-निरोधात्मकक्लेशाग्नौ भस्मीकुर्वन्ति। अन्ये भक्तियुतयोगिनः शब्दादीन्
-विषयान् मत्कथाश्रवणादिरूपान् इन्द्रियाग्निषु
-भगवत्साक्षात्कारसाधकतयाऽऽत्मभावेनेन्द्रियेषु जुह्वति।  
+।।4.26।। **अन्ये** योगिनः **श्रोत्रादीनीन्द्रियाणि संयमाग्निषु जुह्वति**।  
+अयम् अर्थः -  
+योगेन मत्-प्राप्तीच्छया प्राप्ति-प्रतिबन्धकानीन्द्रियाणि निरोधात्मक-क्लेशाग्नौ भस्मी-कुर्वन्ति।  
+**अन्ये** भक्ति-युत-योगिनः **शब्दादीन् विषयान्** मत्-कथाश्रवणादिरूपान् इन्द्रियाग्निषु
+भगवत्-साक्षात्-कार-साधकतया ऽऽत्म-भावेनेन्द्रियेषु **जुह्वति**।  
   
 
 </details>

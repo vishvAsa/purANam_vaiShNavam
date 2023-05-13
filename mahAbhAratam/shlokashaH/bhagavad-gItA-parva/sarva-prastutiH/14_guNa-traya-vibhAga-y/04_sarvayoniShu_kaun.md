@@ -2,11 +2,13 @@
 title = "04 सर्वयोनिषु कौन्तेय"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः।  
-तासां ब्रह्म महद्योनिरहं बीजप्रदः पिता।।14.4।।
+सर्व-योनिषु कौन्तेय  
+मूर्तयः सम्भवन्ति याः।  
+तासां **ब्रह्म महद्-योनिर्**  
+**अहं बीज-प्रदः** पिता॥14.4॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">

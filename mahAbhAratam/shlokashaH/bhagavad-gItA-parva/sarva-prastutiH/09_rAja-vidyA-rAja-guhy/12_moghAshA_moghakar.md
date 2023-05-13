@@ -2,11 +2,13 @@
 title = "12 मोघाशा मोघकर्माणो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः।  
-राक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः।।9.12।।
+मोघाशा मोघ-कर्माणो  
+मोघ-ज्ञाना विचेतसः।  
+राक्षसीम् आसुरीं चैव  
+**प्रकृतिं मोहिनीं श्रिताः**॥9.12॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">

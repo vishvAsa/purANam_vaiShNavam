@@ -2,17 +2,19 @@
 title = "23 तत्सदिति निर्देशो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः।  
-ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा।।17.23।।
+**"ॐ तत् सद्"** इति निर्देशो  
+**ब्रह्मणस् त्रिविधः** स्मृतः।  
+ब्राह्मणास् तेन वेदाश् च  
+यज्ञाश् च विहिताः पुरा॥17.23॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/23_tatsaditi_nirdesh.md">
 <details><summary><h3>(सं) मूलम् ...{Loading}...</h3></summary>
 
-तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः।  
+ॐ तत्सदिति निर्देशो ब्रह्मणस्त्रिविधः स्मृतः।  
 ब्राह्मणास्तेन वेदाश्च यज्ञाश्च विहिताः पुरा।।17.23।।
 </details>
 </div>

@@ -2,11 +2,13 @@
 title = "17 आत्मसम्भाविताः स्तब्धा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः।  
-यजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम्।।16.17।।
+आत्म-सम्भाविताः स्तब्धा  
+धन-मान-मदान्विताः।  
+**यजन्ते नाम-यज्ञैस्** ते  
+दम्भेनाविधि-पूर्वकम्॥16.17॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">

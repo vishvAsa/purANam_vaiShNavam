@@ -2,11 +2,13 @@
 title = "25 लभन्ते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/25_labhante.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/25_labhante.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः।  
-छिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः।।5.25।।
+**लभन्ते ब्रह्म-निर्वाणम्**  
+ऋषयः क्षीण-कल्मषाः।  
+छिन्न-द्वैधा+++(=संशयाः)+++ यतात्मानः  
+सर्व-भूत-हिते रताः॥5.25॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/25_labhante.md">

@@ -2,11 +2,13 @@
 title = "12 आशापाशशतैर्बद्धाः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-आशापाशशतैर्बद्धाः कामक्रोधपरायणाः।  
-ईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान्।।16.12।।
+आशा-पाश-शतैर् बद्धाः  
+काम-क्रोध-परायणाः।  
+**ईहन्ते** काम-भोगार्थम्  
+**अन्यायेनार्थ-सञ्चयान्**॥16.12॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">

@@ -2,11 +2,13 @@
 title = "17 युक्ताहारविहारस्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु।  
-युक्तस्वप्नावबोधस्य योगो भवति दुःखहा।।6.17।।
+**युक्ताहार-विहारस्य**  
+**युक्त-चेष्टस्य** कर्मसु।  
+युक्त-स्वप्नावबोधस्य  
+**योगो** भवति दुःखहा॥6.17॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">

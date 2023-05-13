@@ -2,13 +2,13 @@
 title = "17 किरीटिनङ् गदिनम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
 किरीटिनं गदिनं चक्रिणं च  
-तेजोराशिं सर्वतोदीप्तिमन्तम्।  
-पश्यामि त्वां दुर्निरीक्ष्यं समन्ता  
-द्दीप्तानलार्कद्युतिमप्रमेयम्।।11.17।।
+तेजो-राशिं सर्वतो दीप्तिमन्तम्।  
+**पश्यामि त्वां दुर्निरीक्ष्यं** समन्ताद्  
+दीप्तानलार्क-द्युतिम् अप्रमेयम्॥11.17॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">

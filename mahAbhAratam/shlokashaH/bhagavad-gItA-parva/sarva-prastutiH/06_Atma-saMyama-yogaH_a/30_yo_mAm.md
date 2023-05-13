@@ -2,11 +2,13 @@
 title = "30 यो माम्"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति।  
-तस्याहं न प्रणश्यामि स च मे न प्रणश्यति।।6.30।।
+यो मां पश्यति सर्वत्र  
+सर्वं च मयि पश्यति।  
+तस्याहं न प्रणश्यामि  
+स च मे न प्रणश्यति॥6.30॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/30_yo_mAm.md">
@@ -24,7 +26,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
 ।।6.30।। ततो विपाकदशाम् आपन्नो मम साधर्म्यम् उपागतःनिरञ्जनः परमं
-साम्यमुपैति (मु0 उ₀ 3।1।3) इत्युच्यमानं सर्वस्य आत्मवस्तुनो
+साम्यमुपैति (मु॰ उ॰ 3।1।3) इत्युच्यमानं सर्वस्य आत्मवस्तुनो
 विधूतपुण्यपापस्य स्वरूपेण अवस्थितस्य मत्साम्यं पश्यन् **यः सर्वत्र**
 आत्मवस्तुनि **मां पश्यति सर्वम्** आत्मवस्तु **च मयि पश्यति**
 अन्योन्यसाम्याद् अन्यतरदर्शनेन अन्यतरद् अपि ईदृशम् इति पश्यति **तस्य**

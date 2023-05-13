@@ -2,13 +2,13 @@
 title = "24 समदुःखसुखः स्वस्थः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-समदुःख-सुखः स्वस्थः  
+सम-दुःख-सुखः स्वस्थः  
 सम-लोष्टाश्म-काञ्चनः।  
-तुल्य-प्रियाप्रियो धीरस्  
-तुल्य-निन्दात्म-संस्तुतिः।।14.24।।
+**तुल्य-प्रियाप्रियो धीरस्**  
+तुल्य-निन्दात्म-संस्तुतिः॥14.24॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">

@@ -2,11 +2,13 @@
 title = "04 मन्यसे यदि"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-मन्यसे यदि तच्छक्यं मया द्रष्टुमिति प्रभो।  
-योगेश्वर ततो मे त्वं दर्शयाऽत्मानमव्ययम्।।11.4।।
+मन्यसे यदि तच्-छक्यं  
+मया द्रष्टुमिति प्रभो।  
+योगेश्वर ततो मे त्वं  
+**दर्शयाऽत्मानम् अव्ययम्**॥11.4॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/04_manyase_yadi.md">

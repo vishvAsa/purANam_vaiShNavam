@@ -2,13 +2,13 @@
 title = "39 एषा तेऽभिहिता"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-+++(पूर्वश्लोकं यावद्)+++ एषा ते ऽभिहिता साङ्ख्ये+++(←सङ्ख्या बुद्धिर् [आत्मतत्त्वे])+++  
++++(पूर्वश्लोकं यावद्)+++ एषा ते **ऽभिहिता साङ्ख्ये**+++(←सङ्ख्या बुद्धिर् [आत्मतत्त्वे])+++  
 बुद्धिर्, +++(तस्याः कर्मणि)+++ योगे त्व् इमां श्रृणु।  
 बुद्ध्या युक्तो यया पार्थ  
-कर्म-बन्धं प्रहास्यसि।।2.39।।
+**कर्म-बन्धं प्रहास्यसि**॥2.39॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">

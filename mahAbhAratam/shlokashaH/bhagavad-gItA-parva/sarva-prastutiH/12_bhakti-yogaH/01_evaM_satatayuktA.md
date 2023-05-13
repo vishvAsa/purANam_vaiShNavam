@@ -2,12 +2,15 @@
 title = "01 एवं सततयुक्ता"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अर्जुन उवाच  
-एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते।  
-येचाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः।।12.1।।
++++(अर्जुन उवाच)+++
+
+एवं सतत-युक्ता ये  
+भक्तास् त्वां पर्युपासते।  
+ये चाप्य् अक्षरम् अव्यक्तं  
+तेषां **के योगवित्तमाः**॥12.1॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/12_bhakti-yogaH/01_evaM_satatayuktA.md">
@@ -24,6 +27,8 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+भक्तियोगनिष्ठानां प्राप्यभूतस्य परस्य ब्रह्मणो भगवतो नारायणस्य निरङ्कुशाइश्वर्यं साक्षात्कर्तुकामायार्जुनाय अनवधिकातिशयकारुण्याउदार्यसौशील्यादिगुणसागरेण सत्यसङ्कल्पेन भगवता स्वाइश्वर्यं यथावद् अवस्थितं दर्शितम्; उक्तं च तत्त्वतो भगवज्ज्ञानदर्शनप्राप्तीनाम् ऐकान्तिकात्यन्तिकभगवद्भक्त्येकलभ्यत्वम् । अननतरम् आत्मप्राप्तिसाधनभूताद् अत्मोपासनाद् भक्तिरूपस्य भगवदुपासनस्य स्वसाध्यनिष्पादने शैघ्र्यात् सुसुखोपादानत्वाच् च श्रैष्ठ्यम्, भगवदुपासनोपायश् च, तदशक्तस्याक्षरनिष्ठता, तदपेक्षिताश् चोच्यन्ते । भगवदुपासनस्य प्राप्यभूतोपास्यश्रैष्ठ्याच् श्रैष्ठ्यं तु, "योगिनाम् अपि सर्वेषां मद्गतेनान्तरात्मना । श्रद्धावान् भजते यो माम् स मे युक्ततमो मतः ॥ भ्ग्र्_१२।" इत्य् अत्रोक्तम् ।
 
 ।।12.1।। अर्जुन उवाच -- एवंमत्कर्मकृत् (गीता 11।55) इत्यादिना उक्तेन
 प्रकारेण **सततयुक्ताः** भगवन्तं त्वाम् एव परं प्राप्यं मन्वाना **ये
@@ -285,6 +290,8 @@ _________________
 ## शाङ्कर-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/mUlam/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 <details><summary><h3>(सं) शङ्करः मूलम् ...{Loading}...</h3></summary>
+
+द्वितीयाध्यायप्रभृतिषु विभूत्यन्तेषु अध्यायेषु परमात्मनः ब्रह्मणः अक्षरस्य विध्वस्तसर्वोपाधिविशेषस्य उपासनम् उक्तम् ; सर्वयोगैश्वर्यसर्वज्ञानशक्तिमत्सत्त्वोपाधेः ईश्वरस्य तव च उपासनं तत्र तत्र उक्तम् । विश्वरूपाध्याये तु ऐश्वरम् आद्यं समस्तजगदात्मरूपं विश्वरूपं त्वदीयं दर्शितम् उपासनार्थमेव त्वया । तच्च दर्शयित्वा उक्तवानसि ‘मत्कर्मकृत्’ (भ. गी. ११ । ५५) इत्यादि । अतः अहम् अनयोः उभयोः पक्षयोः विशिष्टतरबुभुत्सया त्वां पृच्छामि इति अर्जुन उवाच —
 
 ।।12.1।। --,एवम् इति अतीतानन्तरश्लोकेन उक्तम् अर्थं परामृशति मत्कर्मकृत्
 इत्यादिना। **एवं सततयुक्ताः;** नैरन्तर्येण भगवत्कर्मादौ यथोक्ते अर्थे

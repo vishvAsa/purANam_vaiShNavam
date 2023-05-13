@@ -2,11 +2,14 @@
 title = "24 सङ्कल्पप्रभवान्कामांस्त्यक्त्वा"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/24_sankalpaprabhavAn.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/24_sankalpaprabhavAn.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः।  
-मनसैवेन्द्रियग्रामं विनियम्य समन्ततः।।6.24।।
++++(आत्मन्य् अवधातुम् योगारुरुक्षुः)+++  
+सङ्कल्प-प्रभवान् **कामांस्**  
+**त्यक्त्वा** सर्वान् अशेषतः।  
+मनसैवेन्द्रिय-ग्रामं  
+विनियम्य समन्ततः॥6.24॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/24_sankalpaprabhavAn.md">
@@ -23,10 +26,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/06_Atma-saMyama-yogaH_a/24_sankalpaprabhavAn.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।6.24।। स्पर्शजाः सङ्कल्पजाश्च इति द्विविधाः कामाः स्पर्शजाः
-शीतोष्णादयः सङ्कल्पजाः पुत्रपौत्रक्षेत्रादयः तत्र **सङ्कल्पप्रभवाः**
-स्वरूपेण एव त्यक्तुं शक्याः तान् **सर्वान् मनसा एव** तदनन्वयानुसन्धानेन
-**त्यक्त्वा** स्पर्शजेषु अवर्जनीयेषु तन्निमित्तहर्षो द्वेगौ त्यक्त्वा
+।।6.24।। स्पर्शजाः सङ्कल्पजाश् च +इति द्विविधाः कामाः।  
+स्पर्शजाः शीतोष्णादयः।  
+सङ्कल्पजाः पुत्र-पौत्र-क्षेत्रादयः।  
+तत्र **सङ्कल्पप्रभवाः** स्वरूपेण +एव त्यक्तुं शक्याः  
+तान् **सर्वान् मनसा एव** तद्-अनन्वयानुसन्धानेन **त्यक्त्वा**  
+स्पर्शजेषु अवर्जनीयेषु तन्-निमित्त-हर्षोद्वेगौ त्यक्त्वा  
 **समन्ततः** सर्वस्माद् विषयात् सर्वम् **इन्द्रियग्रामं** **विनियम्य शनैः
 शनैः धृतिगृहीतया** विवेकविषयया **बुद्ध्या** सर्वस्माद् आत्मव्यतिरिक्ताद्
 उपरम्य **आत्मसंस्थं मनः कृत्वा न किञ्चिद् अपि चिन्तयेत्।**
@@ -83,19 +88,7 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/24_sankalpaprabhavAn.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।6.24 6.25।। कामानां त्यागे +++(SN कामानामुपायत्यागे)+++ उपायः संकल्पत्याग
-इत्याह संकल्पेति। शनैः शनैरिति। मनसैव न +++(S omit न)+++ व्यापारोपरमेण। धृतिं
-गृहीत्वा क्रमात् क्रममभिलाषदुःखं प्रतनूकृत्य किंचिदपि विषयाणां
-त्यागग्रहणादिकं न चिन्तयेत्। यत्तु +++(S यथात्वन्यैर् यथा तु कैश्चिद्)+++
-अन्यैर्व्याख्यातम् नकिञ्चिदपि चिन्तयेत् इति तन्नास्मभ्यं रुचितम्।
-शून्यवादप्रसंगात्।।6.24 6.25।। कामानां त्यागे +++(SN कामानामुपायत्यागे)+++
-उपायः संकल्पत्याग इत्याह संकल्पेति। शनैः शनैरिति। मनसैव न +++(S omit न)+++
-व्यापारोपरमेण। धृतिं गृहीत्वा क्रमात् क्रममभिलाषदुःखं प्रतनूकृत्य
-किंचिदपि विषयाणां त्यागग्रहणादिकं न चिन्तयेत्। यत्तु +++(S यथात्वन्यैर् यथा
-तु कैश्चिद्)+++ अन्यैर्व्याख्यातम् नकिञ्चिदपि चिन्तयेत् इति तन्नास्मभ्यं
-रुचितम्। शून्यवादप्रसंगात्।
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/02-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/06_Atma-saMyama-yogaH_a/25_shanaiH_shanairup.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/24_sankalpaprabhavAn.md">
@@ -232,11 +225,10 @@ _________________
 
   
   
-।।6.24।। किञ्च सङ्कल्पप्रभवान् स्वभोगार्थकस्वमनोनिश्चयजान् कामान्
-स्वरमणेच्छादिरूपान् सर्वान् भावानन्तरमपि स्वेङ्गितज्ञरूपान् अशेषतः
-फलाभावज्ञाने त्यक्त्वा मनसैवेन्द्रियग्रामं नियम्य
-भगवदंशात्मकलावण्यादिरसान् पश्यन् मनसैव स्वार्थभोगरूपेणैव ततः विषयेभ्यो
-विनियम्य वशे संस्थाप्य योगो योक्तव्य इत्यर्थः।  
+।।6.24।। किञ् च **सङ्कल्प-प्रभवान्** स्व-भोगार्थक-स्व-मनो-निश्चय-जान् **कामान्** स्व-रमणेच्छादि-रूपान् सर्वान् भावान् अन्तरम् अपि स्वेङ्गित-ज्ञ-रूपान् अशेषतः फलाभाव-ज्ञाने **त्यक्त्वा**  
+**मनसैवेन्द्रिय-ग्रामं नियम्य** - भगवद्-अंशात्मक-लावण्यादि-रसान् पश्यन् **मनसैव** स्वार्थ-भोग-रूपेणैव  
+ततः विषयेभ्यो **विनियम्य** वशे संस्थाप्य  
+योगो योक्तव्य इत्यर्थः।  
   
 
 </details>

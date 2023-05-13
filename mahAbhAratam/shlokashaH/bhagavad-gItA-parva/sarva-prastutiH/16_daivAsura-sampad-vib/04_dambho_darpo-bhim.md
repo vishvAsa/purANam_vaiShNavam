@@ -2,11 +2,13 @@
 title = "04 दम्भो दर्पोऽभिमानश्च"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च।  
-अज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम्।।16.4।।
+**दम्भो** दर्पो ऽभिमानश् च  
+क्रोधः पारुष्यम् एव च।  
+**अज्ञानं** +++(भवन्ति)+++ **चाभिजातस्य**  
+पार्थ सम्पदम् **आसुरीम्**॥16.4॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/04_dambho_darpo-bhim.md">

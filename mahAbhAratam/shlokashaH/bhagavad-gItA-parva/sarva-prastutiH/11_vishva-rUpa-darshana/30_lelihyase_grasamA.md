@@ -2,13 +2,13 @@
 title = "30 लेलिह्यसे ग्रसमानः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-लेलिह्यसे ग्रसमानः समन्ता  
-ल्लोकान्समग्रान्वदनैर्ज्वलद्भिः।  
-तेजोभिरापूर्य जगत्समग्रं  
-भासस्तवोग्राः प्रतपन्ति विष्णो।।11.30।।
+**लेलिह्यसे**+++(←लिह् + यङ्)+++ ग्रसमानः समन्ताल्  
+**लोकान्** समग्रान् वदनैर् ज्वलद्भिः।  
+तेजोभिर् आपूर्य जगत् समग्रं,  
+**भासस्** तवोग्राः **प्रतपन्ति** विष्णो॥11.30॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">

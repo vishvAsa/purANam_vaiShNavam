@@ -2,12 +2,15 @@
 title = "54 स्थितप्रज्ञस्य का"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अर्जुन उवाच  
-स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव।  
-स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम्।।2.54।।
++++(अर्जुन उवाच)+++
+
+स्थित-प्रज्ञस्य का भाषा  
+समाधिस्थस्य केशव।  
+**स्थित-धीः किं प्रभाषेत**  
+किम् **आसीत व्रजेत** किम्॥2.54॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
@@ -340,7 +343,7 @@ _________________
 ।।2.54।। एतदुक्त्वा भगवांस्तूष्णीं स्थितस्तदाऽर्जुनस्तादृग्बुद्धिज्ञानाथ
 पृच्छति स्थितप्रज्ञस्येति। स्थितप्रज्ञस्य निश्चलबुद्धेः का भाषा का
 परिभाषेत्यर्थः। कथा परिभाषया स ज्ञेयः। हे केशव दुष्टगुणव्याप्तयोरपि
-मोक्षदायक मम मोक्षा**र्थं৷৷৷৷৷৷৷৷৷৷৷৷** याथातथ्येन कथयेति भावः।
+मोक्षदायक मम मोक्षार्थं याथातथ्येन कथयेति भावः।
 समाधिस्थस्य च का भाषा तदपि कथय। स्थितधीः किं प्रभाषेत। श्रोतव्यं चेन्न
 किञ्चित्तदा किं ब्रूयादित्यर्थः। स्वोच्चरितवाक्यम्यापि श्रवणसम्भवात्।
 किमासीत कथमुपतिष्ठेत् किं व्रजेत कथं गच्छेत् इत्यर्थः।  

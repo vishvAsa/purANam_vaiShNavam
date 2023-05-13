@@ -2,11 +2,13 @@
 title = "23 यः शास्त्रविधिमुत्सृज्य"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः।  
-न स सिद्धिमवाप्नोति न सुखं न परां गतिम्।।16.23।।
+यः **शास्त्र-विधिम् उत्सृज्य**  
+वर्तते काम-कार-तः।  
+न स सिद्धिम् अवाप्नोति  
+**न सुखं** न परां गतिम्॥16.23॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
@@ -209,7 +211,7 @@ gatim, Goal-heaven or Liberation.
 कर्तव्याकर्तव्यज्ञानकारणं शास्त्र संबन्धिविधिनिषेधाख्यस्तं यः
 शास्त्रविधिमुत्सृज्य विहाय कामकारतः स्वेच्छानुसारेण वर्तते कामस्य करणं
 कामकारस्तस्माद्वेतोः शास्त्रविधिमुत्सृत्येति वा संबन्धः। संसिद्धिं
-पुरुषार्थयोग्यतां चित्तशुद्य्धादिलक्षणआं नावप्नोति नास्मिँल्लोके सुखं
+पुरुषार्थयोग्यतां चित्तशुद्य्धादिलक्षणआं नावप्नोति नास्मिल्ँ लोके सुखं
 नापि परां प्रकृष्टां गतिं स्वर्गं मोक्षं चाप्नोति।
 
 </details>

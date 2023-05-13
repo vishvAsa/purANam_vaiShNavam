@@ -2,11 +2,13 @@
 title = "19 तानहन् द्विषतः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-तानहं द्विषतः क्रूरान्संसारेषु नराधमान्।  
-क्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु।।16.19।।
+तान् अहं द्विषतः क्रूरान्  
+**संसारेषु** नराधमान्।  
+**क्षिपाम्य्** अजस्रम् अशुभान्  
+आसुरीष्व् एव योनिषु॥16.19॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
@@ -212,7 +214,7 @@ verb cast is to be connected with 'into the classes'.
 अजस्त्रं सततं अशुमाशुभकर्मकारिणोऽतो नराधमान्नरेष्वतिनिकृष्टानहं
 धर्माधर्मफलप्रदाता परमेश्वरोऽध्मदोषवत्त्वासंसारेषु नरकसंसरणमार्गेषु
 आसुरिष्वेव क्रूरकर्मप्रायासु सिंहव्याघ्रादियोनिषु क्षिपति
-संसारेऽस्मिँल्लोके इषवः परमर्मभेदकत्वात्संसारेषवः ते च ते नराधमाश्चेति
+संसारेऽस्मिल्ँ लोके इषवः परमर्मभेदकत्वात्संसारेषवः ते च ते नराधमाश्चेति
 विग्रहस्तु फलशून्यकुकल्पनालभ्यत्वादाचार्यैः परित्यक्त।
 
 </details>

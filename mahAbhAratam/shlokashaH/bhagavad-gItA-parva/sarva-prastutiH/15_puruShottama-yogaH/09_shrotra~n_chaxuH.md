@@ -2,11 +2,13 @@
 title = "09 श्रोत्रञ् चक्षुः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च।  
-अधिष्ठाय मनश्चायं विषयानुपसेवते।।15.9।।
+श्रोत्रं चक्षुः स्पर्शनं च  
+रसनं घ्राणम् एव च।  
+**अधिष्ठाय** मनश् चायं  
+**विषयान् उपसेवते**॥15.9॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
@@ -22,6 +24,8 @@ _________________
 ## रामानुज-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
+
+कानि पुनः तानि इन्द्रियाणि इत्याह --
 
 ।।15.9।। एतानि मनःषष्ठानि इन्द्रियाणि **अधिष्ठाय**
 स्वस्वविषयवृत्त्यनुगुणानि कृत्वा तान् शब्दादीन् **विषयान्** **उपसेवते
@@ -54,26 +58,7 @@ _________________
 ## अभिनवगुप्त-सम्प्रदायः
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/mUlam/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
 <details><summary><h3>(सं) अभिनव-गुप्तः मूलम् ...{Loading}...</h3></summary>
-
-।।15.9 -- 15.11।। एवं सृष्टौ संहारे च एतैः साहित्यमस्योक्त्वा स्थितावपि
-स्थानासनमननादिरूपायां +++(N ममतादि)+++ विषयग्रहणात्मिकायां +++(omits स्थितावपि
--- त्मिकायाम्)+++ तत्सहितस्यैवास्य व्यापार इति निश्चीयते -- श्रोत्रमित्यादि
-अचेतस इत्यन्तम्। मनः इत्यनेनान्तःकरणमुपलक्ष्यते। अत एव
-शरीरस्थितियोगात्तिष्ठन्तम् शरीरान्तरग्रहणाय उत्क्रामन्तम् विषयान्वा
-भुञ्जानं मूढा न पश्यन्ति; अप्रबुद्धत्त्वात्। प्रबुद्धास्तु सर्वत्रैव
-बोधरूपमेव अनुसंदधाना +++(S;;N -- रूपमनुसंदधानाः)+++ जानन्त्येव;
-इत्यलुप्तमसमाधयः; तेषां यत्नपरत्त्वात्। ,अकृतात्मनां तु यत्नोऽपि न फलाय;
-अपरिपक्वकषायत्त्वात्। न हि शरदि सलिलादिसामग्रीसंमर्देऽपि धान्यबीजानि
-उप्यमानानि फलसंपदे अलम्। अत एव सामग्री एव सा अस्य न भवति। अन्यदेव किल,+++(S
-omits किल)+++ मधुमाससंभृतजलधरपटलीप्रेरितमम्भः काचिदेव च सा भूः; यस्यां
-शिशिरविवशीकृतायां,+++(S;;N शिशिरवशविवशी -- )+++ रविकरस्पर्शेनैव कान्तिः। एवम्
-अकृतात्मनां यत्नो न सकलाङ्गपरिपूर्णत्वमायाति +++(;N परिपूर्णः कर्तुमायाति)+++।
-अत एव प्राप्याप्युपायं पारमेश्वरदीक्षादि,( परमेश्वर) ये
-तथाविधक्रोधमोहादिग्रन्थिसन्दर्भगर्भीकृतान्तर्दृशः (
-सन्दर्भीकृतान्तर्दृशः) ; तेषु उपाय एव साकल्यं न भजतीति मन्तव्यम्।
-यदुक्तम् +++(S;;N तदुक्तम्)+++ -- क्रोधादौ दृश्यमाने हि दीक्षितोऽपि न
-मुक्तिभाक्। इति।
-
+<div class="js_include" includetitle="false" newlevelforh1="2" unfilled="" url="../11_yatanto_yoginashc.md"></div>
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) अभिनव-गुप्तः (Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/abhinava-guptaH/english/shankaranArAyaNaH/15_puruShottama-yogaH/09_shrotra~n_chaxuH.md">
@@ -202,9 +187,11 @@ _________________
   
   
 ।।15.9।। किमर्थं गृहीत्वा गच्छति इत्यत आह -- श्रोत्रमिति।
-श्रोत्रादीनीन्द्रियाणि लौकिकस्थूलशरीरे स्थूलानि मनः अन्तःकरणं च अधिष्ठाय
-मुख्यरूपेण तत्र स्वयं स्थितिं कृत्वा अग्रे अलौकिकतदनुभवार्थं विषयान् उप
-स्वांशजीवसमीपे सेवते भोगं करोतीत्यर्थः। ,
+श्रोत्रादीनीन्द्रियाणि लौकिक-स्थूल-शरीरे स्थूलानि  
+**मनः** अन्तःकरणं  
+**च अधिष्ठाय** मुख्यरूपेण तत्र स्वयं स्थितिं कृत्वा  
+अग्रे अलौकिक-तद्-अनुभवार्थं  
+**विषयान् उप** स्वांश-जीव-समीपे **सेवते** भोगं करोतीत्यर्थः।
 
 </details>
 </div>

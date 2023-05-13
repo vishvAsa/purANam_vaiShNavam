@@ -2,11 +2,13 @@
 title = "11 शुचौ देशे"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः।  
-नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम्।।6.11।।
+**शुचौ देशे प्रतिष्ठाप्य**  
+**स्थिरम् आसनम्** आत्मनः।  
+नात्य्-उच्छ्रितं नातिनीचं  
+चैल+++(=वस्त्र)++++अजिन-कुशोत्तरम्॥6.11॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">

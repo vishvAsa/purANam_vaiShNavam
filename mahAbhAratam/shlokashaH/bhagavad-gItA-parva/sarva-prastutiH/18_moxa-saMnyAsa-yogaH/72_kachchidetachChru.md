@@ -2,11 +2,13 @@
 title = "72 कच्चिदेतच्छ्रुतम् पार्थ"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा।  
-कच्चिदज्ञानसंमोहः प्रनष्टस्ते धनञ्जय।।18.72।।
+कच्चिद् एतच् छ्रुतं पार्थ  
+त्वयैकाग्रेण चेतसा।  
+कच्चिद् **अज्ञान-संमोहः**  
+**प्रनष्टस्** ते धनञ्जय ?॥18.72॥+++(5)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
@@ -173,7 +175,7 @@ Scripture, and on My part, the effort of being a teacher;
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः नीलकण्ठः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/nIlakaNThaH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 <details><summary><h3>(सं) शङ्करः नीलकण्ठः ...{Loading}...</h3></summary>
 
-।।18.72।। सर्वान्तर्यामी सर्वज्ञोऽपि भगवाँल्लोकशिक्षार्थं शिष्यस्य ज्ञानं
+।।18.72।। सर्वान्तर्यामी सर्वज्ञोऽपि भगवाल्ँ लोकशिक्षार्थं शिष्यस्य ज्ञानं
 जातं नवेति पृच्छति। अन्यथा पुनः पुनः स्वयमेत्य उपदेशं कृतवता प्रभुणा
 निदाघ इव मयायं शतकृत्वोऽप्युपदेशेन कृतार्थः कर्तव्य इत्याशयेनाह --
 **कच्चिदिति।** कच्चिदिति कामप्रवेदने। हे पार्थ; एतत्त्वया एकाग्रेण चेतसा

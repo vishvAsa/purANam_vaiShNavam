@@ -2,11 +2,13 @@
 title = "34 यथा प्रकाशयत्येकः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-यथा प्रकाशयत्येकः कृत्स्नं लोकमिमं रविः।  
-क्षेत्रं क्षेत्री तथा कृत्स्नं प्रकाशयति भारत।।13.34।।
+यथा **प्रकाशयत्य् एकः**  
+कृत्स्नं लोकम् इमं रविः।  
+**क्षेत्रं क्षेत्री** तथा कृत्स्नं  
+प्रकाशयति भारत॥13.34॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
@@ -23,14 +25,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।13.34।।**एवम्** उक्तेन प्रकारेण **क्षेत्रक्षेत्रज्ञयोः अन्तरं** विशेषं
-विवेकविषय**ज्ञाना**ख्येन **चक्षुषा ये विदुः** **भूतप्रकृतिमोक्षं च; ते
-परं यान्ति** निर्मुक्तबन्धनम्; आत्मानं प्राप्नुवन्ति। मोक्ष्यते अनेन इति
-मोक्षः; अमानित्वादिकम् उक्तं मोक्षसाधनम् इत्यर्थः। क्षेत्रक्षेत्रज्ञयोः
-विवेकविषयेण उक्तेन ज्ञानेन तयोः विवेकं विदित्वा
-भूताकारपरिणतप्रकृतिमोक्षोपायम् अमानित्वादिकं च अवगम्य ये आचरन्ति; ते
-निर्मुक्तबन्धाः स्वेन रूपेण अवस्थितम् अनवच्छिन्नज्ञानलक्षणम् आत्मानं
-प्राप्नुवन्ति इत्यर्थः।
+।।13.33।।**यथा एक** आदित्यः स्वया प्रभया **कृत्स्नम् इमं लोकं
+प्रकाशयति;** **तथा क्षेत्रम्** अपि **क्षेत्री** मम इदं क्षेत्रम् ईदृशम्
+इति **कृत्स्नं** बहिः अन्तः च आपादतलमस्तकं स्वकीयेन ज्ञानेन प्रकाशयति।
+अतः प्रकाश्यात् लोकात् प्रकाशकादित्यवद् वेदितृत्वेन वेद्यभूताद् अस्मात्
+क्षेत्राद् अत्यन्तविलक्षणः अयम् उक्तलक्षण आत्मा इत्यर्थः।
+
 
 </details>
 </div>
@@ -162,13 +162,9 @@ meant for summarizing the idea of the whole of this chapter:
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) शङ्करः आनन्दगिरिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/shankaraH/AnandagiriH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 <details><summary><h3>(सं) शङ्करः आनन्दगिरिः ...{Loading}...</h3></summary>
 
-।।13.34।। अध्यायार्थं सफलमुपसंहरति -- **समस्तेति।** विशेषं
-कौटस्थ्यपरिणामादिलक्षणं तदेवममानित्वादिनिष्ठतया
-क्षेत्रक्षेत्रज्ञयाथात्म्यविज्ञानवतः सर्वानर्थनिवृत्त्या
-परिपूर्णपरमानन्दाविर्भावलक्षणपुरुषार्थसिद्धिरिति सिद्धम्। इति
-श्रीमत्परमहंसपरिव्राजकाचार्यश्रीमच्छुद्धानन्दपूज्यपादशिष्यानन्दगिरिकृतौ
-त्रयोदशोऽध्यायः।।13।।  
-  
+।।13.33।। न करोति न लिप्यते चेत्यत्र द्रष्टृत्वेन दृश्यधर्मशून्यत्वं
+हेतुमाह -- **किञ्चेति।** दृष्टान्तेन विवक्षितमर्थं दर्शयति -- **रवीति।**
+उभयविधमर्थमेव स्फुटयति -- **रविवदिति।**
 
 </details>
 </div>

@@ -2,11 +2,13 @@
 title = "71 विहाय कामान्यः"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः।  
-निर्ममो निरहंकारः स शांतिमधिगच्छति।।2.71।।
+विहाय कामान् यः सर्वान्  
+पुमांश् चरति निःस्पृहः।  
+**निर्ममो निरहंकारः**  
+स **शांतिम् अधिगच्छति**॥2.71॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">

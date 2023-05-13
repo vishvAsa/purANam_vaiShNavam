@@ -2,11 +2,13 @@
 title = "22 अदेशकाले"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/17_shraddhA-traya-vibhA/22_adeshakAle.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अदेशकाले यद्दानमपात्रेभ्यश्च दीयते।  
-असत्कृतमवज्ञातं तत्तामसमुदाहृतम्।।17.22।।
+अ-देश-काले यद् दानम्  
+**अपात्रेभ्यश्** च दीयते।  
+**असत्-कृतम् अवज्ञातं**  
+तत् **तामसम्** उदाहृतम्॥17.22॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/17_shraddhA-traya-vibhA/22_adeshakAle.md">
@@ -217,7 +219,7 @@ _________________
 कर्त्तव्यमिति ज्ञापितम्। तथाहि भगवदिच्छायां सत्यां तज्ज्ञानपूर्वकं
 भगवद्विभूतियागो भक्त्यङ्गत्वेन कार्यो युधिष्ठिरवत्यक्ष्ये विभूतीर्भवतः
 \[भागः10।72।3\] इत्यादिविज्ञापनपूर्वकम्। तपोऽपि
-भगवदर्थकसर्वसुखपरित्यागपूर्वकक्लेशादिसहनरू**पे৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷৷.**
+भगवदर्थकसर्वसुखपरित्यागपूर्वकक्लेशादिसहनरूपे
 ज्ञानरूपं वा कार्यम्। दानं च भक्तिसिद्ध्यर्थं भगवद्भक्ताय वेदविदे
 ब्राह्मणाय दातव्यम्।  
   

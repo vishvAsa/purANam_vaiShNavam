@@ -2,11 +2,13 @@
 title = "30 अपि चेत्सुदुराचारो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-अपि चेत्सुदुराचारो भजते मामनन्यभाक्।  
-साधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः।।9.30।।
+अपि चेत् **सु-दुराचारो**  
+**भजते** माम् अनन्यभाक्।  
+**साधुर्** एव स **मन्तव्यः**  
+सम्यग् +++(आचारादौ)+++ व्यवसितो हि सः +++(यतो वक्ष्यमाण-रीत्या परिवर्तते)+++॥9.30॥+++(4)+++
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/09_rAja-vidyA-rAja-guhy/30_api_chetsudurAchA.md">
@@ -35,7 +37,7 @@ _________________
 तावता अनादरणीयः; अपि तु बहुमन्तव्य एव इत्यर्थः।  
   
 ननुनाविरतो दुश्चरितान्नाशान्तो नासमाहितः। नाशान्तमानसो वापि
-प्रज्ञानेनैनमाप्नुयात्।। (क0 उ₀ 1।2।24) इत्यादिश्रुतेः आचारव्यतिक्रम
+प्रज्ञानेनैनमाप्नुयात्।। (क॰ उ॰ 1।2।24) इत्यादिश्रुतेः आचारव्यतिक्रम
 उत्तरोत्तरभजनोत्पत्तिप्रवाहं निरुणद्धि इति अत्र आह --
 
 </details>

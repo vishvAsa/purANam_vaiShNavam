@@ -2,11 +2,13 @@
 title = "17 सत्त्वात्सञ्जायते"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च।  
-प्रमादमोहौ तमसो भवतोऽज्ञानमेव च।।14.17।।
+**सत्त्वात्** सञ्जायते **ज्ञानं**  
+**रजसो लोभ** एव च।  
+**प्रमाद-मोहौ तमसो**  
+भवतो ऽज्ञानमेव च॥14.17॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
@@ -23,10 +25,17 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/14_guNa-traya-vibhAga-y/17_sattvAtsanjAyate.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-।।14.17।। एवं परम्परया जाताद् अधिक**सत्त्वाद्** आत्मयाथात्म्यापरोक्षरूपं
-**ज्ञानं जायते।** **तथा प्रवृद्धाद् रजसः** स्वर्गादिफल**लोभः** जायते तथा
-प्रवृद्धात् च तमसः प्रमादः अनवधाननिमित्तासत्कर्मणि प्रवृत्तिः; ततः च
-मोहो विपरीतज्ञानम्; ततः च अधिकतरं तमः; ततः च **अज्ञानं** ज्ञानाभावः।
+तद् अधिकसत्त्वादिजनितं निर्मलादिफलं किम् इति अत्र आह -- 
+
+।।14.17।। एवं परम्परया जाताद् अधिक-**सत्त्वाद्**  
+आत्म-याथात्म्यापरोक्षरूपं **ज्ञानं जायते।**  
+
+**तथा प्रवृद्धाद् रजसः** स्वर्गादि-फल-**लोभः** जायते  
+तथा प्रवृद्धात् च  
+तमसः प्रमादः अनवधान-निमित्तासत्कर्मणि प्रवृत्तिः;  
+ततः च मोहो विपरीतज्ञानम्;  
+ततः च अधिकतरं तमः;  
+ततः च **अज्ञानं** ज्ञानाभावः।
 
 </details>
 </div>

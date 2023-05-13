@@ -2,11 +2,13 @@
 title = "06 सन्न्यासस्तु महाबाहो"
 
 +++
-<div class="js_include" newlevelforh1="3" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/06_sannyAsastu_mahAb.md">
-<details open><summary><h3>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h3></summary>
+<div class="js_include" newlevelforh1="2" title="(सं) विश्वास-प्रस्तुतिः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/vishvAsa-prastutiH/05_karma-saMnyAsa-yogaH/06_sannyAsastu_mahAb.md">
+<details open><summary><h2>(सं) विश्वास-प्रस्तुतिः ...{Loading}...</h2></summary>
 
-संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः।  
-योगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति।।5.6।।
+**संन्यासस्** तु महाबाहो  
+**दुःखम्** आप्तुम् **अयोगतः**।  
+योग-युक्तो मुनिर् ब्रह्म  
+नचिरेणाधिगच्छति॥5.6॥
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/mUlam/05_karma-saMnyAsa-yogaH/06_sannyAsastu_mahAb.md">
