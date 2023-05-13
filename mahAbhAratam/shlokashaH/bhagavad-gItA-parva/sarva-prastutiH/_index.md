@@ -24,7 +24,3 @@ Source: [TW](https://archive.org/details/PrasthanatrayaVishishtadvaitaBhashya/Gi
 
 </details>
 </div>
-
-
-_________________
-## आङ्ग्ल-टीकाः
