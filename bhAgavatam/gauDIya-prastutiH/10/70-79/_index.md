@@ -22,53 +22,53 @@ title = "+70-79"
 > ----------------------------------- -----------------------------------
 
 +-----------------------------------+-----------------------------------+
-| **Commentary**                    | **Source**                        |
+। **Commentary**                    । **Source**                        ।
 +-----------------------------------+-----------------------------------+
-| śrīdharaḥ                         | Some alternative readings taken   |
-|| from *śa.\                        |
-|| *However, the original source     |
-|| text is *ba*                      |
+। śrīdharaḥ                         । Some alternative readings taken   ।
+॥ from *śa.\                        ।
+॥ *However, the original source     ।
+॥ text is *ba*                      ।
 +-----------------------------------+-----------------------------------+
-| vaṁśīdharaḥ                       | bha                               |
+। vaṁśīdharaḥ                       । bha                               ।
 +-----------------------------------+-----------------------------------+
-| caitanya-mata-mañjuṣā             | pa                                |
+। caitanya-mata-mañjuṣā             । pa                                ।
 +-----------------------------------+-----------------------------------+
-| bṛhad-vaiṣṇava-toṣaṇī             | bha                               |
+। bṛhad-vaiṣṇava-toṣaṇī             । bha                               ।
 +-----------------------------------+-----------------------------------+
-| vaiṣṇava-toṣaṇī                   | bha                               |
+। vaiṣṇava-toṣaṇī                   । bha                               ।
 +-----------------------------------+-----------------------------------+
-| krama-sandarbhaḥ                  | unknown, bha                      |
+। krama-sandarbhaḥ                  । unknown, bha                      ।
 +-----------------------------------+-----------------------------------+
-| bṛhat-krama-sandarbhaḥ            | unknown                           |
+। bṛhat-krama-sandarbhaḥ            । unknown                           ।
 +-----------------------------------+-----------------------------------+
-| bhagavat-sandarbha                | 1.  Dr. Chinmayi Chatterjee       |
-||     (Calcutta: Jadavpur           |
-||     University, 1972).            |
-||                                   |
-|| 2.  (ed.) Kanailal Adhikari, Sri  |
-||     Mayapur: Gopinath Gaudiya     |
-||     Math, 1999.                   |
-||                                   |
-|| 3.  (ed.) Haridas Shastri,        |
-||     Vrindavan: Sri Gadadhara      |
-||     Gaurahari Press, 1983.        |
+। bhagavat-sandarbha                । 1.  Dr. Chinmayi Chatterjee       ।
+॥     (Calcutta: Jadavpur           ।
+॥     University, 1972).            ।
+॥                                   ।
+॥ 2.  (ed.) Kanailal Adhikari, Sri  ।
+॥     Mayapur: Gopinath Gaudiya     ।
+॥     Math, 1999.                   ।
+॥                                   ।
+॥ 3.  (ed.) Haridas Shastri,        ।
+॥     Vrindavan: Sri Gadadhara      ।
+॥     Gaurahari Press, 1983.        ।
 +-----------------------------------+-----------------------------------+
-| paramātma-sandarbha               | 1.  (ed.) Chinmayi Chatterjee     |
-||     (Calcutta: Jadavpur           |
-||     University, 1972)             |
-||                                   |
-|| 2.  (ed.) Haridas Shastri         |
-||     (Vrindavan: Sri Gadadhara     |
-||     Gaurahari Press, 1983).       |
-||                                   |
-|| 3.  (ed.) Puridāsa. Kalikata,     |
-||     1951.                         |
+। paramātma-sandarbha               । 1.  (ed.) Chinmayi Chatterjee     ।
+॥     (Calcutta: Jadavpur           ।
+॥     University, 1972)             ।
+॥                                   ।
+॥ 2.  (ed.) Haridas Shastri         ।
+॥     (Vrindavan: Sri Gadadhara     ।
+॥     Gaurahari Press, 1983).       ।
+॥                                   ।
+॥ 3.  (ed.) Puridāsa. Kalikata,     ।
+॥     1951.                         ।
 +-----------------------------------+-----------------------------------+
-| viśvanāthaḥ                       | unknown, occasionally from *bha*  |
+। viśvanāthaḥ                       । unknown, occasionally from *bha*  ।
 +-----------------------------------+-----------------------------------+
-| caitanya-mata-mañjuṣā             | pa                                |
+। caitanya-mata-mañjuṣā             । pa                                ।
 +-----------------------------------+-----------------------------------+
-| vaiṣṇava-toṣaṇī                   | bha                               |
+। vaiṣṇava-toṣaṇī                   । bha                               ।
 +-----------------------------------+-----------------------------------+
 
 
