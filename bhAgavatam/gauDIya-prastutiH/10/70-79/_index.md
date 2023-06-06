@@ -44,11 +44,11 @@ title = "+70-79"
 । bhagavat-sandarbha                । 1.  Dr. Chinmayi Chatterjee       ।
 ॥     (Calcutta: Jadavpur           ।
 ॥     University, 1972).            ।
-॥                                   ।
+------------------------------
 ॥ 2.  (ed.) Kanailal Adhikari, Sri  ।
 ॥     Mayapur: Gopinath Gaudiya     ।
 ॥     Math, 1999.                   ।
-॥                                   ।
+------------------------------
 ॥ 3.  (ed.) Haridas Shastri,        ।
 ॥     Vrindavan: Sri Gadadhara      ।
 ॥     Gaurahari Press, 1983.        ।
@@ -56,11 +56,11 @@ title = "+70-79"
 । paramātma-sandarbha               । 1.  (ed.) Chinmayi Chatterjee     ।
 ॥     (Calcutta: Jadavpur           ।
 ॥     University, 1972)             ।
-॥                                   ।
+------------------------------
 ॥ 2.  (ed.) Haridas Shastri         ।
 ॥     (Vrindavan: Sri Gadadhara     ।
 ॥     Gaurahari Press, 1983).       ।
-॥                                   ।
+------------------------------
 ॥ 3.  (ed.) Puridāsa. Kalikata,     ।
 ॥     1951.                         ।
 +-----------------------------------+-----------------------------------+

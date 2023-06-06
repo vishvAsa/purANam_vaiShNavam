@@ -18,7 +18,7 @@ Goswami on the Eleventh Canto found in *Hari-bhakti-vilāsa* and
 Sandarbhas differ from Krama-sandarbha, those comments have also been
 added, as well as the comments given by Viśvanātha or Śrī Jīva to other
 texts citing verses from the Eleventh Canto.\
-\
+------------------------------
 No single edition was used consistently throughout, so that information
 is not being given here. There are only a few footnotes and
 notifications of variants, etc., usually based on a comparison to the
