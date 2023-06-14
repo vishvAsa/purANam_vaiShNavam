@@ -334,7 +334,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।13.19।। इस प्रकार, (मेरे द्वारा) क्षेत्र, ज्ञान और ज्ञेय को संक्षेपत:
+।।13.19।। इस प्रकार, (मेरे द्वारा) क्षेत्र, ज्ञान और ज्ञेय को संक्षेपतः
 कहा गया। इसे तत्त्व से जानकर (विज्ञाय) मेरा भक्त मेरे स्वरूप को प्राप्त
 होता है।।
 

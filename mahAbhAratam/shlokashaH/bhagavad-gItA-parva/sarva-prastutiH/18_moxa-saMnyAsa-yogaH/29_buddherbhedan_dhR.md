@@ -281,7 +281,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.29।। हे धनंजय ! मेरे द्वारा अशेषत: और पृथकत: कहे जाने वाले, गुणों
+।।18.29।। हे धनंजय ! मेरे द्वारा अशेषतः और पृथकतः कहे जाने वाले, गुणों
 के कारण उत्पन्न हुए बुद्धि और धृति के त्रिविध भेद को सुनो।।
 
 </details>

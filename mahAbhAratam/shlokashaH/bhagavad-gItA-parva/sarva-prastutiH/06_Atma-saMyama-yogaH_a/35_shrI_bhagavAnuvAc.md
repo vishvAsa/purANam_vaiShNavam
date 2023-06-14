@@ -439,7 +439,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.35।। श्रीभगवान् कहते हैं -- हे महबाहो ! नि:सन्देह मन चंचल और कठिनता
+।।6.35।। श्रीभगवान् कहते हैं -- हे महबाहो ! निःसन्देह मन चंचल और कठिनता
 से वश में होने वाला है; परन्तु, हे कुन्तीपुत्र ! उसे अभ्यास और वैराग्य
 के द्वारा वश में किया जा सकता है।।
 

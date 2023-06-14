@@ -409,7 +409,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।10.11।। उनके ऊपर अनुग्रह करने के लिए मैं उनके अन्त:करण में स्थित होकर,
+।।10.11।। उनके ऊपर अनुग्रह करने के लिए मैं उनके अन्तःकरण में स्थित होकर,
 अज्ञानजनित अन्धकार को प्रकाशमय ज्ञान के दीपक द्वारा नष्ट करता हूँ।।
 
 </details>

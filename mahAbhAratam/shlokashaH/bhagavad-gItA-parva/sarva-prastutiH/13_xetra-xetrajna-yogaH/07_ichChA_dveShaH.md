@@ -542,7 +542,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/07_ichChA_dveShaH.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।13.7।। इच्छा, द्वेष, सुख, दुख, संघात (स्थूलदेह), चेतना (अन्त:करण की
+।।13.7।। इच्छा, द्वेष, सुख, दुख, संघात (स्थूलदेह), चेतना (अन्तःकरण की
 चेतन वृत्ति) तथा धृति - इस प्रकार यह क्षेत्र विकारों के सहित संक्षेप
 में कहा गया है।।
 

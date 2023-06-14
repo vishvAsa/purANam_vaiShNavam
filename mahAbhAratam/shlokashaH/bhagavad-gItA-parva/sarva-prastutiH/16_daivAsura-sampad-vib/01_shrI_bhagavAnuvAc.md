@@ -605,7 +605,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/16_daivAsura-sampad-vib/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।16.1।। श्री भगवान् ने कहा -- अभय, अन्त:करण की शुद्धि, ज्ञानयोग में
+।।16.1।। श्री भगवान् ने कहा -- अभय, अन्तःकरण की शुद्धि, ज्ञानयोग में
 दृढ़ स्थिति, दान, दम, यज्ञ, स्वाध्याय, तप और आर्जव।।
 
 </details>

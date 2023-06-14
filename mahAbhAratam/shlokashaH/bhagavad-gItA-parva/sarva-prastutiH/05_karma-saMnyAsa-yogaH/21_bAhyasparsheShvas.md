@@ -339,7 +339,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।5.21।। बाह्य विषयों में आसक्तिरहित अन्त:करण वाला पुरुष आत्मा में ही
+।।5.21।। बाह्य विषयों में आसक्तिरहित अन्तःकरण वाला पुरुष आत्मा में ही
 सुख प्राप्त करता है; ब्रह्म के ध्यान में समाहित चित्त वाला पुरुष अक्षय
 सुख प्राप्त करता है।।
 

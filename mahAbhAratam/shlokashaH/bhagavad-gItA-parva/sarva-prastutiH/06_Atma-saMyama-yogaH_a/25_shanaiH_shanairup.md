@@ -408,7 +408,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/25_shanaiH_shanairup.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.25।। शनै: शनै: धैर्ययुक्त बुद्धि के द्वारा (योगी) उपरामता (शांति) को
+।।6.25।। शनैः शनैः धैर्ययुक्त बुद्धि के द्वारा (योगी) उपरामता (शांति) को
 प्राप्त होवे; मन को आत्मा में स्थित करके फिर अन्य कुछ भी चिन्तन न करे।।
 
 </details>

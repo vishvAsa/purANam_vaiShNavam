@@ -332,7 +332,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/16_manaHprasAdaH_sau.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।17.16।। मन की प्रसन्नता, सौम्यभाव, मौन आत्मसंयम और अन्त:करण की शुद्धि
+।।17.16।। मन की प्रसन्नता, सौम्यभाव, मौन आत्मसंयम और अन्तःकरण की शुद्धि
 यह सब मानस तप कहलाता है।।
 
 </details>

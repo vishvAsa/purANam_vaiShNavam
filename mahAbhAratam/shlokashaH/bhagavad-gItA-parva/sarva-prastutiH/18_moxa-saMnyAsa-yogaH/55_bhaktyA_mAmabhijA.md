@@ -609,8 +609,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/55_bhaktyA_mAmabhijA.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.55।। (उस परा) भक्ति के द्वारा मुझे वह तत्त्वत: जानता है कि मैं
-कितना (व्यापक) हूँ तथा मैं क्या हूँ। (इस प्रकार) तत्त्वत: जानने के
+।।18.55।। (उस परा) भक्ति के द्वारा मुझे वह तत्त्वतः जानता है कि मैं
+कितना (व्यापक) हूँ तथा मैं क्या हूँ। (इस प्रकार) तत्त्वतः जानने के
 पश्चात् तत्काल ही वह मुझमें प्रवेश कर जाता है, अर्थात् मत्स्वरूप बन जाता
 है।।
 

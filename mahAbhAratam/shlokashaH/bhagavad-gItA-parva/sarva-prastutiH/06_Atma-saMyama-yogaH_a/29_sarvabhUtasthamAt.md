@@ -557,7 +557,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.29।। योगयुक्त अन्त:करण वाला और सर्वत्र समदर्शी योगी आत्मा को सब
+।।6.29।। योगयुक्त अन्तःकरण वाला और सर्वत्र समदर्शी योगी आत्मा को सब
 भूतों में और भूतमात्र को आत्मा में देखता है।।
 
 </details>

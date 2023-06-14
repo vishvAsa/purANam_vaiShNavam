@@ -345,7 +345,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।10.1।। श्रीभगवान् ने कहा -- हे महाबाहो ! पुन: तुम मेरे परम वचनों का
+।।10.1।। श्रीभगवान् ने कहा -- हे महाबाहो ! पुनः तुम मेरे परम वचनों का
 श्रवण करो, जो मैं तुझ अतिशय प्रेम रखने वाले के लिये हित की इच्छा से
 कहूँगा।।
 

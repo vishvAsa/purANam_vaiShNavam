@@ -263,7 +263,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/16_vaktumarhasyasheS.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।10.16।। आप ही उन अपनी दिव्य विभूतियों को अशेषत: कहने के लिए योग्य हैं,
+।।10.16।। आप ही उन अपनी दिव्य विभूतियों को अशेषतः कहने के लिए योग्य हैं,
 जिन विभूतियों के द्वारा इन समस्त लोकों को आप व्याप्त करके स्थित हैं।।
 
 </details>

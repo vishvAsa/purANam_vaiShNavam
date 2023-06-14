@@ -352,7 +352,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।14.24।। जो स्वस्थ (स्वरूप में स्थित), सुख-दु:ख में समान रहता है तथा
+।।14.24।। जो स्वस्थ (स्वरूप में स्थित), सुख-दुःख में समान रहता है तथा
 मिट्टी, पत्थर और स्वर्ण में समदृष्टि रखता है; ऐसा वीर पुरुष प्रिय और
 अप्रिय को तथा निन्दा और आत्मस्तुति को तुल्य समझता है।।
 

@@ -236,7 +236,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.32।। हे पार्थ ! तमस् (अज्ञान अन्ध:कार) से आवृत जो बुद्धि अधर्म को
+।।18.32।। हे पार्थ ! तमस् (अज्ञान अन्धःकार) से आवृत जो बुद्धि अधर्म को
 ही धर्म मानती है और सभी पदार्थों को विपरीत रूप से जानती है, वह बुद्धि
 तामसी है।।
 

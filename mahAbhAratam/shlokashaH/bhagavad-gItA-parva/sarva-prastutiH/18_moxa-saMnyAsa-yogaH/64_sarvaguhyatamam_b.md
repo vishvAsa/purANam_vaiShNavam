@@ -332,7 +332,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.64।। पुन: एक बार तुम मुझसे समस्त गुह्यों में गुह्यतम परम वचन
+।।18.64।। पुनः एक बार तुम मुझसे समस्त गुह्यों में गुह्यतम परम वचन
 (उपदेश) को सुनो। तुम मुझे अतिशय प्रिय हो, इसलिए मैं तुम्हें तुम्हारे हित
 की बात कहूंगा।।
 

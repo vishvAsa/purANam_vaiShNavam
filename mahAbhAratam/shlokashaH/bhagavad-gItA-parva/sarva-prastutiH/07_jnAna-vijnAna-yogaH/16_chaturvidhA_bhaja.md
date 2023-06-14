@@ -405,7 +405,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।7.16।। हे भरत श्रेष्ठ अर्जुन ! उत्तम कर्म करने वाले (सुकृतिन:) आर्त,
+।।7.16।। हे भरत श्रेष्ठ अर्जुन ! उत्तम कर्म करने वाले (सुकृतिनः) आर्त,
 जिज्ञासु, अर्थार्थी और ज्ञानी ऐसे चार प्रकार के लोग मुझे भजते हैं।।
 
 </details>

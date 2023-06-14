@@ -316,7 +316,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.77।। हे राजन ! श्री हरि के अति अद्भुत रूप को भी पुन: पुन: स्मरण
+।।18.77।। हे राजन ! श्री हरि के अति अद्भुत रूप को भी पुनः पुनः स्मरण
 करके मुझे महान् विस्मय होता है और मैं बारम्बार हर्षित हो रहा हूँ।।
 
 </details>

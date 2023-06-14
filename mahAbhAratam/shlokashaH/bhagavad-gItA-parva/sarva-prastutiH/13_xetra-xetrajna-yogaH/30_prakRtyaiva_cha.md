@@ -301,7 +301,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/30_prakRtyaiva_cha.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।13.30।। जो पुरुष समस्त कर्मों को सर्वश: प्रकृति द्वारा ही किये गये
+।।13.30।। जो पुरुष समस्त कर्मों को सर्वशः प्रकृति द्वारा ही किये गये
 देखता है तथा आत्मा को अकर्ता देखता है, वही (वास्तव में) देखता है।।
 
 </details>

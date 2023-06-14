@@ -333,7 +333,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/11_vishva-rUpa-darshana/40_namaH_purastAdath.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।11.40।। हे अनन्तसार्मथ्य वाले भगवन्! आपके लिए अग्रत: और पृष्ठत:
+।।11.40।। हे अनन्तसार्मथ्य वाले भगवन्! आपके लिए अग्रतः और पृष्ठतः
 नमस्कार है, हे सर्वात्मन्! आपको सब ओर से नमस्कार है। आप अमित विक्रमशाली
 हैं और आप सबको व्याप्त किये हुए हैं, इससे आप सर्वरूप हैं।।
 

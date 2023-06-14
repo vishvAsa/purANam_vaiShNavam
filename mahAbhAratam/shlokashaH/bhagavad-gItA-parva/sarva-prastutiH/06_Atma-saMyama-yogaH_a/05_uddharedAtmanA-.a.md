@@ -384,7 +384,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.5।। मनुष्य को अपने द्वारा अपना उद्धार करना चाहिये और अपना अध: पतन
+।।6.5।। मनुष्य को अपने द्वारा अपना उद्धार करना चाहिये और अपना अधः पतन
 नहीं करना चाहिये; क्योंकि आत्मा ही आत्मा का मित्र है और आत्मा (मनुष्य
 स्वयं) ही आत्मा का (अपना) शत्रु है।।
 

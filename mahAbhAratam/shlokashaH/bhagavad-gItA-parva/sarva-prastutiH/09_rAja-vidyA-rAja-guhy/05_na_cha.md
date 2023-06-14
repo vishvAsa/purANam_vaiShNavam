@@ -427,7 +427,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/05_na_cha.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।9.5।। और (वस्तुत:) भूतमात्र मुझ में स्थित नहीं है; मेरे ईश्वरीय योग को
+।।9.5।। और (वस्तुतः) भूतमात्र मुझ में स्थित नहीं है; मेरे ईश्वरीय योग को
 देखो कि भूतों को धारण करने वाली और भूतों को उत्पन्न करने वाली मेरी आत्मा
 उन भूतों में स्थित नहीं है।।
 

@@ -289,7 +289,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.8।। जो मनुष्य, कर्म को दु:ख समझकर शारीरिक कष्ट के भय से त्याग देता
+।।18.8।। जो मनुष्य, कर्म को दुःख समझकर शारीरिक कष्ट के भय से त्याग देता
 है, वह पुरुष उस राजसिक त्याग को करके कदापि त्याग के फल को प्राप्त नहीं
 होता है।।
 

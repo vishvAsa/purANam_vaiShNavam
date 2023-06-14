@@ -261,7 +261,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/24_sankalpaprabhavAn.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.24।। संकल्प से उत्पन्न समस्त कामनाओं को नि:शेष रूप से परित्याग कर मन
+।।6.24।। संकल्प से उत्पन्न समस्त कामनाओं को निःशेष रूप से परित्याग कर मन
 के द्वारा इन्द्रिय समुदाय को सब ओर से सम्यक् प्रकार वश में करके।।
 
 </details>

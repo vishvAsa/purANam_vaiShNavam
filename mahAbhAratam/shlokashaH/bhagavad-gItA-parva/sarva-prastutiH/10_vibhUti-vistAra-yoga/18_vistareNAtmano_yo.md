@@ -283,7 +283,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।10.18।। हे जनार्दन ! अपनी योग शक्ति और विभूति को पुन: विस्तारपूर्वक
+।।10.18।। हे जनार्दन ! अपनी योग शक्ति और विभूति को पुनः विस्तारपूर्वक
 कहिए, क्योंकि आपके अमृतमय वचनों को सुनते हुए मुझे तृप्ति नहीं होती।।
 
 </details>

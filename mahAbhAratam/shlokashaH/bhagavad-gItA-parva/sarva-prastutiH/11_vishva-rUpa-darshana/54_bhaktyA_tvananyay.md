@@ -338,7 +338,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।11.54।। परन्तु हे परन्तप अर्जुन! अनन्य भक्ति के द्वारा मैं तत्त्वत:
+।।11.54।। परन्तु हे परन्तप अर्जुन! अनन्य भक्ति के द्वारा मैं तत्त्वतः
 'जानने', 'देखने' और 'प्रवेश' करने के लिए (एकी भाव से प्राप्त होने के
 लिए) भी, शक्य हूँ!।।
 

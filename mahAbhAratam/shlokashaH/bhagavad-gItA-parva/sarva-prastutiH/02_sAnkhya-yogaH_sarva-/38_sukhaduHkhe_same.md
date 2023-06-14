@@ -458,7 +458,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/38_sukhaduHkhe_same.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।2.38।। सुख-दु:ख, लाभ-हानि और जय-पराजय को समान करके युद्ध के लिये
+।।2.38।। सुख-दुःख, लाभ-हानि और जय-पराजय को समान करके युद्ध के लिये
 तैयार हो जाओ; इस प्रकार तुमको पाप नहीं होगा।।
 
 </details>
