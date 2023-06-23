@@ -6,7 +6,7 @@ title = "१६७ अलम्बुषपराभवे"
 
 <details><summary>भागसूचना</summary>
 
-सप्तषष्ट््‌यधिकशततमोऽध्यायः
+सप्तषष्ट्यधिकशततमोऽध्यायः
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

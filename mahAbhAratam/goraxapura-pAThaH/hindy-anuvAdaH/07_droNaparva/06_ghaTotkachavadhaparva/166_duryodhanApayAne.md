@@ -6,7 +6,7 @@ title = "१६६ दुर्योधनापयाने"
 
 <details><summary>भागसूचना</summary>
 
-षट््षष्ट््‌यधिकशततमोऽध्यायः
+षट््षष्ट्यधिकशततमोऽध्यायः
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

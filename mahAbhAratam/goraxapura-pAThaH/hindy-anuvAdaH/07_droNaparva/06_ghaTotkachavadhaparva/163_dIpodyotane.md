@@ -6,7 +6,7 @@ title = "१६३ दीपोद्योतने"
 
 <details><summary>भागसूचना</summary>
 
-त्रिषष्ट््‌यधिकशततमोऽध्यायः
+त्रिषष्ट्यधिकशततमोऽध्यायः
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

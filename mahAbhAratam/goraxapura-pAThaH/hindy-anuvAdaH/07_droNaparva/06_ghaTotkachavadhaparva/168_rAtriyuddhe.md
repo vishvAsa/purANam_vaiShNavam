@@ -6,7 +6,7 @@ title = "१६८ रात्रियुद्धे"
 
 <details><summary>भागसूचना</summary>
 
-अष्टषष्ट््‌यधिकशततमोऽध्यायः
+अष्टषष्ट्यधिकशततमोऽध्यायः
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>

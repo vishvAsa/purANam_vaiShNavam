@@ -6,7 +6,7 @@ title = "१६४ संकुलयुद्धे"
 
 <details><summary>भागसूचना</summary>
 
-चतुःषष्ट््‌यधिकशततमोऽध्यायः
+चतुःषष्ट्यधिकशततमोऽध्यायः
 </details>
 
 <details><summary>सूचना (हिन्दी)</summary>
