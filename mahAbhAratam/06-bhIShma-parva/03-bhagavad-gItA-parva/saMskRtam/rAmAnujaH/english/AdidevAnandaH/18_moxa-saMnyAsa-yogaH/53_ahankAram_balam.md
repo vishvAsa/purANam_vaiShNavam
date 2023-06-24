@@ -2,12 +2,9 @@
 title = "53 अहङ्कारम् बलम्"
 
 +++
-18.51 - 18.53 'Endowed with a purified understanding' means endowed with
-the Buddhi capable of understanding the self as it is in reality;
-'subduing the mind by steadiness' means making the mind fit for
-meditation by turning away from external and internal objects;
-'relinishing sound and other objects of senses' means keeping them far
-away, casting aside love and hate occasioned by them (i.e., the sense
+18.51 - 18.53 'Endowed with a purified understanding' means endowed with the Buddhi capable of understanding the self as it is in reality;
+'subduing the mind by steadiness' means making the mind fit for meditation by turning away from external and internal objects;
+'relinishing sound and other objects of senses' means keeping them far away, casting aside love and hate occasioned by them (i.e., the sense
 objects). 'Resorting to solitude' means living in a lonely place free
 from hindrances to meditation; 'eat but little' means eating neither too
 much nor too little; 'restraining speech, body and mind' means directing

@@ -2,16 +2,7 @@
 title = "30 मयि सर्वाणि"
 
 +++
-3.30 Do all prescribed acts such as war etc., (here a duty) free from
-desire or selfishness and devoid of fear, with a mind focussed on the
-self. Surrender all acts to Me, the Lord of all, who constitutes the
-inner pervading Self of all beings. 'Adhyatma-cetas' is that mind which
-is focussed on the self by knowledge of the essential nature of the self
-as declared in hundreds of Vedic texts. That this individual self
-constitutes the body of the Supreme Self and is actuated by Him, is
-taught by Sruti texts like: 'He who has entered within, is the ruler of
-all beings and is the Self of all' (Tai. Ar., 3.11), 'Him who has
-entered inside and is the doer' (Ibid., 3.23), 'He who, dwelling in the
+3.30 Do all prescribed acts such as war etc., (here a duty) free from desire or selfishness and devoid of fear, with a mind focussed on the self. Surrender all acts to Me, the Lord of all, who constitutes the inner pervading Self of all beings. 'Adhyatma-cetas' is that mind which is focussed on the self by knowledge of the essential nature of the self as declared in hundreds of Vedic texts. That this individual self constitutes the body of the Supreme Self and is actuated by Him, is taught by Sruti texts like: 'He who has entered within, is the ruler of all beings and is the Self of all' (Tai. Ar., 3.11), 'Him who has entered inside and is the doer' (Ibid., 3.23), 'He who, dwelling in the
 self, is within the self, whom the Self does not know, whose body is the
 self, who controls the self from within - He is your internal ruler and
 Immortal Self' (Br. U., 3.7.22). Smrti texts also speak in the same

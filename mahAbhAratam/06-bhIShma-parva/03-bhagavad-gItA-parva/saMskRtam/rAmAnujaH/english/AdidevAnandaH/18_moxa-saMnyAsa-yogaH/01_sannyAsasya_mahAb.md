@@ -2,8 +2,7 @@
 title = "01 सन्न्यासस्य महाबाहो"
 
 +++
-18.1 Arjuna said Both Sannyasa and Tyaga as a means for release are
-enjoined in such Srutis: 'Not by rituals, nor by progeny, nor by
+18.1 Arjuna said Both Sannyasa and Tyaga as a means for release are enjoined in such Srutis: 'Not by rituals, nor by progeny, nor by
 rituals, nor by progeny, nor by wealth but by Tyaga alone do some attain
 immortality ৷৷.' (Ma. Na., 5.14). Ascertaining the truth about the
 Supreme Reality from a knowledge of Vedanta, and becoming purified in

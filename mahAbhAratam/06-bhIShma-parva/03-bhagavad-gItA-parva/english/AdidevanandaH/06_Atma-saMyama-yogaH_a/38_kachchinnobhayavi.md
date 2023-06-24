@@ -3,5 +3,4 @@ title = "38 कच्चिन्नोभयविभ्रष्टश्छ�
 
 +++
 6.38 Without any support, confused in the path leading to the Brahman,
-and thus fallen from both, does he not perish, O mighty armed, like a
-riven cloud;
+and thus fallen from both, does he not perish, O mighty armed, like a riven cloud;

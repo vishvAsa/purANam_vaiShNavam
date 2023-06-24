@@ -4,11 +4,8 @@ title = "62 तमेव शरणम्"
 +++
 18.62 Such being the case, take refuge with all your heart
 (Sarvabhavena), by every disposition of your body, senses and mind
-(Sarvatmana) in Him - Him, the ruler of all, who has become your
-charioteer out of compassion for dependents, and who orders you, 'Act
-thus' and so on. Even if you do not do so now, fighting in battle etc.,
-is inevitable for you who are ignorant and actuated by His Maya, but
-then you will get ruined. Therefore, fight etc., in the manner which has
+(Sarvatmana) in Him - Him, the ruler of all, who has become your charioteer out of compassion for dependents, and who orders you, 'Act thus' and so on. Even if you do not do so now, fighting in battle etc.,
+is inevitable for you who are ignorant and actuated by His Maya, but then you will get ruined. Therefore, fight etc., in the manner which has
 been explained by Him. Such is the meaning. Acting in this way, you will
 attain supreme peace, release from all bondage, and the eternal abode.
 Hundreds of Srutis declare it: 'That supreme place of Visnu which the

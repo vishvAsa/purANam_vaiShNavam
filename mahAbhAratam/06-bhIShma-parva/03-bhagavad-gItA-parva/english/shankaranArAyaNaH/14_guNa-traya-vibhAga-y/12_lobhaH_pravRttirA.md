@@ -2,6 +2,4 @@
 title = "12 लोभः प्रवृत्तिरारम्भः"
 
 +++
-14.12. Greed, exertion, undertaking of actions, unrest, and
-craving-these are born when the Rajas increases predominantly, O chief
-of the Bharatas !
+14.12. Greed, exertion, undertaking of actions, unrest, and craving-these are born when the Rajas increases predominantly, O chief of the Bharatas !

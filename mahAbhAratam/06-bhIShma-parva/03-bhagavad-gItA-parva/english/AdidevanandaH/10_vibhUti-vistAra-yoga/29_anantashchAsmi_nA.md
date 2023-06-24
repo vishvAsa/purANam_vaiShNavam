@@ -2,5 +2,4 @@
 title = "29 अनन्तश्चास्मि नागानाम्"
 
 +++
-10.29 Of snakes, I am Ananta. Of aatic-beings I am Varuna. Of manes, I
-am Aryama. Of subduers, I am Yama.
+10.29 Of snakes, I am Ananta. Of aatic-beings I am Varuna. Of manes, I am Aryama. Of subduers, I am Yama.

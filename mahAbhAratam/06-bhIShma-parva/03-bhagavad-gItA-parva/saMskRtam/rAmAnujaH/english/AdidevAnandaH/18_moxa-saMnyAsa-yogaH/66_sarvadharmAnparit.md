@@ -2,10 +2,7 @@
 title = "66 सर्वधर्मान्परित्यज्य"
 
 +++
-18.66 'Relinishing all Dharmas means the complete relinishment of the
-sense of agency, possessiveness, fruits etc., in the practising of
-Karma, Jnana and Bhakti Yogas in the way instructed, and the realising
-of Me as the agent, object of worship, the means and the end. It means
+18.66 'Relinishing all Dharmas means the complete relinishment of the sense of agency, possessiveness, fruits etc., in the practising of Karma, Jnana and Bhakti Yogas in the way instructed, and the realising of Me as the agent, object of worship, the means and the end. It means
 that relinishment is not of all devotional duties but only of the sense
 of agency and the fruits. This is the Sastraic relinishment of all
 Dharmas. It is firmly established in the beginning of this chapter

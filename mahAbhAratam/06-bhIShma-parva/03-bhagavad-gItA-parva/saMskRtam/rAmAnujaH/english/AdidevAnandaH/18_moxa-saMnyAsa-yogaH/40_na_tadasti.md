@@ -2,8 +2,7 @@
 title = "40 न तदस्ति"
 
 +++
-18.40 There is no Sattva or creature born either among men etc., on the
-earth or among the gods in heaven, from Brahma down to immobile things,
+18.40 There is no Sattva or creature born either among men etc., on the earth or among the gods in heaven, from Brahma down to immobile things,
 and having their basis in Prakrti, that is free from the dominance of
 the three Gunas of Prakrti. 'Tyaga', which has been determined as
 forming the means for release in the Sruti texts like 'By Tyaga alone do

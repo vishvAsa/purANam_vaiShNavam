@@ -2,8 +2,7 @@
 title = "67 इदन् ते"
 
 +++
-18.67 I have taught you this most secret doctrine. This should not be
-imparted by you to someone who has not practised austere disciplines.
+18.67 I have taught you this most secret doctrine. This should not be imparted by you to someone who has not practised austere disciplines.
 Never should this be taught to someone who is not devoted to Me and to
 you, the teacher (i.e., when you have to play the role of a teacher of
 this doctrine). The meaning is that it should not be taught by you to

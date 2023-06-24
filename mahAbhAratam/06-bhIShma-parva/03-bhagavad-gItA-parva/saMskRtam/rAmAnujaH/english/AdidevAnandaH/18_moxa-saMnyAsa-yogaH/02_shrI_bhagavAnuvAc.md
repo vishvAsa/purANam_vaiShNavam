@@ -2,8 +2,7 @@
 title = "02 श्री भगवानुवाच"
 
 +++
-18.2 The Lord said Some scholars understand that Sannyasa is complete
-relinishment of desire-prompted acts. Some other wise men say that the
+18.2 The Lord said Some scholars understand that Sannyasa is complete relinishment of desire-prompted acts. Some other wise men say that the
 meaning of the term Tyaga, according to the Sastras dealing with
 release, is relinishment of the fruits not only of all desiderative
 (Kamya), but also of obligatory and occasional, duties . Here, the

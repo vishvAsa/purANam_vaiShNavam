@@ -2,21 +2,9 @@
 title = "04 सन्नियम्येन्द्रियग्रामं"
 
 +++
-12.3 - 12.5 The individual self meditated upon by those who follow the
-path of the 'Aksara' (the Imperishable) is thus described: It cannot be
-'defined' in terms indicated by expressions like gods and men etc., for
-It is different from the body; It is 'imperceptible' through the senses
-such as eyes; It is 'omnipresent and unthinkable,' for though It exists
-everywhere in bodies such as those of gods and others, It cannot be
-conceived in terms of those bodies, as It is an entity of an altogether
-different kind; It is 'common to all beings' i.e., alike in all beings
-but different from the bodily forms distinguishing them; It is
-'immovable' as It does not move out of Its unie nature, being
-unmodifiable, and therefore eternal. Such aspirants are further
-described as those who, 'subduing their senses' like the eye from their
-natural operations, look upon all beings of different forms as 'eal' by
-virtue of their knowledge of the sameness of the nature of the selves as
-knowers in all. Therefore they are not given 'to take pleasure in the
+12.3 - 12.5 The individual self meditated upon by those who follow the path of the 'Aksara' (the Imperishable) is thus described: It cannot be
+'defined' in terms indicated by expressions like gods and men etc., for It is different from the body; It is 'imperceptible' through the senses such as eyes; It is 'omnipresent and unthinkable,' for though It exists everywhere in bodies such as those of gods and others, It cannot be conceived in terms of those bodies, as It is an entity of an altogether different kind; It is 'common to all beings' i.e., alike in all beings but different from the bodily forms distinguishing them; It is
+'immovable' as It does not move out of Its unie nature, being unmodifiable, and therefore eternal. Such aspirants are further described as those who, 'subduing their senses' like the eye from their natural operations, look upon all beings of different forms as 'eal' by virtue of their knowledge of the sameness of the nature of the selves as knowers in all. Therefore they are not given 'to take pleasure in the
 misfortune of others,' as such feelings proceed from one's
 identification with one's own special bodily form. Those who meditate on
 the Imperishable Principle (individual self) in this way, even they come

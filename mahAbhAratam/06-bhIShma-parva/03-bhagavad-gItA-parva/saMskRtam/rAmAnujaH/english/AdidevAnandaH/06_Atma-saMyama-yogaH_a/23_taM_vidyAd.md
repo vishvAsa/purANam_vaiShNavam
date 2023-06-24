@@ -2,11 +2,8 @@
 title = "23 तं विद्याद्"
 
 +++
-6.20 - 6.23 Where, through the practice of Yoga, the mind, which is
-subdued everywhere by such practice, 'rejoices', i.e., rejoices in
-surpassing felicity; and where, perceiving through Yoga 'the self
-(Atman)' by 'the mind (Atman)' one is delighted by the self and
-indifferent to all other objects; and where, through Yoga, one 'knows',
+6.20 - 6.23 Where, through the practice of Yoga, the mind, which is subdued everywhere by such practice, 'rejoices', i.e., rejoices in surpassing felicity; and where, perceiving through Yoga 'the self
+(Atman)' by 'the mind (Atman)' one is delighted by the self and indifferent to all other objects; and where, through Yoga, one 'knows',
 i.e., experiences that infinite happiness which can be grasped only by
 the 'intellect' contemplating on the self, but is beyond the grasp of
 the senses; where, remaining in that Yoga, one does not 'swerve from

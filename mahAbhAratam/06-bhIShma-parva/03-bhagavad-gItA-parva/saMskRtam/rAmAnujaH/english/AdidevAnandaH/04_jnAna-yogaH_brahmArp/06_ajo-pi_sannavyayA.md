@@ -2,12 +2,9 @@
 title = "06 अजोऽपि सन्नव्ययात्मा"
 
 +++
-4.6 Without forsaking any of the My special alities, as supreme
-rulership, birthless, imperishability etc., I am born by My free will.
-Prakrti means one's own nature. The meaning is that by employment of My
-own Nature and taking a form of My choice, I incarnate by My own will
-(Maya). The character of My own Nature becomes evident from the
-following Srutis: 'Him who is of sun-like colour, beyond darkness
+4.6 Without forsaking any of the My special alities, as supreme rulership, birthless, imperishability etc., I am born by My free will.
+Prakrti means one's own nature. The meaning is that by employment of My own Nature and taking a form of My choice, I incarnate by My own will
+(Maya). The character of My own Nature becomes evident from the following Srutis: 'Him who is of sun-like colour, beyond darkness
 (Tamas)' (Sve. U., 3.8), 'Him who abides beyond Rajas (active matter)'
 (Sama 17.1.4.2); 'This Golden Person who is within the sun' (Cha. U.
 1.6.6); 'Within the heart, there is the Person consisting of mind,

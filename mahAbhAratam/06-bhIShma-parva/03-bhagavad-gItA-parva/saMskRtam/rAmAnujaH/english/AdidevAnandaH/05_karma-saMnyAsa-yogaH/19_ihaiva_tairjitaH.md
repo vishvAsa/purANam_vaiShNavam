@@ -2,8 +2,7 @@
 title = "19 इहैव तैर्जितः"
 
 +++
-5.19 By those whose minds rest in ealness with regard to all selves in
-the aforesaid manner, even here, i.e., even at the stage of executing
+5.19 By those whose minds rest in ealness with regard to all selves in the aforesaid manner, even here, i.e., even at the stage of executing
 the means, Samsara is overcome. For the Brahman is of the same nature
 everywhere when uncontaminated. The meaning is that the substance of
 self, when free from the contaminations resulting from contact with the

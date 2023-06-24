@@ -2,11 +2,8 @@
 title = "28 अयुक्तः प्राकृतः"
 
 +++
-18.28 'Ayukta' is the doer who is unalified for acts enjoined by the
-Sastras; the meaning is that he is engaged in perverse acts; who is
-'unrefined', means one uninstructed; who is 'stubborn', means one who is
-not disposed to act; who is 'depraved' means one who has the taste for
-black magic etc; who is dishonest is one who is treacherous; who is
+18.28 'Ayukta' is the doer who is unalified for acts enjoined by the Sastras; the meaning is that he is engaged in perverse acts; who is
+'unrefined', means one uninstructed; who is 'stubborn', means one who is not disposed to act; who is 'depraved' means one who has the taste for black magic etc; who is dishonest is one who is treacherous; who is
 'indolent' is one who is not inclined to carry out actions undertaken;
 who is 'despondent' is one given to excessive despondency; and one who
 is 'dilatory', is a person who, while engaged in black magic, etc., pays

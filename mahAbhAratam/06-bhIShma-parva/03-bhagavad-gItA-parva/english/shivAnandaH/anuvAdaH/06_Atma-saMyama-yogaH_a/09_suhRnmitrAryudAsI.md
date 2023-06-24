@@ -3,5 +3,4 @@ title = "09 सुहृन्मित्रार्युदासीनम�
 
 +++
 6.9 He who is of the same mind to the good-hearted, friends, enemies,
-the indifferent, the neutral, the hateful, the relatives, the righteous
-and the unrighteous, excels.
+the indifferent, the neutral, the hateful, the relatives, the righteous and the unrighteous, excels.

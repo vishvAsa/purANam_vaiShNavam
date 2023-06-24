@@ -2,14 +2,7 @@
 title = "42 शमो दमस्तपः"
 
 +++
-18.42 'Sama' is the control of the external sense-organs. 'Dama' is the
-control of the mind. 'Tapas' is the chastisement of the body by
-controlling enjoyments, as enjoined by the Sastras. 'Sauca' is fitness
-for performing acts as enjoined by the Sastras. 'Ksanti' is preserving
-the composure of the mind, though injured by others. 'Arjava' is
-straightforwardness expressing itself in correct outward manifestation
-to others in consonance with one's own mind. 'Jnana' is knowledge about
-the real nature of the higher and lower truths. 'Vijnana' is the
+18.42 'Sama' is the control of the external sense-organs. 'Dama' is the control of the mind. 'Tapas' is the chastisement of the body by controlling enjoyments, as enjoined by the Sastras. 'Sauca' is fitness for performing acts as enjoined by the Sastras. 'Ksanti' is preserving the composure of the mind, though injured by others. 'Arjava' is straightforwardness expressing itself in correct outward manifestation to others in consonance with one's own mind. 'Jnana' is knowledge about the real nature of the higher and lower truths. 'Vijnana' is the
 knowledge pertaining to exceptional attributes belonging to the Supreme
 Reality. 'Astikya' or faith is firm conviction in the truth of all
 things enjoined in the Vedas. The meaning is that it is unshakable by

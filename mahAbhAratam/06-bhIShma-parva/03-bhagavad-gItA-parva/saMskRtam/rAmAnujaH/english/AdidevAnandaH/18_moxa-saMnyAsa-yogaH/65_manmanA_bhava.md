@@ -2,17 +2,9 @@
 title = "65 मन्मना भव"
 
 +++
-18.65 What is enjoined in Vedanta texts such as 'I know the Great Person
-of the radiance of the sun, who is beyond this Prakrti. Knowing Him
-thus, one becomes here immortal; there is no path for immortality' (Sve.
+18.65 What is enjoined in Vedanta texts such as 'I know the Great Person of the radiance of the sun, who is beyond this Prakrti. Knowing Him thus, one becomes here immortal; there is no path for immortality' (Sve.
 U., 3.8); what is designated by words such as knowledge (Vedanta),
-meditation (Dhyana) and worship (Upasana); what is of the form of direct
-perception (Darsana) having the character of continuous succession of
-memory of a surpassingly loving nature to the worshipped - it is this
-that is enjoined herein by the words 'Focus your mind on Me,' 'Be My
-devotee.' It means, be one to whom I am incomparably dear. Since I am
-the object of superabundant love, meditate on Me, i.e., practise the
-succession of memory of unsurpassed love of Me. Such is the meaning. Be
+meditation (Dhyana) and worship (Upasana); what is of the form of direct perception (Darsana) having the character of continuous succession of memory of a surpassingly loving nature to the worshipped - it is this that is enjoined herein by the words 'Focus your mind on Me,' 'Be My devotee.' It means, be one to whom I am incomparably dear. Since I am the object of superabundant love, meditate on Me, i.e., practise the succession of memory of unsurpassed love of Me. Such is the meaning. Be
 My worshipper (yaji). Here also the expression, 'Be My devotee' is
 applicable. Yajna is worship. Worship Me as one exceedingly dear to you.
 Worship (Aradhana) is complete subservience to the Lord. Prostrate
