@@ -61,13 +61,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.5 He who, at the last moment, while leaving the body, departs
-remembering Me alone, attains My being; he attains My condition. In
-whatever way he meditates on Me, he attains that very form, in the same
-manner as the royal sage Bharata attained the form of the deer
-remembered by him at death. Such is the meaning. Sri Krsna further
-elucidates that it is the nature of one's last thought that leads to the
-attainment of a similar form by the meditator:
+8.5 He who, at the last moment, while leaving the body, departs remembering Me alone, attains My being; he attains My condition. In whatever way he meditates on Me, he attains that very form, in the same manner as the royal sage Bharata attained the form of the deer remembered by him at death. Such is the meaning. Sri Krsna further elucidates that it is the nature of one's last thought that leads to the attainment of a similar form by the meditator:
 
 </details>
 </div>
@@ -513,34 +507,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.5. Whosoever, at the time of death also remembering Me alone, sets
-forth by abandoning his body \[behind\], he attains My being. There is
-no doubt about it.
+8.5. Whosoever, at the time of death also remembering Me alone, sets forth by abandoning his body \[behind\], he attains My being. There is no doubt about it.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.5 And at the time of death, anyone who departs by giving up the body
-while thinking of Me alone, he attains My state. There is no doubt about
-this.
+8.5 And at the time of death, anyone who departs by giving up the body while thinking of Me alone, he attains My state. There is no doubt about this.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/05_antakAle_cha.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.5 Whosoever at the time of death thinks only of Me, and thinking thus
-leaves the body and goes forth, assuredly he will know Me.
+8.5 Whosoever at the time of death thinks only of Me, and thinking thus leaves the body and goes forth, assuredly he will know Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/05_antakAle_cha.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.5 And whosoever, leaving the body, goes forth remembering Me alone, at
-the time of death, he attains My Being: there is no doubt about this.
+8.5 And whosoever, leaving the body, goes forth remembering Me alone, at the time of death, he attains My Being: there is no doubt about this.
 
 </details>
 </div>

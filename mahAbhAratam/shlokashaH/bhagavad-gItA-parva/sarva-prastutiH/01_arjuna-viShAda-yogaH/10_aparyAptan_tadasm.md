@@ -37,34 +37,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the
-forces of Pandavas protected by Bhima, and his own forces protected by
-Bhisma conveyed his views thus to Drona, his teacher, about the adeacy
-of Bhima's forces for conering the Kaurava forces and the inadeacy of
-his own forces for victory against the Pandava forces. He was
-grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma,
+1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adeacy of Bhima's forces for conering the Kaurava forces and the inadeacy of his own forces for victory against the Pandava forces. He was grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma,
 in order to cheer him, roared like a lion, and then blowing his conch,
-made his side sound their conchs and kettle-drums, which made an uproar
-as a sign of victory. Then, having heard that great tumult, Arjuna and
-Sri Krsna the Lord of all lords, who was acting as the charioteer of
-Arjuna, sitting in their great chariot which was powerful enough to
-coner the three worlds; blew their divine conchs Srimad Pancajanya and
-Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs
-separately. That tumult rent asunder the hearts of your sons, led by
-Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost
-lost now itself.' So said Sanjaya to Dhrtarastra who was longing for
-their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas,
-who were ready for battle, Arjuna, who had Hanuman, noted for his
-exploit of burning Lanka, as the emblem on his flag on his chariot,
-directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by
-parental love for those who take shelter in Him who is the
-treasure-house of knowledge, power, lordship, energy, potency and
-splendour, whose sportive delight brings about the origin, sustentation
-and dissolution of the entire cosmos at His will, who is the Lord of the
-senses, who controls in all ways the senses inner and outer of all,
-superior and inferior - by saying, 'Station my chariot in an appropriate
-place in order that I may see exactly my enemies who are eager for
-battle.'
+made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to coner the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost lost now itself.' So said Sanjaya to Dhrtarastra who was longing for their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas,
+who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot,
+directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all,
+superior and inferior - by saying, 'Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.'
 
 </details>
 </div>
@@ -381,42 +359,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.10. Thus the army guarded by Bhima is unlimited (or insufficient) for
-us; on the other hand, the army guarded by Bhisma is limited (or
-sufficient) for them (the Pandavas).
+1.10. Thus the army guarded by Bhima is unlimited (or insufficient) for us; on the other hand, the army guarded by Bhisma is limited (or sufficient) for them (the Pandavas).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.10 Therefore, our army under the complete protection of Bhisma and
-others is unlimited. But this army of these (enemies), under the
-protection of Bhima and others is limited.
+1.10 Therefore, our army under the complete protection of Bhisma and others is unlimited. But this army of these (enemies), under the protection of Bhima and others is limited.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.10 Yet our army seems the weaker, though commanded by Bheeshma; their
-army seems the stronger, though commanded by Bheema.
+1.10 Yet our army seems the weaker, though commanded by Bheeshma; their army seems the stronger, though commanded by Bheema.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.10 Inadequate is this force of ours, which is guarded by Bhisma, while
-adequate is that force of theirs, which is guarded by Bhima.
+1.10 Inadequate is this force of ours, which is guarded by Bhisma, while adequate is that force of theirs, which is guarded by Bhima.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/10_aparyAptan_tadasm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.10. "This army of ours marshalled by Bhishma is insufficient, whereas
-that army of theirs marshelled by Bhima is sufficient.
+1.10. "This army of ours marshalled by Bhishma is insufficient, whereas that army of theirs marshelled by Bhima is sufficient.
 
 </details>
 </div>
@@ -425,12 +396,9 @@ that army of theirs marshelled by Bhima is sufficient.
 
 1.10 अपर्याप्तम् insufficient; तत् that; अस्माकम् ours; बलम् army;
 भीष्माभिरक्षितम् marshalled by Bhishma; पर्याप्तम् sufficient; तु while;
-इदम् this; एतेषाम् their; बलम् army; भीमाभिरक्षितम् marshalled by
-Bhima.  
+इदम् this; एतेषाम् their; बलम् army; भीमाभिरक्षितम् marshalled by Bhima.  
   
-Commentary The verse is differently interpreted by different
-commentators. Sridhara Swami takes the word aparyaptam to mean
-insufficient. Ananda Giri takes it to mean unlimited.
+Commentary The verse is differently interpreted by different commentators. Sridhara Swami takes the word aparyaptam to mean insufficient. Ananda Giri takes it to mean unlimited.
 
 </details>
 </div>

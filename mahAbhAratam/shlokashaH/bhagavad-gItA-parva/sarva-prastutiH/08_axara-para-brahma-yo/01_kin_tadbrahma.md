@@ -105,13 +105,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.1 8.2 Arjuna said What are that brahman, Adhyatma and Karma which have
-been mentioned as what should be known by those who aspire for release
-from old age and death while they take refuge with the Lord; What are
-Adhibuta and Adhidaiva, which should be known by the aspirants for
-wealth; Who is Adhiyajna that is to be known by the three groups as
-their dying hour. In what manner are You to be known by these three
-groups who are self-controlled;
+8.1 8.2 Arjuna said What are that brahman, Adhyatma and Karma which have been mentioned as what should be known by those who aspire for release from old age and death while they take refuge with the Lord; What are Adhibuta and Adhidaiva, which should be known by the aspirants for wealth; Who is Adhiyajna that is to be known by the three groups as their dying hour. In what manner are You to be known by these three groups who are self-controlled;
 
 </details>
 </div>
@@ -369,28 +363,22 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.1. Arjuna Said What is that Brahman ; What is termed the
-Lord-of-the-self (adhyatma) ; What is action ; O the Best-of-persons !
-What is stated to be the Lord-of -material-things (adhibhuta) ; What is
-called Lord-of-divinities (adhidaiva) ;
+8.1. Arjuna Said What is that Brahman ; What is termed the Lord-of-the-self (adhyatma) ; What is action ; O the Best-of-persons !
+What is stated to be the Lord-of -material-things (adhibhuta) ; What is called Lord-of-divinities (adhidaiva) ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.1 Arjuna said O supreme person, what is that Brahman; What is that
-which exists in the individual plane; What is action; And what is that
-which is said to exist in the physical plane; What is that which is said
-to be existing in the divine plane;
+8.1 Arjuna said O supreme person, what is that Brahman; What is that which exists in the individual plane; What is action; And what is that which is said to exist in the physical plane; What is that which is said to be existing in the divine plane;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/01_kin_tadbrahma.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.1 "Arjuna asked: O Lord of Lords! What is that which men call the
-Supreme Spirit, what is man's Spiritual Nature, and what is the Law;
+8.1 "Arjuna asked: O Lord of Lords! What is that which men call the Supreme Spirit, what is man's Spiritual Nature, and what is the Law;
 What is Matter and what is Divinity;
 
 </details>
@@ -399,8 +387,7 @@ What is Matter and what is Divinity;
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 8.1 Arjuna said What is that Brahman; What is Adhyatma; What is action,
-O best among men; What is declared to be Adhibhuta; And, what is
-Adhidaiva said to be;
+O best among men; What is declared to be Adhibhuta; And, what is Adhidaiva said to be;
 
 </details>
 </div>
@@ -412,27 +399,8 @@ Adhidaiva said to be;
 8.1 किम् what; तत् that; ब्रह्म Brahman; किम् what; अध्यात्मम् Adhytama;
 किम् what; कर्म action; पुरुषोत्तम O best among men; अधिभूतम् Adhibhuta;
 च and; किम् what; प्रोक्तम् declared; अधिदैवम् Adhidaiva; किम् what;
-उच्यते is called.Commentary In the last two verses of the seventh
-chapter Lord Krishna had used certain philosophical and technical terms
-such as Adhyatma; Adhibhuta; Adhidaiva and Adhiyajna. Arjuna does not
-understand the meaning of these terms. So he proceeds to ask the Lord
-the above estions for their elucidation. Lord Krishna gives the answers
-succinctly to the above estions in their order.Some treat this chapter
-as Abhyasa Yoga because in this chapter verses 7; 8; 10; 12; 13 and 14
-deal with spiritual practices. Verse 7 treats of Karma and Bhakti Yoga
-combined (giving the hands to the service of humanity or society and
-fixing the mind on the Lord). Verse 8 deals with Abhyasa Yoga. Verses
-10; 12 and 13 treat of Hatha Yoga (how to raise the lifeforce t the Ajna
-Chakra and the Sahasrara and the Brahmarandhra). Verse 14 treats of the
-easy Yoga of constant Namasmarana or remembering the names of the Lord
-constantly. This alone will help the spiritual aspirant to approach the
-Lord easily.The nature of Brahman; the individual Self (Adhyatma); the
-nature of action; the nature of the objective universe or phenomena
-(Adhibhuta); knowledge of the shining ones (Adhidaiva); and the secret
-of sacrifice (Adhiyajna) are described in this discourse. The perfect
-sage will have perfect knowledge. He will have perfect knowledge of not
-only the manifested Brahman but also of the transcendental Brahman and
-the why of the universe; etc.
+उच्यते is called.Commentary In the last two verses of the seventh chapter Lord Krishna had used certain philosophical and technical terms such as Adhyatma; Adhibhuta; Adhidaiva and Adhiyajna. Arjuna does not understand the meaning of these terms. So he proceeds to ask the Lord the above estions for their elucidation. Lord Krishna gives the answers succinctly to the above estions in their order.Some treat this chapter as Abhyasa Yoga because in this chapter verses 7; 8; 10; 12; 13 and 14 deal with spiritual practices. Verse 7 treats of Karma and Bhakti Yoga combined (giving the hands to the service of humanity or society and fixing the mind on the Lord). Verse 8 deals with Abhyasa Yoga. Verses 10; 12 and 13 treat of Hatha Yoga (how to raise the lifeforce t the Ajna Chakra and the Sahasrara and the Brahmarandhra). Verse 14 treats of the easy Yoga of constant Namasmarana or remembering the names of the Lord constantly. This alone will help the spiritual aspirant to approach the Lord easily.The nature of Brahman; the individual Self (Adhyatma); the nature of action; the nature of the objective universe or phenomena
+(Adhibhuta); knowledge of the shining ones (Adhidaiva); and the secret of sacrifice (Adhiyajna) are described in this discourse. The perfect sage will have perfect knowledge. He will have perfect knowledge of not only the manifested Brahman but also of the transcendental Brahman and the why of the universe; etc.
 
 </details>
 </div>

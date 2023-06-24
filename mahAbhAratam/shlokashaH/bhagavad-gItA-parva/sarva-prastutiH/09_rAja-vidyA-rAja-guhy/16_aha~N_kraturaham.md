@@ -61,12 +61,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 9.16 I am the Kratu, namely, I am Jyotistoma and other Vedic sacrifices.
-I alone am the Great Sacrifice (the fivefold sacrifices). I am the
-Svadha, the libation offered to nourish the hosts of manes. I am the
-herb, namely, oblation. I am the Mantra. I alone am the clarified
-butter. This implies other illustrations also. I alone am the oblation
-of Soma etc. Such is the meaning. I am the fire such as Ahavaniya etc. I
-am the act of offering into fire.
+I alone am the Great Sacrifice (the fivefold sacrifices). I am the Svadha, the libation offered to nourish the hosts of manes. I am the herb, namely, oblation. I am the Mantra. I alone am the clarified butter. This implies other illustrations also. I alone am the oblation of Soma etc. Such is the meaning. I am the fire such as Ahavaniya etc. I am the act of offering into fire.
 
 </details>
 </div>
@@ -352,9 +347,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.16. I am determination; I am sacrifice; I am Svadha; I am the juice of
-the herb; I am the (Vedic) hymn; I am alone the clarified butter also; I
-am the \[sacrificial\] fire; (and) I am the act of offering.
+9.16. I am determination; I am sacrifice; I am Svadha; I am the juice of the herb; I am the (Vedic) hymn; I am alone the clarified butter also; I am the \[sacrificial\] fire; (and) I am the act of offering.
 
 </details>
 </div>
@@ -362,16 +355,14 @@ am the \[sacrificial\] fire; (and) I am the act of offering.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 9.16 I am the kratu, I am the yajna, I am the svadha, I am the ausadha,
-I am the mantra, I Myself am the ajya, I am the fire, and I am the act
-of offering.
+I am the mantra, I Myself am the ajya, I am the fire, and I am the act of offering.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.16 I am the Oblation, the Sacrifice and the Worship; I am the Fuel and
-the Chant, I am the Butter offered to the fire, I am the Fire itself,
+9.16 I am the Oblation, the Sacrifice and the Worship; I am the Fuel and the Chant, I am the Butter offered to the fire, I am the Fire itself,
 and I am the Act of offering.
 
 </details>
@@ -380,33 +371,23 @@ and I am the Act of offering.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 9.16 I am the Kratu. I am the sacrifice. I am the offering to the manes.
-I am the herb. I am the Mantra. I am Myself the clarified butter. I am
-the fire. I am the oblation.
+I am the herb. I am the Mantra. I am Myself the clarified butter. I am the fire. I am the oblation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.16 I am the Kratu; I am the Yajna; I am the offering (food) to the
-manes; I am the medicinal herbs and all the plants; I am the Mantra; I
-am also the Ghee or the melted butter; I am the fire; I am the oblation.
+9.16 I am the Kratu; I am the Yajna; I am the offering (food) to the manes; I am the medicinal herbs and all the plants; I am the Mantra; I am also the Ghee or the melted butter; I am the fire; I am the oblation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/09_rAja-vidyA-rAja-guhy/16_aha~N_kraturaham.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-9.16 अहम् I; क्रतुः sacrifice; अहम् I; यज्ञः the sacrifice; स्वधा the
-offering to Pitris or ancestors; अहम् I; अहम् I; औषधम् the medicinal
-herbs and all plants; मन्त्रः sacred syllable; अहम् I; अहम् I; एव also;
+9.16 अहम् I; क्रतुः sacrifice; अहम् I; यज्ञः the sacrifice; स्वधा the offering to Pitris or ancestors; अहम् I; अहम् I; औषधम् the medicinal herbs and all plants; मन्त्रः sacred syllable; अहम् I; अहम् I; एव also;
 आज्यम् ghee or clarified butter; अहम् I; अग्निः the fire; अहम् I; हुतम्
-the offering.Commentary Kratu is a kind of Vedic sacrifice.Yajna is the
-worship enjoined in the Smriti or the holy books laying down lay and the
-code of conduct.I am the Mantra; the chant with which the oblation is
-offered to the manes or ancestors; and the shining ones (the Devatas or
-gods). Hutam also means the act of offering. Aushadham All plants
-including rice and barley or medicine that can cure diseases. (Cf.IV.24)
+the offering.Commentary Kratu is a kind of Vedic sacrifice.Yajna is the worship enjoined in the Smriti or the holy books laying down lay and the code of conduct.I am the Mantra; the chant with which the oblation is offered to the manes or ancestors; and the shining ones (the Devatas or gods). Hutam also means the act of offering. Aushadham All plants including rice and barley or medicine that can cure diseases. (Cf.IV.24)
 
 </details>
 </div>

@@ -61,13 +61,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.42 If one swerves from the right path at an advanced stage of Yoga, he
-will be born in a family of wise Yogins who practise Yoga and are
-themselves capable of teaching Yoga. Thus, these two types of birth -
-one in the family of those who are fit to practise Yoga and the other in
-that of accomplished Yogins - are hardly met with among common people in
-this world. But Yoga is of such great potentiality that even this rare
-blessing is achieved through it.
+6.42 If one swerves from the right path at an advanced stage of Yoga, he will be born in a family of wise Yogins who practise Yoga and are themselves capable of teaching Yoga. Thus, these two types of birth -
+one in the family of those who are fit to practise Yoga and the other in that of accomplished Yogins - are hardly met with among common people in this world. But Yoga is of such great potentiality that even this rare blessing is achieved through it.
 
 </details>
 </div>
@@ -284,7 +279,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।6.42।। अथवा, (साधक) ज्ञानवान् योगियों के ही कुल में जन्म लेता है,
-परन्तु इस प्रकार का जन्म इस लोक में निःसंदेह अति दुर्लभ है।।
+परन्तु इस प्रकार का जन्म इस लोक में नि:संदेह अति दुर्लभ है।।
 
 </details>
 </div>
@@ -320,56 +315,43 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.42. Or, he is born (rorn) nowhere other than in the family of the
-intelligent men of Yoga; for, this birth is more difficult to get in the
-world.
+6.42. Or, he is born (rorn) nowhere other than in the family of the intelligent men of Yoga; for, this birth is more difficult to get in the world.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.42 Or he is born in the family of wise yogis \[Persons possessing
-knowledge of Brahman. (S. concedes that some rare householders also can
-have this knowledge, and he cites the instances of Vasistha, Agastya,
-Janaka and Asvapati of olden days, and Vacaspati and the author of
-Khanada of recent times.)\] only. Such a birth as is of this kind is
-surely more difficult to get in the world.
+6.42 Or he is born in the family of wise yogis \[Persons possessing knowledge of Brahman. (S. concedes that some rare householders also can have this knowledge, and he cites the instances of Vasistha, Agastya,
+Janaka and Asvapati of olden days, and Vacaspati and the author of Khanada of recent times.)\] only. Such a birth as is of this kind is surely more difficult to get in the world.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.42 Or, he may be born in the family of the wise sages, though a birth
-like this is, indeed, very difficult to obtain.
+6.42 Or, he may be born in the family of the wise sages, though a birth like this is, indeed, very difficult to obtain.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.42 Or he is born in a family of wise Yogins. But such a birth in this
-world is rarer to get.
+6.42 Or he is born in a family of wise Yogins. But such a birth in this world is rarer to get.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.42 Or he is born in a family of even the wise Yogis; verily a birth
-like this is very difficult to obtain in this world.
+6.42 Or he is born in a family of even the wise Yogis; verily a birth like this is very difficult to obtain in this world.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/42_athavA_yoginAmeva.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-6.42 अथवा or; योगिनाम् of Yogis; एव even; कुले in the family; भवति is
-born; धीमताम् of the wise; एतत् this;,हि verily; दुर्लभतरम् very
-difficult; लोके in the world; जन्म birth; यत् which; ईदृशम् like
-this.Commentary A birth in a family of wise Yogis is more difficult to
-obtain than the one mentioned in the preceding verse.
+6.42 अथवा or; योगिनाम् of Yogis; एव even; कुले in the family; भवति is born; धीमताम् of the wise; एतत् this;,हि verily; दुर्लभतरम् very difficult; लोके in the world; जन्म birth; यत् which; ईदृशम् like this.Commentary A birth in a family of wise Yogis is more difficult to obtain than the one mentioned in the preceding verse.
 
 </details>
 </div>

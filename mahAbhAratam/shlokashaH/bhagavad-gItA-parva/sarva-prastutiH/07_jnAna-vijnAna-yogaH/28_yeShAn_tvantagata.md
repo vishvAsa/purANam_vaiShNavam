@@ -70,16 +70,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.28 However, there are some whose sins, accruing from beginningless
-time, which cause desire or hatred to the pairs of opposites and annual
-the tendency towards Me, have come to an end, i.e., have become
-weakened, through the accumulation of good actions in numerous births,
-They resort to Me, devoid of delusion produced by the Gunas, and worship
-Me alone in proportion to the excellence of their Karmas previously
-described. In order to attain deliverance form old age and death and for
-aciring the supreme consummation of reaching Me, they remain steadfast
-in their vows. Sri Krsna enumerates what special things are to be known
-and what ought to be attained by these three classes of votaries of God:
+7.28 However, there are some whose sins, accruing from beginningless time, which cause desire or hatred to the pairs of opposites and annual the tendency towards Me, have come to an end, i.e., have become weakened, through the accumulation of good actions in numerous births,
+They resort to Me, devoid of delusion produced by the Gunas, and worship Me alone in proportion to the excellence of their Karmas previously described. In order to attain deliverance form old age and death and for aciring the supreme consummation of reaching Me, they remain steadfast in their vows. Sri Krsna enumerates what special things are to be known and what ought to be attained by these three classes of votaries of God:
 
 </details>
 </div>
@@ -356,8 +348,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.28. But those men of virtuous deeds, whose sin has come to an
-end-they, being free from the delusion of pairs \[of opposites\],
+7.28. But those men of virtuous deeds, whose sin has come to an end-they, being free from the delusion of pairs \[of opposites\],
 worship Me with firm resolve.
 
 </details>
@@ -365,26 +356,21 @@ worship Me with firm resolve.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.28 On the other hand, those persons who are of virtuous deeds, whose
-sin has come to an end, they, being free from the delusion of dulaity
-and firm in their convictions, adore Me.
+7.28 On the other hand, those persons who are of virtuous deeds, whose sin has come to an end, they, being free from the delusion of dulaity and firm in their convictions, adore Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.28 But those who act righteously, in whom sin has been destroyed, who
-are free from the infatuation of the conflicting emotions, they worship
-Me with firm resolution.
+7.28 But those who act righteously, in whom sin has been destroyed, who are free from the infatuation of the conflicting emotions, they worship Me with firm resolution.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.28 But the doers of good deeds, whose sins have come to an end, are
-freed from the delusion of the pairs of opposites. They worship Me,
+7.28 But the doers of good deeds, whose sins have come to an end, are freed from the delusion of the pairs of opposites. They worship Me,
 steadfast in their vows.
 
 </details>
@@ -392,8 +378,7 @@ steadfast in their vows.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/28_yeShAn_tvantagata.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.28 But those men of virtuous deeds whose sins have come to an end, and
-who are freed from the delusion of the pairs of opposites, worship Me,
+7.28 But those men of virtuous deeds whose sins have come to an end, and who are freed from the delusion of the pairs of opposites, worship Me,
 steadfast in their vows.
 
 </details>
@@ -403,23 +388,7 @@ steadfast in their vows.
 
 7.28 येषाम् of whom; तु but; अन्तगतम् is at the end; पापम् sin; जनानाम्
 of men; पुण्यकर्मणाम् of men of virtuous deeds; ते they;
-द्वन्द्वमोहनिर्मुक्ताः freed from the delusion of the pairs of
-opposites; भजन्ते worship; माम् Me; दृढव्रताः men steadfast in
-vows.Commentary By the performance of good deeds the heart is slowly
-purified Sattva increases Rajas and Tamas are gradually thinned out. The
-mind becomes serene and calm. The little selfarrogating personality
-slowly dies. You grow in spirituality. The divine flame becomes brighter
-and brighter. You become impersonal.Sin To forget ones identity with the
-Supreme Soul is the greatest sin. To see difference is sin. To take the
-body as the Self; to believe that this world is real is sin. Selfishness
-is sin. Egoism is sin. Ignorance is sin.Steadfast in vows The man
-steadfast in vows entertains a firm resolve I must realise the Self now
-I will not budge an inch from my seat till I attain Selfrealisation. He
-has the firm conviction that Brahman is the only Reality. This world is
-unreal. It is like a mirage. I can attain immortality and eternal bliss
-if I realise the Self only. There is not an iota of happiness in the
-sensual objects. Therefore the Lord says; Those persons of pure deeds
-worship Me steadfast in vows.
+द्वन्द्वमोहनिर्मुक्ताः freed from the delusion of the pairs of opposites; भजन्ते worship; माम् Me; दृढव्रताः men steadfast in vows.Commentary By the performance of good deeds the heart is slowly purified Sattva increases Rajas and Tamas are gradually thinned out. The mind becomes serene and calm. The little selfarrogating personality slowly dies. You grow in spirituality. The divine flame becomes brighter and brighter. You become impersonal.Sin To forget ones identity with the Supreme Soul is the greatest sin. To see difference is sin. To take the body as the Self; to believe that this world is real is sin. Selfishness is sin. Egoism is sin. Ignorance is sin.Steadfast in vows The man steadfast in vows entertains a firm resolve I must realise the Self now I will not budge an inch from my seat till I attain Selfrealisation. He has the firm conviction that Brahman is the only Reality. This world is unreal. It is like a mirage. I can attain immortality and eternal bliss if I realise the Self only. There is not an iota of happiness in the sensual objects. Therefore the Lord says; Those persons of pure deeds worship Me steadfast in vows.
 
 </details>
 </div>

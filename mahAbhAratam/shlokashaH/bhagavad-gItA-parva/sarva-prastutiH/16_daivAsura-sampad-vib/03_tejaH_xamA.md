@@ -84,22 +84,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.3 'Grandeur' is the ality by virtue of which one cannot be
-overpowered by the wicked. 'Forgiveness' is freedom from the feelings of
-antagonism towards others even when they cause injury to oneself.
-'Fortitude' is the sense of determination to do one's own duty even
-under conditions of great danger. 'Purity' is fitness of the body and
-the mind as prescribd in the scriptures for the performance of sacred
-deeds. 'Freedom from hatred' is non-interference with others, viz.,
-absence of interference in the actions of others according to their
-wish. 'Over-pride' (Atimanita) is having unbridled self-esteem; freedom
-from misplaced pride is meant here. These are the virtues that are found
-in one who is born for the 'divine destiny.' The destiny associated with
-the divinities is divine. The divinities are those who are devoted to
-carry out the ;ndments of the Lord. It is their destiny. It is obedience
-to the ;ndments of the Lord. The meaning is that these are endowments in
-those who are born with a tendency or disposition towards them and seek
-to attain their fulfilment.
+16.3 'Grandeur' is the ality by virtue of which one cannot be overpowered by the wicked. 'Forgiveness' is freedom from the feelings of antagonism towards others even when they cause injury to oneself.
+'Fortitude' is the sense of determination to do one's own duty even under conditions of great danger. 'Purity' is fitness of the body and the mind as prescribd in the scriptures for the performance of sacred deeds. 'Freedom from hatred' is non-interference with others, viz.,
+absence of interference in the actions of others according to their wish. 'Over-pride' (Atimanita) is having unbridled self-esteem; freedom from misplaced pride is meant here. These are the virtues that are found in one who is born for the 'divine destiny.' The destiny associated with the divinities is divine. The divinities are those who are devoted to carry out the ;ndments of the Lord. It is their destiny. It is obedience to the ;ndments of the Lord. The meaning is that these are endowments in those who are born with a tendency or disposition towards them and seek to attain their fulfilment.
 
 </details>
 </div>
@@ -622,9 +609,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.3. Vital power, forgiveness, fortitude, contenment, absence of
-treachery and absence of excessive pride-these are in the person who is
-born for divine wealth, O Descendant of Bharata !
+16.3. Vital power, forgiveness, fortitude, contenment, absence of treachery and absence of excessive pride-these are in the person who is born for divine wealth, O Descendant of Bharata !
 
 </details>
 </div>
@@ -632,33 +617,28 @@ born for divine wealth, O Descendant of Bharata !
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 16.3 Vigour, forgiveness, fortitude, purity, freedom from malice,
-absence of haughtiness-these, O scion of the Bharata dynasty, are (the
-alties) of one born destined to have the divine nature.
+absence of haughtiness-these, O scion of the Bharata dynasty, are (the alties) of one born destined to have the divine nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.3 Valour, forgiveness, fortitude, purity, freedom from hate and
-vanity; these are his who possesses the Godly Qualities, O Arjuna!
+16.3 Valour, forgiveness, fortitude, purity, freedom from hate and vanity; these are his who possesses the Godly Qualities, O Arjuna!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.3 Grandeur, patience, fortitude, purity, freedom from hatred, and
-from over-pride - these, O Arjuna, belong to him who is born to a divine
-destiny.
+16.3 Grandeur, patience, fortitude, purity, freedom from hatred, and from over-pride - these, O Arjuna, belong to him who is born to a divine destiny.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/03_tejaH_xamA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-16.3 Vigour, forgiveness, fortitude, purity, absence of hatred, absence
-of pride these belong to the one born for a divine state, O Arjuna.
+16.3 Vigour, forgiveness, fortitude, purity, absence of hatred, absence of pride these belong to the one born for a divine state, O Arjuna.
 
 </details>
 </div>
@@ -669,40 +649,14 @@ of pride these belong to the one born for a divine state, O Arjuna.
 अद्रोहः absence of hatred; नातिमानिता absence of overpride; भवन्ति
 belong; सम्पदम् state; दैवीम् divine; अभिजातस्य to the one born for;
 भारत O descendant of Bharata (Arjuna).Commentary Tejas Vigour; energy;
-brilliance or lustre of the skin. The aspirant who is bent on attaining
-salvation marches boldly on the spiritual path. Nothing can tempt him or
-slacken his progress. This unbroken progress towards the realisation of
-the Self or the Absolute is lustre. It overcomes the downward pull of
-Tamas.Kshama Forgiveness. He who is endowed with this virtue does not
-exhibit anger even when he is insulted; ruked or beaten; although he is
-strong enough to take vengeance. He is unaffected by the insult or
-injury.Dhriti The sage absorbs within himself all calamities. He is
-steadfast even when he is in very adverse and trying conditions this is
-a particular Sattvic Vritti or state of mind which removes depression or
-exhaustion of the body and senses when they sink down. An aspirant who
-is endowed with this divine attribute never gets disheartened; even when
-he is under severe trials and difficulties or tribulations. Dhriti is a
-divine pickmeup (tonic) when the body and the senses are in a state of
-low spirits or dejection.Saucham Purity. This is of two kinds; viz.;
-external and internal. External purity is achieved by means of earth and
-water. The mind and heart (intellect) are freed from Maya (deception;
-lust; anger; greed; pride; jealousy; hypocrisy; likes and dislikes) by
-the practice of celibacy; forgiveness; friendliness; charity; humility;
+brilliance or lustre of the skin. The aspirant who is bent on attaining salvation marches boldly on the spiritual path. Nothing can tempt him or slacken his progress. This unbroken progress towards the realisation of the Self or the Absolute is lustre. It overcomes the downward pull of Tamas.Kshama Forgiveness. He who is endowed with this virtue does not exhibit anger even when he is insulted; ruked or beaten; although he is strong enough to take vengeance. He is unaffected by the insult or injury.Dhriti The sage absorbs within himself all calamities. He is steadfast even when he is in very adverse and trying conditions this is a particular Sattvic Vritti or state of mind which removes depression or exhaustion of the body and senses when they sink down. An aspirant who is endowed with this divine attribute never gets disheartened; even when he is under severe trials and difficulties or tribulations. Dhriti is a divine pickmeup (tonic) when the body and the senses are in a state of low spirits or dejection.Saucham Purity. This is of two kinds; viz.;
+external and internal. External purity is achieved by means of earth and water. The mind and heart (intellect) are freed from Maya (deception;
+lust; anger; greed; pride; jealousy; hypocrisy; likes and dislikes) by the practice of celibacy; forgiveness; friendliness; charity; humility;
 nobilit; love; complacency; compassion; etc. -- this is internal purity.
 This is more important than external purity.Adroha Absence of hatred;
-absence of desire to injure others.Atimanita is great pride. A proud man
-thinks that he is superior to others and that he is worthy of being
-honoured by others. Naatimanita is the opposite of this ality.Tejas;
+absence of desire to injure others.Atimanita is great pride. A proud man thinks that he is superior to others and that he is worthy of being honoured by others. Naatimanita is the opposite of this ality.Tejas;
 Kshama and Dhriti are the special alities or Dharmas of the Kshatriyas
-(warrior class). These are the Sattvic alities of Kshatriyas. Saucham
-and Adroha are the special Dharmas of the Vaisyas. They are the Sattvic
-alities of the Vaisyas (merchant class). Absence of pride is the special
-Dharma of the Sudras (servant class). It is a Sattvic ality that belongs
-to the Sudras.The divine wealth or Daivi Sampat consists of twentysix
-attributes. This is a rare gift from the Lord. This is an inexhaustible
-wealth which cannot be taken away by dacoits. This helps the aspirant
-attain the imperishable and immacultate Brahmic seat. It is the shortcut
-to the realm of eternal bliss or Moksha.
+(warrior class). These are the Sattvic alities of Kshatriyas. Saucham and Adroha are the special Dharmas of the Vaisyas. They are the Sattvic alities of the Vaisyas (merchant class). Absence of pride is the special Dharma of the Sudras (servant class). It is a Sattvic ality that belongs to the Sudras.The divine wealth or Daivi Sampat consists of twentysix attributes. This is a rare gift from the Lord. This is an inexhaustible wealth which cannot be taken away by dacoits. This helps the aspirant attain the imperishable and immacultate Brahmic seat. It is the shortcut to the realm of eternal bliss or Moksha.
 
 </details>
 </div>

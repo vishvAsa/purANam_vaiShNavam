@@ -126,8 +126,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.2 The Lord said Some scholars understand that Sannyasa is complete
-relinishment of desire-prompted acts. Some other wise men say that the
+18.2 The Lord said Some scholars understand that Sannyasa is complete relinishment of desire-prompted acts. Some other wise men say that the
 meaning of the term Tyaga, according to the Sastras dealing with
 release, is relinishment of the fruits not only of all desiderative
 (Kamya), but also of obligatory and occasional, duties . Here, the
@@ -751,45 +750,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.2. The Bhagavat said The seers understand the act of renouncing the
-desire-motivated actions as renunciation; the experts declare the
-relinishment of the fruits of all actions to be relinishment.
+18.2. The Bhagavat said The seers understand the act of renouncing the desire-motivated actions as renunciation; the experts declare the relinishment of the fruits of all actions to be relinishment.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.2 The Blessed Lord said The learned ones know sannyasa to be the
-giving up of actions done with a desire for reward. The adepts call the
-abandonment of the results of all works as tyaga.
+18.2 The Blessed Lord said The learned ones know sannyasa to be the giving up of actions done with a desire for reward. The adepts call the abandonment of the results of all works as tyaga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.2 Lord Shri Krishna replied: The sages say that renunciation means
-forgoing an action which springs from desire; and relinquishing means
-the surrender of its fruit.
+18.2 Lord Shri Krishna replied: The sages say that renunciation means forgoing an action which springs from desire; and relinquishing means the surrender of its fruit.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.2 The Lord said The sages hold that Sannyasa is the giving up of all
-works which are motivated by desire. The wise declare Tyaga to be the
-abandonment of fruits of all works.
+18.2 The Lord said The sages hold that Sannyasa is the giving up of all works which are motivated by desire. The wise declare Tyaga to be the abandonment of fruits of all works.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.2 The Blessed Lord said The sages understand Sannyasa to be the
-renunciation of action with desire; the wise declare the abandonment of
-the fruits of all actions as Tyaga.
+18.2 The Blessed Lord said The sages understand Sannyasa to be the renunciation of action with desire; the wise declare the abandonment of the fruits of all actions as Tyaga.
 
 </details>
 </div>
@@ -802,34 +791,12 @@ the fruits of all actions as Tyaga.
 
 **English Commentary By Swami Sivananda**
 
-18.2 काम्यानाम् (of) desireful; कर्मणाम् of actions; न्यासम् the
-renunciation; संन्यासम् Sannyasa; कवयः the sages; विदुः understand;
+18.2 काम्यानाम् (of) desireful; कर्मणाम् of actions; न्यासम् the renunciation; संन्यासम् Sannyasa; कवयः the sages; विदुः understand;
 सर्वकर्मफलत्यागम् the abandonment of the fruits of all works; प्राहुः
-declare; त्यागम् abandonment; विचक्षणाः the wise.Commentary Kamya
-Karmani Activities such as the Asvamedha (a special sacrifice); etc.;
-which are performed for the attainment of specific selfish ends. The
-wise men declare that Tyaga means abandonment of the fruits of all the
-Nitya and Naimittika works (ordinary and extraordinary or occasional
-duties).The rootmeaning of the words Sannyasa and Tyaga is to give up.
-In popular usage Sannyasa and Tyaga are more or less synonymous. Both
-mean renunciation. The two words do not mean two altogether distinct
-ideas as stone and fruit; or pot and cloth. They convey the same general
-idea with a slight distinction.An objector asks It is said that the
-Nitya and Naimittika actions cannot produce any fruits. Why then is the
-relinishment of their fruits mentioned here It is like asking for the
-relinishment of the barren womans sonWe say The objection is not
-correct. In the opinion of the Lord; ordinary and occasional duties
-cause their own fruits (vide XVIII.12). Sannyasins alone who have
-renounced the desire for the fruits of actions will not get the fruits;
-but other persons will have to reap the fruits of the ordinary and
-occasional actions.If one renounces all actions after the attainment of
-Selfrealisation and enters into the fourth order of life (Sannyasa) it
-is called VidvatSannyasa. If one renounces all actions and enters into
-the order of Sannyasa for the sake of doing VedantaVichara (or
-reflection on the truths of the Vedantaphilosophy and on the true
-significance of the great sentences of the Upanishads which reveal the
-identity of the individual soul with the Supreme Being) and for thus
-attaining Selfrealisation; it is called VividishaSannyasa.
+declare; त्यागम् abandonment; विचक्षणाः the wise.Commentary Kamya Karmani Activities such as the Asvamedha (a special sacrifice); etc.;
+which are performed for the attainment of specific selfish ends. The wise men declare that Tyaga means abandonment of the fruits of all the Nitya and Naimittika works (ordinary and extraordinary or occasional duties).The rootmeaning of the words Sannyasa and Tyaga is to give up.
+In popular usage Sannyasa and Tyaga are more or less synonymous. Both mean renunciation. The two words do not mean two altogether distinct ideas as stone and fruit; or pot and cloth. They convey the same general idea with a slight distinction.An objector asks It is said that the Nitya and Naimittika actions cannot produce any fruits. Why then is the relinishment of their fruits mentioned here It is like asking for the relinishment of the barren womans sonWe say The objection is not correct. In the opinion of the Lord; ordinary and occasional duties cause their own fruits (vide XVIII.12). Sannyasins alone who have renounced the desire for the fruits of actions will not get the fruits;
+but other persons will have to reap the fruits of the ordinary and occasional actions.If one renounces all actions after the attainment of Selfrealisation and enters into the fourth order of life (Sannyasa) it is called VidvatSannyasa. If one renounces all actions and enters into the order of Sannyasa for the sake of doing VedantaVichara (or reflection on the truths of the Vedantaphilosophy and on the true significance of the great sentences of the Upanishads which reveal the identity of the individual soul with the Supreme Being) and for thus attaining Selfrealisation; it is called VividishaSannyasa.
 
 
 </details>

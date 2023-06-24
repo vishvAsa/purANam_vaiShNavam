@@ -75,14 +75,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.28 Whatever fruit is said to accrue for meritorious actions in the
-form of the regular study of the Vedas Rg, Yajus, Saman and Atharvan as
-also for the performance of sacrifices, austerities, gifts - all these
-does not transcend on knowing this, namely the greatness of the Lord as
-taught in the two chapters (7 and 8). By immense joy arising from the
-knowledge of this, he regards all these results as negligible as straw.
-Be being a Yogin, viz., a Jnanin, he reaches the supreme, primal abode
-which is without beginning and is attainable by such a Jnanin.
+8.28 Whatever fruit is said to accrue for meritorious actions in the form of the regular study of the Vedas Rg, Yajus, Saman and Atharvan as also for the performance of sacrifices, austerities, gifts - all these does not transcend on knowing this, namely the greatness of the Lord as taught in the two chapters (7 and 8). By immense joy arising from the knowledge of this, he regards all these results as negligible as straw.
+Be being a Yogin, viz., a Jnanin, he reaches the supreme, primal abode which is without beginning and is attainable by such a Jnanin.
 
 </details>
 </div>
@@ -422,9 +416,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.28. Having understood all this, the Yogin goes beyond whatever fruit
-of merit is ordained \[in the scriptures\] in case the Vedas \[are
-recited\], the sacrifices \[performed\], the austerities \[observed\],
+8.28. Having understood all this, the Yogin goes beyond whatever fruit of merit is ordained \[in the scriptures\] in case the Vedas \[are recited\], the sacrifices \[performed\], the austerities \[observed\],
 and also gifts \[donated\]; and he goes to the Supreme Primeval Abode.
 
 </details>
@@ -432,18 +424,15 @@ and also gifts \[donated\]; and he goes to the Supreme Primeval Abode.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.28 Having known this, the yogi transcends all those results of
-rigtheous deeds that are declared with regard to the Vedas, sacrifices,
-austerities and also charities, and he reaches the primordial supreme
-State.
+8.28 Having known this, the yogi transcends all those results of rigtheous deeds that are declared with regard to the Vedas, sacrifices,
+austerities and also charities, and he reaches the primordial supreme State.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.28 The sage who knows this passes beyond all merit that comes from the
-study of the scriptures, from sacrifice, from austerities and charity,
+8.28 The sage who knows this passes beyond all merit that comes from the study of the scriptures, from sacrifice, from austerities and charity,
 and reaches the Supreme Primeval Abode."
 
 </details>
@@ -451,11 +440,8 @@ and reaches the Supreme Primeval Abode."
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/28_vedeShu_yajneShu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.28 Whatever fruit of merit is declared (in the scriptures) to accrue
-from (the study of) the Vedas, (the performance of) sacrifices, (the
-practice of) austerities, and gifts beyond all this goes the Yogi,
-having known this; and he attains to the Supreme Primeval (first or
-ancient) Abode.
+8.28 Whatever fruit of merit is declared (in the scriptures) to accrue from (the study of) the Vedas, (the performance of) sacrifices, (the practice of) austerities, and gifts beyond all this goes the Yogi,
+having known this; and he attains to the Supreme Primeval (first or ancient) Abode.
 
 </details>
 </div>
@@ -466,21 +452,10 @@ ancient) Abode.
 and; एव also; दानेषु in gifts; यत् whatever; पुण्यफलम् fruit of merit;
 प्रदिष्टम् is declared; अत्येति goes beyond; तत् that; सर्वम् all; इदम्
 this; विदित्वा having known; योगी the Yogi; परम् Supreme; स्थानम् abode;
-उपैति attains; च and; आद्यम् primeval (first; ancient).Commentary The
-glory of Yoga is described in this verse. Whatever meritorious effect is
-declared in the scriptures to accrue from the proper study of the Vedas;
-from the performance of sacrifices properly; from the practice of
-austerities -- above all these rises the Yogi who rightly understands
-and follows the teaching imparted by Lord Krishna in His answers to the
-seven estions put by Arjuna; and who meditates on Brahman. He attains to
-the Supreme Abode of Brahman Which existed even in the beginning
+उपैति attains; च and; आद्यम् primeval (first; ancient).Commentary The glory of Yoga is described in this verse. Whatever meritorious effect is declared in the scriptures to accrue from the proper study of the Vedas;
+from the performance of sacrifices properly; from the practice of austerities -- above all these rises the Yogi who rightly understands and follows the teaching imparted by Lord Krishna in His answers to the seven estions put by Arjuna; and who meditates on Brahman. He attains to the Supreme Abode of Brahman Which existed even in the beginning
 (primeval); and is the first or ancient.Idam Viditva Having known this.
-Having known properly the answers given by the Lord to the seven estions
-put by Arjuna at the beginning of this chapter.(This chapter is known by
-the name Abhyasa Yoga also.)Thus in the Upanishads of the glorious
-Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the
-dialogue between Sri Krishna and Arjuna; ends the eighth discourse
-entitledThe Yoga of the Imperishable Brahman. ,
+Having known properly the answers given by the Lord to the seven estions put by Arjuna at the beginning of this chapter.(This chapter is known by the name Abhyasa Yoga also.)Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the eighth discourse entitledThe Yoga of the Imperishable Brahman. ,
 
 </details>
 </div>

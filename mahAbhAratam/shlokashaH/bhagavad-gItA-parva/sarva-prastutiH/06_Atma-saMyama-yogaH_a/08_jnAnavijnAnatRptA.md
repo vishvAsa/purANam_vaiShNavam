@@ -68,19 +68,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.8 That Karma Yogin whose mind is content with the knowledge of the
-self and the knowledge of the difference, i.e., whose mind is content
-with the knowledge concerning the real nature of the self as well as
-with the knowledge of the difference of Its nature from Prakrti; 'who is
-established in the self' (Kutasthah), i.e., who remains as the self
-which is of the uniform nature of knowledge in all stages of evolution
-as men, gods etc. whose senses are therefore subdued; and to whom
-'earth, stone and gold are of eal value' because of his lack of interest
-in any material objects of enjoyment on account of his intense
-earnestness to know the real nature of the self as different from
-Prakrti - he, that Karma Yogi, is called integrated i.e., fit for the
-practice of Yoga which is of the nature of the vision of the self. And
-also.
+6.8 That Karma Yogin whose mind is content with the knowledge of the self and the knowledge of the difference, i.e., whose mind is content with the knowledge concerning the real nature of the self as well as with the knowledge of the difference of Its nature from Prakrti; 'who is established in the self' (Kutasthah), i.e., who remains as the self which is of the uniform nature of knowledge in all stages of evolution as men, gods etc. whose senses are therefore subdued; and to whom
+'earth, stone and gold are of eal value' because of his lack of interest in any material objects of enjoyment on account of his intense earnestness to know the real nature of the self as different from Prakrti - he, that Karma Yogi, is called integrated i.e., fit for the practice of Yoga which is of the nature of the vision of the self. And also.
 
 </details>
 </div>
@@ -409,18 +398,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.8. He, whose self (mind) is satisfied with knowledge and with what
-consists of varied thoughts; who remains peak-like and has completely
-subdued his sense organs; and to whom a clod, a stone and a piece of
-gold are the same-that man of Yoga is called a master of Yoga.
+6.8. He, whose self (mind) is satisfied with knowledge and with what consists of varied thoughts; who remains peak-like and has completely subdued his sense organs; and to whom a clod, a stone and a piece of gold are the same-that man of Yoga is called a master of Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.8 One whose mind is satisfied with knowledge and realization, who is
-unmoved, who has his organs under control, is sadi to be Self-absorbed.
+6.8 One whose mind is satisfied with knowledge and realization, who is unmoved, who has his organs under control, is sadi to be Self-absorbed.
 The yogi treats eally a lump of earth, a stone and gold.
 
 </details>
@@ -428,18 +413,14 @@ The yogi treats eally a lump of earth, a stone and gold.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.8 He who desires nothing but wisdom and spiritual insight, who has
-conquered his senses and who looks with the same eye upon a lump of
-earth, a stone or fine gold, is a real saint.
+6.8 He who desires nothing but wisdom and spiritual insight, who has conquered his senses and who looks with the same eye upon a lump of earth, a stone or fine gold, is a real saint.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.8 The Yogin whose mind is content with knowledge of the self and also
-of knowledge of the difference of the self from Prakrti, who is
-established in the self, whose senses are subdued and to whom earth,
+6.8 The Yogin whose mind is content with knowledge of the self and also of knowledge of the difference of the self from Prakrti, who is established in the self, whose senses are subdued and to whom earth,
 stone and gold seem all alike, is called integrated.
 
 </details>
@@ -447,29 +428,14 @@ stone and gold seem all alike, is called integrated.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.8 The Yogi who is satisfied with the knowledge and the wisdom (of the
-Self), who has conered the senses, and to whom a clod of earth, a piece
-of stone and gold are the same, is said to be harmonied (i.e., is said
-to have attained Nirvikalpa Samadhi).
+6.8 The Yogi who is satisfied with the knowledge and the wisdom (of the Self), who has conered the senses, and to whom a clod of earth, a piece of stone and gold are the same, is said to be harmonied (i.e., is said to have attained Nirvikalpa Samadhi).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/08_jnAnavijnAnatRptA.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-6.8 ज्ञानविज्ञानतृप्तात्मा one who is satisfied with knowledge and
-wisdom (Selfrealisation); कूटस्थः unshaken; विजितेन्द्रियः who has
-conered the senses; युक्तः united or harmonised; इति thus; उच्यते is
-said; योगी Yogi; समलोष्टाश्मकाञ्चनः one to whom a lump of earth; a stone
-and gold are the same.Commentary Jnana is ParokshaJnana or theoretical
-knowledge from the study of the scriptures. Vijnana is Visesha Jnana or
-Aparoksha Jnana; i.e.; direct knowledge of the Self through
-Selfrealisation (spiritual experience or Anubhava).Kutastha means
-changeless like the anvil. Various kinds of iron pieces are hammered and
-shaped on the anvil; but the anvil remains unchanged. Even so the Yogi
-remains unshaken or unchanged or unaffected though he comes in contact
-with the senseobjects. So he is called Kutastha. Kutastha is another
-name of Brahman; the silent witness of the mind. (Cf.V.18VI.18)
+6.8 ज्ञानविज्ञानतृप्तात्मा one who is satisfied with knowledge and wisdom (Selfrealisation); कूटस्थः unshaken; विजितेन्द्रियः who has conered the senses; युक्तः united or harmonised; इति thus; उच्यते is said; योगी Yogi; समलोष्टाश्मकाञ्चनः one to whom a lump of earth; a stone and gold are the same.Commentary Jnana is ParokshaJnana or theoretical knowledge from the study of the scriptures. Vijnana is Visesha Jnana or Aparoksha Jnana; i.e.; direct knowledge of the Self through Selfrealisation (spiritual experience or Anubhava).Kutastha means changeless like the anvil. Various kinds of iron pieces are hammered and shaped on the anvil; but the anvil remains unchanged. Even so the Yogi remains unshaken or unchanged or unaffected though he comes in contact with the senseobjects. So he is called Kutastha. Kutastha is another name of Brahman; the silent witness of the mind. (Cf.V.18VI.18)
 
 </details>
 </div>

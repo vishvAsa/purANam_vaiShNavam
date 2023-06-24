@@ -65,25 +65,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/25_daMShTrAkarAlAni_.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.25 Looking at Your mouths, extremely terrifying and like cosmic fire
-at the end of the universe, and operating for the destruction of
-everything, I have lost the sense of recognising the arters of the sky,
-nor do I feel happy and peaceful. O Abode of all the worlds, O Lord of
-all the Devas, namely, O Overlord of even gods like Brahma! Be gracious
-unto me. The meaning is: 'Do act in such a way that I may attain my
-natural condition. Arjuna's charioteer (Parthasarathi), thus showing
-that all the worlds depend upon Him for their existence and activities,
-showed to the son of Prtha (Arjuna) that what He wanted to do, making
-Arjuna a mere instrument of His, was to lighten the burden of the earth
-through the destruction of all those who were of Asuric manifestations
-and who, in the guise of kings, were presenting themselves as the sons
-of Dhrtarastra and their followers. Many such embodiments of Asuras were
-present also in the ranks of Yudhisthira's followers. And Arjuna, after
-having realised with the divine eyes, received through His grace, the
-complete manifestation of the Lord as the Creator etc., witnessed also
-the slaughter of the followers of the sons of Dhrtarastra etc., in that
-Lord Himself, who is the Self of all, even though it (the slaughter) had
-not happened actually according to human calculations. Arjuna continues:
+11.25 Looking at Your mouths, extremely terrifying and like cosmic fire at the end of the universe, and operating for the destruction of everything, I have lost the sense of recognising the arters of the sky,
+nor do I feel happy and peaceful. O Abode of all the worlds, O Lord of all the Devas, namely, O Overlord of even gods like Brahma! Be gracious unto me. The meaning is: 'Do act in such a way that I may attain my natural condition. Arjuna's charioteer (Parthasarathi), thus showing that all the worlds depend upon Him for their existence and activities,
+showed to the son of Prtha (Arjuna) that what He wanted to do, making Arjuna a mere instrument of His, was to lighten the burden of the earth through the destruction of all those who were of Asuric manifestations and who, in the guise of kings, were presenting themselves as the sons of Dhrtarastra and their followers. Many such embodiments of Asuras were present also in the ranks of Yudhisthira's followers. And Arjuna, after having realised with the divine eyes, received through His grace, the complete manifestation of the Lord as the Creator etc., witnessed also the slaughter of the followers of the sons of Dhrtarastra etc., in that Lord Himself, who is the Self of all, even though it (the slaughter) had not happened actually according to human calculations. Arjuna continues:
 
 </details>
 </div>
@@ -338,46 +322,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/25_daMShTrAkarAlAni_.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.25. By merely seeing Your faces that are frightening with tusks and
-are looking like the fire of destruction, I do not know the arters and
-get no peace. Have mercy, O Lord of gods ! O Abode of the Universe !
+11.25. By merely seeing Your faces that are frightening with tusks and are looking like the fire of destruction, I do not know the arters and get no peace. Have mercy, O Lord of gods ! O Abode of the Universe !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/25_daMShTrAkarAlAni_.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.25 Having merely seen Your mouths made terrible with (their) teeth
-and resembling the fire of Dissolution, I have lost the sense of
-direction and find no comfort. Be gracious, O Lord of gods, O Abode of
-the Universe.
+11.25 Having merely seen Your mouths made terrible with (their) teeth and resembling the fire of Dissolution, I have lost the sense of direction and find no comfort. Be gracious, O Lord of gods, O Abode of the Universe.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/25_daMShTrAkarAlAni_.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.25 When I see Thy mouths with their fearful jaws like glowing fires
-at the dissolution of creation, I lose all sense of place; I find no
-rest. Be merciful, O Lord in whom this universe abides!
+11.25 When I see Thy mouths with their fearful jaws like glowing fires at the dissolution of creation, I lose all sense of place; I find no rest. Be merciful, O Lord in whom this universe abides!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/25_daMShTrAkarAlAni_.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.25 Viewing Your mouths, presenting awe-generating fangs and looking
-like the consuming fire of final destruction, I know not the arters of
-the globe nor do I find repose. Be gracious, O Lord of the Devas! O
-Abode of the universe!
+11.25 Viewing Your mouths, presenting awe-generating fangs and looking like the consuming fire of final destruction, I know not the arters of the globe nor do I find repose. Be gracious, O Lord of the Devas! O Abode of the universe!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/25_daMShTrAkarAlAni_.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.25 Having seen Thy mouths fearful with teeth (blazing) like the fires
-of cosmic dissolution, I know not the four arters, nor do I find peace.
+11.25 Having seen Thy mouths fearful with teeth (blazing) like the fires of cosmic dissolution, I know not the four arters, nor do I find peace.
 Have mercy, O Lord of the gods, O abode of the universe.
 
 </details>
@@ -386,14 +359,9 @@ Have mercy, O Lord of the gods, O abode of the universe.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 11.25 दंष्ट्राकरालानि fearful with teeth; च and; ते Thy; मुखानि mouths;
-दृष्ट्वा having seen; एव even; कालानलसन्निभानि blazing like
-Pralayafires; दिशः the four arters; न not; जाने know; न not; लभे do (I)
+दृष्ट्वा having seen; एव even; कालानलसन्निभानि blazing like Pralayafires; दिशः the four arters; न not; जाने know; न not; लभे do (I)
 obtain; च and; शर्म peace; प्रसीद have mercy; देवेश O Lord of the gods;
-जगन्निवास O abode of the universe.Commentary Jagannivasa The substratum
-of the universe.Kalanala The fires which consume the worlds during the
-final dissolution of the worlds (Pralaya). Time (Kala) is the consumer
-of all that is manifest.Diso no jane I do not know the four arters. I
-cannot distinguish the east from the west; nor the north from the south.
+जगन्निवास O abode of the universe.Commentary Jagannivasa The substratum of the universe.Kalanala The fires which consume the worlds during the final dissolution of the worlds (Pralaya). Time (Kala) is the consumer of all that is manifest.Diso no jane I do not know the four arters. I cannot distinguish the east from the west; nor the north from the south.
 
 </details>
 </div>

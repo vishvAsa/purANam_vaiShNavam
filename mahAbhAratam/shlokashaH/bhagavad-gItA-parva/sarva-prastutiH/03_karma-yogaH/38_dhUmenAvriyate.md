@@ -55,9 +55,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/38_dhUmenAvriyate.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.38 As a fire is enveloped by smoke, as a mirror by dust and as an
-embryo by the membrance, so are the embodied beings covered by this
-desire. Sri Krsna teaches the mode of this envelopement:
+3.38 As a fire is enveloped by smoke, as a mirror by dust and as an embryo by the membrance, so are the embodied beings covered by this desire. Sri Krsna teaches the mode of this envelopement:
 
 </details>
 </div>
@@ -342,8 +340,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/38_dhUmenAvriyate.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.38. As the fire is concealed by smoke and a mirror by dirt, and as the
-embryo is concealed by membrance-cover, so He is concealed by this
+3.38. As the fire is concealed by smoke and a mirror by dirt, and as the embryo is concealed by membrance-cover, so He is concealed by this
 (foe).
 
 </details>
@@ -351,16 +348,14 @@ embryo is concealed by membrance-cover, so He is concealed by this
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/38_dhUmenAvriyate.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.38 As fire is enveloped by smoke, as a mirror by dirt, and as a foetus
-remains enclosed in the womb, so in this shrouded by that.
+3.38 As fire is enveloped by smoke, as a mirror by dirt, and as a foetus remains enclosed in the womb, so in this shrouded by that.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/38_dhUmenAvriyate.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.38 As fire is shrouded in smoke, a mirror by dust and a child by the
-womb, so is the universe enveloped in desire.
+3.38 As fire is shrouded in smoke, a mirror by dust and a child by the womb, so is the universe enveloped in desire.
 
 </details>
 </div>
@@ -376,8 +371,7 @@ enveloped by it (desire).
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/38_dhUmenAvriyate.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.38 As fire is enveloped by smoke, as a mirror by dust, and as an
-embryo by the amnion, so is this enveloped by that.
+3.38 As fire is enveloped by smoke, as a mirror by dust, and as an embryo by the amnion, so is this enveloped by that.
 
 </details>
 </div>

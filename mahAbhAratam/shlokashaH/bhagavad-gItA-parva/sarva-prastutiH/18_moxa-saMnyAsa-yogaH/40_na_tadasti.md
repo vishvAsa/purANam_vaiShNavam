@@ -63,8 +63,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.40 There is no Sattva or creature born either among men etc., on the
-earth or among the gods in heaven, from Brahma down to immobile things,
+18.40 There is no Sattva or creature born either among men etc., on the earth or among the gods in heaven, from Brahma down to immobile things,
 and having their basis in Prakrti, that is free from the dominance of
 the three Gunas of Prakrti. 'Tyaga', which has been determined as
 forming the means for release in the Sruti texts like 'By Tyaga alone do
@@ -506,62 +505,38 @@ born of the Material-Nature.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.40 There is no such entity in the world or, again, among the gods in
-heaven, which can be free from these three gunas born of Nature.
+18.40 There is no such entity in the world or, again, among the gods in heaven, which can be free from these three gunas born of Nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.40 There is nothing anywhere on earth or in the higher worlds which
-is free from the three Qualities - for they are born of Nature.
+18.40 There is nothing anywhere on earth or in the higher worlds which is free from the three Qualities - for they are born of Nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.40 There is no creature, either on earth or again among the gods in
-heaven, that is free from these three Gunas born of Prakrti.
+18.40 There is no creature, either on earth or again among the gods in heaven, that is free from these three Gunas born of Prakrti.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.40 There is no being on earth or again in heaven among the gods, that
-is liberated from the three alities born of Nature.
+18.40 There is no being on earth or again in heaven among the gods, that is liberated from the three alities born of Nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/40_na_tadasti.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.40 न not; तत् that; अस्ति is; पृथिव्याम् on the earth; वा or; दिवि in
-heaven; देवेषु among the gods; वा or; पुनः again; सत्त्वम् being;
+18.40 न not; तत् that; अस्ति is; पृथिव्याम् on the earth; वा or; दिवि in heaven; देवेषु among the gods; वा or; पुनः again; सत्त्वम् being;
 प्रकृतिजैः born of Prakriti (matter); मुक्तम् freed; यत् which; एभिः
-from these; स्यात् may be; त्रिभिः from three; गुणैः by
-alities.Commentary The Gunas form the warp and woof of everything as
-threads do in the case of cloth.Here in the world of mortals or there in
-the heavenworld; there is no creature that is not bound by the three
-alities of Nature. Can there be a cloth without threads Can there be a
-man without blood and bones Can there be a mountain without stones Even
-so there is not a single creature in the whole universe into whose
-composition the three alities of matter do not enter. The whole of
-creation is wrought of these three alities. They have given rise to the
-Trinity (Brahma; Vishnu and Siva). In the world of mortals the
-triplicity of agent; action and fruit owe their origin to them. They are
-the cause of the different functions of the four castes. This Samsara
-has been compared to the peepul tree in chapter XV.1. This Samsara is
-made up of the three alities and is kept up by the force of
-ignorance.Action; instruments of action and fruits have set the wheel of
-Samsara in motion and this wheel is revolving from beginningless time.
-It is only a liberated sage who has attained knowledge of the Self who
-puts a check to this wheel; goes beyond the cause and the effect; and
-breaks the bonds of Karma.Cut this mysterious tree of Samsara with the
-strong sword of nonattachment; transcend the three Gunas and rest in
-your own essential divine nature as ExistenceKnowledgeBliss Absolute.
+from these; स्यात् may be; त्रिभिः from three; गुणैः by alities.Commentary The Gunas form the warp and woof of everything as threads do in the case of cloth.Here in the world of mortals or there in the heavenworld; there is no creature that is not bound by the three alities of Nature. Can there be a cloth without threads Can there be a man without blood and bones Can there be a mountain without stones Even so there is not a single creature in the whole universe into whose composition the three alities of matter do not enter. The whole of creation is wrought of these three alities. They have given rise to the Trinity (Brahma; Vishnu and Siva). In the world of mortals the triplicity of agent; action and fruit owe their origin to them. They are the cause of the different functions of the four castes. This Samsara has been compared to the peepul tree in chapter XV.1. This Samsara is made up of the three alities and is kept up by the force of ignorance.Action; instruments of action and fruits have set the wheel of Samsara in motion and this wheel is revolving from beginningless time.
+It is only a liberated sage who has attained knowledge of the Self who puts a check to this wheel; goes beyond the cause and the effect; and breaks the bonds of Karma.Cut this mysterious tree of Samsara with the strong sword of nonattachment; transcend the three Gunas and rest in your own essential divine nature as ExistenceKnowledgeBliss Absolute.
 
 </details>
 </div>

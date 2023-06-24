@@ -155,55 +155,19 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/05_RShibhirbahudhA_g.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.5 It is this truth regarding the Kestra and Ksetrajna that has been
-sung in various ways by Parasara and others seers. For example, 'I and
-you and others are composed of the elements; and the elements, following
-the stream of alities, assume a shape; these alities, Sattva and the
-rest, are dependent on Karma; and Karma, accumulated by nescience,
+13.5 It is this truth regarding the Kestra and Ksetrajna that has been sung in various ways by Parasara and others seers. For example, 'I and you and others are composed of the elements; and the elements, following the stream of alities, assume a shape; these alities, Sattva and the rest, are dependent on Karma; and Karma, accumulated by nescience,
 influences the condition of all beings. The self is pure, imperishable,
 tranil, void of alities and is pre-eminent over Prakrti' (V. P.,
-2.13.69-71). Similarly: 'The body, characterised by head, hands, feet
-and the like is different from Purusa.' Which of these can I designate
-by the name I;' (Ibid., 2.13.89). And also: 'Are you the head or the
-belly; Are you indeed the feet and other limbs, or do they belong to
-you, O King; You are distinct in your nature from all your members, O
-King. Know, O King, and understand "Who am I" '. (Ibid., 1.13.102-3).
-Moreover they state that Vasudeva constitutes the Self of the distinct
-entities (Ksetra and Ksetrajna): 'The senses, Manas, Buddhi, vigour,
-splendour, strength, courage, both Ksetra and Ksetrajna have Vasudeva
-for their self. (Ma. Bha. Sa., 149.136). In various distinctive hymns,
-namely, in the Vedas, Rg, Yajus, Saman and Atharvan, the distinction of
-body and the self has been sung. The nature of the body is described in
-the following text: 'From this Self, verily, ether arose; from the
-ether, air; from air, fire; from fire, water; from water, the earth;
-from the earth, herbs; from the herbs, food; from food, the person. The
-same person, verily, consists of the essence of food' (Tai. U., 2.1.2).
-Afterwards that which is inner than this (body) and which consists of
-Prana (or the vital breath), and that which is inner than this and which
-consists of mind are described. The nature of Ksetrjna is stated in the
-passage: 'Verily, other than, and within, that one that consists of
-mind, that (the individual Self) consists of understanding' (Ibid.,
-2.4.2). Later, the Supreme Brahman is stated in the text; 'Verily, other
-than, and within, that one consisting of understanding, is the Supreme
-Self that consists of bliss' (Ibid., 1.5.2). This is stated to be the
-Surpeme Self, consisting of bliss, as forming the inner Self of the
-individual self. Similarly in the three Vedas, Rg, Saman and Atharvan,
-here and there, the distinctive existence of the Ksetra and the
-Ksetrajna is affirmed with Brahman for their Self. Likewise, the same
-purpose is taught in the words of the Brahma-sutras, namely, the
-aphorisms about Brahman, known also as the Sariraka-sutras, which are
-characterised by reasoning, decision and conclusion. In the Sutras
-commencing with, 'Not ether, on account of the absence of the Sruti' (B.
-S., 2.3.1), the nature and the mode of the Ksetra is determined. In the
-Sutras commencing with 'Not the self, on account of the Sruti and on
-account of the eternity, (which is made out) from them' (Ibid., 2.3.18),
-the true nature of the Ksetrajna is determined. In the Sutras 'But from
-the Supreme, this being declared by Sruti' (Ibid., 2.3.40), that
-Ksetrajna has the Lord for Its Self on account of Its being under the
-control of the Lord, is declared. It has been sung in various ways; the
-meaning of this Sloka is this: Listen about the truths of the Ksetra and
-the Ksetrajna which have been expounded in numerous ways and declared by
-Me in a lucid and brief manner.
+2.13.69-71). Similarly: 'The body, characterised by head, hands, feet and the like is different from Purusa.' Which of these can I designate by the name I;' (Ibid., 2.13.89). And also: 'Are you the head or the belly; Are you indeed the feet and other limbs, or do they belong to you, O King; You are distinct in your nature from all your members, O King. Know, O King, and understand "Who am I" '. (Ibid., 1.13.102-3).
+Moreover they state that Vasudeva constitutes the Self of the distinct entities (Ksetra and Ksetrajna): 'The senses, Manas, Buddhi, vigour,
+splendour, strength, courage, both Ksetra and Ksetrajna have Vasudeva for their self. (Ma. Bha. Sa., 149.136). In various distinctive hymns,
+namely, in the Vedas, Rg, Yajus, Saman and Atharvan, the distinction of body and the self has been sung. The nature of the body is described in the following text: 'From this Self, verily, ether arose; from the ether, air; from air, fire; from fire, water; from water, the earth;
+from the earth, herbs; from the herbs, food; from food, the person. The same person, verily, consists of the essence of food' (Tai. U., 2.1.2).
+Afterwards that which is inner than this (body) and which consists of Prana (or the vital breath), and that which is inner than this and which consists of mind are described. The nature of Ksetrjna is stated in the passage: 'Verily, other than, and within, that one that consists of mind, that (the individual Self) consists of understanding' (Ibid.,
+2.4.2). Later, the Supreme Brahman is stated in the text; 'Verily, other than, and within, that one consisting of understanding, is the Supreme Self that consists of bliss' (Ibid., 1.5.2). This is stated to be the Surpeme Self, consisting of bliss, as forming the inner Self of the individual self. Similarly in the three Vedas, Rg, Saman and Atharvan,
+here and there, the distinctive existence of the Ksetra and the Ksetrajna is affirmed with Brahman for their Self. Likewise, the same purpose is taught in the words of the Brahma-sutras, namely, the aphorisms about Brahman, known also as the Sariraka-sutras, which are characterised by reasoning, decision and conclusion. In the Sutras commencing with, 'Not ether, on account of the absence of the Sruti' (B.
+S., 2.3.1), the nature and the mode of the Ksetra is determined. In the Sutras commencing with 'Not the self, on account of the Sruti and on account of the eternity, (which is made out) from them' (Ibid., 2.3.18),
+the true nature of the Ksetrajna is determined. In the Sutras 'But from the Supreme, this being declared by Sruti' (Ibid., 2.3.40), that Ksetrajna has the Lord for Its Self on account of Its being under the control of the Lord, is declared. It has been sung in various ways; the meaning of this Sloka is this: Listen about the truths of the Ksetra and the Ksetrajna which have been expounded in numerous ways and declared by Me in a lucid and brief manner.
 
 </details>
 </div>
@@ -540,70 +504,45 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/05_RShibhirbahudhA_g.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.5. This has been sung many times by sages, and also has been clearly
-decided in the various Vedas in different contexts by means of \[their\]
-words that are suggestive of the Brahman (i.e. in the Upanisads) and are
-full of reasoning.
+13.5. This has been sung many times by sages, and also has been clearly decided in the various Vedas in different contexts by means of \[their\]
+words that are suggestive of the Brahman (i.e. in the Upanisads) and are full of reasoning.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/05_RShibhirbahudhA_g.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.5 It has been sung of in various ways by the Rsis, separately by the
-different kinds \[The different branches of Vedic texts.\] of Vedic
-texts, and also by the rational and convicing sentences themselves which
-are indicatvie of and lead of Brahman.
+13.5 It has been sung of in various ways by the Rsis, separately by the different kinds \[The different branches of Vedic texts.\] of Vedic texts, and also by the rational and convicing sentences themselves which are indicatvie of and lead of Brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/05_RShibhirbahudhA_g.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.5 Seers have sung of It in various ways, in many hymns and sacred
-Vedic songs, weighty in thought and convincing in argument.
+13.5 Seers have sung of It in various ways, in many hymns and sacred Vedic songs, weighty in thought and convincing in argument.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/05_RShibhirbahudhA_g.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.5 It has been sung by seers in various ways, in various distinctive
-hymns, and also in the well-reasoned and conclusive words of the
-Brahma-sutras.
+13.5 It has been sung by seers in various ways, in various distinctive hymns, and also in the well-reasoned and conclusive words of the Brahma-sutras.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/05_RShibhirbahudhA_g.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.5 Sages have sung in many ways, in various distinctive chants and
-also in the suggestive words indicative of the Absolute, full of
-reasoning and decisive.
+13.5 Sages have sung in many ways, in various distinctive chants and also in the suggestive words indicative of the Absolute, full of reasoning and decisive.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/13_xetra-xetrajna-yogaH/05_RShibhirbahudhA_g.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-13.5 ऋषिभिः by Rishis; बहुधा in many ways; गीतम् sung; छन्दोभिः in
-chants; विविधैः various; पृथक् distinctive; ब्रह्मसूत्रपदैः in the
-suggestive words indicative of Brahman; च and; एव even; हेतुमद्भिः full
-of reasoning; विनिश्चितैः decisive.Commentary Many sages (such as
-Vasishtha) have talked about it (the true nature of the field and its
-knower) since ancient times. The ancient hymns; such as the Rig Veda;
-have explained this in various ways.The word Brahma Sutras refers to the
-Vedanta Sutras written by Vyasa or Badarayanacharya in order to
-reconcile the mutually contradictory passages in the Upanishads. A study
-of the Brahma Sutras is very necessary in order to comprehend the
-esoteric significance of the Upanishads. The Braham Sutras are also
-known by the name Sariraka Sutras because fifteen Sutras in the third
-Pada of the second chapter deal with the Sarira or Kshetra (body).The
-true nature of the field and its knower has also been taught in the
-Brahma Sutras which deal with Brahman such as Atmanyevopasita (only as
-the Self; let a man meditate on It.) (Brihadaranyaka Upanishad;
-I.4.7).They are full of reasoning; convincing and decisive. There is no
-doubt in the words or passages that treat of Brahman.
+13.5 ऋषिभिः by Rishis; बहुधा in many ways; गीतम् sung; छन्दोभिः in chants; विविधैः various; पृथक् distinctive; ब्रह्मसूत्रपदैः in the suggestive words indicative of Brahman; च and; एव even; हेतुमद्भिः full of reasoning; विनिश्चितैः decisive.Commentary Many sages (such as Vasishtha) have talked about it (the true nature of the field and its knower) since ancient times. The ancient hymns; such as the Rig Veda;
+have explained this in various ways.The word Brahma Sutras refers to the Vedanta Sutras written by Vyasa or Badarayanacharya in order to reconcile the mutually contradictory passages in the Upanishads. A study of the Brahma Sutras is very necessary in order to comprehend the esoteric significance of the Upanishads. The Braham Sutras are also known by the name Sariraka Sutras because fifteen Sutras in the third Pada of the second chapter deal with the Sarira or Kshetra (body).The true nature of the field and its knower has also been taught in the Brahma Sutras which deal with Brahman such as Atmanyevopasita (only as the Self; let a man meditate on It.) (Brihadaranyaka Upanishad;
+I.4.7).They are full of reasoning; convincing and decisive. There is no doubt in the words or passages that treat of Brahman.
 
 </details>
 </div>

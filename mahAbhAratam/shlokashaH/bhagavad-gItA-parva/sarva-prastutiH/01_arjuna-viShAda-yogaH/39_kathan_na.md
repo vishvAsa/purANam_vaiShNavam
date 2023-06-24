@@ -42,17 +42,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/39_kathan_na.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -355,44 +346,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/39_kathan_na.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.39. But, perceiving clearly the evil conseences ensuing from the ruin
-of the family, should we not have a sense to refrain from this sinful
-act \[of fighting the war\], O Janardana ;
+1.39. But, perceiving clearly the evil conseences ensuing from the ruin of the family, should we not have a sense to refrain from this sinful act \[of fighting the war\], O Janardana ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/39_kathan_na.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.38 1.39 O Janardana, although these people, whose hearts have become
-perverted by greed, do not see the evil arising from destroying the
-family and sin in hostility towards, friends, yet how can we who clearly
-see the evil arising from destroying the family remain unaware of (the
-need of) abstaining from this sin;
+1.38 1.39 O Janardana, although these people, whose hearts have become perverted by greed, do not see the evil arising from destroying the family and sin in hostility towards, friends, yet how can we who clearly see the evil arising from destroying the family remain unaware of (the need of) abstaining from this sin;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/39_kathan_na.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.39 Should not we, whose eyes are open, who consider it to be wrong to
-annihilate our house, turn away from so great a crime;
+1.39 Should not we, whose eyes are open, who consider it to be wrong to annihilate our house, turn away from so great a crime;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/39_kathan_na.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.39 Why should we not learn to shun this crime - we who see the evil of
-ruining a clan, O Krsna;
+1.39 Why should we not learn to shun this crime - we who see the evil of ruining a clan, O Krsna;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/39_kathan_na.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.39. Why should not we who clearly see evil in the destruction of
-families, learn to turn away from this sin, O Janardana (Krishna);
+1.39. Why should not we who clearly see evil in the destruction of families, learn to turn away from this sin, O Janardana (Krishna);
 
 </details>
 </div>
@@ -400,10 +382,8 @@ families, learn to turn away from this sin, O Janardana (Krishna);
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 1.39 कथम् why; न not; ज्ञेयम् should be learnt; अस्माभिः by us; पापात्
-from sin; अस्मात् this; निवर्तितुम् to turn away; कुलक्षयकृतम् in the
-destruction of families; दोषम् evil; प्रपश्यद्भिः clearly seeing;
-जनार्दन O Janardana.Commentary Ignorance of law is no excuse but wanton
-sinful conduct is a grave crime; unworthy of us; who are wiser.
+from sin; अस्मात् this; निवर्तितुम् to turn away; कुलक्षयकृतम् in the destruction of families; दोषम् evil; प्रपश्यद्भिः clearly seeing;
+जनार्दन O Janardana.Commentary Ignorance of law is no excuse but wanton sinful conduct is a grave crime; unworthy of us; who are wiser.
 
 </details>
 </div>

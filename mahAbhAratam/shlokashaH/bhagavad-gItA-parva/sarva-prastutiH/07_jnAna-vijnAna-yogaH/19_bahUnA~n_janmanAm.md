@@ -86,31 +86,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.19 Further after passing through innumerable auspicious births, one
-gets the knowledge: 'I find my sole joy as a Sesa of Vasudeva. I find my
-essence, existence and activities to be dependent on Him. He is superior
-over all others on account of His innumerable auspicious attributes.'
+7.19 Further after passing through innumerable auspicious births, one gets the knowledge: 'I find my sole joy as a Sesa of Vasudeva. I find my essence, existence and activities to be dependent on Him. He is superior over all others on account of His innumerable auspicious attributes.'
 Conseent to this knowledge he resorts to Me, i.e., meditates on Me,
-realising, 'Vasudeva alone is my highest end and also the means for
-attaining it, and whatever other desire remains in the mind, He alone is
-all that too for me'. Such a great-souled person, i.e., great-minded man
-is hard to find. It is very hard to find such persons in this world.
+realising, 'Vasudeva alone is my highest end and also the means for attaining it, and whatever other desire remains in the mind, He alone is all that too for me'. Such a great-souled person, i.e., great-minded man is hard to find. It is very hard to find such persons in this world.
 This is the only meaning of the statement that 'Vasudeva is all,'
-because of the topic having been begun with the statements: 'For I am
-very dear to the man of knowledge' (7.17) and 'For he, integrated, is
-devoted to Me alone as the highest end' (7.18). It is so, also because
-that Jnanin whose traits are given here, possesses the same alities as
-the man of knowledge described earlier. For, it has been said that the
-two Prakrtis, the animate and the inanimate, have their sole essence in
-being the Sesa (dependants) of the Supreme Person in the verses
-beginning with 'Earth, water' (7.4) and ending with, 'Ego-sense, thus My
-Prakrti is divided eightfold. This is my lower (Prakrti). But know that
-which is other than this (lower nature) and forms the life-principle to
-be the higher Prakrti' (7.4-5). Then take the beginning from 'I am the
-origin and dissolution of the whole universe. There is nothing higher
-than Myself, O Arjuna' (7.6-7), and ending with, 'Know that all the
-states of Sattva, Rajas and Tamas are from Me alone. But I am not in
-them. They are in Me' (7.12). It has been declared in these texts that
+because of the topic having been begun with the statements: 'For I am very dear to the man of knowledge' (7.17) and 'For he, integrated, is devoted to Me alone as the highest end' (7.18). It is so, also because that Jnanin whose traits are given here, possesses the same alities as the man of knowledge described earlier. For, it has been said that the two Prakrtis, the animate and the inanimate, have their sole essence in being the Sesa (dependants) of the Supreme Person in the verses beginning with 'Earth, water' (7.4) and ending with, 'Ego-sense, thus My Prakrti is divided eightfold. This is my lower (Prakrti). But know that which is other than this (lower nature) and forms the life-principle to be the higher Prakrti' (7.4-5). Then take the beginning from 'I am the origin and dissolution of the whole universe. There is nothing higher than Myself, O Arjuna' (7.6-7), and ending with, 'Know that all the states of Sattva, Rajas and Tamas are from Me alone. But I am not in them. They are in Me' (7.12). It has been declared in these texts that
 the two Prakrtis, both in their states of cause and effect, depend upon
 Him for their essence, existence and activities and that the Supreme
 Person is superior to everything in all respects. Therefore the knower
@@ -769,8 +749,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.19 After many lives, at last the wise man realises Me as I am. A man
-so enlightened that he sees God everywhere is very difficult to find.
+7.19 After many lives, at last the wise man realises Me as I am. A man so enlightened that he sees God everywhere is very difficult to find.
 
 </details>
 </div>
@@ -778,16 +757,14 @@ so enlightened that he sees God everywhere is very difficult to find.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 7.19 At the end of many births, the man of knowledge finds refuge in Me,
-realising that 'Vasudeva is all.' It is very hard to find such a
-great-souled person.
+realising that 'Vasudeva is all.' It is very hard to find such a great-souled person.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/19_bahUnA~n_janmanAm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.19 At the end of many births the wise man comes to Me, realising that
-all this is Vaasudeva (the innermost Self); such a great soul (Mahatma)
+7.19 At the end of many births the wise man comes to Me, realising that all this is Vaasudeva (the innermost Self); such a great soul (Mahatma)
 is very hard to find.
 
 </details>
@@ -797,16 +774,7 @@ is very hard to find.
 
 7.19 बहूनाम् of many; जन्मनाम् of births; अन्ते in the end; ज्ञानवान्
 the wise; माम् to Me; प्रपद्यते approaches; वासुदेवः Vaasudeva; सर्वम्
-all; इति thus; सः he; महात्मा the great soul; सुदुर्लभः (is) very hard
-to find.Commentary Vaasudeva is a name of Lord Krishna as He is the son
-of Vasudeva. He is the allpervading Brahman.The aspirant gradually
-evolves through Yogic practices; selfless service; devotion and constant
-meditation in many births and ultimately attains the inner Self. He
-realises that all is Vaasudeva. It is very difficult to find such a
-great soul; who has attained to perfection. No one is eal to him. That
-is the reason why the Lord has said; One in a thousand perchance strives
-for perfection even among those successful strivers; only one perchance
-knows Me in essence. (Cf.VII.3.)
+all; इति thus; सः he; महात्मा the great soul; सुदुर्लभः (is) very hard to find.Commentary Vaasudeva is a name of Lord Krishna as He is the son of Vasudeva. He is the allpervading Brahman.The aspirant gradually evolves through Yogic practices; selfless service; devotion and constant meditation in many births and ultimately attains the inner Self. He realises that all is Vaasudeva. It is very difficult to find such a great soul; who has attained to perfection. No one is eal to him. That is the reason why the Lord has said; One in a thousand perchance strives for perfection even among those successful strivers; only one perchance knows Me in essence. (Cf.VII.3.)
 
 </details>
 </div>

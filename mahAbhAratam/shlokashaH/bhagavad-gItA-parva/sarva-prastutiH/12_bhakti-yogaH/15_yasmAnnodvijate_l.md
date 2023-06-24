@@ -70,13 +70,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.15 That person who is engaged in Karma Yoga does not become the cause
-of 'fear to the world'; he does nothing to cause fear to the world. He
-has no cause to 'fear the world,' i.e., no action on the part of others
-can cause him fear because of the certainty that he is not inimical to
-the world. Therefore he is not in the habit of showing favour towards
-someone and intolerance towards others; he has no fear of some or
-repulsion for others. Such a person is dear to Me.
+12.15 That person who is engaged in Karma Yoga does not become the cause of 'fear to the world'; he does nothing to cause fear to the world. He has no cause to 'fear the world,' i.e., no action on the part of others can cause him fear because of the certainty that he is not inimical to the world. Therefore he is not in the habit of showing favour towards someone and intolerance towards others; he has no fear of some or repulsion for others. Such a person is dear to Me.
 
 </details>
 </div>
@@ -481,18 +475,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.15. He, on account of whom the world does not get agitated; who too
-does not feel agitated on account of the world; who is free from joy and
-impatience, fear and anxiety-he is dear to Me.
+12.15. He, on account of whom the world does not get agitated; who too does not feel agitated on account of the world; who is free from joy and impatience, fear and anxiety-he is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.15 He, too, owing to whom the world is not disturbed, and who is not
-disturbed by the world, who is free from joy, impatience, fear and
-anxiety, is dear to Me.
+12.15 He, too, owing to whom the world is not disturbed, and who is not disturbed by the world, who is free from joy, impatience, fear and anxiety, is dear to Me.
 
 </details>
 </div>
@@ -500,26 +490,21 @@ anxiety, is dear to Me.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 12.15 He who does not harm the world, and whom the world cannot harm,
-who is not carried away by any impulse of joy, anger or fear, such a one
-is My beloved.
+who is not carried away by any impulse of joy, anger or fear, such a one is My beloved.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.15 He from whom the world has no cause to be frightened, who is not
-frightened by the world, who is free from joy and impatience, fear and
-repulsion - he is dear to me.
+12.15 He from whom the world has no cause to be frightened, who is not frightened by the world, who is free from joy and impatience, fear and repulsion - he is dear to me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/15_yasmAnnodvijate_l.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.15 He by whom the world is not agitated and who cannot be agitated by
-the world, and who is freed from joy, anger, fear and anxiety he is dear
-to Me.
+12.15 He by whom the world is not agitated and who cannot be agitated by the world, and who is freed from joy, anger, fear and anxiety he is dear to Me.
 
 </details>
 </div>
@@ -529,20 +514,9 @@ to Me.
 12.15 यस्मात् for whom; न not; उद्विजते is agitated; लोकः the world;
 लोकात् from the world; न not; उद्विजते is agitated; च and; यः who;
 हर्षामर्षभयोद्वेगैः by (from) joy; wrath; fear and anxiety; मुक्तः
-freed; यः who; सः he; च and; मे to Me; प्रियः dear.Commentary Harsha
-Joy; exhilaration of the mind when one obtains an object of desire. This
-is indicated by hair standing on end; tears flowing down the face;
-etc.Amarsha Anger. Some say that it is a mixture of jealousy and
-anger.Udvega Anxiety; worry; sorrow; discomfiture.The knower of Brahman
-or the devotee of the Lord never injures any creature in thought; word
-and deed. He gives security of life to all creatures. Therefore; no
-creature is afraid of him. The sage feels that the world is his body;
-his own Self. How can he be afraid of the world then He never hurts
-others and is not hurt by the words or deeds of others.The mental
-modifications of joy; envy; fear and anxiety leave the sage or devotee
-of their own accord; just as the beasts and birds leave the forest when
-it is on fire.Such a sage or devotee is dear to Me. How can I describe
-him
+freed; यः who; सः he; च and; मे to Me; प्रियः dear.Commentary Harsha Joy; exhilaration of the mind when one obtains an object of desire. This is indicated by hair standing on end; tears flowing down the face;
+etc.Amarsha Anger. Some say that it is a mixture of jealousy and anger.Udvega Anxiety; worry; sorrow; discomfiture.The knower of Brahman or the devotee of the Lord never injures any creature in thought; word and deed. He gives security of life to all creatures. Therefore; no creature is afraid of him. The sage feels that the world is his body;
+his own Self. How can he be afraid of the world then He never hurts others and is not hurt by the words or deeds of others.The mental modifications of joy; envy; fear and anxiety leave the sage or devotee of their own accord; just as the beasts and birds leave the forest when it is on fire.Such a sage or devotee is dear to Me. How can I describe him
 
 </details>
 </div>

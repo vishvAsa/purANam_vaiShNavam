@@ -85,18 +85,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.5 The three Gunas of Prakrti - Sattva, Rajas and Tamas - are inherent
-in the essential nature of Prakrti and are particular expressions of it.
+14.5 The three Gunas of Prakrti - Sattva, Rajas and Tamas - are inherent in the essential nature of Prakrti and are particular expressions of it.
 They can be known only through their effects such as 'brightness' etc.
-They are not apparent in the unevolved state of Prakrti but become
-apparent in its transformations as Mahat etc. They bind the self, which
-is conjoined with bodies such as those of divinities, men etc., composed
-of the modifications of Prakrti beginning with Mahat and ending with the
-elements. The self is immutable, i.e., It is not in Its pristine nature
-conjoined with the Gunas. But the Gunas bind It when residing in the
-body. The meaning is that they bind It by virtue of the limiting
-conditions of Its living in the body. Sri Krsna proceeds to speak of the
-nature of Sattva, Rajas and Tamas and their modes of binding (the self):
+They are not apparent in the unevolved state of Prakrti but become apparent in its transformations as Mahat etc. They bind the self, which is conjoined with bodies such as those of divinities, men etc., composed of the modifications of Prakrti beginning with Mahat and ending with the elements. The self is immutable, i.e., It is not in Its pristine nature conjoined with the Gunas. But the Gunas bind It when residing in the body. The meaning is that they bind It by virtue of the limiting conditions of Its living in the body. Sri Krsna proceeds to speak of the nature of Sattva, Rajas and Tamas and their modes of binding (the self):
 
 </details>
 </div>
@@ -474,8 +465,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.5. The Strands, viz. the Sattva, the Rajas and the Tamas, born from
-the Prime Cause (the said Mother), bind the changeless Embodied (Soul)
+14.5. The Strands, viz. the Sattva, the Rajas and the Tamas, born from the Prime Cause (the said Mother), bind the changeless Embodied (Soul)
 to the body, O mighty-armed One !
 
 </details>
@@ -483,16 +473,14 @@ to the body, O mighty-armed One !
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.5 O mighty-armed one, the alities, viz sattva, rajas and tamas, born
-of Nature, being the immutable embodies being to the body.
+14.5 O mighty-armed one, the alities, viz sattva, rajas and tamas, born of Nature, being the immutable embodies being to the body.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.5 Purity, Passion and Ignorance are the Qualities which the Law of
-nature bringeth forth. They fetter the free Spirit in all beings.
+14.5 Purity, Passion and Ignorance are the Qualities which the Law of nature bringeth forth. They fetter the free Spirit in all beings.
 
 </details>
 </div>
@@ -507,8 +495,7 @@ They bind the immutable self in the body, O Arjuna.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/05_sattvaM_rajastama.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.5 Purity, passion and inertia these alities, O Arjuna, born of
-Nature, bind fast in the body, the embodied, the indestructible.
+14.5 Purity, passion and inertia these alities, O Arjuna, born of Nature, bind fast in the body, the embodied, the indestructible.
 
 </details>
 </div>
@@ -516,43 +503,12 @@ Nature, bind fast in the body, the embodied, the indestructible.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 14.5 सत्त्वम् purity; रजः passion; तमः inertia; इति these; गुणाः
-alities; प्रकृतिसंभवाः born of Prakriti; निबध्नन्ति bind; महाबाहो O
-mightyarmed; देहे in the body; देहिनम् the embodied; अव्ययम्
+alities; प्रकृतिसंभवाः born of Prakriti; निबध्नन्ति bind; महाबाहो O mightyarmed; देहे in the body; देहिनम् the embodied; अव्ययम्
 the,indestructible.Commentary Sattva is the best. Rajas comes next.
-Tamas is the lowest and the worst. The three alities indicate the triple
-mentality. They produce attachment in the individual souls; delude them
-and bind them down; as it were; to Samsara. Just as the three conditions
-of childhood; youth and old age are found in the same body; so also the
-three alities inhere in the mind. The soul gets limited by identifying
-itself with body and the three alities. It is subject to birth and death
-and experiences happiness and misery; pleasure and pain; joy and sorrow
-till it realises its identity with the supreme Self.The word Guna is
-usually translated as ality. It does not signify property; attribute or
-ality; such as the blue colour of a cloth. Gunas are really the primary
-constitutents of Nature and are the basis of all substances. Therefore
-it is not proper to call them alities inhering in substances.If you want
-to attain freedom or perfection; if you wish to become immortal; you
-must rise above the modes of Nature. You must transcend the Gunas.If the
-water in the vessel is agitated; the reflected sun in the water also
-appears to be agitated through Pratibimba Adhyasa (superimposition of
-reflection on water). Even so the pure unchanging Self appears to be
-bound by the alities of Nature through superimposition. In reality the
-Self is ever free and untainted. It is beyond them.The Gunas which are
-only forms of ignorance are ever dependent on the knower of the field.
-They bind; fast; as it were; the knower of the field. They have him as
-the basis of their existence.A knowledge of the Gunas and their
-operation is very necessary. Only if you have this knowledge can you
-free yourself from their clutches.Mahabaho Mightyarmed with strong and
-sinewy arms reaching down to the kness. This is a very auspicious sign.
-Yogis and sages have such beautiful arms.These three Gunas are present
-in all human beings. No one is free from the operation of any one of the
-three alities of Nature. They are not constant. Sometimes Sattva
-predominates at other times Rajas or Tamas predominates.Sattva has the
-characteristic of effulgence. It is also harmony and goodness or purity.
-Rajas is passion or activity. Tamas is inertia or darkness.Analyse all
-phenomena in terms of these three. Know their characteristics. Stand as
-a witness of these alities. Do not identify yourself with them. Separate
-yourself from them. Become a Gunatita. You will attain Supreme Peace;
+Tamas is the lowest and the worst. The three alities indicate the triple mentality. They produce attachment in the individual souls; delude them and bind them down; as it were; to Samsara. Just as the three conditions of childhood; youth and old age are found in the same body; so also the three alities inhere in the mind. The soul gets limited by identifying itself with body and the three alities. It is subject to birth and death and experiences happiness and misery; pleasure and pain; joy and sorrow till it realises its identity with the supreme Self.The word Guna is usually translated as ality. It does not signify property; attribute or ality; such as the blue colour of a cloth. Gunas are really the primary constitutents of Nature and are the basis of all substances. Therefore it is not proper to call them alities inhering in substances.If you want to attain freedom or perfection; if you wish to become immortal; you must rise above the modes of Nature. You must transcend the Gunas.If the water in the vessel is agitated; the reflected sun in the water also appears to be agitated through Pratibimba Adhyasa (superimposition of reflection on water). Even so the pure unchanging Self appears to be bound by the alities of Nature through superimposition. In reality the Self is ever free and untainted. It is beyond them.The Gunas which are only forms of ignorance are ever dependent on the knower of the field.
+They bind; fast; as it were; the knower of the field. They have him as the basis of their existence.A knowledge of the Gunas and their operation is very necessary. Only if you have this knowledge can you free yourself from their clutches.Mahabaho Mightyarmed with strong and sinewy arms reaching down to the kness. This is a very auspicious sign.
+Yogis and sages have such beautiful arms.These three Gunas are present in all human beings. No one is free from the operation of any one of the three alities of Nature. They are not constant. Sometimes Sattva predominates at other times Rajas or Tamas predominates.Sattva has the characteristic of effulgence. It is also harmony and goodness or purity.
+Rajas is passion or activity. Tamas is inertia or darkness.Analyse all phenomena in terms of these three. Know their characteristics. Stand as a witness of these alities. Do not identify yourself with them. Separate yourself from them. Become a Gunatita. You will attain Supreme Peace;
 immortality and eternal bliss. (Cf.XIII.22)
 
 </details>

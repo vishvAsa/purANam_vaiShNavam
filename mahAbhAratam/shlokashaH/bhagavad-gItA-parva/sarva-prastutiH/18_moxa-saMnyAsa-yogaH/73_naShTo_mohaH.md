@@ -81,26 +81,9 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 18.73 Arjuna said 'Delusion' or misapprehension is perverted knowledge.
-By Your grace it has been destroyed. 'Smrti' or memory is the knowledge
-of things as they really are. I have acired that. Misapprehension here
-is the misconception that the self is the Prakrti (body-mind) which is
-the non-self in reality. It consists in one not apprehending that all
-intelligent and non-intelligent entities, by reason of their forming the
-body of the Supreme Being, have Him as their Atman and are thus ensouled
-by Him. The misapprehension also consists in the lack of knowledge that
-actions, obligatory and occasional, do not cause bondage but actually
-form a means for the propitiation of the Supreme Being. All such
-misapprehensions are now destroyed. The various phases of knowledge that
-cleared the misunderstanding may be catalogued as follows: (1) The self
-is different from Prakrti and is therefore devoid of the alities of
-Prakrti. Its nature is that of the knower of Prakrti. (2) The self is a
-Sesa (sub-ordinate and servant) of the Supreme Person and is ruled by
-Him. The true knowledge about the Supreme Person is that He is what is
-signified by the expression Supreme Brahman. (3) He is the great ocean
-of all auspicious, excellent attributes such as knowledge, strength,
+By Your grace it has been destroyed. 'Smrti' or memory is the knowledge of things as they really are. I have acired that. Misapprehension here is the misconception that the self is the Prakrti (body-mind) which is the non-self in reality. It consists in one not apprehending that all intelligent and non-intelligent entities, by reason of their forming the body of the Supreme Being, have Him as their Atman and are thus ensouled by Him. The misapprehension also consists in the lack of knowledge that actions, obligatory and occasional, do not cause bondage but actually form a means for the propitiation of the Supreme Being. All such misapprehensions are now destroyed. The various phases of knowledge that cleared the misunderstanding may be catalogued as follows: (1) The self is different from Prakrti and is therefore devoid of the alities of Prakrti. Its nature is that of the knower of Prakrti. (2) The self is a Sesa (sub-ordinate and servant) of the Supreme Person and is ruled by Him. The true knowledge about the Supreme Person is that He is what is signified by the expression Supreme Brahman. (3) He is the great ocean of all auspicious, excellent attributes such as knowledge, strength,
 glory, valour, power, brilliance etc., which are unbounded and natural.
-His essence consists solely of auspiciousness. He is antagonistic to all
-that is evil without exception. The origin, sustentation and dissolution
+His essence consists solely of auspiciousness. He is antagonistic to all that is evil without exception. The origin, sustentation and dissolution
 of the entire universe are His sport. (4) You (Sri Krsna) are Vasudeva,
 the Supreme Person, known from the Vedanta, and who can be reached only
 by worship, which has taken the form of Bhakti. (5) Bhakti can be
@@ -658,26 +641,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.73. Arjuna said My delusion is destroyed; recollection is gained by
-me through your Grace, O Acyuta ! I stand firm, free of doubts; I shall
-excute your ;nd.
+18.73. Arjuna said My delusion is destroyed; recollection is gained by me through your Grace, O Acyuta ! I stand firm, free of doubts; I shall excute your ;nd.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.73 Arjuna said O Acyuta, (my) delusion has been destroyed and memory
-has been regained by me through Your grace. I stand with my doubt
-removed; I shall follow Your instruction.
+18.73 Arjuna said O Acyuta, (my) delusion has been destroyed and memory has been regained by me through Your grace. I stand with my doubt removed; I shall follow Your instruction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.73 Arjuna replied: My Lord! O Immutable One! My delusion has fled. By
-Thy Grace, O Changeless One, the light has dawned. My doubts are gone,
+18.73 Arjuna replied: My Lord! O Immutable One! My delusion has fled. By Thy Grace, O Changeless One, the light has dawned. My doubts are gone,
 and I stand before Thee ready to do Thy will."
 
 </details>
@@ -685,9 +663,7 @@ and I stand before Thee ready to do Thy will."
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/73_naShTo_mohaH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.73 Arjuna said Destroyed is my delusion and I have, by your grace, O
-Krsna, gained knowledge (Smrti). Freed from doubts, I stand steadfast, I
-will fulfil Your world.
+18.73 Arjuna said Destroyed is my delusion and I have, by your grace, O Krsna, gained knowledge (Smrti). Freed from doubts, I stand steadfast, I will fulfil Your world.
 
 </details>
 </div>
@@ -695,8 +671,7 @@ will fulfil Your world.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 18.73 Arjuna said Destroyed is my delusion as I have gained my knowledge
-(memory) through Thy grace, O Krishna. I remain freed from doubts. I
-will act according to Thy word.
+(memory) through Thy grace, O Krishna. I remain freed from doubts. I will act according to Thy word.
 
 </details>
 </div>
@@ -706,19 +681,7 @@ will act according to Thy word.
 18.73 नष्टः is destroyed; मोहः delusion; स्मृतिः memory (knowledge);
 लब्धा has been gained; त्वत्प्रसादात् through Thy grace; मया by me;
 अच्युत O Krishna; स्थितः अस्मि I remain; गतसन्देहः freed from doubts;
-करिष्ये (I) will do; वचनम् word; तव Thy.Commentary Moha Delusion This is
-the strongest weapon of Maya to take the Jivas in Her clutch. It is born
-of ignorance. It is the cause of the whole evil of Samsara. It is as
-hard to cross as the ocean.Smritih I have attained knowledge of the true
-nature of the Self. The whole aim of Sadhana or spiritual practice and
-the study of scriptures is the annihilation of delusion and the
-attainment of the knowledge of the Self. When one gets it; the three
-knots or ties of ignorance; viz.; ignorance; delusion (desire) and
-action are destroyed; all the doubts are cleared; and all the Karmas are
-destroyed.To him who beholds the Self in all beings; what delusion is
-there; what grief (Isavasya Upanishad; 7)I shall do Thy word Arjuna
-means to say; I am firm in Thy ;nd. Through Thy grace I have achieved
-the end of life. I have nothing more to do.
+करिष्ये (I) will do; वचनम् word; तव Thy.Commentary Moha Delusion This is the strongest weapon of Maya to take the Jivas in Her clutch. It is born of ignorance. It is the cause of the whole evil of Samsara. It is as hard to cross as the ocean.Smritih I have attained knowledge of the true nature of the Self. The whole aim of Sadhana or spiritual practice and the study of scriptures is the annihilation of delusion and the attainment of the knowledge of the Self. When one gets it; the three knots or ties of ignorance; viz.; ignorance; delusion (desire) and action are destroyed; all the doubts are cleared; and all the Karmas are destroyed.To him who beholds the Self in all beings; what delusion is there; what grief (Isavasya Upanishad; 7)I shall do Thy word Arjuna means to say; I am firm in Thy ;nd. Through Thy grace I have achieved the end of life. I have nothing more to do.
 
 </details>
 </div>

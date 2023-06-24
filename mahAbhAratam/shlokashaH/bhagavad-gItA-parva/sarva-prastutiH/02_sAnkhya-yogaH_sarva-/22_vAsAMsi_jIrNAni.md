@@ -61,14 +61,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.22 That those who give up their bodies in a righteous war get more
-beauteous bodies than before, is known through the scriptures. Casting
-off worn-out garments and taking new and beautiful ones, can be only a
-cause of joy, as seen here in the world in the case of new garments.
-Once again Sri Krsna emphasises for easy understanding the
-indestructibility of the self, taught before: 'Know that to be
-indestructible by which all this is pervaded' (II.17) and confirms it
-thus:
+2.22 That those who give up their bodies in a righteous war get more beauteous bodies than before, is known through the scriptures. Casting off worn-out garments and taking new and beautiful ones, can be only a cause of joy, as seen here in the world in the case of new garments.
+Once again Sri Krsna emphasises for easy understanding the indestructibility of the self, taught before: 'Know that to be indestructible by which all this is pervaded' (II.17) and confirms it thus:
 
 </details>
 </div>
@@ -481,8 +475,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.22. Just as rejecting the tattered garments, a man takes other new
-ones, in the same way, rejecting the decayed bodies, the embodied (Self)
+2.22. Just as rejecting the tattered garments, a man takes other new ones, in the same way, rejecting the decayed bodies, the embodied (Self)
 rightly proceeds to other new ones.
 
 </details>
@@ -491,34 +484,28 @@ rightly proceeds to other new ones.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 2.22 As after rejecting wornout clothes a man takes up other new ones,
-likewise after rejecting wornout bodies the embodied one unites with
-other new ones.
+likewise after rejecting wornout bodies the embodied one unites with other new ones.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.22 As a man discards his threadbare robes and puts on new, so the
-Spirit throws off Its worn-out bodies and takes fresh ones.
+2.22 As a man discards his threadbare robes and puts on new, so the Spirit throws off Its worn-out bodies and takes fresh ones.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.22 As a man casts off worn-out garments and puts on others that are
-new, so does the embodied self cast off Its worn-out bodies and enter
-into others that are new.
+2.22 As a man casts off worn-out garments and puts on others that are new, so does the embodied self cast off Its worn-out bodies and enter into others that are new.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/22_vAsAMsi_jIrNAni.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.22 Just as a man casts off worn-out clothes and puts on new ones, so
-also the embodied Self casts off worn-out bodies and enters others which
-are new.
+2.22 Just as a man casts off worn-out clothes and puts on new ones, so also the embodied Self casts off worn-out bodies and enters others which are new.
 
 </details>
 </div>

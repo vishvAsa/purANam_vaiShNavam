@@ -81,17 +81,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/27_shvashurAnsuhRdas.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -337,7 +328,7 @@ _________________
 साले; जयद्रथ आदि बहनोई तथा अन्य कई सम्बन्धियोंको दोनों सेनाओंमें स्थित
 देखा।  
 **स कौन्तेयः कृपया परयाविष्टः** इन पदोंमें **'स कौन्तेयः कृपया
-परयाविष्टः'--**कहनेका तात्पर्य है कि माता कुन्तीने जिनको युद्ध करनेके
+परयाविष्ट:'--**कहनेका तात्पर्य है कि माता कुन्तीने जिनको युद्ध करनेके
 लिये सन्देश भेजा था और जिन्होंने शूरवीरतामें आकर मेरे साथ दो हाथ
 करनेवाले कौन हैं;'--ऐसे मुख्य-मुख्य योद्धाओंको देखनेके लिये भगवान्
 श्रीकृष्णको दोनों सेनाओंके बीचमें रथ खड़ा करनेकी आज्ञा दी थी, वे ही
@@ -376,8 +367,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/27_shvashurAnsuhRdas.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.27. Arjuna Said O krsna! On seeing these war-mongering kinsfolks of my
-own, arrayed \[in the armies\], my limbs fail and my mouth goes dry;
+1.27. Arjuna Said O krsna! On seeing these war-mongering kinsfolks of my own, arrayed \[in the armies\], my limbs fail and my mouth goes dry;
 
 </details>
 </div>
@@ -385,32 +375,28 @@ own, arrayed \[in the armies\], my limbs fail and my mouth goes dry;
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 1.27 The son of Kunti (Ajuna), seeing all those rlatives arrayed
-(there), became overwhelmed by supreme compassion and said this
-sorrowfully:
+(there), became overwhelmed by supreme compassion and said this sorrowfully:
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/27_shvashurAnsuhRdas.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.27 Fathers-in-law and benefactors, arrayed on both sides. Arjuna then
-gazed at all those kinsmen before him.
+1.27 Fathers-in-law and benefactors, arrayed on both sides. Arjuna then gazed at all those kinsmen before him.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/27_shvashurAnsuhRdas.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.27 Fathers-in-law and dear friends in both armies. When Arjuna saw all
-these kinsmen in array,
+1.27 Fathers-in-law and dear friends in both armies. When Arjuna saw all these kinsmen in array,
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/27_shvashurAnsuhRdas.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.27. (He saw) fathers-in-law and friends also in both the armies. The
-son of Kunti, Arjuna, seeing all those kinsmen thus standing arrayed,
+1.27. (He saw) fathers-in-law and friends also in both the armies. The son of Kunti, Arjuna, seeing all those kinsmen thus standing arrayed,
 spoke this, sorrowfully filled with deep pity.
 
 </details>
@@ -418,8 +404,7 @@ spoke this, sorrowfully filled with deep pity.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/01_arjuna-viShAda-yogaH/27_shvashurAnsuhRdas.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-1.27 श्वशुरान् fathersinlaw; सुहृदः friends; च and; एव also; सेनयोः in
-armies; उभयोः (in) both; अपि also; तान् those; समीक्ष्य having seen; सः
+1.27 श्वशुरान् fathersinlaw; सुहृदः friends; च and; एव also; सेनयोः in armies; उभयोः (in) both; अपि also; तान् those; समीक्ष्य having seen; सः
 he; कौन्तेयः Kaunteya; सर्वान् all; बन्धून् relatives; अवस्थितान्
 standing (arrayed); कृपया by pity; परया deep; आविष्टः filled; विषीदन्
 sorrowfully; इदम् this; अब्रवीत् said.No Commentary.

@@ -85,16 +85,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.37 The Lord said The highly ravenous desire is born of the Guna Rajas
-originating from old subtle impressions. It has for its objects sound
-and other sense contacts. It is a foe to him who is practising Jnana
-Yoga, as he is joined with Prakrti constituted of the Gunas which rise
-and subside periodically. It attracts him towards the objects of the
-senses. It is this desire alone which, when hampered, develops into
-anger towards those persons who are the cause of such hindrance. It is a
-powerful cause of sin. It incites the aspirant to do harm to others.
-Know this, which is born of the Guna called Rajas, as the natural enemy
-of Jnana Yogins.
+3.37 The Lord said The highly ravenous desire is born of the Guna Rajas originating from old subtle impressions. It has for its objects sound and other sense contacts. It is a foe to him who is practising Jnana Yoga, as he is joined with Prakrti constituted of the Gunas which rise and subside periodically. It attracts him towards the objects of the senses. It is this desire alone which, when hampered, develops into anger towards those persons who are the cause of such hindrance. It is a powerful cause of sin. It incites the aspirant to do harm to others.
+Know this, which is born of the Guna called Rajas, as the natural enemy of Jnana Yogins.
 
 </details>
 </div>
@@ -485,18 +477,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.37. The Bhagavat said This desire, this wrath, born of the
-Rajas-Strand, is a swallower of festival \[and\] a mighty bestower of
-sins. Know this to be the enemy here.
+3.37. The Bhagavat said This desire, this wrath, born of the Rajas-Strand, is a swallower of festival \[and\] a mighty bestower of sins. Know this to be the enemy here.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.37 The Blessed Lord said This desire, this anger, born of the ality of
-rajas, is a great devourer, a great sinner. Know this to be the enemy
-here.
+3.37 The Blessed Lord said This desire, this anger, born of the ality of rajas, is a great devourer, a great sinner. Know this to be the enemy here.
 
 </details>
 </div>
@@ -512,36 +500,25 @@ Desire consumes and corrupts everything. It is man's greatest enemy.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 3.37 The Lord said It is desire, it is wrath, born of the Guna of Rajas;
-it is a great devourer, an impeller to sin. Know this to be the foe
-here.
+it is a great devourer, an impeller to sin. Know this to be the foe here.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.37 The Blessed Lord said It is desire, it is anger both of the ality
-of Rajas, all-devouring, all-sinful; know this as the foe here (in this
-world).
+3.37 The Blessed Lord said It is desire, it is anger both of the ality of Rajas, all-devouring, all-sinful; know this as the foe here (in this world).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/03_karma-yogaH/37_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-3.37 कामः desire; एषः this; क्रोधः anger; एषः this; रजोगुणसमुद्भवः born
-of the Rajoguna; महाशनः alldevouring; महापाप्मा allsinful; विद्धि know;
-एनम् this; इह here; वैरिणम् the foe.Commentary Bhagavan Bhaga means the
-six attributes; viz.; Jnana (knowledge); Vairagya (dispassion); Kirti
+3.37 कामः desire; एषः this; क्रोधः anger; एषः this; रजोगुणसमुद्भवः born of the Rajoguna; महाशनः alldevouring; महापाप्मा allsinful; विद्धि know;
+एनम् this; इह here; वैरिणम् the foe.Commentary Bhagavan Bhaga means the six attributes; viz.; Jnana (knowledge); Vairagya (dispassion); Kirti
 (fame); Aishvarya (divine manifestations and excellences); Sri (wealth);
-and Bala (might). He who possesses these six attributes and who has a
-perfect knowledge of the origin and the end of the universe is Bhagavan
-or the Lord.The cause of all sin and wrong action in this world is
-desire. Anger is desire itself. When a desire is not gratified; the man
-becomes angry against those who stand as obstacles on the path of
-fulfilment.The desire is born of the ality of Rajas. When desire arises;
-it generates Rajas and urges the man to work in order to possess the
-object. Therefore; know that this desire is mans foe on this earth.
+and Bala (might). He who possesses these six attributes and who has a perfect knowledge of the origin and the end of the universe is Bhagavan or the Lord.The cause of all sin and wrong action in this world is desire. Anger is desire itself. When a desire is not gratified; the man becomes angry against those who stand as obstacles on the path of fulfilment.The desire is born of the ality of Rajas. When desire arises;
+it generates Rajas and urges the man to work in order to possess the object. Therefore; know that this desire is mans foe on this earth.
 (Cf.XVI.21).
 
 </details>

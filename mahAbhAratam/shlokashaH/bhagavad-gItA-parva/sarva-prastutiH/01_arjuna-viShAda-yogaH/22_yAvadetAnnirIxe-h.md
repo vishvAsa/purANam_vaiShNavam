@@ -68,10 +68,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/22_yAvadetAnnirIxe-h.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna
-did immediately as He had been directed, while Bhisma, Drona and others
-and all the kings were looking on. Such is the prospect of victory for
-your men.
+1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna did immediately as He had been directed, while Bhisma, Drona and others and all the kings were looking on. Such is the prospect of victory for your men.
 
 </details>
 </div>
@@ -323,43 +320,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/22_yAvadetAnnirIxe-h.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.22. I may scrutinize those who are ready to fight, who have assled
-here and are eager to achieve in the battle, what is dear to the
-evil-minded son of Dhrtarastra.
+1.22. I may scrutinize those who are ready to fight, who have assled here and are eager to achieve in the battle, what is dear to the evil-minded son of Dhrtarastra.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/22_yAvadetAnnirIxe-h.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.22 until I survey these who stand intent on fighting, and those who
-are going to engage in battle with me in this impending war.
+1.22 until I survey these who stand intent on fighting, and those who are going to engage in battle with me in this impending war.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/22_yAvadetAnnirIxe-h.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.22 So that I may observe those who must fight on my side, those who
-must fight against me;
+1.22 So that I may observe those who must fight on my side, those who must fight against me;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/22_yAvadetAnnirIxe-h.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.22 So that I may have a good look at those who are standing eager to
-fight and know with whom I have to fight in this enterprise of war.
+1.22 So that I may have a good look at those who are standing eager to fight and know with whom I have to fight in this enterprise of war.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/22_yAvadetAnnirIxe-h.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.22. Arjuna said In the middle between the two armies, place my
-chariot, O krishna, so that I may behold those who stand here desirous
-to fight, and know with whom I must fight, when the battle is about to
-commence.
+1.22. Arjuna said In the middle between the two armies, place my chariot, O krishna, so that I may behold those who stand here desirous to fight, and know with whom I must fight, when the battle is about to commence.
 
 </details>
 </div>
@@ -368,10 +357,8 @@ commence.
 
 1.21 -- 1.22 सेनयोः of the armies; उभयोः of both; मध्ये in the middle;
 रथम् car; स्थापय place; मे my; अच्युत O Achyuta (O changeless; Krishna);
-यावत् while; एतान् these; निरीक्षे behold; अहम् I; योद्धुकामान् desirous
-to fight; अवस्थितान् standing; कैः with whom; मया by me; सह together;
-योद्धव्यम् must be fought; अस्मिन् in this; रणसमुद्यमे eve of battle.No
-Commentary.
+यावत् while; एतान् these; निरीक्षे behold; अहम् I; योद्धुकामान् desirous to fight; अवस्थितान् standing; कैः with whom; मया by me; सह together;
+योद्धव्यम् must be fought; अस्मिन् in this; रणसमुद्यमे eve of battle.No Commentary.
 
 </details>
 </div>

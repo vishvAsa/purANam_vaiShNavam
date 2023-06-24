@@ -85,16 +85,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.53 - 11.54 Sri Krsna says By Vedas, i.e., by mere study, teaching
-etc., of these sacred texts, it is not possible to know Me truly. It is
-also not possible through meditation, sacrifices, gifts and austerities,
-destitute of devotion towards Me. But by single-minded devotion i.e., by
-devotion characterised by extreme ardour and intensity, it is possible
-to know Me in reality through scriptures, to behold Me directly in
-reality, and enter into Me in reality. So describes a Sruti passage:
-'This Self cannot be obtained by instruction, nor by intellect nor by
-much hearing. Whomsoever He chooses, by him alone is He obtained. To
-such a one He reveals His own form' (Ka. U., 2.2.23) and (Mun. U.,
+11.53 - 11.54 Sri Krsna says By Vedas, i.e., by mere study, teaching etc., of these sacred texts, it is not possible to know Me truly. It is also not possible through meditation, sacrifices, gifts and austerities,
+destitute of devotion towards Me. But by single-minded devotion i.e., by devotion characterised by extreme ardour and intensity, it is possible to know Me in reality through scriptures, to behold Me directly in reality, and enter into Me in reality. So describes a Sruti passage:
+'This Self cannot be obtained by instruction, nor by intellect nor by much hearing. Whomsoever He chooses, by him alone is He obtained. To such a one He reveals His own form' (Ka. U., 2.2.23) and (Mun. U.,
 3.2.3).
 
 </details>
@@ -338,7 +331,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।11.54।। परन्तु हे परन्तप अर्जुन! अनन्य भक्ति के द्वारा मैं तत्त्वतः
+।।11.54।। परन्तु हे परन्तप अर्जुन! अनन्य भक्ति के द्वारा मैं तत्त्वत:
 'जानने', 'देखने' और 'प्रवेश' करने के लिए (एकी भाव से प्राप्त होने के
 लिए) भी, शक्य हूँ!।।
 
@@ -392,43 +385,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.54. But, through an undeviating devotion, it is possible to know, and
-to observe and also to enter into Me as such, O Arjuna ! O scorcher of
-foes !
+11.54. But, through an undeviating devotion, it is possible to know, and to observe and also to enter into Me as such, O Arjuna ! O scorcher of foes !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.54 But, O Arjuna, by single-minded devotion am I-in this form-able to
-be known and seen in reality, and also be entered into, O destroyer of
-foes.
+11.54 But, O Arjuna, by single-minded devotion am I-in this form-able to be known and seen in reality, and also be entered into, O destroyer of foes.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.54 Only by tireless devotion can I be seen and known; only thus can a
-man become one with Me, O Arjuna!
+11.54 Only by tireless devotion can I be seen and known; only thus can a man become one with Me, O Arjuna!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.54 But by single-minded devotion, O Arjuna, it is possible to truly
-know, to see and to enter into Me, who am of this form, O harasser of
-foes.
+11.54 But by single-minded devotion, O Arjuna, it is possible to truly know, to see and to enter into Me, who am of this form, O harasser of foes.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/54_bhaktyA_tvananyay.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.54 But by single-minded devotion can I, of this Form, be known and
-seen in reality and also entered into, O Arjuna.
+11.54 But by single-minded devotion can I, of this Form, be known and seen in reality and also entered into, O Arjuna.
 
 </details>
 </div>
@@ -436,19 +421,7 @@ seen in reality and also entered into, O Arjuna.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 11.54 भक्त्या by devotion; तु indeed; अनन्यया singleminded; शक्यः (am)
-possible; अहम् I; एवंविधः of this form; अर्जुन O Arjuna; ज्ञातुम् to
-know; दृष्टुम् to see; च and; तत्त्वेन in reality; प्रवेष्टुम् to enter
-into; च and; परंतप O Parantapa (O scorcher of the foes).Commentary
-Devotion is the sole means to the realisation of the Cosmic
-Form.AnanyaBhakti Singleminded devotion. Onepointed unbroken devotion
-the devotion which does not seek any other object but the Lord alone. In
-this type of devotion no object other than the Lord is experienced by
-any of the senses. Egoism and dualism totally vanish.Of this form refers
-to the Cosmic Form.By singleminded devotion it is possible not only to
-know Me as declared in the scriptures but also to realise Me; i.e.; to
-attain liberation. The devotee realises that the Lord is all this and He
-alone is the ultimate Reality. When he gets this experience of
-illumination he gets merged in Him. (Cf.VIII.22X.10)
+possible; अहम् I; एवंविधः of this form; अर्जुन O Arjuna; ज्ञातुम् to know; दृष्टुम् to see; च and; तत्त्वेन in reality; प्रवेष्टुम् to enter into; च and; परंतप O Parantapa (O scorcher of the foes).Commentary Devotion is the sole means to the realisation of the Cosmic Form.AnanyaBhakti Singleminded devotion. Onepointed unbroken devotion the devotion which does not seek any other object but the Lord alone. In this type of devotion no object other than the Lord is experienced by any of the senses. Egoism and dualism totally vanish.Of this form refers to the Cosmic Form.By singleminded devotion it is possible not only to know Me as declared in the scriptures but also to realise Me; i.e.; to attain liberation. The devotee realises that the Lord is all this and He alone is the ultimate Reality. When he gets this experience of illumination he gets merged in Him. (Cf.VIII.22X.10)
 
 </details>
 </div>

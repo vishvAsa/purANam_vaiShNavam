@@ -62,16 +62,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.7 Of him whose self is conered, i.e., whose mind is conered, whose
-mind is free from fluctuations and who is very calm, 'the great self'
-becomes well secured, i.e., exceedingly well secured in connection with
-heat and cold, pleasure and pain, and honour and dishonour. Here the
-individual self (Pratyagatman) is called 'the great self' (Paramatman),
+6.7 Of him whose self is conered, i.e., whose mind is conered, whose mind is free from fluctuations and who is very calm, 'the great self'
+becomes well secured, i.e., exceedingly well secured in connection with heat and cold, pleasure and pain, and honour and dishonour. Here the individual self (Pratyagatman) is called 'the great self' (Paramatman),
 as the context justifies this only. It can also be called 'great',
-because it is at a higher stage relatively to previous successive
-stages. Or the word may be construed as follows: The self is secured
-greatly - Atma parma samahitah. \[In any case it should not be taken as
-the Supreme Being\].
+because it is at a higher stage relatively to previous successive stages. Or the word may be construed as follows: The self is secured greatly - Atma parma samahitah. \[In any case it should not be taken as the Supreme Being\].
 
 </details>
 </div>
@@ -341,7 +335,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.7।। शीत-उष्ण, सुख-दुःख तथा मान-अपमान में जो प्रशान्त रहता है, ऐसे
+।।6.7।। शीत-उष्ण, सुख-दु:ख तथा मान-अपमान में जो प्रशान्त रहता है, ऐसे
 जितात्मा पुरुष के लिये परमात्मा सम्यक् प्रकार से स्थित है, अर्थात्,
 आत्मरूप से विद्यमान है।।
 
@@ -380,47 +374,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.7. The thinking of the person, with subdued mind and \[hence\] with
-complete calmness, remains in eilibrium in the case of others and of
-himself, in cold and heat, in pleasure and pain, like-wise in honour and
-dishonour.
+6.7. The thinking of the person, with subdued mind and \[hence\] with complete calmness, remains in eilibrium in the case of others and of himself, in cold and heat, in pleasure and pain, like-wise in honour and dishonour.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.7 The supreme Self of one who has control over the aggregate of his
-body and organs, and who is tranil, becomes manifest. (He should be
-eipoised) \[These words are supplied to complete the sentence.\] in the
-midst of cold and heat, happiness and sorrow, as also honour and
-dishonour.
+6.7 The supreme Self of one who has control over the aggregate of his body and organs, and who is tranil, becomes manifest. (He should be eipoised) \[These words are supplied to complete the sentence.\] in the midst of cold and heat, happiness and sorrow, as also honour and dishonour.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.7 The Self of him who is self-controlled, and has attained peace is
-equally unmoved by heat or cold, pleasure or pain, honour or dishonour.
+6.7 The Self of him who is self-controlled, and has attained peace is equally unmoved by heat or cold, pleasure or pain, honour or dishonour.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.7 Of him whose mind is conered and who is serene, the great self is
-well secured in heat and cold, in pleasure and pain, and in honour and
-dishonour.
+6.7 Of him whose mind is conered and who is serene, the great self is well secured in heat and cold, in pleasure and pain, and in honour and dishonour.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/07_jitAtmanaH_prashA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.7 The Supreme Self of him who is self-controlled and peaceful is
-balanced in cold and heat, pleasure and pain, as also in honour and
-dishonour.
+6.7 The Supreme Self of him who is self-controlled and peaceful is balanced in cold and heat, pleasure and pain, as also in honour and dishonour.
 
 </details>
 </div>
@@ -428,18 +410,7 @@ dishonour.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.7 जितात्मनः of the selfcontrolled; प्रशान्तस्य of the peaceful;
-परमात्मा the Supreem Self; समाहितः balanced; शीतोष्णसुखदुःखेषु in cold
-and heat; pleasure and pain; तथा as also; मानापमानयोः in honour and
-dishonour.Commentary The selfcontrolled Yogi who is rooted in the Self
-keeps poise amidst the pairs of opposites (Dvandvas) or the alternating
-waves of cold and heat; pleasure and pain; honour and dishonour. When
-the Yogi has subdued his senses; when his mind is balanced and peaceful
-under all conditions; when he is not in the least influenced by the
-pairts of opposites; when he has renounced all actions; then the Highest
-Self really becomes his own Self. He attains to Selfrealisation. As he
-rests in hiw own Self; he is ever serene or tranil he is not affected by
-the pairs of opposites; and he stands as adamant in the face of the
-changing conditions of Nature.
+परमात्मा the Supreem Self; समाहितः balanced; शीतोष्णसुखदुःखेषु in cold and heat; pleasure and pain; तथा as also; मानापमानयोः in honour and dishonour.Commentary The selfcontrolled Yogi who is rooted in the Self keeps poise amidst the pairs of opposites (Dvandvas) or the alternating waves of cold and heat; pleasure and pain; honour and dishonour. When the Yogi has subdued his senses; when his mind is balanced and peaceful under all conditions; when he is not in the least influenced by the pairts of opposites; when he has renounced all actions; then the Highest Self really becomes his own Self. He attains to Selfrealisation. As he rests in hiw own Self; he is ever serene or tranil he is not affected by the pairs of opposites; and he stands as adamant in the face of the changing conditions of Nature.
 
 </details>
 </div>

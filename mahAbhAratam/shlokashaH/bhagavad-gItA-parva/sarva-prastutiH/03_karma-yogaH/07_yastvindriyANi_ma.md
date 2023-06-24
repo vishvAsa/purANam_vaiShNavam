@@ -61,11 +61,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 3.7 Conseently, he who, with aspiration to have the vision of the self,
-directs his senses to action according to the scriptures, such action
-being of the same class as those which he practised earlier, and who
-then begins to practise Karma Yoga, after renouncing attachment, with
-the senses which are naturally inclined to action - he, by reason of
-there being no chance of errors, excels a man following Jnana Yoga,
+directs his senses to action according to the scriptures, such action being of the same class as those which he practised earlier, and who then begins to practise Karma Yoga, after renouncing attachment, with the senses which are naturally inclined to action - he, by reason of there being no chance of errors, excels a man following Jnana Yoga,
 because there is no fear of a fall in his case.
 
 </details>
@@ -353,8 +349,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/07_yastvindriyANi_ma.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.7. But, controlling sense-organs by mind, whosoever undertakes the
-Yoga of action with the action-senses he, the detached one, is superior
+3.7. But, controlling sense-organs by mind, whosoever undertakes the Yoga of action with the action-senses he, the detached one, is superior
 \[to others\], O Arjuna !
 
 </details>
@@ -362,36 +357,28 @@ Yoga of action with the action-senses he, the detached one, is superior
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/07_yastvindriyANi_ma.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.7 But, O Arjuna, one who engages in Karma-yoga with the organs of
-action, controlling the organs with the mind and becoming
-unattached-that one excels.
+3.7 But, O Arjuna, one who engages in Karma-yoga with the organs of action, controlling the organs with the mind and becoming unattached-that one excels.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/07_yastvindriyANi_ma.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.7 But, O Arjuna! All honour to him whose mind controls his senses, for
-he is thereby beginning to practise Karma-Yoga, the Path of Right
-Action, keeping himself always unattached.
+3.7 But, O Arjuna! All honour to him whose mind controls his senses, for he is thereby beginning to practise Karma-Yoga, the Path of Right Action, keeping himself always unattached.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/07_yastvindriyANi_ma.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.7 But he who, subduing his senses by the mind, O Arjuna, begins to
-practise Karma Yoga through the organs of action and who is free from
-attachment - he excels.
+3.7 But he who, subduing his senses by the mind, O Arjuna, begins to practise Karma Yoga through the organs of action and who is free from attachment - he excels.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/07_yastvindriyANi_ma.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.7 But whosoever, controlling the senses by the mind, O Arjuna, engages
-himself in Karma Yoga with the organs of action, without attachment, he
-excels.
+3.7 But whosoever, controlling the senses by the mind, O Arjuna, engages himself in Karma Yoga with the organs of action, without attachment, he excels.
 
 </details>
 </div>
@@ -399,13 +386,8 @@ excels.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.7 यः whose; तु but; इन्द्रियाणि the senses; मनसा by the mind; नियम्य
-controlling; आरभते commences; अर्जुन O Arjuna; कर्मेन्द्रियैः by the
-organs of action; कर्मयोगम् Karma Yoga; असक्तः unattached; सः he;
-विशिष्यते excels.Commentary If anyone performs actions with his organs
-of action (viz.; hands; feet; organ of speech; etc.) controlling the
-organs of knowledge by the mind; and without expectation of the fruits
-of the actions and without egoism; he is certainly more worthy than the
-other who is a hypocrite or a man of false conduct.
+controlling; आरभते commences; अर्जुन O Arjuna; कर्मेन्द्रियैः by the organs of action; कर्मयोगम् Karma Yoga; असक्तः unattached; सः he;
+विशिष्यते excels.Commentary If anyone performs actions with his organs of action (viz.; hands; feet; organ of speech; etc.) controlling the organs of knowledge by the mind; and without expectation of the fruits of the actions and without egoism; he is certainly more worthy than the other who is a hypocrite or a man of false conduct.
 (Cf.II.64;68IV.21).The five organs of knowledge are the eyes; the ears;
 the nose; the skin and the sense of taste (tongue).
 

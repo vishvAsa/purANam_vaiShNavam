@@ -58,19 +58,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/31_yajnashiShTAmRtab.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.31 He 'who offers no sacrifices,' i.e., he who does not devote himself
-to obligatory and occasional actions, preceded by the performance of the
-'great sacrifices' etc., will not be able to achieve human ends which
-are associated with the material world and are called by the names of
-virtue, wealth and worldly satisfactions. How then can the man's supreme
-end called release (Moksa), which is other than these, be attained; As
-Moksa, man's supreme end, has been mentioned, other objectives different
-from it, are named 'this world.' That is, indeed, the material world.
-\[Perhaps the idea is that all types of sacrificers should perform the
-Panca-Maha-Yajnas, and take the remnants of it as their daily food. Only
-in this way can we give some meaning to 'ambrosial food' connected with
-the performance of all the various kinds of sacrifice mentioned in the
-above verses.\]
+4.31 He 'who offers no sacrifices,' i.e., he who does not devote himself to obligatory and occasional actions, preceded by the performance of the
+'great sacrifices' etc., will not be able to achieve human ends which are associated with the material world and are called by the names of virtue, wealth and worldly satisfactions. How then can the man's supreme end called release (Moksa), which is other than these, be attained; As Moksa, man's supreme end, has been mentioned, other objectives different from it, are named 'this world.' That is, indeed, the material world.
+\[Perhaps the idea is that all types of sacrificers should perform the Panca-Maha-Yajnas, and take the remnants of it as their daily food. Only in this way can we give some meaning to 'ambrosial food' connected with the performance of all the various kinds of sacrifice mentioned in the above verses.\]
 
 </details>
 </div>
@@ -396,26 +386,21 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 4.31. The eaters of the sacrifice-ordained (or sacrificial remnant)
-nectar, attain the eternal Brahman. \[Even\] this world is not for a
-non-sacrificer, how can there be the other ; O best of the Kurus !
+nectar, attain the eternal Brahman. \[Even\] this world is not for a non-sacrificer, how can there be the other ; O best of the Kurus !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/31_yajnashiShTAmRtab.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.31 Those who partake of the nectar left over after a sacrifice, reach
-the eternal Brahman. This world ceases to exist for one who does not
-perform sacrifices. What to speak of the other (world), O best among the
-Kurus (Arjuna)!
+4.31 Those who partake of the nectar left over after a sacrifice, reach the eternal Brahman. This world ceases to exist for one who does not perform sacrifices. What to speak of the other (world), O best among the Kurus (Arjuna)!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/31_yajnashiShTAmRtab.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.31 Tasting the nectar of immortality, as the reward of sacrifice, they
-reach the Eternal. This world is not for those who refuse to sacrifice;
+4.31 Tasting the nectar of immortality, as the reward of sacrifice, they reach the Eternal. This world is not for those who refuse to sacrifice;
 much less the other world.
 
 </details>
@@ -423,8 +408,7 @@ much less the other world.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/31_yajnashiShTAmRtab.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.31 This world is not for him who makes no sacrifice. How then the
-other, O Arjuna;
+4.31 This world is not for him who makes no sacrifice. How then the other, O Arjuna;
 
 </details>
 </div>
@@ -432,22 +416,16 @@ other, O Arjuna;
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 4.31 Those who eat the remnants of the sacrifice, which are like nectar,
-go to the eternal Brahman. This world is not for the man who does not
-perform sacrifice; how then can he have the other, O Arjuna;
+go to the eternal Brahman. This world is not for the man who does not perform sacrifice; how then can he have the other, O Arjuna;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/04_jnAna-yogaH_brahmArp/31_yajnashiShTAmRtab.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-4.31 यज्ञशिष्टामृतभुजः eaters of the nectar -- the remnants of the
-sacrifice; यान्ति go; ब्रह्म Brahman; सनातनम् eternal; न not; अयम् this;
+4.31 यज्ञशिष्टामृतभुजः eaters of the nectar -- the remnants of the sacrifice; यान्ति go; ब्रह्म Brahman; सनातनम् eternal; न not; अयम् this;
 लोकः world; अस्ति is; अयज्ञस्य of the nonsacrificer; कुतः how; अन्यः
-other; कुरुसत्तम O best of the Kurus.Commentary They go to the eternal
-Brahman in course of time after attaining the knowledge of the Self
-through purification of the mind by performing the above sacrifices. He
-who does not perform any of these is not fit even for this miserable
-world. How then can he hope to get a better world than this (Cf.III.13)
+other; कुरुसत्तम O best of the Kurus.Commentary They go to the eternal Brahman in course of time after attaining the knowledge of the Self through purification of the mind by performing the above sacrifices. He who does not perform any of these is not fit even for this miserable world. How then can he hope to get a better world than this (Cf.III.13)
 
 </details>
 </div>

@@ -58,11 +58,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.5 The Lord said By this, the reality of the Lord's birth is declared
-in the sentence, 'Many births of Mine have passed.' 'So is it with you'
-is added by way of illustration. The mode of incarnation, the reality of
-His body and the cause of His birth are explained in the following
-verse.
+4.5 The Lord said By this, the reality of the Lord's birth is declared in the sentence, 'Many births of Mine have passed.' 'So is it with you'
+is added by way of illustration. The mode of incarnation, the reality of His body and the cause of His birth are explained in the following verse.
 
 </details>
 </div>
@@ -330,43 +327,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.5. The Bhagavat said O Arjuna, many births of Mine, as well as of
-yours have passed. All of them I do know, but you do not, O scorcher of
-foes !
+4.5. The Bhagavat said O Arjuna, many births of Mine, as well as of yours have passed. All of them I do know, but you do not, O scorcher of foes !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.5 The Blessed Lord said O Arjuna, many lives of Mine have passed, and
-so have yours. I know them all, (but) you know not, O scorcher of
-enemies!
+4.5 The Blessed Lord said O Arjuna, many lives of Mine have passed, and so have yours. I know them all, (but) you know not, O scorcher of enemies!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.5 Lord Shri Krishna replied: I have been born again and again, from
-time to time; thou too,O Arjuna! My births are known to Me, but thou
-knowest not thine.
+4.5 Lord Shri Krishna replied: I have been born again and again, from time to time; thou too,O Arjuna! My births are known to Me, but thou knowest not thine.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.5 The Lord said Many births of Mine have passed, O Arjuna, and so is
-it with you also. I know them all, but you do not know them.
+4.5 The Lord said Many births of Mine have passed, O Arjuna, and so is it with you also. I know them all, but you do not know them.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/05_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.5 The Blessed Lord said Many births of Mine have passed as well as of
-thine, O Arjuna; I know them all but thou knowest not, O Parantapa
+4.5 The Blessed Lord said Many births of Mine have passed as well as of thine, O Arjuna; I know them all but thou knowest not, O Parantapa
 (scorcher of foes).
 
 </details>
@@ -376,11 +365,7 @@ thine, O Arjuna; I know them all but thou knowest not, O Parantapa
 
 4.5 बहूनि may; मे My; व्यतीतानि have passed away; जन्मानि births; तव
 thy; च and; अर्जुन O Arjuna; तानि them; अहम् I; वेद know; सर्वाणि all; न
-not; त्वम् thou; वेत्थ knowest; परन्तप O Parantapa.Commentary You have
-no intuitional knowledge. The eye of wisdom has not been opened in you
-on account of your past actions. So your power of vision is limited and
-therefore you do not know your previous births. But I know them because
-I am omniscient.
+not; त्वम् thou; वेत्थ knowest; परन्तप O Parantapa.Commentary You have no intuitional knowledge. The eye of wisdom has not been opened in you on account of your past actions. So your power of vision is limited and therefore you do not know your previous births. But I know them because I am omniscient.
 
 </details>
 </div>

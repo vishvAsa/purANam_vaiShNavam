@@ -61,13 +61,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.35 Great warriors like Karna, Duryodhana, etc., hitherto held you in
-high esteem as a heroic enemy. Now by refraining from battle when it has
-begun, you will appear to them as despicable and easily defeatable.
-These great warriors will think of you as withdrawing from battle out of
-fear. Because turning away from battle does not happen in the case of
-brave enemies through affection etc., for relatives. It can happen only
-through fear of enemies. Moreover
+2.35 Great warriors like Karna, Duryodhana, etc., hitherto held you in high esteem as a heroic enemy. Now by refraining from battle when it has begun, you will appear to them as despicable and easily defeatable.
+These great warriors will think of you as withdrawing from battle out of fear. Because turning away from battle does not happen in the case of brave enemies through affection etc., for relatives. It can happen only through fear of enemies. Moreover
 
 </details>
 </div>
@@ -306,44 +301,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.35. The mighty charioteers will think of you as having withdrawn from
-the battle out of fear : having been highly regarded by these men, you
-shall be viewed lightly.
+2.35. The mighty charioteers will think of you as having withdrawn from the battle out of fear : having been highly regarded by these men, you shall be viewed lightly.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.35 The great chariot-riders will think of you as having desisted from
-the fight out of fear; and you will into disgrace before them to whom
-you had been estimable.
+2.35 The great chariot-riders will think of you as having desisted from the fight out of fear; and you will into disgrace before them to whom you had been estimable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.35 Great generals will think that thou hast fled from the battlefield
-through cowardice; though once honoured thou wilt seem despicable.
+2.35 Great generals will think that thou hast fled from the battlefield through cowardice; though once honoured thou wilt seem despicable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.35 The great warriors will think that you have fled from battle in
-fear. These men who held you in high esteem will speak lightly of you
-now.
+2.35 The great warriors will think that you have fled from battle in fear. These men who held you in high esteem will speak lightly of you now.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/35_bhayAdraNAduparat.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.35 The great car-warriors will think that thou hast withdrawn from the
-battle through fear; and thou wilt be lightly held by them who have
-thought much of thee.
+2.35 The great car-warriors will think that thou hast withdrawn from the battle through fear; and thou wilt be lightly held by them who have thought much of thee.
 
 </details>
 </div>
@@ -353,12 +339,7 @@ thought much of thee.
 2.35 भयात् from fear; रणात् from the battle; उपरतम् withdrawn; मंस्यन्ते
 will think; त्वाम् thee; महारथाः the great carwarriors; येषाम् of whom;
 च and; त्वम् thou; बहुमतः much thought of; भूत्वा having been; यास्यसि
-will receive; लाघवम् lightness.Commentary Duryodhana and others will
-certainly think that you have fled from the battle from fear of Karna
-and others; but not through compassion and reverence for elders and
-teachers. Duryodhana and others who have shown great esteem to you on
-account of your chivalry; bravery and other noble alities; will think
-very lightly of you and treat you with contempt.
+will receive; लाघवम् lightness.Commentary Duryodhana and others will certainly think that you have fled from the battle from fear of Karna and others; but not through compassion and reverence for elders and teachers. Duryodhana and others who have shown great esteem to you on account of your chivalry; bravery and other noble alities; will think very lightly of you and treat you with contempt.
 
 </details>
 </div>

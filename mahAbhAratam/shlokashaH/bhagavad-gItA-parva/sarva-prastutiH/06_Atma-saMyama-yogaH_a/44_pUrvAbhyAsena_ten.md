@@ -89,23 +89,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.43 - 6.44 There, in that existence, he regains the mental disposition
-for Yoga that he had in the previous birth. Like one awakened from
-sleep, he strives again from where he had left before attaining complete
-success. He strives so as not to be defeated by impediments. This person
-who has fallen away from Yoga is borne on towards Yoga alone by his
-previous practice, i.e., by the older practice with regard to Yoga. This
-power of Yoga is well known. Even a person, who has not engaged in Yoga
-but has only been desirous of knowing Yoga, i.e., has failed to follow
-it up, acries once again the same desire to practise Yoga. He then
-practises Yoga, of which the first stage is Karma Yoga, and transcends
-Sabda-brahman (or Brahman which is denotable by words). The
-Sabda-brahman is the Brahman capable of manifesting as gods, men, earth,
-sky, heaven etc., namely, Prakrti. The meaning is that having been
-liberated from the bonds of Prakrti, he attains the self which is
-incapable of being named by such words as gods, men etc., and which
-comprises solely of knowledge and beatitude. After thus describing the
-glory of Yoga the verse says:
+6.43 - 6.44 There, in that existence, he regains the mental disposition for Yoga that he had in the previous birth. Like one awakened from sleep, he strives again from where he had left before attaining complete success. He strives so as not to be defeated by impediments. This person who has fallen away from Yoga is borne on towards Yoga alone by his previous practice, i.e., by the older practice with regard to Yoga. This power of Yoga is well known. Even a person, who has not engaged in Yoga but has only been desirous of knowing Yoga, i.e., has failed to follow it up, acries once again the same desire to practise Yoga. He then practises Yoga, of which the first stage is Karma Yoga, and transcends Sabda-brahman (or Brahman which is denotable by words). The Sabda-brahman is the Brahman capable of manifesting as gods, men, earth,
+sky, heaven etc., namely, Prakrti. The meaning is that having been liberated from the bonds of Prakrti, he attains the self which is incapable of being named by such words as gods, men etc., and which comprises solely of knowledge and beatitude. After thus describing the glory of Yoga the verse says:
 
 </details>
 </div>
@@ -458,36 +443,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.44. Being not a master of himself, he is dragged only by that former
-practice (its mental impression); only a seeker of the knowledge of the
-Yoga passes over what strengthens the \[sacred\] text.
+6.44. Being not a master of himself, he is dragged only by that former practice (its mental impression); only a seeker of the knowledge of the Yoga passes over what strengthens the \[sacred\] text.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.44 For, by that very past practice, he is carried forward even in
-spite of himself! Even a seeker of Yoga transcends the result of the
-performance of Vedic rituals!
+6.44 For, by that very past practice, he is carried forward even in spite of himself! Even a seeker of Yoga transcends the result of the performance of Vedic rituals!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.44 Unconsciously he will return to the practices of his old life; so
-that he who tries to realise spiritual consciousness is certainly
-superior to one who only talks of it.
+6.44 Unconsciously he will return to the practices of his old life; so that he who tries to realise spiritual consciousness is certainly superior to one who only talks of it.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.44 By the power of his earlier practice, he is carried forward even
-against his will. Even though he is an enirer about Yoga, he transcends
-the Sabda-brahman i.e., Prakrti or matter.
+6.44 By the power of his earlier practice, he is carried forward even against his will. Even though he is an enirer about Yoga, he transcends the Sabda-brahman i.e., Prakrti or matter.
 
 </details>
 </div>
@@ -502,51 +479,9 @@ Even he who merely wishes to know Yoga goes beyond the Brahmic word.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/44_pUrvAbhyAsena_ten.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-6.44 पूर्वाभ्यासेन former practice; तेन by that; एव verily; ह्रियते is
-borne; हि indeed; अवशः helpless; अपि even; सः he; जिज्ञासुः he who
-wishes to know Yoga; अपि even; योगस्य of Yoga; शब्दब्रह्म wordBrahman;
-अतिवर्तते goes beyond.Commentary The man who fell from Yoga is carried
-to the goal which he intended to reach in his previous birth; by the
-force of the Samskaras of the practice of Yoga though he may not be
-conscious of them and even if he may not be willing to adopt the course
-of Yogic discipline on account of the force of some evil Karma. If he
-had not done any great evil action which could overwhelm his Yogic
-tendencies he will certainly continue his Yogic practices in this birth
-very vigorously through the force of the Yogic Samskaras created by his
-Yogic practices in his previous birth. If the force of the evil action
-is stronger; the Yogic tendencies will be overpowered or suppressed for
-some time. As soon as the fruits of the evil actions are exhausted; the
-force of the Yogic Samskaras will begin to manifest itself. He will
-start his Yogic practices vigorously and attain the final beatitude of
-life.Even an enirer in whom a desire for information about Yoga is
-kindled goes beyond the Brahmic word; i.e.; the Vedas. He rises superior
-to the performer of the Vedic rituals and ceremonies. He is beyond the
-entanglement of forms and ceremonies. He is not satisfied with mere
-ritualism. He thirsts for a satisfaction higher than that given by the
-sensual objects. He who simply wishes to know the nature of the
-principles of Yoga frees himself from the SabdaBrahma; i.e.; from the
-effects of the Vedic rituals and ceremonies. If this be the case of a
-simple enirer; how much more exalted should be the condition of a real
-practitioner or knower of Yoga or of one who is established in
-Nirvikalpa Samadhi He will be absolutely free from the effects of the
-Vedic rituals and ceremonies. He will enjoy the eternal bliss and the
-everlasting peace of the Eternal.An aspirant who is desirous of
-obtaining Moksha alone is not affected by the sin of nonperformance of
-action even if he renounces all the obligatory and optional or
-occasional duties. He goes beyond the word of Brahman (the scripture or
-the Vedas).When such is the case of an aspirant who is without any
-spiritual inclinations or Samskaras of the previous birth; how much more
-exalted will be the state of that student who has done Yogic practices
-in his previous birth; who has fallen from Yoga in his previous birth;
-and who has taken up Yoga in this birth; renouncing all the worldly
-activitiesImpelled by the strong desire for liberation he practises
-rigorous Sadhana in this birth. He is constrained; as it were; by the
-force of the good Samskaras of his previous birth to take to Yogic
-practices in spite of himself.In this verse the Lord lays stress on the
-fact that no effort in the practice of Yoga goes in vain. Even the
-smallest effor will have its effect sooner or later in this birth or
-another. Therefore there is no cause for disappointment even for the
-dullest type of spiritual aspirant.
+6.44 पूर्वाभ्यासेन former practice; तेन by that; एव verily; ह्रियते is borne; हि indeed; अवशः helpless; अपि even; सः he; जिज्ञासुः he who wishes to know Yoga; अपि even; योगस्य of Yoga; शब्दब्रह्म wordBrahman;
+अतिवर्तते goes beyond.Commentary The man who fell from Yoga is carried to the goal which he intended to reach in his previous birth; by the force of the Samskaras of the practice of Yoga though he may not be conscious of them and even if he may not be willing to adopt the course of Yogic discipline on account of the force of some evil Karma. If he had not done any great evil action which could overwhelm his Yogic tendencies he will certainly continue his Yogic practices in this birth very vigorously through the force of the Yogic Samskaras created by his Yogic practices in his previous birth. If the force of the evil action is stronger; the Yogic tendencies will be overpowered or suppressed for some time. As soon as the fruits of the evil actions are exhausted; the force of the Yogic Samskaras will begin to manifest itself. He will start his Yogic practices vigorously and attain the final beatitude of life.Even an enirer in whom a desire for information about Yoga is kindled goes beyond the Brahmic word; i.e.; the Vedas. He rises superior to the performer of the Vedic rituals and ceremonies. He is beyond the entanglement of forms and ceremonies. He is not satisfied with mere ritualism. He thirsts for a satisfaction higher than that given by the sensual objects. He who simply wishes to know the nature of the principles of Yoga frees himself from the SabdaBrahma; i.e.; from the effects of the Vedic rituals and ceremonies. If this be the case of a simple enirer; how much more exalted should be the condition of a real practitioner or knower of Yoga or of one who is established in Nirvikalpa Samadhi He will be absolutely free from the effects of the Vedic rituals and ceremonies. He will enjoy the eternal bliss and the everlasting peace of the Eternal.An aspirant who is desirous of obtaining Moksha alone is not affected by the sin of nonperformance of action even if he renounces all the obligatory and optional or occasional duties. He goes beyond the word of Brahman (the scripture or the Vedas).When such is the case of an aspirant who is without any spiritual inclinations or Samskaras of the previous birth; how much more exalted will be the state of that student who has done Yogic practices in his previous birth; who has fallen from Yoga in his previous birth;
+and who has taken up Yoga in this birth; renouncing all the worldly activitiesImpelled by the strong desire for liberation he practises rigorous Sadhana in this birth. He is constrained; as it were; by the force of the good Samskaras of his previous birth to take to Yogic practices in spite of himself.In this verse the Lord lays stress on the fact that no effort in the practice of Yoga goes in vain. Even the smallest effor will have its effect sooner or later in this birth or another. Therefore there is no cause for disappointment even for the dullest type of spiritual aspirant.
 
 </details>
 </div>

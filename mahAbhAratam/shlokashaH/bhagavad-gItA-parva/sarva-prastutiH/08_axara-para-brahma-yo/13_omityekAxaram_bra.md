@@ -159,23 +159,9 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 8.12 - 8.13 Subduing all the senses like ear etc., which constitute the
-'doorways' for sense impressions, i.e., withdrawing them from their
-natural functions; holding the mind in Me, the imperishable 'seated
-within the lotus of the heart'; practising 'steady abstraction of mind
-(Dharana) which is called concentration or Yoga,' i.e., abiding in Me
-alone in a steady manner; uttering the sacred 'syllable Om,' the brahman
-which connotes Me; remembering Me, who am expressed by the syllable Om;
-and fixing his 'life-breath within the head' - whosoever abandons the
-body and departs in this way reaches the highest state. He reaches the
-pure self freed from Prakrti, which is akin to My form. From that state
-there is no return. Such is the meaning. Later on Sri Krsna will
-elucidate: 'They describe that as the highest goal of the Atman, which
-is not destroyed when all things are destroyed, which is unmanifest and
-imperishable' (8.2021). Thus, the modes of contemplation on the Lord by
-the aspirants after prosperity and Kaivalya (Atmann-consciousness) have
-been taught according to the goal they lead to. Now, Sri Krsna teaches
-the way of meditation on the Lord by the Jnanin and the mode of
-attainment by him.
+'doorways' for sense impressions, i.e., withdrawing them from their natural functions; holding the mind in Me, the imperishable 'seated within the lotus of the heart'; practising 'steady abstraction of mind
+(Dharana) which is called concentration or Yoga,' i.e., abiding in Me alone in a steady manner; uttering the sacred 'syllable Om,' the brahman which connotes Me; remembering Me, who am expressed by the syllable Om;
+and fixing his 'life-breath within the head' - whosoever abandons the body and departs in this way reaches the highest state. He reaches the pure self freed from Prakrti, which is akin to My form. From that state there is no return. Such is the meaning. Later on Sri Krsna will elucidate: 'They describe that as the highest goal of the Atman, which is not destroyed when all things are destroyed, which is unmanifest and imperishable' (8.2021). Thus, the modes of contemplation on the Lord by the aspirants after prosperity and Kaivalya (Atmann-consciousness) have been taught according to the goal they lead to. Now, Sri Krsna teaches the way of meditation on the Lord by the Jnanin and the mode of attainment by him.
 
 </details>
 </div>
@@ -507,35 +493,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.13. Reciting the single-syllabled Om, the very Brahman; meditating on
-Me; whosoever travels well, casting away \[his\] body-surely he attains
-My State.
+8.13. Reciting the single-syllabled Om, the very Brahman; meditating on Me; whosoever travels well, casting away \[his\] body-surely he attains My State.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.13 He who departs by leaving the body while uttering the single
-syllable, viz Om, which is Brahman, and thinking of Me, he attains the
-supreme Goal.
+8.13 He who departs by leaving the body while uttering the single syllable, viz Om, which is Brahman, and thinking of Me, he attains the supreme Goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.13 Repeating Om, the Symbol of Eternity, holding Me always in
-remembrance, he who thus leaves his body and goes forth reaches the
-Spirit Supreme.
+8.13 Repeating Om, the Symbol of Eternity, holding Me always in remembrance, he who thus leaves his body and goes forth reaches the Spirit Supreme.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/13_omityekAxaram_bra.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.13 Uttering the one-syllabled Om the Brahman and remembering Me, he
-who departs, leaving the body, attains to the Supreme Goal.
+8.13 Uttering the one-syllabled Om the Brahman and remembering Me, he who departs, leaving the body, attains to the Supreme Goal.
 
 </details>
 </div>
@@ -545,11 +524,7 @@ who departs, leaving the body, attains to the Supreme Goal.
 8.13 Om; इति thus; एकाक्षरम् onesyllabled; ब्रह्म Brahman; व्याहरन्
 uttering; माम् Me; अनुस्मरन् remembering; यः who; प्रयाति departs;
 त्यजन् leaving; देहम् the body; सः he; याति attains; परमाम् supreme;
-गतिम् goal.Commentary Having controlled the thoughts the Yogi ascends by
-the Sushumna; the Nadi (subtle psychic nervechannel) which passes
-upwards from the heart. He fixes his whole Prana or lifreath in the
-crown of the head in the Brahmarandhra or the hole of Brahman. He utters
-the sacred monosyllable Om; meditates on Me and leaves the body.
+गतिम् goal.Commentary Having controlled the thoughts the Yogi ascends by the Sushumna; the Nadi (subtle psychic nervechannel) which passes upwards from the heart. He fixes his whole Prana or lifreath in the crown of the head in the Brahmarandhra or the hole of Brahman. He utters the sacred monosyllable Om; meditates on Me and leaves the body.
 
 </details>
 </div>

@@ -74,13 +74,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 3.5 In this world, no man can rest without doing work; for every person,
-even though he may have determined, 'I will not do anything,' is caused
-to act, i.e., is compelled to act according to the Gunas born of
-Prakrti. The Gunas are Sattva, Rajas and Tamas which increase in
-accordance with his old Karma. Conseently, Jnana Yoga can be attained
-only by means of a purified inner organ after annulling the old
-accumulation of sins by means of Karma Yoga of the aforesaid
-characteristics and bringing Sattva and other Gunas under control.
+even though he may have determined, 'I will not do anything,' is caused to act, i.e., is compelled to act according to the Gunas born of Prakrti. The Gunas are Sattva, Rajas and Tamas which increase in accordance with his old Karma. Conseently, Jnana Yoga can be attained only by means of a purified inner organ after annulling the old accumulation of sins by means of Karma Yoga of the aforesaid characteristics and bringing Sattva and other Gunas under control.
 Otherwise, one who engages oneself in Jnana Yoga becomes a hypocrite:
 
 </details>
@@ -422,9 +416,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/05_na_hi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.5. For, no one can ever remain, even for a moment, as a non-performer
-of action; because everyone, being not master of himself, is forced to
-perform action by the Strands born of the Prakrti (Material cause)
+3.5. For, no one can ever remain, even for a moment, as a non-performer of action; because everyone, being not master of himself, is forced to perform action by the Strands born of the Prakrti (Material cause)
 
 </details>
 </div>
@@ -439,25 +431,21 @@ For all are made to work under compulsion by the gunas born of Nature.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/05_na_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.5 He cannot even for a moment remain really inactive, for the
-Qualities of Nature will compel him to act whether he will or no.
+3.5 He cannot even for a moment remain really inactive, for the Qualities of Nature will compel him to act whether he will or no.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/05_na_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.5 No man can, even for a moment, rest without doing work; for everyone
-is caused to act, in spite of himself, by the Gunas born of Nature.
+3.5 No man can, even for a moment, rest without doing work; for everyone is caused to act, in spite of himself, by the Gunas born of Nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/05_na_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.5 Verily none can ever remain for even a moment without performing
-action; for everyone is made to act helplessly indeed by the alities
-born of Nature.
+3.5 Verily none can ever remain for even a moment without performing action; for everyone is made to act helplessly indeed by the alities born of Nature.
 
 </details>
 </div>
@@ -465,17 +453,9 @@ born of Nature.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.5 नहि not; कश्चित् anyone; क्षणम् a moment; अपि even; जातु verily;
-तिष्ठति remains; अकर्मकृत् without performing action; कार्यते is made to
-do; हि for; अवशः helpless; कर्म action; सर्वः all; प्रकृतिजैः born of
-Prakriti; गुणैः by the alities.Commentary The Gunas (alities of Nature)
-are three; viz.; Sattva; Rajas and Tamas. Sattva is harmony or light or
-purity Rajas is passion or motion Tamas is inertia or darkness. Sattvic
-actions help a man to attain to Moksha. Rajasic and Tamasic actions bind
-a man to Samsara.These alities cannot affect a man who has knowledge of
-the Self. He has crossed over these alities. He has become a Gunatita
-(one who has transcended the alities of Nature). The ignorant man who
-has no knowledge of the Self and who is swayed by Avidya or nescience is
-driven helplessly to action by the Gunas. (Cf.IV.16;XVIII.11).
+तिष्ठति remains; अकर्मकृत् without performing action; कार्यते is made to do; हि for; अवशः helpless; कर्म action; सर्वः all; प्रकृतिजैः born of Prakriti; गुणैः by the alities.Commentary The Gunas (alities of Nature)
+are three; viz.; Sattva; Rajas and Tamas. Sattva is harmony or light or purity Rajas is passion or motion Tamas is inertia or darkness. Sattvic actions help a man to attain to Moksha. Rajasic and Tamasic actions bind a man to Samsara.These alities cannot affect a man who has knowledge of the Self. He has crossed over these alities. He has become a Gunatita
+(one who has transcended the alities of Nature). The ignorant man who has no knowledge of the Self and who is swayed by Avidya or nescience is driven helplessly to action by the Gunas. (Cf.IV.16;XVIII.11).
 
 </details>
 </div>

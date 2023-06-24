@@ -462,18 +462,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.4. The childish, and not the wise, proclaim the paths of knowledge and
-the Yoga as different. He, who has properly resorted to even one \[of
-these two\], gets the fruit of both.
+5.4. The childish, and not the wise, proclaim the paths of knowledge and the Yoga as different. He, who has properly resorted to even one \[of these two\], gets the fruit of both.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.4 The fools, not the learned ones, speak of Sankhya (the path of
-Knowledge) and (Karma-) yoga as different. Any one who properly resorts
-to even one (of them) gets the result of both.
+5.4 The fools, not the learned ones, speak of Sankhya (the path of Knowledge) and (Karma-) yoga as different. Any one who properly resorts to even one (of them) gets the result of both.
 
 </details>
 </div>
@@ -489,36 +485,24 @@ not the wise. If any man knows one, he enjoys the fruit of both.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 5.4 Children, not the learned, speak of Sankhya (Jnana Yoga) and Yoga
-(Karma Yoga) as distinct; he who is firmly set in one, attans the fruit
-of both.
+(Karma Yoga) as distinct; he who is firmly set in one, attans the fruit of both.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.4 Children, not the wise, speak of knowledge and the Yoga of action or
-the performance of action as though they are distinct and different; he
-who is truly established in one obtains the fruits of both.
+5.4 Children, not the wise, speak of knowledge and the Yoga of action or the performance of action as though they are distinct and different; he who is truly established in one obtains the fruits of both.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/04_sAnkhyayogau_pRth.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-5.4 साङ्ख्ययोगौ Sankhya (knowledge) and Yoga (Yoga of action or
-performance of action); पृथक् distinct; बालाः children; प्रवदन्ति speak;
+5.4 साङ्ख्ययोगौ Sankhya (knowledge) and Yoga (Yoga of action or performance of action); पृथक् distinct; बालाः children; प्रवदन्ति speak;
 न not; पण्डिताः the wise; एकम् one; अपि even; आस्थितः established in;
-सम्यक् truly; उभयोः of both; विन्दते obtains; फलम् fruit.Commentary
-Children the ignorant people who have no knowledge of the Self; and who
-have only a theoretical knowledge of the scriptures.Children or ignorant
-people only say that knowledge and the performance of action are
-different and produce distinct and opposite results. But the wise who
-have the knowledge of the Self say that they produce the same result
-only; viz.; Moksha or liberation. He who is duly established in,one; he
-who truly lives in one; Sankhya or Yoga; obtains the fruits of both.
-Therefore there is no diversity in the result or the fruit. This is the
-gist of this verse. (Cf.VI.2)
+सम्यक् truly; उभयोः of both; विन्दते obtains; फलम् fruit.Commentary Children the ignorant people who have no knowledge of the Self; and who have only a theoretical knowledge of the scriptures.Children or ignorant people only say that knowledge and the performance of action are different and produce distinct and opposite results. But the wise who have the knowledge of the Self say that they produce the same result only; viz.; Moksha or liberation. He who is duly established in,one; he who truly lives in one; Sankhya or Yoga; obtains the fruits of both.
+Therefore there is no diversity in the result or the fruit. This is the gist of this verse. (Cf.VI.2)
 
 </details>
 </div>

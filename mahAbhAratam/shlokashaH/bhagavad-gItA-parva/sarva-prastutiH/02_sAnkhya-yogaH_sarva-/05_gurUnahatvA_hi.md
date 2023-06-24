@@ -84,13 +84,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.4 - 2.5 Arjuna said Again Arjuna, being moved by love, compassion and
-fear, mistaking unrighteousness for righteousness, and not
-understanding, i.e., not knowing the beneficial words of Sri Krsna, said
-as follows: 'How can I slay Bhisma, Drona and others worthy or
-reverence; After slaying those elders, though they are intensely
-attached to enjoyments, how can I enjoy those very pleasures which are
-now being enjoyed by them; For, it will be mixed with their blood.
+2.4 - 2.5 Arjuna said Again Arjuna, being moved by love, compassion and fear, mistaking unrighteousness for righteousness, and not understanding, i.e., not knowing the beneficial words of Sri Krsna, said as follows: 'How can I slay Bhisma, Drona and others worthy or reverence; After slaying those elders, though they are intensely attached to enjoyments, how can I enjoy those very pleasures which are now being enjoyed by them; For, it will be mixed with their blood.
 
 </details>
 </div>
@@ -463,48 +457,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.5. It is good indeed even to go about begging in this world without
-killing the elders of great dignity; but with greed for wealth, I would
-not enjoy, by killing my elders, the blood-stained objects of pleasures.
+2.5. It is good indeed even to go about begging in this world without killing the elders of great dignity; but with greed for wealth, I would not enjoy, by killing my elders, the blood-stained objects of pleasures.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.5 Rather than killing the noble-minded elders, it is better in this
-world to live even on alms. But by killing the elders we shall only be
-enjoying here the pleasures of wealth and desireable things drenched in
-blood.
+2.5 Rather than killing the noble-minded elders, it is better in this world to live even on alms. But by killing the elders we shall only be enjoying here the pleasures of wealth and desireable things drenched in blood.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.5 Rather would I content myself with a beggar's crust that kill these
-teachers of mine, these precious noble souls! To slay these masters who
-are my benefactors would be to stain the sweetness of life's pleasures
-with their blood.
+2.5 Rather would I content myself with a beggar's crust that kill these teachers of mine, these precious noble souls! To slay these masters who are my benefactors would be to stain the sweetness of life's pleasures with their blood.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.5 It is better even to live on a beggar's fare in this world than to
-slay these most venerable teachers. If I should slay my teachers, though
-degraded they be by desire for wealth, I would be enjoying only
-blood-stained pleasures here.
+2.5 It is better even to live on a beggar's fare in this world than to slay these most venerable teachers. If I should slay my teachers, though degraded they be by desire for wealth, I would be enjoying only blood-stained pleasures here.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/05_gurUnahatvA_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.5 Better it is, indeed, in this world to accept alms than to slay the
-most noble teachers. But if I kill them, even in this world all my
-enjoyments of wealth and fulfilled desires will be stained with (their)
+2.5 Better it is, indeed, in this world to accept alms than to slay the most noble teachers. But if I kill them, even in this world all my enjoyments of wealth and fulfilled desires will be stained with (their)
 blood.
 
 </details>
@@ -516,8 +497,7 @@ blood.
 महानुभावान् most noble; श्रेयः better; भोक्तुम् to eat; भैक्ष्यम् alms;
 अपि even; इह here; लोके in the world; हत्वा having slain; अर्थकामान्
 desirous of wealth; तु indeed; गुरून् Gurus; इह here; एव also; भुञ्जीय
-enjoy; भोगान् enjoyments; रुधिरप्रदिग्धान् stained with blood.No
-commentary.
+enjoy; भोगान् enjoyments; रुधिरप्रदिग्धान् stained with blood.No commentary.
 
 </details>
 </div>

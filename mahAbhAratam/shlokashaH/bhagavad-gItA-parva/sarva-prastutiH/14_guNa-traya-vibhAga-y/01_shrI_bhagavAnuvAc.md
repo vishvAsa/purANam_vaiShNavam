@@ -79,15 +79,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.1 The Lord said I shall declare again another kind of knowledge which
-is distinct from what was taught earlier concerning Gunas such as
-Sattva, falling within the sphere of Prakrti and Purusa. This knowledge
-going to be revealed is the best of all forms of knowledge concerning
-the Prakrti and the self. Having gained this knowledge, all sages,
-namely, those given to meditation, have attained perfection, beyond this
-world, the sphere of Samsara, having attained the essential and pure
-form of the self. He further extols this knowledge, distinguishing it by
-its fruits:
+14.1 The Lord said I shall declare again another kind of knowledge which is distinct from what was taught earlier concerning Gunas such as Sattva, falling within the sphere of Prakrti and Purusa. This knowledge going to be revealed is the best of all forms of knowledge concerning the Prakrti and the self. Having gained this knowledge, all sages,
+namely, those given to meditation, have attained perfection, beyond this world, the sphere of Samsara, having attained the essential and pure form of the self. He further extols this knowledge, distinguishing it by its fruits:
 
 </details>
 </div>
@@ -436,7 +429,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।14.1।। श्री भगवान् ने कहा -- समस्त ज्ञानों में उत्तम परम ज्ञान को मैं
-पुनः कहूंगा, जिसको जानकर सभी मुनिजन इस (लोक) से जाकर (इस जीवनोपरान्त)
+पुन: कहूंगा, जिसको जानकर सभी मुनिजन इस (लोक) से जाकर (इस जीवनोपरान्त)
 परम सिद्धि को प्राप्त हुए हैं।।
 
 </details>
@@ -500,9 +493,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.1. The Bhagavat said Further, once again I shall explain the supreme
-knowledge, the best among the knowledges, by knowing which all the seers
-have gone from here to the Supreme Success.
+14.1. The Bhagavat said Further, once again I shall explain the supreme knowledge, the best among the knowledges, by knowing which all the seers have gone from here to the Supreme Success.
 
 </details>
 </div>
@@ -510,35 +501,28 @@ have gone from here to the Supreme Success.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 14.1 The Blessed Lord said I shall speak again of the supreme Knowledge,
-the best of all knowledges, by realizing which all the contemplatives
-reached the highest Perfection from here.
+the best of all knowledges, by realizing which all the contemplatives reached the highest Perfection from here.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.1 "Lord Shri Krishna continued: Now I will reveal unto the Wisdom
-which is beyond knowledge, by attaining which the sages have reached
-Perfection.
+14.1 "Lord Shri Krishna continued: Now I will reveal unto the Wisdom which is beyond knowledge, by attaining which the sages have reached Perfection.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.1 The Lord said I shall declare again another kind of knowledge: It
-is the best of all forms of knowledge, by knowing which all the sages
-have attained the state of perfection beyond this world.
+14.1 The Lord said I shall declare again another kind of knowledge: It is the best of all forms of knowledge, by knowing which all the sages have attained the state of perfection beyond this world.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.1 The Blessed Lord said I will again declare (to thee) that supreme
-knowledge, the best of all knowledge, having known which all the sages
-have gone to the supreme perfection after this life.
+14.1 The Blessed Lord said I will again declare (to thee) that supreme knowledge, the best of all knowledge, having known which all the sages have gone to the supreme perfection after this life.
 
 </details>
 </div>
@@ -550,24 +534,8 @@ have gone to the supreme perfection after this life.
 14.1 परम् supreme; भूयः again; प्रवक्ष्यामि (I) will declare; ज्ञानानाम्
 of all knowledge; ज्ञानम् knowledge; उत्तमम् the best; यत् which;
 ज्ञात्वा having known; मुनयः the sages; सर्वे all; पराम् supreme;
-सिद्धिम् to perfection; इतः after this life; गताः gone.Commentary
-Further analysis of the field is made in this chapter.In chapter XIII;
-verse 21; it has been stated that attachment to the alities is the cause
-of Samsara or births in good and evil wombs. In this chapter the Lord
-gives answers to the estions What are the alities of Nature (Gunas) How
-do they bind a man What are the characteristics of these alities How do
-they operate How can one obtain freedom from them What are the
-characteristics of a liberated soulAll knowledge has no reference to the
-knowledge described in chapter XIII; verse 7 to 10; but it refers to
-that kind of knowledge which concerns sacrifices. That kind of knowledge
-which relates to sacrifices cannot give liberation. But the knowledge
-which is going to be imparted in this discourse will certainly lead to
-emancipation. The Lord eulogises this knowledge by the epithets supreme
-and the best in order to create great interest in Arjuna and other
-spiritual aspirants.Having learnt this supreme knowledge; all the sages
-who practised Manana or reflection (Munis) have attained perfection
-after being freed from bondage to the body.Itah After this life after
-being freed from this bondage to the body.
+सिद्धिम् to perfection; इतः after this life; गताः gone.Commentary Further analysis of the field is made in this chapter.In chapter XIII;
+verse 21; it has been stated that attachment to the alities is the cause of Samsara or births in good and evil wombs. In this chapter the Lord gives answers to the estions What are the alities of Nature (Gunas) How do they bind a man What are the characteristics of these alities How do they operate How can one obtain freedom from them What are the characteristics of a liberated soulAll knowledge has no reference to the knowledge described in chapter XIII; verse 7 to 10; but it refers to that kind of knowledge which concerns sacrifices. That kind of knowledge which relates to sacrifices cannot give liberation. But the knowledge which is going to be imparted in this discourse will certainly lead to emancipation. The Lord eulogises this knowledge by the epithets supreme and the best in order to create great interest in Arjuna and other spiritual aspirants.Having learnt this supreme knowledge; all the sages who practised Manana or reflection (Munis) have attained perfection after being freed from bondage to the body.Itah After this life after being freed from this bondage to the body.
 
 </details>
 </div>

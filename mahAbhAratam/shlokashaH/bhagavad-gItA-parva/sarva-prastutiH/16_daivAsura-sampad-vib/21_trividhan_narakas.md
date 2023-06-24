@@ -61,12 +61,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.21 Those three which constitute the 'gateway of this hell' in the
-shape of demoniac nature, and are destructive of the self (Atman) - are
-known as desire, wrath and greed. The nature of these has already been
-explained. 'Gateway' (Dvara) means the path, the cause. Therefore, one
-should renounce these three. Therefore, since they constitute the cause
-of the extremely dreadful Naraka, one should wholly renounce this triad
+16.21 Those three which constitute the 'gateway of this hell' in the shape of demoniac nature, and are destructive of the self (Atman) - are known as desire, wrath and greed. The nature of these has already been explained. 'Gateway' (Dvara) means the path, the cause. Therefore, one should renounce these three. Therefore, since they constitute the cause of the extremely dreadful Naraka, one should wholly renounce this triad
 - desire, wrath and greed.
 
 </details>
@@ -347,26 +342,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.21. To the hell, three-fold is the gate that ruins the Self : \[They
-are\] desire, anger as well as greed. Hence one should avoid these
-three.
+16.21. To the hell, three-fold is the gate that ruins the Self : \[They are\] desire, anger as well as greed. Hence one should avoid these three.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.21 This door of hell, which is the destroyer of the soul, is of three
-kinds-passion, anger and also greed. Therefore one should forsake these
-three.
+16.21 This door of hell, which is the destroyer of the soul, is of three kinds-passion, anger and also greed. Therefore one should forsake these three.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/21_trividhan_narakas.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.21 The gates of hell are three: lust, wrath and avarice. They destroy
-the Self. Avoid them.
+16.21 The gates of hell are three: lust, wrath and avarice. They destroy the Self. Avoid them.
 
 </details>
 </div>
@@ -391,21 +381,9 @@ anger and greed; therefore one should abandon these three.
 
 16.21 त्रिविधम् triple; नरकस्य of hell; इदम् this; द्वारम् gate; नाशनम्
 destructive; आत्मनः of the self; कामः lust; क्रोधः anger; तथा also; लोभः
-greed; तस्मात् therefore; एतत् this; त्रयम् three; त्यजेत् (one) should
-abandon.Commentary Lust; anger and greed; -- these highway robbers will
-cause a man to fall into the dark abyss of hell; misery or grief. These
-are the three fountainheads of misery. These three constitute the
-gateway leading to the lowest of hells. These are the enemies of peace;
-devotion and knowledge. When these evil modifications of the mind arise
-in it; man loses his balance or poise and discrimination and commits
-various evil actions.Lust; anger and greed denote selfblindness and
-ignorance; for there are no Vasanas; wants; anger; or greed in Brahman
-or the pure immortal Self.Narakasya dvaram The gate to hell The gate
-leading to hell. The self is destroyed by merely entering at the gate;
-i.e.; it is not fit to do any right exertion to attain the goal of
-life.As this gate causes selfdestruction; let everyone renounce these
-three. (Cf.III.47)In the next verse the man who has abandoned these
-three evils is highyl eulogised.
+greed; तस्मात् therefore; एतत् this; त्रयम् three; त्यजेत् (one) should abandon.Commentary Lust; anger and greed; -- these highway robbers will cause a man to fall into the dark abyss of hell; misery or grief. These are the three fountainheads of misery. These three constitute the gateway leading to the lowest of hells. These are the enemies of peace;
+devotion and knowledge. When these evil modifications of the mind arise in it; man loses his balance or poise and discrimination and commits various evil actions.Lust; anger and greed denote selfblindness and ignorance; for there are no Vasanas; wants; anger; or greed in Brahman or the pure immortal Self.Narakasya dvaram The gate to hell The gate leading to hell. The self is destroyed by merely entering at the gate;
+i.e.; it is not fit to do any right exertion to attain the goal of life.As this gate causes selfdestruction; let everyone renounce these three. (Cf.III.47)In the next verse the man who has abandoned these three evils is highyl eulogised.
 
 </details>
 </div>

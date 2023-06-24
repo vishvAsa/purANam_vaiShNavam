@@ -54,8 +54,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 18.68 Whose expounds or elucidates this supreme mystery to My devotees,
-he, aciring supreme devotion towards Me, will reach Me only. There is no
-doubt about this.
+he, aciring supreme devotion towards Me, will reach Me only. There is no doubt about this.
 
 </details>
 </div>
@@ -311,7 +310,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।18.68।। जो पुरुष मुझसे परम प्रेम (परा भक्ति) करके इस परम गुह्य ज्ञान
-का उपदेश मेरे भक्तों को देता है, वह निःसन्देह मुझे ही प्राप्त होता है।।
+का उपदेश मेरे भक्तों को देता है, वह नि:सन्देह मुझे ही प्राप्त होता है।।
 
 </details>
 </div>
@@ -378,57 +377,44 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.68. Whosoever shall declare this highest secret to My devotees, he,
-cultivating an utmost devotion towards Me, and not entertaining any
-doubt, shall reach Me.
+cultivating an utmost devotion towards Me, and not entertaining any doubt, shall reach Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.68 He who, entertaining supreme devotion to Me, will speak of this
-highest secret, to My devotees will without doubt reach Me alone.
+18.68 He who, entertaining supreme devotion to Me, will speak of this highest secret, to My devotees will without doubt reach Me alone.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.68 But he who teaches this great secret to My devotees, his is the
-highest devotion, and verily he shall come unto Me.
+18.68 But he who teaches this great secret to My devotees, his is the highest devotion, and verily he shall come unto Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.68 He who proclaims among My devotees this supreme mystery, shall
-come to Me, aciring supreme devotion towards Me. There is no doubt about
-this.
+18.68 He who proclaims among My devotees this supreme mystery, shall come to Me, aciring supreme devotion towards Me. There is no doubt about this.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.68 He who with supreme devotion to Me will teach this supreme secret
-to My devotees, shall doubtlessly come to Me.
+18.68 He who with supreme devotion to Me will teach this supreme secret to My devotees, shall doubtlessly come to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/68_ya_imam.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.68 यः who; इमम् this; परमम् supreme; गुह्यम् secret; मद्भक्तेषु in My
-devotees; अभिधास्यति shall declare; भक्तिम् devotion; मयि in Me; पराम्
+18.68 यः who; इमम् this; परमम् supreme; गुह्यम् secret; मद्भक्तेषु in My devotees; अभिधास्यति shall declare; भक्तिम् devotion; मयि in Me; पराम्
 supreme; कृत्वा having done; माम् to Me; एव even; एष्यति shall come;
-असंशयः doubtless.Commentary This supreme secret The teachings of the
-Gita as taught above in the form of a dialogue between Lord Krishna and
-Arjuna. Why is it called a supreme secret Because it helps one to attain
-immortality or freedom from the whell of birth and death.He alone; who
-has devotion; is alified to receive the teachings of the Gita.Teach with
-the faith that he is thus doing service to the Lord; the Supreme
-Teacher.Doubtless may also mean freedom from doubts.
+असंशयः doubtless.Commentary This supreme secret The teachings of the Gita as taught above in the form of a dialogue between Lord Krishna and Arjuna. Why is it called a supreme secret Because it helps one to attain immortality or freedom from the whell of birth and death.He alone; who has devotion; is alified to receive the teachings of the Gita.Teach with the faith that he is thus doing service to the Lord; the Supreme Teacher.Doubtless may also mean freedom from doubts.
 
 </details>
 </div>

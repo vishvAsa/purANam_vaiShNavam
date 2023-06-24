@@ -52,11 +52,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/28_AyudhAnAmahaM_vaj.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.26 - 10.29 Of trees I am Asvattha which is worthy of worship. Of
-celestial seers I am Narada. Kamadhuk is the divine cow. I am Kandarpa,
-the cause of progeny. Sarpas are single-headed snakes while Nagas are
-many-headed snakes. Aatic creatures are known as Yadamsi. Of them I am
-Varuna. Of subdures, I am Yama, the son of the sun-god.
+10.26 - 10.29 Of trees I am Asvattha which is worthy of worship. Of celestial seers I am Narada. Kamadhuk is the divine cow. I am Kandarpa,
+the cause of progeny. Sarpas are single-headed snakes while Nagas are many-headed snakes. Aatic creatures are known as Yadamsi. Of them I am Varuna. Of subdures, I am Yama, the son of the sun-god.
 
 </details>
 </div>
@@ -295,43 +292,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/28_AyudhAnAmahaM_vaj.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.28. Of the weapons, I am the Vajra \[of Indra\]; of the cows, I am
-the Wish-fullfilling Cow \[of the heaven\]; of the progenitors, I am
-Kandarpa (the god-of-love); of the serpents, I am Vasuki.
+10.28. Of the weapons, I am the Vajra \[of Indra\]; of the cows, I am the Wish-fullfilling Cow \[of the heaven\]; of the progenitors, I am Kandarpa (the god-of-love); of the serpents, I am Vasuki.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/28_AyudhAnAmahaM_vaj.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.28 Among weapons I am the thunderbolt; among cows I am kamadhenu. I
-am Kandarpa, the Progenitor, and among serpents I am Vasuki.
+10.28 Among weapons I am the thunderbolt; among cows I am kamadhenu. I am Kandarpa, the Progenitor, and among serpents I am Vasuki.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/28_AyudhAnAmahaM_vaj.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.28 I am the Thunderbolt among weapons; of cows I am the Cow of
-Plenty, I am Passion in those who procreate, and I am the Cobra among
-serpents.
+10.28 I am the Thunderbolt among weapons; of cows I am the Cow of Plenty, I am Passion in those who procreate, and I am the Cobra among serpents.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/28_AyudhAnAmahaM_vaj.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.28 Of weapons, I am Vajra (thnderbolt). Of cows, I am Kamadhuk. I am
-Kandarpa, the cause of progeny. Of serpents, I am Vasuki.
+10.28 Of weapons, I am Vajra (thnderbolt). Of cows, I am Kamadhuk. I am Kandarpa, the cause of progeny. Of serpents, I am Vasuki.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/28_AyudhAnAmahaM_vaj.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.28 Among weapons I am the thunderbolt; among cows I am the
-wish-fulfilling cow called Kamadhenu; I am the progenitor, the god of
-love; among serpents I am Vasuki.
+10.28 Among weapons I am the thunderbolt; among cows I am the wish-fulfilling cow called Kamadhenu; I am the progenitor, the god of love; among serpents I am Vasuki.
 
 </details>
 </div>
@@ -339,18 +328,10 @@ love; among serpents I am Vasuki.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 10.28 आयुधानम् among weapons; अहम् I; वज्रम् the thunderbolt; धेनूनाम्
-among cows; अस्मि (I) am; कामधुक् kamadhenu; the heavenly cow which
-yiedls all desires; प्रजनः the progenitro; च and; अस्मि (I) am; कन्दर्पः
+among cows; अस्मि (I) am; कामधुक् kamadhenu; the heavenly cow which yiedls all desires; प्रजनः the progenitro; च and; अस्मि (I) am; कन्दर्पः
 Kandarpa (Kamadeva); सर्पाणाम् among serpents; अस्मि (I) am; वासुकिः
-Vasuki.Commentary Vajram the thunderbolt weapon made of the bones of
-Dadhichi an implement of warfare which can only be handled by Indra who
-has fininshed a hundred sacrifices.Kamadhuk The cow Kamadhenu of the
-great sage Vasishtha which yielded all the desired objects; also born of
-the ocean of milk.Kandarpa Cupid.Vasuki The Lord of hoodless or ordinary
-serpents.Sarpa (serpent) has only one head. Vasuki is yellowcoloured.
-Nagas have many heads. Ananta is firecoloured.Sridhara says that the
-Sarpa is poisonous and the Naga is nonpoisonous. Sri Ramanuja says that
-Sarpa has only one head and Naga has many heads.
+Vasuki.Commentary Vajram the thunderbolt weapon made of the bones of Dadhichi an implement of warfare which can only be handled by Indra who has fininshed a hundred sacrifices.Kamadhuk The cow Kamadhenu of the great sage Vasishtha which yielded all the desired objects; also born of the ocean of milk.Kandarpa Cupid.Vasuki The Lord of hoodless or ordinary serpents.Sarpa (serpent) has only one head. Vasuki is yellowcoloured.
+Nagas have many heads. Ananta is firecoloured.Sridhara says that the Sarpa is poisonous and the Naga is nonpoisonous. Sri Ramanuja says that Sarpa has only one head and Naga has many heads.
 
 </details>
 </div>

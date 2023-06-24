@@ -101,29 +101,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.26 Whoever offers to Me with true devotion a leaf, or a flower, or a
-fruit or water, which can be easily obtained, I accept it. That true
-devotion is love of such an exalted kind that the devotee cannot sustain
-himself without making such offering; the devotee has no extraneous
-purpose other than serving Me. Such an offering coming from a heart
-rendered pure with that singleness of purpose of considering the
-offering as an end in itself - I, the Lord of the universe, whose sport
-consists in the origin, maintenance and dissolution of the entire world,
-who has all desires fulfilled, whose will is always accomplished, whose
-auspicious attributes are unlimited and unsurpassed, who is enjoying the
-infinite and unsurpassed bliss that is in Myself - I accept and enjoy
-the aforesaid type of offering, as if I was obtaining a desired object
-far beyond the range of My hopes. Thus it is declared in the
-Moksa-dharma: "Whatever acts are consecrated by those whose intellects
-are concentrated in single-pointed devotion, all these, the Lord Himself
-accepts on His head." (Ma. Bha. Sa., 340.64) Sri Krsna proceeds to say:
-As there is this distinctive excellence, incomprehensible by speech and
-mind in respect of these great men called the Jnanins, you also,
-following them, become a Jnanin, i.e., have your self and all your
-belongings 'bent down,' i.e., dedicated, under the weight of Bhakti as
-prescribed earlier. Be always singing My praises, doing My services,
-worshipping Me and prostrating before Me; also perform your secular and
-Vedic duties, periodical and occasional, in this manner.'
+9.26 Whoever offers to Me with true devotion a leaf, or a flower, or a fruit or water, which can be easily obtained, I accept it. That true devotion is love of such an exalted kind that the devotee cannot sustain himself without making such offering; the devotee has no extraneous purpose other than serving Me. Such an offering coming from a heart rendered pure with that singleness of purpose of considering the offering as an end in itself - I, the Lord of the universe, whose sport consists in the origin, maintenance and dissolution of the entire world,
+who has all desires fulfilled, whose will is always accomplished, whose auspicious attributes are unlimited and unsurpassed, who is enjoying the infinite and unsurpassed bliss that is in Myself - I accept and enjoy the aforesaid type of offering, as if I was obtaining a desired object far beyond the range of My hopes. Thus it is declared in the Moksa-dharma: "Whatever acts are consecrated by those whose intellects are concentrated in single-pointed devotion, all these, the Lord Himself accepts on His head." (Ma. Bha. Sa., 340.64) Sri Krsna proceeds to say:
+As there is this distinctive excellence, incomprehensible by speech and mind in respect of these great men called the Jnanins, you also,
+following them, become a Jnanin, i.e., have your self and all your belongings 'bent down,' i.e., dedicated, under the weight of Bhakti as prescribed earlier. Be always singing My praises, doing My services,
+worshipping Me and prostrating before Me; also perform your secular and Vedic duties, periodical and occasional, in this manner.'
 
 </details>
 </div>
@@ -515,43 +497,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 9.26. Whosoever with devotion offers Me a leaf, a flower, a fruit, or
-\[a little\] water, I taste that offered with devotion by one with
-well-controlled self (mind).
+\[a little\] water, I taste that offered with devotion by one with well-controlled self (mind).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.26 Whoever offers Me with devotion-a leaf, a flower, a fruit, or
-water, I accept that (gift) of the pure-hearted man which has been
-devotionally presented.
+9.26 Whoever offers Me with devotion-a leaf, a flower, a fruit, or water, I accept that (gift) of the pure-hearted man which has been devotionally presented.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.26 Whatever a man offers to Me, whether it be a leaf, or a flower, or
-fruit, or water, I accept it, for it is offered with devotion and purity
-of mind.
+9.26 Whatever a man offers to Me, whether it be a leaf, or a flower, or fruit, or water, I accept it, for it is offered with devotion and purity of mind.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.26 Whoever offers Me with true devotion a leaf, a flower, a fruit or
-some water, I accept this offering made with devotion by him who is pure
-of heart.
+9.26 Whoever offers Me with true devotion a leaf, a flower, a fruit or some water, I accept this offering made with devotion by him who is pure of heart.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/26_patram_puShpam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.26 Whoever offers Me with devotion a leaf, a flower, a fruit or a
-little water that, so offered devotedly by the pure-minded, I accept.
+9.26 Whoever offers Me with devotion a leaf, a flower, a fruit or a little water that, so offered devotedly by the pure-minded, I accept.
 
 </details>
 </div>
@@ -561,22 +535,7 @@ little water that, so offered devotedly by the pure-minded, I accept.
 9.26 पत्रम् a leaf; पुष्पम् a flower; फलम् a fruit; तोयम् water; यः who;
 मे to Me; भक्त्या with devotion; प्रयच्छति,offers; तत् that; अहम् I;
 भक्त्युपहृतम् offered with devotion; अश्नामि eat (accept); प्रयतात्मनः
-of the pureminded.Commentary A gift; however small; is accepted by the
-Lord; when it is offered with profound faith. The Lord is ite satisfied
-even with a leaf; a flower; a fruit or water; when it is offered with
-singleminded devotion and pure heart. Was He not satisfied with the
-little parched rice from the bundle of Sudama and the small berries
-offered by Sabari You need not build a golden temple for Him. Build a
-golden temple in your heart. Enthrone Him there. He wants only your
-devoted heart. But it is difficult to please Indra. You wll have to
-offer valuable (material) objects to him.A leaf; a flower of a fruit are
-merely symbols. The true means of attaining the Lord is pure unflinching
-devotion. All the objects of the state belong to the king. If the
-servants of the state offer with devotion some objects to the king he is
-highly satisfied. Even so all the objects of the whole world belong to
-Him. Yet; He is highly pleased if you offer even a little thing with
-devotion.Asnami; literally means eat. The indicative meaning or Lakshana
-Vritti is accept.
+of the pureminded.Commentary A gift; however small; is accepted by the Lord; when it is offered with profound faith. The Lord is ite satisfied even with a leaf; a flower; a fruit or water; when it is offered with singleminded devotion and pure heart. Was He not satisfied with the little parched rice from the bundle of Sudama and the small berries offered by Sabari You need not build a golden temple for Him. Build a golden temple in your heart. Enthrone Him there. He wants only your devoted heart. But it is difficult to please Indra. You wll have to offer valuable (material) objects to him.A leaf; a flower of a fruit are merely symbols. The true means of attaining the Lord is pure unflinching devotion. All the objects of the state belong to the king. If the servants of the state offer with devotion some objects to the king he is highly satisfied. Even so all the objects of the whole world belong to Him. Yet; He is highly pleased if you offer even a little thing with devotion.Asnami; literally means eat. The indicative meaning or Lakshana Vritti is accept.
 
 </details>
 </div>

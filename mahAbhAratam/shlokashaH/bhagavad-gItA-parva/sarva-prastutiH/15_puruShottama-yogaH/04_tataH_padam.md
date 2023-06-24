@@ -119,49 +119,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/04_tataH_padam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.3 - 15.4 The form of this tree, having its origin above, i.e., in the
-four-faced Brahma and branches below in the sense that man forms the
-crest through continual lineage therefrom, and also having its branches
-extended above and below by actions done in the human state and forming
-secondary roots - that form of the tree is not understood by people
-immersed in Samsara. Only this much is perceived: 'I am a man, the son
-of Devadatta, the father of Yajnadatta; I have property appropriate to
-these conditions'. Likewise, it is not understood that its destruction
-can be brought about by detachment from enjoyments which are based on
-Gunas. Similarly it is not perceived that attachment to the Gunas alone
-is the beginning of this (tree). Again, it is not perceived that the
-basis of this tree is founded on ignorance which is the misconception of
-self as non-self. Ignorance alone is the basis of this tree, since in it
-alone the tree is fixed. This Asvattha, described above, firm-rooted,
-i.e., the roots of which are firm and manifold, is to be cut off by the
-strong axe of detachment, namely, detachment from the sense objects
-composed of the three Gunas. This can be forged through perfect
-knowledge. As one gains detachment from sense-objects, one should seek
-and find out the goal from which nobody ever returns. How does this
-attachment to sense-objects, which consists of the Gunas and erroneous
-knowledge forming its cause, cease to exist; Sri Krsna now answers: One
-should seek 'refuge (Prapadyet) in the Primal Person' alone in order to
-overcome this ignorance. One should seek refuge (Prapadyeta) in Him who
-is primal, namely, the beginning of all entities, as stated in the
-following text: 'With Me as the Lord, the Prakrti gives birth to all
-that which moves, and that which does not move' (9.10), 'I am the origin
-of all; from Me proceed everything' (10.8), and 'There is nothing higher
-than Me, O Arjuna' (7.7). From Me, the creator of everything, has
-streamed forth this ancient activity, continuing from time immermorial,
-of attachment to sense-objects consisting of Gunas. This has been
-declared already by Me: 'For this divine Maya of Mine consisting of the
-Gunas is hard to break through. But those who take refuge in me alone
-shall pass beyond this Maya' (7.14). Or a variant of this stanza is
+15.3 - 15.4 The form of this tree, having its origin above, i.e., in the four-faced Brahma and branches below in the sense that man forms the crest through continual lineage therefrom, and also having its branches extended above and below by actions done in the human state and forming secondary roots - that form of the tree is not understood by people immersed in Samsara. Only this much is perceived: 'I am a man, the son of Devadatta, the father of Yajnadatta; I have property appropriate to these conditions'. Likewise, it is not understood that its destruction can be brought about by detachment from enjoyments which are based on Gunas. Similarly it is not perceived that attachment to the Gunas alone is the beginning of this (tree). Again, it is not perceived that the basis of this tree is founded on ignorance which is the misconception of self as non-self. Ignorance alone is the basis of this tree, since in it alone the tree is fixed. This Asvattha, described above, firm-rooted,
+i.e., the roots of which are firm and manifold, is to be cut off by the strong axe of detachment, namely, detachment from the sense objects composed of the three Gunas. This can be forged through perfect knowledge. As one gains detachment from sense-objects, one should seek and find out the goal from which nobody ever returns. How does this attachment to sense-objects, which consists of the Gunas and erroneous knowledge forming its cause, cease to exist; Sri Krsna now answers: One should seek 'refuge (Prapadyet) in the Primal Person' alone in order to overcome this ignorance. One should seek refuge (Prapadyeta) in Him who is primal, namely, the beginning of all entities, as stated in the following text: 'With Me as the Lord, the Prakrti gives birth to all that which moves, and that which does not move' (9.10), 'I am the origin of all; from Me proceed everything' (10.8), and 'There is nothing higher than Me, O Arjuna' (7.7). From Me, the creator of everything, has streamed forth this ancient activity, continuing from time immermorial,
+of attachment to sense-objects consisting of Gunas. This has been declared already by Me: 'For this divine Maya of Mine consisting of the Gunas is hard to break through. But those who take refuge in me alone shall pass beyond this Maya' (7.14). Or a variant of this stanza is
 'prapadya iyatah pravrttih' (in place of 'prapadyet yatah pravrittih').
-This gives the sense that this discipline of taking refuge in the
-Supreme Person for dispelling of ignorance has continued from a distant
-past. The tendencies of ancient persons seeking liberation are also
-ancient. The purport is this: The ancient liberation-seekers, taking
-refuge in Me alone, were released from bondage. \[This can be taken to
-mean that Prapatti or taking refuge in the Lord had originated in the
-Bhakti tradition of the Sri-Vaisnavites from ancient sages i.e., from
-the Alvars who preceded Ramanuja by several centuries. It is not a
-creation of Ramanuja\].
+This gives the sense that this discipline of taking refuge in the Supreme Person for dispelling of ignorance has continued from a distant past. The tendencies of ancient persons seeking liberation are also ancient. The purport is this: The ancient liberation-seekers, taking refuge in Me alone, were released from bondage. \[This can be taken to mean that Prapatti or taking refuge in the Lord had originated in the Bhakti tradition of the Sri-Vaisnavites from ancient sages i.e., from the Alvars who preceded Ramanuja by several centuries. It is not a creation of Ramanuja\].
 
 </details>
 </div>
@@ -424,7 +386,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।15.4।। (तदुपरान्त) उस पद का अन्वेषण करना चाहिए जिसको प्राप्त हुए पुरुष
-पुनः संसार में नहीं लौटते हैं। "मैं उस आदि पुरुष की शरण हूँ, जिससे यह
+पुन: संसार में नहीं लौटते हैं। "मैं उस आदि पुरुष की शरण हूँ, जिससे यह
 पुरातन प्रवृत्ति प्रसृत हुई है"।।
 
 </details>
@@ -601,18 +563,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/04_tataH_padam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-15.4. Then that Abode must be sought, having reached Which one would not
-return. \[The Yogin\] would attain nothing but that Primal Person from
-Whom the old activity (world creation) commences.
+15.4. Then that Abode must be sought, having reached Which one would not return. \[The Yogin\] would attain nothing but that Primal Person from Whom the old activity (world creation) commences.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/04_tataH_padam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.4 Thereafter, that State has to be sought for, going where they do
-not return again: I take refuge in that Primeval Person Himself, from
-whom has ensued the eternal Manifestation.
+15.4 Thereafter, that State has to be sought for, going where they do not return again: I take refuge in that Primeval Person Himself, from whom has ensued the eternal Manifestation.
 
 </details>
 </div>
@@ -628,45 +586,23 @@ This is the Primal God from whence this ancient creation has sprung.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 15.4 Then, one should seek that goal attaining which one never returns.
-One should seek refuge with that Primal Person from whom streamed forth
-this ancient activity.
+One should seek refuge with that Primal Person from whom streamed forth this ancient activity.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/04_tataH_padam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-15.4 Then That goal should be sought for, whither having gone none
-returns again. I seek refuge in that Primeval Purusha Whence streamed
-forth the ancient activity or energy.
+15.4 Then That goal should be sought for, whither having gone none returns again. I seek refuge in that Primeval Purusha Whence streamed forth the ancient activity or energy.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/15_puruShottama-yogaH/04_tataH_padam.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-15.4 ततः then; पदम् goal; तत् That; परिमार्गितव्यम् should be sought
-for; यस्मिन् whither; गताः gone; न not; निवर्तन्ति return; भूयः again;
-तम् that; एव even; च and; आद्यम् primeval; पुरुषम् Purusha; प्रपद्ये I
-seek refuge; यतः whence; प्रवृत्तिः activity or energy; प्रसृता streamed
-forth; पुराणी ancient.Commentary That which fills the whole world with
-the form of ExistenceKnowledgeBliss is Purusha. Or; that which sleeps in
-this Puri (city) of the body is the Purusha.Singleminded devotion which
-consists of ceaselessly thinking of or meditating on the Supreme Being
-is the sure means of attaining Selfrealisation. Taking sole refuge in
-the Primeval Purusha is the means to know or realise that supreme goal
-goind whither the wise do not return again to this world of death.The
-aspirant should know the abode of Vishnu. He should struggle hard to
-reach it. He should seek it by taking refuge in the Primeval Purusha. If
-he reaches this immortal abode of Vishnu or the imperishable Brahmic
-seat of ineffable splendour and glory he will never return to this
-mortal world.The Primeval Purusha or the pure; Supreme Being Who is
-ExistenceKnowledgeBliss Absolute is the goal or the supreme abode or the
-abode of Vishnu. Just as illusory objects like elephants; horses; etc.;
-come forth through the jugglery of the magician; so also this ancient
-energy or the original divine power or emanation of this tree or
-illusory Samsara has streamed forth from that Primeval Purusha.What sort
-of persons reach that goal eternal Listen.
+15.4 ततः then; पदम् goal; तत् That; परिमार्गितव्यम् should be sought for; यस्मिन् whither; गताः gone; न not; निवर्तन्ति return; भूयः again;
+तम् that; एव even; च and; आद्यम् primeval; पुरुषम् Purusha; प्रपद्ये I seek refuge; यतः whence; प्रवृत्तिः activity or energy; प्रसृता streamed forth; पुराणी ancient.Commentary That which fills the whole world with the form of ExistenceKnowledgeBliss is Purusha. Or; that which sleeps in this Puri (city) of the body is the Purusha.Singleminded devotion which consists of ceaselessly thinking of or meditating on the Supreme Being is the sure means of attaining Selfrealisation. Taking sole refuge in the Primeval Purusha is the means to know or realise that supreme goal goind whither the wise do not return again to this world of death.The aspirant should know the abode of Vishnu. He should struggle hard to reach it. He should seek it by taking refuge in the Primeval Purusha. If he reaches this immortal abode of Vishnu or the imperishable Brahmic seat of ineffable splendour and glory he will never return to this mortal world.The Primeval Purusha or the pure; Supreme Being Who is ExistenceKnowledgeBliss Absolute is the goal or the supreme abode or the abode of Vishnu. Just as illusory objects like elephants; horses; etc.;
+come forth through the jugglery of the magician; so also this ancient energy or the original divine power or emanation of this tree or illusory Samsara has streamed forth from that Primeval Purusha.What sort of persons reach that goal eternal Listen.
 
 </details>
 </div>

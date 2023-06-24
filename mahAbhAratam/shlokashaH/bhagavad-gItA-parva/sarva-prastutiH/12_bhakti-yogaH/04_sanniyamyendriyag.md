@@ -100,21 +100,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/04_sanniyamyendriyag.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.3 - 12.5 The individual self meditated upon by those who follow the
-path of the 'Aksara' (the Imperishable) is thus described: It cannot be
-'defined' in terms indicated by expressions like gods and men etc., for
-It is different from the body; It is 'imperceptible' through the senses
-such as eyes; It is 'omnipresent and unthinkable,' for though It exists
-everywhere in bodies such as those of gods and others, It cannot be
-conceived in terms of those bodies, as It is an entity of an altogether
-different kind; It is 'common to all beings' i.e., alike in all beings
-but different from the bodily forms distinguishing them; It is
-'immovable' as It does not move out of Its unie nature, being
-unmodifiable, and therefore eternal. Such aspirants are further
-described as those who, 'subduing their senses' like the eye from their
-natural operations, look upon all beings of different forms as 'eal' by
-virtue of their knowledge of the sameness of the nature of the selves as
-knowers in all. Therefore they are not given 'to take pleasure in the
+12.3 - 12.5 The individual self meditated upon by those who follow the path of the 'Aksara' (the Imperishable) is thus described: It cannot be
+'defined' in terms indicated by expressions like gods and men etc., for It is different from the body; It is 'imperceptible' through the senses such as eyes; It is 'omnipresent and unthinkable,' for though It exists everywhere in bodies such as those of gods and others, It cannot be conceived in terms of those bodies, as It is an entity of an altogether different kind; It is 'common to all beings' i.e., alike in all beings but different from the bodily forms distinguishing them; It is
+'immovable' as It does not move out of Its unie nature, being unmodifiable, and therefore eternal. Such aspirants are further described as those who, 'subduing their senses' like the eye from their natural operations, look upon all beings of different forms as 'eal' by virtue of their knowledge of the sameness of the nature of the selves as knowers in all. Therefore they are not given 'to take pleasure in the
 misfortune of others,' as such feelings proceed from one's
 identification with one's own special bodily form. Those who meditate on
 the Imperishable Principle (individual self) in this way, even they come
@@ -570,8 +558,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/04_sanniyamyendriyag.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.4. Who, by restraining properly the group of sense-organs have
-eanimity at all stages, and find pleasure in the welfare of all beings -
+12.4. Who, by restraining properly the group of sense-organs have eanimity at all stages, and find pleasure in the welfare of all beings -
 they attain nothing but Me.
 
 </details>
@@ -587,59 +574,33 @@ they, engaged in the welfare of all beings, attain Me alone.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/04_sanniyamyendriyag.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.4 Subduing their senses, viewing all conditions of life with the same
-eye, and working for the welfare of all beings, assuredly they come to
-Me.
+12.4 Subduing their senses, viewing all conditions of life with the same eye, and working for the welfare of all beings, assuredly they come to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/04_sanniyamyendriyag.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.4 Having subdued all the senses, being even-minded, engaged in the
-welfare of all beings - they too come to Me only.
+12.4 Having subdued all the senses, being even-minded, engaged in the welfare of all beings - they too come to Me only.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/04_sanniyamyendriyag.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.4 Having restrained all the senses, even-minded everywhere, intent on
-the welfare of all beings verily they also come unto Me.
+12.4 Having restrained all the senses, even-minded everywhere, intent on the welfare of all beings verily they also come unto Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/12_bhakti-yogaH/04_sanniyamyendriyag.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-12.4 संनियम्य having restrained; इन्द्रियग्रामम् the aggregate of the
-senses; सर्वत्र everywhere; समबुद्धयः evenminded; ते they; प्राप्नुवन्ति
+12.4 संनियम्य having restrained; इन्द्रियग्रामम् the aggregate of the senses; सर्वत्र everywhere; समबुद्धयः evenminded; ते they; प्राप्नुवन्ति
 obtian; माम् Me; एव only; सर्वभूतहिते in the welfare of all beings; रताः
 rejoicers.Commentary Those who are free from likes and dislikes
-(attraction and repulsion) can possess,eanimity of mind. Those who have
-destroyed ignorance which is the cause for exhilaration and grief;
-through the knowledge of the Self; those who are free from all kinds of
-sensual cravings through the constant practice of finding the defects or
-the evil in sensual pleasures can have evenness of mind. Those who are
-neither elated nor troubled when they get desirable or undesirable
-objects can possess evenness of mind.The two currents of love and hatred
-(likes and dislikes) make a man think of harming others. When these two
-are destroyed through meditation on the Self; the Yogi is intent on the
-welfare of others. He rejoices in doing service to the people. He
-plunges himself in service. He works constantly for the solidarity or
-wellbeing of this world. He gives fearlessness (Abhayadana) to all
-creatures. No creature is afraid of him. He becomes a Paramahamsa
-Sannyasi who gives shelter to all in his heart. He attains
-Selfrealisation. He becoes a knower of Brahman. The knower of Brahman
-becomes Brahman.By means of the control of the senses the Yogi closes
-the ten doors (the senses) and withdraws the senses from the sensual
-objects and fixes the mind on the innermost Self. Those who meditate on
-the imperishable transcendental Brahman; restraining and subduing the
-senses; regarding everything eally; rejoicing in the welfare of all
-beings -- these also come to Me. It needs no saying that they reach
-Myself; because I hold the wise as verily Myself (Cf.VII.18). Further it
-is not necessary to say that they are the best Yogins as they are one
-with Brahman Himself. (Cf.V.25XI.55)But --
+(attraction and repulsion) can possess,eanimity of mind. Those who have destroyed ignorance which is the cause for exhilaration and grief;
+through the knowledge of the Self; those who are free from all kinds of sensual cravings through the constant practice of finding the defects or the evil in sensual pleasures can have evenness of mind. Those who are neither elated nor troubled when they get desirable or undesirable objects can possess evenness of mind.The two currents of love and hatred
+(likes and dislikes) make a man think of harming others. When these two are destroyed through meditation on the Self; the Yogi is intent on the welfare of others. He rejoices in doing service to the people. He plunges himself in service. He works constantly for the solidarity or wellbeing of this world. He gives fearlessness (Abhayadana) to all creatures. No creature is afraid of him. He becomes a Paramahamsa Sannyasi who gives shelter to all in his heart. He attains Selfrealisation. He becoes a knower of Brahman. The knower of Brahman becomes Brahman.By means of the control of the senses the Yogi closes the ten doors (the senses) and withdraws the senses from the sensual objects and fixes the mind on the innermost Self. Those who meditate on the imperishable transcendental Brahman; restraining and subduing the senses; regarding everything eally; rejoicing in the welfare of all beings -- these also come to Me. It needs no saying that they reach Myself; because I hold the wise as verily Myself (Cf.VII.18). Further it is not necessary to say that they are the best Yogins as they are one with Brahman Himself. (Cf.V.25XI.55)But --
 
 </details>
 </div>

@@ -50,12 +50,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.18 Speak to me again in full, your association with the alities of
-being the creator etc., and Your sovereignty, Your rulership, which have
-been briefly described in 'I am the origin of all; from Me proceed
-everything' (10.8). For I am not satiated by hearing Your ambrosial
-words. The meaning is, 'My enthusiasm to know more and more of your
-ambrosial teachings is known to You.'
+10.18 Speak to me again in full, your association with the alities of being the creator etc., and Your sovereignty, Your rulership, which have been briefly described in 'I am the origin of all; from Me proceed everything' (10.8). For I am not satiated by hearing Your ambrosial words. The meaning is, 'My enthusiasm to know more and more of your ambrosial teachings is known to You.'
 
 </details>
 </div>
@@ -283,7 +278,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।10.18।। हे जनार्दन ! अपनी योग शक्ति और विभूति को पुनः विस्तारपूर्वक
+।।10.18।। हे जनार्दन ! अपनी योग शक्ति और विभूति को पुन: विस्तारपूर्वक
 कहिए, क्योंकि आपके अमृतमय वचनों को सुनते हुए मुझे तृप्ति नहीं होती।।
 
 </details>
@@ -315,17 +310,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.18. In detail, please expound, once again Your own Yogic power and
-the manifesting power. O Janardana ! I don't feel contended in hearing
-Your nectar-\[like exposition\].
+10.18. In detail, please expound, once again Your own Yogic power and the manifesting power. O Janardana ! I don't feel contended in hearing Your nectar-\[like exposition\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.18 O Janardana, narrate to me again \[In addition to what has been
-said in the seventh and ninth chapters.\] Your onw yoga and (divine)
+10.18 O Janardana, narrate to me again \[In addition to what has been said in the seventh and ninth chapters.\] Your onw yoga and (divine)
 manifestations elaborately. For, while hearing (Your) nectar-like
 (words), there is no satiety in me.
 
@@ -334,17 +326,14 @@ manifestations elaborately. For, while hearing (Your) nectar-like
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.18 Tell me again, I pray, about the fullness of Thy power and Thy
-glory; for I feel that I am never satisfied when I listen to Thy
-immortal words.
+10.18 Tell me again, I pray, about the fullness of Thy power and Thy glory; for I feel that I am never satisfied when I listen to Thy immortal words.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/18_vistareNAtmano_yo.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.18 Speak to me again in full, O Krsna, about Your attributes and
-glories. For I am not satiated by hearing Your ambrosial words.
+10.18 Speak to me again in full, O Krsna, about Your attributes and glories. For I am not satiated by hearing Your ambrosial words.
 
 </details>
 </div>
@@ -352,8 +341,7 @@ glories. For I am not satiated by hearing Your ambrosial words.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 10.18 Tell me again in detail, O Krishna, of Thy Yogic power and glory;
-for I am not satiated with what I have heard of Thy life-giving and
-nectar-like speech.
+for I am not satiated with what I have heard of Thy life-giving and nectar-like speech.
 
 </details>
 </div>
@@ -363,14 +351,9 @@ nectar-like speech.
 10.18 विस्तरेण in detial; आत्मनः Thy; योगम् Yoga; विभूतिम् glory; च and;
 जनार्दन O Janardana; भूयः again; कथय tell; तृप्तिः contentment; हि for;
 श्रृण्वतः (of) hearing; न not; अस्ति is; मे of me; अमृतम्
-nectar.Commentary The Lord is called Janardana because all pray to Him
-for worldly success; prosperity and also salvation. Arjuna also prays to
-the Lord to explain His Yogic power and glory; for his salvation.Arjuna
-says to Lord Krishna Tell me in detail of Thy mysterious power (Yoga)
+nectar.Commentary The Lord is called Janardana because all pray to Him for worldly success; prosperity and also salvation. Arjuna also prays to the Lord to explain His Yogic power and glory; for his salvation.Arjuna says to Lord Krishna Tell me in detail of Thy mysterious power (Yoga)
 and sovereignty (Aisvarya) and the various things to be meditated upon.
-Tell me again though You have described earlier in the seventh and the
-ninth chapters succinctly for there is no satiety in hearing Thy
-ambrosial speech or nectarlike conversation. However much of it I hear;
+Tell me again though You have described earlier in the seventh and the ninth chapters succinctly for there is no satiety in hearing Thy ambrosial speech or nectarlike conversation. However much of it I hear;
 I am not satisfied surely it is nectar of immortality for me.
 
 </details>

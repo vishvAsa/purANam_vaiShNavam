@@ -131,39 +131,12 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 10.4 - 10.5 'Intelligence' is the power of the mind to determine.
-'Knowledge' is the power of determining the difference between the two
-entities - non-sentient matter and the individual self. 'Non-delusion'
-is freedom from the delusion of perceiving as silver the mother-of-pearl
-etc., which are different from silver etc., previously observed.
-'Forbearance', is a non-disturbed state of mind, even when there is a
-cause for getting disturbed. 'Truth' is speech about things as they are
-actually seen, and meant for the good of all beings. Here, the working
-of the mind in conformity with the ideal is intended, because the
-context is with reference to the working of the mind. 'Restraint' is the
-checking of the outgoing organs from their tendency to move towards
-their objects and generate evil. 'Self-control' is the restraint of the
-mind in the same manner. 'Pleasure' is the experience of what is
-agreeable to oneself. 'Pain' is th experience of what is adverse.
-'Exaltation' is that state of elation of the mind caused by experiences
-which are agreeable to oneself. 'Depression' is the state of mind caused
-by disagreeable experiences. 'Fear' is the misery which springs from the
-perception of the cause of future sufferings. 'Fearlessness' is the
-absence of such feelings. 'Non-violence' is avoidance of being the cause
-of sorrow to others. 'Eability' is to become eable in mind whether good
-or bad befalls and to look upon with the same eanimity on what happens
-to oneself, friends and enemies. 'Cheerfulness' is the natural
-disposition to feel pleased with everything seen. 'Austerity' is the
-chastising of the body by denying to oneself pleasures, as enjoined by
-the scriptures. 'Beneficence' is giving to another what contributes to
-one's own enjoyment. 'Fame' is the renown of possessing good alities.
-'Infamy' is notoriety of possessing bad alities. The workings of the
-mind which are in accordance with fame and infamy must be understood
-here, because it is the subject-matter of the context. Austerity and
-beneficence are to be understood in the same way. All these mental
-faculties - these functioning of the mind - resulting either in activity
-or inactivity, are from Me alone, i.e., are dependent on My volition.
-Sri Krsna declares: 'Thos agents who direct the creation, sustentation
-etc., of all beings, have their activity dependent on My Will.'
+'Knowledge' is the power of determining the difference between the two entities - non-sentient matter and the individual self. 'Non-delusion'
+is freedom from the delusion of perceiving as silver the mother-of-pearl etc., which are different from silver etc., previously observed.
+'Forbearance', is a non-disturbed state of mind, even when there is a cause for getting disturbed. 'Truth' is speech about things as they are actually seen, and meant for the good of all beings. Here, the working of the mind in conformity with the ideal is intended, because the context is with reference to the working of the mind. 'Restraint' is the checking of the outgoing organs from their tendency to move towards their objects and generate evil. 'Self-control' is the restraint of the mind in the same manner. 'Pleasure' is the experience of what is agreeable to oneself. 'Pain' is th experience of what is adverse.
+'Exaltation' is that state of elation of the mind caused by experiences which are agreeable to oneself. 'Depression' is the state of mind caused by disagreeable experiences. 'Fear' is the misery which springs from the perception of the cause of future sufferings. 'Fearlessness' is the absence of such feelings. 'Non-violence' is avoidance of being the cause of sorrow to others. 'Eability' is to become eable in mind whether good or bad befalls and to look upon with the same eanimity on what happens to oneself, friends and enemies. 'Cheerfulness' is the natural disposition to feel pleased with everything seen. 'Austerity' is the chastising of the body by denying to oneself pleasures, as enjoined by the scriptures. 'Beneficence' is giving to another what contributes to one's own enjoyment. 'Fame' is the renown of possessing good alities.
+'Infamy' is notoriety of possessing bad alities. The workings of the mind which are in accordance with fame and infamy must be understood here, because it is the subject-matter of the context. Austerity and beneficence are to be understood in the same way. All these mental faculties - these functioning of the mind - resulting either in activity or inactivity, are from Me alone, i.e., are dependent on My volition.
+Sri Krsna declares: 'Thos agents who direct the creation, sustentation etc., of all beings, have their activity dependent on My Will.'
 
 </details>
 </div>
@@ -448,8 +421,7 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 10.5. \[Also\] non-injury, eanimity, contentment, austerity, charity,
-repute and ill-repute - all these diverse dispositions of beings emanate
-from none but Me.
+repute and ill-repute - all these diverse dispositions of beings emanate from none but Me.
 
 </details>
 </div>
@@ -464,17 +436,14 @@ infamy-(these) different dispositions of beings spring from Me alone.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.5 Harmlessness, equanimity, contentment, austerity, beneficence, fame
-and failure, all these, the characteristics of beings, spring from Me
-only.
+10.5 Harmlessness, equanimity, contentment, austerity, beneficence, fame and failure, all these, the characteristics of beings, spring from Me only.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/05_ahiMsA_samatA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.5 Non-violence, eality, cheerfulness, austerity, beneficence, fame
-and infamy- these different alities of beings arise from Me alone.
+10.5 Non-violence, eality, cheerfulness, austerity, beneficence, fame and infamy- these different alities of beings arise from Me alone.
 
 </details>
 </div>
@@ -482,8 +451,7 @@ and infamy- these different alities of beings arise from Me alone.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 10.5 Non-injury, eanimity, contentment, austerity, beneficence, fame,
-ill-fame (these) different kinds of alities of beings arise from Me
-alone.
+ill-fame (these) different kinds of alities of beings arise from Me alone.
 
 </details>
 </div>
@@ -493,27 +461,9 @@ alone.
 10.5 अहिंसा noninjury; समता eanimity; तुष्टिः contentment; तपः
 austerity; दानम् beneficence; यशः fame; अयशः illfame; भवन्ति arise;
 भावाः alities; भूतानाम् of beings; मत्तः from Me; एव alone; पृथग्विधाः
-of different kinds. Commentary Ahimsa is noninjury to living beings in
-thought; word and deed. Samata is that state wherein there is neither
-Raga (like) nor Dvesha (dislike); when one gets pleasant or unpleasant
-objects. There is neither exhilaration when one gets pleasant or
-favourable objects nor depressions when one gets unpleasant or
-unfavourable objects. Tushtih is satisfaction or contentment. The man of
-contentment is satisfied with whatever object he gets through Prarabdha.
-He is satisfied with his present acisitions. He is free from greed and
-so he has peace of mind. Contentment makes a man very rich. It
-annihilates greed. Greed makes even a rich man a beggar of beggars. A
-greedy man is ever restless. Tapas is restraint of the senses; with
-bodily mortification through the practice of fasting and slow reduction
-of food. The strength of the body and the senses is reduced through
-fasting.Danam is beneficence. It is sharing of ones own things with
-others according to ones own means; or distribution of rice; gold;
-cloth; etc.; to a worthy person; in a fit place and time; especially to
-one who can do nothign in return.Yasas is fame due to Dharma or virtuous
-actions.Ayasah is illfame or disgrace due to Adharma or sinful
-actions.All these different kinds of alities of living beings arise from
-Me alone; the great Lord of the worlds; according to their respective
-Karmas.
+of different kinds. Commentary Ahimsa is noninjury to living beings in thought; word and deed. Samata is that state wherein there is neither Raga (like) nor Dvesha (dislike); when one gets pleasant or unpleasant objects. There is neither exhilaration when one gets pleasant or favourable objects nor depressions when one gets unpleasant or unfavourable objects. Tushtih is satisfaction or contentment. The man of contentment is satisfied with whatever object he gets through Prarabdha.
+He is satisfied with his present acisitions. He is free from greed and so he has peace of mind. Contentment makes a man very rich. It annihilates greed. Greed makes even a rich man a beggar of beggars. A greedy man is ever restless. Tapas is restraint of the senses; with bodily mortification through the practice of fasting and slow reduction of food. The strength of the body and the senses is reduced through fasting.Danam is beneficence. It is sharing of ones own things with others according to ones own means; or distribution of rice; gold;
+cloth; etc.; to a worthy person; in a fit place and time; especially to one who can do nothign in return.Yasas is fame due to Dharma or virtuous actions.Ayasah is illfame or disgrace due to Adharma or sinful actions.All these different kinds of alities of living beings arise from Me alone; the great Lord of the worlds; according to their respective Karmas.
 
 </details>
 </div>

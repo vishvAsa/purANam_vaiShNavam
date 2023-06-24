@@ -68,15 +68,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.8 I am the 'origin', namely, the cause of originating everything in
-this universe consisting of wonderful sentient and non-sentient beings.
-From Me proceed everything. Thinking thus of My sovereignty, natural and
-unhindered, and knowing Me as endowed with a multitude of auspicious
-attributes like condescension, beauty, parental affection etc., the wise
-or the men of knowledge worship Me with devotion endowed as I am with
-all auspicious attributes. 'Bhava' is a particular disposition, here a
-loving disposition, of the mind. The meaning is that they worship Me
-with intense yearning of the heart. How;
+10.8 I am the 'origin', namely, the cause of originating everything in this universe consisting of wonderful sentient and non-sentient beings.
+From Me proceed everything. Thinking thus of My sovereignty, natural and unhindered, and knowing Me as endowed with a multitude of auspicious attributes like condescension, beauty, parental affection etc., the wise or the men of knowledge worship Me with devotion endowed as I am with all auspicious attributes. 'Bhava' is a particular disposition, here a loving disposition, of the mind. The meaning is that they worship Me with intense yearning of the heart. How;
 
 </details>
 </div>
@@ -368,40 +361,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.8. 'He is the source of all and from Him all comes forth' - Thus
-viewing, the wise men revere Me with devotion.
+10.8. 'He is the source of all and from Him all comes forth' - Thus viewing, the wise men revere Me with devotion.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.8 I am the origin of all; everything moves on owing to Me. Realizing
-thus, the wise ones, filled with fervour, adore Me.
+10.8 I am the origin of all; everything moves on owing to Me. Realizing thus, the wise ones, filled with fervour, adore Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.8 I am the source of all; from Me everything flows. Therefore the
-wise worship Me with unchanging devotion.
+10.8 I am the source of all; from Me everything flows. Therefore the wise worship Me with unchanging devotion.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.8 I am the origin of all; from Me proceed everything thinking thus
-the wise worship Me with all devotion (Bhava).
+10.8 I am the origin of all; from Me proceed everything thinking thus the wise worship Me with all devotion (Bhava).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/08_ahaM_sarvasya.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.8 I am the source of all; from Me everything evolves; understanding
-thus, the wise, endowed with meditation, worship Me.
+10.8 I am the source of all; from Me everything evolves; understanding thus, the wise, endowed with meditation, worship Me.
 
 </details>
 </div>
@@ -411,32 +399,11 @@ thus, the wise, endowed with meditation, worship Me.
 10.8 अहम् I; सर्वस्य of all; प्रभवः the source; मत्तः from Me; सर्वम्
 everything; प्रवर्तते evolves; इति thus; मत्वा understanding; भजन्ते
 worship; माम् Me; बुधाः the wise; भावसमन्विताः endowed with meditation.
-Commentary Waves originate in water; depend on water and dissolve in
-water. The only support for the waves is water. Even so the only support
-for the whole world is the Lord. Realising this; feeling the
-omnipresence of the Lord; the wise worship Him with devotion and
-affection in all places. The Supreme is the same in all countries and at
-all times. He is the material and the efficient cause.As Mulaprakriti or
-Avyaktam the Lord is the source of all forms. The Lord is the primum
-mobile. He gazes at His Sakti (creative power) and the whole world
-evolves and the forms move. The worldly man who has neither sharp nor
-subtle intellect beholds the changing forms only through the fleshly
-eyes. He has no idea of the Indwelling Presence; the substratum; the
-allpervading intelligence or the blissful consciousness. He is allured
-by the passing forms. He fixes his hopes and joy on these transitory
-forms. He lives and exerts for them. He rejoices when he gets a wife and
-children. If these forms pass away he is drowned in sorrow. But the wise
-ones constantly dwell in the Supreme; the source and the life of all;
-and enjoy the eternal bliss of the immortal; inner Self; their own
-nondual Atman; albeit all these forms around them change and pass away.
-They are steadfast in Yoga. They are endowed with unshakable Yoga. They
-are enthroned in Yoga. They worship the Supreme in contemplation and
-enjoy the indescribable bliss of Nirvikalpa Samadhi.Para Brahman; known
-as Vaasudeva; is the source of the whole world. From Him alone evolves
-the whole world with all its changes; viz.; existence (Sthiti);
+Commentary Waves originate in water; depend on water and dissolve in water. The only support for the waves is water. Even so the only support for the whole world is the Lord. Realising this; feeling the omnipresence of the Lord; the wise worship Him with devotion and affection in all places. The Supreme is the same in all countries and at all times. He is the material and the efficient cause.As Mulaprakriti or Avyaktam the Lord is the source of all forms. The Lord is the primum mobile. He gazes at His Sakti (creative power) and the whole world evolves and the forms move. The worldly man who has neither sharp nor subtle intellect beholds the changing forms only through the fleshly eyes. He has no idea of the Indwelling Presence; the substratum; the allpervading intelligence or the blissful consciousness. He is allured by the passing forms. He fixes his hopes and joy on these transitory forms. He lives and exerts for them. He rejoices when he gets a wife and children. If these forms pass away he is drowned in sorrow. But the wise ones constantly dwell in the Supreme; the source and the life of all;
+and enjoy the eternal bliss of the immortal; inner Self; their own nondual Atman; albeit all these forms around them change and pass away.
+They are steadfast in Yoga. They are endowed with unshakable Yoga. They are enthroned in Yoga. They worship the Supreme in contemplation and enjoy the indescribable bliss of Nirvikalpa Samadhi.Para Brahman; known as Vaasudeva; is the source of the whole world. From Him alone evolves the whole world with all its changes; viz.; existence (Sthiti);
 destruction (Nasa); action (Kriya); fruit (Phala) and enjoyment (Bhoga).
-Understanding thus; the wise adore the Supreme Being and engage
-themselves in profound meditation on the Absolute. (Cf.IX.10)
+Understanding thus; the wise adore the Supreme Being and engage themselves in profound meditation on the Absolute. (Cf.IX.10)
 
 </details>
 </div>

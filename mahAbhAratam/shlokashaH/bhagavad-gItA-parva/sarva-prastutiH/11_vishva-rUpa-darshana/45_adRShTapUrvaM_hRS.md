@@ -61,12 +61,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/45_adRShTapUrvaM_hRS.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.45 Seeing Your form, never seen before, extremely marvellous and
-awe-inspiring, I am delighted, transported with love. But my mind is
-also troubled with awe. Hence reveal to me only Your most gracious form.
-Be gracious, O Lord of all gods! O Abode of the universe! Show me that
-form, O gracious Lord of all the gods headed by Brahma, and the
-foundation of the entire universe!
+11.45 Seeing Your form, never seen before, extremely marvellous and awe-inspiring, I am delighted, transported with love. But my mind is also troubled with awe. Hence reveal to me only Your most gracious form.
+Be gracious, O Lord of all gods! O Abode of the universe! Show me that form, O gracious Lord of all the gods headed by Brahma, and the foundation of the entire universe!
 
 </details>
 </div>
@@ -310,18 +306,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/45_adRShTapUrvaM_hRS.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.45. I am thrilled by seeing what has not been seen earlier; and my
-mind is very much distressed with fear; show me the same (usual) form of
-Yours; kindly be appeased O God ! Lord of gods ! O Abode of the worlds !
+11.45. I am thrilled by seeing what has not been seen earlier; and my mind is very much distressed with fear; show me the same (usual) form of Yours; kindly be appeased O God ! Lord of gods ! O Abode of the worlds !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/45_adRShTapUrvaM_hRS.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.45 I am delighted by seeing something not seen heretofore, and my
-mind is stricken with fear. O Lord, show me that very form; O supreme
-God, O Abode of the Universe, be gracious!
+11.45 I am delighted by seeing something not seen heretofore, and my mind is stricken with fear. O Lord, show me that very form; O supreme God, O Abode of the Universe, be gracious!
 
 </details>
 </div>
@@ -329,25 +321,21 @@ God, O Abode of the Universe, be gracious!
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 11.45 I rejoice that I have seen what never man saw before; yet, O Lord!
-I am overwhelmed with fear. Please take again the Form I know. Be
-merciful, O Lord! thou Who are the Home of the whole universe.
+I am overwhelmed with fear. Please take again the Form I know. Be merciful, O Lord! thou Who are the Home of the whole universe.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/45_adRShTapUrvaM_hRS.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.45 Seeing what was never seen before, I am delighted. But my mind is
-also agog with awe. Show me, O Lord! Your other form. O Lord of the
-gods! Be gracious, O Abode of the universe!
+11.45 Seeing what was never seen before, I am delighted. But my mind is also agog with awe. Show me, O Lord! Your other form. O Lord of the gods! Be gracious, O Abode of the universe!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/45_adRShTapUrvaM_hRS.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.45 I am delighted, having seen what has never been seen before; and
-yet my mind is distressed with fear. Show me that (previous) form only,
+11.45 I am delighted, having seen what has never been seen before; and yet my mind is distressed with fear. Show me that (previous) form only,
 O God; have mercy, O God of gods, O Abode of the universe.
 
 </details>
@@ -356,14 +344,9 @@ O God; have mercy, O God of gods, O Abode of the universe.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 11.45 अदृष्टपूर्वम् what was never seen before; हृषितः delighted; अस्मि
-(I) am; दृष्ट्वा having seen; भयेन with fear; च and; प्रव्यथितम् is
-distressed; मनः mind; मे my; तत् that; एव only; मे to me; दर्शय show;
+(I) am; दृष्ट्वा having seen; भयेन with fear; च and; प्रव्यथितम् is distressed; मनः mind; मे my; तत् that; एव only; मे to me; दर्शय show;
 देव O God; रूपम् form; प्रसीद have mercy; देवेश O Lord of the gods;
-जगन्निवास O Aboe of the universe.Commentary For an ordinary man the
-Cosmic Form (Vision) is overwhelming and terrifying but for a Yogi it is
-encouraging; strengthening and soulelevating.Arjuna says The Cosmic Form
-was never before seen by me. Show me only that form which Thou wearest
-as my friend.
+जगन्निवास O Aboe of the universe.Commentary For an ordinary man the Cosmic Form (Vision) is overwhelming and terrifying but for a Yogi it is encouraging; strengthening and soulelevating.Arjuna says The Cosmic Form was never before seen by me. Show me only that form which Thou wearest as my friend.
 
 </details>
 </div>

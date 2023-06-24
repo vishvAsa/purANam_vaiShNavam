@@ -49,8 +49,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 8.25 This denotes the world of the manes etc., described by the term
-'starting with smoke.' Here the term Yogin connotes one associated with
-good actions.
+'starting with smoke.' Here the term Yogin connotes one associated with good actions.
 
 </details>
 </div>
@@ -373,36 +372,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.25. The southern course \[of the sun\], consisting of six months, is
-smoke, night, and also dark. \[Departing\] in it, the Yogin attains the
-moon's light and he returns.
+8.25. The southern course \[of the sun\], consisting of six months, is smoke, night, and also dark. \[Departing\] in it, the Yogin attains the moon's light and he returns.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.25 Smoke, night, as also the dark fortnight and the six months of the
-Southern solstice-following this Path the yogi having reached the lunar
-light, returns.
+8.25 Smoke, night, as also the dark fortnight and the six months of the Southern solstice-following this Path the yogi having reached the lunar light, returns.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.25 But if he departs in gloom, at night, during the fortnight of the
-waning moon and in the six months before the Southern solstice, then he
-reaches but lunar light and he will be born again.
+8.25 But if he departs in gloom, at night, during the fortnight of the waning moon and in the six months before the Southern solstice, then he reaches but lunar light and he will be born again.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/25_dhUmo_rAtristathA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.25 Attaining to the lunar light by smoke, night time, the dark
-fortnight also, the six months of the southern path of the sun (the
-southern solstice), the Yogi returns.
+8.25 Attaining to the lunar light by smoke, night time, the dark fortnight also, the six months of the southern path of the sun (the southern solstice), the Yogi returns.
 
 </details>
 </div>
@@ -411,18 +402,8 @@ southern solstice), the Yogi returns.
 
 8.25 धूमः smoke; रात्रिः night; तथा also; कृष्णः the dark (fortnight);
 षण्मासाः the six months; दक्षिणायनम् the southern path of the sun; तत्र
-there; चान्द्रमसम् lunar; ज्योतिः light; योगी the Yogi; प्राप्य having
-attained; निवर्तते returns.Commentary This is the Pitriyana or the path
-of darkness or the path of the ancestors which leads to rirth. Those who
-do sacrifices to the gods and other charitable works with expectation of
-reward go to the Chandraloka through this path and come back to this
-world when the fruits of the Karmas are exhausted.Smoke; night time; the
-dark fortnight and the six months of the southern solstice are all
-deities who preside over them. They may denote the degree of ignorance;
-attachment and passion. There are smoke and darkcoloured objects
-throughout the course. There is no illumination when one passes along
-this path. It is reached by ignorance. Hence it is called the path of
-darkness or smoke.
+there; चान्द्रमसम् lunar; ज्योतिः light; योगी the Yogi; प्राप्य having attained; निवर्तते returns.Commentary This is the Pitriyana or the path of darkness or the path of the ancestors which leads to rirth. Those who do sacrifices to the gods and other charitable works with expectation of reward go to the Chandraloka through this path and come back to this world when the fruits of the Karmas are exhausted.Smoke; night time; the dark fortnight and the six months of the southern solstice are all deities who preside over them. They may denote the degree of ignorance;
+attachment and passion. There are smoke and darkcoloured objects throughout the course. There is no illumination when one passes along this path. It is reached by ignorance. Hence it is called the path of darkness or smoke.
 
 </details>
 </div>

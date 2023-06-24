@@ -37,34 +37,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the
-forces of Pandavas protected by Bhima, and his own forces protected by
-Bhisma conveyed his views thus to Drona, his teacher, about the adeacy
-of Bhima's forces for conering the Kaurava forces and the inadeacy of
-his own forces for victory against the Pandava forces. He was
-grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma,
+1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adeacy of Bhima's forces for conering the Kaurava forces and the inadeacy of his own forces for victory against the Pandava forces. He was grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma,
 in order to cheer him, roared like a lion, and then blowing his conch,
-made his side sound their conchs and kettle-drums, which made an uproar
-as a sign of victory. Then, having heard that great tumult, Arjuna and
-Sri Krsna the Lord of all lords, who was acting as the charioteer of
-Arjuna, sitting in their great chariot which was powerful enough to
-coner the three worlds; blew their divine conchs Srimad Pancajanya and
-Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs
-separately. That tumult rent asunder the hearts of your sons, led by
-Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost
-lost now itself.' So said Sanjaya to Dhrtarastra who was longing for
-their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas,
-who were ready for battle, Arjuna, who had Hanuman, noted for his
-exploit of burning Lanka, as the emblem on his flag on his chariot,
-directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by
-parental love for those who take shelter in Him who is the
-treasure-house of knowledge, power, lordship, energy, potency and
-splendour, whose sportive delight brings about the origin, sustentation
-and dissolution of the entire cosmos at His will, who is the Lord of the
-senses, who controls in all ways the senses inner and outer of all,
-superior and inferior - by saying, 'Station my chariot in an appropriate
-place in order that I may see exactly my enemies who are eager for
-battle.'
+made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to coner the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost lost now itself.' So said Sanjaya to Dhrtarastra who was longing for their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas,
+who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot,
+directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all,
+superior and inferior - by saying, 'Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.'
 
 </details>
 </div>
@@ -303,17 +281,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.4. The heroes and mighty archers, comparable in war to Bhima and
-Arjuna, here are: Yuyudhana, the king of the Virata country, and
-Drupada, the mighty warrior;
+1.4. The heroes and mighty archers, comparable in war to Bhima and Arjuna, here are: Yuyudhana, the king of the Virata country, and Drupada, the mighty warrior;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.4 Here are the heroes wielding great bows, who in battle are compeers
-of Bhima and Arjuna: Yuyudhana (Satyaki) and Virata, and the maharatha
+1.4 Here are the heroes wielding great bows, who in battle are compeers of Bhima and Arjuna: Yuyudhana (Satyaki) and Virata, and the maharatha
 (great chariot-rider) Drupada;
 
 </details>
@@ -321,16 +296,14 @@ of Bhima and Arjuna: Yuyudhana (Satyaki) and Virata, and the maharatha
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.4 In it are heroes and great bowmen; the equals in battle of Arjuna
-and Bheema, Yuyudhana, Virata and Drupada, great soldiers all;
+1.4 In it are heroes and great bowmen; the equals in battle of Arjuna and Bheema, Yuyudhana, Virata and Drupada, great soldiers all;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/04_atra_shUrA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.4 There (in that army) are heroes, great bowmen, like Bhima and
-Arjuna; Yuyudhana,Virata and Drupada a mighty warrior;
+1.4 There (in that army) are heroes, great bowmen, like Bhima and Arjuna; Yuyudhana,Virata and Drupada a mighty warrior;
 
 </details>
 </div>
@@ -338,8 +311,7 @@ Arjuna; Yuyudhana,Virata and Drupada a mighty warrior;
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 1.4. Here are heroes, mighty archers, eal in battle to Bhima and Arjuna,
-Yoyudhana (Satyaki), Virata and Drupada, of the great car (mighty
-warriors).
+Yoyudhana (Satyaki), Virata and Drupada, of the great car (mighty warriors).
 
 </details>
 </div>
@@ -348,10 +320,7 @@ warriors).
 
 1.4 अत्र here; शूराः heroes; महेष्वासाः mighty archers; भीमार्जुनसमाः
 eal to Bhima and Arjuna; युधि in battle; युयुधानः Yuyudhana; विराटः
-Virata; च and; द्रुपदः Drupada; च and; महारथः of the great
-car.Commentary Technically; maharatha means a warrior who is proficient
-in the science of war and who is able to fight alone with ten thousand
-archers.
+Virata; च and; द्रुपदः Drupada; च and; महारथः of the great car.Commentary Technically; maharatha means a warrior who is proficient in the science of war and who is able to fight alone with ten thousand archers.
 
 </details>
 </div>

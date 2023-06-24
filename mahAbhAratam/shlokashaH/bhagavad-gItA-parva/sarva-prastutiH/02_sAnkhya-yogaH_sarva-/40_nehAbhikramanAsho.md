@@ -73,22 +73,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.40 Here, in Karma Yoga, there is no loss of 'Abhikrama' or of effort
-that has been put in; 'loss' means the loss of efficacy to bring about
-the fruits. In Karma Yoga if work is begun and left unfinished, and the
-continuity is broken in the middle, it does not remain fruitless, as in
-the case of works undertaken for their fruits. No evil result is acired
-if the continuity of work is broken. Even a little of this Dharma known
-as Karma Yoga or Niskama Karma (unselfish action without desire for any
-reward) gives protection from the great fear, i.e., the fear of
-transmigratory existence. The same purport is explained later thus:
-'Neither in this world nor the next, O Arjuna, there is annihilation for
-him' (6.40). But in works, Vedic and secular, when there is interruption
-in the middle, not only do they not yield fruits, but also there is
-accrual of evil. Now, Sri Krsna distinguishes the Buddhi or mental
-disposition concerned with those acts which constitute a means for
-attaining release from those which are concerned with the acts meant for
-gaining the desired objects:
+2.40 Here, in Karma Yoga, there is no loss of 'Abhikrama' or of effort that has been put in; 'loss' means the loss of efficacy to bring about the fruits. In Karma Yoga if work is begun and left unfinished, and the continuity is broken in the middle, it does not remain fruitless, as in the case of works undertaken for their fruits. No evil result is acired if the continuity of work is broken. Even a little of this Dharma known as Karma Yoga or Niskama Karma (unselfish action without desire for any reward) gives protection from the great fear, i.e., the fear of transmigratory existence. The same purport is explained later thus:
+'Neither in this world nor the next, O Arjuna, there is annihilation for him' (6.40). But in works, Vedic and secular, when there is interruption in the middle, not only do they not yield fruits, but also there is accrual of evil. Now, Sri Krsna distinguishes the Buddhi or mental disposition concerned with those acts which constitute a means for attaining release from those which are concerned with the acts meant for gaining the desired objects:
 
 </details>
 </div>
@@ -492,35 +478,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.40. Here there is no loss due to transgression, and there exists no
-contrary downward course (sin); even a little of this righteous thing
-saves \[one\] from great danger.
+2.40. Here there is no loss due to transgression, and there exists no contrary downward course (sin); even a little of this righteous thing saves \[one\] from great danger.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.40 Here there is no waste of an attempt; nor is there (any) harm. Even
-a little of this righteousness saves (one) from great fear.
+2.40 Here there is no waste of an attempt; nor is there (any) harm. Even a little of this righteousness saves (one) from great fear.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.40 On this Path, endeavour is never wasted, nor can it ever be
-repressed. Even a very little of its practice protects one from great
-danger.
+2.40 On this Path, endeavour is never wasted, nor can it ever be repressed. Even a very little of its practice protects one from great danger.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/40_nehAbhikramanAsho.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.40 Here, there is no loss of effort, nor any accrual of evil. Even a
-little of this Dharma (called Karma Yoga) protects a man from the great
-fear.
+2.40 Here, there is no loss of effort, nor any accrual of evil. Even a little of this Dharma (called Karma Yoga) protects a man from the great fear.
 
 </details>
 </div>
@@ -528,9 +507,7 @@ fear.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 2.40 In this there is no loss of effort, nor is there any harm
-(production of contrary results or transgression). Even a little of this
-knowledge (even a little practice of this Yoga) protects one from great
-fear.
+(production of contrary results or transgression). Even a little of this knowledge (even a little practice of this Yoga) protects one from great fear.
 
 </details>
 </div>
@@ -540,19 +517,10 @@ fear.
 2.40 न not; इह in this; अभिक्रमनाशः loss of effort; अस्ति is; प्रत्यवायः
 production of contrary results; न not; विद्यते is; स्वल्पम् very little;
 अपि even; अस्य of this; धर्मस्य duty; त्रायते protects; महतः (from)
-great; भयात् fear.Commentary If a religious ceremony is left
-uncompleted; it is a wastage as the performer cannot realise the fruits.
-But it is not so in the case of Karma Yoga because every action causes
-immediate purification of the heart.In agriculture there is uncertainty.
-The farmer may till the land; plough and sow the seed but he may not get
-a crop if there is no rain. This is not so in Karma Yoga. There is no
-uncertainty at all. Further; there is no chance of any harm coming out
-of it. In the case of medical treatment great harm will result from the
-doctors injudicious treatment if he uses a wrong medicine. But it is not
-so in the case of Karma Yoga. Anything done; however little it may be;
-in this path of Yoga; the Yoga of action; saves one from great fear of
-being caught in the wheel of birth and death. Lord Krishna here extols
-Karma Yoga in order to create interest in Arjuna in this Yoga.
+great; भयात् fear.Commentary If a religious ceremony is left uncompleted; it is a wastage as the performer cannot realise the fruits.
+But it is not so in the case of Karma Yoga because every action causes immediate purification of the heart.In agriculture there is uncertainty.
+The farmer may till the land; plough and sow the seed but he may not get a crop if there is no rain. This is not so in Karma Yoga. There is no uncertainty at all. Further; there is no chance of any harm coming out of it. In the case of medical treatment great harm will result from the doctors injudicious treatment if he uses a wrong medicine. But it is not so in the case of Karma Yoga. Anything done; however little it may be;
+in this path of Yoga; the Yoga of action; saves one from great fear of being caught in the wheel of birth and death. Lord Krishna here extols Karma Yoga in order to create interest in Arjuna in this Yoga.
 
 </details>
 </div>

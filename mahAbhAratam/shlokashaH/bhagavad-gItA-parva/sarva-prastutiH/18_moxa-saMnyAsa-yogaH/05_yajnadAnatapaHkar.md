@@ -294,7 +294,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.5।। यज्ञ, दान और तपरूप कर्म त्याज्य नहीं है, किन्तु वह निःसन्देह
+।।18.5।। यज्ञ, दान और तपरूप कर्म त्याज्य नहीं है, किन्तु वह नि:सन्देह
 कर्तव्य है; यज्ञ, दान और तप ये मनीषियों (साधकों) को पवित्र करने वाले
 हैं।।
 
@@ -344,45 +344,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.5. The actions of \[Vedic\] sacrifice, gift and austerity should not
-be relinished and they must necessarily be performed; for the men of
-wisdom the \[Vedic sacrifice, gift and also austerity are the means of
-purification.
+18.5. The actions of \[Vedic\] sacrifice, gift and austerity should not be relinished and they must necessarily be performed; for the men of wisdom the \[Vedic sacrifice, gift and also austerity are the means of purification.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.5 The practice of sacrifice, charity and austerity is not to be
-abandoned; it is surely to be undertaken. Sacrifice, charity and
-austerity are verily the purifiers of the wise.
+18.5 The practice of sacrifice, charity and austerity is not to be abandoned; it is surely to be undertaken. Sacrifice, charity and austerity are verily the purifiers of the wise.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.5 Acts of sacrifice, benevolence and austerity should not be given up
-but should be performed, for they purify the aspiring soul.
+18.5 Acts of sacrifice, benevolence and austerity should not be given up but should be performed, for they purify the aspiring soul.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.5 (a) The acts of sacrifice, gifts and austerities should not be
-relinished; but should be performed৷৷. (b). ৷৷.For sacrifices, gifts and
-austerities are the means of purification for the wise.
+18.5 (a) The acts of sacrifice, gifts and austerities should not be relinished; but should be performed৷৷. (b). ৷৷.For sacrifices, gifts and austerities are the means of purification for the wise.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/05_yajnadAnatapaHkar.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.5 Acts of sacrifice, gift and austerity should not be abandoned, but
-should be performed; sacrifice, gift and also austerity are the
-purifiers of the wise.
+18.5 Acts of sacrifice, gift and austerity should not be abandoned, but should be performed; sacrifice, gift and also austerity are the purifiers of the wise.
 
 </details>
 </div>
@@ -393,11 +383,7 @@ purifiers of the wise.
 त्याज्यम् should be abandoned; कार्यम् should be performed; एव indeed;
 तत् that; यज्ञः sacrifice; दानम् gift; तपः austerity; च and; एव indeed;
 पावनानि purifiers; मनीषिणाम् of the wise.Commentary Acts of sacrifice;
-gift and austerity purify the hearts of those who have no desire for
-rewards. These actions are considered obligatory and ought to be
-performed. Actions that are skilfully performed lose their power to bind
-the soul and free it from earthly bondage.Now; O Arjuna; I will explain
-to thee that skilful way by which actions can destroye their own effect.
+gift and austerity purify the hearts of those who have no desire for rewards. These actions are considered obligatory and ought to be performed. Actions that are skilfully performed lose their power to bind the soul and free it from earthly bondage.Now; O Arjuna; I will explain to thee that skilful way by which actions can destroye their own effect.
 
 </details>
 </div>

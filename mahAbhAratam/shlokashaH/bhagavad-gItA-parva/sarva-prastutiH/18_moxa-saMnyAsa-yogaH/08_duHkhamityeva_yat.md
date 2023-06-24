@@ -289,7 +289,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.8।। जो मनुष्य, कर्म को दुःख समझकर शारीरिक कष्ट के भय से त्याग देता
+।।18.8।। जो मनुष्य, कर्म को दु:ख समझकर शारीरिक कष्ट के भय से त्याग देता
 है, वह पुरुष उस राजसिक त्याग को करके कदापि त्याग के फल को प्राप्त नहीं
 होता है।।
 
@@ -377,27 +377,21 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.8. He who would, out of fear of bodily exertion, relinish an action,
-just because it is painful-that person, having \[thus\] made
-relinishment, an act of the Rajas (Strand), would not at all gain the
-fruit of \[that\] relinishment.
+just because it is painful-that person, having \[thus\] made relinishment, an act of the Rajas (Strand), would not at all gain the fruit of \[that\] relinishment.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.8 Whatever action one may relinish merely as being painful, from fear
-of physical suffering, he, having resorted to renunciation based on
-rajas, will surely not acire the fruits of renunciation.
+18.8 Whatever action one may relinish merely as being painful, from fear of physical suffering, he, having resorted to renunciation based on rajas, will surely not acire the fruits of renunciation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/08_duHkhamityeva_yat.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.8 To avoid an action through fear of physical suffering, because it
-is likely to be painful, is to act from passion, and the benefit of
-renunciation will not follow.
+18.8 To avoid an action through fear of physical suffering, because it is likely to be painful, is to act from passion, and the benefit of renunciation will not follow.
 
 </details>
 </div>
@@ -405,8 +399,7 @@ renunciation will not follow.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 18.8 He who renounces acts as painful from fear of bodily suffering,
-performs a Rajasika abandonment; he does not gain the fruit of
-abandonment.
+performs a Rajasika abandonment; he does not gain the fruit of abandonment.
 
 </details>
 </div>
@@ -414,8 +407,7 @@ abandonment.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 18.8 He who abandons action on account of the fear of bodily trouble
-(because it is painful), does not obtain the merit of renunciation by
-doing such Rajasic renunciation.
+(because it is painful), does not obtain the merit of renunciation by doing such Rajasic renunciation.
 
 </details>
 </div>
@@ -425,13 +417,7 @@ doing such Rajasic renunciation.
 18.8 दुःखम् (it is) painful; इति thus; एव even; यत् which; कर्म action;
 कायक्लेशभयात् from fear of bodily trouble; त्यजेत् abandons; सः he;
 कृत्वा performing; राजसम् Rajasic; त्यागम् abandonment; न not; एव even;
-त्यागफलम् the fruit of abandonment; लभेत् obtains.Commentary Phalam
-Fruit or reward Moksha or emancipation which is the reward of
-renunciation of all actions accompanied with wisdom.Determination and
-persistence are reired for the performance of religious duties and
-actions. One may begin action but may relinish it before it is completed
-on account of some difficulties or physical suffering. What then is
-Sattvic renunciation The Lord says --
+त्यागफलम् the fruit of abandonment; लभेत् obtains.Commentary Phalam Fruit or reward Moksha or emancipation which is the reward of renunciation of all actions accompanied with wisdom.Determination and persistence are reired for the performance of religious duties and actions. One may begin action but may relinish it before it is completed on account of some difficulties or physical suffering. What then is Sattvic renunciation The Lord says --
 
 </details>
 </div>

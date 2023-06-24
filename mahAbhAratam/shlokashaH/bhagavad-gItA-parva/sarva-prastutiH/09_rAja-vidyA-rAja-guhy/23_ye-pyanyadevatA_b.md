@@ -78,30 +78,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.23 Those, however, who are devoted to Indra and other divinities, who
-rely on the three Vedas alone, and who, possessed of faith, worship
-Indra and other divinities - they too worship Me actually in the light
-of the truth that all existing things constitute My body and have Me for
-their selves. In the light of this principle, terms like Indra denote Me
-only. The worshippers of Indra and other deities therefore worship Me
-only, in ways not sanctioned by the Sastras. They do not worship Indra
-and other divinities with a proper understanding of the place of these
-deities in the light of the Vedanta texts. An example is 'Wherein (i.e.,
-in the Supreme Self) the sacrifices known as the Caturhotri attain their
-fulfilment through the divinities' (Tai. Ar., 4) etc. These texts say in
-what way these forms of worship apply to these divinties. For all
-Vedanta texts lay down that the Supreme Person alone is to be worshipped
-directly when they enjoin the worship of Indra and other divinities, as
-they form the body of the Supreme Person. The meaning is that in the
-Caturhotri sacrifice like Agnihotra, the full moon and the new moon
-sacrifices etc., it is the Supreme Self only that is worshipped, as He
-abides as the self in Indra etc., who are the ostensible objects
-worshipped in these sacrifices by which these worshippers obtain their
-fulfilment through them. Therefore, the votaries of the three Vedas do
-not understand that these rituals form the worship of the Supreme Person
-and that He alone is to be worshipped. As they do not do so, they become
-experiencers of limited results, and they are again liable to fall into
-Samsara. Sri Krsna gives expressions to this:
+9.23 Those, however, who are devoted to Indra and other divinities, who rely on the three Vedas alone, and who, possessed of faith, worship Indra and other divinities - they too worship Me actually in the light of the truth that all existing things constitute My body and have Me for their selves. In the light of this principle, terms like Indra denote Me only. The worshippers of Indra and other deities therefore worship Me only, in ways not sanctioned by the Sastras. They do not worship Indra and other divinities with a proper understanding of the place of these deities in the light of the Vedanta texts. An example is 'Wherein (i.e.,
+in the Supreme Self) the sacrifices known as the Caturhotri attain their fulfilment through the divinities' (Tai. Ar., 4) etc. These texts say in what way these forms of worship apply to these divinties. For all Vedanta texts lay down that the Supreme Person alone is to be worshipped directly when they enjoin the worship of Indra and other divinities, as they form the body of the Supreme Person. The meaning is that in the Caturhotri sacrifice like Agnihotra, the full moon and the new moon sacrifices etc., it is the Supreme Self only that is worshipped, as He abides as the self in Indra etc., who are the ostensible objects worshipped in these sacrifices by which these worshippers obtain their fulfilment through them. Therefore, the votaries of the three Vedas do not understand that these rituals form the worship of the Supreme Person and that He alone is to be worshipped. As they do not do so, they become experiencers of limited results, and they are again liable to fall into Samsara. Sri Krsna gives expressions to this:
 
 </details>
 </div>
@@ -445,17 +423,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.23. O son of Kunti ! Even those who are the devotees of other gods and
-worship \[them\] with faith, worship Me alone, \[but\] following
-non-injunction;
+9.23. O son of Kunti ! Even those who are the devotees of other gods and worship \[them\] with faith, worship Me alone, \[but\] following non-injunction;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.23 Even those who, being devoted to other deities and endowed with
-faith, worship (them), they also, O son of Kunti, worship Me alone
+9.23 Even those who, being devoted to other deities and endowed with faith, worship (them), they also, O son of Kunti, worship Me alone
 (though) following the wrong method.
 
 </details>
@@ -471,9 +446,7 @@ they thereby worship Me, though not in the right way.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/23_ye-pyanyadevatA_b.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.23 Even those who are devoted to other divinities with faith in their
-hearts, worship Me alone, O Arjuna, though not as sanctioned by the
-Sastras.
+9.23 Even those who are devoted to other divinities with faith in their hearts, worship Me alone, O Arjuna, though not as sanctioned by the Sastras.
 
 </details>
 </div>
@@ -490,22 +463,8 @@ worship Me alone, O Arjuna, b the wrong method.
 
 9.23 ये who; अपि even; अन्यदेवताः other gods; भक्ताः devotees; यजन्ते
 worship; श्रद्धया with faith; अन्विताः endowed; ते they; अपि also; माम्
-Me; एव alone; कौन्तेय O Kaunteya; यजन्ति worship; अविधिपूर्वकम् by the
-wrong method.Commentary They worship Me in ignorance. Their mode of
-worship is contrary to the ancient,rule. Hence they return to this
-world.People worship Agni; Indra; Surya; Varuna; the Vasus; etc. Even
-they attain Me; because I am everywhere. But their devotion is not pure.
-It is vicarious. Water should be given to the root and not to the
-branches. If the root is satisfied; the whole tree must be and is
-satisfied. Even so; if I (the root of this world and all the gods) am
-satisfied; all the gods must be and are satisfied. Though the messages
-from the five organs of knowledge reach the one consciousness; will it
-be right and useful to place a sweetmeat in the ear and a flower in the
-eyes The function of eating must be done by the mouth alone and the
-function of smelling by the nose alone. Therefore I should be worshipped
-in My own nature. They should know Me as the Self in all beings. They
-should recognise Me in other worship. I am the root. I am the source of
-all the gods and of this whole world. (Cf.IV.11VII.20)
+Me; एव alone; कौन्तेय O Kaunteya; यजन्ति worship; अविधिपूर्वकम् by the wrong method.Commentary They worship Me in ignorance. Their mode of worship is contrary to the ancient,rule. Hence they return to this world.People worship Agni; Indra; Surya; Varuna; the Vasus; etc. Even they attain Me; because I am everywhere. But their devotion is not pure.
+It is vicarious. Water should be given to the root and not to the branches. If the root is satisfied; the whole tree must be and is satisfied. Even so; if I (the root of this world and all the gods) am satisfied; all the gods must be and are satisfied. Though the messages from the five organs of knowledge reach the one consciousness; will it be right and useful to place a sweetmeat in the ear and a flower in the eyes The function of eating must be done by the mouth alone and the function of smelling by the nose alone. Therefore I should be worshipped in My own nature. They should know Me as the Self in all beings. They should recognise Me in other worship. I am the root. I am the source of all the gods and of this whole world. (Cf.IV.11VII.20)
 
 </details>
 </div>

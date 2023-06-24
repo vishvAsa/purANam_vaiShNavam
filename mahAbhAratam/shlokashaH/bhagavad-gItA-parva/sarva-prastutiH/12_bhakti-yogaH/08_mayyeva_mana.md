@@ -60,14 +60,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/08_mayyeva_mana.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.8 'Focus your mind on Me alone,' on account of My being the
-unsurpassed end of human endeavour and on My being easily attainable
-without delay. Focus your mind in meditation on Me alone. Let your
-Buddhi 'enter into Me,' strengthened by the conviction that I alone am
-the supreme object to be attained. Then you will 'live in Me alone,'
-i.e., You will live in Me alone immediately after focusing your mind on
-Me by forming the conviction that I alone am the supreme object to be
-attained.
+12.8 'Focus your mind on Me alone,' on account of My being the unsurpassed end of human endeavour and on My being easily attainable without delay. Focus your mind in meditation on Me alone. Let your Buddhi 'enter into Me,' strengthened by the conviction that I alone am the supreme object to be attained. Then you will 'live in Me alone,'
+i.e., You will live in Me alone immediately after focusing your mind on Me by forming the conviction that I alone am the supreme object to be attained.
 
 </details>
 </div>
@@ -368,19 +362,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/08_mayyeva_mana.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.8. \[Hence\], fix your mind on nothing but Me; cuase your taught to
-settle in Me. Thus resorting to the best Yoga, you will dwell in Me
-alone.
+12.8. \[Hence\], fix your mind on nothing but Me; cuase your taught to settle in Me. Thus resorting to the best Yoga, you will dwell in Me alone.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/08_mayyeva_mana.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.8 Fix the mind on Me alone; in Me alone rest the intellect. There is
-no doubt that hereafter you will dwell in Me alone. \[For the sake of
-metre, eva and atah (in the second line of the verse) are not joined
-together (to form evatah).\]
+12.8 Fix the mind on Me alone; in Me alone rest the intellect. There is no doubt that hereafter you will dwell in Me alone. \[For the sake of metre, eva and atah (in the second line of the verse) are not joined together (to form evatah).\]
 
 </details>
 </div>
@@ -403,8 +392,7 @@ Then, you will live in Me alone; there is no doubt.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/08_mayyeva_mana.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.8 Fix thy mind in Me only, thy intellect in Me, (then) thou shalt no
-doubt live in Me alone hereafter.
+12.8 Fix thy mind in Me only, thy intellect in Me, (then) thou shalt no doubt live in Me alone hereafter.
 
 </details>
 </div>
@@ -413,13 +401,9 @@ doubt live in Me alone hereafter.
 
 12.8 मयि in Me; एव only; मनः the mind; आधत्स्व fix; मयि in Me; बुद्धिम्
 (thy) intellect; निवेशय place; निवसिष्यसि thou shalt live; मयि in Me; एव
-alone; अतः ऊर्ध्वम् hereafter; न not; संशयः doubt.Commentary Fix thy
-mind means thy purposes and thoughts in Me the Lord in the Cosmic Form.
-Give up entirely all thoughts of sensual objects. Fix in Me thy
-intellect also -- the faculty which resolves and determines.What will be
-the result then Thou shalt undoubtedly live in Me as Myself. O Arjuna;
-of this there is no doubt whatsoever.The Yoga of meditation is described
-in this verse. (Cf.VIII.7X.9XI.34XVIII.65)
+alone; अतः ऊर्ध्वम् hereafter; न not; संशयः doubt.Commentary Fix thy mind means thy purposes and thoughts in Me the Lord in the Cosmic Form.
+Give up entirely all thoughts of sensual objects. Fix in Me thy intellect also -- the faculty which resolves and determines.What will be the result then Thou shalt undoubtedly live in Me as Myself. O Arjuna;
+of this there is no doubt whatsoever.The Yoga of meditation is described in this verse. (Cf.VIII.7X.9XI.34XVIII.65)
 
 </details>
 </div>

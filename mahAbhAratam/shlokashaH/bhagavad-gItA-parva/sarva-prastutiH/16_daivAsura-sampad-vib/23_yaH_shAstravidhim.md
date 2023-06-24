@@ -66,12 +66,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.23 Here Sastra means Vedas. Vidhi stands for injunction. He who
-abandons My injunction called Vedas and acts under the influence of
-desire, viz., takes the path according to his own wishes, does not
-attain perfection, He does not reach any Siddhi in the next world, nor
-does he find the slighest happiness in this world, let alone the
-attainment of the supreme state. It is not possible for him to do so.
+16.23 Here Sastra means Vedas. Vidhi stands for injunction. He who abandons My injunction called Vedas and acts under the influence of desire, viz., takes the path according to his own wishes, does not attain perfection, He does not reach any Siddhi in the next world, nor does he find the slighest happiness in this world, let alone the attainment of the supreme state. It is not possible for him to do so.
 Such is the meaning.
 
 </details>
@@ -372,45 +367,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.23. He, who neglects the injunction of the scriptures, and acts
-according to his own will-he attains neither the success, nor happiness
-nor the highest goal (emancipation).
+16.23. He, who neglects the injunction of the scriptures, and acts according to his own will-he attains neither the success, nor happiness nor the highest goal (emancipation).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.23 Ignoring the precept of the scriptures, he who acts under the
-impulsion of passion,-he does not attain perfection, nor happiness, nor
-the supreme Goal.
+16.23 Ignoring the precept of the scriptures, he who acts under the impulsion of passion,-he does not attain perfection, nor happiness, nor the supreme Goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.23 But he who neglects the commands of the scriptures, and follows
-the promptings of passion, he does not attain perfection, happiness or
-the final goal.
+16.23 But he who neglects the commands of the scriptures, and follows the promptings of passion, he does not attain perfection, happiness or the final goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.23 He who, abandoning the injunctions of the Sastras, acts under the
-influence of desire, attains neither perfection nor pleasure, nor the
-supreme state.
+16.23 He who, abandoning the injunctions of the Sastras, acts under the influence of desire, attains neither perfection nor pleasure, nor the supreme state.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/23_yaH_shAstravidhim.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-16.23 He who, having cast aside the ordinances of the scriptures, acts
-under the impulse of desire, attains not perfection, nor happiness nor
-the Supreme Goal.
+16.23 He who, having cast aside the ordinances of the scriptures, acts under the impulse of desire, attains not perfection, nor happiness nor the Supreme Goal.
 
 </details>
 </div>
@@ -420,14 +405,7 @@ the Supreme Goal.
 16.23 यः who; शास्त्रविधिम् the ordinance of the scriptures; उत्सृज्य
 having cast aside; वर्तते acts; कामकारतः under the impulse of desire; न
 not; सः he; सिद्धिम् perfection; अवाप्नोति attains; न not; सुखम्
-happiness; न not; पराम् Supreme; गतिम् Goal.Commentary He who does not
-care for the Self; who gives free rein to these three sins; is a traitor
-to the Self. He who has renounced the authority of the Vedas which; like
-a mother; is eally disposed and kind to all; and which; like a
-beaconlight; points out what is good and what is evil; does not attain
-perfection nor happiness nor the Supreme Goal. He who pays no attention
-to prescribed actions and follows the promptings of desire awakened by
-the senses; does not obtain God.
+happiness; न not; पराम् Supreme; गतिम् Goal.Commentary He who does not care for the Self; who gives free rein to these three sins; is a traitor to the Self. He who has renounced the authority of the Vedas which; like a mother; is eally disposed and kind to all; and which; like a beaconlight; points out what is good and what is evil; does not attain perfection nor happiness nor the Supreme Goal. He who pays no attention to prescribed actions and follows the promptings of desire awakened by the senses; does not obtain God.
 
 </details>
 </div>

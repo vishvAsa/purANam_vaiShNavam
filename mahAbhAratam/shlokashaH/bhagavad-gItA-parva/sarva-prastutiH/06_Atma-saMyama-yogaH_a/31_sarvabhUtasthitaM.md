@@ -70,14 +70,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.31 (iii) The Yogin who, fixed in the state of Yoga in oneness because
-he has the same form of uncontracted knowledge (as Myself), worships Me
-steadfastly by renouncing the differences of the Prakrti (i.e., of the
-body) - then that Yogin, even while coming out of Yoga, howsoever he may
-live, views Me only, when viewing his own self and all other beings. The
-meaning is that he views his similarity to Myself in his own self and in
-the self of all beings. Now Sri Krsna proceeds to speak of the maturest
-stage beyond this:
+6.31 (iii) The Yogin who, fixed in the state of Yoga in oneness because he has the same form of uncontracted knowledge (as Myself), worships Me steadfastly by renouncing the differences of the Prakrti (i.e., of the body) - then that Yogin, even while coming out of Yoga, howsoever he may live, views Me only, when viewing his own self and all other beings. The meaning is that he views his similarity to Myself in his own self and in the self of all beings. Now Sri Krsna proceeds to speak of the maturest stage beyond this:
 
 </details>
 </div>
@@ -386,25 +379,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.31. He, who, established firmly in the oneness (of Me), experiences Me
-immanent in all beings-that man of Yoga, is never stained, in whatever
-stage he may be.
+6.31. He, who, established firmly in the oneness (of Me), experiences Me immanent in all beings-that man of Yoga, is never stained, in whatever stage he may be.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.31 That yogi who, being established in unity, adores Me as existing in
-all things, he exist in Me-in whatever condition he may be.
+6.31 That yogi who, being established in unity, adores Me as existing in all things, he exist in Me-in whatever condition he may be.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.31 The sage who realises the unity of life and who worships Me in all
-beings, lives in Me, whatever may be his lot.
+6.31 The sage who realises the unity of life and who worships Me in all beings, lives in Me, whatever may be his lot.
 
 </details>
 </div>
@@ -419,8 +408,7 @@ beings, lives in Me, whatever may be his lot.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/31_sarvabhUtasthitaM.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.31 He who, being established in unity, worships Me Who dwells in all
-beings, that Yogi abides in Me, whatever may be his mode of living.
+6.31 He who, being established in unity, worships Me Who dwells in all beings, that Yogi abides in Me, whatever may be his mode of living.
 
 </details>
 </div>
@@ -430,11 +418,7 @@ beings, that Yogi abides in Me, whatever may be his mode of living.
 6.31 सर्वभूतस्थितम् abiding in all beings; यः who; माम् Me; भजति
 worships; एकत्वम् unity; आस्थितः established; सर्वथा in every way;
 वर्तमानः remaining; अपि also; सः that; योगी Yogi; मयि in Me; वर्तते
-abides.Commentary He who has dissolved all duality in the underlying
-unity; who is thus established in unity; who worships Me; i.e.; who has
-realised Me as the Self of all; dwells always in Me; whatever his mode
-of living may be. He is ever liberated.Sadana lived in God though he was
-a butcher because his mind was ever fixed at the lotus feet of the Lord.
+abides.Commentary He who has dissolved all duality in the underlying unity; who is thus established in unity; who worships Me; i.e.; who has realised Me as the Self of all; dwells always in Me; whatever his mode of living may be. He is ever liberated.Sadana lived in God though he was a butcher because his mind was ever fixed at the lotus feet of the Lord.
 
 </details>
 </div>

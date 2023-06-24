@@ -74,15 +74,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.25 The self is not made manifest by those Pramanas (means of
-knowledge) by which objects susceptible of being cleft etc., are made
-manifest; hence It is unmanifest, being different in kind from objects
-susceptible to cleaving etc., It is inconceivable, being different in
-kind from all objects. As It does not possess the essential nature of
-any of them. It cannot even be conceived. Therefore, It is unchanging,
-incapable of modifications. So knowing this self to be possessed of the
-above mentioned alities, it does not become you to feel grief for Its
-sake.
+2.25 The self is not made manifest by those Pramanas (means of knowledge) by which objects susceptible of being cleft etc., are made manifest; hence It is unmanifest, being different in kind from objects susceptible to cleaving etc., It is inconceivable, being different in kind from all objects. As It does not possess the essential nature of any of them. It cannot even be conceived. Therefore, It is unchanging,
+incapable of modifications. So knowing this self to be possessed of the above mentioned alities, it does not become you to feel grief for Its sake.
 
 </details>
 </div>
@@ -443,18 +436,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.25. This is declared to be non-evident, imponderable, and
-unchangeable. Therefore understanding This as such you should not
-lament.
+2.25. This is declared to be non-evident, imponderable, and unchangeable. Therefore understanding This as such you should not lament.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.25 It is said that This is unmanifest; This is inconceivable; This is
-unchangeable. Therefore, having known This thus, you ougth not to
-grieve.
+2.25 It is said that This is unmanifest; This is inconceivable; This is unchangeable. Therefore, having known This thus, you ougth not to grieve.
 
 </details>
 </div>
@@ -477,9 +466,7 @@ Therefore, knowing It thus, it does not befit you to grieve.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/25_avyakto-yamachint.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.25 This (Self) is said to be unmanifested, unthinkable and
-unchangeable. Therefore, knowing This to be such, thou shouldst not
-grieve.
+2.25 This (Self) is said to be unmanifested, unthinkable and unchangeable. Therefore, knowing This to be such, thou shouldst not grieve.
 
 </details>
 </div>
@@ -489,15 +476,8 @@ grieve.
 2.25 अव्यक्तः unmanifested; अयम् this (Self); अचिन्त्यः unthinkable;
 अयम् this; अविकार्यः unchangeable; अयम् this; उच्यते is said; तस्मात्
 therefore; एवम् thus; विदित्वा having known; एनम् this; न not;
-अनुशोचितुम् to grieve; अर्हसि (thou) oughtest.Commentary The Self is not
-an object of perception. It can hardly be seen by the physical eyes.
-Therefore; the Self is unmanifested. That which is seen by the eyes
-becomes an object of thought. As the Self cannot be perceived by the
-eyes; It is unthinkable. Milk when mixed with buttermilk changes its
-form. The Self cannot change Its form like milk. Hence; It is changeless
-and immutable. Therefore; thus understanding the Self; thou shouldst not
-mourn. Thou shouldst not think also that thou art their slayer and that
-they are killed by thee.
+अनुशोचितुम् to grieve; अर्हसि (thou) oughtest.Commentary The Self is not an object of perception. It can hardly be seen by the physical eyes.
+Therefore; the Self is unmanifested. That which is seen by the eyes becomes an object of thought. As the Self cannot be perceived by the eyes; It is unthinkable. Milk when mixed with buttermilk changes its form. The Self cannot change Its form like milk. Hence; It is changeless and immutable. Therefore; thus understanding the Self; thou shouldst not mourn. Thou shouldst not think also that thou art their slayer and that they are killed by thee.
 
 </details>
 </div>

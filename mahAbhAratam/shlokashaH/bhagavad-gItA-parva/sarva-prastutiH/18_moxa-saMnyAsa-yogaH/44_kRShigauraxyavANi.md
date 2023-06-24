@@ -169,26 +169,10 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 18.44 'Agriculture' is cultivation to produce crops. The meaning of
-'cattle breeding' is the protection and rearing of cattle. 'Trade' is
-the activity causing the amassing of wealth through buying and selling.
-This is the duty of Vaisya born of his inherent nature. The duty of a
-Sudra, born of his inherent nature, is service to the three Orders
-mentioned earlier. All these have been described to stress that the
-occupational activities of the four stations are auxiliary to the
-performance of sacrifices etc., which are ordained by the Sastra.
-Sacrifices etc., are common to the first three stations. Control of the
-senses etc., are common to those who, among the first three stations,
-are anxious for release. As a Brahmana possesses preponderance of
-Sattva, and as the control of the senses, mind etc., can be performed by
-him easily and naturally, control of the senses etc., have been
-prescribed as his duty. As control of the mind, senses etc., can be
-performed only with difficulty by the Ksatriyas and the Vaisyas owing to
-the preponderance of Rajas and Tamas respectively in them, these have
-not been stated as their duty. The occupation of a Brahmana is
-officiating as priest in sacrifices, teaching the Vedas and receiving
-gifts. The occupation of a Ksatriya is protecting the people and that of
-the Vaisyas is farming etc., as mentioned before. The duty and
-occupation of the Sudra is service to the three stations.
+'cattle breeding' is the protection and rearing of cattle. 'Trade' is the activity causing the amassing of wealth through buying and selling.
+This is the duty of Vaisya born of his inherent nature. The duty of a Sudra, born of his inherent nature, is service to the three Orders mentioned earlier. All these have been described to stress that the occupational activities of the four stations are auxiliary to the performance of sacrifices etc., which are ordained by the Sastra.
+Sacrifices etc., are common to the first three stations. Control of the senses etc., are common to those who, among the first three stations,
+are anxious for release. As a Brahmana possesses preponderance of Sattva, and as the control of the senses, mind etc., can be performed by him easily and naturally, control of the senses etc., have been prescribed as his duty. As control of the mind, senses etc., can be performed only with difficulty by the Ksatriyas and the Vaisyas owing to the preponderance of Rajas and Tamas respectively in them, these have not been stated as their duty. The occupation of a Brahmana is officiating as priest in sacrifices, teaching the Vedas and receiving gifts. The occupation of a Ksatriya is protecting the people and that of the Vaisyas is farming etc., as mentioned before. The duty and occupation of the Sudra is service to the three stations.
 
 </details>
 </div>
@@ -852,35 +836,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.44. Ploughing, cattle-tending and trading are the actions of the
-Vaisyas, born of their nature. The action, in the form of service, is of
-the Sudras, born of their nature.
+18.44. Ploughing, cattle-tending and trading are the actions of the Vaisyas, born of their nature. The action, in the form of service, is of the Sudras, born of their nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.44 The natural duties of the Vaisyas are agriculture, cattle-rearing
-and trade. Of the Sudras, too, the natural duty is in the form of
-service.
+18.44 The natural duties of the Vaisyas are agriculture, cattle-rearing and trade. Of the Sudras, too, the natural duty is in the form of service.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.44 Agriculture, protection of the cow and trade are the duty of a
-trader, again in accordance with his nature. The duty of a servant is to
-serve, and that too agrees with his nature.
+18.44 Agriculture, protection of the cow and trade are the duty of a trader, again in accordance with his nature. The duty of a servant is to serve, and that too agrees with his nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/44_kRShigauraxyavANi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.44 Agriculture, cattle-breeding and trade are the duties of the
-Vaisya born of his nature৷৷. And the duty of a Sudra is one of service,
+18.44 Agriculture, cattle-breeding and trade are the duties of the Vaisya born of his nature৷৷. And the duty of a Sudra is one of service,
 born of his nature.
 
 </details>
@@ -889,8 +866,7 @@ born of his nature.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 18.44 Agriculture, cattle-rearing and trade are the duties of the Vaisya
-(merchant), born of (their own) nature; and action consisting of service
-is the duty of the Sudra (servant-class), born of (their own) nature.
+(merchant), born of (their own) nature; and action consisting of service is the duty of the Sudra (servant-class), born of (their own) nature.
 
 </details>
 </div>
@@ -900,16 +876,8 @@ is the duty of the Sudra (servant-class), born of (their own) nature.
 18.44 कृषिगौरक्ष्यवाणिज्यम् agriculture; cattlerearing and trade;
 वैश्यकर्म the duties of Vaisya; स्वभावजम् born of nature; परिचर्यात्मकम्
 consisting of service; कर्म action; शूद्रस्य of the Sudra; अपि also;
-स्वभावजम् born of nature.Commentary When a man performs his duties
-rightly according to his caste and order of life his heart is purified
-and he goes to heaven. Apastambha Dharma Sutra declares; Men of
-severla,castes and orders; each devoted to his respective duties; reap
-the fruits of their actions after death; and then by the residual Karma
-attain to births in superior Dharma; span of life; learning; conduct;
-wealth; happiness and intelligence (2;2;2;3). There is a vivid
-description in the Puranas also of the different results and worlds
-which men of the four castes and orders obtain by discharging their
-respective duties.
+स्वभावजम् born of nature.Commentary When a man performs his duties rightly according to his caste and order of life his heart is purified and he goes to heaven. Apastambha Dharma Sutra declares; Men of severla,castes and orders; each devoted to his respective duties; reap the fruits of their actions after death; and then by the residual Karma attain to births in superior Dharma; span of life; learning; conduct;
+wealth; happiness and intelligence (2;2;2;3). There is a vivid description in the Puranas also of the different results and worlds which men of the four castes and orders obtain by discharging their respective duties.
 
 </details>
 </div>

@@ -62,10 +62,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/25_bhIShmadroNapramu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna
-did immediately as He had been directed, while Bhisma, Drona and others
-and all the kings were looking on. Such is the prospect of victory for
-your men.
+1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna did immediately as He had been directed, while Bhisma, Drona and others and all the kings were looking on. Such is the prospect of victory for your men.
 
 </details>
 </div>
@@ -403,28 +400,21 @@ sons' sons and comrades, fathers-in-law, and also friends.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 1.24 1.25 Sanjay said O scion of the line of Bharata (Dhrtararastra),
-Hrsikesa, being told so by Gudakesa (Arjuna), placed the excellent
-chariot between the two armies, in front of Bhisma and Drona as also all
-the rulers of the earth, and said, 'O Partha (Arjuna), see these
-assempled people of the Kuru dynasty.'
+Hrsikesa, being told so by Gudakesa (Arjuna), placed the excellent chariot between the two armies, in front of Bhisma and Drona as also all the rulers of the earth, and said, 'O Partha (Arjuna), see these assempled people of the Kuru dynasty.'
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/25_bhIShmadroNapramu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.25 Whither Bheeshma and Drona had led all the rulers of the earth, and
-spoke thus: O Arjuna! Behold these members of the family of Kuru
-assembled.
+1.25 Whither Bheeshma and Drona had led all the rulers of the earth, and spoke thus: O Arjuna! Behold these members of the family of Kuru assembled.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/25_bhIShmadroNapramu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.24 - 1.25 Sanjaya said: Thus addressed by Arjuna, Sri Krsna drew up
-that best of chariots between the two armies before the view of Bhisma
-and Drona and all the other kings, O Dhrtarastra, and said, 'O Arjuna,
+1.24 - 1.25 Sanjaya said: Thus addressed by Arjuna, Sri Krsna drew up that best of chariots between the two armies before the view of Bhisma and Drona and all the other kings, O Dhrtarastra, and said, 'O Arjuna,
 behold these assembled Kauravas.'
 
 </details>
@@ -442,8 +432,7 @@ said: "O Arjuna (son of Pritha), behold these Kurus gathered together."
 
 1.25 भीष्मद्रोणप्रमुखतः in front of Bhishma and Drona; सर्वेषाम् of all;
 च and; महीक्षिताम् rulers of the earth; उवाच said; पार्थ O Partha; पश्य
-behold; एतान् these; समवेतान् gathered; कुरून् Kurus; इति thus.No
-Commentary.
+behold; एतान् these; समवेतान् gathered; कुरून् Kurus; इति thus.No Commentary.
 
 </details>
 </div>

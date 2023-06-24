@@ -59,9 +59,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.16 Over-eating and excessive fasting are opposed to Yoga. So also are
-excessive recreation and non-recreation, too much of sleep and too much
-of vigil. So too, are overwork and idleness.
+6.16 Over-eating and excessive fasting are opposed to Yoga. So also are excessive recreation and non-recreation, too much of sleep and too much of vigil. So too, are overwork and idleness.
 
 </details>
 </div>
@@ -353,17 +351,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.16. Yoga is neither for him who eats too much; nor for him who totally
-abstains from eating; nor for him who is prone to sleep too much; and
-nor for him who keeps awake too much.
+6.16. Yoga is neither for him who eats too much; nor for him who totally abstains from eating; nor for him who is prone to sleep too much; and nor for him who keeps awake too much.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.16 But, O Arjuna, Yoga is not for one who eats too much, nor for one
-who does not eat at all; neither for one who habitually sleeps too long,
+6.16 But, O Arjuna, Yoga is not for one who eats too much, nor for one who does not eat at all; neither for one who habitually sleeps too long,
 nor surely for one who keeps awake.
 
 </details>
@@ -371,27 +366,21 @@ nor surely for one who keeps awake.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.16 Meditation is not for him who eats too much, not for him who eats
-not at all; not for him who is overmuch addicted to sleep, not for him
-who is always awake.
+6.16 Meditation is not for him who eats too much, not for him who eats not at all; not for him who is overmuch addicted to sleep, not for him who is always awake.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.16 Yoga is not for him who over-eats, nor for him who fasts
-excessively; not for him, O Arjuna, who sleeps too much, nor for him who
-stays awake too long.
+6.16 Yoga is not for him who over-eats, nor for him who fasts excessively; not for him, O Arjuna, who sleeps too much, nor for him who stays awake too long.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/16_nAtyashnatastu_yo.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.16 Verily Yoga is not possible for him who eats too much, nor for him
-who does not eat at all, nor for him who sleeps too much, nor for him
-who is (always) awake, O Arjuna.
+6.16 Verily Yoga is not possible for him who eats too much, nor for him who does not eat at all, nor for him who sleeps too much, nor for him who is (always) awake, O Arjuna.
 
 </details>
 </div>
@@ -399,25 +388,9 @@ who is (always) awake, O Arjuna.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.16 न not; अत्यश्नतः of one who eats too much; तु verily; योगः Yoga;
-अस्ति is; न not; च and; एकान्तम् at all; अनश्नतः of one who does not
-eat; न not; च and; अतिस्वप्नशीलस्य of one who sleeps too much; जाग्रतः
-one who is awake; न not; एव even; च and; अर्जुन O Arjuna.Commentary In
-this verse the Lord prescribes the diet for the students of Yoga. You
-must observe moderation in eating and sleeping. If you eat too much you
-will feel drowsy; and sleep will overpower you. You will get
-indigestion; flatulence; diseases of the bowels and the liver. If you
-eat too little you will get weakness and you will not be able to sit for
-a long time in meditation. You should eat neither more nor less than
-what is actually necessary for maintaining the body in a healthy and
-strong state.It may mean also that success in Yoga is not possible for
-him who eats more than the antity prescribed in the text books on Yoga.
-They prescribe Half the stomach must be filled with food a arter with
-water and the remaining fourth must be empty for the free movement of
-air. This is the Mitahara or moderate diest for a student of Yoga.If you
-sleep too much you will become lethargic. The mind will be dull and the
-body will be heavy. You cannot meditate. If you sleep too little you
-will experience drowsiness. You will sleep during meditation. Keep the
-golden medium. You will have rapid progress in Yoga.
+अस्ति is; न not; च and; एकान्तम् at all; अनश्नतः of one who does not eat; न not; च and; अतिस्वप्नशीलस्य of one who sleeps too much; जाग्रतः
+one who is awake; न not; एव even; च and; अर्जुन O Arjuna.Commentary In this verse the Lord prescribes the diet for the students of Yoga. You must observe moderation in eating and sleeping. If you eat too much you will feel drowsy; and sleep will overpower you. You will get indigestion; flatulence; diseases of the bowels and the liver. If you eat too little you will get weakness and you will not be able to sit for a long time in meditation. You should eat neither more nor less than what is actually necessary for maintaining the body in a healthy and strong state.It may mean also that success in Yoga is not possible for him who eats more than the antity prescribed in the text books on Yoga.
+They prescribe Half the stomach must be filled with food a arter with water and the remaining fourth must be empty for the free movement of air. This is the Mitahara or moderate diest for a student of Yoga.If you sleep too much you will become lethargic. The mind will be dull and the body will be heavy. You cannot meditate. If you sleep too little you will experience drowsiness. You will sleep during meditation. Keep the golden medium. You will have rapid progress in Yoga.
 
 </details>
 </div>

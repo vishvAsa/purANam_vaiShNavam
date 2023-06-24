@@ -70,20 +70,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/02_ahiMsA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.2 'Non-injury' is abstaining from injury to others. 'Truth' is
-communication by words of what one knows for certain and what is
-conducive to the good of others. 'Freedom from anger' is the absence in
-oneself of the mental state, which, if permitted, leads to injury to
-others. 'Renunciation' is the abandonment of everything that is contrary
-to the good of the self. 'Tranillity' is practice of controlling the
-senses from their propensity towards sense-objects. 'Not-slandering
-others' means refraining oneself from speech that may cause evil to
-others. 'Compassion to all beings' means one's incapacity to stand the
-suffering of others. 'Aloluptvam' means freedom from desire for
-sense-objects. 'Gentleness' means absence of harshness, and being worthy
-of associating with the good. 'Sense of shame' is shrinking from doing
-what should not be done. 'Acapalam' means being unattracted by objects
-enjoyable by the senses even when they are at hand.
+16.2 'Non-injury' is abstaining from injury to others. 'Truth' is communication by words of what one knows for certain and what is conducive to the good of others. 'Freedom from anger' is the absence in oneself of the mental state, which, if permitted, leads to injury to others. 'Renunciation' is the abandonment of everything that is contrary to the good of the self. 'Tranillity' is practice of controlling the senses from their propensity towards sense-objects. 'Not-slandering others' means refraining oneself from speech that may cause evil to others. 'Compassion to all beings' means one's incapacity to stand the suffering of others. 'Aloluptvam' means freedom from desire for sense-objects. 'Gentleness' means absence of harshness, and being worthy of associating with the good. 'Sense of shame' is shrinking from doing what should not be done. 'Acapalam' means being unattracted by objects enjoyable by the senses even when they are at hand.
 
 </details>
 </div>
@@ -647,17 +634,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/02_ahiMsA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.2. Harmlessness, truth, absence of anger, renunciation, absence of
-attachment, absence of calumny, compassion to living beings, and absence
-of greed, gentleness, modesty, absence of thoughtlessness;
+16.2. Harmlessness, truth, absence of anger, renunciation, absence of attachment, absence of calumny, compassion to living beings, and absence of greed, gentleness, modesty, absence of thoughtlessness;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/02_ahiMsA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.2 Non-injury, truthfulness, absence of anger, renunciation, control
-of the internal organ, absence of vilification, kindness to creatures,
+16.2 Non-injury, truthfulness, absence of anger, renunciation, control of the internal organ, absence of vilification, kindness to creatures,
 non-covetousness, gentleness, modesty, freedom from restlessness;
 
 </details>
@@ -695,29 +679,9 @@ gentleness, modesty, absence of fickleness.
 16.2 अहिंसा harmlessness; सत्यम् truth; अक्रोधः absence of anger; त्यागः
 renunciation; शान्तिः peacefulness; अपैशुनम् absence of crookedness; दया
 compassion; भूतेषु in beings; अलोलुप्त्वम् noncovetousness; मार्दवम्
-gentleness; ह्रीः modesty; अचापलम् absence of fickleness.Commentary
-Ahimsa Noninjury in thought; word and deed. By refraining from injuring
-living creatures the outgoing forces of Rajas are curbed. Ahimsa is
-divided into physical; verbal and mental.Satyam Truth Speaking of things
-as they are; without uttering unpleasant words or lies. This includes
-selfrestraint; absence of jealousy; forgiveness; patience; endurance and
-kindness.Akrodhah Absence of anger when insulted; ruked or beaten; i.e.;
+gentleness; ह्रीः modesty; अचापलम् absence of fickleness.Commentary Ahimsa Noninjury in thought; word and deed. By refraining from injuring living creatures the outgoing forces of Rajas are curbed. Ahimsa is divided into physical; verbal and mental.Satyam Truth Speaking of things as they are; without uttering unpleasant words or lies. This includes selfrestraint; absence of jealousy; forgiveness; patience; endurance and kindness.Akrodhah Absence of anger when insulted; ruked or beaten; i.e.;
 even under the gravest provocation.Tyagah Renunciation -- literally;
-giving up giving up of Vasanas; egoism and the fruits of action. Charity
-is also Tyaga. This has already been mentioned in the previous
-verse.Santih Serenity of the mind.Apaisunam Absence of
-narrowmindedness.Daya Compassion to those who are in distress. A man of
-compassion has a tender heart. He lives only for the benefit of the
-world. Compassion indicates realisation of unity or oneness with other
-creatures.Aloluptvam Noncovetousness. The senses are not affected or
-excited when they come in contact with their respective objects the
-senses are withdrawn from the objects of the senses; just as the limbs
-of the tortoise are withdrawn by it into its own shell.Hrih It is shame
-felt in the performance of actions contrary to the rules of the Vedas or
-of society.Achapalam Not to speak or move the hands and legs in vain
-avoidance of useless action.Straightforwardness; noninjury; absence of
-anger; etc.; are special alities of the Brahmanas. They are the Sattvic
-virtues which belong to them.Moreover --
+giving up giving up of Vasanas; egoism and the fruits of action. Charity is also Tyaga. This has already been mentioned in the previous verse.Santih Serenity of the mind.Apaisunam Absence of narrowmindedness.Daya Compassion to those who are in distress. A man of compassion has a tender heart. He lives only for the benefit of the world. Compassion indicates realisation of unity or oneness with other creatures.Aloluptvam Noncovetousness. The senses are not affected or excited when they come in contact with their respective objects the senses are withdrawn from the objects of the senses; just as the limbs of the tortoise are withdrawn by it into its own shell.Hrih It is shame felt in the performance of actions contrary to the rules of the Vedas or of society.Achapalam Not to speak or move the hands and legs in vain avoidance of useless action.Straightforwardness; noninjury; absence of anger; etc.; are special alities of the Brahmanas. They are the Sattvic virtues which belong to them.Moreover --
 
 </details>
 </div>

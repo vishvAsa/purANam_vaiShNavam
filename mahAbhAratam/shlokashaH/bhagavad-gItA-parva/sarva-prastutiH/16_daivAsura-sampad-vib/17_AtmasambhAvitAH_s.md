@@ -66,18 +66,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.17 They are held in 'high esteem by themselves'; the meaning is they
-are full of the sense of self-esteem. They feel self-sufficient, viz.,
+16.17 They are held in 'high esteem by themselves'; the meaning is they are full of the sense of self-esteem. They feel self-sufficient, viz.,
 regarding themselves as perfect, they do nothing. How; They are
-'possessed of the intoxication of wealth and pride,' viz., they are
-intoxicated by wealth and pride of wealth, learning and descent. They
-perform sacrifices in name only,' viz., they perform sacrifices for the
-fame of it, the purpose being gaining fame as the performers of
-sacrifice. These are performed for ostentation acutated with the motive
-of becoming famous as the performers of sacrifices and not in accordance
-with the proper rulesof the Sastras, viz., without regard to any
-;ndment. Sri Krsna says that they perform sacrifices in the following
-manner:
+'possessed of the intoxication of wealth and pride,' viz., they are intoxicated by wealth and pride of wealth, learning and descent. They perform sacrifices in name only,' viz., they perform sacrifices for the fame of it, the purpose being gaining fame as the performers of sacrifice. These are performed for ostentation acutated with the motive of becoming famous as the performers of sacrifices and not in accordance with the proper rulesof the Sastras, viz., without regard to any
+;ndment. Sri Krsna says that they perform sacrifices in the following manner:
 
 </details>
 </div>
@@ -387,17 +379,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.17. Self-conceited, stubborn, filled with pride and arrogance of
-wealth, they pretend to perform sacrifices with hypocricy, not following
-injunction \[of the Vedas\].
+16.17. Self-conceited, stubborn, filled with pride and arrogance of wealth, they pretend to perform sacrifices with hypocricy, not following injunction \[of the Vedas\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.17 Self-conceited, haughty, filled with pride and intoxication of
-wealth, they perform sacrifices which are so in name only, with
+16.17 Self-conceited, haughty, filled with pride and intoxication of wealth, they perform sacrifices which are so in name only, with
 ostentation and regardless of the injunctions.
 
 </details>
@@ -405,26 +394,21 @@ ostentation and regardless of the injunctions.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.17 Self-conceited, stubborn, rich, proud and insolent, they make a
-display of their patronage, disregarding the rules of decency.
+16.17 Self-conceited, stubborn, rich, proud and insolent, they make a display of their patronage, disregarding the rules of decency.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.17 Self-conceited, self-sufficient, possessed of the intoxication of
-wealth and pride, they perform sacrifices in name only, with ostentation
-and not according to the injunctions of the Sastras.
+16.17 Self-conceited, self-sufficient, possessed of the intoxication of wealth and pride, they perform sacrifices in name only, with ostentation and not according to the injunctions of the Sastras.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/17_AtmasambhAvitAH_s.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-16.17 Self-conceited, stubborn, filled with the pride and intoxication
-of wealth, they perform sacrifices in name out of ostentation, contrary
-to scriptural ordinances.
+16.17 Self-conceited, stubborn, filled with the pride and intoxication of wealth, they perform sacrifices in name out of ostentation, contrary to scriptural ordinances.
 
 </details>
 </div>
@@ -434,35 +418,10 @@ to scriptural ordinances.
 16.17 आत्मसम्भाविताः selfconceited; स्तब्धाः stubborn; धनमानमदान्विताः
 filled with the pride and intoxication of wealth; यजन्ते (they) perform;
 नामयज्ञैः sacrifices in name; ते they; दम्भेन out of ostentation;
-अविधिपूर्वकम् contrary to scriptural ordinances.Commentary They are
-puffed up with unbounded pride. They esteem themselves very highly. They
-are not esteemed or honoured as such by the righteous or pious persons.
-They have a very high opinion of their own greatness. They esteem
-themselves as possessed of all the virtuous attributes. They are not
-humble. They have no humility or meekness. Their minds are entirely
-filled with a sense of their own importance. They treat others with
-contempt. They think that others are inferior to them. They never bend
-their heads and make prostrations to elders or superiors or spiritual
-teachers and monks. They stand erect like a pillar or iron post;
-intoxicated as they are with the wine of wealth. They pretend to perform
-Yajnas.They do not care for an altar; a sacrifical bower or a receptacle
-for the fire; or any of the proper materials to be used in the
-sacrifices. They do not pay any attention to the prescribed rules. They
-do sacrifices in order to increase their own fame. They will not hear
-even the mentioning of the name of God or Brahmana. How can God or a
-Brahmana attend their sacrifices They perform sacrifices without paying
-attention to the several parts of them and the obligations enjoined in
-the scriptural ordinances such as the recitation of the Mantras; worship
-of the gods; giving of the fees; etc. They will not do the sacrifices
-with reverence and faith. They want that all the people should say that
-they are Somayajis (performers of the Soma sacrifice). They will not
-attain the fruits of the sacrifice. There is no idea of service in them.
-They perform sacrifice to deceive the world; but not out of sincerity
-and faith.Mana Pride consists in supposing oneself worthy of a high
-honour (on account of ones wealth or learning; etc.).Mada On account of
-intoxication of wealth the wealthy man treats the Guru and other persons
-who are worthy of being honoured; with contempt. Wealth and learning
-turn their heads. This is Mada.
+अविधिपूर्वकम् contrary to scriptural ordinances.Commentary They are puffed up with unbounded pride. They esteem themselves very highly. They are not esteemed or honoured as such by the righteous or pious persons.
+They have a very high opinion of their own greatness. They esteem themselves as possessed of all the virtuous attributes. They are not humble. They have no humility or meekness. Their minds are entirely filled with a sense of their own importance. They treat others with contempt. They think that others are inferior to them. They never bend their heads and make prostrations to elders or superiors or spiritual teachers and monks. They stand erect like a pillar or iron post;
+intoxicated as they are with the wine of wealth. They pretend to perform Yajnas.They do not care for an altar; a sacrifical bower or a receptacle for the fire; or any of the proper materials to be used in the sacrifices. They do not pay any attention to the prescribed rules. They do sacrifices in order to increase their own fame. They will not hear even the mentioning of the name of God or Brahmana. How can God or a Brahmana attend their sacrifices They perform sacrifices without paying attention to the several parts of them and the obligations enjoined in the scriptural ordinances such as the recitation of the Mantras; worship of the gods; giving of the fees; etc. They will not do the sacrifices with reverence and faith. They want that all the people should say that they are Somayajis (performers of the Soma sacrifice). They will not attain the fruits of the sacrifice. There is no idea of service in them.
+They perform sacrifice to deceive the world; but not out of sincerity and faith.Mana Pride consists in supposing oneself worthy of a high honour (on account of ones wealth or learning; etc.).Mada On account of intoxication of wealth the wealthy man treats the Guru and other persons who are worthy of being honoured; with contempt. Wealth and learning turn their heads. This is Mada.
 
 </details>
 </div>

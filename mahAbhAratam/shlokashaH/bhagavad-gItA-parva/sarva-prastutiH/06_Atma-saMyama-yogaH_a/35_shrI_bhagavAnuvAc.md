@@ -61,13 +61,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.35 The Lord said No doubt, the mind is hard to subdue on account of
-its fickle nature. However, it can be subdued with difficulty by
-cultivating favourable attitude in the direction of the self by repeated
-contemplation of Its being a mind of auspicious attributes (these being
-eternality, self-luminosity, bliss, freedom from Karma, purity etc.),
-and by the absence of hankering produced by seeing the host of evil
-alities in objects other than the self hankered for.
+6.35 The Lord said No doubt, the mind is hard to subdue on account of its fickle nature. However, it can be subdued with difficulty by cultivating favourable attitude in the direction of the self by repeated contemplation of Its being a mind of auspicious attributes (these being eternality, self-luminosity, bliss, freedom from Karma, purity etc.),
+and by the absence of hankering produced by seeing the host of evil alities in objects other than the self hankered for.
 
 </details>
 </div>
@@ -439,7 +434,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.35।। श्रीभगवान् कहते हैं -- हे महबाहो ! निःसन्देह मन चंचल और कठिनता
+।।6.35।। श्रीभगवान् कहते हैं -- हे महबाहो ! नि:सन्देह मन चंचल और कठिनता
 से वश में होने वाला है; परन्तु, हे कुन्तीपुत्र ! उसे अभ्यास और वैराग्य
 के द्वारा वश में किया जा सकता है।।
 
@@ -494,45 +489,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.35. The Bhagavat said O mighty-armed ! No doubt, the mind is unsteady
-and is hard to control. But it is controlled by practice and through an
-attitude of desirelessness, O son of Kunti !
+6.35. The Bhagavat said O mighty-armed ! No doubt, the mind is unsteady and is hard to control. But it is controlled by practice and through an attitude of desirelessness, O son of Kunti !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.35 The Blessed Lord said O mighty-armed one, undoubtedly the mind is
-untractable and restless. But, O son of Kunti, it is brought under
-control through practice and detachment.
+6.35 The Blessed Lord said O mighty-armed one, undoubtedly the mind is untractable and restless. But, O son of Kunti, it is brought under control through practice and detachment.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.35 Lord Shri Krishna replied: Doubtless, O Mighty One, the mind is
-fickle and exceedingly difficult to restrain, but, O Son of Kunti, with
-practice and renunciation it can be done.
+6.35 Lord Shri Krishna replied: Doubtless, O Mighty One, the mind is fickle and exceedingly difficult to restrain, but, O Son of Kunti, with practice and renunciation it can be done.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.35 The Lord said The mind is hard to subdue and fickle, no doubt, O
-mighty-armed one, but , O son of Kunti, by practice and by the exercise
-of dispassion it can be brought under control.
+6.35 The Lord said The mind is hard to subdue and fickle, no doubt, O mighty-armed one, but , O son of Kunti, by practice and by the exercise of dispassion it can be brought under control.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/35_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.35 The Blessed Lord said Undoubtedly, O mighty-armed Arjuna, the mind
-is difficult to control and restless; but by practice and by dispassion
-it may be restrained.
+6.35 The Blessed Lord said Undoubtedly, O mighty-armed Arjuna, the mind is difficult to control and restless; but by practice and by dispassion it may be restrained.
 
 </details>
 </div>
@@ -541,22 +526,10 @@ it may be restrained.
 
 6.35 असंशयम् undoubtedly; महाबाहो O mightyarmed; मनः the mind;
 दुर्निग्रहम् difficult to control; चलम् restless; अभ्यासेन by practice;
-तु but; कौन्तेय O Kaunteya; वैराग्येण by dispassion; च and; गृह्यते is
-restrained. Commentary The constant or repeated effort to keep the
-wandering mind steady by constant meditation on the Lakshya (centre;
-ideal; goal or object of meditation) is Abhyasa or practice. The same
-idea or thought of the Self or God is constantly repeated. This constant
-repetition destroys Vikshepa or the vacillation of the mind and desires;
-and makes it steady and onepointed.Vairagya is dispassion or
-indifference to senseobjects in this world or in the other; here or
-hereafter; seen or unseen; heard or unheard; achieved through constantly
-looking into the evil in them (DoshaDrishti). You will have to train the
-mind by constant reflection on the immortal; allblissful Self. You must
-make the mind realise the transitory nature of the wordly enjoyments.
-You must suggest to the mind to look for its enjoyment not in the
-perishable and changing external objects but in the immortal; changeless
-Self within. Gradually the mind will be withdrawn from the external
-objects.
+तु but; कौन्तेय O Kaunteya; वैराग्येण by dispassion; च and; गृह्यते is restrained. Commentary The constant or repeated effort to keep the wandering mind steady by constant meditation on the Lakshya (centre;
+ideal; goal or object of meditation) is Abhyasa or practice. The same idea or thought of the Self or God is constantly repeated. This constant repetition destroys Vikshepa or the vacillation of the mind and desires;
+and makes it steady and onepointed.Vairagya is dispassion or indifference to senseobjects in this world or in the other; here or hereafter; seen or unseen; heard or unheard; achieved through constantly looking into the evil in them (DoshaDrishti). You will have to train the mind by constant reflection on the immortal; allblissful Self. You must make the mind realise the transitory nature of the wordly enjoyments.
+You must suggest to the mind to look for its enjoyment not in the perishable and changing external objects but in the immortal; changeless Self within. Gradually the mind will be withdrawn from the external objects.
 
 </details>
 </div>

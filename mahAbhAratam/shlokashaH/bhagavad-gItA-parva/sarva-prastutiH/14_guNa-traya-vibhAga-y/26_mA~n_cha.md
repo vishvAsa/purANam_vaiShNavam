@@ -72,18 +72,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.26 The state of transcendence of Gunas is not attained merely by
-reflecting on the difference between the Prakrti and the self as
-declared in the text such as, 'When the seer beholds no agent of action
-other than the Gunas, then he transcends the Gunas, for it is liable
-then to be sublated by contrary subtle impressions (Vasanas) which have
-continued from beginningless time. He who, with unswerving Bhakti Yoga,
-namely, one-pointed Bhakti Yoga, serves Me of true-resolve, supremely
-compassionate and the ocean of parental affection for supplicants - such
-a man crosses over the Gunas of Sattva etc., which are otherwise
-invincible. He becomes worthy for brahmabhuya, the state of brahman
-i.e., he becomes alified for the state of brahman. The meaning is that
-he attains the self as It really is, immortal and immutable.
+14.26 The state of transcendence of Gunas is not attained merely by reflecting on the difference between the Prakrti and the self as declared in the text such as, 'When the seer beholds no agent of action other than the Gunas, then he transcends the Gunas, for it is liable then to be sublated by contrary subtle impressions (Vasanas) which have continued from beginningless time. He who, with unswerving Bhakti Yoga,
+namely, one-pointed Bhakti Yoga, serves Me of true-resolve, supremely compassionate and the ocean of parental affection for supplicants - such a man crosses over the Gunas of Sattva etc., which are otherwise invincible. He becomes worthy for brahmabhuya, the state of brahman i.e., he becomes alified for the state of brahman. The meaning is that he attains the self as It really is, immortal and immutable.
 
 </details>
 </div>
@@ -426,50 +416,30 @@ having gone beyond these alities, alifies for becoming Brahman.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.26 And he who serves Me and only Me, with unfaltering devotion, shall
-overcome the Qualities, and become One with the Eternal.
+14.26 And he who serves Me and only Me, with unfaltering devotion, shall overcome the Qualities, and become One with the Eternal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.26 And he who, with unswerving Bhakti Yoga, serves Me, he, crossing
-beyond the Gunas, becomes fit for the state of Brahman.
+14.26 And he who, with unswerving Bhakti Yoga, serves Me, he, crossing beyond the Gunas, becomes fit for the state of Brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.26 And he who serves Me with unswerving devotion, he, crossing beyond
-the alities, is fit for becoming Brahman.
+14.26 And he who serves Me with unswerving devotion, he, crossing beyond the alities, is fit for becoming Brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/14_guNa-traya-vibhAga-y/26_mA~n_cha.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-14.26 माम् Me; च and; यः who; अव्यभिचारेण unswerving; भक्तियोगेन with
-devotion; सेवते serves; सः he; गुणान् Gunas; समतीत्य crossing beyond;
-एतान् these; ब्रह्मभूयाय for becoming Brahman; कल्पते is fit.Commentary
-A Sannyasi or even a Karma Yogi who serves Him (the Isvara; Narayana Who
-abides in the hearts of all beings) with unswerving devotion; is endowed
-with the knowledge of the Self. He then goes beyond the three alities
-and becomes fit to become Brahman; for attaining liberation or release
-from birth and death.He attains to the knowledge of the Self through the
-grace and mercy of the Lord. To these everharmonious devotees
-worshipping Me in love; I give the Yoga of discrimination by which they
-come unto Me. Out of pure compassion for them; dwelling within their
-Self; I destroy the ignorancorn darkness by the shining lamp of wisdom.
-(Chapter X. 10 and 11)Avyabhicharini Bhakti The devotee constantly
-meditates on the Lord. He has exclusive devotion to the Lord alone. He
-has no other thought save that of his Lord. His mind is filled with the
-thoughts of the Lord. His thoughts flow towards the Lord like the
-continuous flow of oil from one vessel to another. There is Sajatiya
-Vritti Pravaha; i.e.; unbroken flow of the one thought of God. There is
-total abandonment of thoughts of sensual objects. Constant thinking of
-God is the sure means for crossing beyond the three alities of Nature.
+14.26 माम् Me; च and; यः who; अव्यभिचारेण unswerving; भक्तियोगेन with devotion; सेवते serves; सः he; गुणान् Gunas; समतीत्य crossing beyond;
+एतान् these; ब्रह्मभूयाय for becoming Brahman; कल्पते is fit.Commentary A Sannyasi or even a Karma Yogi who serves Him (the Isvara; Narayana Who abides in the hearts of all beings) with unswerving devotion; is endowed with the knowledge of the Self. He then goes beyond the three alities and becomes fit to become Brahman; for attaining liberation or release from birth and death.He attains to the knowledge of the Self through the grace and mercy of the Lord. To these everharmonious devotees worshipping Me in love; I give the Yoga of discrimination by which they come unto Me. Out of pure compassion for them; dwelling within their Self; I destroy the ignorancorn darkness by the shining lamp of wisdom.
+(Chapter X. 10 and 11)Avyabhicharini Bhakti The devotee constantly meditates on the Lord. He has exclusive devotion to the Lord alone. He has no other thought save that of his Lord. His mind is filled with the thoughts of the Lord. His thoughts flow towards the Lord like the continuous flow of oil from one vessel to another. There is Sajatiya Vritti Pravaha; i.e.; unbroken flow of the one thought of God. There is total abandonment of thoughts of sensual objects. Constant thinking of God is the sure means for crossing beyond the three alities of Nature.
 
 </details>
 </div>

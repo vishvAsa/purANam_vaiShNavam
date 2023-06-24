@@ -63,11 +63,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.33 As the 'all-pervading ether,' though in contact with all
-substances, is 'not tainted' by the alities of all these substances, as
-it is 'subtle' - even so the self, though 'present in all the bodies,'
-everywhere, namely, in divinities, men etc., is not contaminated by
-these bodies by reason of Its extreme subtleness.
+13.33 As the 'all-pervading ether,' though in contact with all substances, is 'not tainted' by the alities of all these substances, as it is 'subtle' - even so the self, though 'present in all the bodies,'
+everywhere, namely, in divinities, men etc., is not contaminated by these bodies by reason of Its extreme subtleness.
 
 </details>
 </div>
@@ -304,61 +301,44 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.33. Just as the all-pervading Ether is not stained because of its
-subtleness, in the same fashion the Self, abiding in the body
-everywhere, is not stained.
+13.33. Just as the all-pervading Ether is not stained because of its subtleness, in the same fashion the Self, abiding in the body everywhere, is not stained.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.33 As the all-pervading space is not defiled, because of its
-subtlety, similarly the Self, present everywhere in the body \[The
-singular number is used to denote a class, i.e. all bodies. See
-S.-Tr.\], is not defiled.
+13.33 As the all-pervading space is not defiled, because of its subtlety, similarly the Self, present everywhere in the body \[The singular number is used to denote a class, i.e. all bodies. See S.-Tr.\], is not defiled.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.33 As space, though present everywhere, remains by reason of its
-subtlety unaffected, so the Self, though present in all forms, retains
-its purity unalloyed.
+13.33 As space, though present everywhere, remains by reason of its subtlety unaffected, so the Self, though present in all forms, retains its purity unalloyed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.33 As the all-pervading etther is not tainted because of its
-subtlety, even so, the self abiding in the body everywhere, is not
-tainted.
+13.33 As the all-pervading etther is not tainted because of its subtlety, even so, the self abiding in the body everywhere, is not tainted.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.33 As the all-pervading ether is not tainted, because of its
-subtlety, so the Self seated everywhere in the body is not tainted.
+13.33 As the all-pervading ether is not tainted, because of its subtlety, so the Self seated everywhere in the body is not tainted.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/13_xetra-xetrajna-yogaH/33_yathA_sarvagatam.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-13.33 यथा as; सर्वगतम् the allpervading; सौक्ष्म्यात् because of its
-subtlety; आकाशम् ether; न not; उपलिप्यते is tainted; सर्वत्र everywhere;
+13.33 यथा as; सर्वगतम् the allpervading; सौक्ष्म्यात् because of its subtlety; आकाशम् ether; न not; उपलिप्यते is tainted; सर्वत्र everywhere;
 अवस्थितः seated; देहे in the body; तथा so; आत्मा the Self; न not;
-उपलिप्यते is tainted.Commentary Ether pervades everything. All are
-immersed in it. There is no point whereunto ether does not penetrate and
-pervade and yet it is not tainted by anything. Even so the Self pervades
-the whole body and the whole world. Being subtler than the body the Self
-is never tainted by it or anything else. It is unattached and
-actionless. It has no parts or limbs. So virtuous and vicious actions
-cannot contaminate the Self. It is ever pure and stainless.
+उपलिप्यते is tainted.Commentary Ether pervades everything. All are immersed in it. There is no point whereunto ether does not penetrate and pervade and yet it is not tainted by anything. Even so the Self pervades the whole body and the whole world. Being subtler than the body the Self is never tainted by it or anything else. It is unattached and actionless. It has no parts or limbs. So virtuous and vicious actions cannot contaminate the Self. It is ever pure and stainless.
 
 </details>
 </div>

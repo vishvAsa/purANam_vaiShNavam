@@ -86,30 +86,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.51 - 18.53 'Endowed with a purified understanding' means endowed with
-the Buddhi capable of understanding the self as it is in reality;
-'subduing the mind by steadiness' means making the mind fit for
-meditation by turning away from external and internal objects;
-'relinishing sound and other objects of senses' means keeping them far
-away, casting aside love and hate occasioned by them (i.e., the sense
-objects). 'Resorting to solitude' means living in a lonely place free
-from hindrances to meditation; 'eat but little' means eating neither too
-much nor too little; 'restraining speech, body and mind' means directing
-the operations of body, speech and mind to meditation; 'ever engaged in
-the Yoga of meditation' means being like this, i.e., constantly engaged
-in the Yoga of meditation day after day until death; 'taking refuge in
-dispassion' means developing aversion to all objects except the one
-entity to be meditated upon, by considering the imperfections of all
-objects and thus cultivating detachment to everything. Forsaking
-'egoism' means abandoning the tendency to consider what is other than
-the self, as well as neutralising the power of forcible Vasnas
+18.51 - 18.53 'Endowed with a purified understanding' means endowed with the Buddhi capable of understanding the self as it is in reality;
+'subduing the mind by steadiness' means making the mind fit for meditation by turning away from external and internal objects;
+'relinishing sound and other objects of senses' means keeping them far away, casting aside love and hate occasioned by them (i.e., the sense objects). 'Resorting to solitude' means living in a lonely place free from hindrances to meditation; 'eat but little' means eating neither too much nor too little; 'restraining speech, body and mind' means directing the operations of body, speech and mind to meditation; 'ever engaged in the Yoga of meditation' means being like this, i.e., constantly engaged in the Yoga of meditation day after day until death; 'taking refuge in dispassion' means developing aversion to all objects except the one entity to be meditated upon, by considering the imperfections of all objects and thus cultivating detachment to everything. Forsaking
+'egoism' means abandoning the tendency to consider what is other than the self, as well as neutralising the power of forcible Vasnas
 (tendencies) which nourish (egoism), and the resulting pride, desire,
-wrath and possessiveness. 'With no feeling of mine' means free from the
-notion that what does not belong to oneself belongs to oneself; 'Who is
-tranil' means, who finds sole happiness in experiencing the self. One
-who has become like this and performs the Yoga of meditation becomes
-worthy for the state of Brahman. The meaning is that, freed from all
-bonds, he experiences the self as It really is.
+wrath and possessiveness. 'With no feeling of mine' means free from the notion that what does not belong to oneself belongs to oneself; 'Who is tranil' means, who finds sole happiness in experiencing the self. One who has become like this and performs the Yoga of meditation becomes worthy for the state of Brahman. The meaning is that, freed from all bonds, he experiences the self as It really is.
 
 </details>
 </div>
@@ -490,19 +472,15 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.51. He, who has got a totally pure intellect by fully controlling his
-self (mind) with firmness, and renouncing sense-objects, sound etc., and
-driving out desire and hatred;
+18.51. He, who has got a totally pure intellect by fully controlling his self (mind) with firmness, and renouncing sense-objects, sound etc., and driving out desire and hatred;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.51 Being endowed with a pure intellect, and controlling oneself with
-fortitude, rejecting the objects-beginning from sound \[Sound, touch,
-form and colour, taste and smell.-Tr.\], and eliminating attachment and
-hatred;
+18.51 Being endowed with a pure intellect, and controlling oneself with fortitude, rejecting the objects-beginning from sound \[Sound, touch,
+form and colour, taste and smell.-Tr.\], and eliminating attachment and hatred;
 
 </details>
 </div>
@@ -517,9 +495,7 @@ renouncing the objects of sense and giving up attachment and hatred;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/51_buddhyA_vishuddha.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.51 Endowed by a purified understanding, subduing the mind by
-steadiness, relinishing sound and other objectts of the senses and
-casting aside love and hate;
+18.51 Endowed by a purified understanding, subduing the mind by steadiness, relinishing sound and other objectts of the senses and casting aside love and hate;
 
 </details>
 </div>
@@ -527,8 +503,7 @@ casting aside love and hate;
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 18.51 Endowed with a pure intellect, controlling the self by firmness,
-relinishing sound and other objects and abandoning attraction and
-hatred.
+relinishing sound and other objects and abandoning attraction and hatred.
 
 </details>
 </div>
@@ -538,30 +513,10 @@ hatred.
 18.51 बुद्ध्या with an intellect; विशुद्धया pure; युक्तः endowed; धृत्या
 by firmness; आत्मानम् the self; नियम्य controlling; च and; शब्दादीन्
 sound and other; विषयान् senseobjects; त्यक्त्वा relinishing; रागद्वेषौ
-attraction and hatred; व्युदस्य abandoning; च and.Commentary The lower
-self should be controlled with firmness by the Self of pure intellect.
-The turbulent senses and the mind should be subdued with the help of the
-pure intellect or reason. Pure reason is a great power. Whenever the
-senses raise their heads and hiss; they should be hammered by the
-powerful rod of pure intellect or reason. Reason is the faculty of
-determination.Pure intellect The intellect that is free from lust;
-anger; greed; pride; doubt; misconception; etc. It is like a clear
-mirror. A pure intellect is Brahman Itself. It can be easily merged in
-Brahman. When the pure intellect is merged in Brahman; the reflected
-intelligence; Chidabhasa or Jiva; is also absorbed in Brahman. The Jiva
-becomes identical with Brahman; just as the ether in the pot becomes one
-with the universal ether when the pot is broken.The self The aggregate
-of the body and the senses.The aspirant withdraws the senses from their
-respective objects again and again through the repeated practice of
-Pratyahara (abstraction) and Dama (selfrestraint). Gradually the senses
-are fixed in the Self. Their outgoing tendencies are totally curbed. The
-aspirant attains supreme control of the senses by constant meditation;
-by the practice of dispassion he coners Raga (attachment); and through
-the practice of pure love or cosmic love or divine Preme he coners
-hatred.He abandons all luxuries. He keeps only those objects which are
-necessary for the bare maintenance of the body. He has neither
-attachment nor hatred even for those objects which are necessary for
-that purpose.
+attraction and hatred; व्युदस्य abandoning; च and.Commentary The lower self should be controlled with firmness by the Self of pure intellect.
+The turbulent senses and the mind should be subdued with the help of the pure intellect or reason. Pure reason is a great power. Whenever the senses raise their heads and hiss; they should be hammered by the powerful rod of pure intellect or reason. Reason is the faculty of determination.Pure intellect The intellect that is free from lust;
+anger; greed; pride; doubt; misconception; etc. It is like a clear mirror. A pure intellect is Brahman Itself. It can be easily merged in Brahman. When the pure intellect is merged in Brahman; the reflected intelligence; Chidabhasa or Jiva; is also absorbed in Brahman. The Jiva becomes identical with Brahman; just as the ether in the pot becomes one with the universal ether when the pot is broken.The self The aggregate of the body and the senses.The aspirant withdraws the senses from their respective objects again and again through the repeated practice of Pratyahara (abstraction) and Dama (selfrestraint). Gradually the senses are fixed in the Self. Their outgoing tendencies are totally curbed. The aspirant attains supreme control of the senses by constant meditation;
+by the practice of dispassion he coners Raga (attachment); and through the practice of pure love or cosmic love or divine Preme he coners hatred.He abandons all luxuries. He keeps only those objects which are necessary for the bare maintenance of the body. He has neither attachment nor hatred even for those objects which are necessary for that purpose.
 
 </details>
 </div>

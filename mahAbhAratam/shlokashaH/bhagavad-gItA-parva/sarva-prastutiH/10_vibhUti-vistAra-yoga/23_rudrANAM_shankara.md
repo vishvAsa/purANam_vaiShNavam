@@ -311,21 +311,15 @@ of the mountains, I am the Meru.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 10.23 Among the Rudras \[Aja, Ekapada, Ahirbudhnya, Pinaki, Aparajita,
-Tryam-baka, Mahesvara, Vrsakapi, Sambhu, Harana and Isvara. Different
-Puranas give different lists of eleven names.-Tr,\] I am Sankara, and
-among the Yaksas and goblins I am Kubera \[God of wealth. Yaksas are a
-class of demigods who attend on him and guard his wealth.\]. Among the
-Vasus \[According to the V.P. they are: Apa, dhruva, Soma, Dharma,
-Anila, Anala (Fire), Pratyusa and Prabhasa. The Mbh. and the Bh. given a
-different list.-Tr.\] I am Fire, and among the mountains I am Meru.
+Tryam-baka, Mahesvara, Vrsakapi, Sambhu, Harana and Isvara. Different Puranas give different lists of eleven names.-Tr,\] I am Sankara, and among the Yaksas and goblins I am Kubera \[God of wealth. Yaksas are a class of demigods who attend on him and guard his wealth.\]. Among the Vasus \[According to the V.P. they are: Apa, dhruva, Soma, Dharma,
+Anila, Anala (Fire), Pratyusa and Prabhasa. The Mbh. and the Bh. given a different list.-Tr.\] I am Fire, and among the mountains I am Meru.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.23 Among Forces of Vitality I am the life, I am Mammon to the heathen
-and the godless; I am the Energy in fire, earth, wind, sky, heaven, sun,
+10.23 Among Forces of Vitality I am the life, I am Mammon to the heathen and the godless; I am the Energy in fire, earth, wind, sky, heaven, sun,
 moon and planets; and among mountains am the Mount Meru.
 
 </details>
@@ -333,17 +327,14 @@ moon and planets; and among mountains am the Mount Meru.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.23 Of the Rudras I am Sankara. Of the Yaksas and Raksasas, I am the
-Lord of wealth (Kubera). Of the Vasus, I am Agni; of the mountains, I am
-Meru.
+10.23 Of the Rudras I am Sankara. Of the Yaksas and Raksasas, I am the Lord of wealth (Kubera). Of the Vasus, I am Agni; of the mountains, I am Meru.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/23_rudrANAM_shankara.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.23 And, among the Rudras I am Sankara; among the Yakshas and
-Rakshasas, the Lord of wealth (Kubera); among the Vasus I am Pavaka
+10.23 And, among the Rudras I am Sankara; among the Yakshas and Rakshasas, the Lord of wealth (Kubera); among the Vasus I am Pavaka
 (fire); and among the (seven) mountains I am the Meru.
 
 </details>
@@ -355,17 +346,9 @@ Rakshasas, the Lord of wealth (Kubera); among the Vasus I am Pavaka
 वित्तेशः Kubera; यक्षरक्षसाम्,among celestial fairies and spirits;
 वसूनाम् among Vasus; पावकः Pavaka; च and; अस्मि (I) am; मेरुः Meru;
 शिखरिणाम् of mountains; अहम् I.Commentary Rudras are eleven in number.
-The ten vital airs (Pranas and the UpaPranas; which are five each) and
-the mind are the eleven Rudras. They are so called because they produce
-grief when they depart from the body. They have been symbolised in the
-Puranas as follows Virabhadra; Sankara; Girisa; Ajaikapati;
-Bhuvanadhisvara; Aherbhujya; Pinaki; Aparajita; Kapali; Sthanu and
-Bhaga. Among these Rudras; Sankara is regarded as the chief.Vasus are
-earth; water; fire; air; ether; sun; moon and stars. They are so called
-because they comprehend the whole universe within them. They have been
-symbolised in the Puranas as follows Apah; Dhruva; Soma; Dhara; Anila;
-Anala; Pratyusa and Prabhasa. Of these Anala or Pavaka (fire) is the
-chief.
+The ten vital airs (Pranas and the UpaPranas; which are five each) and the mind are the eleven Rudras. They are so called because they produce grief when they depart from the body. They have been symbolised in the Puranas as follows Virabhadra; Sankara; Girisa; Ajaikapati;
+Bhuvanadhisvara; Aherbhujya; Pinaki; Aparajita; Kapali; Sthanu and Bhaga. Among these Rudras; Sankara is regarded as the chief.Vasus are earth; water; fire; air; ether; sun; moon and stars. They are so called because they comprehend the whole universe within them. They have been symbolised in the Puranas as follows Apah; Dhruva; Soma; Dhara; Anila;
+Anala; Pratyusa and Prabhasa. Of these Anala or Pavaka (fire) is the chief.
 
 </details>
 </div>

@@ -69,15 +69,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.25 Concealed by the Maya called Yogamaya, I am associated with a human
-form and other generic structures which are special to individual
-selves. Because of this I am not manifest to all. The foolish, by seeing
-in Me merely the human or the other generic structures, do not know that
-My powers are greater than those of Vayu and Indra, that My lustre is
-more brilliant than that of sun and fire, that though visible to all, I
-am unborn, immutable, the cause of all the worlds, the Lord of all, and
-that I have assumed a human form, so that all who want can take refuge
-in Me.
+7.25 Concealed by the Maya called Yogamaya, I am associated with a human form and other generic structures which are special to individual selves. Because of this I am not manifest to all. The foolish, by seeing in Me merely the human or the other generic structures, do not know that My powers are greater than those of Vayu and Indra, that My lustre is more brilliant than that of sun and fire, that though visible to all, I am unborn, immutable, the cause of all the worlds, the Lord of all, and that I have assumed a human form, so that all who want can take refuge in Me.
 
 </details>
 </div>
@@ -399,42 +391,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.25. Being surrounded by the trick-of-yoga-Illusion, I am not clear to
-all; \[and hence\] this deluded world \[of perceivers\] does not
-recognise Me, the unborn and the undying.
+7.25. Being surrounded by the trick-of-yoga-Illusion, I am not clear to all; \[and hence\] this deluded world \[of perceivers\] does not recognise Me, the unborn and the undying.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.25 Being enveloped by yoga-maya, I do not become manifest to all. This
-deluded world does not know Me who am birthless and undecaying.
+7.25 Being enveloped by yoga-maya, I do not become manifest to all. This deluded world does not know Me who am birthless and undecaying.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.25 I am not visible to all, for I am enveloped by the illusion of
-Phenomenon. This deluded world does not know Me as the Unborn and the
-Imperishable.
+7.25 I am not visible to all, for I am enveloped by the illusion of Phenomenon. This deluded world does not know Me as the Unborn and the Imperishable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.25 Veiled by My Maya, I am not manifest to all. This deluded world
-does not recognize Me as the unborn and immutable.
+7.25 Veiled by My Maya, I am not manifest to all. This deluded world does not recognize Me as the unborn and immutable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/25_nAham_prakAshaH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.25 I am not manifest to all (as I am) veiled by the Yoga-Maya. This
-deluded world does not know Me, the unborn and imperishable.
+7.25 I am not manifest to all (as I am) veiled by the Yoga-Maya. This deluded world does not know Me, the unborn and imperishable.
 
 </details>
 </div>
@@ -443,24 +428,10 @@ deluded world does not know Me, the unborn and imperishable.
 
 7.25 न not; अहम् I; प्रकाशः manifest; सर्वस्य of all; योगमायासमावृतः
 veiled by YogaMaya; मूढः deluded; अयम् this; न not; अभिजानाति knows;
-लोकः world; माम् Me; अजम् unborn; अव्ययम् imperishable.Commentary I am
-not manifest to all the people; but I am certainly manifest to the
-chosen few who are My devotees; who have taken sole refuge in Me alone.
-I am not visible to those who are deluded by the three Gunas and the
-pairs of opposites; and who are screened off by this universe which is a
-manifestation of the alities of Nature; My YogaMaya or My creative
-illusion. This veils the understanding of the worldlyminded people. So
-they are not able to behold the Lord Who keeps Maya under His perfect
-control.YogaMaya is the union of the three alities of Nature. The
-illusion or veil spread thery is called YogaMaya. The worldly people are
-deluded by the illusion born of the union of the three alities.
-Therefore; they are not able to know the Lord Who is unborn and
-immutable.This YogaMaya is under the perfect control of the Lord. Isvara
-is the wielder of Maya. Therefore it cannot obscure His own knowledge;
-just as the illusion created by the juggler cannot obstruct his,own
-knowledge or deceive him. The illusion which binds the worldly people
-cannot in the least affect the Lord Who has kep Maya under his perfect
-subjugation. (Cf.VII.13IX.5X.7XI.8)
+लोकः world; माम् Me; अजम् unborn; अव्ययम् imperishable.Commentary I am not manifest to all the people; but I am certainly manifest to the chosen few who are My devotees; who have taken sole refuge in Me alone.
+I am not visible to those who are deluded by the three Gunas and the pairs of opposites; and who are screened off by this universe which is a manifestation of the alities of Nature; My YogaMaya or My creative illusion. This veils the understanding of the worldlyminded people. So they are not able to behold the Lord Who keeps Maya under His perfect control.YogaMaya is the union of the three alities of Nature. The illusion or veil spread thery is called YogaMaya. The worldly people are deluded by the illusion born of the union of the three alities.
+Therefore; they are not able to know the Lord Who is unborn and immutable.This YogaMaya is under the perfect control of the Lord. Isvara is the wielder of Maya. Therefore it cannot obscure His own knowledge;
+just as the illusion created by the juggler cannot obstruct his,own knowledge or deceive him. The illusion which binds the worldly people cannot in the least affect the Lord Who has kep Maya under his perfect subjugation. (Cf.VII.13IX.5X.7XI.8)
 
 </details>
 </div>

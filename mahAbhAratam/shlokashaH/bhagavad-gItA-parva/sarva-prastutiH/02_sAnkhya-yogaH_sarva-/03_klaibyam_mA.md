@@ -72,9 +72,7 @@ _________________
 
 2.1 - 2.3 Sanjaya said - Lord said When Arjuna thus sat, the Lord,
 opposing his action, said: 'What is the reason for your misplaced grief;
-Arise for battle, abandoning this grief, which has arisen in a critical
-situation, which can come only in men of wrong understanding, which is
-an obstacle for reaching heaven, which does not confer fame on you,
+Arise for battle, abandoning this grief, which has arisen in a critical situation, which can come only in men of wrong understanding, which is an obstacle for reaching heaven, which does not confer fame on you,
 which is very mean, and which is caused by faint-heartedness.
 
 </details>
@@ -366,33 +364,28 @@ Shirking off the petty weakness of heart, arise, O scorcher of the foes
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.3 O Partha, yield not to unmanliness. This does not befit you. O
-scorcher of foes, arise, giving up the petty weakness of the heart.
+2.3 O Partha, yield not to unmanliness. This does not befit you. O scorcher of foes, arise, giving up the petty weakness of the heart.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.3 O Arjuna! Why give way to unmanliness; O thou who art the terror of
-thine enemies! Shake off such shameful effeminacy, make ready to act!
+2.3 O Arjuna! Why give way to unmanliness; O thou who art the terror of thine enemies! Shake off such shameful effeminacy, make ready to act!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.3 Yield not to unmanliness, O Arjuna, it does not become you. Shake
-off this base faint-heartedness and arise, O scorcher of foes!
+2.3 Yield not to unmanliness, O Arjuna, it does not become you. Shake off this base faint-heartedness and arise, O scorcher of foes!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/03_klaibyam_mA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.3 Yield not to impotence, O Arjuna, son of Pritha. It does not befit
-thee. Cast off this mean weakness of the heart! Stand up, O scorcher of
-the foes!
+2.3 Yield not to impotence, O Arjuna, son of Pritha. It does not befit thee. Cast off this mean weakness of the heart! Stand up, O scorcher of the foes!
 
 </details>
 </div>

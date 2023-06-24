@@ -77,12 +77,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 11.32 The Lord said Kala (Time) is the calculator which calculates
-(Kalayati). Calculating the end of the lives of all those under the
-leadership of Dhrtarastra's sons, I am causing their destruction. Fully
-manifesting Myself with this fierce form, I have begun to destroy the
-hosts of kings. Therefore, by My will, even without you, namely, even
-without your effort, all these hostile warriors under the leadership of
-Dhrtarastra's sons, shall cease to be, i.e., will be destroyed.
+(Kalayati). Calculating the end of the lives of all those under the leadership of Dhrtarastra's sons, I am causing their destruction. Fully manifesting Myself with this fierce form, I have begun to destroy the hosts of kings. Therefore, by My will, even without you, namely, even without your effort, all these hostile warriors under the leadership of Dhrtarastra's sons, shall cease to be, i.e., will be destroyed.
 
 </details>
 </div>
@@ -404,40 +399,29 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.32. The Bhagavat said I am the Time, the world-destroyer, engaged
-here in withdrawing the worlds that are overgrown; even without you
-(your fighting) all the warriors, standing in the rival armies, would
-cease to be.
+11.32. The Bhagavat said I am the Time, the world-destroyer, engaged here in withdrawing the worlds that are overgrown; even without you
+(your fighting) all the warriors, standing in the rival armies, would cease to be.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.32 The Blessed Lord said I am the world-destroying Time, \[Time: The
-supreme God with His limiting adjunct of the power of action.\] grown in
-stature \[Pravrddhah, mighty-according to S.-Tr.\] and now engaged in
-annihilating the creatures. Even without you, all the warriors who are
-arrayed in the confronting armies will cease to exist!
+11.32 The Blessed Lord said I am the world-destroying Time, \[Time: The supreme God with His limiting adjunct of the power of action.\] grown in stature \[Pravrddhah, mighty-according to S.-Tr.\] and now engaged in annihilating the creatures. Even without you, all the warriors who are arrayed in the confronting armies will cease to exist!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.32 Lord Shri Krishna replied: I have shown myself to thee as the
-Destroyer who lays waste the world and whose purpose is destruction. In
-spite of thy efforts, all these warriors gathered for battle shall not
-escape death.
+11.32 Lord Shri Krishna replied: I have shown myself to thee as the Destroyer who lays waste the world and whose purpose is destruction. In spite of thy efforts, all these warriors gathered for battle shall not escape death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/32_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.32 The Lord said I am the world-destroying Time. Manifesting Myself
-fully, I have begun to destroy the worlds here. Even without You, none
-of the warriors arrayed in the hostile ranks shall survive.
+11.32 The Lord said I am the world-destroying Time. Manifesting Myself fully, I have begun to destroy the worlds here. Even without You, none of the warriors arrayed in the hostile ranks shall survive.
 
 </details>
 </div>
@@ -445,8 +429,7 @@ of the warriors arrayed in the hostile ranks shall survive.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 11.32 The Blessed Lord said I am the full-grown world-destroying Time,
-now engaged in destroying the worlds. Even without thee, none of the
-warriors arrayed in the hostile armies shall live.
+now engaged in destroying the worlds. Even without thee, none of the warriors arrayed in the hostile armies shall live.
 
 </details>
 </div>
@@ -455,13 +438,8 @@ warriors arrayed in the hostile armies shall live.
 
 11.32 कालः time; अस्मि (I) am; लोकक्षयकृत् worlddestroying; प्रवृद्धः
 fullgrown; लोकान् the worlds; समाहर्तुम् to destroy; इह here; प्रवृत्तः
-engaged; ऋते without; अपि also; त्वाम् thee; न not; भविष्यन्ति shall
-live; सर्वे all; ये these; अवस्थिताः arrayed; प्रत्यनीकेषु in hostile
-armies; योधाः warriors.Commentary Even without thee Even if thou; O
-Arjuna; wouldst not fight; these warriors are doomed to die under My
-dispensation. I am the alldestroying Time. I have already slain them.
-You have seen them dying. Therefore thy instrumentality is not of much
-importance.Such being the case; therefore; stand up and obtain fame.
+engaged; ऋते without; अपि also; त्वाम् thee; न not; भविष्यन्ति shall live; सर्वे all; ये these; अवस्थिताः arrayed; प्रत्यनीकेषु in hostile armies; योधाः warriors.Commentary Even without thee Even if thou; O Arjuna; wouldst not fight; these warriors are doomed to die under My dispensation. I am the alldestroying Time. I have already slain them.
+You have seen them dying. Therefore thy instrumentality is not of much importance.Such being the case; therefore; stand up and obtain fame.
 
 </details>
 </div>

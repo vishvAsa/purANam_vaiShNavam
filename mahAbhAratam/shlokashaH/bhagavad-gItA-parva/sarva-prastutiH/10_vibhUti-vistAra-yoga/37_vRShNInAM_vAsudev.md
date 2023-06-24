@@ -74,10 +74,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.37 Here the Supreme Vibhuti (manifestation) is that of being the son
-of Vasudeva, because no other meaning is possible. Of sons of Pandu, I
-am Dhananjaya or Arjuna. Of sages who perceive truth by meditation, I am
-Vyasa. The seers are those who are wise.
+10.37 Here the Supreme Vibhuti (manifestation) is that of being the son of Vasudeva, because no other meaning is possible. Of sons of Pandu, I am Dhananjaya or Arjuna. Of sages who perceive truth by meditation, I am Vyasa. The seers are those who are wise.
 
 </details>
 </div>
@@ -341,36 +338,29 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.37. Of the Vrsnis (the members of the Vrsni clan), I am the son of
-Vasudeva; of the sons of Pandu, Dhananjaya (Arjuna) \[I am\]; of the
-sages too, I am Vyasa; of the seers, the seer Usanas.
+10.37. Of the Vrsnis (the members of the Vrsni clan), I am the son of Vasudeva; of the sons of Pandu, Dhananjaya (Arjuna) \[I am\]; of the sages too, I am Vyasa; of the seers, the seer Usanas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.37 Of the vrsnis \[The clan to which Sri krsna belonged, known
-otherwise as the Yadavas.\] I am Vasudeva; of the Pandavas, Dhananjaya
-(Arjuna). And of the wise, I am Vyasa; of the omniscient, the omniscient
-Usanas.
+10.37 Of the vrsnis \[The clan to which Sri krsna belonged, known otherwise as the Yadavas.\] I am Vasudeva; of the Pandavas, Dhananjaya
+(Arjuna). And of the wise, I am Vyasa; of the omniscient, the omniscient Usanas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.37 I am Shri Krishna among the Vishnu-clan and Arjuna among the
-Pandavas; of the saints I am Vyasa, and I am Shukracharya among the
-sages.
+10.37 I am Shri Krishna among the Vishnu-clan and Arjuna among the Pandavas; of the saints I am Vyasa, and I am Shukracharya among the sages.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/37_vRShNInAM_vAsudev.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.37 Of Vrsnis I am Vasudeva. Of Pandavas, I am Arjuna. Of sages I am
-Vyasa and of seers, I am Usana (Sukra).
+10.37 Of Vrsnis I am Vasudeva. Of Pandavas, I am Arjuna. Of sages I am Vyasa and of seers, I am Usana (Sukra).
 
 </details>
 </div>
@@ -386,11 +376,8 @@ among the sages I am Vyasa; among the Poets I am Usanas, the poet.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 10.37 वृष्णीनाम among the Vrishnis; वासुदेवः Vaasudeva; अस्मि (I) am;
-पाण्डवानाम् among the Pandavas; धनञ्जयः Dhananjaya; मुनीनाम् among the
-sages; अपि also; अहम् I; व्यासः Vyasa; कवीनाम् among poets; उशनाः
-Usanas; कविः the poet.Commentary Vrishnis are Yadavas or the descendants
-of Yadu. I am the foremost among them.Usanas is Sukracharya; the
-preceptor of the demons.
+पाण्डवानाम् among the Pandavas; धनञ्जयः Dhananjaya; मुनीनाम् among the sages; अपि also; अहम् I; व्यासः Vyasa; कवीनाम् among poets; उशनाः
+Usanas; कविः the poet.Commentary Vrishnis are Yadavas or the descendants of Yadu. I am the foremost among them.Usanas is Sukracharya; the preceptor of the demons.
 
 </details>
 </div>

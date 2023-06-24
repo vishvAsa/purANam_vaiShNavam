@@ -99,29 +99,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/12_shreyo_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.12 More than the practice of remembrance (of the Lord), which is
-difficult in the absence of love for the Lord, the direct knowledge of
-the self, arising from the contemplation of the imperishable self
-(Aksara), is conducive to the well-being of the self. Better than the
-imperfect knowledge of the self, is perfect meditation on the self, as
-it is more conducive to the well-being of the self. More conducive than
-imperfect meditation (i.e., meditation unaccompanied with renunciation),
-is the activity performed with renunciation of the fruits. It is only
-after the annihilation of sins, through the performance of works
-accompanied by renounciation of fruits, that peace of mind is attained.
+12.12 More than the practice of remembrance (of the Lord), which is difficult in the absence of love for the Lord, the direct knowledge of the self, arising from the contemplation of the imperishable self
+(Aksara), is conducive to the well-being of the self. Better than the imperfect knowledge of the self, is perfect meditation on the self, as it is more conducive to the well-being of the self. More conducive than imperfect meditation (i.e., meditation unaccompanied with renunciation),
+is the activity performed with renunciation of the fruits. It is only after the annihilation of sins, through the performance of works accompanied by renounciation of fruits, that peace of mind is attained.
 When the mind is at peace, perfect meditation on the self is possible.
-From meditation results the direct realisation of the self. From the
-direct realisation of the self results supreme devotion. It is in this
-way that Atmanistha or devotion to the individual self becomes useful
-for a person who is incapable of practising loving devotion to the
-Supreme Being. And for one practising the discipline for attaining the
-self (Jnana Yoga) without acisition of perfect tranillity of mind,
-disinterested activity (Karma Yoga), including in it meditation on the
-self, is the better path for the knowledge of the self. \[Thus the steps
-are performance of works without desire for fruits, eanimity of mind,
+From meditation results the direct realisation of the self. From the direct realisation of the self results supreme devotion. It is in this way that Atmanistha or devotion to the individual self becomes useful for a person who is incapable of practising loving devotion to the Supreme Being. And for one practising the discipline for attaining the self (Jnana Yoga) without acisition of perfect tranillity of mind,
+disinterested activity (Karma Yoga), including in it meditation on the self, is the better path for the knowledge of the self. \[Thus the steps are performance of works without desire for fruits, eanimity of mind,
 meditation on the self, self-realisation, and devotion to the Lord.\]
-Now Sri Krsna enumerates the attributes reired of one intent on
-performance of disinterested activity:
+Now Sri Krsna enumerates the attributes reired of one intent on performance of disinterested activity:
 
 </details>
 </div>
@@ -683,16 +668,14 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 12.12. For, knowledge is superior to practice; because of knowledge,
-meditation becomes pre-eminent; from meditation issues the renunciation
-of fruits of actions; and to renunciation, peace remains next.
+meditation becomes pre-eminent; from meditation issues the renunciation of fruits of actions; and to renunciation, peace remains next.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/12_shreyo_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.12 Knowledge is surely superior to practice; meditation surpasses
-knowledge. The renunciation of the results of works (excels) meditation.
+12.12 Knowledge is surely superior to practice; meditation surpasses knowledge. The renunciation of the results of works (excels) meditation.
 From renunciation, Peace follows immediately.
 
 </details>
@@ -700,58 +683,32 @@ From renunciation, Peace follows immediately.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/12_shreyo_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.12 Knowledge is superior to blind action, meditation to mere
-knowledge, renunciation of the fruit of action to meditation, and where
-there is renunciation peace will follow.
+12.12 Knowledge is superior to blind action, meditation to mere knowledge, renunciation of the fruit of action to meditation, and where there is renunciation peace will follow.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/12_shreyo_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.12 Far better is knowledge of the self then the repeated practice (of
-remembrance of the Lord). Better is meditation than this knowledge;
-Better is renunciation of fruits of action than meditation. From such
-renunciation, peace ensues.
+12.12 Far better is knowledge of the self then the repeated practice (of remembrance of the Lord). Better is meditation than this knowledge;
+Better is renunciation of fruits of action than meditation. From such renunciation, peace ensues.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/12_shreyo_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.12 Better indeed is knowledge than practice; than knowledge
-meditation is better; than meditation the renunciation of the fruits of
-actions: peace immediately follows renunciation.
+12.12 Better indeed is knowledge than practice; than knowledge meditation is better; than meditation the renunciation of the fruits of actions: peace immediately follows renunciation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/12_bhakti-yogaH/12_shreyo_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-12.12 श्रेयः better; हि indeed; ज्ञानम् knowledge; अभ्यासात् than
-practice; ज्ञानात् than knowledge; ध्यानम् meditation; विशिष्यते excels;
-ध्यानात् than meditation; कर्मफलत्यागः the renunciation of the fruits of
-actions; त्यागात् from renunciation; शान्तिः peace; अनन्तरम्
-immediately.Commentary Theoretical or indirect knowledge of Brahman
-gained from the scriptures is better than the practice (of restraining
-the modifications of the mind or worship of idols or selfmortification
-for the purpose of control of the mind and the senses) accompained with
-ignorance. Meditation is better than theoretical knowledge. Renunciation
-of the fruits of actions is bettern than meditation. Renunciation of the
-fruits of all actions as a means to the attainment of supreme peace or
-Moksha is merely eulogised here by the declaration of the superiority of
-one over the other to encourage Arjuna (and other spiritual aspirants)
-to practise Nishkama Karma Yoga; to create a strong desire in them to
-take up the Yoga of selfless action; in the same manner as by saying
-that the ocean was drunk by the Brahmana sage Agastya even the Brahmanas
-of this age are extolled because they are also Brahmanas.Desire is an
-enemy of peace. Desire causes restlessness of the mind. Desire is the
-source of all human miseries; sorrows and troubles. Stop the play of
-desire through discrimination; dispassion and eniry into the nature of
-the Self then you will enjoy supreme peace.Renunciation of the fruits of
-actions; is prescribed for the purification of the aspirants heart. It
-annihlates desire; the enemy of wisdom. The sage; too; renounces the
-fruits of actions. It has become natural to him to do so.
+12.12 श्रेयः better; हि indeed; ज्ञानम् knowledge; अभ्यासात् than practice; ज्ञानात् than knowledge; ध्यानम् meditation; विशिष्यते excels;
+ध्यानात् than meditation; कर्मफलत्यागः the renunciation of the fruits of actions; त्यागात् from renunciation; शान्तिः peace; अनन्तरम्
+immediately.Commentary Theoretical or indirect knowledge of Brahman gained from the scriptures is better than the practice (of restraining the modifications of the mind or worship of idols or selfmortification for the purpose of control of the mind and the senses) accompained with ignorance. Meditation is better than theoretical knowledge. Renunciation of the fruits of actions is bettern than meditation. Renunciation of the fruits of all actions as a means to the attainment of supreme peace or Moksha is merely eulogised here by the declaration of the superiority of one over the other to encourage Arjuna (and other spiritual aspirants)
+to practise Nishkama Karma Yoga; to create a strong desire in them to take up the Yoga of selfless action; in the same manner as by saying that the ocean was drunk by the Brahmana sage Agastya even the Brahmanas of this age are extolled because they are also Brahmanas.Desire is an enemy of peace. Desire causes restlessness of the mind. Desire is the source of all human miseries; sorrows and troubles. Stop the play of desire through discrimination; dispassion and eniry into the nature of the Self then you will enjoy supreme peace.Renunciation of the fruits of actions; is prescribed for the purification of the aspirants heart. It annihlates desire; the enemy of wisdom. The sage; too; renounces the fruits of actions. It has become natural to him to do so.
 
 </details>
 </div>

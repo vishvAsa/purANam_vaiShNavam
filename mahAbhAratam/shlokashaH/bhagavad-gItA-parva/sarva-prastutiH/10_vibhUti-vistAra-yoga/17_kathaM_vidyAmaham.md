@@ -56,12 +56,8 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 10.17 I, 'Your devotee' (Yogin), namely, one engaged in Bhakti Yoga, and
-'constantly meditating on You' with devotion, namely, embarked on
-meditation on You, - how am I to know You, the object of meditation, as
-possessing a multitude of auspicious attributes like sovereignty etc.;
-And in what varied modes of mental dispositions, which are as yet untold
-and which are different from the intelligence, knowledge etc., described
-earlier, are You the Controller of all, to be meditated upon by me.
+'constantly meditating on You' with devotion, namely, embarked on meditation on You, - how am I to know You, the object of meditation, as possessing a multitude of auspicious attributes like sovereignty etc.;
+And in what varied modes of mental dispositions, which are as yet untold and which are different from the intelligence, knowledge etc., described earlier, are You the Controller of all, to be meditated upon by me.
 
 </details>
 </div>
@@ -294,8 +290,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.17. O Mighty Yogin ! How should I know You, meditating on You ; In
-what several entities, O Bhagavat, are You to be contemplated upon by me
+10.17. O Mighty Yogin ! How should I know You, meditating on You ; In what several entities, O Bhagavat, are You to be contemplated upon by me
 ;
 
 </details>
@@ -303,11 +298,7 @@ what several entities, O Bhagavat, are You to be contemplated upon by me
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.17 O Yogi, \[Here yoga stands for the results of yoga, viz
-omniscience, omnipotence, etc.; one possessed of these is a yogi. (See
-Comm. on 10.7)\] how shall I know You by remaining ever-engaged in
-meditation; And through what objects, O Lord, are You to be meditated on
-by me;
+10.17 O Yogi, \[Here yoga stands for the results of yoga, viz omniscience, omnipotence, etc.; one possessed of these is a yogi. (See Comm. on 10.7)\] how shall I know You by remaining ever-engaged in meditation; And through what objects, O Lord, are You to be meditated on by me;
 
 </details>
 </div>
@@ -315,8 +306,7 @@ by me;
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 10.17 O Master! How shall I, by constant meditation, know Thee; My Lord!
-What are Thy various manifestations through which I am to mediate on
-Thee;
+What are Thy various manifestations through which I am to mediate on Thee;
 
 </details>
 </div>
@@ -331,8 +321,7 @@ And in what modes, O Lord, are you to be meditated upon by Me.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/17_kathaM_vidyAmaham.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.17 How shall I, ever meditating, know Thee, O Yogin; In what aspects
-or things, O blessed Lord, art Thou to be thought of by me;
+10.17 How shall I, ever meditating, know Thee, O Yogin; In what aspects or things, O blessed Lord, art Thou to be thought of by me;
 
 </details>
 </div>
@@ -341,13 +330,7 @@ or things, O blessed Lord, art Thou to be thought of by me;
 
 10.17 कथम् how; विद्याम् shall know; अहम् I; योगिन् O Yogin; त्वाम्
 Thee; सदा always; परिचिन्तयन् meditating; केषु केषु in what and what; च
-and; भावेषु aspects; चिन्त्यः to be thought of; असि (Thou) art; भगवन् O
-blessed Lord; मया by me.Commentary Arjuna says O Lord; how may I know
-Thee by constant meditation In what aspects art Thou to be thought of by
-me Even when I think of external objects I can meditate on Thee in Thy
-particular manifestations in them if I have a detailed knowledge of Thy
-glories. Therefore deign to tell me; without reserve; of Thy own
-glories. Then only can I behold oneness everywhere.
+and; भावेषु aspects; चिन्त्यः to be thought of; असि (Thou) art; भगवन् O blessed Lord; मया by me.Commentary Arjuna says O Lord; how may I know Thee by constant meditation In what aspects art Thou to be thought of by me Even when I think of external objects I can meditate on Thee in Thy particular manifestations in them if I have a detailed knowledge of Thy glories. Therefore deign to tell me; without reserve; of Thy own glories. Then only can I behold oneness everywhere.
 
 </details>
 </div>

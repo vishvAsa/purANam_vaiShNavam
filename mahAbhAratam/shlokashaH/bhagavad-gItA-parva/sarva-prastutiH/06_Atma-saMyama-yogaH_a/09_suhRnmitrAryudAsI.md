@@ -76,19 +76,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/09_suhRnmitrAryudAsI.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.9 'Well-wishers' (Suhrt) are those who wish one well, regardless of
-differences in age. 'Friends' (Mitra) are well-wisheres of eal age.
-'Foes' (Ari) are those who wish ill to one because of some particular
-cause. 'The indifferent' (Udasina) are those devoid of both friendship
-and hostility because of the absence of causes for both; 'neutrals'
-(Madhyastha) are those who are by their very nature incapable of both
-friendship and hostility. 'The hateful' are those who wish ill to one
-even from birth. 'Relations' are those who bear goodwill from birth.
-'The good' are those devoted to virtue. 'The sinful' are those given to
-sin. Because of the self being the only end of Yoga, and because of
-there being no gain and no opposition from well-wishers, friends, etc.,
-he who could regard them all with an eal eye as selves, excels in
-respect of fitness for the practice of Yoga.
+6.9 'Well-wishers' (Suhrt) are those who wish one well, regardless of differences in age. 'Friends' (Mitra) are well-wisheres of eal age.
+'Foes' (Ari) are those who wish ill to one because of some particular cause. 'The indifferent' (Udasina) are those devoid of both friendship and hostility because of the absence of causes for both; 'neutrals'
+(Madhyastha) are those who are by their very nature incapable of both friendship and hostility. 'The hateful' are those who wish ill to one even from birth. 'Relations' are those who bear goodwill from birth.
+'The good' are those devoted to virtue. 'The sinful' are those given to sin. Because of the self being the only end of Yoga, and because of there being no gain and no opposition from well-wishers, friends, etc.,
+he who could regard them all with an eal eye as selves, excels in respect of fitness for the practice of Yoga.
 
 </details>
 </div>
@@ -431,17 +423,14 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 6.9. He whose mind is eal in the case of the friend, companion, enemy,
-the indifferent one, the one who remains in the middle, the foe, the
-relative, the righteous and also the sinful-he excells \[all\].
+the indifferent one, the one who remains in the middle, the foe, the relative, the righteous and also the sinful-he excells \[all\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/09_suhRnmitrAryudAsI.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.9 He excels who has sameness of view with regard to a benefactor, a
-friend, a foe \[Ari (foe) is one who does harm behind one's back.\], a
-neutral, an arbiter, the hateful, \[Dvesyah is one who openly hateful.\]
+6.9 He excels who has sameness of view with regard to a benefactor, a friend, a foe \[Ari (foe) is one who does harm behind one's back.\], a neutral, an arbiter, the hateful, \[Dvesyah is one who openly hateful.\]
 a relative, good people and even sinners.
 
 </details>
@@ -449,17 +438,14 @@ a relative, good people and even sinners.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/09_suhRnmitrAryudAsI.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.9 He looks impartially on all - lover, friend or foe; indifferent or
-hostile; alien or relative; virtuous or sinful.
+6.9 He looks impartially on all - lover, friend or foe; indifferent or hostile; alien or relative; virtuous or sinful.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/09_suhRnmitrAryudAsI.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.9 He who regards with an eal eye well-wishers, friends, foes, the
-indifferent, neutrals, the hateful, the relations, and even the good and
-the sinful - he excels.
+6.9 He who regards with an eal eye well-wishers, friends, foes, the indifferent, neutrals, the hateful, the relations, and even the good and the sinful - he excels.
 
 </details>
 </div>
@@ -467,29 +453,14 @@ the sinful - he excels.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 6.9 He who is of the same mind to the good-hearted, friends, enemies,
-the indifferent, the neutral, the hateful, the relatives, the righteous
-and the unrighteous, excels.
+the indifferent, the neutral, the hateful, the relatives, the righteous and the unrighteous, excels.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/09_suhRnmitrAryudAsI.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-6.9 सुह्यन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु in the goodhearted; in
-friends; in enemies; in the indifferent; in neutrals; in haters and in
-relatives; साधुषु in the righteous; अपि also; च and; पापेषु in the
-unrighteous;,समबुद्धिः one who has eal mind; विशिष्यते excels.Commentary
-He excels He is the best among the Yogarudhas.Samabudhhi is eanimity or
-evenness of mind. A Yogi of Samabuddhi has eal vision. He is ite
-impartial. He is the same to all. He makes no difference with reference
-to caste; creed or colour. He loves all as his own self; as rooted in
-the Self.A goodhearted man does good to others without expecting any
-servie from them in return.Udasina is one who is ite indifferent.A
-neutral is one who does not join any of the two contending parties. He
-stands as a silent spectator or witness.The righteous are those who do
-righteous actions and follow the injunctions of the scriptures.The
-unrighteous are those who do wrong and forbidden actions; who inure
-others and who do not follow the scriptures.
+6.9 सुह्यन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु in the goodhearted; in friends; in enemies; in the indifferent; in neutrals; in haters and in relatives; साधुषु in the righteous; अपि also; च and; पापेषु in the unrighteous;,समबुद्धिः one who has eal mind; विशिष्यते excels.Commentary He excels He is the best among the Yogarudhas.Samabudhhi is eanimity or evenness of mind. A Yogi of Samabuddhi has eal vision. He is ite impartial. He is the same to all. He makes no difference with reference to caste; creed or colour. He loves all as his own self; as rooted in the Self.A goodhearted man does good to others without expecting any servie from them in return.Udasina is one who is ite indifferent.A neutral is one who does not join any of the two contending parties. He stands as a silent spectator or witness.The righteous are those who do righteous actions and follow the injunctions of the scriptures.The unrighteous are those who do wrong and forbidden actions; who inure others and who do not follow the scriptures.
 
 </details>
 </div>

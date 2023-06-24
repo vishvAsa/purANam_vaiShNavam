@@ -73,11 +73,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.1 The Lord said Listen with rapt attention to these words which I
-shall utter - words which are supreme and which give you a much wider
-understanding of My greatness. I shall speak out to you about the rise
-and growth of devotion to Me, as you are pleased with listening to My
-greatness and as I too love you.
+10.1 The Lord said Listen with rapt attention to these words which I shall utter - words which are supreme and which give you a much wider understanding of My greatness. I shall speak out to you about the rise and growth of devotion to Me, as you are pleased with listening to My greatness and as I too love you.
 
 </details>
 </div>
@@ -345,7 +341,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।10.1।। श्रीभगवान् ने कहा -- हे महाबाहो ! पुनः तुम मेरे परम वचनों का
+।।10.1।। श्रीभगवान् ने कहा -- हे महाबाहो ! पुन: तुम मेरे परम वचनों का
 श्रवण करो, जो मैं तुझ अतिशय प्रेम रखने वाले के लिये हित की इच्छा से
 कहूँगा।।
 
@@ -429,27 +425,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.1. The Bhagavat said O mighty-armed \[Arjuna\] ! Yet, again listen to
-My best message, which, with good intention, I shall declare to you, who
-are dear to Me.
+10.1. The Bhagavat said O mighty-armed \[Arjuna\] ! Yet, again listen to My best message, which, with good intention, I shall declare to you, who are dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.1 The Blessed Lord said O mighty-armed one, listen over again ot My
-supreme utterance, which I, wishing your welfare, shall speak to you who
-take delight (in it).
+10.1 The Blessed Lord said O mighty-armed one, listen over again ot My supreme utterance, which I, wishing your welfare, shall speak to you who take delight (in it).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.1 "Lord Shri Krishna said: Now, O Prince! Listen to My supreme
-advice, which I give thee for the sake of thy welfare, for thou art My
-beloved.
+10.1 "Lord Shri Krishna said: Now, O Prince! Listen to My supreme advice, which I give thee for the sake of thy welfare, for thou art My beloved.
 
 </details>
 </div>
@@ -464,9 +454,7 @@ Desirous of your good, I shall speak to you who love Me.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.1 The Blessed Lord said Again, O mighty-armed Arjuna, listen to my
-supreme word which I will declare to thee who who art beloved, for thy
-welfare.
+10.1 The Blessed Lord said Again, O mighty-armed Arjuna, listen to my supreme word which I will declare to thee who who art beloved, for thy welfare.
 
 </details>
 </div>
@@ -476,21 +464,8 @@ welfare.
   
   
 10.1 भूयः again; एव verily; महाबाहो O mightyarmed; श्रृणु hear; मे My;
-परमम् supreme; वचः word; यत् which; ते to thee; अहम् I; प्रीयमाणाय who
-art beloved; वक्ष्यामि (I) will declare; हितकाम्यया wishing (thy)
-welfare.Commentary I shall repeat what I said before (in the seventh and
-the ninth discourses). My essential nature and My manifestations have
-already been pointed out. As it is very difficult to understand the
-divine nature; I shall describe it once more to you; although it has
-been described already. I shall tell you of the divine glories and point
-out in which forms of being I should be thought of.I will speak to you
-as you are delighted to hear Me. Now your heart is taking delight in
-Me.The Lord wants to encourage Arjuna and cheer him up and so He Himself
-comes forward to give instructions to Arjuna even without his
-reest.Paramam Vachah supreme word. Paramam means supreme; revealing the
-unsurpassed truth (Niratisaya Vastu which is Brahman).O Arjuna You are
-immensely delighted with My speech; as if you are drinking the
-immortalising nectar.
+परमम् supreme; वचः word; यत् which; ते to thee; अहम् I; प्रीयमाणाय who art beloved; वक्ष्यामि (I) will declare; हितकाम्यया wishing (thy)
+welfare.Commentary I shall repeat what I said before (in the seventh and the ninth discourses). My essential nature and My manifestations have already been pointed out. As it is very difficult to understand the divine nature; I shall describe it once more to you; although it has been described already. I shall tell you of the divine glories and point out in which forms of being I should be thought of.I will speak to you as you are delighted to hear Me. Now your heart is taking delight in Me.The Lord wants to encourage Arjuna and cheer him up and so He Himself comes forward to give instructions to Arjuna even without his reest.Paramam Vachah supreme word. Paramam means supreme; revealing the unsurpassed truth (Niratisaya Vastu which is Brahman).O Arjuna You are immensely delighted with My speech; as if you are drinking the immortalising nectar.
 
 </details>
 </div>

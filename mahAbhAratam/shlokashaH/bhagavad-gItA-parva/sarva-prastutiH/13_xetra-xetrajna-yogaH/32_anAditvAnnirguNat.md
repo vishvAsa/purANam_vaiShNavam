@@ -59,15 +59,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.32 This 'supreme self' (Atman) has been defined as having a nature
-different from that of the body. While existing in the body, It is
-'immutable', i.e., It is not liable to decay as It is 'without a
-beginning,' i.e., never created at any point of time. Because It is
-'free from Gunas,' being devoid of Sattva and other Gunas of Prakrti, It
-neither acts nor gets tainted; It is not tainted by the alities of the
-body. Granted that the self being without Gunas, does not act; but how
-is it possible that the Atman is not tainted by Its constant association
-with the alities of the body; To this, Sri Krsna replies:
+13.32 This 'supreme self' (Atman) has been defined as having a nature different from that of the body. While existing in the body, It is
+'immutable', i.e., It is not liable to decay as It is 'without a beginning,' i.e., never created at any point of time. Because It is
+'free from Gunas,' being devoid of Sattva and other Gunas of Prakrti, It neither acts nor gets tainted; It is not tainted by the alities of the body. Granted that the self being without Gunas, does not act; but how is it possible that the Atman is not tainted by Its constant association with the alities of the body; To this, Sri Krsna replies:
 
 </details>
 </div>
@@ -442,7 +436,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।13.32।। हे कौन्तेय ! अनादि और निर्गुण होने से यह परमात्मा अव्यय है।
-शरीर में स्थित हुआ भी, वस्तुतः, वह न (कर्म) करता है और न (फलों से) लिप्त
+शरीर में स्थित हुआ भी, वस्तुत:, वह न (कर्म) करता है और न (फलों से) लिप्त
 होता है।।
 
 </details>
@@ -521,35 +515,28 @@ this Supreme Self is changeless and It neither acts, nor gets stained
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.32 Being without beginning and without alities, O son of Kunti, this
-immutable, supreme Self does not act. nor is It affected \[Also
-translated as tainted.-Tr.\], although existing in the body.
+13.32 Being without beginning and without alities, O son of Kunti, this immutable, supreme Self does not act. nor is It affected \[Also translated as tainted.-Tr.\], although existing in the body.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.32 The Supreme Spirit, O Prince, is without beginning, without
-Qualities and Imperishable, and though it be within the body, yet It
-does not act, nor is It affected by action.
+13.32 The Supreme Spirit, O Prince, is without beginning, without Qualities and Imperishable, and though it be within the body, yet It does not act, nor is It affected by action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.32 This supreme self, though dwelling in the body, is immutable, O
-Arjuna, being without beginning. It neither acts nor is tainted, as It
-is without Gunas.
+13.32 This supreme self, though dwelling in the body, is immutable, O Arjuna, being without beginning. It neither acts nor is tainted, as It is without Gunas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.32 Being without beginning and being devoid of (any) alities, the
-Supreme Self, imperishable, though dwelling in the body, O Arjuna,
+13.32 Being without beginning and being devoid of (any) alities, the Supreme Self, imperishable, though dwelling in the body, O Arjuna,
 neither acts nor is tainted.
 
 </details>
@@ -557,45 +544,14 @@ neither acts nor is tainted.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/13_xetra-xetrajna-yogaH/32_anAditvAnnirguNat.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-13.32 अनादित्वात् being without beginning; निर्गुणत्वात् being devoid of
-alities; परमात्मा the Supreme Self; अयम् this; अव्ययः imperishable;
+13.32 अनादित्वात् being without beginning; निर्गुणत्वात् being devoid of alities; परमात्मा the Supreme Self; अयम् this; अव्ययः imperishable;
 शरीरस्थः dwelling in this body; अपि though; कौन्तेय O son of Kunti
-(Arjuna); न not करोति acts; न not; लिप्यते is tainted.Commentary The
-Supreme Self is beyond Nature. Therefore It is without alities. It is
-Nirguna. The activity in Nature is really due to its own alities which
-inhere in it. The Supreme Self existed before the body came into being
-and will continue to be after its dissolution. It is eternally the same
-and imperishable.Avyaya That which is free from the changes of birth and
-death or appearance and destruction. That which has a beginning has
-birth. After the object is born it is subject to the changes of being
-(growth; decay; etc.). As the Self is birthless; It is free from the
-changes of state (existence; birth; growth; change; decay and death). As
-the Self is free from all sorts of functions; It is Avyaya. Even if the
-reflection of the sun in the water moves; the sun does not move a bit.
-Even so the Supreme Self is not touched by the fruits of action as It is
-not the doer; as It is without the alities of Nature; or limbs;
-indivisible; devoid of parts; without action; beginningless and
-unattached and causeless.This Supreme Self is free from the three kinds
-of differences; viz.; Sajatiyabheda; Vijatiyabheda and Svagatabheda. A
-mango tree is different from a fig tree. This is Sajatiyabheda. A mango
-tree is different from a stone. This is Vijatiyabheda. In the same mango
-tree there is difference between leaves; flowers and fruits. This is
-Svagatabheda. But the Supreme Self is one without a second. There is no
-other Brahman Which is eal to It. Therefore; there cannot be
-Sajatiyabheda in Brahman. This world is a mere appearance. It is a mere
-figment of our imagination. It is superimposed on the Absolute on
-account of ignorance. An imaginary object has no independent existence
-apart from its substratum; just as the snake in the rope has no
-independent existence apart from its substratum; the rope. Therefore;
+(Arjuna); न not करोति acts; न not; लिप्यते is tainted.Commentary The Supreme Self is beyond Nature. Therefore It is without alities. It is Nirguna. The activity in Nature is really due to its own alities which inhere in it. The Supreme Self existed before the body came into being and will continue to be after its dissolution. It is eternally the same and imperishable.Avyaya That which is free from the changes of birth and death or appearance and destruction. That which has a beginning has birth. After the object is born it is subject to the changes of being
+(growth; decay; etc.). As the Self is birthless; It is free from the changes of state (existence; birth; growth; change; decay and death). As the Self is free from all sorts of functions; It is Avyaya. Even if the reflection of the sun in the water moves; the sun does not move a bit.
+Even so the Supreme Self is not touched by the fruits of action as It is not the doer; as It is without the alities of Nature; or limbs;
+indivisible; devoid of parts; without action; beginningless and unattached and causeless.This Supreme Self is free from the three kinds of differences; viz.; Sajatiyabheda; Vijatiyabheda and Svagatabheda. A mango tree is different from a fig tree. This is Sajatiyabheda. A mango tree is different from a stone. This is Vijatiyabheda. In the same mango tree there is difference between leaves; flowers and fruits. This is Svagatabheda. But the Supreme Self is one without a second. There is no other Brahman Which is eal to It. Therefore; there cannot be Sajatiyabheda in Brahman. This world is a mere appearance. It is a mere figment of our imagination. It is superimposed on the Absolute on account of ignorance. An imaginary object has no independent existence apart from its substratum; just as the snake in the rope has no independent existence apart from its substratum; the rope. Therefore;
 there cannot be Vijatiyabheda in Brahman. Brahman is indivisible;
-partless; without alities; without form and without any limbs. Therefore
-there cannot be Svagatabheda in Brahman.Brahman or the Supreme Self is
-beginningless. It is without a cause. It is selfexistent. It is without
-parts. It is without alities. Therefore Brahman is imperishable. As It
-is unattached; It is neither the doer nor the enjoyer. If Brahman also
-is the doer and enjoyer. It is no longer Brahman. It is in no way better
-than ourselves. This cannot be. Agency and enjoyment are attributed to
-the ego on account of ignorance. It is Nature that acts. (Cf.V.14XV.9)
+partless; without alities; without form and without any limbs. Therefore there cannot be Svagatabheda in Brahman.Brahman or the Supreme Self is beginningless. It is without a cause. It is selfexistent. It is without parts. It is without alities. Therefore Brahman is imperishable. As It is unattached; It is neither the doer nor the enjoyer. If Brahman also is the doer and enjoyer. It is no longer Brahman. It is in no way better than ourselves. This cannot be. Agency and enjoyment are attributed to the ego on account of ignorance. It is Nature that acts. (Cf.V.14XV.9)
 
 </details>
 </div>

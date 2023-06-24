@@ -83,21 +83,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/26_na_buddhibhedam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.26 Do not bewilder the minds of ignorant aspirants by saying that
-there is, besides Karma Yoga, another way to the vision of the self.
-They cannot practise Jnana Yoga on account of their incomplete knowledge
-of the self, and attachment to action. They are alified for Karma Yoga
-because of their being fit only for activity on account of the subtle
-impressions of their beginningless Karma. What then follows from this;
-It is this: Even though one is alified for Jnana Yoga because of the
-complete knowledge of the self, one should do work, holding the view as
-said previously, that Karma Yoga by itself without Jnana Yoga is an
-independent means for the vision of the self. He should thus generate
-love for all types of activity among those who do not know the complete
-truth. Sri Krsna declares (in the verses 27 to 30) the way in which the
-self is to be contemplated on as not being an agent as reired by Karma
-Yoga, after demonstrating the difference between the enlightened and
-unenlightened among those practising Karma Yoga.
+3.26 Do not bewilder the minds of ignorant aspirants by saying that there is, besides Karma Yoga, another way to the vision of the self.
+They cannot practise Jnana Yoga on account of their incomplete knowledge of the self, and attachment to action. They are alified for Karma Yoga because of their being fit only for activity on account of the subtle impressions of their beginningless Karma. What then follows from this;
+It is this: Even though one is alified for Jnana Yoga because of the complete knowledge of the self, one should do work, holding the view as said previously, that Karma Yoga by itself without Jnana Yoga is an independent means for the vision of the self. He should thus generate love for all types of activity among those who do not know the complete truth. Sri Krsna declares (in the verses 27 to 30) the way in which the self is to be contemplated on as not being an agent as reired by Karma Yoga, after demonstrating the difference between the enlightened and unenlightened among those practising Karma Yoga.
 
 </details>
 </div>
@@ -418,48 +406,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/26_na_buddhibhedam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.26. Let the wise master of Yoga fulfil (or destroy) all actions by
-performing them all, and let him not creat any disturbance in the mind
-of the ingnorant persons attached to action.
+3.26. Let the wise master of Yoga fulfil (or destroy) all actions by performing them all, and let him not creat any disturbance in the mind of the ingnorant persons attached to action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/26_na_buddhibhedam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.26 The enlightened man should not create disturbance in the beliefs of
-the ignorant, who are attached to work. Working, while himself remaining
-deligen \[Some translate yuktah as, 'in the right manner'. S. takes it
-in the sense of Yoga-yuktah, merged in yoga.-Tr.\], he should make them
-do \[Another reading is yojayet, meaning the same as josayet.-Tr.\] all
-the duties.
+3.26 The enlightened man should not create disturbance in the beliefs of the ignorant, who are attached to work. Working, while himself remaining deligen \[Some translate yuktah as, 'in the right manner'. S. takes it in the sense of Yoga-yuktah, merged in yoga.-Tr.\], he should make them do \[Another reading is yojayet, meaning the same as josayet.-Tr.\] all the duties.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/26_na_buddhibhedam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.26 But a wise man should not perturb the minds of the ignorant, who
-are attached to action; let him perform his own actions in the right
-spirit, with concentration on Me, thus inspiring all to do the same.
+3.26 But a wise man should not perturb the minds of the ignorant, who are attached to action; let him perform his own actions in the right spirit, with concentration on Me, thus inspiring all to do the same.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/26_na_buddhibhedam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.26 He should not bewilder the minds of the ignorant who are attached
-to work; rather himself performing work with devotion, he should cause
-others to do so.
+3.26 He should not bewilder the minds of the ignorant who are attached to work; rather himself performing work with devotion, he should cause others to do so.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/26_na_buddhibhedam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.26 Let no wise man unsettle the mind of ignorant people who are
-attached to action; he should engage them in all actions, himself
-fulfilling them with devotion.
+3.26 Let no wise man unsettle the mind of ignorant people who are attached to action; he should engage them in all actions, himself fulfilling them with devotion.
 
 </details>
 </div>
@@ -467,17 +442,7 @@ fulfilling them with devotion.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.26 न not; बुद्धिभेदम् unsettlement in the mind; जनयेत् should produce;
-अज्ञानाम् of the ignorant; कर्मसङ्गिनाम् of the persons attached to
-actions; जोषयेत् should engage; सर्वकर्माणि all actions; विद्वान् the
-wise; युक्तः balanced; समाचरन् performing.Commentary An ignorant may
-says to himelf; I shall do this action and thery enjoy its fruit. A wise
-man should not unsettle his belief. On the contrary he himself should
-set an example by performing his duties diligently but without
-attachment. The wise man should also persuade the ignorant never to
-neglect their duties. If need be; he should place before them in vivid
-colours the happiness they would enjoy here and hereafter by discharging
-such duties. When their hearts get purified in course of time; the wise
-man could sow the seeds of Karma Yoga (selfless service without deire)
+अज्ञानाम् of the ignorant; कर्मसङ्गिनाम् of the persons attached to actions; जोषयेत् should engage; सर्वकर्माणि all actions; विद्वान् the wise; युक्तः balanced; समाचरन् performing.Commentary An ignorant may says to himelf; I shall do this action and thery enjoy its fruit. A wise man should not unsettle his belief. On the contrary he himself should set an example by performing his duties diligently but without attachment. The wise man should also persuade the ignorant never to neglect their duties. If need be; he should place before them in vivid colours the happiness they would enjoy here and hereafter by discharging such duties. When their hearts get purified in course of time; the wise man could sow the seeds of Karma Yoga (selfless service without deire)
 in them.
 
 </details>

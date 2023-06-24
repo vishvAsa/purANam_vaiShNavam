@@ -84,14 +84,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.9 The foods that are bitter, sour, very salty, over-hot, very
-pungent, dry and burning, are those that they the taste (Rasa) of
-bitterness and sourness, that are inordinately salty, hot, pungent, and
-that are dry and burning. Pungent foods are those which are unsuitable
-and difficult to be taken by others because of their being ver cold, ver
-hot etc. Dry things are those which cause the feeling of dryness in the
-eater. Burning foods are those which cause burning sensation. Foods of
-this kind are relished by men of Rajasik nature. They promote pain,
+17.9 The foods that are bitter, sour, very salty, over-hot, very pungent, dry and burning, are those that they the taste (Rasa) of bitterness and sourness, that are inordinately salty, hot, pungent, and that are dry and burning. Pungent foods are those which are unsuitable and difficult to be taken by others because of their being ver cold, ver hot etc. Dry things are those which cause the feeling of dryness in the eater. Burning foods are those which cause burning sensation. Foods of this kind are relished by men of Rajasik nature. They promote pain,
 sorrow and disease.
 
 </details>
@@ -290,7 +283,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।17.9।। कड़वे, खट्टे, लवणयुक्त, अति उष्ण, तीक्ष्ण (तीखे, मिर्च युक्त),
-रूखे. दाहकारक, दुःख, शोक और रोग उत्पन्न कारक भोज्य पदार्थ राजस पुरुष को
+रूखे. दाहकारक, दु:ख, शोक और रोग उत्पन्न कारक भोज्य पदार्थ राजस पुरुष को
 प्रिय होते हैं।।
 
 </details>
@@ -333,18 +326,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.9. The foods that are killed by men of the Rajas (Strand) are those
-which are bitter, sour, saltish, very hot, harsh, dry, and burning; and
-which cause pain, grief and disease.
+17.9. The foods that are killed by men of the Rajas (Strand) are those which are bitter, sour, saltish, very hot, harsh, dry, and burning; and which cause pain, grief and disease.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.9 Foods that are bitter, sour, salty, very hot, pungent, dry and
-burning, and which production pain, sorrow and disease, are dear to one
-having rajas.
+17.9 Foods that are bitter, sour, salty, very hot, pungent, dry and burning, and which production pain, sorrow and disease, are dear to one having rajas.
 
 </details>
 </div>
@@ -360,9 +349,7 @@ repentance and disease.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.9 Foods that are bitter, sour, very salty, exceedingly heating, very
-pungent, dry and burning, are all dear to Rajasika men; they produce
-pain, sorrow and disease.
+17.9 Foods that are bitter, sour, very salty, exceedingly heating, very pungent, dry and burning, are all dear to Rajasika men; they produce pain, sorrow and disease.
 
 </details>
 </div>
@@ -378,19 +365,8 @@ grief and disease.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/17_shraddhA-traya-vibhA/09_kaTvamlalavaNAtyu.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-17.9 कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः those that are bitter; sour
-saline; excessively hot; pungent; dry and burning; आहाराः foods; राजसस्य
-of the Rajasic; इष्टाः are liked; दुःखशोकामयप्रदाः are productive of
-pain; grief and disease.Commentary Excessively This alification should
-be taken to apply to each of the seven alities -- thus; excessively
-saline; and so on.Food of a passionate nature produces restlessness in
-the mind; evil thoughts; excitement; craving now for one thing and then
-for another; pain; trouble and disease. The Rajasic man always plans to
-prepare various kinds of preparations to satisfy his palate. He takes
-salt; chillies; mustard; cloves; condiments; pungent pickles; etc.; in
-excess. Tears flow from his eyes and water dribbles from his nose and
-yet he will not leave the hot and pungent articles. The palate remains
-unsatisfied until the stomach is completely filled with pungent things;
+17.9 कट्वम्ललवणात्युष्णतीक्ष्णरूक्षविदाहिनः those that are bitter; sour saline; excessively hot; pungent; dry and burning; आहाराः foods; राजसस्य
+of the Rajasic; इष्टाः are liked; दुःखशोकामयप्रदाः are productive of pain; grief and disease.Commentary Excessively This alification should be taken to apply to each of the seven alities -- thus; excessively saline; and so on.Food of a passionate nature produces restlessness in the mind; evil thoughts; excitement; craving now for one thing and then for another; pain; trouble and disease. The Rajasic man always plans to prepare various kinds of preparations to satisfy his palate. He takes salt; chillies; mustard; cloves; condiments; pungent pickles; etc.; in excess. Tears flow from his eyes and water dribbles from his nose and yet he will not leave the hot and pungent articles. The palate remains unsatisfied until the stomach is completely filled with pungent things;
 till the tongue is burnt with chillies. Ladysfinger; Puri; Kachori;
 pungent condiments; meat; fish; eggs; sweets; potato; fried bread; curd;
 brinjal; carrots; blackgram; onions; garlic; lemon; Masur; tea; coffee;

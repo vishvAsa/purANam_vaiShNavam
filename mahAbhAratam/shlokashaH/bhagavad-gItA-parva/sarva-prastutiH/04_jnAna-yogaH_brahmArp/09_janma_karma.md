@@ -79,17 +79,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.9 He who knows truly My life and actions, super-natural and special to
-Me, which are intended solely for the protection of the good and to
-enable them to take refuge in Me, - Me who am devoid of birth, unlike
-ordinary beings whose birth is caused by Karma associated with Prakrti
-and its three Gunas producing the evil of bondage, and who is endowed
-with auspicious attributes such as Lordship over all, omniscience,
-infallible will etc., - such a person after abandoning the present body
-will never be born, but will reach Me only. By true knowledge of My
-divine birth and acts, all his sins that stand in his way of taking
-refuge in Me are destroyed. In this birth itself, resorting to Me in the
-manner already described, and loving Me and concentrating on Me alone,
+4.9 He who knows truly My life and actions, super-natural and special to Me, which are intended solely for the protection of the good and to enable them to take refuge in Me, - Me who am devoid of birth, unlike ordinary beings whose birth is caused by Karma associated with Prakrti and its three Gunas producing the evil of bondage, and who is endowed with auspicious attributes such as Lordship over all, omniscience,
+infallible will etc., - such a person after abandoning the present body will never be born, but will reach Me only. By true knowledge of My divine birth and acts, all his sins that stand in his way of taking refuge in Me are destroyed. In this birth itself, resorting to Me in the manner already described, and loving Me and concentrating on Me alone,
 he reaches Me. Sri Krsna speaks of the same thing:
 
 </details>
@@ -370,7 +361,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।4.9।। हे अर्जुन ! मेरा जन्म और कर्म दिव्य है, इस प्रकार जो पुरुष
-तत्त्वतः जानता है, वह शरीर को त्यागकर फिर जन्म को नहीं प्राप्त होता;
+तत्त्वत: जानता है, वह शरीर को त्यागकर फिर जन्म को नहीं प्राप्त होता;
 वह मुझे ही प्राप्त होता है।।
 
 </details>
@@ -415,32 +406,28 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 4.9. Whosoever knows thus correctly the divine birth and action of Mine,
-he, on abandoning the body does not go to rirth, \[but\] goes to Me, O
-Arjuna !
+he, on abandoning the body does not go to rirth, \[but\] goes to Me, O Arjuna !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.9 He who thus knows truly the divine birth and actions of Mine does
-not get rirth after casting off the body. He attains Me, O Arjuna.
+4.9 He who thus knows truly the divine birth and actions of Mine does not get rirth after casting off the body. He attains Me, O Arjuna.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.9 He who realises the divine truth concerning My birth and life is not
-born again; and when he leaves his body, he becomes one with Me.
+4.9 He who realises the divine truth concerning My birth and life is not born again; and when he leaves his body, he becomes one with Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/09_janma_karma.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.9 He who thus knows in truth My divine birth and actions does not get
-rirth after leaving the body; he will come to Me, O Arjuna.
+4.9 He who thus knows in truth My divine birth and actions does not get rirth after leaving the body; he will come to Me, O Arjuna.
 
 </details>
 </div>
@@ -458,15 +445,7 @@ having abandoned the body, is not born again, he comes to Me, O Arjuna.
 4.9 जन्म birth; कर्म action; च and; मे My; दिव्यम् divine; एवम् thus; यः
 who; वेत्ति knows; तत्त्वतः in true light; त्यक्त्वा having abandoned;
 देहम् the body; पुनः again; जन्म birth; नः not; एति gets; माम् to Me;
-एति comes; सः he; अर्जुन O Arjuna.Commentary The Lord; though apparently
-born; is always beyond birth and death though apparently active for
-firmly establishing righteousness; He is ever beyond all actions. He who
-knows this is never born again. He attains knowledge of the Self and
-becomes liberated while living.The birth of the Lord is an illusion. It
-is Aprakrita (beyond the pale of Nature). It is divine. It is peculiar
-to the Lord. Though He appears in human form; His body is Chinmaya (full
-of consciousness; not inert matter as are human bodies composed of the
-five elements).
+एति comes; सः he; अर्जुन O Arjuna.Commentary The Lord; though apparently born; is always beyond birth and death though apparently active for firmly establishing righteousness; He is ever beyond all actions. He who knows this is never born again. He attains knowledge of the Self and becomes liberated while living.The birth of the Lord is an illusion. It is Aprakrita (beyond the pale of Nature). It is divine. It is peculiar to the Lord. Though He appears in human form; His body is Chinmaya (full of consciousness; not inert matter as are human bodies composed of the five elements).
 
 </details>
 </div>

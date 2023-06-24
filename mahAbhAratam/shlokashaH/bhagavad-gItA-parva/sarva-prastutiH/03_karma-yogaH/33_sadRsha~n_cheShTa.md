@@ -74,16 +74,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.33 Such and such is the nature of the self, which is different from
-the Prakrti - this has to be always contemplated upon: thus declare the
-Sastras. Even a person who knows this, acts in relation to material
-objects only according to his own nature, i.e., guided by his old subtle
-impressions. How is this; 'All beings follow their nature.' Beings in
-conjunction with non-conscient matter, all follow only subtle
-impressions which have continued to come from time immemorial. What can
-the control enjoined by Sastras, do to these beings who follow their
-subtle impressions; Sri Krsna expounds the way by which individuals are
-overpowered to follow their respective natures:
+3.33 Such and such is the nature of the self, which is different from the Prakrti - this has to be always contemplated upon: thus declare the Sastras. Even a person who knows this, acts in relation to material objects only according to his own nature, i.e., guided by his old subtle impressions. How is this; 'All beings follow their nature.' Beings in conjunction with non-conscient matter, all follow only subtle impressions which have continued to come from time immemorial. What can the control enjoined by Sastras, do to these beings who follow their subtle impressions; Sri Krsna expounds the way by which individuals are overpowered to follow their respective natures:
 
 </details>
 </div>
@@ -418,42 +409,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.33. Even a man of knowledge acts in conformity to his own Prakrti, the
-elements go \[back\] to the Prakrti; \[and\] what will the restraint
-avail ;
+3.33. Even a man of knowledge acts in conformity to his own Prakrti, the elements go \[back\] to the Prakrti; \[and\] what will the restraint avail ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.33 Even a man of wisdom behaves according to his own nature. Being
-follow (their) nature. What can restraint do;
+3.33 Even a man of wisdom behaves according to his own nature. Being follow (their) nature. What can restraint do;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.33 Even the wise man acts in character with his nature; indeed, all
-creatures act according to their natures. What is the use of compulsion
-then;
+3.33 Even the wise man acts in character with his nature; indeed, all creatures act according to their natures. What is the use of compulsion then;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.33 Even the man of knowledge acts according to his nature; all beings
-follow their nature. What will repression do;
+3.33 Even the man of knowledge acts according to his nature; all beings follow their nature. What will repression do;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/33_sadRsha~n_cheShTa.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.33 Even a wise man acts in accordance with his own nature; beings will
-follow Nature; what can restraint do;
+3.33 Even a wise man acts in accordance with his own nature; beings will follow Nature; what can restraint do;
 
 </details>
 </div>
@@ -462,16 +446,7 @@ follow Nature; what can restraint do;
 
 3.33 सदृशम् in accordance; चेष्टते acts; स्वस्याः of his own; प्रकृतेः
 of nature; ज्ञानवान् a wise man; अपि even; प्रकृतिम् to nature; यान्ति
-follow; भूतानि beings; निग्रहः restraint; किम् what; करिष्यति will
-do.Commentary He who reads this verse will come to the conclusion that
-there is no scope for mans personal exertion. It is not so. Read the
-following verse. It clearly indicates that man can coner Nature if he
-rises above the sway of RagaDvesha (love and hatred).The passionate and
-ignorant man only comes under the sway of his natural propensities; and
-his lower nature. He cannot have any restraint over the senses and the
-two currents of likes and dislikes. The seeker after Truth who is
-endowed with the four means; and who is constantly practising meditation
-can easily control Nature. (Cf.II.60V.14XVIII.59).
+follow; भूतानि beings; निग्रहः restraint; किम् what; करिष्यति will do.Commentary He who reads this verse will come to the conclusion that there is no scope for mans personal exertion. It is not so. Read the following verse. It clearly indicates that man can coner Nature if he rises above the sway of RagaDvesha (love and hatred).The passionate and ignorant man only comes under the sway of his natural propensities; and his lower nature. He cannot have any restraint over the senses and the two currents of likes and dislikes. The seeker after Truth who is endowed with the four means; and who is constantly practising meditation can easily control Nature. (Cf.II.60V.14XVIII.59).
 
 </details>
 </div>

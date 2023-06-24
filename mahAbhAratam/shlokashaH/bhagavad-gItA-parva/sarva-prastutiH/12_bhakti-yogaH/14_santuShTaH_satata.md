@@ -79,23 +79,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.13 - 12.14 In these and succeeding verses the Lord mentions the
-nature of the Karma Yogi who adores Him through his works. In other
-words the Bhakti element in Karma Yoga is emphasised. He never hates any
-being even though they hate him and do him wrong. For he thinks that the
-Lord impels these beings to hate him and do him wrong for atoning for
-his transgressions. He is 'friendly', evincing a friendly disposition
-towards all beings whether they hate him or do him wrong. He is
-'compassionate', evincing compassion towards their sufferings. He is
-free from the 'feeling of mine,' i.e., he is not possessive with regard
-to his body, senses and all things associated with them. He is free from
-the feeling of 'I', i.e., is free from the delusion that his body is the
-self. Therefore, 'pain and pleasure are the same to him,' i.e., he is
-free from distress and delight resulting from pain and pleasure arising
-from his deeds. He is 'enduring', unaffected even by those two (i.e.,
+12.13 - 12.14 In these and succeeding verses the Lord mentions the nature of the Karma Yogi who adores Him through his works. In other words the Bhakti element in Karma Yoga is emphasised. He never hates any being even though they hate him and do him wrong. For he thinks that the Lord impels these beings to hate him and do him wrong for atoning for his transgressions. He is 'friendly', evincing a friendly disposition towards all beings whether they hate him or do him wrong. He is
+'compassionate', evincing compassion towards their sufferings. He is free from the 'feeling of mine,' i.e., he is not possessive with regard to his body, senses and all things associated with them. He is free from the feeling of 'I', i.e., is free from the delusion that his body is the self. Therefore, 'pain and pleasure are the same to him,' i.e., he is free from distress and delight resulting from pain and pleasure arising from his deeds. He is 'enduring', unaffected even by those two (i.e.,
 pleasure and pain) due to the inevitable contact of sense-objects. He is
-'content', namely, satisfied with whatever chance may bring him for the
-sustenance of his body. He 'ever meditates,' i.e., is constantly intent
+'content', namely, satisfied with whatever chance may bring him for the sustenance of his body. He 'ever meditates,' i.e., is constantly intent
 on contemplating on the self as separate from the body. He is
 'self-restrained', namely, he controls the activities of his mind. He is
 of 'firm conviction' regarding the meanings taught in the science of the
@@ -576,44 +563,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.14. Who remains well-content and is a man of Yoga at all times; who
-is self-controlled and is firmly resolute; and who has offered to Me his
-mind and intellect-that devotee of Mine is dear to Me.
+12.14. Who remains well-content and is a man of Yoga at all times; who is self-controlled and is firmly resolute; and who has offered to Me his mind and intellect-that devotee of Mine is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.14 He who is ever content, who is a yogi, who has self-control, who
-has firm conviction, who has dedicated his mind and intellect to Me-he
-who is such a devotee of Mine is dear to Me.
+12.14 He who is ever content, who is a yogi, who has self-control, who has firm conviction, who has dedicated his mind and intellect to Me-he who is such a devotee of Mine is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/14_santuShTaH_satata.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.14 Always contented, self-centred, self-controlled, resolute, with
-mind and reason dedicated to Me, such a devotee of Mine is My beloved.
+12.14 Always contented, self-centred, self-controlled, resolute, with mind and reason dedicated to Me, such a devotee of Mine is My beloved.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.14 He who is content, who ever meditates and is self-restrained and
-who is firm in his convictions, who has his mind and reason dedicated to
-Me - he is dear to Me.
+12.14 He who is content, who ever meditates and is self-restrained and who is firm in his convictions, who has his mind and reason dedicated to Me - he is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/14_santuShTaH_satata.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.14 Ever content, steady in meditation, self-controlled, possessed of
-firm conviction, with the mind and intellect dedicated to Me, he, My
-devtoee, is dear to Me.
+12.14 Ever content, steady in meditation, self-controlled, possessed of firm conviction, with the mind and intellect dedicated to Me, he, My devtoee, is dear to Me.
 
 </details>
 </div>
@@ -623,32 +601,9 @@ devtoee, is dear to Me.
 12.14 सन्तुष्टः contented; सततम् ever; योगी Yogi; यतात्मा
 selfcontrolled; दृढनिश्चयः possessed of firm,conviction; मयि
 अर्पितमनोबुद्धिः with mind and intellect dedicated to Me; यः who;
-मद्भक्तः My devotee; सः he; मे to Me; प्रियः dear.Commentary He knows
-that all that comes to him is the fruit of his own actions in the past
-and so he is ever contented. He does not endeavour to attain the finite
-or perishable objects. He fixes his mind and intellect on the Supreme
-Being or the Absolute; attains eternal satisfaction and stands adamant
-like yonder rock; amidst the vicissitudes of time.Contentment ever
-dwells in the heart of My devotee. Like the ocean which is ever full;
-his heart is ever full as he has no cravings. He is ever cheerful and
-joyous. He has a feeling of fullness whether or not he gets the means
-for the bare sustencance of his body. He is satisfied with a little
-thing and he does not care whether it is good or not. He never grumbles;
-complains or murmurs when he does not obtain food and clothing which are
-necessary for the maintenance of the body. His mind is ever filled with
-Me through constant and steady meditation.Yogi He who has evenness of
-mind always. He has controlled all the senses and desires. With a firm
-determination he has fixed his mind and intellect on Me in a spirit of
-perfect selfsurrender. He is endowed with a firm conviction regarding
-the essential nature of the Self. He who has the knowledge through
-Selfrealisation; I am Asanga Akarta Suddha Satchidananda Svayamprakasa
-Advitiya Brahman (unattached; nondoer; pure; ExistenceKnowledgeBliss
-Absolute; selfluminous; nondual Brahman) is a sage of firm
-determination. He has given to Me exclusively his mind (the faculty that
-wills and doubts) and the intellect (the faculty that determines). He is
-dear to Me as life itself. Such a comparison falls far short of the
-reality.The same thing which was said by Lord Krishna to Arjuna in
-chapter VII. 17; I am very dear to the wise and he is very dear to Me;
+मद्भक्तः My devotee; सः he; मे to Me; प्रियः dear.Commentary He knows that all that comes to him is the fruit of his own actions in the past and so he is ever contented. He does not endeavour to attain the finite or perishable objects. He fixes his mind and intellect on the Supreme Being or the Absolute; attains eternal satisfaction and stands adamant like yonder rock; amidst the vicissitudes of time.Contentment ever dwells in the heart of My devotee. Like the ocean which is ever full;
+his heart is ever full as he has no cravings. He is ever cheerful and joyous. He has a feeling of fullness whether or not he gets the means for the bare sustencance of his body. He is satisfied with a little thing and he does not care whether it is good or not. He never grumbles;
+complains or murmurs when he does not obtain food and clothing which are necessary for the maintenance of the body. His mind is ever filled with Me through constant and steady meditation.Yogi He who has evenness of mind always. He has controlled all the senses and desires. With a firm determination he has fixed his mind and intellect on Me in a spirit of perfect selfsurrender. He is endowed with a firm conviction regarding the essential nature of the Self. He who has the knowledge through Selfrealisation; I am Asanga Akarta Suddha Satchidananda Svayamprakasa Advitiya Brahman (unattached; nondoer; pure; ExistenceKnowledgeBliss Absolute; selfluminous; nondual Brahman) is a sage of firm determination. He has given to Me exclusively his mind (the faculty that wills and doubts) and the intellect (the faculty that determines). He is dear to Me as life itself. Such a comparison falls far short of the reality.The same thing which was said by Lord Krishna to Arjuna in chapter VII. 17; I am very dear to the wise and he is very dear to Me;
 is here described in detail.
 
 </details>

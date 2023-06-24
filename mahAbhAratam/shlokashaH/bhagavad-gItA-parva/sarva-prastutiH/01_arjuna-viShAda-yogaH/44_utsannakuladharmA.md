@@ -41,17 +41,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/44_utsannakuladharmA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -274,41 +265,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/44_utsannakuladharmA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.44. O Janardana! Dwelling in the hell is ite certain for men with
-their family-duties fallen into disuse: this we have heard.
+1.44. O Janardana! Dwelling in the hell is ite certain for men with their family-duties fallen into disuse: this we have heard.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/44_utsannakuladharmA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.44 O Janardana, we have heard that living in hell becomes inevitable
-for those persons whose family duties get destroyed.
+1.44 O Janardana, we have heard that living in hell becomes inevitable for those persons whose family duties get destroyed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/44_utsannakuladharmA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.44 The wise say, my Lord, that they are forever lost, whose ancient
-traditions are lost.
+1.44 The wise say, my Lord, that they are forever lost, whose ancient traditions are lost.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/44_utsannakuladharmA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.44 For those whose clan-laws are destroyed, dwelling in hell is
-ordained, O Krsna; thus have we heard.
+1.44 For those whose clan-laws are destroyed, dwelling in hell is ordained, O Krsna; thus have we heard.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/44_utsannakuladharmA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.44. We have heard, O Janardana, that inevitable is the dwelling for an
-unknown period in hell for those men in whose families the religious
-practices have been destroyed.
+1.44. We have heard, O Janardana, that inevitable is the dwelling for an unknown period in hell for those men in whose families the religious practices have been destroyed.
 
 </details>
 </div>
@@ -316,9 +301,7 @@ practices have been destroyed.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 1.44 उत्सन्नकुलधर्माणाम् whose family religious practices are destroyed;
-मनुष्याणाम् of the men; जनार्दन O Janardana; नरके in hell; अनियतं for
-unknown period; वासः dwelling; भवति is; इति thus; अनुशुश्रुम we have
-heard.No Commentary.
+मनुष्याणाम् of the men; जनार्दन O Janardana; नरके in hell; अनियतं for unknown period; वासः dwelling; भवति is; इति thus; अनुशुश्रुम we have heard.No Commentary.
 
 </details>
 </div>

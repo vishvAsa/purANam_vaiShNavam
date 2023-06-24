@@ -111,12 +111,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/26_amI_cha.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.26 11.27 All these sons of Dhrtarastra like Duryodhana and others
-like Bhisma, Drona, and Suta's son Karna together with the hosts of
-monarchs on their side and also the leading warriors on our side, are
-hastening to their destruction; they enter Your fearful mouths with
-terrible fangs; some, caught between the teeth are seen with their heads
-crushed to powder.
+11.26 11.27 All these sons of Dhrtarastra like Duryodhana and others like Bhisma, Drona, and Suta's son Karna together with the hosts of monarchs on their side and also the leading warriors on our side, are hastening to their destruction; they enter Your fearful mouths with terrible fangs; some, caught between the teeth are seen with their heads crushed to powder.
 
 </details>
 </div>
@@ -351,8 +346,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/26_amI_cha.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.26. All these sons of Dhrtarastra along with the entire hosts of
-kings, this Bhisma, this Drona and this son of the charioteer (Karna),
+11.26. All these sons of Dhrtarastra along with the entire hosts of kings, this Bhisma, this Drona and this son of the charioteer (Karna),
 together with the chief warriors of ours too;
 
 </details>
@@ -360,9 +354,7 @@ together with the chief warriors of ours too;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/26_amI_cha.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.26 And into You (enter) all those sons of Dhrtarastra along with
-multitudes of the rulers of the earth; (also) Bhisma, Drona and that son
-of a Suta (Karna), together with even our prominent warriors.
+11.26 And into You (enter) all those sons of Dhrtarastra along with multitudes of the rulers of the earth; (also) Bhisma, Drona and that son of a Suta (Karna), together with even our prominent warriors.
 
 </details>
 </div>
@@ -370,8 +362,7 @@ of a Suta (Karna), together with even our prominent warriors.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 11.26 All these sons of Dhritarashtra, with the hosts of princes,
-Bheeshma, Drona and Karna, as well as the other warrior chiefs belonging
-to our side;
+Bheeshma, Drona and Karna, as well as the other warrior chiefs belonging to our side;
 
 </details>
 </div>
@@ -386,8 +377,7 @@ Bhisma, Drona and Karna along with the leading warriors of our side,
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/26_amI_cha.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.26 All the sons of Dhritarashtra, with the hosts of kings of the
-earth, Bhishma, Drona and Karna, with the chief among our warriors.
+11.26 All the sons of Dhritarashtra, with the hosts of kings of the earth, Bhishma, Drona and Karna, with the chief among our warriors.
 
 </details>
 </div>
@@ -398,9 +388,7 @@ earth, Bhishma, Drona and Karna, with the chief among our warriors.
 पुत्राः sons; सर्वे all; सह with; एव even; अवनिपालसङ्घैः hosts of kings;
 भीष्मः Bhishma; द्रोणः Drona; सूतपुत्रः Karana; तथा also; असौ this; सह
 with; अस्मदीयैः with (those) of ours; अपि also; योधमुख्यैः (with)
-warrior chiefs.Commentary Karna; though he was the son of Kunti; the
-mother of the Pandavas; was brought up by a charioteer and hence came to
-be regarded as his son.
+warrior chiefs.Commentary Karna; though he was the son of Kunti; the mother of the Pandavas; was brought up by a charioteer and hence came to be regarded as his son.
 
 </details>
 </div>

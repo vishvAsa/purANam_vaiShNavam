@@ -67,16 +67,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.2 Likewise, beginning from the seventh, and ending with the tenth
-discourse, the origination and dissolution of all beings other than You,
+11.2 Likewise, beginning from the seventh, and ending with the tenth discourse, the origination and dissolution of all beings other than You,
 as issuing from You, the Supreme Self, have been heard at length by me.
 Your unlimited greatness, immutable and eternal, Your principalship
-(Sesitva) over all sentient and non-sentient things, Your supreme
-greatness consisting of the host of auspicious attributes like
-knowledge, strength etc., Your being the supporter of all things and
-actuator of all activities like thinking, blinking etc., have also been
-heard. Here the term, 'hi' (verily) expresses the desire to have the
-vision which is going to be revealed.
+(Sesitva) over all sentient and non-sentient things, Your supreme greatness consisting of the host of auspicious attributes like knowledge, strength etc., Your being the supporter of all things and actuator of all activities like thinking, blinking etc., have also been heard. Here the term, 'hi' (verily) expresses the desire to have the vision which is going to be revealed.
 
 </details>
 </div>
@@ -321,8 +315,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.2. The origin and the dissolution of beings have been listened to in
-detail by me from You, O Lotus-eyed One, and also to \[Your\]
+11.2. The origin and the dissolution of beings have been listened to in detail by me from You, O Lotus-eyed One, and also to \[Your\]
 inexhaustible greatness.
 
 </details>
@@ -330,9 +323,7 @@ inexhaustible greatness.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.2 O you with eyes like lotus leaves, the origin and dissolution of
-beings have been heard by me in detail from You. \['From You have been
-heard the origin and dissolution of beings in You.'\] And (Your)
+11.2 O you with eyes like lotus leaves, the origin and dissolution of beings have been heard by me in detail from You. \['From You have been heard the origin and dissolution of beings in You.'\] And (Your)
 undecaying glory, too, (has been heard).
 
 </details>
@@ -340,40 +331,30 @@ undecaying glory, too, (has been heard).
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.2 O Lord, whose eyes are like the lotus petal! Thou hast described in
-detail the origin and the dissolution of being, and Thine own Eternal
-Majesty.
+11.2 O Lord, whose eyes are like the lotus petal! Thou hast described in detail the origin and the dissolution of being, and Thine own Eternal Majesty.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.2 The origination and dissolution of all beings, O Krsna, (as issuing
-from You) have been heard verily by me at length as also Your immutable
-greatness.
+11.2 The origination and dissolution of all beings, O Krsna, (as issuing from You) have been heard verily by me at length as also Your immutable greatness.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.2 The origin and the destruction of beings verily have been heard by
-me in detail from Thee, O lotus-eyed Lord, and also Thy inexhaustible
-greatness.
+11.2 The origin and the destruction of beings verily have been heard by me in detail from Thee, O lotus-eyed Lord, and also Thy inexhaustible greatness.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/02_bhavApyayau_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-11.2 भवाप्ययौ the origin and the dissolution; हि indeed; भूतानाम् of
-beings; श्रुतौ hav been heard; विस्तरशः in detail; मया by me; त्वत्तः
+11.2 भवाप्ययौ the origin and the dissolution; हि indeed; भूतानाम् of beings; श्रुतौ hav been heard; विस्तरशः in detail; मया by me; त्वत्तः
 from Thee; कमलपत्राक्ष O lotuseyed; माहात्म्यम् greatness; अपि also; च
-and; अव्ययम् inexhaustible.Commentary Kamalapatraksha Lotuseyed or
-having eyes like lotuspetals. Kamalapatra also means knowledge of the
-Self. He who can be obtained by knowledge of the Self is
-Kamalapatraksha.
+and; अव्ययम् inexhaustible.Commentary Kamalapatraksha Lotuseyed or having eyes like lotuspetals. Kamalapatra also means knowledge of the Self. He who can be obtained by knowledge of the Self is Kamalapatraksha.
 
 </details>
 </div>

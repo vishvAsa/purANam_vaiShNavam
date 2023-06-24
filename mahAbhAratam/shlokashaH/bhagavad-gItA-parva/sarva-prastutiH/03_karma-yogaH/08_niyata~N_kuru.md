@@ -117,29 +117,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/08_niyata~N_kuru.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.8 'Obligatory' (Niyatam) means 'concomitant' (Vyaptam); for action is
-concomitant with that which is conjoined with Prakrti or the body. The
-contact with Prakrti has arisen from beginingless subtle impressions
-(Vasanas). You must perform work, because the performance of action is
-easy and may not cause accidents by reason of its being obligatory.
+3.8 'Obligatory' (Niyatam) means 'concomitant' (Vyaptam); for action is concomitant with that which is conjoined with Prakrti or the body. The contact with Prakrti has arisen from beginingless subtle impressions
+(Vasanas). You must perform work, because the performance of action is easy and may not cause accidents by reason of its being obligatory.
 Action is superior to non-action, i.e., even to the devotee of Jnana.
-Because of the instruction at the beginning (of this context), 'No man
-experiences freedom from activity' (3.4), devotion to Jnana alone is
-indicated by the word, 'Non-action' (Akarma). Even in the case of one
-alified for devotion to Jnana, devotion to Karma indeed is better
-because Jnana-nistha is difficult to perform and liable to accidents, as
-it has not been practised previoulsy and as it does not come to one
-naturally. Subseently it will be described how, one with the knowledge
-of the true nature of the self can carry on actions along with that
-knowledge. Conseently, we should take the meaning here to be that,
-because knowledge of the self too is included in Karma Yoga, this kind
-of Yoga is superior. This statement on the superiority of activity
-(Karma Yoga) over Jnana Yoga is valid even when there is competency for
-one to adopt Jnana Yoga. For, if you abandon all activities to alify
-yourself for Jnana Yoga, then, for you, who is thus inactive while
-following Jnana Yoga, even the nourishment of the body, which is
-necessary even for Jnana-nistha, will not be achieved. The body has to
-be necessarily sustained until the means are executed to the full.
+Because of the instruction at the beginning (of this context), 'No man experiences freedom from activity' (3.4), devotion to Jnana alone is indicated by the word, 'Non-action' (Akarma). Even in the case of one alified for devotion to Jnana, devotion to Karma indeed is better because Jnana-nistha is difficult to perform and liable to accidents, as it has not been practised previoulsy and as it does not come to one naturally. Subseently it will be described how, one with the knowledge of the true nature of the self can carry on actions along with that knowledge. Conseently, we should take the meaning here to be that,
+because knowledge of the self too is included in Karma Yoga, this kind of Yoga is superior. This statement on the superiority of activity
+(Karma Yoga) over Jnana Yoga is valid even when there is competency for one to adopt Jnana Yoga. For, if you abandon all activities to alify yourself for Jnana Yoga, then, for you, who is thus inactive while following Jnana Yoga, even the nourishment of the body, which is necessary even for Jnana-nistha, will not be achieved. The body has to be necessarily sustained until the means are executed to the full.
 Performing 'great sacrifices' with the help of honestly earned wealth,
 the body should be sustained by consuming the remainders left after such
 sacrifices. This is made clear from scriptural texts like, 'When the
@@ -459,45 +442,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/08_niyata~N_kuru.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.8. You must perform your action which has been enjoined. For, action
-is superior to inaction; and even the maintenance of your body could not
-be properly accomplished through inaction.
+3.8. You must perform your action which has been enjoined. For, action is superior to inaction; and even the maintenance of your body could not be properly accomplished through inaction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/08_niyata~N_kuru.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.8 You perform the obligatory duties, for action is superior to
-inaction. And, through inaction, even the maintenance of your body will
-not be possible.
+3.8 You perform the obligatory duties, for action is superior to inaction. And, through inaction, even the maintenance of your body will not be possible.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/08_niyata~N_kuru.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.8 Do thy duty as prescribed, for action for duty's sake is superior to
-inaction. Even the maintenance of the body would be impossible if man
-remained inactive.
+3.8 Do thy duty as prescribed, for action for duty's sake is superior to inaction. Even the maintenance of the body would be impossible if man remained inactive.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/08_niyata~N_kuru.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.8 You must perform your obligatory action; for action is superior to
-non-action (Jnana Yoga). For a person following non-action not even the
-sustentation of the body is possible.
+3.8 You must perform your obligatory action; for action is superior to non-action (Jnana Yoga). For a person following non-action not even the sustentation of the body is possible.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/08_niyata~N_kuru.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.8 Do thou perform (thy) bounden duty, for action is superior to
-inaction and even the maintenance of the body would not be possible for
-thee by inaction.
+3.8 Do thou perform (thy) bounden duty, for action is superior to inaction and even the maintenance of the body would not be possible for thee by inaction.
 
 </details>
 </div>
@@ -505,16 +478,10 @@ thee by inaction.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.8 नियतम् bounden (prescribed or obligatory); कुरु perform; कर्म
-action; त्वम् thou; कर्म action; ज्यायः superior; हि for; अकर्मणः than
-inaction; शरीरयात्रा maintenance of the body; अपि even; च and; ते thy; न
-not; प्रसिद्ध्येत् would be possible; अकर्मणः by inaction.Commentary
-Niyatam Karma is an obligatory duty which one is bound to perform. The  
+action; त्वम् thou; कर्म action; ज्यायः superior; हि for; अकर्मणः than inaction; शरीरयात्रा maintenance of the body; अपि even; च and; ते thy; न
+not; प्रसिद्ध्येत् would be possible; अकर्मणः by inaction.Commentary Niyatam Karma is an obligatory duty which one is bound to perform. The  
   
-nonperformance of the bounden duties causes demerit. The performance of
-the obligatory duties is not a means for the attainment of a specific
-result. The performance does not cause any merit.Living itself involves
-several natural and unavoidable actions which have to be performed by
-all. It is ignorance to say; I can live doing nothing.
+nonperformance of the bounden duties causes demerit. The performance of the obligatory duties is not a means for the attainment of a specific result. The performance does not cause any merit.Living itself involves several natural and unavoidable actions which have to be performed by all. It is ignorance to say; I can live doing nothing.
 
 </details>
 </div>

@@ -81,20 +81,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.23 The men of 'small understanding' means those whose understanding is
-poor, who worship only Indra and other divinities. The fruit of their
-worship is small and finite. Why; The worshippers of divinities like
-Indra go to the divinities. And Indra and other divinities possess
-limited joy and live only for a limited time. So if they attain eality
-of enjoyment with them, they also fall down along with them in due
-course; but My devotees, knowing that their acts are of the nature of My
-worship, renouncing attachment for finite, fruits, reach Me, having for
-their purpose the pleasing of Me alone. That is, they never more return
-to Samsara. For Sri Krsna teaches later on: 'But on reaching Me there is
-no rirth, O Arjuna' (8.16). Now Sri Krsna declares: 'But these others
-(i.e., who worship Indra etc.) regard as insignificant even My
-incarnations among men and other beings in order to make Myself easy for
-all to resort to.'
+7.23 The men of 'small understanding' means those whose understanding is poor, who worship only Indra and other divinities. The fruit of their worship is small and finite. Why; The worshippers of divinities like Indra go to the divinities. And Indra and other divinities possess limited joy and live only for a limited time. So if they attain eality of enjoyment with them, they also fall down along with them in due course; but My devotees, knowing that their acts are of the nature of My worship, renouncing attachment for finite, fruits, reach Me, having for their purpose the pleasing of Me alone. That is, they never more return to Samsara. For Sri Krsna teaches later on: 'But on reaching Me there is no rirth, O Arjuna' (8.16). Now Sri Krsna declares: 'But these others
+(i.e., who worship Indra etc.) regard as insignificant even My incarnations among men and other beings in order to make Myself easy for all to resort to.'
 
 </details>
 </div>
@@ -409,8 +397,7 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 7.23. But, that fruit of those men of poor intellect is finite. Those,
-who perform sacrifices, aiming at the gods, go to gods, and My devotees
-go to Me.
+who perform sacrifices, aiming at the gods, go to gods, and My devotees go to Me.
 
 </details>
 </div>
@@ -426,26 +413,21 @@ The worshippers of gods go to the gods. My devotees go to Me alone.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 7.23 The fruit that comes to men of limited insight is, after all,
-finite. They who worship the Lower Powers attain them; but those who
-worship Me come unto Me alone.
+finite. They who worship the Lower Powers attain them; but those who worship Me come unto Me alone.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.23 But limited is the fruit gained by these men of small
-understanding. The worshippers of the gods will go to the gods but My
-devotees will come to Me.
+7.23 But limited is the fruit gained by these men of small understanding. The worshippers of the gods will go to the gods but My devotees will come to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/23_antavattu_phalam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.23 Verily the reward (fruit) that accrues to those men of small
-intelligence is finite. The worshippers of the gods go to them, but My
-devotees come to Me.
+7.23 Verily the reward (fruit) that accrues to those men of small intelligence is finite. The worshippers of the gods go to them, but My devotees come to Me.
 
 </details>
 </div>
@@ -453,22 +435,9 @@ devotees come to Me.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 7.23 अन्तवत् finite; तु verily; फलम् the fruit; तेषाम् of them; तत्
-that; भवति is; अल्पमेधसाम् those of small intelligence; देवान् to the
-gods; देवयजः the worshippers of the gods; यान्ति go to; मद्भक्ताः My
-devotees; यान्ति go to; माम् Me; अपि also.Commentary The exertion in the
-two kinds is the same and yet people do not attempt to worship the
-Supreme Being in order to attain the maximum benefits or the infinite
-reward (liberation or Moksha). The reward obtained by men of small
-understandng and petty intellect who worship the minor deities is small;
-perishable and temporary.Yajnas (Vedic rituals); Homas (rituals in which
-oblations are offered into the sacred fire) and Tapas (penance) of
-various sorts can bestow only temporary rewards on the performer.
-Liberation from the wheel of transmigration alone will give everlasting
-bliss and eternal peace.Those who worship Indra and others are Sattvic
-devotees those who worship Yakshas and Rakshasas (demoniacal beings) are
-Rajasic devotees and those who worship the Bhutas and Pretas (discarnate
-spirits) are Tamasic devotees.The knowledge of those who worship the
-small deities is partial and incomplete. It cannot lead to liberation.
+that; भवति is; अल्पमेधसाम् those of small intelligence; देवान् to the gods; देवयजः the worshippers of the gods; यान्ति go to; मद्भक्ताः My devotees; यान्ति go to; माम् Me; अपि also.Commentary The exertion in the two kinds is the same and yet people do not attempt to worship the Supreme Being in order to attain the maximum benefits or the infinite reward (liberation or Moksha). The reward obtained by men of small understandng and petty intellect who worship the minor deities is small;
+perishable and temporary.Yajnas (Vedic rituals); Homas (rituals in which oblations are offered into the sacred fire) and Tapas (penance) of various sorts can bestow only temporary rewards on the performer.
+Liberation from the wheel of transmigration alone will give everlasting bliss and eternal peace.Those who worship Indra and others are Sattvic devotees those who worship Yakshas and Rakshasas (demoniacal beings) are Rajasic devotees and those who worship the Bhutas and Pretas (discarnate spirits) are Tamasic devotees.The knowledge of those who worship the small deities is partial and incomplete. It cannot lead to liberation.
 (Cf.IX.25)
 
 </details>

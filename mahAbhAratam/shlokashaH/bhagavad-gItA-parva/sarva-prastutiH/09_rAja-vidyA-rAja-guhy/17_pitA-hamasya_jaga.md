@@ -64,12 +64,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.17 Of the world consisting of mobile and immobile entities, I alone am
-the father, mother, creator and grandfather. Here the term Dhatr stands
-for one other than the parents who helps in the birth of a particular
-person. Whatever is known from theVedas as purifying, I alone am that. I
-am the Pranava, which originates knowledge and forms the seed of the
-Vedas. I am the Veda comprising Rk, Saman and Yajus.
+9.17 Of the world consisting of mobile and immobile entities, I alone am the father, mother, creator and grandfather. Here the term Dhatr stands for one other than the parents who helps in the birth of a particular person. Whatever is known from theVedas as purifying, I alone am that. I am the Pranava, which originates knowledge and forms the seed of the Vedas. I am the Veda comprising Rk, Saman and Yajus.
 
 </details>
 </div>
@@ -327,9 +322,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.17. I am the father, the mother, the sustainer and the
-paternal-grandsire of this world; \[I am\] the sacred object of
-knowledge, the syullable Om, the Rk, the Saman, and the Yajus too.
+9.17. I am the father, the mother, the sustainer and the paternal-grandsire of this world; \[I am\] the sacred object of knowledge, the syullable Om, the Rk, the Saman, and the Yajus too.
 
 </details>
 </div>
@@ -337,35 +330,28 @@ knowledge, the syullable Om, the Rk, the Saman, and the Yajus too.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 9.17 Of this world I am the father, mother, ordainer, (and the),
-grand-father; I am the knowable, the sancitifier, the syllable Om as
-also Rk, Sama and Yajus.
+grand-father; I am the knowable, the sancitifier, the syllable Om as also Rk, Sama and Yajus.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.17 I am the Father of the universe and its Mother; I am its Nourisher
-and its Grandfather; I am the Knowable and the Pure; I am Om; and I am
-the Sacred Scriptures.
+9.17 I am the Father of the universe and its Mother; I am its Nourisher and its Grandfather; I am the Knowable and the Pure; I am Om; and I am the Sacred Scriptures.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.17 I am the father, mother, creator and grandfather of the universe. I
-am the purifier. I am the syllable Om and also Rk, Saman and the Yajus.
+9.17 I am the father, mother, creator and grandfather of the universe. I am the purifier. I am the syllable Om and also Rk, Saman and the Yajus.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/17_pitA-hamasya_jaga.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.17 I am the father of this world, the mother, the dispenser of the
-fruits of actions and the grandfather; the (one) thing to be known, the
-purifier, the sacred monosyllable (Om), and also the Rik-, the Sama-and
-the Yajur-Vedas.
+9.17 I am the father of this world, the mother, the dispenser of the fruits of actions and the grandfather; the (one) thing to be known, the purifier, the sacred monosyllable (Om), and also the Rik-, the Sama-and the Yajur-Vedas.
 
 </details>
 </div>
@@ -375,14 +361,7 @@ the Yajur-Vedas.
 9.17 पिता father; अहम् I; अस्य of this; जगतः world; माता mother; धाता
 the dispenser of the fruits of actions; पितामहः grandfather; वेद्यम् the
 (one) thing to be known; पवित्रम् the purifier; ओंकारः the Omkara; ऋक्
-Rik; साम Sama; यजुः Yajus; एव also; च and.Commentary Dhata Supporter or
-sustainer by dispenser of the fruits of actions.Isvara or the Saguna
-Brahman is the father. MulaPrakriti or the primordial Nature is the
-mother. The pure Satchidananda Para Brahman (ExistenceKnowledgeBliss
-Absolute) is the grandfather.Vedyam The one thing to be known. This is
-the Supreme Being.Pavitram Purifier. I am of the form of a bath in the
-holy river Ganga and the Gayatri Japa which purify the aspirants
-externally and internally.Cha and. This includes the AtharvanaVeda also.
+Rik; साम Sama; यजुः Yajus; एव also; च and.Commentary Dhata Supporter or sustainer by dispenser of the fruits of actions.Isvara or the Saguna Brahman is the father. MulaPrakriti or the primordial Nature is the mother. The pure Satchidananda Para Brahman (ExistenceKnowledgeBliss Absolute) is the grandfather.Vedyam The one thing to be known. This is the Supreme Being.Pavitram Purifier. I am of the form of a bath in the holy river Ganga and the Gayatri Japa which purify the aspirants externally and internally.Cha and. This includes the AtharvanaVeda also.
 (Cf.XIV.3)
 
 </details>

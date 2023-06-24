@@ -164,23 +164,9 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 8.12 - 8.13 Subduing all the senses like ear etc., which constitute the
-'doorways' for sense impressions, i.e., withdrawing them from their
-natural functions; holding the mind in Me, the imperishable 'seated
-within the lotus of the heart'; practising 'steady abstraction of mind
-(Dharana) which is called concentration or Yoga,' i.e., abiding in Me
-alone in a steady manner; uttering the sacred 'syllable Om,' the brahman
-which connotes Me; remembering Me, who am expressed by the syllable Om;
-and fixing his 'life-breath within the head' - whosoever abandons the
-body and departs in this way reaches the highest state. He reaches the
-pure self freed from Prakrti, which is akin to My form. From that state
-there is no return. Such is the meaning. Later on Sri Krsna will
-elucidate: 'They describe that as the highest goal of the Atman, which
-is not destroyed when all things are destroyed, which is unmanifest and
-imperishable' (8.2021). Thus, the modes of contemplation on the Lord by
-the aspirants after prosperity and Kaivalya (Atmann-consciousness) have
-been taught according to the goal they lead to. Now, Sri Krsna teaches
-the way of meditation on the Lord by the Jnanin and the mode of
-attainment by him.
+'doorways' for sense impressions, i.e., withdrawing them from their natural functions; holding the mind in Me, the imperishable 'seated within the lotus of the heart'; practising 'steady abstraction of mind
+(Dharana) which is called concentration or Yoga,' i.e., abiding in Me alone in a steady manner; uttering the sacred 'syllable Om,' the brahman which connotes Me; remembering Me, who am expressed by the syllable Om;
+and fixing his 'life-breath within the head' - whosoever abandons the body and departs in this way reaches the highest state. He reaches the pure self freed from Prakrti, which is akin to My form. From that state there is no return. Such is the meaning. Later on Sri Krsna will elucidate: 'They describe that as the highest goal of the Atman, which is not destroyed when all things are destroyed, which is unmanifest and imperishable' (8.2021). Thus, the modes of contemplation on the Lord by the aspirants after prosperity and Kaivalya (Atmann-consciousness) have been taught according to the goal they lead to. Now, Sri Krsna teaches the way of meditation on the Lord by the Jnanin and the mode of attainment by him.
 
 </details>
 </div>
@@ -493,8 +479,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.12. Properly controlling all the gates \[in the body\]; well
-restraining the mind in the heat; fixing one's own prana in the head;
+8.12. Properly controlling all the gates \[in the body\]; well restraining the mind in the heat; fixing one's own prana in the head;
 taking resort to the firmness of the Yoga;
 
 </details>
@@ -502,8 +487,7 @@ taking resort to the firmness of the Yoga;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.12 Having controlled all the passages, having confined the mind in the
-heart, and having fixed his own vital force in the head, (and then)
+8.12 Having controlled all the passages, having confined the mind in the heart, and having fixed his own vital force in the head, (and then)
 continuing in the firmness in yoga;
 
 </details>
@@ -511,35 +495,24 @@ continuing in the firmness in yoga;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.12 Closing the gates of the body, drawing the forces of his mind into
-the heart and by the power of meditation concentrating his vital energy
-in the brain;
+8.12 Closing the gates of the body, drawing the forces of his mind into the heart and by the power of meditation concentrating his vital energy in the brain;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.12 Having closed all the gates, confined the mind in the heart and
-fixed the life-breath in the head, engaged in the practice of
-concentration.
+8.12 Having closed all the gates, confined the mind in the heart and fixed the life-breath in the head, engaged in the practice of concentration.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/08_axara-para-brahma-yo/12_sarvadvArANi_saMy.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-8.12 सर्वद्वाराणि all gates; संयम्य having controlled; मनः mind; हृदि in
-the heart; निरुध्य having confined; ट and; मूर्ध्नि in the head; आधाय
+8.12 सर्वद्वाराणि all gates; संयम्य having controlled; मनः mind; हृदि in the heart; निरुध्य having confined; ट and; मूर्ध्नि in the head; आधाय
 having placed; आत्मनः of the self; प्राणम् breath; आस्थितः established
-(in); योगधारणाम् practice of concentration.Commentary The gates are the
-senses of knowledge. Closing the gates means control of all senses by
-the practice of Pratyahara or withdrawal of the consciousness from them.
-Even if the senses are controlled; the mind will be dwelling on the
-sensual objects. Therefore the mind is confined or fixed in the lotus of
-the heart and thery all the thoughts or mental modifications are also
-controlled. The whole lifreath is now taken up and fixed at the crown of
-the head (Brahmarandhra or the hole of Brahman).
+(in); योगधारणाम् practice of concentration.Commentary The gates are the senses of knowledge. Closing the gates means control of all senses by the practice of Pratyahara or withdrawal of the consciousness from them.
+Even if the senses are controlled; the mind will be dwelling on the sensual objects. Therefore the mind is confined or fixed in the lotus of the heart and thery all the thoughts or mental modifications are also controlled. The whole lifreath is now taken up and fixed at the crown of the head (Brahmarandhra or the hole of Brahman).
 
 </details>
 </div>

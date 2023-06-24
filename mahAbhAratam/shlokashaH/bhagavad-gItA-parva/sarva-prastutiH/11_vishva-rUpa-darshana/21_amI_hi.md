@@ -74,13 +74,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/21_amI_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.21 These hosts of superior Devas beholding You as the foundation of
-the universe, rejoice and move towards You. Among them, some in fear, on
-seeing Your extremely terrible and wonderful form, 'extol,' namely
-pronounce sentences in the form of praise, according to their knowledge.
-Others, the bands of seers and Siddhas, knowers of the truth, higher and
-lower, saying 'Hail,' glorify You in hymns of abounding praise which are
-suitable to the Lord.
+11.21 These hosts of superior Devas beholding You as the foundation of the universe, rejoice and move towards You. Among them, some in fear, on seeing Your extremely terrible and wonderful form, 'extol,' namely pronounce sentences in the form of praise, according to their knowledge.
+Others, the bands of seers and Siddhas, knowers of the truth, higher and lower, saying 'Hail,' glorify You in hymns of abounding praise which are suitable to the Lord.
 
 </details>
 </div>
@@ -363,44 +358,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 11.21. These hosts of gods enter into You; some frightened ones recite
-\[hymns\] with folded palms; simply crying 'Hail !', the hosts of great
-seers praise You with the excellent praising hymns.
+\[hymns\] with folded palms; simply crying 'Hail !', the hosts of great seers praise You with the excellent praising hymns.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/21_amI_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.21 Those very groups of gods enter into You; struck with fear, some
-extol (You) with joined palms. Groups of great sages and perfected
-beings praise You with elaborate hymns,saying 'May it be well!'
+11.21 Those very groups of gods enter into You; struck with fear, some extol (You) with joined palms. Groups of great sages and perfected beings praise You with elaborate hymns,saying 'May it be well!'
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/21_amI_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.21 The troops of celestial beings enter into Thee, some invoking Thee
-in fear, with folded palms; the Great Seers and Adepts sing hymns to Thy
-Glory, saying All Hail.'
+11.21 The troops of celestial beings enter into Thee, some invoking Thee in fear, with folded palms; the Great Seers and Adepts sing hymns to Thy Glory, saying All Hail.'
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/21_amI_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.21 Verily into You the hosts of Devas enter. Some in fear extol You
-with clasped hands. Crying 'Hail' the bands of great seers and Siddhas
-praise You with meaningful hymns.
+11.21 Verily into You the hosts of Devas enter. Some in fear extol You with clasped hands. Crying 'Hail' the bands of great seers and Siddhas praise You with meaningful hymns.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/21_amI_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.21 Verily, into Thee enter these hosts of gods; some extol Thee in
-fear with joined palms; saying 'may it be well', bands of great sages
-and perfected ones praise Thee with hymns complete.
+11.21 Verily, into Thee enter these hosts of gods; some extol Thee in fear with joined palms; saying 'may it be well', bands of great sages and perfected ones praise Thee with hymns complete.
 
 </details>
 </div>
@@ -411,10 +397,7 @@ and perfected ones praise Thee with hymns complete.
 विशन्ति enter; केचित् some; भीताः in fear; प्राञ्जलयः with joined palms;
 गृणन्ति extol; स्वस्ति may it be well; इति thus; उक्त्वा having said;
 महर्षिसिद्धसङ्घाः bands of great Rishis and Siddhas; स्तुवन्ति paise;
-त्वाम् Thee; स्तुतिभिः with hymns; पुष्कलाभिः complete.Commentary
-Pushkalabhih means complete or wellworded praises or praises full of
-deep meanings.Great sages like Narada and perfected ones like Kapila
-praise Thee with inspiring hymns.
+त्वाम् Thee; स्तुतिभिः with hymns; पुष्कलाभिः complete.Commentary Pushkalabhih means complete or wellworded praises or praises full of deep meanings.Great sages like Narada and perfected ones like Kapila praise Thee with inspiring hymns.
 
 </details>
 </div>

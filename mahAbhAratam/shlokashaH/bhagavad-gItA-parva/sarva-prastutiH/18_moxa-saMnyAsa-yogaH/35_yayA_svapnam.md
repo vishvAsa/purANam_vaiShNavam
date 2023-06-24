@@ -56,9 +56,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 18.35 That Dhrti by which a foolish person does not give up, i.e.
-persists in, sleep, and sensuous indulgence through the activities of
-the mind, vital force etc., - that Dhrti is of the nature of Tamas. The
-terms fear, grief and depression indicate the objects generating fear,
+persists in, sleep, and sensuous indulgence through the activities of the mind, vital force etc., - that Dhrti is of the nature of Tamas. The terms fear, grief and depression indicate the objects generating fear,
 grief etc. That Dhrti by which one maintains the activities of the mind,
 the vital force etc., as a means for these, is of the nature of Tamas.
 
@@ -349,17 +347,14 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.35. The content, whery a foolish man does not give up his sleep,
-fear, grief, despondency and also arrogancethat content is deemed to be
-of the Tamas (Strand).
+fear, grief, despondency and also arrogancethat content is deemed to be of the Tamas (Strand).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/35_yayA_svapnam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.35 That firmness is considered \[Some editions read partha in place
-of mata (considered).-Tr.\] to be born of tamas due to which a person
-with a corrupt intellect does not give up sleep, fear, sorrow,
+18.35 That firmness is considered \[Some editions read partha in place of mata (considered).-Tr.\] to be born of tamas due to which a person with a corrupt intellect does not give up sleep, fear, sorrow,
 despondency as also sensuality.
 
 </details>
@@ -394,14 +389,8 @@ despair and also conceit that firmness, O Arjuna, is Tamasic.
 18.35 यया by which; स्वप्नम् sleep; भयम् fear; शोकम् grief; विषादम्
 despair; मदम् conceit; एव indeed; च and; न not; विमुञ्चति abandons;
 दुर्मेधाः a stupid man; धृतिः firmness; सा that; पार्थ O Arjuna; तामसी
-Tamasic (dark).Commentary The man who is an embodiment of darkness is
-made up of every possible kind of evil. He is very indolent and sinful.
-He is inordinately addicted to sleep. He considers these to be only
-proper. He experiences sorrow on account of his evil actions. As he is
-very much attached to the body he entertains great fear. He is ever
-discontented at heart. He is lustful and selfconceited. He does not know
-how to behave. He is rude and insolent. He indulges much in sensual
-pleasures.
+Tamasic (dark).Commentary The man who is an embodiment of darkness is made up of every possible kind of evil. He is very indolent and sinful.
+He is inordinately addicted to sleep. He considers these to be only proper. He experiences sorrow on account of his evil actions. As he is very much attached to the body he entertains great fear. He is ever discontented at heart. He is lustful and selfconceited. He does not know how to behave. He is rude and insolent. He indulges much in sensual pleasures.
 
 </details>
 </div>

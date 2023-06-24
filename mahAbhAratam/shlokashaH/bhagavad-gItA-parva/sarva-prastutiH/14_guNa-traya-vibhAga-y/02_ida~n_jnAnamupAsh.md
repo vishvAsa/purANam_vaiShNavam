@@ -55,15 +55,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 14.2 They, 'resorting to this knowledge' which will be expounded later,
-come to partake of My nature, and they attain My status. 'They are not
-born at the time of creation,' they are not subjected to the process of
-creation, and they 'suffer not at the time of dissolution,' i.e. they
-are not subjected to the distress involved in dissolution of the
-universe. In order to show how the Gunas of Prakrti constitute the cause
-of bondage, Sri Krsna now declares that, the aggregation of beings, born
-from the conjunction of Purusa and Prakrti as stated already in the
-passages, 'Whatever being is born' (13.26), is brought about by the Lord
-Himself:
+come to partake of My nature, and they attain My status. 'They are not born at the time of creation,' they are not subjected to the process of creation, and they 'suffer not at the time of dissolution,' i.e. they are not subjected to the distress involved in dissolution of the universe. In order to show how the Gunas of Prakrti constitute the cause of bondage, Sri Krsna now declares that, the aggregation of beings, born from the conjunction of Purusa and Prakrti as stated already in the passages, 'Whatever being is born' (13.26), is brought about by the Lord Himself:
 
 </details>
 </div>
@@ -380,27 +372,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.2. Holding on to this knowledge, they have attained the state of
-having attributes common with Me; \[and\] they are neither born even at
-the time of creation \[of the world\], nor do they come to grief at the
-time of dissolution \[of it\].
+14.2. Holding on to this knowledge, they have attained the state of having attributes common with Me; \[and\] they are neither born even at the time of creation \[of the world\], nor do they come to grief at the time of dissolution \[of it\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.2 Those who attain identity with Me by resorting of this Knowledge
-are not born even during creation, nor do they suffer pain during
-dissolution.
+14.2 Those who attain identity with Me by resorting of this Knowledge are not born even during creation, nor do they suffer pain during dissolution.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.2 Dwelling in Wisdom and realising My Divinity, they are not born
-again when the universe is re-created at the beginning of every cycle,
+14.2 Dwelling in Wisdom and realising My Divinity, they are not born again when the universe is re-created at the beginning of every cycle,
 nor are they affected when it is dissolved.
 
 </details>
@@ -408,18 +394,14 @@ nor are they affected when it is dissolved.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.2 Resorting to this knowledge, partaking of My Nature, they are not
-born at the time of creation, nor do they suffer at the time of
-dissolution.
+14.2 Resorting to this knowledge, partaking of My Nature, they are not born at the time of creation, nor do they suffer at the time of dissolution.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/02_ida~n_jnAnamupAsh.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.2 They who, having taken refuge in this knowledge, have attained to
-unity with Me, are neither born at the time of creation nor are they
-disturbed at the time of dissolution.
+14.2 They who, having taken refuge in this knowledge, have attained to unity with Me, are neither born at the time of creation nor are they disturbed at the time of dissolution.
 
 </details>
 </div>
@@ -427,18 +409,7 @@ disturbed at the time of dissolution.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 14.2 इदम् this; ज्ञानम् knowledge; उपाश्रित्य having taken refuge in; मम
-My; साधर्म्यम् unity; आगताः have attained to; सर्गे at the time of
-creation; अपि also; न not; उपजायन्ते are born; प्रलये at the time of
-dissolution; न not; व्यथन्ति are (they) disturbed; च and.Commentary
-Having resorted to this knowledge they (the sages) are assimilated into
-My own nature. They have attained to My Being. They have become
-identical with Me. They live in Me with no thought of thou or I. They go
-beyond birth and death. There is no birth for them when creation begins
-and there is no death for them at the time of dissolution. Having
-reached Me they attain eternity; immortality and perfection. Having
-become identical with Me through the attainment of the knowledge of the
-Self by practising the necessary means; they are neither born at the
-time of creation nor are they disited at the time of dissolution.
+My; साधर्म्यम् unity; आगताः have attained to; सर्गे at the time of creation; अपि also; न not; उपजायन्ते are born; प्रलये at the time of dissolution; न not; व्यथन्ति are (they) disturbed; च and.Commentary Having resorted to this knowledge they (the sages) are assimilated into My own nature. They have attained to My Being. They have become identical with Me. They live in Me with no thought of thou or I. They go beyond birth and death. There is no birth for them when creation begins and there is no death for them at the time of dissolution. Having reached Me they attain eternity; immortality and perfection. Having become identical with Me through the attainment of the knowledge of the Self by practising the necessary means; they are neither born at the time of creation nor are they disited at the time of dissolution.
 Knowledge of the Self is eulogised by the Lord in this verse.
 
 </details>

@@ -78,19 +78,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.19 With regard to "This" viz., the self, whose nature has been
-described above, he who thinks of It as the slayer, i.e., as the cause
-of slaying, and he who thinks 'This' (self) as slain by some cause or
-other - both of them do not know. As this self is eternal for the
-reasons mentioned above, no possible cause of destruction can slay It
-and for the same reason, It cannot be slain. Though the root 'han' (to
-slay) has the self for its object, it signifies causing the separation
-of the body from the self and not destruction of the self. Scriptural
-texts like 'You shall not cause injury to beings' and 'The Brahmana
-shall not be killed'; (K. Sm. 8.2) indicate unsanctioned actions,
+2.19 With regard to "This" viz., the self, whose nature has been described above, he who thinks of It as the slayer, i.e., as the cause of slaying, and he who thinks 'This' (self) as slain by some cause or other - both of them do not know. As this self is eternal for the reasons mentioned above, no possible cause of destruction can slay It and for the same reason, It cannot be slain. Though the root 'han' (to slay) has the self for its object, it signifies causing the separation of the body from the self and not destruction of the self. Scriptural texts like 'You shall not cause injury to beings' and 'The Brahmana shall not be killed'; (K. Sm. 8.2) indicate unsanctioned actions,
 causing separation of the body from the self. \[In the above otes,
-slaughter in an ethical sense is referred to, while the text refers to
-killing or separating the self from the body in a metaphsyical sense.
+slaughter in an ethical sense is referred to, while the text refers to killing or separating the self from the body in a metaphsyical sense.
 This is made explicit in the following verse\].
 
 </details>
@@ -466,51 +456,38 @@ is This slain.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.19 He who thinks of this One as the killer, and he who thinks of this
-One as the killed both of them do not know. This One does not kill, nor
-is It killed.
+2.19 He who thinks of this One as the killer, and he who thinks of this One as the killed both of them do not know. This One does not kill, nor is It killed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.19 He who thinks that the Spirit kills, and he who thinks of It as
-killed, are both ignorant. The Spirit kills not, nor is It killed.
+2.19 He who thinks that the Spirit kills, and he who thinks of It as killed, are both ignorant. The Spirit kills not, nor is It killed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.19 He who deems It (the self) a slayer, and he who thinks of It as
-slain - both are ignorant. For, the self neither slays nor is slain.
+2.19 He who deems It (the self) a slayer, and he who thinks of It as slain - both are ignorant. For, the self neither slays nor is slain.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.19 He who takes the Self to be the slayer and he who thinks It is
-slain, neither of them ï1knowsï1. It slays not, nor is It slain.
+2.19 He who takes the Self to be the slayer and he who thinks It is slain, neither of them ï1knowsï1. It slays not, nor is It slain.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/19_ya_enam.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.19 यः he who; एनम् this (Self); वेत्ति knows; हन्तारम् slayer; यः he
-who; च and; एनम् this; मन्यते thinks; हतम् slain; उभौ both; तौ those; न
-not; विजानीतः know; न not; अयम् this; हन्ति slays; न not; हन्यते is
-slain.Commentary -- The Self is nondoer (Akarta) and as It is immutable;
-It is neither the agent nor the object of the act of slaying. He who
-thinks I slay or I am slain with the body or the Ahamkara (ego); he does
-not really comprehend the true nature of the Self. The Self is
-indestructible. It exists in the three periods of time. It is Sat
-(Existence). When the body is destroyed; the Self is not destroyed. The
-body has to undergo change in any case. It is inevitable. But the Self
-is not at all affected by it. Verses 19; 20; 21; 23 and 24 speak of the
-immortality of the Self or Atman. (Cf.XVIII.17)
+2.19 यः he who; एनम् this (Self); वेत्ति knows; हन्तारम् slayer; यः he who; च and; एनम् this; मन्यते thinks; हतम् slain; उभौ both; तौ those; न
+not; विजानीतः know; न not; अयम् this; हन्ति slays; न not; हन्यते is slain.Commentary -- The Self is nondoer (Akarta) and as It is immutable;
+It is neither the agent nor the object of the act of slaying. He who thinks I slay or I am slain with the body or the Ahamkara (ego); he does not really comprehend the true nature of the Self. The Self is indestructible. It exists in the three periods of time. It is Sat
+(Existence). When the body is destroyed; the Self is not destroyed. The body has to undergo change in any case. It is inevitable. But the Self is not at all affected by it. Verses 19; 20; 21; 23 and 24 speak of the immortality of the Self or Atman. (Cf.XVIII.17)
 
 </details>
 </div>

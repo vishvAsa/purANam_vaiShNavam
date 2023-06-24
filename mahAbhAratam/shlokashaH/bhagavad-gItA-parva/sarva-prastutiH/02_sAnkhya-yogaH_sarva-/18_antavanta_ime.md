@@ -237,32 +237,13 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.18 The root 'dih' means 'to grow.' Hence these bodies (Dehas) are
-characterised by complexity. They have an end - their nature is
-perishablity. For, jugs and such other things which are characterised by
-complexity are seen to have an end. The bodies of the embodied self,
-which are made of conglomerated elements, serve the purpose of
-experiencing the effects of Karmas, as stated in Brh. U. IV. 4.5,
-'Auspicious embodiments are got through good actions.' Such bodies
-perish when Karmas are exhausted. Further the self is imperishable. Why;
-Because it is not measurable. Neither can It be conceived as the object
-of knowledge, but only as the subject (knower). It will be taught later
-on: 'He who knows It is called the knower of the Field by those who know
-this (13.1). Besides, the self is not seen to be made up of many
-(elements). Because in the perception 'I am the knower' throughout the
-body, only something other than the body is understood as possessing an
-invariable form as the knower. Further, this knower cannot be
-dismembered and seen in different places as is the case with the body.
-Therefore the self is eternal, for (1) It is not a complex being of a
-single form; (2) It is the knowing subject; and (3) It pervades all. On
-the contrary, the body is perishable, because (1) it is complex; (2) it
-serves the purpose of experiencing the fruits of Karma by the embodied
-self; (3) it has a plurality of parts and (4) it can be pervaded.
-Therefore, as the body is by nature perishable and the self by nature is
-eternal, both are not objects fit for grief. Hence, bearing with courage
-the inevitable strike of weapons, sharp or hard, liable to be received
-by you and others, begin the action called war without being attached to
-the fruits but for the sake of attaining immortality.
+2.18 The root 'dih' means 'to grow.' Hence these bodies (Dehas) are characterised by complexity. They have an end - their nature is perishablity. For, jugs and such other things which are characterised by complexity are seen to have an end. The bodies of the embodied self,
+which are made of conglomerated elements, serve the purpose of experiencing the effects of Karmas, as stated in Brh. U. IV. 4.5,
+'Auspicious embodiments are got through good actions.' Such bodies perish when Karmas are exhausted. Further the self is imperishable. Why;
+Because it is not measurable. Neither can It be conceived as the object of knowledge, but only as the subject (knower). It will be taught later on: 'He who knows It is called the knower of the Field by those who know this (13.1). Besides, the self is not seen to be made up of many
+(elements). Because in the perception 'I am the knower' throughout the body, only something other than the body is understood as possessing an invariable form as the knower. Further, this knower cannot be dismembered and seen in different places as is the case with the body.
+Therefore the self is eternal, for (1) It is not a complex being of a single form; (2) It is the knowing subject; and (3) It pervades all. On the contrary, the body is perishable, because (1) it is complex; (2) it serves the purpose of experiencing the fruits of Karma by the embodied self; (3) it has a plurality of parts and (4) it can be pervaded.
+Therefore, as the body is by nature perishable and the self by nature is eternal, both are not objects fit for grief. Hence, bearing with courage the inevitable strike of weapons, sharp or hard, liable to be received by you and others, begin the action called war without being attached to the fruits but for the sake of attaining immortality.
 
 </details>
 </div>
@@ -1025,10 +1006,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.18. These physical bodies that have an end and suffer the peculiar
-destruction, are declared to belong to the eternal embodied Soul, Which
-is destructionless and imcomprehensible. Therefore fight, O descendent
-of Bharata !
+2.18. These physical bodies that have an end and suffer the peculiar destruction, are declared to belong to the eternal embodied Soul, Which is destructionless and imcomprehensible. Therefore fight, O descendent of Bharata !
 
 </details>
 </div>
@@ -1036,8 +1014,7 @@ of Bharata !
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 2.18 These destructible bodies are said to belong to the everlasting,
-indestructible, indeterminable, embodied One. Therefore, O descendant of
-Bharata, join the battle.
+indestructible, indeterminable, embodied One. Therefore, O descendant of Bharata, join the battle.
 
 </details>
 </div>
@@ -1045,16 +1022,14 @@ Bharata, join the battle.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 2.18 The material bodies which this Eternal, Indestructible,
-Immeasurable Spirit inhabits are all finite. Therefore fight, O Valiant
-Man!
+Immeasurable Spirit inhabits are all finite. Therefore fight, O Valiant Man!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.18 These bodiesof the Jiva (the embodied self) are said to have an end
-while the Jiva itself is eternal, indestructible and incomprehensibel.
+2.18 These bodiesof the Jiva (the embodied self) are said to have an end while the Jiva itself is eternal, indestructible and incomprehensibel.
 Therefore, fight O Bharata (Arjuna).
 
 </details>
@@ -1062,21 +1037,15 @@ Therefore, fight O Bharata (Arjuna).
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.18 These bodies of the embodied Self, Which is eternal, indestructible
-and immeasurable, are said to have an end. Therefore fight, O Arjuna.
+2.18 These bodies of the embodied Self, Which is eternal, indestructible and immeasurable, are said to have an end. Therefore fight, O Arjuna.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/18_antavanta_ime.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.18 अन्तवन्तः having an end; इमे these; देहाः bodies; नित्यस्य of the
-everlasting; उक्ताः are said; शरीरिणः of the embodied; अनाशिनः of the
-indestructible; अप्रमेयस्य of the immesaurable; तस्मात् therefore;
-युध्यस्व fight; भारत O Bharata.Commentary -- Lord Krishna explains to
-Arjuna the nature of the allpervading; immortal Self in a variety of
-ways and thus induces him to fight by removing his delusion; grief and
-despondency which are born of ignorance.
+2.18 अन्तवन्तः having an end; इमे these; देहाः bodies; नित्यस्य of the everlasting; उक्ताः are said; शरीरिणः of the embodied; अनाशिनः of the indestructible; अप्रमेयस्य of the immesaurable; तस्मात् therefore;
+युध्यस्व fight; भारत O Bharata.Commentary -- Lord Krishna explains to Arjuna the nature of the allpervading; immortal Self in a variety of ways and thus induces him to fight by removing his delusion; grief and despondency which are born of ignorance.
 
 </details>
 </div>

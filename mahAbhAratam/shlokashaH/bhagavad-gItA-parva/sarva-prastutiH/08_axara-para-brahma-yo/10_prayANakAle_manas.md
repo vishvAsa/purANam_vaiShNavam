@@ -94,22 +94,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.9 - 8.10 He who focusses his life-breath between the eyrows at the
-time of death with a mind rendered unswerving through its purification
-achieved by the strength of Yoga conjoined with Bhakti practised day
-after day; and he who contemplates on the 'Kavi' i.e., the Omniscient,
-the 'Primeval', i.e., who existed always, 'the Ruler,' i.e., who governs
-the universe, 'who is subtler than the subtle,' i.e., who is subtler
-than the individual self, 'who is the Dhata' of all, i.e., the creator
-of all, 'whose nature is inconceivable,' i.e., whose nature is other
-than everything else, 'who is sun-coloured and beyond darkness,' i.e.,
-who possesses a divine form peculiar to Himself - he who concentrates on
-Him, the Divine Person described above, between the eyrows, attains Him
-alone. He attains His state and comes to have power and glory similar to
-His. Such is the meaning. Then He describes the mode of meditation to be
-adopted by the seeker of Kaivalya or the Jijnasu (i.e., of one who seeks
-to know his own self or Atman in contrast to one whose object is
-God-realisation).
+8.9 - 8.10 He who focusses his life-breath between the eyrows at the time of death with a mind rendered unswerving through its purification achieved by the strength of Yoga conjoined with Bhakti practised day after day; and he who contemplates on the 'Kavi' i.e., the Omniscient,
+the 'Primeval', i.e., who existed always, 'the Ruler,' i.e., who governs the universe, 'who is subtler than the subtle,' i.e., who is subtler than the individual self, 'who is the Dhata' of all, i.e., the creator of all, 'whose nature is inconceivable,' i.e., whose nature is other than everything else, 'who is sun-coloured and beyond darkness,' i.e.,
+who possesses a divine form peculiar to Himself - he who concentrates on Him, the Divine Person described above, between the eyrows, attains Him alone. He attains His state and comes to have power and glory similar to His. Such is the meaning. Then He describes the mode of meditation to be adopted by the seeker of Kaivalya or the Jijnasu (i.e., of one who seeks to know his own self or Atman in contrast to one whose object is God-realisation).
 
 </details>
 </div>
@@ -473,9 +460,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.10. That person endowed with a steady mind, with devotion and also
-with the Yoga-power, reaches at the time of journey that Supreme Divine
-Soul, by fixing properly the life-breath in between his eye brows.
+8.10. That person endowed with a steady mind, with devotion and also with the Yoga-power, reaches at the time of journey that Supreme Divine Soul, by fixing properly the life-breath in between his eye brows.
 
 </details>
 </div>
@@ -483,9 +468,7 @@ Soul, by fixing properly the life-breath in between his eye brows.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 8.10 At the time of death, having fully fixed the Prana (vita force)
-between the enrows with an unswering mind, and being imbued with
-devotion as also the strength of concentration, he reaches that
-resplendent supreme person.
+between the enrows with an unswering mind, and being imbued with devotion as also the strength of concentration, he reaches that resplendent supreme person.
 
 </details>
 </div>
@@ -493,17 +476,14 @@ resplendent supreme person.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 8.10 He who leaves the body with mind unmoved and filled with devotion,
-by the power of his meditation gathering between his eyebrows his whole
-vital energy, attains the Supreme.
+by the power of his meditation gathering between his eyebrows his whole vital energy, attains the Supreme.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/10_prayANakAle_manas.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.10 At the time of death, with unshaken mind, endowed with devotio, by
-the power of Yoga, fixing the whole life-breath in the middle of the two
-eyrows, he reaches that resplendent Supreme Person.
+8.10 At the time of death, with unshaken mind, endowed with devotio, by the power of Yoga, fixing the whole life-breath in the middle of the two eyrows, he reaches that resplendent Supreme Person.
 
 </details>
 </div>
@@ -515,15 +495,8 @@ eyrows, he reaches that resplendent Supreme Person.
 and; एव only; भ्रुवोः of the two eyrows; मध्ये in the middle; प्राणम्
 Prana (breath); आवेश्य having placed; सम्यक् thoroughly; सः he; तम्
 that; परम् Supreme; पुरुषम् Purusha; उपैति reaches; दिव्यम्
-resplendent.Commentary The Yogi gets immense inner strength and power of
-concentration. His mind becomes ite steady through constant practice of
-concentration and meditation. He practises concentration first on the
-lower Chakras; viz.; Muladhara; Svadhishthana and Manipura. He then
-concentrates on the lotus of the heart (Anahata Chakra). Then he takes
-the lifreath (Prana) through the Sushumna and fixes it in the middle of
-the two eyrows. He eventually attains the resplendent Supreme Purusha
-(Person) by the above Yogic practice.This is possible for one who has
-devoted his whole life to the practice of Yoga.
+resplendent.Commentary The Yogi gets immense inner strength and power of concentration. His mind becomes ite steady through constant practice of concentration and meditation. He practises concentration first on the lower Chakras; viz.; Muladhara; Svadhishthana and Manipura. He then concentrates on the lotus of the heart (Anahata Chakra). Then he takes the lifreath (Prana) through the Sushumna and fixes it in the middle of the two eyrows. He eventually attains the resplendent Supreme Purusha
+(Person) by the above Yogic practice.This is possible for one who has devoted his whole life to the practice of Yoga.
 
 </details>
 </div>

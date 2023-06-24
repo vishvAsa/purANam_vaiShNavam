@@ -118,26 +118,13 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.31 Further, even though there is killing of life in this war which has
-begun, it is not fit for you to waver, considering your own duty, as in
-the Agnisomiya and other sacrifices involving slaughter. To a Ksatriya,
+2.31 Further, even though there is killing of life in this war which has begun, it is not fit for you to waver, considering your own duty, as in the Agnisomiya and other sacrifices involving slaughter. To a Ksatriya,
 there is no greater good than a righteous war, begun for a just cause.
 It will be declared in the Gita: 'Valour, non-defeat (by the enemies),
 fortitude, adroitness and also not fleeing from battle, generosity,
-lordliness - these are the duties of the Ksatriya born of his very
-nature.' (18.43). In Agnisomiya etc., no injury is caused to the animal
-to be immolated; for, according to the Vedic Text, the victim, a
-he-goat, after abandoning an inferior body, will attain heaven etc.,
-with a beautiful body. The Text pertaining to immolation declares: 'O
-animal, by this (immolation) you will never die, you are not destroyed.
-You will pass through happy paths to the realm of the gods, where the
-virtuous only reach and not the sinful. May the god Savitr give you a
-proper place.' (Yaj. 4.6.9.46). Likewise the attainment of more
-beautiful bodies by those who die here in this war has been declared in
-the Gita, 'As a man casts off worn-out garments and takes others that
-are new ৷৷.' (2.22). Hence, just as lancing and such other operations of
-a surgeon are for curing a patient, the immolation of the sacrificial
-animal in the Agnisomiya etc., is only for its good.
+lordliness - these are the duties of the Ksatriya born of his very nature.' (18.43). In Agnisomiya etc., no injury is caused to the animal to be immolated; for, according to the Vedic Text, the victim, a he-goat, after abandoning an inferior body, will attain heaven etc.,
+with a beautiful body. The Text pertaining to immolation declares: 'O animal, by this (immolation) you will never die, you are not destroyed.
+You will pass through happy paths to the realm of the gods, where the virtuous only reach and not the sinful. May the god Savitr give you a proper place.' (Yaj. 4.6.9.46). Likewise the attainment of more beautiful bodies by those who die here in this war has been declared in the Gita, 'As a man casts off worn-out garments and takes others that are new ৷৷.' (2.22). Hence, just as lancing and such other operations of a surgeon are for curing a patient, the immolation of the sacrificial animal in the Agnisomiya etc., is only for its good.
 
 </details>
 </div>
@@ -421,42 +408,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 2.31. Further, considering your own duty, you should not waver. Indeed,
-for a Ksatriya there exists no duty superior to fighting a righteous
-war.
+for a Ksatriya there exists no duty superior to fighting a righteous war.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.31 Even considering your own duty you should not waver, since there is
-nothing else better for a Ksatriya than a righteous battle.
+2.31 Even considering your own duty you should not waver, since there is nothing else better for a Ksatriya than a righteous battle.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.31 Thou must look at thy duty. Nothing can be more welcome to a
-soldier than a righteous war. Therefore to waver in this resolve is
-unworthy, O Arjuna!
+2.31 Thou must look at thy duty. Nothing can be more welcome to a soldier than a righteous war. Therefore to waver in this resolve is unworthy, O Arjuna!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.31 Further, considering also your own duty, it does not befit you to
-waver. For, to a Ksatriya, there is no greater good than a righteous
-war.
+2.31 Further, considering also your own duty, it does not befit you to waver. For, to a Ksatriya, there is no greater good than a righteous war.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/31_svadharmamapi_chA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.31 Further, having regard to thy duty, shouldst not waver, for there
-is nothing higher for a Kshatriya than a righteous war.
+2.31 Further, having regard to thy duty, shouldst not waver, for there is nothing higher for a Kshatriya than a righteous war.
 
 </details>
 </div>
@@ -466,13 +446,7 @@ is nothing higher for a Kshatriya than a righteous war.
 2.31 स्वधर्मम् own duty; अपि also; च and; अवेक्ष्य looking at; न not;
 विकम्पितुम् to waver; अर्हसि (thou) oughtest; धर्म्यात् than righteous;
 हि indeed; युद्धात् than war; श्रेयः higher; अन्यत् other; क्षत्रियस्य
-of a Kshatriya; न not; विद्यते is.Commentary Lord Krishna now gives to
-Arjuna wordly reasons for fighting. Up to this time; He talked to Arjuna
-on the immortality of the Self and gave him philosophical reasons. Now
-He says to Arjuna; O Arjuna Fighting is a Kshatriyas own duty. You ought
-not to swerve from that duty. To a Kshatriyta (one born in the warrior
-or ruling class) nothing is more welcome than a righteous war. A warrior
-should fight.
+of a Kshatriya; न not; विद्यते is.Commentary Lord Krishna now gives to Arjuna wordly reasons for fighting. Up to this time; He talked to Arjuna on the immortality of the Self and gave him philosophical reasons. Now He says to Arjuna; O Arjuna Fighting is a Kshatriyas own duty. You ought not to swerve from that duty. To a Kshatriyta (one born in the warrior or ruling class) nothing is more welcome than a righteous war. A warrior should fight.
 
 </details>
 </div>

@@ -156,32 +156,13 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/27_jAtasya_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.27 For what has originated, destruction is certain - it is seen to be
-inevitable. Similarly what has perished will inevitably originate. How
-should this be understood - that there is origination for that
-(entity)which has perished; It is seen that an existing entity only can
-originate and not a non-existent one. Origination, annihilation etc.,
-are merely particular states of an existent entity. Now thread etc., do
-really exist. When arranged in a particular way, they are called clothes
-etc. It is seen that even those who uphold the doctrine that the effect
-is a new entity (Asatkarya-vadins) will admit this much that no new
-entity over and above the particular arrangement of threads is seen. It
-is not tenable to hold that this is the coming into being of a new
-entity, since, by the process of manufacture there is only attainment of
-a new name and special functions. No new entity emerges. Origination,
+2.27 For what has originated, destruction is certain - it is seen to be inevitable. Similarly what has perished will inevitably originate. How should this be understood - that there is origination for that
+(entity)which has perished; It is seen that an existing entity only can originate and not a non-existent one. Origination, annihilation etc.,
+are merely particular states of an existent entity. Now thread etc., do really exist. When arranged in a particular way, they are called clothes etc. It is seen that even those who uphold the doctrine that the effect is a new entity (Asatkarya-vadins) will admit this much that no new entity over and above the particular arrangement of threads is seen. It is not tenable to hold that this is the coming into being of a new entity, since, by the process of manufacture there is only attainment of a new name and special functions. No new entity emerges. Origination,
 annihilation etc., are thus particular stages of an existent entity.
-With regard to an entity which has entered into a stage known as
-origination, its entry into the opposite condition is called
-annihilation. Of an evolving entity, a seqence of evolutionary stages is
-inevitable. For instance, clay becomes a lump, jug, a potsherd, and
-(finally) powder. Here, what is called annihilation is the attainment of
-a succeeding stage by an entity which existed previously in a preceding
-stage. And this annihilation itself is called birth in that stage. Thus,
-the seence called birth and annihilation being inevitable for an
-evolving entity, it is not worthy of you to grieve. Now Sri Krsna says
-that not even the slightest grief arising from seeing an entity passing
-from a previous existing stage to an opposite stage, is justifiable in
-regard to human beings etc.
+With regard to an entity which has entered into a stage known as origination, its entry into the opposite condition is called annihilation. Of an evolving entity, a seqence of evolutionary stages is inevitable. For instance, clay becomes a lump, jug, a potsherd, and
+(finally) powder. Here, what is called annihilation is the attainment of a succeeding stage by an entity which existed previously in a preceding stage. And this annihilation itself is called birth in that stage. Thus,
+the seence called birth and annihilation being inevitable for an evolving entity, it is not worthy of you to grieve. Now Sri Krsna says that not even the slightest grief arising from seeing an entity passing from a previous existing stage to an opposite stage, is justifiable in regard to human beings etc.
 
 </details>
 </div>
@@ -517,32 +498,28 @@ unavoidable.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/27_jAtasya_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.27 For death of anyone born is certain, and of the dead (re-) birth is
-a certainly. Therefore you ought not to grieve over an inevitable fact.
+2.27 For death of anyone born is certain, and of the dead (re-) birth is a certainly. Therefore you ought not to grieve over an inevitable fact.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/27_jAtasya_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.27 For death is as sure for that which is born, as birth is for that
-which is dead. Therefore grieve not for what is inevitable.
+2.27 For death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/27_jAtasya_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.27 For, death is certain for the born, and re-birth is certain for the
-dead; therefore you should not feel grief for what is inevitable.
+2.27 For, death is certain for the born, and re-birth is certain for the dead; therefore you should not feel grief for what is inevitable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/27_jAtasya_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.27 For certain is death for the born, and certain is birth for the
-dead; therefore, over the inevitable thou shouldst not grieve.
+2.27 For certain is death for the born, and certain is birth for the dead; therefore, over the inevitable thou shouldst not grieve.
 
 </details>
 </div>
@@ -551,11 +528,7 @@ dead; therefore, over the inevitable thou shouldst not grieve.
 
 2.27 जातस्य of the born; हि for; ध्रुवः certain; मृत्युः death; ध्रुवम्
 certain; जन्म birth; मृतस्य of the dead; च and; तस्मात् therefore;
-अपरिहार्ये inevritable; अर्थे in matter; न not; त्वम् thou; शोचितुम् to
-grieve; अर्हसि (thou) oughtest.Commentary Birth is sure to happen to
-that which is dead death is sure to happen to what which is born. Birth
-and death are certainly unavoidable. Therefore; you should not grieve
-over an inevitable matter.
+अपरिहार्ये inevritable; अर्थे in matter; न not; त्वम् thou; शोचितुम् to grieve; अर्हसि (thou) oughtest.Commentary Birth is sure to happen to that which is dead death is sure to happen to what which is born. Birth and death are certainly unavoidable. Therefore; you should not grieve over an inevitable matter.
 
 </details>
 </div>

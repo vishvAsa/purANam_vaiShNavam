@@ -126,21 +126,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.20 The three Vedas consist of the Rk, Yajus and Saman. The followers
-of the three Vedas are called 'Trai-vidyah', but they are not devoted to
-Vedanta (or Trayyanta). The great souls, who rely on Vedanta, know Me,
-as mentioned before, to be the only object to be known from all the
-Vedas. Considering Me as the highest object of attainment, they worship
-Me through singing My names etc., caused by deep devotion to Me, and
-also through the sacrifice of knowledge. But the followers of the three
-Vedas drink the Soma beverage, forming the remainder of sacrifices in
-honour of Indra and other divinities, as prescribed by the Vedas. They
-are thery purified of evil that stand in the way of attainment of
-heaven. In these sacrifices, in which Indra etc., are regarded as
-divinties, they really worship Me in the forms of these divinities. They
-'however' do not know that I abide in them in that way, and so they pray
-for the way to heaven etc. After attaining the world of Indra, which is
-free from unhappiness, they enjoy everywhere the divine pleasures.
+9.20 The three Vedas consist of the Rk, Yajus and Saman. The followers of the three Vedas are called 'Trai-vidyah', but they are not devoted to Vedanta (or Trayyanta). The great souls, who rely on Vedanta, know Me,
+as mentioned before, to be the only object to be known from all the Vedas. Considering Me as the highest object of attainment, they worship Me through singing My names etc., caused by deep devotion to Me, and also through the sacrifice of knowledge. But the followers of the three Vedas drink the Soma beverage, forming the remainder of sacrifices in honour of Indra and other divinities, as prescribed by the Vedas. They are thery purified of evil that stand in the way of attainment of heaven. In these sacrifices, in which Indra etc., are regarded as divinties, they really worship Me in the forms of these divinities. They
+'however' do not know that I abide in them in that way, and so they pray for the way to heaven etc. After attaining the world of Indra, which is free from unhappiness, they enjoy everywhere the divine pleasures.
 
 </details>
 </div>
@@ -436,117 +424,52 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.20. The masters of the three Vedas, the Somadrinkers, purified of
-their sins, aspire for the heavengoal by offering sacrifices to Me. They
-attain the meritorious world of the lord of gods and taste in the heaven
-the heavenly pleasures of the gods.
+9.20. The masters of the three Vedas, the Somadrinkers, purified of their sins, aspire for the heavengoal by offering sacrifices to Me. They attain the meritorious world of the lord of gods and taste in the heaven the heavenly pleasures of the gods.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.20 Those who are versed in the Vedas, who are drinkers of Soma and are
-purified of sin, pray for the heavenly goal by worshipping Me through
-sacrifices. Having reached the place (world) of the king of gods, which
-is the result of righteousness, they enjoy in heaven th divine pleasure
-of gods.
+9.20 Those who are versed in the Vedas, who are drinkers of Soma and are purified of sin, pray for the heavenly goal by worshipping Me through sacrifices. Having reached the place (world) of the king of gods, which is the result of righteousness, they enjoy in heaven th divine pleasure of gods.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.20 Those who are versed in the scriptures, who drink the mystic
-Soma-juice and are purified from sin, but who while worshipping Me with
-sacrifices pray that I will lead them to heaven; they reach the holy
-world where lives the Controller of the Powers of Nature, and they enjoy
-the feasts of Paradise.
+9.20 Those who are versed in the scriptures, who drink the mystic Soma-juice and are purified from sin, but who while worshipping Me with sacrifices pray that I will lead them to heaven; they reach the holy world where lives the Controller of the Powers of Nature, and they enjoy the feasts of Paradise.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.20 Those who are versed in the three Vedas, being purified from sin by
-drinking the Soma juice, pray for the passage to heaven and worship Me
-by sacrifices. Reaching the holy realm of the chief of the gods, they
-enjoy in heaven celestial pleasures of the gods.
+9.20 Those who are versed in the three Vedas, being purified from sin by drinking the Soma juice, pray for the passage to heaven and worship Me by sacrifices. Reaching the holy realm of the chief of the gods, they enjoy in heaven celestial pleasures of the gods.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.20 The knowers of the three Vedas, the drinkers of Soma, purified of
-all sins, worshipping Me by sacrifices, pray for the way to heaven; they
-reach the holy world of the Lord of the gods and enjoy in heavn the
-divine pleasures of the gods.
+9.20 The knowers of the three Vedas, the drinkers of Soma, purified of all sins, worshipping Me by sacrifices, pray for the way to heaven; they reach the holy world of the Lord of the gods and enjoy in heavn the divine pleasures of the gods.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/09_rAja-vidyA-rAja-guhy/20_traividyA_mAm.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-9.20 त्रैविद्याः the knowers of the three Vedas; माम् Me; सोमपाः the
-drinkers of Soma; पूतपापाः purified from sin; यज्ञैः by sacrifices;
+9.20 त्रैविद्याः the knowers of the three Vedas; माम् Me; सोमपाः the drinkers of Soma; पूतपापाः purified from sin; यज्ञैः by sacrifices;
 इष्ट्वा worshipping; स्वर्गतिम् way to heaven; प्रार्थयन्ते pray; ते
-they; पुण्यम् holy; आसाद्य having reached; सुरेन्द्रलोकम् the world of
-the Lord of gods; अश्नन्ति eat (enjoy); दिव्यान् divine; दिवि in heaven;
-देवभोगान् the divine pleasures.Commentary May aspirants climb up to a
-certain height on the ladder of Yoga. They are irresistibly swept away
-by the temptation of the higher planes (the heaven; and the plane of the
-celestial beings; etc.). They lose their power of discrimination and
-right understanding and thery lose themselves in heavenly enjoyments.
-The dwellers of the higher planes; the shining ones; tempt the aspirants
-in a variety of ways. They say unto them; O Yogi; we are very much
-pleased with your austerities and dispassion; spiritual practices and
-divine alities. This is the plane for your final resting which you have
-obtained through your merit and your austerities. We are all your
-servants to obey your orders and carry out your ;nds or behests. Here is
-the celestial car for you. You can move about anywhere you like. Here
-are the celestial damsels to attend on you. They will please you with
-their celestial music. Here is the wishfulfilling ree which will give
-you whatever you want. Here is the celestial nectar in the golden cup;
+they; पुण्यम् holy; आसाद्य having reached; सुरेन्द्रलोकम् the world of the Lord of gods; अश्नन्ति eat (enjoy); दिव्यान् divine; दिवि in heaven;
+देवभोगान् the divine pleasures.Commentary May aspirants climb up to a certain height on the ladder of Yoga. They are irresistibly swept away by the temptation of the higher planes (the heaven; and the plane of the celestial beings; etc.). They lose their power of discrimination and right understanding and thery lose themselves in heavenly enjoyments.
+The dwellers of the higher planes; the shining ones; tempt the aspirants in a variety of ways. They say unto them; O Yogi; we are very much pleased with your austerities and dispassion; spiritual practices and divine alities. This is the plane for your final resting which you have obtained through your merit and your austerities. We are all your servants to obey your orders and carry out your ;nds or behests. Here is the celestial car for you. You can move about anywhere you like. Here are the celestial damsels to attend on you. They will please you with their celestial music. Here is the wishfulfilling ree which will give you whatever you want. Here is the celestial nectar in the golden cup;
 which will make you immortal. Here is the celestial lake of supreme joy.
-You can swim freely in this lake. The uncautious Yogi is easily carried
-away by the invitations of the gods and the sweet flowery speeches. He
-gets false satisfaction or contentment. He thinks that he has reached
-the highest goal of Yoga. He yields to the templations and his energy is
-dissipated in various directions. As soon as his merits are exhausted he
-comes down to this earthplane. He will have to start his upward climb on
-the spiritual lader once more. But that dispassionate Yogi who is
-endowed with strong discrimination rejects ruthlessly these invitations
-from the gods; marches boldly on his spiritual path and stops not till
-he attains the highest rung on the ladder of Yoga or the highest summit
-on the hill of knowledge or Nirvikalpa Samadhi. He is fully conscious
-that enjoyments in heaven are as much worthless as those of this
-illusory world. The pleasures of heaven are subtle; exceedingly intense
-and extremely intoxicating. That is the reason why the uncautious;
-nonvigilant and less dispassionate aspirant yields easily to the
-temptations of the higher planes. Even in this physical plane; in the
-West and in America where there is abundance of wealth; plenty of
-dollars and gold; people enjoy subtle and intense sensual pleasures.
-Every day scientists bring out new inventions; new forms of sensual
-pleasures for the gratification of the mischievous and revolting senses.
-Even an abstemious man of simple habits of India becomes a changed man
-when he lives in America or Europe for some time. He yields to the
-temptations. Such is the power of Maya. Such is the influence of
-temptation. Such is the strength of the senses. That man who is endowed
-with strong discrimination; sustained dispassion; good selfanalytic
-power; and burning yearning for liberation; can resist temptations and
-he aloen can be really happy. He alone can attain the highest goal of
-life; the final beatitude or the sublime vision of the Infinite.Those
-who drink the Soma juice are purified from sin.Sacrifices Such as the
-Agnistoma; Jyotistoma. They worship Me as the Vasus and other deities
-(Rudras and Adityas) by sacrifices such as the Agnistoma.Indra is the
-Lord of the gods. He is called Satakratu because he had performed a
-hundred sacrifices. The divine pleasures are the supernatural pleasures
-of the heaven.DivyaBhoga An enjoyment that is beyond the reach of man or
-an enjoyment that can be had only by the celestial body of the gods or
-an enjoyment given by the gods in the heaven. The term Bhoga indicates
-sensual pleasures. Though the heavenly pleasuresare of a very subtle
-nature; yet,they are sensual pleasures only. (Cf.II.45)
+You can swim freely in this lake. The uncautious Yogi is easily carried away by the invitations of the gods and the sweet flowery speeches. He gets false satisfaction or contentment. He thinks that he has reached the highest goal of Yoga. He yields to the templations and his energy is dissipated in various directions. As soon as his merits are exhausted he comes down to this earthplane. He will have to start his upward climb on the spiritual lader once more. But that dispassionate Yogi who is endowed with strong discrimination rejects ruthlessly these invitations from the gods; marches boldly on his spiritual path and stops not till he attains the highest rung on the ladder of Yoga or the highest summit on the hill of knowledge or Nirvikalpa Samadhi. He is fully conscious that enjoyments in heaven are as much worthless as those of this illusory world. The pleasures of heaven are subtle; exceedingly intense and extremely intoxicating. That is the reason why the uncautious;
+nonvigilant and less dispassionate aspirant yields easily to the temptations of the higher planes. Even in this physical plane; in the West and in America where there is abundance of wealth; plenty of dollars and gold; people enjoy subtle and intense sensual pleasures.
+Every day scientists bring out new inventions; new forms of sensual pleasures for the gratification of the mischievous and revolting senses.
+Even an abstemious man of simple habits of India becomes a changed man when he lives in America or Europe for some time. He yields to the temptations. Such is the power of Maya. Such is the influence of temptation. Such is the strength of the senses. That man who is endowed with strong discrimination; sustained dispassion; good selfanalytic power; and burning yearning for liberation; can resist temptations and he aloen can be really happy. He alone can attain the highest goal of life; the final beatitude or the sublime vision of the Infinite.Those who drink the Soma juice are purified from sin.Sacrifices Such as the Agnistoma; Jyotistoma. They worship Me as the Vasus and other deities
+(Rudras and Adityas) by sacrifices such as the Agnistoma.Indra is the Lord of the gods. He is called Satakratu because he had performed a hundred sacrifices. The divine pleasures are the supernatural pleasures of the heaven.DivyaBhoga An enjoyment that is beyond the reach of man or an enjoyment that can be had only by the celestial body of the gods or an enjoyment given by the gods in the heaven. The term Bhoga indicates sensual pleasures. Though the heavenly pleasuresare of a very subtle nature; yet,they are sensual pleasures only. (Cf.II.45)
 
 </details>
 </div>

@@ -51,9 +51,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 18.34 That Dhrti by which a person who, desirous of fruits, i.e.,
-through intense attachment holds fast to duty, desires, and wealth, is
-of the nature of Rajas. By the terms 'Dharma-kam'artha,' the activities
-of the mind, vital force and senses as a means for the attainment of
+through intense attachment holds fast to duty, desires, and wealth, is of the nature of Rajas. By the terms 'Dharma-kam'artha,' the activities of the mind, vital force and senses as a means for the attainment of
 Dharma (duty) Kama (pleasure) and Artha (wealth) are signified. Even in
 the expression, 'One desirous of fruits,' that term indicates duty,
 desire and wealth, on account of the Rajasika nature of the aspirant.
@@ -296,25 +294,21 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.34. O Arjuna ! The content by which one restrains one's bounden duty,
-pleasure and wealth, and conseently desiring the fruits \[of
-action\]-that content is of the Rajas (Strand), O son of Prtha !
+pleasure and wealth, and conseently desiring the fruits \[of action\]-that content is of the Rajas (Strand), O son of Prtha !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.34 But, O Partha, the firmness with which one holds on to
-righteousness, covetable things and wealth, being desirous of their
-fruits as the occasion for each arises, that firmness is born of rajas.
+18.34 But, O Partha, the firmness with which one holds on to righteousness, covetable things and wealth, being desirous of their fruits as the occasion for each arises, that firmness is born of rajas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.34 The conviction which always holds fast to rituals, to
-self-interest and wealth, for the sake of what they may bring forth -
+18.34 The conviction which always holds fast to rituals, to self-interest and wealth, for the sake of what they may bring forth -
 that comes from Passion.
 
 </details>
@@ -323,33 +317,23 @@ that comes from Passion.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 18.34 That Dhrti, O Arjuna, by which one, who is desirous of fruits,
-longs for them with intense attachment, and holds fast to duty, desire
-and wealth - that Dhrti is Rajasika.
+longs for them with intense attachment, and holds fast to duty, desire and wealth - that Dhrti is Rajasika.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.34 But that, O Arjuna, by which, on account of attachment and desire
-for reward, one holds fast to Dharma (duty), enjoyment of pleasures and
-earning of wealth that firmness, O Arjuna, is Rajasic (passionate).
+18.34 But that, O Arjuna, by which, on account of attachment and desire for reward, one holds fast to Dharma (duty), enjoyment of pleasures and earning of wealth that firmness, O Arjuna, is Rajasic (passionate).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/34_yayA_tu.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.34 यया (by) which; तु but; धर्मकामार्थान् Dharma (duty); desire and
-wealth; धृत्या by firmness; धारयते holds; अर्जुन O Arjuna; प्रसङ्गेन on
-account of attachment; फलाकाङ्क्षी desirous of the fruit of action;
+18.34 यया (by) which; तु but; धर्मकामार्थान् Dharma (duty); desire and wealth; धृत्या by firmness; धारयते holds; अर्जुन O Arjuna; प्रसङ्गेन on account of attachment; फलाकाङ्क्षी desirous of the fruit of action;
 धृतिः firmness; सा that; पार्थ O Arjuna; राजसी Rajasic
-(passionate).Commentary The man of Rajasic firmness imagines that he
-will achieve the threefold aim of life and clings to it passionately. He
-is desirous of getting the rewards of his actions. He endeavours to
-attain Dharma; wealth and pleasure. The firmness of such a person is
-Rajasic or passionate.Now listen; O Arjuna; to the third kind of
-firmness -- the Tamasic type.
+(passionate).Commentary The man of Rajasic firmness imagines that he will achieve the threefold aim of life and clings to it passionately. He is desirous of getting the rewards of his actions. He endeavours to attain Dharma; wealth and pleasure. The firmness of such a person is Rajasic or passionate.Now listen; O Arjuna; to the third kind of firmness -- the Tamasic type.
 
 </details>
 </div>

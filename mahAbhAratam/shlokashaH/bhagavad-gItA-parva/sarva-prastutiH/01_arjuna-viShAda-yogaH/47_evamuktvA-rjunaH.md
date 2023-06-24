@@ -59,17 +59,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -344,8 +335,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.47. Sanjaya said Having said this much about the battle, and letting
-his bow fall with arrows, Arjuna sat down on the back of the chariot,
+1.47. Sanjaya said Having said this much about the battle, and letting his bow fall with arrows, Arjuna sat down on the back of the chariot,
 with his mind agitated with grief.
 
 </details>
@@ -353,9 +343,7 @@ with his mind agitated with grief.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.47 Sanjaya narrated: Having said so, Arjuna, with a mind afflicted
-with sorrow, sat down on the chariot in the midst of the battle, casting
-aside the bow along with the arrows.
+1.47 Sanjaya narrated: Having said so, Arjuna, with a mind afflicted with sorrow, sat down on the chariot in the midst of the battle, casting aside the bow along with the arrows.
 
 </details>
 </div>
@@ -371,9 +359,7 @@ heartbroken with grief."
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.47 Sanjaya said : Having spoken thus on the battle-field, Arjuna threw
-aside his how and arrows and sat down on the seat of the chariot, his
-heart overwhelmed with grief.
+1.47 Sanjaya said : Having spoken thus on the battle-field, Arjuna threw aside his how and arrows and sat down on the seat of the chariot, his heart overwhelmed with grief.
 
 </details>
 </div>
@@ -381,21 +367,15 @@ heart overwhelmed with grief.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 1.47. Sanjaya said Having thus spoken in the midst of the battlefield,
-Arjuna, casting away his bow and arrow, sat down on the seat of the
-chariot with his mind overwhelmed with sorrow.
+Arjuna, casting away his bow and arrow, sat down on the seat of the chariot with his mind overwhelmed with sorrow.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/01_arjuna-viShAda-yogaH/47_evamuktvA-rjunaH.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-1.47 एवम् thus; उक्त्वा having said; अर्जुनः Arjuna; संख्ये in the
-battle; रथोपस्थे on the seat of the chariot; उपाविशत् sat down; विसृज्य
-having cast away; सशरम् with arrow; चापम् bow; शोकसंविग्नमानसः with a
-mind distressed with sorrow.Thus in the Upanishads of the glorious
-Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the
-dialogue between Sri Krishna and Arjuna; ends the first discourse
-entitledThe Yoga of the Despondency of Arjuna.
+1.47 एवम् thus; उक्त्वा having said; अर्जुनः Arjuna; संख्ये in the battle; रथोपस्थे on the seat of the chariot; उपाविशत् sat down; विसृज्य
+having cast away; सशरम् with arrow; चापम् bow; शोकसंविग्नमानसः with a mind distressed with sorrow.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the first discourse entitledThe Yoga of the Despondency of Arjuna.
 
 </details>
 </div>

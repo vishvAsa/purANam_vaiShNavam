@@ -32,16 +32,29 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+
+।।2.64।। अथ तानि सर्वाणीत्युक्तार्थकरणेऽन्योन्याश्रयपरिहारप्रकारः
+प्रयोजनभूतसंसारनिवृत्तिश्च श्लोकद्वयेन प्रपञ्च्यते रागद्वेषेति।
+रागद्वेषवियोगो हि कुतः इत्यत्र पूर्वोक्त एव हेतुरित्यभिप्रायेणाह
+उक्तेनेति। रागद्वेषवियोगोऽत्र इन्द्रियाणामात्मवश्यताहेतुः
+विषायंश्चरन्नित्यनेन विषयभोगभ्रमव्युदासाय आत्मवश्यत्वफलितमाह
+विषयांस्तिरस्कृत्य वर्तमान इति। चरतिरत्र गत्यर्थः आक्रमणरूप गतिपरः
+भक्षणार्थो वा संहारपर इत्युभयथाऽपि तत्तिरस्कारार्थत्वमत्र विवक्षितम्।
+तिरस्कारोऽत्रानादरः तथाच नैघण्टुकाः अनादरः परिभवः परीभावस्तिरस्क्रिया
+अमरः1।7।22 इति। बाह्येन्द्रियतद्विषयविजयो हि मनोविजयार्थ इत्यभिप्रायेणाह
+विधेयमना इति। विधेयात्मेति मनसः प्रसक्तत्वात्प्रसन्नचेतसः इति
+वक्ष्यमाणत्वाच्च। प्रसादोऽत्र मनोनैर्मल्यमित्याह निर्मलेति।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.64 Having focussed, in the way already described, the mind on Me - the
-Lord of all and the auspicious object of meditation, he who goes
-through, i.e., considers with contempt the sense-objects, with senses
-under control and free from hate and attraction by reason of all
-impurities of mind being burnt out - such a person has a disciplined
-self, i.e., disciplined mind. He attains serenity. The meaning is that
-his mind will be free of impurities.
+2.64 Having focussed, in the way already described, the mind on Me - the Lord of all and the auspicious object of meditation, he who goes through, i.e., considers with contempt the sense-objects, with senses under control and free from hate and attraction by reason of all impurities of mind being burnt out - such a person has a disciplined self, i.e., disciplined mind. He attains serenity. The meaning is that his mind will be free of impurities.
 
 </details>
 </div>
@@ -424,9 +437,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.64. On the contrary, one who moves about (consumes) the sense-objects
-by means of his senseorgans, that are freed from desire and hatred and
-are controlled in the Self-such one with a disciplined self (mind)
+2.64. On the contrary, one who moves about (consumes) the sense-objects by means of his senseorgans, that are freed from desire and hatred and are controlled in the Self-such one with a disciplined self (mind)
 attains serenity \[of disposition\].
 
 </details>
@@ -434,34 +445,28 @@ attains serenity \[of disposition\].
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.64 But by perceiving objects with the organs that are free from
-attraction and repulsion, and are under his own control, the
-self-controlled man attains serenity.
+2.64 But by perceiving objects with the organs that are free from attraction and repulsion, and are under his own control, the self-controlled man attains serenity.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.64 But the self-controlled soul, who moves amongst sense objects, free
-from either attachment or repulsion, he wins eternal Peace.
+2.64 But the self-controlled soul, who moves amongst sense objects, free from either attachment or repulsion, he wins eternal Peace.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.64 But he who goes through the sense-objects with the senses free from
-love and hate, disciplined and controlled, attains serenity.
+2.64 But he who goes through the sense-objects with the senses free from love and hate, disciplined and controlled, attains serenity.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/64_rAgadveShaviyukta.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.64 But the self-controlled man, moving among the objects with the
-senses under restraint and free from attraction and repulsion, attains
-to peace.
+2.64 But the self-controlled man, moving among the objects with the senses under restraint and free from attraction and repulsion, attains to peace.
 
 </details>
 </div>
@@ -470,19 +475,8 @@ to peace.
 
 2.64 रागद्वेषवियुक्तैः free from attraction and repulsion; तु but;
 विषयान् objects; इन्द्रियैः with senses; चरन् moving (amongst);
-आत्मवश्यैः selfrestrained; विधेयात्मा the selfcontrolled; प्रसादम् to
-peace; अधिगच्छति attains.Commentary The mind and the senses are
-naturally endowed with the two currents of attraction and repulsion.
-Therefore; the mind and the senses like certain objects and dislike
-certain other objects. But the disciplined man moves among senseobjects
-with the mind and the senses free from attraction and repulsion and
-mastered by the Self; attains to the peace of the Eternal. The senses
-and the mind obey his will; as the disciplined self has a very strong
-will. The disciplined self takes only those objects which are ite
-necessary for the maintenance of the body without any love or hatred. He
-never takes those objects which are forbidden by the scriptures.In this
-verse Lord Krishna gives the answer to Arjunas fourth estion; How does a
-sage of steady wisdom move about (Cf.III.7.19;25XVIII.9).
+आत्मवश्यैः selfrestrained; विधेयात्मा the selfcontrolled; प्रसादम् to peace; अधिगच्छति attains.Commentary The mind and the senses are naturally endowed with the two currents of attraction and repulsion.
+Therefore; the mind and the senses like certain objects and dislike certain other objects. But the disciplined man moves among senseobjects with the mind and the senses free from attraction and repulsion and mastered by the Self; attains to the peace of the Eternal. The senses and the mind obey his will; as the disciplined self has a very strong will. The disciplined self takes only those objects which are ite necessary for the maintenance of the body without any love or hatred. He never takes those objects which are forbidden by the scriptures.In this verse Lord Krishna gives the answer to Arjunas fourth estion; How does a sage of steady wisdom move about (Cf.III.7.19;25XVIII.9).
 
 </details>
 </div>

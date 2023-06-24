@@ -70,19 +70,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 5.27 - 5.28 'Shutting off all contact with outside objects,' i.e.,
-stopping the outward functioning of the senses; seated with his trunk
-straightened in a posture fit for meditation (Yoga); 'fixing the gaze
-between the eye-brows,' i.e., at the root of the nose where the
-eye-brows meet; 'ealising inward and outward breaths,' i.e., making
-exhalatory and inhalatory breath move eally: making the senses, Manas
-and intellect no longer capable of anything except the vision of the
-self, conseently being free from 'desire, fear and wrath'; 'who is
-intent on release as his final goal,' i.e., having release as his only
-aim - the sage who is thus intent on the vision of the self 'is indeed
-liberated for ever,' i.e., he is almost a liberated person, as he would
-soon be in the ultimate stage of fruition. Sri Krsna now says that Karma
-Yoga, described above, which is facilitated by the performance of
-obligatory and occasional rites and which culminates in meditation
+stopping the outward functioning of the senses; seated with his trunk straightened in a posture fit for meditation (Yoga); 'fixing the gaze between the eye-brows,' i.e., at the root of the nose where the eye-brows meet; 'ealising inward and outward breaths,' i.e., making exhalatory and inhalatory breath move eally: making the senses, Manas and intellect no longer capable of anything except the vision of the self, conseently being free from 'desire, fear and wrath'; 'who is intent on release as his final goal,' i.e., having release as his only aim - the sage who is thus intent on the vision of the self 'is indeed liberated for ever,' i.e., he is almost a liberated person, as he would soon be in the ultimate stage of fruition. Sri Krsna now says that Karma Yoga, described above, which is facilitated by the performance of obligatory and occasional rites and which culminates in meditation
 (Yoga), is easy to practise:
 
 </details>
@@ -510,37 +498,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.28. Having known Me as the Enjoyer of \[the fruits of\] sacrifices and
-austerties, as the great Lord of all the worlds, and as the Friend of
-all beings, he (the man of Yoga) attains peace.
+5.28. Having known Me as the Enjoyer of \[the fruits of\] sacrifices and austerties, as the great Lord of all the worlds, and as the Friend of all beings, he (the man of Yoga) attains peace.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.27-5.28 Keeping the external objects outside, the eyes at the juncture
-of the eye-brows, and making eal the outgoing and incoming breaths that
-move through the nostrils, the contemplative who has control over his
-organs, mind and intellect should be fully intent on Liberation and free
-from desire, fear and anger. He who is ever is verily free.
+5.27-5.28 Keeping the external objects outside, the eyes at the juncture of the eye-brows, and making eal the outgoing and incoming breaths that move through the nostrils, the contemplative who has control over his organs, mind and intellect should be fully intent on Liberation and free from desire, fear and anger. He who is ever is verily free.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.28 Governing sense, mind and intellect, intent on liberation, free
-from desire, fear and anger, the sage is forever free.
+5.28 Governing sense, mind and intellect, intent on liberation, free from desire, fear and anger, the sage is forever free.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/28_yatendriyamanobud.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.28 The sage who has controlled his senses, mind and intellect, who is
-intent on release as his final goal, freed for ever from desire, fear
-and wrath - is indeed liberated forever.
+5.28 The sage who has controlled his senses, mind and intellect, who is intent on release as his final goal, freed for ever from desire, fear and wrath - is indeed liberated forever.
 
 </details>
 </div>
@@ -548,8 +527,7 @@ and wrath - is indeed liberated forever.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 5.28 With the senses, the mind and the intellect (ever) controlled,
-having liberation as his supreme goal, free from desire, fear and anger
-the sage is verily liberated for ever.
+having liberation as his supreme goal, free from desire, fear and anger the sage is verily liberated for ever.
 
 </details>
 </div>
@@ -557,16 +535,9 @@ the sage is verily liberated for ever.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 5.28 यतेन्द्रियमनोबुद्धिः with senses; mind and intellect (ever)
-controlled; मुनिः the sage; मोक्षपरायणः having liberation as his supreme
-goal; विगतेच्छाभयक्रोधः free from desire; fear and anger; यः who; सदा
-for ever; मुक्तः free; एव verily; सः he.Commentary If one is free from
-desire; fear and anger he enjoys perfect peace of mind. When the senses;
-the mind and the intellect are subjugated; the sage does constant
-contemplation and,attains for ever to the absolute freedom or Moksha.The
-mind becomes restless when the modifications of deisre; fear and anger
-arise in it. When one becomes desireless; the mind moves towards the
-Self spontaneously liberation or Moksha becomes his highest goal.Muni is
-one who does Manana or reflection and contemplation.
+controlled; मुनिः the sage; मोक्षपरायणः having liberation as his supreme goal; विगतेच्छाभयक्रोधः free from desire; fear and anger; यः who; सदा
+for ever; मुक्तः free; एव verily; सः he.Commentary If one is free from desire; fear and anger he enjoys perfect peace of mind. When the senses;
+the mind and the intellect are subjugated; the sage does constant contemplation and,attains for ever to the absolute freedom or Moksha.The mind becomes restless when the modifications of deisre; fear and anger arise in it. When one becomes desireless; the mind moves towards the Self spontaneously liberation or Moksha becomes his highest goal.Muni is one who does Manana or reflection and contemplation.
 
 </details>
 </div>

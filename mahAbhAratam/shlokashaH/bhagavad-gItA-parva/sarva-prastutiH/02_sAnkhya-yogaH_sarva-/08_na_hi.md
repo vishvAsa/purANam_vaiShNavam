@@ -68,13 +68,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.6 - 2.8 If you say, 'After beginning the war, if we withdraw from the
-battle, the sons of Dhrtarastra will slay us all forcibly', be it so. I
-think that even to be killed by them, who do not know the difference
-between righteousness and unrighteousness, is better for us than gaining
-unrighteous victory by killing them. After saying so, Arjuna surrendered
-himself at the feet of the Lord, overcome with dejection, saying. 'Teach
-me, your disciple, who has taken refuge in you, what is good for me.'
+2.6 - 2.8 If you say, 'After beginning the war, if we withdraw from the battle, the sons of Dhrtarastra will slay us all forcibly', be it so. I think that even to be killed by them, who do not know the difference between righteousness and unrighteousness, is better for us than gaining unrighteous victory by killing them. After saying so, Arjuna surrendered himself at the feet of the Lord, overcome with dejection, saying. 'Teach me, your disciple, who has taken refuge in you, what is good for me.'
 
 </details>
 </div>
@@ -331,8 +325,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.8. I do not clearly see what would drive out my grief, the scorcher of
-my sense-organs, even after achieving, a prosperous and unrivalled
+2.8. I do not clearly see what would drive out my grief, the scorcher of my sense-organs, even after achieving, a prosperous and unrivalled
 kingship in this earth and also the overlordship of the gods \[in the
 heaven\].
 
@@ -341,36 +334,28 @@ heaven\].
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.8 Because, I do not see that which can, even after aciring on this
-earth a prosperous kingdom free from enemies and even sovereignty over
-the gods, remove my sorrow (which is) blasting the senses.
+2.8 Because, I do not see that which can, even after aciring on this earth a prosperous kingdom free from enemies and even sovereignty over the gods, remove my sorrow (which is) blasting the senses.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.8 For should I attain the monarchy of the visible world, or over the
-invisible world, it would not drive away the anguish which is now
-paralysing my senses."
+2.8 For should I attain the monarchy of the visible world, or over the invisible world, it would not drive away the anguish which is now paralysing my senses."
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.8 Even if I should win unchallenged sovereignty of a prosperous earth
-or even the kingdom on lordship over the Devas, I do not feel that it
-would dispel the grief than withers up my senses.
+2.8 Even if I should win unchallenged sovereignty of a prosperous earth or even the kingdom on lordship over the Devas, I do not feel that it would dispel the grief than withers up my senses.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/08_na_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.8 I do not see that it would remove this sorrow that burns up my
-senses, even if I should attain prosperous and unrivalled dominion on
-earth or lordship over the gods.
+2.8 I do not see that it would remove this sorrow that burns up my senses, even if I should attain prosperous and unrivalled dominion on earth or lordship over the gods.
 
 </details>
 </div>

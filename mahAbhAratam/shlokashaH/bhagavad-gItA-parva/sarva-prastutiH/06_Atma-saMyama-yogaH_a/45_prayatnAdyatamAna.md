@@ -53,12 +53,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.45 Because of such excellence of Yoga, through accumulation of merit
-collected in many births the Yogin striving earnestly, becomes cleansed
-from stains. Having become perfected, he reaches the supreme state, even
-though he had once gone astray. Sri Krsna now speaks of the superiority
-of the Yogin above all others because of his being devoted to the
-supreme goal of human existence.
+6.45 Because of such excellence of Yoga, through accumulation of merit collected in many births the Yogin striving earnestly, becomes cleansed from stains. Having become perfected, he reaches the supreme state, even though he had once gone astray. Sri Krsna now speaks of the superiority of the Yogin above all others because of his being devoted to the supreme goal of human existence.
 
 </details>
 </div>
@@ -340,7 +335,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।6.45।। परन्तु प्रयत्नपूर्वक अभ्यास करने वाला योगी सम्पूर्ण पापों से
-शुद्ध होकर अनेक जन्मों से (शनैः शनैः) सिद्ध होता हुआ, तब परम गति को
+शुद्ध होकर अनेक जन्मों से (शनै: शनै:) सिद्ध होता हुआ, तब परम गति को
 प्राप्त होता है।।
 
 </details>
@@ -372,43 +367,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.45. After that, the assiduously striving man of Yoga, having his sins
-completely cleansed and being perfected through many briths, reaches the
-Supreme Goal.
+6.45. After that, the assiduously striving man of Yoga, having his sins completely cleansed and being perfected through many briths, reaches the Supreme Goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.45 However, the yogi, applying himself assiduously, becoming purified
-from sin and attaining perfection through many births, thery acheives
-the highest Goal.
+6.45 However, the yogi, applying himself assiduously, becoming purified from sin and attaining perfection through many births, thery acheives the highest Goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.45 Then after many lives, the student of spirituality, who earnestly
-strives, and whose sins are absolved, attains perfection and reaches the
-Supreme.
+6.45 Then after many lives, the student of spirituality, who earnestly strives, and whose sins are absolved, attains perfection and reaches the Supreme.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.45 But the Yogin striving earnestly, cleansed of all his stains, and
-perfected through many births, reaches the supreme state.
+6.45 But the Yogin striving earnestly, cleansed of all his stains, and perfected through many births, reaches the supreme state.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/45_prayatnAdyatamAna.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.45 But the Yogi who strives with assiduity, purified of sins and
-perfected gradually through many births, reaches the highest goal.
+6.45 But the Yogi who strives with assiduity, purified of sins and perfected gradually through many births, reaches the highest goal.
 
 </details>
 </div>
@@ -416,11 +403,8 @@ perfected gradually through many births, reaches the highest goal.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.45 प्रयत्नात् with assiduity; यतमानः striving; तु but; योगी the Yogi;
-संशुद्धकिल्बिषः purified from sins; अनेकजन्मसंसिद्धः perfected through
-many births; ततः then; याति reaches; पराम् the highest; गतिम्
-path.Commentary He gains experiences little by little in the course of
-many births and eventually attains to perfection. Then he gets the
-knowledge of the Self and attains to the final beatitude of life.
+संशुद्धकिल्बिषः purified from sins; अनेकजन्मसंसिद्धः perfected through many births; ततः then; याति reaches; पराम् the highest; गतिम्
+path.Commentary He gains experiences little by little in the course of many births and eventually attains to perfection. Then he gets the knowledge of the Self and attains to the final beatitude of life.
 
 </details>
 </div>

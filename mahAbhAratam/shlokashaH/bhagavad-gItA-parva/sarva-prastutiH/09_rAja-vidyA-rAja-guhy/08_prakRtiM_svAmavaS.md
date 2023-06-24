@@ -65,11 +65,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.8 Operating My Prakrti, with its wonderfully variegated potency, I
-develop it eightfold and send forth this fourfold aggregate of beings,
-gods, animals, men and inanimate things, time after time. All these
-entities are helpless, being under the sway of My Prakrti comprising the
-three Gunas which can cause delusion. If this is so, it may be urged,
+9.8 Operating My Prakrti, with its wonderfully variegated potency, I develop it eightfold and send forth this fourfold aggregate of beings,
+gods, animals, men and inanimate things, time after time. All these entities are helpless, being under the sway of My Prakrti comprising the three Gunas which can cause delusion. If this is so, it may be urged,
 inealities of creation can be said to affect the Lord with cruelty,
 partiality etc. To this, the Lord answers:
 
@@ -334,7 +331,7 @@ _________________
 
 ।।9.8।। प्रकृति को अपने वश में करके (अर्थात् उसे चेतनता प्रदान कर)
 स्वभाव के वश से परतन्त्र (अवश) हुए इस सम्पूर्ण भूत समुदाय को मैं
-पुनः-पुनः रचता हूँ।।
+पुन:-पुन: रचता हूँ।।
 
 </details>
 </div>
@@ -378,8 +375,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.8. Taking hold of My own nature I send forth again and again this
-entire host of beings, which is powerless under the control of \[My\]
+9.8. Taking hold of My own nature I send forth again and again this entire host of beings, which is powerless under the control of \[My\]
 nature.
 
 </details>
@@ -387,34 +383,28 @@ nature.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.8 Keeping My own prakrti under control, I project forth again and
-again the whole of this multitude of beings which are powerless owing to
-the influence of (their own) nature.
+9.8 Keeping My own prakrti under control, I project forth again and again the whole of this multitude of beings which are powerless owing to the influence of (their own) nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.8 With the help of Nature, again and again I pour forth the whole
-multitude of beings, whether they will or no, for they are ruled by My
-Will.
+9.8 With the help of Nature, again and again I pour forth the whole multitude of beings, whether they will or no, for they are ruled by My Will.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.8 Controlling the Prakrti, which is My own, I send forth again and
-again all this multitude of beings, helpless under the sway of Prakrti.
+9.8 Controlling the Prakrti, which is My own, I send forth again and again all this multitude of beings, helpless under the sway of Prakrti.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/08_prakRtiM_svAmavaS.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.8 Animating My Nature, I again and again send forth all this multitude
-of beings, helpless by the force of the Nature.
+9.8 Animating My Nature, I again and again send forth all this multitude of beings, helpless by the force of the Nature.
 
 </details>
 </div>
@@ -423,13 +413,7 @@ of beings, helpless by the force of the Nature.
 
 9.8 प्रकृतिम् Nature; स्वाम् My own; अवष्टभ्य having animated; विसृजामि
 (I) send forth; पुनः again; पुनः again; भूतग्रामम् multitude of beings;
-इमम् this; कृत्स्नम् all; अवशम् helpless; प्रकृतेः of Nature; वशात् by
-force.Commentary The Lord leans on; presses or embraces Nature. He
-invigorates and fertilises Nature which had gone to sleep at the end of
-the Mahakalpa or universal dissolution and projects again and again this
-whole multitude of beings. He gazes at each level and plane after plane
-comes into being.The term Prakriti denotes or indicates the five Kleshas
-or afflictions; viz.; Avidya (ignorance); Asmita (egoism); Raga (likes);
+इमम् this; कृत्स्नम् all; अवशम् helpless; प्रकृतेः of Nature; वशात् by force.Commentary The Lord leans on; presses or embraces Nature. He invigorates and fertilises Nature which had gone to sleep at the end of the Mahakalpa or universal dissolution and projects again and again this whole multitude of beings. He gazes at each level and plane after plane comes into being.The term Prakriti denotes or indicates the five Kleshas or afflictions; viz.; Avidya (ignorance); Asmita (egoism); Raga (likes);
 Dvesha (dislikes) and Abhinivesa (clinging to earthly life). (Cf.IV.6)
 
 </details>

@@ -65,18 +65,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.23 Of a person whose attachment to all objects is gone because of his
-mind being established in the knowledge of the self, who is therefore
-liberated from accepting all worldly possessions and who is engaged in
-the performance of sacrifices etc., as described above - in the case of
-such a person his beginningless load of Karma, which is the cause of his
-bondgae, is completely dissolved, i.e., destroyed without leaving any
-residue. So far the nature of Karma as having the form of knowledge has
-been described as emerging from constant contemplation on the nature of
-the self as different from Prakrti. And now Sri Krsna says that all
-actions together with their ancillaries, have the form of knowledge
-because of constant contemplation by the aspirant on the Supreme Person
-who is the Supreme Brahman, as being his soul.
+4.23 Of a person whose attachment to all objects is gone because of his mind being established in the knowledge of the self, who is therefore liberated from accepting all worldly possessions and who is engaged in the performance of sacrifices etc., as described above - in the case of such a person his beginningless load of Karma, which is the cause of his bondgae, is completely dissolved, i.e., destroyed without leaving any residue. So far the nature of Karma as having the form of knowledge has been described as emerging from constant contemplation on the nature of the self as different from Prakrti. And now Sri Krsna says that all actions together with their ancillaries, have the form of knowledge because of constant contemplation by the aspirant on the Supreme Person who is the Supreme Brahman, as being his soul.
 
 </details>
 </div>
@@ -413,18 +402,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.23. The action gets dissolved completely in the case of the person who
-undertakes it for the sake of sacrifice; who is rid of attachment and is
-freed; and who has his mind fixed in wisdom.
+4.23. The action gets dissolved completely in the case of the person who undertakes it for the sake of sacrifice; who is rid of attachment and is freed; and who has his mind fixed in wisdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.23 Of the liberated person who has got rid of attachment, whose mind
-is fixed in Knowledge, actions undertaken for a sacrifice get totally
-destroyed.
+4.23 Of the liberated person who has got rid of attachment, whose mind is fixed in Knowledge, actions undertaken for a sacrifice get totally destroyed.
 
 </details>
 </div>
@@ -439,32 +424,23 @@ his actions, being done as a sacrifice, leave no trace behind.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.23 Of one whose attachments are gone, who is free, whose mind is
-established in knowledge, who works only for sacrifices, his Karma is
-entirely dissolved.
+4.23 Of one whose attachments are gone, who is free, whose mind is established in knowledge, who works only for sacrifices, his Karma is entirely dissolved.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.23 To one who is devoid of attchment, who is liberated, whose mind is
-established in knowledge, who works for the sake of sacrifice (for the
-sake of God), the whole action is dissolved.
+4.23 To one who is devoid of attchment, who is liberated, whose mind is established in knowledge, who works for the sake of sacrifice (for the sake of God), the whole action is dissolved.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/04_jnAna-yogaH_brahmArp/23_gatasangasya_mukt.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-4.23 गतसङ्गस्य one who is devoid of attachment; मुक्तस्य of the
-liberated; ज्ञानावस्थितचेतसः whose mind is established in knowledge;
+4.23 गतसङ्गस्य one who is devoid of attachment; मुक्तस्य of the liberated; ज्ञानावस्थितचेतसः whose mind is established in knowledge;
 यज्ञाय for sacrifice; आचरतः acting; कर्म action; समग्रम् whole;
-प्रविलीयते is dissolved.Commentary One who is free from attachment; who
-is liberated from the bonds of Karma; whose mind is centred and rooted
-in wisdom; who performs actions for the sake of sacrifice; in order to
-please the Lord -- all his actions with their results melt away. His
-actions are reduced to nothing. They are; in fact; no actions at all.
+प्रविलीयते is dissolved.Commentary One who is free from attachment; who is liberated from the bonds of Karma; whose mind is centred and rooted in wisdom; who performs actions for the sake of sacrifice; in order to please the Lord -- all his actions with their results melt away. His actions are reduced to nothing. They are; in fact; no actions at all.
 
 </details>
 </div>

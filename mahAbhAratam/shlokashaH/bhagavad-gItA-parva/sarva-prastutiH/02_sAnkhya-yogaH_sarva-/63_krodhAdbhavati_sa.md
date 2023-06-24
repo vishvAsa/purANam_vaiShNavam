@@ -32,14 +32,16 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+[[प्राक्तनं दृश्यताम्। ]]
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.63 'From the loss of memory there comes the destruction of
-discrimination.' The meaning is that there will be destruction of the
-effect of efforts made earlier to attain the knowledge of the self. From
-the destruction of discrimination, one becomes lost, i.e., is sunk in
-Samsara or worldliness.
+2.63 'From the loss of memory there comes the destruction of discrimination.' The meaning is that there will be destruction of the effect of efforts made earlier to attain the knowledge of the self. From the destruction of discrimination, one becomes lost, i.e., is sunk in Samsara or worldliness.
 
 </details>
 </div>
@@ -439,26 +441,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.63. From wrath delusion comes to be; from delusion is the loss of
-memory; from the loss of memory is the loss of capacity to decide; due
-to the loss of capacity to decide, he perishes outright.
+2.63. From wrath delusion comes to be; from delusion is the loss of memory; from the loss of memory is the loss of capacity to decide; due to the loss of capacity to decide, he perishes outright.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.63 From anger follows delusion; from delusion, failure of memory; from
-failure of memory, the loss of understanding; from the loss of
-understanding, he perishes.
+2.63 From anger follows delusion; from delusion, failure of memory; from failure of memory, the loss of understanding; from the loss of understanding, he perishes.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.63 Anger induces delusion; delusion, loss of memory; through loss of
-memory, reason is shattered; and loss of reason leads to destruction.
+2.63 Anger induces delusion; delusion, loss of memory; through loss of memory, reason is shattered; and loss of reason leads to destruction.
 
 </details>
 </div>
@@ -466,31 +463,21 @@ memory, reason is shattered; and loss of reason leads to destruction.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 2.63 From anger there comes delusion; from delusion, the loss of memory;
-from the loss of memory, the destruction of discrimination; and with the
-destruction of discrimination, he is lost.
+from the loss of memory, the destruction of discrimination; and with the destruction of discrimination, he is lost.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.63 From anger comes delusion; from delusion loss of memory; from loss
-of memory the destruction of discrimination; from the destruction of
-discrimination he perishes.
+2.63 From anger comes delusion; from delusion loss of memory; from loss of memory the destruction of discrimination; from the destruction of discrimination he perishes.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/63_krodhAdbhavati_sa.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.63 क्रोधात् from anger; भवति comes; संमोहः delusion; संमोहात् from
-delusion; स्मृतिविभ्रमः loss of memory; स्मृतिभ्रंशात् from loss of
-memory; बुद्धिनाशः the destruction of discriminatio; बुद्धिनाशात् from
-the,destruction of discrimination; प्रणश्यति (he) perishes.Commentary
-From anger arises delusion. When a man becomes angry he loses his power
-of discrimination between right and wrong. He will speak and do anything
-he likes. He will be swept away by the impulse of passion and emotion
-and will act irrationally.
+2.63 क्रोधात् from anger; भवति comes; संमोहः delusion; संमोहात् from delusion; स्मृतिविभ्रमः loss of memory; स्मृतिभ्रंशात् from loss of memory; बुद्धिनाशः the destruction of discriminatio; बुद्धिनाशात् from the,destruction of discrimination; प्रणश्यति (he) perishes.Commentary From anger arises delusion. When a man becomes angry he loses his power of discrimination between right and wrong. He will speak and do anything he likes. He will be swept away by the impulse of passion and emotion and will act irrationally.
 
 </details>
 </div>

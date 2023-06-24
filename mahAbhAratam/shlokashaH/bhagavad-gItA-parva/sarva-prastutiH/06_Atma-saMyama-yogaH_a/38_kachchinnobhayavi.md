@@ -81,22 +81,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.37 - 6.39 Arjuna said What way does he go, who has embarked on Yoga
-endowed with faith, but who by inadeacy of exertion in practice, does
-not gain success in Yoga and has his mind wandering from Yoga; Does he
-not perish like a small piece of cloud torn from a large mass of cloud -
-perish without reaching another large mass of cloud; Now does he not
-fall away from both (sides); He has no support and is confused on the
-path leading to the Brahman. He is without any support in the sense that
-Karma or rituals which constitutes the means of heaven etc., does not
-give support for a person who is devoid of attachment to fruits; for
-Karma is the means for generating its own fruits. He is also confused in
-the path leading to the Brahman on which he has just begun to traverse;
-He has lost his way. Does he then get lost by falling down from both
-sides, these being attainment of heaven on the one hand and liberation
-on the other. Does he not thus perish; You should remove this doubt
-altogether from my mind; for there is no other remover of this doubt
-than You, who always perceive directly all matters simultaneously.
+6.37 - 6.39 Arjuna said What way does he go, who has embarked on Yoga endowed with faith, but who by inadeacy of exertion in practice, does not gain success in Yoga and has his mind wandering from Yoga; Does he not perish like a small piece of cloud torn from a large mass of cloud -
+perish without reaching another large mass of cloud; Now does he not fall away from both (sides); He has no support and is confused on the path leading to the Brahman. He is without any support in the sense that Karma or rituals which constitutes the means of heaven etc., does not give support for a person who is devoid of attachment to fruits; for Karma is the means for generating its own fruits. He is also confused in the path leading to the Brahman on which he has just begun to traverse;
+He has lost his way. Does he then get lost by falling down from both sides, these being attainment of heaven on the one hand and liberation on the other. Does he not thus perish; You should remove this doubt altogether from my mind; for there is no other remover of this doubt than You, who always perceive directly all matters simultaneously.
 
 </details>
 </div>
@@ -367,24 +354,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.38. Does he, fallen from both, get lost like a broken cloud ; Or, O
-mighty-armed ! having no support, does he meet total destruction ;
+6.38. Does he, fallen from both, get lost like a broken cloud ; Or, O mighty-armed ! having no support, does he meet total destruction ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.38 O Mighty-armed one, fallen from both, without support, deluded on
-the path to Brahman, does he not get ruined like a scattered cloud;
+6.38 O Mighty-armed one, fallen from both, without support, deluded on the path to Brahman, does he not get ruined like a scattered cloud;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/38_kachchinnobhayavi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.38 Having failed in both, my Lord, is he without hope, like a riven
-cloud having no support, lost on the spiritual road;
+6.38 Having failed in both, my Lord, is he without hope, like a riven cloud having no support, lost on the spiritual road;
 
 </details>
 </div>
@@ -392,8 +376,7 @@ cloud having no support, lost on the spiritual road;
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 6.38 Without any support, confused in the path leading to the Brahman,
-and thus fallen from both, does he not perish, O mighty armed, like a
-riven cloud;
+and thus fallen from both, does he not perish, O mighty armed, like a riven cloud;
 
 </details>
 </div>
@@ -411,14 +394,8 @@ supportless, O mighty-armed (Krishna), deluded on the path of Brahman;
 6.38 कच्चित् is it that न not; उभयविभ्रष्टः fallen from both;
 छिन्नाभ्रम् rent cloud; इव like; नश्यति perishes; अप्रतिष्ठः
 supportless; महाबाहो O mightyarmed; विमूढः deluded; ब्रह्मणः of Brahman;
-पथि in the path.Commentary Both the path of Karma or the path of
-ritualistic activity in accordance with the Karma Kanda of the Vedas on
-the one hand and the path of Yoga on the other.Path of Brahman the path
-by which Brahman can be reached or the way that leads to Brahman.The
-Yoga taught by the Lord here demands onepointed devotion to its
-practice. The aspirant turns away from the world and spurns heaven; too.
-Some people held that if he failed to attain the goal; he would have
-lost everything for nothing. Hence the estion.
+पथि in the path.Commentary Both the path of Karma or the path of ritualistic activity in accordance with the Karma Kanda of the Vedas on the one hand and the path of Yoga on the other.Path of Brahman the path by which Brahman can be reached or the way that leads to Brahman.The Yoga taught by the Lord here demands onepointed devotion to its practice. The aspirant turns away from the world and spurns heaven; too.
+Some people held that if he failed to attain the goal; he would have lost everything for nothing. Hence the estion.
 
 </details>
 </div>

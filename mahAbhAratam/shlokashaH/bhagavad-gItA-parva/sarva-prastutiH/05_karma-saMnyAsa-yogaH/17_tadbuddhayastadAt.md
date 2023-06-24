@@ -64,17 +64,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.17 'Those whose intellects pursue It,' i.e., those who have determined
-to have the vision of the self in this way; 'those whose minds think
-about It,' i.e., those whose minds have the self for their aim, those
-who undergo discipline for It, i.e., those who are devoted to the
-practices for Its attainment; 'those who hold It as their highest
-object,' i.e., those who consider It as their highest goal - such
-persons, having their previous impurities cleansed by the knowledge
-which is practised in this way, attain the self as taught. 'From that
-state there is no return' - the state from which there is no return
-means the state of the self. The meaning is that they attain the self
-which rests in Its own nature.
+5.17 'Those whose intellects pursue It,' i.e., those who have determined to have the vision of the self in this way; 'those whose minds think about It,' i.e., those whose minds have the self for their aim, those who undergo discipline for It, i.e., those who are devoted to the practices for Its attainment; 'those who hold It as their highest object,' i.e., those who consider It as their highest goal - such persons, having their previous impurities cleansed by the knowledge which is practised in this way, attain the self as taught. 'From that state there is no return' - the state from which there is no return means the state of the self. The meaning is that they attain the self which rests in Its own nature.
 
 </details>
 </div>
@@ -399,9 +389,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.17. Those, who have their intellect and self (mind) gone to This; who
-have established themselves in This and have This \[alone\] as their
-supreme goal; and who have washed off their sins by means of \[perfect\]
+5.17. Those, who have their intellect and self (mind) gone to This; who have established themselves in This and have This \[alone\] as their supreme goal; and who have washed off their sins by means of \[perfect\]
 knowledge-they reach a state from which there is no more return.
 
 </details>
@@ -409,29 +397,21 @@ knowledge-they reach a state from which there is no more return.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.17 Those who have their intellect absorbed in That, whose Self is
-That, who are steadfast in That, who have That as their supreme
-Goal-they attain the state of non-returning, their dirt having been
-removed by Knowledge.
+5.17 Those who have their intellect absorbed in That, whose Self is That, who are steadfast in That, who have That as their supreme Goal-they attain the state of non-returning, their dirt having been removed by Knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.17 Meditating on the Divine, having faith in the Divine, concentrating
-on the Divine and losing themselves in the Divine, their sins dissolved
-in wisdom, they go whence there is no return.
+5.17 Meditating on the Divine, having faith in the Divine, concentrating on the Divine and losing themselves in the Divine, their sins dissolved in wisdom, they go whence there is no return.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.17 Those whose intellects pursue It (the self), whose minds think
-about It, who undergo discipline for It, and who hold It as their
-highest object, have their impurities cleansed by knowledge and go
-whence there is no return.
+5.17 Those whose intellects pursue It (the self), whose minds think about It, who undergo discipline for It, and who hold It as their highest object, have their impurities cleansed by knowledge and go whence there is no return.
 
 </details>
 </div>
@@ -439,26 +419,15 @@ whence there is no return.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 5.17 Their intellect absorbed in That, their self being That,
-established in That, with That for their supreme goal, they go whence
-there is no return, their sins dispelled by knowledge.
+established in That, with That for their supreme goal, they go whence there is no return, their sins dispelled by knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/17_tadbuddhayastadAt.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-5.17 तद्बुद्धयः intellect absorbed in That; तदात्मानः their self being
-That; तन्निष्ठाः established in That; तत्परायणाः with That for their
-supreme goal; गच्छन्ति go; अपुनरावृत्तिम् not again returning;
-ज्ञाननिर्धूतकल्मषाः,those whose sins have been dispelled by
-knowledge.Commentary They fix their intellects on Brahman or the Supreme
-Self. They feel and realise that Brahman is their self. By constant and
-protracted meditation; they get established in Brahman. The whole world
-of names and forms vanishes for them. They live in Brahman alone. They
-have Brahman alone as their supreme goal or sole refuge. They rejoice in
-the Self alone. They are satisfied in the Self alone. They are contented
-in the Self alone. Such men never come back to this Samsara; as their
-sins are dispelled by knowledge (BrahmaJnana). (Cf.IX.34)
+5.17 तद्बुद्धयः intellect absorbed in That; तदात्मानः their self being That; तन्निष्ठाः established in That; तत्परायणाः with That for their supreme goal; गच्छन्ति go; अपुनरावृत्तिम् not again returning;
+ज्ञाननिर्धूतकल्मषाः,those whose sins have been dispelled by knowledge.Commentary They fix their intellects on Brahman or the Supreme Self. They feel and realise that Brahman is their self. By constant and protracted meditation; they get established in Brahman. The whole world of names and forms vanishes for them. They live in Brahman alone. They have Brahman alone as their supreme goal or sole refuge. They rejoice in the Self alone. They are satisfied in the Self alone. They are contented in the Self alone. Such men never come back to this Samsara; as their sins are dispelled by knowledge (BrahmaJnana). (Cf.IX.34)
 
 </details>
 </div>

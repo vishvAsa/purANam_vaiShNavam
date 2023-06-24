@@ -78,20 +78,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.7 Therefore, at all times, until your departure, remember Me, day
-after day. Engage yourself in actions appropriate to your station and
-stage in life, which would make you remember Me. These actions are
-prescribed by the Srutis and Smrtis and comprise the periodical and
-occasional rites. Thus, by this means, with your mind and intellect set
-on Me, you will remember Me at the time of death and thus attain to Me
-in the manner desired by you. There is no doubt about this. Thus, having
-laid down the common principle that the attainment of one's end is
-dependent on one's last thought, Sri Krsna proceeds to describe
-different modes of contemplation (Upasana) to be practised by the three
-groups of devotees for aciring their objectives. Of these, he first
-speaks about the modes of contemplation to be adopted by the seekers of
-enjoyments and power and the type of the last thought consistent with
-their contemplation.
+8.7 Therefore, at all times, until your departure, remember Me, day after day. Engage yourself in actions appropriate to your station and stage in life, which would make you remember Me. These actions are prescribed by the Srutis and Smrtis and comprise the periodical and occasional rites. Thus, by this means, with your mind and intellect set on Me, you will remember Me at the time of death and thus attain to Me in the manner desired by you. There is no doubt about this. Thus, having laid down the common principle that the attainment of one's end is dependent on one's last thought, Sri Krsna proceeds to describe different modes of contemplation (Upasana) to be practised by the three groups of devotees for aciring their objectives. Of these, he first speaks about the modes of contemplation to be adopted by the seekers of enjoyments and power and the type of the last thought consistent with their contemplation.
 
 </details>
 </div>
@@ -573,34 +560,28 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 8.7. Therefore at all times keep Me in the mind and also fight; then,
-having your mind and intellect dedicated to Me, you will doubtlessly
-attain Me alone.
+having your mind and intellect dedicated to Me, you will doubtlessly attain Me alone.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.7 Therefore, think of Me at all times and fight. There is no doubt
-that by dedicating your mind and intellect to Me, you will attain Me
-alone.
+8.7 Therefore, think of Me at all times and fight. There is no doubt that by dedicating your mind and intellect to Me, you will attain Me alone.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.7 Therefore meditate always on Me, and fight; if thy mind and thy
-reason be fixed on Me, to Me shalt thou surely come.
+8.7 Therefore meditate always on Me, and fight; if thy mind and thy reason be fixed on Me, to Me shalt thou surely come.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/07_tasmAtsarveShu_kA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.7 Therefore at all times remember Me only and fight. With mind and
-intellect fixed (or absorbed) in Me, thou shalt doubtessly come to Me
-alone.
+8.7 Therefore at all times remember Me only and fight. With mind and intellect fixed (or absorbed) in Me, thou shalt doubtessly come to Me alone.
 
 </details>
 </div>
@@ -608,22 +589,10 @@ alone.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 8.7 तस्मात् therefore; सर्वेषु in all; कालेषु (in) times; माम् Me;
-अनुस्मर remember; युध्य fight; च and; मय्यर्पितमनोबुद्धिः with mind and
-intellect fixed (or absorbed) in Me; माम् to Me; एव alone; एष्यसि (thou)
-shalt come to; असंशयम् doubtless.Commentary The whole mental machinery
-should be dedicated to the Lord. You must work with the mind and
-intellect devoted to Him.Fight Perform your own Dharma; the duty of a
-Kshatriya. It will purify your heart and you will attain to knowledge
-and come to Me. The term fight is Upalakshana (suggestive). It means Do
-your duties according to your caste and order of life.
-VarnashramaDharmas (the duties pertaining to the various castes and
-orders of life) and NityaNaimittika Karmas are the Upalakshanas (factors
-suggested or alluded to).The ChittaVritti which is of the form of the
-object meditated upon is the Bhavana. (ChittaVrittis is mental
-modification). The Bhavana is for those who practise Saguna Upasana.
-Bhavana at the time of separtion of the body is not necessary for a sage
-or a Jnani who has attained to the knowledge of the Self or
-Selfrealisation. (Cf.IX.34XII.8;11)
+अनुस्मर remember; युध्य fight; च and; मय्यर्पितमनोबुद्धिः with mind and intellect fixed (or absorbed) in Me; माम् to Me; एव alone; एष्यसि (thou)
+shalt come to; असंशयम् doubtless.Commentary The whole mental machinery should be dedicated to the Lord. You must work with the mind and intellect devoted to Him.Fight Perform your own Dharma; the duty of a Kshatriya. It will purify your heart and you will attain to knowledge and come to Me. The term fight is Upalakshana (suggestive). It means Do your duties according to your caste and order of life.
+VarnashramaDharmas (the duties pertaining to the various castes and orders of life) and NityaNaimittika Karmas are the Upalakshanas (factors suggested or alluded to).The ChittaVritti which is of the form of the object meditated upon is the Bhavana. (ChittaVrittis is mental modification). The Bhavana is for those who practise Saguna Upasana.
+Bhavana at the time of separtion of the body is not necessary for a sage or a Jnani who has attained to the knowledge of the Self or Selfrealisation. (Cf.IX.34XII.8;11)
 
 </details>
 </div>

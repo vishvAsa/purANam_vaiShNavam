@@ -94,21 +94,8 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 17.2 The Lord said 'Threefold is the faith among all' embodied beings.
-And it arises from their 'inborn nature.' What is called Svabhava is the
-state unie to one's own nature. It is the special taste or predilection
-caused by previous subtle impressions, 'Vasanas.' To whatever one's
-predilection is directed, there faith is born in respect of it. For
-'faith' is zeal or eagerness about any means in the belief that it is
-the way of action to achieve one's own desired object. Vasana (subtle
-impression), Ruci (taste) and Sraddha (faith) are the alities of the
-self born from its association with the Gunas. The Sattva and the other
-Gunas are the alities of the body, the senses, the internal organs and
-sense-objects. They bring about their alities in the self associated
-with them. These are the Vasanas. These Gunas can be described only by
-their effects. These (i.e., Vasanas etc.) originate from experiences
-with the body etc., having origination in Sattva and other Gunas. Thus
-faith is threefold as marked by Sattva, Rajas and Tamas. Listen about
-this faith.
+And it arises from their 'inborn nature.' What is called Svabhava is the state unie to one's own nature. It is the special taste or predilection caused by previous subtle impressions, 'Vasanas.' To whatever one's predilection is directed, there faith is born in respect of it. For
+'faith' is zeal or eagerness about any means in the belief that it is the way of action to achieve one's own desired object. Vasana (subtle impression), Ruci (taste) and Sraddha (faith) are the alities of the self born from its association with the Gunas. The Sattva and the other Gunas are the alities of the body, the senses, the internal organs and sense-objects. They bring about their alities in the self associated with them. These are the Vasanas. These Gunas can be described only by their effects. These (i.e., Vasanas etc.) originate from experiences with the body etc., having origination in Sattva and other Gunas. Thus faith is threefold as marked by Sattva, Rajas and Tamas. Listen about this faith.
 
 </details>
 </div>
@@ -454,44 +441,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.2. The Bhagavat said The faith of the embodied persons is born of
-their nature and is of three kinds \[viz৷৷\] that which is made of the
-Sattva ; that which is made of the Rajas ; and that which is made of the
-Tamas. Listen about them.
+17.2. The Bhagavat said The faith of the embodied persons is born of their nature and is of three kinds \[viz৷৷\] that which is made of the Sattva ; that which is made of the Rajas ; and that which is made of the Tamas. Listen about them.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.2 The Blessed Lord said That faith of the embodied beings, born of
-their own nature, is threefold-born of sattva, rajas and tamas. Hear
-about it.
+17.2 The Blessed Lord said That faith of the embodied beings, born of their own nature, is threefold-born of sattva, rajas and tamas. Hear about it.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.2 Lord Shri Krishna replied: Man has an inherent faith in one or
-another of the Qualities -Purity, Passion and Ignorance. Now listen.
+17.2 Lord Shri Krishna replied: Man has an inherent faith in one or another of the Qualities -Purity, Passion and Ignorance. Now listen.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.2 The Lord said Threefold is the faith of embodied beings, born of
-their own nature, constituted of Sattva, Rajas and Tamas. Listen now
-about it.
+17.2 The Lord said Threefold is the faith of embodied beings, born of their own nature, constituted of Sattva, Rajas and Tamas. Listen now about it.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-17.2 The Blessed Lord said Threefold is the faith of the embodied, which
-is inherent in their nature the Sattvic (pure), the Rajasic (passionate)
+17.2 The Blessed Lord said Threefold is the faith of the embodied, which is inherent in their nature the Sattvic (pure), the Rajasic (passionate)
 and the Tamasic (dark). Do thou hear of it.
 
 </details>
@@ -499,57 +477,16 @@ and the Tamasic (dark). Do thou hear of it.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/17_shraddhA-traya-vibhA/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-17.2 त्रिविधा threefold; भवति is; श्रद्धा faith; देहिनाम् of the
-embodied; सा that (faith); स्वभावजा (is) inherent in (their) nature;
+17.2 त्रिविधा threefold; भवति is; श्रद्धा faith; देहिनाम् of the embodied; सा that (faith); स्वभावजा (is) inherent in (their) nature;
 सात्त्विकी Sattvic (pure); राजसी Rajasic (passionate); च and; एव even;
 तामसी Tamasic (dark); च and; इति thus; ताम् it; श्रृणु hear
 (thou).Commentary The whole world is made up; as if were; of faith.
-Faith assumes a threefold aspect under the influence of the three
-alities. When Sattva is strongly developed; when there is a
-preponderance of Sattva or purity in a man; it is easy for him to attain
-Selfrealisation or the knowledge of the Self. If Rajas is predominant;
-the faith becomes the handmaid of activity. If Tamas or inertia
-prevails; faith is annihilated.Those who are endowed with Sattvic faith
-aim at the attainment of liberation. Those who are endowed with Rajasic
-faith run after inferior duties or worldly activities. Those whose faith
-is Tamasic are cruel. They kill animals for sacrifice. They invoke the
-spirits and talk with ghosts. When faith is joined to Sattva; it leads
-to salvation. When Rajas preponderates; it colours the faith and leads
-to various activities. When Tamas predominates; the faith results in
-darkness.Faith acires different alities when it is in company with the
-mind of man. Mind is a thing of many colours. Just as the water of the
-Ganga is contaminated by being put in a vessel where lior had been kept;
-so also a virtuous person is spoiled by bad company or constant
-association with evil persons. The three Gunas or attributes colour the
-faith of a man. The mind of a man is governed by the preponderating
-attribute or ality which manifests itself when the other two alities are
-suppressed. Faith takes a threefold aspect in accordance with the
-inherent nature or tendencies of the man. The inclinations of men are
-moulded according to their ality or inherent nature born of their past
-Samskaras.As is the tendency; so is the desire as is the desire; so is
-the action as is the action; so is the birth into another being after
-death. The body is like the seed of the tree; a perpetual chain. Seed
-perishes in developing into a tree and the tree again produces the seed.
+Faith assumes a threefold aspect under the influence of the three alities. When Sattva is strongly developed; when there is a preponderance of Sattva or purity in a man; it is easy for him to attain Selfrealisation or the knowledge of the Self. If Rajas is predominant;
+the faith becomes the handmaid of activity. If Tamas or inertia prevails; faith is annihilated.Those who are endowed with Sattvic faith aim at the attainment of liberation. Those who are endowed with Rajasic faith run after inferior duties or worldly activities. Those whose faith is Tamasic are cruel. They kill animals for sacrifice. They invoke the spirits and talk with ghosts. When faith is joined to Sattva; it leads to salvation. When Rajas preponderates; it colours the faith and leads to various activities. When Tamas predominates; the faith results in darkness.Faith acires different alities when it is in company with the mind of man. Mind is a thing of many colours. Just as the water of the Ganga is contaminated by being put in a vessel where lior had been kept;
+so also a virtuous person is spoiled by bad company or constant association with evil persons. The three Gunas or attributes colour the faith of a man. The mind of a man is governed by the preponderating attribute or ality which manifests itself when the other two alities are suppressed. Faith takes a threefold aspect in accordance with the inherent nature or tendencies of the man. The inclinations of men are moulded according to their ality or inherent nature born of their past Samskaras.As is the tendency; so is the desire as is the desire; so is the action as is the action; so is the birth into another being after death. The body is like the seed of the tree; a perpetual chain. Seed perishes in developing into a tree and the tree again produces the seed.
 This process or cycle continues eternally. Even so man takes a body;
-does actions; develops tendencies; dies and puts,on a new body in
-accordance with the nature or tendencies. This continues till he gets
-knowledge of the Self by transcending the three Gunas; when ignorance;
-the root cause of birth and death; is destroyed.Faith is born of the
-individual nature; i.e.; the Samskaras or the latent impressions of
-virtuous and vicious actions which were performed in the past births and
-which manifested themselves at the time of death. In the subconscious
-mind or the Chitta there is a reservoir of past impressions which are
-revived through the operation of memory.Sattvic Faith in the worship of
-gods; which is an effect of Sattva.Rajasic Faith in the worship of the
-Yakshas and Rakshasas; which is an effect of Rajas.Tamasic Faith in the
-worship of the disembodied spirits and ghosts; which is an effect of
-Tamas.Faith is the main support of life. It is not mere intellectual
-belief or blind acceptance of pet dogmas or doctrines. You must
-understand clearly its characteristics; just as you recognise a tree
-from the fruits; the mind of a man from his speech; and the actions of
-previous birth from worldly pleasures and pains.Svabhavaja Inherent in
-their nature born of past Samskaras.Tam Of it; referring to the
-threefold faith.
+does actions; develops tendencies; dies and puts,on a new body in accordance with the nature or tendencies. This continues till he gets knowledge of the Self by transcending the three Gunas; when ignorance;
+the root cause of birth and death; is destroyed.Faith is born of the individual nature; i.e.; the Samskaras or the latent impressions of virtuous and vicious actions which were performed in the past births and which manifested themselves at the time of death. In the subconscious mind or the Chitta there is a reservoir of past impressions which are revived through the operation of memory.Sattvic Faith in the worship of gods; which is an effect of Sattva.Rajasic Faith in the worship of the Yakshas and Rakshasas; which is an effect of Rajas.Tamasic Faith in the worship of the disembodied spirits and ghosts; which is an effect of Tamas.Faith is the main support of life. It is not mere intellectual belief or blind acceptance of pet dogmas or doctrines. You must understand clearly its characteristics; just as you recognise a tree from the fruits; the mind of a man from his speech; and the actions of previous birth from worldly pleasures and pains.Svabhavaja Inherent in their nature born of past Samskaras.Tam Of it; referring to the threefold faith.
 
 </details>
 </div>

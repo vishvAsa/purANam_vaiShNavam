@@ -77,16 +77,8 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 7.18 Because they worship Me alone, all these are generous i.e.,
-benefactors. For, those who receive from Me anything, however small they
-are, I consider them as contributing everything to Me (and thus as
-benefactors). But I deem the man of knowledge to be My very self. I
-consider Myself as depending on him for My support. Why is it so;
-Because this person considers Me to be the highest and finds it
-impossible to support himself without Me; I also find it impossible to
-be without him. Thus, verily, he is My self. The attainment of this
-state of mind reires innumerable auspicious births. It is attained after
-gaining the knowledge of the real nature of the self and the self feels
-that Its happiness consists in being a dependant (Sesa) of Myself.
+benefactors. For, those who receive from Me anything, however small they are, I consider them as contributing everything to Me (and thus as benefactors). But I deem the man of knowledge to be My very self. I consider Myself as depending on him for My support. Why is it so;
+Because this person considers Me to be the highest and finds it impossible to support himself without Me; I also find it impossible to be without him. Thus, verily, he is My self. The attainment of this state of mind reires innumerable auspicious births. It is attained after gaining the knowledge of the real nature of the self and the self feels that Its happiness consists in being a dependant (Sesa) of Myself.
 
 </details>
 </div>
@@ -443,19 +435,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/18_udArAH_sarva.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.18. All these are noble persons, indeed. But the man of wisdom is
-considered as the very Soul of \[Mine\]. For, with his self (mind) that
-has mastered the Yoga, he has resorted to nothing but Me as his most
-supreme goal.
+7.18. All these are noble persons, indeed. But the man of wisdom is considered as the very Soul of \[Mine\]. For, with his self (mind) that has mastered the Yoga, he has resorted to nothing but Me as his most supreme goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/18_udArAH_sarva.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.18 All of these, indeed, are noble, but the man of Knowledge is the
-very Self. (This is) My opinion. For, with a steadfast mind, he is set
-on the path leading to Me alone who am the super-excellent Goal.
+7.18 All of these, indeed, are noble, but the man of Knowledge is the very Self. (This is) My opinion. For, with a steadfast mind, he is set on the path leading to Me alone who am the super-excellent Goal.
 
 </details>
 </div>
@@ -470,18 +457,14 @@ for he, remaining always at peace with Me, makes me his final goal.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/18_udArAH_sarva.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.18 All these are indeed generous (udarah), but I deem the man of
-knowledge to be My very self; for he, integrated, is devoted to Me alone
-as the highest end.
+7.18 All these are indeed generous (udarah), but I deem the man of knowledge to be My very self; for he, integrated, is devoted to Me alone as the highest end.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/18_udArAH_sarva.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.18 Noble indeed are all these; but I deem the wise man as My very
-Self; for, steadfast in mind he is established in Me alone as the
-supreme goal.
+7.18 Noble indeed are all these; but I deem the wise man as My very Self; for, steadfast in mind he is established in Me alone as the supreme goal.
 
 </details>
 </div>
@@ -491,14 +474,8 @@ supreme goal.
 7.18 उदाराः noble; सर्वे all; एव surely; एते these; ज्ञानी the wise; तु
 but; आत्मा Self; एव very; मे My; मतम् opinion; आस्थितः is established;
 सः he; हि verily; युक्तात्मा steadfastminded; माम् Me; एव verily;
-अनुत्तमाम्,the supreme; गतिम् goal.Commentary Are not the other three
-kinds of devotees dear to the Lord They are. They are all noble souls.
-But the wise man is exceedingly dear because he has a steady mind he has
-fixed his mind on Brahman. He does not want any worldly object; but only
-the Supreme Being. He seeks Brahman alone as the supreme goal. He
-practises Ahamgraha Upasana (meditation on the Self as the all). He
-tries to realise that he is identical with the Supreme Self. Therefore I
-regard a wise man as My very Self. (Cf.II.49)
+अनुत्तमाम्,the supreme; गतिम् goal.Commentary Are not the other three kinds of devotees dear to the Lord They are. They are all noble souls.
+But the wise man is exceedingly dear because he has a steady mind he has fixed his mind on Brahman. He does not want any worldly object; but only the Supreme Being. He seeks Brahman alone as the supreme goal. He practises Ahamgraha Upasana (meditation on the Self as the all). He tries to realise that he is identical with the Supreme Self. Therefore I regard a wise man as My very Self. (Cf.II.49)
 
 </details>
 </div>

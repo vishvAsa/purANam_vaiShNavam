@@ -33,16 +33,39 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.67।। अनेन श्लोकेन प्रत्याहारादियोगावयवचतुष्टयस्य तत्फलस्य
+निश्श्रेयसस्य च यथासम्भवमभिधातात्पर्याभ्यां
+पूर्वपूर्वाभावादुत्तरोत्तरस्यालाभः सूचितो भवति। अथेन्द्रियनिग्रहाभावे
+बुद्ध्यभावस्य पूर्वोक्तस्य प्रकारःइन्द्रियाणाम् इत्यनन्तर श्लोकेनोच्यत
+इत्यपुनरुक्तिः आदरार्थं वा पुनरुक्तिरित्यभिप्रायेणाह पुनरपीति।
+केवलस्पन्दादिमात्रव्युदासायविषयेष्वित्युक्तम्। इन्द्रियाणां सर्वेषां न
+विषयेषु सञ्चारोऽस्ति अतस्तदौन्मुख्यमर्थ इति
+व्यञ्जनायइन्द्रियाणीन्द्रियार्थेषु वर्तन्ते 5।9 इति
+प्रयोगान्तरानुसारेणवर्तमानानामित्युक्तम्।
+यत्तच्छब्दयोर्मनोविषयत्वमेवोचितं प्रज्ञाहरणे तस्यैव प्रधानत्वात् मनसो
+बाह्येन्द्रियानुविधाने सर्वेन्द्रियसाधारण्येन वक्तव्ये यदिति निर्धारणस्य
+प्रयोजनाभावात् बाह्येन्द्रियस्य मनोनुविधाने प्रज्ञाहरणाभावाच्च। यद्येकं
+क्षरतीन्द्रियम् इति मनुवचने 2।99 तु मनसोऽनुक्तत्वादिन्द्रियशब्दाभ्यासात्
+एकशब्दबलाच्च निर्धारणार्थतैव। न च तत्तुल्यत्वमस्यापि वाक्यस्य
+निर्बन्धनीयमिति कृत्वावर्तनमनु यन्मन इत्याद्युक्तम्। विधीयते इत्यस्य
+कर्त्रपेक्षां पूरयति पुरुषेणेति। स्वस्यैवायमविनय इति भावः।
+अनभिसंहितदेशप्रापणं हि दृष्टान्तेऽभिप्रेतमिति प्रदर्शयन्
+हरतेर्विनाशनार्थताभ्रमव्युदासाय चाह विषयप्रवणामिति। अम्भसि इत्यस्य
+हरतिनाऽन्वयभ्रान्तिमपाकरोति अम्भसि नीयमानामिति।
+अनिष्टविषयप्रापणनिदर्शनत्वायोक्तं प्रतिकूल इति।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 2.67 That mind, which is allowed by a person to be submissive to, i.e.,
-allowed to go after the senses which go on operating, i.e., experiencing
-sense-objects, such a mind loses its inclination towards the pure self.
-The meaning is that it gets inclined towards sense-objects. Just as a
-contrary wind forcibly carries away a ship moving on the waters, in the
-name manner wisdon also is carried away from such a mind. \[The idea is
-that the pursuit of sense pleasures dulls one's spiritual inclination,
+allowed to go after the senses which go on operating, i.e., experiencing sense-objects, such a mind loses its inclination towards the pure self.
+The meaning is that it gets inclined towards sense-objects. Just as a contrary wind forcibly carries away a ship moving on the waters, in the name manner wisdon also is carried away from such a mind. \[The idea is that the pursuit of sense pleasures dulls one's spiritual inclination,
 and the mind ultimately succumbs to them unresisting.\]
 
 </details>
@@ -368,8 +391,7 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 2.67. That mind, which is directed to follow the wandering (enjoying)
-sense-organs-that mind carries away his knowledge just as wind does a
-ship on waters.
+sense-organs-that mind carries away his knowledge just as wind does a ship on waters.
 
 </details>
 </div>
@@ -377,16 +399,14 @@ ship on waters.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 2.67 For, the mind which follows in the wake of the wandering senses,
-that (mind) carries away his wisdom like the mind (diverting) a boat on
-the waters.
+that (mind) carries away his wisdom like the mind (diverting) a boat on the waters.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/67_indriyANAM_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.67 As a ship at sea is tossed by the tempest, so the reason is carried
-away by the mind when preyed upon by straying senses.
+2.67 As a ship at sea is tossed by the tempest, so the reason is carried away by the mind when preyed upon by straying senses.
 
 </details>
 </div>
@@ -394,8 +414,7 @@ away by the mind when preyed upon by straying senses.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 2.67 For, when the mind follows the senses experiencing their objects,
-his understanding is carried away by them as the wind carries away a
-ship on the waters.
+his understanding is carried away by them as the wind carries away a ship on the waters.
 
 </details>
 </div>
@@ -403,8 +422,7 @@ ship on the waters.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 2.67 For the mind, which follows in the wake of the wandering senses,
-carries away his discrimination, as the wind (carries away) a boat on
-the waters.
+carries away his discrimination, as the wind (carries away) a boat on the waters.
 
 </details>
 </div>
@@ -413,12 +431,7 @@ the waters.
 
 2.67 इन्द्रियाणाम् senses; हि for; चरताम् wandering; यत् which; मनः
 mind; अनुविधीयते follows; तत् that; अस्य his; हरति carries away;
-प्रज्ञाम् discrimination; वायुः the wind; नावम् boat; इव like; अम्भसि in
-the water.Commentary The mind which constantly dwells on the sensual
-objects and moves in company with the senses destroys altogether the
-discrimination of the man. Just as the wind carries away a boat from its
-course; so also the mind carries away the aspirant from his spiritual
-path and turns,him towards the objects of the senses.
+प्रज्ञाम् discrimination; वायुः the wind; नावम् boat; इव like; अम्भसि in the water.Commentary The mind which constantly dwells on the sensual objects and moves in company with the senses destroys altogether the discrimination of the man. Just as the wind carries away a boat from its course; so also the mind carries away the aspirant from his spiritual path and turns,him towards the objects of the senses.
 
 </details>
 </div>

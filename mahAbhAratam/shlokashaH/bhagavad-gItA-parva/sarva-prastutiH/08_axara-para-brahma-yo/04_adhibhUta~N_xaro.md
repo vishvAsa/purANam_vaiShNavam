@@ -104,28 +104,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.4 The perishable existences which have been declared as fit to be
-known by the seekers of wealth, power etc., form the Adhibhuta. They are
-superior material entities that remain in ether or space and other
-elements. They are the evolutes of material elements and are perishable
-in their nature. They are also of the nature of sound, touch etc.,
-supported by their basic subtle elements but different from, and finer
-than, ordinary sound etc., and are of many kinds. Sound, touch, form,
-taste and smell on this kind, which are manifold and rooted in their
-several bases, are to be gained by the seekers after prosperity and
-should be contemplated upon by them. Adhidaivata connotes Purusa. The
-Purusa is superior to divinities like Indra, Prajapati and others, and
-is the experiencer of sound etc., which are different from, and superior
-to, the multitude of enjoyments of Indra, Prajapati etc. The condition
-of being such an enjoyer is to be contemplated upon by the seekers after
-prosperity, as the end to be attained. I alone am connoted by the term
-Adhiyajna (sacrifice). Adhiyajna denotes one who is propitiated in
-sacrifices. Indra and others, to whom sacrifices are made, form My body.
+8.4 The perishable existences which have been declared as fit to be known by the seekers of wealth, power etc., form the Adhibhuta. They are superior material entities that remain in ether or space and other elements. They are the evolutes of material elements and are perishable in their nature. They are also of the nature of sound, touch etc.,
+supported by their basic subtle elements but different from, and finer than, ordinary sound etc., and are of many kinds. Sound, touch, form,
+taste and smell on this kind, which are manifold and rooted in their several bases, are to be gained by the seekers after prosperity and should be contemplated upon by them. Adhidaivata connotes Purusa. The Purusa is superior to divinities like Indra, Prajapati and others, and is the experiencer of sound etc., which are different from, and superior to, the multitude of enjoyments of Indra, Prajapati etc. The condition of being such an enjoyer is to be contemplated upon by the seekers after prosperity, as the end to be attained. I alone am connoted by the term Adhiyajna (sacrifice). Adhiyajna denotes one who is propitiated in sacrifices. Indra and others, to whom sacrifices are made, form My body.
 I dwell as their Self and I alone am the object of worship by sacrifice.
-In this manner the three groups of alified devotees should contemplate
-at the time of the practice of periodical and occasional rituals like
-the great sacrificies. This is also common to all the three groups of
-devotees.
+In this manner the three groups of alified devotees should contemplate at the time of the practice of periodical and occasional rituals like the great sacrificies. This is also common to all the three groups of devotees.
 
 </details>
 </div>
@@ -719,37 +702,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.4. The changing nature is the lord of the material beings; the Person
-alone is the lord of the divinites; I am alone the Lord of sacrifices
-and I, the best of the embodied (Souls), dwell in this body.
+8.4. The changing nature is the lord of the material beings; the Person alone is the lord of the divinites; I am alone the Lord of sacrifices and I, the best of the embodied (Souls), dwell in this body.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.4 The which exists in the physical plane is the mutable entity, and
-what exists in the divine plane is the Person. O best among the embodied
-beings, I Myself am the entity that exists in the sacrifice in this
-body.
+8.4 The which exists in the physical plane is the mutable entity, and what exists in the divine plane is the Person. O best among the embodied beings, I Myself am the entity that exists in the sacrifice in this body.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.4 Matter consists of the forms that perish; Divinity is the Supreme
-Self; and He who inspires the spirit of sacrifice in man, O noblest of
-thy race, is I Myself, Who now stand in human form before thee.
+8.4 Matter consists of the forms that perish; Divinity is the Supreme Self; and He who inspires the spirit of sacrifice in man, O noblest of thy race, is I Myself, Who now stand in human form before thee.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/04_adhibhUta~N_xaro.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.4 Adhibhuta (knowledge of the elements) pertains to My perishable
-Nature and the Purusha or the Soul is the Adhidaiva; I alone am the
-Adhiyajna here in this body, O best among the embodied (men).
+8.4 Adhibhuta (knowledge of the elements) pertains to My perishable Nature and the Purusha or the Soul is the Adhidaiva; I alone am the Adhiyajna here in this body, O best among the embodied (men).
 
 </details>
 </div>
@@ -758,22 +732,9 @@ Adhiyajna here in this body, O best among the embodied (men).
 
 8.4 अधिभूतम् Adhibhuta; क्षरः perishable; भावः nature; पुरुषः the soul;
 च and; अधिदैवतम् Adhidaivata; अधियज्ञः Adhiyajna; अहम् I; एव alone; अत्र
-here; देहे in the body; देहभृताम् of the embodied; वर O best.Commentary
-Adhibhuta the perishable nature the changing universe of the five
-elements with all its objects all the material objects everything that
-has birth the changing world of names and forms.Adhidaiva Purusha
-literally means that by which everything is filled (pur to fill). It may
-also mean that which lies in this body. It is Hiranyagarbha or the
-universal soul or the sustainer from whom all living beings derive their
-sensepower. It is the witnessing consciousness.Adhiyajna Consciousness
-the presiding deity of sacrifice. The Lord of all works and sacrifice
-is  
+here; देहे in the body; देहभृताम् of the embodied; वर O best.Commentary Adhibhuta the perishable nature the changing universe of the five elements with all its objects all the material objects everything that has birth the changing world of names and forms.Adhidaiva Purusha literally means that by which everything is filled (pur to fill). It may also mean that which lies in this body. It is Hiranyagarbha or the universal soul or the sustainer from whom all living beings derive their sensepower. It is the witnessing consciousness.Adhiyajna Consciousness the presiding deity of sacrifice. The Lord of all works and sacrifice is  
   
-Vishnu. Lord Vishnu identifies Himself with all sacrificial acts. Yajna
-is verily Vishnu; says the Taittiriya Samhita of the Veda. Lord Krishna
-says; I am the presiding deity in all acts of sacrifice in the body. All
-sacrifices are done by the body and so it may be said that they rest in
-the body.
+Vishnu. Lord Vishnu identifies Himself with all sacrificial acts. Yajna is verily Vishnu; says the Taittiriya Samhita of the Veda. Lord Krishna says; I am the presiding deity in all acts of sacrifice in the body. All sacrifices are done by the body and so it may be said that they rest in the body.
 
 </details>
 </div>

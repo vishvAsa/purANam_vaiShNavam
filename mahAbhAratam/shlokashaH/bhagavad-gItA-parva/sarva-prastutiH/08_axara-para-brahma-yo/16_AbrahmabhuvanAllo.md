@@ -67,17 +67,9 @@ _________________
 
 8.16 All the worlds, from the realm of Brahma included in the Brahmanda
 (cosmic sphere), are spheres in which experiences conferring Aisvarya
-(prosperity and power) can be obtained. But they are destructible and
-those who attain them are subject to return. Therefore destruction,
-i.e., return is unavoidable for the aspirants for Aisvarya, as the
-regions where it is attained perish. On the contrary there is no rirth
-to those who attain Me, the Omniscient, who has true resolves, whose
-sport is creation, sustentation and dissolution of the entire universe,
-who is supremely compassionate and who is always of the same form. For
-these reasons there is no destruction in the case of those who attain
-Me. He now elucidates the time-period settled by the Supreme Person's
-will in regard to the evolution and dissolution of the worlds upto the
-cosmic sphere of Brahma and of those who are within them.
+(prosperity and power) can be obtained. But they are destructible and those who attain them are subject to return. Therefore destruction,
+i.e., return is unavoidable for the aspirants for Aisvarya, as the regions where it is attained perish. On the contrary there is no rirth to those who attain Me, the Omniscient, who has true resolves, whose sport is creation, sustentation and dissolution of the entire universe,
+who is supremely compassionate and who is always of the same form. For these reasons there is no destruction in the case of those who attain Me. He now elucidates the time-period settled by the Supreme Person's will in regard to the evolution and dissolution of the worlds upto the cosmic sphere of Brahma and of those who are within them.
 
 </details>
 </div>
@@ -396,35 +388,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.16. Till the Brahman \[is attained\], people do return from \[each and
-every\] world, O Arjuna ! But there is no rirth for one who has attained
-Me, O son of Kunti !
+8.16. Till the Brahman \[is attained\], people do return from \[each and every\] world, O Arjuna ! But there is no rirth for one who has attained Me, O son of Kunti !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.16 O Arjuna, all the worlds together with the world of Brahma are
-subject to return. But, O son of Kunti, there is no rirth after reaching
-Me.
+8.16 O Arjuna, all the worlds together with the world of Brahma are subject to return. But, O son of Kunti, there is no rirth after reaching Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.16 The worlds, with the whole realm of creation, come and go; but, O
-Arjuna, whoso comes to Me, for him there is nor rebirth.
+8.16 The worlds, with the whole realm of creation, come and go; but, O Arjuna, whoso comes to Me, for him there is nor rebirth.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/16_AbrahmabhuvanAllo.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.16 (All) the worlds including the world of Brahma are subject to
-return again, O Arjuna; but he who reaches Me, O son of Kunti, has no
-rirth.
+8.16 (All) the worlds including the world of Brahma are subject to return again, O Arjuna; but he who reaches Me, O son of Kunti, has no rirth.
 
 </details>
 </div>
@@ -432,16 +417,9 @@ rirth.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 8.16 आब्रह्मभुवनात् up to the world of Brahma; लोकाः worlds;
-पुनरावर्तिनः subject to return; अर्जुन O Arjuna; माम् Me; उपेत्य having
-attained; तु but; कौन्तेय O Kaunteya; पुनर्जन्म rirth; न not; विद्यते
-is.Commentary Those devotees who practise Daharopasana (a kind of
-meditation on the mystic space in the heart) and other devotees who
-reach Brahmaloka through the path of the gods (Devayana) and attain
-gradual liberation (KramaMukti) will not return again to this world. But
-those who reach Brahmaloka through the practice of the Panchagni Vidya
-(a ritual) will enjoy life in Brahmaloka and come back to this world.All
-the worlds are subjected to return because they are limited or
-conditioned by time.
+पुनरावर्तिनः subject to return; अर्जुन O Arjuna; माम् Me; उपेत्य having attained; तु but; कौन्तेय O Kaunteya; पुनर्जन्म rirth; न not; विद्यते
+is.Commentary Those devotees who practise Daharopasana (a kind of meditation on the mystic space in the heart) and other devotees who reach Brahmaloka through the path of the gods (Devayana) and attain gradual liberation (KramaMukti) will not return again to this world. But those who reach Brahmaloka through the practice of the Panchagni Vidya
+(a ritual) will enjoy life in Brahmaloka and come back to this world.All the worlds are subjected to return because they are limited or conditioned by time.
 
 </details>
 </div>

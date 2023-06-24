@@ -53,14 +53,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.27 The 'passionate' doer is one who aspires for fame; 'who seeks the
-fruits of his acts' is one who longs for the fruits of his acts; the
+18.27 The 'passionate' doer is one who aspires for fame; 'who seeks the fruits of his acts' is one who longs for the fruits of his acts; the
 'greedy' is he who does not spend the wealth reired for the act; the
-'harmful' is one, who while acting, hurts others; the 'impure', is one
-who lacks the purity reired for the act; who is moved by 'delight and
-grief' in war etc., is one who is elated or depressed by success or
-failure in victory (or the opposite) - a doer who fulfils these
-conditions is declared to be Rajasika.
+'harmful' is one, who while acting, hurts others; the 'impure', is one who lacks the purity reired for the act; who is moved by 'delight and grief' in war etc., is one who is elated or depressed by success or failure in victory (or the opposite) - a doer who fulfils these conditions is declared to be Rajasika.
 
 </details>
 </div>
@@ -334,19 +329,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.27. The agent, who is a man of passion; who craves for the fruit of
-his action, and is avaricious; who is injurious by nature, is impure and
-is overpowered by joy and griefthat agent is proclaimed to be of the
-Rajas (Strand).
+18.27. The agent, who is a man of passion; who craves for the fruit of his action, and is avaricious; who is injurious by nature, is impure and is overpowered by joy and griefthat agent is proclaimed to be of the Rajas (Strand).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.27 The agent who has attachment, who is desirous of the results of
-actions, covetous, cruel by nature, unclean and subject to joy and
-sorrow is declared to be possessed of rajas.
+18.27 The agent who has attachment, who is desirous of the results of actions, covetous, cruel by nature, unclean and subject to joy and sorrow is declared to be possessed of rajas.
 
 </details>
 </div>
@@ -354,17 +344,14 @@ sorrow is declared to be possessed of rajas.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 18.27 In him who is impulsive, greedy, looking for reward, violent,
-impure, torn between joy and sorrow,it may be assumed that in him
-Passion is predominant.
+impure, torn between joy and sorrow,it may be assumed that in him Passion is predominant.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/27_rAgI.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.27 That doer is called Rajasika who is passionate, who seeks the
-fruits of his acts, who is greedy, harmful, impure and who is moved by
-delight and grief.
+18.27 That doer is called Rajasika who is passionate, who seeks the fruits of his acts, who is greedy, harmful, impure and who is moved by delight and grief.
 
 </details>
 </div>
@@ -372,8 +359,7 @@ delight and grief.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 18.27 Passionate, desiring to obtain the reward of actions, greedy,
-cruel, impure, moved by joy and sorrow, such an agent is said to be
-Rajasic (passionate).
+cruel, impure, moved by joy and sorrow, such an agent is said to be Rajasic (passionate).
 
 </details>
 </div>
@@ -381,23 +367,10 @@ Rajasic (passionate).
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.27 रागी passionate; कर्मफलप्रेप्सुः desirous of the fruit of action;
-लुब्धः greedy; हिंसात्मकः cruel; अशुचिः impure; हर्षशोकान्वितः moved by
-joy and sorrow; कर्ता agent; राजसः Rajasic (passionate); परिकीर्तितः is
-called.Commentary A passionate agent is the abode of sins and of greed
-of the whole world. Wherever he imagines that he may gain worldly fruit
-he will strive wholeheartedly to obtain it. Whatsoever he gains he keeps
-strictly to himself and his family. If he attains the fruits of his
-actions he rejoices. If he fails in his attempt he is overcome by
-grief.Lubdhah Greedy Thirsting for others property not sharing ones own
-wealth with deserving persons.Himsatmakah Doing injury to others.Asuchih
-Impure Having no external and internal purity. (Internal purity is
-freedom from lust;,anger; greed and pride the heart is filled with
-compassion; complacency; forgiveness; dispassion; love;
+लुब्धः greedy; हिंसात्मकः cruel; अशुचिः impure; हर्षशोकान्वितः moved by joy and sorrow; कर्ता agent; राजसः Rajasic (passionate); परिकीर्तितः is called.Commentary A passionate agent is the abode of sins and of greed of the whole world. Wherever he imagines that he may gain worldly fruit he will strive wholeheartedly to obtain it. Whatsoever he gains he keeps strictly to himself and his family. If he attains the fruits of his actions he rejoices. If he fails in his attempt he is overcome by grief.Lubdhah Greedy Thirsting for others property not sharing ones own wealth with deserving persons.Himsatmakah Doing injury to others.Asuchih Impure Having no external and internal purity. (Internal purity is freedom from lust;,anger; greed and pride the heart is filled with compassion; complacency; forgiveness; dispassion; love;
 etc.)Harshasokanvitah Joy on the attainment of what is desirable;
 pleasant or agreeable sorrow on the attainment of what is not desirable;
-pleasant or agreeable; and on having to part with what is desirable. He
-will be elated with joy when he attains success he will be overcoming by
-grief when he fails in his undertaking.
+pleasant or agreeable; and on having to part with what is desirable. He will be elated with joy when he attains success he will be overcoming by grief when he fails in his undertaking.
 
 </details>
 </div>

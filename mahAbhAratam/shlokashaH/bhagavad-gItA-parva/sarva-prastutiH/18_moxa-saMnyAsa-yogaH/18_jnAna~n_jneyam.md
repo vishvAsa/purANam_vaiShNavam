@@ -72,15 +72,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.18 (i) 'Knowledge' means this knowledge about the acts which ought to
-be performed. (ii) The 'object of knowledge' is the act which ought to
-be performed. (iii) 'The knower' is the person who knows that act. The
-meaning is that the injunction to do acts, like Jyotistoma etc., is a
-combination of knowledge, object of knowledge, and the knower. Among
-these, action itself, which is the object of knowledge, is briefly
-described as threefold - these being the instrument, action and the
-agent. The instrument forms the materials etc., which are the means. The
-action consists of the sacrifice etc. The agent is the performer.
+18.18 (i) 'Knowledge' means this knowledge about the acts which ought to be performed. (ii) The 'object of knowledge' is the act which ought to be performed. (iii) 'The knower' is the person who knows that act. The meaning is that the injunction to do acts, like Jyotistoma etc., is a combination of knowledge, object of knowledge, and the knower. Among these, action itself, which is the object of knowledge, is briefly described as threefold - these being the instrument, action and the agent. The instrument forms the materials etc., which are the means. The action consists of the sacrifice etc. The agent is the performer.
 
 </details>
 </div>
@@ -779,46 +771,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.18. The instrument of knowledge, the object-of-knowledge, and the
-knowing subject-the prompting-in-action, consisting of these three-fold
-elements is \[itself\] the proper grasping of action with three-fold
-elements viz., the instrument, the object and the agent.
+18.18. The instrument of knowledge, the object-of-knowledge, and the knowing subject-the prompting-in-action, consisting of these three-fold elements is \[itself\] the proper grasping of action with three-fold elements viz., the instrument, the object and the agent.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.18 Knowledge, the object the knowledge and the knower-this is the
-threefold inducement to action. The comprehension of actions comes under
-three heads-the instruments, the object and the subject.
+18.18 Knowledge, the object the knowledge and the knower-this is the threefold inducement to action. The comprehension of actions comes under three heads-the instruments, the object and the subject.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.18 Knowledge, the knower and the object of knowledge, these are the
-three incentives to action; and the act, the actor and the instrument
-are the threefold constituents.
+18.18 Knowledge, the knower and the object of knowledge, these are the three incentives to action; and the act, the actor and the instrument are the threefold constituents.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.18 Knowledge, object of knowledge and the knower are the threefold
-incitements to action. The instrument, the act and the agent are the
-threefold constituents of action.
+18.18 Knowledge, object of knowledge and the knower are the threefold incitements to action. The instrument, the act and the agent are the threefold constituents of action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/18_jnAna~n_jneyam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.18 Knowledge, the knowable and the knower form the threefold impulse
-to action; the organ, the action and the agent form the threefold basis
-of action.
+18.18 Knowledge, the knowable and the knower form the threefold impulse to action; the organ, the action and the agent form the threefold basis of action.
 
 </details>
 </div>
@@ -828,37 +809,12 @@ of action.
 18.18 ज्ञानम् knowledge; ज्ञेयम् the knowable; परिज्ञाता the knower;
 त्रिविधा threefold; कर्मचोदना impulse to action; करणम् the organ; कर्म
 the action; कर्ता the agent; इति thus; त्रिविधः threefold; कर्मसंग्रहः
-the basis of action.Commentary Knowledge; the knower and the thing to be
-known; are together the seed of this world. This is known as the Triputi
-or the traid. It is the conjunction of these three that impels a man to
-threefold action; viz.; mental; verbal and physical. This triad is the
-driving force of all the activities of man. He rejoices at the sight of
-palatable sweetmeats and delicious fruits but is terrified at the sight
-of a cobra or tiger. The sight of pleasant or unpleasant objects affects
-him and he attempts either to possess the agreeable objects or to avoid
-the disagreeable ones.The Antahkarana (the inner instrument) consists of
-the mind; intellect; subconscious mind and egoism. The ear; the skin;
-the tongue; the nose and the eye are the five organs of knowledge. The
-individual soul; propelled by these five senses; is led into activity.
+the basis of action.Commentary Knowledge; the knower and the thing to be known; are together the seed of this world. This is known as the Triputi or the traid. It is the conjunction of these three that impels a man to threefold action; viz.; mental; verbal and physical. This triad is the driving force of all the activities of man. He rejoices at the sight of palatable sweetmeats and delicious fruits but is terrified at the sight of a cobra or tiger. The sight of pleasant or unpleasant objects affects him and he attempts either to possess the agreeable objects or to avoid the disagreeable ones.The Antahkarana (the inner instrument) consists of the mind; intellect; subconscious mind and egoism. The ear; the skin;
+the tongue; the nose and the eye are the five organs of knowledge. The individual soul; propelled by these five senses; is led into activity.
 He does actions with the help of the five organs of action; viz.;
-speech; hands; feet; genitals and anus.Jnanam Any knowledge knowledge in
-general knowledge of worldly objects; etc.Jneyam The object to be known
-objects in general.Parijnata The knower; the experiencer or the enjoyer;
-putting on the nature of the limiting adjuncts; a creature of
-ignorance.This triad forms the threefold impulse to all action; to
-action in general. The performance of an action in order to get a thing
-or to avoid an object is possible only when there is the conjunction of
-the three; viz.; knowledge; knowable and knower.Karanam The organ That
-by which something is done. The actions done by the five causes of
-action; viz.; the body; etc.; which are grouped under the three classes
-according to their respective seats; viz.; mind; speech and body; are
-all due to the interplay of the organ; etc.Karta The agent or the doer
-he who sets the organs in motion or action and puts on the nature of the
-limiting adjunct or vehicle in which he acts. All actions inhere in
-these three (the organ; the doer and the action itself) and they are;
-therefore; said to form the basis or the threefold constituents of
-action.As action; the various factors of action and the fruits are all
-made up of the Gunas; the Lord describes them in the following verses.
+speech; hands; feet; genitals and anus.Jnanam Any knowledge knowledge in general knowledge of worldly objects; etc.Jneyam The object to be known objects in general.Parijnata The knower; the experiencer or the enjoyer;
+putting on the nature of the limiting adjuncts; a creature of ignorance.This triad forms the threefold impulse to all action; to action in general. The performance of an action in order to get a thing or to avoid an object is possible only when there is the conjunction of the three; viz.; knowledge; knowable and knower.Karanam The organ That by which something is done. The actions done by the five causes of action; viz.; the body; etc.; which are grouped under the three classes according to their respective seats; viz.; mind; speech and body; are all due to the interplay of the organ; etc.Karta The agent or the doer he who sets the organs in motion or action and puts on the nature of the limiting adjunct or vehicle in which he acts. All actions inhere in these three (the organ; the doer and the action itself) and they are;
+therefore; said to form the basis or the threefold constituents of action.As action; the various factors of action and the fruits are all made up of the Gunas; the Lord describes them in the following verses.
 
 </details>
 </div>

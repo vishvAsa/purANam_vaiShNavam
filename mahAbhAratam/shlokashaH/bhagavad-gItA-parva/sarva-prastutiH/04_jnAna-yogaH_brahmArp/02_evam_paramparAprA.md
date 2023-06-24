@@ -100,10 +100,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/02_evam_paramparAprA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.1 - 4.2 The Lord said This Karma Yoga declared to you should not be
-considered as having been taught now merely, for creating encouragement
-in you for war. I Myself had taught this Yoga to Vivasvan at the
-commencement of Manu's age as a means for all beings to attain release,
+4.1 - 4.2 The Lord said This Karma Yoga declared to you should not be considered as having been taught now merely, for creating encouragement in you for war. I Myself had taught this Yoga to Vivasvan at the commencement of Manu's age as a means for all beings to attain release,
 which is man's supreme end. Vivasvan taught it to Manu, and Manu to
 Iksvaku. The royal sages of old knew this Yoga transmitted by tradition.
 Because of long lapse of time and because of the dullness of the
@@ -390,35 +387,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/02_evam_paramparAprA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.2. Thus the regal sages knew this, received in regualr succession. By
-the passage of long time, this Yoga has been however lost, O scorcher of
-enemies !
+4.2. Thus the regal sages knew this, received in regualr succession. By the passage of long time, this Yoga has been however lost, O scorcher of enemies !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/02_evam_paramparAprA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.2 The king-sages knew this (yoga) which was received thus in regular
-succession. That Yoga, O destroyer of foes, in now lost owing to a long
-lapse of time.
+4.2 The king-sages knew this (yoga) which was received thus in regular succession. That Yoga, O destroyer of foes, in now lost owing to a long lapse of time.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/02_evam_paramparAprA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.2 The Divine Kings knew it, for it was their tradition. Then, after a
-long time, at last it was forgotten.
+4.2 The Divine Kings knew it, for it was their tradition. Then, after a long time, at last it was forgotten.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/02_evam_paramparAprA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.2 Thus handed down in succession, the royal sages knew this (Karma
-Yoga). But with long lapse of time, O Arjuna, that Yoga was lost to the
-world.
+4.2 Thus handed down in succession, the royal sages knew this (Karma Yoga). But with long lapse of time, O Arjuna, that Yoga was lost to the world.
 
 </details>
 </div>
@@ -435,12 +425,8 @@ This Yoga, by long lapse of time, has been lost here, O Parantapa
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 4.2 एवम् thus; परम्पराप्राप्तम् handed down in regular succession; इमम्
-this; राजर्षयः the royal sages; विदुः knew; सः this; कालेन by lapse of
-time; इह here; महता by long; योगः Yoga; नष्टः destroyed; परन्तप O
-Parantapa.Commentary The royal sages Men who were kings and at the same
-time sages also; learnt this Yoga.Arjuna could burn or harass his foes;
-like the sun; by the heat of his valour and power. Hence the name
-Parantapa.
+this; राजर्षयः the royal sages; विदुः knew; सः this; कालेन by lapse of time; इह here; महता by long; योगः Yoga; नष्टः destroyed; परन्तप O Parantapa.Commentary The royal sages Men who were kings and at the same time sages also; learnt this Yoga.Arjuna could burn or harass his foes;
+like the sun; by the heat of his valour and power. Hence the name Parantapa.
 
 </details>
 </div>

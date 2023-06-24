@@ -53,11 +53,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.19 Deluded persons are those who lack correct understanding. That
-austerity which is practised from deluded notion, viz., from the
-obstinate determination by deluded persons, by self-torture regardless
-of one's own capacity or which is performed for causing sufferings to
-others - that is said to be Tamasika.
+17.19 Deluded persons are those who lack correct understanding. That austerity which is practised from deluded notion, viz., from the obstinate determination by deluded persons, by self-torture regardless of one's own capacity or which is performed for causing sufferings to others - that is said to be Tamasika.
 
 </details>
 </div>
@@ -283,43 +279,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.19. What austerity is practised with foolish obstinacy \[and\] with
-self-torture only in order to destroy other person-that is declared to
-be of the Tamas.
+17.19. What austerity is practised with foolish obstinacy \[and\] with self-torture only in order to destroy other person-that is declared to be of the Tamas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.19 That austerity which is undertaken with a foolish intent, by
-causing pain to oneself, or for the destruction of others-that is said
-to be born of tamas.
+17.19 That austerity which is undertaken with a foolish intent, by causing pain to oneself, or for the destruction of others-that is said to be born of tamas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.19 Austerity done under delusion, and accompanied with sorcery or
-torture to oneself or another, may be assumed to spring from Ignorance.
+17.19 Austerity done under delusion, and accompanied with sorcery or torture to oneself or another, may be assumed to spring from Ignorance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.19 That austerity which is practised from deluded notions by means of
-self-torture or in order to injure another is said to be Tamasika.
+17.19 That austerity which is practised from deluded notions by means of self-torture or in order to injure another is said to be Tamasika.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/19_mUDhagrAheNAtmano.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-17.19 That austerity which is practised out of a foolish notion, with
-self-torture, or for the purpose of destroying another, is declared to
-be Tamasic.
+17.19 That austerity which is practised out of a foolish notion, with self-torture, or for the purpose of destroying another, is declared to be Tamasic.
 
 </details>
 </div>
@@ -327,16 +315,8 @@ be Tamasic.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 17.19 मूढग्राहेण out of a foolish notion; आत्मनः of the self; यत् which;
-पीडया with torture; क्रियते is practised; तपः austerity; परस्य of
-another; उत्सादनार्थम् for the purpose of destroying; वा or; तत् that;
-तामसम् Tamasic; उदाहृतम् is declared.Commentary Some burn sulphur in a
-pot and place it on their head. Some thrust hooks of iron into their
-flesh. Some hang themselves with their head downwards over fire and
-swallow smoke. Some stand in cold water immersed up to the neck. Some
-torture the body by lighting fires on the four sides (with the sun as
-the fifth fire -- this is known as the Panchagni Tapas). Some sit in the
-centre of a circle of fire. Such austerities are Tamasic. These will not
-help one to attain knowledge of the Self.
+पीडया with torture; क्रियते is practised; तपः austerity; परस्य of another; उत्सादनार्थम् for the purpose of destroying; वा or; तत् that;
+तामसम् Tamasic; उदाहृतम् is declared.Commentary Some burn sulphur in a pot and place it on their head. Some thrust hooks of iron into their flesh. Some hang themselves with their head downwards over fire and swallow smoke. Some stand in cold water immersed up to the neck. Some torture the body by lighting fires on the four sides (with the sun as the fifth fire -- this is known as the Panchagni Tapas). Some sit in the centre of a circle of fire. Such austerities are Tamasic. These will not help one to attain knowledge of the Self.
 
 </details>
 </div>

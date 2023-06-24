@@ -54,8 +54,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 13.11 'Constant devotion' means devotion with a single end, namely,
-Myself the Lord of all; 'remaining in places free from people' means
-having no love for crowds of people.
+Myself the Lord of all; 'remaining in places free from people' means having no love for crowds of people.
 
 </details>
 </div>
@@ -446,9 +445,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.11. And an unfailing devotion towards Me, with the Yoga of
-non-difference; resorting to solitary place; distaste for a crowd of
-people;
+13.11. And an unfailing devotion towards Me, with the Yoga of non-difference; resorting to solitary place; distaste for a crowd of people;
 
 </details>
 </div>
@@ -456,32 +453,28 @@ people;
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 13.11 And unwavering devotion to Me with single-minded concentration;
-inclination to repair into a clean place; lack of delight in a crowd of
-people;
+inclination to repair into a clean place; lack of delight in a crowd of people;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.11 Unswerving devotion to Me, by concentration on Me and Me alone, a
-love for solitude, indifference to social life;
+13.11 Unswerving devotion to Me, by concentration on Me and Me alone, a love for solitude, indifference to social life;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.11 Constant devotion directed to Me alone, resort to solitary places
-and dislike for crowds:
+13.11 Constant devotion directed to Me alone, resort to solitary places and dislike for crowds:
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/11_mayi_chAnanyayoge.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.11 Unswerving devotion unto Me by the Yoga of non-separation, resort
-to solitary places, distaste for the society of men.
+13.11 Unswerving devotion unto Me by the Yoga of non-separation, resort to solitary places, distaste for the society of men.
 
 </details>
 </div>
@@ -489,27 +482,9 @@ to solitary places, distaste for the society of men.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 13.11 मयि in Me; च and; अनन्ययोगेन by the Yoga of nonseparation; भक्तिः
-devotion; अव्यभिचारिणी unswerving; विविक्तदेशसेवित्वम् resort to
-solitary places; अरतिः distaste; जनसंसदि in the society of
-men.Commentary The man of wisdom is firmly convinced that there is
-nothing higher than Me and that I am the sole refuge. He has unflinching
-devotion to Me through Yoga without any thought,for other objects. His
-mind has merged or entered into Me. Just as a river; when it merges
-itself in the ocean becomes completely one with it; even so he; being
-united with Me; worships only Me. This is Ananya Yoga or Aprithak
-Samadhi (Yoga of nonseparation or the superconscious state in which the
-devotee feels that he is nondistinct from God). Such devotion is a means
-of attaining knowledge. Such a devotee will never give up his devotion
-and worship even when he is under great trials and
-adversities.Viviktadesasevitvam He lives on the banks of sacred rivers;
-in caves; in the mountains; on the shores of seas or lakes and in
-beautiful solitary gardens where there is no fear of serpents; tigers or
-thieves. In solitary places the mind is ite calm. There are no
-disturbing elements that can distract ones attention. You can have
-uninterrupted meditation on the Self and can enter into Samadhi
-ickly.Society of men Distaste for the society of worldlyminded people;
-not of the wise; pure and holy. Satsanga or association with the wise is
-a means to the attainment of the knowledge of the Self.
+devotion; अव्यभिचारिणी unswerving; विविक्तदेशसेवित्वम् resort to solitary places; अरतिः distaste; जनसंसदि in the society of men.Commentary The man of wisdom is firmly convinced that there is nothing higher than Me and that I am the sole refuge. He has unflinching devotion to Me through Yoga without any thought,for other objects. His mind has merged or entered into Me. Just as a river; when it merges itself in the ocean becomes completely one with it; even so he; being united with Me; worships only Me. This is Ananya Yoga or Aprithak Samadhi (Yoga of nonseparation or the superconscious state in which the devotee feels that he is nondistinct from God). Such devotion is a means of attaining knowledge. Such a devotee will never give up his devotion and worship even when he is under great trials and adversities.Viviktadesasevitvam He lives on the banks of sacred rivers;
+in caves; in the mountains; on the shores of seas or lakes and in beautiful solitary gardens where there is no fear of serpents; tigers or thieves. In solitary places the mind is ite calm. There are no disturbing elements that can distract ones attention. You can have uninterrupted meditation on the Self and can enter into Samadhi ickly.Society of men Distaste for the society of worldlyminded people;
+not of the wise; pure and holy. Satsanga or association with the wise is a means to the attainment of the knowledge of the Self.
 
 </details>
 </div>

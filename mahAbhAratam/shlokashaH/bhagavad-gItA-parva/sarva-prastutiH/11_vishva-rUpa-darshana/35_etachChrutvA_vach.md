@@ -56,10 +56,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.35 Sanjaya said Having heard the speech of Krsna, ocean of affection
-for the seekers of refuge in Him, Arjuna did obeisance to Him. Trembling
-with fear, he bowed again and again before Him. With folded palms, and
-trembling, Arjuna spoke in a choked voice with emotion.
+11.35 Sanjaya said Having heard the speech of Krsna, ocean of affection for the seekers of refuge in Him, Arjuna did obeisance to Him. Trembling with fear, he bowed again and again before Him. With folded palms, and trembling, Arjuna spoke in a choked voice with emotion.
 
 </details>
 </div>
@@ -315,7 +312,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।11.35।। संजय ने कहा -- केशव भगवान् के इस वचन को सुनकर मुकुटधारी अर्जुन
-हाथ जोड़े हुए, कांपता हुआ नमस्कार करके पुनः भयभीत हुआ श्रीकृष्ण के प्रति
+हाथ जोड़े हुए, कांपता हुआ नमस्कार करके पुन: भयभीत हुआ श्रीकृष्ण के प्रति
 गद्गद् वाणी से बोला।।
 
 </details>
@@ -369,9 +366,7 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 11.35. Sanjaya said On hearing this speach of Kesava, the crowned-prince
-(Arjuna) had his palms folded; and trembling he protstrated himself to
-Krsna; and stammering, and being very much afraid and bowing down, he
-spoke to Him again.
+(Arjuna) had his palms folded; and trembling he protstrated himself to Krsna; and stammering, and being very much afraid and bowing down, he spoke to Him again.
 
 </details>
 </div>
@@ -379,27 +374,21 @@ spoke to Him again.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 11.35 Sanjaya said Hearing this utterance of Kesava, Kiriti (Arjuna),
-with joined palms and trembling, protrating himself, said again to Krsna
-with a faltering voice, bowing down overcome by fits of fear:
+with joined palms and trembling, protrating himself, said again to Krsna with a faltering voice, bowing down overcome by fits of fear:
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.35 Sanjaya continued: "Having heard these words from the Lord Shri
-Krishna, the Prince Arjuna, with folded hands trembling, prostrated
-himself and with choking voice, bowing down again and again, and
-overwhelmed with awe, once more addressed the Lord.
+11.35 Sanjaya continued: "Having heard these words from the Lord Shri Krishna, the Prince Arjuna, with folded hands trembling, prostrated himself and with choking voice, bowing down again and again, and overwhelmed with awe, once more addressed the Lord.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/35_etachChrutvA_vach.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.35 Sanjaya said Having heard this speech of Krsna, Arjuna did Him
-obeisance; and trembling with awe, he bowed down again, and with folded
-palms, and trembling, he spoke to Krsna in a choked voice.
+11.35 Sanjaya said Having heard this speech of Krsna, Arjuna did Him obeisance; and trembling with awe, he bowed down again, and with folded palms, and trembling, he spoke to Krsna in a choked voice.
 
 </details>
 </div>
@@ -407,8 +396,7 @@ palms, and trembling, he spoke to Krsna in a choked voice.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 11.35 Sanjaya said Having heard that speech of Lord Krishna, Arjuna,
-with joined palms, trembling, prostrating himself, again addressed
-Krishna, in a choked voice, bowing down, overwhelmed with fear.
+with joined palms, trembling, prostrating himself, again addressed Krishna, in a choked voice, bowing down, overwhelmed with fear.
 
 </details>
 </div>
@@ -418,19 +406,7 @@ Krishna, in a choked voice, bowing down, overwhelmed with fear.
 11.35 एतत् that; श्रुत्वा having heard; वचनम् speech; केशवस्य of Kesava;
 कृताञ्जलिः with joined palms; वेपमानः trembling; किरीटि Arjuna;
 नमस्कृत्वा prostrating (himself); भूयः again; एव even; आह addressed;
-कृष्णम् to Krishna; सगद्गदम् in a choked voice; भीतभीतः overwhelmed with
-fear; प्रणम्य having prostrated.Commentary When anyone is in a state of
-extreme terror or joy he sheds tears on account of pain or exhilaration
-of spirits. Then his throat is choked and he stammers or speaks
-indistinctly or in a dull; choked voice. Arjuna was extremely frightened
-when he saw the Cosmic Form and so he spoke in a stammering tone.There
-is great significane in Sanjayas words. He thought that Dhritarashtra
-might come to terms or make peace with the Pandavas when he knew that
-his sons would certainly be killed for want of proper support when Drona
-and Karna would be killed by Arjuna. He hoped that conseently there
-would be peace and happiness to both the parties. But Dhritarashtra was
-obstinate he did not listen to this suggestion on account of the force
-of destiny.
+कृष्णम् to Krishna; सगद्गदम् in a choked voice; भीतभीतः overwhelmed with fear; प्रणम्य having prostrated.Commentary When anyone is in a state of extreme terror or joy he sheds tears on account of pain or exhilaration of spirits. Then his throat is choked and he stammers or speaks indistinctly or in a dull; choked voice. Arjuna was extremely frightened when he saw the Cosmic Form and so he spoke in a stammering tone.There is great significane in Sanjayas words. He thought that Dhritarashtra might come to terms or make peace with the Pandavas when he knew that his sons would certainly be killed for want of proper support when Drona and Karna would be killed by Arjuna. He hoped that conseently there would be peace and happiness to both the parties. But Dhritarashtra was obstinate he did not listen to this suggestion on account of the force of destiny.
 
 </details>
 </div>

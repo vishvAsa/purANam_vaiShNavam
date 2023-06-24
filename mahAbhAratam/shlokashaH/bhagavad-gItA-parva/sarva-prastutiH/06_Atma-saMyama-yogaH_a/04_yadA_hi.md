@@ -61,16 +61,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.4 When this Yogin, because of his natural disposition to the
-experience of the self, loses attachment, i.e., gets detached from
-sense-objects, i.e., things other than the self, and actions associated
-with them - then he has abandoned all desires and is said to have
-climbed the heights of Yoga. Therefore, for one wishing to climb to
-Yoga, but is still disposed to the experience of the sense-objects,
+6.4 When this Yogin, because of his natural disposition to the experience of the self, loses attachment, i.e., gets detached from sense-objects, i.e., things other than the self, and actions associated with them - then he has abandoned all desires and is said to have climbed the heights of Yoga. Therefore, for one wishing to climb to Yoga, but is still disposed to the experience of the sense-objects,
 Karma Yoga consisting of the practice of detachment to these objects,
-becomes the cause for success in Yoga. Therefore one who wishes to climb
-to Yoga must perform Karma Yoga consisting in the practice of detachment
-from sense-objects. Sri Krsna further elucidates the same:
+becomes the cause for success in Yoga. Therefore one who wishes to climb to Yoga must perform Karma Yoga consisting in the practice of detachment from sense-objects. Sri Krsna further elucidates the same:
 
 </details>
 </div>
@@ -492,39 +485,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.4. When, a person indulges himself neither in what is desired by the
-senses nor in the actions \[for it\], then \[alone\], being a man
-renouncing all intentions, he is said to have mounted on the Yoga.
+6.4. When, a person indulges himself neither in what is desired by the senses nor in the actions \[for it\], then \[alone\], being a man renouncing all intentions, he is said to have mounted on the Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.4 Verily, \[Verily: This word emphasizes the fact that, since
-attachment to sense objects like sound etc. and to actions is an
-obstacle in the path of Yoga, therefore the removal of that obstruction
-is the means to its attainment.\] when a man who has given up thought
-about everything does not get attached to sense-objects or acitons, he
-is then said to be established in Yoga.
+6.4 Verily, \[Verily: This word emphasizes the fact that, since attachment to sense objects like sound etc. and to actions is an obstacle in the path of Yoga, therefore the removal of that obstruction is the means to its attainment.\] when a man who has given up thought about everything does not get attached to sense-objects or acitons, he is then said to be established in Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.4 When a man renounces even the thought of initiating action, when he
-is not interested in sense objects or any results which may flow from
-his acts, then in truth he understands spirituality.
+6.4 When a man renounces even the thought of initiating action, when he is not interested in sense objects or any results which may flow from his acts, then in truth he understands spirituality.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/04_yadA_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.4 For, when one loses attachment for the things of the senses and to
-actions, then has the abandoned all desires and is said to have climbed
-the heights of Yoga.
+6.4 For, when one loses attachment for the things of the senses and to actions, then has the abandoned all desires and is said to have climbed the heights of Yoga.
 
 </details>
 </div>
@@ -540,30 +522,14 @@ having renounced all thoughts, then he is said to have attained to Yoga.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.4 यदा when; हि verily; न not; इन्द्रयार्थेषु in senseobjects; न not;
-कर्मसु in actions; अनुषज्जते is attached; सर्वसङ्कल्पसंन्यासी renouncer
-of all thoughts; योगारूढः one who has attained to Yoga; तदा then; उच्यते
+कर्मसु in actions; अनुषज्जते is attached; सर्वसङ्कल्पसंन्यासी renouncer of all thoughts; योगारूढः one who has attained to Yoga; तदा then; उच्यते
 is said.Commentary Yogarudha he who is enthroned or established in Yoga.
-When a Yogi; by keeping the mind ite steady; by withdrawing it from the
-objects of the senses; has attachment neither for sensual objects such
-as sound; nor for the actions (Karmas; Cf. notes to V.13); knowing that
-they are of no use to him when he has renounced all thoughts which
-generate various sorts of desires for the objects of this world and of
-the next; then he is said to have become a Yogarudha.Do not think of
-senseobjects. The desires will die by themselves. How can you free
-yourself from thinking of the objects Think of God or the Self. Then you
-can avoid thinking of the objects. Then you can free yourself from
-thinking of the objects of the senses.Renunciation of thoughts implies
-that all desires and all actions should be renounced; because all
-desires are born of thoughts. You think first and then act (strive)
-afterwards to possess the objects of your desire for enjoyment.Whatever
-a man desires; that he wills  
+When a Yogi; by keeping the mind ite steady; by withdrawing it from the objects of the senses; has attachment neither for sensual objects such as sound; nor for the actions (Karmas; Cf. notes to V.13); knowing that they are of no use to him when he has renounced all thoughts which generate various sorts of desires for the objects of this world and of the next; then he is said to have become a Yogarudha.Do not think of senseobjects. The desires will die by themselves. How can you free yourself from thinking of the objects Think of God or the Self. Then you can avoid thinking of the objects. Then you can free yourself from thinking of the objects of the senses.Renunciation of thoughts implies that all desires and all actions should be renounced; because all desires are born of thoughts. You think first and then act (strive)
+afterwards to possess the objects of your desire for enjoyment.Whatever a man desires; that he wills  
   
 And whatever he wills; that he does.  
   
--- Brihadaranyaka Upanishad; 4.4.5Renunciation of all actions
-necessarily follows from the renunciation of all desires.O desire I know
-where thy root lies. Thou art born of Sankalpa (thought). I will not
-think of thee and thou shalt cease to exist along with the root. --
+-- Brihadaranyaka Upanishad; 4.4.5Renunciation of all actions necessarily follows from the renunciation of all desires.O desire I know where thy root lies. Thou art born of Sankalpa (thought). I will not think of thee and thou shalt cease to exist along with the root. --
 Mahabharata; Santi Parva; 177.25Indeed desire is born of thought
 (Sankalpa); and of thought; Yajnas are born. -- Manu Smriti; II.2
 

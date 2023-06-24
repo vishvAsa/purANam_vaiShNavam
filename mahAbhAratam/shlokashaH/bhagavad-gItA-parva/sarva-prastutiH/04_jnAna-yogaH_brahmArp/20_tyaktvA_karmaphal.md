@@ -59,13 +59,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.20 Whoever performs actions, renouncing attachment to their fruits and
-is satisfied with the eternal, i.e., satisfied with his own self, and
-dependent on none, i.e., devoid of dependence on transient Prakrti (body
-and external nature) - such a perosn, even though fully engaged in
-actions, does not act at all. He is engaged in the practice of knowledge
-under the form of action. Again, Karma, having the form of knowledge, is
-examined:
+4.20 Whoever performs actions, renouncing attachment to their fruits and is satisfied with the eternal, i.e., satisfied with his own self, and dependent on none, i.e., devoid of dependence on transient Prakrti (body and external nature) - such a perosn, even though fully engaged in actions, does not act at all. He is engaged in the practice of knowledge under the form of action. Again, Karma, having the form of knowledge, is examined:
 
 </details>
 </div>
@@ -430,65 +424,44 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.20. By abandoning attachment for fruits of actions, remaining ever
-content and depending on nothing, that person, even though he is engaged
-in action, does not at all perform anything.
+4.20. By abandoning attachment for fruits of actions, remaining ever content and depending on nothing, that person, even though he is engaged in action, does not at all perform anything.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.20 Having given up attachment to the results of action, he who is
-ever-contented, dependent on nothing, he really does not do anything
-even though engaged in action.
+4.20 Having given up attachment to the results of action, he who is ever-contented, dependent on nothing, he really does not do anything even though engaged in action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.20 Having surrendered all claim to the results of his actions, always
-contented and independent, in reality he does nothing, even though he is
-apparently acting.
+4.20 Having surrendered all claim to the results of his actions, always contented and independent, in reality he does nothing, even though he is apparently acting.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.20 Having renounced attachment to the fruits of his actions, ever
-contented with the eternal self, and dependent on none, one does not act
-at all, even though engaged in action.
+4.20 Having renounced attachment to the fruits of his actions, ever contented with the eternal self, and dependent on none, one does not act at all, even though engaged in action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.20 Having abandoned attachment to the fruits of the action, ever
-content, depending on nothing, he does not do anything though engaged in
-activity.
+4.20 Having abandoned attachment to the fruits of the action, ever content, depending on nothing, he does not do anything though engaged in activity.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/04_jnAna-yogaH_brahmArp/20_tyaktvA_karmaphal.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-4.20 त्यक्त्वा having abandoned; कर्मफलासङ्गम् attachment to the fruits
-of action; नित्यतृप्तः even content; निराश्रयः depending on nothing;
+4.20 त्यक्त्वा having abandoned; कर्मफलासङ्गम् attachment to the fruits of action; नित्यतृप्तः even content; निराश्रयः depending on nothing;
 कर्मणि in action; अभिप्रवृत्तः engaged; अपि even; न not; एव verily;
-किञ्चित् anything; करोति does; सः he.Commentary The same idea of
-inaction in action is repeated here to produce a deep impression on the
-minds of the aspirants. He who works for the wellbeing of the world and
-he who performs actions without egoism and attachment for the fruits; to
-set an example to the masses; really does nothing at all though he is
-ever engaged in activity; as he possesses the knowledge of the Self
-which is beyond all activity and as he has realised his identity with
-It.As Brahman the Absolute is selfcontained; all the desires are
-gratified if one realises the Self. He is ever satisfied and does not
-depend on anything; just as a man who has the favour of the king does
-not depend on the minister or the government official for anything.
+किञ्चित् anything; करोति does; सः he.Commentary The same idea of inaction in action is repeated here to produce a deep impression on the minds of the aspirants. He who works for the wellbeing of the world and he who performs actions without egoism and attachment for the fruits; to set an example to the masses; really does nothing at all though he is ever engaged in activity; as he possesses the knowledge of the Self which is beyond all activity and as he has realised his identity with It.As Brahman the Absolute is selfcontained; all the desires are gratified if one realises the Self. He is ever satisfied and does not depend on anything; just as a man who has the favour of the king does not depend on the minister or the government official for anything.
 (Cf.IV.41)
 
 </details>

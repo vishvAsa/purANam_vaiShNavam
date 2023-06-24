@@ -73,15 +73,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.24 He who 'understands', namely, knows truly with discrimination, the
-self to be thus, and also the Prakrti as having the aforesaid nature
-along with Sattva and other Gunas, whose nature will be later examined,
-is never born again, i.e., is never rorn conjointly with Prakrti again
-in 'whatever state he may be placed,' i.e., in whatever painful
-condition he may be placed in the bodies of divinities, men etc. The
-meaning is that at the time when the body ceases to exist, the self will
-attain the purified state characterised by boundless knowledge devoid of
-evil.
+13.24 He who 'understands', namely, knows truly with discrimination, the self to be thus, and also the Prakrti as having the aforesaid nature along with Sattva and other Gunas, whose nature will be later examined,
+is never born again, i.e., is never rorn conjointly with Prakrti again in 'whatever state he may be placed,' i.e., in whatever painful condition he may be placed in the bodies of divinities, men etc. The meaning is that at the time when the body ceases to exist, the self will attain the purified state characterised by boundless knowledge devoid of evil.
 
 </details>
 </div>
@@ -514,7 +507,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।13.24।। इस प्रकार पुरुष और गुणों के सहित प्रकृति को जो मनुष्य जानता
-है, वह सब प्रकार से रहता हुआ (व्यवहार करता हुआ) भी पुनः नहीं जन्मता है।।
+है, वह सब प्रकार से रहता हुआ (व्यवहार करता हुआ) भी पुन: नहीं जन्मता है।।
 
 </details>
 </div>
@@ -562,17 +555,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.24. He who knows, in this manner, the Soul and the Material Cause
-together with Strands-he is not born again, even though he behaves in
-different ways.
+13.24. He who knows, in this manner, the Soul and the Material Cause together with Strands-he is not born again, even though he behaves in different ways.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.24 He who knows thus the Person and Nature along with the alities
-will not be born again, in whatever way he may live.
+13.24 He who knows thus the Person and Nature along with the alities will not be born again, in whatever way he may live.
 
 </details>
 </div>
@@ -587,8 +577,7 @@ whatever be his condition in life, he comes not again to earth.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/24_ya_evam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.24 He who understands the self and the Prakrti thus with the Gunas is
-not born again, in whatever state he may be placed.
+13.24 He who understands the self and the Prakrti thus with the Gunas is not born again, in whatever state he may be placed.
 
 </details>
 </div>
@@ -605,55 +594,14 @@ in whatever condition he may be, he is not born again.
 
 13.24 यः who; एवम् thus; वेत्ति knows; पुरुषम् Purusha; प्रकृतिम्
 Prakriti; च and; गुणैः alities; सह with; सर्वथा in all ways; वर्तमानः
-living; अपि also; न not; सः he; भूयः again; अभिजायते is born.Commentary
-One who knows the Soul and Nature with its alities; whatever his conduct
-may be; frees himself from the cycle of births and deaths. Such is the
-advantage he gains from the discriminative knowledge of Spirit and
-Matter. He knows that he is eternal and changeless and that all changes
-are due to the modifications of Nature on account of its alities. The
-self through ignorance identifies itself with the body and suffers
-rirth.In whatsoever condition he may be; whether he is engaged in
-prescribed or forbidden acts (like Indra who killed the Purohita
-Visvarupa and many Sannyasins); he is not born again; because
-the,actions (which are the seeds of rirth); of one who knows the Spirit
-and Matter; who has gained the knowledge of the Self; are burnt by the
-fire of that knowledge. Just as the seeds that are fried in fire do not
-sprout again; so also the actions burnt in the fire of knowledge cannot
-produce new bodies or further births. In his case they are Karmabhasa
-(mere semblance of Karma). They are not effective causes and cannot
-produce further births. A burnt cloth cannot serve the purpose of the
-cloth.Those actions which are done with egoism and desire (expectation
-of fruits) will produce fruits or results. In the case of a wise man;
-the seeds of evil; viz.; ignorance; egoism; attachment; etc.; are burnt
-by the fire of knowledge. Therefore he cannot have rirths.The Karmas
-(Prarabdha) which have already started their operation by producing this
-present birth do not perish; notwithstanding the dawn of the knowledge
-of the Self. When an arrow is once sent out from a bow at a mark; it
-pierces the mark and continues to act till it falls to the ground when
-the full force with which it was dischared is exhausted. Even so the
-Prarabdha Karma which has given rise to the body continues to act till
-the inherent force is fully exhausted; although the sage has attained
-Selfrealisation through his body. But he is not in the least affected by
-this; because he has no identification with the body; and as he has
-identified himelf with Brahman or the Absolute. If a carbuncle or cancer
-arises in the body on account of Prarabdha Karma; he will not suffer a
-bit as he has risen above bodyconsciousness; and as he stands as a
-witness of his body. But a bystander or a spectator wrongly imagines
-that the liberated sage is also suffering like an ordinary worldly man.
-This is a serious and sad mistake. From the viewpoint of the liberated
-sage he has neither body nor Prarabdha Karma.An arrow that is placed
-ready on the bow but not discharged with force can be withdrawn.
-Similarly; the Karmas which have not begun to generate their fruits or
-effects can be neutralised or destroyed by the knowledge of the Self.
+living; अपि also; न not; सः he; भूयः again; अभिजायते is born.Commentary One who knows the Soul and Nature with its alities; whatever his conduct may be; frees himself from the cycle of births and deaths. Such is the advantage he gains from the discriminative knowledge of Spirit and Matter. He knows that he is eternal and changeless and that all changes are due to the modifications of Nature on account of its alities. The self through ignorance identifies itself with the body and suffers rirth.In whatsoever condition he may be; whether he is engaged in prescribed or forbidden acts (like Indra who killed the Purohita Visvarupa and many Sannyasins); he is not born again; because the,actions (which are the seeds of rirth); of one who knows the Spirit and Matter; who has gained the knowledge of the Self; are burnt by the fire of that knowledge. Just as the seeds that are fried in fire do not sprout again; so also the actions burnt in the fire of knowledge cannot produce new bodies or further births. In his case they are Karmabhasa
+(mere semblance of Karma). They are not effective causes and cannot produce further births. A burnt cloth cannot serve the purpose of the cloth.Those actions which are done with egoism and desire (expectation of fruits) will produce fruits or results. In the case of a wise man;
+the seeds of evil; viz.; ignorance; egoism; attachment; etc.; are burnt by the fire of knowledge. Therefore he cannot have rirths.The Karmas
+(Prarabdha) which have already started their operation by producing this present birth do not perish; notwithstanding the dawn of the knowledge of the Self. When an arrow is once sent out from a bow at a mark; it pierces the mark and continues to act till it falls to the ground when the full force with which it was dischared is exhausted. Even so the Prarabdha Karma which has given rise to the body continues to act till the inherent force is fully exhausted; although the sage has attained Selfrealisation through his body. But he is not in the least affected by this; because he has no identification with the body; and as he has identified himelf with Brahman or the Absolute. If a carbuncle or cancer arises in the body on account of Prarabdha Karma; he will not suffer a bit as he has risen above bodyconsciousness; and as he stands as a witness of his body. But a bystander or a spectator wrongly imagines that the liberated sage is also suffering like an ordinary worldly man.
+This is a serious and sad mistake. From the viewpoint of the liberated sage he has neither body nor Prarabdha Karma.An arrow that is placed ready on the bow but not discharged with force can be withdrawn.
+Similarly; the Karmas which have not begun to generate their fruits or effects can be neutralised or destroyed by the knowledge of the Self.
 Therefore it is proper to say that the liberated sage is not born again.
-He will not take another body when the body through which he attained
-knowledge perishes. As ignorance; the cause of this body; is destroyed
-by the knowledge of the Self; birth; the effect of ignorance; is also
-destroyed. As one takes birth through virtuous and vicious actions; a
-sage will not take birth as his virtuous and visiouc actions (the whole
-Sanchita or accumulated Karmas of his previous births) are destroyed by
-the knowledge of the Self. The Karmas done by him after he has attained
-Selfrealisation cannot touch him at all as he has neither egoism
+He will not take another body when the body through which he attained knowledge perishes. As ignorance; the cause of this body; is destroyed by the knowledge of the Self; birth; the effect of ignorance; is also destroyed. As one takes birth through virtuous and vicious actions; a sage will not take birth as his virtuous and visiouc actions (the whole Sanchita or accumulated Karmas of his previous births) are destroyed by the knowledge of the Self. The Karmas done by him after he has attained Selfrealisation cannot touch him at all as he has neither egoism
 (agency) nor desires. (Cf.XIII.32)
 
 </details>

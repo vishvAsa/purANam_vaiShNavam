@@ -63,14 +63,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.34 As the 'one sun' illumines 'all this world' by his radiance, so
-the 'knower of the body' illumines the entire Ksetra, i.e., the body, by
-Its own knowledge, within and without and from head to toe, by
-conceiving 'This my body is of this nature.' This self of the said
-nature is totally different from the body, because It is the knower of
-the body. The body is the object of Its knowledge and is therefore
-different from It, even as the illuminating sun is totally different
-from the illumined world.
+13.34 As the 'one sun' illumines 'all this world' by his radiance, so the 'knower of the body' illumines the entire Ksetra, i.e., the body, by Its own knowledge, within and without and from head to toe, by conceiving 'This my body is of this nature.' This self of the said nature is totally different from the body, because It is the knower of the body. The body is the object of Its knowledge and is therefore different from It, even as the illuminating sun is totally different from the illumined world.
 
 </details>
 </div>
@@ -346,42 +339,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.34. Just as a single sun illumines this entire world, so also the
-Lord-of-the-Field illumines the entire Field, O descendant of Bharata !
+13.34. Just as a single sun illumines this entire world, so also the Lord-of-the-Field illumines the entire Field, O descendant of Bharata !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.34 As the single sun illumines this whole world, similarly, O
-descendant of the Bharata dynasty, the Knower of the field illumines the
-whole field.
+13.34 As the single sun illumines this whole world, similarly, O descendant of the Bharata dynasty, the Knower of the field illumines the whole field.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.34 As the one Sun illuminates the whole earth, so the Lord illumines
-the whole universe.
+13.34 As the one Sun illuminates the whole earth, so the Lord illumines the whole universe.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.34 As the one sun illumines this whole world, so does the Knower of
-the Field (Ksetrin, the self), O Arjuna, illumine the whole Field (the
-body).
+13.34 As the one sun illumines this whole world, so does the Knower of the Field (Ksetrin, the self), O Arjuna, illumine the whole Field (the body).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/34_yathA_prakAshayat.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.34 Just as the one sun illumines the whole world, so also the Lord of
-the field (Supreme Self) illumines the whole field, O Arjuna.
+13.34 Just as the one sun illumines the whole world, so also the Lord of the field (Supreme Self) illumines the whole field, O Arjuna.
 
 </details>
 </div>
@@ -389,15 +375,9 @@ the field (Supreme Self) illumines the whole field, O Arjuna.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 13.34 यथा as; प्रकाशयति illumines; एकः one; कृत्स्नम् the whole; लोकम्
-world; इमम् this; रविः sun; क्षेत्रम् the field; क्षेत्री the Lord of
-the field (Paramatma); तथा so; कृत्स्नम् the whole; प्रकाशयति illumines;
-भारत O descendant of Bharata (Arjuna).Commentary The Supreme Self is
-one. It illumines the whole matter from the Unmanifested down to the
-blade of grass or a lump of clay; from the great elements down to
-firmness or fortitude. (Cf. verses 5 and 6.) Just as the sun is one;
-just as the sun illumines the whole world; just as the sun is not
-tainted; so also the Self is One in all bodies; It illumines all the
-bodies and It is not contaminated.
+world; इमम् this; रविः sun; क्षेत्रम् the field; क्षेत्री the Lord of the field (Paramatma); तथा so; कृत्स्नम् the whole; प्रकाशयति illumines;
+भारत O descendant of Bharata (Arjuna).Commentary The Supreme Self is one. It illumines the whole matter from the Unmanifested down to the blade of grass or a lump of clay; from the great elements down to firmness or fortitude. (Cf. verses 5 and 6.) Just as the sun is one;
+just as the sun illumines the whole world; just as the sun is not tainted; so also the Self is One in all bodies; It illumines all the bodies and It is not contaminated.
 
 </details>
 </div>

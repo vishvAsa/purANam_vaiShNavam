@@ -60,16 +60,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.46 He from whom arise all activities as origination of all beings and
-by whom all this is pervaded, by worshipping Him, i.e., Myself, who
-abide in Indra and other divinites as the Inner Ruler, man attains
-perfection, consisting in the attainment of Myself by My grace. It has
-been told before that everything originates from Me and all this is
-pervaded by Me, in texts like the following: 'I am the origin and
-dissolution of the whole universe' (7.6), 'There is nothing higher than
-Myself, O Arjuna' (7.7), 'This entire universe is pervaded by Me in an
-unmanifest form' (9.4), 'Under My supervision, the Prakrti gives birth
-to all mobile and immobile entities' (9.10) and 'I am the origin of all;
+18.46 He from whom arise all activities as origination of all beings and by whom all this is pervaded, by worshipping Him, i.e., Myself, who abide in Indra and other divinites as the Inner Ruler, man attains perfection, consisting in the attainment of Myself by My grace. It has been told before that everything originates from Me and all this is pervaded by Me, in texts like the following: 'I am the origin and dissolution of the whole universe' (7.6), 'There is nothing higher than Myself, O Arjuna' (7.7), 'This entire universe is pervaded by Me in an unmanifest form' (9.4), 'Under My supervision, the Prakrti gives birth to all mobile and immobile entities' (9.10) and 'I am the origin of all;
 from Me proceed everything' (10.8).
 
 </details>
@@ -456,43 +447,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.46. That, whence the activities of the beings arise; by which this
-universe is pervaded-worshipping That by one's own prescribed action, a
-man attains success.
+18.46. That, whence the activities of the beings arise; by which this universe is pervaded-worshipping That by one's own prescribed action, a man attains success.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.46 A human being achieves success by adoring through his own duties
-Him from whom is the origin of creatures, and by whom is all this
-pervaded.
+18.46 A human being achieves success by adoring through his own duties Him from whom is the origin of creatures, and by whom is all this pervaded.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.46 Man reaches perfection by dedicating his actions to God, Who is
-the source of all being, and fills everything.
+18.46 Man reaches perfection by dedicating his actions to God, Who is the source of all being, and fills everything.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.46 He from whome arise the activity of all beings and by whom all
-this is pervaded - by worshipping Him with his own duty man reaches
-perfection.
+18.46 He from whome arise the activity of all beings and by whom all this is pervaded - by worshipping Him with his own duty man reaches perfection.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/46_yataH_pravRttirbh.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.46 He from Whom all the beings have evolved and by Whom all this is
-pervaded worshipping Him with his own duty, man attains perfection.
+18.46 He from Whom all the beings have evolved and by Whom all this is pervaded worshipping Him with his own duty, man attains perfection.
 
 </details>
 </div>
@@ -500,19 +483,9 @@ pervaded worshipping Him with his own duty, man attains perfection.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.46 यतः from whom; प्रवृत्तिः (is) the evolution; भूतानाम् of beings;
-येन by whom; सर्वम् all; इदम् this; ततम् is pervaded; स्वकर्मणा with his
-own duty; तम् Him; अभ्यर्च्य worshipping; सिद्धिम् perfection; विन्दति
-attains; मानवः man.Commentary The performance by a man of his own duty
-is simply carrying into effect the intention of the Supreme from Whom
-the whole of the creation emanates. When a man worships Him; the Supreme
-Being; with the flowers of his action; then He is immensely pleased and
-being thus gratified by such worship He confers on Him; as a boon;
-dispassion and discrimination.Pravritti Evolution or activity it
-proceeds from the Lord; the Antaryamin; the Inner Ruler.Bhutanam Beings
-living creatures.Svakarmana With his own duty each according to his
-caste as described above.Man attains perfection by worshipping the Lord
-by performing his own duty; i.e.; he becomes alified for the dawn of
-Selfknowledge (for Jnana Yoga).
+येन by whom; सर्वम् all; इदम् this; ततम् is pervaded; स्वकर्मणा with his own duty; तम् Him; अभ्यर्च्य worshipping; सिद्धिम् perfection; विन्दति
+attains; मानवः man.Commentary The performance by a man of his own duty is simply carrying into effect the intention of the Supreme from Whom the whole of the creation emanates. When a man worships Him; the Supreme Being; with the flowers of his action; then He is immensely pleased and being thus gratified by such worship He confers on Him; as a boon;
+dispassion and discrimination.Pravritti Evolution or activity it proceeds from the Lord; the Antaryamin; the Inner Ruler.Bhutanam Beings living creatures.Svakarmana With his own duty each according to his caste as described above.Man attains perfection by worshipping the Lord by performing his own duty; i.e.; he becomes alified for the dawn of Selfknowledge (for Jnana Yoga).
 
 </details>
 </div>

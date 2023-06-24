@@ -96,30 +96,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.11 The Lord said You are grieving for those who do not deserve to be
-grieved for. You also speak words of wisdom about the nature of the body
-and the self as follows: 'The ancestors fall degraded, deprived of the
-ritual oblations of food and water' (I. 42). There is no reason for such
-grief for those who possess the knowledge of the nature of the body and
-the self. Those who know the exact truth will not grieve for those
-bodies from which life has departed and for those from whome the
-principle of life has not departed. They do not grieve for bodies or
-souls. Hence, in you this contradiction is visible - your grief at the
-thought 'I shall slay them;' and at the same time your talk about
-righteousness and unrighteousness, as if it were the result of knowledge
-of the self as distinct from the body. Therefore you do not know the
-nature of the body nor of the self which is distinct from the body and
-is eternal. Nor do you know of duties like war etc., which (as duty)
-constitute the means for the attainment of the self, nor of the fact
-that this war (which forms a duty in the present context), if fought
-without any selfish desire for results, is a means for the attainment of
-the knowledge of the true nature of the self. The implied meaning is
-this: This self, verily, is not dependent on the body for Its existence,
-nor is It subjected to destruction on the death of the body, as there is
-no birth or death for It. Therefore there is no cause for grief. But the
-body is insentient by nature, is subject to change, and its birth and
-death are natural; thus it (body) too is not to be grieved for. First
-listen about the nature of the self.
+2.11 The Lord said You are grieving for those who do not deserve to be grieved for. You also speak words of wisdom about the nature of the body and the self as follows: 'The ancestors fall degraded, deprived of the ritual oblations of food and water' (I. 42). There is no reason for such grief for those who possess the knowledge of the nature of the body and the self. Those who know the exact truth will not grieve for those bodies from which life has departed and for those from whome the principle of life has not departed. They do not grieve for bodies or souls. Hence, in you this contradiction is visible - your grief at the thought 'I shall slay them;' and at the same time your talk about righteousness and unrighteousness, as if it were the result of knowledge of the self as distinct from the body. Therefore you do not know the nature of the body nor of the self which is distinct from the body and is eternal. Nor do you know of duties like war etc., which (as duty)
+constitute the means for the attainment of the self, nor of the fact that this war (which forms a duty in the present context), if fought without any selfish desire for results, is a means for the attainment of the knowledge of the true nature of the self. The implied meaning is this: This self, verily, is not dependent on the body for Its existence,
+nor is It subjected to destruction on the death of the body, as there is no birth or death for It. Therefore there is no cause for grief. But the body is insentient by nature, is subject to change, and its birth and death are natural; thus it (body) too is not to be grieved for. First listen about the nature of the self.
 
 </details>
 </div>
@@ -974,28 +953,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.11. While lamenting for those who cannot be lamented on and those who
-do not reire to be lamented on, you do not talk like a wise man ! The
-learned do not lament for those of departed life and those of
-non-departed life.
+2.11. While lamenting for those who cannot be lamented on and those who do not reire to be lamented on, you do not talk like a wise man ! The learned do not lament for those of departed life and those of non-departed life.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.11 The Blessed Lord said You grieve for whose who are not to be
-grieved for; and you speak words of wisdom! The learned do not grieve
-for the departed and those who have not departed.
+2.11 The Blessed Lord said You grieve for whose who are not to be grieved for; and you speak words of wisdom! The learned do not grieve for the departed and those who have not departed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.11 Lord Shri Krishna said: Why grieve for those for whom no grief is
-due, and yet profess wisdom; The wise grieve neither for the dead nor
-the living.
+2.11 Lord Shri Krishna said: Why grieve for those for whom no grief is due, and yet profess wisdom; The wise grieve neither for the dead nor the living.
 
 </details>
 </div>
@@ -1003,46 +975,25 @@ the living.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 2.11 The Lord said You grieve for those who should not be grieved for;
-yet you speak words of wisdom. The wise grieve neither for the dead nor
-for the living.
+yet you speak words of wisdom. The wise grieve neither for the dead nor for the living.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.11 The Blessed Lord said Thou hast grieved for those that should not
-be grieved for, yet thou speakest words of wisdom. The wise grieve
-neither for the living nor for the dead.
+2.11 The Blessed Lord said Thou hast grieved for those that should not be grieved for, yet thou speakest words of wisdom. The wise grieve neither for the living nor for the dead.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/11_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.11 अशोच्यान् those who should not be grieved for; अन्वशोचः hast
-grieved; त्वम् thou; प्रज्ञावादान् words of wisdom; च and; भाषसे
+2.11 अशोच्यान् those who should not be grieved for; अन्वशोचः hast grieved; त्वम् thou; प्रज्ञावादान् words of wisdom; च and; भाषसे
 speakest; गतासून् the dead; अगतासून् the living; च and; न अनुशोचन्ति
-grieve not; पण्डिताः the wise.Commentary -- The philosophy of the Gita
-begins from this verse.Bhishma and Drona deserve no grief because they
-are eternal in their real nature and they are virtuous men who possess
-very good conduct. Though you speak words of wisdom; you are unwise
-because you grieve for those who are really eternal and who deserve no
-grief. They who are endowed with the knowledge of the Self are wise men.
-They will not grieve for the living or for the dead because they know
-well that the Self is immortal and that It is unborn. They also know
-that there is no such a thing as death; that it is a separation of the
-astral body from the physical; that death is nothing more than a
-disintegration of matter and that the five elements of which the body is
-composed return to their source. Arjuna had forgotten the eternal nature
-of the Soul and the changing nature of the body. Because of his
-ignorance; he began to act as if the temporary relations with kinsmen;
-teachers; etc.; were permanent. He forgot that his relations with this
-world in his present life were the results of past actions. These; when
-exhausted; end all relationship and new ones ones crop up when one takes
-on another body.The result of past actions is known as karm and that
-portion of the karma which gave rise to the present incarnation is known
-as prarabdha karma.
+grieve not; पण्डिताः the wise.Commentary -- The philosophy of the Gita begins from this verse.Bhishma and Drona deserve no grief because they are eternal in their real nature and they are virtuous men who possess very good conduct. Though you speak words of wisdom; you are unwise because you grieve for those who are really eternal and who deserve no grief. They who are endowed with the knowledge of the Self are wise men.
+They will not grieve for the living or for the dead because they know well that the Self is immortal and that It is unborn. They also know that there is no such a thing as death; that it is a separation of the astral body from the physical; that death is nothing more than a disintegration of matter and that the five elements of which the body is composed return to their source. Arjuna had forgotten the eternal nature of the Soul and the changing nature of the body. Because of his ignorance; he began to act as if the temporary relations with kinsmen;
+teachers; etc.; were permanent. He forgot that his relations with this world in his present life were the results of past actions. These; when exhausted; end all relationship and new ones ones crop up when one takes on another body.The result of past actions is known as karm and that portion of the karma which gave rise to the present incarnation is known as prarabdha karma.
 
 </details>
 </div>

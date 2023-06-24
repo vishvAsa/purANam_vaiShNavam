@@ -37,22 +37,54 @@ _बुद्धि-योगः_।
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.49।। अभ्यासरूपतात्पर्यलिङ्गविवक्षामभिप्रयन्
+पौनरुक्त्यशङ्काद्वारेणोत्तरश्लोकमवतारयति किमर्थमिति। इदं
+साम्यानुसन्धानरूपं चित्तसमाधानम्। तद्ध्यनन्तरं प्रशस्यते।
+कर्ममात्रनिन्दाभ्रमं परिजिहीषन्
+
+बुद्धियोगशब्दस्य प्रकरणविशेषितं वाच्यांशं तावदाह योऽयमिति। अजहल्लक्षणया
+बुद्धिप्राचुर्यहेतुकया लक्षितमाह तद्युक्तात्कर्मण इति। इतरदित्यनेन
+प्रकरणविहितकर्मव्यतिरिक्तविषयाऽत्र कर्मनिन्देति सूचितम्।
+दूरावरशब्दयोरत्र विवक्षितं निष्कर्षति महदिति। तृतीया प्रकारे। कृपणाः
+फलहेतवः इत्यनन्तरवाक्येन बुद्धियुक्त इत्यादिना च वक्ष्यमाणं
+श्रुतिस्मृत्यन्तरादितश्च सिद्धं वैरूप्यप्रकारमाह उक्तेति।
+नीतिमन्त्रौषधकेवलयागादिव्यावर्तनाय निखिलशब्दः।
+तस्योपाधिविशेषावच्छिन्नत्वात् कात्स्न्र्येऽपि
+प्रयोगादवच्छेदकोपाध्यन्तरव्यावर्तनायोक्तं सांसारिकेति।
+केवलकर्मसाध्यस्वर्गादिव्यावर्तनाय परमशब्दः। अपरिमितशब्देन
+स्वभावसङ्ख्याकालादिप्रयुक्तसम्भावितसमस्तपरिच्छेदनिरासः।
+
+
+हिशब्दस्य हेत्वर्थतामभिप्रयन्नाह अत इति।
+प्रकरणादिविरुद्धसाङ्ख्याद्युक्तकर्मस्वरूपपरित्यागपूर्वकज्ञानमात्रोपादानभ्रमव्युदासायोक्तंकर्मणि
+क्रियमाण इति। उक्तायामिति। तात्पर्यातिशयव्यक्त्यर्थं पूर्वोक्तमभ्यस्यत
+इति भावः। उपाये गृहरक्षित्रोः शब्दः शरणमित्ययम् अ.बु.सं.36।34
+इत्यादिनाऽवगतं शरणशब्दस्य रक्षकाद्यर्थान्तरं व्यावर्तयन् विवक्षितं
+वक्तुं वाच्यं तावदाह वासस्थानमिति। नन्विदमसङ्गतं
+बुद्धेर्वासस्थानभूतगृहाद्याश्रयत्वभावादित्यत्राह तस्यामेवेति।
+कर्मयोगनिष्ठा ह्यत्रोपदिश्यत इति भावःकदर्ये कृपणक्षुद्रकिम्पचानमितम्पचाः
+अमरः3।1।49 इति कृपणशब्दस्य पुरुषविशेषे रूढत्वात् बुद्धियुक्त इत्यादिना
+फलाभिसन्धिरहितपुरुषाणां प्रशस्यमानत्वात्मां कर्मफलहेतुः 2।47 इति पुरुषे
+फलहेतुशब्दस्य प्रकृतत्वात्कृपणाः फलहेतवः इत्यत्रापि
+फलाभिसन्धिपूर्वककर्मकारिणः पुरुषा एव निन्द्यन्ते न तु
+फलमात्रमित्यभिप्रायेणाह फलसङ्गादिनेति। पुरुषाणामपि हि स्वकर्मद्वारा
+फलहेतुत्वमस्त्येवजन्मबन्धविनिर्मुक्ताः 2।51 इत्यादेः प्रतिरूपतया
+परमनिश्श्रेयसवैधुर्यस्यात्र कृपणशब्देनाभिधातुमुचितत्वात्संसारिण
+इत्युक्तम्। अकृपणप्रदर्शनपरानन्तरश्लोकपरामर्शाच्च अयमेवार्थ उचित इति
+भावः।  
+  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.49 All other kinds of action are far inferior to those done with
-evenness of mind, which consists in the renunciation of the main result
-and with eanimity towards success or failure in respect of the secondary
-results. Between the two kinds of actions, the one with eanimity and the
-other with attachment, the former associated with eanimity removes all
-the sufferings of Samsara and leads to release which is the highest
-object of human existence. The latter type of actions, which is pursued
-with an eye on results, leads one to Samsara whose character is endless
-suffering. Thus when an act is being done, take refuge in Buddhi
-(evenness of mind). Refuge means abode. Live in that Buddhi, is the
-meaning. 'Miserable are they who act with a motive for results': it
-means, 'Those who act with attachment to the results, etc., are
-miserable, as they will continue in Samsara.'
+2.49 All other kinds of action are far inferior to those done with evenness of mind, which consists in the renunciation of the main result and with eanimity towards success or failure in respect of the secondary results. Between the two kinds of actions, the one with eanimity and the other with attachment, the former associated with eanimity removes all the sufferings of Samsara and leads to release which is the highest object of human existence. The latter type of actions, which is pursued with an eye on results, leads one to Samsara whose character is endless suffering. Thus when an act is being done, take refuge in Buddhi
+(evenness of mind). Refuge means abode. Live in that Buddhi, is the meaning. 'Miserable are they who act with a motive for results': it means, 'Those who act with attachment to the results, etc., are miserable, as they will continue in Samsara.'
 
 </details>
 </div>
@@ -387,10 +419,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.49. O Dhananjaya ! The inferior action stays away at a distance due to
-Yoga of (one's contact with) determining faculty; in the determining
-faculty you must seek refuge; wretched are those who constitute the
-causes for the fruits of action.
+2.49. O Dhananjaya ! The inferior action stays away at a distance due to Yoga of (one's contact with) determining faculty; in the determining faculty you must seek refuge; wretched are those who constitute the causes for the fruits of action.
 
 </details>
 </div>
@@ -405,26 +434,21 @@ Take resort to wisdom. Those who thirst for rewards are pitiable.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.49 Physical action is far inferior to an intellect concentrated on the
-Divine. Have recourse then to Pure Intelligence. It is only the
-petty-minded who work for reward.
+2.49 Physical action is far inferior to an intellect concentrated on the Divine. Have recourse then to Pure Intelligence. It is only the petty-minded who work for reward.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.49 Action with attachment is far inferior, O Arjuna, to action done
-with evenness of mind. Seek refuge in evenness of mind. Miserable are
-they who act with a motive for results.
+2.49 Action with attachment is far inferior, O Arjuna, to action done with evenness of mind. Seek refuge in evenness of mind. Miserable are they who act with a motive for results.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/49_dUreNa_hyavaram.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.49 Far lower than the Yoga of wisdon is action, O Arjuna. Seek thou
-refuge in wisdom; wretched are they whose motive is the fruit.
+2.49 Far lower than the Yoga of wisdon is action, O Arjuna. Seek thou refuge in wisdom; wretched are they whose motive is the fruit.
 
 </details>
 </div>
@@ -432,15 +456,8 @@ refuge in wisdom; wretched are they whose motive is the fruit.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.49 दूरेण by far; हि indeed; अवरम् inferior; कर्म action or work;
-बुद्धियोगात् than the Yoga of wisdom; धनञ्जय O Dhananjaya; बुद्धौ in
-wisdom; शरणम् refuge; अन्विच्छ seek; कृपणाः wretched; फलहेतवः seekers
-after fruits.Commentary Action done with evenness of mind is Yoga of
-wisdom. The yogi who is established in the Yoga of widdom is not
-affected by success or failure. He does not seek fruits of his actions.
-He has poised reason. His reason is rooted in the Self. Action performed
-by one who expects fruits for his actions; is far inferior to the Yoga
-of wisdom wherein the seeker does not seek fruits because the former
-leads to bondage and is the cause of birth and death. (Cf.VIII.18).
+बुद्धियोगात् than the Yoga of wisdom; धनञ्जय O Dhananjaya; बुद्धौ in wisdom; शरणम् refuge; अन्विच्छ seek; कृपणाः wretched; फलहेतवः seekers after fruits.Commentary Action done with evenness of mind is Yoga of wisdom. The yogi who is established in the Yoga of widdom is not affected by success or failure. He does not seek fruits of his actions.
+He has poised reason. His reason is rooted in the Self. Action performed by one who expects fruits for his actions; is far inferior to the Yoga of wisdom wherein the seeker does not seek fruits because the former leads to bondage and is the cause of birth and death. (Cf.VIII.18).
 
 </details>
 </div>

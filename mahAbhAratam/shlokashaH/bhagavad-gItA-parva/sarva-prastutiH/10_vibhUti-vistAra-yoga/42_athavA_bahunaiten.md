@@ -66,13 +66,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.42 What is the use to you of this detailed knowledge taught by Me; I
-sustain this universe with an infinitesimal fraction of My power - this
-universe consisting of sentient and non-sentient entities, whether in
-effect or causal condition, whether gross or subtle - in such a manner
-that it does not violate My will in preserving its proper form,
-existence and various activities. As said by Bhagavan Parasara: 'On an
-infinitesimal fraction of this energy, this universe rests' (V. P.,
+10.42 What is the use to you of this detailed knowledge taught by Me; I sustain this universe with an infinitesimal fraction of My power - this universe consisting of sentient and non-sentient entities, whether in effect or causal condition, whether gross or subtle - in such a manner that it does not violate My will in preserving its proper form,
+existence and various activities. As said by Bhagavan Parasara: 'On an infinitesimal fraction of this energy, this universe rests' (V. P.,
 1.9.53).
 
 </details>
@@ -411,34 +406,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.42. Or, O Arjuna ! Why this detailed statement ; I remain, pervading
-this entire universe with a single fraction \[of Myself\].
+10.42. Or, O Arjuna ! Why this detailed statement ; I remain, pervading this entire universe with a single fraction \[of Myself\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.42 Or, on the other hand, what is the need of your knowing this
-extensively, O Arjuna; I remain sustaning this whole creation in a
-special way with a part (of Myself).
+10.42 Or, on the other hand, what is the need of your knowing this extensively, O Arjuna; I remain sustaning this whole creation in a special way with a part (of Myself).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.42 But what is the use of all these details to thee; O Arjuna! I
-sustain this universe with only small part of Myself."
+10.42 But what is the use of all these details to thee; O Arjuna! I sustain this universe with only small part of Myself."
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/42_athavA_bahunaiten.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.42 But of what use to you is all this extensive knowledge O Arjuna; I
-stand sustaining this whole universe with a fragment of Mine (of My
-power).
+10.42 But of what use to you is all this extensive knowledge O Arjuna; I stand sustaining this whole universe with a fragment of Mine (of My power).
 
 </details>
 </div>
@@ -455,26 +444,8 @@ O Arjuna; I exist, supporting this whole world by one part of Myself.
 
 10.42 अथवा or; बहुना (by) many; एतेन (by) this; किम् what; ज्ञातेन
 known; तव to thee; अर्जुन O Arjuna; विष्टभ्य supporting; अहम् I; इदम्
-this; कृत्स्नम् all; एकांशेन by one part; स्थितः exist; जगत् the
-world.Commentary The Lord concludes Having established or pervaded this
-whole world with one fragment of Myself; I remain.This verse is based on
-the declaration in the Purusha Sukta (RigVeda10.90.3) that One arter of
-Him is all the cosmos the three arters are the divine transcendent
-Reality.I exist supporting this whole world by one part; by one limit;
-or by one foot. One part of Myself constitutes all beings.All beings
-form His foot (Taittiriya Aranyaka 3.12). The whole world is one Pada or
-foot of the Lord. Amsa (part) or Pada (foot) is mere Kalpana or
-imagination or account of our own ignorance,or limiting adjunct. In
-reality Brahman is without any such parts or limbs and is
-formless.Arjuna has now a knowledge of the glories of the Lord. He is
-fit to behold the magnificent cosmic form of the Lord. Lord Krishna
-prepares Arjuna for this grand vision by giving him a description of His
-glories.Arjuna says O Lord; I now realise that the whole world is filled
-by Thee. I now wish to behold the whole universe in Thee with my eye of
-intuition.Thus in the Upanishads of the glorious Bhagavad Gita; the
-science of the Eternal; the scripture of Yoga; the dialogue between Sri
-Krishna and Arjuna; ends the tenth discourse entitledThe Yoga of the
-Divine Glories.  
+this; कृत्स्नम् all; एकांशेन by one part; स्थितः exist; जगत् the world.Commentary The Lord concludes Having established or pervaded this whole world with one fragment of Myself; I remain.This verse is based on the declaration in the Purusha Sukta (RigVeda10.90.3) that One arter of Him is all the cosmos the three arters are the divine transcendent Reality.I exist supporting this whole world by one part; by one limit;
+or by one foot. One part of Myself constitutes all beings.All beings form His foot (Taittiriya Aranyaka 3.12). The whole world is one Pada or foot of the Lord. Amsa (part) or Pada (foot) is mere Kalpana or imagination or account of our own ignorance,or limiting adjunct. In reality Brahman is without any such parts or limbs and is formless.Arjuna has now a knowledge of the glories of the Lord. He is fit to behold the magnificent cosmic form of the Lord. Lord Krishna prepares Arjuna for this grand vision by giving him a description of His glories.Arjuna says O Lord; I now realise that the whole world is filled by Thee. I now wish to behold the whole universe in Thee with my eye of intuition.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the tenth discourse entitledThe Yoga of the Divine Glories.  
   
 ,
 

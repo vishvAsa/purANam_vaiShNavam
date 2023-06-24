@@ -90,35 +90,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/29_prakRterguNasammU.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.29 Those who 'do not know the whole truth' are those persons who are
-trying for the vision of the self but are deluded about the nature of
-the self, not knowing, on account of their involvement in Prakrti, that
-actions proceed from the Gunas of Prakrti. They are therefore attached
-to the actions of the Gunas - i.e., only to actions forming part of
-Karma Yoga. They are alified only for Karma Yoga. One who knows the
-complete truth should not, by himself remaining a practitioner of Jnana
-Yoga, unsettle those persons who are ignorant and who do not know the
-complete truth. Those, the ignorant, who tend to follow the behaviour of
-a great man, when they see him transcend Karma Yoga, will have their
-minds shaken from Karma Yoga. Thus, the great man, should himself remain
-established in Karma Yoga, while having the full knowledge of the true
-nature of the self and contemplating on the self as not being the agent.
-Thus he should demonstrate that Karma Yoga by itself is an autonomous
-means for the vision of the self. He should create in those who do not
-know the complete truth the love of Karma Yoga. The superiority of this
-Karma Yoga over Jnana Yoga even for those who are alified for Jnana Yoga
-has already been stated. Therefore one who is a respected person of note
-should follow this Karma Yoga alone for the good of the world. The
-method of performing actions after attributing agency to the Gunas by
-discerning the nature of the self as different from Prakrti, has been
-taught. The agency of the self is not produced by the inherent nature of
-the self, but by its contact with the Gunas. Hence by discriminating
-between what is obtained by contact and not obtained when there is no
-contact, it has to be understood that this agency is due to the Gunas or
-Prakrti. Now it is said that the agency of works, first attributed to
-Gunas, ultimately go to the Supreme Person who is the Self of all. It is
-done by discerning that the nature of the individual self is one of
-subservience to the Supreme Person, as they constitute His body:
+3.29 Those who 'do not know the whole truth' are those persons who are trying for the vision of the self but are deluded about the nature of the self, not knowing, on account of their involvement in Prakrti, that actions proceed from the Gunas of Prakrti. They are therefore attached to the actions of the Gunas - i.e., only to actions forming part of Karma Yoga. They are alified only for Karma Yoga. One who knows the complete truth should not, by himself remaining a practitioner of Jnana Yoga, unsettle those persons who are ignorant and who do not know the complete truth. Those, the ignorant, who tend to follow the behaviour of a great man, when they see him transcend Karma Yoga, will have their minds shaken from Karma Yoga. Thus, the great man, should himself remain established in Karma Yoga, while having the full knowledge of the true nature of the self and contemplating on the self as not being the agent.
+Thus he should demonstrate that Karma Yoga by itself is an autonomous means for the vision of the self. He should create in those who do not know the complete truth the love of Karma Yoga. The superiority of this Karma Yoga over Jnana Yoga even for those who are alified for Jnana Yoga has already been stated. Therefore one who is a respected person of note should follow this Karma Yoga alone for the good of the world. The method of performing actions after attributing agency to the Gunas by discerning the nature of the self as different from Prakrti, has been taught. The agency of the self is not produced by the inherent nature of the self, but by its contact with the Gunas. Hence by discriminating between what is obtained by contact and not obtained when there is no contact, it has to be understood that this agency is due to the Gunas or Prakrti. Now it is said that the agency of works, first attributed to Gunas, ultimately go to the Supreme Person who is the Self of all. It is done by discerning that the nature of the individual self is one of subservience to the Supreme Person, as they constitute His body:
 
 </details>
 </div>
@@ -376,7 +349,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।3.29।। प्रकृति के गुणों से मोहित हुए पुरुष गुण और कर्म में आसक्त होते
-हैं, उन अपूर्ण ज्ञान वाले (अकृत्स्नविदः) मंदबुद्धि पुरुषों को पूर्ण
+हैं, उन अपूर्ण ज्ञान वाले (अकृत्स्नविद:) मंदबुद्धि पुरुषों को पूर्ण
 ज्ञान प्राप्त पुरुष विचलित न करे।।
 
 </details>
@@ -415,45 +388,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/29_prakRterguNasammU.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.29. Men, completely deluded by the Strands of the Prakrti, are
-attached to the actions of the Strands. Man, who know fully, should not
-confuse them, the dullard, who do not know fully.
+3.29. Men, completely deluded by the Strands of the Prakrti, are attached to the actions of the Strands. Man, who know fully, should not confuse them, the dullard, who do not know fully.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/29_prakRterguNasammU.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.29 Those who are wholly deluded by the gunas of Nature become attached
-to the activities of the gunas. The knower of the All should not disturb
-those of dull intellect, who do not know the All.
+3.29 Those who are wholly deluded by the gunas of Nature become attached to the activities of the gunas. The knower of the All should not disturb those of dull intellect, who do not know the All.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/29_prakRterguNasammU.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.29 Those who do not understand the Qualities are interested in the
-act. Still, the wise man who knows the truth should not disturb the mind
-of him who does not.
+3.29 Those who do not understand the Qualities are interested in the act. Still, the wise man who knows the truth should not disturb the mind of him who does not.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/29_prakRterguNasammU.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.29 Those who are deluded by the Gunas of Prakrti are attached to the
-works of the Gunas. But he who knows the whole truth should not unsettle
-the ignorant who do not know the whole truth.
+3.29 Those who are deluded by the Gunas of Prakrti are attached to the works of the Gunas. But he who knows the whole truth should not unsettle the ignorant who do not know the whole truth.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/29_prakRterguNasammU.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.29 Those deluded by the alities of Nature are attached to the
-functions of the alities. The man of perfect knowledge should not
-unsettle the foolish one who is of imperfect knowledge.
+3.29 Those deluded by the alities of Nature are attached to the functions of the alities. The man of perfect knowledge should not unsettle the foolish one who is of imperfect knowledge.
 
 </details>
 </div>
@@ -465,17 +428,8 @@ unsettle the foolish one who is of imperfect knowledge.
 those; अकृत्स्नविदः of imperfect knowledge; मन्दान् the foolish (the  
   
 dullwitted); कृत्स्नवित् man of perfect knowledge; न not; विचालयेत्
-should unsettle.Commentary The ignorant people do action with the
-expectation of fruits. The wise people who have the knowledge of the
-Self should not distract the faith or conviction or belief of such
-ignorant persons. If they unsettle their minds they will give up actions
-and become victims of inertia. They will lead an idle life. They should
-be encouraged by the wise to do actions of the Sakama type (actions for
-the sake of their fruits) in the beginning. The wise ones should turn
-the minds of the ignorant by giving them gradual instructions on Karma
-Yoga (Yoga of selfless; desireless action) and its benefits; viz.;
-purification of the heart that leads to the attainment of
-Selfrealisation.
+should unsettle.Commentary The ignorant people do action with the expectation of fruits. The wise people who have the knowledge of the Self should not distract the faith or conviction or belief of such ignorant persons. If they unsettle their minds they will give up actions and become victims of inertia. They will lead an idle life. They should be encouraged by the wise to do actions of the Sakama type (actions for the sake of their fruits) in the beginning. The wise ones should turn the minds of the ignorant by giving them gradual instructions on Karma Yoga (Yoga of selfless; desireless action) and its benefits; viz.;
+purification of the heart that leads to the attainment of Selfrealisation.
 
 </details>
 </div>

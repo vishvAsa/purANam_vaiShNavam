@@ -63,24 +63,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/30_apare_niyatAhArAH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.29 - 4.30 Other Karma Yogins are devoted to the practice of breath
-control. They are of three types because of the differences in
-inhalation, exhalation and stoppage of breath. Puraka (inhalation) is
-that in which the inward breath is sacrificed in the outward breath.
-Recaka (exhalation) is that when the outward breath is sacrificed in the
-inward breath. Kumbhaka (stoppage of breath) is that when the flow of
-both inward and outward breaths is stopped. The clause, restricting of
-diet, applies to all the three types of persons devoted to the control
-of breath. All these, according to their liking and capacity are engaged
-in performing the various kinds of Karma Yoga beginning from the
-sacrifice of material objects to the control of breath. They know and
-are devoted to sacrifices comprising obligatory and occasional rituals
-preceded by the performance of 'the great sacrifices'
-(Panca-Maha-Yajna), as alluded to in 'Creating men along with the
-sacrifices' (3.10). Because of this only, their sins are done away with.
-Those who are engaged in Karma Yoga by sustaining their bodies only by
-the ambrosia of sacrificial remains will go to the eternal Brahman. 'Go
-to Brahman' here means realise the self which has Brahman for Its soul.
+4.29 - 4.30 Other Karma Yogins are devoted to the practice of breath control. They are of three types because of the differences in inhalation, exhalation and stoppage of breath. Puraka (inhalation) is that in which the inward breath is sacrificed in the outward breath.
+Recaka (exhalation) is that when the outward breath is sacrificed in the inward breath. Kumbhaka (stoppage of breath) is that when the flow of both inward and outward breaths is stopped. The clause, restricting of diet, applies to all the three types of persons devoted to the control of breath. All these, according to their liking and capacity are engaged in performing the various kinds of Karma Yoga beginning from the sacrifice of material objects to the control of breath. They know and are devoted to sacrifices comprising obligatory and occasional rituals preceded by the performance of 'the great sacrifices'
+(Panca-Maha-Yajna), as alluded to in 'Creating men along with the sacrifices' (3.10). Because of this only, their sins are done away with.
+Those who are engaged in Karma Yoga by sustaining their bodies only by the ambrosia of sacrificial remains will go to the eternal Brahman. 'Go to Brahman' here means realise the self which has Brahman for Its soul.
 
 </details>
 </div>
@@ -467,39 +453,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/30_apare_niyatAhArAH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.29. - 4.30. \[Some sages\] offer the prana into the apana; like-wise
-others offer the apana into the prana. Having controlled both the
-courses of the prana and apana, the same sages, with their desire
-fulfilled by the above activities, and with their food restricted, offer
-the pranas into pranas. All these persons know what sacrifices are and
-have their sins destroyed by sacrifices.
+4.29. - 4.30. \[Some sages\] offer the prana into the apana; like-wise others offer the apana into the prana. Having controlled both the courses of the prana and apana, the same sages, with their desire fulfilled by the above activities, and with their food restricted, offer the pranas into pranas. All these persons know what sacrifices are and have their sins destroyed by sacrifices.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/30_apare_niyatAhArAH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.30 Others, having their food regulated, offer the vital forces in the
-vital forces. All of them are knowers of the sacrifice and have their
-sins destroyed by sacrifice.
+4.30 Others, having their food regulated, offer the vital forces in the vital forces. All of them are knowers of the sacrifice and have their sins destroyed by sacrifice.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/30_apare_niyatAhArAH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.30 Others, controlling their diet, sacrifice their worldly life to the
-spiritual fire. All understand the principal of sacrifice, and by its
-means their sins are washed away.
+4.30 Others, controlling their diet, sacrifice their worldly life to the spiritual fire. All understand the principal of sacrifice, and by its means their sins are washed away.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/30_apare_niyatAhArAH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.30 All these know the meaning of sacrifices and through sacrifices are
-their sins eradicated. Those who subsist on the ambrosial food, the
-remnants of sacrifices, go to eternal Brahman.
+4.30 All these know the meaning of sacrifices and through sacrifices are their sins eradicated. Those who subsist on the ambrosial food, the remnants of sacrifices, go to eternal Brahman.
 
 </details>
 </div>
@@ -507,8 +482,7 @@ remnants of sacrifices, go to eternal Brahman.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 4.30 Others who regulate their diet offer life-breaths in life-breaths.
-All these are knowers of sacrifice, whose sins are destroyed by
-sacrifice.
+All these are knowers of sacrifice, whose sins are destroyed by sacrifice.
 
 </details>
 </div>
@@ -517,14 +491,7 @@ sacrifice.
 
 4.30 अपरे other persons; नियताहाराः of regulated food; प्राणान्
 lifreaths; प्राणेषु in the lifreaths; जुह्वति sacrifice; सर्वे all; अपि
-also; एते these; यज्ञविदः knowers of sacrifice; यज्ञक्षपितकल्मषाः whose
-sins are destroyed by sacrifice.Commentary Niyataharah means persons of
-regulated or limited food. They take moderate food. By rigid dieting
-they control the passions and appetites by weakening the functions of
-the organs of action.Yogis pour the lifreaths as sacrifice in the
-controlled lifreath. The former becomes merged in the latter.Performance
-of the above sacrifice leads to the purification of the mind and
-destruction of sins.
+also; एते these; यज्ञविदः knowers of sacrifice; यज्ञक्षपितकल्मषाः whose sins are destroyed by sacrifice.Commentary Niyataharah means persons of regulated or limited food. They take moderate food. By rigid dieting they control the passions and appetites by weakening the functions of the organs of action.Yogis pour the lifreaths as sacrifice in the controlled lifreath. The former becomes merged in the latter.Performance of the above sacrifice leads to the purification of the mind and destruction of sins.
 
 </details>
 </div>

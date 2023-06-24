@@ -61,15 +61,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/06_bandhurAtmA-.atma.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.6 A person whose mind is conered by himself in relation to
-sense-objects, has that mind as his friend. In the case of one whose
-mind is not conered in this way, his own mind, like an enemy, remains
-hostile. The meaning is that it acts, against his attainment of supreme
-beatitude. It has been stated by Bhagavan Parasara also: 'The mind of
-man is the cause both of his bondage and his release. Its addiction to
-sense objects is the cause of his bondage; its separation from sense
-objects is the means of one's release' (V. P., 6.7.28). The proper
-condition for the beginning of Yoga is now taught:
+6.6 A person whose mind is conered by himself in relation to sense-objects, has that mind as his friend. In the case of one whose mind is not conered in this way, his own mind, like an enemy, remains hostile. The meaning is that it acts, against his attainment of supreme beatitude. It has been stated by Bhagavan Parasara also: 'The mind of man is the cause both of his bondage and his release. Its addiction to sense objects is the cause of his bondage; its separation from sense objects is the means of one's release' (V. P., 6.7.28). The proper condition for the beginning of Yoga is now taught:
 
 </details>
 </div>
@@ -393,8 +385,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/06_bandhurAtmA-.atma.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.6. The self is the friend of that Self by Which the self has been
-verily subdued; but \[in the case of\] a person with an unsubdued self,
+6.6. The self is the friend of that Self by Which the self has been verily subdued; but \[in the case of\] a person with an unsubdued self,
 the self alone would abide in enmity like an enemy.
 
 </details>
@@ -402,8 +393,7 @@ the self alone would abide in enmity like an enemy.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/06_bandhurAtmA-.atma.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.6 Of him, by whom has been conered his very self by the self, his self
-is the friend of his self. But, for one who has not conered his self,
+6.6 Of him, by whom has been conered his very self by the self, his self is the friend of his self. But, for one who has not conered his self,
 his self itself acts inimically like an enemy.
 
 </details>
@@ -411,48 +401,32 @@ his self itself acts inimically like an enemy.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/06_bandhurAtmA-.atma.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.6 To him who has conquered his lower nature by Its help, the Self is a
-friend, but to him who has not done so, It is an enemy.
+6.6 To him who has conquered his lower nature by Its help, the Self is a friend, but to him who has not done so, It is an enemy.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/06_bandhurAtmA-.atma.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.6 The mind is the friend of him by whom the mind has been conered. But
-for him whose mind is not conered, the mind, like an enemy, remains
-hostile.
+6.6 The mind is the friend of him by whom the mind has been conered. But for him whose mind is not conered, the mind, like an enemy, remains hostile.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/06_bandhurAtmA-.atma.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.6 The Self is the friend of the self of him by whom the self has been
-conered by the Self, but to the unconered self, this Self stands in the
-position of an enemy, like an (external) foe.
+6.6 The Self is the friend of the self of him by whom the self has been conered by the Self, but to the unconered self, this Self stands in the position of an enemy, like an (external) foe.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/06_bandhurAtmA-.atma.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-6.6 बन्धुः friend; आत्मा the Self; आत्मनः of the self; तस्य his; येन by
-whom; आत्मा the self; एव even; आत्मना by the Self; जितः is conered;
+6.6 बन्धुः friend; आत्मा the Self; आत्मनः of the self; तस्य his; येन by whom; आत्मा the self; एव even; आत्मना by the Self; जितः is conered;
 अनात्मनः of unconered self; तु but; शत्रुत्वे in the place of an enemy;
-वर्तेत would remain; आत्मा the Self; एव even; शत्रुवत् like an
-enemy.Commentary Coner the lower mind through the higher mind. The lower
-mind is your enemy. The higher mind is your friend. If you make
-friendship with the higher mind you can subdue the lower mind ite
-easily. The lower mind is filled with Rajas and Tamas (passion and
-darkness). The higher mind is filled with Sattva or purity.The Self is
-the friend of one who is selfcontrolled; and who has subjugated the
-lower mind and the senses. But the Self is an enemy of one who has no
-selfrestraint; and who has not subdued the lower mind and the senses.
+वर्तेत would remain; आत्मा the Self; एव even; शत्रुवत् like an enemy.Commentary Coner the lower mind through the higher mind. The lower mind is your enemy. The higher mind is your friend. If you make friendship with the higher mind you can subdue the lower mind ite easily. The lower mind is filled with Rajas and Tamas (passion and darkness). The higher mind is filled with Sattva or purity.The Self is the friend of one who is selfcontrolled; and who has subjugated the lower mind and the senses. But the Self is an enemy of one who has no selfrestraint; and who has not subdued the lower mind and the senses.
 Just as an external enemy does harm to him; so also his own (lower) self
-(mind) does harm to him. The lower mind injures him severely. The
-highest Self or Atman is the primary Self. Mind also is self. This is
-the secondary self.
+(mind) does harm to him. The lower mind injures him severely. The highest Self or Atman is the primary Self. Mind also is self. This is the secondary self.
 
 </details>
 </div>

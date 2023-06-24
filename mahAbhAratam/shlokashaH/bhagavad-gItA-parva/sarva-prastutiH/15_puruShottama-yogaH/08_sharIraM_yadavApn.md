@@ -50,13 +50,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.8 Whatever body It acires, and from whatever body It departs, the
-lord of the senses, i.e., the self, goes on Its way taking with It the
-senses with the subtle elements, just like the wind carrying scents from
-place to place. Just as the wind takes away scents with subtle parts
-from flower-garlands, sandal, musk and the rest from their places and
-moves elsewhere - so does the self. What are these senses; Sri Krsna
-explains:
+15.8 Whatever body It acires, and from whatever body It departs, the lord of the senses, i.e., the self, goes on Its way taking with It the senses with the subtle elements, just like the wind carrying scents from place to place. Just as the wind takes away scents with subtle parts from flower-garlands, sandal, musk and the rest from their places and moves elsewhere - so does the self. What are these senses; Sri Krsna explains:
 
 </details>
 </div>
@@ -470,44 +464,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 15.8. Whatsoever body he attains to and also from whatsoever He goes up,
-the Lord proceeds taking them with Him just as the wind takes odours
-from their receptacle.
+the Lord proceeds taking them with Him just as the wind takes odours from their receptacle.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.8 When the master leaves it and even when he assumes a body, he
-departs taking these, as wind (carries away) odours from their
-receptacles.
+15.8 When the master leaves it and even when he assumes a body, he departs taking these, as wind (carries away) odours from their receptacles.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.8 When the Supreme Lord enters a body or leaves it, He gathers these
-senses together and travels on with them, as the wind gathers perfume
-while passing through the flowers.
+15.8 When the Supreme Lord enters a body or leaves it, He gathers these senses together and travels on with them, as the wind gathers perfume while passing through the flowers.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-15.8 Whatever body Its lord acires and from whatever body It departs, It
-goes on Its way, taking these senses as the wind carrying scents from
-their places.
+15.8 Whatever body Its lord acires and from whatever body It departs, It goes on Its way, taking these senses as the wind carrying scents from their places.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/08_sharIraM_yadavApn.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-15.8 When the Lord (as the individual soul) obtains a body and when He
-leaves it, He takes these and goes (with them) as the wind takes the
-scents from their seats (flowers, etc.).
+15.8 When the Lord (as the individual soul) obtains a body and when He leaves it, He takes these and goes (with them) as the wind takes the scents from their seats (flowers, etc.).
 
 </details>
 </div>
@@ -517,15 +502,8 @@ scents from their seats (flowers, etc.).
 15.8 शरीरम् a body; यत् when; अवाप्नोति obtains; यत् when; च and; अपि
 also; उत्क्रामति leaves; ईश्वरः the Lord; गृहीत्वा taking; एतानि these;
 संयाति goes; वायुः the wind; गन्धान् the scents; इव as; आशयात् from
-(their) seats (the flowers).Commentary Here is a description of how the
-subtle body leaves the gross body.When the Jiva; the Lord of the
-aggregate of the body and the rest takes up this body he brings in with
-him the mind and the senses when he leavs the body at its dissolution he
-takes with him the senses and the mind; just as the wind carries with it
-the fragrance from the flowers. Wherever he goes and whatever form he
-assumes he again operates through these senses and the mind.Lord Jiva;
-the Lord of the aggregate of the body and the rest.The Self appears to
-be an agent or an enjoyer only when he possesses or assumes a body.
+(their) seats (the flowers).Commentary Here is a description of how the subtle body leaves the gross body.When the Jiva; the Lord of the aggregate of the body and the rest takes up this body he brings in with him the mind and the senses when he leavs the body at its dissolution he takes with him the senses and the mind; just as the wind carries with it the fragrance from the flowers. Wherever he goes and whatever form he assumes he again operates through these senses and the mind.Lord Jiva;
+the Lord of the aggregate of the body and the rest.The Self appears to be an agent or an enjoyer only when he possesses or assumes a body.
 
 </details>
 </div>

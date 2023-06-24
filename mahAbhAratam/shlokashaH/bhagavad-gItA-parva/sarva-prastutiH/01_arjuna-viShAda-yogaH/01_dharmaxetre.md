@@ -56,34 +56,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the
-forces of Pandavas protected by Bhima, and his own forces protected by
-Bhisma conveyed his views thus to Drona, his teacher, about the adeacy
-of Bhima's forces for conering the Kaurava forces and the inadeacy of
-his own forces for victory against the Pandava forces. He was
-grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma,
+1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adeacy of Bhima's forces for conering the Kaurava forces and the inadeacy of his own forces for victory against the Pandava forces. He was grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma,
 in order to cheer him, roared like a lion, and then blowing his conch,
-made his side sound their conchs and kettle-drums, which made an uproar
-as a sign of victory. Then, having heard that great tumult, Arjuna and
-Sri Krsna the Lord of all lords, who was acting as the charioteer of
-Arjuna, sitting in their great chariot which was powerful enough to
-coner the three worlds; blew their divine conchs Srimad Pancajanya and
-Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs
-separately. That tumult rent asunder the hearts of your sons, led by
-Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost
-lost now itself.' So said Sanjaya to Dhrtarastra who was longing for
-their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas,
-who were ready for battle, Arjuna, who had Hanuman, noted for his
-exploit of burning Lanka, as the emblem on his flag on his chariot,
-directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by
-parental love for those who take shelter in Him who is the
-treasure-house of knowledge, power, lordship, energy, potency and
-splendour, whose sportive delight brings about the origin, sustentation
-and dissolution of the entire cosmos at His will, who is the Lord of the
-senses, who controls in all ways the senses inner and outer of all,
-superior and inferior - by saying, 'Station my chariot in an appropriate
-place in order that I may see exactly my enemies who are eager for
-battle.'
+made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to coner the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost lost now itself.' So said Sanjaya to Dhrtarastra who was longing for their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas,
+who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot,
+directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all,
+superior and inferior - by saying, 'Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.'
 
 </details>
 </div>
@@ -406,7 +384,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।1.1।। धृतराष्ट्र ने कहा -- हे संजय ! धर्मभूमि कुरुक्षेत्र में एकत्र हुए
-युद्ध के इच्छुक (युयुत्सवः) मेरे और पाण्डु के पुत्रों ने क्या किया;
+युद्ध के इच्छुक (युयुत्सव:) मेरे और पाण्डु के पुत्रों ने क्या किया;
 
 </details>
 </div>
@@ -532,12 +510,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.1. Dhrtarastra said O Sanjaya ! What did my men and the sons of Pandu
-do in the Kuruksetra, the field of righteousness, where the entire
-warring class has assembled ; or O Sanjaya ! What did the selfish
-intentions and the intentions born of wisdom do in the human body which
-is the field-of-duties, the repository of the senseorgans and in which
-all the murderous ones (passions and asceticism etc.) are confronting
+1.1. Dhrtarastra said O Sanjaya ! What did my men and the sons of Pandu do in the Kuruksetra, the field of righteousness, where the entire warring class has assembled ; or O Sanjaya ! What did the selfish intentions and the intentions born of wisdom do in the human body which is the field-of-duties, the repository of the senseorgans and in which all the murderous ones (passions and asceticism etc.) are confronting
 \[each other\].
 
 </details>
@@ -545,35 +518,28 @@ all the murderous ones (passions and asceticism etc.) are confronting
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.1. Dhrtarastra said O Sanjaya, what did my sons (and others) and
-Pandu's sons (and others) actually do when, eager for battle, they
-assembled on the sacred field, the Kuruksetra (Field of the Kurus);
+1.1. Dhrtarastra said O Sanjaya, what did my sons (and others) and Pandu's sons (and others) actually do when, eager for battle, they assembled on the sacred field, the Kuruksetra (Field of the Kurus);
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.1 The King Dhritarashtra asked: "O Sanjaya! What happened on the
-sacred battlefield of Kurukshetra, when my people gathered against the
-Pandavas;"
+1.1 The King Dhritarashtra asked: "O Sanjaya! What happened on the sacred battlefield of Kurukshetra, when my people gathered against the Pandavas;"
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.1 Dhrtarastra said On the holy field of Kuruksetra, gathered together
-eager for battle, what did my people and the Pandavas do, O Sanjaya;
+1.1 Dhrtarastra said On the holy field of Kuruksetra, gathered together eager for battle, what did my people and the Pandavas do, O Sanjaya;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/01_dharmaxetre.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.1 Dhritarashtra said What did my people and the sons of Pandu do when
-they had assembled together eager for battle on the holy plain of
-Kurukshetra, O Sanjaya.
+1.1 Dhritarashtra said What did my people and the sons of Pandu do when they had assembled together eager for battle on the holy plain of Kurukshetra, O Sanjaya.
 
 </details>
 </div>
@@ -587,9 +553,7 @@ assembled together; युयुत्सवः desirous to fight; मामक�
 पाण्डवाः the sons of Pandu; च and; एव also; किम् what; अकुर्वत did do;
 सञ्जय O Sanjaya.  
   
-Commentary Dharmakshetra -- that place which protects Dharma is
-Dharmakshetra. Because it was in the land of the Kurus; it was called
-Kurukshetra.  
+Commentary Dharmakshetra -- that place which protects Dharma is Dharmakshetra. Because it was in the land of the Kurus; it was called Kurukshetra.  
   
 Sanjaya is one who has conered likes and dislikes and who is impartial.
 

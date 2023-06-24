@@ -33,16 +33,29 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.58।। अथ यतमानसंज्ञाख्या प्रथमा दशोच्यते इत्याह ततोऽर्वाचीनदशेति।
+प्रसक्तप्रतिषेधार्थमाह
+
+स्प्रष्टुमुद्युक्तानीति। तेन
+वार्धकरोगादिप्रयुक्ताशक्तिसुषुप्त्यादिकृतनिवृत्तिव्यवच्छेदः। तदैवेति
+भोगानन्तरनिवृत्तिव्युदासः। कूर्मोऽङ्गानीव इत्यनेनेन्द्रियाणां
+सङ्कल्पविशेषमात्रनियाम्यत्वमुच्यते। सर्वश इति
+विलोकनभाषणविलासपरिहासादिनिवृत्तिपरः विषयदोषदर्शनादिहेतुप्रकारपरो
+वा। प्रतिसंहृत्य इत्यनेनेन्द्रियनिरोधस्यात्ममननाङ्गता दर्शिता। अत्र च
+ज्ञाननिष्ठावस्थाविशेषप्रकरणे सुषुप्त्यादिविलक्षणव्यापारोपरतिः
+तत्साध्यात्मगोचरमनोवस्थापनपर्यन्ता विवक्षितेत्याह मन आत्मनीति।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.58 When one is able to draw the senses away from the sense-objects on
-every side when the senses try to contact the sense-objects, just as a
-tortoise draws in its limbs, and is capable of fixing his mind on the
-self - he too is of firm wisdom. Thus there are four stages of devotion
-to knowledge, each stage being perfected through the succeeding stage.
-Now Sri Krsna speaks of the difficulty of the attainment of firm
-devotion to knowledge and the means of that attainment.
+2.58 When one is able to draw the senses away from the sense-objects on every side when the senses try to contact the sense-objects, just as a tortoise draws in its limbs, and is capable of fixing his mind on the self - he too is of firm wisdom. Thus there are four stages of devotion to knowledge, each stage being perfected through the succeeding stage.
+Now Sri Krsna speaks of the difficulty of the attainment of firm devotion to knowledge and the means of that attainment.
 
 </details>
 </div>
@@ -360,45 +373,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.58. When he withdraws all his sense-organs from sense-objects, just as
-a tortoise does all of its own limbs, then he is declared to be a
-man-of-stabilized-intellect.
+2.58. When he withdraws all his sense-organs from sense-objects, just as a tortoise does all of its own limbs, then he is declared to be a man-of-stabilized-intellect.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.58 And when this one fully withdraws the senses from the objects of
-the senses, as a tortoise wholly (withdraws) the limbs, then his wisdom
-remains established.
+2.58 And when this one fully withdraws the senses from the objects of the senses, as a tortoise wholly (withdraws) the limbs, then his wisdom remains established.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.58 He who can withdraw his senses from the attraction of their
-objects, as the tortoise draws his limbs within its shell - take it that
-such a one has attained Perfection.
+2.58 He who can withdraw his senses from the attraction of their objects, as the tortoise draws his limbs within its shell - take it that such a one has attained Perfection.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.58 When one is able to draw his senses from the objects of sense on
-every side, as a tortoise draws in its limbs, then his wisdom is firmly
-set.
+2.58 When one is able to draw his senses from the objects of sense on every side, as a tortoise draws in its limbs, then his wisdom is firmly set.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/58_yadA_saMharate.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.58 When, like the tortoise which withdraws on all sides its limbs, he
-withdraws his senses from the sense-objects, then his wisdom becomes
-steady.
+2.58 When, like the tortoise which withdraws on all sides its limbs, he withdraws his senses from the sense-objects, then his wisdom becomes steady.
 
 </details>
 </div>
@@ -406,20 +409,10 @@ steady.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.58 यदा when; संहरते withdraws; च and; अयम् this (Yogi); कूर्मः
-tortoise; अङ्गानि limbs; इव like; सर्वशः everywhere; इन्द्रियाणि the
-senses; इन्द्रियार्थेभ्यः from the senseobjects; तस्य of him; प्रज्ञा
-wisdom प्रतिष्ठिता is steadied.Commentary Withdrawal of the senses is
-Pratyahara or abstraction. The mind has a natural,tendency to run
-towards external objects. The Yogi again and again withdraws the mind
-from the objects of the senses and fixes it on the Self. A Yogi who is
-endowed with the power of Pratyahara can enter into Samadhi even in a
-crowded place by withdrawing his senses within the twinkling of an eye.
+tortoise; अङ्गानि limbs; इव like; सर्वशः everywhere; इन्द्रियाणि the senses; इन्द्रियार्थेभ्यः from the senseobjects; तस्य of him; प्रज्ञा
+wisdom प्रतिष्ठिता is steadied.Commentary Withdrawal of the senses is Pratyahara or abstraction. The mind has a natural,tendency to run towards external objects. The Yogi again and again withdraws the mind from the objects of the senses and fixes it on the Self. A Yogi who is endowed with the power of Pratyahara can enter into Samadhi even in a crowded place by withdrawing his senses within the twinkling of an eye.
 He is not disturbed by tumultuous sounds and noises of any description.
-Even on the battlefield he can rest in his centre; the Self; by
-withdrawing his senses. He who practises Pratyahara is dead to the
-world. He will not be affected by the outside vibrations. At any time by
-mere willing he can bring his senses under his perfect control. They are
-his obedient servants or instruments.
+Even on the battlefield he can rest in his centre; the Self; by withdrawing his senses. He who practises Pratyahara is dead to the world. He will not be affected by the outside vibrations. At any time by mere willing he can bring his senses under his perfect control. They are his obedient servants or instruments.
 
 </details>
 </div>

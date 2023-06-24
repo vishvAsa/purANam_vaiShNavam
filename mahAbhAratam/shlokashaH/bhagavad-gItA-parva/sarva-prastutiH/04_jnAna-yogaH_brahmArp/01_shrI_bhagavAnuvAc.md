@@ -106,14 +106,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.1 - 4.2 The Lord said This Karma Yoga declared to you should not be
-considered as having been taught now merely, for creating encouragement
-in you for war. I Myself had taught this Yoga to Vivasvan at the
-commencement of Manu's age as a means for all beings to attain release,
-which is man's supreme end. Vivasvan taught it to Manu, and Manu to
-Iksvaku. The royal sages of old knew this Yoga transmitted by tradition.
-Because of long lapse of time and because of the dullness of the
-intellect of those who heard it, it has been almost lost.
+4.1 - 4.2 The Lord said This Karma Yoga declared to you should not be considered as having been taught now merely, for creating encouragement in you for war. I Myself had taught this Yoga to Vivasvan at the commencement of Manu's age as a means for all beings to attain release,
+which is man's supreme end. Vivasvan taught it to Manu, and Manu to Iksvaku. The royal sages of old knew this Yoga transmitted by tradition.
+Because of long lapse of time and because of the dullness of the intellect of those who heard it, it has been almost lost.
 
 </details>
 </div>
@@ -534,9 +529,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.1. The Bhagavat said This changeless Yoga I had properly taught thus
-to Vivasvat; Vivasvat correctly told it ot Manu; and Manu declared to
-Iksvaku.
+4.1. The Bhagavat said This changeless Yoga I had properly taught thus to Vivasvat; Vivasvat correctly told it ot Manu; and Manu declared to Iksvaku.
 
 </details>
 </div>
@@ -551,17 +544,14 @@ Vivasvan taught this to Manu, and Manu transmitted this to Iksavaku.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.1 "Lord Shri Krishna said: This imperishable philosophy I taught to
-Viwaswana, the founder of the Sun dynasty, Viwaswana gave it to Manu the
-lawgiver, and Manu to King Ikshwaku!
+4.1 "Lord Shri Krishna said: This imperishable philosophy I taught to Viwaswana, the founder of the Sun dynasty, Viwaswana gave it to Manu the lawgiver, and Manu to King Ikshwaku!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.1 The Lord said I taught this imperishable Yoga to Vivasvan; Vivasvan
-taught it to Manu; Manu declared it to Iksvaku.
+4.1 The Lord said I taught this imperishable Yoga to Vivasvan; Vivasvan taught it to Manu; Manu declared it to Iksvaku.
 
 </details>
 </div>
@@ -580,14 +570,7 @@ he told it to Manu; Manu proclaimed it to Ikshvaku.
   
 4.1 इमम् this; विवस्वते to Vivasvan; योगम् Yoga; प्रोक्तवान् taught;
 अहम् I; अव्ययम् imperishable; विवस्वान् Vivasvan; मनवे to Manu; प्राह
-taught; मनुः Manu; इक्ष्वाकवे to Ikshvaku; अब्रवीत् taught.Commentary
-Vivasvan means the sun. Ikshvaku was the son of Manu. Ikshvaku was the
-reputed ancestor of the solar dynasty of Kshatriyas.This Yoga is said to
-be imperishable because the result or fruit; i.e.; Moksha; that can be
-attained through it is imperishable.If the rulers of dominions possess a
-knowledge of the Yoga taught by Me in the preceding two discourses; they
-can protect the Brahmanas and rule their kingdom with justice. So I
-taught this Yoga to the Sungod in the beginning of evolution.
+taught; मनुः Manu; इक्ष्वाकवे to Ikshvaku; अब्रवीत् taught.Commentary Vivasvan means the sun. Ikshvaku was the son of Manu. Ikshvaku was the reputed ancestor of the solar dynasty of Kshatriyas.This Yoga is said to be imperishable because the result or fruit; i.e.; Moksha; that can be attained through it is imperishable.If the rulers of dominions possess a knowledge of the Yoga taught by Me in the preceding two discourses; they can protect the Brahmanas and rule their kingdom with justice. So I taught this Yoga to the Sungod in the beginning of evolution.
 
 </details>
 </div>

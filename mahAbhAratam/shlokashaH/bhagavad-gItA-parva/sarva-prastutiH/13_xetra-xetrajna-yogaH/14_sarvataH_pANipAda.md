@@ -76,25 +76,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.14 Everywhere are Its hands and feet i.e., the self in Its pure form
-is able to perform everywhere the works of hands and feet. Its eyes,
-heads and mouths are everywhere; It performs everywhere the task of eyes
-etc. The Sruti declares; 'Without feet or hands, He moves swiftly and
-seizes things; He sees without eyes, He hears without ears; (Sve. U.,
-3.19). It may be said that it means that the Supreme Brahman performs
-everywhere the task of hands, feet etc., even though He is devoid of
-hands and feet. If 'Brahman' is taken to mean the self, it can be asked
-how this power of the Supreme Brahman (namely, having hand, feet, eyes,
-etc., everywhere) can be attributed to the self, then the answer is that
-it is established in the Srutis that the pure individual self has the
-capacity of performing the task of hands, feet etc., because It is eal
-to Him. Sruti also declares: 'Then, the wise seer, shaking off good and
-evil, stainless, attains the supreme eality with Him' (Mun. U., 3.1.3).
-Sri Krsna will also teach later on: 'Resorting to this knowledge, It
-partakes of My nature' (14.2). It exists encompassing all things,
-whatever aggregate of things that exist in the world; It encompasses
-them. The sense is that in Its pure state, It is all-pervasive, as It
-has no limitation of space etc.
+13.14 Everywhere are Its hands and feet i.e., the self in Its pure form is able to perform everywhere the works of hands and feet. Its eyes,
+heads and mouths are everywhere; It performs everywhere the task of eyes etc. The Sruti declares; 'Without feet or hands, He moves swiftly and seizes things; He sees without eyes, He hears without ears; (Sve. U.,
+3.19). It may be said that it means that the Supreme Brahman performs everywhere the task of hands, feet etc., even though He is devoid of hands and feet. If 'Brahman' is taken to mean the self, it can be asked how this power of the Supreme Brahman (namely, having hand, feet, eyes,
+etc., everywhere) can be attributed to the self, then the answer is that it is established in the Srutis that the pure individual self has the capacity of performing the task of hands, feet etc., because It is eal to Him. Sruti also declares: 'Then, the wise seer, shaking off good and evil, stainless, attains the supreme eality with Him' (Mun. U., 3.1.3).
+Sri Krsna will also teach later on: 'Resorting to this knowledge, It partakes of My nature' (14.2). It exists encompassing all things,
+whatever aggregate of things that exist in the world; It encompasses them. The sense is that in Its pure state, It is all-pervasive, as It has no limitation of space etc.
 
 </details>
 </div>
@@ -514,36 +501,28 @@ has ears of all in the world; It remains enveloping all.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.14 That (Knowable), which has hands and feet everwhere, which has
-eyes, heads and mouths everywhere, which has ears everywhere, exists in
-creatures by pervading them all.
+13.14 That (Knowable), which has hands and feet everwhere, which has eyes, heads and mouths everywhere, which has ears everywhere, exists in creatures by pervading them all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.14 Everywhere are Its hands and Its feet; everywhere It has eyes that
-see, heads that think and mouths that speak; everywhere It listens; It
-dwells in all the worlds; It envelops them all.
+13.14 Everywhere are Its hands and Its feet; everywhere It has eyes that see, heads that think and mouths that speak; everywhere It listens; It dwells in all the worlds; It envelops them all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.14 Everywhere are Its hands and feet; Its eyes, heads and mouths are
-everywhere; Its ears are on all sides; and It exists encompassing all
-things.
+13.14 Everywhere are Its hands and feet; Its eyes, heads and mouths are everywhere; Its ears are on all sides; and It exists encompassing all things.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/14_sarvataH_pANipAda.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.14 With hands and feet everywhere, with eyes, heads and mouths
-everywhere, with ears everywhere, He exists in the worlds enveloping
-all.
+13.14 With hands and feet everywhere, with eyes, heads and mouths everywhere, with ears everywhere, He exists in the worlds enveloping all.
 
 </details>
 </div>
@@ -553,36 +532,10 @@ all.
 13.14 सर्वतः everywhere; पाणिपादम् with hands and feet; तत् that; सर्वतः
 everywhere; अक्षिशिरोमुखम् with eyes; heads and mouths; सर्वतः
 everywhere; श्रुतिमत् with ears; लोके in the world; सर्वम् all; आवृत्य
-having enveloped; तिष्ठति exists.Commentary He (the knower of the field
-or Para Brahman) pervades everything in this world. He fills and
-surrounds this world with Himself. He abides in the universe enveloping
-everything.In the previous verse it is said that the Brahman Which is to
-be known is neither being nor nonbeing. One may think that It is
-nonentity or void or nothing. In order to remove this misapprehension;
-the Lord says in this verse that the knowable has hands and feet
-everywhere; etc. It directs the mind and the senses to do their proper
-functions. This is only the manifest aspect of Saguna Brahman (Brahman
-with attributes).Just as the enginedriver drives the engine; so also the
-knowable or the knower of the field drieves the bodyengine. It is the
-Inner Ruler. It is the innermost Self. It is the support; substratum or
-basis for this world; body; mind; lifeforce and the senses. The
-existence of Brahman is determined or ascertained or indicated by the
-existence of the limiting adjuncts; viz.; body; mind and senses; because
-there must be selfconsciousness behind their activities. How can you
-call It nonexistence thenJust as the rope is not affected by the alities
-or the defects of the illusory superimposed snake; so also Para Brahman
+having enveloped; तिष्ठति exists.Commentary He (the knower of the field or Para Brahman) pervades everything in this world. He fills and surrounds this world with Himself. He abides in the universe enveloping everything.In the previous verse it is said that the Brahman Which is to be known is neither being nor nonbeing. One may think that It is nonentity or void or nothing. In order to remove this misapprehension;
+the Lord says in this verse that the knowable has hands and feet everywhere; etc. It directs the mind and the senses to do their proper functions. This is only the manifest aspect of Saguna Brahman (Brahman with attributes).Just as the enginedriver drives the engine; so also the knowable or the knower of the field drieves the bodyengine. It is the Inner Ruler. It is the innermost Self. It is the support; substratum or basis for this world; body; mind; lifeforce and the senses. The existence of Brahman is determined or ascertained or indicated by the existence of the limiting adjuncts; viz.; body; mind and senses; because there must be selfconsciousness behind their activities. How can you call It nonexistence thenJust as the rope is not affected by the alities or the defects of the illusory superimposed snake; so also Para Brahman
 (the knower of the field) is not affected by the superimposed world;
-body; senses; mind and the lifeforce. There is only one common
-consciousness is eternal; selfluminous and allpervading. That common
-consciousness is Para Brahman.The body; mind; senses and the lifeforce
-are by nature insentient. But they are moved by Brahman to action. They
-act on account of the mere presence of Brahman or the knower of the
-field. (The limiting adjuncts are illusory.) Hence they put on the
-semblance of consciousness; just as the iron piece puts on the semblance
-of a magnet when it is in the presence of a magnet.The whole world is
-superimposed on Brahman like the snake on the rope. This is called
-Adhyaropa. It is sublated by the method (Yukti) of Apavada (negation or
-denial).This verse is taken from the Svetasvataropanishad 3.16.
+body; senses; mind and the lifeforce. There is only one common consciousness is eternal; selfluminous and allpervading. That common consciousness is Para Brahman.The body; mind; senses and the lifeforce are by nature insentient. But they are moved by Brahman to action. They act on account of the mere presence of Brahman or the knower of the field. (The limiting adjuncts are illusory.) Hence they put on the semblance of consciousness; just as the iron piece puts on the semblance of a magnet when it is in the presence of a magnet.The whole world is superimposed on Brahman like the snake on the rope. This is called Adhyaropa. It is sublated by the method (Yukti) of Apavada (negation or denial).This verse is taken from the Svetasvataropanishad 3.16.
 
 </details>
 </div>

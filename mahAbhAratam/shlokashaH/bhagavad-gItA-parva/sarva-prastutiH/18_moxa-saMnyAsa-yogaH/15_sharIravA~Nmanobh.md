@@ -681,25 +681,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.15. O Arjuna ! Whatever action is undertaken with the body, speech or
-the mind, whether it is lawful or otherwise, its factors are these five.
+18.15. O Arjuna ! Whatever action is undertaken with the body, speech or the mind, whether it is lawful or otherwise, its factors are these five.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.15 Whatever action a man performs with the body, speech and mind, be
-it just or its reverse, of it these five are the cuases.
+18.15 Whatever action a man performs with the body, speech and mind, be it just or its reverse, of it these five are the cuases.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.15 Whatever action a man performs, whether by muscular effort or by
-speech or by thought, and whether it be right or wrong, these five are
-the essential causes.
+18.15 Whatever action a man performs, whether by muscular effort or by speech or by thought, and whether it be right or wrong, these five are the essential causes.
 
 </details>
 </div>
@@ -707,16 +703,14 @@ the essential causes.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 18.15 For whatever action a man undertakes by his body, speech and mind,
-whether right or wrong, i.e., enjoined or forbidden by the Sastras, the
-following five are its causes:
+whether right or wrong, i.e., enjoined or forbidden by the Sastras, the following five are its causes:
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/15_sharIravA~Nmanobh.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.15 Whatever action a man performs with his body, speech and mind
-whether right or the reverse these five are its causes.
+18.15 Whatever action a man performs with his body, speech and mind whether right or the reverse these five are its causes.
 
 </details>
 </div>
@@ -724,27 +718,8 @@ whether right or the reverse these five are its causes.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.15 शरीरवाङ्मनोभिः by (his) body; speech and mind; यत् whatever; कर्म
-action; प्रारभते performs; नरः man; न्याय्यम् right; वा or; विपरीतम् the
-reverse; वा or; पञ्च five; एते these; तस्य its; हेतवः causes.Commentary
-Nyayyam Right Not opposed to Dharma conformable to the scriptures
-justifiable.Viparitam The opposite What is opposite to Dharma and
-opposed to the scriptures unjustifiable.Even those actions; -- acts like
-winking and the like which are necessary conditions of life; are
-indicated by the term the right and the reverse; as they are effects of
-past Dharma and Adharma.Tasya Hetavah Its Causes The causes of every
-action.An objector argues In the previous verse it is said that the
-body; actor; various organs; etc.; are the necessary factors of every
-action. Why do you then make a distinction in actions by saying whatever
-action a man does by the body; speech and mindOur answer is In the
-performance of every action; one of the three -- body; speech or mind --
-has a more prominent share than the others while seeing; hearing and
-other activities which accompany or go along with life are subordinate
-to that one.Therefore all actions are classified under three groups and
-are spoken of as done by the body or speech or mind. The fruit of an
-actions also is enjoyed through the body; speech and mind and one of the
-three takes a more prominent share than the rest. Therefore; it is
-proper to say Whatever action a man performs with his body; speech and
-mind৷৷.
+action; प्रारभते performs; नरः man; न्याय्यम् right; वा or; विपरीतम् the reverse; वा or; पञ्च five; एते these; तस्य its; हेतवः causes.Commentary Nyayyam Right Not opposed to Dharma conformable to the scriptures justifiable.Viparitam The opposite What is opposite to Dharma and opposed to the scriptures unjustifiable.Even those actions; -- acts like winking and the like which are necessary conditions of life; are indicated by the term the right and the reverse; as they are effects of past Dharma and Adharma.Tasya Hetavah Its Causes The causes of every action.An objector argues In the previous verse it is said that the body; actor; various organs; etc.; are the necessary factors of every action. Why do you then make a distinction in actions by saying whatever action a man does by the body; speech and mindOur answer is In the performance of every action; one of the three -- body; speech or mind --
+has a more prominent share than the others while seeing; hearing and other activities which accompany or go along with life are subordinate to that one.Therefore all actions are classified under three groups and are spoken of as done by the body or speech or mind. The fruit of an actions also is enjoyed through the body; speech and mind and one of the three takes a more prominent share than the rest. Therefore; it is proper to say Whatever action a man performs with his body; speech and mind৷৷.
 
 </details>
 </div>

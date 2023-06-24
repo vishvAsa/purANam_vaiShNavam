@@ -40,17 +40,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/35_etAnna_hantumichC.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -333,42 +324,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/35_etAnna_hantumichC.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.35. By slaying Dhrtarastra's sons what joy would be to go us, O
-Janardana;
+1.35. By slaying Dhrtarastra's sons what joy would be to go us, O Janardana;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/35_etAnna_hantumichC.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.35 O Madhusudana, even if I am killed, I do not want to kill these
-even for the sake of a kingdom extending over the three worlds; what to
-speak of doing so for the earth!
+1.35 O Madhusudana, even if I am killed, I do not want to kill these even for the sake of a kingdom extending over the three worlds; what to speak of doing so for the earth!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/35_etAnna_hantumichC.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.35 I would not kill them, even for three worlds; why then for this
-poor earth; It matters not if I myself am killed.
+1.35 I would not kill them, even for three worlds; why then for this poor earth; It matters not if I myself am killed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/35_etAnna_hantumichC.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.35 These I would not slay, though they might slay me, even for the
-sovereignty of the three worlds - how much less for this earth O Krsna;
+1.35 These I would not slay, though they might slay me, even for the sovereignty of the three worlds - how much less for this earth O Krsna;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/35_etAnna_hantumichC.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.35. These I do not wish to kill, though they kill me, O Krishna, even
-for the sake of dominion over the three worlds; leave alone killing them
-for the sake of the earth.
+1.35. These I do not wish to kill, though they kill me, O Krishna, even for the sake of dominion over the three worlds; leave alone killing them for the sake of the earth.
 
 </details>
 </div>
@@ -376,10 +360,8 @@ for the sake of the earth.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 1.35 एतान् these; न not; हन्तुम् to kill; इच्छामि (I) wish; घ्नतःअपि
-even if they kill me; मधुसूदन O Madhusudana (the slayer of Madhu; a
-demon); अपि even; त्रैलोक्यराज्यस्य dominion over the three worlds;
-हेतोः for the sake of; किम् how; नु then; महीकृते for the sake of the
-earth.No Commentary.
+even if they kill me; मधुसूदन O Madhusudana (the slayer of Madhu; a demon); अपि even; त्रैलोक्यराज्यस्य dominion over the three worlds;
+हेतोः for the sake of; किम् how; नु then; महीकृते for the sake of the earth.No Commentary.
 
 </details>
 </div>

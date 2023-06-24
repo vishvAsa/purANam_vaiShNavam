@@ -85,12 +85,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.51 - 18.53 'Endowed with a purified understanding' means endowed with
-the Buddhi capable of understanding the self as it is in reality;
-'subduing the mind by steadiness' means making the mind fit for
-meditation by turning away from external and internal objects;
-'relinishing sound and other objects of senses' means keeping them far
-away, casting aside love and hate occasioned by them (i.e., the sense
+18.51 - 18.53 'Endowed with a purified understanding' means endowed with the Buddhi capable of understanding the self as it is in reality;
+'subduing the mind by steadiness' means making the mind fit for meditation by turning away from external and internal objects;
+'relinishing sound and other objects of senses' means keeping them far away, casting aside love and hate occasioned by them (i.e., the sense
 objects). 'Resorting to solitude' means living in a lonely place free
 from hindrances to meditation; 'eat but little' means eating neither too
 much nor too little; 'restraining speech, body and mind' means directing
@@ -532,9 +529,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.53. Relinshing egotism, violence, pride, desire, wrath, and the sense
-of possession-he, the unselfish and calm one, is capable of becoming the
-Brahman.
+18.53. Relinshing egotism, violence, pride, desire, wrath, and the sense of possession-he, the unselfish and calm one, is capable of becoming the Brahman.
 
 </details>
 </div>
@@ -542,8 +537,7 @@ Brahman.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 18.53 (That person,) having discarded egotism, force, pride, desire,
-anger and superfluous possessions, free from the idea of possession, and
-serene, is fit for becoming Brahman.
+anger and superfluous possessions, free from the idea of possession, and serene, is fit for becoming Brahman.
 
 </details>
 </div>
@@ -551,26 +545,21 @@ serene, is fit for becoming Brahman.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 18.53 Having abandoned selfishness, power, arrogance, anger and desire,
-possessing nothing of his own and having attained peace, he is fit to
-join the Eternal Spirit.
+possessing nothing of his own and having attained peace, he is fit to join the Eternal Spirit.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.53 Forsaking egoism, power, pride, desire, wrath and possession, with
-no feeling of 'mine' and tranil - he becomes worthy for the state of
-brahman.
+18.53 Forsaking egoism, power, pride, desire, wrath and possession, with no feeling of 'mine' and tranil - he becomes worthy for the state of brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/53_ahankAram_balam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.53 Having abandoned egoism, strength, arrogance, desire, anger and
-covetousness, and free from the notion of 'mine' and peaceful, he is fit
-for becoming Brahman.
+18.53 Having abandoned egoism, strength, arrogance, desire, anger and covetousness, and free from the notion of 'mine' and peaceful, he is fit for becoming Brahman.
 
 </details>
 </div>
@@ -581,20 +570,8 @@ for becoming Brahman.
 क्रोधम् anger; परिग्रहम् covetousness; विमुच्य having abandoned; निर्ममः
 without mineness; शान्तः peaceful; ब्रह्मभूयाय for becoming Brahman;
 कल्पते (he) is fit.Commentary Egoism Identifying the Self with the body;
-etc. This is the error of mistaking the physical body for the pure
-immortal Self.Balam That strength which is combined or united with
-passion; desire and attachment; and not the physical or other strength.
-Physical strength is natural. It is not possible to abandon this
-physical strength.Darpam Arrogance; insolence; selfassertive Rajasic
-vehemence this follows the state of exaltion.,Man becomes arrogant when
-he possesses wealth or much learning. When he becomes arrogant he
-violates Dharma and does wicked deeds.The aspirant even abandons the
-things which are necessary for the bare maintenance of the body. He
-becomes a ParamahamsaParivrajaka; a wandering or itinerant ascetic. He
-has no attachment to his body. He knows that even the body does not
-belong to him.Santa Peaceful; tranil; serene.Such an aspirant who has
-devotion to Selfknowledge; and who is endowed with the above virtues is
-fit to become Brahman.
+etc. This is the error of mistaking the physical body for the pure immortal Self.Balam That strength which is combined or united with passion; desire and attachment; and not the physical or other strength.
+Physical strength is natural. It is not possible to abandon this physical strength.Darpam Arrogance; insolence; selfassertive Rajasic vehemence this follows the state of exaltion.,Man becomes arrogant when he possesses wealth or much learning. When he becomes arrogant he violates Dharma and does wicked deeds.The aspirant even abandons the things which are necessary for the bare maintenance of the body. He becomes a ParamahamsaParivrajaka; a wandering or itinerant ascetic. He has no attachment to his body. He knows that even the body does not belong to him.Santa Peaceful; tranil; serene.Such an aspirant who has devotion to Selfknowledge; and who is endowed with the above virtues is fit to become Brahman.
 
 </details>
 </div>

@@ -69,17 +69,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.20 All men of this world are 'controlled', i.e., constantly
-accompanied by their own nature consisting in the Vasanas (subtle
-impressions) resulting from relation with the objects formed of the
-Gunas. Their knowledge about My essential nature is robbed by various
-Karmas, i.e., by objects of desire corresponding to their Vasanas
-(subtle impressions) born of their Karmas and constituted of Gunas. In
-order to fulfil these various kinds of desires they take refuge in,
-i.e., seek and worship, other divinities who are regarded as different
-from Me, such as Indra and others, observing various disciplines, i.e.,
-practising rituals which are specially meant to propitiate only these
-divinities.
+7.20 All men of this world are 'controlled', i.e., constantly accompanied by their own nature consisting in the Vasanas (subtle impressions) resulting from relation with the objects formed of the Gunas. Their knowledge about My essential nature is robbed by various Karmas, i.e., by objects of desire corresponding to their Vasanas
+(subtle impressions) born of their Karmas and constituted of Gunas. In order to fulfil these various kinds of desires they take refuge in,
+i.e., seek and worship, other divinities who are regarded as different from Me, such as Indra and others, observing various disciplines, i.e.,
+practising rituals which are specially meant to propitiate only these divinities.
 
 </details>
 </div>
@@ -379,59 +372,43 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.20. Being robbed of their wisdom by innumerable desires \[and\] being
-controlled by their own nature, persons take refuge in other deities by
-following one or the other religious regulations.
+7.20. Being robbed of their wisdom by innumerable desires \[and\] being controlled by their own nature, persons take refuge in other deities by following one or the other religious regulations.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.20 People, deprived of their wisdom by desires for various objects and
-guided by their own nature, resort to other deities following the
-relevant methods.
+7.20 People, deprived of their wisdom by desires for various objects and guided by their own nature, resort to other deities following the relevant methods.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.20 They in whom wisdom is obscured by one desire or the other, worship
-the lesser Powers, practising many rites which vary according to their
-temperaments.
+7.20 They in whom wisdom is obscured by one desire or the other, worship the lesser Powers, practising many rites which vary according to their temperaments.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.20 Controlled by their inherent nature, and deprived of knowledge by
-various desires, worldly-minded men resort to other gods, observing
-various disciplines.
+7.20 Controlled by their inherent nature, and deprived of knowledge by various desires, worldly-minded men resort to other gods, observing various disciplines.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.20 Those whose wisdom has been rent away by this or that desire, go to
-other gods, following this or that rite, led by their own nature.
+7.20 Those whose wisdom has been rent away by this or that desire, go to other gods, following this or that rite, led by their own nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/07_jnAna-vijnAna-yogaH/20_kAmaistaistairhRt.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-7.20 कामैः by desires; तैः तैः by this or that; हृतज्ञानाः those whose
-wisdom has been rent away; प्रपद्यन्ते approach; अन्यदेवताः other gods;
-तम् तम् this or that; नियमम् rite; आस्थाय having followed; प्रकृत्या by
-nature; नियताः led; स्वया by ones own.Commentary Those who desire
-wealth; children; the (small) Siddhis; etc.; are deprived of
-discrimination. They devote themselves to other minor gods such as
-Indra; Mitra; Varuna; etc.; impelled or driven by their own nature or
-Samskaras acired in their previous births. They perform some kinds of
-rites to propitiate these lower deities. (Cf.IX.23)
+7.20 कामैः by desires; तैः तैः by this or that; हृतज्ञानाः those whose wisdom has been rent away; प्रपद्यन्ते approach; अन्यदेवताः other gods;
+तम् तम् this or that; नियमम् rite; आस्थाय having followed; प्रकृत्या by nature; नियताः led; स्वया by ones own.Commentary Those who desire wealth; children; the (small) Siddhis; etc.; are deprived of discrimination. They devote themselves to other minor gods such as Indra; Mitra; Varuna; etc.; impelled or driven by their own nature or Samskaras acired in their previous births. They perform some kinds of rites to propitiate these lower deities. (Cf.IX.23)
 
 </details>
 </div>

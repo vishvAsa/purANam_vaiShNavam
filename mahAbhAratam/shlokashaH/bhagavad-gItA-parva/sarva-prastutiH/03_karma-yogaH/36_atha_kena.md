@@ -58,10 +58,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/36_atha_kena.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.36 Arjuna said Impelled by what does a man practising Jnana Yoga
-commit sin in the form of experiencing the objects of the senses, as if
-constrained by force, even against his own will not to experience the
-objects of the senses.
+3.36 Arjuna said Impelled by what does a man practising Jnana Yoga commit sin in the form of experiencing the objects of the senses, as if constrained by force, even against his own will not to experience the objects of the senses.
 
 </details>
 </div>
@@ -390,9 +387,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/36_atha_kena.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.36. Arjuna said Then, induced by what, does this person \[of the
-world\] commit sin-eventhough he does not desire it-as if instigated by
-a force, overpowering \[him\] ;
+3.36. Arjuna said Then, induced by what, does this person \[of the world\] commit sin-eventhough he does not desire it-as if instigated by a force, overpowering \[him\] ;
 
 </details>
 </div>
@@ -400,34 +395,28 @@ a force, overpowering \[him\] ;
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 3.36 Arjuna said Now then, O scion of the Vrsni dynasty (Krsna),
-impelled by what does this man commit sin even against his wish, being
-constrained by force, as it were;
+impelled by what does this man commit sin even against his wish, being constrained by force, as it were;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/36_atha_kena.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.36 Arjuna asked: My Lord! Tell me, what is it that drives a man to
-sin, even against his will and as if by compulsion;
+3.36 Arjuna asked: My Lord! Tell me, what is it that drives a man to sin, even against his will and as if by compulsion;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/36_atha_kena.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.36 Arjuna said But, impelled by what, O Krsna, does one (practising
-Jnana Yoga), commit sin even against his own will, constrained as it
-were, by force;
+3.36 Arjuna said But, impelled by what, O Krsna, does one (practising Jnana Yoga), commit sin even against his own will, constrained as it were, by force;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/36_atha_kena.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.36 Arjuna said But impelled by what does man commit sin, though
-against his wishes, O Varshneya (Krishna), constrained as it were, by
-force;
+3.36 Arjuna said But impelled by what does man commit sin, though against his wishes, O Varshneya (Krishna), constrained as it were, by force;
 
 </details>
 </div>
@@ -435,10 +424,8 @@ force;
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.36 अथ now; केन by which; प्रयुक्तः impelled; अयम् this; पापम् sin;
-चरति does; पूरुषः man; अनिच्छन् not wishing; अपि even; वार्ष्णेय O
-Varshneya; बलात् by force; इव as it were; नियोजितः
-constrained.Commentary Varshneya is one born in the family of the
-Vrishnis; a name of Krishna.
+चरति does; पूरुषः man; अनिच्छन् not wishing; अपि even; वार्ष्णेय O Varshneya; बलात् by force; इव as it were; नियोजितः
+constrained.Commentary Varshneya is one born in the family of the Vrishnis; a name of Krishna.
 
 </details>
 </div>

@@ -58,11 +58,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.33 If in delusion, you do not wage this war, which has started and
-which is the duty of a Ksatriya, then, owing to the non-performance of
-your immediate and incumbent duty, you will lose the immeasurable bliss
-which is the fruit of discharging your duty and the immeasurable fame
-which is the fruit of victory. In addition, you will incur extreme sin.
+2.33 If in delusion, you do not wage this war, which has started and which is the duty of a Ksatriya, then, owing to the non-performance of your immediate and incumbent duty, you will lose the immeasurable bliss which is the fruit of discharging your duty and the immeasurable fame which is the fruit of victory. In addition, you will incur extreme sin.
 
 </details>
 </div>
@@ -335,8 +331,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.33. On the other hand, if you will not fight this righteous war then
-you shall incur the sin by avoiding your own duty and fame.
+2.33. On the other hand, if you will not fight this righteous war then you shall incur the sin by avoiding your own duty and fame.
 
 </details>
 </div>
@@ -351,24 +346,21 @@ then, forsaking your own duty and fame, you will incur sin.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.33 Refuse to fight in this righteous cause, and thou wilt be a
-traitor, lost to fame, incurring only sin.
+2.33 Refuse to fight in this righteous cause, and thou wilt be a traitor, lost to fame, incurring only sin.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.33 But if you do not fight this righteous war, you will be turning
-away from your duty and honoured position, and will be incurring sin.
+2.33 But if you do not fight this righteous war, you will be turning away from your duty and honoured position, and will be incurring sin.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/33_atha_chaittvamima.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.33 But if thou wilt not fight this righteous war, then having
-abandoned thine own duty and fame, thou shalt incur sin.
+2.33 But if thou wilt not fight this righteous war, then having abandoned thine own duty and fame, thou shalt incur sin.
 
 </details>
 </div>
@@ -376,14 +368,9 @@ abandoned thine own duty and fame, thou shalt incur sin.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.33 अथ चेत् but if; त्वम् thou; इमम् this; धर्म्यम् righteous;
-संग्रामम् warfare; न not; करिष्यसि will do; ततः,then; स्वधर्मम् own
-duty; कीर्तिम् fame; च and; हित्वा having abandoned; पापम् sin;
-अवाप्स्यसि shall incur.Commentary The Lord reminds Arjuna of the fame he
-had already earned and which he would now lose if he refused to fight.
-Arjuna had acired great fame by fighting with Lord Siva. Arjuna
-proceeded on a pilgrimage to the Himalayas. He fought with Siva Who
-appeared in the guise of a mountaineer (Kirata) and got from Him the
-Pasupatastra; a celestial weapon.
+संग्रामम् warfare; न not; करिष्यसि will do; ततः,then; स्वधर्मम् own duty; कीर्तिम् fame; च and; हित्वा having abandoned; पापम् sin;
+अवाप्स्यसि shall incur.Commentary The Lord reminds Arjuna of the fame he had already earned and which he would now lose if he refused to fight.
+Arjuna had acired great fame by fighting with Lord Siva. Arjuna proceeded on a pilgrimage to the Himalayas. He fought with Siva Who appeared in the guise of a mountaineer (Kirata) and got from Him the Pasupatastra; a celestial weapon.
 
 </details>
 </div>

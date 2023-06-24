@@ -66,16 +66,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.7 'Supernal manifestation' is the glory (Vibhuti) of the Lord. He who
-in truth knows this supernal manifestation that all origination,
-sustentation and activity depend on Me, and also that Yoga of Mine which
-is in the form of auspicious attributes antagonistic to all that is evil
-- such a person becomes united with the Yoga or Bhakti of an unshakable
-nature. Of this, there is no doubt. The meaning is: You yourself will
-see that the knowledge concerning the supernal manifestation and
-auspicious attributes of Mine will increase devotion. Sri Krsna now
-shows that the growth of devotion is of the form of the development of
-knowledge of His supreme state.
+10.7 'Supernal manifestation' is the glory (Vibhuti) of the Lord. He who in truth knows this supernal manifestation that all origination,
+sustentation and activity depend on Me, and also that Yoga of Mine which is in the form of auspicious attributes antagonistic to all that is evil
+- such a person becomes united with the Yoga or Bhakti of an unshakable nature. Of this, there is no doubt. The meaning is: You yourself will see that the knowledge concerning the supernal manifestation and auspicious attributes of Mine will increase devotion. Sri Krsna now shows that the growth of devotion is of the form of the development of knowledge of His supreme state.
 
 </details>
 </div>
@@ -331,34 +324,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.7. He, who knows correctly this extensively manifesting power and the
-Yogic power of Mine-he is endowed with the unwavering Yoga. There is no
-doubt about it.
+10.7. He, who knows correctly this extensively manifesting power and the Yogic power of Mine-he is endowed with the unwavering Yoga. There is no doubt about it.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.7 One who knows truly this majesty and yoga of Mine, he becomes
-imbued with unwavering Yoga. There is no doubt about this.
+10.7 One who knows truly this majesty and yoga of Mine, he becomes imbued with unwavering Yoga. There is no doubt about this.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.7 He who rightly understands My manifested glory and My Creative
-Power, beyond doubt attains perfect peace.
+10.7 He who rightly understands My manifested glory and My Creative Power, beyond doubt attains perfect peace.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/07_etAM_vibhUtim.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.7 He who in truth knows this supernal manifestation and splendour of
-auspicious attributes of Mine, becomes, united with the unshakable Yoga
-of Bhakti. Of this, there is no doubt.
+10.7 He who in truth knows this supernal manifestation and splendour of auspicious attributes of Mine, becomes, united with the unshakable Yoga of Bhakti. Of this, there is no doubt.
 
 </details>
 </div>
@@ -375,27 +362,9 @@ there is no doubt about it.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 10.7 एताम् this; विभूतिम् (manifold) manifestation of My Being;
-Commentary Knowledge of the glory of the Lord is really conducive to
-Yoga. He who knows in essence the immanent pervading power of the Lord
-by which He causes the manifestations; and His diverse manifestations
-(Vibhutis); unites with Him in firm unalterable Yoga and attains eternal
-bliss and perfect harmony. From the ant to the Creator there is nothing
-except the Lord. He who knows in reality this extensive manifestation of
-the Lord and His Yoga (Yoga here stands for what is born of Yoga; viz.;
-infinite Yogic powers as well as omniscience); is endowed with firm
-unwavering Yoga. He lives in the Eternal and is endowed with the highest
-knowledge of the Self. He who has realised this Truth is free from the
-superiority and inferiority complexes. There i real awakening of wisdom
-in him. He will behold the Lord in all beings and all beings in the
-Lord. He will never hate any creature on this earth. This is a rare
-living cosmic experience. The Yogi realises that the Lord and His
-manifestations are one. He attains the supreme goal and is absorbed in
-Him through his wholehearted devotion. He is perfectly aware of his
-oneness with the Supreme by My divine Yoga.He can keep his balance of
-mind now in whatever environments and circumstances he is placed and can
-do any action without losing his consciousness of oneness or identity
-with the Supreme Self. (Cf.VII.25IX.5XI.8)What is that unshaken Yoga
-with which they are endowedThe answer follows.
+Commentary Knowledge of the glory of the Lord is really conducive to Yoga. He who knows in essence the immanent pervading power of the Lord by which He causes the manifestations; and His diverse manifestations
+(Vibhutis); unites with Him in firm unalterable Yoga and attains eternal bliss and perfect harmony. From the ant to the Creator there is nothing except the Lord. He who knows in reality this extensive manifestation of the Lord and His Yoga (Yoga here stands for what is born of Yoga; viz.;
+infinite Yogic powers as well as omniscience); is endowed with firm unwavering Yoga. He lives in the Eternal and is endowed with the highest knowledge of the Self. He who has realised this Truth is free from the superiority and inferiority complexes. There i real awakening of wisdom in him. He will behold the Lord in all beings and all beings in the Lord. He will never hate any creature on this earth. This is a rare living cosmic experience. The Yogi realises that the Lord and His manifestations are one. He attains the supreme goal and is absorbed in Him through his wholehearted devotion. He is perfectly aware of his oneness with the Supreme by My divine Yoga.He can keep his balance of mind now in whatever environments and circumstances he is placed and can do any action without losing his consciousness of oneness or identity with the Supreme Self. (Cf.VII.25IX.5XI.8)What is that unshaken Yoga with which they are endowedThe answer follows.
 
 </details>
 </div>

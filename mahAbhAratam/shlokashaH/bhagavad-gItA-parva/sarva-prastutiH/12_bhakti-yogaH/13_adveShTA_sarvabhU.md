@@ -105,24 +105,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/13_adveShTA_sarvabhU.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.13 - 12.14 In these and succeeding verses the Lord mentions the
-nature of the Karma Yogi who adores Him through his works. In other
-words the Bhakti element in Karma Yoga is emphasised. He never hates any
-being even though they hate him and do him wrong. For he thinks that the
-Lord impels these beings to hate him and do him wrong for atoning for
-his transgressions. He is 'friendly', evincing a friendly disposition
-towards all beings whether they hate him or do him wrong. He is
-'compassionate', evincing compassion towards their sufferings. He is
-free from the 'feeling of mine,' i.e., he is not possessive with regard
-to his body, senses and all things associated with them. He is free from
-the feeling of 'I', i.e., is free from the delusion that his body is the
-self. Therefore, 'pain and pleasure are the same to him,' i.e., he is
-free from distress and delight resulting from pain and pleasure arising
-from his deeds. He is 'enduring', unaffected even by those two (i.e.,
+12.13 - 12.14 In these and succeeding verses the Lord mentions the nature of the Karma Yogi who adores Him through his works. In other words the Bhakti element in Karma Yoga is emphasised. He never hates any being even though they hate him and do him wrong. For he thinks that the Lord impels these beings to hate him and do him wrong for atoning for his transgressions. He is 'friendly', evincing a friendly disposition towards all beings whether they hate him or do him wrong. He is
+'compassionate', evincing compassion towards their sufferings. He is free from the 'feeling of mine,' i.e., he is not possessive with regard to his body, senses and all things associated with them. He is free from the feeling of 'I', i.e., is free from the delusion that his body is the self. Therefore, 'pain and pleasure are the same to him,' i.e., he is free from distress and delight resulting from pain and pleasure arising from his deeds. He is 'enduring', unaffected even by those two (i.e.,
 pleasure and pain) due to the inevitable contact of sense-objects. He is
-'content', namely, satisfied with whatever chance may bring him for the
-sustenance of his body. He 'ever meditates,' i.e., is constantly intent
-on contemplating on the self as separate from the body. He is
+'content', namely, satisfied with whatever chance may bring him for the sustenance of his body. He 'ever meditates,' i.e., is constantly intent on contemplating on the self as separate from the body. He is
 'self-restrained', namely, he controls the activities of his mind. He is
 of 'firm conviction' regarding the meanings taught in the science of the
 self. His 'mind and reason are dedicated to Me' i.e., his mind and
@@ -404,7 +390,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।12.13।। भूतमात्र के प्रति जो द्वेषरहित है तथा सबका मित्र तथा करुणावान्
-है; जो ममता और अहंकार से रहित, सुख और दुःख में सम और क्षमावान् है।।
+है; जो ममता और अहंकार से रहित, सुख और दु:ख में सम और क्षमावान् है।।
 
 </details>
 </div>
@@ -458,8 +444,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/13_adveShTA_sarvabhU.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.13. He, who is not a hater, \[but\] only a compassionate friend of
-every being; who is free from the sense of 'mine, and the sense of 'I';
+12.13. He, who is not a hater, \[but\] only a compassionate friend of every being; who is free from the sense of 'mine, and the sense of 'I';
 who is even minded in pain and pleasure and is endowed with forbearance;
 
 </details>
@@ -467,18 +452,14 @@ who is even minded in pain and pleasure and is endowed with forbearance;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/13_adveShTA_sarvabhU.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.13 He who is not hateful towards any creature, who is friendly and
-compassionate, who has no idea of 'mine' and the idea of egoism, who is
-the same under sorrow and happiness, who is forgiving;
+12.13 He who is not hateful towards any creature, who is friendly and compassionate, who has no idea of 'mine' and the idea of egoism, who is the same under sorrow and happiness, who is forgiving;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/13_adveShTA_sarvabhU.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.13 He who is incapable of hatred towards any being, who is kind and
-compassionate, free from selfishness, without pride, equable in pleasure
-and in pain, and forgiving,
+12.13 He who is incapable of hatred towards any being, who is kind and compassionate, free from selfishness, without pride, equable in pleasure and in pain, and forgiving,
 
 </details>
 </div>
@@ -486,17 +467,14 @@ and in pain, and forgiving,
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 12.13 He who never hates any being, who is friendly and compassionate,
-who is free from the feelings of I and mine, who looks upon all pain and
-pleasure the same as and who is enduring;
+who is free from the feelings of I and mine, who looks upon all pain and pleasure the same as and who is enduring;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/13_adveShTA_sarvabhU.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.13 He who hates no creature, who is friendly and compassionate to
-all, who is free from attachment and egoism, balanced in pleasure and
-pain, and forgiving.
+12.13 He who hates no creature, who is friendly and compassionate to all, who is free from attachment and egoism, balanced in pleasure and pain, and forgiving.
 
 </details>
 </div>
@@ -506,29 +484,7 @@ pain, and forgiving.
 12.13 अद्वेष्टा nonhater; सर्वभूतानाम् of (to) all creatures; मैत्रः
 friendly; करुणः compassionate; एव even; च and; निर्ममः without mineness;
 निरहङ्कारः without egoism; समदुःखसुखः balanced in pleasure and pain;
-क्षमी forgiving.Commentary Lord Krishna gives a description of the
-nature of a Bhagavata or a sage in the following eight verses. These
-eight verses are called Amritashtakam.The devotee who is established in
-God bears illwill to none. He looks on all with love and great
-compassion. He regards all beings as himself. He does not hate even a
-single being; not even the creature which gives him intense pain. He who
-entertains mercy towards suffering people and tries to relieve their
-sufferings is a man of Karuna. He puts himself in the position of the
-sufferer and feels the pain himself. Mercy is a divine attribute. God is
-allmerciful. If you wish to hold communion with the Lord; and if you
-desire to attain Godhead; you must also become allmerciful.The perfect
-devotee offers full security of life (Abhayadana) to all beings. He is a
-Paramahamsa Sannyasi. The devotee only can really understand the
-mysterious ways of the Lord. He beholds the Lord everywhere. He sees the
-Lord in all creatures. That is the reason why he has eal vision. He is
-like the sun or the river. The sun sheds its light eally on a palace or
-a cottage. Anyone can drink the water of a river. A river enches the
-thirst of cows as well as tigers and lions. The idea of mineness and
-Iness never arises in the devotees mind. He has no sense of mine and
-thine. He is indifferent to pleasure and pain. He is not attached to
-pleasant objects. He does not hate the objects that give him pain. He is
-as forgiving as the earth. He is not affected a bit when anybody
-insults; abuses or beats him.
+क्षमी forgiving.Commentary Lord Krishna gives a description of the nature of a Bhagavata or a sage in the following eight verses. These eight verses are called Amritashtakam.The devotee who is established in God bears illwill to none. He looks on all with love and great compassion. He regards all beings as himself. He does not hate even a single being; not even the creature which gives him intense pain. He who entertains mercy towards suffering people and tries to relieve their sufferings is a man of Karuna. He puts himself in the position of the sufferer and feels the pain himself. Mercy is a divine attribute. God is allmerciful. If you wish to hold communion with the Lord; and if you desire to attain Godhead; you must also become allmerciful.The perfect devotee offers full security of life (Abhayadana) to all beings. He is a Paramahamsa Sannyasi. The devotee only can really understand the mysterious ways of the Lord. He beholds the Lord everywhere. He sees the Lord in all creatures. That is the reason why he has eal vision. He is like the sun or the river. The sun sheds its light eally on a palace or a cottage. Anyone can drink the water of a river. A river enches the thirst of cows as well as tigers and lions. The idea of mineness and Iness never arises in the devotees mind. He has no sense of mine and thine. He is indifferent to pleasure and pain. He is not attached to pleasant objects. He does not hate the objects that give him pain. He is as forgiving as the earth. He is not affected a bit when anybody insults; abuses or beats him.
 
 </details>
 </div>

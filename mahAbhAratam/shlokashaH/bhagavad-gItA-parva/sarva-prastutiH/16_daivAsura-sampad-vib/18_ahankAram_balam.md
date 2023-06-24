@@ -80,17 +80,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.18 They depend on their egoism in the form of 'I can do everything
-without the help of anyone'; likewise, in performing everything they
-depend on their power, 'My power is sufficient'; hence pride takes the
-following form, 'There is nobody like myself. Desire takes the form of,
-'Because I am so, everything is fulfilled by my mere desire.' 'Wrath
-consits in conceiving, 'I shall slay those who cause evil to me.' Thus,
-depending on themselves, they evince malice towards Me, the Supreme
-Person abiding in their own bodies as well as in the bodies of others;
-and they hate Me. They endeavour to invent fallacious arguments against
-My existence, and being unable to tolerate Me, they perform all acts
-like sacrifices etc., depending only on their egoism.
+16.18 They depend on their egoism in the form of 'I can do everything without the help of anyone'; likewise, in performing everything they depend on their power, 'My power is sufficient'; hence pride takes the following form, 'There is nobody like myself. Desire takes the form of,
+'Because I am so, everything is fulfilled by my mere desire.' 'Wrath consits in conceiving, 'I shall slay those who cause evil to me.' Thus,
+depending on themselves, they evince malice towards Me, the Supreme Person abiding in their own bodies as well as in the bodies of others;
+and they hate Me. They endeavour to invent fallacious arguments against My existence, and being unable to tolerate Me, they perform all acts like sacrifices etc., depending only on their egoism.
 
 </details>
 </div>
@@ -430,19 +423,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.18. Clinging fast to egotism, force, pride, craving, and anger, these
-envious men hate Me in the bodies of their own and of others.
+16.18. Clinging fast to egotism, force, pride, craving, and anger, these envious men hate Me in the bodies of their own and of others.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.18 Resorting to egotism, power, arrogance, passion and anger, hating
-Me in their own and others' bodies, (they become) \[As the finite verb
-is missing in the verse, we have supplied 'they become'. S. adds the
-verb prabhavanti, wax strong, from verse 9, and constructs the last
-portion thus: '৷৷.the envious ones wax strond.' Following S. S.,
+16.18 Resorting to egotism, power, arrogance, passion and anger, hating Me in their own and others' bodies, (they become) \[As the finite verb is missing in the verse, we have supplied 'they become'. S. adds the verb prabhavanti, wax strong, from verse 9, and constructs the last portion thus: '৷৷.the envious ones wax strond.' Following S. S.,
 however, one may combine this verse with the preceding verse by taking
 'perform sacrifices' as the finite verb.-Tr.'\] envious by nature.
 
@@ -451,26 +439,21 @@ however, one may combine this verse with the preceding verse by taking
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.18 Puffed up by power and inordinate conceit, swayed by lust and
-wrath, these wicked people hate Me Who am within them, as I am within
-all.
+16.18 Puffed up by power and inordinate conceit, swayed by lust and wrath, these wicked people hate Me Who am within them, as I am within all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.18 Depending on their egoism, power and pride, and also of desire and
-wrath, these malicious men hate Me in their own bodies and in those of
-others.
+16.18 Depending on their egoism, power and pride, and also of desire and wrath, these malicious men hate Me in their own bodies and in those of others.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/18_ahankAram_balam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-16.18 Given over to egoism, power, haughtiness, lust and anger, these
-malicious people hate Me in their own bodies and in those of others.
+16.18 Given over to egoism, power, haughtiness, lust and anger, these malicious people hate Me in their own bodies and in those of others.
 
 </details>
 </div>
@@ -478,69 +461,14 @@ malicious people hate Me in their own bodies and in those of others.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 16.18 अहङ्कारम् egoism; बलम् power; दर्पम् haughtiness; कामम् lust;
-क्रोधम् anger; च and; संश्रिताः possessed of; माम् Me; आत्मपरदेहेषु in
-their own bodies and in those of others; प्रद्विषन्तः hating; अभ्यसूयकाः
-(these) malicious people.Commentary They are selfsufficient and puffed
-up with mental and material power. They pose too much. They resent it
-much if they are belittled. The body is dearer to them than everything
-else. They live solely for it. If anybody tries to thwart their plans or
-schemes they become bitterly hostile towards him. They take vengeance on
-him and try to kill him mercilessly. They are extremely meanminded. Just
-as darness seems to be denser after night sets in; so also as
-their,folly increases; their arrogance grows; their egoism develops;
-their pride swells; and their delusion augments day by day. They use
-brutal force to gain their selfish ends. They abuse and illtreat all
-those people who are truthful and charitable; and who are devoted to
-Me.Ahamkaram Egoism The selfarrogating principle; the effect or
-modification of ignorance. This is the source of all the defects and
-perversities in human nature and of all evil actions. Lust; anger;
-greed; pride and hypocrisy are all attendants of egoism. It is very
-difficult to overcome this dire enemy; but through Vichara (right eniry)
-it can be annihilated.These Asuras who are very egoistic on account of
-their deep ignorance esteem themselves very highly for the alities they
-possess and for those which they falsely superimpose upon themselves.
-They think that they are very great persons on account of the good
-alities which they have superimposed upon themselves and their egoism is
-increased thery. They try to humiliate others by using their financial
-supremacy. They will bribe people to give false evidence and do anything
-to attain their selfish ends.Balam Power accompanied by lust and
-attachment. The Asuras use their strength of body to humiliate and
-destroy others. If a man is not established in Yama (the fivefold canon
-of ethical perfection; consisting of noninjury; truthfulness;
-nonstealing; celibacy and noncovetousness); if he has no purity of
-heart; if his mind is surcharged or saturated with evil tendencies; and
-if he gets power of any sort; he will misuse or abuse it and try to
-humiliate or abuse others. Powers or Siddhis are bound to come if one
-practises concentration of mind. If he is endowed with Yama; he will
-never misuse them and so he will never have a downfall. That is the
-reason why Patanjali Maharshi says Powers are obstacles on the path of
-Yoga. Shun them ruthlessly. March onwards to the goal. Climb the ladder
-of Yoga till you attain the highest state of superconsciousness or
-Godconsciousness. Do not look back. Have no memories of the past.Yama is
-the very foundation of Yoga. Get yourself established in Yama before you
-take to concentration and meditation. Many aspirants get a downfall
-because they do not practise Yama to begin with. They jump at once to
-the practice of concentration and meditation. This is sad mistake.Darpa
-Haughtiness. A man whose heart is filled with haughtiness becomes very
-insolent and unjust and assumes an overbearing and domineering attitude
-towards others he never respects the elders; Gurus and others. This is a
-peculiar vice that has its seat in the mind. When this evil ality
-manifests itself; one swerves from the path of virtue.Krodha Anger
-manifests itself when one gets something unplesant and when he comes
-across something disagreeable.These Asuras hate Me; the Lord Who dwells
-in their own bodies as the silent witness of their thoughts and actions.
-They think that I am also a human being and hate Me. They do not
-understand My allpervading and imperishable nature. They do not care at
-all to know and follow. My ;nds or the injunctions given in the Vedas
-and the Smritis. If anyone violates My ;nds given in the scriptures; it
-is surely tantamount to an act of hatred towards Me. These people are
-very malicious. They have evil intentions or impure motives. They are
-jealous of those persons who are virtuous and who tread the path of
-righteousness. Their hearts burn when they notice good alities in
-others. This is Matsarya; a form of jealousy. If a man superimposes evil
-alities on a virtuous man who is endowed with good alities; this is
-Asuya. If his heart burns when he sees a wealthy or prosperous man; this
-is Irshya.
+क्रोधम् anger; च and; संश्रिताः possessed of; माम् Me; आत्मपरदेहेषु in their own bodies and in those of others; प्रद्विषन्तः hating; अभ्यसूयकाः
+(these) malicious people.Commentary They are selfsufficient and puffed up with mental and material power. They pose too much. They resent it much if they are belittled. The body is dearer to them than everything else. They live solely for it. If anybody tries to thwart their plans or schemes they become bitterly hostile towards him. They take vengeance on him and try to kill him mercilessly. They are extremely meanminded. Just as darness seems to be denser after night sets in; so also as their,folly increases; their arrogance grows; their egoism develops;
+their pride swells; and their delusion augments day by day. They use brutal force to gain their selfish ends. They abuse and illtreat all those people who are truthful and charitable; and who are devoted to Me.Ahamkaram Egoism The selfarrogating principle; the effect or modification of ignorance. This is the source of all the defects and perversities in human nature and of all evil actions. Lust; anger;
+greed; pride and hypocrisy are all attendants of egoism. It is very difficult to overcome this dire enemy; but through Vichara (right eniry)
+it can be annihilated.These Asuras who are very egoistic on account of their deep ignorance esteem themselves very highly for the alities they possess and for those which they falsely superimpose upon themselves.
+They think that they are very great persons on account of the good alities which they have superimposed upon themselves and their egoism is increased thery. They try to humiliate others by using their financial supremacy. They will bribe people to give false evidence and do anything to attain their selfish ends.Balam Power accompanied by lust and attachment. The Asuras use their strength of body to humiliate and destroy others. If a man is not established in Yama (the fivefold canon of ethical perfection; consisting of noninjury; truthfulness;
+nonstealing; celibacy and noncovetousness); if he has no purity of heart; if his mind is surcharged or saturated with evil tendencies; and if he gets power of any sort; he will misuse or abuse it and try to humiliate or abuse others. Powers or Siddhis are bound to come if one practises concentration of mind. If he is endowed with Yama; he will never misuse them and so he will never have a downfall. That is the reason why Patanjali Maharshi says Powers are obstacles on the path of Yoga. Shun them ruthlessly. March onwards to the goal. Climb the ladder of Yoga till you attain the highest state of superconsciousness or Godconsciousness. Do not look back. Have no memories of the past.Yama is the very foundation of Yoga. Get yourself established in Yama before you take to concentration and meditation. Many aspirants get a downfall because they do not practise Yama to begin with. They jump at once to the practice of concentration and meditation. This is sad mistake.Darpa Haughtiness. A man whose heart is filled with haughtiness becomes very insolent and unjust and assumes an overbearing and domineering attitude towards others he never respects the elders; Gurus and others. This is a peculiar vice that has its seat in the mind. When this evil ality manifests itself; one swerves from the path of virtue.Krodha Anger manifests itself when one gets something unplesant and when he comes across something disagreeable.These Asuras hate Me; the Lord Who dwells in their own bodies as the silent witness of their thoughts and actions.
+They think that I am also a human being and hate Me. They do not understand My allpervading and imperishable nature. They do not care at all to know and follow. My ;nds or the injunctions given in the Vedas and the Smritis. If anyone violates My ;nds given in the scriptures; it is surely tantamount to an act of hatred towards Me. These people are very malicious. They have evil intentions or impure motives. They are jealous of those persons who are virtuous and who tread the path of righteousness. Their hearts burn when they notice good alities in others. This is Matsarya; a form of jealousy. If a man superimposes evil alities on a virtuous man who is endowed with good alities; this is Asuya. If his heart burns when he sees a wealthy or prosperous man; this is Irshya.
 
 </details>
 </div>

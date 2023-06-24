@@ -80,20 +80,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.19 In the case of an aspirant for release, all undertakings of actions
-in the form of obligatory, occasional and desiderative acts accomplished
-through the acisition of materials for their performance as also other
-works, are free from desire, i.e., are devoid of attachment to fruits.
-They are devoid of delusive identification. If the mind identifies the
-self with Prakrti and its Gunas, it is Sankalpa, i.e., 'delusive
-identification.' Genuine Karma Yoga is free from such identification.
-Such identification is overcome through contemplation on the real nature
-of the self as different from Prakrti. Those who know the truth call him
-a sage, who acts in this way and whose previous Karmas are thery burnt
-up by the fire of knowledge of the real nature of the self generated
-along with his actions. He is a true Karma Yogin. Thus that knowledge is
-involved in true Karma Yoga, is established. Sri Krsna elaborates this
-point again:
+4.19 In the case of an aspirant for release, all undertakings of actions in the form of obligatory, occasional and desiderative acts accomplished through the acisition of materials for their performance as also other works, are free from desire, i.e., are devoid of attachment to fruits.
+They are devoid of delusive identification. If the mind identifies the self with Prakrti and its Gunas, it is Sankalpa, i.e., 'delusive identification.' Genuine Karma Yoga is free from such identification.
+Such identification is overcome through contemplation on the real nature of the self as different from Prakrti. Those who know the truth call him a sage, who acts in this way and whose previous Karmas are thery burnt up by the fire of knowledge of the real nature of the self generated along with his actions. He is a true Karma Yogin. Thus that knowledge is involved in true Karma Yoga, is established. Sri Krsna elaborates this point again:
 
 </details>
 </div>
@@ -440,37 +429,29 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.19. He, whose every exertion is devoid of intention for the desirable
-objects, and whose actions are burnt up by the fire of wisdom-him the
-wise call a man of learning.
+4.19. He, whose every exertion is devoid of intention for the desirable objects, and whose actions are burnt up by the fire of wisdom-him the wise call a man of learning.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.19 The wise call him learned whose actions are all devoid of desires
-and their thougts, \[Kama-sankalpa is variously translated as 'desires
-and purposes', 'plans and desires for results', 'hankering for desires',
-etc. But Sankarcarya shows sankalpa as the cause of kama. -Tr.\] and
-whose actions have been burnt away by the fire of wisdom.
+4.19 The wise call him learned whose actions are all devoid of desires and their thougts, \[Kama-sankalpa is variously translated as 'desires and purposes', 'plans and desires for results', 'hankering for desires',
+etc. But Sankarcarya shows sankalpa as the cause of kama. -Tr.\] and whose actions have been burnt away by the fire of wisdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.19 The wise call him a sage, for whatever he undertakes is free from
-the motive of desire, and his deeds are purified by the fire of Wisdom.
+4.19 The wise call him a sage, for whatever he undertakes is free from the motive of desire, and his deeds are purified by the fire of Wisdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/19_yasya_sarve.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.19 He whose every undertaking is free from desire and delusive
-identification (of the body with the self), whose actions are burnt up
-in the fire of knowledge - him the wise describe as a sage.
+4.19 He whose every undertaking is free from desire and delusive identification (of the body with the self), whose actions are burnt up in the fire of knowledge - him the wise describe as a sage.
 
 </details>
 </div>
@@ -478,8 +459,7 @@ in the fire of knowledge - him the wise describe as a sage.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 4.19 He whose undertakings are all devoid of desires and (selfish)
-purposes and whose actions have been burnt by the fire of knowledge, him
-the wise call a sage.
+purposes and whose actions have been burnt by the fire of knowledge, him the wise call a sage.
 
 </details>
 </div>
@@ -487,17 +467,7 @@ the wise call a sage.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 4.19 यस्य whose; सर्वे all; समारम्भाः undertakings; कामसङ्कल्पवर्जिताः
-devoid of desires and purposes; ज्ञानाग्निदग्धकर्माणम् whose actions
-have been burnt by the fire of knowledge; तम् him; आहुः call; पण्डितम् a
-sage; बुधाः the wise.Commentary A sage performs actions only with a view
-to set an example to the masses. Though he works; he does nothing as he
-has no selfish interests; as his actions are burnt by the fire of wisdom
-which consists in the realisaion of inaction in action; through the
-knowledge of the Self or BrahmaJnana. BrahmaJnana is a mighty spiritual
-fire which consumes the results of all kinds of actions (Karmas); good
-and bad; and makes the enlightened sage ite free from the bonds of
-action. The sage who leads a life of perfect renunciation does only what
-is reired for the bare existence of his body. (Cf.III.19IV.10IV.37).
+devoid of desires and purposes; ज्ञानाग्निदग्धकर्माणम् whose actions have been burnt by the fire of knowledge; तम् him; आहुः call; पण्डितम् a sage; बुधाः the wise.Commentary A sage performs actions only with a view to set an example to the masses. Though he works; he does nothing as he has no selfish interests; as his actions are burnt by the fire of wisdom which consists in the realisaion of inaction in action; through the knowledge of the Self or BrahmaJnana. BrahmaJnana is a mighty spiritual fire which consumes the results of all kinds of actions (Karmas); good and bad; and makes the enlightened sage ite free from the bonds of action. The sage who leads a life of perfect renunciation does only what is reired for the bare existence of his body. (Cf.III.19IV.10IV.37).
 
 </details>
 </div>

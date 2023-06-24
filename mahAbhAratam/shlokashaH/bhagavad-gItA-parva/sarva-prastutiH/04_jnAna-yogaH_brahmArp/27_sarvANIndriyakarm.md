@@ -56,12 +56,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.27 Some again offer as oblations all the functions of the senses, the
-activities of the vital breath etc., into the fire of Yoga of restraint
-of the mind kindled by knowledge. They endeavour to prevent the mind
-from getting attached to the functions of the senses and vital breaths.
-That is, by contemplating on the self they sublimate these energies and
-overcome even the lurking subtle desires for them.
+4.27 Some again offer as oblations all the functions of the senses, the activities of the vital breath etc., into the fire of Yoga of restraint of the mind kindled by knowledge. They endeavour to prevent the mind from getting attached to the functions of the senses and vital breaths.
+That is, by contemplating on the self they sublimate these energies and overcome even the lurking subtle desires for them.
 
 </details>
 </div>
@@ -377,8 +373,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.27. Some others offer all actions of their sense-organs and the
-actions of their life-breath into the fire of Yoga of the self control,
+4.27. Some others offer all actions of their sense-organs and the actions of their life-breath into the fire of Yoga of the self control,
 set ablaze by wisdom.
 
 </details>
@@ -386,35 +381,28 @@ set ablaze by wisdom.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.27 Others offer all the activities of the organs and the activities of
-the vital force into the fire of the yoga of sel-control which has been
-lighted by Knowledge.
+4.27 Others offer all the activities of the organs and the activities of the vital force into the fire of the yoga of sel-control which has been lighted by Knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.27 Other again sacrifice their activities and their vitality in the
-Spiritual fire of self-abnegation, kindled by wisdom.
+4.27 Other again sacrifice their activities and their vitality in the Spiritual fire of self-abnegation, kindled by wisdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.27 Some again offer as oblation the functions of the senses and the
-activity of the vital breaths into the fire of the Yoga of restraint of
-the mind kindled by knowledge.
+4.27 Some again offer as oblation the functions of the senses and the activity of the vital breaths into the fire of the Yoga of restraint of the mind kindled by knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/27_sarvANIndriyakarm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.27 Others again sacrifice all the functions of the senses and those of
-the breath (vital energy or Prana) in the fire of the Yoga of
-self-restraint kindled by knowledge.
+4.27 Others again sacrifice all the functions of the senses and those of the breath (vital energy or Prana) in the fire of the Yoga of self-restraint kindled by knowledge.
 
 </details>
 </div>
@@ -424,11 +412,7 @@ self-restraint kindled by knowledge.
 4.27 सर्वाणि all; इन्द्रियकर्माणि functions of the senses; प्राणकर्माणि
 functions of the breath (vital energy); च and; अपरे other;
 आत्मसंयमयोगाग्नौ in the fire of the Yoga of selfrestraitn; जुह्वति
-sacrifice; ज्ञानदीपिते kindled by knowledge.Commentary Just as a lamp is
-kindled by oil; so also the fire of the Yoga of selfcontrol is kindled
-by knowledge. When the Yogi concentrates or fixes his mind on Brahman or
-the Self; the senses and the breath cease to function. The senses and
-the breath are absorbed into their cause.
+sacrifice; ज्ञानदीपिते kindled by knowledge.Commentary Just as a lamp is kindled by oil; so also the fire of the Yoga of selfcontrol is kindled by knowledge. When the Yogi concentrates or fixes his mind on Brahman or the Self; the senses and the breath cease to function. The senses and the breath are absorbed into their cause.
 
 </details>
 </div>

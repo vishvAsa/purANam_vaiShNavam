@@ -88,21 +88,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/31_xipram_bhavati.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.31 Quickly he becomes righteous, the Gunas of Rajas and Tamas in him
-being eradicated with their roots, as he has shaken off all evils
-through the worship of Myself without any ulterior motive but only
-because of My being dear to him. Quickly he becomes one whose mind is
-specially attuned to My worship with all the ancillaries and having all
-the obstacles removed. It is this kind of worship which was alluded to
-by the term. Dharma at the commencement of this chapter thus:
-'Asraddhadanah purusa dharmasy'asya' etc., (9.3). Such a person obtains
-enduring peace, i.e., he attains to an eternal state, free from conduct
-contrary to the attainment of Myself, and from which there will be no
-return to Samsara. O Arjuna, you may affirm that one who has begun to
-worship Me in this way will not perish even though he is tarnished by
-some misconduct in the past. On account of his devotion to Me, he
-annihilates the entire host of obstacles. After obtaining eternal state
-of freedom from obstacles, he ickly obtains perfect Bhakti.
+9.31 Quickly he becomes righteous, the Gunas of Rajas and Tamas in him being eradicated with their roots, as he has shaken off all evils through the worship of Myself without any ulterior motive but only because of My being dear to him. Quickly he becomes one whose mind is specially attuned to My worship with all the ancillaries and having all the obstacles removed. It is this kind of worship which was alluded to by the term. Dharma at the commencement of this chapter thus:
+'Asraddhadanah purusa dharmasy'asya' etc., (9.3). Such a person obtains enduring peace, i.e., he attains to an eternal state, free from conduct contrary to the attainment of Myself, and from which there will be no return to Samsara. O Arjuna, you may affirm that one who has begun to worship Me in this way will not perish even though he is tarnished by some misconduct in the past. On account of his devotion to Me, he annihilates the entire host of obstacles. After obtaining eternal state of freedom from obstacles, he ickly obtains perfect Bhakti.
 
 </details>
 </div>
@@ -445,33 +432,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/31_xipram_bhavati.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.31. Quickly he becomes righteous-souled (minded) and attains peace
-permanently. O son of Kunti ! I swear that my devotee gets never lost.
+9.31. Quickly he becomes righteous-souled (minded) and attains peace permanently. O son of Kunti ! I swear that my devotee gets never lost.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/31_xipram_bhavati.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.31 He soon becomes possessed of a virtuous mind; he attains
-everlasting peace. Do you proclain boldly, O son of Kunti, that My
-devotee does not get ruined.
+9.31 He soon becomes possessed of a virtuous mind; he attains everlasting peace. Do you proclain boldly, O son of Kunti, that My devotee does not get ruined.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/31_xipram_bhavati.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.31 He shall attain spirituality ere long, and Eternal Peace shall be
-his. O Arjuna! Believe me, My devotee is never lost.
+9.31 He shall attain spirituality ere long, and Eternal Peace shall be his. O Arjuna! Believe me, My devotee is never lost.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/31_xipram_bhavati.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.31 Quickly he becomes righteous and obtains everlasting peace. Affirm
-on My behalf, O Arjuna, My devotee never perishes.
+9.31 Quickly he becomes righteous and obtains everlasting peace. Affirm on My behalf, O Arjuna, My devotee never perishes.
 
 </details>
 </div>
@@ -489,9 +471,7 @@ proclaim thou for certain that My devotee never perishes.
 9.31 क्षिप्रम् soon; भवति (he) becomes; धर्मात्मा righteous; शश्वत्
 eternal; शान्तिम् peace; निगच्छति attains to; कौन्तेय O son of Kunti;
 प्रतिजानीहि proclaim for certain; न not; मे My; भक्तः Bhakta; प्रणश्यति
-perishes.Commentary Listen; this is the truth; O Arjuna you may proclaim
-that My devotee who has sincere devotion to Me; who has offered his
-inner soul to Me never perishes.
+perishes.Commentary Listen; this is the truth; O Arjuna you may proclaim that My devotee who has sincere devotion to Me; who has offered his inner soul to Me never perishes.
 
 </details>
 </div>

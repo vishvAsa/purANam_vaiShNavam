@@ -74,16 +74,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 13.12 'Adhyatma-jnana' is the knowledge that pertains to the self.
-Reflection for the attainment of knowledge of the truth, namely, being
-always intent in the thought having for its object the knowledge of the
-truth. 'Knowledge' is that by which the self is realised. The meaning is
-that it is the means for the knowledge of the self. The group of
-attributes mentioned before, beginning with modesty etc., are those that
-are favourable for the knowledge of the self in association with the
-body. All the evolutes of Ksetra, which are different from those
-mentioned above, constitute ignorance, as they are antagonistic to the
-knowledge of the self. Now, the nature of Ksetrajna, characterised as
-the knower in the stanza, 'He who knows it' (13.1), is examined:
+Reflection for the attainment of knowledge of the truth, namely, being always intent in the thought having for its object the knowledge of the truth. 'Knowledge' is that by which the self is realised. The meaning is that it is the means for the knowledge of the self. The group of attributes mentioned before, beginning with modesty etc., are those that are favourable for the knowledge of the self in association with the body. All the evolutes of Ksetra, which are different from those mentioned above, constitute ignorance, as they are antagonistic to the knowledge of the self. Now, the nature of Ksetrajna, characterised as the knower in the stanza, 'He who knows it' (13.1), is examined:
 
 </details>
 </div>
@@ -452,18 +443,15 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/12_adhyAtmajnAnanity.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.12. Constancy in the Self-knowledge; and viewing things of knowing
-the Reality-all this is declared to be \[conducive to or manifesting\]
-true knowledge, and what is opposed to this is \[conducive to or
-manifesting\] wrong knowledge.
+13.12. Constancy in the Self-knowledge; and viewing things of knowing the Reality-all this is declared to be \[conducive to or manifesting\]
+true knowledge, and what is opposed to this is \[conducive to or manifesting\] wrong knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/12_adhyAtmajnAnanity.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.12 Steadfastness in the knowledge of the Self, contemplation on the
-Goal of the knowledge of Reality-this is spoken of as Knowledge.
+13.12 Steadfastness in the knowledge of the Self, contemplation on the Goal of the knowledge of Reality-this is spoken of as Knowledge.
 Ignorance is that which is other than this.
 
 </details>
@@ -471,8 +459,7 @@ Ignorance is that which is other than this.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/12_adhyAtmajnAnanity.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.12 Constant yearning for the knowledge of Self, and pondering over
-the lessons of the great Truth - this is Wisdom, all else ignorance.
+13.12 Constant yearning for the knowledge of Self, and pondering over the lessons of the great Truth - this is Wisdom, all else ignorance.
 
 </details>
 </div>
@@ -480,17 +467,14 @@ the lessons of the great Truth - this is Wisdom, all else ignorance.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 13.12 Constant contemplation on the knowledge pertaining to the self,
-reflection for the attainment of knowledge of the truth - this is
-declared to be knowledge, and what is contrary to it is ignorance.
+reflection for the attainment of knowledge of the truth - this is declared to be knowledge, and what is contrary to it is ignorance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/12_adhyAtmajnAnanity.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.12 Constancy in Self-knowledge, perception of the end of true
-knowledge this is declared to be knowledge, and what is opposed to it is
-ignorance.
+13.12 Constancy in Self-knowledge, perception of the end of true knowledge this is declared to be knowledge, and what is opposed to it is ignorance.
 
 </details>
 </div>
@@ -500,27 +484,9 @@ ignorance.
 13.12 अध्यात्मज्ञाननित्यत्वम् constancy in Selfknowledge;
 तत्त्वज्ञानार्थदर्शनम् perception of the end of true knowledge; एतत्
 this; ज्ञानम् knowledge; इति thus; प्रोक्तम् declared; अज्ञानम्
-ignorance; यत् which; अतः from it; अन्यथा opposed.Commentary The
-liberated sage has constant awareness of the Self. He knows that
-knowledge of the Self alone is permanent and all other learning relating
-to this world is ignorance. He knows that the knowledge which leads to
-the realisation of the Self is the only truth.These attributes beginning
-with humility are declared to be knowledge; because they are conducive
-to knowledge they are the means to knowledge. They are secondary or
-auxiliary causes of knowledge. The fruit of this knowledge of the Self
-is deliverance from the round of births and deaths. The spiritual
-aspirant should always keep the end of knowledge in view. Only then will
-he attempt to develop the various virtues which are conducive to the
-attainment of knowledge of the Self. What is opposed to knowledge; viz.;
+ignorance; यत् which; अतः from it; अन्यथा opposed.Commentary The liberated sage has constant awareness of the Self. He knows that knowledge of the Self alone is permanent and all other learning relating to this world is ignorance. He knows that the knowledge which leads to the realisation of the Self is the only truth.These attributes beginning with humility are declared to be knowledge; because they are conducive to knowledge they are the means to knowledge. They are secondary or auxiliary causes of knowledge. The fruit of this knowledge of the Self is deliverance from the round of births and deaths. The spiritual aspirant should always keep the end of knowledge in view. Only then will he attempt to develop the various virtues which are conducive to the attainment of knowledge of the Self. What is opposed to knowledge; viz.;
 lust; anger; greed; pride; hypocrisy; attachment; cunningness;
-diplomacy; injuring others; is ignorance. These evil traits which are
-the products of ignorance bind a man to Samsara. If you wish to attain
-the knowledge of the Self you will have to eradicate these evil traits
-which stand as stumbling blocks on the path of salvation. If you
-cultivate the opposite virtues; the evil traits will die by themselves
-just as the plants which are deprived of water in a garden die by
-themselves. It is difficult to eradicate the evil traits by fighting
-against them.
+diplomacy; injuring others; is ignorance. These evil traits which are the products of ignorance bind a man to Samsara. If you wish to attain the knowledge of the Self you will have to eradicate these evil traits which stand as stumbling blocks on the path of salvation. If you cultivate the opposite virtues; the evil traits will die by themselves just as the plants which are deprived of water in a garden die by themselves. It is difficult to eradicate the evil traits by fighting against them.
 
 </details>
 </div>

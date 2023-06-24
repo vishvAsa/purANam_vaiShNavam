@@ -145,21 +145,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.10 As there is the scriptural text beginning with 'The Lord of
-Universe' (Tai. Na., 11.3), it is justifiable to take the term Prajapati
-in its wider connotation and interpret it to mean Narayana who is the
-Lord of all beings, the creator of the universe and the Self of the
-universe. In the beginning, i.e., during the creation, He, the Lord of
-beings, saw all beings helpless by their conjunction with beginningless
-non-conscient matter, bereft of the distinctions of name and form, and
-submerged in Himself. They were incapable of attaining the major ends of
-human existence, being almost one with non-conscient matter. He, the
-supremely compassionate, with a desire to resuscitate them, created them
-together with sacrifice in order that they might perform sacrifices as
-His worship and said: 'By this sacrifice, shall you prosper,' i.e.,
-multiply and prosper. May this sacrifice fulfil your supreme object of
-desire called release (Moksa) and also the other desires that are in
-conformity with it. How, then, should this be done;
+3.10 As there is the scriptural text beginning with 'The Lord of Universe' (Tai. Na., 11.3), it is justifiable to take the term Prajapati in its wider connotation and interpret it to mean Narayana who is the Lord of all beings, the creator of the universe and the Self of the universe. In the beginning, i.e., during the creation, He, the Lord of beings, saw all beings helpless by their conjunction with beginningless non-conscient matter, bereft of the distinctions of name and form, and submerged in Himself. They were incapable of attaining the major ends of human existence, being almost one with non-conscient matter. He, the supremely compassionate, with a desire to resuscitate them, created them together with sacrifice in order that they might perform sacrifices as His worship and said: 'By this sacrifice, shall you prosper,' i.e.,
+multiply and prosper. May this sacrifice fulfil your supreme object of desire called release (Moksa) and also the other desires that are in conformity with it. How, then, should this be done;
 
 </details>
 </div>
@@ -444,58 +431,42 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 3.10. Having created creatures formerly \[at the time of creation\]
-together with necessary action, the Lord of creatures declared : 'By
-means of this, you shalll propagate yourselves; and let this be your
-wish-fulfilling-cow.'
+together with necessary action, the Lord of creatures declared : 'By means of this, you shalll propagate yourselves; and let this be your wish-fulfilling-cow.'
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.10 In the days of yore, having created the beings together with the
-sacrifices, Prajapati said: 'By this you multiply. Let this be your
-yielder of coveted objects of desire.'
+3.10 In the days of yore, having created the beings together with the sacrifices, Prajapati said: 'By this you multiply. Let this be your yielder of coveted objects of desire.'
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.10 In the beginning, when God created all beings by the sacrifice of
-Himself, He said unto them: Through sacrifice you can procreate, and it
-shall satisfy all your desires.
+3.10 In the beginning, when God created all beings by the sacrifice of Himself, He said unto them: Through sacrifice you can procreate, and it shall satisfy all your desires.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.10 In the beginning the Lord of all beings, creating man along with
-the sacrifice, said: 'By this shall you prosper; this shall be the cow
-of plenty granting all your wants.'
+3.10 In the beginning the Lord of all beings, creating man along with the sacrifice, said: 'By this shall you prosper; this shall be the cow of plenty granting all your wants.'
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.10 The Creator, having in the beginning (of creation) created mankind
-together with sacrifice, said, "By this shall ye propagate; let this be
-the milch cow of your desires (the cow which yields all the desired
-objects)."
+3.10 The Creator, having in the beginning (of creation) created mankind together with sacrifice, said, "By this shall ye propagate; let this be the milch cow of your desires (the cow which yields all the desired objects)."
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/03_karma-yogaH/10_sahayajnAH_prajAH.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-3.10 सहयज्ञाः together with sacrifice; प्रजाः mankind; सृष्ट्वा having
-created; पुरा in the beginning; उवाच said; प्रजापतिः Prajapati; अनेन by
-this; प्रसविष्यध्वम् shall ye propagate; एषः this; वः your; अस्तु let
-be; इष्टकामधुक् milch cow of desires.Commentary Prajapati is the Creator
-or Brahma. Kamadhuk is another name for the cow Kamadhenu. Kamadhenu is
-the cow of Indra from which everyone can milk whatever one desires.
+3.10 सहयज्ञाः together with sacrifice; प्रजाः mankind; सृष्ट्वा having created; पुरा in the beginning; उवाच said; प्रजापतिः Prajapati; अनेन by this; प्रसविष्यध्वम् shall ye propagate; एषः this; वः your; अस्तु let be; इष्टकामधुक् milch cow of desires.Commentary Prajapati is the Creator or Brahma. Kamadhuk is another name for the cow Kamadhenu. Kamadhenu is the cow of Indra from which everyone can milk whatever one desires.
 (Cf.VIII.4IX.2427X.25).
 
 </details>

@@ -56,13 +56,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/24_ahaM_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.24 I am 'the only Lord' - the meaning is that I alone am the bestower
-of rewards everywhere. How wonderful is this, that though devoting
-themselves to the same kind of action, on account of the difference in
-intention some partake of a very small reward with the likelihood of
-fall, while some others partake of a reward in the form of attainment of
-the Supreme Person which is unalloyed, limitless, and incomparable! Sri
-Krsna explains this:
+9.24 I am 'the only Lord' - the meaning is that I alone am the bestower of rewards everywhere. How wonderful is this, that though devoting themselves to the same kind of action, on account of the difference in intention some partake of a very small reward with the likelihood of fall, while some others partake of a reward in the form of attainment of the Supreme Person which is unalloyed, limitless, and incomparable! Sri Krsna explains this:
 
 </details>
 </div>
@@ -352,7 +346,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।9.24।। क्योंकि सब यज्ञों का भोक्ता और स्वामी मैं ही हूँ, परन्तु वे
-मुझे तत्त्वतः नहीं जानते हैं, इसलिए वे गिरते हैं, अर्थात् संसार को
+मुझे तत्त्वत: नहीं जानते हैं, इसलिए वे गिरते हैं, अर्थात् संसार को
 प्राप्त होते हैं।।
 
 </details>
@@ -449,16 +443,14 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 9.24. Because, I am the enjoyer as well as the lord of all sacrifices.
-But they do not recognise Me correctly and hence they move away \[from
-Me\].
+But they do not recognise Me correctly and hence they move away \[from Me\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/24_ahaM_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.24 I indeed am the enjoyer as also the Lord of all sacrifices; but
-they do not know Me in reality. Therefore they fall.
+9.24 I indeed am the enjoyer as also the Lord of all sacrifices; but they do not know Me in reality. Therefore they fall.
 
 </details>
 </div>
@@ -493,18 +485,7 @@ but they do not know Me in essence (in reality), and hence they fall
 9.24 अहम् I; हि verily; सर्वयज्ञानाम् of all sacrifices; भोक्ता enjoyer;
 च and; प्रभुः Lord; एव alone; च and; न not; तु but; माम् Me; अभिजानन्ति
 know; तत्त्वेन in essence (or in reality); अतः hence; च्यवन्ति fall; ते
-they.Commentary They do not know that I; the Supreme Self; am the
-enjoyer of all sacrifices enjoined in the Vedas and the Smritis (the
-codes of right conduct) and the Lord of all sacrifices. As I am the
-inner Ruler of this world I am the Lord of all sacrifices (Vide chapter
-VIII. 4 -- Adhiyajnohamevatra I am the presiding deity of the
-sacrifice). I am at the beginning and at the end of every sacrifice and
-yet these people worship other gods. Therefore they worship in
-ignorance. As they worhsip other gods without recognising Me; and as
-they have not consecrated their actions to Me; they return to this
-mortal world after their merits are exhausted from the plane to which
-they had attained as the result of their sacrifices.Those who are
-devoted to other gods and who worship Me in ignorance (Avidhipurvakam)
+they.Commentary They do not know that I; the Supreme Self; am the enjoyer of all sacrifices enjoined in the Vedas and the Smritis (the codes of right conduct) and the Lord of all sacrifices. As I am the inner Ruler of this world I am the Lord of all sacrifices (Vide chapter VIII. 4 -- Adhiyajnohamevatra I am the presiding deity of the sacrifice). I am at the beginning and at the end of every sacrifice and yet these people worship other gods. Therefore they worship in ignorance. As they worhsip other gods without recognising Me; and as they have not consecrated their actions to Me; they return to this mortal world after their merits are exhausted from the plane to which they had attained as the result of their sacrifices.Those who are devoted to other gods and who worship Me in ignorance (Avidhipurvakam)
 also get the fruit of sacrifice. How (Cf.V.29XV.9)
 
 </details>

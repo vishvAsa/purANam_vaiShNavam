@@ -95,28 +95,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/16_jnAnena_tu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.16 While all these selves are thus deluded, in the case of enlightened
-souls, their delusive ignorance - which envelops knowledge and which is
-of the form of accumulated, beginningless and endless Karma - is
-destroyed by knowledge. As already described this knowledge is produced
-by the teachings of the scriptures about the real nature of the self,
-which are enriched by daily practice. The purity of this knowledge is
-unexcelled. And in the case of those selves who regain the knowledge
-that is natural to Them, it is found that it is unlimited and
-uncontracted and illumining everything like the sun. Plurality of the
-selves in Their essence is expressly mentioned in the case of those
-whose ignorance is overcome, in the expression 'for those' in the text.
-What was stated at the commencement, 'There never was a time when I did
-not exist' (2.12) is expressed here with greater clarity. Moreover, this
-plurality is not due to limiting adjuncts imposed on a single universal
-self. For, as stated here, there cannot be any trace of such adjuncts
-for those whose ignorance is destroyed, and still They are described as
-a plurality. Hence knowledge is taught as an attribute inseparable from
-the essential nature of the self, because a difference between the self
-and its knowledge is made out in the statement, 'Knowledge, in their
-case illuminates like the sun'. By the illustration of the sun, the
-relation of the knower to his knowledge is brought out to be similar to
-the luminous object and its luminosity. Therefore, it is appropriate to
+5.16 While all these selves are thus deluded, in the case of enlightened souls, their delusive ignorance - which envelops knowledge and which is of the form of accumulated, beginningless and endless Karma - is destroyed by knowledge. As already described this knowledge is produced by the teachings of the scriptures about the real nature of the self,
+which are enriched by daily practice. The purity of this knowledge is unexcelled. And in the case of those selves who regain the knowledge that is natural to Them, it is found that it is unlimited and uncontracted and illumining everything like the sun. Plurality of the selves in Their essence is expressly mentioned in the case of those whose ignorance is overcome, in the expression 'for those' in the text.
+What was stated at the commencement, 'There never was a time when I did not exist' (2.12) is expressed here with greater clarity. Moreover, this plurality is not due to limiting adjuncts imposed on a single universal self. For, as stated here, there cannot be any trace of such adjuncts for those whose ignorance is destroyed, and still They are described as a plurality. Hence knowledge is taught as an attribute inseparable from the essential nature of the self, because a difference between the self and its knowledge is made out in the statement, 'Knowledge, in their case illuminates like the sun'. By the illustration of the sun, the relation of the knower to his knowledge is brought out to be similar to the luminous object and its luminosity. Therefore, it is appropriate to
 understand that knowledge contracts by Karma in the stage of Samsara and
 expands in the stage of Moksa (release). \[In this system the Atman has
 two forms of Jnana or Knowledge - Dharmi-Jnana (self-awareness) and
@@ -458,8 +439,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/16_jnAnena_tu.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.16. In the case of those whose Illusion has been, however, destroyed
-by the Self-knowledge, then for them that knowledge illumines itself,
+5.16. In the case of those whose Illusion has been, however, destroyed by the Self-knowledge, then for them that knowledge illumines itself,
 like the sun.
 
 </details>
@@ -467,8 +447,7 @@ like the sun.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/16_jnAnena_tu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.16 But in the case of those of whom that ignorance of theirs becomes
-destroyed by the knowledge (of the Self), their Knowledge, like the sun,
+5.16 But in the case of those of whom that ignorance of theirs becomes destroyed by the knowledge (of the Self), their Knowledge, like the sun,
 reveals that supreme Reality.
 
 </details>
@@ -476,25 +455,21 @@ reveals that supreme Reality.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/16_jnAnena_tu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.16 Surely wisdom is like the sun, revealing the supreme truth to those
-whose ignorance is dispelled by the wisdom of the Self.
+5.16 Surely wisdom is like the sun, revealing the supreme truth to those whose ignorance is dispelled by the wisdom of the Self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/16_jnAnena_tu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.16 But for those in whom this ignorance is destroyed by the knowledge
-of the self, that knowledge, in their case, is supreme and shines like
-the sun.
+5.16 But for those in whom this ignorance is destroyed by the knowledge of the self, that knowledge, in their case, is supreme and shines like the sun.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/16_jnAnena_tu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.16 But to those whose ignorance is destroyed by the knowledge of the
-Self, like the sun, knowledge reveals the Supreme (Brahman).
+5.16 But to those whose ignorance is destroyed by the knowledge of the Self, like the sun, knowledge reveals the Supreme (Brahman).
 
 </details>
 </div>
@@ -503,11 +478,8 @@ Self, like the sun, knowledge reveals the Supreme (Brahman).
 
 5.16 ज्ञानेन by wisdom; तु but; तत् that; अज्ञानम् ignorance; येषाम्
 whose; नाशितम् is destroyed; आत्मनः of the Self; तेषाम् their; आदित्यवत्
-like the sun; ज्ञानम् knowledge; प्रकाशयति reveals; तत्परम् that
-Highest.Commentary When ignorance; the root cause of human sufferings;
-is annihilated by the knowledge of the Self; this knowledge illuminates
-the Supreme Brahman or that highest immortal Being; just as the sun
-illumines all the objects of this gross; physical universe.
+like the sun; ज्ञानम् knowledge; प्रकाशयति reveals; तत्परम् that Highest.Commentary When ignorance; the root cause of human sufferings;
+is annihilated by the knowledge of the Self; this knowledge illuminates the Supreme Brahman or that highest immortal Being; just as the sun illumines all the objects of this gross; physical universe.
 
 </details>
 </div>

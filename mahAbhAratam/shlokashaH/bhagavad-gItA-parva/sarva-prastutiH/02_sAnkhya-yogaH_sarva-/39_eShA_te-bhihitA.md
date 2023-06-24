@@ -82,22 +82,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.39 'Sankhya' means 'intellect,' and the truth about the Atman, which
-is determinable by the intellect, is 'Sankhyam'. Concerning the nature
-of the self which has to be known, whatever Buddhi has to be taught, has
-been taught to you in the passage beginning with, 'It is not that I did
-not exist' (II.12) and ending with the words, 'Therefore, you shall not
-grieve for any being' (II.30). The disposition of mind (Buddhi) which is
-reired for the performance of works preceded by knowledge of the self
-and which thus constitutes the means of attaining release, that is here
-called by the term Yoga. It will be clearly told later on, 'Work done
-with desire for fruits is far inferior to work done with evennes of
-mind' (II. 49). What Buddhi or attitude of mind is reired for making
-your act deserve the name of Yoga, listen to it now. Endowed with that
-knowledge, you will be able to cast away the bondage of Karma.
-'Karma-bandha' means the bondage due to Karma i.e., the bondage of
-Samsara. Now Sri Krsna explains the glory of works associated with the
-Buddhi to be described hereafter:
+2.39 'Sankhya' means 'intellect,' and the truth about the Atman, which is determinable by the intellect, is 'Sankhyam'. Concerning the nature of the self which has to be known, whatever Buddhi has to be taught, has been taught to you in the passage beginning with, 'It is not that I did not exist' (II.12) and ending with the words, 'Therefore, you shall not grieve for any being' (II.30). The disposition of mind (Buddhi) which is reired for the performance of works preceded by knowledge of the self and which thus constitutes the means of attaining release, that is here called by the term Yoga. It will be clearly told later on, 'Work done with desire for fruits is far inferior to work done with evennes of mind' (II. 49). What Buddhi or attitude of mind is reired for making your act deserve the name of Yoga, listen to it now. Endowed with that knowledge, you will be able to cast away the bondage of Karma.
+'Karma-bandha' means the bondage due to Karma i.e., the bondage of Samsara. Now Sri Krsna explains the glory of works associated with the Buddhi to be described hereafter:
 
 </details>
 </div>
@@ -616,27 +602,21 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 2.39. Listen, how this knowledge, imparted \[to you\] for your sankhya,
-is \[also\] for the Yoga; endowed with which knowledge you shall cast
-off the bondage of action, O son of Prtha !
+is \[also\] for the Yoga; endowed with which knowledge you shall cast off the bondage of action, O son of Prtha !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.39 O Partha, this wisdom has been imparted to you from the standpoint
-of Self-realization. But listen to this (wisdom) from the standpoint of
-Yoga, endowed with which wisdom you will get rid of the bondage of
-action.
+2.39 O Partha, this wisdom has been imparted to you from the standpoint of Self-realization. But listen to this (wisdom) from the standpoint of Yoga, endowed with which wisdom you will get rid of the bondage of action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/39_eShA_te-bhihitA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.39 I have told thee the philosophy of Knowledge. Now listen and I will
-explain the philosophy of Action, by means of which, O Arjuna, thou
-shalt break through the bondage of all action.
+2.39 I have told thee the philosophy of Knowledge. Now listen and I will explain the philosophy of Action, by means of which, O Arjuna, thou shalt break through the bondage of all action.
 
 </details>
 </div>
@@ -644,8 +624,7 @@ shalt break through the bondage of all action.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 2.39 This Buddhi concerning the self (Sankhya) has been imparted to you.
-Now listen to this with regard to Yoga, by following which you will get
-rid of the bondage of Karma.
+Now listen to this with regard to Yoga, by following which you will get rid of the bondage of Karma.
 
 </details>
 </div>
@@ -653,8 +632,7 @@ rid of the bondage of Karma.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 2.39 This, which has been taught to thee, is wisdon concerning Sankhya.
-Now listen to wisdom concerning Yoga, endowed with which, O Arjuna, thou
-shalt cast off the bonds of action.
+Now listen to wisdom concerning Yoga, endowed with which, O Arjuna, thou shalt cast off the bonds of action.
 
 </details>
 </div>
@@ -664,21 +642,7 @@ shalt cast off the bonds of action.
 2.39 एषा this; ते to thee; अभिहिता (is) declared; साङ्ख्ये in Sankhya;
 बुद्धिः wisdom; योगे in the Yoga; तु indeed; इमाम् this; श्रृणु hear;
 बुद्ध्या with wisdom; युक्तः endowed with; यया which; पार्थ O Partha;
-कर्मबन्धम् bondage of Karma; प्रहास्यसि (thou) shalt cast off.Commentary
-Lord Krishna taught Jnana (knowledge) to Arjuna till now. (Sankhya Yoga
-is the path of Vedanta or Jnana Yoga; which treats of the nature of the
-Atman or the Self and the methods to attain Selfrealisation. It is not
-the Sankhya philosophy of sage Kapila.) He is now giving to teach Arjuna
-the technie or secret of Karma Yoga endowed with which he (or anybody
-else) can break through the bonds of Karma. The Karma Yogi should
-perform work without expectation of fruits of his actions; without the
-idea of agency (or the notin I do this); without attachment; after
-annihilating or going beyond all the pairs of opposites such as heat and
-cold; gain and loss; victoyr and defeat; etc. Dharma and Adharma; or
-merit and demerit will not touch that Karma Yogi who works without
-attachment and egoism. The Karma Yogi consecrates all his works and
-their fruits as offerings unto the Lord (Isvararpanam) and thus obtains
-the grace of the Lord (Isvaraprasada).
+कर्मबन्धम् bondage of Karma; प्रहास्यसि (thou) shalt cast off.Commentary Lord Krishna taught Jnana (knowledge) to Arjuna till now. (Sankhya Yoga is the path of Vedanta or Jnana Yoga; which treats of the nature of the Atman or the Self and the methods to attain Selfrealisation. It is not the Sankhya philosophy of sage Kapila.) He is now giving to teach Arjuna the technie or secret of Karma Yoga endowed with which he (or anybody else) can break through the bonds of Karma. The Karma Yogi should perform work without expectation of fruits of his actions; without the idea of agency (or the notin I do this); without attachment; after annihilating or going beyond all the pairs of opposites such as heat and cold; gain and loss; victoyr and defeat; etc. Dharma and Adharma; or merit and demerit will not touch that Karma Yogi who works without attachment and egoism. The Karma Yogi consecrates all his works and their fruits as offerings unto the Lord (Isvararpanam) and thus obtains the grace of the Lord (Isvaraprasada).
 
 </details>
 </div>

@@ -40,13 +40,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/06_na_chaitadvidmaH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.6 - 2.8 If you say, 'After beginning the war, if we withdraw from the
-battle, the sons of Dhrtarastra will slay us all forcibly', be it so. I
-think that even to be killed by them, who do not know the difference
-between righteousness and unrighteousness, is better for us than gaining
-unrighteous victory by killing them. After saying so, Arjuna surrendered
-himself at the feet of the Lord, overcome with dejection, saying. 'Teach
-me, your disciple, who has taken refuge in you, what is good for me.'
+2.6 - 2.8 If you say, 'After beginning the war, if we withdraw from the battle, the sons of Dhrtarastra will slay us all forcibly', be it so. I think that even to be killed by them, who do not know the difference between righteousness and unrighteousness, is better for us than gaining unrighteous victory by killing them. After saying so, Arjuna surrendered himself at the feet of the Lord, overcome with dejection, saying. 'Teach me, your disciple, who has taken refuge in you, what is good for me.'
 
 </details>
 </div>
@@ -346,10 +340,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/06_na_chaitadvidmaH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.6. Whether we should coner \[in the battle\], or they should coner
-us-we do not know this viz., 'which \[of those two\] is better for us'.
-\[For\], having killed whom, we would not wish to live at all, the same
-persons stand before us as Dhrtarastra's men.
+2.6. Whether we should coner \[in the battle\], or they should coner us-we do not know this viz., 'which \[of those two\] is better for us'.
+\[For\], having killed whom, we would not wish to live at all, the same persons stand before us as Dhrtarastra's men.
 
 </details>
 </div>
@@ -357,37 +349,29 @@ persons stand before us as Dhrtarastra's men.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 2.6 We do not know this as well as to which is the better for us, (and)
-whether we shall win, or whether they shall coner us. Those very sons of
-Dhrtarastra, by killing whom we do not wish to live, stand in
-confrontation.
+whether we shall win, or whether they shall coner us. Those very sons of Dhrtarastra, by killing whom we do not wish to live, stand in confrontation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/06_na_chaitadvidmaH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.6 Nor can I say whether it were better that they conquer me or for me
-to conquer them, since would no longer care to live if I killed these
-sons of Dhritarashtra, now preparing for fight.
+2.6 Nor can I say whether it were better that they conquer me or for me to conquer them, since would no longer care to live if I killed these sons of Dhritarashtra, now preparing for fight.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/06_na_chaitadvidmaH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.6 We do not know, which of the two is better for us - whether our
-vanishing them, or their vanishing us. The very sons of Dhrtarastra,
-whom, if we slay, we should not wish to live, even they are standing in
-array against us.
+2.6 We do not know, which of the two is better for us - whether our vanishing them, or their vanishing us. The very sons of Dhrtarastra,
+whom, if we slay, we should not wish to live, even they are standing in array against us.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/06_na_chaitadvidmaH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.6 I can hardly tell which will be better, that we should coner them or
-that they should coner us. Even the sons of Dhritarashtra, after slaying
-whom we do not wish to live, stand facing us.
+2.6 I can hardly tell which will be better, that we should coner them or that they should coner us. Even the sons of Dhritarashtra, after slaying whom we do not wish to live, stand facing us.
 
 </details>
 </div>

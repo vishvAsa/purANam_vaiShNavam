@@ -58,16 +58,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.15 Having attained Me, they are not subject to rirth, which leads to a
-condition that is transient and an abode of sorrow. These great souls,
-i.e., men of noble minds, worship and attains Me as the sorrow object of
-attainment; because they possess knowledge of My essential nature as it
-really is; they are unable to maintain or sustain themselves without Me,
-as I am exceedingly dear to them. With their minds deeply attached to Me
-and completely dependent on Me, they reach Me as the supreme goal. Sri
-Krsna next teaches the reason for the return to Samsara of those
-aspirants for Aisvarya (prosperity) and for the non-return to Samsara of
-those who have reached the Lord:
+8.15 Having attained Me, they are not subject to rirth, which leads to a condition that is transient and an abode of sorrow. These great souls,
+i.e., men of noble minds, worship and attains Me as the sorrow object of attainment; because they possess knowledge of My essential nature as it really is; they are unable to maintain or sustain themselves without Me,
+as I am exceedingly dear to them. With their minds deeply attached to Me and completely dependent on Me, they reach Me as the supreme goal. Sri Krsna next teaches the reason for the return to Samsara of those aspirants for Aisvarya (prosperity) and for the non-return to Samsara of those who have reached the Lord:
 
 </details>
 </div>
@@ -395,26 +388,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.15. Having attained Me, the men of great soul who have achieved the
-supreme perfection, do not get the transient rirth, a store-house of all
-troubles.
+8.15. Having attained Me, the men of great soul who have achieved the supreme perfection, do not get the transient rirth, a store-house of all troubles.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.15 As a result of reaching Me, the exalted ones who have attained the
-highest perfection do not get rirth which is an abode of sorrows and
-which is impermanent.
+8.15 As a result of reaching Me, the exalted ones who have attained the highest perfection do not get rirth which is an abode of sorrows and which is impermanent.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.15 Coming thus unto Me, these great souls go no more to the misery and
-death of earthly life, for they have gained perfection.
+8.15 Coming thus unto Me, these great souls go no more to the misery and death of earthly life, for they have gained perfection.
 
 </details>
 </div>
@@ -422,33 +410,17 @@ death of earthly life, for they have gained perfection.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 8.15 Having attained Me these great souls do not again take birth (here)
-which is the place of pain and is non-eternal: they have reached the
-highest perfection (liberation).
+which is the place of pain and is non-eternal: they have reached the highest perfection (liberation).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/08_axara-para-brahma-yo/15_mAmupetya_punarja.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-8.15 माम् to Me; उपेत्य having attained; पुनर्जन्म rirth; दुःखालयम् the
-place of pain; अशाश्वतम् noneternal; न not; आप्नुवन्ति get; महात्मानः
+8.15 माम् to Me; उपेत्य having attained; पुनर्जन्म rirth; दुःखालयम् the place of pain; अशाश्वतम् noneternal; न not; आप्नुवन्ति get; महात्मानः
 Mahatmas or the great souls; संसिद्धिम् to perfection; परमाम् highest;
-गताः having reached.Commentary Birth is the home of pain or seat of
-sorrow arising from the body. Study the Garbhopanishad. There the nature
-of pain; i.e.; how the child is confined in the womb; and how it is
-pressed during its passage along the vaginal canal and the neck of the
-womb or uterus; is described. Further it is much affected by the
-PrasutiVayu (the vital air which is responsible for the delivery of the
-child).Mahatmas (great souls) are free from Rajas and Tamas.Having
-attained Me This denotes KramaMukti or gradual liberation. The devotees
-who pass along the Devayana through the force of their Upasana; attain
-to Brahmaloka (the world of Brahma the Creator) or Satyaloka (the world
-of truth; the highest of the seven worlds) and there enjoy all the
-divine wealth and glory of the Lord and then attain to Kaivalya Moksha
-(final liberation) through the knowledge of Brahman; along with Brahma
-during the cosmic dissolution.Mahatmas or great souls who have attained
-Moksha do not come again to birth. Those who have not attained Me; take
-birth again in this world.
+गताः having reached.Commentary Birth is the home of pain or seat of sorrow arising from the body. Study the Garbhopanishad. There the nature of pain; i.e.; how the child is confined in the womb; and how it is pressed during its passage along the vaginal canal and the neck of the womb or uterus; is described. Further it is much affected by the PrasutiVayu (the vital air which is responsible for the delivery of the child).Mahatmas (great souls) are free from Rajas and Tamas.Having attained Me This denotes KramaMukti or gradual liberation. The devotees who pass along the Devayana through the force of their Upasana; attain to Brahmaloka (the world of Brahma the Creator) or Satyaloka (the world of truth; the highest of the seven worlds) and there enjoy all the divine wealth and glory of the Lord and then attain to Kaivalya Moksha
+(final liberation) through the knowledge of Brahman; along with Brahma during the cosmic dissolution.Mahatmas or great souls who have attained Moksha do not come again to birth. Those who have not attained Me; take birth again in this world.
 
 </details>
 </div>

@@ -85,21 +85,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.1 The Lord said He who, without depending on such fruits of works as
-heaven, etc., performs them, reflecting, 'The performance of works alone
-is my duty (Karya). Works themselves are my sole aim, because they are a
-form of worship of the Supreme Person who is our Friend in every way.
-There is nothing other than Him to be gained by them' - such a person is
-a Sannyasin, i.e., one devoted to Jnana Yoga, and also a Karma Yogin,
-i.e., one devoted to Karma Yoga. He is intent on both these, which is
-the means for attaining Yoga, which is of the nature of the vision of
-the self. 'And not he who maintains no sacred fires and performs no
-works,' i.e., not he who is disinclined to perform the enjoined works
-such as sacrifices, etc., nor he who is devoted to mere knowledge. The
-meaning is that such a person is devoted only to knowledge, whereas a
-person who is devoted to Karma Yoga has both knowledge and works. Now
-Sri Krsna teaches that there is an element of knowledge in the Karma
-Yoga as defined above.
+6.1 The Lord said He who, without depending on such fruits of works as heaven, etc., performs them, reflecting, 'The performance of works alone is my duty (Karya). Works themselves are my sole aim, because they are a form of worship of the Supreme Person who is our Friend in every way.
+There is nothing other than Him to be gained by them' - such a person is a Sannyasin, i.e., one devoted to Jnana Yoga, and also a Karma Yogin,
+i.e., one devoted to Karma Yoga. He is intent on both these, which is the means for attaining Yoga, which is of the nature of the vision of the self. 'And not he who maintains no sacred fires and performs no works,' i.e., not he who is disinclined to perform the enjoined works such as sacrifices, etc., nor he who is devoted to mere knowledge. The meaning is that such a person is devoted only to knowledge, whereas a person who is devoted to Karma Yoga has both knowledge and works. Now Sri Krsna teaches that there is an element of knowledge in the Karma Yoga as defined above.
 
 </details>
 </div>
@@ -592,10 +580,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.1. The Bhagavat said He who performs his bounden action, not depending
-on its fruit, in the man of renunciation and also the man of Yoga ! and
-not he, who remains \[simply\] without his fires and actions \[is a
-Samnyasin or a Yogin\]
+6.1. The Bhagavat said He who performs his bounden action, not depending on its fruit, in the man of renunciation and also the man of Yoga ! and not he, who remains \[simply\] without his fires and actions \[is a Samnyasin or a Yogin\]
 
 </details>
 </div>
@@ -611,8 +596,7 @@ without depending on the result of action, he is a monk and a yogi;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.1 "Lord Shri Krishna said: He who acts because it is his duty, not
-thinking of the consequences, is really spiritual and a true ascetic;
+6.1 "Lord Shri Krishna said: He who acts because it is his duty, not thinking of the consequences, is really spiritual and a true ascetic;
 and not he who merely observes rituals or who shuns all action.
 
 </details>
@@ -620,18 +604,14 @@ and not he who merely observes rituals or who shuns all action.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.1 The Lord said He who performs works that ought to be done without
-seeking their fruits - he is a Sannyasin and Yogin, and not he who
-maintains no sacred fires and performs no actions.
+6.1 The Lord said He who performs works that ought to be done without seeking their fruits - he is a Sannyasin and Yogin, and not he who maintains no sacred fires and performs no actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/01_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.1 The Blessed Lord said He who performs his bounden duty without
-depending on the fruits of his actions he is a Sannyasi and a Yogi; not
-he who is without fire and without action.
+6.1 The Blessed Lord said He who performs his bounden duty without depending on the fruits of his actions he is a Sannyasi and a Yogi; not he who is without fire and without action.
 
 </details>
 </div>
@@ -644,18 +624,8 @@ he who is without fire and without action.
 bounden; कर्म duty; करोति performs; यः who; सः he; संन्यासी Sannyasi
 (ascetic); च and; योगी Yogi; च and; न not; निरग्निः without fire; न not;
 च and; अक्रियः without action.Commentary Actions such as Agnihotra;
-etc.; performed without the expectation of their fruits purify the mind
-and become the means to Dhyana Yoga or the Yoga of Meditation.Karyam
-Karma bounden duty.Niragnih without fire. He who has renounced the daily
-rituals like Agnihotra; which are performed with the help of fire.Akriya
-without action. He who has renounced austerities and other meritorious
-acts like building resthouses; charitable dispensaries; digging wells;
-feeding the poor; etc.Sannyasi he who has renounced the fruits of his
-actions.Yogi he who has a steady mind. These two terms are applied to
-him in a secondary sense only. They are not used to denote that he is in
-reality a Sannyasi and a Yogi.The Sannyasi performs neither Agnihotra
-nor other ceremonies. But simply to omit these without genuine
-renunciation will not make one a real Sannyasi. (Cf.V.3)
+etc.; performed without the expectation of their fruits purify the mind and become the means to Dhyana Yoga or the Yoga of Meditation.Karyam Karma bounden duty.Niragnih without fire. He who has renounced the daily rituals like Agnihotra; which are performed with the help of fire.Akriya without action. He who has renounced austerities and other meritorious acts like building resthouses; charitable dispensaries; digging wells;
+feeding the poor; etc.Sannyasi he who has renounced the fruits of his actions.Yogi he who has a steady mind. These two terms are applied to him in a secondary sense only. They are not used to denote that he is in reality a Sannyasi and a Yogi.The Sannyasi performs neither Agnihotra nor other ceremonies. But simply to omit these without genuine renunciation will not make one a real Sannyasi. (Cf.V.3)
 
 </details>
 </div>

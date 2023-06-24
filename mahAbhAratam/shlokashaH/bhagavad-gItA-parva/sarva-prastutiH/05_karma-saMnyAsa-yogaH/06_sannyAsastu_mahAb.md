@@ -440,9 +440,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/06_sannyAsastu_mahAb.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.6. O mighty-armed (Arjuna) ! Renunciation is certainly hard to attain
-excepting through Yoga; the sage who is the master of Yoga attains the
-Brahman, before long.
+5.6. O mighty-armed (Arjuna) ! Renunciation is certainly hard to attain excepting through Yoga; the sage who is the master of Yoga attains the Brahman, before long.
 
 </details>
 </div>
@@ -450,17 +448,14 @@ Brahman, before long.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 5.6 But, O mighty-armed one, renunciation is hard to attain without
-(Karma-) yoga. The meditative man eipped with yoga attains Brahman
-without delay.
+(Karma-) yoga. The meditative man eipped with yoga attains Brahman without delay.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/06_sannyAsastu_mahAb.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.6 Without concentration, O Mighty Man, renunciation is difficult. But
-the sage who is always meditating on the Divine, before long shall
-attain the Absolute.
+5.6 Without concentration, O Mighty Man, renunciation is difficult. But the sage who is always meditating on the Divine, before long shall attain the Absolute.
 
 </details>
 </div>
@@ -468,16 +463,14 @@ attain the Absolute.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 5.6 But renunciation, O mighty-armed, is hard to attain without
-(following) Yoga. The contemplating sage who follows Yoga reaches the
-Brahman (the self or Atman) soon.
+(following) Yoga. The contemplating sage who follows Yoga reaches the Brahman (the self or Atman) soon.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/06_sannyAsastu_mahAb.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.6 But renunciation, O mighty-armed Arjuna, is hard to attain without
-Yoga; the Yoga-harmonised sage ickly goes to Brahman.
+5.6 But renunciation, O mighty-armed Arjuna, is hard to attain without Yoga; the Yoga-harmonised sage ickly goes to Brahman.
 
 </details>
 </div>
@@ -486,15 +479,7 @@ Yoga; the Yoga-harmonised sage ickly goes to Brahman.
 
 5.6 संन्यासः renunciation; तु but; महाबाहो O mightyarmed; दुःखम् hard;
 आप्तुम् to attain; अयोगतः without Yoga; योगयुक्तः Yogaharmonised; मुनिः
-Muni; ब्रह्म to Brahman; नचिरेण ickly; अधिगच्छति goes.Commentary Muni is
-one who does Manana (meditation or reflection). Yoga is performance of
-action without selfish motive as an offering unto the Lord.Brahman here
-signifies renunciation or Sannyasa because renunciation consists in the
-knowledge of the Self. A Muni; the sage of meditation; the
-Yogaharmonised; i.e.; purified by the performance of action; ickly
-attains Brahman; the true renunciation which is devotion to the
-knowledge of the Self. Therefore Karma Yoga is better. It is easy for a
-beginner. It prepares him for the higher Yoga by purifying his mind.
+Muni; ब्रह्म to Brahman; नचिरेण ickly; अधिगच्छति goes.Commentary Muni is one who does Manana (meditation or reflection). Yoga is performance of action without selfish motive as an offering unto the Lord.Brahman here signifies renunciation or Sannyasa because renunciation consists in the knowledge of the Self. A Muni; the sage of meditation; the Yogaharmonised; i.e.; purified by the performance of action; ickly attains Brahman; the true renunciation which is devotion to the knowledge of the Self. Therefore Karma Yoga is better. It is easy for a beginner. It prepares him for the higher Yoga by purifying his mind.
 
 </details>
 </div>

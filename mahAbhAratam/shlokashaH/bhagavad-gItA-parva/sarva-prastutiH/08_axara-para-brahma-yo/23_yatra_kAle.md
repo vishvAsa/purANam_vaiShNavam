@@ -190,10 +190,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/23_yatra_kAle.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.23 - 8.24 Here, the term 'time' denotes a path, having many deities
-beginning with day and ending with year. The deities preside over
-divisions of time. The meaning is - I declare to you the path departing
-in which Yogins do not return and also the path departing in which the
+8.23 - 8.24 Here, the term 'time' denotes a path, having many deities beginning with day and ending with year. The deities preside over divisions of time. The meaning is - I declare to you the path departing in which Yogins do not return and also the path departing in which the
 doers of good actions return. By the clause, 'Light in the form of fire,
 the day, bright fortnight, six months of the northern course,' year also
 is denoted.
@@ -506,8 +503,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/23_yatra_kAle.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.23. Departing at what times the Yogins attain the non-return or the
-return only-those times I shall declare to you, O chief of the Bharatas
+8.23. Departing at what times the Yogins attain the non-return or the return only-those times I shall declare to you, O chief of the Bharatas
 !
 
 </details>
@@ -515,8 +511,7 @@ return only-those times I shall declare to you, O chief of the Bharatas
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/23_yatra_kAle.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.23 O best of the Bharata dynasty, I shall now speak of that time by
-departing at which the yogis attain the State of Non-return, and also
+8.23 O best of the Bharata dynasty, I shall now speak of that time by departing at which the yogis attain the State of Non-return, and also
 (of the time by departing at which they attain) the State of Return.
 
 </details>
@@ -524,17 +519,14 @@ departing at which the yogis attain the State of Non-return, and also
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/23_yatra_kAle.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.23 \*Now I will tell thee, O Arjuna, of the times at which, if the
-mystics go forth, they do not return, and at which they go forth only to
-return.
+8.23 \*Now I will tell thee, O Arjuna, of the times at which, if the mystics go forth, they do not return, and at which they go forth only to return.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/23_yatra_kAle.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.23 Now I will tell thee, O chief of Bharatas, the times departing at
-which the Yogis will return or not return.
+8.23 Now I will tell thee, O chief of Bharatas, the times departing at which the Yogis will return or not return.
 
 </details>
 </div>
@@ -543,11 +535,7 @@ which the Yogis will return or not return.
 
 8.23 यत्र where; काले in time; तु verily; अनावृत्तिम् nonreturn;
 आवृत्तिम् return; च and; एव even; योगिनः Yogis; प्रयाताः departing;
-यान्ति go to; तम् that; कालम् time; वक्ष्यामि (I) will tell; भरतर्षभ O
-chief of Bharatas.Commentary I shall declare to you; O Prince of the
-Bharatas; the time at which if the Yogis leave their body they will not
-be born again and also when if they die they will be born again.To
-return means to be born again.
+यान्ति go to; तम् that; कालम् time; वक्ष्यामि (I) will tell; भरतर्षभ O chief of Bharatas.Commentary I shall declare to you; O Prince of the Bharatas; the time at which if the Yogis leave their body they will not be born again and also when if they die they will be born again.To return means to be born again.
 
 </details>
 </div>

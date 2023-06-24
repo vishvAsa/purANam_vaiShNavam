@@ -80,18 +80,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.10 Here the term, Brahman denotes Prakrti. Later on Sri Krsna will
-say: 'The great Brahman is My womb' (14.3). Since Prakrti abides in the
-form of senses which are particular off-shoots of Prakrti, he who, as
-said in the passage beginning with 'Even though he is seeing, hearing
+5.10 Here the term, Brahman denotes Prakrti. Later on Sri Krsna will say: 'The great Brahman is My womb' (14.3). Since Prakrti abides in the form of senses which are particular off-shoots of Prakrti, he who, as said in the passage beginning with 'Even though he is seeing, hearing
 ৷৷.' (5.8), understands that all actions proceed from Brahman (Prakrti);
 renounces all attachment while engaging himself in all actions,
-reflecting, 'I am doing nothing.' Such a person, though existing in
-contact with Prakrti, is not contaminated by sin which is the result of
-the wrong identification of the Atman with Prakrti and is the cause of
-bondage. Just as a lotus leaf is not wetted by water, actions do not
-affect or defile a person with sin, if he is free from such
-identification with the body.
+reflecting, 'I am doing nothing.' Such a person, though existing in contact with Prakrti, is not contaminated by sin which is the result of the wrong identification of the Atman with Prakrti and is the cause of bondage. Just as a lotus leaf is not wetted by water, actions do not affect or defile a person with sin, if he is free from such identification with the body.
 
 </details>
 </div>
@@ -394,27 +386,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.10. Who performs actions by offering them to the Brahman and giving up
-attachment-he is not stained by sin just as the lotus-leaf is \[not
-stained\] by water.
+5.10. Who performs actions by offering them to the Brahman and giving up attachment-he is not stained by sin just as the lotus-leaf is \[not stained\] by water.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.10 One who acts by dedicating actions to Brahman and by renouncing
-attachment, he does not become polluted by sin, just as a lotus leaf is
-not by water.
+5.10 One who acts by dedicating actions to Brahman and by renouncing attachment, he does not become polluted by sin, just as a lotus leaf is not by water.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.10 He who dedicates his actions to the Spirit, without any personal
-attachment to them, he is no more tainted by sin than the water lily is
-wetted by water.
+5.10 He who dedicates his actions to the Spirit, without any personal attachment to them, he is no more tainted by sin than the water lily is wetted by water.
 
 </details>
 </div>
@@ -429,9 +415,7 @@ wetted by water.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/10_brahmaNyAdhAya_ka.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.10 He who does actions, offering them to Brahman, and abandoning
-attachment, is not tainted by sin, just as a lotus-leaf is not tainted
-by water.
+5.10 He who does actions, offering them to Brahman, and abandoning attachment, is not tainted by sin, just as a lotus-leaf is not tainted by water.
 
 </details>
 </div>
@@ -439,18 +423,8 @@ by water.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 5.10 ब्रह्मणि in Brahman; आधाय having placed; कर्माणि actions; सङ्गम्
-attachment; त्यक्त्वा having abandoned; करोति acts; यः who; लिप्यते is
-tainted; न not; सः he; पापेन by sin; पद्मपत्रम् lotusleaf; इव like;
-अम्भसा by water.Commentary Chapter IV verses 18; 20; 21; 22; 23; 37; 41
-Chapter V verses 10; 11 and 12 all convey the one idea that the Yogi who
-does actions without egoism and attachment to results or fruits of the
-actions; which he regards as offerings unto the Lord; is not tainted by
-the actions (Karma). He has no attachment even for Moksha. He sees
-inaction in action. All his actions are burnt in the fire of wisdom. He
-escapes from the wheel of Samsara. He is freed from the round of births
-and deaths. He gets purity of heart and through purity of heart attains
-to the knowledge of the Self. Through the knowledge of the Self he is
-liberated. This is the gist of the above ten verses. (Cf.III.30)
+attachment; त्यक्त्वा having abandoned; करोति acts; यः who; लिप्यते is tainted; न not; सः he; पापेन by sin; पद्मपत्रम् lotusleaf; इव like;
+अम्भसा by water.Commentary Chapter IV verses 18; 20; 21; 22; 23; 37; 41 Chapter V verses 10; 11 and 12 all convey the one idea that the Yogi who does actions without egoism and attachment to results or fruits of the actions; which he regards as offerings unto the Lord; is not tainted by the actions (Karma). He has no attachment even for Moksha. He sees inaction in action. All his actions are burnt in the fire of wisdom. He escapes from the wheel of Samsara. He is freed from the round of births and deaths. He gets purity of heart and through purity of heart attains to the knowledge of the Self. Through the knowledge of the Self he is liberated. This is the gist of the above ten verses. (Cf.III.30)
 
 </details>
 </div>

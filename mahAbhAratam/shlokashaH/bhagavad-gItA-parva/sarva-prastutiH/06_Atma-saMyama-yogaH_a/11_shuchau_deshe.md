@@ -77,15 +77,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.11 - 6.12 'In a clean spot,' i.e., in a spot pure in itself, not owned
-or controlled by impure persons and untouched by impure things; having
+6.11 - 6.12 'In a clean spot,' i.e., in a spot pure in itself, not owned or controlled by impure persons and untouched by impure things; having
 'established a firm seat,' a seat made of wood or similar material,
 which is neither too high nor too low; which is covered with cloth,
-deer-skin and Kusa grass in the reverse order; seated on it in a way
-which promotes the serenity of mind; having the mind concentrated on
-Yoga; and holding the activities of the mind and senses in check in all
-ways - he should practise 'Yoga', i.e., practise the vision of the self
-for 'the purification of the self,' i.e., to end his bondage.
+deer-skin and Kusa grass in the reverse order; seated on it in a way which promotes the serenity of mind; having the mind concentrated on Yoga; and holding the activities of the mind and senses in check in all ways - he should practise 'Yoga', i.e., practise the vision of the self for 'the purification of the self,' i.e., to end his bondage.
 
 </details>
 </div>
@@ -374,45 +369,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.11. Setting up in a clean place his own \[suitable\] firm seat which
-is predominantly of cloth, skin and kusa-grass, and which, is neither
-too high nor too low for him;
+6.11. Setting up in a clean place his own \[suitable\] firm seat which is predominantly of cloth, skin and kusa-grass, and which, is neither too high nor too low for him;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.11 Having firmly established in a clean place his seat, neither too
-high nor too low, and made of cloth, skin and kusa-grass, placed
-successively one below the other;
+6.11 Having firmly established in a clean place his seat, neither too high nor too low, and made of cloth, skin and kusa-grass, placed successively one below the other;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.11 Having chosen a holy place, let him sit in a firm posture on a
-seat, neither too high nor too low, and covered with a grass mat, a deer
-skin and a cloth.
+6.11 Having chosen a holy place, let him sit in a firm posture on a seat, neither too high nor too low, and covered with a grass mat, a deer skin and a cloth.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.11 Having established for himself, in a clean spot, a firm seat, which
-is neither too hight nor too low, and covering it with cloth, deer-skin
-and Kusa grass in the reverse order -
+6.11 Having established for himself, in a clean spot, a firm seat, which is neither too hight nor too low, and covering it with cloth, deer-skin and Kusa grass in the reverse order -
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/11_shuchau_deshe.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.11 In a clean spot, having established a firm seat of his own, neither
-too high nor too low, made of a cloth, a skin and Kusa-grass, one over
-the other.
+6.11 In a clean spot, having established a firm seat of his own, neither too high nor too low, made of a cloth, a skin and Kusa-grass, one over the other.
 
 </details>
 </div>
@@ -420,13 +405,8 @@ the other.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.11 शुचौ in a clean; देशे spot; प्रतिष्ठाप्य having established;
-स्थिरम् firm; आसनम् seat; आत्मनः his own; न not; अत्युच्छ्रितम् very
-high; न not; अतिनीचम् very low; चैलाजिनकुशोत्तरम् a cloth; skin and
-Kusagrass; one over the other.Commentary In this verse the Lord has
-prescribed the external seat for practising meditation. Details of the
-pose are given in verse 13.Spread the Kusagrass on the ground first.
-Over this spread a tigerskin or deerskin over this spread a white
-cloth.Sit on a naturally clean spot; such as the bank of a river. Or;
+स्थिरम् firm; आसनम् seat; आत्मनः his own; न not; अत्युच्छ्रितम् very high; न not; अतिनीचम् very low; चैलाजिनकुशोत्तरम् a cloth; skin and Kusagrass; one over the other.Commentary In this verse the Lord has prescribed the external seat for practising meditation. Details of the pose are given in verse 13.Spread the Kusagrass on the ground first.
+Over this spread a tigerskin or deerskin over this spread a white cloth.Sit on a naturally clean spot; such as the bank of a river. Or;
 make the place clean; wherever you want to practise meditation.
 
 </details>

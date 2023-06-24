@@ -88,23 +88,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.1 Arjuna said These are two types of spiritual aspirants who are
-contrasted thus: (1) On the one hand there are those devotees who adore
-You 'thus'; namely, in the way taught in such text as 'Whosoever works
-for Me' (11.55), and who are desirous of being ever 'integrated' with
-You, namely, considering You as the supreme end. They adore You in utter
-devotion - You, the ocean of boundless attributes of limitless
-excellence like grace, affability, omniscience, true resolve etc., and
-endowed with all glory. (2) On the other hand there are those who
-meditate on the 'Imperishable', (Aksara) namely, the individual self in
-Its true nature, which is the same as the 'Unmanifest' (Avyakta), namely
-that whose nature cannot be grasped by organs such as the eye etc. The
-estion posed is: Which of these two classes of devotees have greater
-knowledge of Yoga; Who would reach their respective goals sooner; Such
-is the meaning of the estion. Sri Krsna clearly states later on, 'O
-Arjuna, I become before long their redeemer from the fatal sea of
-recurring births and deaths' (12.7), with reference to the speed with
-which the latter kind of devotees reach Him.
+12.1 Arjuna said These are two types of spiritual aspirants who are contrasted thus: (1) On the one hand there are those devotees who adore You 'thus'; namely, in the way taught in such text as 'Whosoever works for Me' (11.55), and who are desirous of being ever 'integrated' with You, namely, considering You as the supreme end. They adore You in utter devotion - You, the ocean of boundless attributes of limitless excellence like grace, affability, omniscience, true resolve etc., and endowed with all glory. (2) On the other hand there are those who meditate on the 'Imperishable', (Aksara) namely, the individual self in Its true nature, which is the same as the 'Unmanifest' (Avyakta), namely that whose nature cannot be grasped by organs such as the eye etc. The estion posed is: Which of these two classes of devotees have greater knowledge of Yoga; Who would reach their respective goals sooner; Such is the meaning of the estion. Sri Krsna clearly states later on, 'O Arjuna, I become before long their redeemer from the fatal sea of recurring births and deaths' (12.7), with reference to the speed with which the latter kind of devotees reach Him.
 
 </details>
 </div>
@@ -635,18 +619,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.1. Arjuna said Those devotees who, being constantly attached \[to
-You\], worship You thus; and also those who \[worship\] the motionless
-Unmanifest-of these who who are the best knowers of Yoga ;
+12.1. Arjuna said Those devotees who, being constantly attached \[to You\], worship You thus; and also those who \[worship\] the motionless Unmanifest-of these who who are the best knowers of Yoga ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.1 Arjuna said Those devotees who, being thus ever dedicated, meditate
-on You, and those again (who meditate) on the Immutable, the
-Unmanifested-of them, who are the best experiencers of yoga \[(Here)
+12.1 Arjuna said Those devotees who, being thus ever dedicated, meditate on You, and those again (who meditate) on the Immutable, the Unmanifested-of them, who are the best experiencers of yoga \[(Here)
 yoga means samadhi, spiritual absorption.\] ;
 
 </details>
@@ -654,27 +634,21 @@ yoga means samadhi, spiritual absorption.\] ;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.1 "Arjuna asked: My Lord! Which are the better devotees who worship
-Thee, those who try to know Thee as a Personal God, or those who worship
-Thee as Impersonal and Indestructible;
+12.1 "Arjuna asked: My Lord! Which are the better devotees who worship Thee, those who try to know Thee as a Personal God, or those who worship Thee as Impersonal and Indestructible;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.1 Arjuna said Those devotees, who, ever integrated, thus meditate on
-You, and those again, who meditate on the Imperishable and the
-Unmanifest - which or these have greater knowledge of Yoga;
+12.1 Arjuna said Those devotees, who, ever integrated, thus meditate on You, and those again, who meditate on the Imperishable and the Unmanifest - which or these have greater knowledge of Yoga;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/01_evaM_satatayuktA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.1 Arjuna said Those devotees who, ever steadfast, thus worship Thee
-and those also who worship the imperishable and the unmanifested which
-of them are better versed in Yoga;
+12.1 Arjuna said Those devotees who, ever steadfast, thus worship Thee and those also who worship the imperishable and the unmanifested which of them are better versed in Yoga;
 
 </details>
 </div>
@@ -684,39 +658,14 @@ of them are better versed in Yoga;
   
   
 12.1 एवम् thus; सततयुक्ताः ever steadfast; ये who; भक्ताः devotees;
-त्वाम् Thee; पर्युपासते worship; ये who; च and; अपि also; अक्षरम् the
-imperishable; अव्यक्तम् the unmanifested; तेषाम् of them; के who;
-योगवित्तमाः better versed in Yoga.Commentary The twelfth discourse goes
-to prove that Bhakti Yoga or the Yoga of devotion is much easier than
-Jnana Yoga or the Yoga of knowledge. In Bhakti Yoga the devotee
-establishes a near and dear relationship with the Lord. He cultivates
-slowly and one of the five Bhavas (attitudes) according to his
-temperament; taste and capacity. The five attitudes are the Santa Bhava
-(the attitutde of peaceful adoration) Dasya Bhava (the attitude of
-servant towards the master) Sakhya Bhava (the attitude of a friend)
-Vatsalya Bhava (the attitude of a parent to the child) and Madhurya
-Bhava (the attitutde of the lover towards the beloved). The devotee
-adopts these attitudes towards the Lord. The last (Madhurya Bhava) is
-the culmination of devotion. It is merging or absorption in the Lord.The
-devotee adores the Lord. He constantly remembers Him (Smarana). He sings
-His Name (Kirtana). He speaks of His glories. He repeats His Name. He
-chants His Mantra (Japa). He prays and prostrates himself. He hears His
-Lilas (divine plays). He does total; ungrudging and unconditional
-selfsurrender; obtains His grace; hols communion wih; and eventually
-gets absorbed in Him.The devotee begins by worshipping the idols or the
-symbols of God. Then he performs internal worship of the Form.
+त्वाम् Thee; पर्युपासते worship; ये who; च and; अपि also; अक्षरम् the imperishable; अव्यक्तम् the unmanifested; तेषाम् of them; के who;
+योगवित्तमाः better versed in Yoga.Commentary The twelfth discourse goes to prove that Bhakti Yoga or the Yoga of devotion is much easier than Jnana Yoga or the Yoga of knowledge. In Bhakti Yoga the devotee establishes a near and dear relationship with the Lord. He cultivates slowly and one of the five Bhavas (attitudes) according to his temperament; taste and capacity. The five attitudes are the Santa Bhava
+(the attitutde of peaceful adoration) Dasya Bhava (the attitude of servant towards the master) Sakhya Bhava (the attitude of a friend)
+Vatsalya Bhava (the attitude of a parent to the child) and Madhurya Bhava (the attitutde of the lover towards the beloved). The devotee adopts these attitudes towards the Lord. The last (Madhurya Bhava) is the culmination of devotion. It is merging or absorption in the Lord.The devotee adores the Lord. He constantly remembers Him (Smarana). He sings His Name (Kirtana). He speaks of His glories. He repeats His Name. He chants His Mantra (Japa). He prays and prostrates himself. He hears His Lilas (divine plays). He does total; ungrudging and unconditional selfsurrender; obtains His grace; hols communion wih; and eventually gets absorbed in Him.The devotee begins by worshipping the idols or the symbols of God. Then he performs internal worship of the Form.
 Ultimately he is led to the supreme worship of the allpervading Brahman
-(Para Puja).Thus As declared in the last verse of the previous
-chapter.Avyaktam The unmanifested; i.e.; incomprehensible to the senses;
-transcending all limiting adjuncts. The unmanifested Brahman is beyond
-all limitations. That which is visible to the senses is called Vyakta or
-manifest.The hearts of the devotees are wholly fixed on Thee. They
-worship Thee with all their heart and soul.There are others who worship
-the unmanifested Brahman which is beyond time; space and causation;
-which is attributeless; which is eternal and indefinable; which is
-beyond the reach of speech and mind. These are the wise sages.Of these
-two; the devotees and the men of knowledge -- who are the better knowers
-of Yoga (Cf.XI.55)
+(Para Puja).Thus As declared in the last verse of the previous chapter.Avyaktam The unmanifested; i.e.; incomprehensible to the senses;
+transcending all limiting adjuncts. The unmanifested Brahman is beyond all limitations. That which is visible to the senses is called Vyakta or manifest.The hearts of the devotees are wholly fixed on Thee. They worship Thee with all their heart and soul.There are others who worship the unmanifested Brahman which is beyond time; space and causation;
+which is attributeless; which is eternal and indefinable; which is beyond the reach of speech and mind. These are the wise sages.Of these two; the devotees and the men of knowledge -- who are the better knowers of Yoga (Cf.XI.55)
 
 </details>
 </div>

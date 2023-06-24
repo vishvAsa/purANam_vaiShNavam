@@ -83,26 +83,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.16 'Men of good deeds,' i.e., those who have meritorious Karmas to
-their credit, and who resort to Me and worship Me alone - they too are
-divided into four types according to the degrees of their good deeds,
-each subseent type being better than the preceding, because of the
-greatness of their good deeds and gradation in respect of their
-knowledge. (i) The 'distressed' is one who has lost his position in life
-and his wealth, and who wishes to regain them (ii) He who 'aspires for
-wealth' is one who desires for wealth which he has not till then
-attained. Between them the difference is very little, as both of them
-seek wealth. (iii) He 'who seeks after knowledge' is one who wishes to
-realise the real nature of the self (in Its pure state) as an entity
-different from the Prakrti. He is called 'one who seeks to secure
-knowledge,' because knowledge alone is the essential nature of the self.
-(iv) And the 'man of knowledge' is he who knows that, it is the
-essential nature of the self to find happiness only as the Sesa
+7.16 'Men of good deeds,' i.e., those who have meritorious Karmas to their credit, and who resort to Me and worship Me alone - they too are divided into four types according to the degrees of their good deeds,
+each subseent type being better than the preceding, because of the greatness of their good deeds and gradation in respect of their knowledge. (i) The 'distressed' is one who has lost his position in life and his wealth, and who wishes to regain them (ii) He who 'aspires for wealth' is one who desires for wealth which he has not till then attained. Between them the difference is very little, as both of them seek wealth. (iii) He 'who seeks after knowledge' is one who wishes to realise the real nature of the self (in Its pure state) as an entity different from the Prakrti. He is called 'one who seeks to secure knowledge,' because knowledge alone is the essential nature of the self.
+(iv) And the 'man of knowledge' is he who knows that, it is the essential nature of the self to find happiness only as the Sesa
 (subsidiary or liege) of the Lord, as taught in the text beginning with,
-'But know that which is other than this (lower nature) to be the higher
-Prakrti' (7.5). Without stopping with the knowledge of the self as
-different from the Prakrti, he desires to attain the Lord. He thinks
-that the Lord alone is the highest aim to reach.
+'But know that which is other than this (lower nature) to be the higher Prakrti' (7.5). Without stopping with the knowledge of the self as different from the Prakrti, he desires to attain the Lord. He thinks that the Lord alone is the highest aim to reach.
 
 </details>
 </div>
@@ -405,7 +390,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।7.16।। हे भरत श्रेष्ठ अर्जुन ! उत्तम कर्म करने वाले (सुकृतिनः) आर्त,
+।।7.16।। हे भरत श्रेष्ठ अर्जुन ! उत्तम कर्म करने वाले (सुकृतिन:) आर्त,
 जिज्ञासु, अर्थार्थी और ज्ञानी ऐसे चार प्रकार के लोग मुझे भजते हैं।।
 
 </details>
@@ -465,18 +450,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.16. Men of good action who worship Me always are of four types: the
-afflicted, the seeker of knowledge, the seeker of wealth and the man of
-wisdom, O best among the Bharatas !
+7.16. Men of good action who worship Me always are of four types: the afflicted, the seeker of knowledge, the seeker of wealth and the man of wisdom, O best among the Bharatas !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.16 O Arjuna, foremost of the Bharata dynasty, four classes of people
-of virtuous deeds adore Me: the afflicted, the seeker of Knowledge, the
-seeker of wealth and the man of Knowledge.
+7.16 O Arjuna, foremost of the Bharata dynasty, four classes of people of virtuous deeds adore Me: the afflicted, the seeker of Knowledge, the seeker of wealth and the man of Knowledge.
 
 </details>
 </div>
@@ -484,26 +465,21 @@ seeker of wealth and the man of Knowledge.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 7.16 O Arjuna! The righteous who worship Me are grouped by stages:
-first, they who suffer, next they who desire knowledge, then they who
-thirst after truth, and lastly they who attain wisdom.
+first, they who suffer, next they who desire knowledge, then they who thirst after truth, and lastly they who attain wisdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.16 Four types of men of good deeds worship Me, O Arjuna, These are the
-distressed, the seekers after knowledge, the wealth-seekers, and the men
-of knowledge.
+7.16 Four types of men of good deeds worship Me, O Arjuna, These are the distressed, the seekers after knowledge, the wealth-seekers, and the men of knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/16_chaturvidhA_bhaja.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.16 Four kinds of virtuous men worship Me, O Arjuna, and they are the
-distressed, the seekr of knowledge, the seekr of wealth and the wise, O
-lord of the Bharatas.
+7.16 Four kinds of virtuous men worship Me, O Arjuna, and they are the distressed, the seekr of knowledge, the seekr of wealth and the wise, O lord of the Bharatas.
 
 </details>
 </div>
@@ -511,24 +487,9 @@ lord of the Bharatas.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 7.16 चतुर्विधाः four kinds; भजन्ते worship; माम् Me; जनाः people;
-सुकृतिनः virtuous; अर्जुन O Arjuna; आर्तः the distressed; जिज्ञासुः the
-seeker of knowledge; अर्थार्थी the seeker of wealth; ज्ञानी the wise; च
-and; भरतर्षभ O lord of the Bharatas.Commentary The distressed is he who
-is suffering from a chronic and incurable disease; he whose life is in
-jeopardy on account of earthake; volcanic eruption; thunder; attack by a
-dacoit or enemy or tiger; etc. When Draupadi and Gajendra were in great
-distress they worshipped the Lord. These are the instances of Aarta
-Bhakti.Jijnasu is the enirer. He is dissatisfied with this world. There
-is a void in his life. He always feels that sensual pleasure is not the
-highest form of happiness and there is yet pure eternal bliss unmixed
-with grief and pain; which is to be found within. Janaka and Uddhava
-were devotees of this type.Seeker of wealth is he who craves for money;
-wife; children; position; name and fame. Sugriva; Vibhishana; Upamanyu
-and Dhruva were all devotees of this type.The wise are the men of
-knowledge who have attained to Selfillumination. Sukadeva was a
-JnaniBhakta.Kamsa; Sishupala and Ravana thought of the Lord constantly
-on account of fear and hatred (VairaBhakti). Hence they are also
-regarded as devotees.Be devoted to God; whatever be your motive.
+सुकृतिनः virtuous; अर्जुन O Arjuna; आर्तः the distressed; जिज्ञासुः the seeker of knowledge; अर्थार्थी the seeker of wealth; ज्ञानी the wise; च
+and; भरतर्षभ O lord of the Bharatas.Commentary The distressed is he who is suffering from a chronic and incurable disease; he whose life is in jeopardy on account of earthake; volcanic eruption; thunder; attack by a dacoit or enemy or tiger; etc. When Draupadi and Gajendra were in great distress they worshipped the Lord. These are the instances of Aarta Bhakti.Jijnasu is the enirer. He is dissatisfied with this world. There is a void in his life. He always feels that sensual pleasure is not the highest form of happiness and there is yet pure eternal bliss unmixed with grief and pain; which is to be found within. Janaka and Uddhava were devotees of this type.Seeker of wealth is he who craves for money;
+wife; children; position; name and fame. Sugriva; Vibhishana; Upamanyu and Dhruva were all devotees of this type.The wise are the men of knowledge who have attained to Selfillumination. Sukadeva was a JnaniBhakta.Kamsa; Sishupala and Ravana thought of the Lord constantly on account of fear and hatred (VairaBhakti). Hence they are also regarded as devotees.Be devoted to God; whatever be your motive.
 Devotion will purify the motive in due course.
 
 </details>

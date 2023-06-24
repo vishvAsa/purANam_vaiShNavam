@@ -55,11 +55,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/11_kAyena_manasA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.11 Renouncing attachment to heaven etc., the Yogins perform actions
-accomplishable by the body, the mind and the intellect for the
-purification of themselves, i.e., for annulling the bonds of his
-previous Karma which have afected the self and which involve the self in
-Samsara.
+5.11 Renouncing attachment to heaven etc., the Yogins perform actions accomplishable by the body, the mind and the intellect for the purification of themselves, i.e., for annulling the bonds of his previous Karma which have afected the self and which involve the self in Samsara.
 
 </details>
 </div>
@@ -328,8 +324,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/11_kAyena_manasA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.11. Having given up attachment, the men of Yoga perform action, just
-with the body, with the mind, with intellect and also with sense-organs,
+5.11. Having given up attachment, the men of Yoga perform action, just with the body, with the mind, with intellect and also with sense-organs,
 for attaining the Self.
 
 </details>
@@ -337,17 +332,14 @@ for attaining the Self.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/11_kAyena_manasA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.11 By giving up attachment, the yogis undertake work merely through
-the body, mind, intellect and even the organs, for the purification of
-themselves.
+5.11 By giving up attachment, the yogis undertake work merely through the body, mind, intellect and even the organs, for the purification of themselves.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/11_kAyena_manasA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.11 The sage performs his action dispassionately, using his body, mind
-and intellect, and even his senses, always as a means of purification.
+5.11 The sage performs his action dispassionately, using his body, mind and intellect, and even his senses, always as a means of purification.
 
 </details>
 </div>
@@ -355,17 +347,14 @@ and intellect, and even his senses, always as a means of purification.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 5.11 Merely witth the body, the mind, the intellect and the senses,
-Yogins do actions, renouncing attachment, for the purification of the
-self.
+Yogins do actions, renouncing attachment, for the purification of the self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/11_kAyena_manasA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.11 Yogis, having abandoned attachment, perform actions only by the
-body, mind, intellect, and even by the senses, for the purification of
-the self.
+5.11 Yogis, having abandoned attachment, perform actions only by the body, mind, intellect, and even by the senses, for the purification of the self.
 
 </details>
 </div>
@@ -374,14 +363,7 @@ the self.
 
 5.11 कायेन by the body; मनसा by the mind; बुद्ध्या by the intellect;
 केवलैः only; इन्द्रियैः by the senses; अपि also; योगिनः Yogis; कर्म
-action; कुर्वन्ति perform; सङ्गम् attachment; त्यक्त्वा having
-abandoned; आत्मशुद्धये for the purification of the self. Commentary
-Yogis here means Karma Yogis who are devoted to the path of action; who
-are free from egoism and selfishness; who work for the purification of
-their hearts without the least attachment to the fruits or results of
-their actions; and who dedicate all actions to the Lord as their
-offerings.Kevalam only by (free from egoism and selfishness) applies to
-the body; mind; intellect and the senses.
+action; कुर्वन्ति perform; सङ्गम् attachment; त्यक्त्वा having abandoned; आत्मशुद्धये for the purification of the self. Commentary Yogis here means Karma Yogis who are devoted to the path of action; who are free from egoism and selfishness; who work for the purification of their hearts without the least attachment to the fruits or results of their actions; and who dedicate all actions to the Lord as their offerings.Kevalam only by (free from egoism and selfishness) applies to the body; mind; intellect and the senses.
 
 </details>
 </div>

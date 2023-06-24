@@ -82,23 +82,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.19 The seer has in the first place to totally subdue his Rajas and
-Tamas and stay in pure Sattva. This is accomplished through nourishment
-by Sattvika food and the performance of disinterested actions for the
-propitiation of the Lord. He then perceives 'no agent of action other
-than the Gunas' i.e., sees that the Gunas are themselves the agents
-according to their nature. Further he perceives what is 'other than the
-Gunas,' i.e., perceives the Gunas which are agents and the self who is
-not an agent of action. Such a seer attains to 'My state,' i.e., gains
-likeness with Me in transcending the three Gunas etc. The purport is
-this: The self, pure in nature by Itself, gains agency through varius
-actions by contact with the Gunas springing from past Karmas. When one
-perceives the self in this way, namely, that the self by Itself is no
-agent of actions and is of the nature of infinite knowledge, then It
-attains to My likeness. It is stated that one attains to the likeness of
-the Lord after perceiving the self as a non-agent and as other than the
-Gunas. What is meant by the state of likeness to the Lord; Sri Krsna now
-describes it:
+14.19 The seer has in the first place to totally subdue his Rajas and Tamas and stay in pure Sattva. This is accomplished through nourishment by Sattvika food and the performance of disinterested actions for the propitiation of the Lord. He then perceives 'no agent of action other than the Gunas' i.e., sees that the Gunas are themselves the agents according to their nature. Further he perceives what is 'other than the Gunas,' i.e., perceives the Gunas which are agents and the self who is not an agent of action. Such a seer attains to 'My state,' i.e., gains likeness with Me in transcending the three Gunas etc. The purport is this: The self, pure in nature by Itself, gains agency through varius actions by contact with the Gunas springing from past Karmas. When one perceives the self in this way, namely, that the self by Itself is no agent of actions and is of the nature of infinite knowledge, then It attains to My likeness. It is stated that one attains to the likeness of the Lord after perceiving the self as a non-agent and as other than the Gunas. What is meant by the state of likeness to the Lord; Sri Krsna now describes it:
 
 </details>
 </div>
@@ -418,9 +402,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.19. When the Perceiver (the Self) finds no agent other than the
-Strands, and realises That which is beyond the Strands, then he attains
-My state.
+14.19. When the Perceiver (the Self) finds no agent other than the Strands, and realises That which is beyond the Strands, then he attains My state.
 
 </details>
 </div>
@@ -428,33 +410,28 @@ My state.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 14.19 When the witness sees none other than the alities as the agent,
-and knows that which is superior \[i.e. different from.\] to the
-alities, he attains My nature.
+and knows that which is superior \[i.e. different from.\] to the alities, he attains My nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.19 As soon as man understands that it is only the Qualities which act
-and nothing else, and perceives That which is beyond, he attains My
-divine nature.
+14.19 As soon as man understands that it is only the Qualities which act and nothing else, and perceives That which is beyond, he attains My divine nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.19 When the seer beholds no agent of action other than the Gunas, and
-knows what transcends the Gunas, he attains to My state.
+14.19 When the seer beholds no agent of action other than the Gunas, and knows what transcends the Gunas, he attains to My state.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/19_nAnya~N_guNebhyaH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.19 When the seer beholds no agent other than the Gunas and knows That
-which is higher than they, he attains to My Being.
+14.19 When the seer beholds no agent other than the Gunas and knows That which is higher than they, he attains to My Being.
 
 </details>
 </div>
@@ -464,19 +441,7 @@ which is higher than they, he attains to My Being.
 14.19 न not; अन्यम् other; गुणेभ्यः than the Gunas; कर्तारम् agent; यदा
 when; द्रष्टा the seer; अनुपश्यति beholds; गुणेभ्यः than the alities; च
 and; परम् higher; वेत्ति knows; मद्भावम् My Being; सः he;
-अधिगच्छति,attains to.Commentary The Supreme Self is in no way
-contaminated by the alities. The liberated sage exclaims I am the
-witness of the alities. I am neither the enjoyer nor the doer. The
-alities form the motive power of all actions. I am beyond the Gunas. The
-Gunas alone are responsible for all actions. I am entirely distinct from
-the alities. I am pure consciousness. I cannot be touched by the
-alities. I am like the ether.When a man gets illumination or attains
-knowledge of the Self; when he realises that there is no agent except
-the Gunas which are themselves modified as the bodies; the senses and
-their objects; when he knows that it is the Gunas only that become the
-agent in all transformations; in all states and in all actions; and when
-he realises the Supreme Self Who is distinct from the Gunas; Who is the
-silent witness of the Gunas and their functions; he attains to My state
+अधिगच्छति,attains to.Commentary The Supreme Self is in no way contaminated by the alities. The liberated sage exclaims I am the witness of the alities. I am neither the enjoyer nor the doer. The alities form the motive power of all actions. I am beyond the Gunas. The Gunas alone are responsible for all actions. I am entirely distinct from the alities. I am pure consciousness. I cannot be touched by the alities. I am like the ether.When a man gets illumination or attains knowledge of the Self; when he realises that there is no agent except the Gunas which are themselves modified as the bodies; the senses and their objects; when he knows that it is the Gunas only that become the agent in all transformations; in all states and in all actions; and when he realises the Supreme Self Who is distinct from the Gunas; Who is the silent witness of the Gunas and their functions; he attains to My state
 (liberation); i.e.; becomes identical with Me. He becomes a Gunatita;
 i.e.; one who has transcended the three Gunas.
 

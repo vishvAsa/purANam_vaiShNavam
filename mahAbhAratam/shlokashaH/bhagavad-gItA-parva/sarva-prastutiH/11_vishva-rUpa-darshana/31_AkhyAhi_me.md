@@ -69,17 +69,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.31 Who are You of this terrible form, what do You intend to do; I
-wish to know. For I do not know Your intended actions. Tell me this.
-Salutations to You, O Supreme God! Salutations to You, Lord of
-everything! Say with what object and for what purpose You have assumed
-this form of the destroyer. Assume a pleasing form. The Lord, the
-charioteer of Arjuna, being estioned, 'What is Your intention in
-assuming a terrible form when revealing Your cosmic sovereignty out of
-overflowing love for Your proteges;' - He spoke to the following effect:
-The manifestation of a terrible form by Me is to point out that I Myself
-am operative for the annihilation of the entire world of kings headed by
-the sons of Dhrtarastra, without any effort on your (Arjuna's) part.
+11.31 Who are You of this terrible form, what do You intend to do; I wish to know. For I do not know Your intended actions. Tell me this.
+Salutations to You, O Supreme God! Salutations to You, Lord of everything! Say with what object and for what purpose You have assumed this form of the destroyer. Assume a pleasing form. The Lord, the charioteer of Arjuna, being estioned, 'What is Your intention in assuming a terrible form when revealing Your cosmic sovereignty out of overflowing love for Your proteges;' - He spoke to the following effect:
+The manifestation of a terrible form by Me is to point out that I Myself am operative for the annihilation of the entire world of kings headed by the sons of Dhrtarastra, without any effort on your (Arjuna's) part.
 Reminding Arjuna of this, is to goad him to fight:
 
 </details>
@@ -342,54 +334,42 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.31. Please, tell me who You are with a terrible form; O the Best of
-gods ! Salutation to You, please be merciful. I am desirious of knowing
-You, the Primal One in detail; for I do not clearly comprehend Your
-behaviour.
+11.31. Please, tell me who You are with a terrible form; O the Best of gods ! Salutation to You, please be merciful. I am desirious of knowing You, the Primal One in detail; for I do not clearly comprehend Your behaviour.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.31 Tell me who You are, fierce in form. Salutation be to you, O
-supreme God; be gracious. I desire to fully know You who are the Prima
-One. For I do not understand Your actions!
+11.31 Tell me who You are, fierce in form. Salutation be to you, O supreme God; be gracious. I desire to fully know You who are the Prima One. For I do not understand Your actions!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.31 Tell me then who Thou art, that wearest this dreadful Form; I bow
-before Thee, O Mighty One! Have mercy, I pray, and let me see Thee as
-Thou wert at first. I do not know what Thou intendest.
+11.31 Tell me then who Thou art, that wearest this dreadful Form; I bow before Thee, O Mighty One! Have mercy, I pray, and let me see Thee as Thou wert at first. I do not know what Thou intendest.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.31 Tell me who You are with this terrible form; Salutation to You, O
-Supreme God. Be gracious. I desire to know You, the Primal One. I do not
-know Your activity.
+11.31 Tell me who You are with this terrible form; Salutation to You, O Supreme God. Be gracious. I desire to know You, the Primal One. I do not know Your activity.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.31 Tell me, who Thou art, so fierce of form. Salutations to Thee, O
-God Supreme: have mercy. I desire to know Thee, the original Being. I
-know not indeed Thy working.
+11.31 Tell me, who Thou art, so fierce of form. Salutations to Thee, O God Supreme: have mercy. I desire to know Thee, the original Being. I know not indeed Thy working.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/31_AkhyAhi_me.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-11.31 आख्याहि tell; मे me; कः who (art); भवान् Thou; उग्ररूपः fierce in
-form; नमः salutation; अस्तु be; ते to Thee; देववर O God Supreme; प्रसीद
+11.31 आख्याहि tell; मे me; कः who (art); भवान् Thou; उग्ररूपः fierce in form; नमः salutation; अस्तु be; ते to Thee; देववर O God Supreme; प्रसीद
 have mercy; विज्ञातुम् to know; इच्छामि (I) wish; भवन्तम् Thee; आद्यम्
 the original Being; न not; हि indeed; प्रजानामि (I) know; तव Thy;
 प्रवृत्तिम् doing.No Commentary.

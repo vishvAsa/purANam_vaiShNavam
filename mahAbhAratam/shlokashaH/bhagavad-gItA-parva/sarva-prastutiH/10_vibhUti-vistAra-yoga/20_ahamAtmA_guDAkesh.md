@@ -96,44 +96,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.20 I am the Self dwelling in the heart of all beings who constitute
-My body. What is called 'Self' is in every way the supporter, controller
-and the principal of a body. It is further declared: 'And I am seated in
-the hearts of all; from Me are memory, knowledge and their removal'
-(15.15), and 'The Lord dwells, O Arjuna in the heart of every being
-causing them to spin round and round by His power, as if set on a wheel'
-(18.61). The Srutis also declare: 'He who, dwelling in all beings, is
-within all beings, whom all beings do not know, whose body all beings
-are, who controls all beings from within, is your Inner Controller,
-immortal Self (Br. U., 3.7.15); and 'He who, dwelling in the self is
-within the self, whom the self does not know, whose body the self is,
-and who controls the self from within, He is your Inner Controller and
-Immortal Self' (Sata. Br., 14.5.30). Thus, I am the Self of all beings
-and I am their beginning, the middle and also the end. The meaning is
-that I am the cause of their origination, sustentation and dissolution.
-Thus, having explained that the Lord's immanence in all beings, which
-are His manifestations having Him, as their Self, is the ground for
-naming them in the manner of Samanadhikaranya or co-ordinate predication
-with Him (i.e., predication that they are He Himself), Sri Krsna
-proceeds to present some specific or distinguished manifestations in the
-same style of co-ordinate predication. As the Lord abides as the Self in
-all, the final significance of all terms culminates in Him. Terms such
-as god, man, bird, tree etc., though they signify the respective
-physical forms of those objects, they culminate through them in the
-selves in them as their final significance. Just like that here it is
-going to be stated in the conclusion of the account of the
-manifestations of the Lord, that the Lord's immanence in them all as
-their Self is the basis for describing them in such co-ordinate
-predication (as He Himself). The text 'There is nothing, moving or
-unmoving, apart from Me' (10.39) says that they are inseparable from
-Him, and this inseparability is the result of their being under His
-control. This has been initially declared in the words 'All proceed from
-Me' (10.8). \[This word Samanadhikaranya is translated by some also as
+10.20 I am the Self dwelling in the heart of all beings who constitute My body. What is called 'Self' is in every way the supporter, controller and the principal of a body. It is further declared: 'And I am seated in the hearts of all; from Me are memory, knowledge and their removal'
+(15.15), and 'The Lord dwells, O Arjuna in the heart of every being causing them to spin round and round by His power, as if set on a wheel'
+(18.61). The Srutis also declare: 'He who, dwelling in all beings, is within all beings, whom all beings do not know, whose body all beings are, who controls all beings from within, is your Inner Controller,
+immortal Self (Br. U., 3.7.15); and 'He who, dwelling in the self is within the self, whom the self does not know, whose body the self is,
+and who controls the self from within, He is your Inner Controller and Immortal Self' (Sata. Br., 14.5.30). Thus, I am the Self of all beings and I am their beginning, the middle and also the end. The meaning is that I am the cause of their origination, sustentation and dissolution.
+Thus, having explained that the Lord's immanence in all beings, which are His manifestations having Him, as their Self, is the ground for naming them in the manner of Samanadhikaranya or co-ordinate predication with Him (i.e., predication that they are He Himself), Sri Krsna proceeds to present some specific or distinguished manifestations in the same style of co-ordinate predication. As the Lord abides as the Self in all, the final significance of all terms culminates in Him. Terms such as god, man, bird, tree etc., though they signify the respective physical forms of those objects, they culminate through them in the selves in them as their final significance. Just like that here it is going to be stated in the conclusion of the account of the manifestations of the Lord, that the Lord's immanence in them all as their Self is the basis for describing them in such co-ordinate predication (as He Himself). The text 'There is nothing, moving or unmoving, apart from Me' (10.39) says that they are inseparable from Him, and this inseparability is the result of their being under His control. This has been initially declared in the words 'All proceed from Me' (10.8). \[This word Samanadhikaranya is translated by some also as
 'grammatical co-ordination.' It is a context in which a number of words,
-usually having varying denotations, are used to signify an identical
-object. This kind of co-ordinate relation occurs in all the following
-verses in which Sri Krsna eates Himself with various objects having
-different denotations as Atman, Visnu among the Adityas, Indra, Marici,
+usually having varying denotations, are used to signify an identical object. This kind of co-ordinate relation occurs in all the following verses in which Sri Krsna eates Himself with various objects having different denotations as Atman, Visnu among the Adityas, Indra, Marici,
 Sankara, Kubera, etc. Further explanation is given in the commentary.\]
 
 </details>
@@ -445,9 +415,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.20. O coneror of sleep ! I am the Soul residing in the heart of all
-beings; I am the beginning, and the middle and also the very end of
-beings.
+10.20. O coneror of sleep ! I am the Soul residing in the heart of all beings; I am the beginning, and the middle and also the very end of beings.
 
 </details>
 </div>
@@ -462,24 +430,21 @@ and I am the beginning and the middle as also the end of (all) beings.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.20 O Arjuna! I am the Self, seated in the hearts of all beings; I am
-the beginning and the life, and I am the end of them all.
+10.20 O Arjuna! I am the Self, seated in the hearts of all beings; I am the beginning and the life, and I am the end of them all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.20 I am the Self, O Arjuna, dwelling in the hearts of all beings. I
-am the beginning, the middle and also the end of all beings.
+10.20 I am the Self, O Arjuna, dwelling in the hearts of all beings. I am the beginning, the middle and also the end of all beings.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/20_ahamAtmA_guDAkesh.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.20 I am the Self, O Gudakesa, seated in the hearts of all beings; I
-am the beginning, the middle and also the end of all beings.
+10.20 I am the Self, O Gudakesa, seated in the hearts of all beings; I am the beginning, the middle and also the end of all beings.
 
 </details>
 </div>
@@ -489,16 +454,9 @@ am the beginning, the middle and also the end of all beings.
 10.20 अहम् I; आत्मा the Self; गुडाकेश O Gudakesa; सर्वभूताशयस्थितः
 seated in the hearts of all beings; अहम् I; आदिः the beginning; च and;
 मध्यम् the middle; च and; भूतानाम् of (all) beings; अन्तः the end; एव
-even; च and.Commentary O Gudakesa I am the soul (Pratyagatma) which
-exists in the hearts of all beings and I am also the source or origin;
+even; च and.Commentary O Gudakesa I am the soul (Pratyagatma) which exists in the hearts of all beings and I am also the source or origin;
 the middle or stay; and the end of all created beings. I am the birth;
-the life and the death of all beings. Meditate on Me as the innermost
-Self.Gudakesa means either coneror of sleep or thickhaired.He who is
-able to meditate on the Self with Abheda Bhavana (attitude of
-nonduality); is a alified aspirant (Adhikari) of the first class. He who
-is not able to meditate on the Self should think of the Lord in those
-things which are mentioned below. This type of meditation is for the
-aspirants of the middle class.
+the life and the death of all beings. Meditate on Me as the innermost Self.Gudakesa means either coneror of sleep or thickhaired.He who is able to meditate on the Self with Abheda Bhavana (attitude of nonduality); is a alified aspirant (Adhikari) of the first class. He who is not able to meditate on the Self should think of the Lord in those things which are mentioned below. This type of meditation is for the aspirants of the middle class.
 
 </details>
 </div>

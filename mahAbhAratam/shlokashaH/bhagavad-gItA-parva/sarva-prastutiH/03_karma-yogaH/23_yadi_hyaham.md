@@ -77,16 +77,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/23_yadi_hyaham.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.23 If I, the Lord of all, whose will is always true, whose sport
-consists in creation, sustentation and dissolution of universe at My
-will, even though I am born at My pleasure as a man to help the world -
-if, I thus incarnating in the family of Vasudeva who is the foremost
-among virtuous men, did not contine to work unwearied at all times
-suitable to that family, then, these men with incomplete knowledge would
-follow My path, thinking that the way adopted by the son of virtuous
-Vasudeva alone is the real way. And in place of winning the self, they
-would go to Naraka because of their failure to do what ought to be done
-and also because of the sin arising from non-performance of duty.
+3.23 If I, the Lord of all, whose will is always true, whose sport consists in creation, sustentation and dissolution of universe at My will, even though I am born at My pleasure as a man to help the world -
+if, I thus incarnating in the family of Vasudeva who is the foremost among virtuous men, did not contine to work unwearied at all times suitable to that family, then, these men with incomplete knowledge would follow My path, thinking that the way adopted by the son of virtuous Vasudeva alone is the real way. And in place of winning the self, they would go to Naraka because of their failure to do what ought to be done and also because of the sin arising from non-performance of duty.
 
 </details>
 </div>
@@ -267,7 +259,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/03_karma-yogaH/23_yadi_hyaham.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।3.23।। यदि मैं सावधान हुआ (अतन्द्रितः) कदाचित कर्म में न लगा रहूँ तो,
+।।3.23।। यदि मैं सावधान हुआ (अतन्द्रित:) कदाचित कर्म में न लगा रहूँ तो,
 हे पार्थ ! सब प्रकार से मनुष्य मेरे मार्ग (र्वत्म) का अनुसरण करेंगे।।
 
 </details>
@@ -300,8 +292,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/23_yadi_hyaham.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.23. For, if I were ever not at work unwearied, all men would follow My
-path, O son of Prtha !
+3.23. For, if I were ever not at work unwearied, all men would follow My path, O son of Prtha !
 
 </details>
 </div>
@@ -309,32 +300,28 @@ path, O son of Prtha !
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 3.23 For, O Partha, if at any time I do not continue \[Ast. and A.A.
-read varteya instead of varteyam.-Tr.\] vigilantly in action, men will
-follow My path in ever way.
+read varteya instead of varteyam.-Tr.\] vigilantly in action, men will follow My path in ever way.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/23_yadi_hyaham.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.23 For were I not to act without ceasing, O prince, people would be
-glad to do likewise.
+3.23 For were I not to act without ceasing, O prince, people would be glad to do likewise.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/23_yadi_hyaham.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.23 If I did not continue to work unwearied, O Arjuna, men would follow
-my path.
+3.23 If I did not continue to work unwearied, O Arjuna, men would follow my path.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/23_yadi_hyaham.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.23 For, should I not ever engage Myself in action, unwearied, men
-would in every way follow My path, O Arjuna.
+3.23 For, should I not ever engage Myself in action, unwearied, men would in every way follow My path, O Arjuna.
 
 </details>
 </div>
@@ -343,9 +330,7 @@ would in every way follow My path, O Arjuna.
 
 3.23 यदि if; हि surely; अहम् I; न not; वर्तेयम् engage Myself in action;
 जातु ever; कर्मणि in action; अतन्द्रितः unwearied; मम My; वर्त्म path;
-अनुवर्तन्ते follow; मनुष्याः men; पार्थ O Partha; सर्वशः in every
-way.Commentary If I remain inactive; people also will imitate Me and
-keep iet. They will all become Tamasic and pass into a state of inertia.
+अनुवर्तन्ते follow; मनुष्याः men; पार्थ O Partha; सर्वशः in every way.Commentary If I remain inactive; people also will imitate Me and keep iet. They will all become Tamasic and pass into a state of inertia.
 
 </details>
 </div>

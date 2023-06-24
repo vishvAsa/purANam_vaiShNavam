@@ -79,11 +79,7 @@ _________________
 11.39 You alone are the great-grandsire of all and also grandfather etc.
 The Prajapatis are the fathers of all creatures. Hiranyagarbha (Brahma),
 the father of the Prajapatis, is the grandsire of all creatures. You,
-being the father of even Hiranyagarbha, are great grandfather of all
-creatures. You alone are denoted by the several terms by which these
-beings are known. Such is the meaning. Beholding the Lord in a most
-marvellous form, Arjuna, bent with great awe, saluted Him from all sides
-with his eyes widely open from joy.
+being the father of even Hiranyagarbha, are great grandfather of all creatures. You alone are denoted by the several terms by which these beings are known. Such is the meaning. Beholding the Lord in a most marvellous form, Arjuna, bent with great awe, saluted Him from all sides with his eyes widely open from joy.
 
 </details>
 </div>
@@ -315,7 +311,7 @@ _________________
 
 ।।11.39।। आप वायु, यम, अग्नि, वरुण, चन्द्रमा, प्रजापति (ब्रह्मा) और
 प्रपितामह (ब्रह्मा के भी कारण) हैं; आपके लिए सहस्र बार नमस्कार, नमस्कार
-है, पुनः आपको बारम्बार नमस्कार, नमस्कार है।।
+है, पुन: आपको बारम्बार नमस्कार, नमस्कार है।।
 
 </details>
 </div>
@@ -343,19 +339,15 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.39. You are Vayu, Yama, Agni, Varuna, the Moon, Prajapati and the
-Great-paternal-grand-father; Salutation and salutation thousand times to
-You; and again also more salutation and salutation to You.
+11.39. You are Vayu, Yama, Agni, Varuna, the Moon, Prajapati and the Great-paternal-grand-father; Salutation and salutation thousand times to You; and again also more salutation and salutation to You.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.39 You are Air, Death, Fire, the god of the waters, the moon, the
-Lord of the creatures, and the Greater-grandfather. Salutations!
-Salutation be to You a thousand times; salutation to You again and
-again! Salutation!
+11.39 You are Air, Death, Fire, the god of the waters, the moon, the Lord of the creatures, and the Greater-grandfather. Salutations!
+Salutation be to You a thousand times; salutation to You again and again! Salutation!
 
 </details>
 </div>
@@ -363,26 +355,21 @@ again! Salutation!
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 11.39 Thou art the Wind, Thou art Death, Thou art the Fire, the Water,
-the Moon, the Father and the Grandfather. Honour and glory to Thee a
-thousand and a thousand times! Again and again, salutation be to Thee, O
-my Lord!
+the Moon, the Father and the Grandfather. Honour and glory to Thee a thousand and a thousand times! Again and again, salutation be to Thee, O my Lord!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.39 (a) You are Yayu, Yama, Agini, Varuna, Sasanka, Prajapati and the
-great-grandsire৷৷. (b) ৷৷. Hail, Hail unto You, a thousand times! Hail
-unto You again and yet again!
+11.39 (a) You are Yayu, Yama, Agini, Varuna, Sasanka, Prajapati and the great-grandsire৷৷. (b) ৷৷. Hail, Hail unto You, a thousand times! Hail unto You again and yet again!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/39_vAyuryamo-gnirvar.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.39 Thou art Vayu, Yama, Agni, Varuna, the moon, the Creator, and the
-great-grandfather. Salutations, salutations unto Thee, a thousand times,
+11.39 Thou art Vayu, Yama, Agni, Varuna, the moon, the Creator, and the great-grandfather. Salutations, salutations unto Thee, a thousand times,
 and again salutations, salutations unto Thee.
 
 </details>
@@ -393,26 +380,8 @@ and again salutations, salutations unto Thee.
 11.39 वायुः Vayu; यमः Yama; अग्निः Agni; वरुणः Varuna; शशाङ्कः moon;
 प्रजापतिः Prajapati; त्वम् Thou; प्रपितामहः greatgrandfather; च and;
 नमःनमः salutations; ते to Thee; अस्तु be; सहस्रकृत्वः thousand times;
-पुनः again; च and; भूयः again; अपि also ; नमःनमः salutations; ते to
-Thee.Commentary Prajapati Marichi and others were the seven mindborn
-sons of Brahma. Kasyapa descended from Marichi and from Kasyapa came all
-other progeny. Therefore; Marichi; Kasyapa and others are known as
-Prajapatis or the gods or progeny. The word Prajapati here is
-interpreted by some as Kasyapa and other Prajapatis. But as the word has
-been used here in the singular number it is appropriate to take Brahma
-as Prajapati. Brahma is the grandfather (Pitamaha) of Kasyapa. Brahma or
-the Hiranyagarbha is the Karya Brahman (effect). Isvara is the Karana
-Brahman (the cause for Brahma). Therefore; Isvara is the
-greatgrandfather. He is the father of,even Brahma.Isvara has Maya as the
-limiting adjunct. Maya is His causal body. Isvara has no plane. Maya is
-in an undifferentiated state. She is in a state where the alities of
-Nature (Gunas) are in eilibrium. When the eilibrium is disturbed through
-the will of Isvara; the three Gunas; Brahma; Vishnu and Siva
-manifest.Thou art the moon alludes to and includes the sun also.Punah;
-Bhuyah Again. Salutations a thousand times and again salutations. This
-indicates that Arjuna had intense faith in and boundless devotion for
-Lord Krishna. He was not satisfied even if he prostrated himself a
-thousand times.
+पुनः again; च and; भूयः again; अपि also ; नमःनमः salutations; ते to Thee.Commentary Prajapati Marichi and others were the seven mindborn sons of Brahma. Kasyapa descended from Marichi and from Kasyapa came all other progeny. Therefore; Marichi; Kasyapa and others are known as Prajapatis or the gods or progeny. The word Prajapati here is interpreted by some as Kasyapa and other Prajapatis. But as the word has been used here in the singular number it is appropriate to take Brahma as Prajapati. Brahma is the grandfather (Pitamaha) of Kasyapa. Brahma or the Hiranyagarbha is the Karya Brahman (effect). Isvara is the Karana Brahman (the cause for Brahma). Therefore; Isvara is the greatgrandfather. He is the father of,even Brahma.Isvara has Maya as the limiting adjunct. Maya is His causal body. Isvara has no plane. Maya is in an undifferentiated state. She is in a state where the alities of Nature (Gunas) are in eilibrium. When the eilibrium is disturbed through the will of Isvara; the three Gunas; Brahma; Vishnu and Siva manifest.Thou art the moon alludes to and includes the sun also.Punah;
+Bhuyah Again. Salutations a thousand times and again salutations. This indicates that Arjuna had intense faith in and boundless devotion for Lord Krishna. He was not satisfied even if he prostrated himself a thousand times.
 
 </details>
 </div>

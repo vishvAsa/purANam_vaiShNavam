@@ -95,23 +95,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.20 - 6.23 Where, through the practice of Yoga, the mind, which is
-subdued everywhere by such practice, 'rejoices', i.e., rejoices in
-surpassing felicity; and where, perceiving through Yoga 'the self
-(Atman)' by 'the mind (Atman)' one is delighted by the self and
-indifferent to all other objects; and where, through Yoga, one 'knows',
-i.e., experiences that infinite happiness which can be grasped only by
-the 'intellect' contemplating on the self, but is beyond the grasp of
-the senses; where, remaining in that Yoga, one does not 'swerve from
-that state,' because of the overwhelming happiness that state confers;
-having gained which, he desires for it alone, even when he is awakened
-from Yoga, and does not hold anything else as a gain; where one is not
-moved even by 'the heaviest sorrow' caused by any berevaement like that
-of a virtuous son - let him know that disunion from all union with pain,
-i.e., which forms the opposite of union with pain, is called by the term
-Yoga. This Yoga must be practised with the determination of its nature
-as such from the beginning with a mind free from despondency, i.e., with
-zestful exaltation.
+6.20 - 6.23 Where, through the practice of Yoga, the mind, which is subdued everywhere by such practice, 'rejoices', i.e., rejoices in surpassing felicity; and where, perceiving through Yoga 'the self
+(Atman)' by 'the mind (Atman)' one is delighted by the self and indifferent to all other objects; and where, through Yoga, one 'knows',
+i.e., experiences that infinite happiness which can be grasped only by the 'intellect' contemplating on the self, but is beyond the grasp of the senses; where, remaining in that Yoga, one does not 'swerve from that state,' because of the overwhelming happiness that state confers;
+having gained which, he desires for it alone, even when he is awakened from Yoga, and does not hold anything else as a gain; where one is not moved even by 'the heaviest sorrow' caused by any berevaement like that of a virtuous son - let him know that disunion from all union with pain,
+i.e., which forms the opposite of union with pain, is called by the term Yoga. This Yoga must be practised with the determination of its nature as such from the beginning with a mind free from despondency, i.e., with zestful exaltation.
 
 </details>
 </div>
@@ -352,17 +340,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.21. Where he realises that limitless Bliss Which is to be grasped by
-intellect and is beyond sences; remaining Where he does not stir out
-from the Reality;
+6.21. Where he realises that limitless Bliss Which is to be grasped by intellect and is beyond sences; remaining Where he does not stir out from the Reality;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.21 When one experienece that absolute Blisss which can be intuited by
-the intellect and which is beyond the senses, and being established
+6.21 When one experienece that absolute Blisss which can be intuited by the intellect and which is beyond the senses, and being established
 (thus) this person surely does not swerve from Reality;
 
 </details>
@@ -370,27 +355,21 @@ the intellect and which is beyond the senses, and being established
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.21 When he enjoys the Bliss which passes sense, and which only the
-Pure Intellect can grasp, when he comes to rest within his own highest
-Self, never again will he stray from reality.
+6.21 When he enjoys the Bliss which passes sense, and which only the Pure Intellect can grasp, when he comes to rest within his own highest Self, never again will he stray from reality.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.21 Where one knows that infinite happiness which can be grasped by the
-intellect but is beyond the grasp of the senses, wherein established one
-swerves not from that condition;
+6.21 Where one knows that infinite happiness which can be grasped by the intellect but is beyond the grasp of the senses, wherein established one swerves not from that condition;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/21_sukhamAtyantikaM.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.21 When he (the Yogi) feels that Infinite Bliss which can be grasped
-by the (pure) intellect and which transcends the senses, and established
-wherein he never moves from the Reality.
+6.21 When he (the Yogi) feels that Infinite Bliss which can be grasped by the (pure) intellect and which transcends the senses, and established wherein he never moves from the Reality.
 
 </details>
 </div>
@@ -400,12 +379,7 @@ wherein he never moves from the Reality.
 6.21 सुखम् bliss; आत्यन्तिकम् infinite; यत् which; तत् that;
 बुद्धिग्राह्यम् that which can be grasped by reason; अतीन्द्रियम्
 transcending the senses; वेत्ति knows; यत्र where; न not; च and; एव
-even; अयम् this; स्थितः established; चलति moves; तत्त्वतः from the
-Reality.Commentary The Infinite Bliss of the Self (which is beyond the
-reach of the senses) can be grasped (realised) by the pure intellect
-independently of the senses. During deep meditation the senses cease to
-function; as they are involved into their cause; the mind. The intellect
-is rendered pure by the practice of Yama (selfrestriant) and Niyama
+even; अयम् this; स्थितः established; चलति moves; तत्त्वतः from the Reality.Commentary The Infinite Bliss of the Self (which is beyond the reach of the senses) can be grasped (realised) by the pure intellect independently of the senses. During deep meditation the senses cease to function; as they are involved into their cause; the mind. The intellect is rendered pure by the practice of Yama (selfrestriant) and Niyama
 (observances and disciplinary practices) and constant meditation.
 
 </details>

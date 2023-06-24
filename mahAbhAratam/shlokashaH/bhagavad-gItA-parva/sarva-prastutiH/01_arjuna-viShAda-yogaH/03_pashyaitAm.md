@@ -37,34 +37,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/03_pashyaitAm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the
-forces of Pandavas protected by Bhima, and his own forces protected by
-Bhisma conveyed his views thus to Drona, his teacher, about the adeacy
-of Bhima's forces for conering the Kaurava forces and the inadeacy of
-his own forces for victory against the Pandava forces. He was
-grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma,
+1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adeacy of Bhima's forces for conering the Kaurava forces and the inadeacy of his own forces for victory against the Pandava forces. He was grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma,
 in order to cheer him, roared like a lion, and then blowing his conch,
-made his side sound their conchs and kettle-drums, which made an uproar
-as a sign of victory. Then, having heard that great tumult, Arjuna and
-Sri Krsna the Lord of all lords, who was acting as the charioteer of
-Arjuna, sitting in their great chariot which was powerful enough to
-coner the three worlds; blew their divine conchs Srimad Pancajanya and
-Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs
-separately. That tumult rent asunder the hearts of your sons, led by
-Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost
-lost now itself.' So said Sanjaya to Dhrtarastra who was longing for
-their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas,
-who were ready for battle, Arjuna, who had Hanuman, noted for his
-exploit of burning Lanka, as the emblem on his flag on his chariot,
-directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by
-parental love for those who take shelter in Him who is the
-treasure-house of knowledge, power, lordship, energy, potency and
-splendour, whose sportive delight brings about the origin, sustentation
-and dissolution of the entire cosmos at His will, who is the Lord of the
-senses, who controls in all ways the senses inner and outer of all,
-superior and inferior - by saying, 'Station my chariot in an appropriate
-place in order that I may see exactly my enemies who are eager for
-battle.'
+made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to coner the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost lost now itself.' So said Sanjaya to Dhrtarastra who was longing for their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas,
+who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot,
+directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all,
+superior and inferior - by saying, 'Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.'
 
 </details>
 </div>
@@ -331,32 +309,28 @@ marshalled in a military array by Drupada's son, your intelligent pupil.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/03_pashyaitAm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.3 O teacher, (please) see this vast army of the sons of Pandu, arrayed
-for battle by the son of Drupada, your intelligent disciple.
+1.3 O teacher, (please) see this vast army of the sons of Pandu, arrayed for battle by the son of Drupada, your intelligent disciple.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/03_pashyaitAm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.3 Revered Father! Behold this mighty host of the Pandavas, paraded by
-the son of King Drupada, thy wise disciple.
+1.3 Revered Father! Behold this mighty host of the Pandavas, paraded by the son of King Drupada, thy wise disciple.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/03_pashyaitAm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.3 Behold, O teacher, this mighty army of the Pandavas, arrayed by the
-son of Drupada, your intelligent disciple.
+1.3 Behold, O teacher, this mighty army of the Pandavas, arrayed by the son of Drupada, your intelligent disciple.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/03_pashyaitAm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.3. "Behold, O Teacher! this mighty army of the sons of Pandu, arrayed
-by the son of Drupada, thy wise disciple.
+1.3. "Behold, O Teacher! this mighty army of the sons of Pandu, arrayed by the son of Drupada, thy wise disciple.
 
 </details>
 </div>
@@ -365,8 +339,7 @@ by the son of Drupada, thy wise disciple.
 
 1.3 पश्य behold; एताम् this; पाण्डुपुत्राणाम् of the sons of Pandu;
 आचार्य O Teacher; महतीम् great; चमूम् army; व्यूढाम् arrayed;
-द्रुपदपुत्रेण son of Drupada; तव शिष्येण by your disciple; धीमता wise.No
-Commentary.
+द्रुपदपुत्रेण son of Drupada; तव शिष्येण by your disciple; धीमता wise.No Commentary.
 
 </details>
 </div>

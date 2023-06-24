@@ -94,19 +94,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/20_karmaNaiva_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.20 It is also declared that Karma Yoga alone Janaka and others reached
-perfection. Because, Karma Yoga is the best means for securing the
-vision of the self even for a person who is alified for Jnana Yoga,
+3.20 It is also declared that Karma Yoga alone Janaka and others reached perfection. Because, Karma Yoga is the best means for securing the vision of the self even for a person who is alified for Jnana Yoga,
 royal sages like Janaka and others, who are foremost among the Jnanins,
-preferred Karma Yoga as the means for attaining perfection. Thus, having
-first declared previously that Karma Yoga must be practised by an
-aspirant for release who is alified for Karma Yoga alone, as he is unfit
-for Jnana Yoga, it was next stated with reasons that, even for one who
-is alified for Jnana Yoga, Karma Yoga is better than Jnana Yoga Now it
-is going to be declared (in verses 20-26) that Karma Yoga must be
-performed in every way by one who is virtuous. At least for the guidance
-of the world, you should do work even if there is no need of it for
-yourself.
+preferred Karma Yoga as the means for attaining perfection. Thus, having first declared previously that Karma Yoga must be practised by an aspirant for release who is alified for Karma Yoga alone, as he is unfit for Jnana Yoga, it was next stated with reasons that, even for one who is alified for Jnana Yoga, Karma Yoga is better than Jnana Yoga Now it is going to be declared (in verses 20-26) that Karma Yoga must be performed in every way by one who is virtuous. At least for the guidance of the world, you should do work even if there is no need of it for yourself.
 
 </details>
 </div>
@@ -516,18 +506,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/20_karmaNaiva_hi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.20. It was by action alone that Janaka and others had attained
-emancipation. Further, at least having regard to hold the world (the
-society) together you should act.
+3.20. It was by action alone that Janaka and others had attained emancipation. Further, at least having regard to hold the world (the society) together you should act.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/20_karmaNaiva_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.20 For Janaka and others strove to attain Liberation through action
-itself. You ought to perform (your duties) keeping also in view the
-prevention of mankind from going astray.
+3.20 For Janaka and others strove to attain Liberation through action itself. You ought to perform (your duties) keeping also in view the prevention of mankind from going astray.
 
 </details>
 </div>
@@ -543,17 +529,14 @@ Even for the sake of enlightening the world, it is thy duty to act;
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 3.20 Indeed by Karma Yoga alone did Janaka and others reach perfection.
-Even recognising its necessity for the guidance of the world, you must
-perform action.
+Even recognising its necessity for the guidance of the world, you must perform action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/20_karmaNaiva_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.20 Janaka and others attained perfection verily by action only; even
-with a view to the protection of the masses thou shouldst perform
-action.
+3.20 Janaka and others attained perfection verily by action only; even with a view to the protection of the masses thou shouldst perform action.
 
 </details>
 </div>
@@ -561,12 +544,8 @@ action.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.20 कर्मणा by action; एव only; हि verily; संसिद्धिम् perfection;
-आस्थिताः attained; जनकादयः Janaka and others; लोकसंग्रहम् protection of
-the masses; एवापि only; संपश्यन् having in view; कर्तुम् to perform;
-अर्हसि thou shouldst.Commentary Samsiddhi is Moksha (perfection or
-liberation). Janaka; (Asvapati) and others had perfect knowledge of the
-Self; and yet they performed actions in order to set an example to the
-masses. They worked for the guidance of men.
+आस्थिताः attained; जनकादयः Janaka and others; लोकसंग्रहम् protection of the masses; एवापि only; संपश्यन् having in view; कर्तुम् to perform;
+अर्हसि thou shouldst.Commentary Samsiddhi is Moksha (perfection or liberation). Janaka; (Asvapati) and others had perfect knowledge of the Self; and yet they performed actions in order to set an example to the masses. They worked for the guidance of men.
 
 </details>
 </div>

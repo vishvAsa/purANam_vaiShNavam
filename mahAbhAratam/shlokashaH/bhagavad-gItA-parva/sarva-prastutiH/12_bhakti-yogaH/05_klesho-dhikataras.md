@@ -87,29 +87,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/05_klesho-dhikataras.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.3 - 12.5 The individual self meditated upon by those who follow the
-path of the 'Aksara' (the Imperishable) is thus described: It cannot be
-'defined' in terms indicated by expressions like gods and men etc., for
-It is different from the body; It is 'imperceptible' through the senses
-such as eyes; It is 'omnipresent and unthinkable,' for though It exists
-everywhere in bodies such as those of gods and others, It cannot be
-conceived in terms of those bodies, as It is an entity of an altogether
-different kind; It is 'common to all beings' i.e., alike in all beings
-but different from the bodily forms distinguishing them; It is
-'immovable' as It does not move out of Its unie nature, being
-unmodifiable, and therefore eternal. Such aspirants are further
-described as those who, 'subduing their senses' like the eye from their
-natural operations, look upon all beings of different forms as 'eal' by
-virtue of their knowledge of the sameness of the nature of the selves as
-knowers in all. Therefore they are not given 'to take pleasure in the
-misfortune of others,' as such feelings proceed from one's
-identification with one's own special bodily form. Those who meditate on
-the Imperishable Principle (individual self) in this way, even they come
-to Me. It means that they also realise their essential self, which, in
-respect of freedom from Samsara, is like My own Self. So Sri Krsna will
-declare later on: 'Partaking of My nature' (14.2). Also the Sruti says:
-'Untainted, he attains supreme eality' (Mun. U., 3.1.3). Likewise He
-will declare the Supreme Brahman as being distinct from the freed self
+12.3 - 12.5 The individual self meditated upon by those who follow the path of the 'Aksara' (the Imperishable) is thus described: It cannot be
+'defined' in terms indicated by expressions like gods and men etc., for It is different from the body; It is 'imperceptible' through the senses such as eyes; It is 'omnipresent and unthinkable,' for though It exists everywhere in bodies such as those of gods and others, It cannot be conceived in terms of those bodies, as It is an entity of an altogether different kind; It is 'common to all beings' i.e., alike in all beings but different from the bodily forms distinguishing them; It is
+'immovable' as It does not move out of Its unie nature, being unmodifiable, and therefore eternal. Such aspirants are further described as those who, 'subduing their senses' like the eye from their natural operations, look upon all beings of different forms as 'eal' by virtue of their knowledge of the sameness of the nature of the selves as knowers in all. Therefore they are not given 'to take pleasure in the misfortune of others,' as such feelings proceed from one's identification with one's own special bodily form. Those who meditate on the Imperishable Principle (individual self) in this way, even they come to Me. It means that they also realise their essential self, which, in respect of freedom from Samsara, is like My own Self. So Sri Krsna will declare later on: 'Partaking of My nature' (14.2). Also the Sruti says:
+'Untainted, he attains supreme eality' (Mun. U., 3.1.3). Likewise He will declare the Supreme Brahman as being distinct from the freed self
 which is without modification and is denoted by the term 'Imperishable'
 (Aksara), and is described as unchanging (Kutastha). 'The Highest Person
 is other than this Imperishable' (15.16 - 17). But in the teaching in
@@ -550,36 +531,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/05_klesho-dhikataras.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.5. (But) the trouble is much more for them, who have their mind fixed
-on the Unmanifest; for the Unmanifest-goal is attained with difficulty
-by men, bearing body.
+12.5. (But) the trouble is much more for them, who have their mind fixed on the Unmanifest; for the Unmanifest-goal is attained with difficulty by men, bearing body.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/05_klesho-dhikataras.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.5 For them who have their minds attached to the Unmanifested the
-struggle is greater; for, the Goal which is the Unmanifest is attained
-with difficulty by the embodied ones.
+12.5 For them who have their minds attached to the Unmanifested the struggle is greater; for, the Goal which is the Unmanifest is attained with difficulty by the embodied ones.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/05_klesho-dhikataras.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.5 But they who thus fix their attention on the Absolute and
-Impersonal encounter greater hardships, for it is difficult for those
-who possess a body to realise Me as without one.
+12.5 But they who thus fix their attention on the Absolute and Impersonal encounter greater hardships, for it is difficult for those who possess a body to realise Me as without one.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/05_klesho-dhikataras.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.5 Greater is the difficulty of those whose minds are thus attached to
-the unmanifest. For the way of the unmanifest is hard to reach by
-embodied beings.
+12.5 Greater is the difficulty of those whose minds are thus attached to the unmanifest. For the way of the unmanifest is hard to reach by embodied beings.
 
 </details>
 </div>
@@ -596,34 +569,12 @@ for the goal; the unmanifested, is very hard for the embodied to reach.
 
 12.5 क्लेशः the trouble; अधिकतरः (is) greater; तेषाम् of those;
 अव्यक्तासक्तचेतसाम् whose minds are set on the unmanifested; अव्यक्ता
-the unmanifested; हि for; गतिः goal; दुःखम् pain; देहवद्भिः by the
-embodied; अवाप्यते is reached.Commentary Worshippers of the Saguna
-(alified) and the Nirguna (unalified) Brahman reach the same goal. But
-the latter path is very hard and arduous; because the aspirant has to
-give up attachment to the body from the very beginning of his spiritual
-practice.The embodied Those who identify themselves with their bodies.
-Identification with the body is Dehabhimana. The imperishable Brahman is
-very hard to reach for those who are attached to their bodies. Further;
-it is extremely difficult to fix the resltess mind on the formless and
-attributeless Brahman. Contemplation on the imperishable; attributeless
-Brahman demands a very sharp; onepointed and subtle intellect. The
-Upanishad says Drisyate tu agraya buddhya sukshmaya sukshmadarsibhih --
-It is seen by subtle seers through their subtle intellect.He who
-meditates on the unmanifested should possess the four means. Then he
-will have to approach a Guru who is well versed in the scriptures and
-who is also established in Brahman. He will have to hear the Truth from
-him; then reflect and meditate on It.He who realises the Nirguna
-(attributeless) Brahman attains eternal bliss or Selfrealisation or
-Kaivalya (Moksha) which is preceded by the destruction of ignorance with
-its effects. He who realises the Saguna Brahman (Brahman with
-attributes) goes to Brahmaloka and enjoys all the wealth and powers of
-the Lord. He then gets initiation into the mysteries of the Absolute
-from Hiranyagarbha and without any effort and without the practice of
-hearing; reflection and meditation attains; through the grace of the
-Lord alone; the same state as attained by those who have realised the
-Nirguna Brahman. Through the knowledge of the Self; ignorance and its
-effects,are destroyed in the case of the worshippers of the Saguna
-Brahman also.
+the unmanifested; हि for; गतिः goal; दुःखम् pain; देहवद्भिः by the embodied; अवाप्यते is reached.Commentary Worshippers of the Saguna
+(alified) and the Nirguna (unalified) Brahman reach the same goal. But the latter path is very hard and arduous; because the aspirant has to give up attachment to the body from the very beginning of his spiritual practice.The embodied Those who identify themselves with their bodies.
+Identification with the body is Dehabhimana. The imperishable Brahman is very hard to reach for those who are attached to their bodies. Further;
+it is extremely difficult to fix the resltess mind on the formless and attributeless Brahman. Contemplation on the imperishable; attributeless Brahman demands a very sharp; onepointed and subtle intellect. The Upanishad says Drisyate tu agraya buddhya sukshmaya sukshmadarsibhih --
+It is seen by subtle seers through their subtle intellect.He who meditates on the unmanifested should possess the four means. Then he will have to approach a Guru who is well versed in the scriptures and who is also established in Brahman. He will have to hear the Truth from him; then reflect and meditate on It.He who realises the Nirguna
+(attributeless) Brahman attains eternal bliss or Selfrealisation or Kaivalya (Moksha) which is preceded by the destruction of ignorance with its effects. He who realises the Saguna Brahman (Brahman with attributes) goes to Brahmaloka and enjoys all the wealth and powers of the Lord. He then gets initiation into the mysteries of the Absolute from Hiranyagarbha and without any effort and without the practice of hearing; reflection and meditation attains; through the grace of the Lord alone; the same state as attained by those who have realised the Nirguna Brahman. Through the knowledge of the Self; ignorance and its effects,are destroyed in the case of the worshippers of the Saguna Brahman also.
 
 </details>
 </div>

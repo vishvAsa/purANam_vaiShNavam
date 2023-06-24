@@ -68,22 +68,8 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 4.17 There is something which ought to be known in regard to action
-(Karma) which forms the means of attaining release. So also is the case
-in regard to 'multi-form or varied forms of action' (Vikarma). These are
-what have acired variegation as obligatory, occasional and
-desire-prompted works reiring numerous reisites. There is also something
-to be known about non-action, i.e., knowledge of the self. Therefore,
-deep, i.e., difficult to understand, is the way of action to be pursued
-by the seeker after release. What should be known as regards multi-form
-or variegated forms of Karma is that the attribution of differences
-leading to differences of fruits in obligatory, occasional and
-desire-prompted rites and acisition of things reired for their
-performace, etc., must be renounced, realising that the Sastras aim at
-only one result, i.e., release (and not several results said to accrue
-from these works). This has been declared in connection with the
-teaching, 'The resolute mind is one-pointed' (2.41) and is not
-elaborated here. Sri Krsna explains what must be known in regard to
-action and non-action.
+(Karma) which forms the means of attaining release. So also is the case in regard to 'multi-form or varied forms of action' (Vikarma). These are what have acired variegation as obligatory, occasional and desire-prompted works reiring numerous reisites. There is also something to be known about non-action, i.e., knowledge of the self. Therefore,
+deep, i.e., difficult to understand, is the way of action to be pursued by the seeker after release. What should be known as regards multi-form or variegated forms of Karma is that the attribution of differences leading to differences of fruits in obligatory, occasional and desire-prompted rites and acisition of things reired for their performace, etc., must be renounced, realising that the Sastras aim at only one result, i.e., release (and not several results said to accrue from these works). This has been declared in connection with the teaching, 'The resolute mind is one-pointed' (2.41) and is not elaborated here. Sri Krsna explains what must be known in regard to action and non-action.
 
 </details>
 </div>
@@ -398,36 +384,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.17. Something has got to be understand of \[good\] action also; and
-something is to be understood of the wrong action; and something is to
-be understood of non-action. Difficult is to comprehend the way of
-action.
+4.17. Something has got to be understand of \[good\] action also; and something is to be understood of the wrong action; and something is to be understood of non-action. Difficult is to comprehend the way of action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.17 For there is something to be known even about action, and something
-to be known about prohibited action; and something has to be known about
-inaction. The true nature of action is inscrutable.
+4.17 For there is something to be known even about action, and something to be known about prohibited action; and something has to be known about inaction. The true nature of action is inscrutable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.17 It is necessary to consider what is right action, what is wrong
-action, and what is inaction, for mysterious is the law of action.
+4.17 It is necessary to consider what is right action, what is wrong action, and what is inaction, for mysterious is the law of action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/17_karmaNo_hyapi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.17 For, there is what ought to be known in action. Likewise there is
-what ought to be known in multi-form action. And there is what ought to
-be understood in non-action. Thus mysterious is the way of action.
+4.17 For, there is what ought to be known in action. Likewise there is what ought to be known in multi-form action. And there is what ought to be understood in non-action. Thus mysterious is the way of action.
 
 </details>
 </div>
@@ -435,8 +413,7 @@ be understood in non-action. Thus mysterious is the way of action.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 4.17 For verily (the true nature) of action (enjoined by the scriptures)
-should be known, also (that) of forbidden (or unlawful) action, and of
-inaction; hard to understand is the nature (path) of action.
+should be known, also (that) of forbidden (or unlawful) action, and of inaction; hard to understand is the nature (path) of action.
 
 </details>
 </div>

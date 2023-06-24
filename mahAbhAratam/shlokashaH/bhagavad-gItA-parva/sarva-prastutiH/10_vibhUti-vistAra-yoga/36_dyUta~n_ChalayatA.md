@@ -60,10 +60,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.36 Of those who practise fraud with a view to defeat each other, I am
-gambling such a dice-play etc., I am the victory of those who achieve
-victory. I am the effort of those who make effort. I am the magnanimity
-of those who possess magnanimity of mind.
+10.36 Of those who practise fraud with a view to defeat each other, I am gambling such a dice-play etc., I am the victory of those who achieve victory. I am the effort of those who make effort. I am the magnanimity of those who possess magnanimity of mind.
 
 </details>
 </div>
@@ -326,18 +323,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.36. I am gambling of the fradulent; I am the brilliance of the
-brilliant; I am the victory; I am the resolution; I am the energy of the
-energetic.
+10.36. I am gambling of the fradulent; I am the brilliance of the brilliant; I am the victory; I am the resolution; I am the energy of the energetic.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.36 Of the fraudulent I am the gambling; I am the irresistible ;nd of
-the mighty. I am excellene, I am effort, I am the sattva ality of those
-possessed of sattva.
+10.36 Of the fraudulent I am the gambling; I am the irresistible ;nd of the mighty. I am excellene, I am effort, I am the sattva ality of those possessed of sattva.
 
 </details>
 </div>
@@ -352,18 +345,14 @@ I am Victory; I am Effort; and I am the Purity of the pure.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.36 Of the fraudulent, I am gambling. I am the brilliance of the
-brilliant. I am victory, I am effort. I am the magnanimity of the
-magnanimous.
+10.36 Of the fraudulent, I am gambling. I am the brilliance of the brilliant. I am victory, I am effort. I am the magnanimity of the magnanimous.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/36_dyUta~n_ChalayatA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.36 I am the gambling of the fraudulent; I am the splendour of the
-splendid; I am victory; I am determination (of those who are
-determined); I am the goodness of the good.
+10.36 I am the gambling of the fraudulent; I am the splendour of the splendid; I am victory; I am determination (of those who are determined); I am the goodness of the good.
 
 </details>
 </div>
@@ -373,12 +362,7 @@ determined); I am the goodness of the good.
 10.36 द्यूतम् the gambling; छलयताम् of the fraudulent; अस्मि (I) am;
 तेजः splendour; तेजस्विनाम् of the splendid; अहम् I; जयः victory; अस्मि
 (I) am; व्यवसायः determination; अस्मि (I) am; सत्त्वम् the goodness;
-सत्त्ववताम् of the good; अहम् I.Commentary Of the methods of defrauding
-others I am gambling such as diceplay. Gambling is My manifestation. I
-am the power of the powerful. I am the victoyr of the victorious. I am
-the effort of those who make that effort.I am Sattva which assumes the
-forms of Dharma (virtue); Jnana (knowledge); Vairagya (dispassion); and
-Aisvarya (wealth or lordship) in Sattvic persons.
+सत्त्ववताम् of the good; अहम् I.Commentary Of the methods of defrauding others I am gambling such as diceplay. Gambling is My manifestation. I am the power of the powerful. I am the victoyr of the victorious. I am the effort of those who make that effort.I am Sattva which assumes the forms of Dharma (virtue); Jnana (knowledge); Vairagya (dispassion); and Aisvarya (wealth or lordship) in Sattvic persons.
 
 </details>
 </div>

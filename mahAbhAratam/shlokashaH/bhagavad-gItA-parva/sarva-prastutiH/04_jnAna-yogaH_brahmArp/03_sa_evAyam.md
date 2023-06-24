@@ -65,12 +65,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 4.3 It is the same ancient, unchanged Yoga which is now taught to you,
-who out of friendship and overwhelming devotion have resorted to Me
-whole-heartedly. The meaning is that it has been taught to you fully
-with all its accessories. Because it is the most mysterious knowledge
-declared in the Vedanta, it cannot be known or taught by anyone other
-than Myself. In this connection, in order to know the truth about the
-Lord's descent correctly, Arjuna asked:
+who out of friendship and overwhelming devotion have resorted to Me whole-heartedly. The meaning is that it has been taught to you fully with all its accessories. Because it is the most mysterious knowledge declared in the Vedanta, it cannot be known or taught by anyone other than Myself. In this connection, in order to know the truth about the Lord's descent correctly, Arjuna asked:
 
 </details>
 </div>
@@ -372,17 +367,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.3. The self-same ancient Yoga has been taught now by Me to you on the
-ground that you are My devotee and friend too. This is the highest
-secret.
+4.3. The self-same ancient Yoga has been taught now by Me to you on the ground that you are My devotee and friend too. This is the highest secret.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.3 That ancient Yoga itself, which is this, has been taught to you by
-Me today, considering that you are My devotee and friend, For, this
+4.3 That ancient Yoga itself, which is this, has been taught to you by Me today, considering that you are My devotee and friend, For, this
 (Yoga) is a profound secret.
 
 </details>
@@ -390,24 +382,21 @@ Me today, considering that you are My devotee and friend, For, this
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.3 It is the same ancient Path that I have now revealed to thee, since
-thou are My devotee and My friend. It is the supreme Secret.
+4.3 It is the same ancient Path that I have now revealed to thee, since thou are My devotee and My friend. It is the supreme Secret.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.3 It is the same ancient Yoga which is now taught to you by Me, as you
-are My devotee and My friend. For, this is a supreme mystery.
+4.3 It is the same ancient Yoga which is now taught to you by Me, as you are My devotee and My friend. For, this is a supreme mystery.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/03_sa_evAyam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.3 That same ancient Yoga has been today taught to thee by Me, for thou
-art My devotee and My friend; it is the supreme secret.
+4.3 That same ancient Yoga has been today taught to thee by Me, for thou art My devotee and My friend; it is the supreme secret.
 
 </details>
 </div>
@@ -415,10 +404,8 @@ art My devotee and My friend; it is the supreme secret.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 4.3 सः that; एव even; अयम् this; मया by Me; ते to thee; अद्य today; योगः
-Yoga; प्रोक्तः has been taught; पुरातनः ancient; भक्तः devotee; असि thou
-art; मे My; सखा friend; च and; इति thus; रहस्यम् secret; हि for; एतत्
-this; उत्तमम् best.Commentary This Yoga contains profound and subtle
-teachings. Hence it is the supreme secret which is revealed by the Lord.
+Yoga; प्रोक्तः has been taught; पुरातनः ancient; भक्तः devotee; असि thou art; मे My; सखा friend; च and; इति thus; रहस्यम् secret; हि for; एतत्
+this; उत्तमम् best.Commentary This Yoga contains profound and subtle teachings. Hence it is the supreme secret which is revealed by the Lord.
 
 </details>
 </div>

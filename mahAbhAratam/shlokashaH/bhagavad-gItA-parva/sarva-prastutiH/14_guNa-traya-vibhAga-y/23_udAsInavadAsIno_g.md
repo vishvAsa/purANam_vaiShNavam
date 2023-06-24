@@ -55,13 +55,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.23 He who sits like one 'unconcerned,' namely, whose satisfaction
-consists in the vision of the self as different from the Gunas and sits
-like one unconcerned about other things and is not therefore disturbed
-by the Gunas through hatred and longing and who remains iet, reflecting:
+14.23 He who sits like one 'unconcerned,' namely, whose satisfaction consists in the vision of the self as different from the Gunas and sits like one unconcerned about other things and is not therefore disturbed by the Gunas through hatred and longing and who remains iet, reflecting:
 'The Gunas function in their effects like illumination etc., and so
-'rests unshaken,' i.e, does not act in accordance with the effects of
-the Gunas.
+'rests unshaken,' i.e, does not act in accordance with the effects of the Gunas.
 
 </details>
 </div>
@@ -366,35 +362,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.23. He who, sitting like an unconcerned person, is not perturbed by
-the Strands; who is ignorant that the Strands exist; (or who remain
-simply aware that the Strands \[alone\] exist) who is not shaken;
+14.23. He who, sitting like an unconcerned person, is not perturbed by the Strands; who is ignorant that the Strands exist; (or who remain simply aware that the Strands \[alone\] exist) who is not shaken;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.23 He who, sitting like one indifferent, is not distracted by the
-three alities; he who, thinking that the alities alone act, remains firm
-and surely does not move;
+14.23 He who, sitting like one indifferent, is not distracted by the three alities; he who, thinking that the alities alone act, remains firm and surely does not move;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.23 He who maintains an attitude of indifference, who is not disturbed
-by the Qualities, who realises that it is only they who act, and remains
-calm;
+14.23 He who maintains an attitude of indifference, who is not disturbed by the Qualities, who realises that it is only they who act, and remains calm;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/23_udAsInavadAsIno_g.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.23 He who sits like one unconcerned, undisturbed by the Gunas; who
-knows, 'It is the Gunas that move,' and so rests unshaken;
+14.23 He who sits like one unconcerned, undisturbed by the Gunas; who knows, 'It is the Gunas that move,' and so rests unshaken;
 
 </details>
 </div>
@@ -402,8 +391,7 @@ knows, 'It is the Gunas that move,' and so rests unshaken;
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 14.23 He who, seated like one unconcerned, is not moved by the alities,
-and who, knowing that the alities are active, is self-centred and moves
-not.
+and who, knowing that the alities are active, is self-centred and moves not.
 
 </details>
 </div>
@@ -413,16 +401,7 @@ not.
 14.23 उदासीनवत् like one unconcerned; आसीनः seated; गुणैः by the Gunas;
 यः who; न not; विचाल्यते is moved; गुणाः the Gunas; वर्तन्ते operate;
 इति thus; एव even; यः who; अवतिष्ठति is selfcentred; न not; इङ्गते
-moves.Commentary He is seated as a neutral (one who inclines to neither
-party). He is free from likes and dislikes. He is entirely unconcerned
-whether the alities with their effects and the body come or go. He is
-like the spectator at a football or a cricket match or a drama. Just as
-the sky remains unconcerned when the wind blows; so also he remains ite
-unconcerned when the alities operate.He does not swerve from the path of
-Selfrealisation. He treads the path firmly. He thinks and feels The
-alities are modified into the body; senses and senseobjects. They act
-and react upon one another; remains unshaken by them. He abides in his
-own Self and stands firm like the mountain Meru. (Cf.III.28V.8to11)
+moves.Commentary He is seated as a neutral (one who inclines to neither party). He is free from likes and dislikes. He is entirely unconcerned whether the alities with their effects and the body come or go. He is like the spectator at a football or a cricket match or a drama. Just as the sky remains unconcerned when the wind blows; so also he remains ite unconcerned when the alities operate.He does not swerve from the path of Selfrealisation. He treads the path firmly. He thinks and feels The alities are modified into the body; senses and senseobjects. They act and react upon one another; remains unshaken by them. He abides in his own Self and stands firm like the mountain Meru. (Cf.III.28V.8to11)
 
 </details>
 </div>

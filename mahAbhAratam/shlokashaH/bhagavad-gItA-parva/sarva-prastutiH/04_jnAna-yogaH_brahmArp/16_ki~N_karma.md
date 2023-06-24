@@ -66,16 +66,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/16_ki~N_karma.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.16 What is the form of the action which should be done by an aspirant
-for liberation; And what is non-action; Knowledge about the true nature
-of the acting self, is spoken of as non-action. The wise, even the
-learned scholars, are puzzled, i.e., do not truly know, both these - the
-proper form of the actions to be performed and the proper form of
-knowledge included in it. I shall teach you that action which includes
-knowledge within itself. Knowing, i.e., following it, you will be
-released from evil, i.e., from the bondage of Samsara. Knowledge about
-the work to be performed results in its performance. Why is it so
-difficult to know this Karma; Sri Krsna replies:
+4.16 What is the form of the action which should be done by an aspirant for liberation; And what is non-action; Knowledge about the true nature of the acting self, is spoken of as non-action. The wise, even the learned scholars, are puzzled, i.e., do not truly know, both these - the proper form of the actions to be performed and the proper form of knowledge included in it. I shall teach you that action which includes knowledge within itself. Knowing, i.e., following it, you will be released from evil, i.e., from the bondage of Samsara. Knowledge about the work to be performed results in its performance. Why is it so difficult to know this Karma; Sri Krsna replies:
 
 </details>
 </div>
@@ -372,46 +363,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/16_ki~N_karma.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.16. Even the wise are perplexed about what is action and what is
-non-action; I shall preperly teach you the action, by knowing which you
-shall be freed from evil.
+4.16. Even the wise are perplexed about what is action and what is non-action; I shall preperly teach you the action, by knowing which you shall be freed from evil.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/16_ki~N_karma.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.16 Even the intelligent are confounded as to what is action and what
-is inaction. I shall tell you of that action by knowing which you will
-become free from evil.
+4.16 Even the intelligent are confounded as to what is action and what is inaction. I shall tell you of that action by knowing which you will become free from evil.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/16_ki~N_karma.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.16 What is action and what is inaction; It is a question which has
-bewildered the wise. But I will declare unto thee the philosophy of
-action, and knowing it, thou shalt be free from evil.
+4.16 What is action and what is inaction; It is a question which has bewildered the wise. But I will declare unto thee the philosophy of action, and knowing it, thou shalt be free from evil.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/16_ki~N_karma.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.16 What is action; What is non-action; Even the wise are puzzled in
-respect of these. I shall declare to you that kind of action by knowing
-which you will be freed from evil.
+4.16 What is action; What is non-action; Even the wise are puzzled in respect of these. I shall declare to you that kind of action by knowing which you will be freed from evil.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/16_ki~N_karma.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.16 What is action; What is inaction; As to this even the wise are
-confused. Therefore I shall teach thee such action (the nature of action
-and inaction) by knowing which thou shalt be liberated from the evil (of
-Samsara, the wheel of birth and death).
+4.16 What is action; What is inaction; As to this even the wise are confused. Therefore I shall teach thee such action (the nature of action and inaction) by knowing which thou shalt be liberated from the evil (of Samsara, the wheel of birth and death).
 
 </details>
 </div>
@@ -419,10 +399,8 @@ Samsara, the wheel of birth and death).
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 4.16 किम् what; कर्म action; किम् what; अकर्म inaction; इति thus; कवयः
-wise; अपि also; अत्र in this; मोहिताः (are) deluded; तत् that; ते to
-thee; कर्म action; प्रवक्ष्यामि (I) shall teach; यत् which; ज्ञात्वा
-having known; मोक्ष्यसे (thou) shalt be liberated; अशुभात् from evil.No
-Commentary.
+wise; अपि also; अत्र in this; मोहिताः (are) deluded; तत् that; ते to thee; कर्म action; प्रवक्ष्यामि (I) shall teach; यत् which; ज्ञात्वा
+having known; मोक्ष्यसे (thou) shalt be liberated; अशुभात् from evil.No Commentary.
 
 </details>
 </div>

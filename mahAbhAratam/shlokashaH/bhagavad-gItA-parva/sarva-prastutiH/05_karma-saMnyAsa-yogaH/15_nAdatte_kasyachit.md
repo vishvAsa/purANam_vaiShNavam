@@ -83,28 +83,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.15 Because, It, the Atman is 'all-pervading', i.e., is not limited to
-particular area or space included in the bodies of gods, men etc.; It is
-not the relative or the enemy of any one. For this reason It does not
-take away or remove the evil or suffering of anyone such as a son who is
-related and therefore dear to one; nor does It take away, i.e., remove
-the happiness of anyone whom It deems with aversion. All this is the
-effect of Vasanas or subtle impressions of Prakrti. How does do these
-contrary Vasanas originte in the case of one whose intrinsic nature is a
-described above; In answer it is said that knowledge is enveloped by the
-darkness of ignorance. The Atman's knowledge is enveloped, i.e.,
-contracted by preceding Karmas which are opposed to knowledge, so that a
-person may be alified to experience the fruits of his own Karma. It is
-by this Karma, which contracts knowledge, and can join the Jiva with the
-bodies of gods etc., that the misconception that the bodies are the
-selves is produced. Conseently there will originate the Vasanas or the
-unconscious subtle impressions born of such misapprehension of the self
-and the inclination to undertake actions corresponding to them. Sri
-Krsna now brings into proper seence what has been taught before in the
-following verses: 'You will completely cross over the sea of all your
-sins with the boat of knowledge' (4.36), and 'The fire of knowledge
-reduces all Karmas to ashes in the same way' (4.37), and 'For there is
-no purifier here eal to knowledge' (4.38).
+5.15 Because, It, the Atman is 'all-pervading', i.e., is not limited to particular area or space included in the bodies of gods, men etc.; It is not the relative or the enemy of any one. For this reason It does not take away or remove the evil or suffering of anyone such as a son who is related and therefore dear to one; nor does It take away, i.e., remove the happiness of anyone whom It deems with aversion. All this is the effect of Vasanas or subtle impressions of Prakrti. How does do these contrary Vasanas originte in the case of one whose intrinsic nature is a described above; In answer it is said that knowledge is enveloped by the darkness of ignorance. The Atman's knowledge is enveloped, i.e.,
+contracted by preceding Karmas which are opposed to knowledge, so that a person may be alified to experience the fruits of his own Karma. It is by this Karma, which contracts knowledge, and can join the Jiva with the bodies of gods etc., that the misconception that the bodies are the selves is produced. Conseently there will originate the Vasanas or the unconscious subtle impressions born of such misapprehension of the self and the inclination to undertake actions corresponding to them. Sri Krsna now brings into proper seence what has been taught before in the following verses: 'You will completely cross over the sea of all your sins with the boat of knowledge' (4.36), and 'The fire of knowledge reduces all Karmas to ashes in the same way' (4.37), and 'For there is no purifier here eal to knowledge' (4.38).
 
 </details>
 </div>
@@ -511,9 +491,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.15. The Omnimanifest (Soul) takes \[upon Itself\] neither sin nor
-merit \[born\] of any \[action\]. But, the perfect knowledge is clouded
-by Illusion and hence the creatures are deluded.
+5.15. The Omnimanifest (Soul) takes \[upon Itself\] neither sin nor merit \[born\] of any \[action\]. But, the perfect knowledge is clouded by Illusion and hence the creatures are deluded.
 
 </details>
 </div>
@@ -521,8 +499,7 @@ by Illusion and hence the creatures are deluded.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 5.15 The Omnipresent neither accepts anybody's sin nor even virtue.
-Knowledge remains covered by ignorance. Thery the creatures become
-deluded.
+Knowledge remains covered by ignorance. Thery the creatures become deluded.
 
 </details>
 </div>
@@ -537,9 +514,7 @@ Men are deluded because in them wisdom is submerged in ignorance.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/15_nAdatte_kasyachit.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.15 The all-pervading One takes away neither the sin nor the merit of
-any one. Knowledge is enveloped by ignorance. Creatures are thery
-deluded.
+5.15 The all-pervading One takes away neither the sin nor the merit of any one. Knowledge is enveloped by ignorance. Creatures are thery deluded.
 
 </details>
 </div>
@@ -557,15 +532,8 @@ knowledge is enveloped by ignorance, thery beings are deluded.
 5.15 न not; आदत्ते takes; कस्यचित् of anyone; पापम् demerit; न not; च
 and; एव even; सुकृतम् merit; विभुः the Lord; अज्ञानेन by ignorance;
 आवृतम् enveloped; ज्ञानम् knowledge; तेन by that; मुह्यन्ति are deluded;
-जन्तवः beings.Commentary Knowledge is enveloped by ignorance. Conseently
-man is deluded. He thinks; I act. I enjoy. I have done such and such a
-meritourious act. I will get such and such a fruit. I will enjoy in
-heaven. I will get a birth in a rich family.Of anyone even of His
-devotees.Man is bound when he is identifies himself with Nature and its
-effects -- body; mind; Prana or the lifeforce; and senses. He attains
-freedom or Moksha when he identifies himself with the immortal;
-actionless Self that dwells within his heart.When I does not act how can
-God accept good or evil deeds (Cf.V.29)
+जन्तवः beings.Commentary Knowledge is enveloped by ignorance. Conseently man is deluded. He thinks; I act. I enjoy. I have done such and such a meritourious act. I will get such and such a fruit. I will enjoy in heaven. I will get a birth in a rich family.Of anyone even of His devotees.Man is bound when he is identifies himself with Nature and its effects -- body; mind; Prana or the lifeforce; and senses. He attains freedom or Moksha when he identifies himself with the immortal;
+actionless Self that dwells within his heart.When I does not act how can God accept good or evil deeds (Cf.V.29)
 
 </details>
 </div>

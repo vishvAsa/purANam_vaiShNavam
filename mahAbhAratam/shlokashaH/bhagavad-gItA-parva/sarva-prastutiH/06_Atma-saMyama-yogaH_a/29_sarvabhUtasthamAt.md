@@ -77,22 +77,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.29 (i) On account of the similarity between one self and other selves
-when They are separated from Prakrti (i.e., the body), all selves are by
-Themselves only of the nature of knowledge. Inealities pertain only to
-Prakrti or the bodies they are embodied in. One whose mind is fixed in
-Yoga has the experience of the sameness of the nature of all the selves
-as centres of intelligence, the perceived difference being caused only
-by the body. When separated from the body all are alike because of their
-being forms of centres of intelligence. An enlightened Yogin therefore
-sees himself as abiding in all beings and all beings abiding in his self
-in the sense that he sees the similarity of the selves in himself and in
-every being. When one self is visualised, all selves become visulaised,
-because of the similarity of all selves. This is supported by the
-statements: 'He sees sameness everywhere' (6.29). The same is again
-referred to in, 'This Yoga of eality which has been declared by you'
-(6.33), and the statement 'The Brahman when uncontaminated is the same
-everywhere' (5.19).
+6.29 (i) On account of the similarity between one self and other selves when They are separated from Prakrti (i.e., the body), all selves are by Themselves only of the nature of knowledge. Inealities pertain only to Prakrti or the bodies they are embodied in. One whose mind is fixed in Yoga has the experience of the sameness of the nature of all the selves as centres of intelligence, the perceived difference being caused only by the body. When separated from the body all are alike because of their being forms of centres of intelligence. An enlightened Yogin therefore sees himself as abiding in all beings and all beings abiding in his self in the sense that he sees the similarity of the selves in himself and in every being. When one self is visualised, all selves become visulaised,
+because of the similarity of all selves. This is supported by the statements: 'He sees sameness everywhere' (6.29). The same is again referred to in, 'This Yoga of eality which has been declared by you'
+(6.33), and the statement 'The Brahman when uncontaminated is the same everywhere' (5.19).
 
 </details>
 </div>
@@ -557,7 +544,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.29।। योगयुक्त अन्तःकरण वाला और सर्वत्र समदर्शी योगी आत्मा को सब
+।।6.29।। योगयुक्त अन्त:करण वाला और सर्वत्र समदर्शी योगी आत्मा को सब
 भूतों में और भूतमात्र को आत्मा में देखता है।।
 
 </details>
@@ -591,17 +578,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.29. He, who has yoked the self in Yoga and observes everything eally
-perceives the Self to be abiding in all beings and all beings to be
-abiding in the Self.
+6.29. He, who has yoked the self in Yoga and observes everything eally perceives the Self to be abiding in all beings and all beings to be abiding in the Self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.29 One who has his mind Self-absorbed through Yoga, and who has the
-vision of sameness every-where, see this Self existing in everything,
+6.29 One who has his mind Self-absorbed through Yoga, and who has the vision of sameness every-where, see this Self existing in everything,
 and every-thing in his Self.
 
 </details>
@@ -609,25 +593,21 @@ and every-thing in his Self.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.29 He who experiences the unity of life sees his own Self in all
-beings, and all beings in his own Self, and looks on everything with an
-impartial eye;
+6.29 He who experiences the unity of life sees his own Self in all beings, and all beings in his own Self, and looks on everything with an impartial eye;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.29 He whose mind is fixed in Yoga sees eality everywhere; he sees his
-self as abiding in all beings and all beings in his self.
+6.29 He whose mind is fixed in Yoga sees eality everywhere; he sees his self as abiding in all beings and all beings in his self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/29_sarvabhUtasthamAt.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.29 With the mind harmonised by Yoga he sees the Self abiding in all
-beings and all beings in the Self; he sees the same everywhere.
+6.29 With the mind harmonised by Yoga he sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere.
 
 </details>
 </div>
@@ -635,13 +615,9 @@ beings and all beings in the Self; he sees the same everywhere.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.29 सर्वभूतस्थम् abiding in all beings; आत्मानम् the Self; सर्वभूतानि
-all beings; च and; आत्मनि in the Self;,ईक्षते sees; योगयुक्तात्मा one
-who is harmonised by Yoga; सर्वत्र everywhere; समदर्शनः one who sees the
-same everywhere.Commentary The Yogi beholds through the eye of intuition
-(JnanaChakshus or DivyaChakshus) oneness or unity of the Self
-everywhere. This is a sublime and magnanimous vision indeed. He feels;
-All indeed is Brahman. He beholds that all beings are one with Brahman
-and that the Self and Brahman are identical.
+all beings; च and; आत्मनि in the Self;,ईक्षते sees; योगयुक्तात्मा one who is harmonised by Yoga; सर्वत्र everywhere; समदर्शनः one who sees the same everywhere.Commentary The Yogi beholds through the eye of intuition
+(JnanaChakshus or DivyaChakshus) oneness or unity of the Self everywhere. This is a sublime and magnanimous vision indeed. He feels;
+All indeed is Brahman. He beholds that all beings are one with Brahman and that the Self and Brahman are identical.
 
 </details>
 </div>

@@ -50,11 +50,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/29_anantashchAsmi_nA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.26 - 10.29 Of trees I am Asvattha which is worthy of worship. Of
-celestial seers I am Narada. Kamadhuk is the divine cow. I am Kandarpa,
-the cause of progeny. Sarpas are single-headed snakes while Nagas are
-many-headed snakes. Aatic creatures are known as Yadamsi. Of them I am
-Varuna. Of subdures, I am Yama, the son of the sun-god.
+10.26 - 10.29 Of trees I am Asvattha which is worthy of worship. Of celestial seers I am Narada. Kamadhuk is the divine cow. I am Kandarpa,
+the cause of progeny. Sarpas are single-headed snakes while Nagas are many-headed snakes. Aatic creatures are known as Yadamsi. Of them I am Varuna. Of subdures, I am Yama, the son of the sun-god.
 
 </details>
 </div>
@@ -319,25 +316,21 @@ I am varuna; of the manes, I am Aryaman; of the controllers, I am Yama
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 10.29 Among snakes I am Ananta, and Varuna among gods of the waters.
-Among the manes I am Aryama, and among the maintainers of law and order
-I am Yama (King of death).
+Among the manes I am Aryama, and among the maintainers of law and order I am Yama (King of death).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/29_anantashchAsmi_nA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.29 I am the King-python among snakes, I am the Aqueous Principle
-among those that live in water, I am the Father of fathers, and among
-rulers I am Death.
+10.29 I am the King-python among snakes, I am the Aqueous Principle among those that live in water, I am the Father of fathers, and among rulers I am Death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/29_anantashchAsmi_nA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.29 Of snakes, I am Ananta. Of aatic-beings I am Varuna. Of manes, I
-am Aryama. Of subduers, I am Yama.
+10.29 Of snakes, I am Ananta. Of aatic-beings I am Varuna. Of manes, I am Aryama. Of subduers, I am Yama.
 
 </details>
 </div>
@@ -353,13 +346,7 @@ Aryaman among the Manes I am; I am Yama among the governors.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 10.29 अनन्तः Ananta; च and; अस्मि (I) am; नागानाम् among Nagas; वरुणः
-Varuna; यादसाम् among watergods; अहम् I; पितॄणाम् among the Pitris or
-ancestors; अर्यमा Aryaman; च and; अस्मि (I) am; यमः Yama; संयमताम् among
-governors; अहम् I.Commentary Ananta is the king of hooded serpents or
-cobras. He is firecoloured.Varuna is the king of the
-watergods.Waterdeities The gods connected with waters.Aryaman is the
-king of the manes.I am Yama; the witness of the acts of all living
-beings; who keeps account of the good and bad actions of the people.
+Varuna; यादसाम् among watergods; अहम् I; पितॄणाम् among the Pitris or ancestors; अर्यमा Aryaman; च and; अस्मि (I) am; यमः Yama; संयमताम् among governors; अहम् I.Commentary Ananta is the king of hooded serpents or cobras. He is firecoloured.Varuna is the king of the watergods.Waterdeities The gods connected with waters.Aryaman is the king of the manes.I am Yama; the witness of the acts of all living beings; who keeps account of the good and bad actions of the people.
 
 </details>
 </div>

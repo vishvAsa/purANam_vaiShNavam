@@ -87,24 +87,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.17 Of these four, 'the man of knowledge' is the foremost. Why; Because
-of being ever with Me in Yoga and devoted to the One only. To the man of
-knowledge the attainment of Myself being the only end in view, he is
-ever with Me. As for the others, they contemplate on Me only until the
-fulfilment of their desires. But to the man of knowledge, there is
-single-minded devotion to Me only. Unlike him, the others, want only the
-objects of their desire and they are devoted to Me only as a means for
-gaining them. Hence he, the man of knowledge, alone is the foremost.
-Further I am very dear to the man of knowledge. Here the term 'artha' in
-relation to the expression 'athyartham' denotes 'what cannot be
-expressed adeately.' That is, even I, the omniscient and omnipotent, is
-unable to express how much I am dear to the Jnanin, since there is no
-such limit as 'this much' for this love. Such is the meaning. As in the
-case of Prahlada, the foremost among men of knowledge, it is said: 'But
-he with his thoughts firmly fixed on Krsna while being bitten by the
-great serpents, felt no pain from the wounds, being immersed in
-rapturous recollections of Him' (V. P., 1.17.39). I reciprocate this
-love infinitely.
+7.17 Of these four, 'the man of knowledge' is the foremost. Why; Because of being ever with Me in Yoga and devoted to the One only. To the man of knowledge the attainment of Myself being the only end in view, he is ever with Me. As for the others, they contemplate on Me only until the fulfilment of their desires. But to the man of knowledge, there is single-minded devotion to Me only. Unlike him, the others, want only the objects of their desire and they are devoted to Me only as a means for gaining them. Hence he, the man of knowledge, alone is the foremost.
+Further I am very dear to the man of knowledge. Here the term 'artha' in relation to the expression 'athyartham' denotes 'what cannot be expressed adeately.' That is, even I, the omniscient and omnipotent, is unable to express how much I am dear to the Jnanin, since there is no such limit as 'this much' for this love. Such is the meaning. As in the case of Prahlada, the foremost among men of knowledge, it is said: 'But he with his thoughts firmly fixed on Krsna while being bitten by the great serpents, felt no pain from the wounds, being immersed in rapturous recollections of Him' (V. P., 1.17.39). I reciprocate this love infinitely.
 
 </details>
 </div>
@@ -402,45 +386,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.17. Of them, the man of wisdom, being always attached \[to Me\] with
-single-pointed devotion excels \[others\]. For, I am dear to the man of
-wisdom above all personal gains and he is dear to Me.
+7.17. Of them, the man of wisdom, being always attached \[to Me\] with single-pointed devotion excels \[others\]. For, I am dear to the man of wisdom above all personal gains and he is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.17 Of them, the man of Knowledge, endowed with constant steadfastness
-and one-pointed devotion, excels. For I am very much dear to the man of
-Knowledge, and he too is dear to Me.
+7.17 Of them, the man of Knowledge, endowed with constant steadfastness and one-pointed devotion, excels. For I am very much dear to the man of Knowledge, and he too is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.17 Of all of these, he who has gained wisdom, who meditates on Me
-without ceasing, devoting himself only to Me, he is the best; for by the
-wise man I am exceedingly beloved and the wise man, too, is beloved by
-Me.
+7.17 Of all of these, he who has gained wisdom, who meditates on Me without ceasing, devoting himself only to Me, he is the best; for by the wise man I am exceedingly beloved and the wise man, too, is beloved by Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.17 Of these, the man of knowledge, being ever with Me in Yoga and
-devoted to the One only, is the foremost; for I am very dear to the man
-of knowledge and he too is dear to Me.
+7.17 Of these, the man of knowledge, being ever with Me in Yoga and devoted to the One only, is the foremost; for I am very dear to the man of knowledge and he too is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/17_teShA~n_jnAnI.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.17 Of them the wise, ever steadfast and devoted to the One, excels (is
-the best); for I am exceedingly dear to the wise and he is dear to Me.
+7.17 Of them the wise, ever steadfast and devoted to the One, excels (is the best); for I am exceedingly dear to the wise and he is dear to Me.
 
 </details>
 </div>
@@ -451,13 +425,7 @@ the best); for I am exceedingly dear to the wise and he is dear to Me.
 एकभक्तिः whose devotion is to the One; विशिष्यते excels; प्रियः dear; हि
 verily; ज्ञानिनः of the wise; अत्यर्थम् exceedingly; अहम् I; सः he; च
 and; मम of Me; प्रियः dear.Commentary Ekabhaktih means unswerving;
-singleminded devotion to the Supreme Being.The JnaniBhakta is beyond all
-cults or creeds or formal religion or rules of society. As the wise man
-is constantly harmonised and as he is devoted to the One; he is regarded
-as superior to all the other devotees. As I am his very Self or
-Antaratma; I am extremely dear to him. Everybody loves his own Self
-most. The Self is very dear to everybody. The wise man is My very Self
-and he is ear to Me also. (Cf.II.49IX.29XII.14;17and19)
+singleminded devotion to the Supreme Being.The JnaniBhakta is beyond all cults or creeds or formal religion or rules of society. As the wise man is constantly harmonised and as he is devoted to the One; he is regarded as superior to all the other devotees. As I am his very Self or Antaratma; I am extremely dear to him. Everybody loves his own Self most. The Self is very dear to everybody. The wise man is My very Self and he is ear to Me also. (Cf.II.49IX.29XII.14;17and19)
 
 </details>
 </div>

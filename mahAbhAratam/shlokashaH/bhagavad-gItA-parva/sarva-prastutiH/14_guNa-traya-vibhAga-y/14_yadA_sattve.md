@@ -49,13 +49,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.14 When the 'Sattva prevails' i.e., while the Sattva continues to be
-prevalent, if the embodies self meets with death, It reaches the pure
-worlds, i.e., regions conducive to the knowledge of the self. The
-purport is this: If Satva preponderates in a person at the time of
-death, he will be rorn in the families of those who have the knowledge
-of the self, and thus be alified to perform auspicious acts which are
-the means of attaining the true knowledge of the self.
+14.14 When the 'Sattva prevails' i.e., while the Sattva continues to be prevalent, if the embodies self meets with death, It reaches the pure worlds, i.e., regions conducive to the knowledge of the self. The purport is this: If Satva preponderates in a person at the time of death, he will be rorn in the families of those who have the knowledge of the self, and thus be alified to perform auspicious acts which are the means of attaining the true knowledge of the self.
 
 </details>
 </div>
@@ -328,26 +322,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.14. But, if the body-bearer dies at the time when Sattva is on the
-increase, then he attains to the spotless worlds of those, who know the
-Highest.
+14.14. But, if the body-bearer dies at the time when Sattva is on the increase, then he attains to the spotless worlds of those, who know the Highest.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.14 When an embodied one undergoes death while sattva is exclusively
-prodominant, then he attains the taintless worlds of those who know the
-highest (entities).
+14.14 When an embodied one undergoes death while sattva is exclusively prodominant, then he attains the taintless worlds of those who know the highest (entities).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/14_yadA_sattve.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.14 When Purity prevails, the soul on quitting the body passes on to
-the pure regions where live those who know the Highest.
+14.14 When Purity prevails, the soul on quitting the body passes on to the pure regions where live those who know the Highest.
 
 </details>
 </div>
@@ -373,9 +362,7 @@ then he attains to the spotless worlds of the knowers of the Highest.
 14.14 यदा when; सत्त्वे in Sattva; प्रवृद्धे having become predominant;
 तु verily; प्रलयम् death; याति meets; देहभृत् the embodied one; तदा
 then; उत्तमविदाम् of the knowers of the Highest; लोकान् to the worlds;
-अमलान् of the spotless; प्रतिपद्यते (he) attains.Commentary Lokan Amalan
-Sptless worlds Brahmaloka and the like where Rajas and Tamas never
-predominate.The Highest Deities such as Hiranyagarbha.
+अमलान् of the spotless; प्रतिपद्यते (he) attains.Commentary Lokan Amalan Sptless worlds Brahmaloka and the like where Rajas and Tamas never predominate.The Highest Deities such as Hiranyagarbha.
 
 </details>
 </div>

@@ -63,16 +63,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.36 Arjuna said: 'Sthane' means rightly or it is but proper. It is but
-proper that the whole world of gods, Gandharvas, Siddhas, Yaksas,
-Kinnaras, Kimpurusas, etc., who have foregathered with a desire to see
-the battle, should be delighted with You and love You after beholding
-You by Your grace. You are the Lord of all. Rightly after beholding You,
-the Raksasas flee in fear on all sides, and rightly all the host of
-Siddhas, namely, the host of Siddhas who are favourable to You, pay
-their homage to You. The connection with what was said earlier is that
-all this is as it ought to be. He further proceeds to explain how all
-this is right:
+11.36 Arjuna said: 'Sthane' means rightly or it is but proper. It is but proper that the whole world of gods, Gandharvas, Siddhas, Yaksas,
+Kinnaras, Kimpurusas, etc., who have foregathered with a desire to see the battle, should be delighted with You and love You after beholding You by Your grace. You are the Lord of all. Rightly after beholding You,
+the Raksasas flee in fear on all sides, and rightly all the host of Siddhas, namely, the host of Siddhas who are favourable to You, pay their homage to You. The connection with what was said earlier is that all this is as it ought to be. He further proceeds to explain how all this is right:
 
 </details>
 </div>
@@ -374,62 +367,45 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.36. Arjuna said O Lord of sense-organs (Krsna) ! It is appropriate
-that the universe rejoices and feels exceedingly delighted by the high
-glory of yours; that in fear the demons fly on all directions; and that
-the hosts of the perfected ones bow down \[to You\].
+11.36. Arjuna said O Lord of sense-organs (Krsna) ! It is appropriate that the universe rejoices and feels exceedingly delighted by the high glory of yours; that in fear the demons fly on all directions; and that the hosts of the perfected ones bow down \[to You\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.36 Arjuna said It is proper, O Hrsikesa, that the world becomes
-delighted and attracted by Your praise; that the Raksasas, stricken with
-fear, run in all directions; and that all the groups of the Siddhas bow
-down (toYou).
+11.36 Arjuna said It is proper, O Hrsikesa, that the world becomes delighted and attracted by Your praise; that the Raksasas, stricken with fear, run in all directions; and that all the groups of the Siddhas bow down (toYou).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.36 Arjuna said: My Lord! It is natural that the world revels and
-rejoices when it sings the praises of Thy glory; the demons fly in fear
-and the saints offer Thee their salutations.
+11.36 Arjuna said: My Lord! It is natural that the world revels and rejoices when it sings the praises of Thy glory; the demons fly in fear and the saints offer Thee their salutations.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.36 Arjuna said Rightly it is, O Krsna, that Your praise should move
-the world to joy and love. The Raksasas flee in fear on all sides, and
-all the hosts of Siddhas bow down to You.
+11.36 Arjuna said Rightly it is, O Krsna, that Your praise should move the world to joy and love. The Raksasas flee in fear on all sides, and all the hosts of Siddhas bow down to You.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.36 Arjuna said It is meet, O Krishna, that the world delights and
-rejoices in Thy praise; demons fly in fear to all arters and the hosts
-of the perfected ones bow to Thee.
+11.36 Arjuna said It is meet, O Krishna, that the world delights and rejoices in Thy praise; demons fly in fear to all arters and the hosts of the perfected ones bow to Thee.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/36_sthAne_hRShIkesha.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-11.36 स्थाने it is meet; हृषीकेश O Krishna; तव Thy; प्रकीर्त्या by
-praise; जगत् the world; प्रहृष्यति is delighted; अनुरज्यते rejoices; च
+11.36 स्थाने it is meet; हृषीकेश O Krishna; तव Thy; प्रकीर्त्या by praise; जगत् the world; प्रहृष्यति is delighted; अनुरज्यते rejoices; च
 and; रक्षांसि the demons; भीतानि in fear; दिशः to all arters; द्रवन्ति
-fly; सर्वे all; नमस्यन्ति bow (to Thee); च and; सिद्धसङ्घाः the hosts of
-the perfected ones.Commentary Praise description of the glory of the
-Lord. The Lord is the object worthy of adortion; love and delight;
-because He is the Self and friend of all beings.The Lord is the object
-of adoration; love and delight for the following reason also. He is the
-primal cause even of Brahma; the Creator of the universe.
+fly; सर्वे all; नमस्यन्ति bow (to Thee); च and; सिद्धसङ्घाः the hosts of the perfected ones.Commentary Praise description of the glory of the Lord. The Lord is the object worthy of adortion; love and delight;
+because He is the Self and friend of all beings.The Lord is the object of adoration; love and delight for the following reason also. He is the primal cause even of Brahma; the Creator of the universe.
 
 </details>
 </div>

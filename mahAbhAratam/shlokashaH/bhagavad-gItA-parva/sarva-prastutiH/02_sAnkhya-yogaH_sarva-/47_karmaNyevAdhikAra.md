@@ -25,45 +25,105 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
-अतः सत्त्वस्थस्य मुमुक्षोः एतावद् एव उपादेयम् इत्याह -
+अतः सत्त्वस्थस्य मुमुक्षोः एतावद् एव उपादेयम् इत्य् आह -
 
-।।2.47।। नित्ये नैमित्तिके काम्ये च केनचित् फलविशेषेण संबन्धितया
-श्रूयमाणे **कर्मणि** नित्यसत्त्वस्थस्य मुमुक्षोः ते कर्ममात्रे
-**अधिकारः।** तत्संबन्धितया अवगतेषु **फलेषु** न कदाचिद् अपि अधिकारः।
-सफलस्य बन्धरूपत्वात् फलरहितस्य केवलस्य मदाराधनरूपस्य मोक्षहेतुत्वाच्च।  
-**मा** च कर्मफलयोः **हेतुः भूः।** त्वया अनुष्ठीयमाने अपि कर्मणि
-नित्यसत्त्वस्थस्य मुमुक्षोः तवाकर्तृत्वम् अपि अनुसन्धेयम्। फलस्य अपि
-क्षुन्निवृत्त्यादेः न त्वं हेतुः इति अनुसन्धेयम्। तद् उभयं गुणेषु वा
-सर्वेश्वरे मयि वा अनुसन्धेयम् इति उत्तरत्र वक्ष्यते। एवम् अनुसन्धाय कर्म
-कुरु। **अकर्मणि** अननुष्ठाने न योत्स्यामि इति यत् त्वया अभिहितं न तत्र
-**ते सङ्गः अस्तु।** उक्तेन प्रकारेण युद्धादिकर्मणि एव सङ्गः अस्तु
-इत्यर्थः।  
-एतद् एव स्पष्टीकरोति  
+।।2.47।। नित्ये नैमित्तिके काम्ये च  
+केनचित् फल-विशेषेण संबन्धितया  
+श्रूयमाणे **कर्मणि**  
+नित्य-सत्त्व-स्थस्य मुमुक्षोस् ते  
+कर्ममात्रे **अधिकारः।**  
+तत्-संबन्धितया अवगतेषु **फलेषु**  
+न कदाचिद् अपि अधिकारः -  
+स-फलस्य बन्ध-रूपत्वात्,  
+फल-रहितस्य केवलस्य मद्-आराधन-रूपस्य मोक्ष-हेतुत्वाच् च।  
+
+**मा** च कर्म-फलयोः **हेतुर् भूः** -  
+त्वया अनुष्ठीयमाने अपि कर्मणि  
+नित्य-सत्त्व-स्थस्य मुमुक्षोस् तवाकर्तृत्वम् अप्य् अनुसन्धेयम्।  
+फलस्य +अपि क्षुन्-निवृत्त्यादेर्  
+न त्वं हेतुर् इति अनुसन्धेयम्।  
+तद् उभयं गुणेषु वा सर्वेश्वरे मयि वा अनुसन्धेयम्  
+इति +उत्तरत्र वक्ष्यते।  
+एवम् अनुसन्धाय कर्म कुरु। 
+
+**अकर्मणि** अननुष्ठाने "न योत्स्यामि" इति यत् त्वया अभिहितं  
+**न** तत्र **ते सङ्गः अस्तु।**  
+उक्तेन प्रकारेण युद्धादिकर्मणि +एव सङ्गः अस्तु +इत्यर्थः।  
+
+
+</details>
+</div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.47।। एवं तर्हि मोक्षसाधनेतरसकलपरित्यागे
+नित्यनैमित्तिकनिषेधशास्त्रातिलङ्घनेन कामचारदोषः स्यात् तावानिति च
+कियानुच्यते इति शङ्कायामुत्तरश्लोकमवतारयति अत इति। न कामचारदोषः एतावत
+उपादेयत्वात् नाप्यन्येच्छोरन्योपायप्रवृत्तिदोषः तत्तत्फलपरित्यागेन
+साधारणस्वरूपमात्रस्योपादेयत्वादिति भावःकर्मणि इति सामान्यशब्दस्य
+योग्यान्विशेषानाह नित्य इत्यादिना। केनचित् इत्यादिकं
+नित्यनैमित्तिककाम्यरूपे राशित्रयेऽपि सम्बध्यते। तेन
+नित्यनैमित्तिकयोरपूर्वमात्रार्थतामिच्छतां कुदृष्टीनां दृष्टिपरता।
+कर्मान्तराधिकारोपात्तदुरितक्षयाकरणनिमित्तप्रत्यवायपरिहारप्राजापत्यादिलोकपशुपुत्रादि
+यथासम्भवं नित्यादेः फलम्। फलविशेषेणेति। यथोत्पत्तिवाक्ये
+स्वरूपेणैवोत्पन्नानां कर्मणां कामाधिकारे स्वर्गादिफलविशेषेण सम्बन्धितया
+श्रुतत्वात् स्वर्गादिकं फलमिष्यते एवं मोक्षाधिकारेऽपि मोक्षाख्यफलविशेषेण
+सम्बन्धितया श्रुतत्वात् सोऽपि फलमिति भावः। ते इतिशब्दस्य प्रकृतान्वितं
+तात्पर्यमाह नित्यसत्त्वस्थस्य मुमुक्षोरिति।
+मोक्षतत्साधनादिफलव्यवच्छेदायतत्सम्बन्धितयाऽवगतेष्वित्युक्तं
+स्वर्गपश्वादिष्विति शेषः। मेति न निषेधविधिः किन्त्वभावमात्रबोधक इतिन
+कदाचिदित्युक्तम्। फलयोग्यतानिषेधात् तत्सङ्गनिषेधोऽपि
+
+फलितः। कर्ममात्राधिकारे फलानधिकारे च बुद्धिस्थक्रमेण हेतुद्वयमाह
+सफलस्येति। न हि मोक्षमिच्छतो बन्धरूपफलाभिलाष उपपन्नः न च तद्धेतुपरित्याग
+उचित इति भावः। केवलस्येत्येतन्न फलराहित्यमात्रपरंफलरहितस्येत्युक्तत्वात्।
+अपि तर्हि स्वरूपत एव प्रयोजनत्वपरम्। तत्र हेतुः
+मदाराधनरूपस्येति। कर्मफलयोरिति। पुनरुक्तिप्रसञ्जकषष्ठीसमासादपि
+उभयपदार्थप्रधानो द्वन्द्व एवोचितः।
+वक्ष्यमाणाकर्तृत्वानुसन्धानसङ्ग्रहश्चात्र युक्त इति भावः।
+
+
+कर्मण्येवाधिकारस्ते ৷৷. मा ते सङ्गोऽस्त्वकर्मणि इति
+पूर्वोत्तरवचनाभ्यामयं कर्महेतुत्वनिषेधो व्याहन्येतेत्यत्राह त्वयेति।
+नात्र वस्तुतो हेतुत्वं निषिध्यते अपितु हेतुत्वानुसन्धानमित्यर्थः। ननु
+फलहेतुत्वनिषेधः पुनरुक्तःमा फलेषु कदाचन इत्युक्तत्वात् यदि तु
+भोजनादिसाध्यक्षुन्निवृत्त्यादिफलनिषेधः तदा तदुपायरागस्यापि निवृत्तेः
+शरीरधारणादेरप्यभावप्रसङ्गेन उपायानुष्ठानस्यैव लोपः स्यादित्यत्राह
+फलस्यापीति। क्षुन्निवृत्त्यादेरित्यनेन पौनरुक्त्यं परिहृतम्। न त्वं
+हेतुरित्यनुसन्धेयमिति। नात्र क्षुन्निवृत्त्यादिस्वरूपं निषिध्यते।
+अपित्वात्मनस्तद्धेतुत्वानुसन्धानमिति भावः। ननु कथं कर्मफलयोर्हेतुः
+सन्नहेतुरित्यनुसन्धीयेत। एवं च चार्वाकादिवत्
+अनयोर्निर्हेतुकत्वमनुसन्धेयं स्यात् ततश्चोपायानुष्ठानमेव हीयेत।
+अहेतुकतया बुध्यमाने प्रयासायोगादित्यत्राह तदुभयमिति। उभयं कर्महेतुत्वं
+फलहेतुत्वं च। उत्तरत्रेति। अयमेव तृतीयाध्यायप्रधानार्थः। तथा हि सङ्ग्रहः
+असक्त्या लोकरक्षायै गुणेष्वारोप्य कर्तृताम्। सर्वेश्वरे वा न्यस्योक्ता
+तृतीये कर्मकार्यता गी.सं.7 इति। एवमहेतुकत्वचोद्यं तावत्परिहृतम्।
+तथाप्यात्महेतुकत्वानुसन्धाननिषेधेन अननुष्ठानप्रसङ्गस्तदवस्थ इति चेत्
+मैवं नह्यत्रानुष्ठानस्याननुष्ठानतया भ्रान्तिरुच्यते नाप्यनुष्ठातृत्वस्य
+सतोऽप्यप्रतिपत्तिर्विधीयते येन विरोधः स्यात् किन्त्वनेकहेतुके
+कस्मिंश्चिदेकस्यैव हेतुत्वं त्रैगुण्याद्युपाधिके स्वरूपप्रयुक्तत्वं च
+भ्रान्तिसिद्धमिति तदुभयं निषिद्ध्यते। वक्ष्यते हिशरीरवाङ्मनोभिः 18।15
+इत्यादौ तृतीयाध्याये च। किञ्च साक्षात्कर्तृत्वाननुसन्धानविधावपि
+नाकर्तृत्वानुसन्धानकर्तृत्वप्रतिपत्तिनिषेधयोरप्यननुष्ठानप्रसङ्गः। स हि
+कुर्वन्नेव स्वकृतोपकारनिगूहनवदाहार्यबोधेन तथा प्रतिपद्यते। अन्यत्र वा
+कर्मणि क्रियमाण इति न कश्चिद्दोषः। सर्वेश्वरे इति निर्देशस्तस्मिन्
+कर्तृत्वाद्ध्यवसायौचित्यार्थः। जीवस्यापि हि कर्तृत्वं तत्त्वतः
+परमात्मायत्तमितिपरात्तु तच्छ्रुतेः ब्र.सू.2।3।45 इत्यधिकरणे स्थापितम्।  
+पूर्वोत्तरवाक्याद्यविरोधाय कर्मस्वरूपपरित्यागं परिहरति एवमिति।
+गुणेश्वराधीनत्वबुद्धावपि किं मे परित्यक्तफलेन दुःखस्वरूपेण भोजनादिकर्मणा
+इति त्वया नोदासितव्यमिति भावः। अननुष्ठान इति। अकर्मणीत्यत्र कर्मशब्दः
+क्रियावाची नञत्र तदभावपर इति भावः। अननुष्ठानस्य प्रतिषेधार्थं प्रसङ्गं
+स्मारयति न योत्स्यामीति। अकर्मसङ्गनिषेधफलितमन्यत्र सङ्गमाह उक्तेनेति।  
+  
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.47 As for obligatory, occasional and desiderative acts taught in the
-Vedas and associated with some result or other, you, an aspirant
-established in Sattva, have the right only to perform them: You have no
-right to the fruits known to be derived from such acts. Acts done with a
-desire for fruit bring about bondage. But acts done without an eye on
-fruits form My worship and become a means for release. Do not become an
-agent of acts with the idea of being the reaper of their fruits. Even
-when you, who are established in pure Sattva and are desrious of
-release, perform acts, you should not look upon yourself as the agent.
-Likewise, it is necessary to contemplate yourself as not being the cause
-of even appeasing hunger and such other bodily necessities. Later on it
-will be said that both of these, agency of action and desire for fruits,
-should be considered as belonging to Gunas, or in the alternative to Me
-who am the Lord of all. Thinking thus, do work. With regard to inaction,
-i.e., abstaining from performance of duties, as when you said, 'I will
-not fight,' let there be no attachment to such inaction in you. The
-meaning is let your interest be only in the discharge of such obligatory
-duties like this war in the manner described above. Sri Krsna makes this
-clear in the following verse:
+2.47 As for obligatory, occasional and desiderative acts taught in the Vedas and associated with some result or other, you, an aspirant established in Sattva, have the right only to perform them: You have no right to the fruits known to be derived from such acts. Acts done with a desire for fruit bring about bondage. But acts done without an eye on fruits form My worship and become a means for release. Do not become an agent of acts with the idea of being the reaper of their fruits. Even when you, who are established in pure Sattva and are desrious of release, perform acts, you should not look upon yourself as the agent.
+
+Likewise, it is necessary to contemplate yourself as not being the cause of even appeasing hunger and such other bodily necessities. Later on it will be said that both of these, agency of action and desire for fruits, should be considered as belonging to Gunas, or in the alternative to Me who am the Lord of all. Thinking thus, do work. With regard to inaction, i.e., abstaining from performance of duties, as when you said, 'I will not fight,' let there be no attachment to such inaction in you. The meaning is let your interest be only in the discharge of such obligatory duties like this war in the manner described above.
 
 </details>
 </div>
@@ -587,67 +647,44 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.47. Let your claim lie on action alone and never on the fruits; you
-should never be a cause for the fruits of action; let not your
-attachment be to inaction.
+2.47. Let your claim lie on action alone and never on the fruits; you should never be a cause for the fruits of action; let not your attachment be to inaction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.47 Your right is for action alone, never for the results. Do not
-become the agent of the results of action. May you not have any
-inclination for inaction.
+2.47 Your right is for action alone, never for the results. Do not become the agent of the results of action. May you not have any inclination for inaction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.47 But thou hast only the right to work, but none to the fruit
-thereof. Let not then the fruit of thy action be thy motive; nor yet be
-thou enamored of inaction.
+2.47 But thou hast only the right to work, but none to the fruit thereof. Let not then the fruit of thy action be thy motive; nor yet be thou enamored of inaction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.47 To work alone you have the right, and not to the fruits. Do not be
-impelled by the fruits of work. Nor have attachment to inaction.
+2.47 To work alone you have the right, and not to the fruits. Do not be impelled by the fruits of work. Nor have attachment to inaction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.47 Thy right is to work only, but never with its fruits; let not the
-fruits of action be thy motive, nor let thy attachment be to inaction.
+2.47 Thy right is to work only, but never with its fruits; let not the fruits of action be thy motive, nor let thy attachment be to inaction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/47_karmaNyevAdhikAra.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.47 कर्मणि in work; एव only; अधिकारः right; ते thy; मा not; फलेषु in
-the fruits; कदाचन at any time; मा not; कर्मफलहेतुः भूः let not the
-fruits of action be thy motive; मा not; ते thy; सङ्गः attachment; अस्तु
-let (there) be; अकर्मणि in inaction.Commentary When you perform actions
-have no desire for the fruits thereof under any circumstances. If you
-thirst for the fruits of your actions; you will have to take birth again
-and again to enjoy them. Action done with expectation of fruits
-(rewards) brings bondage. If you do not thirst for them; you get
-purification of heart and you will get knowledge of the Self through
-purity of heart and through the knowledge of the Self you will be freed
-from the round of births and deaths.Neither let thy attachment be
-towards inaction thinking what is the use of doing actions when I cannot
-get any reward for themIn a broad sense Karma means action. It also
-means duty which one has to perform according to his caste or station of
-life. According to the followers of the Karma Kanda of the Vedas (the
-Mimamsakas) Karma means the rituals and sacrifices prescribed in the
-Vedas. It has a deep meaning also. It signifies the destiny or the
-storehouse of tendencies of a man which give rise to his future birth.
+2.47 कर्मणि in work; एव only; अधिकारः right; ते thy; मा not; फलेषु in the fruits; कदाचन at any time; मा not; कर्मफलहेतुः भूः let not the fruits of action be thy motive; मा not; ते thy; सङ्गः attachment; अस्तु
+let (there) be; अकर्मणि in inaction.Commentary When you perform actions have no desire for the fruits thereof under any circumstances. If you thirst for the fruits of your actions; you will have to take birth again and again to enjoy them. Action done with expectation of fruits
+(rewards) brings bondage. If you do not thirst for them; you get purification of heart and you will get knowledge of the Self through purity of heart and through the knowledge of the Self you will be freed from the round of births and deaths.Neither let thy attachment be towards inaction thinking what is the use of doing actions when I cannot get any reward for themIn a broad sense Karma means action. It also means duty which one has to perform according to his caste or station of life. According to the followers of the Karma Kanda of the Vedas (the Mimamsakas) Karma means the rituals and sacrifices prescribed in the Vedas. It has a deep meaning also. It signifies the destiny or the storehouse of tendencies of a man which give rise to his future birth.
 
 </details>
 </div>

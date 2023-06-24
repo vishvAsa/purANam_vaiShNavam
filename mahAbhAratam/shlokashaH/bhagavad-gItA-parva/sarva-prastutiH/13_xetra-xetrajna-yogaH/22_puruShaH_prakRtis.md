@@ -108,16 +108,8 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 13.22 The self, settled in a series of bodies of divinities, men etc.,
-which are modifications of Prakrti, becomes attached to happiness, pain
-etc., resulting from the Sattva and other alities associated with the
-respective wombs, and hence engages Itself in virtuous and sinful deeds,
-constituting the means for happiness, misery etc. In order to experience
-the fruits of those good and evil deeds, It is born again in good and
-evil wombs. Then It becomes active and conseently is born again as a
-result of Its activities. As long as It does not cultivate alities like
-modesty etc., which are the means for realising the self, so long Its
-entanglement in Samsara continues like this. Thus, it has been declared
-here that attachment causes births in good and evil wombs.
+which are modifications of Prakrti, becomes attached to happiness, pain etc., resulting from the Sattva and other alities associated with the respective wombs, and hence engages Itself in virtuous and sinful deeds,
+constituting the means for happiness, misery etc. In order to experience the fruits of those good and evil deeds, It is born again in good and evil wombs. Then It becomes active and conseently is born again as a result of Its activities. As long as It does not cultivate alities like modesty etc., which are the means for realising the self, so long Its entanglement in Samsara continues like this. Thus, it has been declared here that attachment causes births in good and evil wombs.
 
 </details>
 </div>
@@ -528,36 +520,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.22. For, the Soul, seated on the Material Cause, enjoys the Strands
-born of the Material Cause; His attachment to the Strands is the cause
-for his births in the good and evil wombs.
+13.22. For, the Soul, seated on the Material Cause, enjoys the Strands born of the Material Cause; His attachment to the Strands is the cause for his births in the good and evil wombs.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.22 Since the soul is seated in Nature, therefore it experiences the
-alities born of Nature. Contact with the alities is the cause of its
-births in good and evil wombs.
+13.22 Since the soul is seated in Nature, therefore it experiences the alities born of Nature. Contact with the alities is the cause of its births in good and evil wombs.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.22 God dwelling in the heart of Nature experiences the Qualities
-which nature brings forth; and His affinity towards the Qualities is the
-reason for His living in a good or evil body.
+13.22 God dwelling in the heart of Nature experiences the Qualities which nature brings forth; and His affinity towards the Qualities is the reason for His living in a good or evil body.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/22_puruShaH_prakRtis.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.22 (a) Indeed, the self seated in Prakrti experiences the Gunas born
-of Prakrti৷৷. (b) ৷৷. Its attachment to these Gunas is the cause of
-birth in good and evil wombs.
+13.22 (a) Indeed, the self seated in Prakrti experiences the Gunas born of Prakrti৷৷. (b) ৷৷. Its attachment to these Gunas is the cause of birth in good and evil wombs.
 
 </details>
 </div>
@@ -565,8 +549,7 @@ birth in good and evil wombs.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 13.22 The soul seated in Nature experiences the alities born of Nature;
-attachment to the alities is the cause of its birth in good and evil
-wombs.
+attachment to the alities is the cause of its birth in good and evil wombs.
 
 </details>
 </div>
@@ -575,23 +558,9 @@ wombs.
 
 13.22 पुरुषः Purusha; प्रकृतिस्थः seated in Prakriti; हि indeed; भुङक्ते
 enjoys; प्रकृतिजान् born of Prakriti; गुणान् alities; कारणम् the cause;
-गुणसङ्गः attachment to the Gunas; अस्य of his; सदसद्योनिजन्मसु of birth
-in good and evil wombs.Commentary The soul residing in Nature and
-identifying itself with the body and the senses which are modifications
-of Nature acts through the alities of Nature and experiences pleasure
-and pain and delusion. It thinks; I am happy; I am miserable; I am
-deluded; I am wise. When it thus identifies itself with the alities; it
-assumes individuality and takes birth in pure and impure wombs.The soul
-(Jivatma) enjoys the sensual objects in conjunction with the body; mind
-and the senses and thus becomes the enjoyer. Brahman is the silent
-witness and nonenjoyer. The souls attachment to the alities of pleasure;
-pain and delusion is the chief cause of its birth. If you add the word
-Samsara to the second half of the verse; it will mean Attachment to the
-alities is the cause of Samsara through births in good and evil
-wombs.Good wombs (Sat Yoni) are those of the gods and the like evil
-wombs (Asat Yoni) are those of lower animals. The human womb is partly
-good and partly evil on account of mixed Karmas.Purushah prakritisthah
-Purusha (the soul) seated in Prakriti (Nature). This is Avidya
+गुणसङ्गः attachment to the Gunas; अस्य of his; सदसद्योनिजन्मसु of birth in good and evil wombs.Commentary The soul residing in Nature and identifying itself with the body and the senses which are modifications of Nature acts through the alities of Nature and experiences pleasure and pain and delusion. It thinks; I am happy; I am miserable; I am deluded; I am wise. When it thus identifies itself with the alities; it assumes individuality and takes birth in pure and impure wombs.The soul
+(Jivatma) enjoys the sensual objects in conjunction with the body; mind and the senses and thus becomes the enjoyer. Brahman is the silent witness and nonenjoyer. The souls attachment to the alities of pleasure;
+pain and delusion is the chief cause of its birth. If you add the word Samsara to the second half of the verse; it will mean Attachment to the alities is the cause of Samsara through births in good and evil wombs.Good wombs (Sat Yoni) are those of the gods and the like evil wombs (Asat Yoni) are those of lower animals. The human womb is partly good and partly evil on account of mixed Karmas.Purushah prakritisthah Purusha (the soul) seated in Prakriti (Nature). This is Avidya
 (ignorance). Attachment to the alities of Nature is Kama (desire).
 Avidya and Kama are the cause of Samsara.Jnana (wisdom) and Vairagya
 (dispassion) will destroy ignorance and desire. (Cf.XIV.5XV.7)

@@ -47,9 +47,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/40_nAnto-sti_mama.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.40 There is no limit to the divine and auspicious manifestations of
-My will to rule. But it has been described to some extent by Me in brief
-by means of a few illustrations.
+10.40 There is no limit to the divine and auspicious manifestations of My will to rule. But it has been described to some extent by Me in brief by means of a few illustrations.
 
 </details>
 </div>
@@ -300,42 +298,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/40_nAnto-sti_mama.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.40. O scorcher of foes ! There is no end to My extraordinary
-manifesting Power. The above details of \[My\] manifesting power have
-been declared by Me only by way of examples.
+10.40. O scorcher of foes ! There is no end to My extraordinary manifesting Power. The above details of \[My\] manifesting power have been declared by Me only by way of examples.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/40_nAnto-sti_mama.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.40 O destroyer of enemies, there is no limit to My divine
-manifestations. This description of (My) manifestations, however, has
-been stated by Me by way illustration.
+10.40 O destroyer of enemies, there is no limit to My divine manifestations. This description of (My) manifestations, however, has been stated by Me by way illustration.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/40_nAnto-sti_mama.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.40 O Arjuna! The aspects of My divine life are endless. I have
-mentioned but a few by way of illustration.
+10.40 O Arjuna! The aspects of My divine life are endless. I have mentioned but a few by way of illustration.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/40_nAnto-sti_mama.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.40 There is no limit to My divine mannifestations. Here the extent of
-such manifestations has been made in brief by Me.
+10.40 There is no limit to My divine mannifestations. Here the extent of such manifestations has been made in brief by Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/40_nAnto-sti_mama.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.40 There is no end to My divine gloreis, O Arjuna, but this is a
-brief statement by Me of the particulars of My divine glories.
+10.40 There is no end to My divine gloreis, O Arjuna, but this is a brief statement by Me of the particulars of My divine glories.
 
 </details>
 </div>
@@ -345,11 +336,8 @@ brief statement by Me of the particulars of My divine glories.
 10.40 न not; अन्तः end; अस्ति is; मम My; दिव्यानाम् of divine;
 विभूतीनाम् glories; परंतप O scorcher of foes; एषः this; तु indeed;
 उद्देशतः briefly; प्रोक्तः has been stated; विभूतेः of glory; विस्तरः
-particulars; मया by Me.Commentary It is impossible for anyone to
-describe or know the exact extent of the divine gloreis of the Lord.
-There is no limit to His powers or glories. What could be expressed of
-Him is nothing when compared to His infinte glories.Parantapa Scorcher
-of foes -- he who burns the internal enemies; lust; anger; greed;
+particulars; मया by Me.Commentary It is impossible for anyone to describe or know the exact extent of the divine gloreis of the Lord.
+There is no limit to His powers or glories. What could be expressed of Him is nothing when compared to His infinte glories.Parantapa Scorcher of foes -- he who burns the internal enemies; lust; anger; greed;
 deluion; etc.
 
 </details>

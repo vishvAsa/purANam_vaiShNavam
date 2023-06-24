@@ -72,10 +72,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna
-did immediately as He had been directed, while Bhisma, Drona and others
-and all the kings were looking on. Such is the prospect of victory for
-your men.
+1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna did immediately as He had been directed, while Bhisma, Drona and others and all the kings were looking on. Such is the prospect of victory for your men.
 
 </details>
 </div>
@@ -316,18 +313,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.21. Arjuna said O Acyuta! Please halt my chariot at a centre place
-between the two armies, so that I may scrutinize these men who are
-standing with desire to fight and with whom I have to fight in this
-great war-effort.
+1.21. Arjuna said O Acyuta! Please halt my chariot at a centre place between the two armies, so that I may scrutinize these men who are standing with desire to fight and with whom I have to fight in this great war-effort.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.21 Arjuna said O Acyuta, please place my chariot between both the
-armies .
+1.21 Arjuna said O Acyuta, please place my chariot between both the armies .
 
 </details>
 </div>
@@ -342,8 +335,7 @@ Lord of the earth! Please draw up my chariot betwixt the two armies,
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/21_hRShIkeshan_tadA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.21 And he spoke, O lord of earth, these words to Sri Krsna... Arjuna
-said: ...Draw up my chariot, O Krsna, between the two armies,
+1.21 And he spoke, O lord of earth, these words to Sri Krsna... Arjuna said: ...Draw up my chariot, O Krsna, between the two armies,
 
 </details>
 </div>
@@ -361,10 +353,8 @@ and know with whom I must fight, when the battle is about to commence.
 
 1.21 -- 1.22 सेनयोः of the armies; उभयोः of both; मध्ये in the middle;
 रथम् car; स्थापय place; मे my; अच्युत O Achyuta (O changeless; Krishna);
-यावत् while; एतान् these; निरीक्षे behold; अहम् I; योद्धुकामान् desirous
-to fight; अवस्थितान् standing; कैः with whom; मया by me; सह together;
-योद्धव्यम् must be fought; अस्मिन् in this; रणसमुद्यमे eve of battle.No
-Commentary.
+यावत् while; एतान् these; निरीक्षे behold; अहम् I; योद्धुकामान् desirous to fight; अवस्थितान् standing; कैः with whom; मया by me; सह together;
+योद्धव्यम् must be fought; अस्मिन् in this; रणसमुद्यमे eve of battle.No Commentary.
 
 </details>
 </div>

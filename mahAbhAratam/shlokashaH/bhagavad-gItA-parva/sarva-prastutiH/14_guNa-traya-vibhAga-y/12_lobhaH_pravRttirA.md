@@ -57,10 +57,7 @@ _________________
 14.12 'Greed' is the tendency not to spend one's own property.
 'Activity' is the disposition to be active devoid of any purpose.
 'Undertaking of works' is engagement in works which yield fruits.
-'Unrest' is absence of rest of sense-activities. 'Longing' is the desire
-for sense objects. These predominate when Rajas has increased. The
-meaning is that whenever greed etc., prevail, then one should know that
-Rajas has very much increased.
+'Unrest' is absence of rest of sense-activities. 'Longing' is the desire for sense objects. These predominate when Rajas has increased. The meaning is that whenever greed etc., prevail, then one should know that Rajas has very much increased.
 
 </details>
 </div>
@@ -347,9 +344,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.12. Greed, exertion, undertaking of actions, unrest, and
-craving-these are born when the Rajas increases predominantly, O chief
-of the Bharatas !
+14.12. Greed, exertion, undertaking of actions, unrest, and craving-these are born when the Rajas increases predominantly, O chief of the Bharatas !
 
 </details>
 </div>
@@ -357,32 +352,28 @@ of the Bharatas !
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 14.12 O best of the Bharata dynasty, when rajas becomes predominant,
-these come into being: avarice, movement, undertaking of actions, unrest
-and hankering.
+these come into being: avarice, movement, undertaking of actions, unrest and hankering.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.12 O best of Indians! Avarice, the impulse to act and the beginning
-of action itself are all due to the dominance of Passion.
+14.12 O best of Indians! Avarice, the impulse to act and the beginning of action itself are all due to the dominance of Passion.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.12 Greed, activity, undertaking of work, unrest and longing - these
-arise, O Arjuna, when Rajas prevails.
+14.12 Greed, activity, undertaking of work, unrest and longing - these arise, O Arjuna, when Rajas prevails.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/12_lobhaH_pravRttirA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.12 Greed, activity, the undertaking of actions, restlessness, longing
-these arise when Rajas is predominant, O Arjuna.
+14.12 Greed, activity, the undertaking of actions, restlessness, longing these arise when Rajas is predominant, O Arjuna.
 
 </details>
 </div>
@@ -391,28 +382,9 @@ these arise when Rajas is predominant, O Arjuna.
 
 14.12 लोभः greed; प्रवृत्तिः activity; आरम्भः the undertaking; कर्मणाम्
 of actions; अशमः restlessness; स्पृहा longing; रजसि in Rajas; एतानि
-these; जायन्ते arise; विवृद्धे having become predominant; भरतर्षभ O best
-of the Bharatas (or O Lord of the Bharatas).Commentary Greed
-Covetousness Desire to appropriate the property of others a desire to
-possess more wealth though one has sufficient already.Pravritti Action
-in general.Asamah Restlessness being agitated by joy; attachment; etc. I
-will do this and then I wil take up that action. After finishing the
-second; I will take up the third; and so on. There is no end to the
-continuity of desire; will and action. This is called Asama or
-restlessness.Spriha Thirsting or longing for all sensual objects in
-general.These are the characteristic marks that indicate that Rajas is
-predominant.Do not mistake Rajasic restlessness or Rajasic movements for
-Karma Yoga or divine activity. People may say that they are doing
-selfless service to the world; but if you analyse their motives,there
-will be the taint of personal desire in some form or other. Many persons
-cannot sit iet even for a moment. They think that moving about here and
-there or doing some action or other is to full of life. The Yogi or sage
-who sits still by calming the mind; who does nothing at all physically;
-is the most active man in the whole world whereas the man who runs here
-and there and who is always very busy does nothing at all. This may be
-paradoxical to you. Very few can comprehend the truth of this statement.
-Sattva is intense activity. A wheel that revolves very rapidly appears
-to be at rest. So is Sattva. So is a Sattvic man.
+these; जायन्ते arise; विवृद्धे having become predominant; भरतर्षभ O best of the Bharatas (or O Lord of the Bharatas).Commentary Greed Covetousness Desire to appropriate the property of others a desire to possess more wealth though one has sufficient already.Pravritti Action in general.Asamah Restlessness being agitated by joy; attachment; etc. I will do this and then I wil take up that action. After finishing the second; I will take up the third; and so on. There is no end to the continuity of desire; will and action. This is called Asama or restlessness.Spriha Thirsting or longing for all sensual objects in general.These are the characteristic marks that indicate that Rajas is predominant.Do not mistake Rajasic restlessness or Rajasic movements for Karma Yoga or divine activity. People may say that they are doing selfless service to the world; but if you analyse their motives,there will be the taint of personal desire in some form or other. Many persons cannot sit iet even for a moment. They think that moving about here and there or doing some action or other is to full of life. The Yogi or sage who sits still by calming the mind; who does nothing at all physically;
+is the most active man in the whole world whereas the man who runs here and there and who is always very busy does nothing at all. This may be paradoxical to you. Very few can comprehend the truth of this statement.
+Sattva is intense activity. A wheel that revolves very rapidly appears to be at rest. So is Sattva. So is a Sattvic man.
 
 </details>
 </div>

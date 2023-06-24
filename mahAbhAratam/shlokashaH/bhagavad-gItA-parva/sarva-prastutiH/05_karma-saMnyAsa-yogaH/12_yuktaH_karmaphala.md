@@ -61,19 +61,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 5.12 A Yogin is one who has no hankering for fruits other than the self,
-and who is exclusively devoted to the self. If a man renounces the
-fruits of actions and performs actions merely for the purification of
-himself, he attains lasting peace, i.e., he attains bliss which is of
-the form of lasting experience of the self. The unsteady person is one
-who is inclined towards fruits other than the self. He has turned
-himself away from the vision of the self. Being impelled by desire, he
-becomes attached to fruits of actions, and remains bound for ever by
-them. That is, he becomes a perpetual Samsarin or one involved in
-transmigratory cycle endlessly. What is said is this: Free of attachment
-for fruits and attributing one's actions to Prakrti which has developed
-into the form of senses, one should perform actions merely to free the
-self from bondage. Next, the shifting of agency to Prakrti, from which
-the body has come into existence, is described:
+and who is exclusively devoted to the self. If a man renounces the fruits of actions and performs actions merely for the purification of himself, he attains lasting peace, i.e., he attains bliss which is of the form of lasting experience of the self. The unsteady person is one who is inclined towards fruits other than the self. He has turned himself away from the vision of the self. Being impelled by desire, he becomes attached to fruits of actions, and remains bound for ever by them. That is, he becomes a perpetual Samsarin or one involved in transmigratory cycle endlessly. What is said is this: Free of attachment for fruits and attributing one's actions to Prakrti which has developed into the form of senses, one should perform actions merely to free the self from bondage. Next, the shifting of agency to Prakrti, from which the body has come into existence, is described:
 
 </details>
 </div>
@@ -342,19 +330,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.12. Having abandoned \[the attachment for\] the fruit of actions, the
-master of Yoga attains the highest Peace. \[But\] the person, other than
-the master of Yoga, attached to the fruit of action, is bound by his
-action born of desire.
+5.12. Having abandoned \[the attachment for\] the fruit of actions, the master of Yoga attains the highest Peace. \[But\] the person, other than the master of Yoga, attached to the fruit of action, is bound by his action born of desire.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.12 Giving up the result of work by becoming resolute in faith, one
-attains Peace arising from steadfastness. One who is lacking in resolute
-faith, being attached to the result under the impulsion of desire,
+5.12 Giving up the result of work by becoming resolute in faith, one attains Peace arising from steadfastness. One who is lacking in resolute faith, being attached to the result under the impulsion of desire,
 becomes bound.
 
 </details>
@@ -362,29 +345,22 @@ becomes bound.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.12 Having abandoned the fruit of action, he wins eternal peace. Others
-unacquainted with spirituality, led by desire and clinging to the
-benefit which they think will follow their actions, become entangled in
-them.
+5.12 Having abandoned the fruit of action, he wins eternal peace. Others unacquainted with spirituality, led by desire and clinging to the benefit which they think will follow their actions, become entangled in them.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.12 A Yogin, renouncing the fruits of his actions, attains lasting
-peace. But the unsteady man who is attached to fruits of actions, being
-impelled by desire, is bound.
+5.12 A Yogin, renouncing the fruits of his actions, attains lasting peace. But the unsteady man who is attached to fruits of actions, being impelled by desire, is bound.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/12_yuktaH_karmaphala.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.12 The united one (the well poised or the harmonised) having abandoned
-the fruit of action attains to the eternal peace: the non-united only
-(the unsteady or the unbalanced) impelled by desire, attached to the
-fruit, is bound.
+5.12 The united one (the well poised or the harmonised) having abandoned the fruit of action attains to the eternal peace: the non-united only
+(the unsteady or the unbalanced) impelled by desire, attached to the fruit, is bound.
 
 </details>
 </div>
@@ -393,18 +369,8 @@ fruit, is bound.
 
 5.12 युक्तः the united one (the well poised); कर्मफलम् fruit of action;
 त्यक्त्वा having abandoned; शान्तिम् peace; आप्नोति attains; नैष्ठिकीम्
-final; अयुक्तः the nonunited one; कामकारेण impelled by desire; फले in
-the fruit (of action); सक्तः attached; निबध्यते is bound.Commentary
-Santim naishthikim is interpreted as peace born of devotion of
-steadfastness. The harmonious man who does actions for the sake of the
-Lord without expectation of the fruit and who says; I do actions for my
-Lord only; not for my personal gain or profit; attains to the peace born
-of devotion; through the following four stages; viz.; purity of mind;
-the attainment of knowledge; renunciation of actions; and steadiness in
-wisdom. But the unbalanced or the unharmonised man who is led by desire
-and who is attached to the fruits of the actions and who says; I have
-done such and such an action I will get such and such a fruit; is firmly
-bound.
+final; अयुक्तः the nonunited one; कामकारेण impelled by desire; फले in the fruit (of action); सक्तः attached; निबध्यते is bound.Commentary Santim naishthikim is interpreted as peace born of devotion of steadfastness. The harmonious man who does actions for the sake of the Lord without expectation of the fruit and who says; I do actions for my Lord only; not for my personal gain or profit; attains to the peace born of devotion; through the following four stages; viz.; purity of mind;
+the attainment of knowledge; renunciation of actions; and steadiness in wisdom. But the unbalanced or the unharmonised man who is led by desire and who is attached to the fruits of the actions and who says; I have done such and such an action I will get such and such a fruit; is firmly bound.
 
 </details>
 </div>

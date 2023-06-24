@@ -60,23 +60,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.11 The 'striving Yogins' i.e., those striving in the path of Karma
-Yoga etc., after practising Prapatti (self-surrender), purify their
-inner organs of perception and percieve the self as established in Its
-own form as distinct from the body, with the eye of Yoga, But those of
-'unrefined minds,' namely those who do not practise Prapatti to Me, and
-are therefore of 'uncultivated minds, and devoid of intelligence' find
-themselves incapable of perceiving the self. They do not perceive It in
-distinction from the body. Thus, it has been said that the self, whether
-released or not, is a manifestation of the glory (Vibhuti) of the Lord,
+15.11 The 'striving Yogins' i.e., those striving in the path of Karma Yoga etc., after practising Prapatti (self-surrender), purify their inner organs of perception and percieve the self as established in Its own form as distinct from the body, with the eye of Yoga, But those of
+'unrefined minds,' namely those who do not practise Prapatti to Me, and are therefore of 'uncultivated minds, and devoid of intelligence' find themselves incapable of perceiving the self. They do not perceive It in distinction from the body. Thus, it has been said that the self, whether released or not, is a manifestation of the glory (Vibhuti) of the Lord,
 Its light of knowledge illuminates even the luminaries such as the sun,
-moon and fire which help the senses to see by removing the darkness that
-prevents the contact of the senses with their objects as described (in
-the verses): 'That supreme light ৷৷. is Mine' (15.6) and 'An everlasting
-part of Myself having become the (bound) self in the world of life'
-(15.7). Now, He declares that even the lights of the sun and other
-luminaries, which form particular developments of Prakrti, are Vibhutis
-of the Lord:
+moon and fire which help the senses to see by removing the darkness that prevents the contact of the senses with their objects as described (in the verses): 'That supreme light ৷৷. is Mine' (15.6) and 'An everlasting part of Myself having become the (bound) self in the world of life'
+(15.7). Now, He declares that even the lights of the sun and other luminaries, which form particular developments of Prakrti, are Vibhutis of the Lord:
 
 </details>
 </div>
@@ -344,7 +332,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।15.11।। योगीजन प्रयत्न करते हुये ही अपने हृदय में स्थित आत्मा को देखते
-हैं, जब कि अशुद्ध अन्तःकरण वाले (अकृतात्मानः) और अविवेकी (अचेतसः) लोग
+हैं, जब कि अशुद्ध अन्त:करण वाले (अकृतात्मान:) और अविवेकी (अचेतस:) लोग
 यत्न करते हुये भी इसे नहीं देखते हैं।।
 
 </details>
@@ -564,44 +552,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 15.11. The exerting men of Yoga perceive Him dwelling in the Self.
-\[But\] the unintelligent men with their uncontrolled self do not
-perceive Him, even though they exert.
+\[But\] the unintelligent men with their uncontrolled self do not perceive Him, even though they exert.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.11 And the yogis who are diligent see this one as existing in
-themselves. The non-discriminating ones who lack self-control do not see
-this one-though (they be) diligent.
+15.11 And the yogis who are diligent see this one as existing in themselves. The non-discriminating ones who lack self-control do not see this one-though (they be) diligent.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.11 The saints with great effort find Him within themselves; but not
-the unintelligent, who in spite of every effort cannot control their
-minds.
+15.11 The saints with great effort find Him within themselves; but not the unintelligent, who in spite of every effort cannot control their minds.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-15.11 The striving Yogins see It established in themselves. But, though
-striving, those of unrefined minds, devoid of intelligence, perceive It
-not.
+15.11 The striving Yogins see It established in themselves. But, though striving, those of unrefined minds, devoid of intelligence, perceive It not.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/11_yatanto_yoginashc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-15.11 The Yogins striving (for perfection) behold Him dwelling in the
-Self; but, the unrefined and unintelligent, even though striving, see
-Him not.
+15.11 The Yogins striving (for perfection) behold Him dwelling in the Self; but, the unrefined and unintelligent, even though striving, see Him not.
 
 </details>
 </div>
@@ -611,41 +590,11 @@ Him not.
 15.11 यतन्तः striving (for perfection); योगिनः the Yogins; च and; एनम्
 this; पश्यन्ति see; आत्मनि in the Self; अवस्थितम् dwelling; यतन्तः
 striving; अपि also; अकृतात्मानः the unrefined; न not; एनम् this;
-पश्यन्ति see; अचेतसः unintelligent.Commentary The description of the
-evolution of the individual soul is now complete.The Yogins who strive
-with an iron determination; fiery resolve; faith; earnestness and
-wellbalanced mind; see Him established in their hearts. They behold Him
-dwelling in their own mind or intellect. They recognise Him -- This I
-am. But those who are of full intellect and without proper discipline of
-the mind and the senses; who have not been purified by austerity;
-selfless service and charity; who have not subdued their senses; who
-have not practised regular meditation; who have not given up their evil
-ways; who have not eradicated lust; pride; egoism; anger; greed and
-hypocrisy; who have not developed true discrimination between the Real
-and the unreal; however hard they may struggle to know Him by means of
-the study of the sacred scriptures; do not behold Him. They are not able
-to attain Selfrealisation. Mere study of scriptues alone cannot help one
-who has an impure mind to attain Selfrealisation. The aspirant should
-have a calm and pure mind. He should practise constant; protracted and
-profound meditation on the Self. Only then will he realise; recognise
-and behold the Self abiding in his own heart.That Goal (the Supreme
-Being) which the fire; stars; lightning; sun and moon do not illumine;
-having reached which the aspirants do not return to this Samsara or the
-world of birth and death; of which the individual souls are only
-imaginary parts appearing so on account of the limiting adjunct
-(ignorance); just as the ether in the pot appears to be limited though
-it is one with the,universal ether -- is the essence of all worldly
-experiences.Just as the ether in the pot becomes identical with the
-universal ether when the limiting adjunct (pot) is broken; so also the
-individual soul becomes identical with the Supreme Being when the
-limiting adjunct (ignorance) is destroyed through the knowledge of the
-Self or Selfrealisation born of meditation on the right significance of
-the great sentences of the Upanishads; viz.; TatTvamAsi (That thou art)
-or AhamBrahmaAsmi (I am the Supreme Being). Then he realises that
-Brahman is the essence of all and tht He is the basis of all
-experiences.In order to make Arjuna understand this; the Lord gives a
-brief summary of His manifestations in the following four verses. A
-description is given here of the allpervasiveness of the Self.
+पश्यन्ति see; अचेतसः unintelligent.Commentary The description of the evolution of the individual soul is now complete.The Yogins who strive with an iron determination; fiery resolve; faith; earnestness and wellbalanced mind; see Him established in their hearts. They behold Him dwelling in their own mind or intellect. They recognise Him -- This I am. But those who are of full intellect and without proper discipline of the mind and the senses; who have not been purified by austerity;
+selfless service and charity; who have not subdued their senses; who have not practised regular meditation; who have not given up their evil ways; who have not eradicated lust; pride; egoism; anger; greed and hypocrisy; who have not developed true discrimination between the Real and the unreal; however hard they may struggle to know Him by means of the study of the sacred scriptures; do not behold Him. They are not able to attain Selfrealisation. Mere study of scriptues alone cannot help one who has an impure mind to attain Selfrealisation. The aspirant should have a calm and pure mind. He should practise constant; protracted and profound meditation on the Self. Only then will he realise; recognise and behold the Self abiding in his own heart.That Goal (the Supreme Being) which the fire; stars; lightning; sun and moon do not illumine;
+having reached which the aspirants do not return to this Samsara or the world of birth and death; of which the individual souls are only imaginary parts appearing so on account of the limiting adjunct
+(ignorance); just as the ether in the pot appears to be limited though it is one with the,universal ether -- is the essence of all worldly experiences.Just as the ether in the pot becomes identical with the universal ether when the limiting adjunct (pot) is broken; so also the individual soul becomes identical with the Supreme Being when the limiting adjunct (ignorance) is destroyed through the knowledge of the Self or Selfrealisation born of meditation on the right significance of the great sentences of the Upanishads; viz.; TatTvamAsi (That thou art)
+or AhamBrahmaAsmi (I am the Supreme Being). Then he realises that Brahman is the essence of all and tht He is the basis of all experiences.In order to make Arjuna understand this; the Lord gives a brief summary of His manifestations in the following four verses. A description is given here of the allpervasiveness of the Self.
 
 </details>
 </div>

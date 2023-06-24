@@ -59,11 +59,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/16_manaHprasAdaH_sau.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.16 Serenity of mind, viz., absence of wrath etc., practice of
-benevolence, viz., the direction of the mind for the good of others,
+17.16 Serenity of mind, viz., absence of wrath etc., practice of benevolence, viz., the direction of the mind for the good of others,
 silence, viz., contorl of speech by the mind; self-control, viz.,
-focusing the activity of the mind on the object of contemplation; purity
-of mind, viz., absence of thought about subjects other than the self -
+focusing the activity of the mind on the object of contemplation; purity of mind, viz., absence of thought about subjects other than the self -
 these constitute the austerity of the mind.
 
 </details>
@@ -332,7 +330,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/16_manaHprasAdaH_sau.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।17.16।। मन की प्रसन्नता, सौम्यभाव, मौन आत्मसंयम और अन्तःकरण की शुद्धि
+।।17.16।। मन की प्रसन्नता, सौम्यभाव, मौन आत्मसंयम और अन्त:करण की शुद्धि
 यह सब मानस तप कहलाता है।।
 
 </details>
@@ -429,8 +427,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/16_manaHprasAdaH_sau.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.16. The serenity of mind, the ietness, the taciturnity, the
-self-control, the purity of thought-all this is called mental austerity.
+17.16. The serenity of mind, the ietness, the taciturnity, the self-control, the purity of thought-all this is called mental austerity.
 
 </details>
 </div>
@@ -445,24 +442,21 @@ purity of heart,-these are what is called mental austerity.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/16_manaHprasAdaH_sau.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.16 Serenity, kindness, silence, self-control and purity - this is
-austerity of mind.
+17.16 Serenity, kindness, silence, self-control and purity - this is austerity of mind.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/16_manaHprasAdaH_sau.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.16 Serenity of mind, benevolence, silence, self-control, purity of
-mind - these are called austerity of the mind.
+17.16 Serenity of mind, benevolence, silence, self-control, purity of mind - these are called austerity of the mind.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/16_manaHprasAdaH_sau.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-17.16 Serenity of mind, good-heartedness, self-control, purity of nature
-this is called mental austerity.
+17.16 Serenity of mind, good-heartedness, self-control, purity of nature this is called mental austerity.
 
 </details>
 </div>
@@ -471,25 +465,9 @@ this is called mental austerity.
 
 17.16 मनःप्रसादः serenity of mind; सौम्यत्वम् goodheartedness; मौनम्
 silence; आत्मविनिग्रहः selfcontrol; भावसंशुद्धिः purity of nature; इति
-thus; एतत् this; तपः austerity; मानसम् mental; उच्यते is
-called.Commentary Just as a lake which is without a ripple on it surface
-is very tranil; so also the mind which is free from modifications; from
-wandering thoughts of sensual objects; is ite serene and calm.Saumyatvam
-Intent on the welfare of all beings the state of mind which may be
-inferred from its effects; such as brightness of the face; etc.Maunam
-Even silence of speech is necessarily preceded by the control of
-thought; and so the effect is here used to stand for the cause; viz.;
-the control of thought this is the result of the control of thought so
-far as it concerns speech; silence of the mind; ability to remain calm
-even amidst disturbing factors from without. Mauna is the condition of
-the Muni (sage); i.e.; practice of meditation with onepointedness of
-mind.Atmavinigrahah Selfcontrol A general control of the mind.
-Asamprajnata Samadhi wherein all the modifications of the mind are
-controlled. The mind cannot run after the senses and the senses cannot
-run after their objects. In Mauna there is control of thought so far as
-it concerns speech.Bhavasamsuddhih Purity of nature Honesty of purpose
-freedom from cunningness in dealing with other people the pure state of
-the mind wherein there is absence of lust; anger; greed; etc.
+thus; एतत् this; तपः austerity; मानसम् mental; उच्यते is called.Commentary Just as a lake which is without a ripple on it surface is very tranil; so also the mind which is free from modifications; from wandering thoughts of sensual objects; is ite serene and calm.Saumyatvam Intent on the welfare of all beings the state of mind which may be inferred from its effects; such as brightness of the face; etc.Maunam Even silence of speech is necessarily preceded by the control of thought; and so the effect is here used to stand for the cause; viz.;
+the control of thought this is the result of the control of thought so far as it concerns speech; silence of the mind; ability to remain calm even amidst disturbing factors from without. Mauna is the condition of the Muni (sage); i.e.; practice of meditation with onepointedness of mind.Atmavinigrahah Selfcontrol A general control of the mind.
+Asamprajnata Samadhi wherein all the modifications of the mind are controlled. The mind cannot run after the senses and the senses cannot run after their objects. In Mauna there is control of thought so far as it concerns speech.Bhavasamsuddhih Purity of nature Honesty of purpose freedom from cunningness in dealing with other people the pure state of the mind wherein there is absence of lust; anger; greed; etc.
 
 </details>
 </div>

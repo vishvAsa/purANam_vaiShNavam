@@ -55,9 +55,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.19 Therefore, considering that work has to be performed with
-detachment, you perform it, considering yourself a non-agent. This will
-be declared in the words 'with detachment' and 'which ought to be done,'
+3.19 Therefore, considering that work has to be performed with detachment, you perform it, considering yourself a non-agent. This will be declared in the words 'with detachment' and 'which ought to be done,'
 meaning that one attains the Supreme by Karma Yoga itself.
 
 </details>
@@ -435,8 +433,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.19. Therefore, unattached always, you should perform action that is to
-be performed; for, the person, performing action without attachment,
+3.19. Therefore, unattached always, you should perform action that is to be performed; for, the person, performing action without attachment,
 attains the Supreme.
 
 </details>
@@ -444,17 +441,14 @@ attains the Supreme.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.19 Therefore, remaining unattached, always perform the obligatory
-duty, for, by performing (one's) duty without attachment, a person
-attains the Highest.
+3.19 Therefore, remaining unattached, always perform the obligatory duty, for, by performing (one's) duty without attachment, a person attains the Highest.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.19 Therefore do thy duty perfectly, without care for the results, for
-he who does his duty disinterestedly attains the Supreme.
+3.19 Therefore do thy duty perfectly, without care for the results, for he who does his duty disinterestedly attains the Supreme.
 
 </details>
 </div>
@@ -469,9 +463,7 @@ For, a man who works without attachment attains to the Supreme.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/19_tasmAdasaktaH_sat.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.19 Therefore without attachment, do thou always perform action which
-should be done; for by performing action without attachment man reaches
-the Supreme.
+3.19 Therefore without attachment, do thou always perform action which should be done; for by performing action without attachment man reaches the Supreme.
 
 </details>
 </div>
@@ -479,11 +471,8 @@ the Supreme.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.19 तस्मात् therefore; असक्तः without attachment; सततम् always; कार्यम्
-which should be done; कर्म action; समाचर perform; असक्तः without
-attachment; हि because; आचरन् performing; कर्म action; परम् the Supreme;
-आप्नोति attains; पूरुषः man.Commentary If you perform actions without
-attachment; for the sake of the Lord; you will attain to Selfrealisation
-through purity of heart. (Cf.II.64IV.19;23XVIII.49).
+which should be done; कर्म action; समाचर perform; असक्तः without attachment; हि because; आचरन् performing; कर्म action; परम् the Supreme;
+आप्नोति attains; पूरुषः man.Commentary If you perform actions without attachment; for the sake of the Lord; you will attain to Selfrealisation through purity of heart. (Cf.II.64IV.19;23XVIII.49).
 
 </details>
 </div>

@@ -98,25 +98,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.7 Obligatory acts consist of daily, and occasional ceremonies like
-the five great sacrifices; their abandonment is not proper, for without
-actions even the sustenance of the body would be impossible, as already
-stated: 'From no-work, not even the body can be sustained' (3.8). The
-sustenance of the body by eating the sacrificial remnants produces
-perfect knowledge. Otherwise, as declared in the statement, 'But the
-sinful ones eat sin' (3.13). The satisfaction that comes by eating food
-which is not the remnant of sacrifice and which is therefore of the form
-of sin, is productive of erroneous knowledge in the mind. For, as
-declared in the Sruti, 'The mind consists of food' (Cha. U., 6.5.4), the
-mind is sustained by food. Also, there is the Sruti text, 'When the food
-is pure, the mind becomes pure; when the mind is pure, remembrance
-becomes firmly fixed; and when remembrance is acired, there is release
-from all knots of the heart' (Ibid., 7.26.2). It is therefore proved by
-the Sruti that knowledge of the form of direct perception of Brahman, is
-dependent on the purity of food. Hence the great sacrifices and such
-other obligatory and occasional rites are worthy of adoption till one's
-death, as they help in the knowledge of the Brahman. The renunciation of
-these is therefore not proper. Thus, the relinishment of these acts
+18.7 Obligatory acts consist of daily, and occasional ceremonies like the five great sacrifices; their abandonment is not proper, for without actions even the sustenance of the body would be impossible, as already stated: 'From no-work, not even the body can be sustained' (3.8). The sustenance of the body by eating the sacrificial remnants produces perfect knowledge. Otherwise, as declared in the statement, 'But the sinful ones eat sin' (3.13). The satisfaction that comes by eating food which is not the remnant of sacrifice and which is therefore of the form of sin, is productive of erroneous knowledge in the mind. For, as declared in the Sruti, 'The mind consists of food' (Cha. U., 6.5.4), the mind is sustained by food. Also, there is the Sruti text, 'When the food is pure, the mind becomes pure; when the mind is pure, remembrance becomes firmly fixed; and when remembrance is acired, there is release from all knots of the heart' (Ibid., 7.26.2). It is therefore proved by the Sruti that knowledge of the form of direct perception of Brahman, is dependent on the purity of food. Hence the great sacrifices and such other obligatory and occasional rites are worthy of adoption till one's death, as they help in the knowledge of the Brahman. The renunciation of these is therefore not proper. Thus, the relinishment of these acts
 which produce knowledge through the delusion that they bind the self, is
 rooted in Tamas. Tamasika renunciation has its roots in Tamas. Since
 such renunciation has its roots in ignorance which is the effect of
@@ -505,58 +487,43 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.7. The renunciation of the enjoined action does not stand to reason;
-and completely relinishing it, out of ignorance is proclaimed, on all
-sides, as an act of the Tamas (Strand).
+and completely relinishing it, out of ignorance is proclaimed, on all sides, as an act of the Tamas (Strand).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.7 The abandoning of daily obligatory acts (nityakamas) is not
-justifiable. Giving up that through delusion is declared to be based on
-tamas.
+18.7 The abandoning of daily obligatory acts (nityakamas) is not justifiable. Giving up that through delusion is declared to be based on tamas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.7 It is not right to give up actions which are obligatory; and if
-they are misunderstood, it is the result of sheer ignorance.
+18.7 It is not right to give up actions which are obligatory; and if they are misunderstood, it is the result of sheer ignorance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.7 But the renunciation of obligatory acts is not proper. Abandonment
-of these through delusion is declared to be Tamasika.
+18.7 But the renunciation of obligatory acts is not proper. Abandonment of these through delusion is declared to be Tamasika.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.7 Verily the renunciation of obligatory action is not proper; the
-abandonment of the same from delusion is declared to be Tamasic.
+18.7 Verily the renunciation of obligatory action is not proper; the abandonment of the same from delusion is declared to be Tamasic.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/07_niyatasya_tu.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.7 नियतस्य obligatory; तु verily; संन्यासः renunciation; कर्मणः of
-action; न not; उपपद्यते is proper; मोहात् from delusion; तस्य of the
-same; परित्यागः abandonment; तामसः Tamasic; परिकीर्तितः is
-declared.Commentary Renunciation of obligatory action is not proper
-because it is purifying in the case of an ignorant man. Should a man
-renounce actions that he should perform as a duty; such renunciation can
-only be of the ality of darkness. Prescribed duties must not be
-abandoned and if anyone does so; he is certainly deluded by ignorance.
-Tamas is ignorance.Niyata Prescribed according to ones religion. To hold
-that a duty is obligatory and then to relinish it is indeed
-selfcontradictory.
+18.7 नियतस्य obligatory; तु verily; संन्यासः renunciation; कर्मणः of action; न not; उपपद्यते is proper; मोहात् from delusion; तस्य of the same; परित्यागः abandonment; तामसः Tamasic; परिकीर्तितः is declared.Commentary Renunciation of obligatory action is not proper because it is purifying in the case of an ignorant man. Should a man renounce actions that he should perform as a duty; such renunciation can only be of the ality of darkness. Prescribed duties must not be abandoned and if anyone does so; he is certainly deluded by ignorance.
+Tamas is ignorance.Niyata Prescribed according to ones religion. To hold that a duty is obligatory and then to relinish it is indeed selfcontradictory.
 
 </details>
 </div>

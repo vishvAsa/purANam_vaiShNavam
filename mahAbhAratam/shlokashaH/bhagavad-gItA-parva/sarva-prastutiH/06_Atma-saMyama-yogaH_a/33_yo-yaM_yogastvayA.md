@@ -81,14 +81,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.33 Arjuna said This Yoga as explained by you consists in maintaining
-eality of vision everywhere, viz., i) among themselves which have been
-so far known to be of different kinds such as gods and men, and ii)
-between the individual selves and the Supreme, in so far as (a) all the
-selves are of the same form of knowledge, and (b) in so far as the
-individual self (i.e., the released soul) and the Supreme are alike free
-from Karma. I do not see how this Yoga can be steadily established in my
-mind, fickle as the mind is.
+6.33 Arjuna said This Yoga as explained by you consists in maintaining eality of vision everywhere, viz., i) among themselves which have been so far known to be of different kinds such as gods and men, and ii)
+between the individual selves and the Supreme, in so far as (a) all the selves are of the same form of knowledge, and (b) in so far as the individual self (i.e., the released soul) and the Supreme are alike free from Karma. I do not see how this Yoga can be steadily established in my mind, fickle as the mind is.
 
 </details>
 </div>
@@ -336,44 +330,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.33. Arjuna said This Yoga of eal-mindedness which has been spoken of
-by You, O slayer of Mandhu, I do not find \[any\] proper foundation for
-it, because of the unsteadiness of the mind.
+6.33. Arjuna said This Yoga of eal-mindedness which has been spoken of by You, O slayer of Mandhu, I do not find \[any\] proper foundation for it, because of the unsteadiness of the mind.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.33 Arjuna said O Madhusudana (Krsna), this Yoga that has been spoken
-of by You as sameness, I do not see its steady continuance, owing to the
-restlessness (of the mind).
+6.33 Arjuna said O Madhusudana (Krsna), this Yoga that has been spoken of by You as sameness, I do not see its steady continuance, owing to the restlessness (of the mind).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.33 Arjuna said: I do not see how I can attain this state of equanimity
-which Thou has revealed, owing to the restlessness of my mind.
+6.33 Arjuna said: I do not see how I can attain this state of equanimity which Thou has revealed, owing to the restlessness of my mind.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.33 Arjuna said This Yoga of eality, which has been declared by You, O
-Krsna, I do not see that it can be steady because of the fickleness of
-the mind.
+6.33 Arjuna said This Yoga of eality, which has been declared by You, O Krsna, I do not see that it can be steady because of the fickleness of the mind.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/33_yo-yaM_yogastvayA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.33 Arjuna said This Yoga of eanimity taught by Thee, O Krishna, I do
-not see its steady continuance, because of the restlessness (of the
-mind).
+6.33 Arjuna said This Yoga of eanimity taught by Thee, O Krishna, I do not see its steady continuance, because of the restlessness (of the mind).
 
 </details>
 </div>
@@ -383,10 +368,7 @@ mind).
 6.33 यः which; अयम् this; योगः Yoga; त्वया by Thee; प्रोक्तः taught;
 साम्येन by eanimity; मधुसूदन O slayer of Madhu; एतस्य its; अहम् I; न
 not; पश्यामि see; चञ्चलत्वात् from restlessness; स्थितिम् continuance;
-स्थिराम् steady.Commentary As the mind is restless; impetuous and
-unsteady I find it difficult to practise this Yoga of eanimity declared
-by Thee. O my Lord; I cannot have steady concentration of the mind; as
-it wanders here and there in the twinkling of an eye.
+स्थिराम् steady.Commentary As the mind is restless; impetuous and unsteady I find it difficult to practise this Yoga of eanimity declared by Thee. O my Lord; I cannot have steady concentration of the mind; as it wanders here and there in the twinkling of an eye.
 
 </details>
 </div>

@@ -50,14 +50,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.9 Sattva mainly attaches one to pleasure. Rajas mainly attaches one
-to actions. But Tamas, veiling knowledge of true things and being the
-cause of false knowledge, mainly attaches one to actions which are
-contrary to those which ought to be done. The Sattva and other alities
-evolve from the nature of Prakrti, developed into the form of the body.
+14.9 Sattva mainly attaches one to pleasure. Rajas mainly attaches one to actions. But Tamas, veiling knowledge of true things and being the cause of false knowledge, mainly attaches one to actions which are contrary to those which ought to be done. The Sattva and other alities evolve from the nature of Prakrti, developed into the form of the body.
 Owing to this fact that they have evolved out of the nature of Prakrti,
-they always co-exist in bodies at all time. How, then, can they cause
-effects which are mutually contrary; He replies:
+they always co-exist in bodies at all time. How, then, can they cause effects which are mutually contrary; He replies:
 
 </details>
 </div>
@@ -323,9 +318,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.9. O descendant of Bharata ! The Sattva fully dominates \[the
-Embodied\] in the field of happiness; the Rajas in action; but the Tamas
-also totally dominates in the field of negligence, by veiling knowledge.
+14.9. O descendant of Bharata ! The Sattva fully dominates \[the Embodied\] in the field of happiness; the Rajas in action; but the Tamas also totally dominates in the field of negligence, by veiling knowledge.
 
 </details>
 </div>
@@ -333,16 +326,14 @@ also totally dominates in the field of negligence, by veiling knowledge.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 14.9 O scion of the Bharata dynasty, sattva attaches one to happiness,
-rajas to action, while tamas, covering up knowledge, leads to
-inadvertence also.
+rajas to action, while tamas, covering up knowledge, leads to inadvertence also.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.9 Purity brings happiness, Passion commotion, and Ignorance, which
-obscures wisdom, leads to a life of failure.
+14.9 Purity brings happiness, Passion commotion, and Ignorance, which obscures wisdom, leads to a life of failure.
 
 </details>
 </div>
@@ -357,21 +348,16 @@ But Tamas, veiling knowledge, generates attachment to negligence.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.9 Sattva attaches to happiness, Rajas to action, O Arjuna, while
-Tamas verily shrouding knowledge attaches to heedlessness.
+14.9 Sattva attaches to happiness, Rajas to action, O Arjuna, while Tamas verily shrouding knowledge attaches to heedlessness.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/14_guNa-traya-vibhAga-y/09_sattvaM_sukhe.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-14.9 सत्त्वम् purity; सुखे to happiness; सञ्जयति attaches; रजः active
-force; कर्मणि to action; भारत O Bharata; ज्ञानम् knowledge; आवृत्य
+14.9 सत्त्वम् purity; सुखे to happiness; सञ्जयति attaches; रजः active force; कर्मणि to action; भारत O Bharata; ज्ञानम् knowledge; आवृत्य
 shrouding; तु verily; तमः inertia; प्रमादे to heedlessness; सञ्जयति
-attaches; उत but.Commentary Just as a dark cloud enshrouds the sun; so
-also Tamas envelops knowledge or the light of the Self. Tamas creates an
-attachment for heedlessness; that is; ignorance or forgetfulness of duty
-or the nonperformance of necessary (obligatory) duties.
+attaches; उत but.Commentary Just as a dark cloud enshrouds the sun; so also Tamas envelops knowledge or the light of the Self. Tamas creates an attachment for heedlessness; that is; ignorance or forgetfulness of duty or the nonperformance of necessary (obligatory) duties.
 
 </details>
 </div>

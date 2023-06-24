@@ -128,48 +128,17 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.15 Controlling everything by My will, I exist as 'the self in their
-hearts', namely, in the place from which springs knowledge, the root of
-activity and inactivity of all beings as also of the Soma and digestive
-fire. So the Srutis declare in the following texts: 'Entering within, He
-is the ruler of all things and the Self of all' (Tai. A., 3.11), 'He
-who, dwelling in the earth ৷৷. He who, dwelling in the self, is within
-the self ৷৷. who controls the earth' (Br. U. Madh., 3.7. 3. 22); 'The
-heart which is comparable to an inverted lotus-bud' (Ma. Na., 11.7); and
+15.15 Controlling everything by My will, I exist as 'the self in their hearts', namely, in the place from which springs knowledge, the root of activity and inactivity of all beings as also of the Soma and digestive fire. So the Srutis declare in the following texts: 'Entering within, He is the ruler of all things and the Self of all' (Tai. A., 3.11), 'He who, dwelling in the earth ৷৷. He who, dwelling in the self, is within the self ৷৷. who controls the earth' (Br. U. Madh., 3.7. 3. 22); 'The heart which is comparable to an inverted lotus-bud' (Ma. Na., 11.7); and
 'Now, here, in the city of brahman, is an abode, a small lotus-flower'
-(Cha. U., 8.1.1). The Smrtis also declare thus: 'Visnu is the ruler of
-the whole universe, who permeates the universe' (V. P., 1.17. 20), 'He
-is the ruler of all, who is minutely small among those who are minutely
-small (Manu., 12.122); and 'He is the controller, the judge, the King,
-who is seated in your heart' (Ibid., 8.92). Therefore, the memory of all
-beings springs from Me alone. 'Memory' is knowledge springing from
-experience and its subtle impressions. They have for their contents past
-experiences. 'Knowledge' is determination of a thing through the senses,
-inference, the scriptures and intuitive meditation. This is also from
-Me. So does 'Apohana' too. 'Apohana' signifies the cessation of
-knowledge. 'Apohana' may also mean 'Uhana' (conjectural knowledge).
-Uhana is 'Uha' (conjecture). 'Uha' is that knowledge which is accessory
-to the actual means of knowledge (Pramana). It is done by determining
-whether that means of knowledge can be operative with reference to the
-particular subject-matter on hand, through the examination of the
-instruments of that means of knowledge (Pramana). This 'Uha' also comes
-from Me. Indeed 'I am to be known from all the Vedas,' for I am the
-inner ruler of Agni, Surya, Soma, Vayu, Sun and Indra and other
-divinities as their self. The Vedas are intent on speaking of them
-(i.e., the divinities). 'I am to be known from all the Vedas; for, terms
-like gods, men etc., signify the individual selves in them. I bring
-about the fruition of the Veda. 'Vedanta', here means the end, namely,
+(Cha. U., 8.1.1). The Smrtis also declare thus: 'Visnu is the ruler of the whole universe, who permeates the universe' (V. P., 1.17. 20), 'He is the ruler of all, who is minutely small among those who are minutely small (Manu., 12.122); and 'He is the controller, the judge, the King,
+who is seated in your heart' (Ibid., 8.92). Therefore, the memory of all beings springs from Me alone. 'Memory' is knowledge springing from experience and its subtle impressions. They have for their contents past experiences. 'Knowledge' is determination of a thing through the senses,
+inference, the scriptures and intuitive meditation. This is also from Me. So does 'Apohana' too. 'Apohana' signifies the cessation of knowledge. 'Apohana' may also mean 'Uhana' (conjectural knowledge).
+Uhana is 'Uha' (conjecture). 'Uha' is that knowledge which is accessory to the actual means of knowledge (Pramana). It is done by determining whether that means of knowledge can be operative with reference to the particular subject-matter on hand, through the examination of the instruments of that means of knowledge (Pramana). This 'Uha' also comes from Me. Indeed 'I am to be known from all the Vedas,' for I am the inner ruler of Agni, Surya, Soma, Vayu, Sun and Indra and other divinities as their self. The Vedas are intent on speaking of them
+(i.e., the divinities). 'I am to be known from all the Vedas; for, terms like gods, men etc., signify the individual selves in them. I bring about the fruition of the Veda. 'Vedanta', here means the end, namely,
 the fruition, of Vedic injunctions like 'Let sacrifice be made to Indra'
-and 'Let sacrifice be made to Varuna.' For, all Vedas find their
-consummation in fruition. 'Antakrt' means grantor of fruits. The meaning
-is: 'I alone am the grantor of the fruition described in the Vedas.'
-This has been already declared in the verses beginning from, 'Whichever
-devotee seeks to worship with faith whatever form' and ending with,
-'From that faith he gets the objects of his desire, granted in reality
-by Me alone' (7.21 - 22); and also 'I am the enjoyer and the only Lord
-of all sacrifices' (9.24). I am the knower of the Vedas; I know the Veda
-that speaks about Me. The sense is that he who speaks of the meaning of
-the Vedas as otherwise than this import, is not the knower of the Vedas.
+and 'Let sacrifice be made to Varuna.' For, all Vedas find their consummation in fruition. 'Antakrt' means grantor of fruits. The meaning is: 'I alone am the grantor of the fruition described in the Vedas.'
+This has been already declared in the verses beginning from, 'Whichever devotee seeks to worship with faith whatever form' and ending with,
+'From that faith he gets the objects of his desire, granted in reality by Me alone' (7.21 - 22); and also 'I am the enjoyer and the only Lord of all sacrifices' (9.24). I am the knower of the Vedas; I know the Veda that speaks about Me. The sense is that he who speaks of the meaning of the Vedas as otherwise than this import, is not the knower of the Vedas.
 Therefore, listen from Me alone the meaning or the essene of the Vedas.
 
 </details>
@@ -815,10 +784,7 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 15.15. I am entered (the Self-conciousness is felt) in the heart of all;
-from Me (this Self-consciousness) come the faculty of memory, the
-faculty of knowing, and also the faculty of differentiating; none but Me
-is to be known by means of all the Vedas and I am alone the author of
-the final part of the Vedas and also the author of the Vedas themselves.
+from Me (this Self-consciousness) come the faculty of memory, the faculty of knowing, and also the faculty of differentiating; none but Me is to be known by means of all the Vedas and I am alone the author of the final part of the Vedas and also the author of the Vedas themselves.
 
 </details>
 </div>
@@ -826,18 +792,14 @@ the final part of the Vedas and also the author of the Vedas themselves.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 15.15 And I am seated in the hearts of all. From Me are memory,
-knowledge and their loss. I alone am the object to be known through all
-the Vedas; I am also the originator of the Vedanta, and I Myself am the
-knower of the Vedas.
+knowledge and their loss. I alone am the object to be known through all the Vedas; I am also the originator of the Vedanta, and I Myself am the knower of the Vedas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/15_sarvasya_chAham.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.15 I am enthroned in the hearts of all; memory, wisdom and
-discrimination owe their origins to Me. I am He Who is to be realised in
-the scriptures; I inspire their wisdom and I know their truth.
+15.15 I am enthroned in the hearts of all; memory, wisdom and discrimination owe their origins to Me. I am He Who is to be realised in the scriptures; I inspire their wisdom and I know their truth.
 
 </details>
 </div>
@@ -845,19 +807,14 @@ the scriptures; I inspire their wisdom and I know their truth.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 15.15 And I am seated in the hearts of all. From Me are memory,
-knowledge and their removal also. Indeed I alone am to be known from all
-the Vedas. I bring about the fruition of the rituals of Vedas; I alone
-am the knower of the Vedas.
+knowledge and their removal also. Indeed I alone am to be known from all the Vedas. I bring about the fruition of the rituals of Vedas; I alone am the knower of the Vedas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/15_sarvasya_chAham.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-15.15 And I am seated in the hearts of all; from Me are memory and
-knowledge, as well as their absence. I am verily That which has to be
-known by all the Vedas; I am indeed the author of the Vedanta and the
-knower of the Vedas am I.
+15.15 And I am seated in the hearts of all; from Me are memory and knowledge, as well as their absence. I am verily That which has to be known by all the Vedas; I am indeed the author of the Vedanta and the knower of the Vedas am I.
 
 </details>
 </div>
@@ -868,31 +825,9 @@ knower of the Vedas am I.
 seated; मत्तः from Me; स्मृतिः memory; ज्ञानम् knowledge; अपोहनम्
 (their) absence; च and; वेदैः by the Vedas; च and; सर्वैः (by) all; अहम्
 I; एव even; वेद्यः to be known; वेदान्तकृत् the author of the Vedanta;
-वेदवित् the knower of Vedas; एव even; च and; अहम् I.Commentary I am
-seated in the hearts of all sentient beings as their innermost Self.
-Therefore from Me; the Self of all beings; are memory; knowledge and
-their loss. Righteous persons have knowledge and memory as a result of
-virtuous deeds. Sinful persons have loss of memory and knowledge as a
-result of vicious deeds. Virtue promotes peace and hence intellectual
-powers.Apohanam Loss (destruction or absence) of memory and knowledge;
-as also of the reasoning faculty. The loss of memory and knowledge is
-due to lust; anger; grief and delusion.Smriti Memory. It is a special
-modification of the mind (Antahkarana Vritti) born of the Samskaras that
-causes the revival of the past experiences or enjoyments of sensual
-objects of this life in a worldy man who has not practised Yoga. A Yogi
-gets revival of experiences of his past lives and transcendental
-knowledge that is beyond time; space and causation and visible nature.I
-am the central topic of the Vedas. To understand the Vedas is to Know
-Me. I; the Supreme Being; am to be known in all the Vedas. It is I Who
-know the Vedic teaching or the meaning of the Vedas. I cause the
-teaching of the Vedanta to be handed down in regular succession. I am
-the author of what is beyond the Vedas; viz.; the Upanishads that
-constitute the Vedanta; that deal with the transcendental Supreme Being
-beyond all names and forms and devoid of all alities.A brief description
-of the glories of the Lord Narayana as manifested through special
-vehicles has been given in the above four verses. From the next verse a
-description of the form of Purushottama Who is free from any limiting
-adjunct is given. (Cf.X.20)
+वेदवित् the knower of Vedas; एव even; च and; अहम् I.Commentary I am seated in the hearts of all sentient beings as their innermost Self.
+Therefore from Me; the Self of all beings; are memory; knowledge and their loss. Righteous persons have knowledge and memory as a result of virtuous deeds. Sinful persons have loss of memory and knowledge as a result of vicious deeds. Virtue promotes peace and hence intellectual powers.Apohanam Loss (destruction or absence) of memory and knowledge;
+as also of the reasoning faculty. The loss of memory and knowledge is due to lust; anger; grief and delusion.Smriti Memory. It is a special modification of the mind (Antahkarana Vritti) born of the Samskaras that causes the revival of the past experiences or enjoyments of sensual objects of this life in a worldy man who has not practised Yoga. A Yogi gets revival of experiences of his past lives and transcendental knowledge that is beyond time; space and causation and visible nature.I am the central topic of the Vedas. To understand the Vedas is to Know Me. I; the Supreme Being; am to be known in all the Vedas. It is I Who know the Vedic teaching or the meaning of the Vedas. I cause the teaching of the Vedanta to be handed down in regular succession. I am the author of what is beyond the Vedas; viz.; the Upanishads that constitute the Vedanta; that deal with the transcendental Supreme Being beyond all names and forms and devoid of all alities.A brief description of the glories of the Lord Narayana as manifested through special vehicles has been given in the above four verses. From the next verse a description of the form of Purushottama Who is free from any limiting adjunct is given. (Cf.X.20)
 
 </details>
 </div>

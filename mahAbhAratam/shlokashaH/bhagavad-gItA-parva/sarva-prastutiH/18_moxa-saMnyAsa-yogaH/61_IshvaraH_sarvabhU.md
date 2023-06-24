@@ -84,17 +84,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.61 Lord Vasudeva, who is the ruler over all, lives in 'the heart of
-all beings,' i.e., in the region from which arises all knowledge which
-is at the root of all secular and spiritual activities. How and doing
-what does He exist; He exists enabling, by His Maya (power), 'all beings
-who are mounted, as it were, on the machine Prakrti' in the form of body
-and senses created by Himself, to act in accordance with their Gunas of
-Sattva and others. It was already expressed in 'And I am seated in the
-hearts of all. From Me are memory, knowledge and their removal also'
-(15.15) and in 'From Me proceed everything' (10.8). The Srutis also
-proclaim 'He who, dwelling in the self' (Br. U. Madh., 3.7.22). He now
-explains the way to get rid of the Maya:
+18.61 Lord Vasudeva, who is the ruler over all, lives in 'the heart of all beings,' i.e., in the region from which arises all knowledge which is at the root of all secular and spiritual activities. How and doing what does He exist; He exists enabling, by His Maya (power), 'all beings who are mounted, as it were, on the machine Prakrti' in the form of body and senses created by Himself, to act in accordance with their Gunas of Sattva and others. It was already expressed in 'And I am seated in the hearts of all. From Me are memory, knowledge and their removal also'
+(15.15) and in 'From Me proceed everything' (10.8). The Srutis also proclaim 'He who, dwelling in the self' (Br. U. Madh., 3.7.22). He now explains the way to get rid of the Maya:
 
 </details>
 </div>
@@ -503,48 +494,36 @@ mounted on a \[revolving\] mechanical contrivance.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.61 O Arjuna, the Lord resides in the region of the heart of all
-creatures, revolving through Maya all the creatures (as though) mounted
-on a machine!
+18.61 O Arjuna, the Lord resides in the region of the heart of all creatures, revolving through Maya all the creatures (as though) mounted on a machine!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.61 God dwells in the hearts of all beings, O Arjuna! He causes them
-to revolve as it were on a wheel by His mystic power.
+18.61 God dwells in the hearts of all beings, O Arjuna! He causes them to revolve as it were on a wheel by His mystic power.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.61 The Lord, O Arjuna, abides in the heart of every being, spinning
-them round and round, mounted on a wheel as it were, by His power.
+18.61 The Lord, O Arjuna, abides in the heart of every being, spinning them round and round, mounted on a wheel as it were, by His power.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.61 The Lord dwells in the hearts of all beings, O Arjuna, causing all
-beings, by His illusive power, to revolve as if mounted on a machine.
+18.61 The Lord dwells in the hearts of all beings, O Arjuna, causing all beings, by His illusive power, to revolve as if mounted on a machine.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/61_IshvaraH_sarvabhU.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.61 ईश्वरः the Lord; सर्वभूतानाम् of all beings; हृद्देशे in the
-hearts; अर्जुन O Arjuna; तिष्ठति dwells; भ्रामयन् causing to revolve;
-सर्वभूतानि all beings; यन्त्रारूढानि mounted on a machine; मायया by
-illusion.Commentary Isvara The Lord the Ruler of the universe
-Narayana.The Lord abides in the hearts of all beings. It is He Who has
-given a gift of this marvellous machine to you. It is by His power that
-all bodies move. The Lord is the real Actor within.By Maya By causing
-illusion.He causes all beings to revolve like wooden dolls mounted on a
-machine. (Cf.X.20.XIII.18)
+18.61 ईश्वरः the Lord; सर्वभूतानाम् of all beings; हृद्देशे in the hearts; अर्जुन O Arjuna; तिष्ठति dwells; भ्रामयन् causing to revolve;
+सर्वभूतानि all beings; यन्त्रारूढानि mounted on a machine; मायया by illusion.Commentary Isvara The Lord the Ruler of the universe Narayana.The Lord abides in the hearts of all beings. It is He Who has given a gift of this marvellous machine to you. It is by His power that all bodies move. The Lord is the real Actor within.By Maya By causing illusion.He causes all beings to revolve like wooden dolls mounted on a machine. (Cf.X.20.XIII.18)
 
 </details>
 </div>

@@ -51,11 +51,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.23 Beholding Your mighty form, as described earlier, which is an
-exceedingly terrifying figure because of the large teeth - all the
-worlds, described earlier and containing three kinds of beings,
-friendly, antagonistic and neutral, and I myself too have become
-panic-stricken.
+11.23 Beholding Your mighty form, as described earlier, which is an exceedingly terrifying figure because of the large teeth - all the worlds, described earlier and containing three kinds of beings,
+friendly, antagonistic and neutral, and I myself too have become panic-stricken.
 
 </details>
 </div>
@@ -277,19 +274,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.23. O Mighty-armed One ! Having seen Your mighty form that has many
-faces and eyes, many arms, thighs and feet, and many bellies, and is
-terrible with many tusks; the worlds are frightened and so also myself.
+11.23. O Mighty-armed One ! Having seen Your mighty form that has many faces and eyes, many arms, thighs and feet, and many bellies, and is terrible with many tusks; the worlds are frightened and so also myself.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.23 O mighty-armed One, seeing Your immense form with many mouths and
-eyes, having numerous arms, thighs and feet, with many bellies, and
-fearful with many teeth, the creatures are struck with terror, and so am
-I.
+11.23 O mighty-armed One, seeing Your immense form with many mouths and eyes, having numerous arms, thighs and feet, with many bellies, and fearful with many teeth, the creatures are struck with terror, and so am I.
 
 </details>
 </div>
@@ -297,40 +289,29 @@ I.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 11.23 Seeing Thy stupendous Form, O Most Mighty, with its myriad faces,
-its innumerable eyes and limbs and terrible jaws, I myself and all the
-worlds are overwhelmed with awe.
+its innumerable eyes and limbs and terrible jaws, I myself and all the worlds are overwhelmed with awe.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.23 Beholding Your great form with many mouths and eyes, with many
-arms, thights, and feet, witth many stomachs and terrible with many
-teeth, the worlds tremble, and I too ake, O mighty-armed.
+11.23 Beholding Your great form with many mouths and eyes, with many arms, thights, and feet, witth many stomachs and terrible with many teeth, the worlds tremble, and I too ake, O mighty-armed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.23 Having seen Thy immeasurable form with many mouths and eyes, O
-mighty-armed, with many arms, thighs and feet, with many stomachs and
-fearful with many teeth the worlds are terrified and so am I.
+11.23 Having seen Thy immeasurable form with many mouths and eyes, O mighty-armed, with many arms, thighs and feet, with many stomachs and fearful with many teeth the worlds are terrified and so am I.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/23_rUpam_mahatte.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-11.23 रूपम् form; महत् immeasurable; ते Thy; बहुवक्त्रनेत्रम् with many
-mouths and eyes; महाबाहो O,mightyarmed; बहुबाहूरुपादम् with many arms;
-thighs and feet; बहूदरम् with many stomachs. बहुदंष्ट्राकरालम् fearful
-with many teeth; दृष्ट्वा having seen; लोकाः the worlds; प्रव्यथिताः are
-terrified; तथा also; अहम् I.Commentary Lokah The worlds -- all living
-beings in the world. Here is the cause of my fear. Arjuna describes
-below the nature of the Cosmic Form which has caused terror in his
-heart.
+11.23 रूपम् form; महत् immeasurable; ते Thy; बहुवक्त्रनेत्रम् with many mouths and eyes; महाबाहो O,mightyarmed; बहुबाहूरुपादम् with many arms;
+thighs and feet; बहूदरम् with many stomachs. बहुदंष्ट्राकरालम् fearful with many teeth; दृष्ट्वा having seen; लोकाः the worlds; प्रव्यथिताः are terrified; तथा also; अहम् I.Commentary Lokah The worlds -- all living beings in the world. Here is the cause of my fear. Arjuna describes below the nature of the Cosmic Form which has caused terror in his heart.
 
 </details>
 </div>

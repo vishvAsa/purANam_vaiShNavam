@@ -81,17 +81,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.17 Know that the self in its essential nature is imperishable. The
-whole of insentient matter, which is different (from the self), is
-pervaded by the self. Because of pervasiveness and extreme subtlety, the
-self cannot be destroyed; for every entity other than the self is
-capable of being pervaded by the self, and hence they are grosser than
-It. Destructive agents like weapons, water, wind, fire etc., pervade the
-substances to be destroyed and disintegrate them. Even hammers and such
-other instruments rouse wind through violent contact with the objects
-and thery destroy their objects. So, the essential nature of the self
-being subtler than anything else, It is imperishable. (The Lord) now
-says that the bodies are perishable:
+2.17 Know that the self in its essential nature is imperishable. The whole of insentient matter, which is different (from the self), is pervaded by the self. Because of pervasiveness and extreme subtlety, the self cannot be destroyed; for every entity other than the self is capable of being pervaded by the self, and hence they are grosser than It. Destructive agents like weapons, water, wind, fire etc., pervade the substances to be destroyed and disintegrate them. Even hammers and such other instruments rouse wind through violent contact with the objects and thery destroy their objects. So, the essential nature of the self being subtler than anything else, It is imperishable. (The Lord) now says that the bodies are perishable:
 
 </details>
 </div>
@@ -557,8 +547,7 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 2.17. And know That to be destructionsless, by Which all this (universe)
-is pervaded; no one is capable of causing destruction to this changeless
-One.
+is pervaded; no one is capable of causing destruction to this changeless One.
 
 </details>
 </div>
@@ -581,16 +570,14 @@ Nothing can destroy the Spirit.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.17 Know That to be indestructible by which all this is pervaded. None
-can cause the destruction of This Immutable.
+2.17 Know That to be indestructible by which all this is pervaded. None can cause the destruction of This Immutable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/17_avinAshi_tu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.17 Know that to be indestructible, by Which all this is pervaded. None
-can cause the destruction of That, the Imperishable.
+2.17 Know that to be indestructible, by Which all this is pervaded. None can cause the destruction of That, the Imperishable.
 
 </details>
 </div>
@@ -608,16 +595,7 @@ can cause the destruction of That, the Imperishable.
 2.17 अविनाशि indestructible; तु indeed; तत् That; विद्धि know (thou);
 येन by which; सर्वम् all; इदम् this; ततम् is pervaded; विनाशम्
 destruction; अव्ययस्य अस्य of this Imperishable; न not; कश्चित् anyone;
-कर्तुम् to do; अर्हति is able.Commentary -- Brahman or Atman pervades
-all the objects like ether. Even if the pot is broken; the ether that is
-within and without the pot cannot be destroyed. Even so; if the bodies
-and all other objects perish; Brahman or the Self that pervades them
-cannot perish. It is the living Truth; Sat.Brahman has no parts. There
-cannot be either increase or diminution in Brahman. People are ruined by
-loss of wealth. But Brahman does not suffer any loss in that way. It is
-inexhaustible. Therefore; none can bring about the disappearance or
-destruction of the Self. It always exists. It is always allfull and
-selfcontained. It is Existence Absolute. It is immutable.
+कर्तुम् to do; अर्हति is able.Commentary -- Brahman or Atman pervades all the objects like ether. Even if the pot is broken; the ether that is within and without the pot cannot be destroyed. Even so; if the bodies and all other objects perish; Brahman or the Self that pervades them cannot perish. It is the living Truth; Sat.Brahman has no parts. There cannot be either increase or diminution in Brahman. People are ruined by loss of wealth. But Brahman does not suffer any loss in that way. It is inexhaustible. Therefore; none can bring about the disappearance or destruction of the Self. It always exists. It is always allfull and selfcontained. It is Existence Absolute. It is immutable.
 
 
 </details>

@@ -103,25 +103,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.4 This 'entire universe,' composed to sentient and non-sentient
-beings, is pervaded by Me, the inner controller, whose 'form is not
-manifest,' namely, whose essential nature is unmanifest. The meaning is
-that all this is pervaded by Me, the Principal (Sesi), so that I may
-sustain and rule this universe. This, the pervasion of all by the inner
-controller, who is invisible to the entire group of sentient and
-non-sentient beings, is taught in the following passage of the
-Antaryami-brahmana: 'He who dwells in the earth ৷৷. whom the earth 'does
-not know' (Br. U., 3.7.3) and 'He who dwells in the self ৷৷. whom the
-self does not know etc.,' (Br. U. Madh., 3.7.22). Therefore 'all beings
-abide in Me'; all beings rest in Me who am their inner controller. In
-the same Brahmana it is taught that their existence and control are
-dependent on Him, as they are subject to His control and as they
-constitute His body: 'He whose body is the earth ৷৷. who controls the
-earth from within' (Br. U., 3.7.3) and 'He whose body is the self ৷৷. He
-who controls the self from within' (Br. U. Madh., 3.7.22). So also His
-primacy over everything is taught. 'I am not in them,' namely, I do not
-'depend' on them for My existence. There is no help derived from them
-for My existence.
+9.4 This 'entire universe,' composed to sentient and non-sentient beings, is pervaded by Me, the inner controller, whose 'form is not manifest,' namely, whose essential nature is unmanifest. The meaning is that all this is pervaded by Me, the Principal (Sesi), so that I may sustain and rule this universe. This, the pervasion of all by the inner controller, who is invisible to the entire group of sentient and non-sentient beings, is taught in the following passage of the Antaryami-brahmana: 'He who dwells in the earth ৷৷. whom the earth 'does not know' (Br. U., 3.7.3) and 'He who dwells in the self ৷৷. whom the self does not know etc.,' (Br. U. Madh., 3.7.22). Therefore 'all beings abide in Me'; all beings rest in Me who am their inner controller. In the same Brahmana it is taught that their existence and control are dependent on Him, as they are subject to His control and as they constitute His body: 'He whose body is the earth ৷৷. who controls the earth from within' (Br. U., 3.7.3) and 'He whose body is the self ৷৷. He who controls the self from within' (Br. U. Madh., 3.7.22). So also His primacy over everything is taught. 'I am not in them,' namely, I do not
+'depend' on them for My existence. There is no help derived from them for My existence.
 
 </details>
 </div>
@@ -628,32 +611,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.4 This whole world is prevaded by Me in My unmanifest form. All beings
-exist in Me, but I am not contained in them!
+9.4 This whole world is prevaded by Me in My unmanifest form. All beings exist in Me, but I am not contained in them!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.4 The whole world is pervaded by Me, yet My form is not seen. All
-living things have their being in Me, yet I am not limited by them.
+9.4 The whole world is pervaded by Me, yet My form is not seen. All living things have their being in Me, yet I am not limited by them.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.4 This entire universe is pervaded by Me, in an unmanifest form. All
-beings abide in Me, but I do not abide in them.
+9.4 This entire universe is pervaded by Me, in an unmanifest form. All beings abide in Me, but I do not abide in them.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/04_mayA_tatamidam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.4 All this world is pervaded by Me in My unmanifest aspect; all beings
-exist in Me, but I do not dwell in them.
+9.4 All this world is pervaded by Me in My unmanifest aspect; all beings exist in Me, but I do not dwell in them.
 
 </details>
 </div>
@@ -663,33 +642,9 @@ exist in Me, but I do not dwell in them.
 9.4 मया by Me; ततम् pervaded; इदम् this; सर्वम् all; जगत् world;
 अव्यक्तमूर्तिना by the unmanifested form; मत्स्थानि exist in Me;
 सर्वभूतानि all beings; न not; च and; अहम् I; तेषु in them; अवस्थितः
-placed.Commentary Avyaktamurti is Para Brahman or the Supreme
-Unmanifested Being invisible to the senses but cognisable through
-intuition. All beings from Brahma; the Creator; down to the blade of
-grass or an ant; dwell in the transcendental Para Brahman. They have no
-independent existence they exist through the Self which is the support
-for everythin; which underlies them all.Nothing here contains It. As
-Brahman is the Self of all beings; one may imagine that It dwells in
-them. But it is not so. How could it be How can the Infinite be
-contained in a finite object Brahman has no connection or contact with
-any material object; just as a chair or a table has contact with the
-ground or a man or a book. So It does not dwell in those beings. That
-which has no connection or contact with objects or beings cannot be
-contained anywhere as if in a vessel; trunk; room or receptacle. The
-Self is not rooted in all these forms. It is not contained by any of
-these forms just as the ether is not contained in any form though all
-forms are derived from the ether.All beings appear to be living in
-Brahman; but this is an illusion. If this illusion vanishes; nothing
-remains anywhere except Brahman. When ignorance; the cause of this
-illusion; disappears; the very idea of the existence of these beings
-also will vanish.In verses 4 and 5 the Lord uses a paradox or an
-apparent contradiction All beings dwell in Me and yet do not dwell in Me
-I do not dwell in them. For a thinker there is no real contradiction at
-all. Just as space contains all beings and yet is not touched by them;
+placed.Commentary Avyaktamurti is Para Brahman or the Supreme Unmanifested Being invisible to the senses but cognisable through intuition. All beings from Brahma; the Creator; down to the blade of grass or an ant; dwell in the transcendental Para Brahman. They have no independent existence they exist through the Self which is the support for everythin; which underlies them all.Nothing here contains It. As Brahman is the Self of all beings; one may imagine that It dwells in them. But it is not so. How could it be How can the Infinite be contained in a finite object Brahman has no connection or contact with any material object; just as a chair or a table has contact with the ground or a man or a book. So It does not dwell in those beings. That which has no connection or contact with objects or beings cannot be contained anywhere as if in a vessel; trunk; room or receptacle. The Self is not rooted in all these forms. It is not contained by any of these forms just as the ether is not contained in any form though all forms are derived from the ether.All beings appear to be living in Brahman; but this is an illusion. If this illusion vanishes; nothing remains anywhere except Brahman. When ignorance; the cause of this illusion; disappears; the very idea of the existence of these beings also will vanish.In verses 4 and 5 the Lord uses a paradox or an apparent contradiction All beings dwell in Me and yet do not dwell in Me I do not dwell in them. For a thinker there is no real contradiction at all. Just as space contains all beings and yet is not touched by them;
 so also Para Brahman contains everything and yet is not touched by them.
-Even Mulaprakriti; the source or womb of this world; is supported by
-Brahman. Brahman has no support or root. It rests in Its own pristine
-glory. (Cf.VII.12;24VIII.22)
+Even Mulaprakriti; the source or womb of this world; is supported by Brahman. Brahman has no support or root. It rests in Its own pristine glory. (Cf.VII.12;24VIII.22)
 
 </details>
 </div>

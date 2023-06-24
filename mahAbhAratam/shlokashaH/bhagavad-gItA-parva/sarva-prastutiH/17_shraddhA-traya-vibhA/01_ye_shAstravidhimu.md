@@ -91,15 +91,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.1 Arjuna said Those who, 'filled with faith but laying aside the
-injunctions of the Sastras,' engage themselves in sacrifices etc., what
-is their 'position or basis'; It is Sattva, Rajas or Tamas; Nistha means
-Sthiti. What is called Sthiti is that state in which one abides, has
-one's position or basis. Do they abide in Sattva, in Rajas or in Tamas;
-Such is the meaning of the estion. Thus estioned, the Lord, for
-affirming the futility of faith and of sacrifices not enjoined in the
-Sastras, and in order to show that the triple division in accordance
-with the Gunas refers only to sacrifices etc., enjoined in the Sastras -
+17.1 Arjuna said Those who, 'filled with faith but laying aside the injunctions of the Sastras,' engage themselves in sacrifices etc., what is their 'position or basis'; It is Sattva, Rajas or Tamas; Nistha means Sthiti. What is called Sthiti is that state in which one abides, has one's position or basis. Do they abide in Sattva, in Rajas or in Tamas;
+Such is the meaning of the estion. Thus estioned, the Lord, for affirming the futility of faith and of sacrifices not enjoined in the Sastras, and in order to show that the triple division in accordance with the Gunas refers only to sacrifices etc., enjoined in the Sastras -
 expounds here the threefold nature of faith enjoined in the Sastras:
 
 </details>
@@ -550,48 +543,36 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.1. Arjuna said Those who remain with faith, but neglecting the
-scriptural injunction, - what is their state ; Is it Sattva, Rajas or
-Tamas ; O Krsna !
+17.1. Arjuna said Those who remain with faith, but neglecting the scriptural injunction, - what is their state ; Is it Sattva, Rajas or Tamas ; O Krsna !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.1 Arjuna said But, \['But' is used to present a standpoint distinct
-from the earlier ones understand from 16.23-4.-S.\] O Krsna, what is the
-state \[i.e., where do the rites undertaken by them end;\] of those who,
-endued with faith, adore \[Adore-perform sacrifices, distribute wealth
-etc. in honour of gods and others.\] by ignoring the injunctions of the
-scriptures; Is it sattva, rajas or tamas;
+17.1 Arjuna said But, \['But' is used to present a standpoint distinct from the earlier ones understand from 16.23-4.-S.\] O Krsna, what is the state \[i.e., where do the rites undertaken by them end;\] of those who,
+endued with faith, adore \[Adore-perform sacrifices, distribute wealth etc. in honour of gods and others.\] by ignoring the injunctions of the scriptures; Is it sattva, rajas or tamas;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.1 "Arjuna asked: My Lord! Those who do acts of sacrifice, not
-according to the scriptures but nevertheless with implicit faith, what
-is their condition; Is it one of Purity, of Passion or of Ignorance;
+17.1 "Arjuna asked: My Lord! Those who do acts of sacrifice, not according to the scriptures but nevertheless with implicit faith, what is their condition; Is it one of Purity, of Passion or of Ignorance;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.1 Arjuna said Now what, O Krsna, is the position or basis of those
-who leave aside the injunction of the Sastra, yet worship with faith; Is
-it Sattva, Rajas or Tamas;
+17.1 Arjuna said Now what, O Krsna, is the position or basis of those who leave aside the injunction of the Sastra, yet worship with faith; Is it Sattva, Rajas or Tamas;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/01_ye_shAstravidhimu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-17.1 Arjuna said Those who, setting aside the ordinances of the
-scriptures, perform sacrifice with faith, what is their condition, O
-Krishna; Is is Sattva, Rajas or Tamas;
+17.1 Arjuna said Those who, setting aside the ordinances of the scriptures, perform sacrifice with faith, what is their condition, O Krishna; Is is Sattva, Rajas or Tamas;
 
 </details>
 </div>
@@ -602,27 +583,11 @@ Krishna; Is is Sattva, Rajas or Tamas;
   
 17.1 ये who; शास्त्रविधिम् the ordinances of the scriptures; उत्सृज्य
 setting aside; यजन्ते perform sacrifice; श्रद्धया with faith; अन्विताः
-endowed; तेषाम् their; निष्ठा condition; तु verily; का what; कृष्ण O
-Krishna; सत्त्वम् Sattva; आहो or; रजः Rajas; तमः Tamas.Commentary This
-chapter deals with the three kinds of people who are endowed with three
-kinds of faith. Each of them follows a path in accordance with his
-inherent nature -- either Sattvic; Rajasic or Tamasic.Arjuna says to
-Krishna It is very difficult to grasp the meaning of the scriptures. It
-is still more difficult to get a spiritual preceptor who can teach the
-scriptures. The vast majority of persons are not endowed with a pure;
-subtle; sharp and onepointed intellect. The span of life is short. The
-scriptures are endless. The obstacles on the spiritual path are many.
-Facilities for learning are not always available.There are conflicting
-statements in the scriptures which have to be reconciled. Thou hast said
-that liberation is not possible without a knowledge of the scriptures.
+endowed; तेषाम् their; निष्ठा condition; तु verily; का what; कृष्ण O Krishna; सत्त्वम् Sattva; आहो or; रजः Rajas; तमः Tamas.Commentary This chapter deals with the three kinds of people who are endowed with three kinds of faith. Each of them follows a path in accordance with his inherent nature -- either Sattvic; Rajasic or Tamasic.Arjuna says to Krishna It is very difficult to grasp the meaning of the scriptures. It is still more difficult to get a spiritual preceptor who can teach the scriptures. The vast majority of persons are not endowed with a pure;
+subtle; sharp and onepointed intellect. The span of life is short. The scriptures are endless. The obstacles on the spiritual path are many.
+Facilities for learning are not always available.There are conflicting statements in the scriptures which have to be reconciled. Thou hast said that liberation is not possible without a knowledge of the scriptures.
 An ordinary man; though ignorant of or unable to follow this teaching;
-does charity; performs rituals; worships the Lord with faith; tries to
-follow the footsteps of sages and saints just as a child copies letters
-that have been written out for him as a model; or as a blind man makes
-hiw way by the aid of another who possesses sight. What faith is his How
-should the state of such a man be described -- Sattvic; Rajasic or
-Tamasic What is the fate of the believers who have no knowledge of the
-scriptures
+does charity; performs rituals; worships the Lord with faith; tries to follow the footsteps of sages and saints just as a child copies letters that have been written out for him as a model; or as a blind man makes hiw way by the aid of another who possesses sight. What faith is his How should the state of such a man be described -- Sattvic; Rajasic or Tamasic What is the fate of the believers who have no knowledge of the scriptures
 
 </details>
 </div>

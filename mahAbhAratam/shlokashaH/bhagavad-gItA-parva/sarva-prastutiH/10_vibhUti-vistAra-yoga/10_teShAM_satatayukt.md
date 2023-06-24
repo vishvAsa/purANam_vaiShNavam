@@ -54,10 +54,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.10 To those 'ceaselessly united with Me,' namely, those who desire
-ceaseless union with Me, and who are worshipping Me, I grant with love,
-that same 'Buddhi-yoga' or devotional attitude of a mature state. By
-that they come to Me. Likewise:
+10.10 To those 'ceaselessly united with Me,' namely, those who desire ceaseless union with Me, and who are worshipping Me, I grant with love,
+that same 'Buddhi-yoga' or devotional attitude of a mature state. By that they come to Me. Likewise:
 
 </details>
 </div>
@@ -346,33 +344,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.10. To these persons, who are \[thus\] mingling \[with Me\] and
-revere \[Me\] with love, I grant that knowledge-Yoga by means of which
-they reach Me.
+10.10. To these persons, who are \[thus\] mingling \[with Me\] and revere \[Me\] with love, I grant that knowledge-Yoga by means of which they reach Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.10 To them who are ever devoted and worship Me with love, I grant
-that possession of wisdom by which they reach Me.
+10.10 To them who are ever devoted and worship Me with love, I grant that possession of wisdom by which they reach Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.10 To those who are always devout and who worship Me with love, I
-give the power of discrimination, which leads them to Me.
+10.10 To those who are always devout and who worship Me with love, I give the power of discrimination, which leads them to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.10 To those, who are ceaselessly united with Me and who worship Me
-with immense love, I lovingly grant that mental disposition
+10.10 To those, who are ceaselessly united with Me and who worship Me with immense love, I lovingly grant that mental disposition
 (Buddhi-yoga) by which they come to Me.
 
 </details>
@@ -380,8 +373,7 @@ with immense love, I lovingly grant that mental disposition
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/10_teShAM_satatayukt.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.10 To them who are ever steadfast, worshipping Me with love, I give
-the Yoga of discrimination by which they come to Me.
+10.10 To them who are ever steadfast, worshipping Me with love, I give the Yoga of discrimination by which they come to Me.
 
 </details>
 </div>
@@ -389,23 +381,11 @@ the Yoga of discrimination by which they come to Me.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 10.10 तेषाम् to them; सततयुक्तानाम् ever steadfast; भजताम् (of the)
-worshipping; प्रीतिपूर्वकम् with love; ददामि (I) give; बुद्धियोगम् Yoga
-of discrimination; तम् that; येन by which; माम् to Me; उपयान्ति come; ते
+worshipping; प्रीतिपूर्वकम् with love; ददामि (I) give; बुद्धियोगम् Yoga of discrimination; तम् that; येन by which; माम् to Me; उपयान्ति come; ते
 they.Commentary The devotees who have dedicated themselves to the Lord;
-who are ever harmonious and selfabiding; who are ever devout and who
-adore Him with intense love (not for attaining any selfish purpose);
-obtain the divine grace. The Lord gives them wisdom or the Yoga of
-discrimination or understanding by which they attain the knowledge of
-the Self. The Lord bestows on these devotees who have fixed their
-thoughts on Him alone; devotion of right knowledge. (Buddhi Yoga) by
-which they know Him in essence. They know through the eye of intuition
-in deep meditaion the Supreme Lord; the One in all; the Self of all; as
-their own Self; destitue of all limitations. Buddhi here is the inner
-eye of intuition by which the magnificent experience of oneness is had.
-Buddhi Yoga is Jnana Yoga. (Cf.IV.39XII.6and7)Why does the Lord impart
-this Yoga of knowledge to His devotees What obstacles does the Buddhi
-Yoga remove on the path of the aspirant or devotee The Lord gives the
-answer in the following verse.
+who are ever harmonious and selfabiding; who are ever devout and who adore Him with intense love (not for attaining any selfish purpose);
+obtain the divine grace. The Lord gives them wisdom or the Yoga of discrimination or understanding by which they attain the knowledge of the Self. The Lord bestows on these devotees who have fixed their thoughts on Him alone; devotion of right knowledge. (Buddhi Yoga) by which they know Him in essence. They know through the eye of intuition in deep meditaion the Supreme Lord; the One in all; the Self of all; as their own Self; destitue of all limitations. Buddhi here is the inner eye of intuition by which the magnificent experience of oneness is had.
+Buddhi Yoga is Jnana Yoga. (Cf.IV.39XII.6and7)Why does the Lord impart this Yoga of knowledge to His devotees What obstacles does the Buddhi Yoga remove on the path of the aspirant or devotee The Lord gives the answer in the following verse.
 
 </details>
 </div>

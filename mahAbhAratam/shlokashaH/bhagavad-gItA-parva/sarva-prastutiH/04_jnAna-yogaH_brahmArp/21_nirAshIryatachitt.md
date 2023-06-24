@@ -73,16 +73,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.21 'Free from desire' means having no attachment to the fruits of
-actions. 'His intellect and mind controlled' means one whose intellect
-and mind are under control. 'Giving up all possessions' means one who,
-on account of his having the self as his primary objective, is devoid of
-the sense of ownership in relation to Prakrti and its derivatives. One
-who is thus engaged in bodily work alone as long as he lives, does not
-incur any sin, i.e., does not get engrossed in Samsara. He gets the
-vision of the self by Karma Yoga of this kind itself, and need not
-resort to any exlusive practice of Jnana Yoga in between liberation and
-the practice of Karma Yoga of the alone description.
+4.21 'Free from desire' means having no attachment to the fruits of actions. 'His intellect and mind controlled' means one whose intellect and mind are under control. 'Giving up all possessions' means one who,
+on account of his having the self as his primary objective, is devoid of the sense of ownership in relation to Prakrti and its derivatives. One who is thus engaged in bodily work alone as long as he lives, does not incur any sin, i.e., does not get engrossed in Samsara. He gets the vision of the self by Karma Yoga of this kind itself, and need not resort to any exlusive practice of Jnana Yoga in between liberation and the practice of Karma Yoga of the alone description.
 
 </details>
 </div>
@@ -544,59 +536,45 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 4.21. Being rid of cravings, having mind and self (body) all controlled,
-abandoning all sense of possession, and performing exclusively bodily
-action, he does not incur any sin.
+abandoning all sense of possession, and performing exclusively bodily action, he does not incur any sin.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.21 One who is without solicitation, who has the mind and organs under
-control, (and) is totally without possessions, he incurs no sin by
-performing actions merely for the (maintenance of the) body.
+4.21 One who is without solicitation, who has the mind and organs under control, (and) is totally without possessions, he incurs no sin by performing actions merely for the (maintenance of the) body.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.21 Expecting nothing, his mind and personality controlled, without
-greed, doing bodily actions only; though he acts, yet he remains
-untainted.
+4.21 Expecting nothing, his mind and personality controlled, without greed, doing bodily actions only; though he acts, yet he remains untainted.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.21 Free from desire, his intellect and mind controlled, giving up all
-possessions, and doing bodily work only, he is not subject to evil:
+4.21 Free from desire, his intellect and mind controlled, giving up all possessions, and doing bodily work only, he is not subject to evil:
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.21 Without hope and with the mind and the self controlled, having
-abandoned all covetousness, doing mere bodily action, he incurs no sin.
+4.21 Without hope and with the mind and the self controlled, having abandoned all covetousness, doing mere bodily action, he incurs no sin.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/04_jnAna-yogaH_brahmArp/21_nirAshIryatachitt.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-4.21 निराशीः without hope; यतचित्तात्मा one with the mind and self
-controlled; त्यक्तसर्वपरिग्रहः having abandoned all covetousness;
+4.21 निराशीः without hope; यतचित्तात्मा one with the mind and self controlled; त्यक्तसर्वपरिग्रहः having abandoned all covetousness;
 शारीरम् bodily; केवलम् merely; कर्म action; कुर्वन् doing; न not;
-आप्नोति obtains; किल्बिषम् sin.Commentary The liberated sage renounces
-all actions except what is necessary for the bare maintenance of the
-body. He has abandoned all possessions. He incurs no sin which will
-cause evil effects. For a man who thirsts for liberation (Mumukshu) even
-righteous activity (Dharma) is a sin as it causes bondage to Samsara.
-Dharma is a golden fetter for him. A golden fetter is also a fetter. A
-sage is liberated from both Dharma and Adharma; good and evil or virtue
-and vice. (Cf.III.7)
+आप्नोति obtains; किल्बिषम् sin.Commentary The liberated sage renounces all actions except what is necessary for the bare maintenance of the body. He has abandoned all possessions. He incurs no sin which will cause evil effects. For a man who thirsts for liberation (Mumukshu) even righteous activity (Dharma) is a sin as it causes bondage to Samsara.
+Dharma is a golden fetter for him. A golden fetter is also a fetter. A sage is liberated from both Dharma and Adharma; good and evil or virtue and vice. (Cf.III.7)
 
 </details>
 </div>

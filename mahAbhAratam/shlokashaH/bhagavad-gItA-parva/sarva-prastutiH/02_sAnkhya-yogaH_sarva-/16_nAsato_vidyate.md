@@ -142,41 +142,15 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.16 'The unreal,' that is, the body, can never come into being. 'The
-real,' that is, the self, can never cease to be. The finale about these,
-the body and the self, which can be experienced, has been realised
-correctly by the seers of the Truth. As analyis ends in conclusion, the
-term 'finale' is here used. The meaning is this: Non-existence (i.e.,
-perishableness) is the real nature of the body which is in itself
-insentient. Existence (i.e., imperishableness) is the real nature of the
-self, which is sentient. \[What follows is the justification of
-describing the body as 'unreal' and as having 'never come into being.'\]
-Non-existence has, indeed, the nature of perishableness, and existence
-has the nature of imperishableness, as Bhagavan Parasara has said: 'O
-Brahmana, apart from conscious entity there does not exist any group of
-things anywhere and at any time. Thus have I taught you what is real
-existence - how conscious entity is real, and all else is unreal' (V.
-P., 2.12.43 - 45). 'The Supreme Reality is considered as imperishable by
-the wise. There is no doubt that what can be obtained from a perishable
-substance is also perishable' (Ibid., 2.14.24). 'That entity which even
-by a change in time cannot come to possess a difference through
-modification etc., is real. What is that entity, O King; (It is the self
-who retains Its knowledge)' (Ibid., 2.13.100). It is said here also:
-'These bodies ৷৷. are said to have an end' (2.18) and 'Know That (the
-Atman) to be indestructible' (2.17). It is seen from this that this
-(i.e., perishableness of the body and imperishableness of the self) is
-the reason for the designating the Atman as 'existence' (Sattva) and
-body as 'non-existence' (Asvattva). This verse has no reference to the
-doctrine of Satkaryavada (i.e., the theory that effects are present in
-the cause), as such a theory has no relevance here. Arjuna is deluded
-about the true nature of the body and the self; so what ought to be
-taught to him in order to remove his delusion, is discrimination between
-these two - what is alified by perishablenss and what, by
-imperishableness. This (declaration) is introduced in the following way:
-'For the dead, or for the living' (2.11). Again this poin is made clear
-immediately (by the words), 'Know that to be indestructible ৷৷.' (2.17)
-and 'These bodies ৷৷. are said to have an end' (2.18). How the
-imperishableness of the self is to be understood, Sri Krsna now teaches:
+2.16 'The unreal,' that is, the body, can never come into being. 'The real,' that is, the self, can never cease to be. The finale about these,
+the body and the self, which can be experienced, has been realised correctly by the seers of the Truth. As analyis ends in conclusion, the term 'finale' is here used. The meaning is this: Non-existence (i.e.,
+perishableness) is the real nature of the body which is in itself insentient. Existence (i.e., imperishableness) is the real nature of the self, which is sentient. \[What follows is the justification of describing the body as 'unreal' and as having 'never come into being.'\]
+Non-existence has, indeed, the nature of perishableness, and existence has the nature of imperishableness, as Bhagavan Parasara has said: 'O Brahmana, apart from conscious entity there does not exist any group of things anywhere and at any time. Thus have I taught you what is real existence - how conscious entity is real, and all else is unreal' (V.
+P., 2.12.43 - 45). 'The Supreme Reality is considered as imperishable by the wise. There is no doubt that what can be obtained from a perishable substance is also perishable' (Ibid., 2.14.24). 'That entity which even by a change in time cannot come to possess a difference through modification etc., is real. What is that entity, O King; (It is the self who retains Its knowledge)' (Ibid., 2.13.100). It is said here also:
+'These bodies ৷৷. are said to have an end' (2.18) and 'Know That (the Atman) to be indestructible' (2.17). It is seen from this that this
+(i.e., perishableness of the body and imperishableness of the self) is the reason for the designating the Atman as 'existence' (Sattva) and body as 'non-existence' (Asvattva). This verse has no reference to the doctrine of Satkaryavada (i.e., the theory that effects are present in the cause), as such a theory has no relevance here. Arjuna is deluded about the true nature of the body and the self; so what ought to be taught to him in order to remove his delusion, is discrimination between these two - what is alified by perishablenss and what, by imperishableness. This (declaration) is introduced in the following way:
+'For the dead, or for the living' (2.11). Again this poin is made clear immediately (by the words), 'Know that to be indestructible ৷৷.' (2.17)
+and 'These bodies ৷৷. are said to have an end' (2.18). How the imperishableness of the self is to be understood, Sri Krsna now teaches:
 
 </details>
 </div>
@@ -1090,26 +1064,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.16. Birth (or existence) does not happen to what is non-existent, and
-destruction (or non-existence) to what is existent; the finality of
-these two has been seen by the seers of the reality.
+2.16. Birth (or existence) does not happen to what is non-existent, and destruction (or non-existence) to what is existent; the finality of these two has been seen by the seers of the reality.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.16 Of the unreal there is no being; the real has no nonexistence. But
-the nature of both these, indeed, has been realized by the seers of
-Truth.
+2.16 Of the unreal there is no being; the real has no nonexistence. But the nature of both these, indeed, has been realized by the seers of Truth.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.16 That which is not, shall never be; that which is, shall never cease
-to be. To the wise, these truths are self-evident.
+2.16 That which is not, shall never be; that which is, shall never cease to be. To the wise, these truths are self-evident.
 
 </details>
 </div>
@@ -1124,9 +1093,7 @@ The conclusion about these two is seen by the seers of truth.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/16_nAsato_vidyate.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.16 The unreal hath no being; there is non-being of the real; the truth
-about both has been seen by the knowers of the Truth (or the seers of
-the Essence).
+2.16 The unreal hath no being; there is non-being of the real; the truth about both has been seen by the knowers of the Truth (or the seers of the Essence).
 
 </details>
 </div>
@@ -1135,19 +1102,10 @@ the Essence).
 
 2.16 न not; असतः of the unreal; विद्यते is; भावः being; न not; अभावः
 nonbeing; विद्यते is; सतः of the real; उभयोः of the two; अपि also;
-दृष्टः (has been) seen; अन्तः the final truth; तु indeed; अनयोः of
-these; तत्त्वदर्शिभिः by the knowers of the Truth.Commentary -- The
-changeless; homogeneous Atman or the Self always exists. It is the only
-solid Reality. This phenomenal world of names and forms is ever
-changing. Hence it is unreal. The sage or the Jivanmukta is fully aware
-that the Self always exists and that this world is like a mirage.
-Through his Jnanachakshus or the eye of intuition; he directly cognises
-the Self. This world vanishes for him like the snake in the rope; after
-it has been seen that only the rope exists. He rejects the names and
-forms and takes the underlying Essence in all the names and forms; viz.;
+दृष्टः (has been) seen; अन्तः the final truth; तु indeed; अनयोः of these; तत्त्वदर्शिभिः by the knowers of the Truth.Commentary -- The changeless; homogeneous Atman or the Self always exists. It is the only solid Reality. This phenomenal world of names and forms is ever changing. Hence it is unreal. The sage or the Jivanmukta is fully aware that the Self always exists and that this world is like a mirage.
+Through his Jnanachakshus or the eye of intuition; he directly cognises the Self. This world vanishes for him like the snake in the rope; after it has been seen that only the rope exists. He rejects the names and forms and takes the underlying Essence in all the names and forms; viz.;
 AstiBhatiPriya or Satchidananda or ExistenceKnowledgeBliss Absolute.
-Hence he is a Tattvadarshi or a knower of the Truth or the Essence.What
-is changing must be unreal. What is constant or permanent must be real.
+Hence he is a Tattvadarshi or a knower of the Truth or the Essence.What is changing must be unreal. What is constant or permanent must be real.
 
 </details>
 </div>

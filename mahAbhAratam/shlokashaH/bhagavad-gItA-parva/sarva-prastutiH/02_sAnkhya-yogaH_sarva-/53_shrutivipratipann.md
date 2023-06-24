@@ -37,24 +37,56 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.53।। नित्यात्मासङ्गकर्मेहागोचरा साङ्ख्ययोगधीः। द्वितीये स्थितधीलक्षा
+प्रोक्ता तन्मोहशान्तये गी.सं.6 इति सङ्ग्रहश्लोकमनुसन्दधानो
+ज्ञानयोगाभिधानोपक्रमभूतमुत्तरश्लोकमवतारयति योगे त्विति।
+बुद्धिविशेषोव्यवसायात्मिका 2।41 इत्यादिना पूर्वोक्तः। लक्षभूतं
+उद्देश्यभूतमित्यर्थः। श्रुतिविप्रतिपन्ना इत्यस्य
+प्रकृतानुपयुक्ताप्रकृतवैदिकवाक्यविरोधार्थताभ्रमंश्रोतव्यस्य श्रुतस्य च
+इति प्रकृतानुरोधेन व्युदस्यति श्रुतिः श्रवणमित्यादिना। अस्मत्त इति
+सार्वज्ञसर्वशक्तिपरमकारुण्यादिभिरनाघ्रातभ्रमविप्रलम्भप्रमादादिदोषगन्धात्
+अव्याजबन्धोरीश्वरादिति भावः। विशब्दस्य विरुद्धार्थताव्युदासाय
+वैशिष्ट्यार्थतामीश्वराच्छ्रवणेनसिद्धां दर्शयति विशेषत इति। स्थास्यतीति
+स्थायित्वं ह्युक्तम् विशेषं पूर्वोक्तं व्यनक्ति सकलेतरेति। अर्थेनैव
+विशेषो हि निराकारतया धियाम् सि.त्र. इति भावः। निश्चलाचलशब्दयोः
+पौनरुक्त्यपरिहारायोक्तंस्वयमित्यादि। उद्देश्यान्तर्गतमचलत्वम् निश्चलत्वं
+तु तत्र विधेयो विशेष इति स्वयंशब्दस्य भावः। एकरूपार्थविषयत्वादेकरूपा
+विषयान्तरसञ्चाररहिता चेत्यर्थः। अथवाश्रुतिविप्रतिपन्ना इति
+श्रवणस्योक्तत्वान्मननस्थिरीकृतत्वं कुतर्कैरकम्पनीयत्वं च पदाभ्यां
+विवक्षितम्। यद्वा पूर्वोक्तबहुशाखत्वानन्तत्वनिषेधपरोऽचलशब्द
+इत्यभिप्रायेणोक्तम् एकरूपेति। समाधीयते अस्मिन्नात्मज्ञानमिति समाधिर्मन
+इति निर्वचनेन तैलधारावदविच्छिन्नस्मृतिहेतुतामभिप्रयतोक्तंअसङ्गेत्यादि।
+योगशब्दस्यात्र
+ज्ञानयोगरूपनिश्चलबुद्धिसाध्यफलविषयत्वात्आत्मावलोकनमित्युक्तम्। समाधिशब्दस्यात्र
+बुद्धिविशेषपरत्वे पुनरुक्त्यादिः तत्कालपरत्वे तु लक्षणा च स्यादिति
+भावः। योगः सन्नहनोपायध्यानसङ्गतियुक्तिषु अमरः3।3।179 इत्यादिभिरनेकार्थतया
+प्रसिद्धोऽयं शब्दस्तत्तद्वाक्यानुकूलमनुसन्धेयः। ननूपायतया हि योगो विहितः
+स कथं फलतयाऽत्र निर्दिश्यते आत्मज्ञानपूर्वकस्य च कर्मयोगस्यात्मज्ञानमेव
+साध्यं चेदात्माश्रयादिदोषः श्रवणमननाभ्यां स्थितप्रज्ञस्य ह्यनुष्ठानम्
+तथा च कथमनुष्ठानसाध्या स्थितप्रज्ञता निश्चलप्रज्ञास्थितिमन्तरेण च
+कोऽसावपरस्तदापाद्यो योग इत्यत्राह एतदुक्तमिति। तत्र
+प्रथमचोद्यंकर्मयोगशब्देनयोगाख्यमात्मावलोकनमित्यनेन च परिहृतम्।
+शास्त्रजन्यात्मज्ञानात्मावलोकनशब्दाभ्यां आत्माश्रयादिनिरासः।
+आत्मज्ञानज्ञाननिष्ठाशब्दाभ्यां
+श्रवणमात्रसिद्धतत्त्वनिश्चयज्ञानयोगविषयाभ्यां तृतीयस्य परिहारः।
+चतुर्थोऽप्युक्तप्रकारेण साक्षात्कारतद्धेतुस्मृतिसन्ततिभेदात् परिहृतः।
+प्रथमं शास्त्रतस्तत्त्वज्ञानम् ततः स्मृतिसन्ततिरूपमुपासनम्
+ततस्तन्मूलसाक्षात्कार इति ज्ञानपर्वभेदः प्रदर्शितः।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 2.53 Here 'Sruti' means hearing (and not the Veda). When your intellect,
-which, by hearing from us, has become specially enlightened, having for
-its object the eternal, unsurpassed and subtle self - which belongs to a
-class different from all other entities -, then the intellect is firmly
-fixed, i.e., in a single psychosis and stands unshaken. In such a
-concentrated mind, purified by the performance of duties without
-attachment, will be generated true Yoga, which consists in the vision of
-the self. What is said is this: Karma Yoga, which presupposes the
-knowledge of the real nature of the self obtained from the scriptures,
+which, by hearing from us, has become specially enlightened, having for its object the eternal, unsurpassed and subtle self - which belongs to a class different from all other entities -, then the intellect is firmly fixed, i.e., in a single psychosis and stands unshaken. In such a concentrated mind, purified by the performance of duties without attachment, will be generated true Yoga, which consists in the vision of the self. What is said is this: Karma Yoga, which presupposes the knowledge of the real nature of the self obtained from the scriptures,
 leads to a firm devotion to knowledge known as the state of firm wisdom;
-and the state of 'firm wisdom;' which is in the form of devotion to
-knowledge, generates the vision of the self; this vision is here called
-Yoga. Arjuna, thus taught, estions about the nature of 'firm wisdom'
-which constitutes the means for the attainment of Yoga and which itself
-is attainable through Karma Yoga which consists in work with detachment,
+and the state of 'firm wisdom;' which is in the form of devotion to knowledge, generates the vision of the self; this vision is here called Yoga. Arjuna, thus taught, estions about the nature of 'firm wisdom'
+which constitutes the means for the attainment of Yoga and which itself is attainable through Karma Yoga which consists in work with detachment,
 and also about the mode of behaviour of a man of 'firm wisdom.'
 
 </details>
@@ -404,19 +436,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.53. When your determining faculty, that had been \[earlier\] confused
-by your hearing \[of scriptural declaration of fruits\] shall stand
-stable in concentration, at that time you shall attain the Yoga.
+2.53. When your determining faculty, that had been \[earlier\] confused by your hearing \[of scriptural declaration of fruits\] shall stand stable in concentration, at that time you shall attain the Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.53 When your mind that has become bewildered by hearing \[S. takes the
-word sruti in the sense of the Vedas.-Tr.\] will become unshakable and
-steadfast in the Self, then you will attain Yoga that arises from
-discrimination.
+2.53 When your mind that has become bewildered by hearing \[S. takes the word sruti in the sense of the Vedas.-Tr.\] will become unshakable and steadfast in the Self, then you will attain Yoga that arises from discrimination.
 
 </details>
 </div>
@@ -424,26 +451,21 @@ discrimination.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 2.53 When the intellect, bewildered by the multiplicity of holy scripts,
-stands unperturbed in blissful contemplation of the Infinite, then hast
-thou attained Spirituality.
+stands unperturbed in blissful contemplation of the Infinite, then hast thou attained Spirituality.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.53 When your intellect, well enlightened by hearing from Me and firmly
-placed, stands unshaken in a concentrated mind, then you will attain the
-vision of the self.
+2.53 When your intellect, well enlightened by hearing from Me and firmly placed, stands unshaken in a concentrated mind, then you will attain the vision of the self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/53_shrutivipratipann.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.53 When thy intellect, which is perplexed by the Veda text, which thou
-hast read, shall stand immovable and steady in the Self, then thou shalt
-attain Self-realisation.
+2.53 When thy intellect, which is perplexed by the Veda text, which thou hast read, shall stand immovable and steady in the Self, then thou shalt attain Self-realisation.
 
 </details>
 </div>
@@ -453,12 +475,8 @@ attain Self-realisation.
 2.53 श्रुतिविप्रतिपन्ना perplexed by what hast heard; ते thy; यदा when;
 स्थास्यति shall stand; निश्चला immovable; समाधौ in the Self; अचला
 steady; बुद्धिः intellect; तदा then; योगम् Selfrealisation; अवाप्स्यसि
-(thou) shalt attain.Commentary When your intellect which is tossed about
-by the conflict of opinions regarding the Pravritti Marga (the path of
-action) and the Nivritti Marga (the path of retirement or renunciation)
-has become immovable without distraction and doubt and firmly
-established in the Self; then thou shalt attain Selfrealisation or
-knowledge of the Self (AtmaJnana).
+(thou) shalt attain.Commentary When your intellect which is tossed about by the conflict of opinions regarding the Pravritti Marga (the path of action) and the Nivritti Marga (the path of retirement or renunciation)
+has become immovable without distraction and doubt and firmly established in the Self; then thou shalt attain Selfrealisation or knowledge of the Self (AtmaJnana).
 
 </details>
 </div>

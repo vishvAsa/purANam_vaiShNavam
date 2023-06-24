@@ -42,17 +42,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/42_sankaro_narakAyai.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -295,45 +286,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/42_sankaro_narakAyai.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.42. The intermixture leads the family-ruiners and the family to
-nothing but the hell; for, their ancestors (their individual souls) fall
-down \[in hell\], being deprived of the rites of offering rice-balls and
-water \[intended to them\].
+1.42. The intermixture leads the family-ruiners and the family to nothing but the hell; for, their ancestors (their individual souls) fall down \[in hell\], being deprived of the rites of offering rice-balls and water \[intended to them\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/42_sankaro_narakAyai.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.42 And the intermingling in the family leads the ruiners of the family
-verily into hell. The forefathers of these fall down (into hell) because
-of being deprived of the offerings of rice-balls and water.
+1.42 And the intermingling in the family leads the ruiners of the family verily into hell. The forefathers of these fall down (into hell) because of being deprived of the offerings of rice-balls and water.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/42_sankaro_narakAyai.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.42 Promiscuity ruins both the family and those who defile it; while
-the souls of our ancestors droop, through lack of the funeral cakes and
-ablutions.
+1.42 Promiscuity ruins both the family and those who defile it; while the souls of our ancestors droop, through lack of the funeral cakes and ablutions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/42_sankaro_narakAyai.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.42 This mixing of classes leads to hell the clan itself and its
-destroyers; for the spirits of their ancestors fall degraded, deprived
-of the ritual offerings of food and water.
+1.42 This mixing of classes leads to hell the clan itself and its destroyers; for the spirits of their ancestors fall degraded, deprived of the ritual offerings of food and water.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/42_sankaro_narakAyai.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.42. Confusion of castes leads to hell the slayers of the family, for
-their forefathers fall, deprived of the offerings of rice-ball and water
+1.42. Confusion of castes leads to hell the slayers of the family, for their forefathers fall, deprived of the offerings of rice-ball and water
 (libations).
 
 </details>
@@ -345,8 +326,7 @@ their forefathers fall, deprived of the offerings of rice-ball and water
 कुलघ्नानाम् of the slayers of the family;  
   
 कुलस्य of the family; च and; पतन्ति fall; पितरः the forefathers; हि
-verily; एषां their; लुप्तपिण्डोदकक्रियाः deprived of the offerings of
-ricall and water.No Commentary.
+verily; एषां their; लुप्तपिण्डोदकक्रियाः deprived of the offerings of ricall and water.No Commentary.
 
 </details>
 </div>

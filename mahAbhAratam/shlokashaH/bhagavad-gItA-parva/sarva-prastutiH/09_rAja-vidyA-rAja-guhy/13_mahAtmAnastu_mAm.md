@@ -58,15 +58,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.13 Those who, through their multitude of good acts, have taken refuge
-in Me and have been thery released from the bondage of evil - they
-understand My divine nature. They are high-souled. Knowing Me to be the
-immutable source of all beings, namely, as the Lord whose name, acts and
-nature are beyond thought and speech, and who has descended in a human
-form out of supreme compassion to rescue the good, - they worship Me
-with un unswerving mind. As I am extremely dear to them, without
-worshipping Me they are unable to find support for their mind, self and
-external organs. Thus they become devoted to Me as their sole object.
+9.13 Those who, through their multitude of good acts, have taken refuge in Me and have been thery released from the bondage of evil - they understand My divine nature. They are high-souled. Knowing Me to be the immutable source of all beings, namely, as the Lord whose name, acts and nature are beyond thought and speech, and who has descended in a human form out of supreme compassion to rescue the good, - they worship Me with un unswerving mind. As I am extremely dear to them, without worshipping Me they are unable to find support for their mind, self and external organs. Thus they become devoted to Me as their sole object.
 
 </details>
 </div>
@@ -340,9 +332,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.13. O son of Prtha ! The great-souledmen, however, taking hold of the
-divine nature and having nothing else in their mind, adore Me by viewing
-Me as the imperishable prime cuase of beings.
+9.13. O son of Prtha ! The great-souledmen, however, taking hold of the divine nature and having nothing else in their mind, adore Me by viewing Me as the imperishable prime cuase of beings.
 
 </details>
 </div>
@@ -350,26 +340,21 @@ Me as the imperishable prime cuase of beings.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 9.13 O son of Prtha, the noble ones, being possessed of divine nature,
-surely adore Me with single-mindedness, knowing Me as the immutable
-source of all objects.
+surely adore Me with single-mindedness, knowing Me as the immutable source of all objects.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.13 But the Great Souls, O Arjuna! Filled with My Divine Spirit, they
-worship Me, they fix their minds on Me and on Me alone, for they know
-that I am the imperishable Source of being.
+9.13 But the Great Souls, O Arjuna! Filled with My Divine Spirit, they worship Me, they fix their minds on Me and on Me alone, for they know that I am the imperishable Source of being.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/13_mahAtmAnastu_mAm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.13 But the great-souled ones, O Arjuna, who are associated with My
-divine nature, worship Me with unwavering mind, knowing Me to be the
-immutable source of beings.
+9.13 But the great-souled ones, O Arjuna, who are associated with My divine nature, worship Me with unwavering mind, knowing Me to be the immutable source of beings.
 
 </details>
 </div>
@@ -388,16 +373,8 @@ knowing Me as the imperishable source of beings.
 9.13 महात्मानः great souls; तु but; माम् Me; पार्थ O Partha; दैवीम्
 divine; प्रकृतिम् nature; आश्रिताः refuged (in); भजन्ति worship;
 अनन्यमनसः with a mind devoted to nothing else; ज्ञात्वा having known;
-भूतादिम् the source of beings; अव्ययम् imperishable.Commentary Jnatva
-Bhutadimavyayam There is another interpretation -- knowing Me to be the
-source or the origin of beings and imperishable.Daivim Prakritim Divine
-or Sattvic nature. Those who are endowed with divine nature; and who
-possess selfrestraint; mercy; faith; purity; etc.Mahatmanah Or; the
-highsouled ones are those whose pure minds have been made by Me; as My
-special abode. I dwell in the pure minds of the highsouled ones. They
-have sincere devotion to Me. Those who possess divine Sattvic nature;
-who are endowed with a pure mind; and who have knowledge of the Self are
-Mahatmas.Bhutas All living beings; as well as the five elements.
+भूतादिम् the source of beings; अव्ययम् imperishable.Commentary Jnatva Bhutadimavyayam There is another interpretation -- knowing Me to be the source or the origin of beings and imperishable.Daivim Prakritim Divine or Sattvic nature. Those who are endowed with divine nature; and who possess selfrestraint; mercy; faith; purity; etc.Mahatmanah Or; the highsouled ones are those whose pure minds have been made by Me; as My special abode. I dwell in the pure minds of the highsouled ones. They have sincere devotion to Me. Those who possess divine Sattvic nature;
+who are endowed with a pure mind; and who have knowledge of the Self are Mahatmas.Bhutas All living beings; as well as the five elements.
 
 </details>
 </div>

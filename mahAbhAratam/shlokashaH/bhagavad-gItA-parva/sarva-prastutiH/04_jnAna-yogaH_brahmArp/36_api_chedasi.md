@@ -51,9 +51,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.36 Even though you be the most sinful of all sinners, you will
-completely cross over the sea of sins previoulsy accumulated, with the
-boat of knowledge concerning the self.
+4.36 Even though you be the most sinful of all sinners, you will completely cross over the sea of sins previoulsy accumulated, with the boat of knowledge concerning the self.
 
 </details>
 </div>
@@ -318,40 +316,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.36. Even if you are the highest sinner amongst all sinners, you shall
-cross over \[the ocean of\] all the sin just by the boat of knowledge.
+4.36. Even if you are the highest sinner amongst all sinners, you shall cross over \[the ocean of\] all the sin just by the boat of knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.36 Even if you be the worst sinner among all sinners, still you will
-cross over all the wickedness with the raft of Knowledge alone.
+4.36 Even if you be the worst sinner among all sinners, still you will cross over all the wickedness with the raft of Knowledge alone.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.36 Be thou the greatest of sinners, yet thou shalt cross over all sin
-by the ferryboat of wisdom.
+4.36 Be thou the greatest of sinners, yet thou shalt cross over all sin by the ferryboat of wisdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.36 Even if you be the most sinful of all sinners, you will cross over
-all sins by the boat of knowledge alone.
+4.36 Even if you be the most sinful of all sinners, you will cross over all sins by the boat of knowledge alone.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/36_api_chedasi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.36 Even if thou art the most sinful of all sinners, yet thou shalt
-verily cross all sins by the raft of knowledge.
+4.36 Even if thou art the most sinful of all sinners, yet thou shalt verily cross all sins by the raft of knowledge.
 
 </details>
 </div>
@@ -359,10 +352,7 @@ verily cross all sins by the raft of knowledge.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 4.36 अपि even; चेत् if; असि (thou) art; पापेभ्यः than sinners; सर्वेभ्यः
-(than) all; पापकृत्तमः most sinful; सर्वम् all; ज्ञानप्लवेन by the raft
-of knowledge; एव alone; वृजिनम् sin; सन्तरिष्यसि (thou) shalt
-cross.Commentary You can cross the ocean of sin with the boat of the
-knowledge of the Self. (Cf.IX.30)
+(than) all; पापकृत्तमः most sinful; सर्वम् all; ज्ञानप्लवेन by the raft of knowledge; एव alone; वृजिनम् sin; सन्तरिष्यसि (thou) shalt cross.Commentary You can cross the ocean of sin with the boat of the knowledge of the Self. (Cf.IX.30)
 
 </details>
 </div>

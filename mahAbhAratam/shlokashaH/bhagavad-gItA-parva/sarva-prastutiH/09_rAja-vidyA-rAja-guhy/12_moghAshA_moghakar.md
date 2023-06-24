@@ -67,16 +67,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.12 Men yielding to the deluding nature characteristics of Asuras and
-Raksas and not aware of My higher nature like compassion etc. When I am
-in a human form, are possessed of vain hopes, i.e, their hopes remain
-fruitless, and their knowledge also is vain, i.e., is fruitless. They
-are so because of their erroneous understanding which fails to know that
-all things, mobile and immobile, belong to Me. They are ignorant on
-account of their being devoid of knowledge of truth everywhere. Whatever
-they do regarding Me, the Lord of all, is done with an attitude that I
-am an ordinary mortal. So their efforts go in vain. All this springs
-from their partaking of the nature of Raksasas and Asuras.
+9.12 Men yielding to the deluding nature characteristics of Asuras and Raksas and not aware of My higher nature like compassion etc. When I am in a human form, are possessed of vain hopes, i.e, their hopes remain fruitless, and their knowledge also is vain, i.e., is fruitless. They are so because of their erroneous understanding which fails to know that all things, mobile and immobile, belong to Me. They are ignorant on account of their being devoid of knowledge of truth everywhere. Whatever they do regarding Me, the Lord of all, is done with an attitude that I am an ordinary mortal. So their efforts go in vain. All this springs from their partaking of the nature of Raksasas and Asuras.
 
 </details>
 </div>
@@ -474,9 +465,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.12. \[They\] are of futile aspirations, futile actions, futile
-knowledge and wrong intellect; and they take recourse only to the
-delusive nature that is demoniac and also devilish.
+9.12. \[They\] are of futile aspirations, futile actions, futile knowledge and wrong intellect; and they take recourse only to the delusive nature that is demoniac and also devilish.
 
 </details>
 </div>
@@ -484,25 +473,21 @@ delusive nature that is demoniac and also devilish.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 9.12 Of vain hopes, of vain actions, of vain knowledge, and senseless,
-they become verily possessed of the deceptive disposition of fiends and
-demons.
+they become verily possessed of the deceptive disposition of fiends and demons.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.12 Their hopes are vain, their actions worthless, their knowledge
-futile; they are without sense, deceitful, barbarous and godless.
+9.12 Their hopes are vain, their actions worthless, their knowledge futile; they are without sense, deceitful, barbarous and godless.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.12 Senseless men entertain a nature which is deluding and akin to that
-of Raksasas (fiends) and Asuras (monsters). Their hopes are vain, acts
-are vain and knowledge is vain.
+9.12 Senseless men entertain a nature which is deluding and akin to that of Raksasas (fiends) and Asuras (monsters). Their hopes are vain, acts are vain and knowledge is vain.
 
 </details>
 </div>
@@ -510,40 +495,17 @@ are vain and knowledge is vain.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 9.12 Of vain hopes, of vain actions, of vain knowledge and senseless,
-they verily are possessed of the deceitful nature of demons and undivine
-beings.
+they verily are possessed of the deceitful nature of demons and undivine beings.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/09_rAja-vidyA-rAja-guhy/12_moghAshA_moghakar.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-9.12 मोघाशाः of vain hopes; मोघकर्माणः of vain actions; मोघज्ञानाः of
-vain knowledge; विचेतसः senseless; राक्षसीम् devilish; आसुरीम् undivine;
+9.12 मोघाशाः of vain hopes; मोघकर्माणः of vain actions; मोघज्ञानाः of vain knowledge; विचेतसः senseless; राक्षसीम् devilish; आसुरीम् undivine;
 च and; एव verily; प्रकृतिम् nature; मोहिनीम् deceitful; श्रिताः (are)
-possessed of.Commentary They entertain vain hopes; for there can be no
-hope in perishable forms. It is vain hope because they run after
-transient objects and miss the Eternal. It is vain action; because it is
-not performed by them as sacrifice unto the Lord. The Agnihotra (a
-ritual) and other actions performed by them are fruitless; because they
-insult the Lord. They are senseless. They have no,discrimination. They
-have no idea of the eternal Self. They worship their body only. They
-behold no self beyond the body. They neglect their own Self. They do
-atrocious crimes and cruel actions. They rob others property and murder
-people. They partake of the nature of the demons and the undivine
-beings.The Rakshasa are Tamasic and the Asuras are Rajasic.Prakriti
-means here Svabhava (ones own nature).They see the external human body
-only. They have no knowledge of the Self that dwells within the body.
-They do not behold God in the universe. They life for eating and
-drinking only.He who entertains hope of getting the rewards of actions
-through mere Karma alone; without the grace of the Lord is one of empty
-hope and empty deed. Karmas are insentient. They cannot give rewards
-independently. The omniscient Lord Who knows the relationship between
-Karmas and their fruits can dispense them. He who has obtained knowledge
-from books which do not admit of the existence of the Self and which do
-not speak of the Self is one of empty knowledge. This will not give any
-reward. That knowledge obtained through the study of spiritual books
-which treat of Brahman alone can give the reward. (Cf.VII.15XVI.6;20)
+possessed of.Commentary They entertain vain hopes; for there can be no hope in perishable forms. It is vain hope because they run after transient objects and miss the Eternal. It is vain action; because it is not performed by them as sacrifice unto the Lord. The Agnihotra (a ritual) and other actions performed by them are fruitless; because they insult the Lord. They are senseless. They have no,discrimination. They have no idea of the eternal Self. They worship their body only. They behold no self beyond the body. They neglect their own Self. They do atrocious crimes and cruel actions. They rob others property and murder people. They partake of the nature of the demons and the undivine beings.The Rakshasa are Tamasic and the Asuras are Rajasic.Prakriti means here Svabhava (ones own nature).They see the external human body only. They have no knowledge of the Self that dwells within the body.
+They do not behold God in the universe. They life for eating and drinking only.He who entertains hope of getting the rewards of actions through mere Karma alone; without the grace of the Lord is one of empty hope and empty deed. Karmas are insentient. They cannot give rewards independently. The omniscient Lord Who knows the relationship between Karmas and their fruits can dispense them. He who has obtained knowledge from books which do not admit of the existence of the Self and which do not speak of the Self is one of empty knowledge. This will not give any reward. That knowledge obtained through the study of spiritual books which treat of Brahman alone can give the reward. (Cf.VII.15XVI.6;20)
 
 </details>
 </div>

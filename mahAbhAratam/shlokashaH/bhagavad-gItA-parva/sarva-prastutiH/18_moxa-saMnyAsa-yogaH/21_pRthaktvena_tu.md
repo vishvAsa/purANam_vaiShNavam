@@ -51,12 +51,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.21 Whatever knowledge perceives in Brahmana etc., at the time of
-work, the entity known as the Atman as of diverse nature because the
-bodies of those beings are tall or fair and are fit to attain the fruits
-of work - know that knowledge to be Rajasika. The point is this: It is
-not a condemnation of the plurality of Atman. The Atman, though
-distinct, is uniform everywhere. The bodily attributes do not affect it.
+18.21 Whatever knowledge perceives in Brahmana etc., at the time of work, the entity known as the Atman as of diverse nature because the bodies of those beings are tall or fair and are fit to attain the fruits of work - know that knowledge to be Rajasika. The point is this: It is not a condemnation of the plurality of Atman. The Atman, though distinct, is uniform everywhere. The bodily attributes do not affect it.
 The knowledge lacking this understanding is stigmatised as Rajasa.
 
 </details>
@@ -310,8 +305,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.21. That instrument-of-knowledge, by means of which one considers the
-varied natures of different sorts in all beings as \[really\]
+18.21. That instrument-of-knowledge, by means of which one considers the varied natures of different sorts in all beings as \[really\]
 different-that is regarded to be of the Rajas (Strand).
 
 </details>
@@ -319,35 +313,28 @@ different-that is regarded to be of the Rajas (Strand).
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.21 But know that knowledge to be originating from rajas which, amidst
-all things, apprehends the different entities of various kinds as
-distinct \[As possessing distinct selves.\].
+18.21 But know that knowledge to be originating from rajas which, amidst all things, apprehends the different entities of various kinds as distinct \[As possessing distinct selves.\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.21 The knowledge which thinks of the manifold existence in all beings
-as separate - that comes from Passion.
+18.21 The knowledge which thinks of the manifold existence in all beings as separate - that comes from Passion.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.21 But that knowledge which sees all beings, by reason of their
-individuality, as entities of distinct nature - know that knowledge to
-be Rajasika.
+18.21 But that knowledge which sees all beings, by reason of their individuality, as entities of distinct nature - know that knowledge to be Rajasika.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/21_pRthaktvena_tu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.21 But that knowledge which sees in all beings various entities of
-distinct kinds as different from one another know thou that knowledge to
-be Rajasic.
+18.21 But that knowledge which sees in all beings various entities of distinct kinds as different from one another know thou that knowledge to be Rajasic.
 
 </details>
 </div>
@@ -355,22 +342,9 @@ be Rajasic.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.21 पृथक्त्वेन as different from one another; तु but; यत् which;
-ज्ञानम् knowledge; नानाभावान् various entities; पृथग्विधान् of distinct
-kinds; वेत्ति knows; सर्वेषु (in) all; भूतेषु in beings; तत् that;
-ज्ञानम् knowledge; विद्धि know; राजसम् Rajasic.Commentary Knowledge
-which sees As knowledge cannot be an agent; this should be interpreted
-to mean knowledge by which one sees.Entities Selves or souls.Different
-from one another Regarding them as different in different bodies.The
-knowledge that is led by the idea of separateness is passionate.
-Enveloping as it does the manifold creation with the veil of
-separateness; it deludes even the wise man. Owing to passionate
-knowledge; beings appear to be separate and the perception of unity is
-also lost sight of. That knowledge which beholds multiplicity in created
-objects and differentiates them as being small or great; according to
-their form and size; is of passionate nature and tainted. A man with
-passionate knowledge sees diversity everywhere. He beholds the many
-only.Now I will explain to thee; O Arjuna; knowledge that is of the
-ality of darkness; in order that thou mayest avoid it.
+ज्ञानम् knowledge; नानाभावान् various entities; पृथग्विधान् of distinct kinds; वेत्ति knows; सर्वेषु (in) all; भूतेषु in beings; तत् that;
+ज्ञानम् knowledge; विद्धि know; राजसम् Rajasic.Commentary Knowledge which sees As knowledge cannot be an agent; this should be interpreted to mean knowledge by which one sees.Entities Selves or souls.Different from one another Regarding them as different in different bodies.The knowledge that is led by the idea of separateness is passionate.
+Enveloping as it does the manifold creation with the veil of separateness; it deludes even the wise man. Owing to passionate knowledge; beings appear to be separate and the perception of unity is also lost sight of. That knowledge which beholds multiplicity in created objects and differentiates them as being small or great; according to their form and size; is of passionate nature and tainted. A man with passionate knowledge sees diversity everywhere. He beholds the many only.Now I will explain to thee; O Arjuna; knowledge that is of the ality of darkness; in order that thou mayest avoid it.
 
 </details>
 </div>

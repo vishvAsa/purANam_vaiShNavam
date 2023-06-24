@@ -116,10 +116,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.64 It has been said that Bhakti Yoga is the most secret of all
-secrets, in such texts as 'I will declare to you, who does not cavil,
-this most mysterious knowledge' (9.1). Hear again My supreme word
-concerning it (i.e., Bhakti Yoga). As you are exceedingly dear to Me,
+18.64 It has been said that Bhakti Yoga is the most secret of all secrets, in such texts as 'I will declare to you, who does not cavil,
+this most mysterious knowledge' (9.1). Hear again My supreme word concerning it (i.e., Bhakti Yoga). As you are exceedingly dear to Me,
 therefore, I shall declare what is good for you.
 
 </details>
@@ -332,7 +330,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.64।। पुनः एक बार तुम मुझसे समस्त गुह्यों में गुह्यतम परम वचन
+।।18.64।। पुन: एक बार तुम मुझसे समस्त गुह्यों में गुह्यतम परम वचन
 (उपदेश) को सुनो। तुम मुझे अतिशय प्रिय हो, इसलिए मैं तुम्हें तुम्हारे हित
 की बात कहूंगा।।
 
@@ -437,18 +435,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.64. Yet again, you must listen to My ultimate (or supreme) message
-which is the highest secret of all. You are My dear one and have a firm
-intellect. Hence I shall tell you what is good to you :
+18.64. Yet again, you must listen to My ultimate (or supreme) message which is the highest secret of all. You are My dear one and have a firm intellect. Hence I shall tell you what is good to you :
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.64 Listen again to My highest utterance which is the profoundest of
-all. Since you are ever dear to Me, therefore I shall speak what is
-beneficial to you.
+18.64 Listen again to My highest utterance which is the profoundest of all. Since you are ever dear to Me, therefore I shall speak what is beneficial to you.
 
 </details>
 </div>
@@ -463,16 +457,14 @@ thou art My beloved, thou are My friend, and I speak for thy welfare.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.64 Hear again My supreme word, the most secret of all; as you are
-exceedingly loved by Me, I am telling what is good for you.
+18.64 Hear again My supreme word, the most secret of all; as you are exceedingly loved by Me, I am telling what is good for you.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/64_sarvaguhyatamam_b.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.64 Hear thou again My supreme word, most secret of all; because thou
-art dearly beloved of Me, I will tell thee what is good.
+18.64 Hear thou again My supreme word, most secret of all; because thou art dearly beloved of Me, I will tell thee what is good.
 
 </details>
 </div>
@@ -482,15 +474,8 @@ art dearly beloved of Me, I will tell thee what is good.
 18.64 सर्वगुह्यतमम् the most secret of all; भूयः again; श्रृणु hear; मे
 My; परमम् supreme; वचः word; इष्टः beloved; असि (thou) art; मे of Me;
 दृढम् dearly; इति thus; ततः therefore; वक्ष्यामि (I) will speak; ते thy;
-हितम् what is good.Commentary Now listen once more with rapt attention
-to My words. Thou art very dear to Me. Thou art a sincere aspirant.
-Therefore I am telling thee this most mysterious truth. Hear from Me
-this mystery of all mysteries. I shall tell it to you again to make a
-deep impression on your mind; although it has been declared more than
-once. I do not hope to get any reward from thee. Thou art My most
-beloved friend and disciple. Therefore I will speak what is good for
-thee; the means of attaining Selfrealisation. This is the supreme good
-or the highest of all kinds of good for thee.
+हितम् what is good.Commentary Now listen once more with rapt attention to My words. Thou art very dear to Me. Thou art a sincere aspirant.
+Therefore I am telling thee this most mysterious truth. Hear from Me this mystery of all mysteries. I shall tell it to you again to make a deep impression on your mind; although it has been declared more than once. I do not hope to get any reward from thee. Thou art My most beloved friend and disciple. Therefore I will speak what is good for thee; the means of attaining Selfrealisation. This is the supreme good or the highest of all kinds of good for thee.
 
 </details>
 </div>

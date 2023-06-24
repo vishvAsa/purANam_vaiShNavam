@@ -68,14 +68,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.13 The whole universe beginning with Brahma and ending with a cluster
-of grass, with the system of four stations divided according to Sattva
-and other Gunas and by actions like self-control corresponding to the
-Gunas, was created by Me. The mention of 'creation' is for illustration.
-The universe is protected by Me alone and is withdrawn by Me alone. Know
-Me to be the creator of his manifold actions of creation etc., but at
-the same time to be non-agent. Sri Krsna explains here how this is
-possible.
+4.13 The whole universe beginning with Brahma and ending with a cluster of grass, with the system of four stations divided according to Sattva and other Gunas and by actions like self-control corresponding to the Gunas, was created by Me. The mention of 'creation' is for illustration.
+The universe is protected by Me alone and is withdrawn by Me alone. Know Me to be the creator of his manifold actions of creation etc., but at the same time to be non-agent. Sri Krsna explains here how this is possible.
 
 </details>
 </div>
@@ -510,18 +504,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.13. The four-fold caste-structure has been created by Me, according to
-the division of \[their respective\] alities and actions. Though I am
-the creator of this, know Me as a changeless non-creator.
+4.13. The four-fold caste-structure has been created by Me, according to the division of \[their respective\] alities and actions. Though I am the creator of this, know Me as a changeless non-creator.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.13 The four castes have been created by Me through a classification of
-the gunas and duties. Even though I am the agent of that (act of
-classification), still know Me to be a non-agent and changeless.
+4.13 The four castes have been created by Me through a classification of the gunas and duties. Even though I am the agent of that (act of classification), still know Me to be a non-agent and changeless.
 
 </details>
 </div>
@@ -529,50 +519,34 @@ classification), still know Me to be a non-agent and changeless.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 4.13 The four divisions of society (the wise, the soldier, the merchant,
-the labourer) were created by Me, according to the natural distribution
-of Qualities and instincts. I am the author of them, though I Myself do
-no action, and am changeless.
+the labourer) were created by Me, according to the natural distribution of Qualities and instincts. I am the author of them, though I Myself do no action, and am changeless.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.13 The system of four stations was created by Me according to
-distinction of Gunas and Karma. Though I am their creator, know Me as
-non-agent and immutable.
+4.13 The system of four stations was created by Me according to distinction of Gunas and Karma. Though I am their creator, know Me as non-agent and immutable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.13 The fourfold caste has been created by Me according to the
-differentiation of Guna and Karma; though I am the author thereof know
-Me as non-doer and immutable.
+4.13 The fourfold caste has been created by Me according to the differentiation of Guna and Karma; though I am the author thereof know Me as non-doer and immutable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/04_jnAna-yogaH_brahmArp/13_chAturvarNyam_may.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-4.13 चातुर्वर्ण्यम् the fourfold caste; मया be Me; सृष्टम् has been
-created; गुणकर्मविभागशः according to the differentiation of Guna and
-Karma; तस्य thereof; कर्तारम् the author; अपि also; माम् Me; विद्धि
+4.13 चातुर्वर्ण्यम् the fourfold caste; मया be Me; सृष्टम् has been created; गुणकर्मविभागशः according to the differentiation of Guna and Karma; तस्य thereof; कर्तारम् the author; अपि also; माम् Me; विद्धि
 know; अकर्तारम् nondoer; अव्ययम् immutable.Commentary The four castes
-(Brahmana; Kshatriya; Vaishya and Sudra) are classified according to the
-differentiation of Guna and Karma. In a Brahmana; Sattva predominates.
+(Brahmana; Kshatriya; Vaishya and Sudra) are classified according to the differentiation of Guna and Karma. In a Brahmana; Sattva predominates.
 He possesses selfrestraint; purity; serenity; straightforwardness;
 devotion; etc. In a Kshatriya; Rajs predominates. He possesses prowess;
-splendour; firmness; dexterity; generosity and the nature of a ruler. In
-a Vaishya; Rajas predominates and Tamas is subordinate to Rajas. He does
-the duty of ploughing; protection of cattle and trade. In a Sudra Tamas
-predominates and Rajas is subordinate to Tamas. He does service to the
-other three castes. Human temperaments and tendencies vary according to
-the Gunas.Though the Lord is the author of the caste system; yet He is
-not the author as He is the nondoer. He is not subject to Samsara.
-Really Maya does everything. Maya is the real author. Society can exist
-in a flourishing state if the four castes do their duties properly.
+splendour; firmness; dexterity; generosity and the nature of a ruler. In a Vaishya; Rajas predominates and Tamas is subordinate to Rajas. He does the duty of ploughing; protection of cattle and trade. In a Sudra Tamas predominates and Rajas is subordinate to Tamas. He does service to the other three castes. Human temperaments and tendencies vary according to the Gunas.Though the Lord is the author of the caste system; yet He is not the author as He is the nondoer. He is not subject to Samsara.
+Really Maya does everything. Maya is the real author. Society can exist in a flourishing state if the four castes do their duties properly.
 Otherwise there will be chaos; rupture and fighting. (Cf.XVIII.41).
 
 </details>

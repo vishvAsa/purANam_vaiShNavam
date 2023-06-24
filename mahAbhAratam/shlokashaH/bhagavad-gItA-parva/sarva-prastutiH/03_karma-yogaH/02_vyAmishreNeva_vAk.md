@@ -60,15 +60,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.2 Conseqently, it appears to me as if 'you confuse me with statements
-that seem to contradict each other.' For, firm devotion to knowledge
-which forms the means for the vision of the self and which is of the
-nature of stopping the operations of the senses on the one hand, and on
-the other exhortation to action which is of a nature opposite to it,
-i.e., knowledge, as a means to the same vision of that Atman - these
-statements are contradictory and confusing. Therefore tell me clearly
-the path following which I can take a determined course and win the
-Supreme Being.
+3.2 Conseqently, it appears to me as if 'you confuse me with statements that seem to contradict each other.' For, firm devotion to knowledge which forms the means for the vision of the self and which is of the nature of stopping the operations of the senses on the one hand, and on the other exhortation to action which is of a nature opposite to it,
+i.e., knowledge, as a means to the same vision of that Atman - these statements are contradictory and confusing. Therefore tell me clearly the path following which I can take a determined course and win the Supreme Being.
 
 </details>
 </div>
@@ -433,36 +426,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.2. You appear to perplex my intellect with Your speech that looks
-confusing. Hence tell me, with certainty, that particular thing by which
-I may attain the good (emancipation).
+3.2. You appear to perplex my intellect with Your speech that looks confusing. Hence tell me, with certainty, that particular thing by which I may attain the good (emancipation).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.2 You bewilder my understanding, as it were, by a seemingly
-conflicting statement! Tell me for certain one of these by which I may
-attain the highest Good.
+3.2 You bewilder my understanding, as it were, by a seemingly conflicting statement! Tell me for certain one of these by which I may attain the highest Good.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.2 Thy language perplexes me and confuses my reason. Therefore please
-tell me the only way by which I may, without doubt, secure my spiritual
-welfare.
+3.2 Thy language perplexes me and confuses my reason. Therefore please tell me the only way by which I may, without doubt, secure my spiritual welfare.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/02_vyAmishreNeva_vAk.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.2 You confuse my mind with statements that seem to contradict each
-other; tell me for certain that one way by which I could reach the
-highest good.
+3.2 You confuse my mind with statements that seem to contradict each other; tell me for certain that one way by which I could reach the highest good.
 
 </details>
 </div>
@@ -470,8 +455,7 @@ highest good.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 3.2 With this apparently perplexing speech, Thou confusest, as it were,
-my understanding; therefore tell me that one way for certain by which I
-may attain bliss.
+my understanding; therefore tell me that one way for certain by which I may attain bliss.
 
 </details>
 </div>
@@ -481,9 +465,7 @@ may attain bliss.
 3.2 व्यामिश्रेण perplexing; इव as it were; वाक्येन with speech; बुद्धिम्
 understanding; मोहयसि (Thou) confusest; इव as it were; मे my; तत् that;
 एकम् one; वद tell; निश्चित्य for certain; येन by which; श्रेयः bliss
-(the good or the highest); अहम् I; आप्नुयाम् may attain.Commentary
-Arjuna says to Lord Krishna; Tecah me one of the two; knowledge or
-action; by which I may attain to the highest good or bliss or Moksha.
+(the good or the highest); अहम् I; आप्नुयाम् may attain.Commentary Arjuna says to Lord Krishna; Tecah me one of the two; knowledge or action; by which I may attain to the highest good or bliss or Moksha.
 (Cf.V.I).
 
 </details>

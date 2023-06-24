@@ -66,16 +66,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.5 'The divine destiny,' viz., which is of the nature of submission to
-My ;ndments aids liberation, viz., leads to release from bondage. The
-meaning is that it leads to the eventual attainment of Myself. 'The
-demoniac destiny' viz, which is of the nature of transgression of My
+16.5 'The divine destiny,' viz., which is of the nature of submission to My ;ndments aids liberation, viz., leads to release from bondage. The meaning is that it leads to the eventual attainment of Myself. 'The demoniac destiny' viz, which is of the nature of transgression of My
 ;ndments, is for bondage, i.e., takes one to degradation. To Arjuna who,
-on hearing this, became alarmed and anxious about the classfication of
-his own nature, Sri Krsna said: 'Do not be grief-ridden. Surely, you are
-born for a divine destiny, O son of Pandu. The purport is that you have
-a divine destiny, since you are a son of Pandu who was most eminent
-among the righteous.
+on hearing this, became alarmed and anxious about the classfication of his own nature, Sri Krsna said: 'Do not be grief-ridden. Surely, you are born for a divine destiny, O son of Pandu. The purport is that you have a divine destiny, since you are a son of Pandu who was most eminent among the righteous.
 
 </details>
 </div>
@@ -768,67 +761,45 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.5. The divine wealth is meant for total emancipation and the demoniac
-one is meant for complete bondage. Grieve not, O son of Pandu. For the
-divine wealth you are born
+16.5. The divine wealth is meant for total emancipation and the demoniac one is meant for complete bondage. Grieve not, O son of Pandu. For the divine wealth you are born
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.5 The divine nature is the Liberation, the demoniacal is considered
-to be for inevitable bondage. Do not grieve, O son of Pandu! You are
-destined to have the divine nature.
+16.5 The divine nature is the Liberation, the demoniacal is considered to be for inevitable bondage. Do not grieve, O son of Pandu! You are destined to have the divine nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.5 Godly qualities lead to liberation; godless to bondage. Do not be
-anxious, Prince! Thou hast the Godly qualities.
+16.5 Godly qualities lead to liberation; godless to bondage. Do not be anxious, Prince! Thou hast the Godly qualities.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.5 The divine destiny is deemed to lead to liberation, the demoniac to
-bondage. Grieve not, O Arjuna, you are born to a divine destiny.
+16.5 The divine destiny is deemed to lead to liberation, the demoniac to bondage. Grieve not, O Arjuna, you are born to a divine destiny.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-16.5 The divine nature is deemed conducive to liberation, and the
-demoniacal to bondage. Grieve not, O Arjuna, thou art born with divine
-endowments.
+16.5 The divine nature is deemed conducive to liberation, and the demoniacal to bondage. Grieve not, O Arjuna, thou art born with divine endowments.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/16_daivAsura-sampad-vib/05_daivI_sampadvimox.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-16.5 दैवी divine; सम्पत् state; विमोक्षाय for liberation; निबन्धाय for
-bondage; आसुरी the demoniacal; मता is deemed; मा not; शुचः grieve;
+16.5 दैवी divine; सम्पत् state; विमोक्षाय for liberation; निबन्धाय for bondage; आसुरी the demoniacal; मता is deemed; मा not; शुचः grieve;
 सम्पदम् state; दैवीम् the divine; अभिजातः one born for; असि (thou) art;
 पाण्डव O Pandava.Commentary Sampat Endowment; wealthy state; nature;
-virtue.Moksha Liberation from the bondage of Samsara; release from the
-round of birth and death. The,divine nature leads to salvation the
-demoniacl nature; to bondage.As Arjuna was already griefstricken and
-dejected; Lord Krishna assures him not to feel alarmed at this
-description of the Asuric alities which bring grief and delusion; as he
-was born with Sattvic tendencies; leading towards salvation. Arjuna; on
-hearing the words of Lord Krishna; might have thought within himself; Do
-I possess divine nature or demoniacal nature The Lord; in order to
-remove Arjunas doubt; said; Grieve not; O Arjuna; thou art born with
-divine alities. Thou art fortunate. Thou mayest attain to the happiness
-of Selfrealisation.Do not think; O Arjuna; that by engaging yourself in
-battle and killing people you will become an Asura. Grieve not on this
-score. You will establish the kingdom of righteousness by fighting this
-righteous battle.
+virtue.Moksha Liberation from the bondage of Samsara; release from the round of birth and death. The,divine nature leads to salvation the demoniacl nature; to bondage.As Arjuna was already griefstricken and dejected; Lord Krishna assures him not to feel alarmed at this description of the Asuric alities which bring grief and delusion; as he was born with Sattvic tendencies; leading towards salvation. Arjuna; on hearing the words of Lord Krishna; might have thought within himself; Do I possess divine nature or demoniacal nature The Lord; in order to remove Arjunas doubt; said; Grieve not; O Arjuna; thou art born with divine alities. Thou art fortunate. Thou mayest attain to the happiness of Selfrealisation.Do not think; O Arjuna; that by engaging yourself in battle and killing people you will become an Asura. Grieve not on this score. You will establish the kingdom of righteousness by fighting this righteous battle.
 
 </details>
 </div>

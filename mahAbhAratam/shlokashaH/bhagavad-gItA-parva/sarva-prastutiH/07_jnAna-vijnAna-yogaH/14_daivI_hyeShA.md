@@ -138,42 +138,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.14 (a) This Maya of Mine consists of the three Gunas, Sattva, Rajas
-and Tamas. Because it is created by Me, the Divine, for purpose of
-sport, it is divine in its power and therefore difficult to overcome.
-The word Maya is used for the effects of the three Gunas, because it has
-got the power of generating wonderful effects as in the case of the
-magic of Asuras and Raksasas. See the passages: 'Then the excellent
-discus, the flaming Sudarsana, was despatched by the Lord to defend the
-boy. The thousand Mayas or wonderfully created weapons of the
-evil-designed Sambara were foiled one after another, by that ickly
-moving discus, for protecting the body of the boy' (V. P., 1.19. 19-20).
-Here the term Maya does not signify the sense of 'false'. Even with
-regard to magicians, when the term, Mayavin (one who possesses Maya) is
-used, there is origination of real impressions with the aid of certain
-incantations, herbs etc., though the objects created are illusory
-things. Accordingly the term Maya denotes the incantations, herbs etc.,
-which have got the power of creating real impressions. Inasmuch as the
-sense of the term should be invariable, following the usage in all
-cases, the term Maya can be applied to the illusory objects, only in a
-secondary sense, while its primary sense in regard to the real
-impressions generated in the mind. It is just like in the statement 'The
-cots cry.' The Maya of the Lord, which is absolutely real and which
-consists of the Gunas, is alone taught in the texts like, 'Know then
-Maya to be the Prakrti and the possessor of the Maya to be the great
-Lord' (Sve. U., 4.10). It not only obscures the essential nature of the
-Lord but also creates the condition of the mind that sees its objects as
-enjoyable. Therefore, the entire universe, deluded by the Lord's Maya,
-does not know the Lord who is of the nature of boundless beatitude. (On
-the other hand they feel objects set forth by Maya as enjoyable). Sri
-Krsna teaches the way of deliverance from Maya: (b) But those who take
-refuge in Me alone - Me whose resolves are always true, who has supreme
-compassion, and who is the refuge of all beings without exception and
-without consideration of their particular status - such persons shall
-pass beyond this Maya of Mine consisting of the three Gunas. The meaning
-is that they worship Me alone, renouncing the Maya. Why, then do all not
-take recourse to refuge in the Lord which is conducive to the worship of
-the Lord;
+7.14 (a) This Maya of Mine consists of the three Gunas, Sattva, Rajas and Tamas. Because it is created by Me, the Divine, for purpose of sport, it is divine in its power and therefore difficult to overcome.
+The word Maya is used for the effects of the three Gunas, because it has got the power of generating wonderful effects as in the case of the magic of Asuras and Raksasas. See the passages: 'Then the excellent discus, the flaming Sudarsana, was despatched by the Lord to defend the boy. The thousand Mayas or wonderfully created weapons of the evil-designed Sambara were foiled one after another, by that ickly moving discus, for protecting the body of the boy' (V. P., 1.19. 19-20).
+Here the term Maya does not signify the sense of 'false'. Even with regard to magicians, when the term, Mayavin (one who possesses Maya) is used, there is origination of real impressions with the aid of certain incantations, herbs etc., though the objects created are illusory things. Accordingly the term Maya denotes the incantations, herbs etc.,
+which have got the power of creating real impressions. Inasmuch as the sense of the term should be invariable, following the usage in all cases, the term Maya can be applied to the illusory objects, only in a secondary sense, while its primary sense in regard to the real impressions generated in the mind. It is just like in the statement 'The cots cry.' The Maya of the Lord, which is absolutely real and which consists of the Gunas, is alone taught in the texts like, 'Know then Maya to be the Prakrti and the possessor of the Maya to be the great Lord' (Sve. U., 4.10). It not only obscures the essential nature of the Lord but also creates the condition of the mind that sees its objects as enjoyable. Therefore, the entire universe, deluded by the Lord's Maya,
+does not know the Lord who is of the nature of boundless beatitude. (On the other hand they feel objects set forth by Maya as enjoyable). Sri Krsna teaches the way of deliverance from Maya: (b) But those who take refuge in Me alone - Me whose resolves are always true, who has supreme compassion, and who is the refuge of all beings without exception and without consideration of their particular status - such persons shall pass beyond this Maya of Mine consisting of the three Gunas. The meaning is that they worship Me alone, renouncing the Maya. Why, then do all not take recourse to refuge in the Lord which is conducive to the worship of the Lord;
 
 </details>
 </div>
@@ -832,27 +801,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.14. This is My play (daivi), trick-of-Illusion composed of the Strands
-and is hard to cross over. Those, who resort to Me alone-they cross over
-the trick-of-Illusion.
+7.14. This is My play (daivi), trick-of-Illusion composed of the Strands and is hard to cross over. Those, who resort to Me alone-they cross over the trick-of-Illusion.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.14 Since this divine Maya of Mine which is constituted by the gunas is
-difficult to cross over, (therefore) those who take refuge in Me alone
-cross over this Maya.
+7.14 Since this divine Maya of Mine which is constituted by the gunas is difficult to cross over, (therefore) those who take refuge in Me alone cross over this Maya.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/14_daivI_hyeShA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.14 Verily, this Divine Illusion of Phenomenon manifesting itself in
-the Qualities is difficult to surmount. Only they who devote themselves
-to Me and to Me alone can accomplish it.
+7.14 Verily, this Divine Illusion of Phenomenon manifesting itself in the Qualities is difficult to surmount. Only they who devote themselves to Me and to Me alone can accomplish it.
 
 </details>
 </div>
@@ -860,8 +823,7 @@ to Me and to Me alone can accomplish it.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 7.14 (a) For this divine Maya or Mine consisting of the three Gunas
-(assumed for purposes of sport) is hard to overcome৷৷. (b) ৷৷. But those
-who take refuge in Me (Prapadyante) alone shall pass beyond the Maya.
+(assumed for purposes of sport) is hard to overcome৷৷. (b) ৷৷. But those who take refuge in Me (Prapadyante) alone shall pass beyond the Maya.
 
 </details>
 </div>
@@ -869,8 +831,7 @@ who take refuge in Me (Prapadyante) alone shall pass beyond the Maya.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 7.14 Verily, this divine illusion of Mine, made up of the (three)
-alities (of Nature) is difficult to cross over; those who take refuge in
-Me alone, cross over this illusion.
+alities (of Nature) is difficult to cross over; those who take refuge in Me alone, cross over this illusion.
 
 </details>
 </div>
@@ -881,18 +842,8 @@ Me alone, cross over this illusion.
 illusion; दुरत्यया difficult to cross over; माम् to Me; एव even; ये who;
 प्रपद्यन्ते take refuge; मायाम् illusion; एताम् this; तरन्ति cross over;
 ते they.Commentary Maya is the Upadhi or the causal body (Karana Sarira)
-of Isvara. It is the material cause of this universe. It is inherent in
-the Lord. It is constituted of the three alities; viz.; Sattva; Rajas
-and Tamas. Those who completely devote themselves to the Lord alone
-after renouncing all formal religion (Dharma) cross over this illusion
-which deludes all beings. They attain liberation or Moksha.Isvara is the
-Lord of Maya (illusion). He has perfect control over it. Avidya is the
-Upadhi (limiting adjunct) of the Jiva (individual soul). The Jiva is a
-slave of this ignorance. Ignorance is the veil that has screened the
-Jiva from Satchidananda Brahman or the ExistenceKnowledgeBliss Absolute.
-When the veil is removed by the dawn of knowledge of the Self the Jiva
-loses his characteras a Jiva or an individual soul and becomes identical
-with Brahman. (Cf.XV.3and4)
+of Isvara. It is the material cause of this universe. It is inherent in the Lord. It is constituted of the three alities; viz.; Sattva; Rajas and Tamas. Those who completely devote themselves to the Lord alone after renouncing all formal religion (Dharma) cross over this illusion which deludes all beings. They attain liberation or Moksha.Isvara is the Lord of Maya (illusion). He has perfect control over it. Avidya is the Upadhi (limiting adjunct) of the Jiva (individual soul). The Jiva is a slave of this ignorance. Ignorance is the veil that has screened the Jiva from Satchidananda Brahman or the ExistenceKnowledgeBliss Absolute.
+When the veil is removed by the dawn of knowledge of the Self the Jiva loses his characteras a Jiva or an individual soul and becomes identical with Brahman. (Cf.XV.3and4)
 
 </details>
 </div>

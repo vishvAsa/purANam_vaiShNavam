@@ -82,30 +82,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.7 But a Karma Yogin remains engaged in the performance of pure actions
-prescribed by the Sastras, which are of the nature of propitiation of
-the Supreme Person. By this, he becomes purified in mind. He thus
-subdues his self, i.e., subdues his mind easily, because his mind is
-engaged in the virtuous actions he has been performing before. Therefore
-his senses are subdued. His self is said to have become the self of all
-beings. Because of his being devoted to contemplation on the true nature
-of the self, he finds that his self is similar to the self of all beings
-like gods etc. One who contemplates on the true nature of the self
-understands that all selves are of the same form or nature. The
-distinctions obtaining among gods, men etc., cannot pertain to the form
-of the self, because those distinctions are founded on particular
-modifications of Prakrti i.e., the bodies of beings. Sri Krsna will
-teach: 'For the Brahman (an individual self), when untainted, is the
-same everywhere' (5.19). The meaning of this is that when dissociated
-from the Prakriti, i.e., the body, the self is of the same nature
-everywhere, i.e., in the bodies of gods, men etc. It is of the same form
-of knowledge. The meaning is that one, who has become enlightened in
-this way, active though he be, is not tainted on account of erroneously
-conceiving what is other than the self (the body) as the self. He is not
-at all associated therewith. Therefore, he attains the self without any
-delay. As Karma Yoga is superior to Jnana Yoga because it is more easily
-pursued and is more rapidly efficacious in securing the fruits, listen
-to its reirement:
+5.7 But a Karma Yogin remains engaged in the performance of pure actions prescribed by the Sastras, which are of the nature of propitiation of the Supreme Person. By this, he becomes purified in mind. He thus subdues his self, i.e., subdues his mind easily, because his mind is engaged in the virtuous actions he has been performing before. Therefore his senses are subdued. His self is said to have become the self of all beings. Because of his being devoted to contemplation on the true nature of the self, he finds that his self is similar to the self of all beings like gods etc. One who contemplates on the true nature of the self understands that all selves are of the same form or nature. The distinctions obtaining among gods, men etc., cannot pertain to the form of the self, because those distinctions are founded on particular modifications of Prakrti i.e., the bodies of beings. Sri Krsna will teach: 'For the Brahman (an individual self), when untainted, is the same everywhere' (5.19). The meaning of this is that when dissociated from the Prakriti, i.e., the body, the self is of the same nature everywhere, i.e., in the bodies of gods, men etc. It is of the same form of knowledge. The meaning is that one, who has become enlightened in this way, active though he be, is not tainted on account of erroneously conceiving what is other than the self (the body) as the self. He is not at all associated therewith. Therefore, he attains the self without any delay. As Karma Yoga is superior to Jnana Yoga because it is more easily pursued and is more rapidly efficacious in securing the fruits, listen to its reirement:
 
 </details>
 </div>
@@ -442,32 +419,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.7. A master of Yoga, whose self (mind and intellect) is very pure and
-is fully subdued, the sense-organs controlled, and Soul is \[realised to
-be\] the Soul of all beings-he is not stained, eventhough he is a
-performer \[of actions\].
+5.7. A master of Yoga, whose self (mind and intellect) is very pure and is fully subdued, the sense-organs controlled, and Soul is \[realised to be\] the Soul of all beings-he is not stained, eventhough he is a performer \[of actions\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.7 Endowed with yoga, \[i.e. devoted to the performance of the nitya
-and naimittika duties.\] pure in mind, controlled in body, a coneror of
-the organs, the Self of the selves of all beings-he does not become
-tainted even while performing actions. \[The construction of the
-sentence is this: When this person resorts to nitya and naimittika rites
-and duties as a means to the achievement of fully Illumination, and thus
-becomes fully enlightened, then, even when he acts through the apparent
-functions of the mind, organs, etc., he does not become afflected.\]
+5.7 Endowed with yoga, \[i.e. devoted to the performance of the nitya and naimittika duties.\] pure in mind, controlled in body, a coneror of the organs, the Self of the selves of all beings-he does not become tainted even while performing actions. \[The construction of the sentence is this: When this person resorts to nitya and naimittika rites and duties as a means to the achievement of fully Illumination, and thus becomes fully enlightened, then, even when he acts through the apparent functions of the mind, organs, etc., he does not become afflected.\]
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.7 He who is spiritual, who is pure, who has overcome his senses and
-his personal self, who has realised his highest Self as the Self of all,
+5.7 He who is spiritual, who is pure, who has overcome his senses and his personal self, who has realised his highest Self as the Self of all,
 such a one, even though he acts, is not bound by his acts.
 
 </details>
@@ -475,34 +441,22 @@ such a one, even though he acts, is not bound by his acts.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.7 He who follows the Yoga and is pure in self (mind), who has subdued
-his self and has conered his senses and whose self has become the self
-of all beings, even while he is acting, he is untainted.
+5.7 He who follows the Yoga and is pure in self (mind), who has subdued his self and has conered his senses and whose self has become the self of all beings, even while he is acting, he is untainted.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.7 He who is devoted to the path of action, whose mind is ite pure, who
-has conered the self, who has subdued his senses and who realises his
-Self as the Self in all beings, though acting, is not tainted.
+5.7 He who is devoted to the path of action, whose mind is ite pure, who has conered the self, who has subdued his senses and who realises his Self as the Self in all beings, though acting, is not tainted.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/07_yogayukto_vishudd.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-5.7 योगयुक्तः devoted to the path of action; विशुद्धात्मा a man of
-purified mind; विजितात्मा one who has conered the self; जितेन्द्रियः one
-who has subdued his senses; सर्वभूतात्मभूतात्मा one who realises his
-Self as the Self in all beings; कुर्वन् acting; अपि even; न not; लिप्यते
-is tainted.Commentary He who is harmonised by Yoga; i.e.; he who has
-purified his mind by devotion to the performance of action; who has
-conered the body and who has subjugated the senses; whose Self is the
-Self of all beings; he will not be bound by actions although he performs
-actions for the wellbeing or protection of the masses in orer to set an
-example to them. (Cf.XVIII.17)
+5.7 योगयुक्तः devoted to the path of action; विशुद्धात्मा a man of purified mind; विजितात्मा one who has conered the self; जितेन्द्रियः one who has subdued his senses; सर्वभूतात्मभूतात्मा one who realises his Self as the Self in all beings; कुर्वन् acting; अपि even; न not; लिप्यते
+is tainted.Commentary He who is harmonised by Yoga; i.e.; he who has purified his mind by devotion to the performance of action; who has conered the body and who has subjugated the senses; whose Self is the Self of all beings; he will not be bound by actions although he performs actions for the wellbeing or protection of the masses in orer to set an example to them. (Cf.XVIII.17)
 
 </details>
 </div>

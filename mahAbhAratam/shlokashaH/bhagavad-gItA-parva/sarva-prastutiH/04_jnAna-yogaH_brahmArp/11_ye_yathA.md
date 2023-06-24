@@ -135,17 +135,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.11 Whoever desirous of resorting to Me, in whatever manner they think
-of Me according to their inclinations and take refuge in Me, i.e.,
-resort to Me - I favour them in the same manner as desired by them; I
-reveal Myself to them. Why say much here! All men who are intent on
-following Me do experience, with their own eyes and other organs of
-sense in all ways, i.e., in every way wished by them, My form (including
-images), however inaccessible it might be to speech and thought of the
-Yogins. Now, after completing the incidental topic (with regard to
-divine incarnations), in order to teach the mode in which Karma Yoga
-itself acires the form of Jnana, He begins to speak of the difficulty in
-finding persons who are alified for Karma Yoga of this kind.
+4.11 Whoever desirous of resorting to Me, in whatever manner they think of Me according to their inclinations and take refuge in Me, i.e.,
+resort to Me - I favour them in the same manner as desired by them; I reveal Myself to them. Why say much here! All men who are intent on following Me do experience, with their own eyes and other organs of sense in all ways, i.e., in every way wished by them, My form (including images), however inaccessible it might be to speech and thought of the Yogins. Now, after completing the incidental topic (with regard to divine incarnations), in order to teach the mode in which Karma Yoga itself acires the form of Jnana, He begins to speak of the difficulty in finding persons who are alified for Karma Yoga of this kind.
 
 </details>
 </div>
@@ -587,33 +578,28 @@ O son of Prtha, all sorts of men follow the path of Mine.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.11 According to the manner in which they approach Me, I favour them in
-that very manner. O son of Partha, human beings follow My path in every
-way.
+4.11 According to the manner in which they approach Me, I favour them in that very manner. O son of Partha, human beings follow My path in every way.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.11 Howsoever men try to worship Me, so do I welcome them. By whatever
-path they travel, it leads to Me at last.
+4.11 Howsoever men try to worship Me, so do I welcome them. By whatever path they travel, it leads to Me at last.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.11 Whoever resortt to Me in any manner, in the same manner do I favour
-them; men experience Me alone in different ways, O Arjuna.
+4.11 Whoever resortt to Me in any manner, in the same manner do I favour them; men experience Me alone in different ways, O Arjuna.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/11_ye_yathA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.11 In whatever way men approach Me even so do I reward them; My path
-do men tread in all ways, O Arjuna.
+4.11 In whatever way men approach Me even so do I reward them; My path do men tread in all ways, O Arjuna.
 
 </details>
 </div>
@@ -622,13 +608,7 @@ do men tread in all ways, O Arjuna.
 
 4.11 ये who; यथा in whatever way; माम् Me; प्रपद्यन्ते approach; तान्
 them; तथा so; एव even; भजामि reward; अहम् I; मम My; वर्त्म path;
-अनुवर्तन्ते follow; मनुष्याः men; पार्थ O Partha; सर्वशः in all
-ways.Commentary I reward men by bestowing on them the objects they
-desire in accordance with their ways and the motives with which they
-seek Me. If anyone worships Me with selfish motives I grant him the
-objects he desires. If he worships Me unselfishly for attaining
-knowledge of the Self; I grant him Moksha or final liberation. I am not
-at all partial to anyone. (Cf.VII.21andIX.23).
+अनुवर्तन्ते follow; मनुष्याः men; पार्थ O Partha; सर्वशः in all ways.Commentary I reward men by bestowing on them the objects they desire in accordance with their ways and the motives with which they seek Me. If anyone worships Me with selfish motives I grant him the objects he desires. If he worships Me unselfishly for attaining knowledge of the Self; I grant him Moksha or final liberation. I am not at all partial to anyone. (Cf.VII.21andIX.23).
 
 </details>
 </div>

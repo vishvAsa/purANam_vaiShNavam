@@ -65,18 +65,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.25 'The ignorant' are those people who do not know the entire truth
-about the self; 'attached to their work' means they are inseparably
-yoked to work. Because of their incomplete knowledge of the self, they
-are not alified for Jnana Yoga which is of the nature of practising
-knowledge of the self. They are alified for Karma Yoga only. As they
-should practise Karma Yoga for the vision of the self in the same manner
-Karma Yoga should be practised by one who is recognised as virtuous, who
-is unattached to work by reason of the vision of the self, and who
-wishes that his conduct should give guidance to others in virtuous
-conduct. In this way he should protect the world from chaos by his
-example. Such a person, even though alified for Jnana Yoga, should
-practice Karma Yoga.
+3.25 'The ignorant' are those people who do not know the entire truth about the self; 'attached to their work' means they are inseparably yoked to work. Because of their incomplete knowledge of the self, they are not alified for Jnana Yoga which is of the nature of practising knowledge of the self. They are alified for Karma Yoga only. As they should practise Karma Yoga for the vision of the self in the same manner Karma Yoga should be practised by one who is recognised as virtuous, who is unattached to work by reason of the vision of the self, and who wishes that his conduct should give guidance to others in virtuous conduct. In this way he should protect the world from chaos by his example. Such a person, even though alified for Jnana Yoga, should practice Karma Yoga.
 
 </details>
 </div>
@@ -361,37 +350,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.25. \[Therefore\] just as the unwise persons, being attached to
-action, do, O son of Prtha, so the wise should perform, \[But\] being
-unattached and desiring to hold the world together.
+3.25. \[Therefore\] just as the unwise persons, being attached to action, do, O son of Prtha, so the wise should perform, \[But\] being unattached and desiring to hold the world together.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.25 O scion of the Bharata dynasty, as the unelightened poeple act with
-attachment to work, so should the enlightened person act, without
-attachment, being desirous of the prevention of people from going
-astray.
+3.25 O scion of the Bharata dynasty, as the unelightened poeple act with attachment to work, so should the enlightened person act, without attachment, being desirous of the prevention of people from going astray.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.25 As the ignorant act, because of their fondness for action, so
-should the wise act without such attachment, fixing their eyes, O
-Arjuna, only on the welfare of the world.
+3.25 As the ignorant act, because of their fondness for action, so should the wise act without such attachment, fixing their eyes, O Arjuna, only on the welfare of the world.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/25_saktAH_karmaNyavi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.25 Just as the ignorant, attached to their work, act, O Arjuna, so too
-the learned should act without any attachment, and only for the welfare
-of the world.
+3.25 Just as the ignorant, attached to their work, act, O Arjuna, so too the learned should act without any attachment, and only for the welfare of the world.
 
 </details>
 </div>
@@ -399,8 +379,7 @@ of the world.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 3.25 As the ignorant men act from attachment to action, O Bharata
-(Arjuna), so should the wise act without attachment, wishing the welfare
-of the world.
+(Arjuna), so should the wise act without attachment, wishing the welfare of the world.
 
 </details>
 </div>
@@ -409,13 +388,8 @@ of the world.
 
 3.25 सक्ताः attached; कर्मणि to action; अविद्वांसः the ignorant; यथा as;
 कुर्वन्ति act; भारत O Bharata; कुर्यात् should act; विद्वान् the wise;
-तथा so; असक्तः unattached; चिकीर्षुः wishing; लोकसंग्रहम् the welfare of
-the world.Commentary The ignorant man works in expectation of fruits. He
-says; I will do such and such work and will get such and such fruit. But
-the wise man who knows the Self; serves not for his own end. He should
-so act that the world; following his example; would attain peace;
-harmony; purity of heart; divine light and knowledge. A wise man is one
-who knows the Self. (Cf.II.64III.19XVIII.49).
+तथा so; असक्तः unattached; चिकीर्षुः wishing; लोकसंग्रहम् the welfare of the world.Commentary The ignorant man works in expectation of fruits. He says; I will do such and such work and will get such and such fruit. But the wise man who knows the Self; serves not for his own end. He should so act that the world; following his example; would attain peace;
+harmony; purity of heart; divine light and knowledge. A wise man is one who knows the Self. (Cf.II.64III.19XVIII.49).
 
 </details>
 </div>

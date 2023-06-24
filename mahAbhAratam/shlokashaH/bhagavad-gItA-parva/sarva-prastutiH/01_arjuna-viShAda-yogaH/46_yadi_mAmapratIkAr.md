@@ -42,17 +42,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -337,25 +328,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.46. It would be more beneficial for me if Dhrtarastra's men with
-weapons in their hands, should slay me, unresisting and unarmed.
+1.46. It would be more beneficial for me if Dhrtarastra's men with weapons in their hands, should slay me, unresisting and unarmed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.46 If, in this battle, the sons of Dhrtarastra armed with weapons kill
-me who am non-resistant and unarmed, that will be more beneficial to me.
+1.46 If, in this battle, the sons of Dhrtarastra armed with weapons kill me who am non-resistant and unarmed, that will be more beneficial to me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.46 If, on the contrary, the sons of Dhritarashtra, with weapons in
-their hand, should slay me, unarmed and unresisting, surely that would
-be better for my welfare!"
+1.46 If, on the contrary, the sons of Dhritarashtra, with weapons in their hand, should slay me, unarmed and unresisting, surely that would be better for my welfare!"
 
 </details>
 </div>
@@ -370,8 +357,7 @@ unresisting and unarmed, that will be better for me.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/46_yadi_mAmapratIkAr.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.46. If the sons of Dhritarashtra with weapons in hand should slay me
-in battle, unresisting and unarmed, that would be better for me.
+1.46. If the sons of Dhritarashtra with weapons in hand should slay me in battle, unresisting and unarmed, that would be better for me.
 
 </details>
 </div>
@@ -379,8 +365,7 @@ in battle, unresisting and unarmed, that would be better for me.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 1.46 यदि if; माम् me; अप्रतीकारम् unresisting; अशस्त्रम् unarmed;
-शस्त्रपाणयः with weapons in hand; धार्तराष्ट्राः the sons of
-Dhritarashtra; रणे in the battle हन्युः should slay; तत् that; मे of me;
+शस्त्रपाणयः with weapons in hand; धार्तराष्ट्राः the sons of Dhritarashtra; रणे in the battle हन्युः should slay; तत् that; मे of me;
 क्षेमतरम् better; भवेत् would be.No Commentary.
 
 </details>

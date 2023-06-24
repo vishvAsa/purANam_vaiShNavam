@@ -79,13 +79,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.10 - 11.11 'Divyam' means resplendent. 'Anantam' (boundless) means
-that form is not limited by time and space because of its being the
-foundation of the entire universe in the past, present and future.
-'Visvatomukham' means facing in all directions. This form is adorned
-with divine raiments, perfumes, garlands, ornaments and weapons
-appropriate to it. He explains the same resplendence expressed by the
-term 'Divyam':
+11.10 - 11.11 'Divyam' means resplendent. 'Anantam' (boundless) means that form is not limited by time and space because of its being the foundation of the entire universe in the past, present and future.
+'Visvatomukham' means facing in all directions. This form is adorned with divine raiments, perfumes, garlands, ornaments and weapons appropriate to it. He explains the same resplendence expressed by the term 'Divyam':
 
 </details>
 </div>
@@ -322,8 +317,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.11. That wears heavenly garlands and garments; has the unguent of
-heavenly sandal paste; it is all wonderful, shining (or godly),
+11.11. That wears heavenly garlands and garments; has the unguent of heavenly sandal paste; it is all wonderful, shining (or godly),
 infinite; and it has faces in all directions.
 
 </details>
@@ -331,9 +325,7 @@ infinite; and it has faces in all directions.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.11 Wearing heavenly garlands and apparel, anointed with heavenly
-scents, abounding in all kinds of wonder, resplendent, infinite, and
-with faces everywhere.
+11.11 Wearing heavenly garlands and apparel, anointed with heavenly scents, abounding in all kinds of wonder, resplendent, infinite, and with faces everywhere.
 
 </details>
 </div>
@@ -349,40 +341,25 @@ Marvellous, Boundless, Omnipresent.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.11 Wearing celestial garlands and raiments, anointed with divine
-perfumes, full of all wonders, resplendent, boundless and facing all
-directions.
+11.11 Wearing celestial garlands and raiments, anointed with divine perfumes, full of all wonders, resplendent, boundless and facing all directions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.11 Wearing divine garlands (necklaces) and apparel, anointed with
-divine unguents, the all-wonderful, resplendent (Being) endless with
-faces on all sides.
+11.11 Wearing divine garlands (necklaces) and apparel, anointed with divine unguents, the all-wonderful, resplendent (Being) endless with faces on all sides.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/11_divyamAlyAmbaradh.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-11.11 दिव्यमाल्याम्बरधरम् wearing divine garlands (necklaces) and
-apparel; दिव्यगन्धानुलेपनम् anointed with divine unguents;
+11.11 दिव्यमाल्याम्बरधरम् wearing divine garlands (necklaces) and apparel; दिव्यगन्धानुलेपनम् anointed with divine unguents;
 सर्वाश्चर्यमयम् the allwonderful; देवम् resplendent; अनन्तम् endless;
-विश्वतोमुखम् with faces on all sides.Commentary Visvatomukham With faces
-on all sides; as He is the Self of all beings.Devam God. Also means
-resplendent.Anantam Endless. He Who is free from the three kinds of
-limitations; viz.; DesaKalaVastuPariccheda (limitations of space; time;
-and thing respectively) is Anantam. He is Brahman. This philosophical
-concept is explained below.The pot is here. This is spacelimitatio. The
-pot is now here. This is timelimitation. The pot is not a cloth. This is
-thing(material) limitation. There is saffron in Kashmir only. This is
-limitation of space and thing. You can have apples only in September.
-This is limitation of time and thing. But Brahman is everywhere; as It
-is allpervading. It exists in the past; the present and the future. It
-dwells in all parts. Hence It is beyond these three limitations. It is
-therefore endless.
+विश्वतोमुखम् with faces on all sides.Commentary Visvatomukham With faces on all sides; as He is the Self of all beings.Devam God. Also means resplendent.Anantam Endless. He Who is free from the three kinds of limitations; viz.; DesaKalaVastuPariccheda (limitations of space; time;
+and thing respectively) is Anantam. He is Brahman. This philosophical concept is explained below.The pot is here. This is spacelimitatio. The pot is now here. This is timelimitation. The pot is not a cloth. This is thing(material) limitation. There is saffron in Kashmir only. This is limitation of space and thing. You can have apples only in September.
+This is limitation of time and thing. But Brahman is everywhere; as It is allpervading. It exists in the past; the present and the future. It dwells in all parts. Hence It is beyond these three limitations. It is therefore endless.
 
 </details>
 </div>

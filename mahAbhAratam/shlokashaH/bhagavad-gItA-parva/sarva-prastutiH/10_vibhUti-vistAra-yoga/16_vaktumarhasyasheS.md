@@ -67,11 +67,8 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 10.16 Whatever manifestations there be that are divine, unie to Yourself
-- You alone are capable of describing them without exception. 'You
-reveal them Yourself' is the meaning. With these innumerable Vibhutis,
-these instances of your manifestation indicating Your will to rule, You
-abide, pervading all these worlds as their controller. What is the need
-for such description; The answer follows:
+- You alone are capable of describing them without exception. 'You reveal them Yourself' is the meaning. With these innumerable Vibhutis,
+these instances of your manifestation indicating Your will to rule, You abide, pervading all these worlds as their controller. What is the need for such description; The answer follows:
 
 </details>
 </div>
@@ -263,7 +260,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/16_vaktumarhasyasheS.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।10.16।। आप ही उन अपनी दिव्य विभूतियों को अशेषतः कहने के लिए योग्य हैं,
+।।10.16।। आप ही उन अपनी दिव्य विभूतियों को अशेषत: कहने के लिए योग्य हैं,
 जिन विभूतियों के द्वारा इन समस्त लोकों को आप व्याप्त करके स्थित हैं।।
 
 </details>
@@ -310,43 +307,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/16_vaktumarhasyasheS.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.16. You are \[alone\] capable of fully declaring the auspicious
-manifesting powers of Yours, by which manifesting power You remain
-pervading these worlds.
+10.16. You are \[alone\] capable of fully declaring the auspicious manifesting powers of Yours, by which manifesting power You remain pervading these worlds.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/16_vaktumarhasyasheS.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.16 Be pleased to speak in full of Your own manifestations which are
-indeed divine, through which manifestations You exist pervading these
-worlds.
+10.16 Be pleased to speak in full of Your own manifestations which are indeed divine, through which manifestations You exist pervading these worlds.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/16_vaktumarhasyasheS.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.16 Please tell me all about Thy glorious manifestations, by means of
-which Thou pervadest the world.
+10.16 Please tell me all about Thy glorious manifestations, by means of which Thou pervadest the world.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/16_vaktumarhasyasheS.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.16 You should tell Me without reserve Your divine manifestations
-whery You abide pervading all these worlds.
+10.16 You should tell Me without reserve Your divine manifestations whery You abide pervading all these worlds.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/16_vaktumarhasyasheS.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.16 Thou shouldst indeed tell, without reserve, of Thy divine glories
-by which Thou existest, pervading all these worlds. (None else can do
-so.)
+10.16 Thou shouldst indeed tell, without reserve, of Thy divine glories by which Thou existest, pervading all these worlds. (None else can do so.)
 
 </details>
 </div>

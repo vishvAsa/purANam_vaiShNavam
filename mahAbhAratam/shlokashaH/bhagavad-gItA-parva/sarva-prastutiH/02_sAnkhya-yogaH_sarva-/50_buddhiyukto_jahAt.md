@@ -32,15 +32,34 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.50।। बुद्धियुक्तो जहातीह इत्यस्येह कर्मणि क्रियमाणे बुद्धियुक्त
+इत्यन्वयमभिप्रेत्याह बुद्धियोगयुक्तस्तु कर्म कुर्वाण इति। यद्वाकर्म
+कुर्वाण इति प्रकरणापन्नमुक्तम् इहशब्दस्य तु जहातिनाऽन्वयःइहैव तैर्जितः
+सर्गः 5।19 इत्यादिवत्। ततश्च प्रतिबन्धकनिवृत्तिरुक्ता भवति।
+बुद्धिरहितकेवलकर्मादिभिरनिवर्त्यत्वार्थमाह अनादिकालसञ्चिते अनन्ते इति।
+अनादिकालसञ्चितत्वमनन्तत्वनिदानम्। सुकृतस्य हानिरपुरुषार्थः
+स्यादित्यत्रोक्तंबन्धहेतुभूते इति। नहि
+काञ्चनकालायसश्रृङ्खलयोर्बन्धहेतुत्वे कश्चिद्विशेषः मुमुक्ष्वपेक्षया च
+स्वर्गादिकारणं सुकृतमपि दुष्कृतमेव अलौकिकत्वे सत्यनिष्टसाधनत्वात्।
+स्वर्गादेरपि हि मुमुक्ष्वपेक्षया निरयत्वम्एते वै निरयास्तात स्थानस्य
+परमात्मनः म.भा.12।198।11 इत्यादिभिः प्रतिपादितमिति भावः। बुद्धियुक्तः
+इत्यस्ययोगाय इत्यस्य च भिन्नार्थपरत्वव्युदासायाह तस्मादुक्ताय
+बुद्धियोगायेति। युज्यस्व सन्नह्यस्व उद्युक्तो भवेत्यर्थः। समत्वं योग
+उच्यते 2।48 इतिवद्योगशब्दव्याख्याभ्रमनिरासायाह कर्मस्विति। कौशलशब्दस्य
+तात्पर्यं वक्तुं वाच्यं तावदाह अतिसामर्थ्यमिति। बुद्धियोगस्य
+कर्मसामर्थ्यात्मकत्वं कथं इत्यत्राह अतिसामर्थ्यसाध्य इत्यर्थ इति। कार्ये
+कारणशब्द उपचरितः। अनेन श्लोकेन बन्धकसुकृतदुष्कृतहानमुक्तम्।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.50 He, who is established in evenness of mind in the performance of
-actions, relinishes good and evil Karmas which have accumulated from
-time immemorial causing bondage endlessly. Therefore acire this
-aforesaid evenness of mind (Buddhi Yoga). Yoga is skill in action. That
-is, this evenness of mind when one is engaged in action, is possible
-through great skill, i.e., ability.
+2.50 He, who is established in evenness of mind in the performance of actions, relinishes good and evil Karmas which have accumulated from time immemorial causing bondage endlessly. Therefore acire this aforesaid evenness of mind (Buddhi Yoga). Yoga is skill in action. That is, this evenness of mind when one is engaged in action, is possible through great skill, i.e., ability.
 
 </details>
 </div>
@@ -690,9 +709,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.50. Whosoever is endowed with determining faculty-he casts off both of
-these viz., the good action and the bad action. Therefore strive for
-Yoga; Yoga is proficiency is action.
+2.50. Whosoever is endowed with determining faculty-he casts off both of these viz., the good action and the bad action. Therefore strive for Yoga; Yoga is proficiency is action.
 
 </details>
 </div>
@@ -700,17 +717,14 @@ Yoga; Yoga is proficiency is action.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 2.50 Possessed of wisdom, one rejects here both virtue and vice.
-Therefore devote yourself to (Karma-) yoga. Yoga is skilfulness in
-action.
+Therefore devote yourself to (Karma-) yoga. Yoga is skilfulness in action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.50 When a man attains to Pure Reason, he renounces in this world the
-results of good and evil alike. Cling thou to Right Action. Spirituality
-is the real art of living.
+2.50 When a man attains to Pure Reason, he renounces in this world the results of good and evil alike. Cling thou to Right Action. Spirituality is the real art of living.
 
 </details>
 </div>
@@ -725,9 +739,7 @@ Therefore endeavour for Yoga. Yoga is skill in action.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/50_buddhiyukto_jahAt.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.50 Endowed with wisdom (evenness of mind), one casts off in this life
-both good and evil deeds; therefore, devote thyself to Yoga; Yoga is
-skill in action.
+2.50 Endowed with wisdom (evenness of mind), one casts off in this life both good and evil deeds; therefore, devote thyself to Yoga; Yoga is skill in action.
 
 </details>
 </div>
@@ -735,17 +747,9 @@ skill in action.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.50 बुद्धियुक्तः endowed with wisdom; जहाति casts off; इह in this life;
-उभे both; सुकृतदुष्कृते good and evil deeds; तस्मात् therefore; योगाय to
-Yoga; युज्यस्व devote thyself; योगः Yoga; कर्मसु in actions; कौशलम्
-skill.Commentary Work performed with motive towards fruits only can bind
-a man. It will bring the fruits and the performer of the action will
-have to take birth again in this mortal world to enjoy them. If work is
-performed with evennes of mind (the Yoga of wisdom; i.e.; united to pure
-Buddhi; intelligence or reason) with the mind resting in the Lord; it
-will not bind him it will not bring any fruit it is no work at all.
-Actions which are of a binding nature lose that nature when performed
-with eanimity of mind; or poised reason. The Yogi of poised reason
-attributes all actions to the Divine Actor within (Isvara or God).
+उभे both; सुकृतदुष्कृते good and evil deeds; तस्मात् therefore; योगाय to Yoga; युज्यस्व devote thyself; योगः Yoga; कर्मसु in actions; कौशलम्
+skill.Commentary Work performed with motive towards fruits only can bind a man. It will bring the fruits and the performer of the action will have to take birth again in this mortal world to enjoy them. If work is performed with evennes of mind (the Yoga of wisdom; i.e.; united to pure Buddhi; intelligence or reason) with the mind resting in the Lord; it will not bind him it will not bring any fruit it is no work at all.
+Actions which are of a binding nature lose that nature when performed with eanimity of mind; or poised reason. The Yogi of poised reason attributes all actions to the Divine Actor within (Isvara or God).
 
 </details>
 </div>

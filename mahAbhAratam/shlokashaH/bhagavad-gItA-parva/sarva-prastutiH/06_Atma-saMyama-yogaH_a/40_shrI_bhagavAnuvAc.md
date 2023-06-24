@@ -63,14 +63,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.40 The Lord said Neither here nor there is destruction for him who has
-begun Yoga with faith and has then fallen away from it. The meaning is
-that there is no destruction either in the form of failure of attainment
-of desires or in the form of Pratyavaya, which means the attainment of
-what is undesirable because of defects in the performance of works.
-Therefore no one who practises this incomparably auspicious Yoga ever
-comes to an evil end in the present, past or future. Sri Krsna explains
-how this is so:
+6.40 The Lord said Neither here nor there is destruction for him who has begun Yoga with faith and has then fallen away from it. The meaning is that there is no destruction either in the form of failure of attainment of desires or in the form of Pratyavaya, which means the attainment of what is undesirable because of defects in the performance of works.
+Therefore no one who practises this incomparably auspicious Yoga ever comes to an evil end in the present, past or future. Sri Krsna explains how this is so:
 
 </details>
 </div>
@@ -404,27 +398,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.40. The Bhagavat said O dear Partha ! Neither in this \[world\], nor
-in the other is there a destruction for him. Certainly, no performer of
-an auspicious act does ever come to a grievous state.
+6.40. The Bhagavat said O dear Partha ! Neither in this \[world\], nor in the other is there a destruction for him. Certainly, no performer of an auspicious act does ever come to a grievous state.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.40 The Blessed Lord said O Partha, there is certainly no ruin for him
-here or hereafter. For, no one engaged in good meets with a deplorable
-end, My son!
+6.40 The Blessed Lord said O Partha, there is certainly no ruin for him here or hereafter. For, no one engaged in good meets with a deplorable end, My son!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.40 Lord Shri Krishna replied: My beloved child! There is no
-destruction for him, either in this world or in the next. No evil fate
-awaits him who treads the path of righteousness.
+6.40 Lord Shri Krishna replied: My beloved child! There is no destruction for him, either in this world or in the next. No evil fate awaits him who treads the path of righteousness.
 
 </details>
 </div>
@@ -432,31 +420,22 @@ awaits him who treads the path of righteousness.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 6.40 The Lord said Neither here (in this world) nor there (in the next),
-Arjuna, is there destruction for him. For, no one who does good ever
-comes to an evil end.
+Arjuna, is there destruction for him. For, no one who does good ever comes to an evil end.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.40 The Blessed Lord said O Arjuna, neither in this world, nor in the
-next world is there destruction for him; none, verily, who does good, O
-My son, ever comes to grief.
+6.40 The Blessed Lord said O Arjuna, neither in this world, nor in the next world is there destruction for him; none, verily, who does good, O My son, ever comes to grief.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/40_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-6.40 पार्थ O Partha, न not, एव verily, इह here, न not, अमुत्र in the
-next world, विनाशः destruction, तस्य of him, विद्यते is, न not, हि
-verily, कल्याणकृत् he who does good, कश्चित् anyone, दुर्गतिम् bad state
-or grief, तात O My son, गच्छति goes.Commentary He who has not succeeded
-in attaining to perfection in Yoga in this birth will not be destroyed
-in this world or in the next world. Surely he will not take a birth
-lower than the present one. What will he attain, then; This is described
-by the Lord in verses 41, 42, 43 and 44.
+6.40 पार्थ O Partha, न not, एव verily, इह here, न not, अमुत्र in the next world, विनाशः destruction, तस्य of him, विद्यते is, न not, हि
+verily, कल्याणकृत् he who does good, कश्चित् anyone, दुर्गतिम् bad state or grief, तात O My son, गच्छति goes.Commentary He who has not succeeded in attaining to perfection in Yoga in this birth will not be destroyed in this world or in the next world. Surely he will not take a birth lower than the present one. What will he attain, then; This is described by the Lord in verses 41, 42, 43 and 44.
 
 </details>
 </div>

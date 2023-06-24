@@ -80,19 +80,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/16_bahirantashcha_bh.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.16 Abandoning the elements like earth etc., It can exist outside the
-body. It can exist within them while performing spontaneous activities
-as established in the Srutis: 'Eating, playing, enjoying with partners
-or with vehicles' (Cha. U., 8.12.3). 'It is unmoving and yet moving' -
-it is by nature, unmoving, It is moving when It has a body. It is so
-subtle that none can comprehend It. Although existing in a body, this
-principle, possessed of all powers and omniscient, cannot be
-comprehended by bound ones because of Its subtlety and Its
-distinctiveness from the body. It is far away and yet It is very near -
-though present in one's own body, It is far away from those who are
-devoid of modesty and other alities (mentioned above) as also to those
-who possess contrary alities. To those who possess modesty and such
-other alities, the same self is very near.
+13.16 Abandoning the elements like earth etc., It can exist outside the body. It can exist within them while performing spontaneous activities as established in the Srutis: 'Eating, playing, enjoying with partners or with vehicles' (Cha. U., 8.12.3). 'It is unmoving and yet moving' -
+it is by nature, unmoving, It is moving when It has a body. It is so subtle that none can comprehend It. Although existing in a body, this principle, possessed of all powers and omniscient, cannot be comprehended by bound ones because of Its subtlety and Its distinctiveness from the body. It is far away and yet It is very near -
+though present in one's own body, It is far away from those who are devoid of modesty and other alities (mentioned above) as also to those who possess contrary alities. To those who possess modesty and such other alities, the same self is very near.
 
 </details>
 </div>
@@ -502,35 +492,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/16_bahirantashcha_bh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.16. It is without and within every being and is unmoving and yet
-moving too; due to Its subtle nature It is incomprehensible; It exists
-far away, yet near It is.
+13.16. It is without and within every being and is unmoving and yet moving too; due to Its subtle nature It is incomprehensible; It exists far away, yet near It is.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/16_bahirantashcha_bh.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.16 Existing outside and inside all beings; moving as well as
-non-moving, It is incomprehensible due to subtleness. So also, It is far
-away, and yet near.
+13.16 Existing outside and inside all beings; moving as well as non-moving, It is incomprehensible due to subtleness. So also, It is far away, and yet near.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/16_bahirantashcha_bh.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.16 It is within all beings, yet outside; motionless yet moving; too
-subtle to be perceived; far away yet always near.
+13.16 It is within all beings, yet outside; motionless yet moving; too subtle to be perceived; far away yet always near.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/16_bahirantashcha_bh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.16 It is within and without all beings; It is unmoving and yet
-moving; It is so subtle that none can comprehend It; It is far away, and
-yet It is very near.
+13.16 It is within and without all beings; It is unmoving and yet moving; It is so subtle that none can comprehend It; It is far away, and yet It is very near.
 
 </details>
 </div>
@@ -546,18 +529,10 @@ because of Its subtlety, unknowable; and near and far away is That.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 13.16 बहिः without; अन्तः within; च and; भूतानाम् of (all) beings; अचरम्
-the unmoving; चरम् the moving; एव also; च and; सूक्ष्मत्वात् because of
-Its subtlety; तत् That; अविज्ञेयम् unknowable; दूरस्थम् is far; च and;
-अन्तिके near; च and; तत् That.Commentary Brahman is subtle like the
-ether. It is incomprehensible to the unillumined on account of Its
-extreme subtlety. It is unknowable to the man who is not endowed with
-the four means of salvation.Brahman is known or realised by the wise. It
-is realised by the first class aspirant who is eipped with these means.
+the unmoving; चरम् the moving; एव also; च and; सूक्ष्मत्वात् because of Its subtlety; तत् That; अविज्ञेयम् unknowable; दूरस्थम् is far; च and;
+अन्तिके near; च and; तत् That.Commentary Brahman is subtle like the ether. It is incomprehensible to the unillumined on account of Its extreme subtlety. It is unknowable to the man who is not endowed with the four means of salvation.Brahman is known or realised by the wise. It is realised by the first class aspirant who is eipped with these means.
 It is near to the wise man or the illumined because It is his very Self.
-It is very far to the ignorant man who is drowned in worldliness or
-sensual pleasures. It is not attainable by the ignorant or unenlightened
-even in millions of years.Near and far away This expression is found in
-the Isavasya Upanishad (5) and the Mundaka Upanishad (3.17).
+It is very far to the ignorant man who is drowned in worldliness or sensual pleasures. It is not attainable by the ignorant or unenlightened even in millions of years.Near and far away This expression is found in the Isavasya Upanishad (5) and the Mundaka Upanishad (3.17).
 
 </details>
 </div>

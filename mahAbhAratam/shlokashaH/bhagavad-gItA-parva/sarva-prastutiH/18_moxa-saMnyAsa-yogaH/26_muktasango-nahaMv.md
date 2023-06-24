@@ -56,14 +56,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 18.26 'Muktasangah' is one who is free from attachment to fruits.
-'Anahamvadi' is one who is devoid of the feeling of being the agent. He
-is endued with 'steadiness and zeal.' 'Steadiness' is perseverance in
-regard to an act that has been begun in spite of the pain that is
-inevitable till the completion of the work. 'Zeal' is the possession of
-an active mind. One who is enduded with these, and whose mind remains
-firm, untouched by success and failure in war etc., and also in
-gathering the material reisities for the work on hand - such an agent
-is, of Sattvika nature.
+'Anahamvadi' is one who is devoid of the feeling of being the agent. He is endued with 'steadiness and zeal.' 'Steadiness' is perseverance in regard to an act that has been begun in spite of the pain that is inevitable till the completion of the work. 'Zeal' is the possession of an active mind. One who is enduded with these, and whose mind remains firm, untouched by success and failure in war etc., and also in gathering the material reisities for the work on hand - such an agent is, of Sattvika nature.
 
 </details>
 </div>
@@ -363,48 +356,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.26. The agent who is free from attachment; who does not make any
-speech of egoism; who is full of contentment and enthusiasm; and who
-does not change \[mentally\] in success or in failure-that agent is said
-to be of the Sattva (Strand) nature.
+18.26. The agent who is free from attachment; who does not make any speech of egoism; who is full of contentment and enthusiasm; and who does not change \[mentally\] in success or in failure-that agent is said to be of the Sattva (Strand) nature.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.26 \[Ast. introduces this verse with 'Idanim kartrbhedah ucyate, Now
-is being stated the distinctions among the agents.'-Tr.\] The agent who
-is free from attachment \[Attachment to results or the idea of
-agentship.\], not egotistic, endowed with fortitude and diligence, and
-unperturbed by success and failure is said to be possessed of sattva.
+18.26 \[Ast. introduces this verse with 'Idanim kartrbhedah ucyate, Now is being stated the distinctions among the agents.'-Tr.\] The agent who is free from attachment \[Attachment to results or the idea of agentship.\], not egotistic, endowed with fortitude and diligence, and unperturbed by success and failure is said to be possessed of sattva.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.26 But when a man has no sentiment and no personal vanity, when he
-possesses courage and confidence, cares not whether he succeeds or
-fails, then his action arises from Purity.
+18.26 But when a man has no sentiment and no personal vanity, when he possesses courage and confidence, cares not whether he succeeds or fails, then his action arises from Purity.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.26 That agent is said to be Sattvika who is free from attachment, who
-does not make much of himself, who is endued with steadiness and zeal
-and is untouched by success and failure.
+18.26 That agent is said to be Sattvika who is free from attachment, who does not make much of himself, who is endued with steadiness and zeal and is untouched by success and failure.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/26_muktasango-nahaMv.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.26 An agent who is free from attachment, non-egoistic, endowed with
-firmness and enthusiasm, and unaffected by success or failure, is called
-Sattvic (pure).
+18.26 An agent who is free from attachment, non-egoistic, endowed with firmness and enthusiasm, and unaffected by success or failure, is called Sattvic (pure).
 
 </details>
 </div>
@@ -413,19 +393,7 @@ Sattvic (pure).
 
 18.26 मुक्तसङ्गः who is free from attachment; अनहंवादी nonegoistic;
 धृत्युत्साहसमन्वितः endowed with firmness and enthusiasm;
-सिद्ध्यसिद्ध्योः in success or failure; निर्विकारः unaffected; कर्ता an
-agent; सात्त्विकः Sattvic (pure); उच्यते is called.Commentary A pure
-agent does his actions with his whole heart without feeling proud at the
-performance. He looks for the proper time and place and in accordance
-with the behests of the scriptures determines whether such actions are
-worth doing or not. He develops courage and a powerful will. He never
-seeks physical comforts. He is ite prepared to sacrifice his life for a
-noble cause. He is neither elated by success nor grieved by failure. He
-always keeps a balanced mind when he does any action. O Arjuna; that man
-is a pure agent who; while working; exhibits such alities.Siddhi Success
-attainment of the fruit of action performed.Nirvikarah Unaffected as
-having been urged to act merely by the authority of the scriptures; not
-by a desire for the sake of the reward.Now I will tell thee; O Arjuna;
+सिद्ध्यसिद्ध्योः in success or failure; निर्विकारः unaffected; कर्ता an agent; सात्त्विकः Sattvic (pure); उच्यते is called.Commentary A pure agent does his actions with his whole heart without feeling proud at the performance. He looks for the proper time and place and in accordance with the behests of the scriptures determines whether such actions are worth doing or not. He develops courage and a powerful will. He never seeks physical comforts. He is ite prepared to sacrifice his life for a noble cause. He is neither elated by success nor grieved by failure. He always keeps a balanced mind when he does any action. O Arjuna; that man is a pure agent who; while working; exhibits such alities.Siddhi Success attainment of the fruit of action performed.Nirvikarah Unaffected as having been urged to act merely by the authority of the scriptures; not by a desire for the sake of the reward.Now I will tell thee; O Arjuna;
 of the characteristics of a passionate agent.
 
 </details>

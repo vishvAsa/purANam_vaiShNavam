@@ -53,24 +53,11 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 11.13 'There', in that unie and divine body of the God of gods -
-infinite in length and breadth, with innumerable hands, stomachs, faces
-and eyes, of immeasurable splendour, eipped with innumerable divine
-weapons, adorned with innumerable divine ornaments appropriate to itself
-and with divine garlands and raiments, fragrant with celestial perfumes
-and full of wonders , there Arjuna beheld with the appropriate divine
-eyes granted by the grace of the Lord, the 'entire universe' consisting
-of Prakrti (material Nature) and the selves, all remaining in 'one
-single spot,' namely, at one single point. He beheld 'the whole
-universe' with all its sub-divisions, differentiated into varied and
-wonderful classes of experiencing beings like Brahma, gods, animals,
-men, immovables etc., and the places, objects and means of experiences
-such as earth, ether, Rasatala, Atala, Vitala, Sutala etc. He beheld
-thus the entire universe as depicted in such texts as those starting
-with 'I am the origin of all; from Me proceed everything' (10.8),
+infinite in length and breadth, with innumerable hands, stomachs, faces and eyes, of immeasurable splendour, eipped with innumerable divine weapons, adorned with innumerable divine ornaments appropriate to itself and with divine garlands and raiments, fragrant with celestial perfumes and full of wonders , there Arjuna beheld with the appropriate divine eyes granted by the grace of the Lord, the 'entire universe' consisting of Prakrti (material Nature) and the selves, all remaining in 'one single spot,' namely, at one single point. He beheld 'the whole universe' with all its sub-divisions, differentiated into varied and wonderful classes of experiencing beings like Brahma, gods, animals,
+men, immovables etc., and the places, objects and means of experiences such as earth, ether, Rasatala, Atala, Vitala, Sutala etc. He beheld thus the entire universe as depicted in such texts as those starting with 'I am the origin of all; from Me proceed everything' (10.8),
 'Indeed I shall tell you, O Arjuna, My glorious self-manifestations'
 (10.9), 'I am the Self, O Arjuna, dwelling in the hearts of all beings'
-(10.20), and 'Of Adityas, I am Visnu' (10.21), and ending with 'Nothing
-that moves or does not move exists without Me' (10.39), and 'I remain,
+(10.20), and 'Of Adityas, I am Visnu' (10.21), and ending with 'Nothing that moves or does not move exists without Me' (10.39), and 'I remain,
 with a single fraction of Myself sustaining this whole universe'
 (10.42).
 
@@ -318,9 +305,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.13. At that time the son of Pandu beheld there in the body of the
-God-of-gods, the entire universe, united in one and \[yet\] divided into
-many groups.
+11.13. At that time the son of Pandu beheld there in the body of the God-of-gods, the entire universe, united in one and \[yet\] divided into many groups.
 
 </details>
 </div>
@@ -328,8 +313,7 @@ many groups.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 11.13 At that time, Pandava saw there, in the body of the God of gods,
-the whole diversely differentiated Universe united in the one (Cosmic
-form).
+the whole diversely differentiated Universe united in the one (Cosmic form).
 
 </details>
 </div>
@@ -344,17 +328,14 @@ all embraced in One, its Supreme Lord.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.13 There (in that form) Arjuna beheld the whole universe, with its
-manifold divisions gathered together in one single spot within the body
-of the God of gods.
+11.13 There (in that form) Arjuna beheld the whole universe, with its manifold divisions gathered together in one single spot within the body of the God of gods.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/13_tatraikastha~n.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.13 There, in the body of the God of gods, Arjuna then saw the whole
-universe resting in one, with its many groups.
+11.13 There, in the body of the God of gods, Arjuna then saw the whole universe resting in one, with its many groups.
 
 </details>
 </div>
@@ -364,15 +345,7 @@ universe resting in one, with its many groups.
 11.13 तत्र there; एकस्थम् resting in one; जगत् the universe; कृत्स्नम्
 the whole; प्रविभक्तम् divided; अनेकधा in many groups; अपश्यत् saw;
 देवदेवस्य of the God of gods; शरीरे in the body; पाण्डवः son of Pandu;
-तदा then.Commentary Tatra There -- in the Cosmic Form.Anekadha Many
-groups -- gods; manes; men and other species of beings.Arjuna beheld all
-forms as the forms of the Lord; all heads as His heads; all eyes as His
-eyes; all hands as His hands; all feet as His feet; every part of every
-body as the limb of the Lords divine form. Wherever he looked he beheld
-nothing but the Lord. He got mystic divine knowledge.Sanjaya has given a
-truly graphic description of the Cosmic Form. Yet; it would be futile to
-grasp it with the finite mind. It is a transcendental vision; beyond the
-reach of the mind and senses. It has to be realised in Samadhi.
+तदा then.Commentary Tatra There -- in the Cosmic Form.Anekadha Many groups -- gods; manes; men and other species of beings.Arjuna beheld all forms as the forms of the Lord; all heads as His heads; all eyes as His eyes; all hands as His hands; all feet as His feet; every part of every body as the limb of the Lords divine form. Wherever he looked he beheld nothing but the Lord. He got mystic divine knowledge.Sanjaya has given a truly graphic description of the Cosmic Form. Yet; it would be futile to grasp it with the finite mind. It is a transcendental vision; beyond the reach of the mind and senses. It has to be realised in Samadhi.
 
 </details>
 </div>

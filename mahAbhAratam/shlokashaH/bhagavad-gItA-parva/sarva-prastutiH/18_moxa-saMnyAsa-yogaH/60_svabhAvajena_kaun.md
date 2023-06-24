@@ -64,12 +64,8 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 18.60 For, heroism is the duty of a Ksatriya born of his nature.
-Impelled by your own duty of heroism born of your own nature, you will
-lose self-control when you get the taunts of your enemies. Unable to
-suffer it, you will be compelled to engage them in battle, which, now,
-out of delusion and ignorance, you do not desire to do. All beings have
-been ordained by Me to follow their Prakrti acired by their previous
-Karmas. Listen about it:
+Impelled by your own duty of heroism born of your own nature, you will lose self-control when you get the taunts of your enemies. Unable to suffer it, you will be compelled to engage them in battle, which, now,
+out of delusion and ignorance, you do not desire to do. All beings have been ordained by Me to follow their Prakrti acired by their previous Karmas. Listen about it:
 
 </details>
 </div>
@@ -288,7 +284,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.60।। हे कौन्तेय ! तुम अपने स्वाभाविक कर्मों से बंधे हो, (अतः)
+।।18.60।। हे कौन्तेय ! तुम अपने स्वाभाविक कर्मों से बंधे हो, (अत:)
 मोहवशात् जिस कर्म को तुम करना नहीं चाहते हो, वही तुम विवश होकर करोगे।।
 
 </details>
@@ -404,9 +400,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.60. O son of Kunti ! Being bound fully by your own duty, born of your
-own nature, and also being \[hence\] not independent, you would perform
-what you do not wish to perform, because of your-delusion.
+18.60. O son of Kunti ! Being bound fully by your own duty, born of your own nature, and also being \[hence\] not independent, you would perform what you do not wish to perform, because of your-delusion.
 
 </details>
 </div>
@@ -414,27 +408,21 @@ what you do not wish to perform, because of your-delusion.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 18.60 Being bound by your own duty born of nature, O son of Kunti, you,
-being helpless, will verily do that which you do not wish to do owing to
-indiscrimination.
+being helpless, will verily do that which you do not wish to do owing to indiscrimination.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.60 O Arjuna! Thy duty binds thee. From thine own nature has it
-arisen, and that which in thy delusion thou desire not to do, that very
-thing thou shalt do. Thou art helpless.
+18.60 O Arjuna! Thy duty binds thee. From thine own nature has it arisen, and that which in thy delusion thou desire not to do, that very thing thou shalt do. Thou art helpless.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/60_svabhAvajena_kaun.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.60 O Arjuna, bound by your own duty born out of your own inner
-disposition, and having no control over your own will, you will be
-compelled to do that very thing which you now desire not to do through
-delusion.
+18.60 O Arjuna, bound by your own duty born out of your own inner disposition, and having no control over your own will, you will be compelled to do that very thing which you now desire not to do through delusion.
 
 </details>
 </div>
@@ -442,8 +430,7 @@ delusion.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 18.60 O Arjuna, bound by thy own Karma (action) born of thy own nature,
-that which from delusion thou wishest not to do, even that thou shalt do
-helplessly.
+that which from delusion thou wishest not to do, even that thou shalt do helplessly.
 
 </details>
 </div>
@@ -455,9 +442,7 @@ helplessly.
 इच्छसि (thou) wishest; यत् which; मोहात् from delusion; करिष्यसि (thou)
 shalt do; अवशः helpless; अपि also; तत् that.Commentary Thou art endowed;
 O Arjuna; with martial alities; prowess; valour; skill; etc. Thou art;
-therefore; bound by these innate alities. Thou wilt be forced to fight
-by thy own nature. Nature will constrain thee to fight; much against thy
-will.
+therefore; bound by these innate alities. Thou wilt be forced to fight by thy own nature. Nature will constrain thee to fight; much against thy will.
 
 </details>
 </div>

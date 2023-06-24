@@ -54,13 +54,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.22 One who has been 'released from these three' - from desire, wrath
-and greed which constitute the gates of darkness causing erroneous
-knowledge of Myself -, he works for the good of the self. Gaining
-knowledge of Myself, he endevaours to be inclined towards Me. From
-there, he attains the supreme goal, which is Myself. Sri Krsna now
-teaches that the main cause of this Kind of degeneration is lack of
-reverence for the Sastras:
+16.22 One who has been 'released from these three' - from desire, wrath and greed which constitute the gates of darkness causing erroneous knowledge of Myself -, he works for the good of the self. Gaining knowledge of Myself, he endevaours to be inclined towards Me. From there, he attains the supreme goal, which is Myself. Sri Krsna now teaches that the main cause of this Kind of degeneration is lack of reverence for the Sastras:
 
 </details>
 </div>
@@ -344,26 +338,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.22. O son of Kunti ! A man, who has deserted these three gates of
-darkness, does what is good for his Self and thery reaches the highest
-goal.
+16.22. O son of Kunti ! A man, who has deserted these three gates of darkness, does what is good for his Self and thery reaches the highest goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.22 O son of Kunti, a person who is free from these three doors to
-darkness strives for the good of the soul. Thery he attains the highest
-Goal.
+16.22 O son of Kunti, a person who is free from these three doors to darkness strives for the good of the soul. Thery he attains the highest Goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.22 These are the gates which lead to darkness; if a man avoid them he
-will ensure his own welfare, and in the end will attain his liberation.
+16.22 These are the gates which lead to darkness; if a man avoid them he will ensure his own welfare, and in the end will attain his liberation.
 
 </details>
 </div>
@@ -371,17 +360,14 @@ will ensure his own welfare, and in the end will attain his liberation.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 16.22 One who has been released from these threefold gates of darkness,
-O Arjuna, works for the good of the self. Hence he reaches the supreme
-state.
+O Arjuna, works for the good of the self. Hence he reaches the supreme state.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/22_etairvimuktaH_kau.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-16.22 A man who is liberated from these three gates to darkness, O
-Arjuna, practises what is good for him and thus goes to the Supreme
-Goal.
+16.22 A man who is liberated from these three gates to darkness, O Arjuna, practises what is good for him and thus goes to the Supreme Goal.
 
 </details>
 </div>
@@ -390,13 +376,8 @@ Goal.
 
 16.22 एतैः from these; विमुक्तः liberated; कौन्तेय O Kaunteya;
 तमोद्वारैः gates to darkness; त्रिभिः (by) three; नरः the man; आचरति
-practises; आत्मनः for him; श्रेयः what is good; ततः and then; याति goes
-to; पराम् the Supreme; गतिम् Goal.Commentary When these gates to hell
-are abandoned; the path to salvation is made clear for the aspirant. He
-gets the company of sages; which leads to liberation. He gets spiritual
-instructions and practises them. He hears the scriptures; reflects;
-meditates and attains Selfrealisation.Tamodvara Gate to darkness leading
-to hell which is full of pain and delusion.
+practises; आत्मनः for him; श्रेयः what is good; ततः and then; याति goes to; पराम् the Supreme; गतिम् Goal.Commentary When these gates to hell are abandoned; the path to salvation is made clear for the aspirant. He gets the company of sages; which leads to liberation. He gets spiritual instructions and practises them. He hears the scriptures; reflects;
+meditates and attains Selfrealisation.Tamodvara Gate to darkness leading to hell which is full of pain and delusion.
 
 </details>
 </div>

@@ -55,19 +55,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.16 Thus, the 'fruit of a good deed,' namely, disinterested work in
-the form of My worship, performed by one who dies when Sattva prevails -
-is birth in the family of those who know the self. There he acires more
-Sattva than before and the self becomes more pure, namely, devoid of the
-slightest vestige of suffering. So say those who know about the
-development of Sattva. But the 'fruit of Rajas,' dominating at the time
-of death, is 'suffering in Samsara.' In consists in successive births in
-families attached to actions for the sake of fruits. Rirth of this type
-increases Rajas further, resulting in actions for gaining their fruits.
+14.16 Thus, the 'fruit of a good deed,' namely, disinterested work in the form of My worship, performed by one who dies when Sattva prevails -
+is birth in the family of those who know the self. There he acires more Sattva than before and the self becomes more pure, namely, devoid of the slightest vestige of suffering. So say those who know about the development of Sattva. But the 'fruit of Rajas,' dominating at the time of death, is 'suffering in Samsara.' In consists in successive births in families attached to actions for the sake of fruits. Rirth of this type increases Rajas further, resulting in actions for gaining their fruits.
 So say those who know about the developments of this Guna. 'Ignorance'
-is the result of Tamas. The fruit of Tamas dominating at the time of
-death, is successive conditions of ignorance. What are the results
-derived from Sattva etc.; To this, He answers:
+is the result of Tamas. The fruit of Tamas dominating at the time of death, is successive conditions of ignorance. What are the results derived from Sattva etc.; To this, He answers:
 
 </details>
 </div>
@@ -398,43 +389,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.16. The fruit of good action, they say, is spotless and is of the
-Sattva; but the fruit of the Rajas is pain, and the fruit of the Tamas
-is ignorance.
+14.16. The fruit of good action, they say, is spotless and is of the Sattva; but the fruit of the Rajas is pain, and the fruit of the Tamas is ignorance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.16 They say that the result of good work is pure and is born of
-sattva. But the result of rajas is sorrow; the result of tamas is
-ignorance.
+14.16 They say that the result of good work is pure and is born of sattva. But the result of rajas is sorrow; the result of tamas is ignorance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.16 They say the fruit of a meritorious action is spotless and full of
-purity; the outcome of Passion is misery, and of Ignorance darkness.
+14.16 They say the fruit of a meritorious action is spotless and full of purity; the outcome of Passion is misery, and of Ignorance darkness.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.16 The fruits of a good deed, they say, is pure and is of the nature
-of Sattva. But the fruit of Rajas is pain; and the fruit of Tamas is
-ignorance.
+14.16 The fruits of a good deed, they say, is pure and is of the nature of Sattva. But the fruit of Rajas is pain; and the fruit of Tamas is ignorance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/16_karmaNaH_sukRtasy.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.16 The fruit of good action, they say, is Sattvic and pure, verily
-the fruit of Rajas is pain, and ignorance is the fruit of Tamas.
+14.16 The fruit of good action, they say, is Sattvic and pure, verily the fruit of Rajas is pain, and ignorance is the fruit of Tamas.
 
 </details>
 </div>
@@ -443,15 +426,8 @@ the fruit of Rajas is pain, and ignorance is the fruit of Tamas.
 
 14.16 कर्मणः of action; सुकृतस्य (of) good; आहुः (they) say; सात्त्विकम्
 Sattvic; निर्मलम् pure; फलम् the fruit; रजसः of Rajas; तु verily; फलम्
-the fruit; दुःखम् pain; अज्ञानम् ignorance; तमसः of inertia; फलम् the
-fruit.Commentary Good action Sattvic action. The fruit of good action is
-both happiness and,knowledge.They The wise.Rajas means Rajasic action as
-this verse deals with action. The fruit of Rajasic action is bitter.
-Rajasic action brings pain; disappointment and dissatisfaction. Rajasic
-activity leads to greed. When the Rajasic man tries to gratify his
-original desires; new desires crop up. This opens the door to
-greed.Tamas Tamasic action; unrighteous deeds or sin (Adharma). There is
-no knowledge within and no foresight.
+the fruit; दुःखम् pain; अज्ञानम् ignorance; तमसः of inertia; फलम् the fruit.Commentary Good action Sattvic action. The fruit of good action is both happiness and,knowledge.They The wise.Rajas means Rajasic action as this verse deals with action. The fruit of Rajasic action is bitter.
+Rajasic action brings pain; disappointment and dissatisfaction. Rajasic activity leads to greed. When the Rajasic man tries to gratify his original desires; new desires crop up. This opens the door to greed.Tamas Tamasic action; unrighteous deeds or sin (Adharma). There is no knowledge within and no foresight.
 
 </details>
 </div>

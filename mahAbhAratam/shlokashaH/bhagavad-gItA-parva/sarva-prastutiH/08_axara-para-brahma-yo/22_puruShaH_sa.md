@@ -83,57 +83,18 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.22 That Supreme Person has been declared in such texts as 'There is
-nothing higher than Myself, O Arjuna. All this is strung on Me, as rows
-of gems are on a thread' (7.7), and 'Who am beyond them and immutable'
-(7.13) - He is the Supreme Person in whom all beings abide and by whom
-all this is pervaded. He is to be attained by undivided devotion as
-described in 'Whose mind is not in anything else' (8.14). Now, Sri Krsna
-teaches the 'path of light,' described in the Srutis which is common to
-the knowers of the true nature of the self and to the persons who are
-devoted to the Supreme Person. The nature of this path is alified as one
-of 'non-return to Samsara.' In the case of a person journeying through
-the 'path of light,' as described in the text of the worship of Five
-Fires is as follows: 'So those who know It (i.e., the eternal nature of
-the individual self) thus, as taught in the Vidya of the Five Fires, and
-those too who worhip in the forest with faith and Tapas go to the deity
-ruling over the rays of light, and from there to the deity of the day'
-(Cha. U., 5.10.1). The attainment of the Supreme Brahman and the
-non-return to birth are declared with reference to those who go by the
-path of light, etc., by the teaching that 'He the Supreme Being leads
-them to Brahman ৷৷. Those who reach by this path do not return to the
-(wordly) life of man' (Cha. U., 4.15.5). This declaration of the goal in
-the text, 'Those who know it thus etc.,' is not with reference to the
-attainment of the Atman which constitutes ony the limb of the science of
-Brahman as taught in the beginning of Prajapati's teaching. For there
-will then arise purposelessness for the separate teaching of the same in
-regard to the principal science of the Supreme in the text. 'Those who
-are in the forest worship by means of faith and austerity etc.,' (Cha.
+8.22 That Supreme Person has been declared in such texts as 'There is nothing higher than Myself, O Arjuna. All this is strung on Me, as rows of gems are on a thread' (7.7), and 'Who am beyond them and immutable'
+(7.13) - He is the Supreme Person in whom all beings abide and by whom all this is pervaded. He is to be attained by undivided devotion as described in 'Whose mind is not in anything else' (8.14). Now, Sri Krsna teaches the 'path of light,' described in the Srutis which is common to the knowers of the true nature of the self and to the persons who are devoted to the Supreme Person. The nature of this path is alified as one of 'non-return to Samsara.' In the case of a person journeying through the 'path of light,' as described in the text of the worship of Five Fires is as follows: 'So those who know It (i.e., the eternal nature of the individual self) thus, as taught in the Vidya of the Five Fires, and those too who worhip in the forest with faith and Tapas go to the deity ruling over the rays of light, and from there to the deity of the day'
+(Cha. U., 5.10.1). The attainment of the Supreme Brahman and the non-return to birth are declared with reference to those who go by the path of light, etc., by the teaching that 'He the Supreme Being leads them to Brahman ৷৷. Those who reach by this path do not return to the
+(wordly) life of man' (Cha. U., 4.15.5). This declaration of the goal in the text, 'Those who know it thus etc.,' is not with reference to the attainment of the Atman which constitutes ony the limb of the science of Brahman as taught in the beginning of Prajapati's teaching. For there will then arise purposelessness for the separate teaching of the same in regard to the principal science of the Supreme in the text. 'Those who are in the forest worship by means of faith and austerity etc.,' (Cha.
 U., 5.10.1). It is taught in the Vidya (meditation) of Five Fires:
 'Thus, indeed, in the fifth oblation the waters become Purusa' (Cha. U.,
-5.9.1) and 'Those with a balance of good Karmas ৷৷. and those with a
-balance of bad Karmas' (Ibid., 5.10.7). What is to be understood here is
-that the state of existence as men and other beings, which has its
-origin in good and evil Karmas, refer to the 'waters' which alone are
-mixed with other elements (i.e., to the body-mind); as for the self,
-there is only contact with them and not identification. Thus, is
-declared the difference between intelligent self and inanimate matter.
-Then, by the texts, 'Those who know this' (Ibid., 5.10.1), 'Those who go
-to the rays of light' (Ibid.), and 'They who proceed by it return not to
-the human condition here,' it is instructed that those who know this
-concerning the sentient and inanimate entities - the one to be attained
-and the other to be rejected , they jourey along the path described by
-the terms 'beginning with light and do not return to Samsara'. On
-account of the passage, 'He leads them to the Brahman' (Ibid., 4.15.5),
-which holds that the Brahman is attained by both the knower of real
-nature of the self and the devotees of the Supreme Person and also
-because of the axiom of 'results according to efforts'
+5.9.1) and 'Those with a balance of good Karmas ৷৷. and those with a balance of bad Karmas' (Ibid., 5.10.7). What is to be understood here is that the state of existence as men and other beings, which has its origin in good and evil Karmas, refer to the 'waters' which alone are mixed with other elements (i.e., to the body-mind); as for the self,
+there is only contact with them and not identification. Thus, is declared the difference between intelligent self and inanimate matter.
+Then, by the texts, 'Those who know this' (Ibid., 5.10.1), 'Those who go to the rays of light' (Ibid.), and 'They who proceed by it return not to the human condition here,' it is instructed that those who know this concerning the sentient and inanimate entities - the one to be attained and the other to be rejected , they jourey along the path described by the terms 'beginning with light and do not return to Samsara'. On account of the passage, 'He leads them to the Brahman' (Ibid., 4.15.5),
+which holds that the Brahman is attained by both the knower of real nature of the self and the devotees of the Supreme Person and also because of the axiom of 'results according to efforts'
 (Tat-kratu-nyaya), the entity self, separated from the inanimate matter,
-should be constantly meditated upon as having its sole joy in absolute
-subservience to the Supreme Brahman who is Its self. The self's nature
-of finding only joy consists in absolute subservience to the Surpeme
-Person. This is proved from the Srutis like 'He who dwells within the
-self ৷৷. whose body is the self' (Sa. Bra., 14.6.5.5.30).
+should be constantly meditated upon as having its sole joy in absolute subservience to the Supreme Brahman who is Its self. The self's nature of finding only joy consists in absolute subservience to the Surpeme Person. This is proved from the Srutis like 'He who dwells within the self ৷৷. whose body is the self' (Sa. Bra., 14.6.5.5.30).
 
 </details>
 </div>
@@ -493,63 +454,39 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.22. The Supreme Soul. O son of Prtha, is attainable through devotion
-that admits no other things; having attained Which Soul, the men of Yoga
-do not get birth again; within Which exist the beings; and in Which
-everything is well established, O Arjuna !
+8.22. The Supreme Soul. O son of Prtha, is attainable through devotion that admits no other things; having attained Which Soul, the men of Yoga do not get birth again; within Which exist the beings; and in Which everything is well established, O Arjuna !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.22 O son of Prtha, that supreme Person-in whom are included (all) the
-beings and by whom all this is pervaded-is, indeed, reached through
-one-pointed devotion.
+8.22 O son of Prtha, that supreme Person-in whom are included (all) the beings and by whom all this is pervaded-is, indeed, reached through one-pointed devotion.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.22 O Arjuna! That Highest God, in Whom all beings abide, and Who
-pervades the entire universe, is reached only by wholehearted devotion.
-\[The following material (between the asterisks) is an example of what
-may be a "doctored' inclusion. It does not jibe with the rest of the
-material because it is not presented as metaphor and clearly implies
-that worldly phenomena are spiritually determining. Maybe it was added
-by an individual or individuals who were less cognizant than the
-originating author. Or maybe was 'craftily' inserted to function as a
-sort of litmus test - those who get"taken in' by it may be recognized as
-not having "spiritual discernment'.\]
+8.22 O Arjuna! That Highest God, in Whom all beings abide, and Who pervades the entire universe, is reached only by wholehearted devotion.
+\[The following material (between the asterisks) is an example of what may be a "doctored' inclusion. It does not jibe with the rest of the material because it is not presented as metaphor and clearly implies that worldly phenomena are spiritually determining. Maybe it was added by an individual or individuals who were less cognizant than the originating author. Or maybe was 'craftily' inserted to function as a sort of litmus test - those who get"taken in' by it may be recognized as not having "spiritual discernment'.\]
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.22 That highest Purusha, O Arjuna, is attainable by unswerving
-devotion to Him alone within Whom all beings dwell and by Whom all this
-is pervaded.
+8.22 That highest Purusha, O Arjuna, is attainable by unswerving devotion to Him alone within Whom all beings dwell and by Whom all this is pervaded.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/08_axara-para-brahma-yo/22_puruShaH_sa.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-8.22 पुरुषः Purusha; सः that; परः highest; पार्थ O Partha; भक्त्या by
-devotion; लभ्यः is attainable; तु verily; अनन्यया without another object
+8.22 पुरुषः Purusha; सः that; परः highest; पार्थ O Partha; भक्त्या by devotion; लभ्यः is attainable; तु verily; अनन्यया without another object
 (unswerving); यस्य of whom; अन्तःस्थानि dwelling within; भूतानि beings;
-येन by whom; सर्वम् all; इदम् this; ततम् pervaded.Commentary All the
-beings (effects) dwell within the Purusha (the Supreme Person; the
-cause) because every effect rests within its cause. Just as the effect;
-pot; rests within its cause; the clay; so also all beings and the worlds
-rest within their cause; the Purusha. Therefore the whole world is
-pervaded by the Purusha.Sri Sankara explains exclusive devotion as Jnana
-or knowledge of the Self.Purusha is so called because everything is
-filled by It (derived from the Sanskrit root pur which means to fill) or
-because It rests in the body of all (derived from the Sanskrit root
-pur). None is higher than It and so It is the Supreme Person.
+येन by whom; सर्वम् all; इदम् this; ततम् pervaded.Commentary All the beings (effects) dwell within the Purusha (the Supreme Person; the cause) because every effect rests within its cause. Just as the effect;
+pot; rests within its cause; the clay; so also all beings and the worlds rest within their cause; the Purusha. Therefore the whole world is pervaded by the Purusha.Sri Sankara explains exclusive devotion as Jnana or knowledge of the Self.Purusha is so called because everything is filled by It (derived from the Sanskrit root pur which means to fill) or because It rests in the body of all (derived from the Sanskrit root pur). None is higher than It and so It is the Supreme Person.
 (Cf.IX.4XI.38XV.6and7)
 
 </details>

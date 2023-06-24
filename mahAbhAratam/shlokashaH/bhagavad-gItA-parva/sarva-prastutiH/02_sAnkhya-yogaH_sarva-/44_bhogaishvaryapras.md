@@ -31,37 +31,18 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+2.42 इति द्रष्टव्यम्॥
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.42 - 2.44 The ignorant, whose knowledge is little, and who have as
-their sole aim the attainment of enjoyment and power, speak the flowery
-language i.e., having its flowers (show) only as fruits, which look
-apparently beautiful at first sight. They rejoice in the letter of the
-Vedas i.e., they are attached to heaven and such other results (promised
-in the Karma-kanda of the Vedas). They say that there is nothing else,
-owing to their intense attachment to these results. They say that there
-is no fruit superior to heaven etc. They are full of worldly desires and
-their minds are highly attached to secular desires. They hanker for
-heaven, i.e. think of the enjoyment of the felicities of heaven, after
-which one can again have rirth which offers again the opportunity to
-perform varied rites devoid of true knowledge and leads towards the
-attainment of enjoyments and power once again. With regard to those who
-cling to pleasure and power and whose understanding is contaminated by
-that flowery speech relating to pleasure and lordly powers, the
-aforesaid mental disposition characterised by resolution, will not arise
-in their Samadhi. Samadhi here means the mind. The knowledge of the self
-will not arise in such minds. In the minds of these persons, there
-cannot arise the mental disposition that looks on all Vedic rituals as
-means for liberation based on the determined conviction about the real
-form of the self. Hence, in an aspirant for liberation, there should be
-no attachment to rituals out of the conviction that they are meant for
-the acisition of objects of desire only. It may be estioned why the
-Vedas, which have more of love for Jivas than thousands of parents, and
-which are endeavouring to save the Jivas, should prescribe in this way
-rites whose fruits are infinitesimal and which produce only new births.
-It can also be asked if it is proper to abandon what is given in the
-Vedas. Sri Krsna replies to these estions.
+2.42 - 2.44 The ignorant, whose knowledge is little, and who have as their sole aim the attainment of enjoyment and power, speak the flowery language i.e., having its flowers (show) only as fruits, which look apparently beautiful at first sight. They rejoice in the letter of the Vedas i.e., they are attached to heaven and such other results (promised in the Karma-kanda of the Vedas). They say that there is nothing else,
+owing to their intense attachment to these results. They say that there is no fruit superior to heaven etc. They are full of worldly desires and their minds are highly attached to secular desires. They hanker for heaven, i.e. think of the enjoyment of the felicities of heaven, after which one can again have rirth which offers again the opportunity to perform varied rites devoid of true knowledge and leads towards the attainment of enjoyments and power once again. With regard to those who cling to pleasure and power and whose understanding is contaminated by that flowery speech relating to pleasure and lordly powers, the aforesaid mental disposition characterised by resolution, will not arise in their Samadhi. Samadhi here means the mind. The knowledge of the self will not arise in such minds. In the minds of these persons, there cannot arise the mental disposition that looks on all Vedic rituals as means for liberation based on the determined conviction about the real form of the self. Hence, in an aspirant for liberation, there should be no attachment to rituals out of the conviction that they are meant for the acisition of objects of desire only. It may be estioned why the Vedas, which have more of love for Jivas than thousands of parents, and which are endeavouring to save the Jivas, should prescribe in this way rites whose fruits are infinitesimal and which produce only new births.
+It can also be asked if it is proper to abandon what is given in the Vedas. Sri Krsna replies to these estions.
 
 </details>
 </div>
@@ -448,62 +429,45 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.44. Those, who are very much attached to the ownership of enjoyable
-objects and whose minds have been carried away by that (flowery
-speech)-their knowledge, in the form of determination is not prescribed
-for concentration.
+2.44. Those, who are very much attached to the ownership of enjoyable objects and whose minds have been carried away by that (flowery speech)-their knowledge, in the form of determination is not prescribed for concentration.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.44 One-pointed conviction does not become established in the minds of
-those who delight in enjoyment and affluence, and whose intellects are
-carried away by that (speech).
+2.44 One-pointed conviction does not become established in the minds of those who delight in enjoyment and affluence, and whose intellects are carried away by that (speech).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.44 While their minds are absorbed with ideas of power and personal
-enjoyment, they cannot concentrate their discrimination on one point.
+2.44 While their minds are absorbed with ideas of power and personal enjoyment, they cannot concentrate their discrimination on one point.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.42 - 2.44 O! Partha, the unwise, who rejoice in the letter of the
-Vedas, say, 'There is nothing else.' They are full only of wordly
-desires and they hanker for heaven. They speak flowery words which offer
-rirth as the fruit of work. They look upon the Vedas as consisting
-entirely of varied rites for the attainment of pleasure and power. Those
-who cling so to pleasure and power are attracted by that speech
-(offering heavenly rewards) and are unable to develop the resolute will
-of a concentrated mind.
+2.42 - 2.44 O! Partha, the unwise, who rejoice in the letter of the Vedas, say, 'There is nothing else.' They are full only of wordly desires and they hanker for heaven. They speak flowery words which offer rirth as the fruit of work. They look upon the Vedas as consisting entirely of varied rites for the attainment of pleasure and power. Those who cling so to pleasure and power are attracted by that speech
+(offering heavenly rewards) and are unable to develop the resolute will of a concentrated mind.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.44 For those who are attached to pleasure and power, whose minds are
-drawn away by such teaching, ï1thatï1 determinate reason is not formed
-which is steadily bent on meditation and Samadhi (superconscious state).
+2.44 For those who are attached to pleasure and power, whose minds are drawn away by such teaching, ï1thatï1 determinate reason is not formed which is steadily bent on meditation and Samadhi (superconscious state).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/44_bhogaishvaryapras.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.44 भोगैश्वर्यप्रसक्तानाम् of the people deeply attached to pleasure
-and lordship; तया by that; अपहृतचेतसाम् whose minds are drawn away;
+2.44 भोगैश्वर्यप्रसक्तानाम् of the people deeply attached to pleasure and lordship; तया by that; अपहृतचेतसाम् whose minds are drawn away;
 व्यवसायात्मिका determinate; बुद्धिः reason; समाधौ in Samadhi; न not;
-विधीयते is fixed.Commentary Those who cling to pleasure and power cannot
-have steadiness of mind. They cannot concentrate or meditate. They are
-ever busy in planning projects for the acisition of wealth and power.
+विधीयते is fixed.Commentary Those who cling to pleasure and power cannot have steadiness of mind. They cannot concentrate or meditate. They are ever busy in planning projects for the acisition of wealth and power.
 Their minds are ever restless. They have no poised understanding.
 
 </details>

@@ -54,12 +54,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.38 That which at the 'beginning,' i.e., at the time of experience
-looks like elixir because of the contact of senses with their objects
-agreable to them, but 'at the end,' i.e., when satiation or further
-incapacity to enjoy due to over-indulgence in them occurs, looks life
-poison - that pleasure is said to be Rajasika. In this latter state
-these so-called enjoyments cause the misery of Naraka.
+18.38 That which at the 'beginning,' i.e., at the time of experience looks like elixir because of the contact of senses with their objects agreable to them, but 'at the end,' i.e., when satiation or further incapacity to enjoy due to over-indulgence in them occurs, looks life poison - that pleasure is said to be Rajasika. In this latter state these so-called enjoyments cause the misery of Naraka.
 
 </details>
 </div>
@@ -374,9 +369,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.38. \[The happiness\] which is like nectar at its time due to the
-contact between the senses and sense-objects; but which is like poison
-at the time of its result-that is considered to be of the Rajas
+18.38. \[The happiness\] which is like nectar at its time due to the contact between the senses and sense-objects; but which is like poison at the time of its result-that is considered to be of the Rajas
 (Strand).
 
 </details>
@@ -384,59 +377,38 @@ at the time of its result-that is considered to be of the Rajas
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.38 That joy is referred to as born of rajas which, arising from the
-contact of the organs and (their) objects, is like nectar in the
-beginning, but like poison at the end.
+18.38 That joy is referred to as born of rajas which, arising from the contact of the organs and (their) objects, is like nectar in the beginning, but like poison at the end.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.38 That which as first is like nectar, because the senses revel in
-their objects, but in the end acts like poison - that pleasure arises
-from Passion.
+18.38 That which as first is like nectar, because the senses revel in their objects, but in the end acts like poison - that pleasure arises from Passion.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.38 That pleasure which arises from the contact of senses with their
-objects, which is like elixir at first but like poison in the end, is
-said to be Rajasika.
+18.38 That pleasure which arises from the contact of senses with their objects, which is like elixir at first but like poison in the end, is said to be Rajasika.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.38 That happiness which arises from the contact of the sense-organs
-with the objects, which is at first like nectar, and in the end like
-poison that is declared to be Rajasic.
+18.38 That happiness which arises from the contact of the sense-organs with the objects, which is at first like nectar, and in the end like poison that is declared to be Rajasic.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/38_viShayendriyasaMy.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.38 विषयेन्द्रियसंयोगात् from the contact of the senseorgans with the
-objects; यत् which; तत् that; अग्रे at first; अमृतोपमम् like nectar;
+18.38 विषयेन्द्रियसंयोगात् from the contact of the senseorgans with the objects; यत् which; तत् that; अग्रे at first; अमृतोपमम् like nectar;
 परिणामे in the end; विषम् poison; इव like; तत् that; सुखम् pleasure;
-राजसम् Rajasic; स्मृतम् is declared.Commentary Sensual pleasure is mixed
-with pain; fear and sin. A small grain of sensual pleasure is mixed with
-a mountain of pain. He who indulges in sensual pleasures will have to
-experience pain also; side by side. He is afraid of losing the objects
-that give him pleasure. He is attached to them. Attachment is death. It
-brings him again and again to this world of death. Fear and attachment
-coexist with sensual pleasure. He has to exert a lot to get money. He
-can obtain the objects through money. During exertion he commits many
-sinful acts and he will have to suffer in hell. The next birth will be
-of a very low nature. He tells lies and cheats people to obtain money.
-The senses also lose their vigour through indulgence in sensual
-pleasure. He loses his strength; vigour; wealth and energy. His
-intellect becomes dull; weak; impure; turbid and perverted. He loses his
-money and proper understanding. (Cf.V.22)
+राजसम् Rajasic; स्मृतम् is declared.Commentary Sensual pleasure is mixed with pain; fear and sin. A small grain of sensual pleasure is mixed with a mountain of pain. He who indulges in sensual pleasures will have to experience pain also; side by side. He is afraid of losing the objects that give him pleasure. He is attached to them. Attachment is death. It brings him again and again to this world of death. Fear and attachment coexist with sensual pleasure. He has to exert a lot to get money. He can obtain the objects through money. During exertion he commits many sinful acts and he will have to suffer in hell. The next birth will be of a very low nature. He tells lies and cheats people to obtain money.
+The senses also lose their vigour through indulgence in sensual pleasure. He loses his strength; vigour; wealth and energy. His intellect becomes dull; weak; impure; turbid and perverted. He loses his money and proper understanding. (Cf.V.22)
 
 </details>
 </div>

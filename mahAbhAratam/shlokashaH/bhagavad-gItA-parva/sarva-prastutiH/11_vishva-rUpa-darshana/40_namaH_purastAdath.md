@@ -78,17 +78,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/40_namaH_purastAdath.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.40 You, of infinite prowess and measureless heroic action, pervade
-all beings as their very Self and therefore, are, in reality all of
-them. Terms, naming all other entities, are truly naming You; for they,
-both sentient as well as non-sentient, constitute Your body, and as such
-are just Your modes. Therefore You alone, having them all as Your modes,
-are signified by all terms standing for them. In the texts, 'O by You of
-infinite form, is the cosmos pervaded' (11.38) and 'You pervade all, and
-hence are all' (11.40), it is clearly stated that the pervasion as the
-Self is the only rationale for speaking of them as one with You, in the
-sense of co-ordinate predication as in the text, 'You are the
-imperishable and also being and non-being' (11.37) and 'You are Vayu,
+11.40 You, of infinite prowess and measureless heroic action, pervade all beings as their very Self and therefore, are, in reality all of them. Terms, naming all other entities, are truly naming You; for they,
+both sentient as well as non-sentient, constitute Your body, and as such are just Your modes. Therefore You alone, having them all as Your modes,
+are signified by all terms standing for them. In the texts, 'O by You of infinite form, is the cosmos pervaded' (11.38) and 'You pervade all, and hence are all' (11.40), it is clearly stated that the pervasion as the Self is the only rationale for speaking of them as one with You, in the sense of co-ordinate predication as in the text, 'You are the imperishable and also being and non-being' (11.37) and 'You are Vayu,
 Yama and Agni' (11.39).
 
 </details>
@@ -333,7 +325,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/11_vishva-rUpa-darshana/40_namaH_purastAdath.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।11.40।। हे अनन्तसार्मथ्य वाले भगवन्! आपके लिए अग्रतः और पृष्ठतः
+।।11.40।। हे अनन्तसार्मथ्य वाले भगवन्! आपके लिए अग्रत: और पृष्ठत:
 नमस्कार है, हे सर्वात्मन्! आपको सब ओर से नमस्कार है। आप अमित विक्रमशाली
 हैं और आप सबको व्याप्त किये हुए हैं, इससे आप सर्वरूप हैं।।
 
@@ -366,44 +358,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 11.40. Salutation to You in the front and behind; salutation to You,
-just on all sides, O One Who are All ! You are of infinite might and of
-immeasurable powers; and You pervade all and hence You are all.
+just on all sides, O One Who are All ! You are of infinite might and of immeasurable powers; and You pervade all and hence You are all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/40_namaH_purastAdath.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.40 Salutation to You in the East and behind. Salutation be to You on
-all sides in deed, O All! You are possessed of infinite strength and
-infinite heroism. You pervade everything; hence You are all!
+11.40 Salutation to You in the East and behind. Salutation be to You on all sides in deed, O All! You are possessed of infinite strength and infinite heroism. You pervade everything; hence You are all!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/40_namaH_purastAdath.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.40 Salutations to Thee in front and on every side, Thou who
-encompasseth me round about. Thy power is infinite; Thy majesty
-immeasurable; thou upholdest all things; yea,Thou Thyself art All.
+11.40 Salutations to Thee in front and on every side, Thou who encompasseth me round about. Thy power is infinite; Thy majesty immeasurable; thou upholdest all things; yea,Thou Thyself art All.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/40_namaH_purastAdath.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.40 (a) Salutation to You from before and behind! Salutation to You
-from all sides, O All!৷৷. (b) ৷৷. O You of infinite prowess and heroic
-action which are measureless! You pervade all beings and therefore are
-all.
+11.40 (a) Salutation to You from before and behind! Salutation to You from all sides, O All!৷৷. (b) ৷৷. O You of infinite prowess and heroic action which are measureless! You pervade all beings and therefore are all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/40_namaH_purastAdath.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.40 Salutations to Thee, in front and behind! Salutations to Thee on
-every side! O All!! Thou infinite in power and prowess, pervadest all;
+11.40 Salutations to Thee, in front and behind! Salutations to Thee on every side! O All!! Thou infinite in power and prowess, pervadest all;
 wherefore Thou art all.
 
 </details>
@@ -412,21 +395,10 @@ wherefore Thou art all.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 11.40 नमः salutation; पुरस्तात् (from) front; अथ also; पृष्ठतः (from)
-behind; ते to Thee; नमः salutation; अस्तु be; ते to Thee; सर्वतः on
-every side; एव even; सर्व O all; अनन्तवीर्य infinite power; अमितविक्रमः
+behind; ते to Thee; नमः salutation; अस्तु be; ते to Thee; सर्वतः on every side; एव even; सर्व O all; अनन्तवीर्य infinite power; अमितविक्रमः
 infinite in prowess; त्वम् Thou; सर्वम् all; समाप्नोषि pervadest; ततः
-wherefore; असि (Thou) art; सर्वः all.Commentary The words I prostrate
-myself before Thee; behind Thee and on every side indicate the
-allpervading nature of the Lord. How can the allpervading Self have
-front and back Finite objects only have front and back sides Arjuna
-imagined that there were front and back sides to the Lord and so
-prostrated himself in his extreme faith and devotion.O All Nothing
-exists without Thee. As the Self is allpervading; He is called the All.
-There is nothing except the Self.On every side; as Thou art present
-everywhere or in all arters.One may be powerful but may not possess the
-courage to kill the enemies or he may be endowed with a mild form of
-courge but the Lord is infinite in courage and infinite in
-power.Pervadest by Thy One Self.
+wherefore; असि (Thou) art; सर्वः all.Commentary The words I prostrate myself before Thee; behind Thee and on every side indicate the allpervading nature of the Lord. How can the allpervading Self have front and back Finite objects only have front and back sides Arjuna imagined that there were front and back sides to the Lord and so prostrated himself in his extreme faith and devotion.O All Nothing exists without Thee. As the Self is allpervading; He is called the All.
+There is nothing except the Self.On every side; as Thou art present everywhere or in all arters.One may be powerful but may not possess the courage to kill the enemies or he may be endowed with a mild form of courge but the Lord is infinite in courage and infinite in power.Pervadest by Thy One Self.
 
 </details>
 </div>

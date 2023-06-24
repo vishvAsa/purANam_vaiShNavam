@@ -67,16 +67,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.18 The sages are those who know the real nature of the self in all
-beings. They see the selves to be of the same nature, though they are
-perceived in extremely dissimlar embodiments such as those of one
-endowed with learning and humility, a mere Brahmana, a cow, an elephant,
-a dog, a dog-eater etc., because they all have the same form of
-knowledge in their nature as the Atman. The dissimilarity of the forms
-observed is due to Prakrti (body) and not to any dissimilarity in the
-self; conseently they, the wise, perceive the self as the same
-everywhere, because all selves, though distinct, have the same form of
-knowledge.
+5.18 The sages are those who know the real nature of the self in all beings. They see the selves to be of the same nature, though they are perceived in extremely dissimlar embodiments such as those of one endowed with learning and humility, a mere Brahmana, a cow, an elephant,
+a dog, a dog-eater etc., because they all have the same form of knowledge in their nature as the Atman. The dissimilarity of the forms observed is due to Prakrti (body) and not to any dissimilarity in the self; conseently they, the wise, perceive the self as the same everywhere, because all selves, though distinct, have the same form of knowledge.
 
 </details>
 </div>
@@ -564,43 +556,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.18. The wise men look, by nature, eally upon a Brahmana, rich in
-learning and humility, on a cow, on an elephant, and on a mere dog and
-on a dog-cooker (an out-caste).
+5.18. The wise men look, by nature, eally upon a Brahmana, rich in learning and humility, on a cow, on an elephant, and on a mere dog and on a dog-cooker (an out-caste).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.18 The learned ones look with eanimity on a Brahmana endowed with
-learning and humality, a cow, an elephant and even a dog as well as an
-eater of dog's meat.
+5.18 The learned ones look with eanimity on a Brahmana endowed with learning and humality, a cow, an elephant and even a dog as well as an eater of dog's meat.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.18 Sages look equally upon all, whether he be a minister of learning
-and humility, or an infidel, or whether it be a cow, an elephant or a
-dog.
+5.18 Sages look equally upon all, whether he be a minister of learning and humility, or an infidel, or whether it be a cow, an elephant or a dog.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.18 The sages look with an eal eye on one endowed with learning and
-humility, a Brahmana, a cow, an elephant, a dog and a dog-eater.
+5.18 The sages look with an eal eye on one endowed with learning and humility, a Brahmana, a cow, an elephant, a dog and a dog-eater.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/18_vidyAvinayasampan.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.18 Sages look with an eal eye on a Brahmana endowed with learning and
-humility, on a cow, on an elephant, and even on a dog and an outcaste.
+5.18 Sages look with an eal eye on a Brahmana endowed with learning and humility, on a cow, on an elephant, and even on a dog and an outcaste.
 
 </details>
 </div>
@@ -608,22 +592,9 @@ humility, on a cow, on an elephant, and even on a dog and an outcaste.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 5.18 विद्याविनयसंपन्ने upon one endowed with learning and humility;
-ब्राह्मणे on a Brahmana; गवि on a cow; हस्तिनि on an elephant; शुनि on a
-dog; च and; एव even; श्वपाके on an outcaste; च and; पण्डिताः sages;
-समदर्शिनः eal seeing.Commentary The liberated sage or Jivanmukta or a
-Brahmana has eal vision as he beholds the Self only everywhere. This
-magnificent vision of a Jnani is beyond description. Atman or Brahman is
-not at all affected by the Upadhis or limiting adjuncts as He is
-extremely subtle; pure; formless and attributeless. The suns reflection
-falls on the river Ganga; on the ocean or on a dirty stream. The sun is
-not at all affected in any way. This makes no difference to the sun. So
-is the case with the Supreme Self. The Upadhis (limiting adjuncts)
-cannot affect Him. Just as the ether is not affected by the limiting
-adjuncts; viz.; a pot; the walls of a room; cloud; etc.; so also the
-Self is not affected by the Upadhis.The Brahmana is Sattvic. The cow is
-Rajasic. The elephant; the dog and the outcaste are Tamasic. The sge
-sees in all of them the one homogeneous immortal Self Who is not
-affected by the three Gunas and their tendencies. (Cf.VI.8;32XIV.24)
+ब्राह्मणे on a Brahmana; गवि on a cow; हस्तिनि on an elephant; शुनि on a dog; च and; एव even; श्वपाके on an outcaste; च and; पण्डिताः sages;
+समदर्शिनः eal seeing.Commentary The liberated sage or Jivanmukta or a Brahmana has eal vision as he beholds the Self only everywhere. This magnificent vision of a Jnani is beyond description. Atman or Brahman is not at all affected by the Upadhis or limiting adjuncts as He is extremely subtle; pure; formless and attributeless. The suns reflection falls on the river Ganga; on the ocean or on a dirty stream. The sun is not at all affected in any way. This makes no difference to the sun. So is the case with the Supreme Self. The Upadhis (limiting adjuncts)
+cannot affect Him. Just as the ether is not affected by the limiting adjuncts; viz.; a pot; the walls of a room; cloud; etc.; so also the Self is not affected by the Upadhis.The Brahmana is Sattvic. The cow is Rajasic. The elephant; the dog and the outcaste are Tamasic. The sge sees in all of them the one homogeneous immortal Self Who is not affected by the three Gunas and their tendencies. (Cf.VI.8;32XIV.24)
 
 </details>
 </div>

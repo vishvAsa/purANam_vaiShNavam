@@ -59,15 +59,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.37 That pleasure, which 'at the beginning,' i.e., at the time of
-beginning of Yoga, is 'like poison,' i.e., is painful because it reires
-strenuous efforts and because the distinct nature of the self is not yet
-experienced, but which after long practice fructifies in the blissful
-experience of the self - that joy born of a serene state of mind
+18.37 That pleasure, which 'at the beginning,' i.e., at the time of beginning of Yoga, is 'like poison,' i.e., is painful because it reires strenuous efforts and because the distinct nature of the self is not yet experienced, but which after long practice fructifies in the blissful experience of the self - that joy born of a serene state of mind
 'focusing on the self' is Sattvika. The Buddhi concerning the self is
-'Atama-buddhi.' When all objects are withdrawn from that Buddhi it
-becomes serene (Prasanna). The joy born of the experience of the self in
-its distinct nature, when all objects are withdrawn from the Buddhi,
+'Atama-buddhi.' When all objects are withdrawn from that Buddhi it becomes serene (Prasanna). The joy born of the experience of the self in its distinct nature, when all objects are withdrawn from the Buddhi,
 becomes 'like elixir'. That joy is said to be Sattvika.
 
 </details>
@@ -439,18 +433,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.37. \[The happiness\] which is like poison at its time but is like
-nectar at the time of its result-that happiness, born of serenity of the
-Soul and intellect, you must know to be of the Sattva (Strand).
+18.37. \[The happiness\] which is like poison at its time but is like nectar at the time of its result-that happiness, born of serenity of the Soul and intellect, you must know to be of the Sattva (Strand).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.37 That which is like poison in the beginning, but comparable to
-nectar in the end, and which, arises from the purity of one's
-intellect-that joy is spoken of as born of sattva.
+18.37 That which is like poison in the beginning, but comparable to nectar in the end, and which, arises from the purity of one's intellect-that joy is spoken of as born of sattva.
 
 </details>
 </div>
@@ -465,18 +455,14 @@ that pleasure is Pure, for it is born of Wisdom.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.37 That which is like a poison at first but becomes like elixir in
-the end, born from the serene state of mind focusing on the self - such
-pleasure is said to be Sattvika.
+18.37 That which is like a poison at first but becomes like elixir in the end, born from the serene state of mind focusing on the self - such pleasure is said to be Sattvika.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/37_yattadagre_viSham.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.37 That which is like poison at first but in the end like nectar that
-happiness is declared to be Sattvic, born of the purity of one's own
-mind due to Self-realisation.
+18.37 That which is like poison at first but in the end like nectar that happiness is declared to be Sattvic, born of the purity of one's own mind due to Self-realisation.
 
 </details>
 </div>
@@ -486,26 +472,7 @@ mind due to Self-realisation.
 18.37 यत् which; तत् that; अग्रे at first; विषम् poison; इव like;
 परिणामे in the end; अमृतोपमम् like nectar; तत् that; सुखम् pleasure;
 सात्त्विकम् Sattvic; प्रोक्तम् is declared (to be); आत्मबुद्धिप्रसादजम्
-born of the purity of ones own mind due to Selfrealisation.Commentary
-Agree vishma iva In the beginning it is attended with much pain as one
-has to abandon the sensual objects and comforts and practise severe
-austerities and rigorous Sadhana. He has to undergo a severe ordeal when
-he practises Yama; Niyama; Tapas and various other vows. He has to
-cultivate dispassion or indifference to sensual pleasures. This gives
-him much pain at first. The practice of concentration and meditation
-also gives pain the beginning. Subjugation of the senses is also very
-troublesome. Nux vomica is very bitter. One feels much discomfort when
-he takes a mixture that contains nux vomica. But he derives much
-pleasure in the end when he gets vigour and good appetite and when his
-dyspepsia is cured. Even so the aspirant drinks the nectar of
-immortality in the end; attains the highest knowledge; rejoices in
-the,Self to his hearts content and enjoys supreme peace and eternal
-bliss.Proktam It is declared by the wise.Atmabuddhiprasadajam Born as
-purity of ones own intellect or born of the direct; perfect and clear
-knowledge of Brahman or the immortal; selfluminous; eternal and supreme
-Self or the Absolute. The individual self experiences Sattvic happiness
-when it realises union with the highest Self.The pleasure so born is
-Sattvic. (Cf.VI.1;2)
+born of the purity of ones own mind due to Selfrealisation.Commentary Agree vishma iva In the beginning it is attended with much pain as one has to abandon the sensual objects and comforts and practise severe austerities and rigorous Sadhana. He has to undergo a severe ordeal when he practises Yama; Niyama; Tapas and various other vows. He has to cultivate dispassion or indifference to sensual pleasures. This gives him much pain at first. The practice of concentration and meditation also gives pain the beginning. Subjugation of the senses is also very troublesome. Nux vomica is very bitter. One feels much discomfort when he takes a mixture that contains nux vomica. But he derives much pleasure in the end when he gets vigour and good appetite and when his dyspepsia is cured. Even so the aspirant drinks the nectar of immortality in the end; attains the highest knowledge; rejoices in the,Self to his hearts content and enjoys supreme peace and eternal bliss.Proktam It is declared by the wise.Atmabuddhiprasadajam Born as purity of ones own intellect or born of the direct; perfect and clear knowledge of Brahman or the immortal; selfluminous; eternal and supreme Self or the Absolute. The individual self experiences Sattvic happiness when it realises union with the highest Self.The pleasure so born is Sattvic. (Cf.VI.1;2)
 
 </details>
 </div>

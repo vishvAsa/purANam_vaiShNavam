@@ -108,19 +108,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.35 Therefore Karma Yoga is better than Jnana Yoga. For, it forms one's
-own duty, since it is natural to one and easy to perform, and though
-defective, is free from liability to interruption and fall. Jnana Yoga,
-on the other hand, though performed well for some time, constitutes the
-duty of another, as it is difficult to practise for one conjoined with
-Prakrti. It is therefore liable to interruption. For a person who lives
-practising Karma Yoga - which is his duty because he is alified for it -
-even death without success in one birth does not matter. For, in the
-next birth with the help of the experience already gained in the
-previous birth, it will be possible for him to perform Karma Yoga
-without any impediments. Jnana Yoga is fraught with fear because of the
-possibility of errors for anyone who is conjoined to Prakrti. It is
-another's duty, on account of it being not easily adoptable by him.
+3.35 Therefore Karma Yoga is better than Jnana Yoga. For, it forms one's own duty, since it is natural to one and easy to perform, and though defective, is free from liability to interruption and fall. Jnana Yoga,
+on the other hand, though performed well for some time, constitutes the duty of another, as it is difficult to practise for one conjoined with Prakrti. It is therefore liable to interruption. For a person who lives practising Karma Yoga - which is his duty because he is alified for it -
+even death without success in one birth does not matter. For, in the next birth with the help of the experience already gained in the previous birth, it will be possible for him to perform Karma Yoga without any impediments. Jnana Yoga is fraught with fear because of the possibility of errors for anyone who is conjoined to Prakrti. It is another's duty, on account of it being not easily adoptable by him.
 
 </details>
 </div>
@@ -478,47 +468,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.35. Better is one's own duty, \[though\] it lacks in merit, than the
-well-performed duty of another; better is the ruin in one's own duty
-than the good fortune from another's duty.
+3.35. Better is one's own duty, \[though\] it lacks in merit, than the well-performed duty of another; better is the ruin in one's own duty than the good fortune from another's duty.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.35 One's own duty \[Customary or scripturally ordained observances of
-different castes and sects.-Tr.\], though defective, is superior to
-another's duty well-performed. Death is better while engaged in one's
-own duty; another's duty is fraught with fear.
+3.35 One's own duty \[Customary or scripturally ordained observances of different castes and sects.-Tr.\], though defective, is superior to another's duty well-performed. Death is better while engaged in one's own duty; another's duty is fraught with fear.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.35 It is better to do thine own duty, however lacking in merit, than
-to do that of another, even though efficiently. It is better to die
-doing one's own duty, for to do the duty of another is fraught with
-danger.
+3.35 It is better to do thine own duty, however lacking in merit, than to do that of another, even though efficiently. It is better to die doing one's own duty, for to do the duty of another is fraught with danger.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.35 Better is one's own duty, though ill-done, than the duty of another
-well-performed. Better is death in one's own duty; the duty of another
-is fraught with fear.
+3.35 Better is one's own duty, though ill-done, than the duty of another well-performed. Better is death in one's own duty; the duty of another is fraught with fear.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/35_shreyAnsvadharmo_.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.35 Better is one's own duty, though devoid of merit than the duty of
-another well discharged. Better is death in one's own duty; the duty of
-another is fraught with fear (is productive of danger).
+3.35 Better is one's own duty, though devoid of merit than the duty of another well discharged. Better is death in one's own duty; the duty of another is fraught with fear (is productive of danger).
 
 </details>
 </div>
@@ -527,16 +505,7 @@ another is fraught with fear (is productive of danger).
 
 3.35 श्रेयान् better; स्वधर्मः ones own duty; विगुणः devoid of merit;
 परधर्मात् than the duty of another; स्वनुष्ठितात् than well discharged;
-स्वधर्मे in ones own duty; निधनम् death; श्रेयः better; परधर्मः anothers
-duty; भयावहः fraught with fear.Commentary It is indeed better for man to
-die discharging his own duty though destitute of merit than for him to
-live doing the duty of another though performed in a perfect manner. For
-the duty of another has its pitfalls. The duty of a Kshatriya is to
-fight in a righteous battle. Arjuna must fight. This is his duty. Even
-if he dies in the discharge of his own duty; it is better for him. He
-will go to heaven. He should not do the duty of another man. This will
-bring him peril. He should not stop from fighting and enter the path of
-renunciation. (Cf.XVIII.47).
+स्वधर्मे in ones own duty; निधनम् death; श्रेयः better; परधर्मः anothers duty; भयावहः fraught with fear.Commentary It is indeed better for man to die discharging his own duty though destitute of merit than for him to live doing the duty of another though performed in a perfect manner. For the duty of another has its pitfalls. The duty of a Kshatriya is to fight in a righteous battle. Arjuna must fight. This is his duty. Even if he dies in the discharge of his own duty; it is better for him. He will go to heaven. He should not do the duty of another man. This will bring him peril. He should not stop from fighting and enter the path of renunciation. (Cf.XVIII.47).
 
 </details>
 </div>

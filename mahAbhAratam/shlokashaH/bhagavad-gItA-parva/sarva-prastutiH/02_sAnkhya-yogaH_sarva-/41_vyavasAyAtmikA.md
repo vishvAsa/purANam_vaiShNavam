@@ -95,62 +95,97 @@ _________________
 स्वर्गादिफलं प्रतिपादयन्ति हि प्लवा ह्येते अदृढा यज्ञरूपा
 अष्टादशोक्तमवरं येषु कर्म। एतच्छ्रेयो येऽभिनन्दन्ति मूढाः मुं.उ.1।2।7
 इत्याद्याः श्रुतयः। यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः  
+  2.42 इत्यादिना चानन्तरमेवोच्यते। अविदुषां धूमादिमार्गेण स्वर्गारोहणादिकं
+चोपनिषत्सु जोघुष्यते अतो विध्यभावादेवारादुपकारकत्वमपि निरस्तम्।
+तदेतदखिलमुक्तम् अविरोधाच्चेति। शास्त्रादिविरोधाभावादित्यर्थः। पक्षान्तरे
+च शास्त्रविरोधः स्यादिति भावः।  
   
+  
+मोक्षाधिकारे तु निखिलमिदमन्यथा। तथाहि यथावस्थितस्वरूपप्राप्तिरेव हि
+मोक्षपुरुषार्थः। स कथमनिश्चीयमान इष्येत कथं च तज्ज्ञानं
+तदिच्छामप्यन्तरेण तत्साधनमनुष्ठीयेत स्वरूपयाथात्म्यज्ञानस्य च विहिततया
+साधनानुप्रवेश इति कथं तद्व्यतिरेकेण साधनं पुष्कलमनुष्ठितं स्यात् कथं च
+स्वरूपाविर्भावलक्षणफलानुभवः स्वनिश्चयशून्यस्य स्यात् इति युक्तिविरोधः।
+चोदयन्ति च शास्त्राणि मोक्षस्य सर्वविधोपकारकतया आत्मतत्त्वज्ञानम्।
+अतस्तदभावे शास्त्रविरोधः स्यादिति। ननु व्यवसायात्मिकाया बुद्धेः
+किमिदमेकत्वम् न तावद्व्यक्त्यैक्यं तथाविधबुद्धिसन्तानासम्भवात्। नापि
+विषयैक्यादेकरूपतवम् अङ्गप्रधानाद्यवान्तरविषयभेदेन तदयोगात्। नापि
+समुदायगोचरत्वात्तद्योगः काम्यकर्मस्वपि तत्साम्यादित्यत
+उक्तंएकफलसाधनविषयतयेति। तदेवोपपादयति एकस्मा इति। सर्वाणीति
+नित्यनैमित्तिककाम्यानां सर्वेषां कर्मणां मुमुक्षुणाऽनुष्ठितानां
+साक्षात्परम्परया वा मोक्षसाधनोपकारित्वेन मोक्ष एक एव प्रधानं फलम्।
+सर्वमायुरेति छां.उ.4।11।2 इत्याद्यवान्तरफलाभिधानमपि
+तदुपयोगित्वमात्रादिति भावः।  
+अस्तु सर्वेषामेकफलसाधनत्वम् तथापि क्रमभाविकर्मस्वरूपनानात्वे कथं
+तद्बुद्धेरैक्यं इत्यत्राह अत इति। एकफलसाधनतया सर्वेषां
+कर्मणामेकविधिगृहीतत्वेन
+एकशास्त्रार्थत्वात्तद्गोचरबुद्धिरवान्तरकर्मभेदसद्भावेऽप्येकशास्त्रार्थगोचरत्वादेकेत्युच्यत
+इत्यर्थः। पृथग्विधिसिद्धानां पृथग्वाक्यसिद्धेतिकर्तव्यताकानां
+कथमेकशास्त्रार्थत्वं इत्यत्रोक्तप्रकारेणैकत्वे दृष्टान्तमाह यथेति।
+आग्नेयादयो हि सेतिकर्तव्यताकाः ष़ड्यागा उत्पत्तिवाक्यैः पृथगुत्पन्नाः
+समुदायानुवादिवाक्यद्वयेन समुदायद्वयत्वमापन्नाः कामाधिकारे
+पुनरेकफलसाधनत्ववेषेणैकतया विधीयन्ते। तथा चैकशास्त्रार्थगोचरतया
+तद्बुद्धिरप्येकैव तद्वदित्यर्थः।  
+अव्यवसायिनाम् इति हेतुपरमित्याह स्वर्गपुत्रेत्यादिना। फलानन्त्यादनन्ता
+इति। फलबाहुल्यात् स्वर्गाद्यनन्तफलभेदेन तत्साधनानामपि कर्मणां
+भिन्नशास्त्रार्थत्वात्तद्विष बुद्धयोऽपि यावत्फलभेदं भेदिन्य इत्यर्थः।
+अनन्तबहुशाखशब्दयोः प्रधानाप्रधानस्वरूपभेदप्रकारभेदविषयतया पौनरुक्त्यं
+परिहरन् कर्मभेदापादकत्वाभावेऽपि वैषम्यान्तरपरं बहुशाखशब्दं व्याचष्टे
+तत्रापीति। एकैकस्यैव बहुशाखत्वमुपपादयति एकस्मा इति। एकैकमपि हि काम्यकर्म
+प्रधानफलावच्छिन्नवेषेण एकपादपस्थानीयं विरोधिगुणफलाद्यवच्छिन्नं
+तत्तदंशभेदेन बहुशाखं भवति। मोक्षशास्त्रे तु सर्वायुःप्राप्त्यादिकमपि
+साधनानुष्ठानाद्यर्थत्वेन मोक्षोपयोगितया तदेकफलान्तर्भूतमित्युक्तम्।  
+वैषम्यद्वयोपपत्तिस्थैर्याभिप्रायेण निगमयति अत इति।
+प्रधानावान्तरफलभेदादित्यर्थः। आकाङ्क्षाक्रमेणान्वयप्रदर्शनायानन्ता
+बहुशाखा इति व्युत्क्रमेण व्याख्यातम्। ननु कथं
+भिन्नप्रधानावान्तरफलसाधनतयैव विहितानां नित्यनैमित्तिककाम्यकर्मणामेकमेव
+फलं स्यात् कथन्तरामेकशास्त्रार्थत्वम् काम्यानां च कर्मणां निष्कामेन
+कथमनुष्ठानम्। यदि च तत्तत्काम्यफलाभावेऽपि तत्तत्कर्मानुष्ठानं तर्हि
+तत्तदधिकाराभावेऽपि ब्राह्मणादेः क्षत्ति्रयादिधर्मानुष्ठानप्रसङ्गः
+सर्वकाम्योपसंहारः फलादिविरोधाद्व्याहतो दुष्करश्च।  
+  
+  
+कतिपयोपसंहारे तु किं कियदनुष्ठेयमित्यत्र किं नियामकं
+इत्यादिशङ्कापरिहाराय बुद्ध्येकत्वबहुत्वोक्तेः फलमाह एतदुक्तमिति।
+नित्यनैमित्तिकयोः प्रधानफलान्यवान्तरफलानि च
+प्राजापत्यलोकादिप्राप्त्युपात्तदुरितक्षयाकरणनिमित्तप्रत्यवायपरिहारादिरूपाणि।
+संवलितनित्यनैमित्तिकयोरप्यत्र नित्यनैमित्तिकशब्देन सङ्ग्रहः। काम्यशब्दः
+केवलकाम्यपरः। ननु तानि सर्वाणि परित्यज्येत्ययुक्तम्
+मुमुक्षोरप्युपात्तदुरितक्षयादेरवश्यापेक्षितत्वादित्यत
+उक्तंमोक्षैकफलतयेति। दुरितक्षयादेरप्यन्तःकरणशुद्धिद्वारेणोपकारकत्वान्न
+पृथक्फलत्वमिति भावः। एकशास्त्रार्थतयाऽनुष्ठेयानीति। विनियोगभेदादन्यत्र
+भिन्नफलत्वं भिन्नशास्त्रार्थत्वं च। अत्र तु सर्वेषामप्येकत्र
+विनियुक्तानां फलैक्यं शास्त्रार्थैक्यं च युज्यते। सिद्धं च
+नित्यकाम्यज्योतिष्टोमादावपि विनियोग पृथक्त्वमिति
+भावः। स्ववर्णाश्रमोचितानीति। कस्य चिद्धि कि़ञ्चित्फलमुद्दिश्य
+कानिचित्कर्माणि विधीयन्ते। तेषामेव कर्मणां फलान्तरार्थतया विनियोगेऽपि स
+एवाधिकारी भवितुमर्हतिक्लृप्तकल्प्यविरोधे तु युक्तः क्लृप्तपरिग्रहः इति
+न्यायादधिकार्यन्तरकल्पने प्रमाणाभावात्। यथा नित्यकाम्यज्योतिष्टोमादौ यथा
+चाध्ययनस्य जपादाविति भावः। निष्कामस्य काम्यकर्मानुष्ठानोपपादनायोक्तम्
+तत्फलानि परित्यज्य मोक्षसाधनतयेति। नित्यनैमित्तिकैरेकीकृत्येति
+एकफलसाधनतयैकशास्त्रार्थीकृत्येत्यर्थः। यथाबलमिति। शक्त्यनुरोधेन हि शास्ति
+शास्त्रम्। आह च मनुः तद्धि कुर्वन्यथाशक्ति प्राप्नोति परमां गतिम्
+11।34क्षे.3 इति। एवं नित्यनैमित्तिकयोरिव काम्येष्वपि मुमुक्षोः
+कतिपयाङ्गवैकल्येऽपि न दोष इत्युक्तं भवति। एतेन विच्छेदे
+प्रत्यवायाभावकथनमपि न ज्योतिष्टोमाद्येकैकान्तर्विच्छेदपरम्
+अपित्वामोक्षादनुष्ठेयैकशास्त्रार्थभूतकर्मकलापे
+प्रयाजादिवदितिकर्तव्यतास्थानीयैकैकर्मानुष्ठानेऽपि
+देशादिवैगुण्यकृतोत्तराननुष्ठानपरमिति च दर्शितम्।  
+
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.41 Here, i.e., in every ritual sanctioned by the scriptures, the
-Buddhi or disposition of mind marked by resolution, is single. The
-Buddhi marked by resolution is the Buddhi concerned with acts which must
-be performed by one desirous of release (and not any kind of work). The
-term 'Vyavasaya' menas unshakable conviction: this Buddhi (disposition
-of mind) comes out of prior determination about the true nature of the
-self. But the Buddhi concerning the performance of rituals of fulfill
-certain desires, is marked by irresolution; because here only this much
-knowledge of the self is sufficient - 'the self (as an entity) exists
-differently from the body.' Such a general understanding is sufficient
-to alify for performing acts giving fulfilment of certain desires. It
-does not reire any definite knowledge about the true nature of the self.
-For, even if there is no such knowledge, desires for heaven etc., can
-arise, the means for their attainment can be adopted, and the experience
-of those fruits can take place. For this reason there is no
-contradiction in the teaching of the scriptures. \[The contradiction
-negated here is how can the same scriptural acts produce different
-results - fulfilment of desires and liberation. The difference in the
-disposition of the mind accouts of it.\] The Buddhi (mental disposition)
-marked by resolution has a single aim, because it relates to the
-attainment of a single fruit. For, as far as one desiring release is
-concerned, all acts are enjoined only for the accomplishment of that
-single fruit. Therefore, since the purpose of the scriptures here is one
-only (i.e., liberation), the Buddhi regarding all rituals taught in the
-scriptures too is only one, as far as liberation-seekers are concerned.
-For example, the set of six sacrifices, beginning with Agneya with all
-their subsidiary processes (though enjoined in different passages) forms
-the subject of a single injunction, as they are all for the attainment
-of a single fruit. Conseently the Buddhi concerning these is one only.
-The meaning of the verse under discussion must be construed in the same
-manner. But the Buddhi of the irresolute ones who are engaged in rituals
-for winning such fruits as heaven, sons, cattle, food etc., are endless,
-frutis being endless. In rituals like Darsapurnamasa (new moon and full
-moon sacrifice), even though attainment of a single fruit (heaven) is
-enjoined, there accrues to these the character of having many branches
-on account of the mention of many secondary fruits as evidenced by such
-passages as, 'He desires a long life.' Therefore the Buddhi of
-irresolute ones has many branches and are endless. The purport is: In
-performing obligatory and occasional rituals, all fruits, primary and
-secondary, promised in the scriptures, should be abandoned, with the
-idea that release or salvation is the only purpose of all
-scripture-ordained rituals. These rituals should be performed without
-any thought of selfish gains. In addition, acts motivated by desires
+2.41 Here, i.e., in every ritual sanctioned by the scriptures, the Buddhi or disposition of mind marked by resolution, is single. The Buddhi marked by resolution is the Buddhi concerned with acts which must be performed by one desirous of release (and not any kind of work). The term 'Vyavasaya' menas unshakable conviction: this Buddhi (disposition of mind) comes out of prior determination about the true nature of the self. But the Buddhi concerning the performance of rituals of fulfill certain desires, is marked by irresolution; because here only this much knowledge of the self is sufficient - 'the self (as an entity) exists differently from the body.' Such a general understanding is sufficient to alify for performing acts giving fulfilment of certain desires. It does not reire any definite knowledge about the true nature of the self.
+For, even if there is no such knowledge, desires for heaven etc., can arise, the means for their attainment can be adopted, and the experience of those fruits can take place. For this reason there is no contradiction in the teaching of the scriptures. \[The contradiction negated here is how can the same scriptural acts produce different results - fulfilment of desires and liberation. The difference in the disposition of the mind accouts of it.\] The Buddhi (mental disposition)
+marked by resolution has a single aim, because it relates to the attainment of a single fruit. For, as far as one desiring release is concerned, all acts are enjoined only for the accomplishment of that single fruit. Therefore, since the purpose of the scriptures here is one only (i.e., liberation), the Buddhi regarding all rituals taught in the scriptures too is only one, as far as liberation-seekers are concerned.
+For example, the set of six sacrifices, beginning with Agneya with all their subsidiary processes (though enjoined in different passages) forms the subject of a single injunction, as they are all for the attainment of a single fruit. Conseently the Buddhi concerning these is one only.
+The meaning of the verse under discussion must be construed in the same manner. But the Buddhi of the irresolute ones who are engaged in rituals for winning such fruits as heaven, sons, cattle, food etc., are endless,
+frutis being endless. In rituals like Darsapurnamasa (new moon and full moon sacrifice), even though attainment of a single fruit (heaven) is enjoined, there accrues to these the character of having many branches on account of the mention of many secondary fruits as evidenced by such passages as, 'He desires a long life.' Therefore the Buddhi of irresolute ones has many branches and are endless. The purport is: In performing obligatory and occasional rituals, all fruits, primary and secondary, promised in the scriptures, should be abandoned, with the idea that release or salvation is the only purpose of all scripture-ordained rituals. These rituals should be performed without any thought of selfish gains. In addition, acts motivated by desires
 (Kamya-karmas) also should be performed according to one's own capacity,
-after abandoning all desire for fruits and with the conviction that they
-also, when performed in that way, form the means for attainment of
-release. They should be looked upon as eal to obligatory and occasional
-rites suited to one's own station and stage in life. Sri Krsna condemns
-those who perform acts for the attainment of objects of desire:
+after abandoning all desire for fruits and with the conviction that they also, when performed in that way, form the means for attainment of release. They should be looked upon as eal to obligatory and occasional rites suited to one's own station and stage in life. Sri Krsna condemns those who perform acts for the attainment of objects of desire:
 
 </details>
 </div>
@@ -491,27 +526,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.41. O source of joy to the Kurus ! The knowledge in the form of
-determination is just one; \[but\] the knowledge (thoughts) of those who
-do not have determination, has many branches and has no end.
+2.41. O source of joy to the Kurus ! The knowledge in the form of determination is just one; \[but\] the knowledge (thoughts) of those who do not have determination, has many branches and has no end.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.41 O scion of the Kuru dynasty, in this there is a single, one-pointed
-conviction. The thoughts of the irresolute ones have many branches
-indeed, and are innumerable.
+2.41 O scion of the Kuru dynasty, in this there is a single, one-pointed conviction. The thoughts of the irresolute ones have many branches indeed, and are innumerable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.41 By its means, the straying intellect becomes steadied in the
-contemplation of one object only; whereas the minds of the irresolute
-stray into bypaths innumerable.
+2.41 By its means, the straying intellect becomes steadied in the contemplation of one object only; whereas the minds of the irresolute stray into bypaths innumerable.
 
 </details>
 </div>
@@ -526,9 +555,7 @@ the minds of the irresolute are many-branched and endless.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/41_vyavasAyAtmikA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.41 Here, O joy of the Kurus, there is but a single one-pointed
-determination; many-branched and endless are the thoughts of the
-irresolute.
+2.41 Here, O joy of the Kurus, there is but a single one-pointed determination; many-branched and endless are the thoughts of the irresolute.
 
 </details>
 </div>
@@ -537,19 +564,7 @@ irresolute.
 
 2.41 व्यवसायात्मिका onepointed; बुद्धिः determination; एका single; इह
 here; कुरुनन्दन O joy of the Kurus; बहुशाखाः manybranched; हि indeed;
-अनन्ताः endless; च and; बुद्धयः thoughts; अव्यवसायिनाम् of the
-irresoulte.Commentary Here; in this path to Bliss there is only one
-thought of a resolute nature there is singleminded determination. This
-single thought arises from the right source of knowledge. The student of
-Yoga collects all the dissipated rays of the mind. He gathers all of
-them through discrimination; dispassion and concentration. He is free
-from wavering or vacillation of the mind.The worldlyminded man who is
-suck in the mire of Samsara has no singleminded determination. He
-entertains countless thoughts. His mind is always unsteady and
-vacillating.If thoughts cease; Samsara also ceases. Mind generates
-endless thoughts and this world comes into being. Thoughts; and names
-and forms are inseparable. If the thoughts are controlled; the mind is
-controlled and the Yogi is liberated.
+अनन्ताः endless; च and; बुद्धयः thoughts; अव्यवसायिनाम् of the irresoulte.Commentary Here; in this path to Bliss there is only one thought of a resolute nature there is singleminded determination. This single thought arises from the right source of knowledge. The student of Yoga collects all the dissipated rays of the mind. He gathers all of them through discrimination; dispassion and concentration. He is free from wavering or vacillation of the mind.The worldlyminded man who is suck in the mire of Samsara has no singleminded determination. He entertains countless thoughts. His mind is always unsteady and vacillating.If thoughts cease; Samsara also ceases. Mind generates endless thoughts and this world comes into being. Thoughts; and names and forms are inseparable. If the thoughts are controlled; the mind is controlled and the Yogi is liberated.
 
 </details>
 </div>

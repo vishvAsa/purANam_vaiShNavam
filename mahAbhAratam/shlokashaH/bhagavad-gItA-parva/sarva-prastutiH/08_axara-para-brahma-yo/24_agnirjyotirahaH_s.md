@@ -179,13 +179,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.23 - 8.24 Here, the term 'time' denotes a path, having many deities
-beginning with day and ending with year. The deities preside over
-divisions of time. The meaning is - I declare to you the path departing
-in which Yogins do not return and also the path departing in which the
-doers of good actions return. By the clause, 'Light in the form of fire,
-the day, bright fortnight, six months of the northern course,' year also
-is denoted.
+8.23 - 8.24 Here, the term 'time' denotes a path, having many deities beginning with day and ending with year. The deities preside over divisions of time. The meaning is - I declare to you the path departing in which Yogins do not return and also the path departing in which the doers of good actions return. By the clause, 'Light in the form of fire,
+the day, bright fortnight, six months of the northern course,' year also is denoted.
 
 </details>
 </div>
@@ -560,37 +555,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.24. The northern course \[of the sun\] consisting of six months, is
-fire, light, day and bright one. Departing in it, the Brahman-knowing
-men attain the Brahman .
+8.24. The northern course \[of the sun\] consisting of six months, is fire, light, day and bright one. Departing in it, the Brahman-knowing men attain the Brahman .
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.24 Fire, light, daytime, the birght forrnight, the six months of the
-Northern solstice-by following this Path, persons who are knowers of
-Brahman attain Brahman when they die.
+8.24 Fire, light, daytime, the birght forrnight, the six months of the Northern solstice-by following this Path, persons who are knowers of Brahman attain Brahman when they die.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.24 If knowing the Supreme Spirit the sage goes forth with fire and
-light, in the daytime, in the fortnight of the waxing moon and in the
-six months before the Northern summer solstice, he will attain the
-Supreme.
+8.24 If knowing the Supreme Spirit the sage goes forth with fire and light, in the daytime, in the fortnight of the waxing moon and in the six months before the Northern summer solstice, he will attain the Supreme.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/24_agnirjyotirahaH_s.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.24 Fire, light daytime, the bright fortnight, the six months of the
-northern path of the sun (the northern solstice) departing then (by
-these) men who know Brahman go to Brahman.
+8.24 Fire, light daytime, the bright fortnight, the six months of the northern path of the sun (the northern solstice) departing then (by these) men who know Brahman go to Brahman.
 
 </details>
 </div>
@@ -600,41 +586,10 @@ these) men who know Brahman go to Brahman.
 8.24 अग्निः fire; ज्योतिः light; अहः day; शुक्लः the bright fortnight;
 षण्मासाः six months; उत्तरायणम् the northern path of the sun; तत्र
 there; प्रयाताः departed; गच्छन्ति go; ब्रह्म to Brahman; ब्रह्मविदः
-knowers of Brahman; जनाः people.Commentary This is the UttaraMarga or
-Devayana; the northern path or the path of light; by which the Yogis go
-to Brahman. This path leads to salvation. It takes the devotee to
-Brahmaloka. The six months of the northern solstice is from the middle
-of January to the middle of July. It is regarded as the better period
-for death. There is a vivid description in the Chhandogya Upanishad; the
-Kaushitaki Upanishad and the Brahma Sutras; chapter IV.3 and 4; ii. 18
-and 21.On the road beginning with light (the departed soul proceeds); on
-account of that being widely known.Having reached the path of the gods
-he comes to the world of Agni (fire); to the world of Vayu (air); to the
-world of Varuna (rain); to the world of Indra (king of the gods); to the
-world of Prajapati (the Creator); to the world of Brahman.They go to the
-light; from the light to day; from day to the waxing half of the moon;
-from the waxing half of the moon to the six months when the sun goes to
-the north; from those months to the year; from the year to the sun.When
-the person goes away from this world he comes to Vayu (air). Then Vayu
-room for him like the hole of a wheel and through it he mounts higher.
-He comes to the sun.From the moon to the lightning there a person that
-is not human leads him to Brahman.Time is here used in the sense of the
-path or the stage on the path. Fire and light are the deities who
-preside over time. Daytime is the deity who presides over the day. The
-bright fortnight is the deity presiding over it. The six months of the
-northern solstice are the deity who presides over the northern path.This
-is the path of illumination that leads to liberation.The lifreaths of
-the liberated sages who have attained knowledge of the Self do not
-depart. They are absorbed in Brahman. The Jivanmuktas who attain
-KaivalyaMoksha or immediate,salvation or liberation have no place to go
-to or return from. They become one with the allpervading Brahman.Each
-step may mean a plane or a state of consciousness or the degree of
-purity or illumination. The more the purity the more the divine light.
-There are bright objects throughout the course of the path. There is
-illumination or knowledge when one passes along this path. Hence it is
-called the path of light.After Bhishma was mortally wounded; he lay on
-the bed of arrows till the onset of the northern solstice and then
-departed from here to the Abode of the Lord.
+knowers of Brahman; जनाः people.Commentary This is the UttaraMarga or Devayana; the northern path or the path of light; by which the Yogis go to Brahman. This path leads to salvation. It takes the devotee to Brahmaloka. The six months of the northern solstice is from the middle of January to the middle of July. It is regarded as the better period for death. There is a vivid description in the Chhandogya Upanishad; the Kaushitaki Upanishad and the Brahma Sutras; chapter IV.3 and 4; ii. 18 and 21.On the road beginning with light (the departed soul proceeds); on account of that being widely known.Having reached the path of the gods he comes to the world of Agni (fire); to the world of Vayu (air); to the world of Varuna (rain); to the world of Indra (king of the gods); to the world of Prajapati (the Creator); to the world of Brahman.They go to the light; from the light to day; from day to the waxing half of the moon;
+from the waxing half of the moon to the six months when the sun goes to the north; from those months to the year; from the year to the sun.When the person goes away from this world he comes to Vayu (air). Then Vayu room for him like the hole of a wheel and through it he mounts higher.
+He comes to the sun.From the moon to the lightning there a person that is not human leads him to Brahman.Time is here used in the sense of the path or the stage on the path. Fire and light are the deities who preside over time. Daytime is the deity who presides over the day. The bright fortnight is the deity presiding over it. The six months of the northern solstice are the deity who presides over the northern path.This is the path of illumination that leads to liberation.The lifreaths of the liberated sages who have attained knowledge of the Self do not depart. They are absorbed in Brahman. The Jivanmuktas who attain KaivalyaMoksha or immediate,salvation or liberation have no place to go to or return from. They become one with the allpervading Brahman.Each step may mean a plane or a state of consciousness or the degree of purity or illumination. The more the purity the more the divine light.
+There are bright objects throughout the course of the path. There is illumination or knowledge when one passes along this path. Hence it is called the path of light.After Bhishma was mortally wounded; he lay on the bed of arrows till the onset of the northern solstice and then departed from here to the Abode of the Lord.
 
 </details>
 </div>

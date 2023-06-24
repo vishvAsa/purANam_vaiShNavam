@@ -81,23 +81,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.47 One's proper Dharma is that which is suitable for performance by
-oneself, in the form of worshipping Myself, relinishing agency etc., as
-has been taught. For, Karma Yoga, consisting in the activities of sense
-organs, is easy to perform by one in association with Prakrti. Thus,
-Karma Yoga, even if it is defective in some respects, is better than the
-Dharma of another, i.e., than Jnana-yoga, even for a person capable of
-controlling his senses, which is an attainment liable to negligence,
-because it consists of control over all sense-organs; for, though this
-may be well performed occasionaly, one is always liable to deflection
-from it. He explains the same: As Karma consists of the activities of
-the sense-organs, it is ordained by Nature for one who is conjoined with
-Prakrti, i.e., the body. So by performing Karma Yoga one does not incur
-any stain. But Jnana Yoga is liable to negligence, because it reires the
-control of the senses from the very beginning for its performance. One
-intent on it is likely to incur stain from negligence. \[Thus we are
-reminded about what was mentioned in the third chapter - that Karma Yoga
-alone is greater.\]
+18.47 One's proper Dharma is that which is suitable for performance by oneself, in the form of worshipping Myself, relinishing agency etc., as has been taught. For, Karma Yoga, consisting in the activities of sense organs, is easy to perform by one in association with Prakrti. Thus,
+Karma Yoga, even if it is defective in some respects, is better than the Dharma of another, i.e., than Jnana-yoga, even for a person capable of controlling his senses, which is an attainment liable to negligence,
+because it consists of control over all sense-organs; for, though this may be well performed occasionaly, one is always liable to deflection from it. He explains the same: As Karma consists of the activities of the sense-organs, it is ordained by Nature for one who is conjoined with Prakrti, i.e., the body. So by performing Karma Yoga one does not incur any stain. But Jnana Yoga is liable to negligence, because it reires the control of the senses from the very beginning for its performance. One intent on it is likely to incur stain from negligence. \[Thus we are reminded about what was mentioned in the third chapter - that Karma Yoga alone is greater.\]
 
 </details>
 </div>
@@ -539,16 +525,14 @@ _________________
 
 18.47. Better is one's own prescribed duties, \[born of one's nature,
 even though\] it is devoid of ality, than another's duty well executed;
-the doer of duty, dependent on (or prescribed according to) one's own
-nature, does not incur sin.
+the doer of duty, dependent on (or prescribed according to) one's own nature, does not incur sin.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.47 One's own duty, (though) defective, is superior to another's duty
-well performed. By performing a duty as dictated by one's own nature,
+18.47 One's own duty, (though) defective, is superior to another's duty well performed. By performing a duty as dictated by one's own nature,
 one does not incur sin.
 
 </details>
@@ -557,44 +541,30 @@ one does not incur sin.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 18.47 It is better to do one's own duty, however defective it may be,
-than to follow the duty of another, however well one may perform it. He
-who does his duty as his own nature reveals it, never sins.
+than to follow the duty of another, however well one may perform it. He who does his duty as his own nature reveals it, never sins.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.47 Better is one's own duty, though ill done, than the duty of
-another, though well-performed When one does the duty ordained by
-his own nature, he incurs no stain.
+18.47 Better is one's own duty, though ill done, than the duty of another, though well-performed When one does the duty ordained by his own nature, he incurs no stain.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.47 Better is one's own duty (though) destitute of merits, than the
-duty of another well performed. He who does the duty ordained by his own
-nature incurs no sin.
+18.47 Better is one's own duty (though) destitute of merits, than the duty of another well performed. He who does the duty ordained by his own nature incurs no sin.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/47_shreyAnsvadharmo_.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.47 श्रेयान् better; स्वधर्मः ones own duty; विगुणः (though) destitute
-of merits; परधर्मात् that the duty of another; स्वनुष्ठितात् (than) well
-performed; स्वभावनियतम् ordained by his own nature; कर्म action; कुर्वन्
-doing; न not; आप्नोति (he) incurs; किल्बिषम् sin.Commentary Just as a
-poisonous substance does not harm the worm born in that substance; so he
-who does his Svadharma (the duty ordained according to his own nature)
-does not incur any sin.What is poison to the whole world is sweet to a
-worm and yet sugarcane juice that is sweet causes its death. So a mans
-appointed duty which frees him from bondage must; therefore; be
-practised however difficult it may seem to be. If you try to do the duty
-of another it will bring,danger. He who has no knowledge of the Self
-cannot remain even for a moment without doing action. (Cf.III.35)
+18.47 श्रेयान् better; स्वधर्मः ones own duty; विगुणः (though) destitute of merits; परधर्मात् that the duty of another; स्वनुष्ठितात् (than) well performed; स्वभावनियतम् ordained by his own nature; कर्म action; कुर्वन्
+doing; न not; आप्नोति (he) incurs; किल्बिषम् sin.Commentary Just as a poisonous substance does not harm the worm born in that substance; so he who does his Svadharma (the duty ordained according to his own nature)
+does not incur any sin.What is poison to the whole world is sweet to a worm and yet sugarcane juice that is sweet causes its death. So a mans appointed duty which frees him from bondage must; therefore; be practised however difficult it may seem to be. If you try to do the duty of another it will bring,danger. He who has no knowledge of the Self cannot remain even for a moment without doing action. (Cf.III.35)
 
 </details>
 </div>

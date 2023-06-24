@@ -61,17 +61,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.36 Yoga is hard to attain even in spite of great efforts by one of
-unrestrained self, i.e., of unrestrained mind. But the same Yoga which
-is of the form of sameness of vision can be attained by proper means by
-one who is striving, whose 'mind is subdued,' i.e., by one whose mind is
-conered by works (Karma Yoga) taught before, which is of the nature of
-My worship and which includes within itself knowledge (Jnana). Then
-Arjuna puts estions in order to hear the greatness of Yoga, as it really
-is, which he has already heard about at the beginning of the teaching,
-'Here there is no loss of effort' (2.40). There the greatness of Karma
-Yoga as inclusive of knowledge of the self with Yoga as its culmination
-was taught. This alone is the real greatness of Yoga.
+6.36 Yoga is hard to attain even in spite of great efforts by one of unrestrained self, i.e., of unrestrained mind. But the same Yoga which is of the form of sameness of vision can be attained by proper means by one who is striving, whose 'mind is subdued,' i.e., by one whose mind is conered by works (Karma Yoga) taught before, which is of the nature of My worship and which includes within itself knowledge (Jnana). Then Arjuna puts estions in order to hear the greatness of Yoga, as it really is, which he has already heard about at the beginning of the teaching,
+'Here there is no loss of effort' (2.40). There the greatness of Karma Yoga as inclusive of knowledge of the self with Yoga as its culmination was taught. This alone is the real greatness of Yoga.
 
 </details>
 </div>
@@ -419,8 +410,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.36. My belief is that attaining Yoga is difficult for a man of
-uncontrolled self (mind); but it is possible to attain by \[proper\]
+6.36. My belief is that attaining Yoga is difficult for a man of uncontrolled self (mind); but it is possible to attain by \[proper\]
 means by a person who exerts with his subdued self.
 
 </details>
@@ -428,8 +418,7 @@ means by a person who exerts with his subdued self.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.36 My conviction is that Yoga is difficult to be attained by one of
-uncontrolled mind. But it is possible to be attained through the (above)
+6.36 My conviction is that Yoga is difficult to be attained by one of uncontrolled mind. But it is possible to be attained through the (above)
 means by one who strives and has a controlled mind.
 
 </details>
@@ -437,8 +426,7 @@ means by one who strives and has a controlled mind.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.36 It is not possible to attain Self-Realisation if a man does not
-know how to control himself; but for him who, striving by proper means,
+6.36 It is not possible to attain Self-Realisation if a man does not know how to control himself; but for him who, striving by proper means,
 learns such control, it is possible.
 
 </details>
@@ -446,9 +434,7 @@ learns such control, it is possible.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/36_asaMyatAtmanA_yog.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.36 In my opinion Yoga is hard to attain by a person of unrestrained
-mind. However, it can be attained through right means by him, who
-strives for it and has a subdued mind.
+6.36 In my opinion Yoga is hard to attain by a person of unrestrained mind. However, it can be attained through right means by him, who strives for it and has a subdued mind.
 
 </details>
 </div>
@@ -465,14 +451,8 @@ but the self-controlled and striving one can attain to it by the
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.36 असंयतात्मना by a man of uncontrolled self; योगः Yoga; दुष्प्रापः
-hard to attain; इति thus; मे My; मतिः opinion; वश्यात्मना by the
-selfcontrolled one; तु but; यतता by the striving one; शक्यः possible;
-अवाप्तुम् to obtain; उपायतः by (proper) means.Commentary Uncontrolled
-self he who has not controlled the senses and the mind by the constant
-practice of dispassion and meditation. Selfcontrolled he who has
-controlled the mind by the constant practice of dispassion and
-meditation. He can attain Selfrealisation by the right means and
-constant endeavour.
+hard to attain; इति thus; मे My; मतिः opinion; वश्यात्मना by the selfcontrolled one; तु but; यतता by the striving one; शक्यः possible;
+अवाप्तुम् to obtain; उपायतः by (proper) means.Commentary Uncontrolled self he who has not controlled the senses and the mind by the constant practice of dispassion and meditation. Selfcontrolled he who has controlled the mind by the constant practice of dispassion and meditation. He can attain Selfrealisation by the right means and constant endeavour.
 
 </details>
 </div>

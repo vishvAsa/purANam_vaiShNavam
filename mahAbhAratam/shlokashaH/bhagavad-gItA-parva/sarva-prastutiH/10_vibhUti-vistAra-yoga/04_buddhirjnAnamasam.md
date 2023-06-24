@@ -133,39 +133,12 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 10.4 - 10.5 'Intelligence' is the power of the mind to determine.
-'Knowledge' is the power of determining the difference between the two
-entities - non-sentient matter and the individual self. 'Non-delusion'
-is freedom from the delusion of perceiving as silver the mother-of-pearl
-etc., which are different from silver etc., previously observed.
-'Forbearance', is a non-disturbed state of mind, even when there is a
-cause for getting disturbed. 'Truth' is speech about things as they are
-actually seen, and meant for the good of all beings. Here, the working
-of the mind in conformity with the ideal is intended, because the
-context is with reference to the working of the mind. 'Restraint' is the
-checking of the outgoing organs from their tendency to move towards
-their objects and generate evil. 'Self-control' is the restraint of the
-mind in the same manner. 'Pleasure' is the experience of what is
-agreeable to oneself. 'Pain' is th experience of what is adverse.
-'Exaltation' is that state of elation of the mind caused by experiences
-which are agreeable to oneself. 'Depression' is the state of mind caused
-by disagreeable experiences. 'Fear' is the misery which springs from the
-perception of the cause of future sufferings. 'Fearlessness' is the
-absence of such feelings. 'Non-violence' is avoidance of being the cause
-of sorrow to others. 'Eability' is to become eable in mind whether good
-or bad befalls and to look upon with the same eanimity on what happens
-to oneself, friends and enemies. 'Cheerfulness' is the natural
-disposition to feel pleased with everything seen. 'Austerity' is the
-chastising of the body by denying to oneself pleasures, as enjoined by
-the scriptures. 'Beneficence' is giving to another what contributes to
-one's own enjoyment. 'Fame' is the renown of possessing good alities.
-'Infamy' is notoriety of possessing bad alities. The workings of the
-mind which are in accordance with fame and infamy must be understood
-here, because it is the subject-matter of the context. Austerity and
-beneficence are to be understood in the same way. All these mental
-faculties - these functioning of the mind - resulting either in activity
-or inactivity, are from Me alone, i.e., are dependent on My volition.
-Sri Krsna declares: 'Thos agents who direct the creation, sustentation
-etc., of all beings, have their activity dependent on My Will.'
+'Knowledge' is the power of determining the difference between the two entities - non-sentient matter and the individual self. 'Non-delusion'
+is freedom from the delusion of perceiving as silver the mother-of-pearl etc., which are different from silver etc., previously observed.
+'Forbearance', is a non-disturbed state of mind, even when there is a cause for getting disturbed. 'Truth' is speech about things as they are actually seen, and meant for the good of all beings. Here, the working of the mind in conformity with the ideal is intended, because the context is with reference to the working of the mind. 'Restraint' is the checking of the outgoing organs from their tendency to move towards their objects and generate evil. 'Self-control' is the restraint of the mind in the same manner. 'Pleasure' is the experience of what is agreeable to oneself. 'Pain' is th experience of what is adverse.
+'Exaltation' is that state of elation of the mind caused by experiences which are agreeable to oneself. 'Depression' is the state of mind caused by disagreeable experiences. 'Fear' is the misery which springs from the perception of the cause of future sufferings. 'Fearlessness' is the absence of such feelings. 'Non-violence' is avoidance of being the cause of sorrow to others. 'Eability' is to become eable in mind whether good or bad befalls and to look upon with the same eanimity on what happens to oneself, friends and enemies. 'Cheerfulness' is the natural disposition to feel pleased with everything seen. 'Austerity' is the chastising of the body by denying to oneself pleasures, as enjoined by the scriptures. 'Beneficence' is giving to another what contributes to one's own enjoyment. 'Fame' is the renown of possessing good alities.
+'Infamy' is notoriety of possessing bad alities. The workings of the mind which are in accordance with fame and infamy must be understood here, because it is the subject-matter of the context. Austerity and beneficence are to be understood in the same way. All these mental faculties - these functioning of the mind - resulting either in activity or inactivity, are from Me alone, i.e., are dependent on My volition.
+Sri Krsna declares: 'Thos agents who direct the creation, sustentation etc., of all beings, have their activity dependent on My Will.'
 
 </details>
 </div>
@@ -391,7 +364,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।10.4।। बुद्धि, ज्ञान, मोह का अभाव, क्षमा, सत्य, दम (इन्द्रिय संयम), शम
-(मनः संयम), सुख, दुःख, जन्म और मृत्यु, भय और अभय।।
+(मन: संयम), सुख, दु:ख, जन्म और मृत्यु, भय और अभय।।
 
 </details>
 </div>
@@ -422,8 +395,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/04_buddhirjnAnamasam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.4. Intellect, knowledge, steadiness, patience, truth, control \[over
-sense-organs\], tranility \[of mind\], pleasure, pain, birth, death,
+10.4. Intellect, knowledge, steadiness, patience, truth, control \[over sense-organs\], tranility \[of mind\], pleasure, pain, birth, death,
 fear and courage;
 
 </details>
@@ -431,8 +403,7 @@ fear and courage;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/04_buddhirjnAnamasam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.4 Intelligence, wisdom, non-delusion, forgiveness, truth, control of
-the external organs, control of the internal organs, happiness, sorrow,
+10.4 Intelligence, wisdom, non-delusion, forgiveness, truth, control of the external organs, control of the internal organs, happiness, sorrow,
 birth, death and fear as also fearlessness;
 
 </details>
@@ -441,8 +412,7 @@ birth, death and fear as also fearlessness;
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 10.4 Intelligence, wisdom, non-illusion, forgiveness, truth,
-self-control, calmness, pleasure, pain, birth, death, fear and
-fearlessness;
+self-control, calmness, pleasure, pain, birth, death, fear and fearlessness;
 
 </details>
 </div>
@@ -450,8 +420,7 @@ fearlessness;
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 10.4 Intelligence, knowledge, non-delusion, forbearance truth,
-restraint, self-control, pleasure, pain, exaltation depression, fear and
-fearlessness;
+restraint, self-control, pleasure, pain, exaltation depression, fear and fearlessness;
 
 </details>
 </div>
@@ -470,31 +439,8 @@ non-existence or death, fear and also fearlessness.
 10.4 बुद्धिः intellect; ज्ञानम् wisdom; असंमोहः nondelusion; क्षमा
 forgiveness; सत्यम् truth; दमः selfrestraint; शमः calmness; सुखम्
 happiness; दुःखम् pain; भवः birth or existence; अभावः nonexistence; भयम्
-fear; च and; अभयम् fearlessness; एव even; च and. Commentary Intellect is
-the power which the Antahkarana (the fourfold inner instrument -- the
-mind; the subconscious mind; intellect and egoism) has of understanding
-subtle objects. Wisdom is knowledge of the Self. Nondelusion is freedom
-from illusion. It consists in acting with discrimination when anything
-has to be done or kown at the moment. Patience is the nonagitation of
-the mind when assaulted or abused. Not thinking of any harm of evil for
-those who ahve assulted or abused is also patience. Patience is enduring
-without lamentation the three kinds of pains; Adhyatmika; Adhidaivika
-and Adhibhautika Taapas. Fever; etc.; is Adhyatmika pain. Pain or
-discomfort from severe cold; heat; too much rain; thunder; and lightning
-is Adhidaivika pain. Pain from scorpionsting; snakite; and wild animals
-is Adhibhautika pain.Satyam or truth is veracity. It is speaking of ones
-own actual or real experience of things as actually heard or seen. There
-is not the least twisting or exaggeration or the slightest modification
-of facts. Dama or selfrestraint is control of the external senses. It is
-withdrawal of the senses (ear; skin; eyes; tongue and nose) from their
-respective objects (viz.; sound; touch; form; palatable foods and
-fragrance). Sama is calmness or tranillity of the mind produced by
-checking the mind from thinking of external objects of the senses and by
-disconnecting it from the senses.Sukham Happiness. That which has Dharma
-or virtue as its chief cause and that which is favourable to all beings;
-is happiness. Duhkham That which has Adhrama as its cause and that which
-is unfavourable to all beings; is pain.That which appears is Bhavah. Sat
-is Bhavah. Asat or unreality is Abhavah.
+fear; च and; अभयम् fearlessness; एव even; च and. Commentary Intellect is the power which the Antahkarana (the fourfold inner instrument -- the mind; the subconscious mind; intellect and egoism) has of understanding subtle objects. Wisdom is knowledge of the Self. Nondelusion is freedom from illusion. It consists in acting with discrimination when anything has to be done or kown at the moment. Patience is the nonagitation of the mind when assaulted or abused. Not thinking of any harm of evil for those who ahve assulted or abused is also patience. Patience is enduring without lamentation the three kinds of pains; Adhyatmika; Adhidaivika and Adhibhautika Taapas. Fever; etc.; is Adhyatmika pain. Pain or discomfort from severe cold; heat; too much rain; thunder; and lightning is Adhidaivika pain. Pain from scorpionsting; snakite; and wild animals is Adhibhautika pain.Satyam or truth is veracity. It is speaking of ones own actual or real experience of things as actually heard or seen. There is not the least twisting or exaggeration or the slightest modification of facts. Dama or selfrestraint is control of the external senses. It is withdrawal of the senses (ear; skin; eyes; tongue and nose) from their respective objects (viz.; sound; touch; form; palatable foods and fragrance). Sama is calmness or tranillity of the mind produced by checking the mind from thinking of external objects of the senses and by disconnecting it from the senses.Sukham Happiness. That which has Dharma or virtue as its chief cause and that which is favourable to all beings;
+is happiness. Duhkham That which has Adhrama as its cause and that which is unfavourable to all beings; is pain.That which appears is Bhavah. Sat is Bhavah. Asat or unreality is Abhavah.
 
 </details>
 </div>

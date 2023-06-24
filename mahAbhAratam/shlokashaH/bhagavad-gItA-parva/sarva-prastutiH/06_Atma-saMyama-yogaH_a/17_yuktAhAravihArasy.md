@@ -58,8 +58,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.17 The 'yoga which destroys all sorrows,' i.e., unties bondages, is
-successfully practised by him who is temperate in eating and recreation,
+6.17 The 'yoga which destroys all sorrows,' i.e., unties bondages, is successfully practised by him who is temperate in eating and recreation,
 temperate in exertion, and temperate in sleep and vigil.
 
 </details>
@@ -306,7 +305,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.17।। उस पुरुष के लिए योग दुःखनाशक होता है, जो युक्त आहार और विहार
+।।6.17।। उस पुरुष के लिए योग दु:खनाशक होता है, जो युक्त आहार और विहार
 करने वाला है, यथायोग्य चेष्टा करने वाला है और परिमित शयन और जागरण करने
 वाला है।।
 
@@ -345,44 +344,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.17. The Yoga becomes a misery-killer for him whose effort for food is
-appropriate, exertion in activities is proper, and sleep and waking are
-proportionate.
+6.17. The Yoga becomes a misery-killer for him whose effort for food is appropriate, exertion in activities is proper, and sleep and waking are proportionate.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.17 Yoga becomes a destroyer of sorrow of one whose eating and
-movements are regulated, whose effort in works is moderate, and whose
-sleep and wakefulness are temperate.
+6.17 Yoga becomes a destroyer of sorrow of one whose eating and movements are regulated, whose effort in works is moderate, and whose sleep and wakefulness are temperate.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.17 But for him who regulates his food and recreation, who is balanced
-in action, in sleep and in waking, it shall dispel all unhappiness.
+6.17 But for him who regulates his food and recreation, who is balanced in action, in sleep and in waking, it shall dispel all unhappiness.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.17 Yoga becomes the destroyer of sorrows to him who is temperate in
-food and recreation, who is temperate in actions, who is temperate in
-sleep and wakefulness.
+6.17 Yoga becomes the destroyer of sorrows to him who is temperate in food and recreation, who is temperate in actions, who is temperate in sleep and wakefulness.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/17_yuktAhAravihArasy.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.17 Yoga becomes the destroyer of pain for him who is moderate in
-eating and recreation (such as walking, etc.), who is moderate in
-exertion in actions, who is moderate in sleep and wakefulness.
+6.17 Yoga becomes the destroyer of pain for him who is moderate in eating and recreation (such as walking, etc.), who is moderate in exertion in actions, who is moderate in sleep and wakefulness.
 
 </details>
 </div>
@@ -390,27 +380,9 @@ exertion in actions, who is moderate in sleep and wakefulness.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.17 युक्ताहारविहारस्य of one who is moderate in eating and recreation
-(such as walking; etc.); युक्तचेष्टस्य कर्मसु of one who is moderate in
-exertion in actions; युक्तस्वप्नावबोधस्य of one who is moderate in sleep
-and wakefulness; योगः Yoga; भवति becomes; दुःखहा the destroyer of
-pain.Commentary In this verse the Lord prescribes for the student of
-Yoga; diet; recreation and th like. The student of Yoga should always
-adopt the happy medium or the middle course. Lord Buddha went to the
-extremes in the beginning in matters of food; drink; etc. He was very
-abstemious and became extremely weak. He tortured his body very much.
-Therefore he was not able to attain to success in Yoga. Too much of
-austerity is not necessary for Selfrealisation. This is condemned by the
-Lord in chapter XVII; verses 5 and 6. Austerity should not mean
-selftorture. Then it becomes diabolical. The Buddi Yoga of Krishna is a
-wise approach to austerity. Some aspirants take asceticism as the goal
-it is only the means but not the end. The nervous system is
-extremely,sensitive. It responds even to very slight changes and causes
-distraction of the mind. It is; therefore; very necessary that you
-should lead a very regulated and disciplined life and should be moderate
-in food; sleep and recreation. Take measured food. Sleep and wake up at
-the prescribed time. Sleeo at 9 or 10 p.m. and get up at 3 or 4 a.m.
-Only then will you attain to success in Yoga which will kill all sorts
-or pains and sorrows of this life.
+(such as walking; etc.); युक्तचेष्टस्य कर्मसु of one who is moderate in exertion in actions; युक्तस्वप्नावबोधस्य of one who is moderate in sleep and wakefulness; योगः Yoga; भवति becomes; दुःखहा the destroyer of pain.Commentary In this verse the Lord prescribes for the student of Yoga; diet; recreation and th like. The student of Yoga should always adopt the happy medium or the middle course. Lord Buddha went to the extremes in the beginning in matters of food; drink; etc. He was very abstemious and became extremely weak. He tortured his body very much.
+Therefore he was not able to attain to success in Yoga. Too much of austerity is not necessary for Selfrealisation. This is condemned by the Lord in chapter XVII; verses 5 and 6. Austerity should not mean selftorture. Then it becomes diabolical. The Buddi Yoga of Krishna is a wise approach to austerity. Some aspirants take asceticism as the goal it is only the means but not the end. The nervous system is extremely,sensitive. It responds even to very slight changes and causes distraction of the mind. It is; therefore; very necessary that you should lead a very regulated and disciplined life and should be moderate in food; sleep and recreation. Take measured food. Sleep and wake up at the prescribed time. Sleeo at 9 or 10 p.m. and get up at 3 or 4 a.m.
+Only then will you attain to success in Yoga which will kill all sorts or pains and sorrows of this life.
 
 </details>
 </div>

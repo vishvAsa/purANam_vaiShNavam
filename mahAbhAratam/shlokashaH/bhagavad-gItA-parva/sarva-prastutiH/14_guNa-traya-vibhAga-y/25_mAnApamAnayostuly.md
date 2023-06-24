@@ -63,27 +63,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.24 - 14.25 He who is 'alike in pleasure and pain,' namely, whose mind
-is eal in pleasure and pain; 'who dwells in his self,' namely, who
-dwells in his self because his love for the self keeps his mind in
-eanimity in pleasure and pain arising from the birth, death etc., of his
-sons and other relatives and friends, and who, because of this, 'looks
-upon a clod, a stone and a piece of gold as of eal value,' who
-conseently remains the same towards things dear or hateful, i.e., who
-treats alike the worldly objects desired and undesired; who is
-'intelligent,' namely, proficient in discrimination between the Prakrti
-and the self; who, therefore, regards blame and praise as alike, namely,
-who treats with eality praise and blame looking upon good and evil
-alities as born of identification with bodies such as those of men etc.,
-and as such unconnected with his real self; who is the 'same in honour
-and dishonour' because these are feelings based on the misconception
-that the body is the self, and as a conseence of such discrimination
-between the body and the self, 'looks alike on friend and foe,' because
-he understands that ther is no connection between them and himself; and
-who has thus abandoned all entrprises in which embodied beings are
-involved - he who is like this, is said to have risen above the Gunas.
-Now Sri Krsna states the main method (technie) for transcending such
-Gunas:
+14.24 - 14.25 He who is 'alike in pleasure and pain,' namely, whose mind is eal in pleasure and pain; 'who dwells in his self,' namely, who dwells in his self because his love for the self keeps his mind in eanimity in pleasure and pain arising from the birth, death etc., of his sons and other relatives and friends, and who, because of this, 'looks upon a clod, a stone and a piece of gold as of eal value,' who conseently remains the same towards things dear or hateful, i.e., who treats alike the worldly objects desired and undesired; who is
+'intelligent,' namely, proficient in discrimination between the Prakrti and the self; who, therefore, regards blame and praise as alike, namely,
+who treats with eality praise and blame looking upon good and evil alities as born of identification with bodies such as those of men etc.,
+and as such unconnected with his real self; who is the 'same in honour and dishonour' because these are feelings based on the misconception that the body is the self, and as a conseence of such discrimination between the body and the self, 'looks alike on friend and foe,' because he understands that ther is no connection between them and himself; and who has thus abandoned all entrprises in which embodied beings are involved - he who is like this, is said to have risen above the Gunas.
+Now Sri Krsna states the main method (technie) for transcending such Gunas:
 
 </details>
 </div>
@@ -486,71 +470,42 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.25. Who remains eal to honour and to dishonour, and eal to the sides
-of \[both\] the friend and the foe; and who has given up all fruits of
-his initiatives-he is said to have transcended the Strands.
+14.25. Who remains eal to honour and to dishonour, and eal to the sides of \[both\] the friend and the foe; and who has given up all fruits of his initiatives-he is said to have transcended the Strands.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.25 He who is the same under honour and dishonour, who is eally
-disposed both towards the side of the friend and of the foe, who has
-renounced all enterprise,-he is said to have gone beyond the alities.
+14.25 He who is the same under honour and dishonour, who is eally disposed both towards the side of the friend and of the foe, who has renounced all enterprise,-he is said to have gone beyond the alities.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.25 Who looks equally upon honour and dishonour, loves friends and
-foes alike, abandons all initiative, such is he who transcends the
-Qualities.
+14.25 Who looks equally upon honour and dishonour, loves friends and foes alike, abandons all initiative, such is he who transcends the Qualities.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.25 He who is the same in honour and dishonour, and the same to friend
-and foe, and how has abandoned all enterprises - he is said to have
-risen above the Gunas.
+14.25 He who is the same in honour and dishonour, and the same to friend and foe, and how has abandoned all enterprises - he is said to have risen above the Gunas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.25 Who is the same in honour and dishonour, the same to friend and
-foe, abandoning all undertakings he is said to have transcended the
-alities.
+14.25 Who is the same in honour and dishonour, the same to friend and foe, abandoning all undertakings he is said to have transcended the alities.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/14_guNa-traya-vibhAga-y/25_mAnApamAnayostuly.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-14.25 मानापमानयोः in honour and dishonour; तुल्यः the same; तुल्यः the
-same; मित्रारिपक्षयोः to friend and foe; सर्वारम्भपरित्यागी abandoning
-all undertakings; गुणातीतः crossed the Gunas; सः he; उच्यते is
-said.Commentary He keeps a balanced mind in honour and dishonour. He is
-the same to friend and foe. He is not affected by the dual throng. He
-has risen above the Gunas. He rests in his own essential nature as
-ExistenceKnowledgeBliss Absolute. He abids in his own Self. He is a
-Gunatita (one who has transcended the alities of Nature) who is not
-affected by the play of the alities. He keeps an even outlook amidst
-changes. He maintains a clam eilibrium.He abandons all actions that can
-bring visible or invisible fruits or results but he does actions that
-are necessary for the bare maintenance of his body. The alities
-described in verses 23; 24 and 25; such as indifference; etc.; are the
-means for attaining liberation. They represent the ideal that you should
-have before you. The aspirant should cultivate them. But one attains
-knowledge of the Self when he abides in his own true nature. These
-attributes form part and parcel of his nature and serve as marks to
-indicate that he has crossed beyond the three alities.The Lord gives in
-the following verse the answer to the third estion of Arjuna How does
-one go beyond the three alities
+14.25 मानापमानयोः in honour and dishonour; तुल्यः the same; तुल्यः the same; मित्रारिपक्षयोः to friend and foe; सर्वारम्भपरित्यागी abandoning all undertakings; गुणातीतः crossed the Gunas; सः he; उच्यते is said.Commentary He keeps a balanced mind in honour and dishonour. He is the same to friend and foe. He is not affected by the dual throng. He has risen above the Gunas. He rests in his own essential nature as ExistenceKnowledgeBliss Absolute. He abids in his own Self. He is a Gunatita (one who has transcended the alities of Nature) who is not affected by the play of the alities. He keeps an even outlook amidst changes. He maintains a clam eilibrium.He abandons all actions that can bring visible or invisible fruits or results but he does actions that are necessary for the bare maintenance of his body. The alities described in verses 23; 24 and 25; such as indifference; etc.; are the means for attaining liberation. They represent the ideal that you should have before you. The aspirant should cultivate them. But one attains knowledge of the Self when he abides in his own true nature. These attributes form part and parcel of his nature and serve as marks to indicate that he has crossed beyond the three alities.The Lord gives in the following verse the answer to the third estion of Arjuna How does one go beyond the three alities
 
 </details>
 </div>

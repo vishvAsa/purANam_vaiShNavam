@@ -41,17 +41,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -314,17 +305,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.37. How could we be happy indeed, O Madhava, after slaying our own
-kinsmen ;
+1.37. How could we be happy indeed, O Madhava, after slaying our own kinsmen ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.37 Therefore, it is not proper for us to kill the sons of Dhrtarastra
-who are our own relatives. For, O Madhava, how can we be happy by
-killing our kinsmen;
+1.37 Therefore, it is not proper for us to kill the sons of Dhrtarastra who are our own relatives. For, O Madhava, how can we be happy by killing our kinsmen;
 
 </details>
 </div>
@@ -332,25 +320,21 @@ killing our kinsmen;
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 1.37 We are worthy of a nobler feat than to slaughter our relatives -
-the sons of Dhritarashtra; for, my Lord, how can we be happy of we kill
-our kinsmen;
+the sons of Dhritarashtra; for, my Lord, how can we be happy of we kill our kinsmen;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.37 Therefore, it is not befitting that we slay our kin, the sons of
-Dhrtarastra. For if we kill our kinsmen, O Krsna, how indeed can we be
-happy;
+1.37 Therefore, it is not befitting that we slay our kin, the sons of Dhrtarastra. For if we kill our kinsmen, O Krsna, how indeed can we be happy;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/37_tasmAnnArhA_vayam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.37. Therefore, we should not kill the sons of Dhritarashtra, our
-relatives; for how can we be happy by killing our own people, O Madhava
+1.37. Therefore, we should not kill the sons of Dhritarashtra, our relatives; for how can we be happy by killing our own people, O Madhava
 (Krishna);
 
 </details>
@@ -359,8 +343,7 @@ relatives; for how can we be happy by killing our own people, O Madhava
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 1.37 तस्मात् therefore; न (are) not; अर्हाः justified; वयम् we; हन्तुम्
-to kill; धार्तराष्ट्रान् the sons of Dhritarashtra; स्वबान्धवान् our
-relatives; स्वजनम् kinsmen; हि indeed; कथम् how; हत्वा having killed;
+to kill; धार्तराष्ट्रान् the sons of Dhritarashtra; स्वबान्धवान् our relatives; स्वजनम् kinsmen; हि indeed; कथम् how; हत्वा having killed;
 सुखिनः happy; स्याम may (we) be; माधव O Madhava.No Commentary.
 
 </details>

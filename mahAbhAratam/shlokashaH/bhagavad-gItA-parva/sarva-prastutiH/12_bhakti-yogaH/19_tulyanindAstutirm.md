@@ -79,17 +79,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.18 - 12.19 The absence of hate etc., towards foes, friends etc., has
-already been taught in the stanza beginning with, 'He who never hates
-any being' (11.13). What is now taught is that eanimity to be practised
-even when such persons mentioned above are present before one who is
-superior to those having a general eanimous temperament referred to
-earlier. Who has no 'home', namely, who is not attached to home, etc.,
-as he possesses firmness of mind with regard to the self. Because of
-this, he is 'same even in honour and dishonour.' He who is devoted to Me
-and who is like this - he is dear to Me. Showing the superiority of
-Bhakti-Nistha over Atma-nistha, Sri Krsna now concludes in accordance
-with what is stated at the beginning of this chapter in Verse 2.
+12.18 - 12.19 The absence of hate etc., towards foes, friends etc., has already been taught in the stanza beginning with, 'He who never hates any being' (11.13). What is now taught is that eanimity to be practised even when such persons mentioned above are present before one who is superior to those having a general eanimous temperament referred to earlier. Who has no 'home', namely, who is not attached to home, etc.,
+as he possesses firmness of mind with regard to the self. Because of this, he is 'same even in honour and dishonour.' He who is devoted to Me and who is like this - he is dear to Me. Showing the superiority of Bhakti-Nistha over Atma-nistha, Sri Krsna now concludes in accordance with what is stated at the beginning of this chapter in Verse 2.
 
 </details>
 </div>
@@ -678,47 +669,36 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.19. To whom blame and praise are eal; who is silent (does not
-over-speak) and is well content with one thing or other \[that comes to
-him\]; who has no fixed thought \[in the mundane life\]; who is \[yet\]
-steady-minded \[in spiritual practice\] and is full of devotion-that man
-is dear to Me.
+12.19. To whom blame and praise are eal; who is silent (does not over-speak) and is well content with one thing or other \[that comes to him\]; who has no fixed thought \[in the mundane life\]; who is \[yet\]
+steady-minded \[in spiritual practice\] and is full of devotion-that man is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.19 The person to whom denunciation and praise are the same, who is
-silent, content with anything, homeless, steady-minded, and full of
-devotion is dear to Me.
+12.19 The person to whom denunciation and praise are the same, who is silent, content with anything, homeless, steady-minded, and full of devotion is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/19_tulyanindAstutirm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.19 Who is indifferent to praise and censure, who enjoys silence, who
-is contented with every fate, who has no fixed abode, who is steadfast
-in mind, and filled with devotion, such a one is My beloved.
+12.19 Who is indifferent to praise and censure, who enjoys silence, who is contented with every fate, who has no fixed abode, who is steadfast in mind, and filled with devotion, such a one is My beloved.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.19 He who regards alike both blame and praise, who is silent and
-content with any lot, who has no home, who is firm of mind, and who is
-devoted to Me - dear to Me is such a man.
+12.19 He who regards alike both blame and praise, who is silent and content with any lot, who has no home, who is firm of mind, and who is devoted to Me - dear to Me is such a man.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/19_tulyanindAstutirm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.19 He to whom censure and praise are eal, who is silent, content with
-anything, homeless, of a steady mind, and full of devotion that man is
-dear to Me.
+12.19 He to whom censure and praise are eal, who is silent, content with anything, homeless, of a steady mind, and full of devotion that man is dear to Me.
 
 </details>
 </div>
@@ -728,15 +708,8 @@ dear to Me.
 12.19 तुल्यनिन्दास्तुतिः to whom censure and praise are eal; मौनी --
 silent; सन्तुष्टः contented; येनकेनचित् with anything; अनिकेतः homeless;
 स्थिरमतिः steadyminded; भक्तिमान् full of devotion; मे to Me; प्रियः
-dear; नरः (that) man.Commentary He is neither elated by praise nor
-pained by censure. He keeps a balanced state of mind. He has controlled
-the organ of speech and so he is silent. His mind also is serene and
-silent as he has controlled the thoughts also. He is ite content with
-the bare means of bodily sustenance. It is said in the Mahabharata
-(Santi Parva; Moksha Dharma) Who is dressed in anything; who eats any
-kind of food; who lies down anywhere; him the gods call a Brahmana or a
-liberated sage or Jivanmukta.He does not dwell in one place. He has no
-fixed abode. He is homeless. He regards the world as his dwelling place.
+dear; नरः (that) man.Commentary He is neither elated by praise nor pained by censure. He keeps a balanced state of mind. He has controlled the organ of speech and so he is silent. His mind also is serene and silent as he has controlled the thoughts also. He is ite content with the bare means of bodily sustenance. It is said in the Mahabharata
+(Santi Parva; Moksha Dharma) Who is dressed in anything; who eats any kind of food; who lies down anywhere; him the gods call a Brahmana or a liberated sage or Jivanmukta.He does not dwell in one place. He has no fixed abode. He is homeless. He regards the world as his dwelling place.
 His mind is ever fixed on Brahman. (Cf.VII.17IX.29XII.17)
 
 </details>

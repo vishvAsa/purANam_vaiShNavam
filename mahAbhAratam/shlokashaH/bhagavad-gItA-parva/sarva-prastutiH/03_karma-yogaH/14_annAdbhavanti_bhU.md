@@ -55,12 +55,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/14_annAdbhavanti_bhU.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.14 From food arise all beings; from rain food is produced. These two
-facts are matters of common experience. 'From sacrifice comes rain' this
-is known from the scriptures such as, 'The oblations offered in fire
-reach the sun, and from the sun comes rain' (Manu, 6.76), and sacrifice
-is born out of activities in the form of collecting materials, etc., by
-the agent. And activity arises from 'Brahman', the body born of Prakrti.
+3.14 From food arise all beings; from rain food is produced. These two facts are matters of common experience. 'From sacrifice comes rain' this is known from the scriptures such as, 'The oblations offered in fire reach the sun, and from the sun comes rain' (Manu, 6.76), and sacrifice is born out of activities in the form of collecting materials, etc., by the agent. And activity arises from 'Brahman', the body born of Prakrti.
 
 </details>
 </div>
@@ -364,18 +359,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/14_annAdbhavanti_bhU.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.14. From food arise the things that are born; from the rain-cloud the
-food arises; from the sacrifice the rain-cloud arises; the sacrifices
-arises from action;
+3.14. From food arise the things that are born; from the rain-cloud the food arises; from the sacrifice the rain-cloud arises; the sacrifices arises from action;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/14_annAdbhavanti_bhU.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.14 From food are born the creatures; the origin of food is from
-rainfall; rainfall originates from sacrifice; sacrifice has action as
-its origin.
+3.14 From food are born the creatures; the origin of food is from rainfall; rainfall originates from sacrifice; sacrifice has action as its origin.
 
 </details>
 </div>
@@ -390,17 +381,14 @@ rain comes by sacrifice, and sacrifice is the noblest form of action.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/14_annAdbhavanti_bhU.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.14 From food arise all beings (i.e., their bodies); from rain food is
-produced; from sacrifice comes rain; and sacrifice springs from
-activity.
+3.14 From food arise all beings (i.e., their bodies); from rain food is produced; from sacrifice comes rain; and sacrifice springs from activity.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/14_annAdbhavanti_bhU.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.14 From food come forth beings; from rain food is produced; from
-sacrifice arises rain and sacrifice is born of action.
+3.14 From food come forth beings; from rain food is produced; from sacrifice arises rain and sacrifice is born of action.
 
 </details>
 </div>
@@ -409,10 +397,7 @@ sacrifice arises rain and sacrifice is born of action.
 
 3.14 अन्नात् from food; भवन्ति come forth; भूतानि beings; पर्जन्यात्
 from rain; अन्नसम्भवः production of food; यज्ञात् from sacrifice; भवति
-arises; पर्जन्यः rain; यज्ञः sacrifice; कर्मसमुद्भवः born of
-action.Commentary Here Yajna means Apurva or the subtle principle or the
-unseen form which a sacrifice assumes between the time of its
-performance and the time when its fruits manifest themselves.
+arises; पर्जन्यः rain; यज्ञः sacrifice; कर्मसमुद्भवः born of action.Commentary Here Yajna means Apurva or the subtle principle or the unseen form which a sacrifice assumes between the time of its performance and the time when its fruits manifest themselves.
 
 </details>
 </div>

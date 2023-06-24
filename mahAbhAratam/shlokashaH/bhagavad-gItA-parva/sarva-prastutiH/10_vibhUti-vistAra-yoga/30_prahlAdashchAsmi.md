@@ -49,9 +49,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.30 Of those who reckon with the desire to cause evil, I am the god of
-death - (here an emissary of his who records the time of death of
-creatures is meant).
+10.30 Of those who reckon with the desire to cause evil, I am the god of death - (here an emissary of his who records the time of death of creatures is meant).
 
 </details>
 </div>
@@ -292,24 +290,21 @@ And among animals I am the loin, and among birds I am Garuda.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.30 And I am the devotee Prahlad among the heathen; of Time I am the
-Eternal Present; I am the Lion among beasts and the Eagle among birds.
+10.30 And I am the devotee Prahlad among the heathen; of Time I am the Eternal Present; I am the Lion among beasts and the Eagle among birds.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.30 Of Daityas, I am Prahlada. Of reckoners, I am Death. Of beasts, I
-am the lion, and of birds I am Garuda the son of Vinata.
+10.30 Of Daityas, I am Prahlada. Of reckoners, I am Death. Of beasts, I am the lion, and of birds I am Garuda the son of Vinata.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/30_prahlAdashchAsmi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.30 And, I am Prahlada among the demons, among the reckoners I am
-time; among beasts I am the lion, and Vainateya (Garuda) among birds.
+10.30 And, I am Prahlada among the demons, among the reckoners I am time; among beasts I am the lion, and Vainateya (Garuda) among birds.
 
 </details>
 </div>
@@ -319,8 +314,7 @@ time; among beasts I am the lion, and Vainateya (Garuda) among birds.
 10.30 प्रह्लादः Prahlada; च and; अस्मि (I) am; दैत्यानाम् among demons;
 कालः time; कलयताम् among reckoners; अहम् I; मृगाणाम् among beasts; च
 and; मृगेन्द्रः lion; अहम् I; वैनतेयः son of Vinata (Garuda); च and;
-पक्षिणाम् among birds.Commentary Prahlada; though he was the son of a
-demon (Hiranyakasipu); was a great devotee of the Lord.
+पक्षिणाम् among birds.Commentary Prahlada; though he was the son of a demon (Hiranyakasipu); was a great devotee of the Lord.
 
 </details>
 </div>

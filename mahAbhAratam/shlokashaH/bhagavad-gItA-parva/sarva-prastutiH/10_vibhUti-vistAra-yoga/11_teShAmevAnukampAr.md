@@ -72,16 +72,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 10.11 To show favour to them alone, abiding in their mental activity,
-i.e., established as the object of thought in their mind, and
-manifesting the host of My auspicious attributes by the brillinat lamp
-called knowledge relating to Me, - I dispel the darkness incompatible
-with knowledge. This darkness is born of ignorance in the form of old
-Karma consisting of attachment to objects other than Myself, to which
-they were previously habituated. Thus having heard of the Lord as having
-a host of auspicious attributes, and of the extent of His sovereign
-glories which are unie and different from all others and which generate
-unsurpassed bliss in listeners, - Arjuna desired to listen to the
-details about them and said:
+i.e., established as the object of thought in their mind, and manifesting the host of My auspicious attributes by the brillinat lamp called knowledge relating to Me, - I dispel the darkness incompatible with knowledge. This darkness is born of ignorance in the form of old Karma consisting of attachment to objects other than Myself, to which they were previously habituated. Thus having heard of the Lord as having a host of auspicious attributes, and of the extent of His sovereign glories which are unie and different from all others and which generate unsurpassed bliss in listeners, - Arjuna desired to listen to the details about them and said:
 
 </details>
 </div>
@@ -409,7 +400,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।10.11।। उनके ऊपर अनुग्रह करने के लिए मैं उनके अन्तःकरण में स्थित होकर,
+।।10.11।। उनके ऊपर अनुग्रह करने के लिए मैं उनके अन्त:करण में स्थित होकर,
 अज्ञानजनित अन्धकार को प्रकाशमय ज्ञान के दीपक द्वारा नष्ट करता हूँ।।
 
 </details>
@@ -447,9 +438,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.11. Out of compassion only towards these men, I, who remain as their
-very Self, destroy with teh shining light of wisdom, their darkness born
-of ignorance,
+10.11. Out of compassion only towards these men, I, who remain as their very Self, destroy with teh shining light of wisdom, their darkness born of ignorance,
 
 </details>
 </div>
@@ -457,25 +446,21 @@ of ignorance,
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 10.11 Out of compassion for them alone, I, residing in their hearts,
-destroy the darkness born of ignorance with the luminous lamp of
-Knowledge.
+destroy the darkness born of ignorance with the luminous lamp of Knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.11 By My grace, I live in their hearts; and I dispel the darkness of
-ignorance by the shining light of wisdom.
+10.11 By My grace, I live in their hearts; and I dispel the darkness of ignorance by the shining light of wisdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/11_teShAmevAnukampAr.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.11 Out of compassion for them alone, I, abiding in their mental
-activity as its object, dispel the darkness born of ignorance by the
-brilliant lamp of knowledge.
+10.11 Out of compassion for them alone, I, abiding in their mental activity as its object, dispel the darkness born of ignorance by the brilliant lamp of knowledge.
 
 </details>
 </div>
@@ -483,8 +468,7 @@ brilliant lamp of knowledge.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 10.11 Out of mere compassion for them, I, dwelling within their Self,
-destroy the darkness born of ignorance by the luminous lamp of
-knowledge.
+destroy the darkness born of ignorance by the luminous lamp of knowledge.
 
 </details>
 </div>
@@ -493,25 +477,8 @@ knowledge.
 
 10.11 तेषाम् for them; एव mere; अनुकम्पार्थम् out of compassion; अहम् I;
 अज्ञानजम् born of ignorance; तमः darkness; नाशयामि (I) destroy;
-आत्मभावस्थः dwelling within their self; ज्ञानदीपेन by the lamp of
-knowledge; भास्वता luminous.Commentary Luminous lamp of knowledge The
-Lord dwells in the heart of the devotees who constantly think of Him and
-destroys the veil or the darkness born of ignorance due to the absence
-of discrimination; by the luminous lamp of knowledge fed by the oil of
-pure devotion; fanned by the wind of profound meditation on Him;
-provided with the wick of right intuition; generated by the constant
-cultivation of celibacy; piety and other divine virtues held in the
-chambers of the heart free from worldliness; placed in the innermost
-recesses of the mind free from the wind of senseattractions (withdrawn
-from the objects of the senses) and untainted by likes and dislikes; and
-shining with the light of knowledge of the Self caused by the constant
-practice of meditation.The lamp is not in need of an instrument or means
-or any sort of practice for the removal of darkness. The generation of
-the light itself is ite sufficient to remove the darkness. As soon as
-the darkness is removed by the light; the pot; the chair and the other
-articles are seen. Even so the dawn of knowledge of the Self itself is
-ite sufficient to remove ignorance. No other Karma or,practice is
-necessary. After the ignorance is removed by the knowledge of the Self;
+आत्मभावस्थः dwelling within their self; ज्ञानदीपेन by the lamp of knowledge; भास्वता luminous.Commentary Luminous lamp of knowledge The Lord dwells in the heart of the devotees who constantly think of Him and destroys the veil or the darkness born of ignorance due to the absence of discrimination; by the luminous lamp of knowledge fed by the oil of pure devotion; fanned by the wind of profound meditation on Him;
+provided with the wick of right intuition; generated by the constant cultivation of celibacy; piety and other divine virtues held in the chambers of the heart free from worldliness; placed in the innermost recesses of the mind free from the wind of senseattractions (withdrawn from the objects of the senses) and untainted by likes and dislikes; and shining with the light of knowledge of the Self caused by the constant practice of meditation.The lamp is not in need of an instrument or means or any sort of practice for the removal of darkness. The generation of the light itself is ite sufficient to remove the darkness. As soon as the darkness is removed by the light; the pot; the chair and the other articles are seen. Even so the dawn of knowledge of the Self itself is ite sufficient to remove ignorance. No other Karma or,practice is necessary. After the ignorance is removed by the knowledge of the Self;
 Brahman alone shines in Its pristine glory.
 
 </details>

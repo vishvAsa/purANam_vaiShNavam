@@ -48,9 +48,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.21 That gift which is given grudgingly, viz., gift of useless things
-with a sly expectation of something in return that is said to be gift of
-Rajasa nature.
+17.21 That gift which is given grudgingly, viz., gift of useless things with a sly expectation of something in return that is said to be gift of Rajasa nature.
 
 </details>
 </div>
@@ -280,9 +278,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.21. But, what is given to get a return of favour or again with a view
-to a fruit, and which is very much vexed - that gift is held to be of
-the Rajas.
+17.21. But, what is given to get a return of favour or again with a view to a fruit, and which is very much vexed - that gift is held to be of the Rajas.
 
 </details>
 </div>
@@ -290,8 +286,7 @@ the Rajas.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 17.21 But the gift which is given expecting reciprocation, or again,
-with a desire for its result, and which is given grudgingly,- that is
-considered to be born of rajas.
+with a desire for its result, and which is given grudgingly,- that is considered to be born of rajas.
 
 </details>
 </div>
@@ -299,41 +294,30 @@ considered to be born of rajas.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 17.21 That which is given for the sake of the results it will produce,
-or with the hope of recompense,or grudgingly - that may truly be said to
-be the outcome of Passion.
+or with the hope of recompense,or grudgingly - that may truly be said to be the outcome of Passion.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.21 But that which is given as a consideration for something receievd
-or in expectation of future reward, or grudgingly, is called Rajasika
-gift.
+17.21 But that which is given as a consideration for something receievd or in expectation of future reward, or grudgingly, is called Rajasika gift.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-17.21 And, that gift which is given with a view to receive something in
-return, or looking for a reward, or reluctantly, is held to be Rajasic.
+17.21 And, that gift which is given with a view to receive something in return, or looking for a reward, or reluctantly, is held to be Rajasic.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/17_shraddhA-traya-vibhA/21_yattu_pratyupakAr.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-17.21 यत् which; तु indeed; प्रत्युपकारार्थम् with a view to receive in
-return; फलम् fruit; उद्दिश्य looking for; वा or; पुनः again; दीयते is
-given; च and; परिक्लिष्टम् reluctantly; तत् that; दानम् gift; राजसम्
-Rajasic; स्मृतम् is held to be.Commentary Charity or gift that is given
-in the hope that it will be returned in the future and praised in public
-or that the gift will bring some unseen reward or heavenly pleasure is
-passionate. If a man makes a gift to a Brahmana or a Sannyasin with the
-hope that all his sins will be washed away; this is also a Rajasic gift.
-If a man is grieved at heart after making the gift this is also a gift
-of passionate nature.
+17.21 यत् which; तु indeed; प्रत्युपकारार्थम् with a view to receive in return; फलम् fruit; उद्दिश्य looking for; वा or; पुनः again; दीयते is given; च and; परिक्लिष्टम् reluctantly; तत् that; दानम् gift; राजसम्
+Rajasic; स्मृतम् is held to be.Commentary Charity or gift that is given in the hope that it will be returned in the future and praised in public or that the gift will bring some unseen reward or heavenly pleasure is passionate. If a man makes a gift to a Brahmana or a Sannyasin with the hope that all his sins will be washed away; this is also a Rajasic gift.
+If a man is grieved at heart after making the gift this is also a gift of passionate nature.
 
 </details>
 </div>

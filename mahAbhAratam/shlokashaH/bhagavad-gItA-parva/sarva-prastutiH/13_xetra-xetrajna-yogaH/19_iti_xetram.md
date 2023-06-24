@@ -57,25 +57,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.19 This is a brief description of the principle of Ksetra - i.e., the
-text beginning with 'The great elements, the Ahankara' (13.5) and ending
-with 'An association' (13.6). 'Knowledge' which is the means for
-attaining the comprehension of the principle known as the self has been
-taught in the text beginning with 'Modesty' (13.7) and ending with
-'Reflection for attainment of knowledge of truth' (13.11). The nature of
-Ksetrajna (the self) which is the object of knowledge has also been
-concisely taught by the text beginning with 'The beginningless brahman
-having Me for the Highest' (13.12) and ending with 'present in the heart
-of all' (13.17). My devotee, on knowing this, i.e., the truth about the
-Ksetra, the truth about the means for attaining the nature of the self
-as distinct from the Ksetra, and the truth about the Ksetrajna, becomes
-worthy to attain My state of being. What is called My state of being is
-My own nature (Svabhava), namely, the transcendence of transmigratory
-existence. The meaning is that he becomes worthy to attain the state of
-freedom for transmigratory existence. Next (1) the beginninglessness of
-the conjunction between the Prakrti and the self which are completely
-distinct, (2) the difference in the workings of these two when they are
-associated with each other, and (3) the cause of this conjunction -
+13.19 This is a brief description of the principle of Ksetra - i.e., the text beginning with 'The great elements, the Ahankara' (13.5) and ending with 'An association' (13.6). 'Knowledge' which is the means for attaining the comprehension of the principle known as the self has been taught in the text beginning with 'Modesty' (13.7) and ending with
+'Reflection for attainment of knowledge of truth' (13.11). The nature of Ksetrajna (the self) which is the object of knowledge has also been concisely taught by the text beginning with 'The beginningless brahman having Me for the Highest' (13.12) and ending with 'present in the heart of all' (13.17). My devotee, on knowing this, i.e., the truth about the Ksetra, the truth about the means for attaining the nature of the self as distinct from the Ksetra, and the truth about the Ksetrajna, becomes worthy to attain My state of being. What is called My state of being is My own nature (Svabhava), namely, the transcendence of transmigratory existence. The meaning is that he becomes worthy to attain the state of freedom for transmigratory existence. Next (1) the beginninglessness of the conjunction between the Prakrti and the self which are completely distinct, (2) the difference in the workings of these two when they are associated with each other, and (3) the cause of this conjunction -
 these are treated:
 
 </details>
@@ -334,7 +317,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।13.19।। इस प्रकार, (मेरे द्वारा) क्षेत्र, ज्ञान और ज्ञेय को संक्षेपतः
+।।13.19।। इस प्रकार, (मेरे द्वारा) क्षेत्र, ज्ञान और ज्ञेय को संक्षेपत:
 कहा गया। इसे तत्त्व से जानकर (विज्ञाय) मेरा भक्त मेरे स्वरूप को प्राप्त
 होता है।।
 
@@ -375,44 +358,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.19. This field as well as the knowledge and what is to be known, all
-are mentioned collectively; clearly understanding this, My devotee
-becomes worthy of My state.
+13.19. This field as well as the knowledge and what is to be known, all are mentioned collectively; clearly understanding this, My devotee becomes worthy of My state.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.19 Thus has been spoken of in brief the field as also Knowledge and
-the Knowable. By understanding this My devotee becomes alified for My
-state.
+13.19 Thus has been spoken of in brief the field as also Knowledge and the Knowable. By understanding this My devotee becomes alified for My state.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.19 Thus I have told thee in brief what Matter is, and the Self worth
-realising and what is Wisdom. He who is devoted to Me knows; and
-assuredly he will enter into Me.
+13.19 Thus I have told thee in brief what Matter is, and the Self worth realising and what is Wisdom. He who is devoted to Me knows; and assuredly he will enter into Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.19 Thus the Ksetra, knowledge and the object of knowledge have been
-briefly set forth. On knowing this, My devotee becomes fit to attain My
-state of being.
+13.19 Thus the Ksetra, knowledge and the object of knowledge have been briefly set forth. On knowing this, My devotee becomes fit to attain My state of being.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/19_iti_xetram.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.19 Thus the field, as well as knowledge and the knowable have been
-briefly stated. My devotee, knowing this, enters into My Being.
+13.19 Thus the field, as well as knowledge and the knowable have been briefly stated. My devotee, knowing this, enters into My Being.
 
 </details>
 </div>
@@ -422,18 +396,8 @@ briefly stated. My devotee, knowing this, enters into My Being.
 13.19 इति thus; क्षेत्रम् the field; तथा as well as; ज्ञानम् knowledge;
 ज्ञेयम् the knowable; च and; उक्तम् have been stated; समासतः briefly;
 मद्भक्तः My devotee; एतत् this; विज्ञाय knowing; मद्भावाय to My being;
-उपपद्यते enters.Commentary He whohas controlled his mind and organs; who
-has the knowledge of the field and the knowable; and who fixes his mind
-on Me becomes one with Me.Thus the field described above (beginning with
-the great elements and ending with firmness; verses 5 and 6); knowledge
-described above (beginning with humility and ending with perception of
-the end of true knowledge in verses 7 to 11) and the knowable described
-in verses 12 to 17 -- these have briefly been stated.He who has
-singleminded devotion unto Me; who takes Me (Vaasudeva; the Supreme
-Lord; the omniscient; and the supreme Guru) as the Self of everything;
-he who thinks and feels that all that he sees; hears and touches is
-nothing but the Lord and he who has the right knowledge described above
-enters into My Being or attains release from birth and death.
+उपपद्यते enters.Commentary He whohas controlled his mind and organs; who has the knowledge of the field and the knowable; and who fixes his mind on Me becomes one with Me.Thus the field described above (beginning with the great elements and ending with firmness; verses 5 and 6); knowledge described above (beginning with humility and ending with perception of the end of true knowledge in verses 7 to 11) and the knowable described in verses 12 to 17 -- these have briefly been stated.He who has singleminded devotion unto Me; who takes Me (Vaasudeva; the Supreme Lord; the omniscient; and the supreme Guru) as the Self of everything;
+he who thinks and feels that all that he sees; hears and touches is nothing but the Lord and he who has the right knowledge described above enters into My Being or attains release from birth and death.
 
 </details>
 </div>

@@ -57,11 +57,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/06_yaM_yam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.6 'At the end,' at the time of death, remembering whatsoever thought
-one abandones the body, to that alone one goes after death. The final
-thought arises only with reference to objects pervioulsy ruminated upon
-in one's thought. As the final thought results only about an object
-previously contemplated upon,
+8.6 'At the end,' at the time of death, remembering whatsoever thought one abandones the body, to that alone one goes after death. The final thought arises only with reference to objects pervioulsy ruminated upon in one's thought. As the final thought results only about an object previously contemplated upon,
 
 </details>
 </div>
@@ -404,8 +400,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/06_yaM_yam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.6. And also remembering whatever being, a person leaves his body at
-the end \[of his life\], that being alone he attains, O son of Kunti !
+8.6. And also remembering whatever being, a person leaves his body at the end \[of his life\], that being alone he attains, O son of Kunti !
 \[Because\] he has been constantly thinking about that being.
 
 </details>
@@ -413,26 +408,21 @@ the end \[of his life\], that being alone he attains, O son of Kunti !
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/06_yaM_yam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.6 O son of Kunti, thinking of any entity whichever it may be one gives
-up the body at the end, he attains that very one, having been always
-engrossed in its thought.
+8.6 O son of Kunti, thinking of any entity whichever it may be one gives up the body at the end, he attains that very one, having been always engrossed in its thought.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/06_yaM_yam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.6 On whatever sphere of being the mind of a man may be intent at the
-time of death, thither he will go.
+8.6 On whatever sphere of being the mind of a man may be intent at the time of death, thither he will go.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/06_yaM_yam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.6 Whosoever at the end leaves the body, thinking of any being, to that
-being only does he go, O son of Kunti (Arjuna), because of his constant
-thought of that being.
+8.6 Whosoever at the end leaves the body, thinking of any being, to that being only does he go, O son of Kunti (Arjuna), because of his constant thought of that being.
 
 </details>
 </div>
@@ -440,70 +430,17 @@ thought of that being.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 8.6 यम् which; यम् which; वा or; अपि even; स्मरन् remembering; भावम्
-nature (idea of object); त्यजति leaves; अन्ते in the end; कलेवरम् the
-body; तम् to that; तम् to that; एव only; एति goes; कौन्तेय O Kaunteya;
-सदा constantly; तद्भावभावितः thinking of that object.Commentary The last
-thoughts determine the next birth. The most prominent thought of ones
-life occupies the mind at the time of death. The predominant idea at the
-time of death is what in normal life has occupied his attention most.
-The last thought determines the nature or character of the body to be
-attained next. As a man thinketh; so shall he becometh.The force of
-Samskaras which one has created by his previous practice is the cause of
-their remembrance at death. Those who have practised worship of God
-throughout their life can have remembrance of their tutelary deity at
-the time of death.The analogy of the wasp and the caterpillar
-(BhramaraKitaNyaya) can be applied here. The caterpillar constantly
-remembers the wasp and becomes eventually transformed into a wasp. Even
-so he who constantly remembers his tutelary deity becomes identical with
-that deity. Nandikesvara is an example. He constantly thought of his
-Lord and assumed a form eal to that of the Lord.If you constantly think
-of the immortal Self during your lifetime; you will entertain the
-thought of the Self only even at the time of death and will attain
-immortality. If you always think of your body and identify yourself with
-the perishable body you will be born again and again. If you think of
-you pet dog at the time of death you will be born as a dog. Raja
-Jadabharata thought of his pet deer at the time of his death and so he
-took the birth of a deer.Every man has a definite outlook on life;
+nature (idea of object); त्यजति leaves; अन्ते in the end; कलेवरम् the body; तम् to that; तम् to that; एव only; एति goes; कौन्तेय O Kaunteya;
+सदा constantly; तद्भावभावितः thinking of that object.Commentary The last thoughts determine the next birth. The most prominent thought of ones life occupies the mind at the time of death. The predominant idea at the time of death is what in normal life has occupied his attention most.
+The last thought determines the nature or character of the body to be attained next. As a man thinketh; so shall he becometh.The force of Samskaras which one has created by his previous practice is the cause of their remembrance at death. Those who have practised worship of God throughout their life can have remembrance of their tutelary deity at the time of death.The analogy of the wasp and the caterpillar
+(BhramaraKitaNyaya) can be applied here. The caterpillar constantly remembers the wasp and becomes eventually transformed into a wasp. Even so he who constantly remembers his tutelary deity becomes identical with that deity. Nandikesvara is an example. He constantly thought of his Lord and assumed a form eal to that of the Lord.If you constantly think of the immortal Self during your lifetime; you will entertain the thought of the Self only even at the time of death and will attain immortality. If you always think of your body and identify yourself with the perishable body you will be born again and again. If you think of you pet dog at the time of death you will be born as a dog. Raja Jadabharata thought of his pet deer at the time of his death and so he took the birth of a deer.Every man has a definite outlook on life;
 definite mode of thinking; definite cravings; desires and hopes;
-definite character; temperament; taste; disposition and attitude.This is
-all due to the impressions which have become part and parcel of his
-subconsciousness. This is all due to experiences which have left their
-indelible impressions on his mind.He always thinks of his body and
-physical needs. He searches for his happiness in the external;
-perishable objects. He identifies himself with the perishable body. He
-ignores his innermost; allblissful; immortal Self; the source of
-everything. He trains his body; senses; mind and intellect in worldly
-pursuits. He ignores the Yogic discipline of the mind and the senses.
-Therefore he always thinks of his body; bread; drink and clothing. He
-forgets all about God and the Self; the indweller; an embodiment of
-bliss and knowledge; fountain of joy and happiness.Desires are endless.
-Therefore man cannot gratify them in one birth. At the time of death the
-whole storehouse of impressions and desires is churned out and the most
-prominent; the strongest and cherished desire comes to the surface of
-the mind or the field of mental consciousness. This churned up butter or
-cream (cherished desire) arrests his attention for immediate
-gratification. He thinks of only that at the time of death. Just as the
-most vital mango plant shoots up prominently in the nursery; so also the
-strongest desire shoots up on the surface of the mind. If the desire is
-not gratified his mind gets saturated with it and it is gratified in his
-next  
+definite character; temperament; taste; disposition and attitude.This is all due to the impressions which have become part and parcel of his subconsciousness. This is all due to experiences which have left their indelible impressions on his mind.He always thinks of his body and physical needs. He searches for his happiness in the external;
+perishable objects. He identifies himself with the perishable body. He ignores his innermost; allblissful; immortal Self; the source of everything. He trains his body; senses; mind and intellect in worldly pursuits. He ignores the Yogic discipline of the mind and the senses.
+Therefore he always thinks of his body; bread; drink and clothing. He forgets all about God and the Self; the indweller; an embodiment of bliss and knowledge; fountain of joy and happiness.Desires are endless.
+Therefore man cannot gratify them in one birth. At the time of death the whole storehouse of impressions and desires is churned out and the most prominent; the strongest and cherished desire comes to the surface of the mind or the field of mental consciousness. This churned up butter or cream (cherished desire) arrests his attention for immediate gratification. He thinks of only that at the time of death. Just as the most vital mango plant shoots up prominently in the nursery; so also the strongest desire shoots up on the surface of the mind. If the desire is not gratified his mind gets saturated with it and it is gratified in his next  
   
-birth. This desire will become very promenent in his next birth.You
-yourself are the author of your own destiny. You yourself are
-responsible for your thoughts; character; feelings; actions and
-experiences. You planted certain worldly desires and Samskaras in your
-subconscious mind; and allowed them to germinate and grow. If you had
-planted spiritual aspiration; the desire for liberation and spiritual
-Samskaras; you would reap the fruit of immortality and eternal bliss. As
-you sow so shall you reap.He who practises constant and profound
-meditation on the Self of his own tutelary deity throughout his life
-will be able to meet death with an unruffled mind. He alone would go to
-the Supreme; thinking of It at the time of his departure from this
-world; too. You should have exclusive devotion to God. Your whole mind
-must be absorbed in Him. You should not allow any outside worldly
-impressions; wherein there is an iota of selfish desire; to sink into
-your subconscious mind. Then you can think of the Lord exclusively at
-the time of death and enter His very Being.
+birth. This desire will become very promenent in his next birth.You yourself are the author of your own destiny. You yourself are responsible for your thoughts; character; feelings; actions and experiences. You planted certain worldly desires and Samskaras in your subconscious mind; and allowed them to germinate and grow. If you had planted spiritual aspiration; the desire for liberation and spiritual Samskaras; you would reap the fruit of immortality and eternal bliss. As you sow so shall you reap.He who practises constant and profound meditation on the Self of his own tutelary deity throughout his life will be able to meet death with an unruffled mind. He alone would go to the Supreme; thinking of It at the time of his departure from this world; too. You should have exclusive devotion to God. Your whole mind must be absorbed in Him. You should not allow any outside worldly impressions; wherein there is an iota of selfish desire; to sink into your subconscious mind. Then you can think of the Lord exclusively at the time of death and enter His very Being.
 
 </details>
 </div>

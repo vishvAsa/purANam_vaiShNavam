@@ -90,28 +90,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/16_evam_pravartitam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.16 Thus this wheel is set in motion by the Supreme Person: From food
-arise embodied selves which are denoted by the word 'beings': from rain
-food; from sacrifice rain; sacrifice from activities which constitute
-the exercise of an agent; and activity from the embodied self; and again
-the body endowed with life from food. In this manner there is a seence
-which revolves like a wheel through the mutual relations of cause and
-effect. Hence, He who is engaged in spiritual practice - whether one is
-alified for Karma Yoga or Jnana Yoga - if he does not follow, i.e., does
-not keep in motion the wheel which revolves in a circle through mutual
-relation of cause and effect - that person by not maintaining his bodily
-subsistence by means of the 'remainder of sacrifice,' lives in sin. His
-life begins in sin or develops in sin, or is of both these kinds; he
-lives the life of sin. Thus he is a reveller in his senses and not in
-his self. The senses become the pleasure-gardens of one whose mind and
-body are not nourished by the 'remainders of sacrifices.' Rajas and
-Tamas preponderate in his body. Being thus turned away from the vision
-of the self, he rejoices only in the enjoyment of the senses. Therefore,
-even if he were to attempt for the vision of the self, it will be
-fruitless. So he lives in vain, O Arjuna. Sri Krsna now says that there
-is no need for the performance of the 'great sacrifices' etc., according
-to his station and stage of life, only in respect of a liberated person
-whose vision of the self does not depend on any external means.
+3.16 Thus this wheel is set in motion by the Supreme Person: From food arise embodied selves which are denoted by the word 'beings': from rain food; from sacrifice rain; sacrifice from activities which constitute the exercise of an agent; and activity from the embodied self; and again the body endowed with life from food. In this manner there is a seence which revolves like a wheel through the mutual relations of cause and effect. Hence, He who is engaged in spiritual practice - whether one is alified for Karma Yoga or Jnana Yoga - if he does not follow, i.e., does not keep in motion the wheel which revolves in a circle through mutual relation of cause and effect - that person by not maintaining his bodily subsistence by means of the 'remainder of sacrifice,' lives in sin. His life begins in sin or develops in sin, or is of both these kinds; he lives the life of sin. Thus he is a reveller in his senses and not in his self. The senses become the pleasure-gardens of one whose mind and body are not nourished by the 'remainders of sacrifices.' Rajas and Tamas preponderate in his body. Being thus turned away from the vision of the self, he rejoices only in the enjoyment of the senses. Therefore,
+even if he were to attempt for the vision of the self, it will be fruitless. So he lives in vain, O Arjuna. Sri Krsna now says that there is no need for the performance of the 'great sacrifices' etc., according to his station and stage of life, only in respect of a liberated person whose vision of the self does not depend on any external means.
 
 </details>
 </div>
@@ -460,42 +440,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/16_evam_pravartitam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.16. Whosoever does not roll forward the wheel, thus set in motion in
-this world, he is a man of sinful life rejoicing in the senses; and he
-lives in vain, O son of Prtha !
+3.16. Whosoever does not roll forward the wheel, thus set in motion in this world, he is a man of sinful life rejoicing in the senses; and he lives in vain, O son of Prtha !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/16_evam_pravartitam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.16 O Partha, he lives in vain who does not follow here the wheel thus
-set in motion, whose life is sinful, and who indulges in the senses.
+3.16 O Partha, he lives in vain who does not follow here the wheel thus set in motion, whose life is sinful, and who indulges in the senses.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/16_evam_pravartitam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.16 Thus he who does not help the revolving wheel of sacrifice, but
-instead leads a sinful life, rejoicing in the gratification of his
-senses, O Arjuna, he breathes in vain.
+3.16 Thus he who does not help the revolving wheel of sacrifice, but instead leads a sinful life, rejoicing in the gratification of his senses, O Arjuna, he breathes in vain.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/16_evam_pravartitam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.16 He who does not follow the wheel thus set in motion here, lives in
-sin, satisfying the senses, O Arjuna. He lives in vain.
+3.16 He who does not follow the wheel thus set in motion here, lives in sin, satisfying the senses, O Arjuna. He lives in vain.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/16_evam_pravartitam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.16 He who does not follow here the wheel thus set revolving, who is of
-sinful life, rejoicing in the senses, he lives in vain, O Arjuna.
+3.16 He who does not follow here the wheel thus set revolving, who is of sinful life, rejoicing in the senses, he lives in vain, O Arjuna.
 
 </details>
 </div>
@@ -505,13 +478,7 @@ sinful life, rejoicing in the senses, he lives in vain, O Arjuna.
 3.16 एवम् thus; प्रवर्तितम् set revolving; चक्रम् wheel; न not;
 अनुवर्तयति follows; इह here; यः who; अघायुः living in sin; इन्द्रियारामः
 rejoicing in the senses; मोघम् in vain; पार्थ O Partha; सः he; जीवति
-lives.Commentary This is the wheel of action set in motion by the
-Creator on the basis of the Veda and sacrifice.He who does not follow
-the wheel by studying the Vedas and performing the sacrifices prescribed
-therein but who indulges only in sensual pleasures lives in vain. He is
-wasting his life. He is leading a worthless life indeed.One who does not
-live in accordance with this law and who is selfish commits sin. He
-violates the law of the Creator and that is the worst sin.
+lives.Commentary This is the wheel of action set in motion by the Creator on the basis of the Veda and sacrifice.He who does not follow the wheel by studying the Vedas and performing the sacrifices prescribed therein but who indulges only in sensual pleasures lives in vain. He is wasting his life. He is leading a worthless life indeed.One who does not live in accordance with this law and who is selfish commits sin. He violates the law of the Creator and that is the worst sin.
 
 </details>
 </div>

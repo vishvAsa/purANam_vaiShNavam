@@ -72,17 +72,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.34 You will then incur not merely the loss of all happiness and honour
-but will be the object of disrespect by all people, the alifies and even
-the unalified, for all time. They will ridicule you saying, 'When the
-battle began, Arjuna ran away.' It it be asked, 'What if it be so;", the
-reply is: 'To one who is honoured by all for courage, prowess, valour,
-etc., this kind of dishonour arising from the reverse of these
-attributes, is worse than death; The meaning is that itself would be
-better for you than this kind of dishonour. If it is said, 'How could
-dishonour accrue to me, who am a hero, but have withdrawn from the
-battle only out of love and compassion for my relatives;' the reply is
-as follows:
+2.34 You will then incur not merely the loss of all happiness and honour but will be the object of disrespect by all people, the alifies and even the unalified, for all time. They will ridicule you saying, 'When the battle began, Arjuna ran away.' It it be asked, 'What if it be so;", the reply is: 'To one who is honoured by all for courage, prowess, valour,
+etc., this kind of dishonour arising from the reverse of these attributes, is worse than death; The meaning is that itself would be better for you than this kind of dishonour. If it is said, 'How could dishonour accrue to me, who am a hero, but have withdrawn from the battle only out of love and compassion for my relatives;' the reply is as follows:
 
 </details>
 </div>
@@ -336,40 +327,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.34. The creatures will speak of your endless ill-fame; and for the one
-who has been highly esteemed the illfame is worse than death.
+2.34. The creatures will speak of your endless ill-fame; and for the one who has been highly esteemed the illfame is worse than death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.34 People also will speak of your unending infamy. And to an honoured
-person infamy is worse than death.
+2.34 People also will speak of your unending infamy. And to an honoured person infamy is worse than death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.34 Men will talk forever of thy disgrace; and to the noble, dishonour
-is worse than death.
+2.34 Men will talk forever of thy disgrace; and to the noble, dishonour is worse than death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.34 Further, people will speak ill of you for all time, and for one
-accustomed to be honoured, dishonour is worse than death.
+2.34 Further, people will speak ill of you for all time, and for one accustomed to be honoured, dishonour is worse than death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/34_akIrti~n_chApi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.34 People, too, will recount thy everlasting dishonour; and to one who
-has been honoured, dishonour is worse than death.
+2.34 People, too, will recount thy everlasting dishonour; and to one who has been honoured, dishonour is worse than death.
 
 </details>
 </div>
@@ -379,10 +365,7 @@ has been honoured, dishonour is worse than death.
 2.34 अकीर्तिम् dishonour; च and; अपि also; भूतानि beings; कथयिष्यन्ति
 will tell; ते thy; अव्ययाम् everlasting; संभावितस्य of the honoured; च
 and; अकीर्तिः dishonour; मरणात् than death; अतिरिच्यते
-exceeds.Commentary The world also will ever recount thy infamy which
-will survive thee for a long time. Death is really preferable to
-disgrace to one who has been honoured as a great hero and mighty warrior
-with noble alities.
+exceeds.Commentary The world also will ever recount thy infamy which will survive thee for a long time. Death is really preferable to disgrace to one who has been honoured as a great hero and mighty warrior with noble alities.
 
 </details>
 </div>

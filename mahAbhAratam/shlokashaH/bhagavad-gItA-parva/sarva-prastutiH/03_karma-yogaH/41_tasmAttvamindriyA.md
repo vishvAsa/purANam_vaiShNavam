@@ -406,19 +406,15 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/41_tasmAttvamindriyA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.41. Therefore, O best among the Bharatas, by controlling completely
-the sense-organs in the beginning \[itself\], you must avoid this sinful
-one, destroying the knowledge-action.
+3.41. Therefore, O best among the Bharatas, by controlling completely the sense-organs in the beginning \[itself\], you must avoid this sinful one, destroying the knowledge-action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/41_tasmAttvamindriyA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.41 Therefore, O scion of the Bharata dynasty, after first controlling
-the organs, renounce this one \[A variant reading is, 'prajahi hi-enam,
-completely renounce this one'.-Tr.\] which is sinful and a destroyer of
-learning and wisdom.
+3.41 Therefore, O scion of the Bharata dynasty, after first controlling the organs, renounce this one \[A variant reading is, 'prajahi hi-enam,
+completely renounce this one'.-Tr.\] which is sinful and a destroyer of learning and wisdom.
 
 </details>
 </div>
@@ -441,24 +437,17 @@ slay this sinful thing that destroys both knowledge and discrimination.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/41_tasmAttvamindriyA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.41 Therefore, O best of the Bharatas (Arjuna), controlling the senses
-first, do thou kill this sinful thing, the destroyer of knowledge and
-realisation.
+3.41 Therefore, O best of the Bharatas (Arjuna), controlling the senses first, do thou kill this sinful thing, the destroyer of knowledge and realisation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/03_karma-yogaH/41_tasmAttvamindriyA.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-3.41 तस्मात् therefore; त्वम् you; इन्द्रियाणि the senses; आदौ in the
-beginning; नियम्य having controlled; भरतर्षभ O best of the Bharatas;
+3.41 तस्मात् therefore; त्वम् you; इन्द्रियाणि the senses; आदौ in the beginning; नियम्य having controlled; भरतर्षभ O best of the Bharatas;
 पाप्मानम् the sinful; प्रजहि kill; हि surely; एनम् this;
 ज्ञानविज्ञाननाशनम् the destroyer of knowledge and realisation
-(wisdom).Commentary Jnana is knowledge obtained through the study of
-scriptures. This is indirect knowledge or Paroksha Jnana. Vijnana is
-direct knowledge or personal experience or Anubhava through
-Selfrealisation or Aparoksha Jnana. Control the senses first and then
-kill desire.
+(wisdom).Commentary Jnana is knowledge obtained through the study of scriptures. This is indirect knowledge or Paroksha Jnana. Vijnana is direct knowledge or personal experience or Anubhava through Selfrealisation or Aparoksha Jnana. Control the senses first and then kill desire.
 
 </details>
 </div>

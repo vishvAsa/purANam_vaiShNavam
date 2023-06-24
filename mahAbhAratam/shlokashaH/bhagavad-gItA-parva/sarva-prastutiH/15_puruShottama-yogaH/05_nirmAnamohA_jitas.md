@@ -97,20 +97,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.5 Thus, when they have taken refute in Me, become free from 'perverse
-notions conerning the self', namely, become free from the delusion in
-the form of misconceiving the non-self (body) as the self; 'victorious
-over the evil of attachment', namely, victorious over the evil known as
-attachment to sense-objects consisting of the Gunas; 'ever devoted to
-self', namely completely absorbed in the knowledge of the self which is
-called Adhyatma or knowledge about the self; when they have 'turned away
-from desires' other than this self-knowledge; when they are liberated
-from 'dualities called pleasure and pain' - such 'undeluded souls',
+15.5 Thus, when they have taken refute in Me, become free from 'perverse notions conerning the self', namely, become free from the delusion in the form of misconceiving the non-self (body) as the self; 'victorious over the evil of attachment', namely, victorious over the evil known as attachment to sense-objects consisting of the Gunas; 'ever devoted to self', namely completely absorbed in the knowledge of the self which is called Adhyatma or knowledge about the self; when they have 'turned away from desires' other than this self-knowledge; when they are liberated from 'dualities called pleasure and pain' - such 'undeluded souls',
 namely, those who are able to discern the natures of self and non-self,
-attain to that 'imperishable status'. They attain the self as It is, in
-the form of infinite knowledge. Conseently for those who seek refuge in
-Me, all actions become easy of performance till perfection is attained
-by My grace.
+attain to that 'imperishable status'. They attain the self as It is, in the form of infinite knowledge. Conseently for those who seek refuge in Me, all actions become easy of performance till perfection is attained by My grace.
 
 </details>
 </div>
@@ -400,7 +389,7 @@ _________________
 
 ।।15.5।। जिनका मान और मोह निवृत्त हो गया है, जिन्होंने संगदोष को जीत
 लिया है, जो अध्यात्म में स्थित हैं जिनकी कामनाएं निवृत्त हो चुकी हैं और
-जो सुख-दुःख नामक द्वन्द्वों से विमुक्त हो गये हैं, ऐसे सम्मोह रहित
+जो सुख-दु:ख नामक द्वन्द्वों से विमुक्त हो गये हैं, ऐसे सम्मोह रहित
 ज्ञानीजन उस अव्यय पद को प्राप्त होते हैं।।
 
 </details>
@@ -599,32 +588,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-15.5. Those who are rid of pride and delusion; have put down the evils
-of attachment; remain constantly in their own nature of the Self; have
-their desires completely departed; and are fully liberated from the
-pairs known as pleasures and pains-these undeluded men go to that
-changeless Abode.
+15.5. Those who are rid of pride and delusion; have put down the evils of attachment; remain constantly in their own nature of the Self; have their desires completely departed; and are fully liberated from the pairs known as pleasures and pains-these undeluded men go to that changeless Abode.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.5 The wise ones who are free from pride and non-discrimination, who
-have conered the evil of association, \[Hatred and love arising from
-association with foes and friends.\] who are ever devoted to
-spirituality, completely free from desires, free from the dualities
-called happiness and sorrow, reach that undecaying State.
+15.5 The wise ones who are free from pride and non-discrimination, who have conered the evil of association, \[Hatred and love arising from association with foes and friends.\] who are ever devoted to spirituality, completely free from desires, free from the dualities called happiness and sorrow, reach that undecaying State.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.5 The wise attain Eternity when, freed from pride and delusion, they
-have conquered their love for the things of sense; when, renouncing
-desire and fixing their gaze on the Self, they have ceased to be tossed
-to and fro by the opposing sensations, like pleasure and pain.
+15.5 The wise attain Eternity when, freed from pride and delusion, they have conquered their love for the things of sense; when, renouncing desire and fixing their gaze on the Self, they have ceased to be tossed to and fro by the opposing sensations, like pleasure and pain.
 
 </details>
 </div>
@@ -632,8 +610,7 @@ to and fro by the opposing sensations, like pleasure and pain.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 15.5 Without the delusion of perverse notions (concerning the self),
-victorious over the evil of attachment, ever devoted to the self, turned
-away from desires and liberated from dualities called pleasure and pain,
+victorious over the evil of attachment, ever devoted to the self, turned away from desires and liberated from dualities called pleasure and pain,
 the undeluded go to that imperishable status.
 
 </details>
@@ -641,37 +618,17 @@ the undeluded go to that imperishable status.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-15.5 Free from pride and delusion, victorious over the evil of
-attachment, dwelling constantly in the Self, their desires having
-completely turned away, freed from the pairs of opposites known as
-pleasure and pain, the undeluded reach the eternal goal.
+15.5 Free from pride and delusion, victorious over the evil of attachment, dwelling constantly in the Self, their desires having completely turned away, freed from the pairs of opposites known as pleasure and pain, the undeluded reach the eternal goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/15_puruShottama-yogaH/05_nirmAnamohA_jitas.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-15.5 निर्मानमोहाः free from pride and delusion; जितसङ्गदोषाः victorious
-over the evil of attachment; अध्यात्मनित्याः dwelling constantly in the
-Self; विनिवृत्तकामाः (their) desires having completely turned away;
+15.5 निर्मानमोहाः free from pride and delusion; जितसङ्गदोषाः victorious over the evil of attachment; अध्यात्मनित्याः dwelling constantly in the Self; विनिवृत्तकामाः (their) desires having completely turned away;
 द्वन्द्वैः from the pairs of opposites; विमुक्ताः freed; सुखदुःखसंज्ञैः
 known as pleasure and pain; गच्छन्ति reach; अमूढाः the undeluded; पदम्
-goal; अव्ययम् eternal; तत् That.Commentary Wherever there is pride there
-is stiff egoism. Absence of discrimination between the Real and the
-unreal is Moha. Perversion is Moha. Infatuation is Moha. Those who are
-free from likes and dislikes even when they attain pleasant or
-unpleasant objects have triumphed over the,evil of attachment. Kartritva
-Abhimana or the idea I am the doer is Sanga. Likes and dislikes are the
-Doshas or the evils. Heat and cold; pleasure and pain; honour and
-dishonour; censure and praise; etc.; are the pairs of opposites. Only
-those who have destroyed ignorance and who have attained the knowledge
-of the Self reach the eternal goal.Adhyatmanityah Ever engaged in the
-contemplation of the nature of Brahman or the Supreme
-Being.Vinivrittakamah All the desires vanish in toto without leaving any
-trace or taint behind. They who have reached this stage become Yatis or
-Sannyasins. In the fire of wisdom all desires are burnt. As the birds
-fly away from a tree which has caught fire; so do desires go away from
-him.Tat That (the goal) described above.
+goal; अव्ययम् eternal; तत् That.Commentary Wherever there is pride there is stiff egoism. Absence of discrimination between the Real and the unreal is Moha. Perversion is Moha. Infatuation is Moha. Those who are free from likes and dislikes even when they attain pleasant or unpleasant objects have triumphed over the,evil of attachment. Kartritva Abhimana or the idea I am the doer is Sanga. Likes and dislikes are the Doshas or the evils. Heat and cold; pleasure and pain; honour and dishonour; censure and praise; etc.; are the pairs of opposites. Only those who have destroyed ignorance and who have attained the knowledge of the Self reach the eternal goal.Adhyatmanityah Ever engaged in the contemplation of the nature of Brahman or the Supreme Being.Vinivrittakamah All the desires vanish in toto without leaving any trace or taint behind. They who have reached this stage become Yatis or Sannyasins. In the fire of wisdom all desires are burnt. As the birds fly away from a tree which has caught fire; so do desires go away from him.Tat That (the goal) described above.
 
 </details>
 </div>

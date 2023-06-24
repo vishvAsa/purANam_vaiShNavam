@@ -80,26 +80,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.17 Though the entity called the self is present everywhere in the
-bodies of divinities, men etc., It is 'undivided' because of Its form
-being that of the knower. However, to those who are ignorant, It appears
-divided, by such forms as those of divinities etc. - 'I am a divinity,'
-'man' etc. Though the self can be contemplated by way of co-ordinate
-predication as one with the body in such significations as, 'I am
-divinity, I am a man,' It can be known as being different from the body,
-because of Its being a knower. That is why it has already been pointed
-out at the beginning: 'He who knows It; (13.1). Now Sri Krsna says that
-It can be known as different also on other grounds - as the 'supporter
-of elements' etc. Because It supports the earth and other elements
-combined in the shape of the body, the self can be known as being
-different from the elements supported. The sense is that It can be known
-as a separate entity. Likewise, It is that which 'devours', namely, the
-consumer of physical food etc. Because, It 'devours' the food, It can be
-known as an entity different from the elements. It causes 'generation' -
-It is the cause of transformation of consumed food etc., into other
-forms like blood etc. As eating, generating etc., are not seen in a
-corpse, it is settled that the body, an aggregate of elements, cannot be
-the cause of devouring food, generating of species and supporting them.
+13.17 Though the entity called the self is present everywhere in the bodies of divinities, men etc., It is 'undivided' because of Its form being that of the knower. However, to those who are ignorant, It appears divided, by such forms as those of divinities etc. - 'I am a divinity,'
+'man' etc. Though the self can be contemplated by way of co-ordinate predication as one with the body in such significations as, 'I am divinity, I am a man,' It can be known as being different from the body,
+because of Its being a knower. That is why it has already been pointed out at the beginning: 'He who knows It; (13.1). Now Sri Krsna says that It can be known as different also on other grounds - as the 'supporter of elements' etc. Because It supports the earth and other elements combined in the shape of the body, the self can be known as being different from the elements supported. The sense is that It can be known as a separate entity. Likewise, It is that which 'devours', namely, the consumer of physical food etc. Because, It 'devours' the food, It can be known as an entity different from the elements. It causes 'generation' -
+It is the cause of transformation of consumed food etc., into other forms like blood etc. As eating, generating etc., are not seen in a corpse, it is settled that the body, an aggregate of elements, cannot be the cause of devouring food, generating of species and supporting them.
 
 </details>
 </div>
@@ -406,42 +390,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 13.17. It remains undistinguished (common) in the distinguished
-\[beings\], and appears as if distinguished. It is to be known as the
-supporter of beings, and also as \[their\] swallower and orginator.
+\[beings\], and appears as if distinguished. It is to be known as the supporter of beings, and also as \[their\] swallower and orginator.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.17 And the Knowable, though undivided, appears to be existing as
-divided in all beings, and It is the sustainer of all beings as also the
-devourer and originator.
+13.17 And the Knowable, though undivided, appears to be existing as divided in all beings, and It is the sustainer of all beings as also the devourer and originator.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.17 In all beings undivided, yet living in division, It is the
-upholder of all, Creator and Destroyer alike;
+13.17 In all beings undivided, yet living in division, It is the upholder of all, Creator and Destroyer alike;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.17 Undivided and yet remaining as if divided among beings, this self
-is to be known as the supporter of elements. It devours them and causes
-generation.
+13.17 Undivided and yet remaining as if divided among beings, this self is to be known as the supporter of elements. It devours them and causes generation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/17_avibhakta~n_cha.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.17 And undivided, yet It exists as if divided in beings; It is to be
-known as the supporter of being; It devours and It generates.
+13.17 And undivided, yet It exists as if divided in beings; It is to be known as the supporter of being; It devours and It generates.
 
 </details>
 </div>
@@ -451,25 +428,9 @@ known as the supporter of being; It devours and It generates.
 13.17 अविभक्तम् undivided; च and; भूतेषु in beings; विभक्तम् divided; इव
 as if; च and; स्थितम् existing; भूतभर्तृ the supporter of beings; च and;
 तत् That ज्ञेयम् to be known; ग्रसिष्णु devouring; प्रभविष्णु
-generating; च and.Commentary Brahman must be regarded as That which
-supports; swallows up and also creates all beings; in the three forms of
-Brahma who creates the world of names anf forms; Vishnu who preserves or
-sustains; and Rudra who destroys. It is undivided in the various bodies.
-It is like ether. It is allpervding like space (Akasa). It is
-indivisible and the One; but It seems to divide Itself in forms and
-appears as all the separate existing things and beings. It is
-essentially unbroken. Yet; It is; as it were; divided among all
-beings.It devours this world during the cosmic dissolution. It generates
-it at the time of the origin of the next age. It supports all beings
-during the period of sustenance of this world.Just as fire is hidden in
-the wood; so also Brahman is hidden in all bodies. Just as the one space
-appears to be different through the limiting adjuncts (pot; house; etc.)
-so also the one indivisible Brahman appears to be different through the
-limiting adjuncts (the body; etc.). (Cf.XVIII.20)An objector says The
-knowable Brahman; the Knower of the field; is allpervading. It exists
-everywhere and yet It is not perceived. Therefore It must be of the
-nature of darkness or Tamas.The answer is No. It cannot be.What; then It
-is the Light of Lights.
+generating; च and.Commentary Brahman must be regarded as That which supports; swallows up and also creates all beings; in the three forms of Brahma who creates the world of names anf forms; Vishnu who preserves or sustains; and Rudra who destroys. It is undivided in the various bodies.
+It is like ether. It is allpervding like space (Akasa). It is indivisible and the One; but It seems to divide Itself in forms and appears as all the separate existing things and beings. It is essentially unbroken. Yet; It is; as it were; divided among all beings.It devours this world during the cosmic dissolution. It generates it at the time of the origin of the next age. It supports all beings during the period of sustenance of this world.Just as fire is hidden in the wood; so also Brahman is hidden in all bodies. Just as the one space appears to be different through the limiting adjuncts (pot; house; etc.)
+so also the one indivisible Brahman appears to be different through the limiting adjuncts (the body; etc.). (Cf.XVIII.20)An objector says The knowable Brahman; the Knower of the field; is allpervading. It exists everywhere and yet It is not perceived. Therefore It must be of the nature of darkness or Tamas.The answer is No. It cannot be.What; then It is the Light of Lights.
 
 </details>
 </div>

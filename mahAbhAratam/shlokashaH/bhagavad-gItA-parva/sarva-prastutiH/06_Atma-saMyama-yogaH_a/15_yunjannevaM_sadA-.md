@@ -63,16 +63,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.15 'Ever applying his mind on Me,' i.e., the Supreme Brahman, the
-Supreme Person and the holy and auspicious object of meditation, 'the
-Yogin of controlled mind,' i.e., one having his mind steady because of
-his being purified in mind through contact with Me, comes to the peace
-which abides in Me, which is of the highest degree of beatitude. That
-means he comes to the peace which is the supreme end of beatitude which
-abides in Me. For the person who commences Yoga of the self, Sri Krsna,
-after thus teaching how the mind should be fixed on the Lord, who is the
-holy and auspicious object of meditation, proceeds in order to effect
-the purification of the mind, to speak of the other side of Yoga:
+6.15 'Ever applying his mind on Me,' i.e., the Supreme Brahman, the Supreme Person and the holy and auspicious object of meditation, 'the Yogin of controlled mind,' i.e., one having his mind steady because of his being purified in mind through contact with Me, comes to the peace which abides in Me, which is of the highest degree of beatitude. That means he comes to the peace which is the supreme end of beatitude which abides in Me. For the person who commences Yoga of the self, Sri Krsna,
+after thus teaching how the mind should be fixed on the Lord, who is the holy and auspicious object of meditation, proceeds in order to effect the purification of the mind, to speak of the other side of Yoga:
 
 </details>
 </div>
@@ -592,26 +584,21 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 6.15. Yoking his self (mind) incessantly in this manner, My devotee,
-with mind not attached to anything else, realises peace which culminates
-in the nirvana and is in the form of ending in Me.
+with mind not attached to anything else, realises peace which culminates in the nirvana and is in the form of ending in Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.15 Concentrating the mind thus for ever, the yogi of controlled mind
-achieves the Peace which culminates in Liberation and which abides in
-Me.
+6.15 Concentrating the mind thus for ever, the yogi of controlled mind achieves the Peace which culminates in Liberation and which abides in Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.15 Thus keeping his mind always in communion with Me, and with his
-thoughts subdued, he shall attain that Peace which is mine and which
-will lead him to liberation at last.
+6.15 Thus keeping his mind always in communion with Me, and with his thoughts subdued, he shall attain that Peace which is mine and which will lead him to liberation at last.
 
 </details>
 </div>
@@ -619,17 +606,14 @@ will lead him to liberation at last.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 6.15 Ever applying his mind in this way, the Yogin of controlled mind,
-attains the peace which is the summit of beatitude and which abides in
-Me.
+attains the peace which is the summit of beatitude and which abides in Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/15_yunjannevaM_sadA-.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.15 Thus always keeping the mind balanced, the Yogi, with the mind
-controlled, attains to the peace abiding in Me, which culminates in
-liberation.
+6.15 Thus always keeping the mind balanced, the Yogi, with the mind controlled, attains to the peace abiding in Me, which culminates in liberation.
 
 </details>
 </div>
@@ -639,11 +623,7 @@ liberation.
 6.15 युञ्जन् balancing; एवम् thus; सदा always; आत्मानम् the self; योगी
 Yogi; नियतमानसः one with the controlled mind; शान्तिम् to peace;
 निर्वाणपरमाम् that which culminates in Nirvana (Moksha); मत्संस्थाम्
-abiding in Me; अधिगच्छति attains.Commentary Thus in the manner
-prescribed in the previous verse.The Supreme Self is an embodiment of
-peace. It is an ocean of peace. When one attains to the supreme peace of
-the Eternal; by controlling the modifications of the mind and keeping it
-always balanced; he attains to liberation or perfection.
+abiding in Me; अधिगच्छति attains.Commentary Thus in the manner prescribed in the previous verse.The Supreme Self is an embodiment of peace. It is an ocean of peace. When one attains to the supreme peace of the Eternal; by controlling the modifications of the mind and keeping it always balanced; he attains to liberation or perfection.
 
 </details>
 </div>

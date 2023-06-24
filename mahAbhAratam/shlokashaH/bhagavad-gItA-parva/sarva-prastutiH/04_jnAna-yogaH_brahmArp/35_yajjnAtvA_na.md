@@ -84,28 +84,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.35 Having which knowledge, you will not again fall into this delusion
-of mistaking the body etc., for the self, which is the cause of
-possessiveness etc. By this (knowledge) you will see in yourself all the
-beings which appear in diversity of forms such as gods, men etc.; for
-between you and other beings there is eality of nature when freed from
-the hold of Prakrti, as your self and all other selves have the form of
-knowledge as fas as their essence is concerned. Sri Krsna will later on
-instruct that the nature of the self, dissociated from the evil of
-contact with Prakrti, is eal in all beings. 'For faultless Brahman
+4.35 Having which knowledge, you will not again fall into this delusion of mistaking the body etc., for the self, which is the cause of possessiveness etc. By this (knowledge) you will see in yourself all the beings which appear in diversity of forms such as gods, men etc.; for between you and other beings there is eality of nature when freed from the hold of Prakrti, as your self and all other selves have the form of knowledge as fas as their essence is concerned. Sri Krsna will later on instruct that the nature of the self, dissociated from the evil of contact with Prakrti, is eal in all beings. 'For faultless Brahman
 (individual self) is alike everywhere; therefore, abide in Brahman'
 (5.19). And then you will see all beings without any exception in Me,
-because of the similarity of nature of the pure selves with one another
-and with My nature. For Sri Krsna will teach later on: 'Resorting to
-this knowledge and partaking of My nature' (14.5). So the euality of the
-selves, devoid of name and form, with the nature of the Supreme, is
-known from the texts like: 'Then the wise, shaking off good and evil,
-stainless, attain supreme eality' (Mun. U., 3.1.3). Therefore all selves
-dissociated from Prakrti are eal in nature to one another and eal in
-nature to the Lord of all. \[The idea is that blissfulness is the basic
-nature of all selves. Blissfulness (Ananda) is the nature of the Supreme
-Being also. Eality contemplated is in this respect only, but not in
-power of creation, which belongs only to Isvara\]
+because of the similarity of nature of the pure selves with one another and with My nature. For Sri Krsna will teach later on: 'Resorting to this knowledge and partaking of My nature' (14.5). So the euality of the selves, devoid of name and form, with the nature of the Supreme, is known from the texts like: 'Then the wise, shaking off good and evil,
+stainless, attain supreme eality' (Mun. U., 3.1.3). Therefore all selves dissociated from Prakrti are eal in nature to one another and eal in nature to the Lord of all. \[The idea is that blissfulness is the basic nature of all selves. Blissfulness (Ananda) is the nature of the Supreme Being also. Eality contemplated is in this respect only, but not in power of creation, which belongs only to Isvara\]
 
 </details>
 </div>
@@ -428,44 +411,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.35. By knowing which you shall not get deluded once again in this
-manner, O son of Pandu; and by which means you shall see all beings
-without exception in \[your\] Self i.e., in Me.
+4.35. By knowing which you shall not get deluded once again in this manner, O son of Pandu; and by which means you shall see all beings without exception in \[your\] Self i.e., in Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.35 Knowing which, O Pandava (Arjuna), you will not come under delusion
-again in this way, and through which you will see all beings without
-exception in the Self and also in Me.
+4.35 Knowing which, O Pandava (Arjuna), you will not come under delusion again in this way, and through which you will see all beings without exception in the Self and also in Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.35 Having known That, thou shalt never again be confounded; and, O
-Arjuna, by the power of that wisdom, thou shalt see all these people as
-if they were thine own Self, and therefore as Me.
+4.35 Having known That, thou shalt never again be confounded; and, O Arjuna, by the power of that wisdom, thou shalt see all these people as if they were thine own Self, and therefore as Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.35 Knowing which, O Arjuna, you will not fall again into delusion in
-this way - by that knowledge you will see all beings without exception
-in your-self and then in Me.
+4.35 Knowing which, O Arjuna, you will not fall again into delusion in this way - by that knowledge you will see all beings without exception in your-self and then in Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/35_yajjnAtvA_na.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.35 Knowing ï1thatï1 thou shalt not, O Arjuna, again get deluded like
-this; and by that thou shalt see all beings in thy Self and also in Me.
+4.35 Knowing ï1thatï1 thou shalt not, O Arjuna, again get deluded like this; and by that thou shalt see all beings in thy Self and also in Me.
 
 </details>
 </div>
@@ -475,14 +449,7 @@ this; and by that thou shalt see all beings in thy Self and also in Me.
 4.35 यत् which; ज्ञात्वा having known; न not; पुनः again; मोहम्
 delusion; एवम् thus; यास्यसि will get; पाण्डव O Pandava; येन by this;
 भूतानि beings; अशेषेण all; द्रक्ष्यसि (thou) shalt see; आत्मनि in (thy)
-Self; अथो also; मयि in Me.Commentary That; the knowledge of the Self
-mentioned in the previous verse; that is to be learnt from the
-Brahmanishtha Guru through prostration; estioning and service. When you
-acire this knowledge you will not be again subject to confusion or
-error. You will behold that underlying basic unity. You will behold or
-directly cognise through internal experience or intuition that all
-beings from the Creator down to a blade of grass exist in your own Self
-and also in Me. (Cf.IX.15XVIII.20)
+Self; अथो also; मयि in Me.Commentary That; the knowledge of the Self mentioned in the previous verse; that is to be learnt from the Brahmanishtha Guru through prostration; estioning and service. When you acire this knowledge you will not be again subject to confusion or error. You will behold that underlying basic unity. You will behold or directly cognise through internal experience or intuition that all beings from the Creator down to a blade of grass exist in your own Self and also in Me. (Cf.IX.15XVIII.20)
 
 </details>
 </div>

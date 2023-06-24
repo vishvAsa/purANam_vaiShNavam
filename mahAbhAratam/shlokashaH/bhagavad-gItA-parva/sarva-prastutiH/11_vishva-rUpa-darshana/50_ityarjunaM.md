@@ -71,23 +71,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.50 Sanjaya said Having spoken thus to Arjuna, the Lord, the son of
-Vasudeva, revealed His own four-armed form. And the Mahatman, i.e., one
-whose resolves are always treu, reassured him who was terror-stricken on
-seeing ann unfamiliar form, by resuming the familiar pleasant form.
-Possession of His own four-armed form alone is proper to this Lord of
-all, the Supreme Person, the Supreme Brahman, when he has assumed the
-human form for blessing this world as the son of Vasudeva. But in answer
-to the prayer of Vasudeva, who was terrified by Kamsa, the two extra
-arms were withdrawn till the destruction of Kamsa. These became manifest
-again. For He was prayed to thus: 'You are born, O Lord, O Lord of gods,
+11.50 Sanjaya said Having spoken thus to Arjuna, the Lord, the son of Vasudeva, revealed His own four-armed form. And the Mahatman, i.e., one whose resolves are always treu, reassured him who was terror-stricken on seeing ann unfamiliar form, by resuming the familiar pleasant form.
+Possession of His own four-armed form alone is proper to this Lord of all, the Supreme Person, the Supreme Brahman, when he has assumed the human form for blessing this world as the son of Vasudeva. But in answer to the prayer of Vasudeva, who was terrified by Kamsa, the two extra arms were withdrawn till the destruction of Kamsa. These became manifest again. For He was prayed to thus: 'You are born, O Lord, O Lord of gods,
 withdraw this form bearing conch, discus and mace out of grace ৷৷.
 withdraw this form of four arms, O Self of all' (V. P., 5.3.10 and 13).
-Even to Sisupala, who hated Him, this form of four arms of Sri Krsna was
-the object of constant thought, as described in: 'Him who is of four
-long and robust arms, bearing the conch, discus and the mace' (V. P.,
-4.15.10). Hence Arjuna also exclaimed here; 'Assume again that
-four-armed shape' (11.46).
+Even to Sisupala, who hated Him, this form of four arms of Sri Krsna was the object of constant thought, as described in: 'Him who is of four long and robust arms, bearing the conch, discus and the mace' (V. P.,
+4.15.10). Hence Arjuna also exclaimed here; 'Assume again that four-armed shape' (11.46).
 
 </details>
 </div>
@@ -286,7 +275,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।11.50।। संजय ने कहा -- भगवान् वासुदेव ने अर्जुन से इस प्रकार कहकर,
-पुनः अपने (पूर्व) रूप को दर्शाया, और फिर, सौम्यरूप महात्मा श्रीकृष्ण ने
+पुन: अपने (पूर्व) रूप को दर्शाया, और फिर, सौम्यरूप महात्मा श्रीकृष्ण ने
 इस भयभीत अर्जुन को आश्वस्त किया।।
 
 </details>
@@ -319,8 +308,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.50. Having said to Arjuna as above, Vasudeva revealed His own tiny
-form; assuming His gentle body once again, the Mighty Soul (Krsna)
+11.50. Having said to Arjuna as above, Vasudeva revealed His own tiny form; assuming His gentle body once again, the Mighty Soul (Krsna)
 consoled the frightened Arjuna.
 
 </details>
@@ -329,26 +317,21 @@ consoled the frightened Arjuna.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 11.50 Sanjaya said Thus, having spoken to Arjuna in that manner,
-Vasudeva showed His own form again. And He, the exalted One, reassured
-this terrified one by again becoming serene in form.
+Vasudeva showed His own form again. And He, the exalted One, reassured this terrified one by again becoming serene in form.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.50 Sanjaya continued: "Having thus spoken to Arjuna, Lord Shri
-Krishna showed Himself again in His accustomed form; and the Mighty
-Lord, in gentle tones, softly consoled him who lately trembled with
-fear.
+11.50 Sanjaya continued: "Having thus spoken to Arjuna, Lord Shri Krishna showed Himself again in His accustomed form; and the Mighty Lord, in gentle tones, softly consoled him who lately trembled with fear.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.50 Sanjaya said Having spoken thus to Arjuna, Sri Krsna revealed to
-him once more His own form. The Mahatman, assuming again a benign form,
+11.50 Sanjaya said Having spoken thus to Arjuna, Sri Krsna revealed to him once more His own form. The Mahatman, assuming again a benign form,
 reassured him who had been struck with awe.
 
 </details>
@@ -356,8 +339,7 @@ reassured him who had been struck with awe.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/50_ityarjunaM.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.50 Sanjaya said Having thus spoken to Arjuna, Krishna again showed
-His own form and the great Soul (Krishna), assuming His gentle form,
+11.50 Sanjaya said Having thus spoken to Arjuna, Krishna again showed His own form and the great Soul (Krishna), assuming His gentle form,
 consoled him (Arjuna) who was terrified.
 
 </details>
@@ -368,8 +350,7 @@ consoled him (Arjuna) who was terrified.
 11.50 इति thus; अर्जुनम् to Arjuna; वासुदेवः Vaasudeva; तथा so; उक्त्वा
 having spoken; स्वकम् His own; रूपम् form; दर्शयामास showed; भूयः again;
 आश्वासयामास consoled; च and; भीतम् who was terrified; एनम् him; भूत्वा
-having become; पुनः again; सौम्यवपुः of gentle form; महात्मा the
-greatsouled One.Commentary His own form His form as the son of Vasudeva.
+having become; पुनः again; सौम्यवपुः of gentle form; महात्मा the greatsouled One.Commentary His own form His form as the son of Vasudeva.
 
 </details>
 </div>

@@ -52,10 +52,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.7 'Here', in this one body of Mine, and even there, gathered together
-in a single spot, behold the universe with all mobile and immobile
-entities. Whatever else you desire to see (i.e., Arjuna's chances of
-victory), behold that also in one part of this single body.
+11.7 'Here', in this one body of Mine, and even there, gathered together in a single spot, behold the universe with all mobile and immobile entities. Whatever else you desire to see (i.e., Arjuna's chances of victory), behold that also in one part of this single body.
 
 </details>
 </div>
@@ -294,18 +291,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.7. Now, behold the entire universe, including the moving and the
-unmoving, and whatsoever else you desire to see-all established in one
-here, in My body, O Gudakesa (Arjuna) !
+11.7. Now, behold the entire universe, including the moving and the unmoving, and whatsoever else you desire to see-all established in one here, in My body, O Gudakesa (Arjuna) !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.7 See now, O gudakesa, O Gudakesa (Arjuna), the entire Universe
-together with the moving and the non-moving, concentrated at the same
-place here in My body, as also whatever else you would like to see.
+11.7 See now, O gudakesa, O Gudakesa (Arjuna), the entire Universe together with the moving and the non-moving, concentrated at the same place here in My body, as also whatever else you would like to see.
 
 </details>
 </div>
@@ -320,17 +313,14 @@ movable and immovable, and anything else that thou wouldst see!
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.7 Behold here, O Arjuna, the whole universe with its mobile and
-immobile things centred in My body and whatever else you desire to see.
+11.7 Behold here, O Arjuna, the whole universe with its mobile and immobile things centred in My body and whatever else you desire to see.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/07_ihaikastha~n_jaga.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.7 Now behold, O Arjuna, in this, My body, the whole universe centred
-in one including the moving and the unmoving and whatever else thou
-desirest to see.
+11.7 Now behold, O Arjuna, in this, My body, the whole universe centred in one including the moving and the unmoving and whatever else thou desirest to see.
 
 </details>
 </div>
@@ -340,9 +330,7 @@ desirest to see.
 11.7 इह in this; एकस्थम् centred in one; जगत् the universe; कृत्स्नम्
 whole; पश्य behold; अद्य now; सचराचरम् with the moving and the unmoving;
 मम My; देहे in body; गुडाकेश O Gudakesa; यत् whatever; च and; अन्यत्
-other; द्रष्टुम् to see; इच्छसि (thou) desirest.Commentary Anyat Other
-whatever else. Your success or defeat in the war; about which you,have
-entertained a doubt. (Cf.II.6)
+other; द्रष्टुम् to see; इच्छसि (thou) desirest.Commentary Anyat Other whatever else. Your success or defeat in the war; about which you,have entertained a doubt. (Cf.II.6)
 
 </details>
 </div>

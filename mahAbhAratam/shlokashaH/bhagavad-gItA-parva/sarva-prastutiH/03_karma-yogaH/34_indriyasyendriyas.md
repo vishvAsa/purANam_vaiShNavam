@@ -73,20 +73,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/34_indriyasyendriyas.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.34 An unavoidable attraction has been fixed for organs of sense like
-ear towards the objects like sound, and for organs of action like that
-of tongue towards their objects like tasty food. This longing is in the
-form of desire to experience these objects, which is caused by old
-subtle impressions. When their experience is thwarted, an unavoidable
-aversion is experienced. Thus, these two, attachment and aversion, bring
-under their control one who aspires to follow Jnana Yoga, and forcibly
-engage him in actions appropriate to them, in spite of his having
-established some sort of control over the senses. Such an aspirant fails
-to get the experience of the self, and therefore becomes completely
-lost. So no one practising Jnana Yoga should come under the sway of
-attachment and aversion, which are ruinous. These two, attachment and
-aversion, are indeed his unconerable foes that deter him from the
-practice of Jnana Yoga.
+3.34 An unavoidable attraction has been fixed for organs of sense like ear towards the objects like sound, and for organs of action like that of tongue towards their objects like tasty food. This longing is in the form of desire to experience these objects, which is caused by old subtle impressions. When their experience is thwarted, an unavoidable aversion is experienced. Thus, these two, attachment and aversion, bring under their control one who aspires to follow Jnana Yoga, and forcibly engage him in actions appropriate to them, in spite of his having established some sort of control over the senses. Such an aspirant fails to get the experience of the self, and therefore becomes completely lost. So no one practising Jnana Yoga should come under the sway of attachment and aversion, which are ruinous. These two, attachment and aversion, are indeed his unconerable foes that deter him from the practice of Jnana Yoga.
 
 </details>
 </div>
@@ -518,44 +505,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/34_indriyasyendriyas.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.34. \[For a man of worldly life\] there are likes and dislikes clearly
-fixed with regard to the objects of each of his sense organs. These are
-the obstacles for him. \[The wise\] would not come under the control of
-these.
+3.34. \[For a man of worldly life\] there are likes and dislikes clearly fixed with regard to the objects of each of his sense organs. These are the obstacles for him. \[The wise\] would not come under the control of these.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/34_indriyasyendriyas.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.34 Attraction and repulsion are ordained with regard to the objects of
-all the organs. One should not come under the sway of these two, because
-they are his adversaries.
+3.34 Attraction and repulsion are ordained with regard to the objects of all the organs. One should not come under the sway of these two, because they are his adversaries.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/34_indriyasyendriyas.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.34 The love and hate which are aroused by the objects of sense arise
-from Nature; do not yield to them. They only obstruct the path.
+3.34 The love and hate which are aroused by the objects of sense arise from Nature; do not yield to them. They only obstruct the path.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/34_indriyasyendriyas.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.34 Each sense has fixed attachment to, and aversion for, its
-corresponding object. But no one should come under their sway; for they
-are his foes.
+3.34 Each sense has fixed attachment to, and aversion for, its corresponding object. But no one should come under their sway; for they are his foes.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/34_indriyasyendriyas.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.34 Attachment and aversion for the objects of the senses abide in the
-senses; let none come under their sway; for, they are his foes.
+3.34 Attachment and aversion for the objects of the senses abide in the senses; let none come under their sway; for, they are his foes.
 
 </details>
 </div>
@@ -565,19 +543,7 @@ senses; let none come under their sway; for, they are his foes.
 3.34 इन्द्रियस्य इन्द्रियस्य of each sense; अर्थे in the object;
 रागद्वेषौ attachment and aversion; व्यवस्थितौ seated; तयोः of these two;
 न not; वशम् sway; आगच्छेत् should come under; तौ these two; हि verily;
-अस्य his; परिपन्थिनौ foes.Commentary Each sense has got attraction for a
-pleasant object and aversion for a disagreeable object. If one can
-control these two currents; viz.; attachment and aversion; he will not
-come under the sway of these two currents. Here lies the scope for
-personal exertion or Purushartha. Nature which contains the sum total of
-ones Samskaras or the latent selfproductive impressions of the past
-actions of merit and demerit draws a man to its course through the two
-currents; attachment and aversion. If one can control these two
-currents; if he can rise above the sway of love and hate through
-discrimination and Vichara or right eniry; he can coner Nature and
-attain immortality and eternal bliss. He willl no longer be subject to
-his own nature now. One should always exert to free himself from
-attachment and aversion to the objects of the senses.
+अस्य his; परिपन्थिनौ foes.Commentary Each sense has got attraction for a pleasant object and aversion for a disagreeable object. If one can control these two currents; viz.; attachment and aversion; he will not come under the sway of these two currents. Here lies the scope for personal exertion or Purushartha. Nature which contains the sum total of ones Samskaras or the latent selfproductive impressions of the past actions of merit and demerit draws a man to its course through the two currents; attachment and aversion. If one can control these two currents; if he can rise above the sway of love and hate through discrimination and Vichara or right eniry; he can coner Nature and attain immortality and eternal bliss. He willl no longer be subject to his own nature now. One should always exert to free himself from attachment and aversion to the objects of the senses.
 
 </details>
 </div>

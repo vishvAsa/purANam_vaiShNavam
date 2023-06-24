@@ -69,17 +69,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.39 Pleasure of the Tamasika type causes delusion to the self at the
-beginning and the end of enjoyment. Here 'delusion' means the absence of
-knowledge about things as they are. Pleasure springing from sleep, sloth
-and error are the cause of it. Even at the time of experience, sleep
-etc., are the cause of delusion. It is clear how sleep causes delusion.
-'Sloth' is indolence in sensory operations. When sensory activities are
-slow, dimness of knowledge results. 'Error' is heedlessness regarding
-what ought to be done. From this also occurs the dimness of knowledge.
-Thus, these two also cause delusion. Such pleasure is declared to be
-Tamasika. Therefore what is meant is this: subduing Rajas and Tamas, the
-Sattva alone should be allowed to develop by the aspirant for relase.
+18.39 Pleasure of the Tamasika type causes delusion to the self at the beginning and the end of enjoyment. Here 'delusion' means the absence of knowledge about things as they are. Pleasure springing from sleep, sloth and error are the cause of it. Even at the time of experience, sleep etc., are the cause of delusion. It is clear how sleep causes delusion.
+'Sloth' is indolence in sensory operations. When sensory activities are slow, dimness of knowledge results. 'Error' is heedlessness regarding what ought to be done. From this also occurs the dimness of knowledge.
+Thus, these two also cause delusion. Such pleasure is declared to be Tamasika. Therefore what is meant is this: subduing Rajas and Tamas, the Sattva alone should be allowed to develop by the aspirant for relase.
 
 </details>
 </div>
@@ -482,8 +474,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.39. The happiness which, \[both\] at the beginning and subseently, is
-of the nature of deluding the Self; and which results from sleep,
+18.39. The happiness which, \[both\] at the beginning and subseently, is of the nature of deluding the Self; and which results from sleep,
 indolence and heedleness-that is stated to be of the Tamas (Strand).
 
 </details>
@@ -491,35 +482,28 @@ indolence and heedleness-that is stated to be of the Tamas (Strand).
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.39 That joy is said to be born of tams which, both in the beginning
-and in the seel, is delusive to oneself and arises from sleep, laziness
-and inadvertence.
+18.39 That joy is said to be born of tams which, both in the beginning and in the seel, is delusive to oneself and arises from sleep, laziness and inadvertence.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.39 While the pleasure which from first to last merely drugs the
-senses, which springs from indolence, lethargy and folly - that pleasure
-flows from Ignorance.
+18.39 While the pleasure which from first to last merely drugs the senses, which springs from indolence, lethargy and folly - that pleasure flows from Ignorance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.39 That pleasure which, at the beginning and at the end, deludes the
-self, through sleep, sloth and error - is declared to be Tamasika.
+18.39 That pleasure which, at the beginning and at the end, deludes the self, through sleep, sloth and error - is declared to be Tamasika.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/39_yadagre_chAnuband.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.39 That happiness which at first as well as in the seel deludes the
-self, and which arises from sleep, indolence and heedlessness that is
-declared to be Tamasic.
+18.39 That happiness which at first as well as in the seel deludes the self, and which arises from sleep, indolence and heedlessness that is declared to be Tamasic.
 
 </details>
 </div>
@@ -529,10 +513,7 @@ declared to be Tamasic.
 18.39 यत् which; अग्रे at first; च and; अनुबन्धे in the seel; च and;
 सुखम् pleasure; मोहनम् delusive; आत्मनः of the self;
 निद्रालस्यप्रमादोत्थम् arising from sleep; indolence and heedlessness;
-तत् that; तामसम् Tamasic; उदाहृतम् is declared.Commentary Anubandhe In
-the conseence after the termination. The pleasure that is begotten by
-evil habits like drinking liors and eating worthless things is delusive
-of the self. The man becomes oblivious of the path he ought to tread.
+तत् that; तामसम् Tamasic; उदाहृतम् is declared.Commentary Anubandhe In the conseence after the termination. The pleasure that is begotten by evil habits like drinking liors and eating worthless things is delusive of the self. The man becomes oblivious of the path he ought to tread.
 Such pleasure is verily of the nature of darkness.
 
 </details>

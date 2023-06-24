@@ -105,32 +105,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.19 The same multitude of beings, controlled by Karma, evolves again
-and again, undergoing dissolution at the coming of night. Again at the
-coming of the day it comes forth. Similarly, at the end of the life span
-of Brahma which consists of a hundred years of three hundred and sixty
-days each, each Brahma-day being a thousand Caturyugas, all the worlds
-including that of Brahma and Brahma himself dissolve into Me in
-accordance with the order thus described in the Srutis: 'The earth is
-dissolved into the waters, the waters are dissolved into light' etc.,
-(Su. U., 2). The process of involution ends, after passing through all
-the other stages of dissolution, with the Avyakta, Akasa and Tamas.
-Therefore, for every other entity except Myself, origination and
-annihilation are unavoidable. So for those who seek Aisvarya (prosperity
-and power) birth and dissolution according to the above mentioned time
-arrangement are unavoidable. But in the case of those who attain to Me,
+8.19 The same multitude of beings, controlled by Karma, evolves again and again, undergoing dissolution at the coming of night. Again at the coming of the day it comes forth. Similarly, at the end of the life span of Brahma which consists of a hundred years of three hundred and sixty days each, each Brahma-day being a thousand Caturyugas, all the worlds including that of Brahma and Brahma himself dissolve into Me in accordance with the order thus described in the Srutis: 'The earth is dissolved into the waters, the waters are dissolved into light' etc.,
+(Su. U., 2). The process of involution ends, after passing through all the other stages of dissolution, with the Avyakta, Akasa and Tamas.
+Therefore, for every other entity except Myself, origination and annihilation are unavoidable. So for those who seek Aisvarya (prosperity and power) birth and dissolution according to the above mentioned time arrangement are unavoidable. But in the case of those who attain to Me,
 there is no return again to Samsara. \[The immense duration of time,
-according to ancient thinkers, is as follows: Catur-yuga, or a unit of
-the four yugas of Krta, Treta, Dvapara and Kali, has a cumulative
-duration of 4,320,000 human years. A thousand such periods constitute a
-day time of Brahma and a similar period his night. Periodic creation and
-dissolution of the universe take place in these two periods
-respectively. One year of Brahma consists of 360 such diurnal period. A
-Brahma has a life-span of 100 such years - i.e., 311, 040, 000,000,000
-human years. At the end of it, there is a Mahapralaya, and a new Brahma
-comes into being. Time thus goes on endlessly\]. Now Sri Krsna teaches
-that there is no return to Samsara even for those who have attained
-Kaivalya (isolation of the self).
+according to ancient thinkers, is as follows: Catur-yuga, or a unit of the four yugas of Krta, Treta, Dvapara and Kali, has a cumulative duration of 4,320,000 human years. A thousand such periods constitute a day time of Brahma and a similar period his night. Periodic creation and dissolution of the universe take place in these two periods respectively. One year of Brahma consists of 360 such diurnal period. A Brahma has a life-span of 100 such years - i.e., 311, 040, 000,000,000 human years. At the end of it, there is a Mahapralaya, and a new Brahma comes into being. Time thus goes on endlessly\]. Now Sri Krsna teaches that there is no return to Samsara even for those who have attained Kaivalya (isolation of the self).
 
 </details>
 </div>
@@ -529,18 +508,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.19. Being born and born again, the self same multitude of beings gets
-dissolved while the night approaches, and issues forth willy-nilly while
-the day approaches, O son of Prtha !
+8.19. Being born and born again, the self same multitude of beings gets dissolved while the night approaches, and issues forth willy-nilly while the day approaches, O son of Prtha !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.19 O son of Prtha, after being born again and again, that very
-multitude of beings disappears in spite of itself at the approach of
-night. It comes to life at the approach of day.
+8.19 O son of Prtha, after being born again and again, that very multitude of beings disappears in spite of itself at the approach of night. It comes to life at the approach of day.
 
 </details>
 </div>
@@ -548,17 +523,14 @@ night. It comes to life at the approach of day.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 8.19 The same multitude of beings, which have lived on earth so often,
-all are dissolved as the night of the universe approaches, to issue
-forth anew when morning breaks. Thus is it ordained.
+all are dissolved as the night of the universe approaches, to issue forth anew when morning breaks. Thus is it ordained.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/19_bhUtagrAmaH_sa.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.19 This same multitude of beings, being born again and again, is
-dissolved, helplessly, O Arjuna (into the Unmanifested) at the coming of
-the night and comes forth at the coming of the day.
+8.19 This same multitude of beings, being born again and again, is dissolved, helplessly, O Arjuna (into the Unmanifested) at the coming of the night and comes forth at the coming of the day.
 
 </details>
 </div>
@@ -569,23 +541,7 @@ the night and comes forth at the coming of the day.
 भूत्वा भूत्वा being born again and again; प्रलीयते dissolves;
 रात्र्यागमे at the coming of night; अवशः helpless; पार्थ O Partha;
 प्रभवति comes forth; अहरागमे at the coming of day.Commentary Avidya
-(ignorance); Kama (desire) and Karma (action) are the three knots that
-bind the individual to Samsara. Desire is born of Avidya. Man exerts to
-attain and enjoy the objects of his desires. During this activity he
-favours some and injures others through the force of RagaDvesha (love
-and hatred or attraction and repulsion). Therefore he is caught in the
-wheel of Samsara or transmigration. He has to take birth again and again
-to reap the fruits of his own actions. He repeatedly comes forths and
-dissolves through the force of his own Karma.The individual souls have
-lost their independence as they are bound by ignorance; desire and
-activity. Therefore they are subject to the sorrows; miseries and pains
-of this Samsara. In order to create dispassion in their minds and a
-longing for liberation in their hearts; and to remove the fallacious
-belief that a man reaps the fruits of what he has not done or that he
-does not reap the fruits of what he has done; the Lord has said that all
-creatures involuntarily come into being again and again at the coming of
-the day and dissolve at the coming of the night (on account of the
-actions or Karmas caused by desire born of ignorance).
+(ignorance); Kama (desire) and Karma (action) are the three knots that bind the individual to Samsara. Desire is born of Avidya. Man exerts to attain and enjoy the objects of his desires. During this activity he favours some and injures others through the force of RagaDvesha (love and hatred or attraction and repulsion). Therefore he is caught in the wheel of Samsara or transmigration. He has to take birth again and again to reap the fruits of his own actions. He repeatedly comes forths and dissolves through the force of his own Karma.The individual souls have lost their independence as they are bound by ignorance; desire and activity. Therefore they are subject to the sorrows; miseries and pains of this Samsara. In order to create dispassion in their minds and a longing for liberation in their hearts; and to remove the fallacious belief that a man reaps the fruits of what he has not done or that he does not reap the fruits of what he has done; the Lord has said that all creatures involuntarily come into being again and again at the coming of the day and dissolve at the coming of the night (on account of the actions or Karmas caused by desire born of ignorance).
 
 </details>
 </div>

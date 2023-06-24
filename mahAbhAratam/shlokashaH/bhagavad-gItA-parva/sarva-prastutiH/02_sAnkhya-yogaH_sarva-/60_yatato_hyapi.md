@@ -32,17 +32,23 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.60।। अथानिवृत्ते विषयरागे दुर्जयानीन्द्रियाणीत्युच्यते यततः इति
+श्लोकेन। विपश्चित्त्वं यतमानत्वे हेतुरिति द्योतनायोक्तंविपश्चितो
+यतमानस्यापीति। अत्र विपश्चित्त्वं शास्त्रजन्यहेयोपादेयविवेकत्वम्। बलवतां
+प्रमाथित्वं हिबलवानिन्द्रियग्रामो विद्वांसमपि कर्षति मनुः2।215 इति
+स्मर्यते इति ज्ञापनायबलवन्तीत्युक्तम्। इन्द्रियाणां बलं च रागादिरेव।
+उक्तश्लोकद्वयतात्पर्यसिद्धमन्योन्याश्रयणं तत्फलं चाह एवमिति।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.60 Except by the experience of the self, the hankering for objects
-will not go away. When the hankering for the sense-objects does not go
-away, the senses of even a wise man, though he is ever striving to
-subdue them, become refractory, i.e., become violent and carry away
-perforce the mind. Thus, the subduing of the senses depends on the
-vision of the self, and the vision of the self depends on the subduing
-of the senses. Conseently, i.e., because of this mutual dependence, firm
-devotion to knowledge is difficult to achieve.
+2.60 Except by the experience of the self, the hankering for objects will not go away. When the hankering for the sense-objects does not go away, the senses of even a wise man, though he is ever striving to subdue them, become refractory, i.e., become violent and carry away perforce the mind. Thus, the subduing of the senses depends on the vision of the self, and the vision of the self depends on the subduing of the senses. Conseently, i.e., because of this mutual dependence, firm devotion to knowledge is difficult to achieve.
 
 </details>
 </div>
@@ -350,56 +356,43 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.60. For, the turbulent sense-organs do carry away by force, the mind
-even of this person of discerning, O son of Kunti !
+2.60. For, the turbulent sense-organs do carry away by force, the mind even of this person of discerning, O son of Kunti !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.60 For, O son of Kunti, the turbulent organs violently snatch away the
-mind of an intelligent person, even while he is striving diligently.
+2.60 For, O son of Kunti, the turbulent organs violently snatch away the mind of an intelligent person, even while he is striving diligently.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.60 O Arjuna! The mind of him, who is trying to conquer it, is forcibly
-carried away in spite of his efforts, by his tumultuous senses.
+2.60 O Arjuna! The mind of him, who is trying to conquer it, is forcibly carried away in spite of his efforts, by his tumultuous senses.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.60 The turbulent senses, O Arjuna, do carry away perforce the mind of
-even a wise man, though he is ever striving.
+2.60 The turbulent senses, O Arjuna, do carry away perforce the mind of even a wise man, though he is ever striving.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.60 The turbulent senses, O Arjuna, do violently carry away the mind of
-a wise man though he be striving (to control them).
+2.60 The turbulent senses, O Arjuna, do violently carry away the mind of a wise man though he be striving (to control them).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/60_yatato_hyapi.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.60 यततः of the striving; हि indeed; अपि even; कौन्तेय O Kaunteya (son
-of Kunti); पुरुषस्य of man; विपश्चितः (of the) wise; इन्द्रियाणि the
-senses; प्रमाथीनि turbulent; हरन्ति carry away; प्रसभम् violently; मनः
-the mind.Commentary The aspirant should first bring the senses under his
-control. The senses are like horses. If you keep the horses under your
-perfect control you can reach your destinaton safely. Turbulent horses
-will throw you down on the way. Even so the turbulent senses will hurl
-you down into the objects of the senses and you cannot reach your
-spiritual destination; viz.; Param Dhama (the supreme abode) or the
-abode of eternal peace and immortality or Moksha (final liberation).
+2.60 यततः of the striving; हि indeed; अपि even; कौन्तेय O Kaunteya (son of Kunti); पुरुषस्य of man; विपश्चितः (of the) wise; इन्द्रियाणि the senses; प्रमाथीनि turbulent; हरन्ति carry away; प्रसभम् violently; मनः
+the mind.Commentary The aspirant should first bring the senses under his control. The senses are like horses. If you keep the horses under your perfect control you can reach your destinaton safely. Turbulent horses will throw you down on the way. Even so the turbulent senses will hurl you down into the objects of the senses and you cannot reach your spiritual destination; viz.; Param Dhama (the supreme abode) or the abode of eternal peace and immortality or Moksha (final liberation).
 (Cf.III.33V.14).
 
 </details>

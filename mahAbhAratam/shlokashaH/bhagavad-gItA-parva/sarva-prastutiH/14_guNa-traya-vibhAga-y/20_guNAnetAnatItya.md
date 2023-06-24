@@ -56,14 +56,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.20 The embodied self - 'crossing beyond these three Gunas,' the
-Sattva and the rest, which 'arise in the body,' i.e., spring from
-Prakrti transformed into the form of the body - perceives the self as
-different from the Gunas and as of the form of knowledge only. Released
-thus from birth, death, old age and sorrow, It experiences the immortal
-self. This is what is meant by My likeness. Arjuna now wants to know
-about the characteristics of one who has transcended the Gunas and the
-means of such transcendence:
+14.20 The embodied self - 'crossing beyond these three Gunas,' the Sattva and the rest, which 'arise in the body,' i.e., spring from Prakrti transformed into the form of the body - perceives the self as different from the Gunas and as of the form of knowledge only. Released thus from birth, death, old age and sorrow, It experiences the immortal self. This is what is meant by My likeness. Arjuna now wants to know about the characteristics of one who has transcended the Gunas and the means of such transcendence:
 
 </details>
 </div>
@@ -323,7 +316,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।14.20।। यह देही पुरुष शरीर की उत्पत्ति के कारणरूप तीनों गुणों से अतीत
-होकर जन्म, मृत्यु, जरा और दुःखों से विमुक्त हुआ अमृतत्व को प्राप्त होता
+होकर जन्म, मृत्यु, जरा और दु:खों से विमुक्त हुआ अमृतत्व को प्राप्त होता
 है।।
 
 </details>
@@ -408,44 +401,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.20. Transcending these three Strands, of which the body \[etc.\] is
-born, the Embodied (the Soul), being freed from birth, death, old age
-and sorrow, attains immortality.
+14.20. Transcending these three Strands, of which the body \[etc.\] is born, the Embodied (the Soul), being freed from birth, death, old age and sorrow, attains immortality.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.20 Having transcended these three alities which are the origin of the
-body, the embodied one, becoming free from birth, death, old age and
-sorrows, experiences Immortality.
+14.20 Having transcended these three alities which are the origin of the body, the embodied one, becoming free from birth, death, old age and sorrows, experiences Immortality.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.20 When the soul transcends the Qualities, which are the real cause
-of physical existence, then, freed from birth and death, from old age
-and misery, he quaffs the nectar of immortality.
+14.20 When the soul transcends the Qualities, which are the real cause of physical existence, then, freed from birth and death, from old age and misery, he quaffs the nectar of immortality.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.20 The embodied self, crossing beyond these three Gunas which arise
-in the body, and freed from birth, death, age and pain, attains
-immortality.
+14.20 The embodied self, crossing beyond these three Gunas which arise in the body, and freed from birth, death, age and pain, attains immortality.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/20_guNAnetAnatItya.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.20 The embodied one having crossed beyond these three Gunas out of
-which the body is evolved, is freed from birth, death, decay and pain,
+14.20 The embodied one having crossed beyond these three Gunas out of which the body is evolved, is freed from birth, death, decay and pain,
 and attains to immortality.
 
 </details>
@@ -456,18 +440,8 @@ and attains to immortality.
 14.20 गुणान् Gunas; एतान् these; अतीत्य having crossed; त्रीन् three;
 देही the embodied; देहसमुद्भवान् out of which the body is evolved;
 जन्ममृत्युजरादुःखैः from birth; death; decay and pain; विमुक्तः freed;
-अमृतम् immortality; अश्नुते attains to.Commentary Just as a river is
-absorbed in the ocean; so also he who has; while still alive; gone
-beyond the alities which form the seed from which all bodies have sprung
-and of which they are composed; is absorbed in Me. He ever enjoys the
-bliss of the Eternal. He attains release or Moksha. He attains to My
-Being.When the Lord said that the wise man crosses beyond the three
-alities and attains immortality; Arjuna became inspired with the desire
-of learning more about it. Just as he has asked a estion about the sage
-of steady wisdom in chapter II; verse 54; he now asks Lord Krishna about
-the characteristics of a sage who has crossed over the three alities.
-How does he act What is his conduct or behaviour How has he gone beyond
-the alities
+अमृतम् immortality; अश्नुते attains to.Commentary Just as a river is absorbed in the ocean; so also he who has; while still alive; gone beyond the alities which form the seed from which all bodies have sprung and of which they are composed; is absorbed in Me. He ever enjoys the bliss of the Eternal. He attains release or Moksha. He attains to My Being.When the Lord said that the wise man crosses beyond the three alities and attains immortality; Arjuna became inspired with the desire of learning more about it. Just as he has asked a estion about the sage of steady wisdom in chapter II; verse 54; he now asks Lord Krishna about the characteristics of a sage who has crossed over the three alities.
+How does he act What is his conduct or behaviour How has he gone beyond the alities
 
 </details>
 </div>

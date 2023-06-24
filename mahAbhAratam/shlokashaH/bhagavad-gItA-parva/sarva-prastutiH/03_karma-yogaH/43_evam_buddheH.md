@@ -61,10 +61,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/43_evam_buddheH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.43 Thus, understanding desire, which is higher than even the
-intellect, to be the fore antagonistic to Jnana Yoga, and establishing
-the mind by means of the intellect in Karma Yoga, slay, i.e., destroy
-this foe, in the shape of desire which is difficult to overcome.
+3.43 Thus, understanding desire, which is higher than even the intellect, to be the fore antagonistic to Jnana Yoga, and establishing the mind by means of the intellect in Karma Yoga, slay, i.e., destroy this foe, in the shape of desire which is difficult to overcome.
 
 </details>
 </div>
@@ -368,22 +365,16 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/43_evam_buddheH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.43. Thus being conscious : 'That is different from the intellect'; and
-steadying the self with the self; kill the foe that is of the form of
-desire and that is hard to approach.
+3.43. Thus being conscious : 'That is different from the intellect'; and steadying the self with the self; kill the foe that is of the form of desire and that is hard to approach.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/43_evam_buddheH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.43 \[The Ast, introdcues this verse with, 'Tatah kim, what follows
-from that;'-Tr.\] Understanding the Self thus
-\[Understanding৷৷.thus:that desires can be conered through the knowledge
-of the Self.\] as superior to the intellect, and completely establishing
-(the Self) is spiritual absorption with the (help of) the mind, O
-mighty-armed one, vanish the enemy in the form of desire, which is
-difficult to subdue.
+3.43 \[The Ast, introdcues this verse with, 'Tatah kim, what follows from that;'-Tr.\] Understanding the Self thus
+\[Understanding৷৷.thus:that desires can be conered through the knowledge of the Self.\] as superior to the intellect, and completely establishing
+(the Self) is spiritual absorption with the (help of) the mind, O mighty-armed one, vanish the enemy in the form of desire, which is difficult to subdue.
 
 </details>
 </div>
@@ -399,19 +390,14 @@ extremely difficult though it be."
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/43_evam_buddheH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.43 Thus, knowing that which is higher than the intellect and fixing
-the mind with the help of the intellect in Karma Yoga, O Arjuna, slay
-this enemy which wears the form of desire, and which is difficult to
-overcome.
+3.43 Thus, knowing that which is higher than the intellect and fixing the mind with the help of the intellect in Karma Yoga, O Arjuna, slay this enemy which wears the form of desire, and which is difficult to overcome.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/43_evam_buddheH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.43 Thus knowing Him Who is superior to the intellect and restraining
-the self by the Self, slay thou, O mighty-armed Arjuna, the enemy in the
-form of desire, hard to coner.
+3.43 Thus knowing Him Who is superior to the intellect and restraining the self by the Self, slay thou, O mighty-armed Arjuna, the enemy in the form of desire, hard to coner.
 
 </details>
 </div>
@@ -419,20 +405,10 @@ form of desire, hard to coner.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.43 एवम् thus; बुद्धेः than the intellect; परम् superior; बुद्ध्वा
-having known; संस्तभ्य restraining; आत्मानम् the self; आत्मना by the
-Self; जहि slay thou; शत्रुम् the enemy; महाबाहो O mightyarmed; कामरूपम्
-of the form of desire; दुरासदम् hard to coner.Commentary Restrain the
-lower self by the higher Self. Subdue the lower mind by the higher mind.
-It is difficult to coner desire because it is of a highly complex and
-incomprehensible nature. But a man of discrimination and dispassion who
-does constant and intense Sadhana can coner it ite easily. Desire is the
-ality of Rajas. If you increase the Sattvic ality in you; you can coner
-desire. Rajas cannot stand before Sattva.Even though desire is hard to
-coner; it is not impossible. The simple and direct method is to appeal
-to the Indwelling Presence (God) through prayer and Japa.Thus in the
-Upanishads of the glorious Bhagavad Gita; the science of the Eternal;
-the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends
-the third discourse entitledThe Yoga of Action.  
+having known; संस्तभ्य restraining; आत्मानम् the self; आत्मना by the Self; जहि slay thou; शत्रुम् the enemy; महाबाहो O mightyarmed; कामरूपम्
+of the form of desire; दुरासदम् hard to coner.Commentary Restrain the lower self by the higher Self. Subdue the lower mind by the higher mind.
+It is difficult to coner desire because it is of a highly complex and incomprehensible nature. But a man of discrimination and dispassion who does constant and intense Sadhana can coner it ite easily. Desire is the ality of Rajas. If you increase the Sattvic ality in you; you can coner desire. Rajas cannot stand before Sattva.Even though desire is hard to coner; it is not impossible. The simple and direct method is to appeal to the Indwelling Presence (God) through prayer and Japa.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal;
+the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the third discourse entitledThe Yoga of Action.  
   
 
 </details>

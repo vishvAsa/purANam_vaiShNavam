@@ -65,14 +65,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.13 The embodied self who is self-controlled, renounces all actions to
-the city of nine gates, i.e., the body with its sensory and motor
-functions which are nine in number. He discriminates that all actions
-are due to conjunction of the self with the body which is rooted in
-previous Karmas, and is not by Its own nature. \[It means that the self
-merely rests in the body, without any identification with bodily
-activities.\] Sri Krsna now teaches the natural condition of the self as
-It is:
+5.13 The embodied self who is self-controlled, renounces all actions to the city of nine gates, i.e., the body with its sensory and motor functions which are nine in number. He discriminates that all actions are due to conjunction of the self with the body which is rooted in previous Karmas, and is not by Its own nature. \[It means that the self merely rests in the body, without any identification with bodily activities.\] Sri Krsna now teaches the natural condition of the self as It is:
 
 </details>
 </div>
@@ -560,34 +553,28 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 5.13. Having renounced all actions by mind, a man of self-control,
-dwells happily in his body, a nine-win-dowed mansion, neither
-performing, nor causing others to perform \[actions\].
+dwells happily in his body, a nine-win-dowed mansion, neither performing, nor causing others to perform \[actions\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.13 The embodied man of self-control, having given up all actions
-mentally, continues happily in the town of nine gates, without doing or
-causing (others) to do anything at all.
+5.13 The embodied man of self-control, having given up all actions mentally, continues happily in the town of nine gates, without doing or causing (others) to do anything at all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.13 Mentally renouncing all actions, the self-controlled soul enjoys
-bliss in this body, the city of the nine gates, neither doing anything
-himself nor causing anything to be done.
+5.13 Mentally renouncing all actions, the self-controlled soul enjoys bliss in this body, the city of the nine gates, neither doing anything himself nor causing anything to be done.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.13 The embodied self, mentally resigning all actions as belonging to
-the city of nine gates (i.e., the body) and becoming self-controlled,
+5.13 The embodied self, mentally resigning all actions as belonging to the city of nine gates (i.e., the body) and becoming self-controlled,
 dwells happily, neither himself acting nor causing the body to act.
 
 </details>
@@ -595,38 +582,20 @@ dwells happily, neither himself acting nor causing the body to act.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.13 Mentally renouncing all actions and self-controlled, the embodied
-one rests happily in the nine-gated city, neither acting nor causing
-others (body and senses) to act.
+5.13 Mentally renouncing all actions and self-controlled, the embodied one rests happily in the nine-gated city, neither acting nor causing others (body and senses) to act.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/13_sarvakarmANi_mana.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-5.13 सर्वकर्माणि all actions; मनसा by the mind; संन्यस्य having
-renounced; आस्ते rests; सुखम् happily; वशी the selfcontrolled; नवद्वारे
+5.13 सर्वकर्माणि all actions; मनसा by the mind; संन्यस्य having renounced; आस्ते rests; सुखम् happily; वशी the selfcontrolled; नवद्वारे
 in the ninegated; पुरे in the city; देही the embodied; न not; एव even;
 कुर्वन् acting; न not; कारयन् causing to act.Commentary All actions --
-(1) Nitya Karmas These are obligatory duties. Their performance does not
-produce any merit but their nonperformance produces demerit.
-Sandhyavandana; etc.; belong to this category.(2) Naimittika Karmas
-These Karmas are performed on the occurrence of some special events such
-as the birth of a son; eclipse; etc.(3) Kamya Karmas These are optional.
-They are intended for the attainment of some special ends (for getting
-rain; son; etc.)(4) Nishiddha Karmas These are forbidden actions such as
-theft; drinking liour; etc.(5) Prayaschitta Karmas Actions performed to
-neutralise the effects of evil actions or sins.The man who has
-controlled the senses renounces all actions by discrimination; by seeing
-inaction in action and rests happily in this body of nine openings (the
-ninegated city); because he is free from cares; worries; anxieties and
-fear and his mind is ite calm and he enjoys the supreme peace of the
-Eternal. In this ninegated city the Self is the king. The senses; the
-mind; the subconscious mind; and the intellect are the inhabitants or
-subjects.The ignorant wordly man says; I am resting in the easychair.
-The man of wisdom who has realised that the Self is distinct from the
-body which is a product of the five elements; says; I am resting in this
-body. (Cf.XVIII.17;50)
+(1) Nitya Karmas These are obligatory duties. Their performance does not produce any merit but their nonperformance produces demerit.
+Sandhyavandana; etc.; belong to this category.(2) Naimittika Karmas These Karmas are performed on the occurrence of some special events such as the birth of a son; eclipse; etc.(3) Kamya Karmas These are optional.
+They are intended for the attainment of some special ends (for getting rain; son; etc.)(4) Nishiddha Karmas These are forbidden actions such as theft; drinking liour; etc.(5) Prayaschitta Karmas Actions performed to neutralise the effects of evil actions or sins.The man who has controlled the senses renounces all actions by discrimination; by seeing inaction in action and rests happily in this body of nine openings (the ninegated city); because he is free from cares; worries; anxieties and fear and his mind is ite calm and he enjoys the supreme peace of the Eternal. In this ninegated city the Self is the king. The senses; the mind; the subconscious mind; and the intellect are the inhabitants or subjects.The ignorant wordly man says; I am resting in the easychair.
+The man of wisdom who has realised that the Self is distinct from the body which is a product of the five elements; says; I am resting in this body. (Cf.XVIII.17;50)
 
 </details>
 </div>

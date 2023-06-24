@@ -355,41 +355,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.72. O son of Prtha ! Has this been heared by you with attentive mind
-; O Dhananjaya ! Has your strong delusion, born of ignorance, been
-totally destroyed ;
+; O Dhananjaya ! Has your strong delusion, born of ignorance, been totally destroyed ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.72 O Partha, has this been listened to by you with a one-pointed
-mind; O Dhananjaya, has your delusion caused by ignorance been
-destroyed;
+18.72 O Partha, has this been listened to by you with a one-pointed mind; O Dhananjaya, has your delusion caused by ignorance been destroyed;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.72 O Arjuna! Hast thou listened attentively to My words; Has thy
-ignorance and thy delusion gone;
+18.72 O Arjuna! Hast thou listened attentively to My words; Has thy ignorance and thy delusion gone;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.72 Have you heard this, O Arjuna, with one-pointed mind; Has your
-delusion, caused by ignorance, been dispelled;
+18.72 Have you heard this, O Arjuna, with one-pointed mind; Has your delusion, caused by ignorance, been dispelled;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/72_kachchidetachChru.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.72 Has this been heard, O Arjuna, with one-pointed mind; Has the
-delusion of thy ignorance been destroyed, O Dhananjaya;
+18.72 Has this been heard, O Arjuna, with one-pointed mind; Has the delusion of thy ignorance been destroyed, O Dhananjaya;
 
 </details>
 </div>
@@ -398,19 +392,9 @@ delusion of thy ignorance been destroyed, O Dhananjaya;
 
 18.72 कच्चित् whether; एतत् this; श्रुतम् heard; पार्थ O son of Kunti
 (Arjuna); त्वया by thee; एकाग्रेण onepointed; चेतसा by mind; कच्चित्
-whether; अज्ञानसंमोहः the delusion of ignorance; प्रनष्टः has been
-destroyed; ते thy; धनञ्जय O Dhananjaya.Commentary It is the duty of the
-spiritual teacher or preceptor to make the aspirant understand the
-teaching of the scripture and to enable him to attain the goal of life
-(Moksha). If the student has not grasped the subject he will have to
-explain it in some other way with similes; analogies and illustrations.
-That is the reason why Lord Krishna asks Arjuna Has the delusion of thy
-ignorance been destroyedThis What I have told thee.Have you heard it; O
-Arjuna; with onepointed mind Have you grasped My teachingDelusion of
-ignorance The absence of discrimination which is caused by ignorance and
-which is natural. The destruction of delusion is the aim of all this
-endeavour on your part to hear the scripture and the exertion on My part
-as the teacher.
+whether; अज्ञानसंमोहः the delusion of ignorance; प्रनष्टः has been destroyed; ते thy; धनञ्जय O Dhananjaya.Commentary It is the duty of the spiritual teacher or preceptor to make the aspirant understand the teaching of the scripture and to enable him to attain the goal of life
+(Moksha). If the student has not grasped the subject he will have to explain it in some other way with similes; analogies and illustrations.
+That is the reason why Lord Krishna asks Arjuna Has the delusion of thy ignorance been destroyedThis What I have told thee.Have you heard it; O Arjuna; with onepointed mind Have you grasped My teachingDelusion of ignorance The absence of discrimination which is caused by ignorance and which is natural. The destruction of delusion is the aim of all this endeavour on your part to hear the scripture and the exertion on My part as the teacher.
 
 </details>
 </div>

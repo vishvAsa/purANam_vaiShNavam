@@ -37,24 +37,34 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/61_tAni_sarvANi.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.61।। तर्ह्यन्योन्याश्रयदूषितेऽर्थे साध्यसाधनभावः कथं पूर्वमुपदिष्टः
+इत्यत्रोच्यतेतानि सर्वाणि इति। अस्येति
+अन्योन्याश्रयादिदोषस्येत्यर्थः। संयम्येति।
+विषयस्पर्शनिवारणमात्रमत्रोच्यते न त्विन्द्रियजयावस्था। मत्परः इत्यत्र
+वक्तृविग्रहवैशिष्ट्यविवक्षया सिद्धं शुभाश्रयविग्रहविशेषवत्त्वंचेतस
+इत्यादिना विवृतम्। शुभशब्देन हिरण्यगर्भादेः आश्रयशब्देन
+परिशुद्धात्मस्वरूपस्य च व्यवच्छेदः। युक्तशब्देनात्र विषयस्वभावात्सुकरं
+चित्तसमाधानं विवक्षितमित्याह समाहित इति। मत्परः इत्येतावता
+कथमन्योन्याश्रयादिपरिहार इत्यत्राह मनसीति।
+अत्राशेषशब्देनोपायविरोधिसर्वकर्मसङ्ग्रहः। निर्मलीकृतं रजस्तमोविरहितं तत
+एव हि
+
+शब्दादिविषयानुरागरहितम्। अत्र प्रज्ञाशब्दस्य
+ज्ञाननिष्ठाफलपर्यन्तत्वमात्मदर्शनशब्देनोक्तम्। शुभाश्रयानुसन्धानस्य
+कल्मषविनाशकत्वे स्मृत्यन्तरसंवादमाह यथेति। आत्मदर्शनमन्तरेणैव
+इन्द्रियजयसिद्धेर्नान्योन्याश्रयः। अतः
+पूर्वोक्तसाध्यसाधनभावोपपत्तिरित्युत्तरार्धेनोच्यत इत्याह तदाहेति।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/61_tAni_sarvANi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.61 With a desire to overcome this mutual dependence between the
-subduing of the senses and vision of the self, one has to coner the
-senses which are difficult to subdue on account of their attachment to
-sense-objects. So, focussing the mind on Me who am the only auspicious
-object for meditation, let him remain steadfast. When the mind is
-focussed on Me as its object, then such a mind, purified by the burning
-away of all impurities and devoid of attachment to the senses, is able
-to control the senses. Then the mind with the senses under control will
-be able to experience the self. As said in Visnu Purana, 'As the leaping
-fire fanned by the wind burns away a forest of dry trees, so Visnu, who
-is in the hearts of all the Yogins, destroys all the sins.' Sri Krsna
-teaches the same here: 'He whose senses are under control, his knowledge
-is firmly set.' Sri Krsna says: 'One who endeavours to subdue the
-senses, depending on one's own exertions, and does not focus the mind on
-Me in this way, becomes lost.'
+2.61 With a desire to overcome this mutual dependence between the subduing of the senses and vision of the self, one has to coner the senses which are difficult to subdue on account of their attachment to sense-objects. So, focussing the mind on Me who am the only auspicious object for meditation, let him remain steadfast. When the mind is focussed on Me as its object, then such a mind, purified by the burning away of all impurities and devoid of attachment to the senses, is able to control the senses. Then the mind with the senses under control will be able to experience the self. As said in Visnu Purana, 'As the leaping fire fanned by the wind burns away a forest of dry trees, so Visnu, who is in the hearts of all the Yogins, destroys all the sins.' Sri Krsna teaches the same here: 'He whose senses are under control, his knowledge is firmly set.' Sri Krsna says: 'One who endeavours to subdue the senses, depending on one's own exertions, and does not focus the mind on Me in this way, becomes lost.'
 
 </details>
 </div>
@@ -397,26 +407,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/61_tAni_sarvANi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.61. Restraining them (the same-organs) by mind, the master of Yoga
-would sit making Me his goal; for, the intellect of that person is
-stabilized whose sense-organs are under control.
+2.61. Restraining them (the same-organs) by mind, the master of Yoga would sit making Me his goal; for, the intellect of that person is stabilized whose sense-organs are under control.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/61_tAni_sarvANi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.61 Controlling all of them, one should remain concentrated on Me as
-the supreme. For, the wisdom of one whose organs are under control
-becomes steadfast.
+2.61 Controlling all of them, one should remain concentrated on Me as the supreme. For, the wisdom of one whose organs are under control becomes steadfast.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/61_tAni_sarvANi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.61 Restraining them all, let him meditate steadfastly on Me; for who
-thus conquers his senses achieves perfection.
+2.61 Restraining them all, let him meditate steadfastly on Me; for who thus conquers his senses achieves perfection.
 
 </details>
 </div>
@@ -424,8 +429,7 @@ thus conquers his senses achieves perfection.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 2.61 Having controlled all the senses, let him remain in contemplation,
-regarding Me as supreme; for, his knowledge is firmly set whose senses
-are under control.
+regarding Me as supreme; for, his knowledge is firmly set whose senses are under control.
 
 </details>
 </div>
@@ -442,12 +446,7 @@ his wisdom is steady whose senses are under control.
 
 2.61 तानि them; सर्वाणि all; संयम्य having restrained; युक्तः joined;
 आसीत should sit; मत्परः intent on Me; वशे under control; हि indeed; यस्य
-whose; इन्द्रियाणि senses; तस्य his; प्रज्ञा wisdom; प्रतिष्ठिता is
-settled.Commentary He should control the senses and sit focussed on Me
-as the Supreme; with a calm mind. The wisdom of the Yogi who thus seated
-has brought all his senses under subjugation is doubtless ite steady. He
-is established in the Self. Sri Sankaracharya explains Asita Matparah as
-He should sit contemplating I am no other than He. (Cf.II.64).
+whose; इन्द्रियाणि senses; तस्य his; प्रज्ञा wisdom; प्रतिष्ठिता is settled.Commentary He should control the senses and sit focussed on Me as the Supreme; with a calm mind. The wisdom of the Yogi who thus seated has brought all his senses under subjugation is doubtless ite steady. He is established in the Self. Sri Sankaracharya explains Asita Matparah as He should sit contemplating I am no other than He. (Cf.II.64).
 
 </details>
 </div>

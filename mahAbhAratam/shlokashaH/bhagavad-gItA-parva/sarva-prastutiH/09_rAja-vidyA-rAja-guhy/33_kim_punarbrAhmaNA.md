@@ -61,11 +61,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.32 - 9.33 Women, Vaisyas and Sudras, and even those who are of sinful
-birth, can attain the supreme state by taking refuge in Me. How much
-more then the well-born Brahmanas and royal sages who are devoted to me!
-Therefore, roayl sage that you are, do worship Me, as you have come to
-this transient and joyless world stricken by the threefold afflictions.
+9.32 - 9.33 Women, Vaisyas and Sudras, and even those who are of sinful birth, can attain the supreme state by taking refuge in Me. How much more then the well-born Brahmanas and royal sages who are devoted to me!
+Therefore, roayl sage that you are, do worship Me, as you have come to this transient and joyless world stricken by the threefold afflictions.
 Sri Krsna now describes the nature of Bhakti:
 
 </details>
@@ -352,10 +349,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.33. Certainly it should be so in the case of the pious men of the
-priestly class and of the devoted royal seers. Having come to (i.e.,
-being born in) this transient and joyless world, you should be devoted
-to Me.
+9.33. Certainly it should be so in the case of the pious men of the priestly class and of the devoted royal seers. Having come to (i.e.,
+being born in) this transient and joyless world, you should be devoted to Me.
 
 </details>
 </div>
@@ -370,27 +365,21 @@ Having come to this ephemeral and miserable world, do you worship Me.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.33 What need then to mention the holy Ministers of God, the devotees
-and the saintly rulers; Do thou, therefore, born in this changing and
-miserable world, do thou too worship Me.
+9.33 What need then to mention the holy Ministers of God, the devotees and the saintly rulers; Do thou, therefore, born in this changing and miserable world, do thou too worship Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.33 How much more then the Brahmanas and royal sages who are pure and
-are My devotees! Having obtained this transient, joyless world, worship
-Me.
+9.33 How much more then the Brahmanas and royal sages who are pure and are My devotees! Having obtained this transient, joyless world, worship Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/33_kim_punarbrAhmaNA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.33 How much more (easily) then the hold Brahmins and devoted royal
-saints (attain the goal); having come to this impermanent and unhappy
-world, do thou worship Me.
+9.33 How much more (easily) then the hold Brahmins and devoted royal saints (attain the goal); having come to this impermanent and unhappy world, do thou worship Me.
 
 </details>
 </div>
@@ -400,18 +389,11 @@ world, do thou worship Me.
 9.33 किम् पुनः how much more; ब्राह्मणाः Brahmins; पुण्याः holy; भक्ताः
 devoted; राजर्षयः royal saints; तथा also; अनित्यम् impermanent; असुखम्
 unhappy; लोकम् world; इमम् this; प्राप्य having obtained; भजस्व worship;
-माम् Me.Commentary Rajarshis are kings who have become saints while
-discharging the duties of the kingdom.It is very difficult to get a
-human birth which is the means of attaining the goal of life. Being born
-in this human body you should lead a life of devotion to the Lord. In
-the human body alone will you have the power to reflect (VicharaSakti);
-discrimination and dispassion. Even the gods envy the human birth.This
-body is impermanent. It perishes soon. It brings pain of various sorts.
+माम् Me.Commentary Rajarshis are kings who have become saints while discharging the duties of the kingdom.It is very difficult to get a human birth which is the means of attaining the goal of life. Being born in this human body you should lead a life of devotion to the Lord. In the human body alone will you have the power to reflect (VicharaSakti);
+discrimination and dispassion. Even the gods envy the human birth.This body is impermanent. It perishes soon. It brings pain of various sorts.
 So give up the efforts for securing happiness and comfort for this body.
 If you do not aim at Selfrealisation even after attaining a human birth;
-you live in vain you are wasting your life and you are a slayer of the
-Self. You will again and again be caught in the wheel of birth and
-death.
+you live in vain you are wasting your life and you are a slayer of the Self. You will again and again be caught in the wheel of birth and death.
 
 </details>
 </div>

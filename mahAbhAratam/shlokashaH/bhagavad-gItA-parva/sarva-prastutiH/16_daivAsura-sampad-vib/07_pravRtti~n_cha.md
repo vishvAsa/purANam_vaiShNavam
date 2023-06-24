@@ -72,17 +72,9 @@ _________________
 
 16.7 The demoniac men do not know the 'path of action and renunciation,'
 viz., the Vedic Dharma that leads to prosperity and final release.
-'Cleanliness' is the competence for performing Vedic rites as
-established in the Sastras. That 'cleanliness,' be it external or
-internal, is alien to the demoniac. Nor 'right conduct,' viz., that
-right conduct such as twilight prayers (Sandhya-vandana) etc., by means
-of which this internal and external cleanliness arises - even that right
-conduct is alien to them. For it is declared in: 'He who does not
-perform twilight prayers, is always unholy and is unfit for any rites'
+'Cleanliness' is the competence for performing Vedic rites as established in the Sastras. That 'cleanliness,' be it external or internal, is alien to the demoniac. Nor 'right conduct,' viz., that right conduct such as twilight prayers (Sandhya-vandana) etc., by means of which this internal and external cleanliness arises - even that right conduct is alien to them. For it is declared in: 'He who does not perform twilight prayers, is always unholy and is unfit for any rites'
 (Daksha Sm., 2.23). Likewise, 'truth' is not found among them, viz.,
-that truthful speech, which is conducive to the welfare of beings and
-which is in accordance with one's actual knowledge, does not
-characterise them. Moreover:
+that truthful speech, which is conducive to the welfare of beings and which is in accordance with one's actual knowledge, does not characterise them. Moreover:
 
 </details>
 </div>
@@ -400,26 +392,21 @@ neither purity, nor good conduct, nor truth does exist in them.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.7 Neither do the demoniacal persons under-stand what is to be done
-and what is not to be done; nor does purity, or even good conduct or
-truthfulness exist in them.
+16.7 Neither do the demoniacal persons under-stand what is to be done and what is not to be done; nor does purity, or even good conduct or truthfulness exist in them.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.7 The godless do not know how to act or how to renounce. They have
-neither purity nor truth. They do not understand the right principles of
-conduct.
+16.7 The godless do not know how to act or how to renounce. They have neither purity nor truth. They do not understand the right principles of conduct.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/07_pravRtti~n_cha.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.7 The demoniac men know neither action nor renunciation. Cleanliness
-is not in them, nor even right conduct, nor truth.
+16.7 The demoniac men know neither action nor renunciation. Cleanliness is not in them, nor even right conduct, nor truth.
 
 </details>
 </div>
@@ -437,21 +424,8 @@ neither purity, nor right conduct nor truth is found in them.
 16.7 प्रवृत्तिम् action; च and; निवृत्तिम् inaction; च and; जनाः men; न
 not; विदुः know; आसुराः the demoniac; न not; शौचम् purity; न not; अपि
 also; च and; आचारः (right) conduct; न not; सत्यम् truth; तेषु in them;
-विद्यते is.Commentary The demoniacal do not understand the nature of
-action and inaction (right abstinence). The idea of a Self apart from
-the body; doing nothing (actionless) but imply watching the play of the
-Gunas is something incomprehensible to them. They have no consideration
-for the interest of others. They work for the sake of their bodies or
-sensual enjoyment. They are greedy; selfish and cruel. Therefore; they
-have neither good conduct nor good behaviour. They are untruthful;
-unjust and impure. They do not know what actions they should do in order
-to attain the goal of life or end of human existence; nor from what
-actions they should refrain to ward off,evil.Those who are endowed with
-demoniacal alities are sunk in the mire of ignorance. They are totally
-ignorant of what is prescribed or what is prohibited action. They have
-not the least idea of what purity or cleanliness is. Their actions are
-crooked. They know neither right Pravritti nor right Nivritti. They have
-no idea of virtue or vice or of scriptural injunctions or prohibitions.
+विद्यते is.Commentary The demoniacal do not understand the nature of action and inaction (right abstinence). The idea of a Self apart from the body; doing nothing (actionless) but imply watching the play of the Gunas is something incomprehensible to them. They have no consideration for the interest of others. They work for the sake of their bodies or sensual enjoyment. They are greedy; selfish and cruel. Therefore; they have neither good conduct nor good behaviour. They are untruthful;
+unjust and impure. They do not know what actions they should do in order to attain the goal of life or end of human existence; nor from what actions they should refrain to ward off,evil.Those who are endowed with demoniacal alities are sunk in the mire of ignorance. They are totally ignorant of what is prescribed or what is prohibited action. They have not the least idea of what purity or cleanliness is. Their actions are crooked. They know neither right Pravritti nor right Nivritti. They have no idea of virtue or vice or of scriptural injunctions or prohibitions.
 They will never speak loving words. They are hypocrites and liars.
 
 </details>

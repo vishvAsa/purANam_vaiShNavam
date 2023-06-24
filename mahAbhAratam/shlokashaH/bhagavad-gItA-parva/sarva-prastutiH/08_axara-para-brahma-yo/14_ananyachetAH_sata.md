@@ -161,24 +161,10 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 8.14 I am easy to access to that Yogin who is 'ever integrated with Me,'
-i.e., who wants constant contact with Me, who recollects Me; and whose
-mind is not in 'anything else without break' (Nityasah), i.e., at the
-time of meditation and also during all other times (Satatam). As I am
-exceedingly dear to him, he is unable to sustain himself without
-remembering Me and cherishing My memory which is incomparably dear to
-him. I am the only object he wants to attain and not any mode of My
-being like sovereignty, etc. I Myself grant him the capacity to attain
-full maturity in devotional practice necessary for attaining Me -
-namely, the annulment of all obstacles and the establishment of the
-state of mind that renders Me exceedingly dear to oneself. The Sruti
-also says: 'He whom this (Self) chooses, by him He can be obtained'
-(Mun. U., 3.2.3 and Ka. U., 2.22). And Sri Krsna Himself will teach: "To
-those, ceaselessly united, who worship Me, I bestow that discernment by
-which they come to Me. Out of mercy for them, I, abiding in their heart,
-dispel the darkness born of ignorance, by the brilliant lamp of
-knowledge" (10.10;11). In the remaining part of this chapter, He teaches
-that the Jnanis and the aspirants after Kaivalya do not deturn, and that
-the seekers after power and prosperity return.
+i.e., who wants constant contact with Me, who recollects Me; and whose mind is not in 'anything else without break' (Nityasah), i.e., at the time of meditation and also during all other times (Satatam). As I am exceedingly dear to him, he is unable to sustain himself without remembering Me and cherishing My memory which is incomparably dear to him. I am the only object he wants to attain and not any mode of My being like sovereignty, etc. I Myself grant him the capacity to attain full maturity in devotional practice necessary for attaining Me -
+namely, the annulment of all obstacles and the establishment of the state of mind that renders Me exceedingly dear to oneself. The Sruti also says: 'He whom this (Self) chooses, by him He can be obtained'
+(Mun. U., 3.2.3 and Ka. U., 2.22). And Sri Krsna Himself will teach: "To those, ceaselessly united, who worship Me, I bestow that discernment by which they come to Me. Out of mercy for them, I, abiding in their heart,
+dispel the darkness born of ignorance, by the brilliant lamp of knowledge" (10.10;11). In the remaining part of this chapter, He teaches that the Jnanis and the aspirants after Kaivalya do not deturn, and that the seekers after power and prosperity return.
 
 </details>
 </div>
@@ -513,17 +499,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.14. And whosoever constantly bears Me in mind never attached to any
-other object-for this Yogin, ever devout, I am easy to attain, O son of
-Prtha !
+8.14. And whosoever constantly bears Me in mind never attached to any other object-for this Yogin, ever devout, I am easy to attain, O son of Prtha !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.14 O son of Prtha, to that yogi of constant concentration and
-single-minded attention, who remembers Me uninterruptedly and for long,
+8.14 O son of Prtha, to that yogi of constant concentration and single-minded attention, who remembers Me uninterruptedly and for long,
 I am easy of attainment.
 
 </details>
@@ -531,16 +514,14 @@ I am easy of attainment.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.14 To him who thinks constantly of Me, and of nothing else, to such an
-ever-faithful devotee, O Arjuna, am I ever accessible.
+8.14 To him who thinks constantly of Me, and of nothing else, to such an ever-faithful devotee, O Arjuna, am I ever accessible.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/14_ananyachetAH_sata.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.14 I am easily attainable by that ever-steadfast Yogi who constantly
-and daily remembers Me (for a long time), not thinking of anything else
+8.14 I am easily attainable by that ever-steadfast Yogi who constantly and daily remembers Me (for a long time), not thinking of anything else
 (with a single mind or one-pointed mind), O Partha (Arjuna).
 
 </details>
@@ -549,19 +530,8 @@ and daily remembers Me (for a long time), not thinking of anything else
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 8.14 अनन्यचेताः with the mind not thinking of any other object; सततम्
-constantly; यः who; माम् Me; स्मरति remembers; नित्यशः daily; तस्य of
-him; अहम् I; सुलभः easily attainable; पार्थ O Partha; नित्ययुक्तस्य
-eversteadfast; योगिनः of Yogi.Commentary I am easily attainable by that
-eversteadfast Yogi who constantly and daily remembers Me (for a long
-time); not thinking of anything else (with a single mind or onepointed
-mind); O Partha (Arjuna).Commentary Constantly remembering the Lord
-throughout the life is the most easy way of attaining Him.Ananyachetah
-He has no attachment for any other object. He will not think of any
-other object save his IshtaDevata or tutelary deity.Nityasah For a long
-time; i.e.; till the end of life.He who remembers the Lord by fits and
-starts or he who remembers Him for six montsh and then leaves the
-practice and then again remembers Him for six months and so on cannot
-attain Him. (Cf.IX.22;34)
+constantly; यः who; माम् Me; स्मरति remembers; नित्यशः daily; तस्य of him; अहम् I; सुलभः easily attainable; पार्थ O Partha; नित्ययुक्तस्य
+eversteadfast; योगिनः of Yogi.Commentary I am easily attainable by that eversteadfast Yogi who constantly and daily remembers Me (for a long time); not thinking of anything else (with a single mind or onepointed mind); O Partha (Arjuna).Commentary Constantly remembering the Lord throughout the life is the most easy way of attaining Him.Ananyachetah He has no attachment for any other object. He will not think of any other object save his IshtaDevata or tutelary deity.Nityasah For a long time; i.e.; till the end of life.He who remembers the Lord by fits and starts or he who remembers Him for six montsh and then leaves the practice and then again remembers Him for six months and so on cannot attain Him. (Cf.IX.22;34)
 
 </details>
 </div>

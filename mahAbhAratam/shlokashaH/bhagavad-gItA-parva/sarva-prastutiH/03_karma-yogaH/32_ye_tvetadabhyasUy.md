@@ -63,21 +63,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.32 But those who do not follow this view of Mine, namely, that the
-self has Me for Its support, is subservient to Me and is actuated by Me
-only, i.e., those who do not perform all acts contemplating in this way
-as also those who have no faith in the meaning of the Sastras and
-calumniate them - know them to be extremely deluded and devoid of
-reasoning and knowledge and conseently completely lost. For, the
-function of the mind is the determination of the real nature of things,
-and in its absence, those mentioned above are devoid of reason, and
-therefore apostates in knowledge and extremely deluded in all ways. For
-one united with the Prakrti (body), the sense of agency results from the
-preponderance of the Gunas of Prakrti. But this agency really rests with
-the Supreme Person. Contemplating thus, Karma Yoga alone should be
-practised by both - those who are competent for Karma Yoga only and
-those who are competent for Jnana Yoga. The implied superiority of Karma
-Yoga has the following justifications; it is easy to perform, free from
+3.32 But those who do not follow this view of Mine, namely, that the self has Me for Its support, is subservient to Me and is actuated by Me only, i.e., those who do not perform all acts contemplating in this way as also those who have no faith in the meaning of the Sastras and calumniate them - know them to be extremely deluded and devoid of reasoning and knowledge and conseently completely lost. For, the function of the mind is the determination of the real nature of things,
+and in its absence, those mentioned above are devoid of reason, and therefore apostates in knowledge and extremely deluded in all ways. For one united with the Prakrti (body), the sense of agency results from the preponderance of the Gunas of Prakrti. But this agency really rests with the Supreme Person. Contemplating thus, Karma Yoga alone should be practised by both - those who are competent for Karma Yoga only and those who are competent for Jnana Yoga. The implied superiority of Karma Yoga has the following justifications; it is easy to perform, free from
 liability to lapse, and independent of anything else; it comprises the
 knowledge of the self also within its scope. On the other hand Jnana
 Yoga is difficult to practise, is not free from the liability to lapse,
@@ -343,8 +330,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.32. But those who, finding fault, do not follow this doctrine of
-Mine-be sure that these men to be highly deluded in all \[branches of\]
+3.32. But those who, finding fault, do not follow this doctrine of Mine-be sure that these men to be highly deluded in all \[branches of\]
 knowledge and to be lost and brainless.
 
 </details>
@@ -353,9 +339,7 @@ knowledge and to be lost and brainless.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 3.32 But those who, decaying \[Finding fault where there is none.\]
-this, do not follow My teaching, know them-who are deluded about all
-knoweldge \[Knowledge concerning the alified and the un-alified
-Brahman.\] and who are devoid of discrimination-to have gone to ruin.
+this, do not follow My teaching, know them-who are deluded about all knoweldge \[Knowledge concerning the alified and the un-alified Brahman.\] and who are devoid of discrimination-to have gone to ruin.
 
 </details>
 </div>
@@ -370,18 +354,14 @@ devoid of wisdom and blind. They seek but their own destruction.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.32 But those who calumniate it, and those who do not practise this
-teaching of Mine - know them to be absolutely senseless and devoid of
-all knowledge, and therefore lost.
+3.32 But those who calumniate it, and those who do not practise this teaching of Mine - know them to be absolutely senseless and devoid of all knowledge, and therefore lost.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/32_ye_tvetadabhyasUy.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.32 But those who carp at My teaching and do not practise it, deluded
-of all knowledge, and devoid of discrimination, know them to be doomed
-to destruction.
+3.32 But those who carp at My teaching and do not practise it, deluded of all knowledge, and devoid of discrimination, know them to be doomed to destruction.
 
 </details>
 </div>
@@ -389,12 +369,7 @@ to destruction.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.32 ये those who; तु but; एतत् this; अभ्यसूयन्तः carping at; न not;
-अनुतिष्ठन्ति practise; मे My; मतम् teaching; सर्वज्ञानविमूढान् deluded
-of all knowledge; तान् them; विद्धि know; नष्टान् ruined; अचेतसः devoid
-of discrimination.Commentary The pigheaded people who are obstinate; who
-find fault with the teachings of the Lord and who do not practise them
-are certainly doomed to destruction. They are incorrigible and senseless
-persons indeed.
+अनुतिष्ठन्ति practise; मे My; मतम् teaching; सर्वज्ञानविमूढान् deluded of all knowledge; तान् them; विद्धि know; नष्टान् ruined; अचेतसः devoid of discrimination.Commentary The pigheaded people who are obstinate; who find fault with the teachings of the Lord and who do not practise them are certainly doomed to destruction. They are incorrigible and senseless persons indeed.
 
 </details>
 </div>

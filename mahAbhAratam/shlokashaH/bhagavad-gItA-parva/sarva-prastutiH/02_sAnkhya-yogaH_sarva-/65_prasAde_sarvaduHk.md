@@ -32,15 +32,24 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.65।। प्रसादे इति श्लोके प्रसादहानिशब्दयोः क्रमात् षष्ठीद्वयान्वयभ्रमं
+व्युदस्यन्नन्वयप्रकारमाह अस्येति। दुःखाज्ञानमला धर्माः प्रकृतेस्ते न
+चात्मनः वि.पु.6।7।22 इत्याद्यभिप्रेतौपाधिकत्वेन हानियोग्यत्वार्थमाह
+प्रकृतीति। प्रतिबन्धकाभावे ह्याशु कार्योत्पत्तिरित्यभिप्रायेण
+प्रसन्नचेतस इत्यस्यार्थमाह आत्मावलोकनविरोधिदोषरहितमनस इति। मनःप्रसादस्य
+सर्वदुःखहानिहेतुत्वमात्मदर्शनहेतुत्वादुपपद्यत इति
+हेत्वर्थस्यहिशब्दस्यार्थमाह अत इति।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.65 When the mind of this person gets serene, he gets rid of all
-sorrows originating from contact with matter. For, in respect of the
-peson whose mind is serene, i.e., is free from the evil which is
-antagonistic to the vision of the self, the Buddhi, having the pure self
-for its object, becomes established immediately. Thus, when the mind is
-serene, the loss of all sorrow surely arises.
+2.65 When the mind of this person gets serene, he gets rid of all sorrows originating from contact with matter. For, in respect of the peson whose mind is serene, i.e., is free from the evil which is antagonistic to the vision of the self, the Buddhi, having the pure self for its object, becomes established immediately. Thus, when the mind is serene, the loss of all sorrow surely arises.
 
 </details>
 </div>
@@ -337,42 +346,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.65. On attaining serenity, there arises in succession the extinction
-of all miseries; the capacity to decide gets stabilized soon indeed in
-the case of a serene-minded one.
+2.65. On attaining serenity, there arises in succession the extinction of all miseries; the capacity to decide gets stabilized soon indeed in the case of a serene-minded one.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.65 When there is serenity, there follows eradication of all his
-sorrows, because the wisdom of one who has a serene mind soon becomes
-firmly established.
+2.65 When there is serenity, there follows eradication of all his sorrows, because the wisdom of one who has a serene mind soon becomes firmly established.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.65 Having attained Peace, he becomes free from misery; for when the
-mind gains peace, right discrimination follows.
+2.65 Having attained Peace, he becomes free from misery; for when the mind gains peace, right discrimination follows.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.65 In that serenity there is loss of all sorrow; for in the case of
-the person with a serene mind, the Buddhi soon becomes well established.
+2.65 In that serenity there is loss of all sorrow; for in the case of the person with a serene mind, the Buddhi soon becomes well established.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/65_prasAde_sarvaduHk.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.65 In that peace all pains are destroyed; for the intellect of the
-tranil-minded soon becomes steady.
+2.65 In that peace all pains are destroyed; for the intellect of the tranil-minded soon becomes steady.
 
 </details>
 </div>
@@ -380,12 +382,8 @@ tranil-minded soon becomes steady.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.65 प्रसादे in peace; सर्वदुःखानाम् (of) all pains; हानिः destruction;
-अस्य of him; उपजायते arises (or happens); प्रसन्नचेतसः of the
-tranilminded; हि because; आशु soon; बुद्धिः intellect (or reason);
-पर्यवतिष्ठते becomes steady.Commentary When the mental peace is
-attained; there is no hankering after senseobjects. The Yogi has perfect
-mastery over his reason. The intellect abides in the Self. It is ite
-steady. The miseries of the body and the mind come to an end.
+अस्य of him; उपजायते arises (or happens); प्रसन्नचेतसः of the tranilminded; हि because; आशु soon; बुद्धिः intellect (or reason);
+पर्यवतिष्ठते becomes steady.Commentary When the mental peace is attained; there is no hankering after senseobjects. The Yogi has perfect mastery over his reason. The intellect abides in the Self. It is ite steady. The miseries of the body and the mind come to an end.
 
 </details>
 </div>

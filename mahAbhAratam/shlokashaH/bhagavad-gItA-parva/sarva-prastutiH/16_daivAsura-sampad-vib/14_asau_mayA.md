@@ -71,14 +71,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.14 This enemy has been slain by me, powerful as I am. I shall slay
-other enemies also - I who am heoric and valiant. What is the use of the
-conception of destiny, which is only an imagination of weak people of
-little understanding; Similarly: I am 'the lord,' viz., I am
-independent, and I am also the ruler of others. I am the 'enjoyer,'
-viz., I am the enjoyer through my own powers, and not through good
-fortune etc. I am 'successful,' viz., I am successful by myself and not
-through any destiny etc. Likewise, I am strong and happy by myself.
+16.14 This enemy has been slain by me, powerful as I am. I shall slay other enemies also - I who am heoric and valiant. What is the use of the conception of destiny, which is only an imagination of weak people of little understanding; Similarly: I am 'the lord,' viz., I am independent, and I am also the ruler of others. I am the 'enjoyer,'
+viz., I am the enjoyer through my own powers, and not through good fortune etc. I am 'successful,' viz., I am successful by myself and not through any destiny etc. Likewise, I am strong and happy by myself.
 
 </details>
 </div>
@@ -314,60 +308,44 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.14. 'That enemy has been slain by me; and I shall slay others also; I
-am the lord; I am a man of enjoyment; I am successful, mighty and
-happy';
+16.14. 'That enemy has been slain by me; and I shall slay others also; I am the lord; I am a man of enjoyment; I am successful, mighty and happy';
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.14 'That enemy has been killed by me, and I shall kill others as
-well. I am the lord, I am the enjoyer, I am well-established, mighty and
-happy.'
+16.14 'That enemy has been killed by me, and I shall kill others as well. I am the lord, I am the enjoyer, I am well-established, mighty and happy.'
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/14_asau_mayA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.14 I have slain one enemy, I will slay the others also; I am worthy
-to enjoy, I am the Almighty, I am perfect, powerful and happy;
+16.14 I have slain one enemy, I will slay the others also; I am worthy to enjoy, I am the Almighty, I am perfect, powerful and happy;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.14 'This enemy is slain by me; and others also I shall slay. I am the
-Lord, I am the enjoyer, I am successful, I have strength, I have
-happiness.
+16.14 'This enemy is slain by me; and others also I shall slay. I am the Lord, I am the enjoyer, I am successful, I have strength, I have happiness.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/14_asau_mayA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-16.14 "That enemy has been slain by me; and others also I shall slay. I
-am the lord. I enjoy. I am perfect, powerful and happy."
+16.14 "That enemy has been slain by me; and others also I shall slay. I am the lord. I enjoy. I am perfect, powerful and happy."
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/16_daivAsura-sampad-vib/14_asau_mayA.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-16.14 असौ that; मया by me; हतः slain; शत्रुः enemy; हनिष्ये (I) shall
-slay; च and; अपरान् others; अपि also; ईश्वरः Lord; अहम् I; अहम् I; भोगी
+16.14 असौ that; मया by me; हतः slain; शत्रुः enemy; हनिष्ये (I) shall slay; च and; अपरान् others; अपि also; ईश्वरः Lord; अहम् I; अहम् I; भोगी
 the enjoyer; सिद्धः perfect; अहम् I; भोगी the enjoyer; सिद्धः perfect;
-अहम् I; बलवान् powerful; सुखी happy.Commentary I will be the lord of all
-I survey. I will kill everyone who will not serve me. In fact I am the
-lord of all creation. I will be successful in all my undertakings. I
-have got plenty of landed property; cattle and immense wealth. I have
-got plenty of children and grandchildren. Even Indra is not eal to me. I
-am not an ordinary man. I am very powerful; strong; healthy and happy in
-every respect.In this verse there is a description of the vain
-imaginations of the people of demoniacal nature.
+अहम् I; बलवान् powerful; सुखी happy.Commentary I will be the lord of all I survey. I will kill everyone who will not serve me. In fact I am the lord of all creation. I will be successful in all my undertakings. I have got plenty of landed property; cattle and immense wealth. I have got plenty of children and grandchildren. Even Indra is not eal to me. I am not an ordinary man. I am very powerful; strong; healthy and happy in every respect.In this verse there is a description of the vain imaginations of the people of demoniacal nature.
 
 </details>
 </div>

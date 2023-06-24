@@ -316,9 +316,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.35. Likewise, of the modes of singing \[of the hymns\], I am the
-Brhatsaman; of the metres, I am the Gayatri; of the months, I am the
-Margasirsa; of the seasons, I am the season abounding with flowers.
+10.35. Likewise, of the modes of singing \[of the hymns\], I am the Brhatsaman; of the metres, I am the Gayatri; of the months, I am the Margasirsa; of the seasons, I am the season abounding with flowers.
 
 </details>
 </div>
@@ -333,8 +331,7 @@ Gayatri. Of the months I am Marga-sirsa, and of the seasons, spring.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.35 Of hymns I am Brihatsama, of metres I am Garatri, among the months
-I am Margasheersha (December), and I am the Spring among seasons.
+10.35 Of hymns I am Brihatsama, of metres I am Garatri, among the months I am Margasheersha (December), and I am the Spring among seasons.
 
 </details>
 </div>
@@ -342,17 +339,14 @@ I am Margasheersha (December), and I am the Spring among seasons.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 10.35 Of Saman hymns, I am the Brhatsaman. Of meters, I am the Gayatri.
-Of months, I am Margasira (Nov-Dec). And of seasons I am the season of
-flowers.
+Of months, I am Margasira (Nov-Dec). And of seasons I am the season of flowers.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/35_bRhatsAma_tathA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.35 Among the hymns also I am the Brihatsaman; among metres Gayatri am
-I; among the montsh I am the Margasirsha; among the seasons (I am) the
-flowery season.
+10.35 Among the hymns also I am the Brihatsaman; among metres Gayatri am I; among the montsh I am the Margasirsha; among the seasons (I am) the flowery season.
 
 </details>
 </div>
@@ -361,13 +355,7 @@ flowery season.
 
 10.35 बृहत्साम Brihatsaman; तथा also; साम्नाम् among Sama hymns; गायत्री
 Gayatri; छन्दसाम् among metres; अहम् I; मासानाम् among months;
-मार्गशीर्षः Margasirsha; अहम् I; ऋतूनाम् among seasons; कुसुमाकरः the
-flowery season (spring).Commentary Brihatsaman is the chief of the hymns
-of the SamaVeda. Brihat means big.Margasirsha From the middle of
-December to the middle of January. This has a temperate climate. In
-olden days it was usual to start with this month in counting the months
-of the year. The first place was given to this month.Kusumakara The
-beautiful flowery season; the spring.
+मार्गशीर्षः Margasirsha; अहम् I; ऋतूनाम् among seasons; कुसुमाकरः the flowery season (spring).Commentary Brihatsaman is the chief of the hymns of the SamaVeda. Brihat means big.Margasirsha From the middle of December to the middle of January. This has a temperate climate. In olden days it was usual to start with this month in counting the months of the year. The first place was given to this month.Kusumakara The beautiful flowery season; the spring.
 
 </details>
 </div>

@@ -384,45 +384,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.2. The Bhagavat said Both renunciation and the Yoga of action effect
-salvation. But, of these two, the Yoga of action is better than
-renunciation of action.
+5.2. The Bhagavat said Both renunciation and the Yoga of action effect salvation. But, of these two, the Yoga of action is better than renunciation of action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.2 The Blessed Lord said Both renunciation of actions and Karma-yoga
-lead to Liberation. Between the two, Karma-yoga, however, excels over
-renunciation of actions.
+5.2 The Blessed Lord said Both renunciation of actions and Karma-yoga lead to Liberation. Between the two, Karma-yoga, however, excels over renunciation of actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.2 Lord Shri Krishna replied: Renunciation of action and the path of
-right action both lead to the highest; of the two, right action is the
-better.
+5.2 Lord Shri Krishna replied: Renunciation of action and the path of right action both lead to the highest; of the two, right action is the better.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.2 The Lord said Renunciation of actions and Karma Yoga, both lead to
-the highest excellence. But, of the two, Karma Yoga excels the
-renunciation of actions.
+5.2 The Lord said Renunciation of actions and Karma Yoga, both lead to the highest excellence. But, of the two, Karma Yoga excels the renunciation of actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.2 The Blessed Lord said Renunciation and the Yoga of action both lead
-to the highest bliss; but of the two, the Yoga of action is superior to
-the renunciation of action.
+5.2 The Blessed Lord said Renunciation and the Yoga of action both lead to the highest bliss; but of the two, the Yoga of action is superior to the renunciation of action.
 
 </details>
 </div>
@@ -432,14 +422,8 @@ the renunciation of action.
 5.2 संन्यासः renunciation; कर्मयोगः Yoga of action; च and; निःश्रेयसकरौ
 leading to the highest bliss; उभौ both; तयोः of these two; तु but;
 कर्मसंन्यासात् than renunciation of action; कर्मयोगः Yoga of action;
-विशिष्यते is superior.Commentary Sannyasa (renunciation of action) and
-Karma Yoga (performance of action) both lead to Moksha or liberation or
-the highest bliss. Though both lead to Moksha; yet of the two means of
-attaining to Moksha; Karma Yoga is better than mere Karma Sannyasa
-(renunciation of action) without the knowledge of the Self.But
-renunciation of actions with the knowledge of the Self is decidedly
-superior to Karma Yoga.Moreover; Karma Yoga is easy and is therefore
-suitable to all. (Cf.III.3V.5VI.46)
+विशिष्यते is superior.Commentary Sannyasa (renunciation of action) and Karma Yoga (performance of action) both lead to Moksha or liberation or the highest bliss. Though both lead to Moksha; yet of the two means of attaining to Moksha; Karma Yoga is better than mere Karma Sannyasa
+(renunciation of action) without the knowledge of the Self.But renunciation of actions with the knowledge of the Self is decidedly superior to Karma Yoga.Moreover; Karma Yoga is easy and is therefore suitable to all. (Cf.III.3V.5VI.46)
 
 </details>
 </div>

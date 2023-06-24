@@ -79,11 +79,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.22 Of the Vedas, namely, Of Rk, Yajus, Saman, Atharva, I am that
-Samaveda which is the paramount one. Of the gods, I am Indra. Of eleven
-sense-organs, I am the sense-organ called Manas which is most paramount.
-Of living beings, namely, of those with consciousness, I am that
-consciousness. Here too the genitive is not used for specifying.
+10.22 Of the Vedas, namely, Of Rk, Yajus, Saman, Atharva, I am that Samaveda which is the paramount one. Of the gods, I am Indra. Of eleven sense-organs, I am the sense-organ called Manas which is most paramount.
+Of living beings, namely, of those with consciousness, I am that consciousness. Here too the genitive is not used for specifying.
 
 </details>
 </div>
@@ -317,33 +314,28 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 10.22. Of the Vedas, I am the Samaveda; of the gods, I am Vasava
-(Indra); of the sense-organs, I am the mind; of the beings, I am the
-sentience.
+(Indra); of the sense-organs, I am the mind; of the beings, I am the sentience.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.22 Among the Vedas I am Sama-veda; among the gods I am Indra. Among
-the organs I am the mind, and I am the intelligence in creatures.
+10.22 Among the Vedas I am Sama-veda; among the gods I am Indra. Among the organs I am the mind, and I am the intelligence in creatures.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.22 Of the Vedas I am the Hymns, I am the Electric Force in the Powers
-of Nature; of the senses I am the Mind; and I am the Intelligence in all
-that lives.
+10.22 Of the Vedas I am the Hymns, I am the Electric Force in the Powers of Nature; of the senses I am the Mind; and I am the Intelligence in all that lives.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/22_vedAnAM_sAmavedo-.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.22 Of the Vedas I am Samaveda. Of gods, I am Indra. Of sense-organs I
-am the Manas (mind), and of living beings I am consciousness.
+10.22 Of the Vedas I am Samaveda. Of gods, I am Indra. Of sense-organs I am the Manas (mind), and of living beings I am consciousness.
 
 </details>
 </div>
@@ -351,8 +343,7 @@ am the Manas (mind), and of living beings I am consciousness.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 10.22 Among the Vedas I am the Sama-Veda; I am Vasava among the gods;
-among the senses I am the mind; and I am intelligence among living
-beings.
+among the senses I am the mind; and I am intelligence among living beings.
 
 </details>
 </div>
@@ -360,16 +351,9 @@ beings.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 10.22 वेदानाम् among the Vedas; सामवेदः the Sama Veda; अस्मि (I) am;
-देवानाम् among the gods; अस्मि (I) am; वासवः Indra; इन्द्रियाणाम् among
-the senses; मनः mind; च and; अस्मि (I) am; भूतानाम् among living beings;
-अस्मि (I) am; चेतना intelligence.Commentary Vasava is Indra.Gods Such as
-Rudras; Adityas.Indriyas The five JnanaIndriyas or organs of knowledge;
-viz.; ear; skin; eye; tongue and nose and the five KarmaIndriyas or
-organs of action; viz.; speech; hands; feet; genitals and anus. The mind
-is regarded as the eleventh sense. As the senses cannot function without
-the help of the mind; the mind is regarded as the chief among the
-senses.Chetana Intelligence is that state of intellect which is manifest
-in the aggregate of the body and the senses.That which illumines all;
+देवानाम् among the gods; अस्मि (I) am; वासवः Indra; इन्द्रियाणाम् among the senses; मनः mind; च and; अस्मि (I) am; भूतानाम् among living beings;
+अस्मि (I) am; चेतना intelligence.Commentary Vasava is Indra.Gods Such as Rudras; Adityas.Indriyas The five JnanaIndriyas or organs of knowledge;
+viz.; ear; skin; eye; tongue and nose and the five KarmaIndriyas or organs of action; viz.; speech; hands; feet; genitals and anus. The mind is regarded as the eleventh sense. As the senses cannot function without the help of the mind; the mind is regarded as the chief among the senses.Chetana Intelligence is that state of intellect which is manifest in the aggregate of the body and the senses.That which illumines all;
 from the intellect down to the grossest object; is called Chetana.
 
 </details>

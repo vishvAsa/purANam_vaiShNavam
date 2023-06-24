@@ -61,13 +61,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.30 Devouring all these kings with Your flaming mouths, You lick them
-up, namely, lick up again and again in great anger. Your lips etc., are
-wet with their blood. Your fiery rays scorch the universe by the
-brilliant flow of radiance filling the whole universe. You have
-manifested Yourself in this terrible form for revealing Your limitless
-sovereignty as reested by me thus: 'Reveal Yourself to me
-completely'(11.4), so that I may realise Your limitless sovereignty.
+11.30 Devouring all these kings with Your flaming mouths, You lick them up, namely, lick up again and again in great anger. Your lips etc., are wet with their blood. Your fiery rays scorch the universe by the brilliant flow of radiance filling the whole universe. You have manifested Yourself in this terrible form for revealing Your limitless sovereignty as reested by me thus: 'Reveal Yourself to me completely'(11.4), so that I may realise Your limitless sovereignty.
 
 </details>
 </div>
@@ -313,27 +307,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.30. Devouring, on all sides with Your blazing mouths, the entire
-worlds, You are licking up; Your terrible rays scroch the entire
-universe filling it with their radiance, O Visnu !
+11.30. Devouring, on all sides with Your blazing mouths, the entire worlds, You are licking up; Your terrible rays scroch the entire universe filling it with their radiance, O Visnu !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.30 You lick Your lips while devouring all the creatures from every
-side with flaming mouths which are completely filling the entire world
-with heat.
+11.30 You lick Your lips while devouring all the creatures from every side with flaming mouths which are completely filling the entire world with heat.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.30 Thou seemest to swallow up the worlds, to lap them in flame. Thy
-glory fills the universe. Thy fierce rays beat down upon it
-irresistibly.
+11.30 Thou seemest to swallow up the worlds, to lap them in flame. Thy glory fills the universe. Thy fierce rays beat down upon it irresistibly.
 
 </details>
 </div>
@@ -341,16 +329,14 @@ irresistibly.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 11.30 Devouring all the worlds on every side with your flaming mouths,
-You lick them up. Your fiery rays, filling the whole universe with their
-radiance, scorch it, O Visnu.
+You lick them up. Your fiery rays, filling the whole universe with their radiance, scorch it, O Visnu.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.30 Thou lickest up, devouring all the worlds on every side with Thy
-flaming mouths. Thy fierce rays, filling the whole world with radiance,
+11.30 Thou lickest up, devouring all the worlds on every side with Thy flaming mouths. Thy fierce rays, filling the whole world with radiance,
 are burning, O Vishnu!
 
 </details>
@@ -358,8 +344,7 @@ are burning, O Vishnu!
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/30_lelihyase_grasamA.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-11.30 लेलिह्यसे (Thou) lickest; ग्रसमानः devouring; समन्तात् on every
-side; लोकान् the worlds; समग्रान् all; वदनैः with mouths; ज्वलद्भिः
+11.30 लेलिह्यसे (Thou) lickest; ग्रसमानः devouring; समन्तात् on every side; लोकान् the worlds; समग्रान् all; वदनैः with mouths; ज्वलद्भिः
 flaming; तेजोभिः with radiance; आपूर्य filling; जगत् the world; समग्रम्
 the whole; भासः rays; तव Thy; उग्राः fierce; प्रतपन्ति are burning;
 विष्णो O VishnuCommentary Vishnu means allpervading; Vyapanasila.

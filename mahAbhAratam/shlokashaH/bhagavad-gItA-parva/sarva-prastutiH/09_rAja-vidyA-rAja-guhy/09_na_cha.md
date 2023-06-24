@@ -422,32 +422,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.9. O Dhananjaya ! These acts do not bind Me, remaining as if
-unconcerned and unattached in these actions.
+9.9. O Dhananjaya ! These acts do not bind Me, remaining as if unconcerned and unattached in these actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.9 O Dhananjaya (Arjuna), nor do those actions bind Me, remaining (as I
-do) like one unconcerned with, and unattached to, those actions.
+9.9 O Dhananjaya (Arjuna), nor do those actions bind Me, remaining (as I do) like one unconcerned with, and unattached to, those actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.9 But these acts of mine do not bind Me. I remain outside and
-unattached.
+9.9 But these acts of mine do not bind Me. I remain outside and unattached.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/09_na_cha.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.9 But these actions do not bind Me, O Arjuna, for I remain detached
-from them like one unconcerned.
+9.9 But these actions do not bind Me, O Arjuna, for I remain detached from them like one unconcerned.
 
 </details>
 </div>
@@ -464,24 +460,9 @@ unattached to those acts.
 
 9.9 न not; च and; माम् Me; तानि these; कर्माणि acts; निबध्नन्ति bind;
 धनञ्जय O Dhananjaya; उदासीनवत् like one indifferent; आसीनम् sitting;
-असक्तम् unattached; तेषु in those; कर्मसु acts.Commentary These acts
-Creation and dissolution of the universe. I am the only cause of
-dissolution of the universe. I am the only cause of Nature and its
-activities and yet; being indifferent to everythin; I do nothing. Nor do
-I cause anything to be done.I remain as one neutral or indifferent or
-unconcerned. I have no attachment for the fruits of those actions.
-Further I have not go the egoistic feeling of agency I do this. I know
-that the Self is actionless. Therefore the actions involved in creation
-and dissolution do not bind Me.As in the case of Isvara so in the case
-of others also the absence of the egoistic feeling of agency and the
-absense of attachment to the fruits of action is the cause of freedom
-(from Dharma and Adharma; virtue and evil) The ignorant man who works
-with egoism and who expects rewards for his action is bound by his own
-actions like the silkworm in the cocoon.Just as the neutral referee or
-umpire in a cricket or football match is not affected by the victory or
-defeat of the parties; so also the Lord is not affected by the creation
-and destruction of this world as He remains unconcerned or indifferent
-and as He is a silent and changeless witness. (Cf.IV.14)
+असक्तम् unattached; तेषु in those; कर्मसु acts.Commentary These acts Creation and dissolution of the universe. I am the only cause of dissolution of the universe. I am the only cause of Nature and its activities and yet; being indifferent to everythin; I do nothing. Nor do I cause anything to be done.I remain as one neutral or indifferent or unconcerned. I have no attachment for the fruits of those actions.
+Further I have not go the egoistic feeling of agency I do this. I know that the Self is actionless. Therefore the actions involved in creation and dissolution do not bind Me.As in the case of Isvara so in the case of others also the absence of the egoistic feeling of agency and the absense of attachment to the fruits of action is the cause of freedom
+(from Dharma and Adharma; virtue and evil) The ignorant man who works with egoism and who expects rewards for his action is bound by his own actions like the silkworm in the cocoon.Just as the neutral referee or umpire in a cricket or football match is not affected by the victory or defeat of the parties; so also the Lord is not affected by the creation and destruction of this world as He remains unconcerned or indifferent and as He is a silent and changeless witness. (Cf.IV.14)
 
 </details>
 </div>

@@ -61,12 +61,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.14 The worship of the gods, the twice-born, preceptors and
-enlightened ones; purity, viz., by ablutions in sacred water;
+17.14 The worship of the gods, the twice-born, preceptors and enlightened ones; purity, viz., by ablutions in sacred water;
 uprightness, viz., bodily action in accordance with the mind;
-continence, viz., absence of looking at women etc., considering them as
-objcts of pleasure; non-injury, viz., not hurting any being - these
-constitute the austerity of the body.
+continence, viz., absence of looking at women etc., considering them as objcts of pleasure; non-injury, viz., not hurting any being - these constitute the austerity of the body.
 
 </details>
 </div>
@@ -470,9 +467,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.14. The worship to the gods, to the twice-born, to the elders and to
-the wise; the purity, the honesty, the state of continence, and the
-harmlessness-all this is said to be bodily austerity.
+17.14. The worship to the gods, to the twice-born, to the elders and to the wise; the purity, the honesty, the state of continence, and the harmlessness-all this is said to be bodily austerity.
 
 </details>
 </div>
@@ -480,26 +475,21 @@ harmlessness-all this is said to be bodily austerity.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 17.14 The worship of gods, twice-borns, venerable persons and the wise;
-purity, straightforwardness, celibacy and non-injury,-are said to be
-bodily austerity.
+purity, straightforwardness, celibacy and non-injury,-are said to be bodily austerity.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.14 Worship of God and the Master; respect for the preacher and the
-philosopher; purity, rectitude, continence and harmlessness - all this
-is physical austerity.
+17.14 Worship of God and the Master; respect for the preacher and the philosopher; purity, rectitude, continence and harmlessness - all this is physical austerity.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.14 Worship of the gods, the twice-born, the preceptors, the
-enlightened ones, purity, uprightness, continence and non-injury, these
-are called austerity of the body.
+17.14 Worship of the gods, the twice-born, the preceptors, the enlightened ones, purity, uprightness, continence and non-injury, these are called austerity of the body.
 
 </details>
 </div>
@@ -507,79 +497,21 @@ are called austerity of the body.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 17.14 Worship of the gods, the twice-born, the teachers and the wise,
-purity, straightforwardness, celibacy and non-injury are called the
-austerities of the body.
+purity, straightforwardness, celibacy and non-injury are called the austerities of the body.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/17_shraddhA-traya-vibhA/14_devadvijaguruprAj.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-17.14 देवद्विजगुरुप्राज्ञपूजनम् worship of the gods; the twicorn; the
-teachers and the wise; शौचम् purity; आर्जवम् straightforwardness;
+17.14 देवद्विजगुरुप्राज्ञपूजनम् worship of the gods; the twicorn; the teachers and the wise; शौचम् purity; आर्जवम् straightforwardness;
 ब्रह्मचर्यम् celibacy; अहिंसा noninjury; च and; शारीरम् of the body; तपः
-austerity; उच्यते is called.Commentary Tapas Austerity or
-selfdiscipline.Using the feet in pilgrimage to the sacred temples using
-the hands in cleaning the temples; in collecting the materials of
-worship of God; and in performing worship prostrations to the Brahmanas;
-preceptors and the wise continence and noninjury; constitute physical
-austerity. The body is used in the service of the parents and
-preceptors; the poor and the sick. This is also bodily austerity. That
-austerity which is done by the body is physical austerity. The physical
-body is the chief agent in doing such austerity. Hence this is called
-physical austerity. The practice of nonstealing and noncovetousness are
-also included in physical austerity.He who has realised I am Brahman is
-a wise man (Prajna). A Sudra also may be a wise man. Though Vidura was a
-Sudra he was a sage. That is the reason why the Lord has made a separate
-mention of the wise.Brahmacharya means control but not suppression of
-the sexdesire or sexforce. If the mind is filled with sublime thoughts
-by meditation; Japa (repetition of a Mantra); prayer; study of holy
-scriptures; eniry of Who am I; and contemplation of the sexless; pure
-Self; the sexdesire will be devitalised by the withdrawal of the mind.
-The mind also will be thinned out. Suppressed sexdesire will attack you
-again and again and will produce wetdreams; irritability and
-restlessness of the mind. The mind should be rendered pure by
-meditation; Japa; singing of the Lords names; and prayer. The mind
-should be controlled first. Then it will be easy for you to control the
-senses. That is the reason why the practice of Sama or the control of
-the mind comes first and then comes Dama or the restraint of the senses
-(in the order of the sixfold virtues. The senses cannot operate without
-the help of the mind. So the effective remedy for lust and the best aid
-to celibacy is to control the mind first and then the senses.Intense
-musing on the objects of the senses does more harm to the inner
-spiritual life than actual sensegratification. If the mind is not
-rendered pure by Sadhana; mere mortification of the external senses will
-not produce the desired effect. Although the external senses are
-mortified; their internal counterparts which are still energetic and
-vigorous; revenge upon the mind; and produce intense mental disturbance
-and wild imagination.To control the mind is diffcult for neophytes or
-the beginners. It will be extremely difficult to control the mind first
-when the senses are allowed to run riot. That is the reason why Lord
-Krishna says Therefore; O Arjuna; mastering first the senses; do thou
-slay this thing of sin (desire); destructive of wisdom and knowledge.
-(Cf.III.41)The theory or doctrine that the mind should be controlled
-first is ite correct. This practice is intended for the firstclass type
-of spiritual aspirants. The middling type of students should control the
-senses first. The senses always have an outgoing tendency. The mind
-operates through the senses. Control of the one goes hand in hand with
-control of the other. Control of the senses is also control of the mind;
-because the mind is a bundle of senses only there is no mind without the
-senses.Just as an enemy can be easily conered if you have a twopronged
-attack; so also the mind can be controlled easily if you attack it on
-two fronts simultaneously -- an external attack on the senses and an
-internal attack on the mind itself by the eradication of the desires.To
-say; Control the mind first; you can control the senses (which is one
-point of view) or Control the senses first; you can control the mind
-easily (which is another point of view) is simply arguing in a vicious
-circle like Which came first -- the tree or the seed or You will get the
-knowledge of the Self if you control all desires -- and you can control
-all the desires only if you have knowledge of the Self.You need not
-worry yourself over this seeming paradox. Try to do either of the
-practices; viz.; control of the mind or control of the senses; according
-to your liking; capacity; taste and temperament. You can yourself find
-out by actual practice which is better. As you advance in your practice
-your doubtwill gradually disapperar and you will enjoy supreme peace and
-joy.
+austerity; उच्यते is called.Commentary Tapas Austerity or selfdiscipline.Using the feet in pilgrimage to the sacred temples using the hands in cleaning the temples; in collecting the materials of worship of God; and in performing worship prostrations to the Brahmanas;
+preceptors and the wise continence and noninjury; constitute physical austerity. The body is used in the service of the parents and preceptors; the poor and the sick. This is also bodily austerity. That austerity which is done by the body is physical austerity. The physical body is the chief agent in doing such austerity. Hence this is called physical austerity. The practice of nonstealing and noncovetousness are also included in physical austerity.He who has realised I am Brahman is a wise man (Prajna). A Sudra also may be a wise man. Though Vidura was a Sudra he was a sage. That is the reason why the Lord has made a separate mention of the wise.Brahmacharya means control but not suppression of the sexdesire or sexforce. If the mind is filled with sublime thoughts by meditation; Japa (repetition of a Mantra); prayer; study of holy scriptures; eniry of Who am I; and contemplation of the sexless; pure Self; the sexdesire will be devitalised by the withdrawal of the mind.
+The mind also will be thinned out. Suppressed sexdesire will attack you again and again and will produce wetdreams; irritability and restlessness of the mind. The mind should be rendered pure by meditation; Japa; singing of the Lords names; and prayer. The mind should be controlled first. Then it will be easy for you to control the senses. That is the reason why the practice of Sama or the control of the mind comes first and then comes Dama or the restraint of the senses
+(in the order of the sixfold virtues. The senses cannot operate without the help of the mind. So the effective remedy for lust and the best aid to celibacy is to control the mind first and then the senses.Intense musing on the objects of the senses does more harm to the inner spiritual life than actual sensegratification. If the mind is not rendered pure by Sadhana; mere mortification of the external senses will not produce the desired effect. Although the external senses are mortified; their internal counterparts which are still energetic and vigorous; revenge upon the mind; and produce intense mental disturbance and wild imagination.To control the mind is diffcult for neophytes or the beginners. It will be extremely difficult to control the mind first when the senses are allowed to run riot. That is the reason why Lord Krishna says Therefore; O Arjuna; mastering first the senses; do thou slay this thing of sin (desire); destructive of wisdom and knowledge.
+(Cf.III.41)The theory or doctrine that the mind should be controlled first is ite correct. This practice is intended for the firstclass type of spiritual aspirants. The middling type of students should control the senses first. The senses always have an outgoing tendency. The mind operates through the senses. Control of the one goes hand in hand with control of the other. Control of the senses is also control of the mind;
+because the mind is a bundle of senses only there is no mind without the senses.Just as an enemy can be easily conered if you have a twopronged attack; so also the mind can be controlled easily if you attack it on two fronts simultaneously -- an external attack on the senses and an internal attack on the mind itself by the eradication of the desires.To say; Control the mind first; you can control the senses (which is one point of view) or Control the senses first; you can control the mind easily (which is another point of view) is simply arguing in a vicious circle like Which came first -- the tree or the seed or You will get the knowledge of the Self if you control all desires -- and you can control all the desires only if you have knowledge of the Self.You need not worry yourself over this seeming paradox. Try to do either of the practices; viz.; control of the mind or control of the senses; according to your liking; capacity; taste and temperament. You can yourself find out by actual practice which is better. As you advance in your practice your doubtwill gradually disapperar and you will enjoy supreme peace and joy.
 
 </details>
 </div>

@@ -52,12 +52,8 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 12.2 The Lord said I consider them to be the highest among the Yogins
-(i.e., among those striving for realisation) - them who worship Me
-focusing their minds upon Me as one exceedingly dear to them, who are
-endowed with supreme faith, and who are ever 'integrated' with Me,
-namely ever desirous of constant union with Me. Those who thus worship
-Me, focusing their minds on Me as their supreme goal, attain Me soon and
-easily. Such is the meaning.
+(i.e., among those striving for realisation) - them who worship Me focusing their minds upon Me as one exceedingly dear to them, who are endowed with supreme faith, and who are ever 'integrated' with Me,
+namely ever desirous of constant union with Me. Those who thus worship Me, focusing their minds on Me as their supreme goal, attain Me soon and easily. Such is the meaning.
 
 </details>
 </div>
@@ -362,19 +358,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.2. The Bhagavat said Those, who, causing their mind to enter well
-into Me, and being permanently attached \[to Me\], and endowed with an
-extraordinary faith, worship Me - they are considered by Me to be the
-best among the masters of Yoga.
+12.2. The Bhagavat said Those, who, causing their mind to enter well into Me, and being permanently attached \[to Me\], and endowed with an extraordinary faith, worship Me - they are considered by Me to be the best among the masters of Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.2 The Blessed Lord said Those who meditate on Me by fixing their
-minds on Me with steadfast devotion (and) being endowed with supreme
-faith-they are considered to be the most perfect yogis according to Me.
+12.2 The Blessed Lord said Those who meditate on Me by fixing their minds on Me with steadfast devotion (and) being endowed with supreme faith-they are considered to be the most perfect yogis according to Me.
 
 </details>
 </div>
@@ -382,26 +373,21 @@ faith-they are considered to be the most perfect yogis according to Me.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 12.2 Lord Shri Krishna replied: Those who keep their minds fixed on Me,
-who worship Me always with unwavering faith and concentration; these are
-the very best.
+who worship Me always with unwavering faith and concentration; these are the very best.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.2 The Lord said Those who, ever integrated with Me and possessed of
-supreme faith, worship Me, focusing their minds on Me - these are
-considered by Me the highest among the Yogins.
+12.2 The Lord said Those who, ever integrated with Me and possessed of supreme faith, worship Me, focusing their minds on Me - these are considered by Me the highest among the Yogins.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.2 The Blessed Lord said Those who, fixing their mind on Me, worship
-Me, ever steadfast and endowed with supreme faith, are the best in Yoga
-in My opinion.
+12.2 The Blessed Lord said Those who, fixing their mind on Me, worship Me, ever steadfast and endowed with supreme faith, are the best in Yoga in My opinion.
 
 </details>
 </div>
@@ -410,18 +396,7 @@ in My opinion.
 
 12.2 मयि on Me; आवेश्य fixing; मनः the mind; ये who; माम् Me;
 नित्ययुक्ताः ever steadfast; उपासते worship; श्रद्धया with faith; परया
-supreme; उपेताः endowed; ते those; मे of Me; युक्ततमाः the best versed
-in Yoga; मताः (in My) opinion.Commentary Those devotees who fix their
-minds on Me in the Cosmi Form; the Supreme Lord and worship Me; ever
-harmonised and with intense and supreme faith; regarding Me as the Lord
-of all the masters of Yoga; who are free from attachment and other evil
-passions -- these; in My opinion; are the best versed in Yoga.They spend
-their days and nights in worshipping Me. They have no other thoughts
-except those,of Myself. They live for Me only. Therefore it is indeed
-proper to say that they are the best Yogins.Are not the others; those
-who contemplate the imperishable; formless; attributeless; alityless
-Supreme Brahman; the best of Yogins Listen now to what I have to say
-regarding them.
+supreme; उपेताः endowed; ते those; मे of Me; युक्ततमाः the best versed in Yoga; मताः (in My) opinion.Commentary Those devotees who fix their minds on Me in the Cosmi Form; the Supreme Lord and worship Me; ever harmonised and with intense and supreme faith; regarding Me as the Lord of all the masters of Yoga; who are free from attachment and other evil passions -- these; in My opinion; are the best versed in Yoga.They spend their days and nights in worshipping Me. They have no other thoughts except those,of Myself. They live for Me only. Therefore it is indeed proper to say that they are the best Yogins.Are not the others; those who contemplate the imperishable; formless; attributeless; alityless Supreme Brahman; the best of Yogins Listen now to what I have to say regarding them.
 
 </details>
 </div>

@@ -103,8 +103,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.1 Arjuna said Both Sannyasa and Tyaga as a means for release are
-enjoined in such Srutis: 'Not by rituals, nor by progeny, nor by
+18.1 Arjuna said Both Sannyasa and Tyaga as a means for release are enjoined in such Srutis: 'Not by rituals, nor by progeny, nor by
 rituals, nor by progeny, nor by wealth but by Tyaga alone do some attain
 immortality ৷৷.' (Ma. Na., 5.14). Ascertaining the truth about the
 Supreme Reality from a knowledge of Vedanta, and becoming purified in
@@ -482,9 +481,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.1. Arjuna said O Mighty-armed ! I desire to know severally the
-distinctive nature of renunciation and of relinishment, O Hrsikesa ! O
-Slayer of Kesin !
+18.1. Arjuna said O Mighty-armed ! I desire to know severally the distinctive nature of renunciation and of relinishment, O Hrsikesa ! O Slayer of Kesin !
 
 </details>
 </div>
@@ -499,8 +496,7 @@ I want to know serverally the truth about sannyasa as also about tyaga.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.1 "Arjuna asked: O mighty One! I desire to know how relinquishment is
-distinguished from renunciation.
+18.1 "Arjuna asked: O mighty One! I desire to know how relinquishment is distinguished from renunciation.
 
 </details>
 </div>
@@ -515,27 +511,15 @@ distinguished from renunciation.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.1 Arjuna said I desire to know severally, O mighty-armed, the essence
-or truth of renunciation, O Hrishikesa, as also of abandonment, O slayer
-of Kesi.
+18.1 Arjuna said I desire to know severally, O mighty-armed, the essence or truth of renunciation, O Hrishikesa, as also of abandonment, O slayer of Kesi.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/01_sannyAsasya_mahAb.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.1 संन्यासस्य of renunciation; महाबाहो O mightyarmed; तत्त्वम् the
-essence of truth; इच्छामि (I) wish; वेदितुम् to know; त्यागस्य of Tyaga
-or abandonment; च and; हृषीकेशः O Krishna; पृथक् severally; केशिनिषूदन्
-slayer of Kesi.Commentary The teaching of the whole of the GitaSastra is
-summed up beautifully in this discourse. This last discourse is a brief
-masterly summary of all that is told in the previous chapters. Arjuna
-wishes to know the distinction between Sannyasa and Tyaga.Kesi was an
-Asura whom Lord Krishna slew. So Lord Krishna is addressed as
-Kesinishudana by Arjuna.The words Sannyasa and Tyaga have been used here
-and there in the preceding discourses but their connotations are not
-lucidly distinguished. Therefore Lord Krishna clearly explains to Arjuna
-the right significance of the two terms in the following verse.
+18.1 संन्यासस्य of renunciation; महाबाहो O mightyarmed; तत्त्वम् the essence of truth; इच्छामि (I) wish; वेदितुम् to know; त्यागस्य of Tyaga or abandonment; च and; हृषीकेशः O Krishna; पृथक् severally; केशिनिषूदन्
+slayer of Kesi.Commentary The teaching of the whole of the GitaSastra is summed up beautifully in this discourse. This last discourse is a brief masterly summary of all that is told in the previous chapters. Arjuna wishes to know the distinction between Sannyasa and Tyaga.Kesi was an Asura whom Lord Krishna slew. So Lord Krishna is addressed as Kesinishudana by Arjuna.The words Sannyasa and Tyaga have been used here and there in the preceding discourses but their connotations are not lucidly distinguished. Therefore Lord Krishna clearly explains to Arjuna the right significance of the two terms in the following verse.
 
 </details>
 </div>

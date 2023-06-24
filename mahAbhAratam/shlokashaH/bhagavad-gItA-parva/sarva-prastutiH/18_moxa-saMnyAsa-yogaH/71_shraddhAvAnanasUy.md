@@ -57,11 +57,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/71_shraddhAvAnanasUy.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.71 A man who, with faith and without cavilling, hears the Gita when
-faught by a alified teacher, he too is, by such hearing, released from
-all evil incompatible with devotional life. He shall reach the Lokas,
-i.e., the realms of the hosts of My devotees who have done virtuous
-acts, and who will facilitate the growth of devotion in these new
+18.71 A man who, with faith and without cavilling, hears the Gita when faught by a alified teacher, he too is, by such hearing, released from all evil incompatible with devotional life. He shall reach the Lokas,
+i.e., the realms of the hosts of My devotees who have done virtuous acts, and who will facilitate the growth of devotion in these new
 arrivals and lead them ultimately to liberation.
 
 </details>
@@ -364,18 +361,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/71_shraddhAvAnanasUy.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.71. A man who would at least hear to \[this\] with faith and without
-indignation-he too, freed \[from sins\], will attain the auspicious
-worlds of men of meritorius acts.
+18.71. A man who would at least hear to \[this\] with faith and without indignation-he too, freed \[from sins\], will attain the auspicious worlds of men of meritorius acts.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/71_shraddhAvAnanasUy.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.71 Any man who, being reverential and free from cavilling, might even
-hear (this), he too, becoming free, shall attain the blessed worlds of
-those who perform virtuous deeds.
+18.71 Any man who, being reverential and free from cavilling, might even hear (this), he too, becoming free, shall attain the blessed worlds of those who perform virtuous deeds.
 
 </details>
 </div>
@@ -383,17 +376,14 @@ those who perform virtuous deeds.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 18.71 Yea, he who listens to it with faith and without doubt, even he,
-freed from evil, shalt rise to the worlds which the virtuous attain
-through righteous deeds.
+freed from evil, shalt rise to the worlds which the virtuous attain through righteous deeds.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/71_shraddhAvAnanasUy.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.71 And the man who listens to it with faith and without cavilling, he
-too shall be released, and shall reach the auspicious realms of those
-who have performed virtuous deeds.
+18.71 And the man who listens to it with faith and without cavilling, he too shall be released, and shall reach the auspicious realms of those who have performed virtuous deeds.
 
 </details>
 </div>
@@ -401,8 +391,7 @@ who have performed virtuous deeds.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 18.71 Also the man who hears this, full of faith and free from malice,
-he, too, liberated, shall attain to the happy worlds of those of
-righteous deeds.
+he, too, liberated, shall attain to the happy worlds of those of righteous deeds.
 
 </details>
 </div>
@@ -412,11 +401,7 @@ righteous deeds.
 18.71 श्रद्धावान् full of faith; अनसूयः free from malice; च and;
 श्रृणुयात् may hear; अपि also; यः who; नरः man; सः he; अपि also; मुक्तः
 liberated; शुभान् happy; लोकान् worlds; प्राप्नुयात् shall attain;
-पुण्यकर्मणाम् of those of righteous deeds.Commentary Liberated from
-sin.Punyakarmanam Of those who have done Agnihotra and such other
-sacrifices.He too Much more so who understands the teachings of the
-Gita; lives in its spirit and who practises the most valuable spiritual
-instructions contained in it.
+पुण्यकर्मणाम् of those of righteous deeds.Commentary Liberated from sin.Punyakarmanam Of those who have done Agnihotra and such other sacrifices.He too Much more so who understands the teachings of the Gita; lives in its spirit and who practises the most valuable spiritual instructions contained in it.
 
 </details>
 </div>

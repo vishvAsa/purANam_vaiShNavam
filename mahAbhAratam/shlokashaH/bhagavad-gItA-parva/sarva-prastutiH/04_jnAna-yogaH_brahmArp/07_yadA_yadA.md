@@ -66,12 +66,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.7 There is no restriction as to the time of My birth; whenever the
-Dharma taught by the Vedas that must be observed according to the
-arrangements of the four stations and the four stages of life declines,
-and Adharma, its opposite, increases, then I Myself, by My own will and
-in the manner stated, incarnate Myself. Sri Krsna gives the purpose of
-His birth.
+4.7 There is no restriction as to the time of My birth; whenever the Dharma taught by the Vedas that must be observed according to the arrangements of the four stations and the four stages of life declines,
+and Adharma, its opposite, increases, then I Myself, by My own will and in the manner stated, incarnate Myself. Sri Krsna gives the purpose of His birth.
 
 </details>
 </div>
@@ -315,8 +311,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.7. For, whenever there is a decay of righteousness and the rise of
-unrighteousness, then, O descendant of Bharata, I send forth (or create)
+4.7. For, whenever there is a decay of righteousness and the rise of unrighteousness, then, O descendant of Bharata, I send forth (or create)
 that is which the Self is unimportant.
 
 </details>
@@ -324,32 +319,28 @@ that is which the Self is unimportant.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.7 O scion of the Bharata dynasty, whenever there is a decline one
-virtue and increase of vice, then do I manifest Myself.
+4.7 O scion of the Bharata dynasty, whenever there is a decline one virtue and increase of vice, then do I manifest Myself.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.7 Whenever spirituality decays and materialism is rampant, then, O
-Arjuna, I reincarnate Myself!
+4.7 Whenever spirituality decays and materialism is rampant, then, O Arjuna, I reincarnate Myself!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.7 Whenever there is a decline of Dharma, O Arjuna, and uprising of
-Adharma, then I incarnate Myself.
+4.7 Whenever there is a decline of Dharma, O Arjuna, and uprising of Adharma, then I incarnate Myself.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/07_yadA_yadA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.7 Whenever there is decline of righteousness, O Arjuna, and rise of
-unrighteousness, then I manifest Myself.
+4.7 Whenever there is decline of righteousness, O Arjuna, and rise of unrighteousness, then I manifest Myself.
 
 </details>
 </div>
@@ -357,15 +348,8 @@ unrighteousness, then I manifest Myself.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 4.7 यदा यदा whenever; हि surely; धर्मस्य of righteousness; ग्लानिः
-decline; भवति is; भारत O Bharata; अभ्युत्थानम् rise; अधर्मस्य of
-unrighteousness; तदा then; आत्मानम् Myself; सृजामि manifest; अहम्
-I.Commentary Dharma is that which sustains and holds together. There is
-no proper eivalen for this term in the English language. That which
-helps a man to attain to Moksha or salvation is Dharma. That which makes
-a man irreligious or unrighteous is Adharma. That which elevates a man
-and helps him reach the goal of life and attain knowledge is Dharma that
-which drags him and hurls him down in the abyss of worldliness and
-ignorance is Adharma.
+decline; भवति is; भारत O Bharata; अभ्युत्थानम् rise; अधर्मस्य of unrighteousness; तदा then; आत्मानम् Myself; सृजामि manifest; अहम्
+I.Commentary Dharma is that which sustains and holds together. There is no proper eivalen for this term in the English language. That which helps a man to attain to Moksha or salvation is Dharma. That which makes a man irreligious or unrighteous is Adharma. That which elevates a man and helps him reach the goal of life and attain knowledge is Dharma that which drags him and hurls him down in the abyss of worldliness and ignorance is Adharma.
 
 </details>
 </div>

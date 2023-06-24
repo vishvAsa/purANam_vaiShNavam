@@ -69,15 +69,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.7 All the mobile and immobile entities enter into My Prakrti at the
-end of a cycle, namely at the end of Brahma's life in accordance with My
-will. This Prakrti, constituting My body, is designated by the term
-Tamas, as it cannot be differentiated into name and form. I again send
-forth the very same beings at the beginning of a cycle. Manu declares
-accordingly: 'This universe became Tamas ৷৷. by an act of will. He
-produced it out of His body' (Manu, 1.5.8). The Srutis also declare
-thus: 'He whose body is Avyakta' (Su. U., 7); 'The Avyakta merges into
-Aksara, the Aksara into Tamas' (Ibid., 2); and also 'There was Tamas;
+9.7 All the mobile and immobile entities enter into My Prakrti at the end of a cycle, namely at the end of Brahma's life in accordance with My will. This Prakrti, constituting My body, is designated by the term Tamas, as it cannot be differentiated into name and form. I again send forth the very same beings at the beginning of a cycle. Manu declares accordingly: 'This universe became Tamas ৷৷. by an act of will. He produced it out of His body' (Manu, 1.5.8). The Srutis also declare thus: 'He whose body is Avyakta' (Su. U., 7); 'The Avyakta merges into Aksara, the Aksara into Tamas' (Ibid., 2); and also 'There was Tamas;
 the intelligence was concealed by Tamas' (Tai. Br., 1.8.9).
 
 </details>
@@ -334,42 +326,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.7. O son of Kunti, all beings pass into the nature \[of Mine\] at the
-end of the Kalpa (the age of universe); I send them forth again at the
-beginning of the \[next\] Kalpa.
+9.7. O son of Kunti, all beings pass into the nature \[of Mine\] at the end of the Kalpa (the age of universe); I send them forth again at the beginning of the \[next\] Kalpa.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.7 O son Kunti, all the beings go back at the end of a cycle to My
-Prakrti. I project them forth again at the beginning of a cycle.
+9.7 O son Kunti, all the beings go back at the end of a cycle to My Prakrti. I project them forth again at the beginning of a cycle.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.7 All beings, O Arjuna, return at the close of every cosmic cycle into
-the realm of Nature, which is a part of Me, and at the beginning of the
-next I send them forth again.
+9.7 All beings, O Arjuna, return at the close of every cosmic cycle into the realm of Nature, which is a part of Me, and at the beginning of the next I send them forth again.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.7 All beings, O Arjuna, enter into My Prakrti at the end of a cycle of
-time. Again I send these forth at the beginning of a cycle of time.
+9.7 All beings, O Arjuna, enter into My Prakrti at the end of a cycle of time. Again I send these forth at the beginning of a cycle of time.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/07_sarvabhUtAni_kaun.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.7 All beings, O Arjuna, go into My Nature at the end of a Kalpa; I
-send them forth again at the beginning of (the next) Kalpa.
+9.7 All beings, O Arjuna, go into My Nature at the end of a Kalpa; I send them forth again at the beginning of (the next) Kalpa.
 
 </details>
 </div>
@@ -379,14 +364,7 @@ send them forth again at the beginning of (the next) Kalpa.
 9.7 सर्वभूतानि all beings; कौन्तेय O Kaunteya; प्रकृतिम् to Nature;
 यान्ति go; मामिकाम् My; कल्पक्षये at the end of the Kalpa; पुनः again;
 तानि them; कल्पादौ at the beginning of the Kalpa; विसृजामि send forth;
-अहम् I.Commentary Prakriti The inferior one or the lower Nature composed
-of the three alities; Sattva; Rajas and Tamas.Just as the grass grows
-from the earth and dries up in the earth; just as the ripples and waves
-rise from the ocean and disappear in the ocean itself; just as the
-dreams proceed from the mind and melt away in the mind itself when the
-dreamer comes back to the waking state; so also the beings which arise
-from Nature merge into it during dissolution or Pralaya.Pralaya is the
-period of dissolution. MahaUtpatti is the time of creation.
+अहम् I.Commentary Prakriti The inferior one or the lower Nature composed of the three alities; Sattva; Rajas and Tamas.Just as the grass grows from the earth and dries up in the earth; just as the ripples and waves rise from the ocean and disappear in the ocean itself; just as the dreams proceed from the mind and melt away in the mind itself when the dreamer comes back to the waking state; so also the beings which arise from Nature merge into it during dissolution or Pralaya.Pralaya is the period of dissolution. MahaUtpatti is the time of creation.
 (Cf.VIII.18;19)
 
 </details>

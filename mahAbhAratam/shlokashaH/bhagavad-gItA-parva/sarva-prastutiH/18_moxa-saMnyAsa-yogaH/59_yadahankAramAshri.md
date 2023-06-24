@@ -58,12 +58,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.59 If, in your 'self-conceit,' i.e., under a false sense of
-independence that you know what is good for you and what is not - if,
-not heeding My ;nd, you think, 'I will not fight,' then this resolve
-based on your sense of independence will be in vain. For Nature will
-compel you to go against your resolve - you who are ignorant and who
-adversely react to my sovereignty. He elucidates the same:
+18.59 If, in your 'self-conceit,' i.e., under a false sense of independence that you know what is good for you and what is not - if,
+not heeding My ;nd, you think, 'I will not fight,' then this resolve based on your sense of independence will be in vain. For Nature will compel you to go against your resolve - you who are ignorant and who adversely react to my sovereignty. He elucidates the same:
 
 </details>
 </div>
@@ -379,8 +375,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.59. In case, holding fast to the sense of ego, you think (decide) 'I
-shall not fight', that resolve of yours will be just useless. \[For\]
+18.59. In case, holding fast to the sense of ego, you think (decide) 'I shall not fight', that resolve of yours will be just useless. \[For\]
 your own natural condition will incite you \[to fight\].
 
 </details>
@@ -388,32 +383,28 @@ your own natural condition will incite you \[to fight\].
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.59 That you think 'I shall not fight', by relying on egotism,-vain is
-this determination of yours. (Your) nature impel you!
+18.59 That you think 'I shall not fight', by relying on egotism,-vain is this determination of yours. (Your) nature impel you!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.59 If thou in thy vanity thinkest of avoiding this fight, thy will
-shall not be fulfilled, for Nature herself will compel thee.
+18.59 If thou in thy vanity thinkest of avoiding this fight, thy will shall not be fulfilled, for Nature herself will compel thee.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.59 If, in your self-conceit, you think, 'I will not fight,' your
-resolve is in vain. Nature will compel you.
+18.59 If, in your self-conceit, you think, 'I will not fight,' your resolve is in vain. Nature will compel you.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/59_yadahankAramAshri.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.59 If, filled with egoism, thou thinkest: "I will not fight", vain is
-this, thy resolve; Nature will compel thee.
+18.59 If, filled with egoism, thou thinkest: "I will not fight", vain is this, thy resolve; Nature will compel thee.
 
 </details>
 </div>
@@ -423,11 +414,7 @@ this, thy resolve; Nature will compel thee.
 18.59 यत् if; अहङ्कारम् egoism; आश्रित्य having taken refuge in; न not;
 योत्स्ये (I) will fight; इति thus; मन्यसे (thou) thinkest; मिथ्या vain;
 एषः this; व्यवसायः resolve; ते thy; प्रकृतिः nature; त्वाम् thee;
-नियोक्ष्यति will compel.Commentary This strong determination of thy mind
-will be rendered utterly futile by thy inner nature thy nature will
-constrain thee thy nature as a warrior will compel thee to fight. It is
-a mere illusion to say that thou art Arjuna; that these are thy
-relatives and that to kill them will be a sin.
+नियोक्ष्यति will compel.Commentary This strong determination of thy mind will be rendered utterly futile by thy inner nature thy nature will constrain thee thy nature as a warrior will compel thee to fight. It is a mere illusion to say that thou art Arjuna; that these are thy relatives and that to kill them will be a sin.
 
 </details>
 </div>

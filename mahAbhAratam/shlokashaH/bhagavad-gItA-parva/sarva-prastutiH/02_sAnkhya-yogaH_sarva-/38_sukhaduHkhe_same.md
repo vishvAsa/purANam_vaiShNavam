@@ -73,18 +73,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/38_sukhaduHkhe_same.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.38 Thus, knowing the self to be eternal, different from the body and
-untouched by all corporeal alities, remaining unaffected by pleasure and
-pain resulting from the weapon-strokes etc., inevitable in a war, as
-also by gain and loss of wealth, victory and defeat, and keeping
-yourself free from attachment to heaven and such other frutis, begin the
-battle considering it merely as your own duty. Thus, you will incur no
-sin. Here sin means transmigratory existence which is misery. The
-purport is that you will be liberarted from the bondage of
-transmigratory existence. Thus, after teaching the knowledge of the real
-nature of the self, Sri Krsna begins to expound the Yoga of work, which,
-when preceded by it (i.e., knowledge of the self), constitutes the means
-for liberation.
+2.38 Thus, knowing the self to be eternal, different from the body and untouched by all corporeal alities, remaining unaffected by pleasure and pain resulting from the weapon-strokes etc., inevitable in a war, as also by gain and loss of wealth, victory and defeat, and keeping yourself free from attachment to heaven and such other frutis, begin the battle considering it merely as your own duty. Thus, you will incur no sin. Here sin means transmigratory existence which is misery. The purport is that you will be liberarted from the bondage of transmigratory existence. Thus, after teaching the knowledge of the real nature of the self, Sri Krsna begins to expound the Yoga of work, which,
+when preceded by it (i.e., knowledge of the self), constitutes the means for liberation.
 
 </details>
 </div>
@@ -458,7 +448,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/38_sukhaduHkhe_same.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।2.38।। सुख-दुःख, लाभ-हानि और जय-पराजय को समान करके युद्ध के लिये
+।।2.38।। सुख-दु:ख, लाभ-हानि और जय-पराजय को समान करके युद्ध के लिये
 तैयार हो जाओ; इस प्रकार तुमको पाप नहीं होगा।।
 
 </details>
@@ -546,17 +536,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/38_sukhaduHkhe_same.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.38. Viewing alike, pleasure and pain, gain and loss, victory and
-defeat, you should get then ready for the battle. Thus you will not
-incur sin.
+2.38. Viewing alike, pleasure and pain, gain and loss, victory and defeat, you should get then ready for the battle. Thus you will not incur sin.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/38_sukhaduHkhe_same.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.38 Treating happiness and sorrow, gain and loss, and conest and defeat
-with eanimity, then engage in battle. Thus you will not incur sin.
+2.38 Treating happiness and sorrow, gain and loss, and conest and defeat with eanimity, then engage in battle. Thus you will not incur sin.
 
 </details>
 </div>
@@ -571,18 +558,14 @@ Make ready for the combat, and thou shalt commit no sin.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/38_sukhaduHkhe_same.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.38 Holding pleasure and pain, gain and loss, victory and defeat as
-alike, gird yourself up for the battle. Thus, you shall not incur any
-sin.
+2.38 Holding pleasure and pain, gain and loss, victory and defeat as alike, gird yourself up for the battle. Thus, you shall not incur any sin.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/38_sukhaduHkhe_same.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.38 Having made pleasure and pain, gain and loss, victory and defeat
-the same, engage thou in battle for the sake of battle; thus thou shalt
-not incur sin.
+2.38 Having made pleasure and pain, gain and loss, victory and defeat the same, engage thou in battle for the sake of battle; thus thou shalt not incur sin.
 
 </details>
 </div>
@@ -591,13 +574,7 @@ not incur sin.
 
 2.38 सुखदुःखे pleasure and pain; समे same; कृत्वा having made; लाभालाभौ
 gain and loss; जयाजयौ victory and defeat; ततः then; युद्धाय for battle;
-युज्यस्व engage thou; न not; एवम् thus; पापम् sin; अवाप्स्यसि shalt
-incur.Commentary This is the Yoga of eanimity or the doctrine of poise
-in action. If anyone does any action with the above mental attitude or
-balanced state of mind he will not reap the fruits of his action. Such
-an action will lead to the purification of his heart and freedom from
-birth and death. One has to develop such a balanced state of mind
-through continous struggle and vigilant efforts.
+युज्यस्व engage thou; न not; एवम् thus; पापम् sin; अवाप्स्यसि shalt incur.Commentary This is the Yoga of eanimity or the doctrine of poise in action. If anyone does any action with the above mental attitude or balanced state of mind he will not reap the fruits of his action. Such an action will lead to the purification of his heart and freedom from birth and death. One has to develop such a balanced state of mind through continous struggle and vigilant efforts.
 
 </details>
 </div>

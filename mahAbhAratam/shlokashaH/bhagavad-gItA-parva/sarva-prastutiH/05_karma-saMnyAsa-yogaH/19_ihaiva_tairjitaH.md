@@ -62,8 +62,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.19 By those whose minds rest in ealness with regard to all selves in
-the aforesaid manner, even here, i.e., even at the stage of executing
+5.19 By those whose minds rest in ealness with regard to all selves in the aforesaid manner, even here, i.e., even at the stage of executing
 the means, Samsara is overcome. For the Brahman is of the same nature
 everywhere when uncontaminated. The meaning is that the substance of
 self, when free from the contaminations resulting from contact with the
@@ -509,45 +508,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.19. The Brahman-knower, who is disillusioned, who is established in
-Brahman and has a firm intellect, would neither rejoice on meeting a
-friend nor get agitated on meeting a foe.
+5.19. The Brahman-knower, who is disillusioned, who is established in Brahman and has a firm intellect, would neither rejoice on meeting a friend nor get agitated on meeting a foe.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.19 Here \[i.e. even while living in the body.\] itself is rirth
-conered by them whose minds are established on sameness. Since Brahman
-is the same (in all) and free from defects, therefore they are
-established in Brahman.
+5.19 Here \[i.e. even while living in the body.\] itself is rirth conered by them whose minds are established on sameness. Since Brahman is the same (in all) and free from defects, therefore they are established in Brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.19 Even in this world they conquer their earth-life whose minds, fixed
-on the Supreme, remain always balanced; for the Supreme has neither
-blemish nor bias.
+5.19 Even in this world they conquer their earth-life whose minds, fixed on the Supreme, remain always balanced; for the Supreme has neither blemish nor bias.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.19 Here itself Samsara is overcome by those whose minds rest in
-ealness. For the Brahman (individual self), when uncontaminated by
-Prakrti, is the same everywhere. Therefore they abide in Brahman.
+5.19 Here itself Samsara is overcome by those whose minds rest in ealness. For the Brahman (individual self), when uncontaminated by Prakrti, is the same everywhere. Therefore they abide in Brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.19 Even here (in this world) birth (everything) is overcome by those
-whose minds rest in eality; Brahman is spotless indeed and eal;
+5.19 Even here (in this world) birth (everything) is overcome by those whose minds rest in eality; Brahman is spotless indeed and eal;
 therefore they are established in Brahman.
 
 </details>
@@ -555,17 +544,10 @@ therefore they are established in Brahman.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/19_ihaiva_tairjitaH.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-5.19 इह here; एव even; तैः by them; जितः is conered; सर्गः rirth or
-creation; येषाम् of whom; साम्ये in eality; स्थितम् established; मनः
+5.19 इह here; एव even; तैः by them; जितः is conered; सर्गः rirth or creation; येषाम् of whom; साम्ये in eality; स्थितम् established; मनः
 mind; निर्दोषम् spotless; हि indeed; समम् eal; ब्रह्म Brahman; तस्मात्
-therefore; ब्रह्मणि in Brahman; ते they; स्थिताः are
-established.Commentary When the mind gets rooted in eanimity or evenness
-or eality; when it is always in a balanced state; one coners birth and
-death. Bondage is annihilated and freedom is attained by him. When the
-mind is in a perfectly balanced state he overcomes Brahman Himself;
-i.e.; realises Brahman.Brahman is ever pure and attributeless and so He
-is not affected even though He dwells in an outcaste; dog; etc. So He is
-spotless. He is homogeneous and one; as He dwells eally in all beings.
+therefore; ब्रह्मणि in Brahman; ते they; स्थिताः are established.Commentary When the mind gets rooted in eanimity or evenness or eality; when it is always in a balanced state; one coners birth and death. Bondage is annihilated and freedom is attained by him. When the mind is in a perfectly balanced state he overcomes Brahman Himself;
+i.e.; realises Brahman.Brahman is ever pure and attributeless and so He is not affected even though He dwells in an outcaste; dog; etc. So He is spotless. He is homogeneous and one; as He dwells eally in all beings.
 
 </details>
 </div>

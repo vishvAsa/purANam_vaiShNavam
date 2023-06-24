@@ -79,13 +79,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.9 Holding this view, viz., supporting this view, these men of lost
-souls do not realise that the self is different from the body. They are
-of 'fele understanding,' they lack the discernment that the self is to
-be known as different from the body, because of Its being the knower in
-the body which is an object of knowledge such as jars etc. These are of
-'cruel deeds' viz., they do much harm to everybody; they are born to
-bring ruin to the world.
+16.9 Holding this view, viz., supporting this view, these men of lost souls do not realise that the self is different from the body. They are of 'fele understanding,' they lack the discernment that the self is to be known as different from the body, because of Its being the knower in the body which is an object of knowledge such as jars etc. These are of
+'cruel deeds' viz., they do much harm to everybody; they are born to bring ruin to the world.
 
 </details>
 </div>
@@ -366,18 +361,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.9. Clinging to this view, the inauspcious men of the ruined Souls, of
-the poor intellect, and of the cruel deeds, strive for the destruction
-of the world.
+16.9. Clinging to this view, the inauspcious men of the ruined Souls, of the poor intellect, and of the cruel deeds, strive for the destruction of the world.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.9 Holding on to this view, (these people) who are of depraved
-character, of poor intellect, given to fearful actions and harmful, wax
-strong for the ruin of the world.
+16.9 Holding on to this view, (these people) who are of depraved character, of poor intellect, given to fearful actions and harmful, wax strong for the ruin of the world.
 
 </details>
 </div>
@@ -385,45 +376,31 @@ strong for the ruin of the world.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 16.9 Thinking thus, these degraded souls, these enemies of mankind -
-whose intelligence is negligible and whose deeds are monstrous - come
-into the world only to destroy.
+whose intelligence is negligible and whose deeds are monstrous - come into the world only to destroy.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.9 Holding this view, these men of lost souls and fele understanding
-do cruel deeds for the destruction of the world.
+16.9 Holding this view, these men of lost souls and fele understanding do cruel deeds for the destruction of the world.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-16.9 Holding this view, these ruined souls of small intellect and fierce
-deeds, come forth as the enemies of the world for its destruction.
+16.9 Holding this view, these ruined souls of small intellect and fierce deeds, come forth as the enemies of the world for its destruction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/16_daivAsura-sampad-vib/09_etAn_dRShTimavaSh.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-16.9 एताम् this; दृष्टिम् view; अवष्टभ्य holding; नष्टात्मानः ruined
-souls; अल्पबुद्धयः of small intellect; प्रभवन्ति come forth; उग्रकर्माणः
+16.9 एताम् this; दृष्टिम् view; अवष्टभ्य holding; नष्टात्मानः ruined souls; अल्पबुद्धयः of small intellect; प्रभवन्ति come forth; उग्रकर्माणः
 of fierce deeds; क्षयाय for the destruction; जगतः of the world; अहिताः
-enemies.Commentary They rob others. They acire wealth by destroying
-others. They boast of their evil actions.Nashtatmanah Ruined souls They
-have lost all chances of attaining Selfrealisation or going to the
-higher world.Alpabuddhayah They have a small intellect as they identify
-themselves with their little bodies full of impurities; as they have no
-conception of the Supreme Beign; and as their intellects are concerned
-with the little sensual pleasures only (eating; drinking;
-etc.).Ugrakarmanah Of fierce deeds They always injure others. They
-murder for aciring wealth. They do any heinous crime to get money and
-women. They bring great confusion and destroy the peace and harmony of
-the world.Enemies of the world World here means people who live in the
-world.
+enemies.Commentary They rob others. They acire wealth by destroying others. They boast of their evil actions.Nashtatmanah Ruined souls They have lost all chances of attaining Selfrealisation or going to the higher world.Alpabuddhayah They have a small intellect as they identify themselves with their little bodies full of impurities; as they have no conception of the Supreme Beign; and as their intellects are concerned with the little sensual pleasures only (eating; drinking;
+etc.).Ugrakarmanah Of fierce deeds They always injure others. They murder for aciring wealth. They do any heinous crime to get money and women. They bring great confusion and destroy the peace and harmony of the world.Enemies of the world World here means people who live in the world.
 
 </details>
 </div>

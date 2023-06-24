@@ -77,30 +77,11 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 7.30 Here, other alified persons distinct from those already mentioned
-(i.e., those who desire Kaivalya) are to be understood, because of the
-mention again of the term 'those' (ye). Even though the declaration -
-those seekers of fortune who know Me as being connected with the higher
-material entities' (Adhibhuta) and 'with that which is higher to
-divinities' (Adhidaiva) i.e., the self in Its lordship - resmles a
-repetition, it is really an injunction on account of the meaning not
-being known otherwise. The statement of knowing Me as being connected
-with the sacrifice is also enjoined as an injunction for all the three
-types of differently alified aspirants (those who aspire for Kaivalya,
-wealth and liberation) without any difference, because of the nature of
-the subject matter, that being sacrificial. None of the three types of
-aspirants can give up the performance of the great sacrifices and other
-rituals in the form of periodical and occasional rituals. They know Me
-at the hour of death in a way corresponding with their objectivies.
-Because of the term ca (too) in 'they too,' those who have been
-mentioned before as 'striving for release from old age and death' are
-also to be understood along with the others as knowing Me at the hour of
-death. By this, even the Jnanin knows Me as being connected with the
-sacrifice on account of the nature of the meaning of the subject treated
-(i.e., sacrifice). They also know Me even at the hour of death in a way
-corresponding with their objective. The purport is that, besides the
-others mentioned earlier like the knower of the Self, those others who
-are now described as knowing Him with Adhibhuta, Adhidaiva and Adhiyajna
-are to be included among those who will know Him at the time of death.
+(i.e., those who desire Kaivalya) are to be understood, because of the mention again of the term 'those' (ye). Even though the declaration -
+those seekers of fortune who know Me as being connected with the higher material entities' (Adhibhuta) and 'with that which is higher to divinities' (Adhidaiva) i.e., the self in Its lordship - resmles a repetition, it is really an injunction on account of the meaning not being known otherwise. The statement of knowing Me as being connected with the sacrifice is also enjoined as an injunction for all the three types of differently alified aspirants (those who aspire for Kaivalya,
+wealth and liberation) without any difference, because of the nature of the subject matter, that being sacrificial. None of the three types of aspirants can give up the performance of the great sacrifices and other rituals in the form of periodical and occasional rituals. They know Me at the hour of death in a way corresponding with their objectivies.
+Because of the term ca (too) in 'they too,' those who have been mentioned before as 'striving for release from old age and death' are also to be understood along with the others as knowing Me at the hour of death. By this, even the Jnanin knows Me as being connected with the sacrifice on account of the nature of the meaning of the subject treated
+(i.e., sacrifice). They also know Me even at the hour of death in a way corresponding with their objective. The purport is that, besides the others mentioned earlier like the knower of the Self, those others who are now described as knowing Him with Adhibhuta, Adhidaiva and Adhiyajna are to be included among those who will know Him at the time of death.
 
 </details>
 </div>
@@ -509,36 +490,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.30. Those who realise Me as one \[identical\] with what governs the
-beings, deities and with what governs the sacrifices-they, even at the
-moment of their journey, experience Me, with their mastering the Yoga.
+7.30. Those who realise Me as one \[identical\] with what governs the beings, deities and with what governs the sacrifices-they, even at the moment of their journey, experience Me, with their mastering the Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.30 Those who know me as existing in the physical and the divine
-planes, and also in the context of the sacrifice, they of concentrated
-minds know Me even at the time of death.
+7.30 Those who know me as existing in the physical and the divine planes, and also in the context of the sacrifice, they of concentrated minds know Me even at the time of death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.30 Those who see Me in the life of the world, in the universal
-sacrifice, and as pure Divinity, keeping their minds steady, they live
-in Me, even in the crucial hour of death."
+7.30 Those who see Me in the life of the world, in the universal sacrifice, and as pure Divinity, keeping their minds steady, they live in Me, even in the crucial hour of death."
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/30_sAdhibhUtAdhidaiv.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.30 And those who know Me with the Adhibhuta, Adhidaiva and the
-Adhiyajna, they too, with their minds fixed in meditation, know Me even
-at the hour of death.
+7.30 And those who know Me with the Adhibhuta, Adhidaiva and the Adhiyajna, they too, with their minds fixed in meditation, know Me even at the hour of death.
 
 </details>
 </div>
@@ -546,8 +519,7 @@ at the hour of death.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 7.30 Those who know Me with the Adhibhuta (pertaining to the elements),
-Adhidaiva (pertaining to the gods) and the Adhiyajna (pertaining to the
-sacrifice) know Me even at the time of death, steadfast in mind.
+Adhidaiva (pertaining to the gods) and the Adhiyajna (pertaining to the sacrifice) know Me even at the time of death, steadfast in mind.
 
 </details>
 </div>
@@ -558,17 +530,9 @@ sacrifice) know Me even at the time of death, steadfast in mind.
 Me; साधियज्ञम् with the Adhiyajna; च and; ये who; विदुः know; प्रयाणकाले
 at the time of death; अपि even; च and; माम् Me; ते they; विदुः know;
 युक्तचेतसः steadfast in mind.Commentary They who are steadfast in mind;
-who have taken refuge in Me; who know Me as the knowledge of elements in
-the physical plane; as the knowledge of the gods in the celestial or
-mental plane; as the knowledge of the sacrifice in the realm of
-sacrifice; are not affected by death. They do not lose their memory.
-They continue to keep up the consciousness of Me even at the time of
-their departure from this world. Those who worship Me along with these
-three know Me even at the time of death. (Cf.VIII.25)(This chapter is
-known by the names Vijnana Yoga and Jnana Yoga also.)Thus in the
-Upanishads of the glorious Bhagavad Gita; the Science of the Eternal;
-the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends
-the seventh discourse entitledThe Yoga of Wisdom and Realisation. ,
+who have taken refuge in Me; who know Me as the knowledge of elements in the physical plane; as the knowledge of the gods in the celestial or mental plane; as the knowledge of the sacrifice in the realm of sacrifice; are not affected by death. They do not lose their memory.
+They continue to keep up the consciousness of Me even at the time of their departure from this world. Those who worship Me along with these three know Me even at the time of death. (Cf.VIII.25)(This chapter is known by the names Vijnana Yoga and Jnana Yoga also.)Thus in the Upanishads of the glorious Bhagavad Gita; the Science of the Eternal;
+the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the seventh discourse entitledThe Yoga of Wisdom and Realisation. ,
 
 </details>
 </div>

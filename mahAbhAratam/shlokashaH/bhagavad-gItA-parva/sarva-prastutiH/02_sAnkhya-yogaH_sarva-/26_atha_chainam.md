@@ -65,10 +65,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 2.26 Besides, if you consider this self as identical with the body,
-which is constantly born and constantly dies - which is nothing other
-than these characteristics of the body mentioned above -, even then it
-does not become you to feel grief; because, birth and death are
-inevitable for the body, whose nature is modification.
+which is constantly born and constantly dies - which is nothing other than these characteristics of the body mentioned above -, even then it does not become you to feel grief; because, birth and death are inevitable for the body, whose nature is modification.
 
 </details>
 </div>
@@ -384,43 +381,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.26. On the other hand, if you deem This as being born constantly or as
-dying constantly, even then, O mighty-armed one, you should not lament
-This.
+2.26. On the other hand, if you deem This as being born constantly or as dying constantly, even then, O mighty-armed one, you should not lament This.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.26 On the other hand, if you think this One is born continually or
-dies constantly, even then, O mighty-armed one, you ought not to grieve
-thus.
+2.26 On the other hand, if you think this One is born continually or dies constantly, even then, O mighty-armed one, you ought not to grieve thus.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.26 Even if thou thinkest of It as constantly being born, constantly
-dying, even then, O Mighty Man, thou still hast no cause to grieve.
+2.26 Even if thou thinkest of It as constantly being born, constantly dying, even then, O Mighty Man, thou still hast no cause to grieve.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.26 Or if you hold this self as being constantly born and as constantly
-dying, even then, O mighty-armed one, it does not become you to feel
-grief.
+2.26 Or if you hold this self as being constantly born and as constantly dying, even then, O mighty-armed one, it does not become you to feel grief.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/26_atha_chainam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.26 But even if thou thinkest of It as being constantly born and
-constantly dying, even then, O mighty-armed, thou shouldst not grieve.
+2.26 But even if thou thinkest of It as being constantly born and constantly dying, even then, O mighty-armed, thou shouldst not grieve.
 
 </details>
 </div>
@@ -430,13 +419,7 @@ constantly dying, even then, O mighty-armed, thou shouldst not grieve.
 2.26 अथ now; च and; एनम् this (Self); नित्यजातम् constantly born;
 नित्यम् constantly; वा or; मन्यसे thinkest; मृतम् dead; तथापि even then;
 त्वम् thou; महाबाहो mightyarmed; न not; एवम् thus; शोचितुम् to grieve;
-अर्हसि (thou) oughtest.Commentary Lord Krishna here; for the sake of
-argument; takes up the popular supposition. Granting that the Self is
-again and again born whenever a body comes into being; and again and
-again dies whenever the body dies; O mightyarmed (O Arjuna of great
-valour and strength); thou shouldst not grieve thus; because birth is
-inevitable to want is dead and death is inevitable to what is born. This
-is the inexorable or unrelenting Law of Nature.
+अर्हसि (thou) oughtest.Commentary Lord Krishna here; for the sake of argument; takes up the popular supposition. Granting that the Self is again and again born whenever a body comes into being; and again and again dies whenever the body dies; O mightyarmed (O Arjuna of great valour and strength); thou shouldst not grieve thus; because birth is inevitable to want is dead and death is inevitable to what is born. This is the inexorable or unrelenting Law of Nature.
 
 </details>
 </div>

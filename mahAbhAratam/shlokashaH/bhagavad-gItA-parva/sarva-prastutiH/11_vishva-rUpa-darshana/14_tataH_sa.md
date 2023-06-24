@@ -44,11 +44,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/14_tataH_sa.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.14 Then Arjuna became overcome with amazement on seeing the Lord, at
-a point of whose being this wonderful universe in its entirely stands
-supported, who enables all things to act, and who is the possesor of a
-host of auspicious attributes like omniscience. With his hairs standing
-erect, he bowed down like a stick, and with folded hands, he spoke thus:
+11.14 Then Arjuna became overcome with amazement on seeing the Lord, at a point of whose being this wonderful universe in its entirely stands supported, who enables all things to act, and who is the possesor of a host of auspicious attributes like omniscience. With his hairs standing erect, he bowed down like a stick, and with folded hands, he spoke thus:
 
 </details>
 </div>
@@ -284,8 +280,7 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 11.14. Then, possessed by amazement and with his bodily hair thrilled,
-Dhananjaya (Arjuna) with his head bowed to the God and with folded palms
-spoke \[to Him\].
+Dhananjaya (Arjuna) with his head bowed to the God and with folded palms spoke \[to Him\].
 
 </details>
 </div>
@@ -293,8 +288,7 @@ spoke \[to Him\].
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 11.14 Then, filled with wonder, with hairs standing on end, he,
-Dhananjaya, (Arjuna), bowing down with his head to the Lord, said with
-folded hands:
+Dhananjaya, (Arjuna), bowing down with his head to the Lord, said with folded hands:
 
 </details>
 </div>
@@ -309,29 +303,23 @@ his hands clasped in salutation, addressed the Lord thus:
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/14_tataH_sa.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.14 Then he, Arjuna, overcome with amazement, his hairs standing
-erect, bowed his head to the Lord, and with folded hands spoke.
+11.14 Then he, Arjuna, overcome with amazement, his hairs standing erect, bowed his head to the Lord, and with folded hands spoke.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/14_tataH_sa.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.14 Then, Arjuna, filled with wonder and with his hair standing on
-end, bowed down his head to the God and spoke with joined palms.
+11.14 Then, Arjuna, filled with wonder and with his hair standing on end, bowed down his head to the God and spoke with joined palms.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/14_tataH_sa.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-11.14 ततः then; सः he; विस्मयाविष्टः filled with wonder; हृष्टरोमा with
-hair standing on end; धनञ्जयः Arjuna; प्रणम्य having prostrated; शिरसा
+11.14 ततः then; सः he; विस्मयाविष्टः filled with wonder; हृष्टरोमा with hair standing on end; धनञ्जयः Arjuna; प्रणम्य having prostrated; शिरसा
 with (his) head; देवम् the God; कृताञ्जलिः with joined palms; अभाषत
-spoke.Commentary Tatah Then; having seen the Cosmic Form.Arjuna joined
-his palms in order to do prostration to the Cosmic Form. The great hero
-had attained true humility which the bowed head and joined palms
-represented; and which is the essential ingredient of devotion.
+spoke.Commentary Tatah Then; having seen the Cosmic Form.Arjuna joined his palms in order to do prostration to the Cosmic Form. The great hero had attained true humility which the bowed head and joined palms represented; and which is the essential ingredient of devotion.
 
 </details>
 </div>

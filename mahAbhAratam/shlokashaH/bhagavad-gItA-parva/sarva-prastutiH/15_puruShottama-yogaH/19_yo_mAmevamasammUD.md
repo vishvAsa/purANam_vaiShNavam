@@ -69,20 +69,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.19 He who, without delusion, knows the Supreme Person as Myself, as
-already stated, i.e., knows Me, as differing in kind from the perishable
-and the imperishable Persons, because of My being immutable and because
-of My being distinguished from them as pervading, supporting and ruling
-etc., by nature - such a devotee knows all. He knows all that is to be
-known as the means of attaining Me. He worships Me in 'every way,' i.e.,
-whatever ways of worshipping Me have been prescribed as the means of
-attaining Me, he worships Me by all these modes of worship. Whatever
-love is evoked in Me towards one approaching Me by all forms of
-knowledge having Me for their object, and whatever love is roused up in
-Me towards those who practise various modes of worship having Me for
-their object - all that in a unified form is generatd in Me towards one
-who has the knowledge of Me as described. Now, Sri Krsna eulogises this
-knowledge of the Supreme Person:
+15.19 He who, without delusion, knows the Supreme Person as Myself, as already stated, i.e., knows Me, as differing in kind from the perishable and the imperishable Persons, because of My being immutable and because of My being distinguished from them as pervading, supporting and ruling etc., by nature - such a devotee knows all. He knows all that is to be known as the means of attaining Me. He worships Me in 'every way,' i.e.,
+whatever ways of worshipping Me have been prescribed as the means of attaining Me, he worships Me by all these modes of worship. Whatever love is evoked in Me towards one approaching Me by all forms of knowledge having Me for their object, and whatever love is roused up in Me towards those who practise various modes of worship having Me for their object - all that in a unified form is generatd in Me towards one who has the knowledge of Me as described. Now, Sri Krsna eulogises this knowledge of the Supreme Person:
 
 </details>
 </div>
@@ -398,9 +386,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-15.19. He, who, being not deluded, thus knows Me as the Highest of
-persons - he knows all and serves Me with his entire being, O descendant
-of Bharata !
+15.19. He, who, being not deluded, thus knows Me as the Highest of persons - he knows all and serves Me with his entire being, O descendant of Bharata !
 
 </details>
 </div>
@@ -408,24 +394,21 @@ of Bharata !
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 15.19 O scion of the Bharata dynasty, he who, being free from delusion,
-knows Me the supreme Person thus, he is all-knowing and adores Me with
-his whole being.
+knows Me the supreme Person thus, he is all-knowing and adores Me with his whole being.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.19 He who with unclouded vision sees Me as the Lord-God, knows all
-there is to be known, and always shall worship Me with his whole heart.
+15.19 He who with unclouded vision sees Me as the Lord-God, knows all there is to be known, and always shall worship Me with his whole heart.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/19_yo_mAmevamasammUD.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-15.19 He who, without delusion thus knows Me as the Supreme Self, knows
-all, O Arjuna, and worships Me in every way.
+15.19 He who, without delusion thus knows Me as the Supreme Self, knows all, O Arjuna, and worships Me in every way.
 
 </details>
 </div>
@@ -442,26 +425,8 @@ knowing all, worships Me with his whole being (heart), O Arjuna.
 
 15.19 यः who; माम् Me; एवम् thus; असम्मूढः undeluded; जानाति knows;
 पुरुषोत्तमम् the Supreme Purusha; सः he; सर्ववित् allknowing; भजति
-worships; माम् Me; सर्वभावेन with his whole being (heart); भारत O
-Bharata.Commentary The glory of the knowledge of the Self is described
-in this verse.Asammudhah Undeluded; free from delusion. The undeluded
-does not identify himself with the physical body. He never looks upon
-the physical body; the lifeforce; senses; mind; intellect and the causal
-body as the Self or as belonging to himself; because he is resting in
-his own essential nature as ExistenceKnowledgeBliss Absolute and because
-he identifies himself with Brahman or the Supreme Being.That aspirant
-who knows that Sri Krishna is not a human being and that He is the
-highest Purusha or the Supreme Being is undeluded. Such an aspirant or
-devotee alone worships Him with his whole being. He is the Sarvavit or
-Sarvajna; allknower. He knows and realises that Lord Krishna; the
-supreme Lord; is the Inner Self of all beings. He beholds the One in the
-many; and the many in the One. For him there is neither high nor low;
-neither pleasure nor pain; neither virtue nor vice; neither good nor
-evil; neither likes nor dislikes.Me The Lord as specified above.Sarvavit
-One who knows everything in detail.Knows that I am He.Sarvabhavena With
-all his heart; with his whole being; wholeheartedly with his whole
-thought devoted exclusively to the Self of all with his whole mind
-centred on the Supreme Self alone.
+worships; माम् Me; सर्वभावेन with his whole being (heart); भारत O Bharata.Commentary The glory of the knowledge of the Self is described in this verse.Asammudhah Undeluded; free from delusion. The undeluded does not identify himself with the physical body. He never looks upon the physical body; the lifeforce; senses; mind; intellect and the causal body as the Self or as belonging to himself; because he is resting in his own essential nature as ExistenceKnowledgeBliss Absolute and because he identifies himself with Brahman or the Supreme Being.That aspirant who knows that Sri Krishna is not a human being and that He is the highest Purusha or the Supreme Being is undeluded. Such an aspirant or devotee alone worships Him with his whole being. He is the Sarvavit or Sarvajna; allknower. He knows and realises that Lord Krishna; the supreme Lord; is the Inner Self of all beings. He beholds the One in the many; and the many in the One. For him there is neither high nor low;
+neither pleasure nor pain; neither virtue nor vice; neither good nor evil; neither likes nor dislikes.Me The Lord as specified above.Sarvavit One who knows everything in detail.Knows that I am He.Sarvabhavena With all his heart; with his whole being; wholeheartedly with his whole thought devoted exclusively to the Self of all with his whole mind centred on the Supreme Self alone.
 
 </details>
 </div>

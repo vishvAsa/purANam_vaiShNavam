@@ -83,12 +83,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/63_iti_te.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.63 Thus, in this manner, has been set forth everything that is to be
-acired by those aspirants for release - the mystery of mysteries,
-concerning Karma Yoga, Jnana Yoga and Bhakti Yoga. Reflecting on it
-fully, do what you wish to do according to your alification - i.e.,
-follow Karma Yoga, or Jnana Yoga or Bhakti Yoga according to your
-liking. Such is the meaning.
+18.63 Thus, in this manner, has been set forth everything that is to be acired by those aspirants for release - the mystery of mysteries,
+concerning Karma Yoga, Jnana Yoga and Bhakti Yoga. Reflecting on it fully, do what you wish to do according to your alification - i.e.,
+follow Karma Yoga, or Jnana Yoga or Bhakti Yoga according to your liking. Such is the meaning.
 
 </details>
 </div>
@@ -407,19 +404,15 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/63_iti_te.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.63. Thus the \[path of\] wisdom, a better secret than all the secrets
-has been expounded to you by Me; comprehend it fully and then act as you
-please.
+18.63. Thus the \[path of\] wisdom, a better secret than all the secrets has been expounded to you by Me; comprehend it fully and then act as you please.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/63_iti_te.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.63 To you has been imparted by Me this knowledge \[Derived in the
-instrumental sense of 'means of knowledge'; i.e. the scripture Gita.\]
-which is moe secret than any secret. Pondering over this as a whole, do
-as you like.
+18.63 To you has been imparted by Me this knowledge \[Derived in the instrumental sense of 'means of knowledge'; i.e. the scripture Gita.\]
+which is moe secret than any secret. Pondering over this as a whole, do as you like.
 
 </details>
 </div>
@@ -434,17 +427,14 @@ Having thought it over, thou art free to act as thou wilt.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/63_iti_te.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.63 Thus the knowledge, the mystery of mysteries, has been declared to
-you be Me. Reflecting on it fully, do what you will.
+18.63 Thus the knowledge, the mystery of mysteries, has been declared to you be Me. Reflecting on it fully, do what you will.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/63_iti_te.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.63 Thus has wisdom, more secret than secrecy itself, been declared
-unto thee by Me; having reflected over it fully, then act as thou
-wishest.
+18.63 Thus has wisdom, more secret than secrecy itself, been declared unto thee by Me; having reflected over it fully, then act as thou wishest.
 
 </details>
 </div>
@@ -454,14 +444,8 @@ wishest.
 18.63 इति thus; ते to thee; ज्ञानम् wisdom; आख्यातम् has been declared;
 गुह्यात् than the secret; गुह्यतरम् more secret; मया by Me; विमृश्य
 reflecting over; एतत् this; अशेषेण fully; यथा as; इच्छसि (thou) wishest;
-तथा so; कुरु act.Commentary Thus has wisdom; more profound than all
-secrets; been declared to thee by Me. This teaching is well known as the
-Gita; the essence of all the Vedas. If anyone follows it and lives in
-the spirit of this teaching he will certainly attain supreme peace;
-highest knowledge and immortality. There is no doubt about this. I have
-revealed the mystery of this secret treasure to thee as thou art dear to
-Me; O Arjuna.It The teaching declared above. Reflect fully over
-everything that has been taught to thee.
+तथा so; कुरु act.Commentary Thus has wisdom; more profound than all secrets; been declared to thee by Me. This teaching is well known as the Gita; the essence of all the Vedas. If anyone follows it and lives in the spirit of this teaching he will certainly attain supreme peace;
+highest knowledge and immortality. There is no doubt about this. I have revealed the mystery of this secret treasure to thee as thou art dear to Me; O Arjuna.It The teaching declared above. Reflect fully over everything that has been taught to thee.
 
 </details>
 </div>

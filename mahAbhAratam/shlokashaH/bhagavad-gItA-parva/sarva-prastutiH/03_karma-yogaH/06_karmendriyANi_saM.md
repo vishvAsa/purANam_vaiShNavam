@@ -54,13 +54,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/06_karmendriyANi_saM.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.6 He whose inner and outer organs of senses are not conered because of
-his sins not being annulled but is none the less struggling for winning
-knowledge of the self, whose mind is forced to turn away from the self
-by reason of it being attached to sense objects, and who conseently lets
-his minds dwell on them - he is called a hypocrite, because his actions
-are at variance with his professions. The meaning is that by practising
-the knowledge of the self in this way, he becomes perverted and lost.
+3.6 He whose inner and outer organs of senses are not conered because of his sins not being annulled but is none the less struggling for winning knowledge of the self, whose mind is forced to turn away from the self by reason of it being attached to sense objects, and who conseently lets his minds dwell on them - he is called a hypocrite, because his actions are at variance with his professions. The meaning is that by practising the knowledge of the self in this way, he becomes perverted and lost.
 
 </details>
 </div>
@@ -376,42 +370,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 3.6. Controlling organs of actions, whosoever sits with his mind,
-pondering over the sense objects-that person is a man of deluded soul
-and \[he\] is called a man of deluded action.
+pondering over the sense objects-that person is a man of deluded soul and \[he\] is called a man of deluded action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/06_karmendriyANi_saM.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.6 One, who after withdrawing the organs of action, sits mentally
-recollecting the objects of the senses, that one, of deluded mind, is
-called a hypocrite.
+3.6 One, who after withdrawing the organs of action, sits mentally recollecting the objects of the senses, that one, of deluded mind, is called a hypocrite.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/06_karmendriyANi_saM.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.6 He who remains motionless, refusing to act, but all the while
-brooding over sensuous object, that deluded soul is simply a hypocrite.
+3.6 He who remains motionless, refusing to act, but all the while brooding over sensuous object, that deluded soul is simply a hypocrite.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/06_karmendriyANi_saM.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.6 He who, controlling the organs of action, lets his mind dwell on the
-objects of senses, is a deluded person and a hypocrite.
+3.6 He who, controlling the organs of action, lets his mind dwell on the objects of senses, is a deluded person and a hypocrite.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/06_karmendriyANi_saM.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.6 He who, restraining the organs of action, sits thinking of the
-sense-objects in mind, he of deluded understanding is called a
-hypocrite.
+3.6 He who, restraining the organs of action, sits thinking of the sense-objects in mind, he of deluded understanding is called a hypocrite.
 
 </details>
 </div>
@@ -421,19 +408,10 @@ hypocrite.
 3.6 कर्मेन्द्रियाणि organs of action; संयम्य restraining; यः who; आस्ते
 sits; मनसा by the mind; स्मरन् remembering; इन्द्रियार्थान्
 senseobjects; विमूढात्मा of deluded understanding; मिथ्याचारः hypocrite;
-सः he; उच्यते is called.Commentary The five organs of action; Karma
-Indriyas; are Vak (organ of speech); Pani (hands); Padam (feet); Upastha
-(genitals) and Guda (anus). They are born of the Rajasic portion of the
-five Tanmatras or subtle elements Vak from the Akasa Tanmatra (ether);
+सः he; उच्यते is called.Commentary The five organs of action; Karma Indriyas; are Vak (organ of speech); Pani (hands); Padam (feet); Upastha
+(genitals) and Guda (anus). They are born of the Rajasic portion of the five Tanmatras or subtle elements Vak from the Akasa Tanmatra (ether);
 Pani from the Vayu Tanmatra (air); Padam from the Agni Tanmatra (fire);
-Upastha from the Apas Tanmatra (water); and Guda from the Prithivi
-Tanmatra (earth). That man who; restraining the organs of action; sits
-revolving in his mind thoughts regarding the objects of the senses is a
-man of sinful conduct. He is selfdeluded. He is a veritable
-hypocrite.The organs of action must be controlled. The thoughts should
-also be controlled. The mind should be firmly fixed on the Lord. Only
-then will you become a true Yogi. Only then will you attain to
-Selfrealisation.
+Upastha from the Apas Tanmatra (water); and Guda from the Prithivi Tanmatra (earth). That man who; restraining the organs of action; sits revolving in his mind thoughts regarding the objects of the senses is a man of sinful conduct. He is selfdeluded. He is a veritable hypocrite.The organs of action must be controlled. The thoughts should also be controlled. The mind should be firmly fixed on the Lord. Only then will you become a true Yogi. Only then will you attain to Selfrealisation.
 
 </details>
 </div>

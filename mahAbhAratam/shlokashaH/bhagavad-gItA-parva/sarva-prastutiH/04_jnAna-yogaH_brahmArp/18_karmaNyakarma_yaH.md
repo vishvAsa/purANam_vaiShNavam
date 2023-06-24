@@ -81,27 +81,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.18 Here by the term 'non-action', the knowledge of the self, which is
-distinct from action and which forms the subject under consideration, is
-meant. 'He who sees non-action in action and also action in non-action,'
-denotes him who can perceive knowledge of the self even while action is
-being performed and who can also perceive action while engaged in
-non-action, i.e., knowledge of the self. What is the import of this
-saying; What is taught here is this: One can perceive, by constant
-contemplation on the truth about the self, that the action that is being
-performed in itself is a form of knowledge. One can also perceive that
-this knowledge is also of the form of Karma because of its being
-contained in Karma Yoga. Both these (i.e., action in the form of
-knowledge and knowledge in the form of actions) are accomplished by
-contemplation on the true nature of the self, even while work is being
-performed. Thus, he who can see actions as included in contemplation on
-the reality of the self, is wise, i.e., he knows the full meaning of the
-Sastras; he is fit among men, i.e., fit to attain release. He alone has
-fulfilled all actions, i.e., carried out the entire purpose of the
-Sastras. \[The purport is that no contradiction between knowledge and
-action is felt by one who knows the philosophy of the self\]. How is the
-form of knowledge accomplished through works which are obviously
-activities that are being performed; Sri Krsna explains:
+4.18 Here by the term 'non-action', the knowledge of the self, which is distinct from action and which forms the subject under consideration, is meant. 'He who sees non-action in action and also action in non-action,'
+denotes him who can perceive knowledge of the self even while action is being performed and who can also perceive action while engaged in non-action, i.e., knowledge of the self. What is the import of this saying; What is taught here is this: One can perceive, by constant contemplation on the truth about the self, that the action that is being performed in itself is a form of knowledge. One can also perceive that this knowledge is also of the form of Karma because of its being contained in Karma Yoga. Both these (i.e., action in the form of knowledge and knowledge in the form of actions) are accomplished by contemplation on the true nature of the self, even while work is being performed. Thus, he who can see actions as included in contemplation on the reality of the self, is wise, i.e., he knows the full meaning of the Sastras; he is fit among men, i.e., fit to attain release. He alone has fulfilled all actions, i.e., carried out the entire purpose of the Sastras. \[The purport is that no contradiction between knowledge and action is felt by one who knows the philosophy of the self\]. How is the form of knowledge accomplished through works which are obviously activities that are being performed; Sri Krsna explains:
 
 </details>
 </div>
@@ -1190,42 +1171,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.18. He, who finds non-action in the action, and action in the
-non-action, is an intelligent one, among men and is said to be a
-performer or destroyer of all actions.
+4.18. He, who finds non-action in the action, and action in the non-action, is an intelligent one, among men and is said to be a performer or destroyer of all actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.18 He who finds inaction in action, and action in inaction, he is the
-wise one \[Possessed of the knowledge of Brahman\] among men; he is
-engaged in yoga and is a performer of all actions!
+4.18 He who finds inaction in action, and action in inaction, he is the wise one \[Possessed of the knowledge of Brahman\] among men; he is engaged in yoga and is a performer of all actions!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.18 He who can see inaction in action, and action in inaction, is the
-wisest among men. He is a saint, even though he still acts.
+4.18 He who can see inaction in action, and action in inaction, is the wisest among men. He is a saint, even though he still acts.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.18 He who sees non-action in action and also action in non-action is
-wise among men. He is fit for release and has carried out all actions.
+4.18 He who sees non-action in action and also action in non-action is wise among men. He is fit for release and has carried out all actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/18_karmaNyakarma_yaH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.18 He who seeth inaction in action and action in inaction, he is wise
-among men; he is a Yogi and performer of all actions.
+4.18 He who seeth inaction in action and action in inaction, he is wise among men; he is a Yogi and performer of all actions.
 
 </details>
 </div>
@@ -1234,41 +1208,11 @@ among men; he is a Yogi and performer of all actions.
 
 4.18 कर्मणि in action; अकर्म inaction; यः who; पश्येत् would see;
 अकर्मणि in inaction; च and; कर्म action; यः who; सः he; बुद्धिमान् wise;
-मनुष्येषु among men; सः he; युक्तः Yogi; कृत्स्नकर्मकृत् performer of
-all actions.Commentary In common parlance action means movement of the
-body; movement of the hands and feet; and inaction means to sit iet.It
-is the idea of agency; the idea I am the doer that binds man to Samsara.
-If this idea vanishes; action is no action at all. It will not bind one
-to Samsara. This is inaction in action. If you stand as s spectator or
-silent witness of Natures activities; feeling Nature does everything I
-am nondoer (Akarta); if you identify yourself with the actionless Self;
-no matter what work or how much of it is done; action is no action at
-all. This is inaction in action. By such a practice and feeling; action
-loses its binding nature.A man may sit ietly. He may not do anything.
-But if he has the idea of agency or doership; or if he thinks that he is
-the doer; he is every doing action; though he is sitting ietly. This is
-action in inaction. The restless mind will ever be doing actions even
-though one sits ietly. Actions of the mind are real actions. Nor can
-anyone even for one moment remain really actionless; for helplessly is
-everyone driven to action by the alities of Nature. (Chapter
-III.5)Inaction also induces the feeling of egoism. The inactive man
-says; I sit ietly I do nothing. Inaction; like action; is wrongly
-attributed to the Self.He is the performer of all actions who knows this
-truth. He has attained the end of all actions; i.e.; freedom or
-knowledge or perfection.When a steamer moves; the trees on the shore
-which are motionless; appear to move in the opposite direction to a man
-who is in the steamer. Moving objects that are very far away appear to
-be stationary or motionless. Even so in the case of the Self inaction is
-mistaken for action and,action for inaction.The Self is actionless
-(Akarta or nondoer; Nishkriya or without work). The body and the senses
-perform action. The actions of the body and the senses are falsely and
-wrongly attributed by the ignorant to the actionless Self. Therefore the
-ignorant man thinks; I act. He thinks that the Self is the doer or the
-agent of the action. This is a mistake. This is ignorance.Just as motion
-does not really belong to the trees on the shore which appear to move in
-the opposite direction to a man on board the ship; so also action does
-not really pertain to the Self.This ignorance which is the cause of
-birth and death vanishes when you attain Selfrealisaion.
+मनुष्येषु among men; सः he; युक्तः Yogi; कृत्स्नकर्मकृत् performer of all actions.Commentary In common parlance action means movement of the body; movement of the hands and feet; and inaction means to sit iet.It is the idea of agency; the idea I am the doer that binds man to Samsara.
+If this idea vanishes; action is no action at all. It will not bind one to Samsara. This is inaction in action. If you stand as s spectator or silent witness of Natures activities; feeling Nature does everything I am nondoer (Akarta); if you identify yourself with the actionless Self;
+no matter what work or how much of it is done; action is no action at all. This is inaction in action. By such a practice and feeling; action loses its binding nature.A man may sit ietly. He may not do anything.
+But if he has the idea of agency or doership; or if he thinks that he is the doer; he is every doing action; though he is sitting ietly. This is action in inaction. The restless mind will ever be doing actions even though one sits ietly. Actions of the mind are real actions. Nor can anyone even for one moment remain really actionless; for helplessly is everyone driven to action by the alities of Nature. (Chapter III.5)Inaction also induces the feeling of egoism. The inactive man says; I sit ietly I do nothing. Inaction; like action; is wrongly attributed to the Self.He is the performer of all actions who knows this truth. He has attained the end of all actions; i.e.; freedom or knowledge or perfection.When a steamer moves; the trees on the shore which are motionless; appear to move in the opposite direction to a man who is in the steamer. Moving objects that are very far away appear to be stationary or motionless. Even so in the case of the Self inaction is mistaken for action and,action for inaction.The Self is actionless
+(Akarta or nondoer; Nishkriya or without work). The body and the senses perform action. The actions of the body and the senses are falsely and wrongly attributed by the ignorant to the actionless Self. Therefore the ignorant man thinks; I act. He thinks that the Self is the doer or the agent of the action. This is a mistake. This is ignorance.Just as motion does not really belong to the trees on the shore which appear to move in the opposite direction to a man on board the ship; so also action does not really pertain to the Self.This ignorance which is the cause of birth and death vanishes when you attain Selfrealisaion.
 
 </details>
 </div>

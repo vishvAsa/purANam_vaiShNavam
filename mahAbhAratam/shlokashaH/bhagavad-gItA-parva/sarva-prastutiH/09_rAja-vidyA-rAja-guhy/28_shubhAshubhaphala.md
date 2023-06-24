@@ -61,15 +61,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.28 Thus, eipped with a mind which is firmly set in Yoga, called
-Sannyasa, considering yourself as one whose delight lies in being a
-subsidiary (Sesa) to Me and subject to My control and all acts to be My
-worship, and engaging yourself in secular and Vedic actions with such an
-attitude, you will free yourself from countless bonds, called ancient
-Karmas, productive of auspicious and inauspicious results which stands
-as a hindrance preventing you from attaining Me. Freed from them, you
-shall come to Me only. Listen now, to My supreme nature which transcends
-the world:
+9.28 Thus, eipped with a mind which is firmly set in Yoga, called Sannyasa, considering yourself as one whose delight lies in being a subsidiary (Sesa) to Me and subject to My control and all acts to be My worship, and engaging yourself in secular and Vedic actions with such an attitude, you will free yourself from countless bonds, called ancient Karmas, productive of auspicious and inauspicious results which stands as a hindrance preventing you from attaining Me. Freed from them, you shall come to Me only. Listen now, to My supreme nature which transcends the world:
 
 </details>
 </div>
@@ -388,18 +380,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.28. Thus, you shall be freed from the good and evi results which are
-the action-bonds. Having your innate nature immersed in the Yoga of
-renunciation and (thus) being fully liberated you shall attain Me.
+9.28. Thus, you shall be freed from the good and evi results which are the action-bonds. Having your innate nature immersed in the Yoga of renunciation and (thus) being fully liberated you shall attain Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.28 Thus, you will become free from bondage in the form of actions
-which are productive of good and bad results. Havng your mind inbued
-with the yoga of renunciation and becoming free, you will attain Me.
+9.28 Thus, you will become free from bondage in the form of actions which are productive of good and bad results. Havng your mind inbued with the yoga of renunciation and becoming free, you will attain Me.
 
 </details>
 </div>
@@ -407,25 +395,21 @@ with the yoga of renunciation and becoming free, you will attain Me.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 9.28 So shall thy action be attended by no result, either good or bad;
-but through the spirit of renunciation thou shalt come to Me and be
-free.
+but through the spirit of renunciation thou shalt come to Me and be free.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.28 Thus eipped in mind with the Yoga of renunciation, you will free
-yourself from the bonds of Karma, productive of auspicious as well as
-inauspicious fruits. Thus liberated, you will come to Me.
+9.28 Thus eipped in mind with the Yoga of renunciation, you will free yourself from the bonds of Karma, productive of auspicious as well as inauspicious fruits. Thus liberated, you will come to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/28_shubhAshubhaphala.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.28 Thus shalt thou be freed from the bonds of actions yielding good
-and evil fruits; with the mind steadfast in the Yoga of renunciation,
+9.28 Thus shalt thou be freed from the bonds of actions yielding good and evil fruits; with the mind steadfast in the Yoga of renunciation,
 and liberated, thou shalt come unto Me.
 
 </details>
@@ -435,21 +419,7 @@ and liberated, thou shalt come unto Me.
 
 9.28 शुभाशुभफलैः from good and evil fruits; एवम् thus; मोक्ष्यसे (thou)
 shalt be freed; कर्मबन्धनैः from the bonds of actions;
-संन्यासयोगयुक्तात्मा with the mind steadfast in the Yoga of
-renunciation; विमुक्तः liberated; माम् to Me; उपैष्यसि (thou) shalt
-come.Commentary Evam Thus -- when you thus offer everything to
-Me.Renunciation of the fruits of all works is Sannyasa. He who is eipped
-with the mind steadfast in the Yog of renunciation is
-Sannyasayogayuktatma. The act of offering everything unto the
-Lord,constitutes the Yoga of renunciation. It is also Yoga as it is an
-action. With the mind endowed with renunciation and Yoga thou shalt be
-freed from good and evil results while yet living and thou shalt come
-unto Me when this body falls.An objector says; Then the Lord has love
-and hatred as He confers His grace on His devotees only and not on
-others.The answer is; Not so. The Lord is impartial and is beyond love
-and hatred. His grace flows towards all. But the devotee recieves it
-freely as he has opened his heart to the reception of His grace.This is
-explained in the next verse.
+संन्यासयोगयुक्तात्मा with the mind steadfast in the Yoga of renunciation; विमुक्तः liberated; माम् to Me; उपैष्यसि (thou) shalt come.Commentary Evam Thus -- when you thus offer everything to Me.Renunciation of the fruits of all works is Sannyasa. He who is eipped with the mind steadfast in the Yog of renunciation is Sannyasayogayuktatma. The act of offering everything unto the Lord,constitutes the Yoga of renunciation. It is also Yoga as it is an action. With the mind endowed with renunciation and Yoga thou shalt be freed from good and evil results while yet living and thou shalt come unto Me when this body falls.An objector says; Then the Lord has love and hatred as He confers His grace on His devotees only and not on others.The answer is; Not so. The Lord is impartial and is beyond love and hatred. His grace flows towards all. But the devotee recieves it freely as he has opened his heart to the reception of His grace.This is explained in the next verse.
 
 </details>
 </div>

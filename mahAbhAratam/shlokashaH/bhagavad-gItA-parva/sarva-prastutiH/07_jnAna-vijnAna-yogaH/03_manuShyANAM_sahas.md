@@ -62,16 +62,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.3 'Men', i.e., those who are alified for observing the ;nds of the
-Sastras - among thousands of such men, only some one strives till the
-attainment of perfection. Among thousands who strive till the attainment
-of perfection, some one only, understanding Me, strives to attain
-success through Me (i.e., through My grace). Among thousands of those
-who might know Me, some one only knows Me in reality, as I am. In other
-words, there is no one who is capable of knowing Me as I am, i.e., as
-distinguished from all other entities, as implied in the expression
-Vijnana. Sri Krsna will declare later on: 'It is very hard to find such
-a great-souled person' (7.19), and 'But no one knows Me' (7.26).
+7.3 'Men', i.e., those who are alified for observing the ;nds of the Sastras - among thousands of such men, only some one strives till the attainment of perfection. Among thousands who strive till the attainment of perfection, some one only, understanding Me, strives to attain success through Me (i.e., through My grace). Among thousands of those who might know Me, some one only knows Me in reality, as I am. In other words, there is no one who is capable of knowing Me as I am, i.e., as distinguished from all other entities, as implied in the expression Vijnana. Sri Krsna will declare later on: 'It is very hard to find such a great-souled person' (7.19), and 'But no one knows Me' (7.26).
 
 </details>
 </div>
@@ -417,43 +408,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.3. Among thousands of men, perchance, one makes effort for the
-determined knowledge. Among those, having the determined knowledge-even
-though they make effort-perchance one realises Me correctly.
+7.3. Among thousands of men, perchance, one makes effort for the determined knowledge. Among those, having the determined knowledge-even though they make effort-perchance one realises Me correctly.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.3 Among thousands of men a rare one endeavours for perfection. Even of
-the perfected ones who are diligent, one perchance knows Me in truth.
+7.3 Among thousands of men a rare one endeavours for perfection. Even of the perfected ones who are diligent, one perchance knows Me in truth.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.3 Among thousands of men scarcely one strives for perfection, and even
-amongst those who gain occult powers, perchance but one knows me in
-truth.
+7.3 Among thousands of men scarcely one strives for perfection, and even amongst those who gain occult powers, perchance but one knows me in truth.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.3 Among thousands of men, some one strives for perfection; even among
-those who strive for perfection, some one only knows Me; and among those
-who know Me, some one only knows Me in reality.
+7.3 Among thousands of men, some one strives for perfection; even among those who strive for perfection, some one only knows Me; and among those who know Me, some one only knows Me in reality.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/03_manuShyANAM_sahas.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.3 Among thousands of men, one perchance strives for perfection; even
-among those successful strivers, only one perchance knows Me in essence.
+7.3 Among thousands of men, one perchance strives for perfection; even among those successful strivers, only one perchance knows Me in essence.
 
 </details>
 </div>
@@ -463,20 +446,10 @@ among those successful strivers, only one perchance knows Me in essence.
 7.3 मनुष्याणाम् of men; सहस्रेषु among thousands; कश्चित् some one; यतति
 strives; सिद्धये for perfection; यतताम् of the striving ones; अपि even;
 सिद्धानाम् of the successful ones; कश्चित् some one; माम् Me; वेत्ति
-knows; तत्त्वतः in essence.Commentary Mark how difficult it is to attain
-to the knowledge of the Self or to how Brahman in essence. Siddhanam
-literally means those who have attained to perfection (the perfected
-ones) but here it means only those who strive to attain perfection.Those
-who purchase diamonds; rubies or pearls are few. Those who study the
-postgraduate course are few. Even so those who attempt for
-Selfrealisation and who actually know the Truth in essence are few only.
+knows; तत्त्वतः in essence.Commentary Mark how difficult it is to attain to the knowledge of the Self or to how Brahman in essence. Siddhanam literally means those who have attained to perfection (the perfected ones) but here it means only those who strive to attain perfection.Those who purchase diamonds; rubies or pearls are few. Those who study the postgraduate course are few. Even so those who attempt for Selfrealisation and who actually know the Truth in essence are few only.
 The liberated ones (Jivanmuktas) are rare. Real Sadhakas are also rare.
 The,knowledge of the Self bestows incalculable fruits on man; viz.;
-immortality; eternal bliss; perennial joy and everlasting peace. It is
-very difficult to attain to this knowledge of the Self. But a good and
-earnest spiritual aspirant (Sadhaka) who is endowed with a strong
-determination and iron resolve; and who is eipped with the four means to
-salvation can easily obtain the knowledge of the Self.
+immortality; eternal bliss; perennial joy and everlasting peace. It is very difficult to attain to this knowledge of the Self. But a good and earnest spiritual aspirant (Sadhaka) who is endowed with a strong determination and iron resolve; and who is eipped with the four means to salvation can easily obtain the knowledge of the Self.
 
 </details>
 </div>

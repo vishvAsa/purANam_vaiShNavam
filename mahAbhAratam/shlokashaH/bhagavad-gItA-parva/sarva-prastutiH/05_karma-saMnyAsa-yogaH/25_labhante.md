@@ -65,16 +65,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.25 The sages are seers who are devoted to the vision of the self. For
-them the pairs of opposites are annulled; i.e., they are freed from
-pairs of opposites like cold and heat, etc. 'They have their minds well
-subdued,' i.e., their minds are directed to the self. 'They are devoted
-to the welfare of all beings,' i.e., they are interested in the welfare
-of all beings like their own selves. Those persons who are like this
-have all their impurities, which are incompatible with the attainment of
-the self, annulled, and they attain to the bliss of the Brahman. For
-those possessing the characteristics mentioned above, Sri Krsna now
-teaches that the Brahman is easy to attain.
+5.25 The sages are seers who are devoted to the vision of the self. For them the pairs of opposites are annulled; i.e., they are freed from pairs of opposites like cold and heat, etc. 'They have their minds well subdued,' i.e., their minds are directed to the self. 'They are devoted to the welfare of all beings,' i.e., they are interested in the welfare of all beings like their own selves. Those persons who are like this have all their impurities, which are incompatible with the attainment of the self, annulled, and they attain to the bliss of the Brahman. For those possessing the characteristics mentioned above, Sri Krsna now teaches that the Brahman is easy to attain.
 
 </details>
 </div>
@@ -344,46 +335,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.25. At all times there is the tranil Brahman for the ascetics who have
-severed their connection with desire and anger, who have controlled
-their mind and have realised their Self.
+5.25. At all times there is the tranil Brahman for the ascetics who have severed their connection with desire and anger, who have controlled their mind and have realised their Self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.25 The seers whose sins have been attenuated, who are freed from
-doubt, whose organs are under control, who are engaged in doing good to
-all beings, attain absorption in Brahman.
+5.25 The seers whose sins have been attenuated, who are freed from doubt, whose organs are under control, who are engaged in doing good to all beings, attain absorption in Brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/25_labhante.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.25 Sages whose sins have been washed away, whose sense of separateness
-has vanished, who have subdued themselves, and seek only the welfare of
-all, come to the Eternal Spirit.
+5.25 Sages whose sins have been washed away, whose sense of separateness has vanished, who have subdued themselves, and seek only the welfare of all, come to the Eternal Spirit.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.25 The sages who are free from the pairs of opposites, whose minds are
-well subdued and who are devoted to the welfare of all beings, become
-cleansed of all impurities and attain the bliss of the Brahman.
+5.25 The sages who are free from the pairs of opposites, whose minds are well subdued and who are devoted to the welfare of all beings, become cleansed of all impurities and attain the bliss of the Brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/25_labhante.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.25 The sages (Rishis) obtain absolute freedom or Moksha they whose
-sins have been destroyed, whose dualities (perception of dualities or
-experience of the pairs of opposites) are torn asunder, who are
-self-controlled, and intent on the welfare of all beings.
+5.25 The sages (Rishis) obtain absolute freedom or Moksha they whose sins have been destroyed, whose dualities (perception of dualities or experience of the pairs of opposites) are torn asunder, who are self-controlled, and intent on the welfare of all beings.
 
 </details>
 </div>
@@ -391,15 +371,8 @@ self-controlled, and intent on the welfare of all beings.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 5.25 लभन्ते obtain; ब्रह्मनिर्वाणम् absolute freedom; ऋषयः the Rishis;
-क्षीणकल्मषाः those whose sins are destroyed; छिन्नद्वैधाः whose
-dualities are torn asunder; यतात्मानः those who are selfcontrolled;
-सर्वभूतहिते in the welfare of all beings; रताः rejoicing.Commentary Sins
-are destroyed by the performance of Agnihotra (a daily obligatoyr
-ritual) and other Yajnas (vide notes on verse III. 13) without
-expectation of their fruits and by other selfless services. The duties
-vanish by constant meditation on the nondual Brahman. He never hurts
-others in thought; word and deed; and he is devoted to the welfare of
-all beings as he feels that all beings are but his own Self. (Cf.XII.4)
+क्षीणकल्मषाः those whose sins are destroyed; छिन्नद्वैधाः whose dualities are torn asunder; यतात्मानः those who are selfcontrolled;
+सर्वभूतहिते in the welfare of all beings; रताः rejoicing.Commentary Sins are destroyed by the performance of Agnihotra (a daily obligatoyr ritual) and other Yajnas (vide notes on verse III. 13) without expectation of their fruits and by other selfless services. The duties vanish by constant meditation on the nondual Brahman. He never hurts others in thought; word and deed; and he is devoted to the welfare of all beings as he feels that all beings are but his own Self. (Cf.XII.4)
 
 </details>
 </div>

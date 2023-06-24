@@ -64,14 +64,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.39 After attaining knowledge through instruction in the manner
-described, he must have firm faith in it and the possibility of its
-development into ripe knowledge. He must be intent on it, i.e., his mind
-must be focussed thereupon. He must control his senses and keep them
-away from all their objects. Soon will he then reach the aforesaid state
-of maturity and obtain knowledge. Soon after attaining such kind of
-knowledge, he will reach supreme peace, i.e., he attains the supreme
-Nirvana (realisation of the self).
+4.39 After attaining knowledge through instruction in the manner described, he must have firm faith in it and the possibility of its development into ripe knowledge. He must be intent on it, i.e., his mind must be focussed thereupon. He must control his senses and keep them away from all their objects. Soon will he then reach the aforesaid state of maturity and obtain knowledge. Soon after attaining such kind of knowledge, he will reach supreme peace, i.e., he attains the supreme Nirvana (realisation of the self).
 
 </details>
 </div>
@@ -404,9 +397,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.39. He, who has faith, gains knowledge, if he is solely intending upon
-it and has his sense-organs well-controlled; having gained the
-knowledge, he attains, before long, the Peace Supreme.
+4.39. He, who has faith, gains knowledge, if he is solely intending upon it and has his sense-organs well-controlled; having gained the knowledge, he attains, before long, the Peace Supreme.
 
 </details>
 </div>
@@ -421,27 +412,21 @@ attains Knowledge. Achieving Knowledge, one soon attains supreme Peace.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.39 He who is full of faith attains wisdom, and he too who can control
-his senses, having attained that wisdom, he shall ere long attain
-Supreme Peace.
+4.39 He who is full of faith attains wisdom, and he too who can control his senses, having attained that wisdom, he shall ere long attain Supreme Peace.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.39 He who has faith, who is intent on it, and who has mastered his
-senses, attains knowledge. Having attained knowledge, he goes soon to
-supreme peace.
+4.39 He who has faith, who is intent on it, and who has mastered his senses, attains knowledge. Having attained knowledge, he goes soon to supreme peace.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/39_shraddhAvA.Nllabh.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.39 The man who is full of faith, who is devoted to it, and who has
-subdued the senses obtains (this) knowledge; and having obtained the
-knowledge he attains at once to the supreme peace.
+4.39 The man who is full of faith, who is devoted to it, and who has subdued the senses obtains (this) knowledge; and having obtained the knowledge he attains at once to the supreme peace.
 
 </details>
 </div>
@@ -452,11 +437,7 @@ knowledge he attains at once to the supreme peace.
 तत्परः devoted; संयतेन्द्रियः who has subdued the senses; ज्ञानम्
 knowledge; लब्ध्वा having obtained; पराम् supreme; शान्तिम् to peace;
 अचिरेण at once; अधिगच्छति attains.Commentary He who is full of faith;
-who constantly serves his Guru and hears his teachings; who has subdued
-the senses surely gets the knowledge and ickly attains the supreme peace
-or salvation (Moksha). All the above three alifications are
-indispensable for an aspirant if he wants to attain to the supreme peace
-of the Eternal ickly. One alifiaction alone will not suffice.
+who constantly serves his Guru and hears his teachings; who has subdued the senses surely gets the knowledge and ickly attains the supreme peace or salvation (Moksha). All the above three alifications are indispensable for an aspirant if he wants to attain to the supreme peace of the Eternal ickly. One alifiaction alone will not suffice.
 (Cf.X.10;11)
 
 </details>

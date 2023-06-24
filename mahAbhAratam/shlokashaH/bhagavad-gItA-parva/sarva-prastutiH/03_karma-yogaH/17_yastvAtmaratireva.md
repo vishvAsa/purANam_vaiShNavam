@@ -71,15 +71,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/17_yastvAtmaratireva.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.17 But for him, who is not in need of the means of Jnana Yoga and
-Karma Yoga, who finds delight in the self on his own, i.e., who is
-established in the self, who is satisfied by the self alone and not by
-food, drink and other things which are other than the self, who rejoices
-in the self alone and not in pleasure gardens, garlands, sandalpaste,
-vocal and instrumental music etc., and for whom everything, his
-subsistence, nourishment and enjoyment, is the self alone - for him
-nothing remains to be performed for the vision of the self, because the
-essential nature of the self is perpetually in his unaided vision.
+3.17 But for him, who is not in need of the means of Jnana Yoga and Karma Yoga, who finds delight in the self on his own, i.e., who is established in the self, who is satisfied by the self alone and not by food, drink and other things which are other than the self, who rejoices in the self alone and not in pleasure gardens, garlands, sandalpaste,
+vocal and instrumental music etc., and for whom everything, his subsistence, nourishment and enjoyment, is the self alone - for him nothing remains to be performed for the vision of the self, because the essential nature of the self is perpetually in his unaided vision.
 
 </details>
 </div>
@@ -518,45 +511,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/17_yastvAtmaratireva.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.17. But the man, who simply rejoices in the Self; and who is satisfied
-in the Self; and who delights in the Self alone-there exists no action
-for him to be performed.
+3.17. But the man, who simply rejoices in the Self; and who is satisfied in the Self; and who delights in the Self alone-there exists no action for him to be performed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/17_yastvAtmaratireva.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.17 But that man who rejoices only in theSelf and is satisfied with the
-Self, and is contented only in the Self-for him there is no duty to
-perform.
+3.17 But that man who rejoices only in theSelf and is satisfied with the Self, and is contented only in the Self-for him there is no duty to perform.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/17_yastvAtmaratireva.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.17 On the other hand, the soul who meditates on the Self is content to
-serve the Self and rests satisfied within the Self; there remains
-nothing more for him to accomplish.
+3.17 On the other hand, the soul who meditates on the Self is content to serve the Self and rests satisfied within the Self; there remains nothing more for him to accomplish.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/17_yastvAtmaratireva.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.17 But the man whose delight is only in the self, who is satisfied
-with the self, who rejoices in the self, for him nothing remains to be
-accomplished.
+3.17 But the man whose delight is only in the self, who is satisfied with the self, who rejoices in the self, for him nothing remains to be accomplished.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/17_yastvAtmaratireva.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.17 But for that man who rejoices only in the Self, who is satisfied
-with the Self and who is content in the Self alone, verily there is
-nothing to do.
+3.17 But for that man who rejoices only in the Self, who is satisfied with the Self and who is content in the Self alone, verily there is nothing to do.
 
 </details>
 </div>
@@ -565,13 +548,8 @@ nothing to do.
 
 3.17 यः who; तु but; आत्मरतिः who rejoices in the Self; एव only; स्यात्
 may be; आत्मतृप्तः satisfied in the Self; च and; मानवः the man; आत्मनि
-in the Self; एव only; च and; सन्तुष्टः contented; तस्य his; कार्यम् work
-to be done; न not; विद्यते is.Commentary The sage does not depend on
-external objects for his happiness. He is ite satisfied with the Self.
-He finds his joy; bliss and contentment within his own Self. For such a
-sage who has knowledge of the Self; there is nothing to do. He has
-already done all actions. He has satisfied all his desires. He has
-complete satisfaction. (Cf.II.55).
+in the Self; एव only; च and; सन्तुष्टः contented; तस्य his; कार्यम् work to be done; न not; विद्यते is.Commentary The sage does not depend on external objects for his happiness. He is ite satisfied with the Self.
+He finds his joy; bliss and contentment within his own Self. For such a sage who has knowledge of the Self; there is nothing to do. He has already done all actions. He has satisfied all his desires. He has complete satisfaction. (Cf.II.55).
 
 </details>
 </div>

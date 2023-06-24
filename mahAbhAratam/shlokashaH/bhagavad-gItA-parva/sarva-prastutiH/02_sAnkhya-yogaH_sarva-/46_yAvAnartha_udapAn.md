@@ -38,18 +38,47 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+
+।।2.46।। अथ सनिदर्शनमधिकारिभेदं प्रतिपादयन्तंयावानर्थः इत्यादिश्लोकं
+व्याचष्टे न चेति। वर्णाश्रमप्रवर चरणादिभेदेन प्रतिनियताधिकारिविषया हि
+वेदोदिता धर्मा इति भावः। सर्वार्थपरिकल्पित इति
+तत्तत्प्रयोजनाभिलाषिसर्वाधिकार्यर्थं परिकल्पिते। यद्वा सर्वशब्दः
+प्रयोजनकात्स्न्र्यपरः स्नानपानादिनानाप्रयोजनार्थं परिकल्पिते।
+एतच्चसर्वतस्सम्प्लुतोदके इत्यनेनार्थसिद्धमुक्तम्। उदपानं
+कूपतटाकादि। पिपासोरिति दार्ष्टान्तिकप्रस्थानानुरोधेनाध्याहारः। नन्वत्र
+दृष्टान्तदार्ष्टान्तिकयोः का सङ्गतिः न हि पिपासोरुदपाने यावत्प्रयोजनं
+तावदेव विजानतः सर्वेषु वेदेष्वित्याशङ्कां परिहर्तुं
+वाक्यपूरणायाध्याहृत्योक्तम् तावदेव तेनोपादीयत इत्यादि। सर्वेषु चेति
+चशब्द उपादेयानुपादेयांशसङ्कलनद्योतनार्थः। ननुब्राह्मणस्य
+इत्येतत्प्रकरणासङ्गतम् क्षत्ति्रयायैव ह्युपदिश्यते। कश्चात्र ब्राह्मणस्य
+विशेषः ब्रह्मविद्याया अपि त्रैवर्णिकसाधारणत्वात्। विजानतः इति चायुक्तम्
+विजानन्नेव हि कामनाधिकारादिष्वपि प्रवर्तते। ब्राह्मणशब्दश्चात्र नतदधीते
+अष्टा.4।2।59 इत्याद्यर्थान्तरपरःब्राह्मोऽजातौ अष्टा.6।4।171 इति निपातनेन
+जातिव्यतिरिक्तार्थे ब्राह्म इत्येव वक्तव्यत्वात्। तत्राह वैदिकस्य
+मुमुक्षोरिति। ब्रह्म अणतीति निरुक्त्या ब्राह्मणःशकन्ध्वादिषु पररूपं
+वक्तव्यम् अष्टा.1।1।64 इति पररूपे कृते प्रज्ञादित्वादण्प्रत्यये च
+ब्राह्मण इति रूपं भवति। ब्रह्म चात्र वेदः वेदेष्वित्यत्रैव
+प्रसक्तत्वात्। अतोऽत्र ब्राह्मणशब्दो वैदिकमात्रपर इति न
+क्षत्ति्रयार्थोपदेशाद्यनुपपत्तिः। ब्राह्मणशब्दस्यात्र
+सन्न्यासिपरत्वेनशङ्करव्याख्या त्वतिमन्दा। अमौनं च मौनं च निर्विद्याथ
+ब्राह्मणः बृ.उ.3।5।1 इति श्रुतिस्तु योगिनः प्रकृष्टतरान्तरसत्त्वं
+अवस्थाविशेषमाह। विजानतः इति च विशिष्टज्ञानवत्त्वमुच्यते। विशिष्टत्वं च
+हेयोपादेयविषयतया। तथाविधज्ञानवांश्च मुमुक्षुरेव स्यादिति। तावानित्यस्य
+व्यवच्छेद्यमाह नान्यदिति। वेदोदितमपि न मोक्षसाधनव्यतिरिक्तमुपादेयम्
+अनधिकृतत्वात्। न ह्यन्यवर्णाश्रमान्यफलकामुकादिधर्मोऽन्यस्योपादेय इति
+भावः।  
+  
+  
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.46 Whatever use, a thirsty person has for a reservoir, which is
-flooded with water on all sides and which has been constructed for all
-kinds of purposes like irrigation, only to that extent of it, i.e.,
-enough to drink will be of use to the thirsty person and not all the
-water. Likewise, whatever in all the Vedas from the means for release to
-a knowing Brahmana, i.e., one who is established in the study of the
-Vedas and who aspires for release only to that extent is it to be
-accepted by him and not anything else. Sri Krsna now says that this much
-alone is to be accepted by an aspirant, established in Sattva:
+2.46 Whatever use, a thirsty person has for a reservoir, which is flooded with water on all sides and which has been constructed for all kinds of purposes like irrigation, only to that extent of it, i.e.,
+enough to drink will be of use to the thirsty person and not all the water. Likewise, whatever in all the Vedas from the means for release to a knowing Brahmana, i.e., one who is established in the study of the Vedas and who aspires for release only to that extent is it to be accepted by him and not anything else. Sri Krsna now says that this much alone is to be accepted by an aspirant, established in Sattva:
 
 </details>
 </div>
@@ -451,43 +480,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.46. What portion in a reservoir, flooded with water everywhere, is
-useful \[for a man in thirst\], that much portion \[alone\] in all the
-Vedas is useful for an intelligent student of the Vedas.
+2.46. What portion in a reservoir, flooded with water everywhere, is useful \[for a man in thirst\], that much portion \[alone\] in all the Vedas is useful for an intelligent student of the Vedas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.46 A Brahmana with realization has that much utility in all the Vedas
-as a man has in a well when there is a flood all around.
+2.46 A Brahmana with realization has that much utility in all the Vedas as a man has in a well when there is a flood all around.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.46 As a man can drink water from any side of a full tank, so the
-skilled theologian can wrest from any scripture that which will serve
-his purpose.
+2.46 As a man can drink water from any side of a full tank, so the skilled theologian can wrest from any scripture that which will serve his purpose.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.46 What use a thirsty person has for a water reservoir when all sides
-of it are flooded - that much alone is the use of all the Vedas for a
-Brahmana who knows.
+2.46 What use a thirsty person has for a water reservoir when all sides of it are flooded - that much alone is the use of all the Vedas for a Brahmana who knows.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/46_yAvAnartha_udapAn.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.46 To the Brahmana who has known the Self, all the Vedas are of as
-much use as is a reservoir of water in a place where there is a flood.
+2.46 To the Brahmana who has known the Self, all the Vedas are of as much use as is a reservoir of water in a place where there is a flood.
 
 </details>
 </div>
@@ -495,15 +516,7 @@ much use as is a reservoir of water in a place where there is a flood.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.46 यावान् as much; अर्थः use; उदपाने in a reservoir; सर्वतः
-everywhere; संप्लुतोदके being flooded; तावान्,so much (use); सर्वेषु in
-all; वेदेषु in the Vedas; ब्राह्मणस्य of the Brahmana; विजानतः of the
-knowing.Commentary Only for a sage who has realised the Self; the Vedas
-are of no use; because he is in possession of the infinite knowledge of
-the Self. This does not; however; mean that the Vedas are useless. They
-are useful for the neophytes or the aspirants who have just started on
-the spiritual path.All the transient pleasures derivable from the proper
-performance of all actions enjoined in the Vedas are comprehended in the
-infinite bliss of Selfknowledge.
+everywhere; संप्लुतोदके being flooded; तावान्,so much (use); सर्वेषु in all; वेदेषु in the Vedas; ब्राह्मणस्य of the Brahmana; विजानतः of the knowing.Commentary Only for a sage who has realised the Self; the Vedas are of no use; because he is in possession of the infinite knowledge of the Self. This does not; however; mean that the Vedas are useless. They are useful for the neophytes or the aspirants who have just started on the spiritual path.All the transient pleasures derivable from the proper performance of all actions enjoined in the Vedas are comprehended in the infinite bliss of Selfknowledge.
 
 </details>
 </div>

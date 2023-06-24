@@ -82,22 +82,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.37 - 6.39 Arjuna said What way does he go, who has embarked on Yoga
-endowed with faith, but who by inadeacy of exertion in practice, does
-not gain success in Yoga and has his mind wandering from Yoga; Does he
-not perish like a small piece of cloud torn from a large mass of cloud -
-perish without reaching another large mass of cloud; Now does he not
-fall away from both (sides); He has no support and is confused on the
-path leading to the Brahman. He is without any support in the sense that
-Karma or rituals which constitutes the means of heaven etc., does not
-give support for a person who is devoid of attachment to fruits; for
-Karma is the means for generating its own fruits. He is also confused in
-the path leading to the Brahman on which he has just begun to traverse;
-He has lost his way. Does he then get lost by falling down from both
-sides, these being attainment of heaven on the one hand and liberation
-on the other. Does he not thus perish; You should remove this doubt
-altogether from my mind; for there is no other remover of this doubt
-than You, who always perceive directly all matters simultaneously.
+6.37 - 6.39 Arjuna said What way does he go, who has embarked on Yoga endowed with faith, but who by inadeacy of exertion in practice, does not gain success in Yoga and has his mind wandering from Yoga; Does he not perish like a small piece of cloud torn from a large mass of cloud -
+perish without reaching another large mass of cloud; Now does he not fall away from both (sides); He has no support and is confused on the path leading to the Brahman. He is without any support in the sense that Karma or rituals which constitutes the means of heaven etc., does not give support for a person who is devoid of attachment to fruits; for Karma is the means for generating its own fruits. He is also confused in the path leading to the Brahman on which he has just begun to traverse;
+He has lost his way. Does he then get lost by falling down from both sides, these being attainment of heaven on the one hand and liberation on the other. Does he not thus perish; You should remove this doubt altogether from my mind; for there is no other remover of this doubt than You, who always perceive directly all matters simultaneously.
 
 </details>
 </div>
@@ -421,8 +408,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.37. Arjuna said A person who has faith and is desirous of reaching the
-path (goal) of the good; \[but\] whose mind has severed from the Yoga;
+6.37. Arjuna said A person who has faith and is desirous of reaching the path (goal) of the good; \[but\] whose mind has severed from the Yoga;
 to which goal does he go, having failed to attain the success in Yoga ;
 O Krsna !
 
@@ -431,51 +417,36 @@ O Krsna !
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.37 Arjuna said O krsna, failing to achieve perfection in Yoga, what
-goal does one attain who, though possessed of faith, is not diligent and
-whose mind becomes deflected from Yoga;
+6.37 Arjuna said O krsna, failing to achieve perfection in Yoga, what goal does one attain who, though possessed of faith, is not diligent and whose mind becomes deflected from Yoga;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.37 Arjuna asked: He who fails to control himself, whose mind falls
-from spiritual contemplation, who attains not perfection but retains his
-faith, what of him, my Lord;
+6.37 Arjuna asked: He who fails to control himself, whose mind falls from spiritual contemplation, who attains not perfection but retains his faith, what of him, my Lord;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.37 Arjuna said If a person, who is possessed of faith but has put in
-only inadeate effort, finds his mind wandering away from Yoga, and then
-fails to attain perfection - what way does he go, O Krsna;
+6.37 Arjuna said If a person, who is possessed of faith but has put in only inadeate effort, finds his mind wandering away from Yoga, and then fails to attain perfection - what way does he go, O Krsna;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.37 Arjuna said He who is unable to control himself though he has the
-faith, and whose mind wanders away from Yoga, what end does he, having
-failed to attain perfection in Yoga, mee,t O Krishna;
+6.37 Arjuna said He who is unable to control himself though he has the faith, and whose mind wanders away from Yoga, what end does he, having failed to attain perfection in Yoga, mee,t O Krishna;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/37_ayatiH_shraddhayo.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-6.37 अयतिः uncontrolled; श्रद्धया by faith; उपेतः possessed; योगात् from
-Yoga; चलितमानसः one whose mind wanders away; अप्राप्य not having
-attained; योगसंसिद्धिम् perfection in Yoga; काम् which; गतिम् end; कृष्ण
-O Krishna; गच्छति meets.Commentary He has faith in the efficacy of Yoga
-but he is not able to control the senses and the mind. He has no
-concentration of mind. His mind wanders away when the last breath
-departs from his body and he loses the memory also. Having failed to
-achieve perfection in Yoga; i.e.; Selfrealisation or the knowledge of
-the Self; what path will he tread; and what end will such a man,meet
+6.37 अयतिः uncontrolled; श्रद्धया by faith; उपेतः possessed; योगात् from Yoga; चलितमानसः one whose mind wanders away; अप्राप्य not having attained; योगसंसिद्धिम् perfection in Yoga; काम् which; गतिम् end; कृष्ण
+O Krishna; गच्छति meets.Commentary He has faith in the efficacy of Yoga but he is not able to control the senses and the mind. He has no concentration of mind. His mind wanders away when the last breath departs from his body and he loses the memory also. Having failed to achieve perfection in Yoga; i.e.; Selfrealisation or the knowledge of the Self; what path will he tread; and what end will such a man,meet
 
 </details>
 </div>

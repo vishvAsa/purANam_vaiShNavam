@@ -56,11 +56,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.32 That Buddhi is of the nature of Tamas which is 'enveloped in
-Tamas' and 'reverses every value.' The meaning is that it regards
-Adharma as Dharma and Dharma as Adharma, existent as non-existent, and
-non-existent as existent, and higher truth as the lower and the lower
-truth as the higher, and thus reverses every value.
+18.32 That Buddhi is of the nature of Tamas which is 'enveloped in Tamas' and 'reverses every value.' The meaning is that it regards Adharma as Dharma and Dharma as Adharma, existent as non-existent, and non-existent as existent, and higher truth as the lower and the lower truth as the higher, and thus reverses every value.
 
 </details>
 </div>
@@ -236,7 +232,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.32।। हे पार्थ ! तमस् (अज्ञान अन्धःकार) से आवृत जो बुद्धि अधर्म को
+।।18.32।। हे पार्थ ! तमस् (अज्ञान अन्ध:कार) से आवृत जो बुद्धि अधर्म को
 ही धर्म मानती है और सभी पदार्थों को विपरीत रूप से जानती है, वह बुद्धि
 तामसी है।।
 
@@ -293,43 +289,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.32. The intellect which, containing darkness (ignorance), conceives
-the unrighteous one as righteous and all things topsy-turvy-that
-intellect is deemed to be of the Tamas (Strand).
+18.32. The intellect which, containing darkness (ignorance), conceives the unrighteous one as righteous and all things topsy-turvy-that intellect is deemed to be of the Tamas (Strand).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.32 O Parhta, that intellect is born of tamas which, being covered by
-darkness, considers vice as virtue, and verily perceives all things
-contrary ot what they are.
+18.32 O Parhta, that intellect is born of tamas which, being covered by darkness, considers vice as virtue, and verily perceives all things contrary ot what they are.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.32 And that which, shrouded in Ignorance, thinks wrong right, and
-sees everything perversely, O Arjuna, that intellect is ruled by
-Darkness.
+18.32 And that which, shrouded in Ignorance, thinks wrong right, and sees everything perversely, O Arjuna, that intellect is ruled by Darkness.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.32 That Buddhi, O Arjuna, which, enveloped in darkness, regards
-Adharma as Dharma and which reverses every value, is Tamasika.
+18.32 That Buddhi, O Arjuna, which, enveloped in darkness, regards Adharma as Dharma and which reverses every value, is Tamasika.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/32_adharman_dharmami.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.32 That, which, enveloped in darkness, sees Adharma as Dharma and all
-things perverted that intellect, O Arjuna, is Tamasic (dark).
+18.32 That, which, enveloped in darkness, sees Adharma as Dharma and all things perverted that intellect, O Arjuna, is Tamasic (dark).
 
 </details>
 </div>
@@ -339,14 +327,7 @@ things perverted that intellect, O Arjuna, is Tamasic (dark).
 18.32 अधर्मम् Adharma; धर्मम् Dharma; इति thus; या which; मन्यते thinks;
 तमसा by darkness; आवृता enveloped; सर्वार्थान् all things; विपरीतान्
 perverted; च and; बुद्धिः intellect; सा that; पार्थ O Partha; तामसी
-Tamasic (dark).Commentary That intellect which regards righteous acts as
-evil; and considers right things to be false; which treats everything in
-a contrary sense and looks upon virtues as if they were vices and takes
-everything that the scriptures declare to be good as being entirely
-wrong; is Tamasic. It views all things in a perverted light.Thus; O
-Arjuna; I have explained to thee the three aspects of the intellect. Now
-listen to the explanation of the characteristics of the three aspects of
-firmness.
+Tamasic (dark).Commentary That intellect which regards righteous acts as evil; and considers right things to be false; which treats everything in a contrary sense and looks upon virtues as if they were vices and takes everything that the scriptures declare to be good as being entirely wrong; is Tamasic. It views all things in a perverted light.Thus; O Arjuna; I have explained to thee the three aspects of the intellect. Now listen to the explanation of the characteristics of the three aspects of firmness.
 
 </details>
 </div>

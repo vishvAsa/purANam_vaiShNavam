@@ -78,14 +78,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.27 It is the Gunas of Prakrti like Sattva, Rajas etc., that perform
-all the activities appropriate to them. But the man, whose nature is
-deluded by his Ahankara, thinks, 'I am the doer of all these actions.'
-Ahankara is the mistaken conception of 'I' applied to the workings of
-Prakrti which is not the 'I'. The meaning is that it is because of this
+3.27 It is the Gunas of Prakrti like Sattva, Rajas etc., that perform all the activities appropriate to them. But the man, whose nature is deluded by his Ahankara, thinks, 'I am the doer of all these actions.'
+Ahankara is the mistaken conception of 'I' applied to the workings of Prakrti which is not the 'I'. The meaning is that it is because of this
 (Ahankara), that one who is ignorant of the real nature of the self,
-thinks, 'I am the doer' with regard to the activities that are really
-being done by the Gunas of Prakrti.
+thinks, 'I am the doer' with regard to the activities that are really being done by the Gunas of Prakrti.
 
 </details>
 </div>
@@ -382,8 +378,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.27. The actions are performed part by part, by the Strands of the
-Prakrti; \[yet\] the person, having his self (mind) deluded with egoity,
+3.27. The actions are performed part by part, by the Strands of the Prakrti; \[yet\] the person, having his self (mind) deluded with egoity,
 imagines 'I am \[alone\] the doer'.
 
 </details>
@@ -391,17 +386,14 @@ imagines 'I am \[alone\] the doer'.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.27 While actions are being done in every way by the gunas (alities) of
-Nature, one who is deluded by egoism thinks thus: 'I am the doer.'
+3.27 While actions are being done in every way by the gunas (alities) of Nature, one who is deluded by egoism thinks thus: 'I am the doer.'
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.27 Action is the product of the Qualities inherent in Nature. It is
-only the ignorant man who, misled by personal egotism, says: I am the
-doer.'
+3.27 Action is the product of the Qualities inherent in Nature. It is only the ignorant man who, misled by personal egotism, says: I am the doer.'
 
 </details>
 </div>
@@ -424,17 +416,10 @@ He whose mind is deluded by egoism thinks, "I am the doer."
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/03_karma-yogaH/27_prakRteH_kriyamAN.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-3.27 प्रकृतेः of nature; क्रियमाणानि are performed; गुणैः by the
-alities; कर्माणि actions; सर्वशः in all cases; अहङ्कारविमूढात्मा one
-whose mind is deluded by egosim; कर्ता doer; अहम् I; इति thus; मन्यते
-thinks.Commentary Prakriti or Pradhana or Nature is that state in which
-the three Gunas; viz.; Sattva; Rajas and Tamas exist in a state of
-eilibrium. When this eilibrium is disturbed; creation begins body;
-senses; mind; etc.; are formed. The man who is deluded by egoism
-identifies the Self with the body; mind; the life force and the senses
-and ascribes to the Self all the attributes of the body and the senses.
-He; therefore; thinks through ignorance; I am the doer. In reality the
-Gunas of Nature perform all actions.
+3.27 प्रकृतेः of nature; क्रियमाणानि are performed; गुणैः by the alities; कर्माणि actions; सर्वशः in all cases; अहङ्कारविमूढात्मा one whose mind is deluded by egosim; कर्ता doer; अहम् I; इति thus; मन्यते
+thinks.Commentary Prakriti or Pradhana or Nature is that state in which the three Gunas; viz.; Sattva; Rajas and Tamas exist in a state of eilibrium. When this eilibrium is disturbed; creation begins body;
+senses; mind; etc.; are formed. The man who is deluded by egoism identifies the Self with the body; mind; the life force and the senses and ascribes to the Self all the attributes of the body and the senses.
+He; therefore; thinks through ignorance; I am the doer. In reality the Gunas of Nature perform all actions.
 (Cf.III.29V.9IX.9;10XIII.21;24;30;32XVIII.13;14).
 
 </details>

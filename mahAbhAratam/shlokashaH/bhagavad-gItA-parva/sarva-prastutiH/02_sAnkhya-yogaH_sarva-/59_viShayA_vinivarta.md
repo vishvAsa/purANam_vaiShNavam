@@ -32,18 +32,56 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.59।। किमर्थमिदमवस्थाचतुष्टयं विभज्योपदिश्यत इत्याह आह एवमिति। प्रथमं
+बाह्येन्द्रियाणि विषयेभ्यः प्रतिसंहृत्य मन आत्मनि व्यवस्थापयितुं यतेत
+इयंयतमानसंज्ञा। अथ बलात्संहृतान्यपि बाह्येन्द्रियाणि
+सावशेषरागद्वेषादिदोषकलुषितं मनः पुनः पुनरवसरे प्रेरयेत् स्वयं चात्मनि
+स्थातुं न शक्नुयात् अतः
+पक्वावशिष्टरागद्वेषादीनौदासीन्यानभिनन्दनादिक्रमेण पचेत्
+इयंव्यतिरेकसंज्ञा। ततः पक्वेऽपि दोषशेषे
+अनादिविषयानुभवभावितवासनामात्रमात्मानमनुबुभूषन्तीं शेमुषीं प्रति
+बिभत्सेत् तत्र निरतिशयानन्दरूपमात्मानं पुरुषद्वेषिण्या योषित इव युवानं
+प्रदर्श्यप्रदर्श्य क्रमादात्मनि तोषं समुत्पाद्य तेन तोषविशेषेण दवीयसा च
+स्मृतिविधुरेण कालेन बाह्यविषयवासनाजालमुन्मूलयितुमीहेत
+सेयंएकेन्द्रियसंज्ञा। या पुनः
+समस्तवासनाविलयादौत्सुक्यमात्रस्याप्यसम्भवेन परमवैराग्यदशा
+सावशीकारसंज्ञा। ज्ञाननिष्ठाकाष्ठा योगाख्यमात्मावलोकनं साधयति।
+तच्चावलोकनं परम्परया निरतिशयपुरुषार्थभूतामृतत्वाय कल्पत इति दर्शितं
+भवति। कामानां तथात्वेनादर्शनं तथा दृश्यमानेष्वपि निस्सङ्गतासङ्गलेशेन
+भुज्यमानेष्वपि नातिस्नेहः प्रचुरेऽपि रागे तन्निरोधसंरम्भ इति
+चावस्थावैषम्यम् आत्मरतित्वं तस्य स्वरूपम्आश्चर्यवद्वदति 2।29 इति तस्य
+तदेकभाषणं तदनुसन्धानरूपं तदासनं तत्प्राप्त्यर्थप्रवृत्तिरूपं तस्य व्रजनं
+चेति प्रश्नचतुष्कोत्तरं सिद्धम्।
+
+
+अथोत्तरप्रकरणं पूर्वेण पृथगर्थं प्रदर्श्य सङ्गमयन्नवतारयति इदानीमिति।
+ज्ञाननिष्ठायाश्चतुर्विधाया अपीति शेषः। निराहारस्य इत्यनेन भोजननिषेधभ्रमं
+व्युदस्यति इन्द्रियाणामित्यादिना। न चैकान्तमनश्नतः 6।16युक्ताहारविहारस्य
+6।17 इति हि वक्ष्यते। अन्यत्रापिअत्याशनादतीपानात् तै.ना.1।34 इति
+ह्युच्यते। मोक्षधर्मे चदशैतानीन्द्रियोक्तानि द्वाराण्याहारसिद्धये
+म.भा.शां.मो. इति सर्वेन्द्रियविषयाणामाहारशब्देन ग्रहणं दृष्टम् न च
+प्रसिद्धाहारनिषेधमात्रादशेषविषयनिवृत्तिः तस्य कतिपयेन्द्रियविषयत्वादिति
+भावः। रसवर्जं इत्येतावति वाक्यतात्पर्यमिति द्योतनाय विनिवर्तमाना
+इत्यनूदितम्। आत्मगोचररागव्यवच्छेदायाह विषयराग इति। प्रस्तुता एव विषयाः
+परमिति निर्देशस्यावधित्वमर्हन्तीतिविषयेभ्य इत्युक्तम्।
+कालादिकृतपरत्वमात्रस्यानुपयुक्तत्वाद्विषयरागनिवर्तनौपयिकं परशब्दार्थमाह
+सुखतरमिति। विषया हि सुखरूपाः आत्मत्वरूपं तु ततोऽप्यतिशयेन सुखरूपम्।
+अत्रदृष्ट्वा निवर्तते इति दर्शनस्य रागकर्तृकतया निर्देश औपचारिकः। यद्वा
+दृष्ट्वा स्थितस्यास्य देहिनो रागो निवर्तत इत्यन्वयः। एवमात्मदर्शनेन विना
+विषयरागो न निवर्तत इत्युक्तम्।  
+  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.59 The sense objects are the food of the senses. From the abstinent
-embodied being, i.e., from one who has withdrawn his senses from
-objects, these sense-objects, being rejected by him, turn away, but not
-the relish for them. Relish means hankering. The meaning is that the
-hankering for the sense-objects does not go away by abstinence alone.
-But even this hankering will go away, when one sees that the essential
-nature of the self is superior to the sense-objects and that the
-realisation of this self gives greater happiness than the enjoyment of
-sense-objects.
+2.59 The sense objects are the food of the senses. From the abstinent embodied being, i.e., from one who has withdrawn his senses from objects, these sense-objects, being rejected by him, turn away, but not the relish for them. Relish means hankering. The meaning is that the hankering for the sense-objects does not go away by abstinence alone.
+But even this hankering will go away, when one sees that the essential nature of the self is superior to the sense-objects and that the realisation of this self gives greater happiness than the enjoyment of sense-objects.
 
 </details>
 </div>
@@ -455,44 +493,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.59. Leaving their taste \[behind\], the sense-objects retreat from the
-embodied who abstain from food; his taste too disappears when he sees
-the Supreme.
+2.59. Leaving their taste \[behind\], the sense-objects retreat from the embodied who abstain from food; his taste too disappears when he sees the Supreme.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.59 The objects recede from an abstinent man, with the exception of the
-taste (for them). Even the taste of this person falls away after
-realization the Absolute.
+2.59 The objects recede from an abstinent man, with the exception of the taste (for them). Even the taste of this person falls away after realization the Absolute.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.59 The objects of sense turn from him who is abstemious. Even the
-relish for them is lost in him who has seen the Truth.
+2.59 The objects of sense turn from him who is abstemious. Even the relish for them is lost in him who has seen the Truth.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.59 The objects of senses, excepting relish for the objects, turn away
-from the abstinent dweller in the body. Even the relish turns aswy from
-him when what is supreme over the senses i.e., the self, is seen.
+2.59 The objects of senses, excepting relish for the objects, turn away from the abstinent dweller in the body. Even the relish turns aswy from him when what is supreme over the senses i.e., the self, is seen.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/59_viShayA_vinivarta.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.59 The objects of the senses turn away from the abstinent man leaving
-the longing (behind); but his longing also turns away on seeing the
-Supreme.
+2.59 The objects of the senses turn away from the abstinent man leaving the longing (behind); but his longing also turns away on seeing the Supreme.
 
 </details>
 </div>
@@ -502,12 +531,7 @@ Supreme.
 2.59 विषयाः the objects of senses; विनिवर्तन्ते turn away; निराहारस्य
 abstinent; देहिनः of the man; रसवर्जम् leaving the longing; रसः loving
 (taste); अपि even; अस्य of his; परम् the Supreme; दृष्ट्वा having seen;
-निवर्तते turns away.Commentary Knowledge of the Self alone can destroy
-in toto the subtle Vasanas (latent tendencies) and all the subtle
-desires; all subtle attachments and even the longing for objects. By
-practising severe austerities; by abandoning the sensual objects; the
-objects of the senses may turn away from the ascetic but the relish or
-taste or longing for the objects will still remain.
+निवर्तते turns away.Commentary Knowledge of the Self alone can destroy in toto the subtle Vasanas (latent tendencies) and all the subtle desires; all subtle attachments and even the longing for objects. By practising severe austerities; by abandoning the sensual objects; the objects of the senses may turn away from the ascetic but the relish or taste or longing for the objects will still remain.
 
 </details>
 </div>

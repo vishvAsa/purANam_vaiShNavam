@@ -53,17 +53,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.56 'Taking refuge in Me' means leaving agency etc., to Me. He who
-performs 'all works constantly' means works that are not only obligatory
-and occasional acts but even those meant to fulfil desires (Kamya
-Karmas) - he attains, by My grace, the eternal realm which is immutable.
+18.56 'Taking refuge in Me' means leaving agency etc., to Me. He who performs 'all works constantly' means works that are not only obligatory and occasional acts but even those meant to fulfil desires (Kamya Karmas) - he attains, by My grace, the eternal realm which is immutable.
 'Pada' means that which is attained. The meaning is that he attains Me.
-\[The idea is that the performance of even those ritualistic actions
-enjoined for those having the fulfilment of certain desires in view,
-even these actions, if done without any such desire but only as the
-worship of the Supreme Person - the have the same effect as the
-performance of the enjoined daily and occasional rituals to which no
-effect except the purification of the self is offered by the Sastras.\]
+\[The idea is that the performance of even those ritualistic actions enjoined for those having the fulfilment of certain desires in view,
+even these actions, if done without any such desire but only as the worship of the Supreme Person - the have the same effect as the performance of the enjoined daily and occasional rituals to which no effect except the purification of the self is offered by the Sastras.\]
 Since it is so, therefore:
 
 </details>
@@ -442,8 +435,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.56. Performing all \[his\] actions all the time and taking refuge in
-Me, he attains, through My Grace, the eternal, changeless state.
+18.56. Performing all \[his\] actions all the time and taking refuge in Me, he attains, through My Grace, the eternal, changeless state.
 
 </details>
 </div>
@@ -458,24 +450,21 @@ attains the eternal, immutable State through My grace.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.56 Relying on Me in all his action and doing them for My sake, he
-attains, by My Grace, Eternal and Unchangeable Life.
+18.56 Relying on Me in all his action and doing them for My sake, he attains, by My Grace, Eternal and Unchangeable Life.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.56 Taking refuge in Me and performing all works constantly, one, by
-My grace, attains the eternal and immutable realm.
+18.56 Taking refuge in Me and performing all works constantly, one, by My grace, attains the eternal and immutable realm.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/56_sarvakarmANyapi_s.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.56 Doing all actions always having taken refuge in Me, by My grace he
-obtains the eternal indestructible state of being.
+18.56 Doing all actions always having taken refuge in Me, by My grace he obtains the eternal indestructible state of being.
 
 </details>
 </div>
@@ -485,17 +474,10 @@ obtains the eternal indestructible state of being.
 18.56 सर्वकर्माणि all actions; अपि also; सदा always; कुर्वाणः doing;
 मद्व्यपाश्रयः taking refuge in Me; मत्प्रसादात् by My grace; अवाप्नोति
 obtains; शाश्वतम् the eternal; पदम् state or abode; अव्ययम्
-indestructible.Commentary Worshipping Me with the flowers of his good
-actions he reaches the imperishable Brahmic seat of ineffable splendour
-through My grace. He attains union with Me and enjoys the supreme bliss.
+indestructible.Commentary Worshipping Me with the flowers of his good actions he reaches the imperishable Brahmic seat of ineffable splendour through My grace. He attains union with Me and enjoys the supreme bliss.
 If by chance he commits some prohibited actions; still; as in the Ganga
 (Indias most holy river) the waters of the drains and roads find union;
-so My devotee; becoming united with Me; is unaffected by these
-prohibited actions.Worship of the Lord through ones duties purifies the
-heart of the aspirant and prepares him for the devotion to knowledge
-which eventually leads him to the attainment of Selfrealisation. The
-Yoga of Devotion is eulogised here.All actions Good actions and even the
-prohibited actions. He who takes shelter in Me; Vaasudeva; the Lord;
+so My devotee; becoming united with Me; is unaffected by these prohibited actions.Worship of the Lord through ones duties purifies the heart of the aspirant and prepares him for the devotion to knowledge which eventually leads him to the attainment of Selfrealisation. The Yoga of Devotion is eulogised here.All actions Good actions and even the prohibited actions. He who takes shelter in Me; Vaasudeva; the Lord;
 with his whole self centred in Me attains the eternal abode of Vishnu;
 by the grace of the Lord.
 

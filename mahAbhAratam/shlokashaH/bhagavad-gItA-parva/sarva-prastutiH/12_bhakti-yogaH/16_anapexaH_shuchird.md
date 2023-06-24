@@ -64,16 +64,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.16 He who is free from 'desires', i.e., who has no longing for
-anything except the self; who is 'pure', namely, whose body is nourished
-on the food prescribed by the Sastras; who is an 'expert' namely, who is
-an expert in performing actions prescribed by the Sastras; who is
-'indifferent', i.e., not interested in matters other than those enjoined
-by the Sastras; who is free from 'agony', i.e., of pain caused by heat,
-cold, contact with coarse things etc., which are inevitably associated
-with the performance of rites prescribed by the Sastras; who renounces
-all 'undertakings,' i.e., who renounces all undertakings except those
-demanded by the Sastras - the devotee who is like this is dear to Me.
+12.16 He who is free from 'desires', i.e., who has no longing for anything except the self; who is 'pure', namely, whose body is nourished on the food prescribed by the Sastras; who is an 'expert' namely, who is an expert in performing actions prescribed by the Sastras; who is
+'indifferent', i.e., not interested in matters other than those enjoined by the Sastras; who is free from 'agony', i.e., of pain caused by heat,
+cold, contact with coarse things etc., which are inevitably associated with the performance of rites prescribed by the Sastras; who renounces all 'undertakings,' i.e., who renounces all undertakings except those demanded by the Sastras - the devotee who is like this is dear to Me.
 
 </details>
 </div>
@@ -553,17 +546,14 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 12.16. He, who does not expect \[anything\]; who is pure, dexterous,
-unconcerned, untroubled; and who has renonced all his undertakings all
-around-that devotee of Mine is dear to Me.
+unconcerned, untroubled; and who has renonced all his undertakings all around-that devotee of Mine is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.16 He who has no desires, who is pure, who is dextrous, who is
-impartial, who is free from fear, who has renounced every undertaking-he
-who is (such) a devotee of Mine is dear to Me.
+12.16 He who has no desires, who is pure, who is dextrous, who is impartial, who is free from fear, who has renounced every undertaking-he who is (such) a devotee of Mine is dear to Me.
 
 </details>
 </div>
@@ -578,16 +568,14 @@ unruffled, and who renounces all initiative, such a one is My beloved.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.16 He who is free from desires, who is pure, expert, indifferent and
-free from agony, who has renounced every undertaking - he is dear to Me.
+12.16 He who is free from desires, who is pure, expert, indifferent and free from agony, who has renounced every undertaking - he is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/16_anapexaH_shuchird.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.16 He who is free from wants, pure, expert, unconcerned, and free
-from pain, renouncing all undertakings or commencements he who is (thus)
+12.16 He who is free from wants, pure, expert, unconcerned, and free from pain, renouncing all undertakings or commencements he who is (thus)
 devoted to Me, is dear to Me.
 
 </details>
@@ -598,29 +586,7 @@ devoted to Me, is dear to Me.
 12.16 अनपेक्षः (he who is) free from wants; शुचिः pure; दक्षः expert;
 उदासीनः unconcerned; गतव्यथः free from pain; सर्वारम्भपरित्यागी
 renouncing all undertakings or commencements; यः who; मद्भक्तः
-My,devotee; सः he; मे to Me; प्रियः dear.CommentarY He is free from
-dependence. He is indifferent to the body; the senses; the objects of
-the senses and their mutual connections. He has external and internal
-purity. External purity is attained through earth and water (washing and
-bathing). Inner purity is attained by the eradication of likes and
-dislikes; lust; anger; jealousy; etc.; and through the cultivation of
-the virtues -- friendship (towards eals); compassion (towards those who
-are inferior) and complacency (towards superiors).Daksha Prompt; swift
-and skilful in all actions expert. He is able to decide rightly and
-immediately in matters that demand prompt attention and action.Udasina
-He who does not take up the side of a friend and the like (in a
-controversy) he who is indifferent to whatever happens.Gatavyathah He
-who is free from pain. He is not troubled even if he is beaten by a
-wicked man. He is not pained or afflicted by any result of any action or
-any happening.Sarvarambhaparityagi He habitually renounces all actions
-calculated to secure the objects of enjoyment; whether of this world or
-of the next. He has abandoned all egoistic; personal and mental
-initiative in all actions; mental and physical. He has merged his will
-in the cosmic will. He allows the divine will to work through him. He
-has neither preference nor personal desire and so he is swift; prompt
-and skilful in all actions. The divine will works through him in a
-dynamic manner.Such a devotee is My own Self and so he is very dear to
-Me.
+My,devotee; सः he; मे to Me; प्रियः dear.CommentarY He is free from dependence. He is indifferent to the body; the senses; the objects of the senses and their mutual connections. He has external and internal purity. External purity is attained through earth and water (washing and bathing). Inner purity is attained by the eradication of likes and dislikes; lust; anger; jealousy; etc.; and through the cultivation of the virtues -- friendship (towards eals); compassion (towards those who are inferior) and complacency (towards superiors).Daksha Prompt; swift and skilful in all actions expert. He is able to decide rightly and immediately in matters that demand prompt attention and action.Udasina He who does not take up the side of a friend and the like (in a controversy) he who is indifferent to whatever happens.Gatavyathah He who is free from pain. He is not troubled even if he is beaten by a wicked man. He is not pained or afflicted by any result of any action or any happening.Sarvarambhaparityagi He habitually renounces all actions calculated to secure the objects of enjoyment; whether of this world or of the next. He has abandoned all egoistic; personal and mental initiative in all actions; mental and physical. He has merged his will in the cosmic will. He allows the divine will to work through him. He has neither preference nor personal desire and so he is swift; prompt and skilful in all actions. The divine will works through him in a dynamic manner.Such a devotee is My own Self and so he is very dear to Me.
 
 </details>
 </div>

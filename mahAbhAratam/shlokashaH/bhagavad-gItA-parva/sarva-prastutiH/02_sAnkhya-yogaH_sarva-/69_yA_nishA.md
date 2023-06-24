@@ -34,16 +34,40 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.69।। एवमुपायमुपदिश्य फलमुपदिशतीत्याह एवमिति। प्रागुक्तस्यैव फलस्य
+प्रशंसापरत्वादपुनरुक्तिः अतोया निशा इत्यादिभिः त्रिभिः श्लोकैःप्रजहाति
+2।55 इत्यादिनोक्ताऽवस्थाचतुष्टयसिद्धिर्निगम्यते। विहाय कामान्
+2।71निःस्पृहः 6।18 इत्युभाभ्यां यतमानव्यतिरेकसंज्ञयोरुपलक्षणम्। यद्वा
+श्लोकद्वयेनावस्थाचतुष्टयफलं तृतीयेन त्ववस्थाचतुष्टयं निगम्यत इति
+विभागः। या इति प्रसिद्धतयेष्टनिर्देशोऽत्र प्रस्तुतप्रज्ञाविषयः।
+साक्षान्निशाया देशकालभेदेन विपरिवर्तमानायाः सर्वभूतसाधारण्याभावादिति
+तात्पर्येणाह या आत्मविषयेति। उपचारनिमित्तं व्यनक्ति निशेवाप्रकाशेति।
+स्वप्रकाशाया अपि बुद्धेरप्रसृतदशायामप्रकाशत्वमुपपद्यते।
+इन्द्रियनिग्रहस्य प्रकृतत्वात्स एवात्र संयमिशब्दार्थ इत्यभिप्रायेणोक्तम्
+इन्द्रियसंयमीति। या पुनःत्रयमेकत्र संयमः इति धारणाध्यानसमाधीनां
+समुच्चितानां संयमत्वेन पातञ्जलपरिभाषा साऽत्र न विवक्षितेति भावः।
+इन्द्रियसंयमस्य बुद्धिजनने अवान्तरव्यापारं पूर्वोक्तमाह प्रसन्नमना इति।
+जागर्तीत्यत्र मुख्यार्थायोगादाह आत्मानमिति। बुद्धौ जागरणशब्दनिर्दिष्टं
+प्रबुद्धत्वं प्रकाशमानप्रसृतबुद्धिविशिष्टत्वमेव सा च सविषया प्रकाशते इति
+भावः। बुद्धिप्रकरणत्वाद्यस्यामिति निर्देशोऽपि बुद्धिविषयः सा च बुद्धिः
+भूतानीत्यसंयमिनिष्ठतया व्यपदेशादात्मदर्शिनो
+निशात्ववचनाच्चशब्दादिविषयेत्युक्तम्। सर्वभूतानामित्यत्र समासनिमग्नोऽपि
+सर्वशब्दो भूतानीत्यत्रापि बुद्ध्या निष्कृष्यान्वेतव्य
+इतिसर्वाणीत्युक्तम्। पश्यत इत्यत्र कर्माकाङ्क्षायांआत्मानमिति
+प्रकरणसिद्धमुक्तम्।  
+  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.69 That Buddhi (understanding) which has the self for its object, is
-night to all beings, i.e., is obscure like night to all. But he, who has
-subdued the senses and is serene, is awake in respect of the self. The
-meaning is that he has the vision of the self. All beings are awake,
-i.e., are actively cognisant in respect of objects of the senses like
-sound. But such sense objects are like things enshrouded by night to the
-sage who is awake to the self.
+2.69 That Buddhi (understanding) which has the self for its object, is night to all beings, i.e., is obscure like night to all. But he, who has subdued the senses and is serene, is awake in respect of the self. The meaning is that he has the vision of the self. All beings are awake,
+i.e., are actively cognisant in respect of objects of the senses like sound. But such sense objects are like things enshrouded by night to the sage who is awake to the self.
 
 </details>
 </div>
@@ -668,17 +692,14 @@ night for the sage who sees \[the truth\].
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.69 The self-restrained man keeps awake during that which is night for
-all creatures. That during which creatures keep awake, it is night to
-the seeing sage.
+2.69 The self-restrained man keeps awake during that which is night for all creatures. That during which creatures keep awake, it is night to the seeing sage.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.69 The saint is awake when the world sleeps, and he ignores that for
-which the world lives.
+2.69 The saint is awake when the world sleeps, and he ignores that for which the world lives.
 
 </details>
 </div>
@@ -693,8 +714,7 @@ when all beings are awake, that is the night to the sage who sees.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/69_yA_nishA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.69 That which is night to all beings, in that the self-controlled man
-is awake; when all beings are awake, that is night for the Muni (sage)
+2.69 That which is night to all beings, in that the self-controlled man is awake; when all beings are awake, that is night for the Muni (sage)
 who sees.
 
 </details>
@@ -704,20 +724,7 @@ who sees.
 
 2.69 या which; निशा night; सर्वभूतानाम् of all beings; तस्याम् in that;
 जागर्ति wakes; संयमी the selfcontrolled; यस्याम् in which; जाग्रति wake;
-भूतानि all beings; सा that; निशा night; पश्यतः (of the) seeing; मुनेः of
-the Muni.Commentary That which is real for the wordlyminded people is
-illusion for the sage; and vice versa. The sage lives in the Self. This
-is day for him. He is unconscious of the wordly phenomena. They are
-night for him; as it were. The ordinary man is unconscious of his real
-nature. Life in the spirit is night for him. He is experiencing the
-objects of sensual enjoyment. This is day for him. The Self is a
-nonentity for him For a sage this world is a nonentity.The wordlyminded
-people are in utter darkness as they have no knowledge of the Self. What
-is darkness for them is all light for the sage. The Self; Atman or
-Brahman is night for the worldlyminded persons. But the sage is fully
-awake. He is directly cognising the supreme Reality; the Light of
-lights. He is full of illumination and AtmaJnana or knowledge of the
-Self.
+भूतानि all beings; सा that; निशा night; पश्यतः (of the) seeing; मुनेः of the Muni.Commentary That which is real for the wordlyminded people is illusion for the sage; and vice versa. The sage lives in the Self. This is day for him. He is unconscious of the wordly phenomena. They are night for him; as it were. The ordinary man is unconscious of his real nature. Life in the spirit is night for him. He is experiencing the objects of sensual enjoyment. This is day for him. The Self is a nonentity for him For a sage this world is a nonentity.The wordlyminded people are in utter darkness as they have no knowledge of the Self. What is darkness for them is all light for the sage. The Self; Atman or Brahman is night for the worldlyminded persons. But the sage is fully awake. He is directly cognising the supreme Reality; the Light of lights. He is full of illumination and AtmaJnana or knowledge of the Self.
 
 </details>
 </div>

@@ -70,10 +70,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna
-did immediately as He had been directed, while Bhisma, Drona and others
-and all the kings were looking on. Such is the prospect of victory for
-your men.
+1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna did immediately as He had been directed, while Bhisma, Drona and others and all the kings were looking on. Such is the prospect of victory for your men.
 
 </details>
 </div>
@@ -317,36 +314,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.23. - 1.24. Sanjaya said O descendant of Bharata (Dhrtarastra) ! Thus
-instructed by Gudakesa (Arjuna), Hrsikesa halted the best chariot at a
-place in between the two armies, in front of Bhisma and Drona and of all
-the rulers of the earth; and the said: O son of Prtha! Behold these
-Kurus, assembled.
+1.23. - 1.24. Sanjaya said O descendant of Bharata (Dhrtarastra) ! Thus instructed by Gudakesa (Arjuna), Hrsikesa halted the best chariot at a place in between the two armies, in front of Bhisma and Drona and of all the rulers of the earth; and the said: O son of Prtha! Behold these Kurus, assembled.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.23 These who have assembled here and want to accomplish in the war
-what is dear to the perverted son of Dhrtarastra, I find them to be
-intent on fighting.
+1.23 These who have assembled here and want to accomplish in the war what is dear to the perverted son of Dhrtarastra, I find them to be intent on fighting.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.23 And gaze over this array of soldiers, eager to please the sinful
-sons of Dhritarashtra."
+1.23 And gaze over this array of soldiers, eager to please the sinful sons of Dhritarashtra."
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/23_yotsyamAnAnavexe-.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.23 I wish to see those gathered here ready to fight in this battle in
-order to please the evil-minded son of Dhrtarastra.
+1.23 I wish to see those gathered here ready to fight in this battle in order to please the evil-minded son of Dhrtarastra.
 
 </details>
 </div>
@@ -354,8 +343,7 @@ order to please the evil-minded son of Dhrtarastra.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 1.23. For I desire to observe those who are assembled here to fight,
-wishing to please in battle the evil-minded Duryodhana (the son of
-Dhritarashtra).
+wishing to please in battle the evil-minded Duryodhana (the son of Dhritarashtra).
 
 </details>
 </div>
@@ -364,9 +352,7 @@ Dhritarashtra).
 
 1.23 योत्स्यमानान् with the object of fighting; अवेक्षे observe; अहम् I;
 ये who; एते those; अत्र here (in this Kurukshetra); समागताः assembled;
-धार्तराष्ट्रस्य of the son of Dhritarashtra; दुर्बुद्धेः of the
-evilminded; युद्धे in battle; प्रियचिकीर्षवः wishing to please.No
-Commentary.
+धार्तराष्ट्रस्य of the son of Dhritarashtra; दुर्बुद्धेः of the evilminded; युद्धे in battle; प्रियचिकीर्षवः wishing to please.No Commentary.
 
 </details>
 </div>

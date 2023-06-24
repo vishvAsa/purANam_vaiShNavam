@@ -49,11 +49,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.13 'Non-illumination' is the absence of knowledge. 'Inactivity' is
-immovableness. 'Negligence' is inadvertence resulting in works that
-should not be done. 'Delusion' is wrong knowledge. These arise when
-Tamas waxes strong. By these, one should know that the Tamas has
-increased very much.
+14.13 'Non-illumination' is the absence of knowledge. 'Inactivity' is immovableness. 'Negligence' is inadvertence resulting in works that should not be done. 'Delusion' is wrong knowledge. These arise when Tamas waxes strong. By these, one should know that the Tamas has increased very much.
 
 </details>
 </div>
@@ -395,17 +391,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.13. Absence of \[mental\] illumination, non-excertion, negligence and
-mere delusion-these are born when the Tamas is on the increase
-predominantly, O darling of the Kurus !
+14.13. Absence of \[mental\] illumination, non-excertion, negligence and mere delusion-these are born when the Tamas is on the increase predominantly, O darling of the Kurus !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.13 O descendant of the Kuru dynasty, when tamas predominates these
-surely \[i.e. without exception.-M.S.\] come into being:
+14.13 O descendant of the Kuru dynasty, when tamas predominates these surely \[i.e. without exception.-M.S.\] come into being:
 non-discrimination and inactivity, inadvertence and delusion.
 
 </details>
@@ -413,24 +406,21 @@ non-discrimination and inactivity, inadvertence and delusion.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.13 Darkness, stagnation, folly and infatuation are the result of the
-dominance of Ignorance, O joy of the Kuru-clan!
+14.13 Darkness, stagnation, folly and infatuation are the result of the dominance of Ignorance, O joy of the Kuru-clan!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.13 Non-illumination, inactivity, negligence and even delusion - these
-arise, O Arjuna, when Tamas prevails.
+14.13 Non-illumination, inactivity, negligence and even delusion - these arise, O Arjuna, when Tamas prevails.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/13_aprakAsho-pravRtt.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.13 Darkness, inertness, heedlessness and delusion these arise when
-Tamas is predominant, O Arjuna.
+14.13 Darkness, inertness, heedlessness and delusion these arise when Tamas is predominant, O Arjuna.
 
 </details>
 </div>
@@ -439,18 +429,7 @@ Tamas is predominant, O Arjuna.
 
 14.13 अप्रकाशः darkness; अप्रवृत्तिः inertness; च and; प्रमादः
 heedlessness; मोहः delusion; एव even; च and; तमसि in inertia; एतानि
-these; जायन्ते arise; विवृद्धे have become prdominant; कुरुनन्दन O
-descendant of Kuru (Arjuna).Commentary When Tamas increases; darkness; a
-desire to do nothing; forgetfulness of ones duties and confusion ome
-into existence.Darkness Absence of discrimination.Apravritti Inertness
-extreme inactivity.Pramada (heedlessness) and Moha (delusion) are the
-effects of darkness. These are the characteristics or marks which
-indicate that Tamas is predominant. Tamas is a great stumbling block to
-spiritual progress and success in any walk of life. It must be destroyed
-at all costs. People mistake Tamas for Sattva or Santi (peace). They
-take the Tamasic man for a silent Yogi All is Prarabdha Everything is
-Maya There is no world Why should I work Work will bind me. I am
-Brahman. This is not spirituality but pure and thick Tamas.
+these; जायन्ते arise; विवृद्धे have become prdominant; कुरुनन्दन O descendant of Kuru (Arjuna).Commentary When Tamas increases; darkness; a desire to do nothing; forgetfulness of ones duties and confusion ome into existence.Darkness Absence of discrimination.Apravritti Inertness extreme inactivity.Pramada (heedlessness) and Moha (delusion) are the effects of darkness. These are the characteristics or marks which indicate that Tamas is predominant. Tamas is a great stumbling block to spiritual progress and success in any walk of life. It must be destroyed at all costs. People mistake Tamas for Sattva or Santi (peace). They take the Tamasic man for a silent Yogi All is Prarabdha Everything is Maya There is no world Why should I work Work will bind me. I am Brahman. This is not spirituality but pure and thick Tamas.
 
 </details>
 </div>

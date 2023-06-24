@@ -78,22 +78,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.37 - 6.39 Arjuna said What way does he go, who has embarked on Yoga
-endowed with faith, but who by inadeacy of exertion in practice, does
-not gain success in Yoga and has his mind wandering from Yoga; Does he
-not perish like a small piece of cloud torn from a large mass of cloud -
-perish without reaching another large mass of cloud; Now does he not
-fall away from both (sides); He has no support and is confused on the
-path leading to the Brahman. He is without any support in the sense that
-Karma or rituals which constitutes the means of heaven etc., does not
-give support for a person who is devoid of attachment to fruits; for
-Karma is the means for generating its own fruits. He is also confused in
-the path leading to the Brahman on which he has just begun to traverse;
-He has lost his way. Does he then get lost by falling down from both
-sides, these being attainment of heaven on the one hand and liberation
-on the other. Does he not thus perish; You should remove this doubt
-altogether from my mind; for there is no other remover of this doubt
-than You, who always perceive directly all matters simultaneously.
+6.37 - 6.39 Arjuna said What way does he go, who has embarked on Yoga endowed with faith, but who by inadeacy of exertion in practice, does not gain success in Yoga and has his mind wandering from Yoga; Does he not perish like a small piece of cloud torn from a large mass of cloud -
+perish without reaching another large mass of cloud; Now does he not fall away from both (sides); He has no support and is confused on the path leading to the Brahman. He is without any support in the sense that Karma or rituals which constitutes the means of heaven etc., does not give support for a person who is devoid of attachment to fruits; for Karma is the means for generating its own fruits. He is also confused in the path leading to the Brahman on which he has just begun to traverse;
+He has lost his way. Does he then get lost by falling down from both sides, these being attainment of heaven on the one hand and liberation on the other. Does he not thus perish; You should remove this doubt altogether from my mind; for there is no other remover of this doubt than You, who always perceive directly all matters simultaneously.
 
 </details>
 </div>
@@ -299,7 +286,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.39।। हे कृष्ण ! मेरे इस संशय को निःशेष रूप से छेदन (निराकरण) करने के
+।।6.39।। हे कृष्ण ! मेरे इस संशय को नि:शेष रूप से छेदन (निराकरण) करने के
 लिए आप ही योग्य है; क्योंकि आपके अतिरिक्त अन्य कोई इस संशय का छेदन करन
 वाला (छेत्ता) मिलना संभव नहीं है।।
 
@@ -351,53 +338,44 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.39. Please dispel this doubt of mine completely. But for Yourself, O
-Krsna, no eradicator of this doubt is possible.
+6.39. Please dispel this doubt of mine completely. But for Yourself, O Krsna, no eradicator of this doubt is possible.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.39 O Krsna, You should totally eradicate this doubt of mine. For, none
-other than Yourself can be the dispeller of this doubt!
+6.39 O Krsna, You should totally eradicate this doubt of mine. For, none other than Yourself can be the dispeller of this doubt!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.39 My Lord! Thou art worthy to solve this doubt once and for all; save
-Thyself there is no one competent to do so.
+6.39 My Lord! Thou art worthy to solve this doubt once and for all; save Thyself there is no one competent to do so.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.39 You should altogether remove this doubt of mine, O Krsna, for there
-is no other remover of this doubt thanYou.
+6.39 You should altogether remove this doubt of mine, O Krsna, for there is no other remover of this doubt thanYou.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.39 This doubt of mine, O Krishna, do Thou dispel completely; because
-it is not possible for any but Thee to dispel this doubt.
+6.39 This doubt of mine, O Krishna, do Thou dispel completely; because it is not possible for any but Thee to dispel this doubt.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/39_etanme_saMshayam.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-6.39 एतत् this; मे my; संशयम् doubt; कृष्ण O Krishna; छेत्तुम् to
-dispel; अर्हसि oughtest; अशेषतः completely; त्वत् than Thou; अन्यः
+6.39 एतत् this; मे my; संशयम् doubt; कृष्ण O Krishna; छेत्तुम् to dispel; अर्हसि oughtest; अशेषतः completely; त्वत् than Thou; अन्यः
 another; संशयस्य of doubt; अस्य of this; छेत्ता dispeller; न not; हि
-verily; उपपद्यते is fit.Commentary There can be no better teacher than
-Thee for Thou art the omniscient Lord. Thou alone canst dispel this
-doubt. A Rishi (seer); a Deva (god); or a Muni (sage) will not be able
-to destroy this doubt.
+verily; उपपद्यते is fit.Commentary There can be no better teacher than Thee for Thou art the omniscient Lord. Thou alone canst dispel this doubt. A Rishi (seer); a Deva (god); or a Muni (sage) will not be able to destroy this doubt.
 
 </details>
 </div>

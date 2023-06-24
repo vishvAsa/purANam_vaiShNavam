@@ -80,20 +80,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.18 You alone are the Supreme 'Imperishable Person' indicated as that
-which ought to be realised in such Upanisadic passages as: 'Two sciences
-are to be known' (Mun. U., 1.1.4). You alone are the 'Supreme
-Substratum' of the universe, i.e., supreme support of this universe. You
-are 'immutable', namely, not liable to mutation. Whatever might be your
-attributes and divine manifestations, You remain unchanged in Your form.
-You alone are the guardian of 'the eternal law' - You who protect the
-eternal Dharma of the Veda by incarnations like this. I know you are the
-everlasting Person. I know You are the eternal Person, described in such
-passages as, 'I know this great Purusa' (Tai. A., 3.12.7) and 'Person
-who is higher than the high' (Mun. U., 3.2.8). You, who were till now
-known to me as the most distinguished of the race of Yadu, have been
-realised by me now through direct perception as of this nature, i.e., of
-a nature unknown to me before. Such is the meaning.
+11.18 You alone are the Supreme 'Imperishable Person' indicated as that which ought to be realised in such Upanisadic passages as: 'Two sciences are to be known' (Mun. U., 1.1.4). You alone are the 'Supreme Substratum' of the universe, i.e., supreme support of this universe. You are 'immutable', namely, not liable to mutation. Whatever might be your attributes and divine manifestations, You remain unchanged in Your form.
+You alone are the guardian of 'the eternal law' - You who protect the eternal Dharma of the Veda by incarnations like this. I know you are the everlasting Person. I know You are the eternal Person, described in such passages as, 'I know this great Purusa' (Tai. A., 3.12.7) and 'Person who is higher than the high' (Mun. U., 3.2.8). You, who were till now known to me as the most distinguished of the race of Yadu, have been realised by me now through direct perception as of this nature, i.e., of a nature unknown to me before. Such is the meaning.
 
 </details>
 </div>
@@ -386,9 +374,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.18. You are the imperishable, the Supreme Being to be known; You are
-the ultimate place of rest for this universe; You are changeless and the
-guardian of the pious act of the Satvatas; You are the everlasting Soul,
+11.18. You are the imperishable, the Supreme Being to be known; You are the ultimate place of rest for this universe; You are changeless and the guardian of the pious act of the Satvatas; You are the everlasting Soul,
 I believe.
 
 </details>
@@ -396,9 +382,7 @@ I believe.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.18 You are the Immutable, the supreme One to be known; You are the
-most perfect repository of this Universe. You are the Imperishable, the
-Protector of the ever-existing religion; You are the eternal Person.
+11.18 You are the Immutable, the supreme One to be known; You are the most perfect repository of this Universe. You are the Imperishable, the Protector of the ever-existing religion; You are the eternal Person.
 This is my belief.
 
 </details>
@@ -406,18 +390,14 @@ This is my belief.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.18 Imperishable art Thou, the Sole One worthy to be known, the
-priceless Treasure-house of the universe, the immortal Guardian of the
-Life Eternal, the Spirit Everlasting.
+11.18 Imperishable art Thou, the Sole One worthy to be known, the priceless Treasure-house of the universe, the immortal Guardian of the Life Eternal, the Spirit Everlasting.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/18_tvamaxaram_parama.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.18 You are the Imperishable, Supreme One to be realised. You are the
-Supreme Substratum of this universe. You are immutable, the guardian of
-the eternal law, I know You are the Supreme Person who is everlasting.
+11.18 You are the Imperishable, Supreme One to be realised. You are the Supreme Substratum of this universe. You are immutable, the guardian of the eternal law, I know You are the Supreme Person who is everlasting.
 
 </details>
 </div>
@@ -425,9 +405,7 @@ the eternal law, I know You are the Supreme Person who is everlasting.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 11.18 Thou art the Imperishable, the Supreme Being, worthy to be known.
-Thou art the great treasure-house of this universe; Thou art the
-imperishable protector of the eternal Dhrama; Thou art the Primal
-Person, I deem.
+Thou art the great treasure-house of this universe; Thou art the imperishable protector of the eternal Dhrama; Thou art the Primal Person, I deem.
 
 </details>
 </div>
@@ -435,18 +413,9 @@ Person, I deem.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 11.18 त्वम् Thou; अक्षरम् imperishable; परमम् the Supreme Being;
-वेदितव्यम् worthy to be known; त्वम् Thou; अस्य (of) this; विश्वस्य of
-universe; परम् the great; निधानम् treasurehouse; त्वम् Thou; अव्ययः
+वेदितव्यम् worthy to be known; त्वम् Thou; अस्य (of) this; विश्वस्य of universe; परम् the great; निधानम् treasurehouse; त्वम् Thou; अव्ययः
 imperishable; शाश्वतधर्मगोप्ता Protector of the Eternal Dharma; सनातनः
-ancient; त्वम् Thou; पुरुषः Purusha; मतः thought; मे of me.Commentary
-VisvasyaNidhaanam Treasurehouse of this universe; also means abode or
-refuge or the substratum of this universe. It is because of this that
-all the beings in the universe are preserved and protected. He is the
-inexhaustibel source to Whom the devotee turns at all times. Deluded
-indeed are they that ignore this divine treasurehouse and runa fter the
-shadow of the objects of the senses which do not contain even an iota of
-pleasure.Veditavyam To be known by the aspirants or seekrs of
-liberation; through Sravana (hearing of the scriptures); Manana
+ancient; त्वम् Thou; पुरुषः Purusha; मतः thought; मे of me.Commentary VisvasyaNidhaanam Treasurehouse of this universe; also means abode or refuge or the substratum of this universe. It is because of this that all the beings in the universe are preserved and protected. He is the inexhaustibel source to Whom the devotee turns at all times. Deluded indeed are they that ignore this divine treasurehouse and runa fter the shadow of the objects of the senses which do not contain even an iota of pleasure.Veditavyam To be known by the aspirants or seekrs of liberation; through Sravana (hearing of the scriptures); Manana
 (reflection) and Nididhyasana (meditation).Avyayah means inexhaustible;
 unchanging; undying.
 

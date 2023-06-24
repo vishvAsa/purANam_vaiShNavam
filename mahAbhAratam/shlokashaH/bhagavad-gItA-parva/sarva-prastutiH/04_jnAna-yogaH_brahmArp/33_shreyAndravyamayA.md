@@ -91,14 +91,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/33_shreyAndravyamayA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.33 Karma Yoga has two aspects - knowledge and material ingredients. Of
-these two, the component of knowledge is superior to the component of
-material ingredients. Knowledge is the culmination of all actions and of
-everything else, accessories and other things helpful. This knowledge
-alone, which is to be obtained by all means, is practised as
-comprehended in Karma Yoga. And this knowledge being regularly
-practised, reaches gradually what is ultimately attainable i.e., the
-vision of the self.
+4.33 Karma Yoga has two aspects - knowledge and material ingredients. Of these two, the component of knowledge is superior to the component of material ingredients. Knowledge is the culmination of all actions and of everything else, accessories and other things helpful. This knowledge alone, which is to be obtained by all means, is practised as comprehended in Karma Yoga. And this knowledge being regularly practised, reaches gradually what is ultimately attainable i.e., the vision of the self.
 
 </details>
 </div>
@@ -430,18 +423,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/33_shreyAndravyamayA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.33. The sacrifice by knowledge is superior to the sacrifice by
-material. O son of Prtha, scorcher of foes ! All actions, leaving no
-bit, meet their total end in knowledge.
+4.33. The sacrifice by knowledge is superior to the sacrifice by material. O son of Prtha, scorcher of foes ! All actions, leaving no bit, meet their total end in knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/33_shreyAndravyamayA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.33 O destroyer of enemies, Knowledge considered as a sacrifice is
-greater than sacrifices reiring materials. O son of Prtha, all actions
-in their totality culminate in Knowledge.
+4.33 O destroyer of enemies, Knowledge considered as a sacrifice is greater than sacrifices reiring materials. O son of Prtha, all actions in their totality culminate in Knowledge.
 
 </details>
 </div>
@@ -456,35 +445,23 @@ O Arjuna, the climax of action is always Realisation.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/33_shreyAndravyamayA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.33 The sacrifice of knowledge is superior to materials sacrifice. O
-Arjuna, all actions and everything else culminate in knowledge.
+4.33 The sacrifice of knowledge is superior to materials sacrifice. O Arjuna, all actions and everything else culminate in knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/33_shreyAndravyamayA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.33 Superior is wisdom-sacrifice to the sacrifice with objects, O
-Parantapa (scorcher of the foes). All actions in their entirely, O
-Arjuna, culminate in knowledge.
+4.33 Superior is wisdom-sacrifice to the sacrifice with objects, O Parantapa (scorcher of the foes). All actions in their entirely, O Arjuna, culminate in knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/04_jnAna-yogaH_brahmArp/33_shreyAndravyamayA.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-4.33 श्रेयान् superior; द्रव्यमयात् with objects; यज्ञात् than
-sacrifice; ज्ञानयज्ञः knowledgesacrifice; परन्तप O Parantapa; सर्वम्
-all; कर्म action; अखिलम् in its entirely; पार्थ O Partha; ज्ञाने in
-knowledge; परिसमाप्यते is culminated.Commentary Sacrifices with material
-objects cause material effects and bring the sacrificer to this world
-for the enjoyment of the fruits; while wisdomsacrifice leads to Moksha.
-Therefore wisdomsacrifice is superior to the sacrifice performed with
-material objects. Just as rivers join the ocean; so do all actions join
-knowledge; i.e.; they culminate in knowledge. All actions purify the
-heart and lead to the dawn of knowledge of the Self.All actions that are
-performed as offerings unto the Lord with their fruits are contained in
-the knowledge of Brahman. (Cf.IX.15X.25XVIII.70)
+4.33 श्रेयान् superior; द्रव्यमयात् with objects; यज्ञात् than sacrifice; ज्ञानयज्ञः knowledgesacrifice; परन्तप O Parantapa; सर्वम्
+all; कर्म action; अखिलम् in its entirely; पार्थ O Partha; ज्ञाने in knowledge; परिसमाप्यते is culminated.Commentary Sacrifices with material objects cause material effects and bring the sacrificer to this world for the enjoyment of the fruits; while wisdomsacrifice leads to Moksha.
+Therefore wisdomsacrifice is superior to the sacrifice performed with material objects. Just as rivers join the ocean; so do all actions join knowledge; i.e.; they culminate in knowledge. All actions purify the heart and lead to the dawn of knowledge of the Self.All actions that are performed as offerings unto the Lord with their fruits are contained in the knowledge of Brahman. (Cf.IX.15X.25XVIII.70)
 
 </details>
 </div>

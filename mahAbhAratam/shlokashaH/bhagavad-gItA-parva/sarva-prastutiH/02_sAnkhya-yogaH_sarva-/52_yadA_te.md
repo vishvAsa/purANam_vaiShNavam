@@ -35,20 +35,36 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.52।। यदा इति श्लोकेन मोहतरणहेतुं प्रकृतं दर्शयति उक्तेति।
+पुण्यपापरूपसांसारिककर्मणा हि  
+मोहः स च फलाभिसन्ध्यादिरहितकर्मणा निवर्त्यः। ततः कारणाभावात्कार्याभाव
+इति भावः। अत्यल्पफलसङ्गहेतुभूतमित्यनेन मोहस्येदानीं
+निर्वेदप्रतिबन्धकत्वमुच्यते। मोहस्वरूपातिरिक्तस्य तत्साध्यस्य
+कालुष्यस्याभावात्मोहरूपमित्युक्तम्। कलुषशब्दोऽत्र कालुष्यपरः। अस्मत्त इति
+आप्ततमेभ्य इति भावः। त्याज्यतयेति निर्वेदयोगत्वायोक्तम्। न हि श्रोतव्येषु
+श्रुतेषु च उपादेयांशो निर्वेदहेतुः। यद्वाश्रोतव्यस्य
+इत्यस्योपादेयत्वायश्रुतस्य इत्यत्र त्याज्यतयेति विशेषणम्।
+हेयसङ्गमुपादेयवैतृष्ण्यं च परामृश्य भवति हि निर्वेदः। स च स्वावज्ञारूपः।
+यथाहुर्गन्धर्ववेदिनः तत्त्वज्ञानापदीर्ष्यादेर्निर्वेदः स्वावमाननम्
+द.रू.4।9 इति। श्रोतव्यस्येत्यादेः सम्बन्धसामान्यषष्ठ्या
+विवक्षितविशेषकथनं कृत इति। स्वयमेवेति। अस्मद्वाक्यादिनिरपेक्ष
+इत्यर्थः। गन्तासि इत्यत्र पदभेदभ्रमं निरस्यति गमिष्यसीति। गन्तासि इत्यत्र
+द्वितीयान्वयात्तृजन्तत्वं न युज्यते। तृन्नन्तत्वे तु भविष्यत्त्वविवक्षा
+न स्वारसिकी। अतो लु़डन्ततयैकपद्यं युक्तम्। एवंजेतासि इति वक्ष्यमाणेऽपि।
+अनद्यतनविहितलुडन्तोऽपिशब्दोव्यतितरिष्यति इत्येतत्तुल्यतया
+भविष्यन्मात्रार्थेन व्याख्यात इति।  
+  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.52 If you act in this manner and get freed from impurities, your
-intellect will pass beyond the tangle of delusion. The dense impurity of
-sin is the nature of that delusion which generates attachment to
-infinitesimal results, of which you have already heard much from us and
-will hear more later on. You will then immediately feel, of your own
-accord, renunciation or feeling of disgust for them all. Sri Krsna now
-teaches the goal called self-realisation (Yoga) which results from the
-performance of duty as taught in the passage beginning with 'Now, listen
-to this with regard to Karma Yoga' (2.39) which is based on the
-knowledge of the real nature of the self gained through the refinement
-of the mind.
+2.52 If you act in this manner and get freed from impurities, your intellect will pass beyond the tangle of delusion. The dense impurity of sin is the nature of that delusion which generates attachment to infinitesimal results, of which you have already heard much from us and will hear more later on. You will then immediately feel, of your own accord, renunciation or feeling of disgust for them all. Sri Krsna now teaches the goal called self-realisation (Yoga) which results from the performance of duty as taught in the passage beginning with 'Now, listen to this with regard to Karma Yoga' (2.39) which is based on the knowledge of the real nature of the self gained through the refinement of the mind.
 
 </details>
 </div>
@@ -529,35 +545,28 @@ regarding what has to be heard and what has been heard.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.52 When your mind will go beyond the turbidity of delusion, then you
-will acire dispassion for what has to be heard and what has been heard.
+2.52 When your mind will go beyond the turbidity of delusion, then you will acire dispassion for what has to be heard and what has been heard.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.52 When thy reason has crossed the entanglements of illusion, then
-shalt thou become indifferent both to the philosophies thou hast heard
-and to those thou mayest yet hear.
+2.52 When thy reason has crossed the entanglements of illusion, then shalt thou become indifferent both to the philosophies thou hast heard and to those thou mayest yet hear.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.52 When your intellect has passed beyond the tangle of delusion, you
-will yourself feel disgusted regarding what you shall hear and what you
-have already heard.
+2.52 When your intellect has passed beyond the tangle of delusion, you will yourself feel disgusted regarding what you shall hear and what you have already heard.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/52_yadA_te.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.52 When thy intellect crosses beyond the mire of delusion, then thou
-shalt attain to indifference as to what has been heard and what has yet
-to be heard.
+2.52 When thy intellect crosses beyond the mire of delusion, then thou shalt attain to indifference as to what has been heard and what has yet to be heard.
 
 </details>
 </div>
@@ -567,14 +576,7 @@ to be heard.
 2.52 यदा when; ते thy; मोहकलिलम् mire of delusion; बुद्धिः intellect;
 व्यतितरिष्यति crosses beyond; तदा then; गन्तासि thou shalt attain;
 निर्वेदम् to indifference; श्रोतव्यस्य of what has to be heard; श्रुतस्य
-what has been heard; च and.Commentary The mire of delusion is the
-identification of the Self with the notself. The sense of discrimination
-between the Self and the notSelf is confounded by the mire of delusion
-and the mind runs towards the sensual objects and the body is takes as
-the pure Self. When you attain purity of mind; you will attain to
-indifference regarding things heard and yet to be heard. They will
-appear to you to be of no use. You will not care a bit for them. You
-will entertain disgust for them. (Cf.XVI.24).
+what has been heard; च and.Commentary The mire of delusion is the identification of the Self with the notself. The sense of discrimination between the Self and the notSelf is confounded by the mire of delusion and the mind runs towards the sensual objects and the body is takes as the pure Self. When you attain purity of mind; you will attain to indifference regarding things heard and yet to be heard. They will appear to you to be of no use. You will not care a bit for them. You will entertain disgust for them. (Cf.XVI.24).
 
 </details>
 </div>

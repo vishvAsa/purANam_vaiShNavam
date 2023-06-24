@@ -80,17 +80,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/18_samaH_shatrau.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.18 - 12.19 The absence of hate etc., towards foes, friends etc., has
-already been taught in the stanza beginning with, 'He who never hates
-any being' (11.13). What is now taught is that eanimity to be practised
-even when such persons mentioned above are present before one who is
-superior to those having a general eanimous temperament referred to
-earlier. Who has no 'home', namely, who is not attached to home, etc.,
-as he possesses firmness of mind with regard to the self. Because of
-this, he is 'same even in honour and dishonour.' He who is devoted to Me
-and who is like this - he is dear to Me. Showing the superiority of
-Bhakti-Nistha over Atma-nistha, Sri Krsna now concludes in accordance
-with what is stated at the beginning of this chapter in Verse 2.
+12.18 - 12.19 The absence of hate etc., towards foes, friends etc., has already been taught in the stanza beginning with, 'He who never hates any being' (11.13). What is now taught is that eanimity to be practised even when such persons mentioned above are present before one who is superior to those having a general eanimous temperament referred to earlier. Who has no 'home', namely, who is not attached to home, etc.,
+as he possesses firmness of mind with regard to the self. Because of this, he is 'same even in honour and dishonour.' He who is devoted to Me and who is like this - he is dear to Me. Showing the superiority of Bhakti-Nistha over Atma-nistha, Sri Krsna now concludes in accordance with what is stated at the beginning of this chapter in Verse 2.
 
 </details>
 </div>
@@ -262,7 +253,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।12.18।। जो पुरुष शत्रु और मित्र में तथा मान और अपमान में सम है; जो
-शीत-उष्ण व सुखदुःखादिक द्वन्द्वों में सम है और आसक्ति रहित है।।
+शीत-उष्ण व सुखदु:खादिक द्वन्द्वों में सम है और आसक्ति रहित है।।
 
 </details>
 </div>
@@ -515,17 +506,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/18_samaH_shatrau.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.18. He, who feels alike to the foe and to the friend and also to
-honour and to dishonour; who feels alike to cold and to heat, to
-pleasure and to pain; who is totally free from attachment;
+12.18. He, who feels alike to the foe and to the friend and also to honour and to dishonour; who feels alike to cold and to heat, to pleasure and to pain; who is totally free from attachment;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/18_samaH_shatrau.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.18 He who is the same towards friend and foe, and so also in honour
-and dishonour; who is the same under cold, heat, happiness and sorrow,
+12.18 He who is the same towards friend and foe, and so also in honour and dishonour; who is the same under cold, heat, happiness and sorrow,
 who is free from attachment to everything.
 
 </details>
@@ -533,26 +521,21 @@ who is free from attachment to everything.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/18_samaH_shatrau.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.18 He to whom friend and foe are alike, who welcomes equally honour
-and dishonour, heat and cold, pleasure and pain, who is enamoured of
-nothing,
+12.18 He to whom friend and foe are alike, who welcomes equally honour and dishonour, heat and cold, pleasure and pain, who is enamoured of nothing,
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/18_samaH_shatrau.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.18 He who is same to foe and friend, honour and dishonour, who is
-alike to both cold and heat, pleasure and pain, and who is free from all
-attachments;
+12.18 He who is same to foe and friend, honour and dishonour, who is alike to both cold and heat, pleasure and pain, and who is free from all attachments;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/18_samaH_shatrau.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.18 He who is the same to foe and friend, and also in honour and
-dishonour, who is the same in cold and heat and in pleasure and pain,
+12.18 He who is the same to foe and friend, and also in honour and dishonour, who is the same in cold and heat and in pleasure and pain,
 who is free from attachment.
 
 </details>
@@ -561,15 +544,8 @@ who is free from attachment.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 12.18 समः (he who is) the same; शत्रौ to foe; च and; मित्रे to friend; च
-and; तथा also; मानापमानयोः in honour and dishonour; शीतोष्णसुखदुःखेषु in
-cold and heat; in pleasure and pain; समः the same; सङ्गविवर्जितः free
-from attachment.Commentary The ordinary man of the world is ruled by the
-pairs of opposites; honour and dishonour; cold and heat and pleasure and
-pain but a Yogi or a sage or a devotee (Bhagavata) has a balanced mind.
-He has poise or eanimity. He is not at all swayed by the blind forces of
-attraction and repulsion.He who does wrong to others is a foe. He who
-does good to others is a friend.The devotee or the sage has no
-attachment for objects of any kind.
+and; तथा also; मानापमानयोः in honour and dishonour; शीतोष्णसुखदुःखेषु in cold and heat; in pleasure and pain; समः the same; सङ्गविवर्जितः free from attachment.Commentary The ordinary man of the world is ruled by the pairs of opposites; honour and dishonour; cold and heat and pleasure and pain but a Yogi or a sage or a devotee (Bhagavata) has a balanced mind.
+He has poise or eanimity. He is not at all swayed by the blind forces of attraction and repulsion.He who does wrong to others is a foe. He who does good to others is a friend.The devotee or the sage has no attachment for objects of any kind.
 
 </details>
 </div>

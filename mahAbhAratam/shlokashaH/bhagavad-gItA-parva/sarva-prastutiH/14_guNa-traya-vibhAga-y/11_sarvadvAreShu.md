@@ -59,9 +59,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.11 When the light of knowledge shines revealing the truth of things
-emerging through all the gateways of knowledge such as the eyes etc., in
-the body, one should know that Sattva is prevailing.
+14.11 When the light of knowledge shines revealing the truth of things emerging through all the gateways of knowledge such as the eyes etc., in the body, one should know that Sattva is prevailing.
 
 </details>
 </div>
@@ -369,33 +367,28 @@ then one should also know that the Sattva has increased predominantly.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.11 When the illumination that is knowledge radiates in this body
-through all the doors (of the senses), then one should know that sattva
-has increased greatly.
+14.11 When the illumination that is knowledge radiates in this body through all the doors (of the senses), then one should know that sattva has increased greatly.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.11 When the light of knowledge gleams forth from all the gates of the
-body, then be sure that Purity prevails.
+14.11 When the light of knowledge gleams forth from all the gates of the body, then be sure that Purity prevails.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.11 When knowledge as light illumines from all gateways (i.e., the
-senses), then, one should know that Sattva prevails.
+14.11 When knowledge as light illumines from all gateways (i.e., the senses), then, one should know that Sattva prevails.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/11_sarvadvAreShu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.11 When through every gate (sense) in this body, the wisdom-light
-shines, then it may be known that Sattva is predominant.
+14.11 When through every gate (sense) in this body, the wisdom-light shines, then it may be known that Sattva is predominant.
 
 </details>
 </div>
@@ -405,39 +398,14 @@ shines, then it may be known that Sattva is predominant.
 14.11 सर्वद्वारेषु through every gate (sense); देहे in the body; अस्मिन्
 in this; प्रकाशः wisdomlight; उपजायते shines; ज्ञानम् knowledge; यदा
 when; तदा then; विद्यात् (it) may be known; विवृद्धम् (is) predominant;
-सत्त्वम्,Sattva; इति thus; उत indeed.Commentary When a particular ality
-becomes predominant; it reveals its distinctive characteristics in man.
-Just as jasmine scatters its fragrance far and wide; so also knowledge
-disseminates itself in all directions. Convert Tamas into Rajas and
-Rajas into Sattva. Now stand firm in Sattva. You will get increase of
-light; purity; peace and harmony. Sattva will lead you upwards. You will
-have an upward pull towards the Supreme Light. Sattvic diet; Japa;
-meditation; study of holy scriptures; living in seclusion; company of
-holy men; singing His Names and glories; and regulation of breath
-(Pranayama) will increase Sattva.Introspect. Look within. Watch the
-Gunas carefully. Be vigilant. Stand as a doorkeeper. Allow only Sattvic
-thoughts to pass through the door of the mental factory. Check Rajas.
+सत्त्वम्,Sattva; इति thus; उत indeed.Commentary When a particular ality becomes predominant; it reveals its distinctive characteristics in man.
+Just as jasmine scatters its fragrance far and wide; so also knowledge disseminates itself in all directions. Convert Tamas into Rajas and Rajas into Sattva. Now stand firm in Sattva. You will get increase of light; purity; peace and harmony. Sattva will lead you upwards. You will have an upward pull towards the Supreme Light. Sattvic diet; Japa;
+meditation; study of holy scriptures; living in seclusion; company of holy men; singing His Names and glories; and regulation of breath
+(Pranayama) will increase Sattva.Introspect. Look within. Watch the Gunas carefully. Be vigilant. Stand as a doorkeeper. Allow only Sattvic thoughts to pass through the door of the mental factory. Check Rajas.
 Curb Tamas. When Sattva predominates there is unruffled peace of mind;
-inner harmony; perfect serenity and tranillity. There is clarity or
-clear vision also. The understanding is not clouded. There is
-penetrative insight. The door or threshold of intuition is wide open.
-The senses will not run towards external objects.The senses are the
-avenues of senseknowledge. They are the gateways of perception for the
-Self. When light shines in all the gates of the body; such as the eyes;
-the ears; etc. (in other words when there is the manifestation of the
-BuddhiVritti of the Antahkarana); then knowledge arises. You can
-understand by the mark of knowledge that Sattva is predominant. You can
-also know that Sattva is increasing by the mark of happiness. Just as
-the aspirant knows that Sattva is predominant in him by the marks of
-knowledge and happiness; so also he knows by the mark of knowledge that
-Rajas and Tamas are gradually decreasing.The ears shun whatever is
-improper to be heard. The eyes abandon what they should not look at. The
-tongue avoids to speak anything that is not right to speak of. The mind
-is not attracted by the sensual objects. Purity thus increases gradually
-by Japa; meditation; and selfrestraint. If there is increase of Sattva
-or harmony; there is also increase of knowledge. Sattva is the only sure
-means for the attainment of the knowledge of the Self. It lays the
-foundation of knowledge.
+inner harmony; perfect serenity and tranillity. There is clarity or clear vision also. The understanding is not clouded. There is penetrative insight. The door or threshold of intuition is wide open.
+The senses will not run towards external objects.The senses are the avenues of senseknowledge. They are the gateways of perception for the Self. When light shines in all the gates of the body; such as the eyes;
+the ears; etc. (in other words when there is the manifestation of the BuddhiVritti of the Antahkarana); then knowledge arises. You can understand by the mark of knowledge that Sattva is predominant. You can also know that Sattva is increasing by the mark of happiness. Just as the aspirant knows that Sattva is predominant in him by the marks of knowledge and happiness; so also he knows by the mark of knowledge that Rajas and Tamas are gradually decreasing.The ears shun whatever is improper to be heard. The eyes abandon what they should not look at. The tongue avoids to speak anything that is not right to speak of. The mind is not attracted by the sensual objects. Purity thus increases gradually by Japa; meditation; and selfrestraint. If there is increase of Sattva or harmony; there is also increase of knowledge. Sattva is the only sure means for the attainment of the knowledge of the Self. It lays the foundation of knowledge.
 
 </details>
 </div>

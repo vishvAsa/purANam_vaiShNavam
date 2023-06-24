@@ -55,15 +55,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/46_tapasvibhyo-dhiko.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.46 Whatever end of human endeavour is attained by mere austerity, by
-knowledge of different subjects (i.e., different from experience of the
-self) and by mere rituals like the horse-sacrifice etc., greater than
-all these is the end achieved through Yoga. Conseently the Yogin is
-superior to those who practise austerity, to those who possess learning
-and to those who perform rituals. Therefore, O Arjuna, become a Yogin.
-Thus, so far the vision of the self, which has been expounded in the
-teaching of Prajapati as forming a part of supreme Vidya, has been
-taught; then Sri Krsna extols that supreme Vidya:
+6.46 Whatever end of human endeavour is attained by mere austerity, by knowledge of different subjects (i.e., different from experience of the self) and by mere rituals like the horse-sacrifice etc., greater than all these is the end achieved through Yoga. Conseently the Yogin is superior to those who practise austerity, to those who possess learning and to those who perform rituals. Therefore, O Arjuna, become a Yogin.
+Thus, so far the vision of the self, which has been expounded in the teaching of Prajapati as forming a part of supreme Vidya, has been taught; then Sri Krsna extols that supreme Vidya:
 
 </details>
 </div>
@@ -321,18 +314,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/46_tapasvibhyo-dhiko.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.46. The man of Yoga is superior to the men of austerities and is
-considered superior even to the men of knowledge; and the man of Yoga is
-superior to the men of action. Therefore, O Arjuna ! you shall become a
-man of Yoga.
+6.46. The man of Yoga is superior to the men of austerities and is considered superior even to the men of knowledge; and the man of Yoga is superior to the men of action. Therefore, O Arjuna ! you shall become a man of Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/46_tapasvibhyo-dhiko.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.46 A yogi is higher than men of austerity; he is considered higher
-even than men of knowledge. The yogi is also higher than men of action.
+6.46 A yogi is higher than men of austerity; he is considered higher even than men of knowledge. The yogi is also higher than men of action.
 Therefore, O Arjuna, do you become a yogi.
 
 </details>
@@ -340,8 +329,7 @@ Therefore, O Arjuna, do you become a yogi.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/46_tapasvibhyo-dhiko.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.46 The wise man is superior to the ascetic and to the scholar and to
-the man of action; therefore be thou a wise man, O Arjuna!
+6.46 The wise man is superior to the ascetic and to the scholar and to the man of action; therefore be thou a wise man, O Arjuna!
 
 </details>
 </div>
@@ -349,18 +337,15 @@ the man of action; therefore be thou a wise man, O Arjuna!
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 6.46 Greater than the austere, greater than those who possess knowledge,
-greater than the ritualists is the Yogin. Therefore, O Arjuna, become a
-Yogin.
+greater than the ritualists is the Yogin. Therefore, O Arjuna, become a Yogin.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/46_tapasvibhyo-dhiko.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.46 The Yogi is thought to be superior to the ascetics and even
-superior to men of knowledge (obtained through the study of scriptures);
-he is also superior to men of action; therefore be thou a Yogi, O
-Arjuna.
+6.46 The Yogi is thought to be superior to the ascetics and even superior to men of knowledge (obtained through the study of scriptures);
+he is also superior to men of action; therefore be thou a Yogi, O Arjuna.
 
 </details>
 </div>
@@ -368,15 +353,9 @@ Arjuna.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.46 तपस्विभ्यः than ascetics; अधिकः superior; योगी the Yogi; ज्ञानिभ्यः
-than the wise; अपि even; मतः thought; अधिकः superior; कर्मिभ्यः than the
-men of action; च and; अधिकः superior; योगी the Yogi; तस्मात् therefore;
-योगी a Yogi; भव be; अर्जुन O Arjuna.Commentary Tapasvi One who observes
-the austerities of speech; mind and body prescribed in chapter XVII. 14;
-15 and 16.Jnani One who has a knowledge of the scriptures (an indirect
-knowledge or theoretical knowledge of the Self).Karmi He who performs
-the Vedic rituals.To all these the Yogi is superior; for he has the
-direct knowledge of the Self through intuition or direct cognition
-through Nirvikalpa Samadhi. (Cf.V.2XII.12XIII.24)
+than the wise; अपि even; मतः thought; अधिकः superior; कर्मिभ्यः than the men of action; च and; अधिकः superior; योगी the Yogi; तस्मात् therefore;
+योगी a Yogi; भव be; अर्जुन O Arjuna.Commentary Tapasvi One who observes the austerities of speech; mind and body prescribed in chapter XVII. 14;
+15 and 16.Jnani One who has a knowledge of the scriptures (an indirect knowledge or theoretical knowledge of the Self).Karmi He who performs the Vedic rituals.To all these the Yogi is superior; for he has the direct knowledge of the Self through intuition or direct cognition through Nirvikalpa Samadhi. (Cf.V.2XII.12XIII.24)
 
 </details>
 </div>

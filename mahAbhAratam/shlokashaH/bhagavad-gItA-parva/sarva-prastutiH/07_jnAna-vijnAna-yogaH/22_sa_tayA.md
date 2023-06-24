@@ -66,14 +66,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.22 He, endowed with that faith without obstacles, performs the worship
-of Indra and other divinities. Thence, i.e., from the worship of Indra
-and other divinities, who constitute My body, he attains the objects of
-his desire, which are in reality granted by Me alone. Although he does
-not know at the time of worship that divinities like Indra, who are his
-objects of worship, are My body only, and that worship of them is My
-worship, still, inasmuch as this worship is, in reality, My worship, he
-attains his objects of desire granted by Me alone.
+7.22 He, endowed with that faith without obstacles, performs the worship of Indra and other divinities. Thence, i.e., from the worship of Indra and other divinities, who constitute My body, he attains the objects of his desire, which are in reality granted by Me alone. Although he does not know at the time of worship that divinities like Indra, who are his objects of worship, are My body only, and that worship of them is My worship, still, inasmuch as this worship is, in reality, My worship, he attains his objects of desire granted by Me alone.
 
 </details>
 </div>
@@ -285,7 +278,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।7.22।। वह (भक्त) उस श्रद्धा से युक्त होकर उस देवता का पूजन करता है और
-उससे मेरे द्वारा विधान किये हुये इच्छित भोगों को निःसन्देह प्राप्त करता
+उससे मेरे द्वारा विधान किये हुये इच्छित भोगों को नि:सन्देह प्राप्त करता
 है।।
 
 </details>
@@ -331,33 +324,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.22. Endowed with that faith, he seeks to worship that deity and
-therefrom receives his desired objects that are ordained by none but Me.
+7.22. Endowed with that faith, he seeks to worship that deity and therefrom receives his desired objects that are ordained by none but Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.22 Being imbued with that faith, that person engages in worshipping
-that form, and he gets those very desired results therefrom as they are
-dispensed by Me alone.
+7.22 Being imbued with that faith, that person engages in worshipping that form, and he gets those very desired results therefrom as they are dispensed by Me alone.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.22 If he worships one form alone with real faith, then shall his
-desires be fulfilled through that only; for thus have I ordained.
+7.22 If he worships one form alone with real faith, then shall his desires be fulfilled through that only; for thus have I ordained.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.22 Endowed with that faith, he worships that form and thence gets the
-objects of his desire, granted in reality by Me alone.
+7.22 Endowed with that faith, he worships that form and thence gets the objects of his desire, granted in reality by Me alone.
 
 </details>
 </div>
@@ -373,20 +361,12 @@ and from it he obtains his desire, these being verily ordained by Me
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/07_jnAna-vijnAna-yogaH/22_sa_tayA.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-7.22 सः he; तया with that; श्रद्धया with faith; युक्तः endowed; तस्य of
-it; आराधनम् worship; ईहते engages in; लभते obtains; च and; ततः from
-that; कामान् desires; मया by Me; एव surely; विहितान् ordained; हि
-verily; तान् those.Commentary The last two words Hi and Tan are taken as
-one word; Hitan meaning benefits. This is another interpretation. The
-devotee who worships the lesser gods attains the objects of his desire
-(minor psychic powers; etc.). Those objects are ordained by the Lord
-only as He alone knows exactly the relation between the actions and
-their results or rewards and as He is the Inner Ruler of all beings.
-Unwise or undiscriminating people only take recourse to the means of
-getting these finite rewards which can hardly give entire satisfaction.
+7.22 सः he; तया with that; श्रद्धया with faith; युक्तः endowed; तस्य of it; आराधनम् worship; ईहते engages in; लभते obtains; च and; ततः from that; कामान् desires; मया by Me; एव surely; विहितान् ordained; हि
+verily; तान् those.Commentary The last two words Hi and Tan are taken as one word; Hitan meaning benefits. This is another interpretation. The devotee who worships the lesser gods attains the objects of his desire
+(minor psychic powers; etc.). Those objects are ordained by the Lord only as He alone knows exactly the relation between the actions and their results or rewards and as He is the Inner Ruler of all beings.
+Unwise or undiscriminating people only take recourse to the means of getting these finite rewards which can hardly give entire satisfaction.
 Pitiable indeed is their lot They have,no power of eniry (VicharaSakti)
-or right understanding. They get hold of pieces of glass instead of
-attaining the jewel of the Self; of incalculabe value.
+or right understanding. They get hold of pieces of glass instead of attaining the jewel of the Self; of incalculabe value.
 
 </details>
 </div>

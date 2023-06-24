@@ -50,13 +50,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.26 I know all being that have passed away, those that live now and
-those that will hereafter. But no one knows Me. Among the beings
-existing in the three-fold divisions of time whom I look after, no one
-understands Me as of the nature described and as Vasudeva incarnated to
-be a refuge for all. So no one resorts to Me. Therefore, the one who
-knows Me really (Jnanin) is extremely difficult to be found. Such is the
-meaning. So also:
+7.26 I know all being that have passed away, those that live now and those that will hereafter. But no one knows Me. Among the beings existing in the three-fold divisions of time whom I look after, no one understands Me as of the nature described and as Vasudeva incarnated to be a refuge for all. So no one resorts to Me. Therefore, the one who knows Me really (Jnanin) is extremely difficult to be found. Such is the meaning. So also:
 
 </details>
 </div>
@@ -364,40 +358,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.26. O Arjuna, I know the beings that are gone off, that are present
-and are yet to be born; but no one, knows Me.
+7.26. O Arjuna, I know the beings that are gone off, that are present and are yet to be born; but no one, knows Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.26 O Arjuna, I know the past and the present as also the future
-beings; but no one knows Me!
+7.26 O Arjuna, I know the past and the present as also the future beings; but no one knows Me!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.26 I know, O Arjuna, all beings in the past, the present and the
-future; but they do not know Me.
+7.26 I know, O Arjuna, all beings in the past, the present and the future; but they do not know Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.26 I know all beings, O Arjuna, past, present and those to come; but
-no one knows Me.
+7.26 I know all beings, O Arjuna, past, present and those to come; but no one knows Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/26_vedAhaM_samatItAn.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.26 I know, O Arjuna, the beings of the past, the present and the
-future, but no one knows Me.
+7.26 I know, O Arjuna, the beings of the past, the present and the future, but no one knows Me.
 
 </details>
 </div>
@@ -406,12 +395,7 @@ future, but no one knows Me.
 
 7.26 वेद know; अहम् I; समतीतानि the past; वर्तमानानि the present; च and;
 अर्जुन O Arjuna; भविष्याणि the future; च and; भूतानि beings; माम् Me; तु
-verily; वेद knows; न not; कश्चन any one.Commentary Persons who are
-deluded by the three alities of Nature do not know the Lord. As they
-lack in the knowledge of His real nature; they do not adore Hi. But the
-Lord knows through His omniscience the beings of the past; the present
-and the future. He who worships the Lord with singleminded devotion
-knows Him in essence. He has knowledge of His real nature.
+verily; वेद knows; न not; कश्चन any one.Commentary Persons who are deluded by the three alities of Nature do not know the Lord. As they lack in the knowledge of His real nature; they do not adore Hi. But the Lord knows through His omniscience the beings of the past; the present and the future. He who worships the Lord with singleminded devotion knows Him in essence. He has knowledge of His real nature.
 
 </details>
 </div>

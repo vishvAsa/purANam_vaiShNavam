@@ -81,21 +81,10 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 4.12 All men, desirous of the fruits of their actions, 'sacrifice',
-i.e., worship or propitiate Indra and other divinities only. But nobody
-worships Me abandoning attachment to fruits - Me, who am the Self of
-Indra and other divinities and the real enjoyer of all sacrifices. Why
-is this so; Because in this world of men, fruits in the form of sons,
-cattle, food etc., follow soon from their performance of such
-sacrificial rites. The phrase, 'the world of men' implies heaven etc.,
-also. Because the unending accumulation of evil heaped up from
-beginningless time has not been exhausted, all those worldly people lack
-discernment. Therefore they want rapid results and perform those rituals
-which consist of the worship of Indra and other divinities for the sake
-of sons, cattle, food etc., and for the sake of heaven etc. But none
-with his mind anguished by Samsara and aspiring for final release,
-practises Karma Yoga of the kind described above. Real Karma Yoga is My
-worship. Sri Krsna now speaks of the cause which annuls the evil
-obstructing the starting of Karma Yoga.
+i.e., worship or propitiate Indra and other divinities only. But nobody worships Me abandoning attachment to fruits - Me, who am the Self of Indra and other divinities and the real enjoyer of all sacrifices. Why is this so; Because in this world of men, fruits in the form of sons,
+cattle, food etc., follow soon from their performance of such sacrificial rites. The phrase, 'the world of men' implies heaven etc.,
+also. Because the unending accumulation of evil heaped up from beginningless time has not been exhausted, all those worldly people lack discernment. Therefore they want rapid results and perform those rituals which consist of the worship of Indra and other divinities for the sake of sons, cattle, food etc., and for the sake of heaven etc. But none with his mind anguished by Samsara and aspiring for final release,
+practises Karma Yoga of the kind described above. Real Karma Yoga is My worship. Sri Krsna now speaks of the cause which annuls the evil obstructing the starting of Karma Yoga.
 
 </details>
 </div>
@@ -505,8 +494,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.12. Those, who are desirous of success of their actions, perform
-sacrifices intending the deities. For, the success born of
+4.12. Those, who are desirous of success of their actions, perform sacrifices intending the deities. For, the success born of
 \[ritualistic\] actions is ick in the world of men.
 
 </details>
@@ -515,33 +503,28 @@ sacrifices intending the deities. For, the success born of
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 4.12 Longing for the fruition of actions (of their rites and duties),
-they worship the gods here. For, in the human world, success from action
-comes ickly.
+they worship the gods here. For, in the human world, success from action comes ickly.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.12 Those who look for success, worship the Powers; and in this world
-their actions bear immediate fruit.
+4.12 Those who look for success, worship the Powers; and in this world their actions bear immediate fruit.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.12 Those who desire the fruits of their ritualistic acts, sacrifice to
-the gods here; for, success born of such acts ickly accrues in the world
-of men.
+4.12 Those who desire the fruits of their ritualistic acts, sacrifice to the gods here; for, success born of such acts ickly accrues in the world of men.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/12_kAnxantaH_karmaNA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.12 Those who long for success in action in this world sacrifice to the
-gods; because success is ickly attained by men through action.
+4.12 Those who long for success in action in this world sacrifice to the gods; because success is ickly attained by men through action.
 
 </details>
 </div>
@@ -551,11 +534,7 @@ gods; because success is ickly attained by men through action.
 4.12 काङ्क्षन्तः those who long for; कर्मणाम् of actions; सिद्धिम्
 success; यजन्ते sacrifice; इह in this world; देवताः gods; क्षिप्रम्
 ickly; हि because; मानुषे in the human; लोके (in the) world; सिद्धिः
-success; भवति is attained; कर्मजा born of action.Commentary It is very
-difficult to attain to the knowledge of the Self or Selfrealisation. It
-demans perfect renunciation. The aspirnat should possess the four means
-and many other virtues; and practise constant and intense meditaion. But
-worldly success can be attained ickly and easily.
+success; भवति is attained; कर्मजा born of action.Commentary It is very difficult to attain to the knowledge of the Self or Selfrealisation. It demans perfect renunciation. The aspirnat should possess the four means and many other virtues; and practise constant and intense meditaion. But worldly success can be attained ickly and easily.
 
 </details>
 </div>

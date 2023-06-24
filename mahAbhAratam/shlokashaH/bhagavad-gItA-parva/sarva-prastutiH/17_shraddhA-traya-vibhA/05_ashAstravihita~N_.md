@@ -79,25 +79,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.5 - 17.6 'Those men who perform terrible pernances not enjoined by
-the Sastras' - this is illustrative of sacrifices etc., of a similar
-nature. Those who perform sacrifices, etc., sacrifices which are not
-enjoined by the Sastras and demand much exertion, those who are
-possessed of 'ostentation and conceit and are goaded by sensual desire,
-attachment and passion' - they torture the group of elements such as
-earth etc., in their bodies. They also torture the individual self which
-is a part of Myself and is within their bodies. Those who perform such
-sacrifices etc., know them to be demoniacal in their resolves. The
-resolve of demons is demoniac resolve. The demons are those who act
-contrary to My ;ndments. Since they act contrary to My ;ndments, they do
-not have even a iota of joy, but as stated earlier, they fall a prey to
-a multitude of calamities. 'They fall into a foul Naraka' (16.16). Now,
-Sri Krsna, resuming the subject, details the differences according to
-the Gunas with reference to sacrifice, etc., enjoined by the Sastras. To
-begin with, he describes three kinds of food, since the growth of Sattva
-etc., has its source in food, as Srutis declare thus: 'For my dear, the
-mind consists of food' (Cha. U., 6.5.4) and 'when the food is pure, the
-man becomes pure' (Cha. U., 7.26.2).
+17.5 - 17.6 'Those men who perform terrible pernances not enjoined by the Sastras' - this is illustrative of sacrifices etc., of a similar nature. Those who perform sacrifices, etc., sacrifices which are not enjoined by the Sastras and demand much exertion, those who are possessed of 'ostentation and conceit and are goaded by sensual desire,
+attachment and passion' - they torture the group of elements such as earth etc., in their bodies. They also torture the individual self which is a part of Myself and is within their bodies. Those who perform such sacrifices etc., know them to be demoniacal in their resolves. The resolve of demons is demoniac resolve. The demons are those who act contrary to My ;ndments. Since they act contrary to My ;ndments, they do not have even a iota of joy, but as stated earlier, they fall a prey to a multitude of calamities. 'They fall into a foul Naraka' (16.16). Now,
+Sri Krsna, resuming the subject, details the differences according to the Gunas with reference to sacrifice, etc., enjoined by the Sastras. To begin with, he describes three kinds of food, since the growth of Sattva etc., has its source in food, as Srutis declare thus: 'For my dear, the mind consists of food' (Cha. U., 6.5.4) and 'when the food is pure, the man becomes pure' (Cha. U., 7.26.2).
 
 </details>
 </div>
@@ -417,45 +401,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.5. Those men, who practise terrible austerities, not as enjoined in
-the scriptures; who are bound to hypocricy and conceit, and are endowed
-with (i.e. impelled by) the force of passion for the desired objects;
+17.5. Those men, who practise terrible austerities, not as enjoined in the scriptures; who are bound to hypocricy and conceit, and are endowed with (i.e. impelled by) the force of passion for the desired objects;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.5 Those persons who, given to ostentation and pride, and possessed of
-passion, attachment and strength, undertake severe austerities not
-sanctioned in the scriptures;
+17.5 Those persons who, given to ostentation and pride, and possessed of passion, attachment and strength, undertake severe austerities not sanctioned in the scriptures;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.5 Those who practise austerities not commanded by scripture, who are
-slaves to hypocrisy and egotism, who are carried away by the fury of
-desire and passion,
+17.5 Those who practise austerities not commanded by scripture, who are slaves to hypocrisy and egotism, who are carried away by the fury of desire and passion,
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.5 Those men who practise terrible austerity not enjoined by the
-Sastras, given to ostentation and conceit, and prompted by the force of
-sensual desires and passion;
+17.5 Those men who practise terrible austerity not enjoined by the Sastras, given to ostentation and conceit, and prompted by the force of sensual desires and passion;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/05_ashAstravihita~N_.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-17.5 Those men who practise terrific austerities not enjoined by the
-scriptures, given to hypocrisy and egoism, impelled by the force of lust
-and attachment.
+17.5 Those men who practise terrific austerities not enjoined by the scriptures, given to hypocrisy and egoism, impelled by the force of lust and attachment.
 
 </details>
 </div>
@@ -464,36 +438,9 @@ and attachment.
 
 17.5 अशास्त्रविहितम् not enjoined by the scriptures; घोरम् terrific;
 तप्यन्ते practise; ये who; तपः austerity; जनाः men; दम्भाहङ्कारसंयुक्ताः
-given to hypocrisy and egoism; कामरागबलान्विताः by the force of lust and
-attachment.Commentary There are some who think that the mortification of
-the body is the proper means to attain the goal of life. They do this in
-order to attract the people and get money for the gratification of their
-senses. They stand on one leg with raised hands. This is not real Tapas.
-This is Tamasic Tapas. Bodily torture will not bring emancipation. These
-men are not acainted with even the first elements of the scriptures.
-They mock at the religious practices of the wise; elderly persons and
-jeer at learned men. They are puffed up with the vanity of their own
-greatness. They are proud of their wealth. They perform unauthorised
-austerities. These persons do severe austerities contrary to the
-scriptures on the strength of desire and attachment.They take even the
-lives of children to propitiate their deity. Instead of killing their
-egoism; they kill many innocent animals in the name of sacrifice but in
-reality they kill them to satisfy their own palate. Most horrible indeed
-They speak ill of the scriptures and wander about in the forest of
-delusion and infatuation. They follow the dictates of passion. They
-inflict pain on themselves and on others. They practise austerities
-which cause pain to themselves and to other living beings. Pitiable
-indeed is their lot. They are doomed to destruction.Kamaragabalanvitah
-may also be interpreted as possessed of lust; attachment and
-power.Dambha Ostentation The man of Dambha is desirous that all people
-should take him for a virtuous man and so he expresses to others his
-righteous nature. In reality he is not virtuous. He pretends to be what
-he is not.Ahankara Egoism The egoistic man thinks and feels that he is
-superior to others in the possession of all virtuous alities.Raga
-Extreme attachment to sensual objects.Bala Great power of enduring
-severe pain on account of Raga for sensual objects (pain that accrues
-from exertion in attaining and preserving the objects).Kama Lust Desire
-for any object.
+given to hypocrisy and egoism; कामरागबलान्विताः by the force of lust and attachment.Commentary There are some who think that the mortification of the body is the proper means to attain the goal of life. They do this in order to attract the people and get money for the gratification of their senses. They stand on one leg with raised hands. This is not real Tapas.
+This is Tamasic Tapas. Bodily torture will not bring emancipation. These men are not acainted with even the first elements of the scriptures.
+They mock at the religious practices of the wise; elderly persons and jeer at learned men. They are puffed up with the vanity of their own greatness. They are proud of their wealth. They perform unauthorised austerities. These persons do severe austerities contrary to the scriptures on the strength of desire and attachment.They take even the lives of children to propitiate their deity. Instead of killing their egoism; they kill many innocent animals in the name of sacrifice but in reality they kill them to satisfy their own palate. Most horrible indeed They speak ill of the scriptures and wander about in the forest of delusion and infatuation. They follow the dictates of passion. They inflict pain on themselves and on others. They practise austerities which cause pain to themselves and to other living beings. Pitiable indeed is their lot. They are doomed to destruction.Kamaragabalanvitah may also be interpreted as possessed of lust; attachment and power.Dambha Ostentation The man of Dambha is desirous that all people should take him for a virtuous man and so he expresses to others his righteous nature. In reality he is not virtuous. He pretends to be what he is not.Ahankara Egoism The egoistic man thinks and feels that he is superior to others in the possession of all virtuous alities.Raga Extreme attachment to sensual objects.Bala Great power of enduring severe pain on account of Raga for sensual objects (pain that accrues from exertion in attaining and preserving the objects).Kama Lust Desire for any object.
 
 </details>
 </div>

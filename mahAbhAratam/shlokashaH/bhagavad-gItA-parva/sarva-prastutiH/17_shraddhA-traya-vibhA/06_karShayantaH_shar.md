@@ -87,25 +87,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/06_karShayantaH_shar.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.5 - 17.6 'Those men who perform terrible pernances not enjoined by
-the Sastras' - this is illustrative of sacrifices etc., of a similar
-nature. Those who perform sacrifices, etc., sacrifices which are not
-enjoined by the Sastras and demand much exertion, those who are
-possessed of 'ostentation and conceit and are goaded by sensual desire,
-attachment and passion' - they torture the group of elements such as
-earth etc., in their bodies. They also torture the individual self which
-is a part of Myself and is within their bodies. Those who perform such
-sacrifices etc., know them to be demoniacal in their resolves. The
-resolve of demons is demoniac resolve. The demons are those who act
-contrary to My ;ndments. Since they act contrary to My ;ndments, they do
-not have even a iota of joy, but as stated earlier, they fall a prey to
-a multitude of calamities. 'They fall into a foul Naraka' (16.16). Now,
-Sri Krsna, resuming the subject, details the differences according to
-the Gunas with reference to sacrifice, etc., enjoined by the Sastras. To
-begin with, he describes three kinds of food, since the growth of Sattva
-etc., has its source in food, as Srutis declare thus: 'For my dear, the
-mind consists of food' (Cha. U., 6.5.4) and 'when the food is pure, the
-man becomes pure' (Cha. U., 7.26.2).
+17.5 - 17.6 'Those men who perform terrible pernances not enjoined by the Sastras' - this is illustrative of sacrifices etc., of a similar nature. Those who perform sacrifices, etc., sacrifices which are not enjoined by the Sastras and demand much exertion, those who are possessed of 'ostentation and conceit and are goaded by sensual desire,
+attachment and passion' - they torture the group of elements such as earth etc., in their bodies. They also torture the individual self which is a part of Myself and is within their bodies. Those who perform such sacrifices etc., know them to be demoniacal in their resolves. The resolve of demons is demoniac resolve. The demons are those who act contrary to My ;ndments. Since they act contrary to My ;ndments, they do not have even a iota of joy, but as stated earlier, they fall a prey to a multitude of calamities. 'They fall into a foul Naraka' (16.16). Now,
+Sri Krsna, resuming the subject, details the differences according to the Gunas with reference to sacrifice, etc., enjoined by the Sastras. To begin with, he describes three kinds of food, since the growth of Sattva etc., has its source in food, as Srutis declare thus: 'For my dear, the mind consists of food' (Cha. U., 6.5.4) and 'when the food is pure, the man becomes pure' (Cha. U., 7.26.2).
 
 </details>
 </div>
@@ -475,57 +459,43 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/06_karShayantaH_shar.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.6. Who emaciate unintelligently the conglamoration of elements in
-their physic and emaciate Me too, dwelling within the physic-know them
-to be of a demoniac resolve.
+17.6. Who emaciate unintelligently the conglamoration of elements in their physic and emaciate Me too, dwelling within the physic-know them to be of a demoniac resolve.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/06_karShayantaH_shar.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.6 (And who,) being non-discriminating, torture, all the organs in the
-body as also even Me who reside in the body,-know them as possessed of
-demoniacal conviction.
+17.6 (And who,) being non-discriminating, torture, all the organs in the body as also even Me who reside in the body,-know them as possessed of demoniacal conviction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/06_karShayantaH_shar.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.6 They are ignorant. They torment the organs of the body; and they
-harass Me also, Who lives within. Know that they are devoted to evil.
+17.6 They are ignorant. They torment the organs of the body; and they harass Me also, Who lives within. Know that they are devoted to evil.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/06_karShayantaH_shar.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.6 These foolish men, torturing the group of elements in their bodies
-and Me also who dwell within the body - know them to be demoniacal in
-their resolves.
+17.6 These foolish men, torturing the group of elements in their bodies and Me also who dwell within the body - know them to be demoniacal in their resolves.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/06_karShayantaH_shar.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-17.6 Senseless, torturing all the elements in the body and Me also, Who
-dwell in the body, know thou these to be of demonical resolves.
+17.6 Senseless, torturing all the elements in the body and Me also, Who dwell in the body, know thou these to be of demonical resolves.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/17_shraddhA-traya-vibhA/06_karShayantaH_shar.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-17.6 कर्षयन्तः torturing; शरीरस्थम् dwelling in the body; भूतग्रामम् all
-the elements; अचेतसः senseless; माम् Me; च and; एव even; अन्तःशरीरस्थम्
-who dwells in the body within; तान् them; विद्धि know; आसुरनिश्चयान् to
-be of demoniac resolves.Commentary Bhutagramam The aggregate of all the
-elements composing the body.Elements Organs.Mam Me Vaasudeva; the
-witness of their thoughts and deeds.He who thus tortures Me disregards
-My teachings entirely.Achetasah Senseless; unintelligent; having no
-discrimination.
+17.6 कर्षयन्तः torturing; शरीरस्थम् dwelling in the body; भूतग्रामम् all the elements; अचेतसः senseless; माम् Me; च and; एव even; अन्तःशरीरस्थम्
+who dwells in the body within; तान् them; विद्धि know; आसुरनिश्चयान् to be of demoniac resolves.Commentary Bhutagramam The aggregate of all the elements composing the body.Elements Organs.Mam Me Vaasudeva; the witness of their thoughts and deeds.He who thus tortures Me disregards My teachings entirely.Achetasah Senseless; unintelligent; having no discrimination.
 
 </details>
 </div>

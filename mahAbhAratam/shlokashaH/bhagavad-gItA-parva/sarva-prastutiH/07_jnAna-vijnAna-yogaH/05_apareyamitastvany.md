@@ -53,13 +53,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.5 This is My lower Prakrti. But know My higher Prakrti which is
-different from this, i.e., whose nature is different from this inanimate
-Prakrti constituting the objects of enjoyment to animate beings. It is
-'higher', i.e., is more pre-eminent compared to the lower Prakrti which
-is constituted only of inanimate substances. This higher Nature of Mine
-is the individual self. Know this as My higher Prakrti through which the
-whole inanimate universe is sustained.
+7.5 This is My lower Prakrti. But know My higher Prakrti which is different from this, i.e., whose nature is different from this inanimate Prakrti constituting the objects of enjoyment to animate beings. It is
+'higher', i.e., is more pre-eminent compared to the lower Prakrti which is constituted only of inanimate substances. This higher Nature of Mine is the individual self. Know this as My higher Prakrti through which the whole inanimate universe is sustained.
 
 </details>
 </div>
@@ -568,18 +563,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.5. This is the lower \[nature of Mine\]. Not different from this is My
-superior nature which has become the individual Soul and by which this
-world is maintained. O mighty armed (Arjuna), you must know this.
+7.5. This is the lower \[nature of Mine\]. Not different from this is My superior nature which has become the individual Soul and by which this world is maintained. O mighty armed (Arjuna), you must know this.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.5 O mighty-armed one, this is the inferior (Prakrti). Know the other
-Prakrti of Mine which, however, is higher than this, which has taken the
-from of individual souls, and by which this world is uphelp.
+7.5 O mighty-armed one, this is the inferior (Prakrti). Know the other Prakrti of Mine which, however, is higher than this, which has taken the from of individual souls, and by which this world is uphelp.
 
 </details>
 </div>
@@ -587,26 +578,21 @@ from of individual souls, and by which this world is uphelp.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 7.5 This is My inferior Nature; but distinct from this, O Valiant One,
-know thou that my Superior Nature is the very Life which sustains the
-universe.
+know thou that my Superior Nature is the very Life which sustains the universe.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.5 This is My lower Prakrti. But, O mighty-armed One, know that My
-higher nature is another. It is the life-principle (Jiva-bhuta), by
-which this universe is sustained.
+7.5 This is My lower Prakrti. But, O mighty-armed One, know that My higher nature is another. It is the life-principle (Jiva-bhuta), by which this universe is sustained.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/05_apareyamitastvany.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.5 This is the inferior Prakriti, O mighty-armed (Arjuna); know thou as
-different from it My higher Prakriti (Nature), the very life-element, by
-which this world is upheld.
+7.5 This is the inferior Prakriti, O mighty-armed (Arjuna); know thou as different from it My higher Prakriti (Nature), the very life-element, by which this world is upheld.
 
 </details>
 </div>
@@ -614,15 +600,7 @@ which this world is upheld.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 7.5 अपरा lower; इयम् this; इतः from this; तु but; अन्याम् different;
-प्रकृतिम् nature; विद्धि know; मे My; पराम् higher; जीवभूताम् the very
-lifeelement; महाबाहो O mightyarmed; यया by which; इदम् this; धार्यते is
-upheld; जगत् world.Commentary The eightfold Nature described in the
-previous verse is the inferior Nature. It constitutes the Kshetra or the
-field or matter. It is impure. It generates evil and causes bondage. But
-the superior Nature is pure. It is My very Self; Kshetrajna (knower of
-the field or Spirit) by which life is sustained; and that which enters
-within the whole world and upholds it. It is the very lifeelement or the
-principle of Selfconsciousness; by which this universe is sustained.
+प्रकृतिम् nature; विद्धि know; मे My; पराम् higher; जीवभूताम् the very lifeelement; महाबाहो O mightyarmed; यया by which; इदम् this; धार्यते is upheld; जगत् world.Commentary The eightfold Nature described in the previous verse is the inferior Nature. It constitutes the Kshetra or the field or matter. It is impure. It generates evil and causes bondage. But the superior Nature is pure. It is My very Self; Kshetrajna (knower of the field or Spirit) by which life is sustained; and that which enters within the whole world and upholds it. It is the very lifeelement or the principle of Selfconsciousness; by which this universe is sustained.
 
 </details>
 </div>

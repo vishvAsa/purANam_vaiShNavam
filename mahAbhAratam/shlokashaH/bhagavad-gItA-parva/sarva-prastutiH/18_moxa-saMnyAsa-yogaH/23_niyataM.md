@@ -57,13 +57,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/23_niyataM.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.23 'Obligatory act' is that which is appropriate to one's own station
-and stage of life. Doing it 'without attachment' means devoid of
-attachment to agency etc., and 'without desire or aversion' means that
-it is not done through desire to win fame and aversion to win notoriety,
-i.e., is performed without ostentation - when obligatory works are
-performed in the above-mentioned way by one who is not after their
-fruits, they are said to be Sattvika.
+18.23 'Obligatory act' is that which is appropriate to one's own station and stage of life. Doing it 'without attachment' means devoid of attachment to agency etc., and 'without desire or aversion' means that it is not done through desire to win fame and aversion to win notoriety,
+i.e., is performed without ostentation - when obligatory works are performed in the above-mentioned way by one who is not after their fruits, they are said to be Sattvika.
 
 </details>
 </div>
@@ -339,9 +334,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/23_niyataM.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.23. The object that has been acired with determination, without
-attachment and without desire or hatred, by one who does not crave to
-reap the fruit \[of his action\] - that is declared to be of the Sattva
+18.23. The object that has been acired with determination, without attachment and without desire or hatred, by one who does not crave to reap the fruit \[of his action\] - that is declared to be of the Sattva
 (Strand).
 
 </details>
@@ -349,8 +342,7 @@ reap the fruit \[of his action\] - that is declared to be of the Sattva
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/23_niyataM.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.23 The daily obligatory action which is performed without attachment
-and without likes or dislikes by one who does not hanker for rewards,
+18.23 The daily obligatory action which is performed without attachment and without likes or dislikes by one who does not hanker for rewards,
 that is said to be born of sattva.
 
 </details>
@@ -358,26 +350,21 @@ that is said to be born of sattva.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/23_niyataM.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.23 An obligatory action done by one who is disinterested, who neither
-likes nor dislikes it, and gives no thought to the consequences that
-follow, such an action is Pure.
+18.23 An obligatory action done by one who is disinterested, who neither likes nor dislikes it, and gives no thought to the consequences that follow, such an action is Pure.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/23_niyataM.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.23 That obligatory act is said to be Sattvika which is done without
-attachment, without desire or aversion, by one who seeks no fruit.
+18.23 That obligatory act is said to be Sattvika which is done without attachment, without desire or aversion, by one who seeks no fruit.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/23_niyataM.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.23 An action which is ordained, which is free from attachment, and
-which is done without love or hatred by one who is not desirous of any
-reward that action is declared to be Sattvic.
+18.23 An action which is ordained, which is free from attachment, and which is done without love or hatred by one who is not desirous of any reward that action is declared to be Sattvic.
 
 </details>
 </div>
@@ -385,16 +372,8 @@ reward that action is declared to be Sattvic.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.23 नियतम् ordained; सङ्गरहितम् free from attachment; अरागद्वेषतः
-without love or hatred; कृतम् done; अफलप्रेप्सुना by one not desirous of
-the fruit; कर्म action; यत् which; तत् that; सात्त्विकम् Sattvic (pure);
-ुच्यते is declared.Commentary Niyatam Ordained Obligatory. One is not
-excited to perform an obligatory action through love or hatred.This is a
-pure act. The performer of such pure action experiences great joy. He
-does his duty or any other work wholeheartedly not caring for the reward
-but offering it willingly at the feet of the Lord. He works in
-accordancw with the dictates of the scriptures. Now I will explain to
-thee; O Arjuna; the nature of action which is Rajasic or passionate. Do
-thou listen to Me with rapt attention.
+without love or hatred; कृतम् done; अफलप्रेप्सुना by one not desirous of the fruit; कर्म action; यत् which; तत् that; सात्त्विकम् Sattvic (pure);
+ुच्यते is declared.Commentary Niyatam Ordained Obligatory. One is not excited to perform an obligatory action through love or hatred.This is a pure act. The performer of such pure action experiences great joy. He does his duty or any other work wholeheartedly not caring for the reward but offering it willingly at the feet of the Lord. He works in accordancw with the dictates of the scriptures. Now I will explain to thee; O Arjuna; the nature of action which is Rajasic or passionate. Do thou listen to Me with rapt attention.
 
 </details>
 </div>

@@ -158,19 +158,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.10 Stale (Yatayamam) means that food which has lost its original
-state, being kept for a long time. Tasteless (Gatarasam) means that
-which has lost its natural taste. Putrid (Puti) means emitting a bad
-smell. Decayed (Paryusitam) means aciring a rancidity by lapse of time.
-Refuse (Ucchistam) means the food that has remained over after being
-partaken by persons other than Gurus, etc. Unclean (Amedhyam) is that
-which is not fit for offering in sacrifice or worship. The meaning is
-that, being unfit for offering in worship, they cannot become the
-sacrificial remainder. Foods of this kind which promote the growth of
-Tamas are dear to those who are characterised by Tamas. Food (Bhojana)
-means that which is eaten. Tamasik food promotes further increase of
-Tamas. Hence, those persons who care for their own welfare by the growth
-of Sattva, should eat food charaterised by Sattva.
+17.10 Stale (Yatayamam) means that food which has lost its original state, being kept for a long time. Tasteless (Gatarasam) means that which has lost its natural taste. Putrid (Puti) means emitting a bad smell. Decayed (Paryusitam) means aciring a rancidity by lapse of time.
+Refuse (Ucchistam) means the food that has remained over after being partaken by persons other than Gurus, etc. Unclean (Amedhyam) is that which is not fit for offering in sacrifice or worship. The meaning is that, being unfit for offering in worship, they cannot become the sacrificial remainder. Foods of this kind which promote the growth of Tamas are dear to those who are characterised by Tamas. Food (Bhojana)
+means that which is eaten. Tamasik food promotes further increase of Tamas. Hence, those persons who care for their own welfare by the growth of Sattva, should eat food charaterised by Sattva.
 
 </details>
 </div>
@@ -620,9 +610,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.10. What is old, bereft of taste, ill-smelling, and stale; what is
-also left after eating, and is impure - such a food is dear to the men
-of the Tamas (Strand).
+17.10. What is old, bereft of taste, ill-smelling, and stale; what is also left after eating, and is impure - such a food is dear to the men of the Tamas (Strand).
 
 </details>
 </div>
@@ -636,8 +624,7 @@ of the Tamas (Strand).
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/10_yAtayAma~N_gatara.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.10 The Ignorant love food which is stale, not nourishing, putrid and
-corrupt, the leavings of others and unclean.
+17.10 The Ignorant love food which is stale, not nourishing, putrid and corrupt, the leavings of others and unclean.
 
 </details>
 </div>
@@ -663,18 +650,8 @@ is the food liked by the Tamasic.
 17.10 यातयामम् state; गतरसम् tasteless; पूति putrid; पर्युषितम् rotten;
 च and; यत् which; उच्छिष्टम् refuse; अपि also; च and; अमेध्यम् impure;
 भोजनम् food; तामसप्रियम् liked by the Tamasic. Commentary Cannabis indica
-(Ganja); Bhang; opium; cocaine; Charas; Chandoo; all stale and putrid
-articles; are Tamasic.Yatayamam Stale; literally means cooked three
-hours ago. Yatayamam and Gatarasam mean the same thing.Paryushitam
-Rotten The cooked food which has been kept overnight.Uchchishtam What is
-left on the plate after a meal.The man whose taste is of a Tamasic
-nature will eat food in the afternoon that has been cooked on the
-previous day. He also likes that which is halfcooked or burnt to a
-cinder. He and all the members of his family sit together and eat from
-the same dish or plate; food that has been mixed into a mess by his
-children.The food eaten by Tamasic people is stale; dry; without juice;
-unripe or overcooked. They do not relish it; till it begins to rot and
-ferment. They take prohibited foods and drinks. They take liors;
+(Ganja); Bhang; opium; cocaine; Charas; Chandoo; all stale and putrid articles; are Tamasic.Yatayamam Stale; literally means cooked three hours ago. Yatayamam and Gatarasam mean the same thing.Paryushitam Rotten The cooked food which has been kept overnight.Uchchishtam What is left on the plate after a meal.The man whose taste is of a Tamasic nature will eat food in the afternoon that has been cooked on the previous day. He also likes that which is halfcooked or burnt to a cinder. He and all the members of his family sit together and eat from the same dish or plate; food that has been mixed into a mess by his children.The food eaten by Tamasic people is stale; dry; without juice;
+unripe or overcooked. They do not relish it; till it begins to rot and ferment. They take prohibited foods and drinks. They take liors;
 fermented toddy; etc. They are horrible people with devilish tendencies.
 
 </details>

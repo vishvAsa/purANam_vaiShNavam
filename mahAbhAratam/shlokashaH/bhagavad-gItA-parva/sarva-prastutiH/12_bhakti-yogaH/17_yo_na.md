@@ -62,15 +62,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/17_yo_na.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.17 He who does not 'rejoice', i.e., that Karma Yogin, who, on
-obtaining things which cause joy to man, does not rejoice; who does not
+12.17 He who does not 'rejoice', i.e., that Karma Yogin, who, on obtaining things which cause joy to man, does not rejoice; who does not
 'hate', does not hate on obtaining anything undesriable; who is not
-'grieved' by common sorrows which cause grief among men, as the loss of
-wife, son, fortune etc.; who 'does not desire' anything like wife, son,
+'grieved' by common sorrows which cause grief among men, as the loss of wife, son, fortune etc.; who 'does not desire' anything like wife, son,
 fortune etc.; not already acired by him; who 'renounces good and evil,'
-i.e., who renounces both merit and demerit because, like demert, merit
-also causes bondage, there being no difference between them in this
-respect - he who is like this and devoted to Me is dear to Me.
+i.e., who renounces both merit and demerit because, like demert, merit also causes bondage, there being no difference between them in this respect - he who is like this and devoted to Me is dear to Me.
 
 </details>
 </div>
@@ -376,35 +372,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/17_yo_na.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.17. He, who neither delights no hates, nor grieves, nor craves; who
-has renounced both the good and the bad results \[of actions\] and is
-full of devotion \[to Me\]-he is dear to Me.
+12.17. He, who neither delights no hates, nor grieves, nor craves; who has renounced both the good and the bad results \[of actions\] and is full of devotion \[to Me\]-he is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/17_yo_na.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.17 He who does not rejoice, does not fret, does not lament, does not
-hanker; who gives up good and bad, who is filled with devotion-he is
-dear to Me.
+12.17 He who does not rejoice, does not fret, does not lament, does not hanker; who gives up good and bad, who is filled with devotion-he is dear to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/17_yo_na.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.17 He who is beyond joy and hate, who neither laments nor desires, to
-whom good and evil fortunes are the same, such a one is My beloved.
+12.17 He who is beyond joy and hate, who neither laments nor desires, to whom good and evil fortunes are the same, such a one is My beloved.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/17_yo_na.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.17 He who rejoices not, nor hates, nor grieves, nor desires, who
-renounces good and evil, who is full of devotion to me - dear to me is
-such a devotee.
+12.17 He who rejoices not, nor hates, nor grieves, nor desires, who renounces good and evil, who is full of devotion to me - dear to me is such a devotee.
 
 </details>
 </div>
@@ -420,16 +409,8 @@ renouncing good and evil, and who is full of devotion, is dear to Me.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 12.17 यः who; न not; हृष्यति rejoices; न not; द्वेष्टि hates; न not;
-शोचति grieves; न not; काङ्क्षति desires; शुभाशुभपरित्यागी renouncing
-good and evil; भक्तिमान् full of devotion; यः who; सः he; मे to Me;
-प्रियः dear.Commentary What is described in verse 13 is dealt with at
-length in this.He does not rejoice when he attains the desirable
-objects. He does not hate when he gets the undesirable objects. He does
-not grieve when he parts with his beloved objects. He does not desire
-the unattained.Subhasubhaparityagi Here is a further description of
-Sarvarambhaparityagi of verse 16. He who has renounced good and evil
-actions which produce pleasure and pain is a devotee of the Lord.Such a
-devotee or knower of Brahman; who is My own Self; is dear to Me.
+शोचति grieves; न not; काङ्क्षति desires; शुभाशुभपरित्यागी renouncing good and evil; भक्तिमान् full of devotion; यः who; सः he; मे to Me;
+प्रियः dear.Commentary What is described in verse 13 is dealt with at length in this.He does not rejoice when he attains the desirable objects. He does not hate when he gets the undesirable objects. He does not grieve when he parts with his beloved objects. He does not desire the unattained.Subhasubhaparityagi Here is a further description of Sarvarambhaparityagi of verse 16. He who has renounced good and evil actions which produce pleasure and pain is a devotee of the Lord.Such a devotee or knower of Brahman; who is My own Self; is dear to Me.
 (Cf.VII.17IX.29)
 
 </details>

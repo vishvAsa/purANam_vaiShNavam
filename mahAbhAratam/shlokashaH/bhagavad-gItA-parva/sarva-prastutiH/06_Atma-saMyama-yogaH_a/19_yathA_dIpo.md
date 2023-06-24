@@ -70,12 +70,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.19 As a lamp does not flicker in a windless place, i.e., does not
-move, but remains steady with its illumination - this is the simile used
-to illustrate the nature of the self of the Yogin who has subdued his
-mind, who has got rid of all other kinds of mental activity and who is
-practising Yoga concerning the self. The meaning is that the self
-remains with its steadily illumining light of knowledge because all
+6.19 As a lamp does not flicker in a windless place, i.e., does not move, but remains steady with its illumination - this is the simile used to illustrate the nature of the self of the Yogin who has subdued his mind, who has got rid of all other kinds of mental activity and who is practising Yoga concerning the self. The meaning is that the self remains with its steadily illumining light of knowledge because all
 other activities of the mind have ceased, just as a lamp kept in a
 windless place has an unflickering flame.
 
@@ -345,8 +340,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.19. 'Just as a lamp in the windless place does not shake' - This
-simile is recalled in the case of the man of Yoga, with subdued mind,
+6.19. 'Just as a lamp in the windless place does not shake' - This simile is recalled in the case of the man of Yoga, with subdued mind,
 practising the Yoga in the Self.
 
 </details>
@@ -354,35 +348,28 @@ practising the Yoga in the Self.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.19 As a lamp kept in a windless place does not flicker, such is the
-simile thought of for the yogi whose mind is under control, and who is
-engaged in concentration on the Self.
+6.19 As a lamp kept in a windless place does not flicker, such is the simile thought of for the yogi whose mind is under control, and who is engaged in concentration on the Self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.19 The wise man who has conquered his mind and is absorbed in the Self
-is as a lamp which does not flicker, since it stands sheltered from
-every wind.
+6.19 The wise man who has conquered his mind and is absorbed in the Self is as a lamp which does not flicker, since it stands sheltered from every wind.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.19 'A lamp does not flicker in a windless place' - that is the simile
-employed for the subdued mind of a Yogin who practises Yoga.
+6.19 'A lamp does not flicker in a windless place' - that is the simile employed for the subdued mind of a Yogin who practises Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/19_yathA_dIpo.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.19 As a lamp placed in a windless spot does not flicker to such is
-compared the Yogi of controlled mind, practising Yoga in the Self (or
-absorbed in the Yoga of the Self).
+6.19 As a lamp placed in a windless spot does not flicker to such is compared the Yogi of controlled mind, practising Yoga in the Self (or absorbed in the Yoga of the Self).
 
 </details>
 </div>
@@ -390,13 +377,8 @@ absorbed in the Yoga of the Self).
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.19 यथा as; दीपः lamp; निवातस्थः placed in a windless place; न not;
-इङ्गते flicker; सा that; उपमा simile; स्मृता is thought; योगिनः of the
-Yogi; यतचित्तस्य of one with controlled mind; युञ्जतः of the practising;
-योगम् the Yoga; आत्मनः of the Self.Commentary This is a beautiful
-simile. Yogins ote this simile very often when they talk of
-concentration or steadiness or onepointedness of the mind. A steady mind
-will serve as a powerful searchlight to find out the hidden spiritual
-treasures of the Self.
+इङ्गते flicker; सा that; उपमा simile; स्मृता is thought; योगिनः of the Yogi; यतचित्तस्य of one with controlled mind; युञ्जतः of the practising;
+योगम् the Yoga; आत्मनः of the Self.Commentary This is a beautiful simile. Yogins ote this simile very often when they talk of concentration or steadiness or onepointedness of the mind. A steady mind will serve as a powerful searchlight to find out the hidden spiritual treasures of the Self.
 
 </details>
 </div>

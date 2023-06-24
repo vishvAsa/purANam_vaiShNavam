@@ -67,17 +67,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.3 Some men who even after attaining the state fit for the practice of
-this Dharma which is called Upasana (worship) - which is immensely dear
-inasmuch as it has for its goal Myself who am incomparably dear, and
-which is the means for the attainment of Myself forming the supreme good
-that does not perish - may still 'lack faith' in it. Such persons who
-lack faith which reires eagerness for realization, will not attain Me
-but remain in the mortal pathway of Samsara. O how strange it is - this
-hindrance caused by evil Karma! Such is the meaning. \[It means, that to
-declare that one has faith in a spiritual doctrine and yet to take no
-steps to put it into practice, is pure hypocrisy.\] Listen then to the
-inconceivable glory of Myself, who am the goal tobe attained:
+9.3 Some men who even after attaining the state fit for the practice of this Dharma which is called Upasana (worship) - which is immensely dear inasmuch as it has for its goal Myself who am incomparably dear, and which is the means for the attainment of Myself forming the supreme good that does not perish - may still 'lack faith' in it. Such persons who lack faith which reires eagerness for realization, will not attain Me but remain in the mortal pathway of Samsara. O how strange it is - this hindrance caused by evil Karma! Such is the meaning. \[It means, that to declare that one has faith in a spiritual doctrine and yet to take no steps to put it into practice, is pure hypocrisy.\] Listen then to the inconceivable glory of Myself, who am the goal tobe attained:
 
 </details>
 </div>
@@ -370,8 +360,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.3. O scorcher of foes ! Having no faith in this Dharma, persons do not
-attain Me and remain eternally in the circuit of mundane existence,
+9.3. O scorcher of foes ! Having no faith in this Dharma, persons do not attain Me and remain eternally in the circuit of mundane existence,
 wrought with death.
 
 </details>
@@ -380,76 +369,38 @@ wrought with death.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 9.3 O destroyer of foes, persons who are regardless of this Dharma
-(knowledge of the Self) certainly go round and round, without reaching
-Me, along the path of transmigration which is fraught with death.
+(knowledge of the Self) certainly go round and round, without reaching Me, along the path of transmigration which is fraught with death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.3 They who have no faith in this teaching cannot find Me, but remain
-lost in the purlieus of this perishable world.
+9.3 They who have no faith in this teaching cannot find Me, but remain lost in the purlieus of this perishable world.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.3 Men devoid of faith in this Dharma, O scorcher of foes, ever remain
-without attaining Me, in the mortal pathway of Samsara.
+9.3 Men devoid of faith in this Dharma, O scorcher of foes, ever remain without attaining Me, in the mortal pathway of Samsara.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.3 Those who have no faith in this Dharma (knowledge of the Self), O
-Parantapa (Arjuna), return to the path of this world of death without
-attaining Me.
+9.3 Those who have no faith in this Dharma (knowledge of the Self), O Parantapa (Arjuna), return to the path of this world of death without attaining Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/09_rAja-vidyA-rAja-guhy/03_ashraddadhAnAH_pu.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-9.3 अश्रद्दधानाः without faith; पुरुषाः men; धर्मस्य of duty; अस्य of
-this; परन्तप O scorcher of foes; अप्राप्य without attaining; माम् Me;
-निवर्तन्ते return; मृत्युसंसारवर्त्मनि in the path of this world of
-death.Commentary Arjuna asks; O Lord; why do people not attempt to
-attain this knowledge of the Self when it can be easily attained; when
-it is the highest of all things; and when it gives the greatest benefits
-All should certainly attain this knowledge. The Lord replies; O My
-beloved disciple; people have no faith in this Dhrama or knowledge and
-so return to the path of this world of death. Even if they strive with
-the help of the means of their own imagination they cannot attain Me as
-they are not endowed with the right means prescribed by the
-scriptures.Dharma means law; religion; knowledge of the Self.This faith
-is not mere intellectual belief in certain dogmas or principles. It is
-not merely belief in the statement of another. It is unshakable firm
-inner conviction that the knowledge of the Self alone can give one
-supreme peace; immortality and eternal bliss. It was this strong and
-unflinching faith of Sri Sankara that goaded him to leave his mother and
-take shelter under the kind protection of his Guru Sri Govindapada for
-attaining this knowledge which is the supreme purifier; intuitional;
-accordig to righteousness; very easy to perform; and imperishable. It
-was the strong faith of Lord Buddha that induced him to have that iron
-determination which he expressed in these words; I will not budge an
-inch from my seat till I get illumination. Faith goes hand in hand with
-fiery determination.The Lord has eulogies the knowledge of the Self in
-the first two verses by the positive method (Vidhi Mukhastuti). He has
-extolled it in the third verse by the negative method (Nishedha
-Mukhastuti). The benefits of obtaining knowledge of the Self are
-described in the first and the second verses. This is Vidhi Mukhastuti.
-The disastrous effects that result from not obtaining the knowledge of
-the Self are described in the third verse. This is Nishedha
-Mukhastuti.The greedy; lustful and sinful persons who are the followers
-of the philosophy of the flesh; who lead the life of the demons; who
-worship the body taking it to be the Self; and who have no faith in the
-knowledge of the Self; do not reach Me. They do not even possess an iota
-of devotion which is also one of the paths that lead men to Me. They
-remain in the path of the world of death which leads to hell and the
-lower births of animals; worms; etc.
+9.3 अश्रद्दधानाः without faith; पुरुषाः men; धर्मस्य of duty; अस्य of this; परन्तप O scorcher of foes; अप्राप्य without attaining; माम् Me;
+निवर्तन्ते return; मृत्युसंसारवर्त्मनि in the path of this world of death.Commentary Arjuna asks; O Lord; why do people not attempt to attain this knowledge of the Self when it can be easily attained; when it is the highest of all things; and when it gives the greatest benefits All should certainly attain this knowledge. The Lord replies; O My beloved disciple; people have no faith in this Dhrama or knowledge and so return to the path of this world of death. Even if they strive with the help of the means of their own imagination they cannot attain Me as they are not endowed with the right means prescribed by the scriptures.Dharma means law; religion; knowledge of the Self.This faith is not mere intellectual belief in certain dogmas or principles. It is not merely belief in the statement of another. It is unshakable firm inner conviction that the knowledge of the Self alone can give one supreme peace; immortality and eternal bliss. It was this strong and unflinching faith of Sri Sankara that goaded him to leave his mother and take shelter under the kind protection of his Guru Sri Govindapada for attaining this knowledge which is the supreme purifier; intuitional;
+accordig to righteousness; very easy to perform; and imperishable. It was the strong faith of Lord Buddha that induced him to have that iron determination which he expressed in these words; I will not budge an inch from my seat till I get illumination. Faith goes hand in hand with fiery determination.The Lord has eulogies the knowledge of the Self in the first two verses by the positive method (Vidhi Mukhastuti). He has extolled it in the third verse by the negative method (Nishedha Mukhastuti). The benefits of obtaining knowledge of the Self are described in the first and the second verses. This is Vidhi Mukhastuti.
+The disastrous effects that result from not obtaining the knowledge of the Self are described in the third verse. This is Nishedha Mukhastuti.The greedy; lustful and sinful persons who are the followers of the philosophy of the flesh; who lead the life of the demons; who worship the body taking it to be the Self; and who have no faith in the knowledge of the Self; do not reach Me. They do not even possess an iota of devotion which is also one of the paths that lead men to Me. They remain in the path of the world of death which leads to hell and the lower births of animals; worms; etc.
 
 </details>
 </div>

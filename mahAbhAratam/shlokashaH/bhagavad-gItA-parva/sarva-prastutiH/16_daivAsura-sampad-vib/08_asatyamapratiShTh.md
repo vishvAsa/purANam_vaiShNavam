@@ -101,22 +101,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.8 They maintain that the universe is 'without truth,' viz., they do
-not accept that this universe, which is the effect of Brahman denoted by
-the term Satya, has Brahman for its Self. They contend that it is bereft
-of any 'foundation,' viz., they do not accept that it has Brahman for
-its foundation. Brahman as Ananta supports the earth and bears all the
-worlds, as declared in 'This earth, sustained upon the head of this
-great serpent, supports in its turn, this garland of worlds, along with
-their men, demons and gods' (V.P., 2.5.27). They say that it is 'without
-a Lord,' viz. they don't accept that this universe is controlled by Me,
-the Lord of all, the Supreme Brahman, whose will is always true. It has
-been already averred: 'I am the origin of all; from Me proceed
-everything' (10.8). And they also contend thus: 'What else can exist
-without mutual causation;' i.e., except by the union of the male and the
-female among men, beasts etc. What else exists apart from this nature;
-The meaning is that nothing else is seen. Therefore the entire world is
-rooted in sexual lust.
+16.8 They maintain that the universe is 'without truth,' viz., they do not accept that this universe, which is the effect of Brahman denoted by the term Satya, has Brahman for its Self. They contend that it is bereft of any 'foundation,' viz., they do not accept that it has Brahman for its foundation. Brahman as Ananta supports the earth and bears all the worlds, as declared in 'This earth, sustained upon the head of this great serpent, supports in its turn, this garland of worlds, along with their men, demons and gods' (V.P., 2.5.27). They say that it is 'without a Lord,' viz. they don't accept that this universe is controlled by Me,
+the Lord of all, the Supreme Brahman, whose will is always true. It has been already averred: 'I am the origin of all; from Me proceed everything' (10.8). And they also contend thus: 'What else can exist without mutual causation;' i.e., except by the union of the male and the female among men, beasts etc. What else exists apart from this nature;
+The meaning is that nothing else is seen. Therefore the entire world is rooted in sexual lust.
 
 </details>
 </div>
@@ -459,9 +446,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.8. They say that this world is without truth; has no basis; and has
-no Lord; this is born not on the basis of the mutual
-cause-and-effect-relation \[of the things\]; it has nothing \[beyond\]
+16.8. They say that this world is without truth; has no basis; and has no Lord; this is born not on the basis of the mutual cause-and-effect-relation \[of the things\]; it has nothing \[beyond\]
 and has no cause.
 
 </details>
@@ -469,8 +454,7 @@ and has no cause.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.8 They say that the world is unreal, it has no basis, it is without a
-God. It is born of mutual union brought about by passion! What other
+16.8 They say that the world is unreal, it has no basis, it is without a God. It is born of mutual union brought about by passion! What other
 (cause can there be);
 
 </details>
@@ -486,9 +470,7 @@ Life is created by sexual union, a product of lust and nothing else.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/08_asatyamapratiShTh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.8 They maintain: 'The universe is without truth, without any
-foundation and without a Lord (Isvara). What else can exist without
-mutual causation; It has lust for its cause.'
+16.8 They maintain: 'The universe is without truth, without any foundation and without a Lord (Isvara). What else can exist without mutual causation; It has lust for its cause.'
 
 </details>
 </div>
@@ -506,25 +488,8 @@ what else;"
 
 16.8 असत्यम् without truth; अप्रतिष्ठम् without (moral) basis; ते they;
 जगत् the world; आहुः say; अनीश्वरम् without a God; अपरस्परसम्भूतम्
-brought about by mutual union; किम् what; अन्यत else; कामहैतुकम् with
-lust for its cause.Commentary They hold that the universe is without any
-substratum or support or an undying basic reality.This is a description
-of the opinion of atheists like the Charvakas and other materialists.
-They do not believe in the existence of Brahman Who is the support of
-this world. They do not even accept the existence of an Isvara in this
-world. They say We are unreal. Therefore this world also is unreal; the
-scriptures which declare the truth are also unreal. What else but lust
-can be the cause of this universe Sexual passion is the sole cause of
-all living creatures. There is no such thing as the theory of Karma. The
-whole world is caused by the mutual union of man and woman under the
-impulse of lust. There is neither virtue nor vice. There is no Lord Who
-dispenses the fruits of actions of the individuals according to virtue
-and vice. Dharma and Adharma are not the basis of this world. Sexual
-desire is the sole basis for this universe. This world is a world of
-chance. They are not endowed with the faculty of introspection. They are
-ignorant of the field (Nature) and knower of the field (God).Mutual
-union Sexual union it may mean the union of atoms. The world arose from
-the combination of atoms according to the Vaiseshikas.
+brought about by mutual union; किम् what; अन्यत else; कामहैतुकम् with lust for its cause.Commentary They hold that the universe is without any substratum or support or an undying basic reality.This is a description of the opinion of atheists like the Charvakas and other materialists.
+They do not believe in the existence of Brahman Who is the support of this world. They do not even accept the existence of an Isvara in this world. They say We are unreal. Therefore this world also is unreal; the scriptures which declare the truth are also unreal. What else but lust can be the cause of this universe Sexual passion is the sole cause of all living creatures. There is no such thing as the theory of Karma. The whole world is caused by the mutual union of man and woman under the impulse of lust. There is neither virtue nor vice. There is no Lord Who dispenses the fruits of actions of the individuals according to virtue and vice. Dharma and Adharma are not the basis of this world. Sexual desire is the sole basis for this universe. This world is a world of chance. They are not endowed with the faculty of introspection. They are ignorant of the field (Nature) and knower of the field (God).Mutual union Sexual union it may mean the union of atoms. The world arose from the combination of atoms according to the Vaiseshikas.
 
 </details>
 </div>

@@ -65,14 +65,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.11 I shall show you briefly that goal which the knowers of the Veda
-call 'the imperishable,' i.e., as endowed with attributes like
-non-grossness etc., - that imperishable which 'the ascetics freed from
-passion enter'; that imperishable 'desiring to attain which men practise
-continence'. What is attained by the mind as its goal is called 'pada'.
-I shall tell you briefly My essential nature which is beyond all
-description and which is explained in the whole of Vedanta and which is
-to be meditated upon. Such is the meaning.
+8.11 I shall show you briefly that goal which the knowers of the Veda call 'the imperishable,' i.e., as endowed with attributes like non-grossness etc., - that imperishable which 'the ascetics freed from passion enter'; that imperishable 'desiring to attain which men practise continence'. What is attained by the mind as its goal is called 'pada'.
+I shall tell you briefly My essential nature which is beyond all description and which is explained in the whole of Vedanta and which is to be meditated upon. Such is the meaning.
 
 </details>
 </div>
@@ -475,28 +469,22 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.11. That Unchanging One which the Veda-knowers speak of; Which the
-passion-free ascetics enter into; seeking Which they practise celibacy
-(or spiritual life); that Goal together with means \[to reach It\] I
-shall tell you.
+8.11. That Unchanging One which the Veda-knowers speak of; Which the passion-free ascetics enter into; seeking Which they practise celibacy
+(or spiritual life); that Goal together with means \[to reach It\] I shall tell you.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.11 I shall speak to you briefly of that immutable Goal which the
-knowers of the Vedas declare, into which enter the deligent ones free
-from attachment, and aspiring for which people practise celibacy.
+8.11 I shall speak to you briefly of that immutable Goal which the knowers of the Vedas declare, into which enter the deligent ones free from attachment, and aspiring for which people practise celibacy.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/11_yadaxaraM_vedavid.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.11 Now I will speak briefly of the imperishable goal, proclaimed by
-those versed in the scriptures, which the mystic attains when free from
-passion, and for which he is content to undergo the vow of continence.
+8.11 Now I will speak briefly of the imperishable goal, proclaimed by those versed in the scriptures, which the mystic attains when free from passion, and for which he is content to undergo the vow of continence.
 
 </details>
 </div>
@@ -504,9 +492,7 @@ passion, and for which he is content to undergo the vow of continence.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 8.11 That which is declared Imperishable by those who know the Vedas,
-that which the self-controlled (ascetics or Sannyasins) and passion-free
-enter, that desiring which celibacy is practised that goal I will
-declare to thee in brief.
+that which the self-controlled (ascetics or Sannyasins) and passion-free enter, that desiring which celibacy is practised that goal I will declare to thee in brief.
 
 </details>
 </div>
@@ -517,26 +503,12 @@ declare to thee in brief.
 वदन्ति declare; विशन्ति enter; यत् which; यतयः the selfcontrolled
 (ascetics or Sannyasins); वीतरागाः freed from attachment; यत् which;
 इच्छन्तः desiring; ब्रह्मचर्यम् celibacy; चरन्ति practise; तत् that; ते
-to thee; पदम् goal; संग्रहेण in brief; प्रवक्ष्ये (I) will
-declare.Commentary The Supreme Being which is symbolised by the sacred
-monosyllable Om or the Pranava is the highest step or the supreme goal
-of man.The same ideas are expressed in the Kathopanishad. Yama (the God
-of Death) said to Nachiketas; The goal which all the Vedas speak of;
-which all penances proclaim and wishing for which they lead the life of
-celibacy; that goal (world) I will briefly tell thee. It is Om.
-Satyakama the son of Sibi estioned Pippalada; O Bhagavan; if some one
-among men meditates here until death on the syllable Om; what world does
-he obtain by that Pippalada replied; O Satyakama; the syllable Om is
-indeed the higher and the lower Brahman. He who meditates on the higher
-Purusha with this syllable Om of three Matras (units) is led up by the
-Samaverses to the Brahmaloka or the world of Brahma.
-(Prasnopanishad)Pranava or Om is considered either as an expression of
-the Supreme Self or Its symbol like an  
+to thee; पदम् goal; संग्रहेण in brief; प्रवक्ष्ये (I) will declare.Commentary The Supreme Being which is symbolised by the sacred monosyllable Om or the Pranava is the highest step or the supreme goal of man.The same ideas are expressed in the Kathopanishad. Yama (the God of Death) said to Nachiketas; The goal which all the Vedas speak of;
+which all penances proclaim and wishing for which they lead the life of celibacy; that goal (world) I will briefly tell thee. It is Om.
+Satyakama the son of Sibi estioned Pippalada; O Bhagavan; if some one among men meditates here until death on the syllable Om; what world does he obtain by that Pippalada replied; O Satyakama; the syllable Om is indeed the higher and the lower Brahman. He who meditates on the higher Purusha with this syllable Om of three Matras (units) is led up by the Samaverses to the Brahmaloka or the world of Brahma.
+(Prasnopanishad)Pranava or Om is considered either as an expression of the Supreme Self or Its symbol like an  
   
-idol (Pratika). It serves persons of dull and middling intellects as a
-means for realising the Supreme Self.Chant Om three times at the
-commencement of your meditation you will find concentration of mind
-easier.
+idol (Pratika). It serves persons of dull and middling intellects as a means for realising the Supreme Self.Chant Om three times at the commencement of your meditation you will find concentration of mind easier.
 
 </details>
 </div>

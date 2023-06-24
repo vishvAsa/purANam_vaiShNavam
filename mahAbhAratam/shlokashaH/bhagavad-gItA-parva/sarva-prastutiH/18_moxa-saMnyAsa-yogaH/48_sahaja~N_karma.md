@@ -62,15 +62,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.48 So, one should not relinish one's works, understanding that they
-are natural, are easy to perform and not liable to negligence. Such
-thoughts coupled with the idea that there are imperfections in them
-should not lead you to abandon them. The meaning is that though one is
-fit for Jnana Yoga, one should perform Karma Yoga only. All enterprises,
-be they of Karma or Jnana, are indeed enveloped by imperfections, by
-pain, as fire by smoke. But still there is this difference: Karma Yoga
-is easy and does not involve negligence, but Jnana Yoga is contrary to
-this.
+18.48 So, one should not relinish one's works, understanding that they are natural, are easy to perform and not liable to negligence. Such thoughts coupled with the idea that there are imperfections in them should not lead you to abandon them. The meaning is that though one is fit for Jnana Yoga, one should perform Karma Yoga only. All enterprises,
+be they of Karma or Jnana, are indeed enveloped by imperfections, by pain, as fire by smoke. But still there is this difference: Karma Yoga is easy and does not involve negligence, but Jnana Yoga is contrary to this.
 
 </details>
 </div>
@@ -880,35 +873,28 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.48. O son of Kunti ! One should not give up the nature-born duty,
-even if it is (appears to be) defective. For, all beginnings are
-enveloped by harm just as the fire by smoke.
+even if it is (appears to be) defective. For, all beginnings are enveloped by harm just as the fire by smoke.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.48 O son of Kunti, one should not give up the duty to which one is
-born, even though it be faulty. For all undertakings are surrounded with
-evil, as fire is with smoke.
+18.48 O son of Kunti, one should not give up the duty to which one is born, even though it be faulty. For all undertakings are surrounded with evil, as fire is with smoke.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.48 The duty that of itself falls to one's lot should not be
-abandoned, though it may have its defects. All acts are marred by
-defects, as fire is obscured by smoke.
+18.48 The duty that of itself falls to one's lot should not be abandoned, though it may have its defects. All acts are marred by defects, as fire is obscured by smoke.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.48 One should not relinish one's works, O Arjuna, though it may be
-imperfect; for, all enterprises are enveloped by imperfections as fire
-by smoke.
+18.48 One should not relinish one's works, O Arjuna, though it may be imperfect; for, all enterprises are enveloped by imperfections as fire by smoke.
 
 </details>
 </div>
@@ -916,25 +902,15 @@ by smoke.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 18.48 One should not abandon, O Arjuna, the duty to which one is born,
-though faulty; for, all undertakings are enveloped by evil, as fire by
-smoke.
+though faulty; for, all undertakings are enveloped by evil, as fire by smoke.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/48_sahaja~N_karma.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.48 सहजम् which is born; कर्म action; कौन्तेय O Kaunteya; सदोषम् with
-fault; अपि even; न not; त्यजेत् (one) should abandon; सर्वारम्भाः all
-undertakings; हि for; दोषेण by evil; धूमेन by smoke; अग्निः fire; इव
-like; आवृताः are enveloped.Commentary Sahajam Born with oneself born
-with the birth of man.Sadosham Faculty for everything is constituted of
-the three Gunas.All undertakings Ones own as well as others duties.If a
-Vaisya or a Kshatriya does the duties of a Brahmana he will not in any
-way be benefited. Anothers duty brings in fear. Therefore it is not
-proper to perform anothers duty. It is not possible for any man who has
-no knowledge of the Self to relinish action totally therefore he should
-not abandon action.
+18.48 सहजम् which is born; कर्म action; कौन्तेय O Kaunteya; सदोषम् with fault; अपि even; न not; त्यजेत् (one) should abandon; सर्वारम्भाः all undertakings; हि for; दोषेण by evil; धूमेन by smoke; अग्निः fire; इव
+like; आवृताः are enveloped.Commentary Sahajam Born with oneself born with the birth of man.Sadosham Faculty for everything is constituted of the three Gunas.All undertakings Ones own as well as others duties.If a Vaisya or a Kshatriya does the duties of a Brahmana he will not in any way be benefited. Anothers duty brings in fear. Therefore it is not proper to perform anothers duty. It is not possible for any man who has no knowledge of the Self to relinish action totally therefore he should not abandon action.
 
 </details>
 </div>

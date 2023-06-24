@@ -96,23 +96,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.37 O Mahatman, for what reason should Brahma and others not bow down
-to You, who are great and are the First Being and the Creator even of
-Brahma, namely, Hiranyagarbha; O Infinite, O Lord of the gods, O You who
-have the universe for Your abode! You are the 'Aksara'. What does not
-perish, is the Aksara, here, the 'principle of individual self'; for the
-individual self does not perish as established in Sruti passages: 'The
-intelligent self is not born, nor dies' (Ka. U., 1.2.18). You alone are
-the 'existent and the non-existent,' the principle of Prakrti, in its
-condition as effect and in its condition as cause. This is denoted by
-the terms 'Sat' (existent) and 'Asat' (non-existent). You alone are the
-state of effect denoted by the term 'Sat', which is the state of
-diversification by names and forms, and also the state of cause, denoted
-by the tetm 'Asat', which is the state incapable of such divisions and
-diversities. 'What is beyond both' - what is beyond Prakrti and the
-individual self associated with the Prakrti, as also from the principle
-of liberated selves who are different from those associated with
-Prakrti, i.e., bound souls. You alone are that also. Therefore:
+11.37 O Mahatman, for what reason should Brahma and others not bow down to You, who are great and are the First Being and the Creator even of Brahma, namely, Hiranyagarbha; O Infinite, O Lord of the gods, O You who have the universe for Your abode! You are the 'Aksara'. What does not perish, is the Aksara, here, the 'principle of individual self'; for the individual self does not perish as established in Sruti passages: 'The intelligent self is not born, nor dies' (Ka. U., 1.2.18). You alone are the 'existent and the non-existent,' the principle of Prakrti, in its condition as effect and in its condition as cause. This is denoted by the terms 'Sat' (existent) and 'Asat' (non-existent). You alone are the state of effect denoted by the term 'Sat', which is the state of diversification by names and forms, and also the state of cause, denoted by the tetm 'Asat', which is the state incapable of such divisions and diversities. 'What is beyond both' - what is beyond Prakrti and the individual self associated with the Prakrti, as also from the principle of liberated selves who are different from those associated with Prakrti, i.e., bound souls. You alone are that also. Therefore:
 
 </details>
 </div>
@@ -439,9 +423,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.37. O Mighty One ! Why should they not bow down to You, the Primal
-Creater, Who are greater than even Brahma (personal god) ; O Endless
-One, O Lord of gods, O Abode of the universe ! You are unalterable,
+11.37. O Mighty One ! Why should they not bow down to You, the Primal Creater, Who are greater than even Brahma (personal god) ; O Endless One, O Lord of gods, O Abode of the universe ! You are unalterable,
 existent, non-existent and also that which is beyond both.
 
 </details>
@@ -449,32 +431,22 @@ existent, non-existent and also that which is beyond both.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.37 And why should they not bow down to You, O exalted \[i.e. not
-narrow-minded.\] One, who are greater (than all) and who are the first
-Creator even of Brahma! O infinite One, supreme God, Abode of the
-Universe, You are the Immutable,being and non-being, (and) that which is
-Transcendental.
+11.37 And why should they not bow down to You, O exalted \[i.e. not narrow-minded.\] One, who are greater (than all) and who are the first Creator even of Brahma! O infinite One, supreme God, Abode of the Universe, You are the Immutable,being and non-being, (and) that which is Transcendental.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.37 How should they do otherwise; O Thou Supremest Self, greater than
-the Powers of creation, the First Cause, Infinite, the Lord of Lords,
-the Home of the universe, Imperishable, Being and Not-Being, yet
-transcending both.
+11.37 How should they do otherwise; O Thou Supremest Self, greater than the Powers of creation, the First Cause, Infinite, the Lord of Lords,
+the Home of the universe, Imperishable, Being and Not-Being, yet transcending both.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/37_kasmAchcha_te.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.37 (a) And why should they not, O Mahatman, bow down to You who are
-great, being the first Creator, even of Brahma; (b) O Infinite, Lord of
-gods, O You who have the universe for Your abode! You are the
-imperishable individual self, the existent and the non-existent, and
-that which is beyond both.
+11.37 (a) And why should they not, O Mahatman, bow down to You who are great, being the first Creator, even of Brahma; (b) O Infinite, Lord of gods, O You who have the universe for Your abode! You are the imperishable individual self, the existent and the non-existent, and that which is beyond both.
 
 </details>
 </div>
@@ -482,9 +454,7 @@ that which is beyond both.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 11.37 And why should they not, O great Soul, bow to Thee Who art greater
-(than all else), the primal cause even of the Creator (Brahma), O
-Infinite Being, O Lord of the gods, O Abode of the universe; Thou art
-the imperishable, the Being, the non-being and That which is the supreme
+(than all else), the primal cause even of the Creator (Brahma), O Infinite Being, O Lord of the gods, O Abode of the universe; Thou art the imperishable, the Being, the non-being and That which is the supreme
 (that which is beyond the Being and the non-being).
 
 </details>
@@ -494,20 +464,13 @@ the imperishable, the Being, the non-being and That which is the supreme
 
 11.37 कस्मात् why; च and; ते they; न not; नमेरन् may prostrate; महात्मन्
 O greatsouled One; गरीयसे greater; ब्रह्मणः of Brahma; अपि also;
-आदिकर्त्रे the primal cause; अनन्त O Infinite Being; देवेश O Lord of the
-gods; जगन्निवास O Abode of the universe; त्वम् Thou; अक्षरम्
+आदिकर्त्रे the primal cause; अनन्त O Infinite Being; देवेश O Lord of the gods; जगन्निवास O Abode of the universe; त्वम् Thou; अक्षरम्
 Imperishable; सत् the Being; असत् nonbeing; तत् That; परम् the Supreme;
 यत् which.Commentary The Lord is Mahatma. He is greater than all else.
-He is the imperishable. So He is the proper object of worship; love and
-delight.That which exists in the three periods of time is Sat. Brahman
-is Sat. That which does not exist in the three periods of time is Asat.
-This world is Asat. This body is Asat.The words Sat and Asat mean here
-the manifested and the unmanifested which form the adjuncts of the
-Akshara (imperishable). In reality the Akshara transcends both these.
+He is the imperishable. So He is the proper object of worship; love and delight.That which exists in the three periods of time is Sat. Brahman is Sat. That which does not exist in the three periods of time is Asat.
+This world is Asat. This body is Asat.The words Sat and Asat mean here the manifested and the unmanifested which form the adjuncts of the Akshara (imperishable). In reality the Akshara transcends both these.
 The word Akshara is applied in the Gita sometimes to the Unmanifest
-(Nature) and sometimes to the Supreme Being.Ananta is He Who is free
-from the three kinds of limitations (of time; space and thing) which
-have already been explained.Arjuna again praises the Lord thus
+(Nature) and sometimes to the Supreme Being.Ananta is He Who is free from the three kinds of limitations (of time; space and thing) which have already been explained.Arjuna again praises the Lord thus
 
 </details>
 </div>

@@ -80,13 +80,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/10_anekavaktranayana.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.10 - 11.11 'Divyam' means resplendent. 'Anantam' (boundless) means
-that form is not limited by time and space because of its being the
-foundation of the entire universe in the past, present and future.
-'Visvatomukham' means facing in all directions. This form is adorned
-with divine raiments, perfumes, garlands, ornaments and weapons
-appropriate to it. He explains the same resplendence expressed by the
-term 'Divyam':
+11.10 - 11.11 'Divyam' means resplendent. 'Anantam' (boundless) means that form is not limited by time and space because of its being the foundation of the entire universe in the past, present and future.
+'Visvatomukham' means facing in all directions. This form is adorned with divine raiments, perfumes, garlands, ornaments and weapons appropriate to it. He explains the same resplendence expressed by the term 'Divyam':
 
 </details>
 </div>
@@ -314,8 +309,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/10_anekavaktranayana.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.10. That has many mouths and eyes, many wondrous sights, many
-heavenly ornaments, and many heavenly weapons held ready;
+11.10. That has many mouths and eyes, many wondrous sights, many heavenly ornaments, and many heavenly weapons held ready;
 
 </details>
 </div>
@@ -323,24 +317,21 @@ heavenly ornaments, and many heavenly weapons held ready;
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 11.10 Having many faces and eyes, possessing many wonderful sights,
-adorned with numerous celestial ornaments, holding many uplifted
-heavenly weapons;
+adorned with numerous celestial ornaments, holding many uplifted heavenly weapons;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/10_anekavaktranayana.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.10 There were countless eyes and mouths, and mystic forms
-innumerable, with shining ornaments and flaming celestial weapons.
+11.10 There were countless eyes and mouths, and mystic forms innumerable, with shining ornaments and flaming celestial weapons.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/10_anekavaktranayana.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.10 With innumerable mouths and eyes, many marvellous aspects, many
-divine ornaments and many divine weapons.
+11.10 With innumerable mouths and eyes, many marvellous aspects, many divine ornaments and many divine weapons.
 
 </details>
 </div>
@@ -357,12 +348,7 @@ with numerous divine ornaments, with numerous divine weapons uplifted
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 11.10 अनेकवक्त्रनयनम् with numerous mouthsand eyes; अनेकाद्भुतदर्शनम्
-with numerous wonderful sights; अनेकदिव्याभरणम् with numerous divine
-ornaments; दिव्यानेकोद्यतायुधम् with numerous divine weapons
-uplifted.Commentary Countless faces appeared there. Arjuna looked at
-this Cosmic Form in all its magnificence. He saw the Lord everywhere and
-in everything. The whole manifestation appeared as one gigantic body of
-the Lord. He saw the Lord as the allinall.
+with numerous wonderful sights; अनेकदिव्याभरणम् with numerous divine ornaments; दिव्यानेकोद्यतायुधम् with numerous divine weapons uplifted.Commentary Countless faces appeared there. Arjuna looked at this Cosmic Form in all its magnificence. He saw the Lord everywhere and in everything. The whole manifestation appeared as one gigantic body of the Lord. He saw the Lord as the allinall.
 
 </details>
 </div>

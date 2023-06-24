@@ -65,15 +65,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.32 Thus there are many kinds of Kamra Yoga, which are spread out for
-the attainment of the Brahman. That means, they lead to the realisaion
-of the true nature of the individual self. Know that all these are forms
-of Karma Yoga, which have been previoulsy defined and diversified, as
-born of actions. That means, know them as resulting from occasional and
-obligatory rites performed day by day. Knowing thus, observing them in
-the manner prescribed, you will be released. It has been stated that
-actions have the form of knowledge because of the inclusion of knowledge
-in them. Now Sri Krsna explains the predominance of the component of
+4.32 Thus there are many kinds of Kamra Yoga, which are spread out for the attainment of the Brahman. That means, they lead to the realisaion of the true nature of the individual self. Know that all these are forms of Karma Yoga, which have been previoulsy defined and diversified, as born of actions. That means, know them as resulting from occasional and obligatory rites performed day by day. Knowing thus, observing them in the manner prescribed, you will be released. It has been stated that actions have the form of knowledge because of the inclusion of knowledge in them. Now Sri Krsna explains the predominance of the component of
 knowledge in such actions which include knowledge within themselves.
 
 </details>
@@ -374,36 +366,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.32. Thus, sacrifices of many varieties have been elaborated in the
-mouth of the Brahman. Know them all as having sprung from actions. By
-knowing thus you shall be liberated.
+4.32. Thus, sacrifices of many varieties have been elaborated in the mouth of the Brahman. Know them all as having sprung from actions. By knowing thus you shall be liberated.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.32 Thus, various kinds of sacrifices lie spread at the mouth of the
-Vedas. Know them all to be born of action. Knowing thus, you will become
-liberated.
+4.32 Thus, various kinds of sacrifices lie spread at the mouth of the Vedas. Know them all to be born of action. Knowing thus, you will become liberated.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.32 In this way other sacrifices too may be undergone for the Spirit's
-sake. Know thou that they all depend on action. Knowing this, thou shalt
-be free.
+4.32 In this way other sacrifices too may be undergone for the Spirit's sake. Know thou that they all depend on action. Knowing this, thou shalt be free.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/32_evam_bahuvidhA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.32 Thus many forms of sacrifices have been spread out as means of
-reaching Brahman (individual self in its own nature). Know that all
-these born of actions. Knowing thus, you shall be free.
+4.32 Thus many forms of sacrifices have been spread out as means of reaching Brahman (individual self in its own nature). Know that all these born of actions. Knowing thus, you shall be free.
 
 </details>
 </div>
@@ -411,8 +395,7 @@ these born of actions. Knowing thus, you shall be free.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 4.32 Thus, manifold sacrifices are spread out before Brahman (literally)
-at the mouth or face of Brahman). Know them all as born of action and
-thus knowing, thou shalt be liberated.
+at the mouth or face of Brahman). Know them all as born of action and thus knowing, thou shalt be liberated.
 
 </details>
 </div>
@@ -420,15 +403,8 @@ thus knowing, thou shalt be liberated.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 4.32 एवम् thus; बहुविधाः manifold; यज्ञाः sacrifices; वितताः are spread;
-ब्रह्मणः of Brahman (or of the Veda); मुखे in the face; कर्मजान् born of
-action; विद्धि know (thou); तान् them; सर्वान् all; एवम् thus; ज्ञात्वा
-having known; विमोक्ष्यसे thou shalt be liberated.Commentary The word
-Brahmanah has also been interpreted to mean In the Vedas.Various kinds
-of sacrifices are spread out at the mouth of Brahman; i.e.; they are
-known from the Vedas. Know that they are born of action; because the
-Self is beyond action. If you realise that these actions do not concern
-me; they are not my actin; and I am actionless; you will surely be
-liberated from the bondage of Samsara by this right knowledge.
+ब्रह्मणः of Brahman (or of the Veda); मुखे in the face; कर्मजान् born of action; विद्धि know (thou); तान् them; सर्वान् all; एवम् thus; ज्ञात्वा
+having known; विमोक्ष्यसे thou shalt be liberated.Commentary The word Brahmanah has also been interpreted to mean In the Vedas.Various kinds of sacrifices are spread out at the mouth of Brahman; i.e.; they are known from the Vedas. Know that they are born of action; because the Self is beyond action. If you realise that these actions do not concern me; they are not my actin; and I am actionless; you will surely be liberated from the bondage of Samsara by this right knowledge.
 (Cf.IX.27XIII.15)
 
 </details>

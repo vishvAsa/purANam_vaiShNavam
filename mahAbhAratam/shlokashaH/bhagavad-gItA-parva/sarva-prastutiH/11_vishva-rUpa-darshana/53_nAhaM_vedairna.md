@@ -86,16 +86,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.53 - 11.54 Sri Krsna says By Vedas, i.e., by mere study, teaching
-etc., of these sacred texts, it is not possible to know Me truly. It is
-also not possible through meditation, sacrifices, gifts and austerities,
-destitute of devotion towards Me. But by single-minded devotion i.e., by
-devotion characterised by extreme ardour and intensity, it is possible
-to know Me in reality through scriptures, to behold Me directly in
-reality, and enter into Me in reality. So describes a Sruti passage:
-'This Self cannot be obtained by instruction, nor by intellect nor by
-much hearing. Whomsoever He chooses, by him alone is He obtained. To
-such a one He reveals His own form' (Ka. U., 2.2.23) and (Mun. U.,
+11.53 - 11.54 Sri Krsna says By Vedas, i.e., by mere study, teaching etc., of these sacred texts, it is not possible to know Me truly. It is also not possible through meditation, sacrifices, gifts and austerities,
+destitute of devotion towards Me. But by single-minded devotion i.e., by devotion characterised by extreme ardour and intensity, it is possible to know Me in reality through scriptures, to behold Me directly in reality, and enter into Me in reality. So describes a Sruti passage:
+'This Self cannot be obtained by instruction, nor by intellect nor by much hearing. Whomsoever He chooses, by him alone is He obtained. To such a one He reveals His own form' (Ka. U., 2.2.23) and (Mun. U.,
 3.2.3).
 
 </details>
@@ -309,25 +302,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.53. Neither by reciting Vedas, no by obseving austerity, nor by
-offering gifts, nor by performing sacrifice, can I be observed in this
-manner as you have see Me now.
+11.53. Neither by reciting Vedas, no by obseving austerity, nor by offering gifts, nor by performing sacrifice, can I be observed in this manner as you have see Me now.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.53 Not through the Vedas, not by austerity, not by gifts, nor even by
-sacrifice can I be seen in this form as you have seen Me.
+11.53 Not through the Vedas, not by austerity, not by gifts, nor even by sacrifice can I be seen in this form as you have seen Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.53 Not by study of the scriptures, or by austerities, not by gifts or
-sacrifices, is it possible to see Me as thou hast done.
+11.53 Not by study of the scriptures, or by austerities, not by gifts or sacrifices, is it possible to see Me as thou hast done.
 
 </details>
 </div>
@@ -342,8 +331,7 @@ nor by sacirifce, can I seen in such a form as You have seen Me.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/53_nAhaM_vedairna.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.53 Neither by the Vedas nor by austerity, nor by gift, nor by
-sacrifice can I be seen in this form as thou hast seen Me (so easily).
+11.53 Neither by the Vedas nor by austerity, nor by gift, nor by sacrifice can I be seen in this form as thou hast seen Me (so easily).
 
 </details>
 </div>
@@ -353,12 +341,8 @@ sacrifice can I be seen in this form as thou hast seen Me (so easily).
 11.53 न not; अहम् I; वेदैः by the Vedas; न not; तपसा by austerity; न
 not; दानेन by gift; न not; च and; इज्यया by sacrifice; शक्यः (am)
 possible; एवंविधः like this; द्रष्टुम् to be seen; दृष्टवानसि (thou)
-hast seen; माम् Me; यथा as.Commentary This Cosmic Form which thou hast
-seen so easily cannot be obtained either by the study of the Vedas and
-the six modes of philosophy; nor by the practice of manifold austerities
-(penances); nor by charity; nor by sacrifices of various kinds.Arjuna
-was indeed very fortunate in seeing the Cosmic Form.How can the Lord be
-seen Listen The heart must be overflowing with true devotion to Him.
+hast seen; माम् Me; यथा as.Commentary This Cosmic Form which thou hast seen so easily cannot be obtained either by the study of the Vedas and the six modes of philosophy; nor by the practice of manifold austerities
+(penances); nor by charity; nor by sacrifices of various kinds.Arjuna was indeed very fortunate in seeing the Cosmic Form.How can the Lord be seen Listen The heart must be overflowing with true devotion to Him.
 (Cf.XI.48)
 
 </details>

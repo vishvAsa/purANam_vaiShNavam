@@ -71,14 +71,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/31_yadA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.31 When he perceives that the diversified 'modes of existence' of all
-beings as men, divinities etc., are founded on the two principles of
-Prakrti and Purusa; when he perceives that their existence as divine,
+13.31 When he perceives that the diversified 'modes of existence' of all beings as men, divinities etc., are founded on the two principles of Prakrti and Purusa; when he perceives that their existence as divine,
 human, short, tall etc., is rooted in 'one' common foundation, namely,
-in the Prakrti, and not in the self; when he sees that 'their
-expansion', i.e., the successive proliferaton into sons, grandsons and
-such varieties of beings, is from Prakrti alone - then he reaches the
-brahman. The meaning is that he attains the self devoid of limitations,
+in the Prakrti, and not in the self; when he sees that 'their expansion', i.e., the successive proliferaton into sons, grandsons and such varieties of beings, is from Prakrti alone - then he reaches the brahman. The meaning is that he attains the self devoid of limitations,
 in Its pure form of knowledge.
 
 </details>
@@ -410,35 +405,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/31_yadA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.31. When he perceives the \[mutual\] difference of beings as abiding
-in One, and its expansion from That alone, at that time he becomes the
-Brahman.
+13.31. When he perceives the \[mutual\] difference of beings as abiding in One, and its expansion from That alone, at that time he becomes the Brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/31_yadA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.31 When one realizes that the state of diversity of living things is
-rooted in the One, and that their manifestation is also from That, then
-one becomes identified with Brahman.
+13.31 When one realizes that the state of diversity of living things is rooted in the One, and that their manifestation is also from That, then one becomes identified with Brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/31_yadA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.31 He who sees the diverse forms of life all rooted in One, and
-growing forth from Him, he shall indeed find the Absolute.
+13.31 He who sees the diverse forms of life all rooted in One, and growing forth from Him, he shall indeed find the Absolute.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/31_yadA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.31 When he perceives the independent modes of existence of all beings
-centred in one, and as also their expansion from It alone, then he
-attains to brahman.
+13.31 When he perceives the independent modes of existence of all beings centred in one, and as also their expansion from It alone, then he attains to brahman.
 
 </details>
 </div>
@@ -456,29 +444,15 @@ and spreading forth from That alone, he then becomes Brahman.
 13.31 यदा when; भूतपृथग्भावम् the whole variety of beings; एकस्थम्
 resting in the One; अनुपश्यति sees; ततः from that; एव alone; च and;
 विस्तारम् the spreading; ब्रह्म Brahman; सम्पद्यते (he) becomes; तदा
-then.Commentary A man attains to unity with the Supreme when he knows or
-realises through intuition that all these manifold forms are rooted in
-the One. As waves in water; atoms in the earth; rays in the sun; organs
-in the body; emotions in the mind; sparks in the fire; so verily are all
-forms rooted in the One. Wherever he turns his gaze he beholds only the
-one Self and enjoys the bliss of the Self.When he beholds the diversity
-of beings rooted in the One in accordance with the teachings of the
-scriptures and the preceptor; he realises through intuitive experience
-that all that he beholds is nothing but the Self and that the origin and
-the evolution of all is from That One alone. Compare with the Chhandogya
-Upanishad; 7.26.1.आत्मतः प्राण आत्मत आशा आत्मतः स्मर  
+then.Commentary A man attains to unity with the Supreme when he knows or realises through intuition that all these manifold forms are rooted in the One. As waves in water; atoms in the earth; rays in the sun; organs in the body; emotions in the mind; sparks in the fire; so verily are all forms rooted in the One. Wherever he turns his gaze he beholds only the one Self and enjoys the bliss of the Self.When he beholds the diversity of beings rooted in the One in accordance with the teachings of the scriptures and the preceptor; he realises through intuitive experience that all that he beholds is nothing but the Self and that the origin and the evolution of all is from That One alone. Compare with the Chhandogya Upanishad; 7.26.1.आत्मतः प्राण आत्मत आशा आत्मतः स्मर  
   
 आत्मत आकाश आत्मतस्तेज आत्मत आपः  
   
-आत्मत आविर्भावतिरोभावावात्मतोऽन्नम्।। Atmatah prana atmata asa atmatah
-smara  
+आत्मत आविर्भावतिरोभावावात्मतोऽन्नम्।। Atmatah prana atmata asa atmatah smara  
   
 Atmata akasa atmatasteja atmata apah  
   
-Atmata avirbhavatirobhavavatmatonnam.From the Self is life from the Self
-is desire from the Self is love from the Self is ether from the Self is
-light from the Self are the waters from the Self is appearance and
-disappearance from the Self is food.
+Atmata avirbhavatirobhavavatmatonnam.From the Self is life from the Self is desire from the Self is love from the Self is ether from the Self is light from the Self are the waters from the Self is appearance and disappearance from the Self is food.
 
 </details>
 </div>

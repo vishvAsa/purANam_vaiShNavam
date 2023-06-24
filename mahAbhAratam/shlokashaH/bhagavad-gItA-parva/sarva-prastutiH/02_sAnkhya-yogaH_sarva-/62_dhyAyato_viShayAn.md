@@ -36,25 +36,47 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.62 2.63।। उक्तान्योन्याश्रयणफलभूताया इन्द्रियजयात्मदर्शनयोरसिद्धेः
+प्रकारः श्लोकद्वयेन प्रपञ्च्यत इत्याह एवमिति। अदृष्टात्मस्वरूपस्य
+विषयान् ध्यायत इत्यनुवादसिद्धां विषयेषु स्वरसवाहितां सहेतुकामाह
+अनिरस्तेति। अत्र संयम्येति निमीलनादिमात्रकृतं निवारणमुच्यते। उपजायत
+इत्यत्रोपसर्गाभिप्रेतं विविच्य दर्शयति अतिप्रवृद्धो जायत इति।
+सङ्गकामयोरभेदात्कार्यकारणभावानुपपत्तिरित्यत्राह कामो नामेति।
+विपाकदशाशब्देन सामान्यत उक्तेऽपि व्यावृत्ताकारप्रतिपत्तिर्न स्यादिति
+तल्लक्षणमाह पुरुष इति। सर्वदा कामस्य क्रोधहेतुत्वं नास्तीत्यत उक्तंविषये
+चासन्निहित इति। न केवलं कामप्रतिबन्धकानेव पुरुषान् प्रति क्रोधः अपितु
+कृत्याकृत्यविवेकान्धतया तस्यां दशायामुपलभ्यमानान् सर्वान् प्रत्यपीति
+द्योतनायसन्निहितानित्युक्तम्। ईश्वरोऽपि हि क्रोधवेगमभिनयन कस्मिंश्चिदेव
+रक्षसि द्रुह्यतिसदेवगन्धर्वमनुष्यपन्नगं जगत्सशैलं परिवर्तयाम्यहम्
+वा.रा.3।64।76 इत्याह। अयं चाभिजायत इत्यत्रोपसर्गाभिप्रेतार्थः अभितो जायत
+इत्यर्थः। समित्येकीकारे ततोऽत्र सम्मोहः कृत्याकृत्याविवेकात्मा मोह
+इत्यभिप्रायेणाह कृत्येति। सम्मोहस्य स्मृतिभ्रंशहेतुत्वेऽवान्तरव्यापारमाह
+तयेति। कुद्धः पापं न कुर्यात्कः क्रुद्धो हन्याद्गुरूनपि म.भा.3
+इत्याद्यनुसारेणोक्तंसर्वमिति। ततश्चेति।
+सावान्तरव्यापारात्सम्मोहादित्यर्थः। स्मर्तव्ये प्रस्तुतविषये
+स्मृतिभ्रंशं योजयति प्रारब्ध इति।
+स्मृतिभ्रंशादित्युत्तरवाक्यश्रृङ्खलावशात् स्मृतिविभ्रमशब्दस्य
+तदेकार्थत्वायोक्तंस्मृतिभ्रंशो भवतीति। बुद्धिनाश इत्यत्र प्रकृतं
+बुद्धेर्विशेषमाह आत्मेति। न तावदिह सामान्यतो ज्ञानमात्रं बुद्धिशब्दार्थः
+न चेतःपूर्वमात्मदर्शनं सिद्धम् न च भविष्यदात्मदर्शनादिकमिदानीं
+नाशयोग्यम्। अतस्तल्लिप्सया कृतस्तदुपायानुष्ठानाध्यवसाय
+इहोपायस्मृतिसाध्यो बुद्धिशब्देनोच्यत इति भावः। प्रणश्यतीत्यत्र
+नित्यस्यात्मनो नाशो ह्यसत्समत्वम्। तच्च यथावस्थिताकारानुपलम्भः। स च
+देहात्मभ्रमादिकृतः तत्रापि हेतुर्देहसम्बन्ध इत्यभिप्रायेणोक्तं संसारे
+निमग्न इति।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.62 Indeed, in respect of a person, whose attachment to sense-objects
-is expelled but whose mind is not focussed on Me, even though he
-controls the senses, contemplation on sense-objects is unavoidable on
-account of the impressions of sins from time immemorial. Again
-attachment increases fully in 'a man who thinks about sense-objects'.
-From attachment arises desire.' What is called 'desire' is the further
-stage of attachment. After reaching that stage, it is not possible for a
-man to stay without experiencing the sense-objects. 'From such desire
-arises anger.' When a desire exists without its object being nearby,
-anger arises against persons nearby under the following. 'Our desire is
-thwarted by these persons.' 'From anger there comes delusion'. Delusion
-is want of discrimination between what ought to be done and what ought
-not to be done. Not possessing that discrimination one does anything and
-everything. Then there follows the failure of memory, i.e., of the
-impressions of the earlier efforts of sense control, when one strives
-again to control the senses.
+2.62 Indeed, in respect of a person, whose attachment to sense-objects is expelled but whose mind is not focussed on Me, even though he controls the senses, contemplation on sense-objects is unavoidable on account of the impressions of sins from time immemorial. Again attachment increases fully in 'a man who thinks about sense-objects'.
+From attachment arises desire.' What is called 'desire' is the further stage of attachment. After reaching that stage, it is not possible for a man to stay without experiencing the sense-objects. 'From such desire arises anger.' When a desire exists without its object being nearby,
+anger arises against persons nearby under the following. 'Our desire is thwarted by these persons.' 'From anger there comes delusion'. Delusion is want of discrimination between what ought to be done and what ought not to be done. Not possessing that discrimination one does anything and everything. Then there follows the failure of memory, i.e., of the impressions of the earlier efforts of sense control, when one strives again to control the senses.
 
 </details>
 </div>
@@ -389,59 +411,44 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.62. In a person, meditating on sense-objects, attachment or them is
-born in succession; from attachment springs passion; from passion arises
-wrath.
+2.62. In a person, meditating on sense-objects, attachment or them is born in succession; from attachment springs passion; from passion arises wrath.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.62-2.63 In the case of a person who dwells on objects, there arises
-attachment for them. From attachment grows hankering, from hankering
-springs anger.
+2.62-2.63 In the case of a person who dwells on objects, there arises attachment for them. From attachment grows hankering, from hankering springs anger.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.62 When a man dwells on the objects of sense, he creates an attraction
-for them; attraction develops into desire, and desire breeds anger.
+2.62 When a man dwells on the objects of sense, he creates an attraction for them; attraction develops into desire, and desire breeds anger.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.62 To a man thinking about sense-objects, there arises attachment to
-them; form attachment arises desire, from desire arises anger;
+2.62 To a man thinking about sense-objects, there arises attachment to them; form attachment arises desire, from desire arises anger;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.62 When a man thinks of the objects, attachment for them arises; from
-attachment desire is born; from desire anger arises.
+2.62 When a man thinks of the objects, attachment for them arises; from attachment desire is born; from desire anger arises.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/62_dhyAyato_viShayAn.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.62 ध्यायतः thinking; विषयान् (on) objects of the senses; पुंसः of a
-man; सङ्गः attachment; तेषु in them; उपजायते arises; सङ्गात् from
-attachment; संजायते is born; कामः desire; कामात् from desire; क्रोधः
-anger; अभिजायते arises.Commentary When a man thinks of the beauty and
-the pleasant and alluring features of the senseobjects he becomes
-attached to them. He then regards them as something worthy of acisition
-and possession and hankers after them. He develops a strong desire to
-possess them. Then he endeavours his level best to obtain them. When his
-desire is frustrated by some cause or other; anger arises in his mind.
-If anybody puts any obstruction in his way of obtaining the objects he
-hates him; fights with him and develops hostility towards hi.
+2.62 ध्यायतः thinking; विषयान् (on) objects of the senses; पुंसः of a man; सङ्गः attachment; तेषु in them; उपजायते arises; सङ्गात् from attachment; संजायते is born; कामः desire; कामात् from desire; क्रोधः
+anger; अभिजायते arises.Commentary When a man thinks of the beauty and the pleasant and alluring features of the senseobjects he becomes attached to them. He then regards them as something worthy of acisition and possession and hankers after them. He develops a strong desire to possess them. Then he endeavours his level best to obtain them. When his desire is frustrated by some cause or other; anger arises in his mind.
+If anybody puts any obstruction in his way of obtaining the objects he hates him; fights with him and develops hostility towards hi.
 (Cf.II.64).
 
 </details>

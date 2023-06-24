@@ -71,10 +71,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/20_atha_vyavasthitAn.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna
-did immediately as He had been directed, while Bhisma, Drona and others
-and all the kings were looking on. Such is the prospect of victory for
-your men.
+1.20 - 1.25 Arjuna said - Sanjaya said Thus, directed by him, Sri Krsna did immediately as He had been directed, while Bhisma, Drona and others and all the kings were looking on. Such is the prospect of victory for your men.
 
 </details>
 </div>
@@ -366,19 +363,15 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/20_atha_vyavasthitAn.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.20. O king! Then observing Dhrtarastra's men, arrayed when the armed
-clash had \[virtually\] begun, at that time, Pandu's son, the
-monkey-bannered one (Arjuna) raising his bow spoke these sentences.
+1.20. O king! Then observing Dhrtarastra's men, arrayed when the armed clash had \[virtually\] begun, at that time, Pandu's son, the monkey-bannered one (Arjuna) raising his bow spoke these sentences.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/20_atha_vyavasthitAn.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.20 O king, thereafter, seeing Dhrtarastra's men standing in their
-positions, when all the weapons were ready for action, the son of Pandu
-(Arjuna) who had the insignia of Hanuman of his chariot-flag, raising up
-his bow, said the following to Hrsikesa.
+1.20 O king, thereafter, seeing Dhrtarastra's men standing in their positions, when all the weapons were ready for action, the son of Pandu
+(Arjuna) who had the insignia of Hanuman of his chariot-flag, raising up his bow, said the following to Hrsikesa.
 
 </details>
 </div>
@@ -393,19 +386,15 @@ field, ready to fight, Arjuna, whose flag bore the Hanuman,
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/20_atha_vyavasthitAn.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.20 Then Arjuna, who had Hanuman as his banner crest, on beholding the
-sons of Dhrtarastra in array, took up his bow, while missiles were
-beginning to fly.
+1.20 Then Arjuna, who had Hanuman as his banner crest, on beholding the sons of Dhrtarastra in array, took up his bow, while missiles were beginning to fly.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/20_atha_vyavasthitAn.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.20. Then, seeing the people of Dhritarashtra’s party standing arrayed
-and the discharge of weapons about to begin, Arjuna, the son of Pandu,
-whose ensign was a monkey, took up his bow and said the following to
-Krishna, O Lord of the earth.
+1.20. Then, seeing the people of Dhritarashtra’s party standing arrayed and the discharge of weapons about to begin, Arjuna, the son of Pandu,
+whose ensign was a monkey, took up his bow and said the following to Krishna, O Lord of the earth.
 
 </details>
 </div>
@@ -416,8 +405,7 @@ Krishna, O Lord of the earth.
 धार्तराष्ट्रान् Dhritarashtras party; कपिध्वजः monkeyensigned; प्रवृत्ते
 about to begin; शस्त्रसंपाते discharge of weapons; धनुः bow; उद्यम्य
 having taken up; पाण्डवः the son of Pandu; हृषीकेशम् to Hrishikesha; तदा
-then; वाक्यम् word; इदम् this; आह said; महीपते O Lord of the earth.No
-Commentary.
+then; वाक्यम् word; इदम् this; आह said; महीपते O Lord of the earth.No Commentary.
 
 </details>
 </div>

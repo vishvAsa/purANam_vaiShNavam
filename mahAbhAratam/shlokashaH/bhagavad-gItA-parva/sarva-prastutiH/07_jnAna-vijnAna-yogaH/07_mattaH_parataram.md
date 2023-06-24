@@ -81,28 +81,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.7 I am absolutely superior to all in two ways: 1) I am the cause of
-both the Prakrtis and I am also their controlling master (Sesin). This
-controllership over inanimate nature is exercised through the animate
-Prakrti (the Jivas) who form the inner controller (Sesin) of their
-bodies which are constituted of inanimate nature. 2) I am supreme to all
-in another sense also - as the possessor of knowledge, power, strength
-etc., in an infinite degree. There is no entity other than Me with such
-attributes of an eal or superior nature. The aggregate of all the
-animate and inanimate things, whether in their causal state or in the
-state of effect, is strung on Me who abides as their Self, as a row of
-gems on a thread. They depend on Me. And it is proved that the universe
-of inanimate and animate beings exists as the body with Brahman (i.e.
-the Supreme Person) as their Self as declared by the Antaryami-brahmana
-and other texts: 'He whose body is the earth' (Br. U., 3.7-3), 'He whose
-body is the self' (Br. U. Madh., 3.7.22), and 'He is the inner self of
-all beings, without evil, He is the Lord in the supreme heaven, He is
-the one Narayana' (Su. U., 7). Thus, as everything constitutes the body
-of the Supreme Person forming only a mode of His who is their Self, the
-Supreme Person alone exists, and all things (which we speak of as
-diversity) are only His modes. Therefore all terms used in common
-parlance for different things, denote Him only. Sri Krsna shows this by
-coordinating some important ones among these entities with Himself.
+7.7 I am absolutely superior to all in two ways: 1) I am the cause of both the Prakrtis and I am also their controlling master (Sesin). This controllership over inanimate nature is exercised through the animate Prakrti (the Jivas) who form the inner controller (Sesin) of their bodies which are constituted of inanimate nature. 2) I am supreme to all in another sense also - as the possessor of knowledge, power, strength etc., in an infinite degree. There is no entity other than Me with such attributes of an eal or superior nature. The aggregate of all the animate and inanimate things, whether in their causal state or in the state of effect, is strung on Me who abides as their Self, as a row of gems on a thread. They depend on Me. And it is proved that the universe of inanimate and animate beings exists as the body with Brahman (i.e.
+the Supreme Person) as their Self as declared by the Antaryami-brahmana and other texts: 'He whose body is the earth' (Br. U., 3.7-3), 'He whose body is the self' (Br. U. Madh., 3.7.22), and 'He is the inner self of all beings, without evil, He is the Lord in the supreme heaven, He is the one Narayana' (Su. U., 7). Thus, as everything constitutes the body of the Supreme Person forming only a mode of His who is their Self, the Supreme Person alone exists, and all things (which we speak of as diversity) are only His modes. Therefore all terms used in common parlance for different things, denote Him only. Sri Krsna shows this by coordinating some important ones among these entities with Himself.
 
 </details>
 </div>
@@ -496,8 +476,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.7. There exists nothing beyond Me, O Dhananjaya; all this is strung on
-Me just as the groups of pearls on a string.
+7.7. There exists nothing beyond Me, O Dhananjaya; all this is strung on Me just as the groups of pearls on a string.
 
 </details>
 </div>
@@ -512,24 +491,21 @@ All this is strung on Me like pearls on a string.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.7 O Arjuna! There is nothing higher than Me; all is strung upon Me as
-rows of pearls upon a thread.
+7.7 O Arjuna! There is nothing higher than Me; all is strung upon Me as rows of pearls upon a thread.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.7 There is nothing higher than Myself, O Arjuna. All this is strung on
-Me, as rows of gems on a thread.
+7.7 There is nothing higher than Myself, O Arjuna. All this is strung on Me, as rows of gems on a thread.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/07_mattaH_parataram.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.7 There is nothing whatsoever higher than Me, O Arjuna. All this is
-strung on Me, as clusters of gems on a string.
+7.7 There is nothing whatsoever higher than Me, O Arjuna. All this is strung on Me, as clusters of gems on a string.
 
 </details>
 </div>
@@ -539,11 +515,7 @@ strung on Me, as clusters of gems on a string.
 7.7 मत्तः than Me; परतरम् higher; न not; अन्यत् other; किञ्चित् anyone;
 अस्ति is; धनञ्जय O Dhananjaya; मयि in Me; सर्वम् all; इदम् this; प्रोतम्
 is strung; सूत्रे on a string; मणिगणाः clusters of gems; इव
-like.Commentary There is no other cause of the universe but Me. I alone
-am the the cause of the universe. This illustration of gems and thread
-illustrates only the idea that all beings and the whole world are
-threaded on the Lord. The thread is not the cause of the gems. As
-Brahman is all in all there is nothing whatever higher than It.
+like.Commentary There is no other cause of the universe but Me. I alone am the the cause of the universe. This illustration of gems and thread illustrates only the idea that all beings and the whole world are threaded on the Lord. The thread is not the cause of the gems. As Brahman is all in all there is nothing whatever higher than It.
 
 </details>
 </div>

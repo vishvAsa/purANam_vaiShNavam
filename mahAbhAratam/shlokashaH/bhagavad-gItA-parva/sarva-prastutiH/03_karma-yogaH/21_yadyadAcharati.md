@@ -91,14 +91,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/21_yadyadAcharati.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.21 Whatever 'an eminent man,' i.e., he, who is famous for his
-knowledge of all the scriptures and for his observance of the scriptural
-dictates, performs, others who have incomplete knowledge of the
-scriptures will also perform, following his example. With regard to any
-duty which is being performed with all its ancillaries by an eminent
-personage, the people with incomplete knowledge will do it with the same
-ancillaries. Therefore for the protection of the world, all acts that
-are appropriate to one's station and stage in life must always be
+3.21 Whatever 'an eminent man,' i.e., he, who is famous for his knowledge of all the scriptures and for his observance of the scriptural dictates, performs, others who have incomplete knowledge of the scriptures will also perform, following his example. With regard to any duty which is being performed with all its ancillaries by an eminent personage, the people with incomplete knowledge will do it with the same ancillaries. Therefore for the protection of the world, all acts that are appropriate to one's station and stage in life must always be
 performed by an eminent man who is distinguished for his wisdom.
 Otherwise, the evil generated from the ruin of the large masses of the
 world (who neglect their duties by following his example), will bring
@@ -377,41 +370,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/21_yadyadAcharati.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.21. Whatsoever a great man does, other commoners do the same; whatever
-standard he sets up, the world follows that.
+3.21. Whatsoever a great man does, other commoners do the same; whatever standard he sets up, the world follows that.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/21_yadyadAcharati.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.21 Whatever a superior person does, another person does that very
-thing! Whatever he upholds as authority, an ordinary person follows
-that.
+3.21 Whatever a superior person does, another person does that very thing! Whatever he upholds as authority, an ordinary person follows that.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/21_yadyadAcharati.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.21 For whatever a great man does, others imitate. People conform to
-the standard which he has set.
+3.21 For whatever a great man does, others imitate. People conform to the standard which he has set.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/21_yadyadAcharati.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.21 Whatever a great man does, other men also do. Whichever standard he
-sets, the world follows it.
+3.21 Whatever a great man does, other men also do. Whichever standard he sets, the world follows it.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/21_yadyadAcharati.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.21 Whatsoever a great man does, that the other men also do; whatever
-he sets up as the standard, that the world (mankind) follows.
+3.21 Whatsoever a great man does, that the other men also do; whatever he sets up as the standard, that the world (mankind) follows.
 
 </details>
 </div>
@@ -420,11 +407,7 @@ he sets up as the standard, that the world (mankind) follows.
 
 3.21 यद्यत् whatsoever; आचरति does; श्रेष्ठः the best; तत्तत् that; एव
 only; इतरः the other; जनः people; सः he (that great man); यत् what;
-प्रमाणम् standard (authority; demonstration); कुरुते does; लोकः the
-world (people); तत् that; अनुवर्तते follows.Commentary Man is a social
-animal. He is an imitating animal too. He takes his ideas of right and
-wrong from those whom he regards as his moral superior. Whatever a great
-man follows; the same is considered as an authority by his followers.
+प्रमाणम् standard (authority; demonstration); कुरुते does; लोकः the world (people); तत् that; अनुवर्तते follows.Commentary Man is a social animal. He is an imitating animal too. He takes his ideas of right and wrong from those whom he regards as his moral superior. Whatever a great man follows; the same is considered as an authority by his followers.
 They try to follow him. They endeavour to walk in his footsteps.
 
 </details>

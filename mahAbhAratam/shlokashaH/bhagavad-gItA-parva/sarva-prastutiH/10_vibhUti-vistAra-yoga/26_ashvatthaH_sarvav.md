@@ -53,11 +53,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/26_ashvatthaH_sarvav.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.26 - 10.29 Of trees I am Asvattha which is worthy of worship. Of
-celestial seers I am Narada. Kamadhuk is the divine cow. I am Kandarpa,
-the cause of progeny. Sarpas are single-headed snakes while Nagas are
-many-headed snakes. Aatic creatures are known as Yadamsi. Of them I am
-Varuna. Of subdures, I am Yama, the son of the sun-god.
+10.26 - 10.29 Of trees I am Asvattha which is worthy of worship. Of celestial seers I am Narada. Kamadhuk is the divine cow. I am Kandarpa,
+the cause of progeny. Sarpas are single-headed snakes while Nagas are many-headed snakes. Aatic creatures are known as Yadamsi. Of them I am Varuna. Of subdures, I am Yama, the son of the sun-god.
 
 </details>
 </div>
@@ -313,44 +310,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 10.26. Of all trees, I am the Pipal-tree; and of the divine seers,
-Narada; of the Gandharvas (the celestial musicians), Citraratha; of the
-perfected ones, the sage Kapila.
+Narada; of the Gandharvas (the celestial musicians), Citraratha; of the perfected ones, the sage Kapila.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/26_ashvatthaH_sarvav.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.26 Among all trees (I am) the Asvatha (peepul), and Narada among the
-divine sages. Among the dandharvas \[A class of demigods regarded as the
-musicians of gods.\] (I am) Citraratha; among the perfected ones, the
-sage Kapila.
+10.26 Among all trees (I am) the Asvatha (peepul), and Narada among the divine sages. Among the dandharvas \[A class of demigods regarded as the musicians of gods.\] (I am) Citraratha; among the perfected ones, the sage Kapila.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/26_ashvatthaH_sarvav.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.26 Of trees I am the sacred Fig-tree, of the Divine Seers Narada, of
-the heavenly singers I am Chitraratha, their Leader, and of sages I am
-Kapila.
+10.26 Of trees I am the sacred Fig-tree, of the Divine Seers Narada, of the heavenly singers I am Chitraratha, their Leader, and of sages I am Kapila.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/26_ashvatthaH_sarvav.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.26 Of trees I am the Asvattha. Of celestial seers, I am Narada. Of
-the Gandharvas I am Citraratha. Of the perfected, I am Kapila.
+10.26 Of trees I am the Asvattha. Of celestial seers, I am Narada. Of the Gandharvas I am Citraratha. Of the perfected, I am Kapila.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/26_ashvatthaH_sarvav.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.26 Among all the trees ( I am) the Peepul; among the divine sages, I
-am Narada; among Gandharvas, Chitraratha; among the perfected, the sage
-Kapila.
+10.26 Among all the trees ( I am) the Peepul; among the divine sages, I am Narada; among Gandharvas, Chitraratha; among the perfected, the sage Kapila.
 
 </details>
 </div>
@@ -360,9 +348,7 @@ Kapila.
 10.26 अश्वत्थः Asvattha; सर्ववृक्षाणाम् among all trees; देवर्षीणाम्
 among Divine Rishis; च and; नारदः Narada; गन्धर्वाणाम् among Gandharvas;
 चित्ररथः Chitraratha; सिद्धानाम् among the Siddhas or the perfected;
-कपिलः Kapila; मुनिः sage.Commentary Devarshis are gods and at the same
-time Rishis or seers of Mantras.Siddhas are the perfected ones those who
-at their very birth attained without any effort Dharma (virtue); Jnana
+कपिलः Kapila; मुनिः sage.Commentary Devarshis are gods and at the same time Rishis or seers of Mantras.Siddhas are the perfected ones those who at their very birth attained without any effort Dharma (virtue); Jnana
 (knowledge of the Self); Vairagya (dispassion) and Aisvarya
 (lordship).Muni is one who does Manana or reflection one who meditates.
 

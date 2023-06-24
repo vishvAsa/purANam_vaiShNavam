@@ -55,18 +55,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.24 If I do not do the work suitable to My station in life, likewise
-all the virtuous men also, neglecting their duties by following My
-example, would be destroyed on account of not performing their duties.
-That is, they will become lost. Thus I would be bringing about chaos
-among all virtuous men on account of My failure to conduct Myself as
-prescribed in the scriptures. Therefore I would be destroying all these
-people. Even so, if you, Arjuna, a son of Pandu and a brother of
-Yudhisthira and the foremost of the virtuous, claim to be qualified for
-Jnana Yoga, then the virtuous aspirants, who do not know everything and
-who follow your way, without knowing their own competency, would give up
-practising Karma Yoga and will be lost. Therefore work should be done by
-one who is recognised as learned and worthy.
+3.24 If I do not do the work suitable to My station in life, likewise all the virtuous men also, neglecting their duties by following My example, would be destroyed on account of not performing their duties.
+That is, they will become lost. Thus I would be bringing about chaos among all virtuous men on account of My failure to conduct Myself as prescribed in the scriptures. Therefore I would be destroying all these people. Even so, if you, Arjuna, a son of Pandu and a brother of Yudhisthira and the foremost of the virtuous, claim to be qualified for Jnana Yoga, then the virtuous aspirants, who do not know everything and who follow your way, without knowing their own competency, would give up practising Karma Yoga and will be lost. Therefore work should be done by one who is recognised as learned and worthy.
 
 </details>
 </div>
@@ -378,41 +368,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.24. These worlds would perish if I were not to perform action; and I
-would be a cause of confusion; I would destroy these people.
+3.24. These worlds would perish if I were not to perform action; and I would be a cause of confusion; I would destroy these people.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.24 These worlds will be ruined if I do not perform action. And I shall
-become the agent of intermingling (of castes), and shall be destroying
-these beings.
+3.24 These worlds will be ruined if I do not perform action. And I shall become the agent of intermingling (of castes), and shall be destroying these beings.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.24 And if I were to refrain from action, the human race would be
-ruined; I should lead the world to chaos, and destruction would follow.
+3.24 And if I were to refrain from action, the human race would be ruined; I should lead the world to chaos, and destruction would follow.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.24 If I do not do work, these men would be lost; and I will be causing
-chaos in life and thery ruining all these people.
+3.24 If I do not do work, these men would be lost; and I will be causing chaos in life and thery ruining all these people.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/24_utsIdeyurime_lokA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.24 These worlds would perish if I did not perform action; I should be
-the author of confusion of castes and destruction of these beings.
+3.24 These worlds would perish if I did not perform action; I should be the author of confusion of castes and destruction of these beings.
 
 </details>
 </div>
@@ -423,11 +407,7 @@ the author of confusion of castes and destruction of these beings.
 would do; कर्म action; चेत् if; अहम् I; सङ्करस्य of confusion of castes;
 च and; कर्ता author; स्याम् would be; उपहन्याम् would destroy; इमाः  
   
-these; प्रजाः beings.Commentary If I did not engage in action; people
-would also be inactive. They would not do their duties according to the
-Varnasrama Dharma (code of morals governing their own order and stage of
-life). Hence confusion of castes would arise. I would have to destroy
-these beings.
+these; प्रजाः beings.Commentary If I did not engage in action; people would also be inactive. They would not do their duties according to the Varnasrama Dharma (code of morals governing their own order and stage of life). Hence confusion of castes would arise. I would have to destroy these beings.
 
 </details>
 </div>

@@ -88,22 +88,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/20_dyAvApRthivyorida.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.20 The terms, 'heaven and earth,' imply all the upper and lower
-worlds. The 'Antara', or that between heaven and earth, denotes the
-space between them in which are located all the worlds. You alone
-pervade all the space and all the arters. 'Beholding Your marvellous and
-teriible form,' beholding Your form of infinite length and extent,
-marvellous and terrible, the three worlds are trembling. Gods headed by
-Brahma, the Asuras, the manes, the Siddhas, the Gandharvas, the Yaksas,
-and Raksasas have come with a desire to see the battle. All the 'three
-worlds' consisting of these friendly, antagonistic and neutral beings
-are extremely frightened. 'Mahatman' means one, the dimension of whose
-mind has no limits. It has to be understood that like Arjuna, other
-beings also were granted by the Lord the divine eye capable of directly
-perceiving the Form which supports the universe. If it be asked why, the
-reply is that it was for demonstrating to Arjuna His sovereignty. Hence
-it is stated here: 'Beholding Your marvellous and terrible form, O
-Mahatman, the three worlds are greatly overwhelmed with fear.'
+11.20 The terms, 'heaven and earth,' imply all the upper and lower worlds. The 'Antara', or that between heaven and earth, denotes the space between them in which are located all the worlds. You alone pervade all the space and all the arters. 'Beholding Your marvellous and teriible form,' beholding Your form of infinite length and extent,
+marvellous and terrible, the three worlds are trembling. Gods headed by Brahma, the Asuras, the manes, the Siddhas, the Gandharvas, the Yaksas,
+and Raksasas have come with a desire to see the battle. All the 'three worlds' consisting of these friendly, antagonistic and neutral beings are extremely frightened. 'Mahatman' means one, the dimension of whose mind has no limits. It has to be understood that like Arjuna, other beings also were granted by the Lord the divine eye capable of directly perceiving the Form which supports the universe. If it be asked why, the reply is that it was for demonstrating to Arjuna His sovereignty. Hence it is stated here: 'Beholding Your marvellous and terrible form, O Mahatman, the three worlds are greatly overwhelmed with fear.'
 
 </details>
 </div>
@@ -365,19 +352,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/20_dyAvApRthivyorida.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.20. This space in between the heaven and the earth as well as all the
-directions are pervaded singly by You; seeing this wondrous form of
-Yours as such, O Exalted Soul, the triple world is very much frightened.
+11.20. This space in between the heaven and the earth as well as all the directions are pervaded singly by You; seeing this wondrous form of Yours as such, O Exalted Soul, the triple world is very much frightened.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/20_dyAvApRthivyorida.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.20 Indeed, this intermediate space between heaven and earth as also
-all the directions are pervaded by You alone. O exalted One, the three
-worlds are struck with fear by seeing this strange, fearful form of
-Yours.
+11.20 Indeed, this intermediate space between heaven and earth as also all the directions are pervaded by You alone. O exalted One, the three worlds are struck with fear by seeing this strange, fearful form of Yours.
 
 </details>
 </div>
@@ -385,8 +367,7 @@ Yours.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 11.20 Alone thou fillest all the quarters of the sky, earth and heaven,
-and the regions between. O Almighty Lord! Seeing Thy marvellous and
-awe-inspiring Form, the spheres tremble with fear.
+and the regions between. O Almighty Lord! Seeing Thy marvellous and awe-inspiring Form, the spheres tremble with fear.
 
 </details>
 </div>
@@ -394,16 +375,14 @@ awe-inspiring Form, the spheres tremble with fear.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 11.20 You alone have pervaded the interspace between heaven and earth,
-and all the arters. Beholding Your marvellous and terrible form, O
-Mahatman, the three worlds are greatly overwhelmed with fear.
+and all the arters. Beholding Your marvellous and terrible form, O Mahatman, the three worlds are greatly overwhelmed with fear.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/20_dyAvApRthivyorida.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.20 This space between the earth and the heaven and all the arters are
-filled by Thee alone; having seen this, Thy wonderful and teriible form,
+11.20 This space between the earth and the heaven and all the arters are filled by Thee alone; having seen this, Thy wonderful and teriible form,
 the three worlds are trembling with fear, O great-souled Being.
 
 </details>
@@ -414,13 +393,7 @@ the three worlds are trembling with fear, O great-souled Being.
 11.20 द्यावापृथिव्योः of heaven and earth; इदम् this; अन्तरम्
 interspace; हि indeed; व्याप्तम् is filled; त्वया by Thee; एकेन alone;
 दिशः arters; च and; सर्वाः all; दृष्ट्वा having seen; अद्भुतम्
-wonderful; रूपम् form; उग्रम् terrible; तव Thy; इदम् this; लोकत्रयम् the
-three worlds; प्रव्यथितम् are trembling with fear; महात्मन् O
-greatsouled Being.Commentary Thee In Thy Cosmic Form.The space and the
-arters This denotes that the Lord has filled the whole universe of
-animate and inanimate objects.In order to remove the doubt entertained
-by Arjuna as to his success (Cf.II.6) Lord Krishna makes him feel now
-that victoyr for the Pandavas is certain.
+wonderful; रूपम् form; उग्रम् terrible; तव Thy; इदम् this; लोकत्रयम् the three worlds; प्रव्यथितम् are trembling with fear; महात्मन् O greatsouled Being.Commentary Thee In Thy Cosmic Form.The space and the arters This denotes that the Lord has filled the whole universe of animate and inanimate objects.In order to remove the doubt entertained by Arjuna as to his success (Cf.II.6) Lord Krishna makes him feel now that victoyr for the Pandavas is certain.
 
 </details>
 </div>

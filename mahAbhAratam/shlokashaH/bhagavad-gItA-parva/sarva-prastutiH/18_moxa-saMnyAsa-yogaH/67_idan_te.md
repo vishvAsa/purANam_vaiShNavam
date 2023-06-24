@@ -78,8 +78,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.67 I have taught you this most secret doctrine. This should not be
-imparted by you to someone who has not practised austere disciplines.
+18.67 I have taught you this most secret doctrine. This should not be imparted by you to someone who has not practised austere disciplines.
 Never should this be taught to someone who is not devoted to Me and to
 you, the teacher (i.e., when you have to play the role of a teacher of
 this doctrine). The meaning is that it should not be taught by you to
@@ -942,60 +941,45 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.67. This \[knowledge\] is for you, and it should never be imparted to
-one who does not observe austerities; to him who has no devotion; to him
-who has no desire to listen; and to him who is indignant towards Me.
+18.67. This \[knowledge\] is for you, and it should never be imparted to one who does not observe austerities; to him who has no devotion; to him who has no desire to listen; and to him who is indignant towards Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.67 This (that I have taught) you should not ever be taught to one who
-is devoid of austerities and to one who is not a devotee; also, neither
-to one who does not render service, nor as well to one who cavils at Me.
+18.67 This (that I have taught) you should not ever be taught to one who is devoid of austerities and to one who is not a devotee; also, neither to one who does not render service, nor as well to one who cavils at Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.67 Speak not this to one who has not practised austerities, or to him
-who does not love, or who will not listen, or who mocks.
+18.67 Speak not this to one who has not practised austerities, or to him who does not love, or who will not listen, or who mocks.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.67 Never should this be told by you to one who is not austere, who is
-not a devotee, nor to one who has no wish to listen, nor certainly to
-him who traduces Me.
+18.67 Never should this be told by you to one who is not austere, who is not a devotee, nor to one who has no wish to listen, nor certainly to him who traduces Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.67 This is never to be spoken by thee to one who is devoid of
-austerities or devotion, nor to one who does not render service or who
-does not desire to listen, nor to one who cavils at Me.
+18.67 This is never to be spoken by thee to one who is devoid of austerities or devotion, nor to one who does not render service or who does not desire to listen, nor to one who cavils at Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/67_idan_te.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.67 इदम् this; ते by thee; न not; अतपस्काय to one who is devoid of
-austerity; न not; अभक्ताय to one who is not devoted; कदाचन never; न not;
-च and; अशुश्रूषवे to one who does not render service or who does not
-desire to listen; वाच्यम् to be spoken; न not; च and; माम् Me; यः who;
-अभ्यसूयति cavils at.Commentary This The scripture which has been taught
-to you.Service To the Guru.The scripture can be taught to him who does
-not speak ill of the Lord; who is a man of austerities; who is devoted;
-who is thirsting to hear and who renders service to his Guru.One who
-cavils at Me He who disregards Me taking Me for an ordinary man; who
-does not like to be told that I am the Lord.
+18.67 इदम् this; ते by thee; न not; अतपस्काय to one who is devoid of austerity; न not; अभक्ताय to one who is not devoted; कदाचन never; न not;
+च and; अशुश्रूषवे to one who does not render service or who does not desire to listen; वाच्यम् to be spoken; न not; च and; माम् Me; यः who;
+अभ्यसूयति cavils at.Commentary This The scripture which has been taught to you.Service To the Guru.The scripture can be taught to him who does not speak ill of the Lord; who is a man of austerities; who is devoted;
+who is thirsting to hear and who renders service to his Guru.One who cavils at Me He who disregards Me taking Me for an ordinary man; who does not like to be told that I am the Lord.
 
 </details>
 </div>

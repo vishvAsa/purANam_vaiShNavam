@@ -83,25 +83,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.3 In that great brahman forming my womb, I lay the germ. The
-non-conscient Prakrti is alluded to in the text 'Earth, water, fire,
+14.3 In that great brahman forming my womb, I lay the germ. The non-conscient Prakrti is alluded to in the text 'Earth, water, fire,
 air, ether, Manas, Buddhi and Ahankara - thus My Prakrti is eightfold'
 (7.4-5). This Prakrti is designated here by the name 'the great brahman'
-by reason of its being the cause of modifications like the Mahat, the
-Ahankara etc. In the Srutis also, here and there, even the Prakrti is
-designated as brahman, as in: 'He who is all-knowing, all-wise, whose
-austerity consists of knowledge - from Him are produced this brahman as
-also food, i.e., the universe of name and form' (Mun. U., 1.1.9) The
-higher Prakrti, which is the mass of conscient selves, alluded to in the
-passage, 'Know My higher Prakrti to be distinct from this; it is the
-life-principle' (7.5). It is here expressed by the term 'Garbha', the
-source or womb in which all living beings originate. I lay the germ,
-constituting the mass of conscious beings, in that great brahman, which
-is non-conscient and forms the womb. From that conjunction between the
-two Prakrtis, brought about by My will is brought forth the origin of
-all entities from Brahma down to tuft to grass. He continues to say: 'I
-Myself bring about the conjunction of the conscient and unconscient
-Prakrtis in the manifested state of effect'.
+by reason of its being the cause of modifications like the Mahat, the Ahankara etc. In the Srutis also, here and there, even the Prakrti is designated as brahman, as in: 'He who is all-knowing, all-wise, whose austerity consists of knowledge - from Him are produced this brahman as also food, i.e., the universe of name and form' (Mun. U., 1.1.9) The higher Prakrti, which is the mass of conscient selves, alluded to in the passage, 'Know My higher Prakrti to be distinct from this; it is the life-principle' (7.5). It is here expressed by the term 'Garbha', the source or womb in which all living beings originate. I lay the germ,
+constituting the mass of conscious beings, in that great brahman, which is non-conscient and forms the womb. From that conjunction between the two Prakrtis, brought about by My will is brought forth the origin of all entities from Brahma down to tuft to grass. He continues to say: 'I Myself bring about the conjunction of the conscient and unconscient Prakrtis in the manifested state of effect'.
 
 </details>
 </div>
@@ -513,32 +499,28 @@ therefrom is the birth of all beings, O descendant of Bharata !
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.3 My womb is the great-sustainer. In that I place the seed. From
-that, O scion of the Bharata dynasty, occurs the birth of all things.
+14.3 My womb is the great-sustainer. In that I place the seed. From that, O scion of the Bharata dynasty, occurs the birth of all things.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.3 The eternal Cosmos is My womb, in which I plant the seed, from
-which all beings are born, O Prince!
+14.3 The eternal Cosmos is My womb, in which I plant the seed, from which all beings are born, O Prince!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.3 My womb is the great brahman (i.e. Prakrti). In that I lay the
-germ. From that, O Arjuna, is the birth of all beings.
+14.3 My womb is the great brahman (i.e. Prakrti). In that I lay the germ. From that, O Arjuna, is the birth of all beings.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/03_mama_yonirmahadbr.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.3 My womb is the great Brahma; in that I place the germ; thence, O
-Arjuna, is the birth of all beings.
+14.3 My womb is the great Brahma; in that I place the germ; thence, O Arjuna, is the birth of all beings.
 
 </details>
 </div>
@@ -546,62 +528,19 @@ Arjuna, is the birth of all beings.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 14.3 मम My; योनिः womb; महत् the great; ब्रह्म Brahma; तस्मिन् in that;
-गर्भम् germ; दधामि bears; अहम I; संभवः the birth; सर्वभूतानाम् of all
-beings; ततः thence; भवति is; भारत O descendant of Bharata
-(Arjuna).Commentary My womb is the great Nature. The cosmos is evolved
-out of His Nature. Nature is called the great Brahma for She is the
-resting place of the five subtle elements and also the Mahat (cosmic
-mind). She is callled the great Brahma; because through Her the whole
-manifestation takes place.All changes arise out of this great Nature. So
-She has got the name Mulaprakriti or Primordial Nature or the original
-principle. From the point of view of the Unmanifest She is called
-Avyakta. The Vedantins call Her Maya (illusion). The Sankhyas call Her
-Prakriti.This Prakriti is called great because She is greater than all
-Her effects. This Nature; made of the three alities; is the material
-cause of all beings. As She is the source or cause of all
-Her,modifications and also nourishes all the modifications with Her
-energy; She is called Brahma.I place in it (the Mahabrahma) the embryo
-of life then all beings begin to come to life therefrom. In the great
-Brahma or Nature I place the germ or the seed for the birth of
-Hiranyagarbha and the seed gives birth to all beings. The birth of
-Hiranyagarbha or Brahma (the Creator) gives rise to the birth of beings.
-The Primordial Nature is like the clay. She cannot create the forms
-Herself. She gives birth to Brahma Who creates all beings just as the
-potter creates various forms from the clay. I am endowed with the two
-Saktis; viz.; the superior and the inferior Natures (Cf. VII. 4 and 5);
+गर्भम् germ; दधामि bears; अहम I; संभवः the birth; सर्वभूतानाम् of all beings; ततः thence; भवति is; भारत O descendant of Bharata
+(Arjuna).Commentary My womb is the great Nature. The cosmos is evolved out of His Nature. Nature is called the great Brahma for She is the resting place of the five subtle elements and also the Mahat (cosmic mind). She is callled the great Brahma; because through Her the whole manifestation takes place.All changes arise out of this great Nature. So She has got the name Mulaprakriti or Primordial Nature or the original principle. From the point of view of the Unmanifest She is called Avyakta. The Vedantins call Her Maya (illusion). The Sankhyas call Her Prakriti.This Prakriti is called great because She is greater than all Her effects. This Nature; made of the three alities; is the material cause of all beings. As She is the source or cause of all Her,modifications and also nourishes all the modifications with Her energy; She is called Brahma.I place in it (the Mahabrahma) the embryo of life then all beings begin to come to life therefrom. In the great Brahma or Nature I place the germ or the seed for the birth of Hiranyagarbha and the seed gives birth to all beings. The birth of Hiranyagarbha or Brahma (the Creator) gives rise to the birth of beings.
+The Primordial Nature is like the clay. She cannot create the forms Herself. She gives birth to Brahma Who creates all beings just as the potter creates various forms from the clay. I am endowed with the two Saktis; viz.; the superior and the inferior Natures (Cf. VII. 4 and 5);
 the field and its knower. I unite these two (the Spirit and the matter).
 The individual soul comes under the influence of the limiting adjuncts;
 viz.; ignorance; desire and action. On account of ignorance (Avidya);
-the individual soul forgets his original divine nature; gets himself
-entangled in the meshes of desire (Kama) and action (Karma); and
-revolves in the wheel of birth and death. The individual soul turns
-towards ignorance without knowing his own true divine nature. The Jiva
+the individual soul forgets his original divine nature; gets himself entangled in the meshes of desire (Kama) and action (Karma); and revolves in the wheel of birth and death. The individual soul turns towards ignorance without knowing his own true divine nature. The Jiva
 (individual soul) being overpowered by ignorance and the modifications;
-forgets its pristine purity and moves in various forms.The Primordial
-Nature or the Unmanifested is a dark matrix with infinite
-potentialities. It is not a substance. Sound and energy are in an
-undifferentiated state in It. The whole world gets involved into It
-during the cosmic dissolution. There is no relationship of substance or
-ality between It and the three Gunas. The alities are the Mulaprakriti
-and the latter is the former in a state of poise or eilibrium. This
-manifested world of the three alities is compared to a twisted rope of
-three colours; viz.; white; red and black. Each colour represents a
-Guna. Sattvic is white; Rajas is red and Tamas is black. The three are
-not in a state of eilibrium in the manifested world.Water and the seed
-coming in contact with the earth produce sprouts which grow into trees.
+forgets its pristine purity and moves in various forms.The Primordial Nature or the Unmanifested is a dark matrix with infinite potentialities. It is not a substance. Sound and energy are in an undifferentiated state in It. The whole world gets involved into It during the cosmic dissolution. There is no relationship of substance or ality between It and the three Gunas. The alities are the Mulaprakriti and the latter is the former in a state of poise or eilibrium. This manifested world of the three alities is compared to a twisted rope of three colours; viz.; white; red and black. Each colour represents a Guna. Sattvic is white; Rajas is red and Tamas is black. The three are not in a state of eilibrium in the manifested world.Water and the seed coming in contact with the earth produce sprouts which grow into trees.
 In the womb of Nature; the seed develops into the eightfold elements --
-earth; water; fire; air; ether; mind; intellect and egoism. The first
-fruit of the contact of Nature with the soul is the MahatTattva or
-intellect. From intellect mind is born from mind egoism from egoism; the
-five elements.There are four classes of beings; viz.; Jarayuja; Andaja;
+earth; water; fire; air; ether; mind; intellect and egoism. The first fruit of the contact of Nature with the soul is the MahatTattva or intellect. From intellect mind is born from mind egoism from egoism; the five elements.There are four classes of beings; viz.; Jarayuja; Andaja;
 Svedaja and Udbhijja. The Jarayuja is born of the placenta (viviparous).
-Human beings; cows; elephants; horses; etc.; belong to this class. In
-this variety the five senses of knowledge exist. The Andaja is born of
-eggs (oviparous). In this variety the elements of wind and ether
-predominate. Lice come under the category of Svedaja they are born of
-sweat. In this variety fire and water predominate. Trees that are born
-of seeds are classified under the head Udbhijja in this variety earth
-and water predominate. (Cf.VII.6IX.17XV.7)
+Human beings; cows; elephants; horses; etc.; belong to this class. In this variety the five senses of knowledge exist. The Andaja is born of eggs (oviparous). In this variety the elements of wind and ether predominate. Lice come under the category of Svedaja they are born of sweat. In this variety fire and water predominate. Trees that are born of seeds are classified under the head Udbhijja in this variety earth and water predominate. (Cf.VII.6IX.17XV.7)
 
 </details>
 </div>

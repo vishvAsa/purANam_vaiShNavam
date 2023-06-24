@@ -74,12 +74,8 @@ _________________
 
 18.58 Thus, focusing your thought on Me, if you can perform all acts,
 you will, by My grace, cross over all difficulties of Samsara. If,
-however, out of 'self-conceit,' i.e., out of the feeling, 'I know well
-what is to be done and what is not to be done' - out of such a feeling,
-if you do not heed My words, you shall perish. Except Myself, there is
-none who knows what ought and what ought not to be done by all living
-beings; there is also none other than Myself who is in the position of a
-law-giver to them.
+however, out of 'self-conceit,' i.e., out of the feeling, 'I know well what is to be done and what is not to be done' - out of such a feeling,
+if you do not heed My words, you shall perish. Except Myself, there is none who knows what ought and what ought not to be done by all living beings; there is also none other than Myself who is in the position of a law-giver to them.
 
 </details>
 </div>
@@ -447,27 +443,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.58. Having your thought-organ turned towards Me, you shall pass over
-all obstacles by Me Grace. On the other hand, if you don't give up your
-sense of ego, you will not liberated yourself, \[instead\] you will
-perish.
+18.58. Having your thought-organ turned towards Me, you shall pass over all obstacles by Me Grace. On the other hand, if you don't give up your sense of ego, you will not liberated yourself, \[instead\] you will perish.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.58 Having your mind fixed on Me, you will cross over all difficulties
-through My grace. If, on the other hand, you do not listen out of
-egotism, you will get destroyed.
+18.58 Having your mind fixed on Me, you will cross over all difficulties through My grace. If, on the other hand, you do not listen out of egotism, you will get destroyed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.58 Fix but thy mind on Me, and by My grace thou shalt overcome the
-obstacles in thy path. But if, misled by pride, thou wilt not listen,
+18.58 Fix but thy mind on Me, and by My grace thou shalt overcome the obstacles in thy path. But if, misled by pride, thou wilt not listen,
 then indeed thou shalt be lost.
 
 </details>
@@ -475,8 +465,7 @@ then indeed thou shalt be lost.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.58 Focusing your thought on Me, you shall, by My grace, cross over
-all difficulties. If, however, out of self-conceit, you do not heed Me,
+18.58 Focusing your thought on Me, you shall, by My grace, cross over all difficulties. If, however, out of self-conceit, you do not heed Me,
 you shall perish.
 
 </details>
@@ -484,8 +473,7 @@ you shall perish.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/58_machchittaH_sarva.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.58 Fixing thy mind on Me, thou shalt by My grace overcome all
-obstacles; but if from egoism thou wilt not hear Me, thou shalt perish.
+18.58 Fixing thy mind on Me, thou shalt by My grace overcome all obstacles; but if from egoism thou wilt not hear Me, thou shalt perish.
 
 </details>
 </div>
@@ -494,16 +482,8 @@ obstacles; but if from egoism thou wilt not hear Me, thou shalt perish.
 
 18.58 मच्चित्तः fixing thy mind on Me; सर्वदुर्गाणि all obstacles;
 मत्प्रसादात् by My grace; तरिष्यसि (thou) shalt overcome; अथ now; चेत्
-if; त्वम् thou; अहङ्कारात् from egoism; न not; श्रोष्यसि (thou) wilt
-hear; विनङ्क्ष्यसि (thou) shalt perish.Commentary When thy mind; O
-Arjuna; through onepointed devoion is fixed on Me; thou shalt by My
-grace cross over all difficulties and obstacles. But shouldst thou not
-take My teaching to heart and through pride disregard it; thou shalt be
-ruined.Difficulties Obstacles; snares; pitfalls; temptations on the
-spiritual path and various sorts of other difficulties of Samsara;
-diseases; etc.Egosim The idea that thou art a learned man. Thou shouldst
-not think I am independent. I know everything. I am a wise man. Why
-should I take the advice of another
+if; त्वम् thou; अहङ्कारात् from egoism; न not; श्रोष्यसि (thou) wilt hear; विनङ्क्ष्यसि (thou) shalt perish.Commentary When thy mind; O Arjuna; through onepointed devoion is fixed on Me; thou shalt by My grace cross over all difficulties and obstacles. But shouldst thou not take My teaching to heart and through pride disregard it; thou shalt be ruined.Difficulties Obstacles; snares; pitfalls; temptations on the spiritual path and various sorts of other difficulties of Samsara;
+diseases; etc.Egosim The idea that thou art a learned man. Thou shouldst not think I am independent. I know everything. I am a wise man. Why should I take the advice of another
 
 </details>
 </div>

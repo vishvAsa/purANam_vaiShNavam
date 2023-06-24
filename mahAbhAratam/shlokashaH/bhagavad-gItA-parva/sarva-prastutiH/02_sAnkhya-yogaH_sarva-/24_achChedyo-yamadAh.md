@@ -63,12 +63,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 2.23 - 2.24 Weapons, fire, water and air are incapable of cleaving,
-burning, wetting and drying the self; for, the nature of the self is to
-pervade all elements; It is present everywhere; for, It is subtler than
-all the elements; It is not capable of being pervaded by them; and
-cleaving, burning, wetting and drying are actions which can take place
-only by pervading a substance. Therefore the self is eternal. It is
-stable, immovable and primeval. The meaning is that It is unchanging,
+burning, wetting and drying the self; for, the nature of the self is to pervade all elements; It is present everywhere; for, It is subtler than all the elements; It is not capable of being pervaded by them; and cleaving, burning, wetting and drying are actions which can take place only by pervading a substance. Therefore the self is eternal. It is stable, immovable and primeval. The meaning is that It is unchanging,
 unshakable and ancient.
 
 </details>
@@ -827,8 +822,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/24_achChedyo-yamadAh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.24. This is not to be cut; This is not to be burnt; (This is) not to
-be made wet and not to be dried too; This is eternal, all-pervading,
+2.24. This is not to be cut; This is not to be burnt; (This is) not to be made wet and not to be dried too; This is eternal, all-pervading,
 stable, immobile and eternal.
 
 </details>
@@ -836,8 +830,7 @@ stable, immobile and eternal.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/24_achChedyo-yamadAh.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.24 It cannot be cut, It cannot be burnt, cannot be moistened, and
-surely cannot be dried up. It is eternal, omnipresent, stationary,
+2.24 It cannot be cut, It cannot be burnt, cannot be moistened, and surely cannot be dried up. It is eternal, omnipresent, stationary,
 unmoving and changeless.
 
 </details>
@@ -845,26 +838,21 @@ unmoving and changeless.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/24_achChedyo-yamadAh.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.24 It is impenetrable; It can be neither drowned nor scorched nor
-dried. It is Eternal, All-pervading, Unchanging, Immovable and Most
-Ancient.
+2.24 It is impenetrable; It can be neither drowned nor scorched nor dried. It is Eternal, All-pervading, Unchanging, Immovable and Most Ancient.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/24_achChedyo-yamadAh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.24 It cannot be cleft; It cannot be burnt; It cannot be wetted and It
-cannot be dried, It is eternal, all-pervading, stable, immovable and
-primeval.
+2.24 It cannot be cleft; It cannot be burnt; It cannot be wetted and It cannot be dried, It is eternal, all-pervading, stable, immovable and primeval.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/24_achChedyo-yamadAh.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.24 This Self cannot be cut, burnt, wetted, nor dried up. It is
-eternal, all-pervading, stable, immovable and ancient.
+2.24 This Self cannot be cut, burnt, wetted, nor dried up. It is eternal, all-pervading, stable, immovable and ancient.
 
 </details>
 </div>
@@ -875,14 +863,8 @@ eternal, all-pervading, stable, immovable and ancient.
 अयम् this; अक्लेद्यः cannot be wetted; अशोष्यः cannot be died; एव also;
 च and; नित्यः eternal; सर्वगतः allpervading; स्थाणुः stable; अचलः
 immovable; अयम् this; सनातनः ancient.Commentary The Self is very subtle.
-It is beyond the reach of speech and mind. It is very difficult to
-understand this subtle Self. So Lord Krishna explains the nature of the
-immortal Self in a variety of ways with various illustrations and
-examples; so that It can be grasped by the people.Sword cannot cut this
-Self. It is eternal. Because It is eternal; It is allpervading. Because
-It is allpervading; It is stable like a stature. Because It is stable;
-It is immovable. It is everlasting. Therefore; It is not produced out of
-any cause. It is not new. It is ancient.
+It is beyond the reach of speech and mind. It is very difficult to understand this subtle Self. So Lord Krishna explains the nature of the immortal Self in a variety of ways with various illustrations and examples; so that It can be grasped by the people.Sword cannot cut this Self. It is eternal. Because It is eternal; It is allpervading. Because It is allpervading; It is stable like a stature. Because It is stable;
+It is immovable. It is everlasting. Therefore; It is not produced out of any cause. It is not new. It is ancient.
 
 </details>
 </div>

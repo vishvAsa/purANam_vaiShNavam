@@ -42,17 +42,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -347,53 +338,42 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.38. Of course, these (Dhrtarastra's sons), with their intellect
-overpowered by greed, do not see the evil conseences ensuing from the
-ruin of the family and the sin in cheating friends.
+1.38. Of course, these (Dhrtarastra's sons), with their intellect overpowered by greed, do not see the evil conseences ensuing from the ruin of the family and the sin in cheating friends.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.38 1.39 O Janardana, although these people, whose hearts have become
-perverted by greed, do not see the evil arising from destroying the
-family and sin in hostility towards, friends, yet how can we who clearly
-see the evil arising from destroying the family remain unaware of (the
-need of) abstaining from this sin;
+1.38 1.39 O Janardana, although these people, whose hearts have become perverted by greed, do not see the evil arising from destroying the family and sin in hostility towards, friends, yet how can we who clearly see the evil arising from destroying the family remain unaware of (the need of) abstaining from this sin;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.38 Although these men, blinded by greed, see no guilt in destroying
-their kin, or fighting against their friends,
+1.38 Although these men, blinded by greed, see no guilt in destroying their kin, or fighting against their friends,
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.38 Though these people, whose minds are overpowered by greed, see no
-evil in the destruction of a clan and no sin in treachery to friends,
+1.38 Though these people, whose minds are overpowered by greed, see no evil in the destruction of a clan and no sin in treachery to friends,
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.38. Though they, with intelligence overpowered by greed, see no evil
-in the destruction of families, and no sin in hostility to friends,
+1.38. Though they, with intelligence overpowered by greed, see no evil in the destruction of families, and no sin in hostility to friends,
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/01_arjuna-viShAda-yogaH/38_yadyapyete_na.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-1.38 यद्यपि though; एते these; न not; पश्यन्ति see; लोभोपहतचेतसः with
-intelligence overpowered by greed; कुलक्षयकृतम् in the destruction of
-families; दोषम् evil; मित्रद्रोहे in hostility to friends; च and; पातकम्
+1.38 यद्यपि though; एते these; न not; पश्यन्ति see; लोभोपहतचेतसः with intelligence overpowered by greed; कुलक्षयकृतम् in the destruction of families; दोषम् evil; मित्रद्रोहे in hostility to friends; च and; पातकम्
 sin.No Commentary.
 
 </details>

@@ -69,12 +69,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.4 Know that Prakrti, the material cause of this universe, which
-consists of endless varieties of objects and means of enjoyment and
-places of enjoyment, is divided into eightfold substances - earth,
-water, fire, air and ether, having smell, taste etc., as their
-attributes, and Manas along with kindred sense organs and the categories
-Mahat and ego-sense - all belonging to Me.
+7.4 Know that Prakrti, the material cause of this universe, which consists of endless varieties of objects and means of enjoyment and places of enjoyment, is divided into eightfold substances - earth,
+water, fire, air and ether, having smell, taste etc., as their attributes, and Manas along with kindred sense organs and the categories Mahat and ego-sense - all belonging to Me.
 
 </details>
 </div>
@@ -524,8 +520,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.4. My nature is divided eightfold, such as the Earth, the Water, the
-Fire, the Wind, the Ether, the Mind, and also the Intellect and the Ego;
+7.4. My nature is divided eightfold, such as the Earth, the Water, the Fire, the Wind, the Ether, the Mind, and also the Intellect and the Ego;
 
 </details>
 </div>
@@ -548,16 +543,14 @@ this is the eightfold division of My Manifested Nature.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.4 Earth, water, fire, air, ether, Manas, Buddhi and ego-sense - thus
-My Prakrti is divided eightfold.
+7.4 Earth, water, fire, air, ether, Manas, Buddhi and ego-sense - thus My Prakrti is divided eightfold.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/04_bhUmirApo-nalo_vA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.4 Earth, water, fire, air, ether, mind, intellect and egoism thus is
-My Nature divided eightfold.
+7.4 Earth, water, fire, air, ether, mind, intellect and egoism thus is My Nature divided eightfold.
 
 </details>
 </div>
@@ -566,20 +559,8 @@ My Nature divided eightfold.
 
 7.4 भूमिः earth; आपः water; अनलः fire; वायुः air; खम् ether; मनः mind;
 बुद्धिः intellect; एव even; च and; अहङ्कारः egoism; इति thus; इयम् this;
-मे My; भिन्ना divided; प्रकृतिः Nature; अष्टधा eightfold.Commentary This
-eightfold Nature constitutes the inferior Nature or Apara Prakriti. The
-five gross elements are formed out of the Tanmatras or rootelements
-through the process of Pancikarana or fivefold mixing. Tanmatras are the
-subtle rootelements. In this verse; earth; water; etc.; represent the
-subtle or rudimentary elements out of which the five gross elements are
-formed.Mind stands here for its cause Ahamkara intellect for its cause
-the Mahat Ahamkara for the Avyaktam or the unmanifested (MulaPrakriti)
-united with Avidya which is conjoined with all kinds of Vasanas or
-latent tendencies. As Ahamkara (Iness) is the cause for all the actions
-of every individual and as Ahamkara is the most vital principle in man
-on which all the other Tattvas or principles depend; the Avyaktam
-combined with the Ahamkara is itself called here Ahamkara; just as food
-which is mixed with poison is itself called poison.
+मे My; भिन्ना divided; प्रकृतिः Nature; अष्टधा eightfold.Commentary This eightfold Nature constitutes the inferior Nature or Apara Prakriti. The five gross elements are formed out of the Tanmatras or rootelements through the process of Pancikarana or fivefold mixing. Tanmatras are the subtle rootelements. In this verse; earth; water; etc.; represent the subtle or rudimentary elements out of which the five gross elements are formed.Mind stands here for its cause Ahamkara intellect for its cause the Mahat Ahamkara for the Avyaktam or the unmanifested (MulaPrakriti)
+united with Avidya which is conjoined with all kinds of Vasanas or latent tendencies. As Ahamkara (Iness) is the cause for all the actions of every individual and as Ahamkara is the most vital principle in man on which all the other Tattvas or principles depend; the Avyaktam combined with the Ahamkara is itself called here Ahamkara; just as food which is mixed with poison is itself called poison.
 
 </details>
 </div>

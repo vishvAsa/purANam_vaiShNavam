@@ -54,13 +54,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.25 'Anubandha' or conseence is here the pain which follows when a
-work is performed. 'Loss' means loss of wealth involved in doing that
-act. 'Injury' is the pain caused to living beings when the work is
-carried out. 'Capacity' is the ability of completing the act. Whenever
-an act is begun without consideration of these and from delusion, viz.,
-due to ignoring the agency of the Supreme Person - that act is said to
-be Tamasika.
+18.25 'Anubandha' or conseence is here the pain which follows when a work is performed. 'Loss' means loss of wealth involved in doing that act. 'Injury' is the pain caused to living beings when the work is carried out. 'Capacity' is the ability of completing the act. Whenever an act is begun without consideration of these and from delusion, viz.,
+due to ignoring the agency of the Supreme Person - that act is said to be Tamasika.
 
 </details>
 </div>
@@ -301,46 +296,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.25. The object which is gained, due to ignorance, without considering
-the result, the loss, the injury to others and the strength \[of one's
-own\]-that is declared to be of the Tamas (Strand).
+18.25. The object which is gained, due to ignorance, without considering the result, the loss, the injury to others and the strength \[of one's own\]-that is declared to be of the Tamas (Strand).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.25 That action is said to be born of tamas which is undertaken out of
-delusion, (and) without consideration of its conseence, loss, harm and
-ability.
+18.25 That action is said to be born of tamas which is undertaken out of delusion, (and) without consideration of its conseence, loss, harm and ability.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.25 An action undertaken through delusion, and with no regard to the
-spiritual issues involved, or the real capacity of the doer, or to the
-injury which may follow, such an act may be assumed to be the product of
-Ignorance.
+18.25 An action undertaken through delusion, and with no regard to the spiritual issues involved, or the real capacity of the doer, or to the injury which may follow, such an act may be assumed to be the product of Ignorance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.25 That act is said to be Tamasika which is undertaken through
-delusion, without regard to conseences, loss, injury and one's own
-capacity.
+18.25 That act is said to be Tamasika which is undertaken through delusion, without regard to conseences, loss, injury and one's own capacity.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/25_anubandha~N_xayam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.25 That action which is undertaken from delusion, without a regard
-for the conseences, loss, injury and (one's own) ability that is
-declared to be Tamasic (dark).
+18.25 That action which is undertaken from delusion, without a regard for the conseences, loss, injury and (one's own) ability that is declared to be Tamasic (dark).
 
 </details>
 </div>
@@ -350,18 +334,7 @@ declared to be Tamasic (dark).
 18.25 अनुबन्धम् conseence; क्षयम् loss; हिंसाम् injury; अनपेक्ष्य
 without regard; च and; पौरुषम् (ones own) ability; मोहात् from delusion;
 आरभ्यते is undertaken; कर्म action; यत् which; तत् that; तामसम् Tamasic
-(dark); उच्यते is said.Commentary Tamasic acts cause harm to others. A
-Tamasic man reflects not at all whether he has the capacity to perform
-these useless actions; but continues to act blindly. With utter
-thoughtlessness he sets aside any reflection as to the difficulty of
-performing the action and what the result of it would be. He carries it
-on in his own egoistical manner. He does not discriminate between the
-good and the bad; or what is ones own and what belongs to
-another.Kshayam Loss of power and of wealth; resulting from the
-performance of an action.Himsa Injury to living beings.Paurusham Ones
-own ability or capacity to complete the work.Now listen to the
-characteristics that pertain to the pure agent. The Lord proceeds to
-deal with the distinction among the agents.
+(dark); उच्यते is said.Commentary Tamasic acts cause harm to others. A Tamasic man reflects not at all whether he has the capacity to perform these useless actions; but continues to act blindly. With utter thoughtlessness he sets aside any reflection as to the difficulty of performing the action and what the result of it would be. He carries it on in his own egoistical manner. He does not discriminate between the good and the bad; or what is ones own and what belongs to another.Kshayam Loss of power and of wealth; resulting from the performance of an action.Himsa Injury to living beings.Paurusham Ones own ability or capacity to complete the work.Now listen to the characteristics that pertain to the pure agent. The Lord proceeds to deal with the distinction among the agents.
 
 </details>
 </div>

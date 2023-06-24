@@ -49,11 +49,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.26 - 10.29 Of trees I am Asvattha which is worthy of worship. Of
-celestial seers I am Narada. Kamadhuk is the divine cow. I am Kandarpa,
-the cause of progeny. Sarpas are single-headed snakes while Nagas are
-many-headed snakes. Aatic creatures are known as Yadamsi. Of them I am
-Varuna. Of subdures, I am Yama, the son of the sun-god.
+10.26 - 10.29 Of trees I am Asvattha which is worthy of worship. Of celestial seers I am Narada. Kamadhuk is the divine cow. I am Kandarpa,
+the cause of progeny. Sarpas are single-headed snakes while Nagas are many-headed snakes. Aatic creatures are known as Yadamsi. Of them I am Varuna. Of subdures, I am Yama, the son of the sun-god.
 
 </details>
 </div>
@@ -273,8 +270,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.27. Of the horses, you should know Me to be the nectar-born
-Uccaihsravas (Indra's horse); of the best elephants, the Airavata
+10.27. Of the horses, you should know Me to be the nectar-born Uccaihsravas (Indra's horse); of the best elephants, the Airavata
 (Indra's elephant); and of the men, their king.
 
 </details>
@@ -282,34 +278,29 @@ Uccaihsravas (Indra's horse); of the best elephants, the Airavata
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.27 Among horses, know Me to be Uccaihsravas, born of nectar; Airavata
-among the lordly elephants; and among men, the Kind of men.
-\[Uccaihsravas and Airavata are respectively the divine horse and
-elephant of Indra.\]
+10.27 Among horses, know Me to be Uccaihsravas, born of nectar; Airavata among the lordly elephants; and among men, the Kind of men.
+\[Uccaihsravas and Airavata are respectively the divine horse and elephant of Indra.\]
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.27 Know that among horses I am Pegasus, the heaven-born; among the
-lordly elephants I am the White one, and I am the Ruler among men.
+10.27 Know that among horses I am Pegasus, the heaven-born; among the lordly elephants I am the White one, and I am the Ruler among men.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.27 Of horses know Me to be Uccaihsravas the nectar-born. Of lordly
-elephants, I am Airavata, and of men, I am the monarch.
+10.27 Of horses know Me to be Uccaihsravas the nectar-born. Of lordly elephants, I am Airavata, and of men, I am the monarch.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/27_uchchaiHshravasam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.27 Know Me as Ucchaisravas born of nectar, among horses; among lordly
-elephants (I am) the Airavata; and, among men, the king.
+10.27 Know Me as Ucchaisravas born of nectar, among horses; among lordly elephants (I am) the Airavata; and, among men, the king.
 
 </details>
 </div>
@@ -318,12 +309,7 @@ elephants (I am) the Airavata; and, among men, the king.
 
 10.27 उच्चैःश्रवसम् Ucchaisravas; अश्वानम् among horses; विद्धि know;
 माम् Me; अमृतोद्भवम् born of nectar;,ऐरावतम् Airavata; गजेन्द्राणाम्
-among lordly elephants; नराणाम् among men; च and; नराधिपम् the
-king.Commentary Nectar was obtained by the gods by churning the ocean of
-milk. Ucchaisravas is the name of the royal horse which was born in that
-ocean of milk when it was churned for the nectar.Airavatam The offspring
-of Iravati; the elephant of Indra born at the time when the ocean of
-milk was churned.
+among lordly elephants; नराणाम् among men; च and; नराधिपम् the king.Commentary Nectar was obtained by the gods by churning the ocean of milk. Ucchaisravas is the name of the royal horse which was born in that ocean of milk when it was churned for the nectar.Airavatam The offspring of Iravati; the elephant of Indra born at the time when the ocean of milk was churned.
 
 </details>
 </div>

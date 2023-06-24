@@ -63,20 +63,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.2 Know Karma Yoga only to be that which they call as Sannyasa i.e., as
-Jnana Yoga or knowledge of the real nature of the self. Sri Krsna
-substantiates this by the words, 'For no one whose delusive
-identification of the body with the self is not abandoned, becomes a
-true Karma Yogin.' 'One whose delusion is abandoned is one by whom the
-delusion of identifying the self with Prakrti (body), which is in
-reality distinct from the self, is not rejected by the contemplation of
-the real nature of the self. One who is not of this kind is one whose
-delusion is not abandoned. One who is not of this kind cannot become a
-Karma Yogin of the type described here. It has already been said: 'He
-whose every undertaking is free from desire for fruits and delusive
-identification of the body with the self ৷৷.' (4.19). Sri Krsna now
-teaches that by Karma Yoga alone one succeeds in Yoga without the risk
-of fall.
+6.2 Know Karma Yoga only to be that which they call as Sannyasa i.e., as Jnana Yoga or knowledge of the real nature of the self. Sri Krsna substantiates this by the words, 'For no one whose delusive identification of the body with the self is not abandoned, becomes a true Karma Yogin.' 'One whose delusion is abandoned is one by whom the delusion of identifying the self with Prakrti (body), which is in reality distinct from the self, is not rejected by the contemplation of the real nature of the self. One who is not of this kind is one whose delusion is not abandoned. One who is not of this kind cannot become a Karma Yogin of the type described here. It has already been said: 'He whose every undertaking is free from desire for fruits and delusive identification of the body with the self ৷৷.' (4.19). Sri Krsna now teaches that by Karma Yoga alone one succeeds in Yoga without the risk of fall.
 
 </details>
 </div>
@@ -480,9 +467,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.2. What \[the learned\] call renunciation, O son of Pandu, know that
-to be \[the same as\] the Yoga. For without renouncing intention \[for
-fruit\], one does not become a man of Yoga.
+6.2. What \[the learned\] call renunciation, O son of Pandu, know that to be \[the same as\] the Yoga. For without renouncing intention \[for fruit\], one does not become a man of Yoga.
 
 </details>
 </div>
@@ -497,8 +482,7 @@ For, nobody who has not given up expectations can be a yogi.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.2 O Arjuna! Renunciation is in fact what is called Right Action. No
-one can become spiritual who has not renounced all desire.
+6.2 O Arjuna! Renunciation is in fact what is called Right Action. No one can become spiritual who has not renounced all desire.
 
 </details>
 </div>
@@ -506,18 +490,14 @@ one can become spiritual who has not renounced all desire.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 6.2 That which is called Sannyasa (Jnana Yoga), know that to be Yoga
-(Karma Yoga), O Arjuna. For (among Karma Yogins) no one whose delusive
-identification of the body with the self is not abandoned, becomes a
-true Karma Yogin.
+(Karma Yoga), O Arjuna. For (among Karma Yogins) no one whose delusive identification of the body with the self is not abandoned, becomes a true Karma Yogin.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/02_yaM_sannyAsamiti.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.2 Do thou, O Arjuna, know Yoga to be that which they call
-renunciation; no one verily becomes a Yogi who has not renounced
-thoughts.
+6.2 Do thou, O Arjuna, know Yoga to be that which they call renunciation; no one verily becomes a Yogi who has not renounced thoughts.
 
 </details>
 </div>
@@ -527,17 +507,7 @@ thoughts.
 6.2 यम् which; संन्यासम् renunciation; इति thus; प्राहुः (they) call;
 योगम् Yoga; तम् that; विद्धि know; पाण्डव O Pandava; न not; हि verily;
 असंन्यस्तसङ्कल्पः one who has not renounced thoughts; योगी Yogi; भवति
-becomes; कश्चन anyone.Commentary Sankalpa is the working of the
-imagining faculty of the mind that makes plans for the future and
-guesses the results of plans so formed. No one can become a Karma Yogi
-who plans and schemes and expects fruits for his actions. No devotee of
-action who has not renounced the thought of the fruits of his actions
-can become a Yogi of steady mind. The thought of the fruits will
-certainly make the mind unsteady.Lord Krishna eulogises Karma Yoga here
-because it is the means or an external aid (Bahiranga Sadhana) to Dhyana
-Yoga. Karma Yoga is a steppingstone to Dhyana Yoga. It leads to the Yoga
-of Meditation in due course. In order to encourage the practice of Karna
-Yoga it is stated here that Karma Yoga is Sannyasa. (Cf.V.4)
+becomes; कश्चन anyone.Commentary Sankalpa is the working of the imagining faculty of the mind that makes plans for the future and guesses the results of plans so formed. No one can become a Karma Yogi who plans and schemes and expects fruits for his actions. No devotee of action who has not renounced the thought of the fruits of his actions can become a Yogi of steady mind. The thought of the fruits will certainly make the mind unsteady.Lord Krishna eulogises Karma Yoga here because it is the means or an external aid (Bahiranga Sadhana) to Dhyana Yoga. Karma Yoga is a steppingstone to Dhyana Yoga. It leads to the Yoga of Meditation in due course. In order to encourage the practice of Karna Yoga it is stated here that Karma Yoga is Sannyasa. (Cf.V.4)
 
 </details>
 </div>

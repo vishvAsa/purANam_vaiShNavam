@@ -32,13 +32,28 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/57_yaH.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+
+।।2.57।। अथ व्यतिरेकसंज्ञाख्या द्वितीया दशोच्यते इत्याह ततोऽर्वाचीनदशेति।
+अप्रियेषु स्नेहप्रसङ्गाभावात् प्रियमात्रविषयःसर्वत्र इतिशब्द इति दर्शयति
+प्रियेष्विति। अभिस्नेहस्य प्रवृत्तिपर्यन्ततया तदभावोऽत्र
+तद्विशेषोपादानवृत्तिराहित्यपर्यन्त इत्याह उदासीन इति। एतेनप्रियेत्यादिना
+च व्यतिरेकसंज्ञात्वं व्यनक्ति। अपक्वान् कषायान् पक्वेभ्यः पृथगनुसन्धाय
+तेषामपि पाकापादनदशा हिव्यतिरेकसंज्ञा। तत्र स्वयम्प्रियेषु प्रवृत्तिरहितो
+दैवागतप्रियसंश्लेषविश्लेषयोश्चाभिनन्दनादिरहित इत्युक्ते पक्वेतरेषां
+रागादीनां पाकाभिलाषेण मनोव्यापारविशेषनिवारणमुक्तं स्यात्। अभिनन्दनं
+चात्राभितो नन्दनम् अनुबन्धिषु कालान्तरेषु च
+प्रीत्यनुवृत्तिहेतुभूतनन्दनमित्यर्थः। एवं द्वेषेऽपि।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/57_yaH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.57 He, who, has no love for all pleasing objects, i.e., who is
-indifferent to them, and who does not feel attraction or repulsion when
-he is united with or separated from attractive or repulsive objects
-respectively, who neither rejoices at the former, nor hates the latter -
+2.57 He, who, has no love for all pleasing objects, i.e., who is indifferent to them, and who does not feel attraction or repulsion when he is united with or separated from attractive or repulsive objects respectively, who neither rejoices at the former, nor hates the latter -
 he also is of firm wisdom. Sri Krsna now mentions the next lower state.
 
 </details>
@@ -385,8 +400,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/57_yaH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.57. He, who has no desire in anything; and who neither rejoices nor
-hates on getting this or that, good or bad-his intellect is properly
+2.57. He, who has no desire in anything; and who neither rejoices nor hates on getting this or that, good or bad-his intellect is properly
 stabilized.
 
 </details>
@@ -394,19 +408,14 @@ stabilized.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/57_yaH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.57 The wisdom of that person remains established who has not
-attachment for anything anywhere, who neither welcomes nor rejects
-anything whatever good or bad when he comes across it.
+2.57 The wisdom of that person remains established who has not attachment for anything anywhere, who neither welcomes nor rejects anything whatever good or bad when he comes across it.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/57_yaH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.57 He who wherever he goes is attached to no person and to no place by
-ties of flesh; who accepts good and evil alike, neither welcoming the
-one nor shrinking from the other - take him to be one who is merged in
-the Infinite.
+2.57 He who wherever he goes is attached to no person and to no place by ties of flesh; who accepts good and evil alike, neither welcoming the one nor shrinking from the other - take him to be one who is merged in the Infinite.
 
 </details>
 </div>
@@ -421,8 +430,7 @@ neither rejoices nor hates - his wisdom is firmly set.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/57_yaH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.57 He who is everywhere without attachment, on meeting with anything
-good or bad, who neither rejoices not hastes, his wisdom is fixed.
+2.57 He who is everywhere without attachment, on meeting with anything good or bad, who neither rejoices not hastes, his wisdom is fixed.
 
 </details>
 </div>
@@ -432,14 +440,7 @@ good or bad, who neither rejoices not hastes, his wisdom is fixed.
 2.57 यः he who; सर्वत्र everywhere; अनभिस्नेहः without attachment; तत्
 that; तत् that; प्राप्य having obtained; शुभाशुभम् good and evil; न not;
 अभिनन्दति rejoices; न not; द्वेष्टि hates; तस्य of him; प्रज्ञा wisdom;
-प्रतिष्ठिता is fixed.Commentary The sage possesses poised understanding
-or evenness of mind. He does not rejoice in pleasure nor is he averse to
-pain that may befall him. He is ite indifferent as he is rooted in the
-Self. He has no attachment even for his life or body as he identifies
-himself with Brahman or the Supreme Self. He will not praise anybody
-when the latter does any good to him nor censure anyone when one does
-him any harm. This is the answer given by the Lord to Arjunas ery How
-does a sage of steady wisdom talk
+प्रतिष्ठिता is fixed.Commentary The sage possesses poised understanding or evenness of mind. He does not rejoice in pleasure nor is he averse to pain that may befall him. He is ite indifferent as he is rooted in the Self. He has no attachment even for his life or body as he identifies himself with Brahman or the Supreme Self. He will not praise anybody when the latter does any good to him nor censure anyone when one does him any harm. This is the answer given by the Lord to Arjunas ery How does a sage of steady wisdom talk
 
 </details>
 </div>

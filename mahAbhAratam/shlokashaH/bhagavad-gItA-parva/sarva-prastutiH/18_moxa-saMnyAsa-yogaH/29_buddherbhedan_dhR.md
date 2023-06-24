@@ -63,10 +63,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.29 'Buddhi' is the knowledge in the form of discriminative
-determination. 'Dhrti' is the resolution to hold on with perseverance to
-what has been undertaken even against all obstacles. Of these two, hear
-now the threefold division according to Sattva and other Gunas.
+18.29 'Buddhi' is the knowledge in the form of discriminative determination. 'Dhrti' is the resolution to hold on with perseverance to what has been undertaken even against all obstacles. Of these two, hear now the threefold division according to Sattva and other Gunas.
 
 </details>
 </div>
@@ -281,7 +278,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.29।। हे धनंजय ! मेरे द्वारा अशेषतः और पृथकतः कहे जाने वाले, गुणों
+।।18.29।। हे धनंजय ! मेरे द्वारा अशेषत: और पृथकत: कहे जाने वाले, गुणों
 के कारण उत्पन्न हुए बुद्धि और धृति के त्रिविध भेद को सुनो।।
 
 </details>
@@ -363,26 +360,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.29. You must listen \[from Me\] to the three-fold division of the
-intellect and also of content both being expounded completely and
-individually, \[by Me\] basing on the Strands, O Dhananjaya !
+18.29. You must listen \[from Me\] to the three-fold division of the intellect and also of content both being expounded completely and individually, \[by Me\] basing on the Strands, O Dhananjaya !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.29 O Dhananjaya, listen to the classification of the intellect as
-also of fortitude, which is threefold according to the gunas, while it
-is being stated elaborately and severally.
+18.29 O Dhananjaya, listen to the classification of the intellect as also of fortitude, which is threefold according to the gunas, while it is being stated elaborately and severally.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.29 Reason and conviction are threefold, according to the Quality
-which is dominant. I will explain them fully and severally, O Arjuna!
+18.29 Reason and conviction are threefold, according to the Quality which is dominant. I will explain them fully and severally, O Arjuna!
 
 </details>
 </div>
@@ -390,17 +382,14 @@ which is dominant. I will explain them fully and severally, O Arjuna!
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 18.29 Hear now, the threefold division of Buddhi (reason) and Dhrti
-(fortitude), O Arjuna, according to the Gunas, fully and severally to be
-set forth.
+(fortitude), O Arjuna, according to the Gunas, fully and severally to be set forth.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/29_buddherbhedan_dhR.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.29 Hear thou the threefold division of intellect and firmness
-according to the Gunas, as I declare them fully and distinctly, O
-Arjuna.
+18.29 Hear thou the threefold division of intellect and firmness according to the Gunas, as I declare them fully and distinctly, O Arjuna.
 
 </details>
 </div>
@@ -409,10 +398,7 @@ Arjuna.
 
 18.29 बुद्धेः of intellect; भेदम् division; धृतेः of firmness; च and; एव
 even; गुणतः according to alities; त्रिविधम् threefold; श्रृणु hear;
-प्रोच्यमानम् as I declare; अशेषेण fully; पृथक्त्वेन distinctly; धनञ्जय O
-Dhananjaya.Commentary Dhananjaya The coneror of wealth Arjuna is so
-called because he acired much material and spiritual wealth during his
-tours of conest (Digvijaya) to the four arters of the earth.
+प्रोच्यमानम् as I declare; अशेषेण fully; पृथक्त्वेन distinctly; धनञ्जय O Dhananjaya.Commentary Dhananjaya The coneror of wealth Arjuna is so called because he acired much material and spiritual wealth during his tours of conest (Digvijaya) to the four arters of the earth.
 
 </details>
 </div>

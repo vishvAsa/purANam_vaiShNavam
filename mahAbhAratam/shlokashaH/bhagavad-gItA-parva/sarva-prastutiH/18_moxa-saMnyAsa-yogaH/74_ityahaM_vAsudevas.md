@@ -406,42 +406,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.74. Sanjaya said Thus I have heard this wonderful and thrilling
-dailogue of Vasudeva and the mighty-minded son of Prtha.
+18.74. Sanjaya said Thus I have heard this wonderful and thrilling dailogue of Vasudeva and the mighty-minded son of Prtha.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.74 Sanjaya said I thus heard this conversation of Vasudeva and of the
-great-souled Partha, which is unie and makes one's hair stand on end.
+18.74 Sanjaya said I thus heard this conversation of Vasudeva and of the great-souled Partha, which is unie and makes one's hair stand on end.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.74 Sanjaya told: "Thus have I heard this rare, wonderful and
-soul-stirring discourse of the Lord Shri Krishna and the great-souled
-Arjuna.
+18.74 Sanjaya told: "Thus have I heard this rare, wonderful and soul-stirring discourse of the Lord Shri Krishna and the great-souled Arjuna.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.74 Sanjaya said Thus have I heard this wondrous dialogue between
-Vasudeva and the great-minded Arjuna, which makes my hair stand on end.
+18.74 Sanjaya said Thus have I heard this wondrous dialogue between Vasudeva and the great-minded Arjuna, which makes my hair stand on end.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/74_ityahaM_vAsudevas.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.74 Sanjaya said Thus I have heard this wonderful dialogue between
-Krishna and the high-souled Arjuna, which causes the hair to stand on
-end.
+18.74 Sanjaya said Thus I have heard this wonderful dialogue between Krishna and the high-souled Arjuna, which causes the hair to stand on end.
 
 </details>
 </div>
@@ -449,12 +442,7 @@ end.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.74 इति thus; अहम् I; वासुदेवस्य of Krishna; पार्थस्य of Arjuna; च
-and; महात्मनः highsouled; संवादम् dialogue; इमम् this; अश्रौषम् (I) have
-heard; अद्भुतम् wonderful; रोमहर्षणम् which causes the hair to stand on
-end.Commentary Wonderful because it deals with Yoga and transcendental
-spiritual matters that pertain to the mysterious immortal Self.Whenever
-good; higher emotions manifest themselves in the heart the hair stands
-on end. Devotees often experience this horripilation.
+and; महात्मनः highsouled; संवादम् dialogue; इमम् this; अश्रौषम् (I) have heard; अद्भुतम् wonderful; रोमहर्षणम् which causes the hair to stand on end.Commentary Wonderful because it deals with Yoga and transcendental spiritual matters that pertain to the mysterious immortal Self.Whenever good; higher emotions manifest themselves in the heart the hair stands on end. Devotees often experience this horripilation.
 
 </details>
 </div>

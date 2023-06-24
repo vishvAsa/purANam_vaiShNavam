@@ -75,9 +75,7 @@ _________________
 
 2.1 - 2.3 Sanjaya said - Lord said When Arjuna thus sat, the Lord,
 opposing his action, said: 'What is the reason for your misplaced grief;
-Arise for battle, abandoning this grief, which has arisen in a critical
-situation, which can come only in men of wrong understanding, which is
-an obstacle for reaching heaven, which does not confer fame on you,
+Arise for battle, abandoning this grief, which has arisen in a critical situation, which can come only in men of wrong understanding, which is an obstacle for reaching heaven, which does not confer fame on you,
 which is very mean, and which is caused by faint-heartedness.
 
 </details>
@@ -333,37 +331,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.2. The Bhagavat said O Arjuna ! At a critical moment, whence did this
-sinful act come to you which is practised by men of ignoble (low) birth
-and which is leading to the hell and is inglorious ;
+2.2. The Bhagavat said O Arjuna ! At a critical moment, whence did this sinful act come to you which is practised by men of ignoble (low) birth and which is leading to the hell and is inglorious ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.2 The Blessed Lord said O Arjuna, in this perilous place, whence has
-come to you this impurity entertained by unenlightened persons, which
-does not lead to heaven and which brings infamy;
+2.2 The Blessed Lord said O Arjuna, in this perilous place, whence has come to you this impurity entertained by unenlightened persons, which does not lead to heaven and which brings infamy;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.2 "The Lord said: My beloved friend! Why yield, just on the eve of
-battle, to this weakness which does no credit to those who call
-themselves Aryans, and only brings them infamy and bars against them the
-gates of heaven;
+2.2 "The Lord said: My beloved friend! Why yield, just on the eve of battle, to this weakness which does no credit to those who call themselves Aryans, and only brings them infamy and bars against them the gates of heaven;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.2 The Lord said Whence comes on you this despondency, O Arjuna, in
-this crisis; It is unift for a noble person. It is disgraceful and it
-obstructs one's attainment of heaven.
+2.2 The Lord said Whence comes on you this despondency, O Arjuna, in this crisis; It is unift for a noble person. It is disgraceful and it obstructs one's attainment of heaven.
 
 </details>
 </div>
@@ -371,16 +360,14 @@ obstructs one's attainment of heaven.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 2.2 The Blessed Lord said Whence is this perilous strait come upon thee,
-this dejection which is unworthy of you, disgraceful, and which will
-close the gates of heaven upon you, O Arjuna;
+this dejection which is unworthy of you, disgraceful, and which will close the gates of heaven upon you, O Arjuna;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/02_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.2 कुतः whence; त्वा upon thee; कश्मलम् dejection; इदम् this; विषमे in
-perilous strait; समुपस्थितम् comes; अनार्यजुष्टम् unworthy
+2.2 कुतः whence; त्वा upon thee; कश्मलम् dejection; इदम् this; विषमे in perilous strait; समुपस्थितम् comes; अनार्यजुष्टम् unworthy
 (unaryanlike); अस्वर्ग्यम् heavenexcluding; अकीर्तिकरम् disgraceful;
 अर्जुन O Arjuna.No commentary.
 

@@ -66,36 +66,13 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.6 - 13.7 The 'great elements, the Ahankara, the Buddhi and the
-Avyakta' are substances that originate the Ksetra. The 'great elements'
-are the earth, water, fire, air and ether. The 'Ahankara' here means
-Bhutadi (primeval element). The 'Buddhi' is called Mahat; the 'Avyakta'
-is known as the Prakrti. The 'ten senses and the one' and the five
-objects of senses are principles depending on the Ksetra. The 'five
-sensorial organs' are ear, skin, eye, tongue and nose. The five motor
-organs are speech, hands, feet, and the organs of excretion and
-reproduction. These are the ten senses. The Manas is the additional
+13.6 - 13.7 The 'great elements, the Ahankara, the Buddhi and the Avyakta' are substances that originate the Ksetra. The 'great elements'
+are the earth, water, fire, air and ether. The 'Ahankara' here means Bhutadi (primeval element). The 'Buddhi' is called Mahat; the 'Avyakta'
+is known as the Prakrti. The 'ten senses and the one' and the five objects of senses are principles depending on the Ksetra. The 'five sensorial organs' are ear, skin, eye, tongue and nose. The five motor organs are speech, hands, feet, and the organs of excretion and reproduction. These are the ten senses. The Manas is the additional
 'one' moe. The 'objects of the senses' are five - sound, touch, form,
-taste and smell. Desire, hatred, pleasure and pain, being the
-transformation of the Ksetra, are said to be the modifications of the
-Ksetra. Though desire, hatred, pleasure and pain are the alities of the
-self, yet they originate from the association of the self with the
-Ksetra. Sri Krsna will state that they are the attributes of the self;
-'In the experience of pleasure and pain, the self is said to be the
-cause' (13.20). The combination of elements serves as the support
-(Adhrti) of the intelligent self. As such, the word Adhrti means
-substratum. The combination of material elements has arisen as the
-substratum for the self to experience pleasure and pain, and for aciring
-worldly experiences and the final release. The combination of elements
-is formed by substances commencing from the Prakrti and ending with the
-earth; it is the basis of senses which are endowed with the
-modifications of the nature of desire, hatred, pleasure and pain. These
-form a Sanghata or an association of elements. It serves as the basis of
-the experience of pleasure and pain by the individual self. This is what
-is said of the Ksetra. This Ksetra has been explained briefly with its
-modifications and effects. Now certain alities, the effects of the
-Ksetra, worthy of being acired as being the means for securing the
-knowledge of the self, are enumerated.
+taste and smell. Desire, hatred, pleasure and pain, being the transformation of the Ksetra, are said to be the modifications of the Ksetra. Though desire, hatred, pleasure and pain are the alities of the self, yet they originate from the association of the self with the Ksetra. Sri Krsna will state that they are the attributes of the self;
+'In the experience of pleasure and pain, the self is said to be the cause' (13.20). The combination of elements serves as the support
+(Adhrti) of the intelligent self. As such, the word Adhrti means substratum. The combination of material elements has arisen as the substratum for the self to experience pleasure and pain, and for aciring worldly experiences and the final release. The combination of elements is formed by substances commencing from the Prakrti and ending with the earth; it is the basis of senses which are endowed with the modifications of the nature of desire, hatred, pleasure and pain. These form a Sanghata or an association of elements. It serves as the basis of the experience of pleasure and pain by the individual self. This is what is said of the Ksetra. This Ksetra has been explained briefly with its modifications and effects. Now certain alities, the effects of the Ksetra, worthy of being acired as being the means for securing the knowledge of the self, are enumerated.
 
 </details>
 </div>
@@ -433,9 +410,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.6. The \[five\] great elements, the Egotism. The Intellect, the
-Unmanifest, and also the ten organs and the one (organ and the) five
-objects of the sense-organs;
+13.6. The \[five\] great elements, the Egotism. The Intellect, the Unmanifest, and also the ten organs and the one (organ and the) five objects of the sense-organs;
 
 </details>
 </div>
@@ -451,25 +426,21 @@ the ten organs and the one, and the five objects of the senses;
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 13.6 The five great fundamentals (earth, fire, air, water and ether),
-personality, intellect, the mysterious life force, the ten organs of
-perception and action, the mind and the five domains of sensation;
+personality, intellect, the mysterious life force, the ten organs of perception and action, the mind and the five domains of sensation;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.6 The great elements, the Ahankara, the Buddhi, the Avyakta, the ten
-senses and the one, besides, the five objects of the senses;
+13.6 The great elements, the Ahankara, the Buddhi, the Avyakta, the ten senses and the one, besides, the five objects of the senses;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/06_mahAbhUtAnyahankA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.6 The great elements, egoism, intellect, and also the Unmanifested
-Nature, the ten senses and one (mind), and the five objects of the
-senses.
+13.6 The great elements, egoism, intellect, and also the Unmanifested Nature, the ten senses and one (mind), and the five objects of the senses.
 
 </details>
 </div>
@@ -479,41 +450,13 @@ senses.
 13.6 महाभूतानि the great elements; अहङ्कारः egoism; बुद्धिः intellect;
 अव्यक्तम् the unmanifested (MulaPrakriti); एव even; च and; इन्द्रियाणि
 the senses; दश ten; एकम् one; च and; पञ्च five; च and; इन्द्रियगोचराः
-objects of the senses.Commentary The field and its modifications are
-described in this verse. The twentyfour principles of the Sankhya school
-of philosophy are mentioned here.Great elements Earth; water; fire; air
-and ether are so called because they pervade all modifications of
-matter. The elements here referred to are the subtle; not the gross
-ones.Egoism is the cause of the great elements. It is the selfarrogating
-principle. Intellect is the cause of egoism. The function of the
-intellect is determination. Buddhi is the faculty of determination. The
-cause of the intellect is the Unmanifested (which is the
-undifferentiated energy of the Lord). (Cf.VII.14 Daivi hyesha gunamayi
-mama maya duratyaya -- This divine illusion of Mine; caused by the
-alities; is difficult to cross over.) The above Nature is divided
-eightfold (Cf.VII.4).The ten senses are the five organs of knowledge
-(ears; skin; eyes; tongue and nose); so called because they enable the
-mind to get knowledge of the external world; and the five organs of
-action (hands; feet; mouth; anus and the generative organ); so called
-because they perform actions.The one This is the mind. This is the
-eleventh sense whose function is thinking and doubting (Sankalpa and
-Vikalpa).The five objects of the senses are sound; touch; form (colour);
-taste and smell. These are the fivefol pastures of the senses.All the
-great elements; egoism; intellect; the senses and mind are all absorbed
-in the Unmanifested at the time of the cosmic dissolution.Mind is Maya.
-Mind is Avidya (ignorance). Mind is at the root of all activities. It
-gives strength to desires; fosters fear and builds castles in the air.
-It confers force on egoism and stimultates,aspirations. Every tendency
-has its origin in the mind. It augments passions; gives strength to hope
-and awakens the sense of duality. It increases ignorance and plunges the
-senses in the ocean of senseobjects. It creates distinctions and
-differences. It separates; divides and limits. It is a strong wall or an
-iron barrier that stands between the individual soul and the Absolute.
-It is this mind that has brought Brahman to the condition of the
-individual soul. It is the storehouse of error; cravings; doubt;
-delusion and ignorance. It is an everrevolving wheel that generates
-thoughts. It is a miraculous thoughtproducing machine. It creates at one
-moment. It destroys at the next moment.
+objects of the senses.Commentary The field and its modifications are described in this verse. The twentyfour principles of the Sankhya school of philosophy are mentioned here.Great elements Earth; water; fire; air and ether are so called because they pervade all modifications of matter. The elements here referred to are the subtle; not the gross ones.Egoism is the cause of the great elements. It is the selfarrogating principle. Intellect is the cause of egoism. The function of the intellect is determination. Buddhi is the faculty of determination. The cause of the intellect is the Unmanifested (which is the undifferentiated energy of the Lord). (Cf.VII.14 Daivi hyesha gunamayi mama maya duratyaya -- This divine illusion of Mine; caused by the alities; is difficult to cross over.) The above Nature is divided eightfold (Cf.VII.4).The ten senses are the five organs of knowledge
+(ears; skin; eyes; tongue and nose); so called because they enable the mind to get knowledge of the external world; and the five organs of action (hands; feet; mouth; anus and the generative organ); so called because they perform actions.The one This is the mind. This is the eleventh sense whose function is thinking and doubting (Sankalpa and Vikalpa).The five objects of the senses are sound; touch; form (colour);
+taste and smell. These are the fivefol pastures of the senses.All the great elements; egoism; intellect; the senses and mind are all absorbed in the Unmanifested at the time of the cosmic dissolution.Mind is Maya.
+Mind is Avidya (ignorance). Mind is at the root of all activities. It gives strength to desires; fosters fear and builds castles in the air.
+It confers force on egoism and stimultates,aspirations. Every tendency has its origin in the mind. It augments passions; gives strength to hope and awakens the sense of duality. It increases ignorance and plunges the senses in the ocean of senseobjects. It creates distinctions and differences. It separates; divides and limits. It is a strong wall or an iron barrier that stands between the individual soul and the Absolute.
+It is this mind that has brought Brahman to the condition of the individual soul. It is the storehouse of error; cravings; doubt;
+delusion and ignorance. It is an everrevolving wheel that generates thoughts. It is a miraculous thoughtproducing machine. It creates at one moment. It destroys at the next moment.
 
 </details>
 </div>

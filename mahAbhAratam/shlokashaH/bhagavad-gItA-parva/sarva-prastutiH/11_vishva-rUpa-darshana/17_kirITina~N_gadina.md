@@ -61,8 +61,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 11.17 I behold you a mass of light shining everywhere, hard to look at,
-blazing like a burning fire and the sun. You, who are identifiable with
-Your divine diadem, mace and discus, are indefinable and immeasurable.
+blazing like a burning fire and the sun. You, who are identifiable with Your divine diadem, mace and discus, are indefinable and immeasurable.
 
 </details>
 </div>
@@ -355,28 +354,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.17. I behold You as having crowns, clubs and discs; as a mass of
-radiance, shining on all sides, hard to look at and on each side blazing
-like burning fire and the sun; and as an immeasurable one.
+11.17. I behold You as having crowns, clubs and discs; as a mass of radiance, shining on all sides, hard to look at and on each side blazing like burning fire and the sun; and as an immeasurable one.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.17 I see You as wearing a diadem, wielding a mace, and holding a
-disc; a mass of brilliance glowing all around, difficult to look at from
-all sides, possessed of the radiance of the blazing fire and sun, and
-immeasurable.
+11.17 I see You as wearing a diadem, wielding a mace, and holding a disc; a mass of brilliance glowing all around, difficult to look at from all sides, possessed of the radiance of the blazing fire and sun, and immeasurable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.17 I see thee with the crown, the sceptre and the discus; a blaze of
-splendour. Scarce can I gaze on thee, so radiant thou art, glowing like
-the blazing fire, brilliant as the sun, immeasurable.
+11.17 I see thee with the crown, the sceptre and the discus; a blaze of splendour. Scarce can I gaze on thee, so radiant thou art, glowing like the blazing fire, brilliant as the sun, immeasurable.
 
 </details>
 </div>
@@ -384,17 +376,14 @@ the blazing fire, brilliant as the sun, immeasurable.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 11.17 I behold You as a mass of light shining everywhere, with diadem,
-mace and discus, hard to behold, blazing like a burning fire and the
-sun, and immeasurable.
+mace and discus, hard to behold, blazing like a burning fire and the sun, and immeasurable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/17_kirITina~N_gadina.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.17 I see Thee with the diadem, the club and the discus, a mass of
-radiance shining everywhere, very hard to look at, blazing all round
-like burning fire and the sun, and immeasurable.
+11.17 I see Thee with the diadem, the club and the discus, a mass of radiance shining everywhere, very hard to look at, blazing all round like burning fire and the sun, and immeasurable.
 
 </details>
 </div>
@@ -403,16 +392,8 @@ like burning fire and the sun, and immeasurable.
 
 11.17 किरीटिनम् one with diadem; गदिनम् with club; चक्रिणम् with discus;
 च and; तेजोराशिम् a mass of radiance; सर्वतः everywhere; दीप्तिमन्तम्
-shining; पश्यामि (I) see; त्वाम् Thee; दुर्निरीक्ष्यम् very hard to look
-at; समन्तात् all round; दीप्तानलार्कद्युतिम् blazing like burning fire
-and sun; अप्रमेयम् immeasurable.Commentary Kiritam is a special ornament
-for the head; the crown.Arjuna had worshipped the Lord as having a
-crown; club and discus and the Lord showed him the same form now. He is
-in all forms and He is beyond all forms as the transcendental Reality.
-Who can comprehend His GloryTejorasim A mass of splendour that cannot be
-perceived without the inner divine eye of intuition.Aprameyam
-Immeasurable; whose limits cannot be fixed.I infer from this vision of
-Thy power of Yoga that Thu art the Imperishable; etc.
+shining; पश्यामि (I) see; त्वाम् Thee; दुर्निरीक्ष्यम् very hard to look at; समन्तात् all round; दीप्तानलार्कद्युतिम् blazing like burning fire and sun; अप्रमेयम् immeasurable.Commentary Kiritam is a special ornament for the head; the crown.Arjuna had worshipped the Lord as having a crown; club and discus and the Lord showed him the same form now. He is in all forms and He is beyond all forms as the transcendental Reality.
+Who can comprehend His GloryTejorasim A mass of splendour that cannot be perceived without the inner divine eye of intuition.Aprameyam Immeasurable; whose limits cannot be fixed.I infer from this vision of Thy power of Yoga that Thu art the Imperishable; etc.
 
 </details>
 </div>

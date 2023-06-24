@@ -49,12 +49,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.29 Those who take refuge in Me and strive for deliverance from old age
-and death, i.e., for the vision of the real nature of the self as
-distinct from the Prakrti, they know brahman (the pure individual self).
+7.29 Those who take refuge in Me and strive for deliverance from old age and death, i.e., for the vision of the real nature of the self as distinct from the Prakrti, they know brahman (the pure individual self).
 They also know all about the individual self, and the whole of Karma.
-\[This attainment is known as Kaivalya, which means the aloofness of the
-self in absorption in Its own bliss.\]
+\[This attainment is known as Kaivalya, which means the aloofness of the self in absorption in Its own bliss.\]
 
 </details>
 </div>
@@ -391,39 +388,29 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.29. Those, who, relying on Me, strive to achieve freedom from old age
-and death-they realise all to be the Brahman and realise all the actions
-governing the Self.
+7.29. Those, who, relying on Me, strive to achieve freedom from old age and death-they realise all to be the Brahman and realise all the actions governing the Self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.29 Those who strive by resorting to Me for becoming free from old age
-and death, they know that Brahman, everything about the individual Self,
-and all about actions. \[They know Brahman as being all the individual
-entities and all actions. This verse prescribes meditation on the
-alified Brahman for aspirants of the middle class. Verses beginning with
-the 14the speak about the reaization of the unalified Brahman by
-aspirants of the highest class.\]
+7.29 Those who strive by resorting to Me for becoming free from old age and death, they know that Brahman, everything about the individual Self,
+and all about actions. \[They know Brahman as being all the individual entities and all actions. This verse prescribes meditation on the alified Brahman for aspirants of the middle class. Verses beginning with the 14the speak about the reaization of the unalified Brahman by aspirants of the highest class.\]
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.29 Those who make Me their refuge, who strive for liberation from
-decay and Death, they realise the Supreme Spirit, which is their own
-real Self, and in which all action finds its consummation.
+7.29 Those who make Me their refuge, who strive for liberation from decay and Death, they realise the Supreme Spirit, which is their own real Self, and in which all action finds its consummation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.29 Those who take refuge in Me and strive for deliverance from old age
-and death, know brahman (or the self) all about the nature of that self,
+7.29 Those who take refuge in Me and strive for deliverance from old age and death, know brahman (or the self) all about the nature of that self,
 and the entire Karma (or activities leading to rirth).
 
 </details>
@@ -431,9 +418,7 @@ and the entire Karma (or activities leading to rirth).
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/29_jarAmaraNamoxAya.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.29 Those who strive for liberation from old age and death, taking
-refuge in Me, realise in full ï1thatï1 Brahman, the whole knowledge of
-the Self and all action.
+7.29 Those who strive for liberation from old age and death, taking refuge in Me, realise in full ï1thatï1 Brahman, the whole knowledge of the Self and all action.
 
 </details>
 </div>
@@ -442,14 +427,8 @@ the Self and all action.
 
 7.29 जरामरणमोक्षाय for liberation from old age and death; माम् Me;
 आश्रित्य having taken refuge in; यतन्ति strive; ये who; ते they; ब्रह्म
-Brahman; तत् that; विदुः know; कृत्स्नम् the whole; अध्यात्मम् knowledge
-of the Self; कर्म action; च and; अखिलम् whole.Commentary They attain to
-the full knowledge of the Self or perfect knowledge of Brahman. They
-attain to the Bhuma or the Highest or the Unconditioned. All their
-doubts are totally destroyed. They fully realise now; All is Vaasudeva.
-All indeed is Brahman. There is no such thing as diversity.They are not
-rorn here and have thus conered old age and death. They are liberated
-here and now.
+Brahman; तत् that; विदुः know; कृत्स्नम् the whole; अध्यात्मम् knowledge of the Self; कर्म action; च and; अखिलम् whole.Commentary They attain to the full knowledge of the Self or perfect knowledge of Brahman. They attain to the Bhuma or the Highest or the Unconditioned. All their doubts are totally destroyed. They fully realise now; All is Vaasudeva.
+All indeed is Brahman. There is no such thing as diversity.They are not rorn here and have thus conered old age and death. They are liberated here and now.
 
 </details>
 </div>

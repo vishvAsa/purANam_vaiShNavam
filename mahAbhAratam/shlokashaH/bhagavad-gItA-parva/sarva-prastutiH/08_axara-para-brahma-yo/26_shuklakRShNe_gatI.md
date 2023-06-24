@@ -54,16 +54,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.26 The bright path is characterised by the terms 'starting with
-light.' The dark path is characterised by the 'terms starting with
-smoke.' By the bright path a man goes to the plane of no-return, but he
-who goes by the dark path returns again. In the Sruti both the bright
-and dark paths are said to be eternal in relation to Jnanis and doers of
-good actions of many kinds. This is corroborated in the text: 'Those who
-know this and those who worship with faith do Tapas in the forest etc.,
-they go to the light' (Cha. U., 5.10.1), and 'But those who in the
-village perform Vedic and secular acts of a meritorious nature and the
-giving of alms - they pass to the smoke' (ibid., 5.10.3).
+8.26 The bright path is characterised by the terms 'starting with light.' The dark path is characterised by the 'terms starting with smoke.' By the bright path a man goes to the plane of no-return, but he who goes by the dark path returns again. In the Sruti both the bright and dark paths are said to be eternal in relation to Jnanis and doers of good actions of many kinds. This is corroborated in the text: 'Those who know this and those who worship with faith do Tapas in the forest etc.,
+they go to the light' (Cha. U., 5.10.1), and 'But those who in the village perform Vedic and secular acts of a meritorious nature and the giving of alms - they pass to the smoke' (ibid., 5.10.3).
 
 </details>
 </div>
@@ -328,18 +320,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.26. For, these two bright and dark courses are considered to be
-perpetual for the world. One attains the non-return by the first of
-these, and one returns back by the other one.
+8.26. For, these two bright and dark courses are considered to be perpetual for the world. One attains the non-return by the first of these, and one returns back by the other one.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.26 These two courses of the world, which are white and black, are
-verily considered eternal. By the one a man goes to the State of
-Non-return; by the other he returns again.
+8.26 These two courses of the world, which are white and black, are verily considered eternal. By the one a man goes to the State of Non-return; by the other he returns again.
 
 </details>
 </div>
@@ -355,9 +343,7 @@ returns.\*
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/26_shuklakRShNe_gatI.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.26 The bright and the dark paths of the world are verily thought to be
-eternal; by the one (the bright path) a man goes not to return and by
-the other (the dark path) he returns.
+8.26 The bright and the dark paths of the world are verily thought to be eternal; by the one (the bright path) a man goes not to return and by the other (the dark path) he returns.
 
 </details>
 </div>
@@ -367,14 +353,8 @@ the other (the dark path) he returns.
 8.26 शुक्लकृष्णे bright and dark; गती (two) paths; हि verily; एते these;
 जगतः of the world; शाश्वते eternal; मते are thought; एकया by one; याति
 (he) goes; अनावृत्तिम् to nonreturn; अन्यया by another; आवर्तते (he)
-returns; पुनः again.Commentary The bright path is the path to the gods
-taken by the devotees. The dark path is of the manes taken by those who
-perform sacrifices or charitable acts with the expectation of rewards.
-These two paths are not open to the whole world. The bright path is open
-to the devotees and the dark one to those who are devoted to the
-rituals. These paths are as eternal as the Samsara.World here means
-devotees or people devoted to ritual.Pitriloka or Chandraloka is Svarga
-or heaven.
+returns; पुनः again.Commentary The bright path is the path to the gods taken by the devotees. The dark path is of the manes taken by those who perform sacrifices or charitable acts with the expectation of rewards.
+These two paths are not open to the whole world. The bright path is open to the devotees and the dark one to those who are devoted to the rituals. These paths are as eternal as the Samsara.World here means devotees or people devoted to ritual.Pitriloka or Chandraloka is Svarga or heaven.
 
 </details>
 </div>

@@ -407,18 +407,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.10. Many persons, who are free from passion, fear and anger; are full
-of Me; take refuge in Me; and have become pure by the austerity of
-wisdom-they have come to My being.
+4.10. Many persons, who are free from passion, fear and anger; are full of Me; take refuge in Me; and have become pure by the austerity of wisdom-they have come to My being.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.10 Many who were devoid of attachment, fear and anger, who were
-absorbed in Me, who had taken refuge in Me, and were purified by the
-austerity of Knowledge, have attained My state.
+4.10 Many who were devoid of attachment, fear and anger, who were absorbed in Me, who had taken refuge in Me, and were purified by the austerity of Knowledge, have attained My state.
 
 </details>
 </div>
@@ -426,25 +422,21 @@ austerity of Knowledge, have attained My state.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 4.10 Many have merged their existences in Mine, being freed from desire,
-fear and anger, filled always with Me and purified by the illuminating
-flame of self-abnegation.
+fear and anger, filled always with Me and purified by the illuminating flame of self-abnegation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.10 Freed from desire, fear and wrath, absorbed in Me, depending upon
-Me, purified by the austerity of knowledge, many have attained My state.
+4.10 Freed from desire, fear and wrath, absorbed in Me, depending upon Me, purified by the austerity of knowledge, many have attained My state.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/10_vItarAgabhayakrod.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.10 Freed from attachment, fear and anger, absorbed in Me, taking
-refuge in Me, purified by the fire of knowledge, many have attained to
-My Being.
+4.10 Freed from attachment, fear and anger, absorbed in Me, taking refuge in Me, purified by the fire of knowledge, many have attained to My Being.
 
 </details>
 </div>
@@ -456,15 +448,8 @@ absorbed in Me; माम् Me; उपाश्रिताः taking refuge in
 ज्ञानतपसा by the fire of knowledge; पूताः purified; मद्भावम् My Being;
 आगताः have attained.Commentary When one gets knowledge of the Self;
 attachment to senseobjects ceases. When he realises he is the constant;
-indestructible; eternal Self and that change is simply a ality of the
-body; then he becomes fearless. When he becomes desireless; when he is
-free from selfishness; when he beholds the Self only everywhere; how can
-anger arise in himHe who takes refuge in Brahman or the Absolute becomes
-firmly devoted to Him. He becomes,absorbed in Him (Brahmalina or
-Brahmanishtha). Jnanatapas is the fire of wisdom. Just as fire burns
-cotton; so also this Jnanatapas burns all the latent tendencies
-(Vasanas); cravings (Trishnas); mental impressions (Samskaras); sins and
-all actions; and purifies the aspirants. (Cf.II.56IV.19to37).
+indestructible; eternal Self and that change is simply a ality of the body; then he becomes fearless. When he becomes desireless; when he is free from selfishness; when he beholds the Self only everywhere; how can anger arise in himHe who takes refuge in Brahman or the Absolute becomes firmly devoted to Him. He becomes,absorbed in Him (Brahmalina or Brahmanishtha). Jnanatapas is the fire of wisdom. Just as fire burns cotton; so also this Jnanatapas burns all the latent tendencies
+(Vasanas); cravings (Trishnas); mental impressions (Samskaras); sins and all actions; and purifies the aspirants. (Cf.II.56IV.19to37).
 
 </details>
 </div>

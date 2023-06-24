@@ -42,17 +42,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -323,42 +314,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 1.45. Alas! What a great sinful act have we resolved to undertake ! For,
-out of greed for the joy of kingdom, we are striving to slay our own
-kinsfolk !
+out of greed for the joy of kingdom, we are striving to slay our own kinsfolk !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.45 What a pity that we have resolved to commit a great sin by being
-eager to kill our own kith and kin, out of greed for the pleasures of a
-kingdom!
+1.45 What a pity that we have resolved to commit a great sin by being eager to kill our own kith and kin, out of greed for the pleasures of a kingdom!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.45 Alas, it is strange that we should be willing to kill our own
-countrymen and commit a great sin, in order to enjoy the pleasures of a
-kingdom.
+1.45 Alas, it is strange that we should be willing to kill our own countrymen and commit a great sin, in order to enjoy the pleasures of a kingdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.45 Alas! We have resolved to commit a great sin in that we are ready
-to slay our kith and kin out of desire for sovereignty and enjoyments.
+1.45 Alas! We have resolved to commit a great sin in that we are ready to slay our kith and kin out of desire for sovereignty and enjoyments.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/45_aho_bata.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.45. Alas! We are involved in a great sin, in that we are prepared to
-kill our kinsmen, through greed for the pleasures of a kingdom.
+1.45. Alas! We are involved in a great sin, in that we are prepared to kill our kinsmen, through greed for the pleasures of a kingdom.
 
 </details>
 </div>
@@ -366,9 +350,7 @@ kill our kinsmen, through greed for the pleasures of a kingdom.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 1.45 अहो बत alas; महत् great; पापम् sin; कर्तुम् to do; व्यवसिताः
-prepared; वयम् we; यत् that; राज्यसुखलोभेन by the greed of pleasure of
-kingdom; हन्तुम् to kill; स्वजनम् kinsmen; उद्यताः prepared.No
-Commentary.
+prepared; वयम् we; यत् that; राज्यसुखलोभेन by the greed of pleasure of kingdom; हन्तुम् to kill; स्वजनम् kinsmen; उद्यताः prepared.No Commentary.
 
 </details>
 </div>

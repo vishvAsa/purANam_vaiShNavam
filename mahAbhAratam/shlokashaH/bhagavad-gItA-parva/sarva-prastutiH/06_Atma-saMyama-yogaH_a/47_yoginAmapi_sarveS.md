@@ -181,53 +181,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/47_yoginAmapi_sarveS.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.47 'Yoginam', which is the genitive case, has to be taken in the sense
-of the ablative. In the verses beginning with, 'He sees the self as
-abiding in all beings' (6.29), Yogins at four degrees of attainment have
-been mentioned. Since the Yogin who is now mentioned in this passage
-cannot be included in the four types mentioned earlier, the genitive
-case specifying one out of many will be inappropriate here. In 'api
-sarvesam,' those who practise austerities etc., are referred to by the
-word 'sarva' (all). According to the principle set forth, here also the
-case ending has to be taken as ablative. The meaning therefore is that
-the Yogin who is now referred to, is the most integrated compared with
-those mentioned earlier and all other types. Compared to this Yogin, the
-differences in point of superiority and inferiority among the other
-Yogins such as the performers of austerities etc., are of no
-significance like mustard-seeds compared to Mount Meru. Even though
-there exists smallness and bigness in relation to one another among
-mustard-seeds, still when compared to Meru, such distinctions among them
-have no significance, as they are all small compared to Meru. I consider
-him the most integrated who, with his innermost self, has his mind fixed
-on Me, on account of My being the only object of his overflowing love
-and also on account of his having a nature which cannot be supported by
-anything other than Myself; who has 'faith,' i.e., who strives rapidly
-to attain Me because of his being unable to bear a moment's separation
-from Me on account of My being very dear to him; and who 'worships Me,'
-i.e., serves Me with devotion and meditates on Me - Me whose sportive
-delight brings about the origination, sustentation and dissolution of
-the entire cosmos filled with multifarious and innumerable objects of
-enjoyment, enjoyers, means and places of enjoyment; who is untouched by
-any evil without exception; whose divine figure is the treasue-house of
-innumerable multitudes of auspicious, unlimited and unsurpassed
-attributes such as knowledge, power, lordship, energy, potency and
-splendour; whose divine figure is the treasure-house of infinite,
+6.47 'Yoginam', which is the genitive case, has to be taken in the sense of the ablative. In the verses beginning with, 'He sees the self as abiding in all beings' (6.29), Yogins at four degrees of attainment have been mentioned. Since the Yogin who is now mentioned in this passage cannot be included in the four types mentioned earlier, the genitive case specifying one out of many will be inappropriate here. In 'api sarvesam,' those who practise austerities etc., are referred to by the word 'sarva' (all). According to the principle set forth, here also the case ending has to be taken as ablative. The meaning therefore is that the Yogin who is now referred to, is the most integrated compared with those mentioned earlier and all other types. Compared to this Yogin, the differences in point of superiority and inferiority among the other Yogins such as the performers of austerities etc., are of no significance like mustard-seeds compared to Mount Meru. Even though there exists smallness and bigness in relation to one another among mustard-seeds, still when compared to Meru, such distinctions among them have no significance, as they are all small compared to Meru. I consider him the most integrated who, with his innermost self, has his mind fixed on Me, on account of My being the only object of his overflowing love and also on account of his having a nature which cannot be supported by anything other than Myself; who has 'faith,' i.e., who strives rapidly to attain Me because of his being unable to bear a moment's separation from Me on account of My being very dear to him; and who 'worships Me,'
+i.e., serves Me with devotion and meditates on Me - Me whose sportive delight brings about the origination, sustentation and dissolution of the entire cosmos filled with multifarious and innumerable objects of enjoyment, enjoyers, means and places of enjoyment; who is untouched by any evil without exception; whose divine figure is the treasue-house of innumerable multitudes of auspicious, unlimited and unsurpassed attributes such as knowledge, power, lordship, energy, potency and splendour; whose divine figure is the treasure-house of infinite,
 unsurpassed attributes agreeable and highly worthy, such as radiance,
-beauty, fragrance, tenderness, pervading sweetness and youthfulness
-which are uniform, inconceivable and divine, wondrous, eternal and
-flawless; whose essential nature and alities transcend all thought and
-words; who is the great ocean of compassion, condescension, paternal
-love and beauty; who is the impartial refuge of all beings without
-exception and without considerations of any difference; who is the
-reliever of the distress of supplicants; who is the great, unfathomable
-ocean of affection for supplicants; who has become visible to the eyes
-of all men without abandoning His essential nature; who has incarnated
-in the house of Vasudeva; who has made the entire would illumined with
-His limitless and excellent glory; and who has satisfied the entire
-universe with the impeccable glory of beauty. The idea is that I, who by
-Myself alone see all things directly as they are, look upon him, the
-last mentioned type of Yogi here, as superior to all other types
-mentioned earlier.
+beauty, fragrance, tenderness, pervading sweetness and youthfulness which are uniform, inconceivable and divine, wondrous, eternal and flawless; whose essential nature and alities transcend all thought and words; who is the great ocean of compassion, condescension, paternal love and beauty; who is the impartial refuge of all beings without exception and without considerations of any difference; who is the reliever of the distress of supplicants; who is the great, unfathomable ocean of affection for supplicants; who has become visible to the eyes of all men without abandoning His essential nature; who has incarnated in the house of Vasudeva; who has made the entire would illumined with His limitless and excellent glory; and who has satisfied the entire universe with the impeccable glory of beauty. The idea is that I, who by Myself alone see all things directly as they are, look upon him, the last mentioned type of Yogi here, as superior to all other types mentioned earlier.
 
 </details>
 </div>
@@ -538,17 +495,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/47_yoginAmapi_sarveS.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.47. He, who has faith and serves Me with his inner self gone to Me, he
-is considered by Me as the best master of Yoga, among all the men of
-Yoga.
+6.47. He, who has faith and serves Me with his inner self gone to Me, he is considered by Me as the best master of Yoga, among all the men of Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/47_yoginAmapi_sarveS.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.47 Even among all the yogis, he who adores Me with his mind fixed on
-Me and with faith,he is considered by Me to be the best of the yogis.
+6.47 Even among all the yogis, he who adores Me with his mind fixed on Me and with faith,he is considered by Me to be the best of the yogis.
 
 </details>
 </div>
@@ -563,33 +517,24 @@ worshippeth Me and abideth in Me."
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/47_yoginAmapi_sarveS.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.47 He who with faith worships Me, whose inmost self is fixed in Me, I
-consider him as the greatest of the Yogins.
+6.47 He who with faith worships Me, whose inmost self is fixed in Me, I consider him as the greatest of the Yogins.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/47_yoginAmapi_sarveS.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.47 And among all the Yogis he who, full of faith and with his inner
-self merged in Me, worships Me is deemed by Me to be the most devout.
+6.47 And among all the Yogis he who, full of faith and with his inner self merged in Me, worships Me is deemed by Me to be the most devout.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/47_yoginAmapi_sarveS.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-6.47 योगिनाम् of Yogis; अपि even; सर्वेषाम् of all; मद्गतेन merged in
-Me; अन्तरात्मना with inner Self; श्रद्धावान् endowed with faith; भजते
-worships; यः who; माम् Me; सः he; मे to Me; युक्ततमः most devout; मतः is
-deemed.Commentary Among all Yogis He who worships Me; the Absolute; is
-superior to those who worship the lesser gods such as the Vasus; Rudra;
+6.47 योगिनाम् of Yogis; अपि even; सर्वेषाम् of all; मद्गतेन merged in Me; अन्तरात्मना with inner Self; श्रद्धावान् endowed with faith; भजते
+worships; यः who; माम् Me; सः he; मे to Me; युक्ततमः most devout; मतः is deemed.Commentary Among all Yogis He who worships Me; the Absolute; is superior to those who worship the lesser gods such as the Vasus; Rudra;
 Aditya; etc.The inner self merged in Me The mind absorbed in Me;
-(Cf.VI.32);(This chapter is known by the names Atmasamyama Yoga and
-Adhyatma Yoga also.)Thus in the Upanishads of the glorious Bhagavad
-Gita; the science of the Eternal; the scripture of Yoga; the dialogue
-between Sri Krishna and Arjuna; ends the sixth discourse entitledThe
-Yoga of Meditation.  
+(Cf.VI.32);(This chapter is known by the names Atmasamyama Yoga and Adhyatma Yoga also.)Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the sixth discourse entitledThe Yoga of Meditation.  
   
 
 </details>

@@ -65,9 +65,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.28 - 11.29 These innumerable kings rush to their destruction in Your
-flaming mouths, even as many torrents of rivers flow towards the ocean
-and moths rush into a blazing fire.
+11.28 - 11.29 These innumerable kings rush to their destruction in Your flaming mouths, even as many torrents of rivers flow towards the ocean and moths rush into a blazing fire.
 
 </details>
 </div>
@@ -322,8 +320,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.29. Just as with full speed, the moths enter into the flaming fire
-for their own destruction, in the same manner the worlds also do enter,
+11.29. Just as with full speed, the moths enter into the flaming fire for their own destruction, in the same manner the worlds also do enter,
 for their own destruction with full speed, into the mouths of Yours.
 
 </details>
@@ -331,25 +328,21 @@ for their own destruction with full speed, into the mouths of Yours.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.29 As moths enter with increased haste into a glowing fire for
-destruction, in that very way do the creatures enter into Your mouths
-too, with increased hurry for destruction.
+11.29 As moths enter with increased haste into a glowing fire for destruction, in that very way do the creatures enter into Your mouths too, with increased hurry for destruction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.29 As moths fly impetuously to the flame only to be killed, so these
-men rush into Thy mouths to court their own destruction.
+11.29 As moths fly impetuously to the flame only to be killed, so these men rush into Thy mouths to court their own destruction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/29_yathA_pradIptam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.29 As moths rush swiftly into a blazing fire to their destruction, so
-do these men swiftly rush into Your mouths to meet their destruction.
+11.29 As moths rush swiftly into a blazing fire to their destruction, so do these men swiftly rush into Your mouths to meet their destruction.
 
 </details>
 </div>

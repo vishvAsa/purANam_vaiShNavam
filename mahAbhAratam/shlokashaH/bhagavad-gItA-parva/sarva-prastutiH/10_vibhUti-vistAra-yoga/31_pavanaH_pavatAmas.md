@@ -59,12 +59,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.31 Of moving things, namely, of things whose nature is to move, I am
-the wind. Of those who bear weapons, I am Rama. Here the ality of
-bearing weapons is the Vibhuti, as no other sense is possible. Aditya
-etc., being individual selves, constitute attributes of the Lord, who is
-their Self as they constitute His body. Therefore they stand in the same
-position of the attribute as that of bearing weapons.
+10.31 Of moving things, namely, of things whose nature is to move, I am the wind. Of those who bear weapons, I am Rama. Here the ality of bearing weapons is the Vibhuti, as no other sense is possible. Aditya etc., being individual selves, constitute attributes of the Lord, who is their Self as they constitute His body. Therefore they stand in the same position of the attribute as that of bearing weapons.
 
 </details>
 </div>
@@ -319,8 +314,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.31. Of the progenies of Diti (the demons), I am Prahlada; of the
-measuring ones, I am the shark; of rivers, I am the daughter of Jahnu
+10.31. Of the progenies of Diti (the demons), I am Prahlada; of the measuring ones, I am the shark; of rivers, I am the daughter of Jahnu
 (the Ganga).
 
 </details>
@@ -328,33 +322,28 @@ measuring ones, I am the shark; of rivers, I am the daughter of Jahnu
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.31 Of the purifiers I am air; among the wielders of weapons I am
-Rama. Among fishes, too, I am the shark; I am Ganga among rivers.
+10.31 Of the purifiers I am air; among the wielders of weapons I am Rama. Among fishes, too, I am the shark; I am Ganga among rivers.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.31 I am the Wind among purifiers, the King Rama among warriors; I am
-the Crocodile among the fishes, and I am the Ganges among rivers.
+10.31 I am the Wind among purifiers, the King Rama among warriors; I am the Crocodile among the fishes, and I am the Ganges among rivers.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.31 Of moving things, I am the wind. Of those who bear weapons, I am
-Rama. Of fishers, I am Makara, and of rivers, I am Ganga.
+10.31 Of moving things, I am the wind. Of those who bear weapons, I am Rama. Of fishers, I am Makara, and of rivers, I am Ganga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/31_pavanaH_pavatAmas.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.31 Among the purifiers (or the speeders) I am the wind; Rama among
-the warriors am I; among the fishes I am the shark; among the streams I
-am the Ganga.
+10.31 Among the purifiers (or the speeders) I am the wind; Rama among the warriors am I; among the fishes I am the shark; among the streams I am the Ganga.
 
 </details>
 </div>
@@ -364,10 +353,7 @@ am the Ganga.
 10.31 पवनः the wind; पवताम् among purifiers or the speeders; अस्मि (I)
 am; रामः Rama; शस्त्रभृताम् among wielders of weapons (warriors); अहम्
 I; झषाणाम् among fishes; मकरः Makara (shark); च and; अस्मि (I) am;
-स्रोतसाम् among streams; अस्मि (I) am; जाह्नवी the Ganga.Commentary The
-holy river Ganga (spelt Ganges in English) was swallowed by Jahnu when
-she was being brought down by Bhagiratha from heaven. Hence the name
-Jahnavi for Ganga.
+स्रोतसाम् among streams; अस्मि (I) am; जाह्नवी the Ganga.Commentary The holy river Ganga (spelt Ganges in English) was swallowed by Jahnu when she was being brought down by Bhagiratha from heaven. Hence the name Jahnavi for Ganga.
 
 </details>
 </div>

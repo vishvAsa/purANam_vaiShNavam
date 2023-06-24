@@ -74,11 +74,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.28 'Ayukta' is the doer who is unalified for acts enjoined by the
-Sastras; the meaning is that he is engaged in perverse acts; who is
-'unrefined', means one uninstructed; who is 'stubborn', means one who is
-not disposed to act; who is 'depraved' means one who has the taste for
-black magic etc; who is dishonest is one who is treacherous; who is
+18.28 'Ayukta' is the doer who is unalified for acts enjoined by the Sastras; the meaning is that he is engaged in perverse acts; who is
+'unrefined', means one uninstructed; who is 'stubborn', means one who is not disposed to act; who is 'depraved' means one who has the taste for black magic etc; who is dishonest is one who is treacherous; who is
 'indolent' is one who is not inclined to carry out actions undertaken;
 who is 'despondent' is one given to excessive despondency; and one who
 is 'dilatory', is a person who, while engaged in black magic, etc., pays
@@ -439,9 +436,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.28. The agent, who does not exert, is vulgar, obstinate and
-deceitful; who is a man of wickedness and is lazy, sorrowful, and
-procrastinating - that agent is said to be of the Tamas (Strand).
+18.28. The agent, who does not exert, is vulgar, obstinate and deceitful; who is a man of wickedness and is lazy, sorrowful, and procrastinating - that agent is said to be of the Tamas (Strand).
 
 </details>
 </div>
@@ -449,8 +444,7 @@ procrastinating - that agent is said to be of the Tamas (Strand).
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 18.28 The agent who is unsteady, naive, unbending, deceitful, wicked,
-\[A variant reading is naikrtikah.-Tr.\] lazy, morose and
-procrastinating is said to be possessed of tamas.
+\[A variant reading is naikrtikah.-Tr.\] lazy, morose and procrastinating is said to be possessed of tamas.
 
 </details>
 </div>
@@ -458,8 +452,7 @@ procrastinating is said to be possessed of tamas.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 18.28 While he whose purpose is infirm, who is low-minded, stubborn,
-dishonest, malicious, indolent, despondent, procrastinating - he may be
-assumed to be in Darkness.
+dishonest, malicious, indolent, despondent, procrastinating - he may be assumed to be in Darkness.
 
 </details>
 </div>
@@ -474,8 +467,7 @@ stubborn, depraved, dishonest, indolent, despondent and dilatory.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/28_ayuktaH_prAkRtaH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.28 Unsteady, vulgar, unbending, cheating, malicious, lazy, desponding
-and procrastinating such an agent is called Tamasic.
+18.28 Unsteady, vulgar, unbending, cheating, malicious, lazy, desponding and procrastinating such an agent is called Tamasic.
 
 </details>
 </div>
@@ -485,20 +477,8 @@ and procrastinating such an agent is called Tamasic.
 18.28 अयुक्तः unsteady; प्राकृतः vulgar; स्तब्धः unbending; शठः
 cheating; नैष्कृतिकः malicious; अलसः lazy; विषादी desponding;
 दीर्घसूत्री procrastinating; च and; कर्ता agent; तामसः Tamasic (dark);
-उच्यते is said.Commentary Owing to his vulgar nature he is not able to
-discriminate between proper and improper actions. His heart is filled
-with vanity. He will never prostrate himself before the deity or a sage.
-He is very stiff and unbending in his demeanour. He is the very
-embodiment of deceit; the abode of the passion for gambling and all such
-vices. He is ever ready to do evil actions. When an opportunity for his
-doing good occurs; he is utterly slothful and inactive; but he is very
-alert in doing evil.Prakritah Vulgar Quite uncultured in intellect one
-who is childish.Stabdhah Unbending (like a stick); not bowing down to
-anybody.Shathah Cheating concealing his real nature.Naishkritikah
-Creating arrels and disputes among the people.Alasah Lazy Not doing even
-that which ought to be done.Dirghasutri Postponing duties too long
-always slothful not performing even in a month what ought to be done
-today or tomorrow.
+उच्यते is said.Commentary Owing to his vulgar nature he is not able to discriminate between proper and improper actions. His heart is filled with vanity. He will never prostrate himself before the deity or a sage.
+He is very stiff and unbending in his demeanour. He is the very embodiment of deceit; the abode of the passion for gambling and all such vices. He is ever ready to do evil actions. When an opportunity for his doing good occurs; he is utterly slothful and inactive; but he is very alert in doing evil.Prakritah Vulgar Quite uncultured in intellect one who is childish.Stabdhah Unbending (like a stick); not bowing down to anybody.Shathah Cheating concealing his real nature.Naishkritikah Creating arrels and disputes among the people.Alasah Lazy Not doing even that which ought to be done.Dirghasutri Postponing duties too long always slothful not performing even in a month what ought to be done today or tomorrow.
 
 </details>
 </div>

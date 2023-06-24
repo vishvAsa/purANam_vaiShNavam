@@ -75,22 +75,10 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 9.19 I send out 'heat' in the form of fire, the sun etc. I 'hold back'
-the rain during summer. Likewise, I pour out the rains during the rainy
-season. I am 'immortality as well as death' - I am both these conditions
-through which the world lives and dies. Why say more; I am 'the being
-and the non-being.' Being is that which exists in the present time.
-Non-being is that which existed in the past and that which may exist in
-the future, but is not experienced now as existing. The meaning is that,
-I alone am existent, having all the entities for my modes, as all
-intelligent and inhert beings existing in all states, constitute My
-body. In this way, they (the wise) worship Me, contemplating, through
-the realisation of My essential unity, as the entire universe
-distinguished by names and forms and characterished by varied
-pluralities constituting My body. I alone exist; all the pluralities are
-only My modes. Thus, after depiciting the character of the noble-minded,
-whose enjoyment consists of only the experience of the Lord, and in
-order to bring into bolder relief their greatness, He describes the
-behaviour of ignorant men who covet the objects of desire.
+the rain during summer. Likewise, I pour out the rains during the rainy season. I am 'immortality as well as death' - I am both these conditions through which the world lives and dies. Why say more; I am 'the being and the non-being.' Being is that which exists in the present time.
+Non-being is that which existed in the past and that which may exist in the future, but is not experienced now as existing. The meaning is that,
+I alone am existent, having all the entities for my modes, as all intelligent and inhert beings existing in all states, constitute My body. In this way, they (the wise) worship Me, contemplating, through the realisation of My essential unity, as the entire universe distinguished by names and forms and characterished by varied pluralities constituting My body. I alone exist; all the pluralities are only My modes. Thus, after depiciting the character of the noble-minded,
+whose enjoyment consists of only the experience of the Lord, and in order to bring into bolder relief their greatness, He describes the behaviour of ignorant men who covet the objects of desire.
 
 </details>
 </div>
@@ -436,40 +424,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.19. I give heat; I hold back and also end forth rains; I am
-immortality and also death, the real and also the unreal, O Arjuna !
+9.19. I give heat; I hold back and also end forth rains; I am immortality and also death, the real and also the unreal, O Arjuna !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.19 O Arjuna, I give heat, I withhold and pour down rain. I am verily
-the nectar, and also death existence and nonexistence.
+9.19 O Arjuna, I give heat, I withhold and pour down rain. I am verily the nectar, and also death existence and nonexistence.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.19 I am the Heat of the Sun, I release and hold back the Rains. I am
-Death and Immortality; I am Being and Not-Being.
+9.19 I am the Heat of the Sun, I release and hold back the Rains. I am Death and Immortality; I am Being and Not-Being.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.19 I give heat. I hold back and send forth the rain. I am immortality
-as well as death, O Arjuna. I am the being, as also the non-being.
+9.19 I give heat. I hold back and send forth the rain. I am immortality as well as death, O Arjuna. I am the being, as also the non-being.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/19_tapAmyahamahaM_va.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.19 (As the sun) I give heat; I withhold and send forth the rain; I am
-immortality and also death, existence and non-existence, O Arjuna.
+9.19 (As the sun) I give heat; I withhold and send forth the rain; I am immortality and also death, existence and non-existence, O Arjuna.
 
 </details>
 </div>
@@ -478,41 +461,11 @@ immortality and also death, existence and non-existence, O Arjuna.
 
 9.19 तपामि give heat; अहम् I; अहम् I; वर्षम् rain; निगृह्णामि withhold;
 उत्सृजामि send forth; च and; अमृतम् immortality; च and; एव also; मृत्युः
-death; च and; सत् existence; असत् nonexistence; च and; अहम् I; अर्जुन O
-Arjuna.Commentary I radiate heat in the form of the sun. I send forth
-the rain in the form of Indra in the rainy season and I take it back
-during the rest of the year.Sat Existence; the manifested world (the
-effect).Asat Nonexistence; the unmanifested (the cause).Nonexistence
-does not mean nothingness. The subtle; unmanifested cause is spoken of
-as nonexitence. The Self or Brahman or the Eternal can never be
-altogether nonexistence. It always exists. It is Existence Absolute. If
-you say that the subtle unmanifested cause is nothing; it is impossible
-to conceive existence coming out of nothing. The Chhandogya Upanishad
-asks; How can existence come out of nonexistence It is simply absurd to
-conceive that existence has arisen out of nonexistence (nothing).For a
-Vedantin ( student or follower of Vedanta) Brahman (the Absolute) is Sat
-(existence) because It always exists and because It is unchanging. This
-manifested world is Asat or unreal. For the worldlyminded people who
-have neither understanding nor knowledge of Brahman; who are endowed
-with gross and impure mind; who do not have a sharp and subtle
-intellect; and who ca perceive the gross forms only; this manifested
-world is the Sat and the subtle unmanifested MulaPrakriti (the
-primordial Nature); the cause of this manifested world; is Asat. For
-them Brahman also is Asat. The unmanifested refers to MulaPrakriti and
-Para Brahman also because both are hidden.Every object has three states;
+death; च and; सत् existence; असत् nonexistence; च and; अहम् I; अर्जुन O Arjuna.Commentary I radiate heat in the form of the sun. I send forth the rain in the form of Indra in the rainy season and I take it back during the rest of the year.Sat Existence; the manifested world (the effect).Asat Nonexistence; the unmanifested (the cause).Nonexistence does not mean nothingness. The subtle; unmanifested cause is spoken of as nonexitence. The Self or Brahman or the Eternal can never be altogether nonexistence. It always exists. It is Existence Absolute. If you say that the subtle unmanifested cause is nothing; it is impossible to conceive existence coming out of nothing. The Chhandogya Upanishad asks; How can existence come out of nonexistence It is simply absurd to conceive that existence has arisen out of nonexistence (nothing).For a Vedantin ( student or follower of Vedanta) Brahman (the Absolute) is Sat
+(existence) because It always exists and because It is unchanging. This manifested world is Asat or unreal. For the worldlyminded people who have neither understanding nor knowledge of Brahman; who are endowed with gross and impure mind; who do not have a sharp and subtle intellect; and who ca perceive the gross forms only; this manifested world is the Sat and the subtle unmanifested MulaPrakriti (the primordial Nature); the cause of this manifested world; is Asat. For them Brahman also is Asat. The unmanifested refers to MulaPrakriti and Para Brahman also because both are hidden.Every object has three states;
 viz.; the gross (Sthula); the subtle (Sukshma) and the causal (Karana).
-Mahakarana (the great causeless cause) is Para Brahman. The gross and
-the subtle states are the effects of Karana. What you see outside is the
-physical body. This physical body is moved by the astral (the subtle)
-body made up of the mind; liferoce and the senses. The causal body is
-the seedbody. From this seedbody have sprung the subtle and the gross
-bodies. Take the case of an orange. The outer skin is its physical body
-the inner pulp or essence is the subtle body the innermost causal body
-which gives rise to the pulp and the outer skin is the seed. This is
-only a gross illustration. The orange has got another kind of subtle and
-causal bodies. The worldlyminded man beholds the physical body only and
-takes this as the Truth. For him; the astral and the causal bodies are
-unreal.
+Mahakarana (the great causeless cause) is Para Brahman. The gross and the subtle states are the effects of Karana. What you see outside is the physical body. This physical body is moved by the astral (the subtle)
+body made up of the mind; liferoce and the senses. The causal body is the seedbody. From this seedbody have sprung the subtle and the gross bodies. Take the case of an orange. The outer skin is its physical body the inner pulp or essence is the subtle body the innermost causal body which gives rise to the pulp and the outer skin is the seed. This is only a gross illustration. The orange has got another kind of subtle and causal bodies. The worldlyminded man beholds the physical body only and takes this as the Truth. For him; the astral and the causal bodies are unreal.
 
 </details>
 </div>

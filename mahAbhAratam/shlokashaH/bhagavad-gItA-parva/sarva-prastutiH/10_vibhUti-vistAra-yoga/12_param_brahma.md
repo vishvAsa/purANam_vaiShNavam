@@ -165,51 +165,19 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.12 - 10.13 Arjuna said You are He whom the Srutis proclaim as the
-Supreme Brahman, the Supreme Light, the Supreme Sanctifier. Thus the
-Srutis assert: 'From whom all these beings are born, by whom, when born,
-they live and unto whom they go when they perish - desire to know that
-well. This is Brahman' (Tai. U., 3.1.1); 'He who knows Brahman attains
-the Highest' (Ibid., 2.1.1); and 'He who knows the Supreme Brahman
-becomes the Brahman' (Mun. U., 3.2.9). Likewise He is the Supreme Light.
-The term 'Dhaman' connotes light. He is the Supreme Light as taught (in
-the Upanisads): 'Now, the light which shines higher than this heaven
-৷৷.' (Cha. U., 3.13. 7); 'Attaining the Supreme Light. He appears with
-His own form' (Ibid., 8.12.2); 'The gods worship Him as the Light of
-lights' (Br. U., 4.4.16). So also He is the Supreme Sanctifier: He makes
-the meditator bereft of all the impurities, and also destroyes them
-without any trace. The Srutis declares: 'As water clings not to the leaf
-of a lotus-flower, so evil deeds cling not to him who knows thus' (Cha.
-U., 4.14.3): 'Just as the fibre of Isika reed (reed-cotton) laid on a
-fire is burnt up, so also all his sins are burnt up' (Ibid., 5.24.3);
-and 'Narayana is Supreme Brahman, Narayana is Supreme Light, Narayana is
-Supreme Self' (Ma. Na., 9.4). Sages are those who know in reality the
-higher truth (the Supreme Brahman), and the lower truth (individual
-selves); they speak of You as the eternal Divine Person, Primal Lord,
-the unborn and all-pervading. So also divine sage Narada, Asita, Devala
-and Vyasa declare: 'This Narayana, Lord of Sri, the resident of the Milk
-Ocean, has come to the city of Mathura abandoning his Serpent-couch.'
-'Where Madhusudana is, there is the blessed Dvaravati. He is the Lord
-Himself, the ancient One and Eternal Dharma (Ma. Bh. Vana. 88. 24-25).
-Those who know the Vedas and those who know the self declare the
-great-minded Krsna to be the eternal Dharma. Of all sanctifiers, Govinda
-is said to be the most sanctifying, the most auspicious among the
-auspicious. The lotus-eyed God of gods, the eternal, abides as the three
-worlds ৷৷. Hari who is beyond thought, abides thus. Madhusudana is there
-alone' (Ma. Bha. Vana., 88.24-28). Similarly it is stated: 'O Arjuna,
-where the divine, the eternal Narayana the Supreme Self is, there the
-entire universe, the sacred water and the holy shrines are to be found.
-That is sacred, that is Supreme Brahman, that is sacred waters, that is
-the austerity grove ৷৷. there dwell the divine sages, the Siddhas and
-all those rich in austerities where the Primal Lord, the agent Yogin
-Madhusudana dwells. It is the most sacred among the sacred. For you, let
-there be no doubt about this' (Ibid., 90.28-32); 'Krsna Himself is the
-origin and dissolution of all beings. For, this universe, consisting of
-sentient and non-sentient entities, was generated for the sake of Krsna'
-(Ma. Bha. Sabha., 38.23). And you yourself say so in the passage
-beginning with 'Earth, water, fire, ether, mind, intellect and Ahankara
-- this Prakrti, which is divided eightfold, is Mine' (7.4) and ending
-with 'I am the origin of all; from Me proceed everything' (10.8).
+10.12 - 10.13 Arjuna said You are He whom the Srutis proclaim as the Supreme Brahman, the Supreme Light, the Supreme Sanctifier. Thus the Srutis assert: 'From whom all these beings are born, by whom, when born,
+they live and unto whom they go when they perish - desire to know that well. This is Brahman' (Tai. U., 3.1.1); 'He who knows Brahman attains the Highest' (Ibid., 2.1.1); and 'He who knows the Supreme Brahman becomes the Brahman' (Mun. U., 3.2.9). Likewise He is the Supreme Light.
+The term 'Dhaman' connotes light. He is the Supreme Light as taught (in the Upanisads): 'Now, the light which shines higher than this heaven
+৷৷.' (Cha. U., 3.13. 7); 'Attaining the Supreme Light. He appears with His own form' (Ibid., 8.12.2); 'The gods worship Him as the Light of lights' (Br. U., 4.4.16). So also He is the Supreme Sanctifier: He makes the meditator bereft of all the impurities, and also destroyes them without any trace. The Srutis declares: 'As water clings not to the leaf of a lotus-flower, so evil deeds cling not to him who knows thus' (Cha.
+U., 4.14.3): 'Just as the fibre of Isika reed (reed-cotton) laid on a fire is burnt up, so also all his sins are burnt up' (Ibid., 5.24.3);
+and 'Narayana is Supreme Brahman, Narayana is Supreme Light, Narayana is Supreme Self' (Ma. Na., 9.4). Sages are those who know in reality the higher truth (the Supreme Brahman), and the lower truth (individual selves); they speak of You as the eternal Divine Person, Primal Lord,
+the unborn and all-pervading. So also divine sage Narada, Asita, Devala and Vyasa declare: 'This Narayana, Lord of Sri, the resident of the Milk Ocean, has come to the city of Mathura abandoning his Serpent-couch.'
+'Where Madhusudana is, there is the blessed Dvaravati. He is the Lord Himself, the ancient One and Eternal Dharma (Ma. Bh. Vana. 88. 24-25).
+Those who know the Vedas and those who know the self declare the great-minded Krsna to be the eternal Dharma. Of all sanctifiers, Govinda is said to be the most sanctifying, the most auspicious among the auspicious. The lotus-eyed God of gods, the eternal, abides as the three worlds ৷৷. Hari who is beyond thought, abides thus. Madhusudana is there alone' (Ma. Bha. Vana., 88.24-28). Similarly it is stated: 'O Arjuna,
+where the divine, the eternal Narayana the Supreme Self is, there the entire universe, the sacred water and the holy shrines are to be found.
+That is sacred, that is Supreme Brahman, that is sacred waters, that is the austerity grove ৷৷. there dwell the divine sages, the Siddhas and all those rich in austerities where the Primal Lord, the agent Yogin Madhusudana dwells. It is the most sacred among the sacred. For you, let there be no doubt about this' (Ibid., 90.28-32); 'Krsna Himself is the origin and dissolution of all beings. For, this universe, consisting of sentient and non-sentient entities, was generated for the sake of Krsna'
+(Ma. Bha. Sabha., 38.23). And you yourself say so in the passage beginning with 'Earth, water, fire, ether, mind, intellect and Ahankara
+- this Prakrti, which is divided eightfold, is Mine' (7.4) and ending with 'I am the origin of all; from Me proceed everything' (10.8).
 
 </details>
 </div>
@@ -491,8 +459,7 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 10.12. - 10.13. Arjuna said You are the Supreme Brahman, Supreme Abode,
-Supreme Purifier. All the seers and also the divine seer Narada, Asita
-Devala, Vyasa describe You as the Eternal Divine Soul, the unborn,
+Supreme Purifier. All the seers and also the divine seer Narada, Asita Devala, Vyasa describe You as the Eternal Divine Soul, the unborn,
 all-manifesting First-God. You too say so to me.
 
 </details>
@@ -502,20 +469,15 @@ all-manifesting First-God. You too say so to me.
 
 10.12-10.13 Arjuna said You are the supreme Brahman, the supreme Light,
 the supreme Sanctifier. All the sages as also the divine sage Narada,
-Asita, Devala and Vyasa \[Although Narada and the other sages are
-already mentioned by the words 'all the sages', still they are named
-separately because of their eminence. Asita is the father of Devala.\]
-call You the eternal divine Person, the Primal God, the Birthless, the
-Omnipresent; and You Yourself verily tell me (so).
+Asita, Devala and Vyasa \[Although Narada and the other sages are already mentioned by the words 'all the sages', still they are named separately because of their eminence. Asita is the father of Devala.\]
+call You the eternal divine Person, the Primal God, the Birthless, the Omnipresent; and You Yourself verily tell me (so).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/12_param_brahma.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.12 Arjuna asked: Thou art the Supreme Spirit, the Eternal Home, the
-Holiest of the Holy, the Eternal Divine Self, the Primal God, the Unborn
-and the Omnipresent.
+10.12 Arjuna asked: Thou art the Supreme Spirit, the Eternal Home, the Holiest of the Holy, the Eternal Divine Self, the Primal God, the Unborn and the Omnipresent.
 
 </details>
 </div>
@@ -524,18 +486,14 @@ and the Omnipresent.
 
 10.12 - 10.13 Arjuna said You are Supreme Brahman, the Supreme Light,
 and the Supreme Sanctifier. All the seers proclaim You as the eternal,
-divine Person, the Primal Lord, the unborn and all-pervading. So also
-proclaim the divine sages Narada, Asita, Devala and Vyasa. You Yourself
-also proclaim this.
+divine Person, the Primal Lord, the unborn and all-pervading. So also proclaim the divine sages Narada, Asita, Devala and Vyasa. You Yourself also proclaim this.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/12_param_brahma.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.12 Arjuna said Thou art the Supreme Brahman, the supreme abode (or
-the supreme light), the supreme purifier, eternal, divine Person, the
-primeval God, unborn andn omnipresent.
+10.12 Arjuna said Thou art the Supreme Brahman, the supreme abode (or the supreme light), the supreme purifier, eternal, divine Person, the primeval God, unborn andn omnipresent.
 
 </details>
 </div>
@@ -545,18 +503,7 @@ primeval God, unborn andn omnipresent.
 10.12 परम् supreme; ब्रह्म Brahman; परम् supreme; धाम abode; पवित्रम्
 purifier; परमम् supreme; भवान् Thou; पुरुषम् Purusha; शाश्वतम् eternal;
 दिव्यम् divine; आदिदेवम् primeval God; अजम् unborn; विभुम्
-omnipresent.Commentary Param Brahma The highest Self. The word Param
-indicates the pure and attributeless Absolute; free from the limiting
-adjuncts. It is Satchidananda Brahman. The inferior Brahman is the
-Brahman with alities (Saguna) or Isvara; Brahman with the limiting
-adjuncts or the chosen object of meditation by the devotees.Param Dhama
-means Param Tejah or the supreme light. From the Creator down to the
-blade of grass the Supreme Being is the support or substratum. Therefore
-He is known as the supreme abode.Adideva The primeval God or the
-original God Who existed before all other gods. This God is Para Brahman
-Itself. It is selfluminous.Pavitram Paramam Supreme purifier. The sacred
-rivers and holy places of pilgrimage can remove only the sins but Para
-Brahman can destroy all sins and ignorance; the root cause of all sins.
+omnipresent.Commentary Param Brahma The highest Self. The word Param indicates the pure and attributeless Absolute; free from the limiting adjuncts. It is Satchidananda Brahman. The inferior Brahman is the Brahman with alities (Saguna) or Isvara; Brahman with the limiting adjuncts or the chosen object of meditation by the devotees.Param Dhama means Param Tejah or the supreme light. From the Creator down to the blade of grass the Supreme Being is the support or substratum. Therefore He is known as the supreme abode.Adideva The primeval God or the original God Who existed before all other gods. This God is Para Brahman Itself. It is selfluminous.Pavitram Paramam Supreme purifier. The sacred rivers and holy places of pilgrimage can remove only the sins but Para Brahman can destroy all sins and ignorance; the root cause of all sins.
 Therefore Para Brahman or the Supreme Self is the supreme purifier.
 
 </details>

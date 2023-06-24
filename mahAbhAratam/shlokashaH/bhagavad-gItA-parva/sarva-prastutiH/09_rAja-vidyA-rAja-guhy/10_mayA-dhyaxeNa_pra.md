@@ -70,17 +70,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.10 Therefore, My Prakrti, looked at by Me, through My will and under
-My supervision creates the world with its mobile and immobile beings in
-accordance with the Karma of individual selves. Because of this, namely,
+9.10 Therefore, My Prakrti, looked at by Me, through My will and under My supervision creates the world with its mobile and immobile beings in accordance with the Karma of individual selves. Because of this, namely,
 My look at Prakrti in conformity with the Karma of individual selves,
-the world revolves. Behold in this wonderful phenomena the lordly power
-inherent to Me, the son of Vasudeva, such as My sovereignty, true
-resolve and being devoid of cruelty and similar blemishes! So declare
-the Srutis: 'The possessor of Maya projects this universe out of this.
-The other (i.e., individual self) is confined by Maya in the world. One
-should know the Maya to be the Prakrti. And the possessor of Maya to be
-the Mighty Lord' (Sve. U., 4.9.10).
+the world revolves. Behold in this wonderful phenomena the lordly power inherent to Me, the son of Vasudeva, such as My sovereignty, true resolve and being devoid of cruelty and similar blemishes! So declare the Srutis: 'The possessor of Maya projects this universe out of this.
+The other (i.e., individual self) is confined by Maya in the world. One should know the Maya to be the Prakrti. And the possessor of Maya to be the Mighty Lord' (Sve. U., 4.9.10).
 
 </details>
 </div>
@@ -545,8 +538,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.10. O son of Kunti ! On account of Me, Who remain (only) as an
-observer and as prime cause, the nature \[of Mine\] gives birth to
+9.10. O son of Kunti ! On account of Me, Who remain (only) as an observer and as prime cause, the nature \[of Mine\] gives birth to
 \[both\] the moving and unmoving; hence this world moves in a circle.
 
 </details>
@@ -554,8 +546,7 @@ observer and as prime cause, the nature \[of Mine\] gives birth to
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.10 Under Me as the supervisor, the Prakrti produces (the world) of the
-moving and the non-moving things. Owing to this reason, O son of Kunti,
+9.10 Under Me as the supervisor, the Prakrti produces (the world) of the moving and the non-moving things. Owing to this reason, O son of Kunti,
 the world revolves.
 
 </details>
@@ -563,24 +554,21 @@ the world revolves.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.10 Under my guidance, Nature produces all things movable and
-immovable. Thus it is, O Arjuna, that this universe revolves.
+9.10 Under my guidance, Nature produces all things movable and immovable. Thus it is, O Arjuna, that this universe revolves.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.10 Under My supervision, Prakrti gives birth to all mobile and
-immobile entities. Because of this, O Arjuna, does the world revolve.
+9.10 Under My supervision, Prakrti gives birth to all mobile and immobile entities. Because of this, O Arjuna, does the world revolve.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/10_mayA-dhyaxeNa_pra.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.10 Under Me as supervisor, Nature produces the moving and the
-unmoving; because of this, O Arjuna, the world revolves.
+9.10 Under Me as supervisor, Nature produces the moving and the unmoving; because of this, O Arjuna, the world revolves.
 
 </details>
 </div>
@@ -588,28 +576,10 @@ unmoving; because of this, O Arjuna, the world revolves.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 9.10 मया by Me; अध्यक्षेण as supervisor; प्रकृतिः Nature; सूयते
-produces; सचराचरम् the moving and the unmoving; हेतुना by cause; अनेन by
-this; कौन्तेय O Kaunteya; जगत् the world; विपरिवर्तते
-revolves.Commentary The Lord presides only as a witness. Nature does
-everything. By reason of His proximity or presence; Nature sends forth
-the moving and the unmoving. The prime cause of this creation is Nature.
-For the movable and the immovable; and for the whole universe; the root
-cause is Nature itself.Although all actions are done with the help of
-the light of the sun; yet; the sun cannot become the doer of actions.
-Even so the Lord cannot become the doer of actions even though Nature
-does all actions with the help of the light of the Lord.As Brahman
-illumines Avidya (ignorance); the material cause of this world; It is
-regarded as the cause of this world. The magnet is ite indifferent
-although it makes the iron pieces move on account of its proximity. Even
-so the Lord remains indifferent although He makes Nature create the
-world.As the Lord and the Witness; He presides over this world which
-consists of moving and unmoving objects the manifested and the
-unmanifested wheel round and round.What is the purpose of creation Why
-has God created this world when He has really no concern with any
-enjoyment whatsoever This is a transcendental estion or Atiprasna. It is
-therefore irrelevant to ask or to answer this estion. You cannot say
-that God created this world for His own enjoyment because He really does
-not enjoy anything. He is a mere witness only. (Cf.X.8)
+produces; सचराचरम् the moving and the unmoving; हेतुना by cause; अनेन by this; कौन्तेय O Kaunteya; जगत् the world; विपरिवर्तते
+revolves.Commentary The Lord presides only as a witness. Nature does everything. By reason of His proximity or presence; Nature sends forth the moving and the unmoving. The prime cause of this creation is Nature.
+For the movable and the immovable; and for the whole universe; the root cause is Nature itself.Although all actions are done with the help of the light of the sun; yet; the sun cannot become the doer of actions.
+Even so the Lord cannot become the doer of actions even though Nature does all actions with the help of the light of the Lord.As Brahman illumines Avidya (ignorance); the material cause of this world; It is regarded as the cause of this world. The magnet is ite indifferent although it makes the iron pieces move on account of its proximity. Even so the Lord remains indifferent although He makes Nature create the world.As the Lord and the Witness; He presides over this world which consists of moving and unmoving objects the manifested and the unmanifested wheel round and round.What is the purpose of creation Why has God created this world when He has really no concern with any enjoyment whatsoever This is a transcendental estion or Atiprasna. It is therefore irrelevant to ask or to answer this estion. You cannot say that God created this world for His own enjoyment because He really does not enjoy anything. He is a mere witness only. (Cf.X.8)
 
 </details>
 </div>

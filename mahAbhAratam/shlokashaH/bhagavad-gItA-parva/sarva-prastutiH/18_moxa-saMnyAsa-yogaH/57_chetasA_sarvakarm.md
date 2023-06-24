@@ -55,15 +55,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.57 'By your mind' means with thought which considers the self as
-belonging to Me and as controlled by Me. For, it has been declared:
+18.57 'By your mind' means with thought which considers the self as belonging to Me and as controlled by Me. For, it has been declared:
 'Surrendering all your acts to Me with a mind focussed on the self'
-(3.30). Surrendering all acts to Me along with agentship and the object
-of worship and regarding 'Me as the goal,' i.e., constantly
-contemplating that I alone am to be attained as the goal; performing all
-acts; and resorting to Buddhi-Yoga - focus your mind on Me always.
-Buddhi Yoga here implies the mental attitude special to the seeker of
-salvation in regard to agency of works, the fruits etc. Thus
+(3.30). Surrendering all acts to Me along with agentship and the object of worship and regarding 'Me as the goal,' i.e., constantly contemplating that I alone am to be attained as the goal; performing all acts; and resorting to Buddhi-Yoga - focus your mind on Me always.
+Buddhi Yoga here implies the mental attitude special to the seeker of salvation in regard to agency of works, the fruits etc. Thus
 
 </details>
 </div>
@@ -488,43 +483,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.57. \[Hence\] renouncing by mind all actions in Me, O descendant of
-Bharata, and taking hold of the knowledge-Yoga, you must always be with
-your thought-organ \[turned\] towards Me.
+18.57. \[Hence\] renouncing by mind all actions in Me, O descendant of Bharata, and taking hold of the knowledge-Yoga, you must always be with your thought-organ \[turned\] towards Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.57 Mentally surrendering all actions to Me and accepting Me as the
-supreme, have your mind ever fixed on Me by resorting to the
-concentration of your intellect.
+18.57 Mentally surrendering all actions to Me and accepting Me as the supreme, have your mind ever fixed on Me by resorting to the concentration of your intellect.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.57 Surrender then thy actions unto Me, live in Me, concentrate thine
-intellect on Me, and think always of Me.
+18.57 Surrender then thy actions unto Me, live in Me, concentrate thine intellect on Me, and think always of Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.57 Surrendering all acts to me by your mind, thinking of Me as the
-goal, and resorting to Buddhi-yoga, focus your thought ever on Me.
+18.57 Surrendering all acts to me by your mind, thinking of Me as the goal, and resorting to Buddhi-yoga, focus your thought ever on Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/57_chetasA_sarvakarm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.57 Mentally renouncing all actions in Me, having Me as the highest
-goal, resorting to the Yoga of discrimination do thou ever fix thy mind
-on Me.
+18.57 Mentally renouncing all actions in Me, having Me as the highest goal, resorting to the Yoga of discrimination do thou ever fix thy mind on Me.
 
 </details>
 </div>
@@ -532,20 +519,8 @@ on Me.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.57 चेतसा mentally; सर्वकर्माणि all actions; मयि in Me; संन्यस्य
-resigning; मत्परः having Me as the highest goal; बुद्धियोगम् the Yoga of
-discrimination; उपाश्रित्य resorting to; मच्चित्तः with the mind fixed
-on Me; सततम् always; भव be.Commentary Do thou; O Arjuna; surrender all
-thy actions to Me whilst at the same time fixing thy mind on
-discrimination. Then through that discrimination thou wilt see thy Self
-as separate from the body and activity and existing in My pure Being.
-Chetasa Mentally with the discriminative faith that knowledge finally
-leads to liberation when the heart is purified through selfless works
-done with the spirit of offering to God.Sarvakarmani All actions
-producing visible and invisible results.Me The Lord As taught in verse
-27 of chapter IX Whatever thou doest; whatever thou eatest; etc.; do
-thou dedicate all thy actions to Me.Matparah Taking Me; Vaasudeva; as
-the supreme goal; and his whole self centred in Me.Resorting to Buddhi
-Yoga As thy sole refuge steadymindedness.
+resigning; मत्परः having Me as the highest goal; बुद्धियोगम् the Yoga of discrimination; उपाश्रित्य resorting to; मच्चित्तः with the mind fixed on Me; सततम् always; भव be.Commentary Do thou; O Arjuna; surrender all thy actions to Me whilst at the same time fixing thy mind on discrimination. Then through that discrimination thou wilt see thy Self as separate from the body and activity and existing in My pure Being.
+Chetasa Mentally with the discriminative faith that knowledge finally leads to liberation when the heart is purified through selfless works done with the spirit of offering to God.Sarvakarmani All actions producing visible and invisible results.Me The Lord As taught in verse 27 of chapter IX Whatever thou doest; whatever thou eatest; etc.; do thou dedicate all thy actions to Me.Matparah Taking Me; Vaasudeva; as the supreme goal; and his whole self centred in Me.Resorting to Buddhi Yoga As thy sole refuge steadymindedness.
 
 </details>
 </div>

@@ -59,18 +59,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.6 - 12.7 But those who, with a mind 'focused on Me,' the Supreme
-Self, and 'intent upon Me,' namely, holding Me as their sole object,
-dedicating to Me all their actions - i.e., including all worldly actions
-like eating which are meant for supporting the body, as also Vedic rites
-like sacrifices, gifts, fire-offerings, austerities etc., generally done
-by worldly-minded people for other purposes - worship Me and meditate on
-Me with exclusive devotion, namely, with devotion without any other
-purpose, adoring Me by all such acts as meditation, worship,
-prostration, praises and hymns which are by themselves exceedingly dear
-to them and are eal to the end itself - to these I become soon their
-saviour from the sea of Samsara which, on account of its being
-antagonistic to the attainment of Myself, is deadly.
+12.6 - 12.7 But those who, with a mind 'focused on Me,' the Supreme Self, and 'intent upon Me,' namely, holding Me as their sole object,
+dedicating to Me all their actions - i.e., including all worldly actions like eating which are meant for supporting the body, as also Vedic rites like sacrifices, gifts, fire-offerings, austerities etc., generally done by worldly-minded people for other purposes - worship Me and meditate on Me with exclusive devotion, namely, with devotion without any other purpose, adoring Me by all such acts as meditation, worship,
+prostration, praises and hymns which are by themselves exceedingly dear to them and are eal to the end itself - to these I become soon their saviour from the sea of Samsara which, on account of its being antagonistic to the attainment of Myself, is deadly.
 
 </details>
 </div>
@@ -423,41 +414,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 12.7. Of them, having their mind completely entered in Me, I become,
-before long, a redeemer from the ocean of the death-cycle, O son of
-Prtha !
+before long, a redeemer from the ocean of the death-cycle, O son of Prtha !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.7 O son of Prtha, for them who have their minds absorbed in Me, I
-become, without delay, the Deliverer from the sea of the world which is
-fraught with death.
+12.7 O son of Prtha, for them who have their minds absorbed in Me, I become, without delay, the Deliverer from the sea of the world which is fraught with death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.7 O Arjuna! I rescue them from the ocean of life and death, for their
-minds are fixed on Me.
+12.7 O Arjuna! I rescue them from the ocean of life and death, for their minds are fixed on Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.7 Of those whose minds are thus focused on Me, I become soon their
-saviour from the ocean of mortal life.
+12.7 Of those whose minds are thus focused on Me, I become soon their saviour from the ocean of mortal life.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/07_teShAmahaM_samudd.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.7 To those whose minds are set on Me, O Arjuna, verily I become ere
-long the saviour out of the ocean of Samsara.
+12.7 To those whose minds are set on Me, O Arjuna, verily I become ere long the saviour out of the ocean of Samsara.
 
 </details>
 </div>
@@ -465,17 +450,8 @@ long the saviour out of the ocean of Samsara.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 12.7 तेषाम् for them; अहम् I; समुद्धर्ता the saviour; मृत्युसंसारसागरात्
-out of the ocean of the mortal Samsara; भवामि (I) become; नचिरात् ere
-long; पार्थ O Arjuna; मयि in Me; आवेशितचेतसाम् of those whose minds are
-set.Commentary Mortal Samsara The round of birth and death. The devotee
-who does total; unconditional; and ungrudging selfsurrender to the Lord;
-who places himself completely at the mercy of the Lord; and who fixes of
-actions by offering them to the Lord and who thus destroys any power in
-the actions to bear fruit; and who has abandoned even the idea of
-liberation; is soon lifted by the Lord from the mortal plane to the
-abode of Immortality.I redeem such persons who have become Macchitta
-i.e.; mind united with Me; from the ocean of the mortal world or worldly
-life; without delay. (Cf.X.10.11XII.6and7)
+out of the ocean of the mortal Samsara; भवामि (I) become; नचिरात् ere long; पार्थ O Arjuna; मयि in Me; आवेशितचेतसाम् of those whose minds are set.Commentary Mortal Samsara The round of birth and death. The devotee who does total; unconditional; and ungrudging selfsurrender to the Lord;
+who places himself completely at the mercy of the Lord; and who fixes of actions by offering them to the Lord and who thus destroys any power in the actions to bear fruit; and who has abandoned even the idea of liberation; is soon lifted by the Lord from the mortal plane to the abode of Immortality.I redeem such persons who have become Macchitta i.e.; mind united with Me; from the ocean of the mortal world or worldly life; without delay. (Cf.X.10.11XII.6and7)
 
 </details>
 </div>

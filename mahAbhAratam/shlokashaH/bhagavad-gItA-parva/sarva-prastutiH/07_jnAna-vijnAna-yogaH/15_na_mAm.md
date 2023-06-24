@@ -72,21 +72,8 @@ _________________
 
 7.15 'Evil-doers', those who commit evil deeds, do not resort to Me.
 They are of four types, according to the degree of their evil deeds: (i)
-the foolish, (ii) the lowest of men, (iii) those persons deprived of
-knowledge by Maya, and (iv) those given to demoniac nature. 'The
-foolish' are those who have misconceived knowledge. True knowledge
-consists in understanding that the self is dependent on the Lord and
-exists for Him. But 'the foolish' think they are independent and also
-that all enjoyable things of the world are their own and for their
-enjoyment. 'The lowest of men' are those who are incapable of turning
-towards Me, even though My essential nature is known to them generally.
-'Persons who are deprived of knowledge by Maya' are those who, though
-possessing knowledge about Me and My manifestations, are moved by
-deceitful reasonings to contend that such knowledge is inconsistent and
-impossible. 'Those of demoniac nature' are those who have positive
-knowledge about Myself and My manifestation but hate Me. The intensity
-of sinfulness in these types in the order in which they are successively
-placed.
+the foolish, (ii) the lowest of men, (iii) those persons deprived of knowledge by Maya, and (iv) those given to demoniac nature. 'The foolish' are those who have misconceived knowledge. True knowledge consists in understanding that the self is dependent on the Lord and exists for Him. But 'the foolish' think they are independent and also that all enjoyable things of the world are their own and for their enjoyment. 'The lowest of men' are those who are incapable of turning towards Me, even though My essential nature is known to them generally.
+'Persons who are deprived of knowledge by Maya' are those who, though possessing knowledge about Me and My manifestations, are moved by deceitful reasonings to contend that such knowledge is inconsistent and impossible. 'Those of demoniac nature' are those who have positive knowledge about Myself and My manifestation but hate Me. The intensity of sinfulness in these types in the order in which they are successively placed.
 
 </details>
 </div>
@@ -391,17 +378,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.15. The deluded evil-doers, the vilest men, who are robbed of
-knowledge by the trick-of-Illusion and have taken refuge in the demoniac
-nature-they do not resort to Me.
+7.15. The deluded evil-doers, the vilest men, who are robbed of knowledge by the trick-of-Illusion and have taken refuge in the demoniac nature-they do not resort to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.15 The foolish evildoers, who are the most depraved among men, who are
-deprived of (their) wisdom by Maya, and who resort to demoniacal ways,
+7.15 The foolish evildoers, who are the most depraved among men, who are deprived of (their) wisdom by Maya, and who resort to demoniacal ways,
 do not take refuge in Me.
 
 </details>
@@ -409,8 +393,7 @@ do not take refuge in Me.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.15 The sinner, the ignorant, the vile, deprived of spiritual
-perception by the glamour of Illusion, and he who pursues a godless life
+7.15 The sinner, the ignorant, the vile, deprived of spiritual perception by the glamour of Illusion, and he who pursues a godless life
 - none of them shall find Me.
 
 </details>
@@ -418,18 +401,14 @@ perception by the glamour of Illusion, and he who pursues a godless life
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.15 The evil-doers, the foolish, the lowest of men, those persons
-deprived of knowledge by delusion (Maya) and those who are dominated by
-demoniac nature - they do not seek refuge in Me.
+7.15 The evil-doers, the foolish, the lowest of men, those persons deprived of knowledge by delusion (Maya) and those who are dominated by demoniac nature - they do not seek refuge in Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/15_na_mAm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.15 The evil-doers and the deluded who are the lowest of men do not
-seek Me; they whose knowledge is destroyed by illusion follow the ways
-of demons.
+7.15 The evil-doers and the deluded who are the lowest of men do not seek Me; they whose knowledge is destroyed by illusion follow the ways of demons.
 
 </details>
 </div>
@@ -439,16 +418,8 @@ of demons.
 7.15 न not; माम् to Me; दुष्कृतिनः evildoers; मूढाः the deluded;
 प्रपद्यन्ते seek; नराधमाः the lowest of men;,मायया by Maya; अपहृतज्ञानाः
 deprived of knowledge; आसुरम् belonging to demons; भावम् nature;
-आश्रिताः having taken to.Commentary These three kinds of people have no
-discrimination between right and wrong; the Real and the unreal. They
-commit murder; robbery; theft and other kinds of atrocious actions. They
-speak untruth and injure others in a variety of ways. Those who follow
-the ways of the demons take the body as the Self like Vivochana and
-worship it with flowers; scents; unguents; nice clothes and palatable
-foods of various sorts. They are deluded souls. They try to nourish
-their body and do various sorts of evil actions to attain this end.
-Therefore they do not worship Me. Ignorance is the root cause of all
-these evils. (Cf.XVI.16and20)
+आश्रिताः having taken to.Commentary These three kinds of people have no discrimination between right and wrong; the Real and the unreal. They commit murder; robbery; theft and other kinds of atrocious actions. They speak untruth and injure others in a variety of ways. Those who follow the ways of the demons take the body as the Self like Vivochana and worship it with flowers; scents; unguents; nice clothes and palatable foods of various sorts. They are deluded souls. They try to nourish their body and do various sorts of evil actions to attain this end.
+Therefore they do not worship Me. Ignorance is the root cause of all these evils. (Cf.XVI.16and20)
 
 </details>
 </div>

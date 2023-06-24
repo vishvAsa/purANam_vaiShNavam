@@ -106,27 +106,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.27 The term 'hi' (for) denotes cause. I, who am to be served by
-unswerving Bhakti Yoga, am 'the ground of the individual self, immortal
-and immutable, and also of eternal Dharma,' namely, surpassing eternal
-prosperity and also perfect felicity, i.e., of the felicity attained by
-the Jnanin stated in texts such as 'Realising that Vasudeva is all'
-(7.19). I, being of such nature, devotion to Me helps the Jiva to
-transcend the Gunas. Although the expression 'eternal Dharma' is
-indicative of the conduct to be observed, in the given context, it means
-the goal to be attained; for, what follows and what precedes it, denote
-the goal and not conduct. The purport is this: It has been stated that
-seeking refuge with the Lord is the only means for transcending the
-Gunas and the attainment of self-realisation, prosperity and the Supreme
-Being in the earlier text beginning with, 'For this divine Maya of Mine
-consisting of the three Gunas is hard to break through, except for those
-who take refuge in Me alone ৷৷.' (7.14). Thus, seeking surrender to the
-Lord with one-pointed mind is the only means for transcending the Gunas
-and for the attainment of the state of brahman through that. \[Here
-Prapatti, surrender to the Lord, is mentioned as a limb of unswerving
-Bhakti Yoga according to some interpreters. This is however a disputable
-point, as some maintain that Prapatti is in itself an independent
-path\].
+14.27 The term 'hi' (for) denotes cause. I, who am to be served by unswerving Bhakti Yoga, am 'the ground of the individual self, immortal and immutable, and also of eternal Dharma,' namely, surpassing eternal prosperity and also perfect felicity, i.e., of the felicity attained by the Jnanin stated in texts such as 'Realising that Vasudeva is all'
+(7.19). I, being of such nature, devotion to Me helps the Jiva to transcend the Gunas. Although the expression 'eternal Dharma' is indicative of the conduct to be observed, in the given context, it means the goal to be attained; for, what follows and what precedes it, denote the goal and not conduct. The purport is this: It has been stated that seeking refuge with the Lord is the only means for transcending the Gunas and the attainment of self-realisation, prosperity and the Supreme Being in the earlier text beginning with, 'For this divine Maya of Mine consisting of the three Gunas is hard to break through, except for those who take refuge in Me alone ৷৷.' (7.14). Thus, seeking surrender to the Lord with one-pointed mind is the only means for transcending the Gunas and for the attainment of the state of brahman through that. \[Here Prapatti, surrender to the Lord, is mentioned as a limb of unswerving Bhakti Yoga according to some interpreters. This is however a disputable point, as some maintain that Prapatti is in itself an independent path\].
 
 </details>
 </div>
@@ -599,8 +580,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.27. 'I' is the place of support for the immortal and changeless
-Brahman and for \[Its\] eternal attribute, the unalloyed Happiness.
+14.27. 'I' is the place of support for the immortal and changeless Brahman and for \[Its\] eternal attribute, the unalloyed Happiness.
 
 </details>
 </div>
@@ -615,24 +595,21 @@ the eternal, the Dharma and absolute Bliss.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.27 For I am the Home of the Spirit, the continual Source of
-immortality, of eternal Righteousness and of infinite Joy."
+14.27 For I am the Home of the Spirit, the continual Source of immortality, of eternal Righteousness and of infinite Joy."
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.27 For I am the ground of Brahman, the immortal and immutable, of
-eternal Dharma and of perfect bliss.
+14.27 For I am the ground of Brahman, the immortal and immutable, of eternal Dharma and of perfect bliss.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/27_brahmaNo_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.27 For I am the abode of Brahman, the immortal and the immutable, of
-everlasting Dharma and of absolute bliss.
+14.27 For I am the abode of Brahman, the immortal and the immutable, of everlasting Dharma and of absolute bliss.
 
 </details>
 </div>
@@ -644,24 +621,10 @@ everlasting Dharma and of absolute bliss.
 everlasting; च and; धर्मस्य of Dharma; सुखस्य of bliss; एकान्तिकस्य
 absolute; च and.Commentary The Self Which is immortal and immutable;
 Which is attainable by the eternal Dharma or the knowledge of the Self;
-Which is unending bliss; abides in Me; the Supreme Being.,I; the
-innermost Self; am the abode of the Supreme Self. The aspirant beholds;
-with the eye of intuition; that the innermost Self is the very Supreme
-Self; through Selfrealisation.The Lord bestows grace and mercy on His
-devotees through His Sakti; energy or power; or Maya. Sakti and the Lord
-are one. Just as heat is inseparable from fire; so also Maya or Sakti is
-inseparable from the Lord. Sakti cannot be distinct from the Lord in
-Whom She inheres.There is another interpretation. By Brahman here is
-meant the Brahman with attributes or alities; the conditioned Brahman.
-I; the Absolute Brahman; transcending the attributes or alities; the
-unconditioned Absolute; am the abode of the Saguna (conditioned) Brahman
-Who is immortal and imperishable. I am also the abode of the eternal
-Dharma of Jnananishtha (establishment in the highest wisdom) and the
-abode of the unending bliss born of that unswerving devotion.Thus in the
-Upanishads of the glorious Bhagavad Gita; the science of the Eternal;
-the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends
-the fourteenth discourse entitledThe Yoga of the Division of the Three
-Gunas.,
+Which is unending bliss; abides in Me; the Supreme Being.,I; the innermost Self; am the abode of the Supreme Self. The aspirant beholds;
+with the eye of intuition; that the innermost Self is the very Supreme Self; through Selfrealisation.The Lord bestows grace and mercy on His devotees through His Sakti; energy or power; or Maya. Sakti and the Lord are one. Just as heat is inseparable from fire; so also Maya or Sakti is inseparable from the Lord. Sakti cannot be distinct from the Lord in Whom She inheres.There is another interpretation. By Brahman here is meant the Brahman with attributes or alities; the conditioned Brahman.
+I; the Absolute Brahman; transcending the attributes or alities; the unconditioned Absolute; am the abode of the Saguna (conditioned) Brahman Who is immortal and imperishable. I am also the abode of the eternal Dharma of Jnananishtha (establishment in the highest wisdom) and the abode of the unending bliss born of that unswerving devotion.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal;
+the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the fourteenth discourse entitledThe Yoga of the Division of the Three Gunas.,
 
 </details>
 </div>

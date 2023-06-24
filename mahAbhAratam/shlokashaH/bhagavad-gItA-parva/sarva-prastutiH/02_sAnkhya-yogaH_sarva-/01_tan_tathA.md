@@ -76,9 +76,7 @@ _________________
 
 2.1 - 2.3 Sanjaya said - Lord said When Arjuna thus sat, the Lord,
 opposing his action, said: 'What is the reason for your misplaced grief;
-Arise for battle, abandoning this grief, which has arisen in a critical
-situation, which can come only in men of wrong understanding, which is
-an obstacle for reaching heaven, which does not confer fame on you,
+Arise for battle, abandoning this grief, which has arisen in a critical situation, which can come only in men of wrong understanding, which is an obstacle for reaching heaven, which does not confer fame on you,
 which is very mean, and which is caused by faint-heartedness.
 
 </details>
@@ -387,8 +385,7 @@ despondency, Madhusudana told this \[following\] sentence.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/01_tan_tathA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.1 Sanjaya said To him who had been thus filled with pity, whose eyes
-were filled with tears and showed distress, and who was sorrowing,
+2.1 Sanjaya said To him who had been thus filled with pity, whose eyes were filled with tears and showed distress, and who was sorrowing,
 Madhusudana uttered these words:
 
 </details>
@@ -396,27 +393,21 @@ Madhusudana uttered these words:
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/01_tan_tathA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.1 Sanjaya then told how the Lord Shri Krishna, seeing Arjuna
-overwhelmed with compassion, his eyes dimmed with flowing tears and full
-of despondency, consoled him:
+2.1 Sanjaya then told how the Lord Shri Krishna, seeing Arjuna overwhelmed with compassion, his eyes dimmed with flowing tears and full of despondency, consoled him:
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/01_tan_tathA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.1 Sanjaya said To him, who was thus overcome with pity, whose eyes
-were wet with tears, who was sorrow-stricken and who bore a bewildered
-look Sri Krsna spoke as follows:
+2.1 Sanjaya said To him, who was thus overcome with pity, whose eyes were wet with tears, who was sorrow-stricken and who bore a bewildered look Sri Krsna spoke as follows:
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/01_tan_tathA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.1 Sanjaya said To him who was thus overcome with pity and who was
-despondent, with eyes full of tears and agitated, Madhusudana (the
-destroyer of Madhu) or Krishna spoke these words.
+2.1 Sanjaya said To him who was thus overcome with pity and who was despondent, with eyes full of tears and agitated, Madhusudana (the destroyer of Madhu) or Krishna spoke these words.
 
 </details>
 </div>

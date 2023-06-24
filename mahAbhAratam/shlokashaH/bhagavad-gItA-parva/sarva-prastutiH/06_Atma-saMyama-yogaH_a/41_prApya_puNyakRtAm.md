@@ -65,14 +65,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.41 This person, who had wandered away from Yoga because of desire for
-whatever kind of enjoyments, he will gain those very enjoyments through
-the excellence of Yoga alone. Having attained to the worlds of those who
-do meritorious acts, he will dwell there for a long time, i.e., till his
-desire for such enjoyments gets exhausted. Then, devoid of desire for
-these enjoyment, this person who has swerved from Yoga at the very
-beginning of Yoga, is born, by virtue of the excellence of Yoga, in a
-family of those who are competent to practise Yoga.
+6.41 This person, who had wandered away from Yoga because of desire for whatever kind of enjoyments, he will gain those very enjoyments through the excellence of Yoga alone. Having attained to the worlds of those who do meritorious acts, he will dwell there for a long time, i.e., till his desire for such enjoyments gets exhausted. Then, devoid of desire for these enjoyment, this person who has swerved from Yoga at the very beginning of Yoga, is born, by virtue of the excellence of Yoga, in a family of those who are competent to practise Yoga.
 
 </details>
 </div>
@@ -356,37 +349,28 @@ having resided there for years of Sasvata, the fallen-from-Yoga is born
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.41 Attaining the worlds of the righteous, and residing there for
-eternal years, the man fallen from Yoga is born in the house of the
-pious and the properous.
+6.41 Attaining the worlds of the righteous, and residing there for eternal years, the man fallen from Yoga is born in the house of the pious and the properous.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.41 Having reached the worlds where the righteous dwell, and having
-remained there for many years, he who has slipped from the path of
-spirituality will be born again in the family of the pure, benevolent
-and prosperous.
+6.41 Having reached the worlds where the righteous dwell, and having remained there for many years, he who has slipped from the path of spirituality will be born again in the family of the pure, benevolent and prosperous.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.41 He who has fallen away from Yoga is born again in the house of the
-pure and prosperous after having attained to the worlds of doers of good
-deeds and dwelt there for many long years.
+6.41 He who has fallen away from Yoga is born again in the house of the pure and prosperous after having attained to the worlds of doers of good deeds and dwelt there for many long years.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/41_prApya_puNyakRtAm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.41 Having attained to the worlds of the righteous and having dwelt
-there for everlasting years, he who fell from Yoga is rorn in a house of
-the pure and wealthy.
+6.41 Having attained to the worlds of the righteous and having dwelt there for everlasting years, he who fell from Yoga is rorn in a house of the pure and wealthy.
 
 </details>
 </div>
@@ -395,18 +379,8 @@ the pure and wealthy.
 
 6.41 प्राप्य having attained; पुण्यकृताम् of the righteous; लोकान्
 worlds; उषित्वा having dwelt; शाश्वतीः everlasting; समाः years; शुचीनाम्
-of the pure; श्रीमताम् of the wealty; गेहे in the house; योगभ्रष्टः one
-fallen from Yoga; अभिजायते is born.Commentary Yogabhrashta one who has
-fallen from Yoga; i.e.; one who was not able to attain perfection in
-Yoga; or one who climbed a certain height on the ladder of Yoga but fell
-down on account of lack of dispassion or slackness in the practice (by
-becoming a victim to Maya or his turbulent senses).The righteous Those
-who tread the path of truth; who do virtuous actions such as charity;
-Yajna; rituals; worship of the Lord; and who act in accordance with the
-prescribed rules of the scriptures.Everlasting years means only a
-considerably long period but not absolutely everlasting.The pure those
-who lead a pure; moral life those who have a pure heart (free from
-jealousy; hatred; pride; greed; etc.). (Cf.IX.20;21)
+of the pure; श्रीमताम् of the wealty; गेहे in the house; योगभ्रष्टः one fallen from Yoga; अभिजायते is born.Commentary Yogabhrashta one who has fallen from Yoga; i.e.; one who was not able to attain perfection in Yoga; or one who climbed a certain height on the ladder of Yoga but fell down on account of lack of dispassion or slackness in the practice (by becoming a victim to Maya or his turbulent senses).The righteous Those who tread the path of truth; who do virtuous actions such as charity;
+Yajna; rituals; worship of the Lord; and who act in accordance with the prescribed rules of the scriptures.Everlasting years means only a considerably long period but not absolutely everlasting.The pure those who lead a pure; moral life those who have a pure heart (free from jealousy; hatred; pride; greed; etc.). (Cf.IX.20;21)
 
 </details>
 </div>

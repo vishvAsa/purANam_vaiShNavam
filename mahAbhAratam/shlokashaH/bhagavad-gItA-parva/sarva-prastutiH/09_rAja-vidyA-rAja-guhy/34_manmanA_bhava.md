@@ -180,54 +180,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.34 Focus your mind on Me; fix your mind on Me uninterruptedly like a
-continous stream of oil - on Me the Ruler of rulers, antagonistic to all
-that is evil, the sole abode of auspiciousness, omniscient, whose
-resolve is always true, the sole cause of the entire universe, the
-Supreme Brahman, the Supreme Person; on Me, of long large eyes like a
-lotus petal; who has the complexion of a clear blue cloud; whose shining
-lustre is like that of a thousand suns simultaneously risen; on Me, the
-great ocean of the nectar of beauty; of four arms, noble and strong, and
-of brilliant yellow raiment; on Me, adorned with a pure crown,
-fish-shaped ear-rings, garlands, bracelet on the arms and bangles at the
-wrist; on Me, the ocean of infinite mercy, affability, beauty,
-sweetness, majesty, magnanimity and parental affection; on Me, the
-refuge of all without exception and without regard to their differences;
-on Me the Lord of all. Sri Krsna again makes the same clear. Be My
-devotee. Be one whose mind is focussed on Me by contemplating on Me as
-exceedingly dear. Such is the meaning. He makes thie yet clearer. Be My
-worshipper, namely, become engaged in My worship, which you have begun
-to practise by your experience of Me as supremely dear and unlimited and
-unsurpassed. What is called worship is the conduct of one who realises
-that he is absolutely a subsidiary - (Sesa) of God. Worship consists
-also in offering all things of enjoyment such as waving of lights etc.,
-all those things which come into bodily contact like garlands, sandal
-paste etc., and those meant for offering like food preparations and
-other edibles. The meaning is this: Let your mind be focussed on Me so
-as to be engaged in My worship, resulting from love which is unlimited
-and unsurpassed and which is born from the experience of Myself. Again
-Sri Krsna expounds the same: Bow down to Me. Do not be satisfied only
-with services of one who is absolutely subsidiary to me. Do services
-which are incomparably dear and animated by an experience of Myself who
-is dear and unlimited and unsurpassed. Also bow down to Me in utter
-humility, regarding Me as the supreme goal, i.e., He who is the supreme
-abode and the supreme goal. The meaning is that having resorted to Me,
-it is impossible for you to live without Me. Having disciplined the mind
-in this way and considering Me as the supreme goal, you will thus,
-through love which is unsurpassed and incomparable, obtain a mind which
-is fit for experiencing Me. You will then reach Me alone. Here the term
-Atman stands for the mind. The import is that, holding Me as the sole
-support, possesing a mind of this kind, meditating on Me, experiencing
-Me, worshipping Me and bowing down to Me - you will reach Me alone.
-Thus, with such a turn of mind you carry on, for pleasing Me alone, your
-secular works for bodily sustenance and Vedic activities like obligatory
-and occasional rites, regarding them as actuated by Me and finding sole
-joy in absolute subservience to Me. You shall ever engage yourself in
-praising My names with love and in endeavouring to serve Me and bowing
-down to Me etc. You shall contemplate on the entire universe as being
-under My rule and being subsidiary (Sesa) to Me. Contemplating on the
-multitudes of My attributes, which are exceedingly dear to you, and
-practising every day this worship as described, you will reach Me alone.
+9.34 Focus your mind on Me; fix your mind on Me uninterruptedly like a continous stream of oil - on Me the Ruler of rulers, antagonistic to all that is evil, the sole abode of auspiciousness, omniscient, whose resolve is always true, the sole cause of the entire universe, the Supreme Brahman, the Supreme Person; on Me, of long large eyes like a lotus petal; who has the complexion of a clear blue cloud; whose shining lustre is like that of a thousand suns simultaneously risen; on Me, the great ocean of the nectar of beauty; of four arms, noble and strong, and of brilliant yellow raiment; on Me, adorned with a pure crown,
+fish-shaped ear-rings, garlands, bracelet on the arms and bangles at the wrist; on Me, the ocean of infinite mercy, affability, beauty,
+sweetness, majesty, magnanimity and parental affection; on Me, the refuge of all without exception and without regard to their differences;
+on Me the Lord of all. Sri Krsna again makes the same clear. Be My devotee. Be one whose mind is focussed on Me by contemplating on Me as exceedingly dear. Such is the meaning. He makes thie yet clearer. Be My worshipper, namely, become engaged in My worship, which you have begun to practise by your experience of Me as supremely dear and unlimited and unsurpassed. What is called worship is the conduct of one who realises that he is absolutely a subsidiary - (Sesa) of God. Worship consists also in offering all things of enjoyment such as waving of lights etc.,
+all those things which come into bodily contact like garlands, sandal paste etc., and those meant for offering like food preparations and other edibles. The meaning is this: Let your mind be focussed on Me so as to be engaged in My worship, resulting from love which is unlimited and unsurpassed and which is born from the experience of Myself. Again Sri Krsna expounds the same: Bow down to Me. Do not be satisfied only with services of one who is absolutely subsidiary to me. Do services which are incomparably dear and animated by an experience of Myself who is dear and unlimited and unsurpassed. Also bow down to Me in utter humility, regarding Me as the supreme goal, i.e., He who is the supreme abode and the supreme goal. The meaning is that having resorted to Me,
+it is impossible for you to live without Me. Having disciplined the mind in this way and considering Me as the supreme goal, you will thus,
+through love which is unsurpassed and incomparable, obtain a mind which is fit for experiencing Me. You will then reach Me alone. Here the term Atman stands for the mind. The import is that, holding Me as the sole support, possesing a mind of this kind, meditating on Me, experiencing Me, worshipping Me and bowing down to Me - you will reach Me alone.
+Thus, with such a turn of mind you carry on, for pleasing Me alone, your secular works for bodily sustenance and Vedic activities like obligatory and occasional rites, regarding them as actuated by Me and finding sole joy in absolute subservience to Me. You shall ever engage yourself in praising My names with love and in endeavouring to serve Me and bowing down to Me etc. You shall contemplate on the entire universe as being under My rule and being subsidiary (Sesa) to Me. Contemplating on the multitudes of My attributes, which are exceedingly dear to you, and practising every day this worship as described, you will reach Me alone.
 
 </details>
 </div>
@@ -772,8 +732,7 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 9.34. Have your mind fixed on Me; be My devotee; offer scrifice to Me;
-\[and\] pay homage to Me; thus fixing your self (internal organ) and
-having Me as your supreme goal, you shall certainly attain Me.
+\[and\] pay homage to Me; thus fixing your self (internal organ) and having Me as your supreme goal, you shall certainly attain Me.
 
 </details>
 </div>
@@ -781,8 +740,7 @@ having Me as your supreme goal, you shall certainly attain Me.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 9.34 Having your mind fixed on Me, be devoted to Me, sacrifice to Me,
-and bow down to Me. By concentrating your mind and accepting Me as the
-supreme Goal, you shall surely attain Me who am thus the Self.
+and bow down to Me. By concentrating your mind and accepting Me as the supreme Goal, you shall surely attain Me who am thus the Self.
 
 </details>
 </div>
@@ -790,26 +748,21 @@ supreme Goal, you shall surely attain Me who am thus the Self.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 9.34 Fix thy mind on Me, devote thyself to Me, sacrifice for Me,
-surrender to Me, make Me the object of thy aspirations, and thou shalt
-assuredly become one with Me, Who am thine own Self."
+surrender to Me, make Me the object of thy aspirations, and thou shalt assuredly become one with Me, Who am thine own Self."
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.34 Focus your mind on Me, be My devotee, be my worshipper. Bow down to
-Me. Engaging your mind in this manner and regarding Me as the supreme
-goal, you will come to Me.
+9.34 Focus your mind on Me, be My devotee, be my worshipper. Bow down to Me. Engaging your mind in this manner and regarding Me as the supreme goal, you will come to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/34_manmanA_bhava.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.34 Fix thy mind on Me; by devoted to Me; sacrifice unto Me; bow down
-to Me; having thus united thy whole self to Me, taking Me as the supreme
-goal, thou shalt come unto Me.
+9.34 Fix thy mind on Me; by devoted to Me; sacrifice unto Me; bow down to Me; having thus united thy whole self to Me, taking Me as the supreme goal, thou shalt come unto Me.
 
 </details>
 </div>
@@ -817,27 +770,9 @@ goal, thou shalt come unto Me.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 9.34 मन्मनाः with mind filled with Me; भव be thou; मद्भक्तः My devotee;
-मद्याजी sacrificing unto Me; माम्,unto Me; नमस्कुरु bow down; माम् to
-Me; एव alone; एष्यसि thou shalt come; युक्त्वा having united; एवम् thus;
-आत्मानम् the self; मत्परायणः taking Me as the Supreme Goal.Commentary
-Fill thy mind with Me. Fix your head; heart and hands on Me. Get your
-heart in tune with Me. Become a true worshipper. You will secure eternal
-bliss. Having known Me; you will cross beyond death.The whole being of
-man should be surrendered to the Lord without reservation. Then the
-whole life will undergo a wonderful transformation. You will have the
-vision of God everywhere. All sorrows and pains will vanish. Your mind
-will be one with the divine consciousness.Just as the potether becomes
-one with the universal ether when the limiting adjunct (pot) is broken;
-just as the Ganga and the Yamuna; leaving their names and forms become
-one with the ocean; so also the sage gets rid of Avidya and all sorts of
-limiting adjuncts through the direct realisation of the Self and becomes
-identical with Para Brahman.Yukta means steadied in thought; having thus
-fixed the mind on the Lord; knowing that I am the Self of all beings and
-the highest goal. (Cf.V.17VII.7;14XVIII.65)(This chapter is known by the
-name Adhyatma Yoga also.)Thus in the Upanishads of the glorious Bhagavad
-Gita; the science of the Eternal; the scripture of Yoga; the dialogue
-between Sri Krishna and Arjuna; ends the ninth discourse entitledThe
-Yoga of the Kingly Science and the Kingly Secret.,
+मद्याजी sacrificing unto Me; माम्,unto Me; नमस्कुरु bow down; माम् to Me; एव alone; एष्यसि thou shalt come; युक्त्वा having united; एवम् thus;
+आत्मानम् the self; मत्परायणः taking Me as the Supreme Goal.Commentary Fill thy mind with Me. Fix your head; heart and hands on Me. Get your heart in tune with Me. Become a true worshipper. You will secure eternal bliss. Having known Me; you will cross beyond death.The whole being of man should be surrendered to the Lord without reservation. Then the whole life will undergo a wonderful transformation. You will have the vision of God everywhere. All sorrows and pains will vanish. Your mind will be one with the divine consciousness.Just as the potether becomes one with the universal ether when the limiting adjunct (pot) is broken;
+just as the Ganga and the Yamuna; leaving their names and forms become one with the ocean; so also the sage gets rid of Avidya and all sorts of limiting adjuncts through the direct realisation of the Self and becomes identical with Para Brahman.Yukta means steadied in thought; having thus fixed the mind on the Lord; knowing that I am the Self of all beings and the highest goal. (Cf.V.17VII.7;14XVIII.65)(This chapter is known by the name Adhyatma Yoga also.)Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the ninth discourse entitledThe Yoga of the Kingly Science and the Kingly Secret.,
 
 </details>
 </div>

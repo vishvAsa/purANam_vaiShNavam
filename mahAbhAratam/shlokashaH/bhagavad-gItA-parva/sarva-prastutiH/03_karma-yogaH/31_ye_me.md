@@ -84,12 +84,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/31_ye_me.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.31 There are those persons who are alified to understand the Sastras
-and decide for themselves what is My doctrine, and follow them
-accordingly; there are others who are full of faith in the meaning of
-the Sastras without however practising it. And there are still others
-who, even though devoid of faith, do not cavil at it, saying that the
-true meaning of the Sastras cannot be this, i.e., they do not find any
+3.31 There are those persons who are alified to understand the Sastras and decide for themselves what is My doctrine, and follow them accordingly; there are others who are full of faith in the meaning of the Sastras without however practising it. And there are still others who, even though devoid of faith, do not cavil at it, saying that the true meaning of the Sastras cannot be this, i.e., they do not find any
 blemish pertaining to the Sastras which possess great alities. All these
 persons are freed from Karmas which are there from beginningless time
 and which cause bondage. By the term, api (even) in 'te pi karmabhih'
@@ -345,7 +340,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/03_karma-yogaH/31_ye_me.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।3.31।। जो मनुष्य दोष बुद्धि से रहित (अनसूयन्तः) और श्रद्धा से युक्त
+।।3.31।। जो मनुष्य दोष बुद्धि से रहित (अनसूयन्त:) और श्रद्धा से युक्त
 हुए सदा मेरे इस मत (उपदेश) का अनुष्ठानपूर्वक पालन करते हैं, वे कर्मों से
 (बन्धन से) मुक्त हो जाते हैं।।
 
@@ -404,42 +399,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/31_ye_me.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.31. Those who constantly follow this doctrine of Mine-such men, with
-faith and without finding fault \[in it\], are freed from \[the results
-of\] all actions.
+3.31. Those who constantly follow this doctrine of Mine-such men, with faith and without finding fault \[in it\], are freed from \[the results of\] all actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/31_ye_me.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.31 Those men who ever follow this teaching of Mine with faith and
-without cavil, they also become freed from actions.
+3.31 Those men who ever follow this teaching of Mine with faith and without cavil, they also become freed from actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/31_ye_me.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.31 Those who always act in accordance with My precepts, firm in faith
-and without cavilling, they too are freed from the bondage of action.
+3.31 Those who always act in accordance with My precepts, firm in faith and without cavilling, they too are freed from the bondage of action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/31_ye_me.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.31 Those men who, full of faith, ever practise this teaching of Mine
-and those who receive it without cavil - even they are released from
-Karma.
+3.31 Those men who, full of faith, ever practise this teaching of Mine and those who receive it without cavil - even they are released from Karma.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/31_ye_me.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.31 Those men who constantly practise this teaching of Mine with faith
-and without cavilling, they too are freed from actions.
+3.31 Those men who constantly practise this teaching of Mine with faith and without cavilling, they too are freed from actions.
 
 </details>
 </div>
@@ -448,10 +436,7 @@ and without cavilling, they too are freed from actions.
 
 3.31 ये those who; मे My; मतम् teaching; इदम् this; नित्यम् constantly;
 अनुतिष्ठन्ति practise; मानवाः men; श्रद्धावन्तः full of faith; अनसूयन्तः
-not cavilling; मुच्यन्ते are freed; ते they; अपि also; कर्मभिः from
-actions.Commentary Sraddha is a mental attitude. It means faith. It is
-faith in ones own Self; in the scriptures and in the teachings of the
-spiritual preceptor. It is compund of the higher emotion of faith;
+not cavilling; मुच्यन्ते are freed; ते they; अपि also; कर्मभिः from actions.Commentary Sraddha is a mental attitude. It means faith. It is faith in ones own Self; in the scriptures and in the teachings of the spiritual preceptor. It is compund of the higher emotion of faith;
 reverence and humility.
 
 </details>

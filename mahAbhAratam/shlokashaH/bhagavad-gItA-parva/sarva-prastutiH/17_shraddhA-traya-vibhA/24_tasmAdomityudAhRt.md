@@ -79,13 +79,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.24 After pronouncing Om, the Vedas are recited. Thus the connection
-of the syllable Om with the Vedas and the rituals enjoined in the Vedas
-such as sacrifices has been described. As the Vedas are connected with
-the word Om, all belonging to the three stations of life who memorise
-the Vedas and perform the rituals inculcated in them, are included in
-the expression, 'expounders of the Vedas.' Now, He describes the manner
-by which the word Tat is connected with them:
+17.24 After pronouncing Om, the Vedas are recited. Thus the connection of the syllable Om with the Vedas and the rituals enjoined in the Vedas such as sacrifices has been described. As the Vedas are connected with the word Om, all belonging to the three stations of life who memorise the Vedas and perform the rituals inculcated in them, are included in the expression, 'expounders of the Vedas.' Now, He describes the manner by which the word Tat is connected with them:
 
 </details>
 </div>
@@ -334,8 +328,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.24. Therefore, the scripture-prescribed acts of sacrifice, gift and
-austerity of those who are habituated to have Brahman-discourses,
+17.24. Therefore, the scripture-prescribed acts of sacrifice, gift and austerity of those who are habituated to have Brahman-discourses,
 commence (or take place) invariably, with the utterance of OM.
 
 </details>
@@ -343,28 +336,21 @@ commence (or take place) invariably, with the utterance of OM.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.24 Therefore, acts of sacrifice, charity and austerity as prescribed
-through injunctions, of those who study and expound the Vedas, always
-commence after uttering the syllable Om.
+17.24 Therefore, acts of sacrifice, charity and austerity as prescribed through injunctions, of those who study and expound the Vedas, always commence after uttering the syllable Om.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.24 Therefore all acts of sacrifice, gifts and austerities, prescribed
-by the scriptures, are always begun by those who understand the Spirit
-with the word Om.
+17.24 Therefore all acts of sacrifice, gifts and austerities, prescribed by the scriptures, are always begun by those who understand the Spirit with the word Om.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/24_tasmAdomityudAhRt.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.24 Therefore, the Veda-enjoined sacrificial acts, gifts and austerity
-by these expounders of the Veda, or those belonging to the first three
-stations are always and at all times begun after pronouncing Om at the
-beginning.
+17.24 Therefore, the Veda-enjoined sacrificial acts, gifts and austerity by these expounders of the Veda, or those belonging to the first three stations are always and at all times begun after pronouncing Om at the beginning.
 
 </details>
 </div>
@@ -372,8 +358,7 @@ beginning.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 17.24 Therefore, with the utterance of "Om" are the acts of sacrifice,
-gift and austerity as enjoined in the scriptures, always begun by the
-students of Brahman.
+gift and austerity as enjoined in the scriptures, always begun by the students of Brahman.
 
 </details>
 </div>
@@ -383,19 +368,7 @@ students of Brahman.
 17.24 तस्मात् therefore; Om; इति thus; उदाहृत्य uttering;
 यज्ञदानतपःक्रियाः the acts of sacrifice; gift and austerity; प्रवर्तन्ते
 begin; विधानोक्ताः as enjoined in the scriptures; सततम् always;
-ब्रह्मवादिनाम् of the students of Brahman. Commentary Those who are
-knowers of the scriptures have a vivid impression of Om in their minds
-by means of meditation and then they will utter the Pranava with the
-proper attitude and feeling. Then meditating on Om and uttering it; they
-perform the sacrifices. Just as a hillstick is very useful in climbing a
-hill; just as a boat is very useful in crossing a river; so also Om is
-very useful and important at the commencement of an action or
-sacrifice.It is not desirable to renounce actions or sacrifices to
-attain union with the Lord. What is wanted is total and perfect
-surrender of all actions to God. Sacrifice; charity and austerity are
-not hindrances to the attainment of Selfrealisation on the contrary the
-attainment of liberation is rendered easy by their performance without
-any selfish desires or egoism.
+ब्रह्मवादिनाम् of the students of Brahman. Commentary Those who are knowers of the scriptures have a vivid impression of Om in their minds by means of meditation and then they will utter the Pranava with the proper attitude and feeling. Then meditating on Om and uttering it; they perform the sacrifices. Just as a hillstick is very useful in climbing a hill; just as a boat is very useful in crossing a river; so also Om is very useful and important at the commencement of an action or sacrifice.It is not desirable to renounce actions or sacrifices to attain union with the Lord. What is wanted is total and perfect surrender of all actions to God. Sacrifice; charity and austerity are not hindrances to the attainment of Selfrealisation on the contrary the attainment of liberation is rendered easy by their performance without any selfish desires or egoism.
 
 </details>
 </div>

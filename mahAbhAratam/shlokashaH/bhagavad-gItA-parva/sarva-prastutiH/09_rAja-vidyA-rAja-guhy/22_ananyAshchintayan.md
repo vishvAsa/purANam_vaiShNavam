@@ -66,15 +66,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.22 There are Mahatmas who, excluding everything else and having no
-other purpose, meditate on Me as their only purpose, because without Me
-they are unable to sustain themselves. They think of Me and worship Me
-with all my auspicious attributes and with all my glories. In the case
-of such devotees aspiring after eternal union with Me, I Myself
-undertake the responsibility of bringing them to Myself (Yoga translated
-as 'prosperity') and of preserving them in that state for ever (Ksema
-translated as 'welfare'). The meaning is that they do not return to
-Samsara.
+9.22 There are Mahatmas who, excluding everything else and having no other purpose, meditate on Me as their only purpose, because without Me they are unable to sustain themselves. They think of Me and worship Me with all my auspicious attributes and with all my glories. In the case of such devotees aspiring after eternal union with Me, I Myself undertake the responsibility of bringing them to Myself (Yoga translated as 'prosperity') and of preserving them in that state for ever (Ksema translated as 'welfare'). The meaning is that they do not return to Samsara.
 
 </details>
 </div>
@@ -482,10 +474,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.22. Those men who, having nothing else \[as their goal\] worship Me
-everywhere and are thinking of Me \[alone\]; to them, who are constantly
-and fully attached \[to Me\], I bear acisition and the security of
-acisition.
+9.22. Those men who, having nothing else \[as their goal\] worship Me everywhere and are thinking of Me \[alone\]; to them, who are constantly and fully attached \[to Me\], I bear acisition and the security of acisition.
 
 </details>
 </div>
@@ -493,25 +482,21 @@ acisition.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 9.22 Those persons who, becoming non-different from Me and meditative,
-worship Me everywhere, for them, who are ever attached (to Me), I
-arrange for securing what they lack and preserving what they have.
+worship Me everywhere, for them, who are ever attached (to Me), I arrange for securing what they lack and preserving what they have.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.22 But if a man will meditate on Me and Me alone, and will worship Me
-always and everywhere, I will take upon Myself the fulfillment of his
-aspiration, and I will safeguard whatsoever he shall attain.
+9.22 But if a man will meditate on Me and Me alone, and will worship Me always and everywhere, I will take upon Myself the fulfillment of his aspiration, and I will safeguard whatsoever he shall attain.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.22 There are those who, excluding all else, think of Me and worship
-Me, aspiring after eternal union with Me. Their prosperity and welfare
+9.22 There are those who, excluding all else, think of Me and worship Me, aspiring after eternal union with Me. Their prosperity and welfare
 (Yoga and Ksema) are looked after by Me.
 
 </details>
@@ -519,9 +504,7 @@ Me, aspiring after eternal union with Me. Their prosperity and welfare
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/22_ananyAshchintayan.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.22 For those men who worship Me alone, thinking of no other, for those
-ever-united, I secure what is not already possessed and preserve what
-they already possess.
+9.22 For those men who worship Me alone, thinking of no other, for those ever-united, I secure what is not already possessed and preserve what they already possess.
 
 </details>
 </div>
@@ -529,36 +512,13 @@ they already possess.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 9.22 अनन्याः without others; चिन्तयन्तः thinking; माम् Me; ये who; जनाः
-men; पर्युपासते worship; तेषाम् of them; नित्याभियुक्तानाम् of the
-everunited; योगक्षेमम् the supply of what is not already possessed; and
-the preservation of what is already possessed; वहामि carry; अहम्
+men; पर्युपासते worship; तेषाम् of them; नित्याभियुक्तानाम् of the everunited; योगक्षेमम् the supply of what is not already possessed; and the preservation of what is already possessed; वहामि carry; अहम्
 I.Commentary Ananyah Nonseparate. This is another interpretation.
 Persons who; meditating on Me as nonseparate; worship Me in all beings
--- to them who are ever devout; I secure gain and safety. They consider
-themselves as nonseparate; i.e.; they look upon the Supreme Being as
-nonseparate from their own Self they look upon the Supreme Being as
-their own Self.Those devotees who behold nothing as separate from
-themselves have no selfish interests of their own. They certainly do not
-look for their own gain and safety. They have no desire for life or
-death. They have taken sole refuge in the Lord. They have nothing to
-lose; because there is nothing they call their own. Their very bodies
-become Gods. They have no desire for acisition because all their desires
-are gratified by their communion with the Lord. They have eternal
-satisfaction as they possess all the divine Aisvarya; the supreme wealth
-of the Lord.They entertain no other thoughts than those of the Lord.
-Conseently the Lord Himself looks after their bodily wants; such as food
-and clothing (this is known as Yoga); and preserves what they already
-possess (this is known as Kshema). He does these two acts. Just as the
-father and mother attend to the bodily needs of their children; so also
-the Lord attends to the needs of His devotees.They direct their whole
-mind with full faith towards the Lord. They make the Lord alone the sole
-object of their thought. For them nothing is dearer in this world than
-the Lord. They live for the Lord alone. They think of Him only with
-singeleness of purpose and onepointed devotion. They behold nothing but
-the Lord. They love Him in all creatures. When they lead such a life;
+-- to them who are ever devout; I secure gain and safety. They consider themselves as nonseparate; i.e.; they look upon the Supreme Being as nonseparate from their own Self they look upon the Supreme Being as their own Self.Those devotees who behold nothing as separate from themselves have no selfish interests of their own. They certainly do not look for their own gain and safety. They have no desire for life or death. They have taken sole refuge in the Lord. They have nothing to lose; because there is nothing they call their own. Their very bodies become Gods. They have no desire for acisition because all their desires are gratified by their communion with the Lord. They have eternal satisfaction as they possess all the divine Aisvarya; the supreme wealth of the Lord.They entertain no other thoughts than those of the Lord.
+Conseently the Lord Himself looks after their bodily wants; such as food and clothing (this is known as Yoga); and preserves what they already possess (this is known as Kshema). He does these two acts. Just as the father and mother attend to the bodily needs of their children; so also the Lord attends to the needs of His devotees.They direct their whole mind with full faith towards the Lord. They make the Lord alone the sole object of their thought. For them nothing is dearer in this world than the Lord. They live for the Lord alone. They think of Him only with singeleness of purpose and onepointed devotion. They behold nothing but the Lord. They love Him in all creatures. When they lead such a life;
 the Lord takes the whole burden of securing gain (Yoga) and safety
-(Kshema) for them upto Himself.Nityayuktah Those who constantly meditate
-on the Lord with intense devotion and onepointed mind.
+(Kshema) for them upto Himself.Nityayuktah Those who constantly meditate on the Lord with intense devotion and onepointed mind.
 (Cf.VIII.14XVIII.66)
 
 </details>

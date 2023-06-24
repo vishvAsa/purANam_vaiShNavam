@@ -70,16 +70,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 14.4 In all wombs such as those of gods, Gandharvas, Yaksas, Raksasas,
-men, animals, beasts, birds, serpents etc., whatever forms are
-generated, the brahman (Prakrti) is the 'great womb' or cause. Beginning
-from Mahat and ending with the five elements, Prakrti, with the mass of
-conscient selves imbedded by Me in it, is the cause. I am the sowing
-father. The meaning is that I am the imbedder of the multiplex of
-conscient selves according to each one's Karma. Now, He teaches the
-cause of continuing births as divinities etc., of those born in this
-manner at the beginning of a cycle of creation. It is due to the
-conjunction of these beings with Prakrti, in keeping with their old
-Karmas:
+men, animals, beasts, birds, serpents etc., whatever forms are generated, the brahman (Prakrti) is the 'great womb' or cause. Beginning from Mahat and ending with the five elements, Prakrti, with the mass of conscient selves imbedded by Me in it, is the cause. I am the sowing father. The meaning is that I am the imbedder of the multiplex of conscient selves according to each one's Karma. Now, He teaches the cause of continuing births as divinities etc., of those born in this manner at the beginning of a cycle of creation. It is due to the conjunction of these beings with Prakrti, in keeping with their old Karmas:
 
 </details>
 </div>
@@ -378,41 +369,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.4. O son of Kunti ! Whatever manifestations spring up in all the
-wombs, of them the mighty Brahman is the womb and I am the father laying
-the seed.
+14.4. O son of Kunti ! Whatever manifestations spring up in all the wombs, of them the mighty Brahman is the womb and I am the father laying the seed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.4 O son of Kunti, whatever forms are born from all the wombs, of them
-the great-sustainer is the womb; I am the father who deposits the seed.
+14.4 O son of Kunti, whatever forms are born from all the wombs, of them the great-sustainer is the womb; I am the father who deposits the seed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.4 O illustrious son of Kunti! Through whatever wombs men are born, it
-is the Spirit Itself that conceives, and I am their Father.
+14.4 O illustrious son of Kunti! Through whatever wombs men are born, it is the Spirit Itself that conceives, and I am their Father.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.4 Whatever forms are produced in any womb, O Arjuna, the Prakrti is
-their great womb and I am the sowing father.
+14.4 Whatever forms are produced in any womb, O Arjuna, the Prakrti is their great womb and I am the sowing father.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/04_sarvayoniShu_kaun.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.4 Whatever forms are produced, O Arjuna, in any womb whatsoever, the
-great Brahma is their womb and I am the seed-giving father.
+14.4 Whatever forms are produced, O Arjuna, in any womb whatsoever, the great Brahma is their womb and I am the seed-giving father.
 
 </details>
 </div>
@@ -423,9 +408,7 @@ great Brahma is their womb and I am the seed-giving father.
 मूर्तयः forms; सम्भवन्ति are produced; याः which; तासाम् their; ब्रह्म
 Brahma; महत् great; योनिः womb; अहम् I; बीजप्रदः seedgiving; पिता
 father.Commentary I am the father The Primordial Nature is the mother.
-The whole manifested world is the child Nature has produced in its
-association with me. Therefore I am called the father of this
-world.Wombs Such as the gods; the manes; men; cattle; beasts; birds;
+The whole manifested world is the child Nature has produced in its association with me. Therefore I am called the father of this world.Wombs Such as the gods; the manes; men; cattle; beasts; birds;
 etc.Forms Bodies consisting of parts; limbs; organs; etc.
 
 </details>

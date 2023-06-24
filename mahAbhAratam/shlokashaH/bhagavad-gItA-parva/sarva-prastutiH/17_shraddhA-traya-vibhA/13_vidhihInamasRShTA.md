@@ -57,14 +57,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.13 They say that sacrifice is Tamasa, which is bereft of the
-authority of injunction of Brahmanas of learning and good conduct as 'Do
-this sacrifice,' which is 'Asrstanna' viz., which uses offerings
-(materials) not sanctioned by the Sastras; which is performed without
-recitation of hymns; and which is bereft of gifts and faith. Now, to
-explain the threefold division of austerities according to their source
-in the Gunas, Sri Krsna describes their differences in respect of the
-body, speech and mind:
+17.13 They say that sacrifice is Tamasa, which is bereft of the authority of injunction of Brahmanas of learning and good conduct as 'Do this sacrifice,' which is 'Asrstanna' viz., which uses offerings
+(materials) not sanctioned by the Sastras; which is performed without recitation of hymns; and which is bereft of gifts and faith. Now, to explain the threefold division of austerities according to their source in the Gunas, Sri Krsna describes their differences in respect of the body, speech and mind:
 
 </details>
 </div>
@@ -339,28 +333,22 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.13. That sacrifice they declare to be of the Tamas (Strand) which is
-devoid of scriptural injunction, in which there is no \[recitation of\]
-Vedic hymns, where no food and \[sacrifical\] fee are distributed, and
-which is totally devoid of faith.
+17.13. That sacrifice they declare to be of the Tamas (Strand) which is devoid of scriptural injunction, in which there is no \[recitation of\]
+Vedic hymns, where no food and \[sacrifical\] fee are distributed, and which is totally devoid of faith.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.13 They declare that sacrifice as 'done through tamas' which is
-contrary to injunction, in which food is not distributed, in which
-mantras are not used, in which offerings are not made to priests, and
-which is devoid of faith.
+17.13 They declare that sacrifice as 'done through tamas' which is contrary to injunction, in which food is not distributed, in which mantras are not used, in which offerings are not made to priests, and which is devoid of faith.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.13 Sacrifice that is contrary to scriptural command, that is
-unaccompanied by prayers or gifts of food or money, and is without faith
+17.13 Sacrifice that is contrary to scriptural command, that is unaccompanied by prayers or gifts of food or money, and is without faith
 - that is the product of Ignorance.
 
 </details>
@@ -368,36 +356,23 @@ unaccompanied by prayers or gifts of food or money, and is without faith
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.13 That sacrifice which is bereft of authority, which uses offerings
-not sanctioned by the Sastras, which is performed without recitation of
-hymns and bereft of gifts and faith - that, they say, is marked by
-Tamas.
+17.13 That sacrifice which is bereft of authority, which uses offerings not sanctioned by the Sastras, which is performed without recitation of hymns and bereft of gifts and faith - that, they say, is marked by Tamas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-17.13 They declare that sacrifice to be Tamasic which is contrary to the
-ordinances of the scriptures, in which no food is distributed, which is
-devoid of Mantras, gifts and faith.
+17.13 They declare that sacrifice to be Tamasic which is contrary to the ordinances of the scriptures, in which no food is distributed, which is devoid of Mantras, gifts and faith.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/17_shraddhA-traya-vibhA/13_vidhihInamasRShTA.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-17.13 विधिहीनम् without keeping to ordinance; असृष्टान्नम् in which no
-food is distributed; मन्त्रहीनम् which is devoid of Mantras; अदक्षिणम्
+17.13 विधिहीनम् without keeping to ordinance; असृष्टान्नम् in which no food is distributed; मन्त्रहीनम् which is devoid of Mantras; अदक्षिणम्
 which is devoid of gifts; श्रद्धाविरहितम् which is devoid of faith;
-यज्ञम् sacrifice; तामसम् Tamasic; परिचक्षते (they) declare.Commentary A
-sacrifice performed by a Tamasic man is never guided by any
-consideration for the prescribed rites or incantation. You will find
-every irregularity in this sacrifice. No food is distributed. No fees
-which are prescribed in the scriptures are given to the priests. The
-Mantras are not changed properly. The hymns recited are defective in
-utterance and accent. Sometimes there is no recitation at all. There is
-no faith. A man who performs such a sacrifice does not get any merit.
+यज्ञम् sacrifice; तामसम् Tamasic; परिचक्षते (they) declare.Commentary A sacrifice performed by a Tamasic man is never guided by any consideration for the prescribed rites or incantation. You will find every irregularity in this sacrifice. No food is distributed. No fees which are prescribed in the scriptures are given to the priests. The Mantras are not changed properly. The hymns recited are defective in utterance and accent. Sometimes there is no recitation at all. There is no faith. A man who performs such a sacrifice does not get any merit.
 
 </details>
 </div>

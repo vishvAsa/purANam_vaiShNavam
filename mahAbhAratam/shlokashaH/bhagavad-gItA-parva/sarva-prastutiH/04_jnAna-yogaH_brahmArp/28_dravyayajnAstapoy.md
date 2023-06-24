@@ -81,17 +81,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.28 Some Karma Yogins perform the sacrifice of material objects. Some
-worship the gods with materials honestly acired. Some practise charity,
-some engage themselves in sacrifices and in making oblations into the
-sacred fire. All these perform sacrifice with material objects. Some do
-the sacrifice of austerity by devoting themselves to Krcchra,
-Candrayana, fast, etc. Others perform the sacrifice of Yoga. Some devote
-themselves to making pilgrimages to sacred sanctuaries and holy places.
-Here the term Yoga means pilgrimages to sacred sancturaries and holy
-places as the context relates to aspects of Karma Yoga. Some are devoted
-to recitation of Vedic texts and some to learning their meaning. They
-are all devoted to the practice of self-control and of strict vows,
+4.28 Some Karma Yogins perform the sacrifice of material objects. Some worship the gods with materials honestly acired. Some practise charity,
+some engage themselves in sacrifices and in making oblations into the sacred fire. All these perform sacrifice with material objects. Some do the sacrifice of austerity by devoting themselves to Krcchra,
+Candrayana, fast, etc. Others perform the sacrifice of Yoga. Some devote themselves to making pilgrimages to sacred sanctuaries and holy places.
+Here the term Yoga means pilgrimages to sacred sancturaries and holy places as the context relates to aspects of Karma Yoga. Some are devoted to recitation of Vedic texts and some to learning their meaning. They are all devoted to the practice of self-control and of strict vows,
 i.e., they are men to steady resolution.
 
 </details>
@@ -475,10 +468,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.28. \[These\] are \[respectively\] the performs of sacrifices with
-material objects, the performers of sacrifices with penance, and the
-performers of sacrifices with Yoga. Likewise \[there are\] yet other
-ascetics with rigid vows whose sacrifices are the svadhyaya-knowledge.
+4.28. \[These\] are \[respectively\] the performs of sacrifices with material objects, the performers of sacrifices with penance, and the performers of sacrifices with Yoga. Likewise \[there are\] yet other ascetics with rigid vows whose sacrifices are the svadhyaya-knowledge.
 
 </details>
 </div>
@@ -486,53 +476,38 @@ ascetics with rigid vows whose sacrifices are the svadhyaya-knowledge.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 4.28 Similarly, others are performers of sacrifices through wealth,
-through austerity, through yoga, and through study and knowledge; others
-are ascetics with severe vows.
+through austerity, through yoga, and through study and knowledge; others are ascetics with severe vows.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.28 And yet others offer as their sacrifice wealth, austerities and
-meditation. Monks wedded to their vows renounce their scriptural
-learning and even their spiritual powers.
+4.28 And yet others offer as their sacrifice wealth, austerities and meditation. Monks wedded to their vows renounce their scriptural learning and even their spiritual powers.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.28 Self-controlled and firm of resolve, others perform the sacrifice
-of material objects or austerities or Yoga; while others offer their
-scriptural study and knowledge.
+4.28 Self-controlled and firm of resolve, others perform the sacrifice of material objects or austerities or Yoga; while others offer their scriptural study and knowledge.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.28 Others again offer wealth, austerity and Yoga as sacrifice, while
-the ascetics of self-restraint and rigid vows offer study of scriptures
-and knowledge as sacrifice.
+4.28 Others again offer wealth, austerity and Yoga as sacrifice, while the ascetics of self-restraint and rigid vows offer study of scriptures and knowledge as sacrifice.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/04_jnAna-yogaH_brahmArp/28_dravyayajnAstapoy.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-4.28 द्रव्ययज्ञाः those who offer wealth as sacrifice; तपोयज्ञाः those
-who offer austerity as sacrifice; योगयज्ञाः those who offer Yoga as
-sacrifice; तथा thus; अपरे others; स्वाध्यायज्ञानयज्ञाः those who offer
-study and knowledge as sacrifice; च and; यतयः ascetics or anchorites
-(persons of selfrestraint); संशितव्रताः persons of rigid vows.Commentary
-Some do sacrifice by distributing their wealth to the deserving as
-charity some offer their Tapas (austerities) as sacrifice some practise
-the eight limbs of Raja Yoga; viz.; Yama (the five great vows); Niyama
-(the canons of conduct); Asana (posture); Pranayama (restraint of
-breath); Pratyahara (withdrawal of the senses); Dharana (concentration);
-Dhyana (meditation) and Samadhi (superconscious state); and offer this
-Yoga as a sacrifice some study the scriptures and offer it as sacrifice.
+4.28 द्रव्ययज्ञाः those who offer wealth as sacrifice; तपोयज्ञाः those who offer austerity as sacrifice; योगयज्ञाः those who offer Yoga as sacrifice; तथा thus; अपरे others; स्वाध्यायज्ञानयज्ञाः those who offer study and knowledge as sacrifice; च and; यतयः ascetics or anchorites
+(persons of selfrestraint); संशितव्रताः persons of rigid vows.Commentary Some do sacrifice by distributing their wealth to the deserving as charity some offer their Tapas (austerities) as sacrifice some practise the eight limbs of Raja Yoga; viz.; Yama (the five great vows); Niyama
+(the canons of conduct); Asana (posture); Pranayama (restraint of breath); Pratyahara (withdrawal of the senses); Dharana (concentration);
+Dhyana (meditation) and Samadhi (superconscious state); and offer this Yoga as a sacrifice some study the scriptures and offer it as sacrifice.
 
 </details>
 </div>

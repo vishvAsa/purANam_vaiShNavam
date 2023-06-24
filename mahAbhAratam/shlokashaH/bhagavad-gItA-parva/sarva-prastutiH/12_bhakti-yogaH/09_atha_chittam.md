@@ -62,16 +62,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/09_atha_chittam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.9 Now, if you are unable to focus your mind immediately on Me in deep
-meditation, then seek to reach Me by the 'practice of repetition
-(Abhyasa Yoga)'. By the repeated practice of remembrance full of immense
-love, concentrate your mind on Me the ocean of manifold attributes
-innate to Me like, beauty, affability, friendliness, affection,
+12.9 Now, if you are unable to focus your mind immediately on Me in deep meditation, then seek to reach Me by the 'practice of repetition
+(Abhyasa Yoga)'. By the repeated practice of remembrance full of immense love, concentrate your mind on Me the ocean of manifold attributes innate to Me like, beauty, affability, friendliness, affection,
 compassion, sweetness, majesty, magnanimity, heroism, valour, might,
-omniscience, freedom from wants, unfailing resolves, sovereignty over
-all, being the cause of all etc., and being antagonistic to all that is
-evil. All these attributes are of unlimited excellence in the Supreme
-Person.
+omniscience, freedom from wants, unfailing resolves, sovereignty over all, being the cause of all etc., and being antagonistic to all that is evil. All these attributes are of unlimited excellence in the Supreme Person.
 
 </details>
 </div>
@@ -333,8 +327,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/12_bhakti-yogaH/09_atha_chittam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-12.9. In case you are not able to cause your mind to enter completley
-into Me, then, O Dhananjaya ! seek to attain Me by the practice-Yoga.
+12.9. In case you are not able to cause your mind to enter completley into Me, then, O Dhananjaya ! seek to attain Me by the practice-Yoga.
 
 </details>
 </div>
@@ -349,24 +342,21 @@ then, O Dhananjaya, seek to attain Me through the Yoga of Practice.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/09_atha_chittam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.9 But if thou canst not fix thy mind firmly on Me, then, My beloved
-friend, try to do so by constant practice.
+12.9 But if thou canst not fix thy mind firmly on Me, then, My beloved friend, try to do so by constant practice.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/09_atha_chittam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.9 If now you are unable to focus your mind on Me, then seek to reach
-Me, O Arjuna, by the practice of repetition.
+12.9 If now you are unable to focus your mind on Me, then seek to reach Me, O Arjuna, by the practice of repetition.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/09_atha_chittam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.9 If thou art unable to fix thy mind steadily on Me, then by the Yoga
-of constant practice do thou seek to reach Me, O Arjuna.
+12.9 If thou art unable to fix thy mind steadily on Me, then by the Yoga of constant practice do thou seek to reach Me, O Arjuna.
 
 </details>
 </div>
@@ -374,25 +364,8 @@ of constant practice do thou seek to reach Me, O Arjuna.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 12.9 अथ if; चित्तम् the mind; समाधातुम् to fix; न not; शक्नोषि (thou)
-art able; मयि in Me; स्थिरम् steadily; अभ्यासयोगेन by the Yoga of
-constant practice; ततः them; माम् Me; इच्छ wish; आप्तुम् to reach;
-धनञ्जय O Arjuna.Commentary Abhyasa Yoga Abhyasa is constant practice to
-steady the mind and fix it on one point the practice of repeatedly
-withdrawing the mind from all sorts of sensual objects and fixing it
-again and again on one particular object or the Self. The constant
-effort to separate or detach oneself from the illusory five sheaths and
-identify oneself with the Atman is also Abhyasa. If you are not able to
-fix your mind and intellect wholly on the Lord all the time; then do it
-for some time at least. If your mind wanders much; try to fix it on the
-Lord through the continous practice of remembrance. Resort to the
-worship of the images of God; feeling His Living Presence in them. This
-will also help you.Why did Lord Krishna address Arjuna by the name
-Dhananjaya here Surely there is some significance. Arjuna conered many
-people and brought immense wealth for the Rajasuya Yajna performed by
-Yudhishthira. For such a man of great powers and splendour; it is not
-difficult to coner this mind; and obtain the spiritual wealth of
-knowledge of the Self. This is what Lord Krishna meant when He addressed
-Arjuna by the name Dhananjaya.
+art able; मयि in Me; स्थिरम् steadily; अभ्यासयोगेन by the Yoga of constant practice; ततः them; माम् Me; इच्छ wish; आप्तुम् to reach;
+धनञ्जय O Arjuna.Commentary Abhyasa Yoga Abhyasa is constant practice to steady the mind and fix it on one point the practice of repeatedly withdrawing the mind from all sorts of sensual objects and fixing it again and again on one particular object or the Self. The constant effort to separate or detach oneself from the illusory five sheaths and identify oneself with the Atman is also Abhyasa. If you are not able to fix your mind and intellect wholly on the Lord all the time; then do it for some time at least. If your mind wanders much; try to fix it on the Lord through the continous practice of remembrance. Resort to the worship of the images of God; feeling His Living Presence in them. This will also help you.Why did Lord Krishna address Arjuna by the name Dhananjaya here Surely there is some significance. Arjuna conered many people and brought immense wealth for the Rajasuya Yajna performed by Yudhishthira. For such a man of great powers and splendour; it is not difficult to coner this mind; and obtain the spiritual wealth of knowledge of the Self. This is what Lord Krishna meant when He addressed Arjuna by the name Dhananjaya.
 
 </details>
 </div>

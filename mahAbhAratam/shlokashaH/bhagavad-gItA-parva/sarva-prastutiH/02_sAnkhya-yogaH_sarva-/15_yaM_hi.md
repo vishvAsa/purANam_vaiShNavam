@@ -74,17 +74,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.15 That person endowed with courage, who considers pain as inevitable
-as pleasure, and who performs war and such other acts suited to his
-station in life without attachment to the results and only as a means of
-attaining immortality - one whom the impact of weapons in war etc.,
-which involve soft or harsh contacts, do not trouble, that person only
-attains immortality, not a person like you, who cannnot bear grief. As
-the selves are immortal, what is to be done here, is this much only.
-This is the meaning. Because of the immortality of the selves and the
-natural destructibility of the bodies, there is no cause for grief. It
-was told (previously): 'The wise grieve neither for the dead nor for the
-living' (2. 11). Now the Lord elucidates the same view.
+2.15 That person endowed with courage, who considers pain as inevitable as pleasure, and who performs war and such other acts suited to his station in life without attachment to the results and only as a means of attaining immortality - one whom the impact of weapons in war etc.,
+which involve soft or harsh contacts, do not trouble, that person only attains immortality, not a person like you, who cannnot bear grief. As the selves are immortal, what is to be done here, is this much only.
+This is the meaning. Because of the immortality of the selves and the natural destructibility of the bodies, there is no cause for grief. It was told (previously): 'The wise grieve neither for the dead nor for the living' (2. 11). Now the Lord elucidates the same view.
 
 </details>
 </div>
@@ -541,8 +533,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.15. O the best among persons ! That wise person becomes immortal whom
-these (situations) do not trouble and to whom the pleasure and pain are
+2.15. O the best among persons ! That wise person becomes immortal whom these (situations) do not trouble and to whom the pleasure and pain are
 eal.
 
 </details>
@@ -550,26 +541,21 @@ eal.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.15 O (Arjuna, who are) foremost among men, verily, the person whom
-these do not torment, the wise man to whom sorrow and happhiness are the
-same he is fit for Immortality.
+2.15 O (Arjuna, who are) foremost among men, verily, the person whom these do not torment, the wise man to whom sorrow and happhiness are the same he is fit for Immortality.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.15 The hero whose soul is unmoved by circumstance, who accepts
-pleasure and pain with equanimity, only he is fit for immortality.
+2.15 The hero whose soul is unmoved by circumstance, who accepts pleasure and pain with equanimity, only he is fit for immortality.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/15_yaM_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.15 For, he whom these do not affect, O chief of men, and to whom pain
-and pleasure are the same - that steadfast man alone is worthy of
-immortality.
+2.15 For, he whom these do not affect, O chief of men, and to whom pain and pleasure are the same - that steadfast man alone is worthy of immortality.
 
 </details>
 </div>
@@ -577,8 +563,7 @@ immortality.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 2.15 That firm man whom, surely, these afflict not, O chief among men,
-to whom pleasure and pain are the same, is fit for attaining
-immortality.
+to whom pleasure and pain are the same, is fit for attaining immortality.
 
 </details>
 </div>
@@ -587,18 +572,9 @@ immortality.
 
 2.15 यम् whom; हि surely; न व्यथयन्ति afflict not; एते these; पुरुषम्
 man; पुरुषर्षभ chief among men; समदुःखसुखम् same in pleasure and pain;
-धीरम् firm man; सः he; अमृतत्वाय for immortality; कल्पते is
-fit.Commentary -- Dehadhyasa or identification of the Self with the body
-is the cause of pleasure and pain. The more you are able to identify
-yourself with the immortal; allpervading Self; the less will you be
-affected by the pairs of opposites (Dvandvas; pleasure and pain;
-etc.)Titiksha or the power of endurance develops the willpower. Calm
-endurance in pleasure and pain; and heat and cold is one of the
-alifications of an aspirant on the path of Jnana Yoga. It is one of the
-Shatsampat or sixfold virtues. It is a condition of right knowledge.
-Titiksha by itself cannot give you Moksha or liberation; but still; when
-coupled with discrimination and dispassion; it becomes a means to the
-attainment of Immortality or knowledge of the Self. (Cf.XVII.53)
+धीरम् firm man; सः he; अमृतत्वाय for immortality; कल्पते is fit.Commentary -- Dehadhyasa or identification of the Self with the body is the cause of pleasure and pain. The more you are able to identify yourself with the immortal; allpervading Self; the less will you be affected by the pairs of opposites (Dvandvas; pleasure and pain;
+etc.)Titiksha or the power of endurance develops the willpower. Calm endurance in pleasure and pain; and heat and cold is one of the alifications of an aspirant on the path of Jnana Yoga. It is one of the Shatsampat or sixfold virtues. It is a condition of right knowledge.
+Titiksha by itself cannot give you Moksha or liberation; but still; when coupled with discrimination and dispassion; it becomes a means to the attainment of Immortality or knowledge of the Self. (Cf.XVII.53)
 
 </details>
 </div>

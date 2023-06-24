@@ -56,13 +56,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/22_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.22 The Lord said He does not hate the effects of Sattva, Rajas and
-Tamas known as illumination, activity and delusion respectively, when
-they are prevailing in regard to undesired things other than the self;
-nor longs for them when they cease, i.e., when desired things other than
-the self become unavailable. Hating things not conducive to the
-realisations of the self and longing for things conducive thereof, do
-not come under this law stated in the Verse.
+14.22 The Lord said He does not hate the effects of Sattva, Rajas and Tamas known as illumination, activity and delusion respectively, when they are prevailing in regard to undesired things other than the self;
+nor longs for them when they cease, i.e., when desired things other than the self become unavailable. Hating things not conducive to the realisations of the self and longing for things conducive thereof, do not come under this law stated in the Verse.
 
 </details>
 </div>
@@ -485,44 +480,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/22_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.22. The Bhagavat said O son of Pandu ! He does niether abhor nor
-crave for illumination, and exertion, and delusion too, as and when they
-arise or cease to be.
+14.22. The Bhagavat said O son of Pandu ! He does niether abhor nor crave for illumination, and exertion, and delusion too, as and when they arise or cease to be.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/22_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.22 The Blessed Lord said O son of Pandu, he neither dislikes
-illumination (knowledge), activity and delusion when they appear, nor
-does he long for them when they disappear.
+14.22 The Blessed Lord said O son of Pandu, he neither dislikes illumination (knowledge), activity and delusion when they appear, nor does he long for them when they disappear.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/22_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.22 Lord Shri Krishna replied: O Prince! He who shuns not the Quality
-which is present, and longs not for that which is absent;
+14.22 Lord Shri Krishna replied: O Prince! He who shuns not the Quality which is present, and longs not for that which is absent;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/22_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.22 The Lord said He hates not illumination, nor activity nor even
-delusion, O Arjuna, while these prevail, nor longs for them when they
-cease.
+14.22 The Lord said He hates not illumination, nor activity nor even delusion, O Arjuna, while these prevail, nor longs for them when they cease.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/22_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.22 The Blessed Lord said When light, activity and delusion are
-present, he hates them not, nor does he long for them when they are
-absent.
+14.22 The Blessed Lord said When light, activity and delusion are present, he hates them not, nor does he long for them when they are absent.
 
 </details>
 </div>
@@ -534,31 +520,7 @@ delusion; एव even; च and; पाण्डव O Arjuna; न not; द्व�
 सम्प्रवृत्तानि (when) gone forth; न not; निवृत्तानि when absent;
 काङ्क्षति longs.Commentary This is the answer to Arjunas first estion.
 Light is the effect of Sattva; activity of Rajas and delusion of Tamas.
-The liberated sage does not hate them when they are present. When Sattva
-shines he is not carried away by pride. He does not think; I am a vey
-learned man. When the impulse for action is awakened in the body or when
-there is a divine call for him to do work for the solidarity of the
-world (Lokasangraha) he does not hate any action and he does not regret
-it after the action is accomplished. He feels no remorse while
-performing actions. The work is like the play of a child. While inertia
-increases in him; he is not deluded by infatuation.Only an ignorant man
-thinks Tamas has entered into me. I am deluded. I am under the influence
-of heedlessness; torpor; sloth; laziness and indolence. Now I am under
-the influence of Rajas. I am forced to do activities. This is painful. I
-have fallen from my true nature. This gives me a lot of pain. Now Sattva
-predominates in me. I am attached to happiness and knowledge. I am proud
-of my learning and better status.The liberated sage who has transcended
-the Gunas does not thus hate them when they are present.A man of Sattva
-or Rajas or Tamas longs for light; action or inertia which first
-manifested themselves and disappeared. But a liberated sage or one who
-has gone beyond the three alities does not at all long for these states
-which have vanished. This mark or characteristic is an internal mental
-state. It cannot be perceived or detected by others. It can be felt by
-ones own self alone. If one is endowed with clairvoyant vision or the
-inner eye of intuition; he can directly behold the longins that arise in
-the mind of another man.In the following three verses the Lord gives His
-answer to Arjunas second estion What is the conduct of the sage who has
-crossed over the Gunas
+The liberated sage does not hate them when they are present. When Sattva shines he is not carried away by pride. He does not think; I am a vey learned man. When the impulse for action is awakened in the body or when there is a divine call for him to do work for the solidarity of the world (Lokasangraha) he does not hate any action and he does not regret it after the action is accomplished. He feels no remorse while performing actions. The work is like the play of a child. While inertia increases in him; he is not deluded by infatuation.Only an ignorant man thinks Tamas has entered into me. I am deluded. I am under the influence of heedlessness; torpor; sloth; laziness and indolence. Now I am under the influence of Rajas. I am forced to do activities. This is painful. I have fallen from my true nature. This gives me a lot of pain. Now Sattva predominates in me. I am attached to happiness and knowledge. I am proud of my learning and better status.The liberated sage who has transcended the Gunas does not thus hate them when they are present.A man of Sattva or Rajas or Tamas longs for light; action or inertia which first manifested themselves and disappeared. But a liberated sage or one who has gone beyond the three alities does not at all long for these states which have vanished. This mark or characteristic is an internal mental state. It cannot be perceived or detected by others. It can be felt by ones own self alone. If one is endowed with clairvoyant vision or the inner eye of intuition; he can directly behold the longins that arise in the mind of another man.In the following three verses the Lord gives His answer to Arjunas second estion What is the conduct of the sage who has crossed over the Gunas
 
 </details>
 </div>

@@ -45,8 +45,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/76_rAjansaMsmRtya_sa.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.76 Remembering this auspicious and wondrous dialogue between Sri
-Krsna and Arjuna, directly heard by me, I rejoice again and again.
+18.76 Remembering this auspicious and wondrous dialogue between Sri Krsna and Arjuna, directly heard by me, I rejoice again and again.
 
 </details>
 </div>
@@ -341,16 +340,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/76_rAjansaMsmRtya_sa.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.76. O king ! By recollecting and recollecting this wonderful pious
-dialogue of Kesava and Arjuna, I feel also delighted again and again.
+18.76. O king ! By recollecting and recollecting this wonderful pious dialogue of Kesava and Arjuna, I feel also delighted again and again.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/76_rAjansaMsmRtya_sa.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.76 And, O king, while repeatedly remembering this unie, sacred
-dialogue between Kesava and Arjuna, I rejoice every moment.
+18.76 And, O king, while repeatedly remembering this unie, sacred dialogue between Kesava and Arjuna, I rejoice every moment.
 
 </details>
 </div>
@@ -365,30 +362,23 @@ the more I lose myself in joy.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/76_rAjansaMsmRtya_sa.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.76 O King, remembering again and again this wondrous and auspicious
-dialogue betweenn Sri Krsna and Arjuna, I rejoice again and again.
+18.76 O King, remembering again and again this wondrous and auspicious dialogue betweenn Sri Krsna and Arjuna, I rejoice again and again.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/76_rAjansaMsmRtya_sa.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.76 O King, remembering this wonderful and holy dialogue between
-Krishna and Arjuna, I rejoice again and again.
+18.76 O King, remembering this wonderful and holy dialogue between Krishna and Arjuna, I rejoice again and again.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/76_rAjansaMsmRtya_sa.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.76 राजन् O King; संस्मृत्य having remembered; संस्मृत्य having
-remembered; संवादम् the dialogue; इमम् this; अद्भुतम् wonderful;
+18.76 राजन् O King; संस्मृत्य having remembered; संस्मृत्य having remembered; संवादम् the dialogue; इमम् this; अद्भुतम् wonderful;
 केशवार्जुनयोः between Kesava and Arjuna; पुण्यम् holy; हृष्यामि (I)
-rejoice; च and; मुहुः again; मुहुः again.Commentary Rajan King
-Dhritarashtra to whom the Gita is narrated by Sanjaya.Punyam Holy
-because the mere hearing of the dialogue destroys a multitude of sins
-and makes the hearer pious and Godfearing and turns his mind towards
-God.
+rejoice; च and; मुहुः again; मुहुः again.Commentary Rajan King Dhritarashtra to whom the Gita is narrated by Sanjaya.Punyam Holy because the mere hearing of the dialogue destroys a multitude of sins and makes the hearer pious and Godfearing and turns his mind towards God.
 
 </details>
 </div>

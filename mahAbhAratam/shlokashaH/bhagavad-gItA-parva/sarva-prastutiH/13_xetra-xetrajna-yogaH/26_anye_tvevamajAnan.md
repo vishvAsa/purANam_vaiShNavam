@@ -64,15 +64,8 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 13.26 But some, namely, those who are not alified for Karma Yoga etc.,
-for realising the self, listen to Jnanins who know the truth, and
-meditate on the self through Karma Yoga, etc. - they too pass beyond
-death. It means that those who are devoted to what they hear only, even
-they, intent on hearing and devoid of evils, begin in due course, the
-practice of Karma Yoga etc., and pass beyond death. By the term 'too'
-(api), the difference in levels is made out. Now, in order to teach the
-contemplation on the distinctness of the self conjoined with the
-Prakrti, he says that all entities, movables and immovables, are the
-product of combination between the conscient and the non-conscient:
+for realising the self, listen to Jnanins who know the truth, and meditate on the self through Karma Yoga, etc. - they too pass beyond death. It means that those who are devoted to what they hear only, even they, intent on hearing and devoid of evils, begin in due course, the practice of Karma Yoga etc., and pass beyond death. By the term 'too'
+(api), the difference in levels is made out. Now, in order to teach the contemplation on the distinctness of the self conjoined with the Prakrti, he says that all entities, movables and immovables, are the product of combination between the conscient and the non-conscient:
 
 </details>
 </div>
@@ -349,7 +342,7 @@ _________________
 
 ।।13.26।। परन्तु, अन्य लोग जो स्वयं इस प्रकार न जानते हुए, दूसरों से
 (आचार्यों से) सुनकर ही उपासना करते हैं, वे श्रुतिपरायण (अर्थात् श्रवण ही
-जिनके लिए परम साधन है) लोग भी मृत्यु को निःसन्देह तर जाते हैं।।
+जिनके लिए परम साधन है) लोग भी मृत्यु को नि:सन्देह तर जाते हैं।।
 
 </details>
 </div>
@@ -414,26 +407,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.26. But others, who have no knowledge of this nature, listen from
-others and practise reflection \[accordingly\] they too, being devoted
-to what they have heard, do cross over death.
+13.26. But others, who have no knowledge of this nature, listen from others and practise reflection \[accordingly\] they too, being devoted to what they have heard, do cross over death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.26 Others, agian, who do not know thus, take to thinking after
-hearing from others; they, too, who are devoted to hearing, certainly
-overcome death.
+13.26 Others, agian, who do not know thus, take to thinking after hearing from others; they, too, who are devoted to hearing, certainly overcome death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.26 Others again, having no direct knowledge but only hearing from
-others, nevertheless worship, and they, too, if true to the teachings,
+13.26 Others again, having no direct knowledge but only hearing from others, nevertheless worship, and they, too, if true to the teachings,
 cross the sea of death.
 
 </details>
@@ -441,18 +429,14 @@ cross the sea of death.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.26 But some, who do not know thus, having heard from others, worship
-accordingly - these too, who are devoted to what they hear, pass beyond
-death.
+13.26 But some, who do not know thus, having heard from others, worship accordingly - these too, who are devoted to what they hear, pass beyond death.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/26_anye_tvevamajAnan.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.26 Others also, not knowing thus, worship, having heard of It from
-others; they, too, cross beyond death, regarding what they have heard as
-the Supreme refuge.
+13.26 Others also, not knowing thus, worship, having heard of It from others; they, too, cross beyond death, regarding what they have heard as the Supreme refuge.
 
 </details>
 </div>
@@ -462,24 +446,7 @@ the Supreme refuge.
 13.26 अन्ये others; तु indeed; एवम् thus; अजानन्तः not knowing; श्रुत्वा
 having heard; अन्येभ्यः from others; उपासते worship; ते they; अपि also;
 च and; अतितरन्ति cross beyond; एव even; मृत्युम् death; श्रुतिपरायणाः
-regarding what they have heard as the Supreme refuge.Commentary The
-three paths; viz.; the Yoga of meditation; the Yoga of knowledge; and
-the Yoga of action to attain the knowledge of the Self were described in
-the previous verse. In this verse the Yoga of worship is described.Some
-who are ignorant of the methods described in the previous verse listen
-to the teachings of the spiritual preceptors regarding this great Truth
-or the Self with intense and unshakable faith; solely depending upon the
-authority of others instructions; and through constant remembrance and
-contemplation of them attain immortality. They are devoted to their
-preceptor. Some study the books written by realised seers; stick with
-great faith to the teachings contained therein and live according to
-them. They also overcome death. Whichever path one follows; one
-eventually attains the knowledge of the Self and final liberation from
-birth and death; -- salvation (Moksha). There are several paths to suit
-aspirants of different temperaments and eipments.Freeing oneself from
-ignorance with its effects through the knowledge of the Self; is
-crossing the Samsara or attaining immortality or overcoming death or
-obtaining release or salvation.
+regarding what they have heard as the Supreme refuge.Commentary The three paths; viz.; the Yoga of meditation; the Yoga of knowledge; and the Yoga of action to attain the knowledge of the Self were described in the previous verse. In this verse the Yoga of worship is described.Some who are ignorant of the methods described in the previous verse listen to the teachings of the spiritual preceptors regarding this great Truth or the Self with intense and unshakable faith; solely depending upon the authority of others instructions; and through constant remembrance and contemplation of them attain immortality. They are devoted to their preceptor. Some study the books written by realised seers; stick with great faith to the teachings contained therein and live according to them. They also overcome death. Whichever path one follows; one eventually attains the knowledge of the Self and final liberation from birth and death; -- salvation (Moksha). There are several paths to suit aspirants of different temperaments and eipments.Freeing oneself from ignorance with its effects through the knowledge of the Self; is crossing the Samsara or attaining immortality or overcoming death or obtaining release or salvation.
 
 </details>
 </div>

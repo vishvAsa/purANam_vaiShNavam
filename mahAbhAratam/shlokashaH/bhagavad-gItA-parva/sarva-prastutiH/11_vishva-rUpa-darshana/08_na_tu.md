@@ -56,13 +56,9 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 11.8 I shall reveal to you the whole universe in one part of my body.
-But, with your physical eye, which can see only limited and conditioned
-things, you cannot behold Me, such as I am, different in kind from
-everything else and illimitable. So I bestow on you, a divine, namely,
+But, with your physical eye, which can see only limited and conditioned things, you cannot behold Me, such as I am, different in kind from everything else and illimitable. So I bestow on you, a divine, namely,
 supernatural, eye by which you may perceive Me. Behold My Lordly Yoga'
-(sovereign endowment)! Behold My unie Yoga (special power)! The meaning
-is, 'Behold My Yoga such as infinite knowledge and such other attributes
-and endless manifestations of lordly power!'
+(sovereign endowment)! Behold My unie Yoga (special power)! The meaning is, 'Behold My Yoga such as infinite knowledge and such other attributes and endless manifestations of lordly power!'
 
 </details>
 </div>
@@ -309,40 +305,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/08_na_tu.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.8. But, you cannot see Me simply with this eye of yours \[Hence\], I
-give you the divine eye. \[Now\] behold the Lordly form of Mine.
+11.8. But, you cannot see Me simply with this eye of yours \[Hence\], I give you the divine eye. \[Now\] behold the Lordly form of Mine.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/08_na_tu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.8 But you are not able to see Me merely with this eye of yours. I
-grant you the supernatural eye; bhold My divine Yoga.
+11.8 But you are not able to see Me merely with this eye of yours. I grant you the supernatural eye; bhold My divine Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/08_na_tu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.8 Yet since with mortal eyes thou canst not see Me, lo! I give thee
-the Divine Sight. See now the glory of My Sovereignty."
+11.8 Yet since with mortal eyes thou canst not see Me, lo! I give thee the Divine Sight. See now the glory of My Sovereignty."
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/08_na_tu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.8 But you will not be able to see Me with your own eye. I give you a
-divine eye. Behold My Lordly Yoga!
+11.8 But you will not be able to see Me with your own eye. I give you a divine eye. Behold My Lordly Yoga!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/08_na_tu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.8 But thou art not able to behold Me with these thine own eyes; I
-give thee the divine eye; behold My lordly Yoga.
+11.8 But thou art not able to behold Me with these thine own eyes; I give thee the divine eye; behold My lordly Yoga.
 
 </details>
 </div>
@@ -352,13 +343,8 @@ give thee the divine eye; behold My lordly Yoga.
 11.8 न not; तु but; माम् Me; शक्यसे (thou) canst; द्रष्टुम् to see; अनेन
 with this; एव even; स्वचक्षुषा with own eyes; दिव्यम् divine; ददामि (I)
 give; ते (to) thee; चक्षुः the eye; पश्य behold; मे My; योगम् Yoga;
-ऐश्वरम् lordly.Commentary No fleshly eyes can behold Me in My Cosmic
-Form. One can see It through the divine eye or the eye of intuition. It
-should not be confused with seeing through the eye or the mind. It is an
-inner experience.Lord Krishna says to Arjuna I give thee the divine eye;
-by which you will be able to behold My sovereign form. By it see My
-marvellous power of Yoga.Anena With this the fleshly eye or the physical
-eye; the earthly eye. (Cf.VII.25IX.5X.7)
+ऐश्वरम् lordly.Commentary No fleshly eyes can behold Me in My Cosmic Form. One can see It through the divine eye or the eye of intuition. It should not be confused with seeing through the eye or the mind. It is an inner experience.Lord Krishna says to Arjuna I give thee the divine eye;
+by which you will be able to behold My sovereign form. By it see My marvellous power of Yoga.Anena With this the fleshly eye or the physical eye; the earthly eye. (Cf.VII.25IX.5X.7)
 
 </details>
 </div>

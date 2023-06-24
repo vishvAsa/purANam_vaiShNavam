@@ -62,12 +62,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/26_shrotrAdInIndriyA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.26 Others endeavour towards the restraint of the senses like ear and
-the rest, i.e., keep themselves away from the objects pleasing to the
-senses. Other Yogins endeavour to prevent the attachment of the senses
-to sound and other objects of the senses, i.e., they abstain from the
-sense objects even when they are allowed to be near, by the
-discriminative process of belittling their valure and enjoyable nature.
+4.26 Others endeavour towards the restraint of the senses like ear and the rest, i.e., keep themselves away from the objects pleasing to the senses. Other Yogins endeavour to prevent the attachment of the senses to sound and other objects of the senses, i.e., they abstain from the sense objects even when they are allowed to be near, by the discriminative process of belittling their valure and enjoyable nature.
 
 </details>
 </div>
@@ -413,18 +408,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/26_shrotrAdInIndriyA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.26. \[Yet\] others offer the sense-organs like sense-of-hearing and
-the rest into the fiires of \[their\] restrainer; others offer the
-objects like sound and the rest into the fires of the sense-organs.
+4.26. \[Yet\] others offer the sense-organs like sense-of-hearing and the rest into the fiires of \[their\] restrainer; others offer the objects like sound and the rest into the fires of the sense-organs.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/26_shrotrAdInIndriyA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.26 Others offer the organs, viz ear etc., in the fires of
-self-control. Others offer the objects, viz sound etc., in the fires of
-the organs.
+4.26 Others offer the organs, viz ear etc., in the fires of self-control. Others offer the objects, viz sound etc., in the fires of the organs.
 
 </details>
 </div>
@@ -432,16 +423,14 @@ the organs.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 4.26 Some sacrifice their physical senses in the fire of self-control;
-others offer up their contact with external objects in the sacrificial
-fire of their senses.
+others offer up their contact with external objects in the sacrificial fire of their senses.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/26_shrotrAdInIndriyA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.26 Others offer as oblations hearing and other senses in the fires of
-restraint. Some others offer as oblations the objects of the senses,
+4.26 Others offer as oblations hearing and other senses in the fires of restraint. Some others offer as oblations the objects of the senses,
 such as sound and the rest, into the fires of their senses.
 
 </details>
@@ -449,9 +438,7 @@ such as sound and the rest, into the fires of their senses.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/26_shrotrAdInIndriyA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.26 Some again offer the organ of hearing and other senses as sacrifice
-in the fire of restraint; others offer sound and other objects of the
-senses as sacrifice in the fire of the senses.
+4.26 Some again offer the organ of hearing and other senses as sacrifice in the fire of restraint; others offer sound and other objects of the senses as sacrifice in the fire of the senses.
 
 </details>
 </div>
@@ -461,12 +448,7 @@ senses as sacrifice in the fire of the senses.
 4.26 श्रोत्रादीनि इन्द्रियाणि organ of hearing and other senses; अन्ये
 others; संयमाग्निषु in the fire of restraint; जुह्वति sacrifice;
 शब्दादीन् विषयान् senseobjects such as sound; etc.; अन्ये others;
-इन्द्रियाग्निषु in the fire of the senses; जुह्वति sacrifice.Commentary
-Some Yogis are constantly engaged in restraining the senses. They gather
-their senses under the guidance of the Self and do not allow them to
-come in contact with the sensual objects. This is also an act of
-sacficie. Others direct their senses only to the pure and unforbidden
-objects of the senses. This is also a kind of sacrifice.
+इन्द्रियाग्निषु in the fire of the senses; जुह्वति sacrifice.Commentary Some Yogis are constantly engaged in restraining the senses. They gather their senses under the guidance of the Self and do not allow them to come in contact with the sensual objects. This is also an act of sacficie. Others direct their senses only to the pure and unforbidden objects of the senses. This is also a kind of sacrifice.
 
 </details>
 </div>

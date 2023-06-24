@@ -65,15 +65,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.41 - 11.42 Infinite power, boundless valour, being the Inner Self of
-everything, being the creator etc., these constitute Your majesty. Being
-ignorant of this, and considering You only as a friend, and out of
-conseent love, or negligence born of life-long familiarity, whatever has
-been said rudely, without showing courtesy, such as 'O Krsna, O Yadava,
-O Comrade'; and whatever disrespect has been shown to You in jest, while
-playing or resting, while sitting or eating, while alone or in the sight
-of others - for all these I beseech forgiveness of You who are in
-incomprehensible.
+11.41 - 11.42 Infinite power, boundless valour, being the Inner Self of everything, being the creator etc., these constitute Your majesty. Being ignorant of this, and considering You only as a friend, and out of conseent love, or negligence born of life-long familiarity, whatever has been said rudely, without showing courtesy, such as 'O Krsna, O Yadava,
+O Comrade'; and whatever disrespect has been shown to You in jest, while playing or resting, while sitting or eating, while alone or in the sight of others - for all these I beseech forgiveness of You who are in incomprehensible.
 
 </details>
 </div>
@@ -317,9 +310,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.41. Taking You for a \[mere\] companion, not knowing this greatness
-of Yours, and out of my carelessness or through even affection, whatever
-I have importunately called You as O Krsna, O Yadava, O Comrade; and,
+11.41. Taking You for a \[mere\] companion, not knowing this greatness of Yours, and out of my carelessness or through even affection, whatever I have importunately called You as O Krsna, O Yadava, O Comrade; and,
 
 </details>
 </div>
@@ -328,25 +319,21 @@ I have importunately called You as O Krsna, O Yadava, O Comrade; and,
 
 11.41 Without knowing this greatness of Yours, whatever was said by me
 (to You) rashly, through inadvertence or even out of intimacy, thinking
-(You to be) a friend, addressing (You) as 'O krsna,' 'O Yadava,' 'O
-friend,' etc.-.
+(You to be) a friend, addressing (You) as 'O krsna,' 'O Yadava,' 'O friend,' etc.-.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.41 Whatever I have said unto Thee in rashness, taking Thee only for a
-friend and addressing Thee as O Krishna! O Yadava! O Friend!' in
-thoughtless familiarity, no understanding Thy greatness;
+11.41 Whatever I have said unto Thee in rashness, taking Thee only for a friend and addressing Thee as O Krishna! O Yadava! O Friend!' in thoughtless familiarity, no understanding Thy greatness;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/41_sakheti_matvA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.41 Unaware of this majesty of Yours, and either from negligence or
-love, or considering You to be a friend, whatever I have rudely said as
+11.41 Unaware of this majesty of Yours, and either from negligence or love, or considering You to be a friend, whatever I have rudely said as
 'O Krsna, O Yadava, O Comrade.'
 
 </details>
@@ -355,8 +342,7 @@ love, or considering You to be a friend, whatever I have rudely said as
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 11.41 Whatever I have presumptuously said from carelessness or love,
-addressing Thee as O Krishna! O Yadava! O Friend! regarding Thee merely
-as a friend, unknowing of this, Thy greatness.
+addressing Thee as O Krishna! O Yadava! O Friend! regarding Thee merely as a friend, unknowing of this, Thy greatness.
 
 </details>
 </div>
@@ -364,8 +350,7 @@ as a friend, unknowing of this, Thy greatness.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 11.41 सखा friend; इति as; मत्वा regarding; प्रसभम् presumptuously; यत्
-whatever; उक्तम् said; हे कृष्ण O Krishna; हे यादव O Yadava; हे सखा O
-friend; इति thus; अजानता unknowing; महिमानम् greatness; तव Thy; इदम्
+whatever; उक्तम् said; हे कृष्ण O Krishna; हे यादव O Yadava; हे सखा O friend; इति thus; अजानता unknowing; महिमानम् greatness; तव Thy; इदम्
 this; मया by me; प्रमादात् from carelessness; प्रणयेन due to love; वा
 or; अपि even.No Commentary.
 

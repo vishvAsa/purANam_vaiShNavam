@@ -67,21 +67,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.8 By 'false knowledge' is here to be understood as what is other than
-knowledge. What is called knowledge is right perception of things. What
-is other than this is false knowledge. And Tamas springs from knowledge
-contrary to the true nature of thinngs. It deludes all embodied selves.
-Delusion is erroneous knowledge. The meaning is that Tamas is the cause
-of erroneous knowledge. Being the cause of negligence, indolence and
-sleep, it binds the embodied self through them. 'Negligence' is
-inattentiveness, which causes one to perform works other than what ought
-to be done. 'Indolence' is the tendency to avoid work; it may even
-develop into absolute inaction. 'Sleep.' is the state in which the
-external organs stop working due to exhaustion and seek to recover from
-the same. In sleep when only the outgoing actionof the senses stop, it
-is called dream state. When even the mind (Manas) ceases to function, it
-is called dreamless sleep. He states the cardinal feature forming the
-ways of bondage through Sattva etc.
+14.8 By 'false knowledge' is here to be understood as what is other than knowledge. What is called knowledge is right perception of things. What is other than this is false knowledge. And Tamas springs from knowledge contrary to the true nature of thinngs. It deludes all embodied selves.
+Delusion is erroneous knowledge. The meaning is that Tamas is the cause of erroneous knowledge. Being the cause of negligence, indolence and sleep, it binds the embodied self through them. 'Negligence' is inattentiveness, which causes one to perform works other than what ought to be done. 'Indolence' is the tendency to avoid work; it may even develop into absolute inaction. 'Sleep.' is the state in which the external organs stop working due to exhaustion and seek to recover from the same. In sleep when only the outgoing actionof the senses stop, it is called dream state. When even the mind (Manas) ceases to function, it is called dreamless sleep. He states the cardinal feature forming the ways of bondage through Sattva etc.
 
 </details>
 </div>
@@ -409,8 +396,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.8. But, you should \[also\] know that the Tamas is born of ignorance
-and is a deluder of all the Embodied; it binds \[them\] by negligence,
+14.8. But, you should \[also\] know that the Tamas is born of ignorance and is a deluder of all the Embodied; it binds \[them\] by negligence,
 laziness and sleep, O descendant of Bharata !
 
 </details>
@@ -419,33 +405,28 @@ laziness and sleep, O descendant of Bharata !
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 14.8 On the other hand, know tamas, which deludes all embodied beings,
-to be born of ignorance. O scion of the Bharata dynasty, that binds
-through inadvertence, laziness and sleep.
+to be born of ignorance. O scion of the Bharata dynasty, that binds through inadvertence, laziness and sleep.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.8 But Ignorance, the product of darkness, stupefies the senses in all
-embodied beings, binding them by chains of folly, indolence and
-lethargy.
+14.8 But Ignorance, the product of darkness, stupefies the senses in all embodied beings, binding them by chains of folly, indolence and lethargy.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.8 Know that Tamas is born of false knowledge and deludes all embodied
-selves. It binds, O Arjuna, with negligence, indolence and sleep.
+14.8 Know that Tamas is born of false knowledge and deludes all embodied selves. It binds, O Arjuna, with negligence, indolence and sleep.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/08_tamastvajnAnajaM_.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.8 But know thou Tamas to be born of ignorance, deluding all embodied
-beings; it binds fast, O Arjuna, by heedlessness, indolence and sleep.
+14.8 But know thou Tamas to be born of ignorance, deluding all embodied beings; it binds fast, O Arjuna, by heedlessness, indolence and sleep.
 
 </details>
 </div>
@@ -455,26 +436,10 @@ beings; it binds fast, O Arjuna, by heedlessness, indolence and sleep.
 14.8 तमः inertia; तु but; अज्ञानजम् born of ignorance; विद्धि know;
 मोहनम् deluding; सर्वदेहिनाम् to all,embodied beings;
 प्रमादालस्यनिद्राभिः by heedlessness; indolence and sleep; तत् that;
-निबध्नाति binds fast; भारत O descendant of Bharata (Arjuna).Commentary
-Tamas is that binding force with a tendency to lethargy; sloth and
-foolish actions. It causes delusion or nondiscrimination. It binds him
-who associates the Self with the body. A Tamasic man acts under the
-compulsion of the wants of the body. He has no power of judgment.
-Troubled by the wants of the body he acts under pressure to keep himself
-alive. His actions are not guided by reason. They are on the plane of
-instinct. His senses are dull. He becomes infatuated and stupefied. He
-has no inclination to work. He yawns much. He sleeps too much. He always
-wants to sleep. He nevr knows when and how to act; what; to whom and how
-to talk. He takes delight in following the wrong path. He does not know
-how to behave or how to address others. He is thoughtless and ignorant.
-He forgets everything. He is negligent and indolent. He is just in a
-stage higher than lifeless matter.He who is under the grip of
-heedlessness (Pramada) is not able to discriminate between the eternal
-and the noneternal. This is an enemy of illumination; the effect of
-Sattva. He who is overpowered by laziness (Alasya) is not able to exert.
-This is an enemy of Pravritti; the effect of Rajas. Sleep (Nidra) is
-LayaVritti; (a state of absorption into ignorance) which is dependent on
-Tamas. This is the enemy of the works done by Sattva and Rajas.
+निबध्नाति binds fast; भारत O descendant of Bharata (Arjuna).Commentary Tamas is that binding force with a tendency to lethargy; sloth and foolish actions. It causes delusion or nondiscrimination. It binds him who associates the Self with the body. A Tamasic man acts under the compulsion of the wants of the body. He has no power of judgment.
+Troubled by the wants of the body he acts under pressure to keep himself alive. His actions are not guided by reason. They are on the plane of instinct. His senses are dull. He becomes infatuated and stupefied. He has no inclination to work. He yawns much. He sleeps too much. He always wants to sleep. He nevr knows when and how to act; what; to whom and how to talk. He takes delight in following the wrong path. He does not know how to behave or how to address others. He is thoughtless and ignorant.
+He forgets everything. He is negligent and indolent. He is just in a stage higher than lifeless matter.He who is under the grip of heedlessness (Pramada) is not able to discriminate between the eternal and the noneternal. This is an enemy of illumination; the effect of Sattva. He who is overpowered by laziness (Alasya) is not able to exert.
+This is an enemy of Pravritti; the effect of Rajas. Sleep (Nidra) is LayaVritti; (a state of absorption into ignorance) which is dependent on Tamas. This is the enemy of the works done by Sattva and Rajas.
 
 </details>
 </div>

@@ -94,28 +94,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.17 But there is the 'Supreme Person who is other than the bound and
-liberated selves' expressed by the terms, the 'perishable' and the
-'imperishable'. He forms a completely different category. All Srutis
-call Him the Supreme Self. But by that very designation as the Supreme
-Self, it may be known that the Supreme Person is a category distinct
-from the bound and the liberated selves. How; 'Entering the threefold
-world,' supports it. 'Loka' (world) is that which is perceived. There
-are three such perceivable worlds, He enters the 'three worlds' which
-can be understood from the authority of the Srutis. These are the world
-of unconscient matter, the world of conscient selves conjoined with
-matter, and the world of liberated selves. As understandable from the
-Srutis, He enters into these three categories as their Atman and
-supports them. Thus, He is an entity different from the triad which He
-pervades and maintains. Further He is different, as He is imperishable
-and as He is the Lord. Being imperishable, He is different from the
-bound non-conscient matter whose nature is subject to decay. He is
-different from the bound conscient selves as the latter is subject to
-Prakrti and follows its laws. He is also distinguished from the
-liberated selves, because in their previous condition they were
-connected with matter and mixed with it. Similarly, He is the Lord of
-these 'three worlds,' a category distinct from those which have to be
-ruled.
+15.17 But there is the 'Supreme Person who is other than the bound and liberated selves' expressed by the terms, the 'perishable' and the
+'imperishable'. He forms a completely different category. All Srutis call Him the Supreme Self. But by that very designation as the Supreme Self, it may be known that the Supreme Person is a category distinct from the bound and the liberated selves. How; 'Entering the threefold world,' supports it. 'Loka' (world) is that which is perceived. There are three such perceivable worlds, He enters the 'three worlds' which can be understood from the authority of the Srutis. These are the world of unconscient matter, the world of conscient selves conjoined with matter, and the world of liberated selves. As understandable from the Srutis, He enters into these three categories as their Atman and supports them. Thus, He is an entity different from the triad which He pervades and maintains. Further He is different, as He is imperishable and as He is the Lord. Being imperishable, He is different from the bound non-conscient matter whose nature is subject to decay. He is different from the bound conscient selves as the latter is subject to Prakrti and follows its laws. He is also distinguished from the liberated selves, because in their previous condition they were connected with matter and mixed with it. Similarly, He is the Lord of these 'three worlds,' a category distinct from those which have to be ruled.
 
 </details>
 </div>
@@ -456,17 +436,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-15.17. But the Highest Person, distinct \[from both this\] is spoken of
-as the Supreme Self, which, being the changeless Lord, sustains the
-triad of the world by entering into it.
+15.17. But the Highest Person, distinct \[from both this\] is spoken of as the Supreme Self, which, being the changeless Lord, sustains the triad of the world by entering into it.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.17 But different is th supreme Person who is spoken of as the
-transcendental Self, who, permeating the three worlds, upholds (them),
+15.17 But different is th supreme Person who is spoken of as the transcendental Self, who, permeating the three worlds, upholds (them),
 and is the imperisahble God.
 
 </details>
@@ -474,25 +451,21 @@ and is the imperisahble God.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.17 But higher than all am I, the Supreme God, the Absolute Self, the
-Eternal Lord, Who pervades the worlds and upholds them all.
+15.17 But higher than all am I, the Supreme God, the Absolute Self, the Eternal Lord, Who pervades the worlds and upholds them all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-15.17 There is the Supreme Person other than these. He is named the
-Supreme Self (Paramatma) in all the Vedas. He who, as the Immutable One
-and the Lord, entering the threefold world, supports it.
+15.17 There is the Supreme Person other than these. He is named the Supreme Self (Paramatma) in all the Vedas. He who, as the Immutable One and the Lord, entering the threefold world, supports it.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/17_uttamaH_puruShast.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-15.17 But distinct is the Supreme Purusha called the highest Self, the
-indestructible Lord Who, pervading the three worlds, sustains them.
+15.17 But distinct is the Supreme Purusha called the highest Self, the indestructible Lord Who, pervading the three worlds, sustains them.
 
 </details>
 </div>
@@ -501,38 +474,8 @@ indestructible Lord Who, pervading the three worlds, sustains them.
 
 15.17 उत्तमः the Supreme; पुरुषः Purusha; तु but; अन्यः another;
 परमात्मा the highest; Self; इति thus; उदाहृतः called; यः who; लोकत्रयम्
-the three worlds; आविश्य pervading; बिभर्ति sustains; अव्ययः the
-indestructible; ईश्वरः Lord.Commentary Purushottama is beyond the
-universe though He pervades the three worlds. Therefore He is called the
-Supreme Being by the Vedas and men of this world. He pervades the three
-worlds and upholds them yet; He is not tainted by the world. He is above
-the world or worldliness.Just as the waking state is different from the
-dram or the deep sleep states; just as the orb of the sun is different
-from his rays or the mirage they casue; so also is the highest Purusha
-different from the perishable and the imperishable Purushas.The highest
-Purusha is the haven of peace. In Him all take their refuge and eternal
-rest. He is incomparable for He is selfcontained there is nothing like
-Him. He can only be compared to Himself. The imperishable Being (Akshara
-Brahman) Who is beyond the world and the Avyaktam (the Unmanifested) are
-essentially the same as the Purushottama Who transcends both the Kshara
-and the Akshara.The Purushottama is ite distinct from the two -- Kshara
-and Akshara. He is the Supreme Being. The physical body; the astral body
-and the causal body are also termed the Self. But these are secondary
-selves. Paramatma or the Supreme Self is the primary Self. Purushottama
-or Paramatma is the supreme or the highest when compared with the other
-secondary selves created by ignorance. He is the innermost consciousness
-of all beings. He is the support of everything. He is the Niyanta; the
-Inner Ruler. He is independent. Therefore He is known as the Supreme
-Self in the Vedanta.Anyah Another; ite distinct from the two.Lokatrayam
-The three worlds Bhuh (the earth); Bhuvah (the midregion) and Svah
-(heaven) are the three worlds.Purushottama is further described as
-follows He is the imperishable and omniscient Lord Narayana Who
-permeates the three worlds by His vital energy and sustains them by His
-mere existence in them.Avyaya Imperishable; that which is free from the
-modifications such as birth; death; etc. Just as the king who rules his
-subjects and controls them is distinct from them; so also the Supreme
-Being Who is the ruler of the perishable and the imperishable is
-distinct from them. (Cf.VIII.20)
+the three worlds; आविश्य pervading; बिभर्ति sustains; अव्ययः the indestructible; ईश्वरः Lord.Commentary Purushottama is beyond the universe though He pervades the three worlds. Therefore He is called the Supreme Being by the Vedas and men of this world. He pervades the three worlds and upholds them yet; He is not tainted by the world. He is above the world or worldliness.Just as the waking state is different from the dram or the deep sleep states; just as the orb of the sun is different from his rays or the mirage they casue; so also is the highest Purusha different from the perishable and the imperishable Purushas.The highest Purusha is the haven of peace. In Him all take their refuge and eternal rest. He is incomparable for He is selfcontained there is nothing like Him. He can only be compared to Himself. The imperishable Being (Akshara Brahman) Who is beyond the world and the Avyaktam (the Unmanifested) are essentially the same as the Purushottama Who transcends both the Kshara and the Akshara.The Purushottama is ite distinct from the two -- Kshara and Akshara. He is the Supreme Being. The physical body; the astral body and the causal body are also termed the Self. But these are secondary selves. Paramatma or the Supreme Self is the primary Self. Purushottama or Paramatma is the supreme or the highest when compared with the other secondary selves created by ignorance. He is the innermost consciousness of all beings. He is the support of everything. He is the Niyanta; the Inner Ruler. He is independent. Therefore He is known as the Supreme Self in the Vedanta.Anyah Another; ite distinct from the two.Lokatrayam The three worlds Bhuh (the earth); Bhuvah (the midregion) and Svah
+(heaven) are the three worlds.Purushottama is further described as follows He is the imperishable and omniscient Lord Narayana Who permeates the three worlds by His vital energy and sustains them by His mere existence in them.Avyaya Imperishable; that which is free from the modifications such as birth; death; etc. Just as the king who rules his subjects and controls them is distinct from them; so also the Supreme Being Who is the ruler of the perishable and the imperishable is distinct from them. (Cf.VIII.20)
 
 </details>
 </div>

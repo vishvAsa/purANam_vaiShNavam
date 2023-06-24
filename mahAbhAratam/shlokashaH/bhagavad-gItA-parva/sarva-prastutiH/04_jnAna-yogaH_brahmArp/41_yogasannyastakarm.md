@@ -59,11 +59,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 4.41 The countless ancient Karmas which constitute the cause of bondage,
-do not bind him who has renounced actions through Karma Yoga in the
-manner explained before, who has sundered all doubts concerning the self
-by the knowledge of the self in the manner explained before, and who is
-of steady mind, i.e., unshakable, with the mind focussed steadily on the
-meaning that has been forth.
+do not bind him who has renounced actions through Karma Yoga in the manner explained before, who has sundered all doubts concerning the self by the knowledge of the self in the manner explained before, and who is of steady mind, i.e., unshakable, with the mind focussed steadily on the meaning that has been forth.
 
 </details>
 </div>
@@ -369,16 +365,14 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 4.41. O Dhananjaya ! Actions do not bind him who has renounced \[all\]
-actions through Yoga; who has cut off his doubts by the sword of
-knowledge; and who is a master of his own self.
+actions through Yoga; who has cut off his doubts by the sword of knowledge; and who is a master of his own self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.41 O Dhananjaya (Arjuna), actions do not bind one who has renounced
-actions through yoga, whose doubt has been fully dispelled by Knowledge,
+4.41 O Dhananjaya (Arjuna), actions do not bind one who has renounced actions through yoga, whose doubt has been fully dispelled by Knowledge,
 and who is not inadvertent.
 
 </details>
@@ -386,27 +380,21 @@ and who is not inadvertent.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.41 But the man who has renounced his action for meditation, who has
-cleft his doubt in twain by the sword of wisdom, who remains always
-enthroned in his Self, is not bound by his acts.
+4.41 But the man who has renounced his action for meditation, who has cleft his doubt in twain by the sword of wisdom, who remains always enthroned in his Self, is not bound by his acts.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.41 Actions do not bind him, O Arjuna, who has renounced them through
-Karma Yoga and whose doubts are sundered by knowledge, and who therefore
-possesses a steady mind.
+4.41 Actions do not bind him, O Arjuna, who has renounced them through Karma Yoga and whose doubts are sundered by knowledge, and who therefore possesses a steady mind.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/41_yogasannyastakarm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.41 He who has renounced actions by Yoga, whose doubts are rent asunder
-by knowledge, and who is self-possessed actions do not bind him, O
-Arjuna.
+4.41 He who has renounced actions by Yoga, whose doubts are rent asunder by knowledge, and who is self-possessed actions do not bind him, O Arjuna.
 
 </details>
 </div>
@@ -416,13 +404,7 @@ Arjuna.
 4.41 योगसंन्यस्तकर्माणम् one who has renounced actions by Yoga;
 ज्ञानसंछिन्नसंशयम् one whose doubts are rent asunder by knowledge;
 आत्मवन्तम् possessing the self; न not; कर्माणि actions; निबध्नन्ति bind;
-धनञ्जय O Dhananjaya.Commentary Sri Madhusudana Sarasvati explains
-Atmavantam as always watchful.He who has attained to Selfrealisation
-renounces all actions by means of Yoga or the knowledge of Brahman. As
-he is established in the knowledge of the identity of the individual
-soul with the,Supreme Soul; all his doubts are cut asunder. Actions do
-not bind him as they are burnt in the fire of wisdom and as he is always
-watchful over himself. (Cf.II.48III.9IV.20)
+धनञ्जय O Dhananjaya.Commentary Sri Madhusudana Sarasvati explains Atmavantam as always watchful.He who has attained to Selfrealisation renounces all actions by means of Yoga or the knowledge of Brahman. As he is established in the knowledge of the identity of the individual soul with the,Supreme Soul; all his doubts are cut asunder. Actions do not bind him as they are burnt in the fire of wisdom and as he is always watchful over himself. (Cf.II.48III.9IV.20)
 
 </details>
 </div>

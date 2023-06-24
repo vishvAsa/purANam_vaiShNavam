@@ -100,24 +100,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.54 'Having realised the state of Brahman,' means having got from
-revelation an understanding of the nature of the self as consisting of
-unlimited knowledge and of being a Sesa (subservient being) to Me.
-Subservience to Me has been posited in, 'Know that which is other than
-this (Prakrti or lower Nature) to be the higher Prakrti of Mine' (7.5).
-One who is 'tranil' means one who is not contaminated by various forms
-of grief (the five Klesas of Yoga-sutras), and does not grieve about any
-being other than Myself, nor desires anything other than Myself. On the
-other hand, he becomes eally indifferent to all beings other than Myself
-as worthless as straw and attains supreme Bhakti for Me. He attains
-'supreme devotion' to Me, which is of the form of an experience which
-makes Me dear beyond all description - Me the Lord of all, to whom
-creation, protection and dissolution of the universe is a sport, who is
-devoid of the slightest trace of evil, who is the sole seat of countless
-hosts of auspicious attributes which are excellent and unlimited; and
-who is the ocean of the elixir of beauty; who is the Lord of Sri; who is
-Lotus-eyed; and who is the self's own Lord. Sri Krsna declares the
-fruits of this (devotion):
+18.54 'Having realised the state of Brahman,' means having got from revelation an understanding of the nature of the self as consisting of unlimited knowledge and of being a Sesa (subservient being) to Me.
+Subservience to Me has been posited in, 'Know that which is other than this (Prakrti or lower Nature) to be the higher Prakrti of Mine' (7.5).
+One who is 'tranil' means one who is not contaminated by various forms of grief (the five Klesas of Yoga-sutras), and does not grieve about any being other than Myself, nor desires anything other than Myself. On the other hand, he becomes eally indifferent to all beings other than Myself as worthless as straw and attains supreme Bhakti for Me. He attains
+'supreme devotion' to Me, which is of the form of an experience which makes Me dear beyond all description - Me the Lord of all, to whom creation, protection and dissolution of the universe is a sport, who is devoid of the slightest trace of evil, who is the sole seat of countless hosts of auspicious attributes which are excellent and unlimited; and who is the ocean of the elixir of beauty; who is the Lord of Sri; who is Lotus-eyed; and who is the self's own Lord. Sri Krsna declares the fruits of this (devotion):
 
 </details>
 </div>
@@ -503,45 +489,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.54. Having become the Brahman, the serene-minded one neither grieves
-nor rejoices; remaining eal to all beings, he gains the highest devotion
-to Me.
+18.54. Having become the Brahman, the serene-minded one neither grieves nor rejoices; remaining eal to all beings, he gains the highest devotion to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.54 One who has become Brahman and has attained the blissful Self does
-not grieve or desire. Becoming the same towards all beings, he attains
-supreme devotion to Me.
+18.54 One who has become Brahman and has attained the blissful Self does not grieve or desire. Becoming the same towards all beings, he attains supreme devotion to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.54 And when he becomes one with the Eternal, and his soul knows the
-bliss that belongs to the Self, he feels no desire and no regret, he
-regards all beings equally and enjoys the blessing of supreme devotion
-to Me.
+18.54 And when he becomes one with the Eternal, and his soul knows the bliss that belongs to the Self, he feels no desire and no regret, he regards all beings equally and enjoys the blessing of supreme devotion to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.54 Having realised the state of Brahman, tranil, he neither grieves
-nor craves. Regarding all beings alike, he attains supreme devotion to
-Me.
+18.54 Having realised the state of Brahman, tranil, he neither grieves nor craves. Regarding all beings alike, he attains supreme devotion to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/54_brahmabhUtaH_pras.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.54 Becoming Brahman, serene in the Self, he neither grieves nor
-desires, the same to all beings, he obtains supreme devotion to Me.
+18.54 Becoming Brahman, serene in the Self, he neither grieves nor desires, the same to all beings, he obtains supreme devotion to Me.
 
 </details>
 </div>
@@ -551,33 +527,8 @@ desires, the same to all beings, he obtains supreme devotion to Me.
 18.54 ब्रह्मभूतः having become Brahman; प्रसन्नात्मा sereneminded; न
 not; शोचति (he) grieves; न not; काङ्क्षति desires; समः the same; सर्वेषु
 all; भूतेषु in beings; मद्भक्तिम् devotion unto Me; लभते obtains; पराम्
-supreme.Commentary Brahmabhutah Having attained to Brahman. His
-attainment of perfect freedom or oneness with the Supreme is described
-in the next verse.He is tranilminded. He is in a state of balance and
-eanimity. There is nothing connected with the little personality that
-may cause him to grieve or prompt him to feel desire. When this state is
-attained; the multiplicity of objects gradually disappears and he
-perceives only unity everywhere. The waking and dream consciousness that
-gives rise to false knowledge gradually passes away.He does not grieve
-about his bodily wants. If he fails in his attempt to fulfil them; he
-does not grieve either. He always keeps evenness of mind in success and
-failure. He has no longing for any object that is not attained.Na
-sochati na kankshati can also be interpreted as he neither grieves nor
-exults.Samah sarveshu bhuteshu may also mean he puts himself in the
-position of others and feels for others. If anyone is in acute agony or
-distress; he himself feels that he is affected. His heart is very tender
-and soft. He is extremely compassionate and merciful. He considers that
-the pleasure and pain of all beings are his own. If others rejoice he
-also rejoices if others are in distress; he also is distressed. His
-heart is so much expanded that he feels for all. Jealousy; narrowness of
-heart; pettymindedness; the idea of separateness; all barriers that
-separate man from man; prejudices of all sorts and dislike for others --
-all vanished in toto. He has cosmic love. He is a cosmic benefactor. He
-is the friend of all. This state of expansion is beyond description. One
-has to experience it for oneself. Such a devotee or aspirant attains
-supreme devotion to Me; the fourth or the highest of the four kinds of
-devotion mentioned in verse 16 of chapter VII; viz.; devotion of
-knowledge of the man of wisdom. (Cf.II.70)
+supreme.Commentary Brahmabhutah Having attained to Brahman. His attainment of perfect freedom or oneness with the Supreme is described in the next verse.He is tranilminded. He is in a state of balance and eanimity. There is nothing connected with the little personality that may cause him to grieve or prompt him to feel desire. When this state is attained; the multiplicity of objects gradually disappears and he perceives only unity everywhere. The waking and dream consciousness that gives rise to false knowledge gradually passes away.He does not grieve about his bodily wants. If he fails in his attempt to fulfil them; he does not grieve either. He always keeps evenness of mind in success and failure. He has no longing for any object that is not attained.Na sochati na kankshati can also be interpreted as he neither grieves nor exults.Samah sarveshu bhuteshu may also mean he puts himself in the position of others and feels for others. If anyone is in acute agony or distress; he himself feels that he is affected. His heart is very tender and soft. He is extremely compassionate and merciful. He considers that the pleasure and pain of all beings are his own. If others rejoice he also rejoices if others are in distress; he also is distressed. His heart is so much expanded that he feels for all. Jealousy; narrowness of heart; pettymindedness; the idea of separateness; all barriers that separate man from man; prejudices of all sorts and dislike for others --
+all vanished in toto. He has cosmic love. He is a cosmic benefactor. He is the friend of all. This state of expansion is beyond description. One has to experience it for oneself. Such a devotee or aspirant attains supreme devotion to Me; the fourth or the highest of the four kinds of devotion mentioned in verse 16 of chapter VII; viz.; devotion of knowledge of the man of wisdom. (Cf.II.70)
 
 </details>
 </div>

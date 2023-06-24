@@ -92,10 +92,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.8 - 7.11 All these entities with their peculiar characteristic are
-born from Me alone. They depend on Me; inasmuch as they constitute My
-body, they exist in Me alone. Thus I alone exist while all of them are
-only My modes.
+7.8 - 7.11 All these entities with their peculiar characteristic are born from Me alone. They depend on Me; inasmuch as they constitute My body, they exist in Me alone. Thus I alone exist while all of them are only My modes.
 
 </details>
 </div>
@@ -473,41 +470,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.9. I am the pure smell in the earth; I am also the brilliance in the
-sun; I am the life in al beings and austerity in the ascetics.
+7.9. I am the pure smell in the earth; I am also the brilliance in the sun; I am the life in al beings and austerity in the ascetics.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.9 I am also the sweet fragrance in the earth; I am the brillinace in
-the fire, and the life in all beings; and I am the austerity of the
-ascetics.
+7.9 I am also the sweet fragrance in the earth; I am the brillinace in the fire, and the life in all beings; and I am the austerity of the ascetics.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.9 I am the Fragrance of earth, the Brilliance of fire. I am the Life
-Force in all beings, and I am the Austerity of the ascetics.
+7.9 I am the Fragrance of earth, the Brilliance of fire. I am the Life Force in all beings, and I am the Austerity of the ascetics.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.9 I am the pure smell in the earth; I am the brilliance in the fire; I
-am the life-principle in all beings, and austerity in ascetics.
+7.9 I am the pure smell in the earth; I am the brilliance in the fire; I am the life-principle in all beings, and austerity in ascetics.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/09_puNyo_gandhaH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.9 I am the sweet fragrance in the earth and the brilliance in the
-fire, the life in all beings, and I am the austerity in ascetics.
+7.9 I am the sweet fragrance in the earth and the brilliance in the fire, the life in all beings, and I am the austerity in ascetics.
 
 </details>
 </div>
@@ -517,13 +508,7 @@ fire, the life in all beings, and I am the austerity in ascetics.
 7.9 पुण्यः sweet; गन्धः fragrance; पृथिव्याम् in earth; च and; तेजः
 brilliance; च and; अस्मि am (I); विभावसौ in fire; जीवनम् life;
 सर्वभूतेषु in all beings; तपः austerity; च and; अस्मि am (I); तपस्विषु
-in ascetics.Commentary In Me as odour in the earth woven in Me as
-brilliance is the fire woven in Me as life all beings are woven in Me as
-austerity all ascetics are woven. I am the support (Adhishthanam or
-Asraya) for everything.I am the power or Sakti which helps the ascetics
-to control the mind and the senses.Krishna says; I am the agreeable
-odour. If Arjuna had asked Him; Then who is the disagreeable odour; He
-would have replied; It is also I.
+in ascetics.Commentary In Me as odour in the earth woven in Me as brilliance is the fire woven in Me as life all beings are woven in Me as austerity all ascetics are woven. I am the support (Adhishthanam or Asraya) for everything.I am the power or Sakti which helps the ascetics to control the mind and the senses.Krishna says; I am the agreeable odour. If Arjuna had asked Him; Then who is the disagreeable odour; He would have replied; It is also I.
 
 </details>
 </div>

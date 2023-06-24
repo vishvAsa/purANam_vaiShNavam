@@ -83,30 +83,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.51 - 18.53 'Endowed with a purified understanding' means endowed with
-the Buddhi capable of understanding the self as it is in reality;
-'subduing the mind by steadiness' means making the mind fit for
-meditation by turning away from external and internal objects;
-'relinishing sound and other objects of senses' means keeping them far
-away, casting aside love and hate occasioned by them (i.e., the sense
-objects). 'Resorting to solitude' means living in a lonely place free
-from hindrances to meditation; 'eat but little' means eating neither too
-much nor too little; 'restraining speech, body and mind' means directing
-the operations of body, speech and mind to meditation; 'ever engaged in
-the Yoga of meditation' means being like this, i.e., constantly engaged
-in the Yoga of meditation day after day until death; 'taking refuge in
-dispassion' means developing aversion to all objects except the one
-entity to be meditated upon, by considering the imperfections of all
-objects and thus cultivating detachment to everything. Forsaking
-'egoism' means abandoning the tendency to consider what is other than
-the self, as well as neutralising the power of forcible Vasnas
+18.51 - 18.53 'Endowed with a purified understanding' means endowed with the Buddhi capable of understanding the self as it is in reality;
+'subduing the mind by steadiness' means making the mind fit for meditation by turning away from external and internal objects;
+'relinishing sound and other objects of senses' means keeping them far away, casting aside love and hate occasioned by them (i.e., the sense objects). 'Resorting to solitude' means living in a lonely place free from hindrances to meditation; 'eat but little' means eating neither too much nor too little; 'restraining speech, body and mind' means directing the operations of body, speech and mind to meditation; 'ever engaged in the Yoga of meditation' means being like this, i.e., constantly engaged in the Yoga of meditation day after day until death; 'taking refuge in dispassion' means developing aversion to all objects except the one entity to be meditated upon, by considering the imperfections of all objects and thus cultivating detachment to everything. Forsaking
+'egoism' means abandoning the tendency to consider what is other than the self, as well as neutralising the power of forcible Vasnas
 (tendencies) which nourish (egoism), and the resulting pride, desire,
-wrath and possessiveness. 'With no feeling of mine' means free from the
-notion that what does not belong to oneself belongs to oneself; 'Who is
-tranil' means, who finds sole happiness in experiencing the self. One
-who has become like this and performs the Yoga of meditation becomes
-worthy for the state of Brahman. The meaning is that, freed from all
-bonds, he experiences the self as It really is.
+wrath and possessiveness. 'With no feeling of mine' means free from the notion that what does not belong to oneself belongs to oneself; 'Who is tranil' means, who finds sole happiness in experiencing the self. One who has become like this and performs the Yoga of meditation becomes worthy for the state of Brahman. The meaning is that, freed from all bonds, he experiences the self as It really is.
 
 </details>
 </div>
@@ -523,46 +505,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.52. Who enjoys solitude, eats lightly, has controlled his
-speech-organ, body and mind; who is permanently devoted to the
-meditation-Yoga; and who has taken shelter in the perennial
-desirelessness;
+18.52. Who enjoys solitude, eats lightly, has controlled his speech-organ, body and mind; who is permanently devoted to the meditation-Yoga; and who has taken shelter in the perennial desirelessness;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.52 One who resorts to solitude, eats sparingly, has speech, body and
-mind under control, to whom meditation and concentration are ever the
-highest (duty), and who is possessed of dispassion;
+18.52 One who resorts to solitude, eats sparingly, has speech, body and mind under control, to whom meditation and concentration are ever the highest (duty), and who is possessed of dispassion;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.52 Enjoying solitude, abstemiousness, his body, mind and speech under
-perfect control, absorbed in meditation, he becomes free - always filled
-with the spirit of renunciation.
+18.52 Enjoying solitude, abstemiousness, his body, mind and speech under perfect control, absorbed in meditation, he becomes free - always filled with the spirit of renunciation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.52 Resorting to solitude, eating but little, restraining speech, body
-and mind, ever engaged in the Yoga of meditation and taking refuge in
-dispassion;
+18.52 Resorting to solitude, eating but little, restraining speech, body and mind, ever engaged in the Yoga of meditation and taking refuge in dispassion;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/52_viviktasevI_laghv.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.52 Dwelling in solitude, eating but little, with speech, body and
-mind subdued, always engaged in meditation and concentration, resorting
-to dispassion.
+18.52 Dwelling in solitude, eating but little, with speech, body and mind subdued, always engaged in meditation and concentration, resorting to dispassion.
 
 </details>
 </div>
@@ -570,51 +541,12 @@ to dispassion.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.52 विविक्तसेवी dwelling in solitude; लघ्वाशी eating but little;
-यतवाक्कायमानसः speech; body and mind subdued; ध्यानयोगपरः engaged in
-meditation and concentration; नित्यम् always; वैराग्यम् dispassion;
-समुपाश्रितः resorting to.Commentary Solitude has its own charms. The
-spiritual vibrations in solitude are wonderfully elevating. Meditation
-will come by itself without exertion. All saints and sages who have
-attained Selfrealisation have remained in solitude for a number of
-years. You will have good meditation if you sit on the bank of a river;
-in a cave or on the seashore or in a jungle. During the Christmas and
-Easter holidays you can all enjoy the peace of solitude. It is very
-necessary to live in solitude at least for a month or a fortnight in a
-year for the householders. Instead of wasting time; energy and money in
-Calcutta or any other city; during the holidays; live in holy places
-like Rishikesh; Uttarakasi or Naimisaranya drink the nectar of peace in
-such places by doing Anushthana (intense and systematic spiritual
-practice) or Japa of a Mantra and attain immortality. If you once taste
-the bliss of solitude you will never forget it. Every year you will
-attempt to taste it again. He who takes too much food (a glutton) is ite
-unfit for meditation or the spiritual path. Too much food will produce
-laziness; a halfsleepy state and deep sleep also. Eat to live. Eat in
-moderation. You will have a light body and light; cheerful and serene
-mind. This will help you in your practice of meditation. Observe Mauna
-or the vow of silelnce for a week or a month. Observe the vow for two
-hours daily. Control the body. Practise Ahimsa and Brahmacharya.
-Meditate on the Self or on the Lord Hari with four hands; or on Lord
-Krishna; Rama or Siva. Be regular in your meditation and gradually
-increase the period of meditation from 15 minutes to 3 or 6 hours at a
-sitting. If you are a wholetimed aspirant; spend the whole time in
-meditation. If you are not able to do this; do Likhita Japa (writing the
-Mantra) and Kirtan (singing the Names and glories of the Lord). Study
-religious books in the interval. Only advanced aspirants can meditate
-for a long time. Watch the mind and cultivate dispassion. Energy will
-leak out through the senses if you are careless and nonvigilant. If
-energy leaks out; you cannot have good meditation. Dispassion is
-indifference to sensual enjoyments herein and hereafter; absence of
-desire for visible and invisible objects. You must have steady; lasting
-and sustained dispassion. It should not wane. It should be a constant
-attitude of the mind. You must be fully established in dispassion.In
-doing the Anushthana for 40 days live on milk and fruits or light diet.
-Take only 3 or 4 articles of food. Take one meal only. Sleep on the
-floor. Observe celibacy and the vow of silence. Do not come out of the
-room. Speak little if you do not observe perfect silence. Do the
-Anushthana on the banks of the Ganga or any sacred river. Try to do one
-or several Purascharanas of your Ishta Mantra. If there are five letters
-(syllables in English) in the Mantra; 500;000 repetitions of the Mantra
-will constitute one Purascharana.
+यतवाक्कायमानसः speech; body and mind subdued; ध्यानयोगपरः engaged in meditation and concentration; नित्यम् always; वैराग्यम् dispassion;
+समुपाश्रितः resorting to.Commentary Solitude has its own charms. The spiritual vibrations in solitude are wonderfully elevating. Meditation will come by itself without exertion. All saints and sages who have attained Selfrealisation have remained in solitude for a number of years. You will have good meditation if you sit on the bank of a river;
+in a cave or on the seashore or in a jungle. During the Christmas and Easter holidays you can all enjoy the peace of solitude. It is very necessary to live in solitude at least for a month or a fortnight in a year for the householders. Instead of wasting time; energy and money in Calcutta or any other city; during the holidays; live in holy places like Rishikesh; Uttarakasi or Naimisaranya drink the nectar of peace in such places by doing Anushthana (intense and systematic spiritual practice) or Japa of a Mantra and attain immortality. If you once taste the bliss of solitude you will never forget it. Every year you will attempt to taste it again. He who takes too much food (a glutton) is ite unfit for meditation or the spiritual path. Too much food will produce laziness; a halfsleepy state and deep sleep also. Eat to live. Eat in moderation. You will have a light body and light; cheerful and serene mind. This will help you in your practice of meditation. Observe Mauna or the vow of silelnce for a week or a month. Observe the vow for two hours daily. Control the body. Practise Ahimsa and Brahmacharya.
+Meditate on the Self or on the Lord Hari with four hands; or on Lord Krishna; Rama or Siva. Be regular in your meditation and gradually increase the period of meditation from 15 minutes to 3 or 6 hours at a sitting. If you are a wholetimed aspirant; spend the whole time in meditation. If you are not able to do this; do Likhita Japa (writing the Mantra) and Kirtan (singing the Names and glories of the Lord). Study religious books in the interval. Only advanced aspirants can meditate for a long time. Watch the mind and cultivate dispassion. Energy will leak out through the senses if you are careless and nonvigilant. If energy leaks out; you cannot have good meditation. Dispassion is indifference to sensual enjoyments herein and hereafter; absence of desire for visible and invisible objects. You must have steady; lasting and sustained dispassion. It should not wane. It should be a constant attitude of the mind. You must be fully established in dispassion.In doing the Anushthana for 40 days live on milk and fruits or light diet.
+Take only 3 or 4 articles of food. Take one meal only. Sleep on the floor. Observe celibacy and the vow of silence. Do not come out of the room. Speak little if you do not observe perfect silence. Do the Anushthana on the banks of the Ganga or any sacred river. Try to do one or several Purascharanas of your Ishta Mantra. If there are five letters
+(syllables in English) in the Mantra; 500;000 repetitions of the Mantra will constitute one Purascharana.
 
 </details>
 </div>

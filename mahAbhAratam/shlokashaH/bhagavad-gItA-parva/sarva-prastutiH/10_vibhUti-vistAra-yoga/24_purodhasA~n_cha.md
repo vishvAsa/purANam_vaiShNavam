@@ -48,8 +48,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.24 I am that Bhraspati who is paramount among family priests. Of
-generals, I am Skanda. Of reservoirs of waters, O am the ocean.
+10.24 I am that Bhraspati who is paramount among family priests. Of generals, I am Skanda. Of reservoirs of waters, O am the ocean.
 
 </details>
 </div>
@@ -275,27 +274,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.24. Of the royal priests I am the chief viz., Brhaspati (the priest
-of gods), O son of Prtha, you should know that; of the army-generals, I
-am Skanda \[the War-god\]; of the water reservoirs, I am the ocean.
+10.24. Of the royal priests I am the chief viz., Brhaspati (the priest of gods), O son of Prtha, you should know that; of the army-generals, I am Skanda \[the War-god\]; of the water reservoirs, I am the ocean.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.24 O son of Prtha, know me to be Brhaspati, the foremost among the
-priests of kings. Among comanders of armies I am Skanda; among large
-expanses of water I am the sea.
+10.24 O son of Prtha, know me to be Brhaspati, the foremost among the priests of kings. Among comanders of armies I am Skanda; among large expanses of water I am the sea.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.24 Among the priests, know, O Arjuna, that I am the Apostle
-Brihaspati; of generals I am Skanda, the Commander-in-Chief, and of
-waters I am the Ocean.
+10.24 Among the priests, know, O Arjuna, that I am the Apostle Brihaspati; of generals I am Skanda, the Commander-in-Chief, and of waters I am the Ocean.
 
 </details>
 </div>
@@ -310,9 +303,7 @@ Of generals, I am Skanda. Of reservoirs of water, I am the ocean.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/24_purodhasA~n_cha.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.24 And, among the household priests (of kings), O Arjuna, know Me to
-be the chief, Brihaspati; among the army generals I am Skana; among
-lakes I am the ocean. '
+10.24 And, among the household priests (of kings), O Arjuna, know Me to be the chief, Brihaspati; among the army generals I am Skana; among lakes I am the ocean. '
 
 </details>
 </div>
@@ -322,10 +313,7 @@ lakes I am the ocean. '
 10.24 पुरोधसाम् among the household priests; च and; मुख्यम् the chief;
 माम् Me; विद्धि know; पार्थ O Partha; बृहस्पतिम् Brihaspati; सेनानीनाम्
 among generals; अहम् I; स्कन्दः Skanda; सरसाम् among lakes; अस्मि (I)
-am; सागरः the ocean.Commentary Brihaspati is the chif priest of the
-gods. He is the househld priest of Indra.Skanda is Kartikeya or Lord
-Subramanya. He is the general of the hosts of the gods.Of things holding
-water -- natural reservoirs or lakes -- I am the ocean.
+am; सागरः the ocean.Commentary Brihaspati is the chif priest of the gods. He is the househld priest of Indra.Skanda is Kartikeya or Lord Subramanya. He is the general of the hosts of the gods.Of things holding water -- natural reservoirs or lakes -- I am the ocean.
 
 </details>
 </div>

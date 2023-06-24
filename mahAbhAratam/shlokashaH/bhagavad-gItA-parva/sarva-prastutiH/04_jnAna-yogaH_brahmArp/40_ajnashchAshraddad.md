@@ -76,21 +76,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.40 'The ignorant,' i.e., one devoid of knowledge received through
-instruction, 'the faithless' or one who has no faith in developing this
-knowledge taught to him, i.e., who does not strive to progress ickly,
-and 'the doubting one,' i.e., one who is full of doubts in regard to the
-knowledge taught - such persons perish, are lost. When this knowledge
-taught to him about the real nature of the self is doubted, then he
-loses this material world as also the next world. The meaning is that
-the ends of man, such as Dharma, Artha and Karma which constitute the
-material ends or fulfilments, are not achieved by such a doubting one.
-How then can man's supreme end, release be achieved by such a doubting
-one; For all the ends of human life can be achieved through the actions
-which are prescribed by the Sastras, but their performance reires the
-firm conviction that the self is different from the body. Therefore,
-even a little happiness does not come to the person who has a doubting
-mind concerning the self.
+4.40 'The ignorant,' i.e., one devoid of knowledge received through instruction, 'the faithless' or one who has no faith in developing this knowledge taught to him, i.e., who does not strive to progress ickly,
+and 'the doubting one,' i.e., one who is full of doubts in regard to the knowledge taught - such persons perish, are lost. When this knowledge taught to him about the real nature of the self is doubted, then he loses this material world as also the next world. The meaning is that the ends of man, such as Dharma, Artha and Karma which constitute the material ends or fulfilments, are not achieved by such a doubting one.
+How then can man's supreme end, release be achieved by such a doubting one; For all the ends of human life can be achieved through the actions which are prescribed by the Sastras, but their performance reires the firm conviction that the self is different from the body. Therefore,
+even a little happiness does not come to the person who has a doubting mind concerning the self.
 
 </details>
 </div>
@@ -386,35 +375,28 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 4.40. But he, who is ignorant and has no faith, perishes, with his self
-(mind) full of doubts. Neither this world nor the other, nor happiness
-is for a person, who is by nature is full of doubts.
+(mind) full of doubts. Neither this world nor the other, nor happiness is for a person, who is by nature is full of doubts.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.40 One who is ignorant and faithless, and has a doubting mind
-perishes. Neither this world nor the next nor happiness exists for one
-who has a doubting mind.
+4.40 One who is ignorant and faithless, and has a doubting mind perishes. Neither this world nor the next nor happiness exists for one who has a doubting mind.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.40 But the ignorant man, and he who has no faith, and the sceptic are
-lost. Neither in this world nor elsewhere is there any happiness in
-store for him who always doubts.
+4.40 But the ignorant man, and he who has no faith, and the sceptic are lost. Neither in this world nor elsewhere is there any happiness in store for him who always doubts.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/40_ajnashchAshraddad.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.40 The ignorant, the faithless and the doubting one peirsh; for the
-doubting one there is neither this world, nor that beyond, nor
-happiness.
+4.40 The ignorant, the faithless and the doubting one peirsh; for the doubting one there is neither this world, nor that beyond, nor happiness.
 
 </details>
 </div>
@@ -422,8 +404,7 @@ happiness.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 4.40 The ignorant the faithless, the doubting self goes to destruction;
-there is neither this world nor the other, nor happiness for the
-doubting.
+there is neither this world nor the other, nor happiness for the doubting.
 
 </details>
 </div>
@@ -433,13 +414,7 @@ doubting.
 4.40 अज्ञः the ignorant; च and; अश्रद्दधानः the faithless; च and;
 संशयात्मा the doubting self; विनश्यति goes to destruction; न not; अयम्
 this; लोकः world; अस्ति is; न not; परः the next; न not; सुखम् happiness;
-संशयात्मनः for the doubting self.Commentary The ignorant one who has no
-knowledge of the Self. The man without faith one who has no faith in his
-own self; in the scriptures and the teachings of his Guru.A man of
-doubting mind is the most sinful of all. His condition is very
-deplorable. He is full of doubts as regards the next world. He does not
-rejoice in this world also; as he is very suspicious. He has no
-happiness.
+संशयात्मनः for the doubting self.Commentary The ignorant one who has no knowledge of the Self. The man without faith one who has no faith in his own self; in the scriptures and the teachings of his Guru.A man of doubting mind is the most sinful of all. His condition is very deplorable. He is full of doubts as regards the next world. He does not rejoice in this world also; as he is very suspicious. He has no happiness.
 
 </details>
 </div>

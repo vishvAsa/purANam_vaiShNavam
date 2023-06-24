@@ -57,11 +57,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.12 That brilliance of the sun and other luminaries which illumines
-the whole universe - that brilliance belongs to Me. Know that this
-capacity of illumining is granted to them by Me who have been worshipped
-severally by them. Sri Krsna states that the power in the earth to
-support all those that reside on it belongs to Him alone:
+15.12 That brilliance of the sun and other luminaries which illumines the whole universe - that brilliance belongs to Me. Know that this capacity of illumining is granted to them by Me who have been worshipped severally by them. Sri Krsna states that the power in the earth to support all those that reside on it belongs to Him alone:
 
 </details>
 </div>
@@ -465,26 +461,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-15.12. That light which is found in the sun, which is in the moon, and
-which is \[also\] in the fire-all illuminating the entire world-know
-that light to be of Mine.
+15.12. That light which is found in the sun, which is in the moon, and which is \[also\] in the fire-all illuminating the entire world-know that light to be of Mine.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.12 That light in the sun which illumines the whole world, that which
-is in the moon, and that which is in fire,-know that light to be Mine.
+15.12 That light in the sun which illumines the whole world, that which is in the moon, and that which is in fire,-know that light to be Mine.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.12 Remember that the Light which, proceeding from the sun, illumines
-the whole world, and the Light which is in the moon, and That which is
-in the fire also, all are born of Me.
+15.12 Remember that the Light which, proceeding from the sun, illumines the whole world, and the Light which is in the moon, and That which is in the fire also, all are born of Me.
 
 </details>
 </div>
@@ -507,28 +498,10 @@ that which is in the moon and in the fire know that light to be Mine.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/15_puruShottama-yogaH/12_yadAdityagatan_te.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-15.12 यत् which; आदित्यगतम् residing in the sun; तेजः light; जगत् the
-world; भासयते illumines; अखिलम् whole; यत् which; चन्द्रमसि in the moon;
+15.12 यत् which; आदित्यगतम् residing in the sun; तेजः light; जगत् the world; भासयते illumines; अखिलम् whole; यत् which; चन्द्रमसि in the moon;
 यत् which; च and; अग्नौ in the fire; तत् that; तेजः light; विद्धि know;
-मामकम् Mine.Commentary The immanence of the Lord as the allilluminating
-light of consciousness is described in this verse.I am the cause and the
-source of the light by which the sun illumines the world; as also the
-reflected light of the sun in the moon and that of fire.Tejah Light The
-light of consciousness.If that is so; an objector says The light of
-consciousness exists alike in all moving and unmoving objects. Then why
-has the Lord mentioned this special alification of light as residing in
-the sun; moon and fire Please explain. We say The higher manifestation
-of the light of consciousness in the sun; etc.; is due to a large
-concentration of Sattva in them. Sattva is very brilliant and luminous
-in them. That is the reason why there is this special alification.Here
-is an illustration. The face of a man is not at all reflected on a wall;
-piece of wood or a block of stone; but the same face is reflected
-beautifully in a very clean mirror. The degree of clearness of the
-reflection in the mirror is acording to the degree of transparency of
-the mirror. The more the transparency of the mirror; the better the
-reflection of the face the less the transparency; the worse the
-reflection. Even so Gods light shines in the sun and also in the pure
-heart of a devotee.
+मामकम् Mine.Commentary The immanence of the Lord as the allilluminating light of consciousness is described in this verse.I am the cause and the source of the light by which the sun illumines the world; as also the reflected light of the sun in the moon and that of fire.Tejah Light The light of consciousness.If that is so; an objector says The light of consciousness exists alike in all moving and unmoving objects. Then why has the Lord mentioned this special alification of light as residing in the sun; moon and fire Please explain. We say The higher manifestation of the light of consciousness in the sun; etc.; is due to a large concentration of Sattva in them. Sattva is very brilliant and luminous in them. That is the reason why there is this special alification.Here is an illustration. The face of a man is not at all reflected on a wall;
+piece of wood or a block of stone; but the same face is reflected beautifully in a very clean mirror. The degree of clearness of the reflection in the mirror is acording to the degree of transparency of the mirror. The more the transparency of the mirror; the better the reflection of the face the less the transparency; the worse the reflection. Even so Gods light shines in the sun and also in the pure heart of a devotee.
 
 </details>
 </div>

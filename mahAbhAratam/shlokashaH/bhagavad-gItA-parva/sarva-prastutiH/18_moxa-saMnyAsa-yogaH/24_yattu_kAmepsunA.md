@@ -50,14 +50,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.24 But whatever act is performed by one who seeks to gratify his
-desires, viz., by one who desires the results of his action and with the
-feeling of egoism, viz., has the misconceived notion that oneself is the
-agent; and with a great deal of effort - such an act is of the nature of
-Rajas. Here va (or) is used in the sense of ca (and). Whatever action is
-performed by one who possesses the misconceived notion, 'This action
-demanding enormous effort is performed entirely by me' - it is said to
-be Rajasika.
+18.24 But whatever act is performed by one who seeks to gratify his desires, viz., by one who desires the results of his action and with the feeling of egoism, viz., has the misconceived notion that oneself is the agent; and with a great deal of effort - such an act is of the nature of Rajas. Here va (or) is used in the sense of ca (and). Whatever action is performed by one who possesses the misconceived notion, 'This action demanding enormous effort is performed entirely by me' - it is said to be Rajasika.
 
 </details>
 </div>
@@ -333,8 +326,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.24. The object which is abundant in afflictions; and which is further
-reired by one who craves to attain the desired thing with the feeling of
+18.24. The object which is abundant in afflictions; and which is further reired by one who craves to attain the desired thing with the feeling of
 'I'-that is considered to be of the Rajas (Strand).
 
 </details>
@@ -342,9 +334,7 @@ reired by one who craves to attain the desired thing with the feeling of
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.24 But that action is said to be born of rajas which is done by one
-desirous of results or by one who is egotistic, and which is highly
-strenuous.
+18.24 But that action is said to be born of rajas which is done by one desirous of results or by one who is egotistic, and which is highly strenuous.
 
 </details>
 </div>
@@ -352,26 +342,21 @@ strenuous.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 18.24 But even though an action involve the most strenuous endeavour,
-yet if the doer is seeking to gratify his desires, and is filled with
-personal vanity, it may be assumed to originate in Passion.
+yet if the doer is seeking to gratify his desires, and is filled with personal vanity, it may be assumed to originate in Passion.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.24 But that act is said to be Rajasika which is performed with great
-effort by one who seeks to gratify his desires and under the prompting
-of egoism.
+18.24 But that act is said to be Rajasika which is performed with great effort by one who seeks to gratify his desires and under the prompting of egoism.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/24_yattu_kAmepsunA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.24 But that action which is done by one longing for the fulfilment of
-desires or gain with egoism or with much effort that is declared to be
-Rajasic (passionate).
+18.24 But that action which is done by one longing for the fulfilment of desires or gain with egoism or with much effort that is declared to be Rajasic (passionate).
 
 </details>
 </div>
@@ -381,19 +366,9 @@ Rajasic (passionate).
 18.24 यत् which; तु but; कामेप्सुना by one longing for desires; कर्म
 action; साहङ्कारेण with egoism; वा or; पुनः again; क्रियते is performed;
 बहुलायासम् with much effort; तत् that; राजसम् Rajasic (passionate);
-उदाहृतम् is declared.Commentary A passionate man performs various
-selfish actions. He boasts of his actions in public. Passion prompts him
-to do them. He can never work without expectation of a reward.Kamepsuna;
-phalepsuna The Rajasic or passionate man expects pleasures as fruits of
-action. A liberated sage alone is absolutely free from egoism. He will
-not dream even of a reward for the action; because all his desires are
-gratified when he realises Brahman. He is an Aptakama. (Aptakamasya ka
-spriha) How can there be longing or craving in a sage in whom all
-desires are gratified or burnt by the fire of SelfknowledgeEven the
-performer of a pure act; who has no knowledge of the Self is egoistic.
-If such be the case; the Rajasic and Tamasic workers are much more
-egoistic. In worldly parlance we speak of a learned Pundit This Pundit
-is a very modest; unassuming; and egoless Brahmana.Now listen; O Arjuna;
+उदाहृतम् is declared.Commentary A passionate man performs various selfish actions. He boasts of his actions in public. Passion prompts him to do them. He can never work without expectation of a reward.Kamepsuna;
+phalepsuna The Rajasic or passionate man expects pleasures as fruits of action. A liberated sage alone is absolutely free from egoism. He will not dream even of a reward for the action; because all his desires are gratified when he realises Brahman. He is an Aptakama. (Aptakamasya ka spriha) How can there be longing or craving in a sage in whom all desires are gratified or burnt by the fire of SelfknowledgeEven the performer of a pure act; who has no knowledge of the Self is egoistic.
+If such be the case; the Rajasic and Tamasic workers are much more egoistic. In worldly parlance we speak of a learned Pundit This Pundit is a very modest; unassuming; and egoless Brahmana.Now listen; O Arjuna;
 to the characteristics of action that is of darkness.
 
 </details>

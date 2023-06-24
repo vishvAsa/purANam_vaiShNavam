@@ -186,16 +186,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/30_mayi_sarvANi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.30 Do all prescribed acts such as war etc., (here a duty) free from
-desire or selfishness and devoid of fear, with a mind focussed on the
-self. Surrender all acts to Me, the Lord of all, who constitutes the
-inner pervading Self of all beings. 'Adhyatma-cetas' is that mind which
-is focussed on the self by knowledge of the essential nature of the self
-as declared in hundreds of Vedic texts. That this individual self
-constitutes the body of the Supreme Self and is actuated by Him, is
-taught by Sruti texts like: 'He who has entered within, is the ruler of
-all beings and is the Self of all' (Tai. Ar., 3.11), 'Him who has
-entered inside and is the doer' (Ibid., 3.23), 'He who, dwelling in the
+3.30 Do all prescribed acts such as war etc., (here a duty) free from desire or selfishness and devoid of fear, with a mind focussed on the self. Surrender all acts to Me, the Lord of all, who constitutes the inner pervading Self of all beings. 'Adhyatma-cetas' is that mind which is focussed on the self by knowledge of the essential nature of the self as declared in hundreds of Vedic texts. That this individual self constitutes the body of the Supreme Self and is actuated by Him, is taught by Sruti texts like: 'He who has entered within, is the ruler of all beings and is the Self of all' (Tai. Ar., 3.11), 'Him who has entered inside and is the doer' (Ibid., 3.23), 'He who, dwelling in the
 self, is within the self, whom the Self does not know, whose body is the
 self, who controls the self from within - He is your internal ruler and
 Immortal Self' (Br. U., 3.7.22). Smrti texts also speak in the same
@@ -578,38 +569,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/30_mayi_sarvANi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.30. Renouncing all actions in Me, with mind that concentrates on the
-Self; being free from the act of reesting and from the sense of
-possession; and \[conseently being free from \[mental\] fever; you
-should fight.
+3.30. Renouncing all actions in Me, with mind that concentrates on the Self; being free from the act of reesting and from the sense of possession; and \[conseently being free from \[mental\] fever; you should fight.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/30_mayi_sarvANi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.30 Devoid of the fever of the soul, engage in battle by dedicating all
-actions to Me, with (your) mind intent on the Self, and becoming free
-from expectations and egoism.
+3.30 Devoid of the fever of the soul, engage in battle by dedicating all actions to Me, with (your) mind intent on the Self, and becoming free from expectations and egoism.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/30_mayi_sarvANi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.30 Therefore, surrendering thy actions unto Me, thy thoughts
-concentrated on the Absolute, free from selfishness and without
-anticipation of reward, with mind devoid of excitement, begin thou to
-fight.
+3.30 Therefore, surrendering thy actions unto Me, thy thoughts concentrated on the Absolute, free from selfishness and without anticipation of reward, with mind devoid of excitement, begin thou to fight.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/30_mayi_sarvANi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.30 Surrendering all your actions to Me with a mind focussed on the
-self, free from desire and selfishness, fight with the heat of
-excitement abated.
+3.30 Surrendering all your actions to Me with a mind focussed on the self, free from desire and selfishness, fight with the heat of excitement abated.
 
 </details>
 </div>
@@ -627,9 +608,7 @@ free from hope and egoism, and from (mental) fever, do thou fight.
 3.30 मयि in Me; सर्वाणि all; कर्माणि actions; संन्यस्य renouncing;
 अध्यात्मचेतसा with the mind centred in the Self; निराशीः free from hope;
 निर्ममः free from egoism; भूत्वा having become युध्यस्व fight (thou);
-विगतज्वरः free from (mental) fever.Commentary Surrender all the actions
-to Me with the thought; I perform all actions for the sake of the
-Lord.Fever means grief; sorrow. (Cf.V.10XVIII.66).
+विगतज्वरः free from (mental) fever.Commentary Surrender all the actions to Me with the thought; I perform all actions for the sake of the Lord.Fever means grief; sorrow. (Cf.V.10XVIII.66).
 
 </details>
 </div>

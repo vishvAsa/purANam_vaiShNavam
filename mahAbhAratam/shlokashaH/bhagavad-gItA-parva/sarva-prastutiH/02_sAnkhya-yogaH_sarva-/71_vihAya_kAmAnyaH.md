@@ -33,16 +33,27 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.71।। किं कामकामिनः सर्वदा शान्तिर्न स्यात् इति
+शङ्कामपाकुर्वन्नदर्शनाविकारत्वावस्थयोः कारणभूतां
+विषयसङ्ग्रहणस्पृहाममकारदेहात्मभ्रमाणां
+क्रमात्कार्यकारणभावनिबन्धनानुलोमप्रतिलोमान्वयव्यतिरेकद्वयानां
+निवृत्तिरूपामवस्थामाह विहायेति। पूर्वत्रात्र च श्लोके प्रवृत्तं
+कामशब्दंनिर्वक्तिकाम्यन्त इति कामा इति। चरतीति वर्तत इत्यर्थः।
+आत्मदर्शिपुरुषपर्वभेदविषयौ पूर्वश्लोकौ अयं त्वात्मदर्शनार्थिपुरुषविषय
+इति विवेकं द्योतयति आत्मानं दृष्ट्वेति।  
+  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.71 What are desired, they are called the objects of desire. These are
-sound and other sense-objects. The person, who wants peace must abandon
-all sense-objects such as sound, touch etc. He should have no longing
-for them. He should be without the sense of 'mineness' regarding them,
-as that sense arises from the misconception that the body, which is
-really non-self, is the self. He who lives in this way attains to peace
-after seeing the self.
+2.71 What are desired, they are called the objects of desire. These are sound and other sense-objects. The person, who wants peace must abandon all sense-objects such as sound, touch etc. He should have no longing for them. He should be without the sense of 'mineness' regarding them,
+as that sense arises from the misconception that the body, which is really non-self, is the self. He who lives in this way attains to peace after seeing the self.
 
 </details>
 </div>
@@ -403,42 +414,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 2.71. That person, who, by abandoning all desires, consumes \[objects\]
-without longing, without a sense of possession and without egotism-he
-attains peace.
+without longing, without a sense of possession and without egotism-he attains peace.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.71 That man attains peace who, after rejecting all desires, moves
-about free from hankering, without the idea of ('me' and) 'mine', and
-devoid of pride.
+2.71 That man attains peace who, after rejecting all desires, moves about free from hankering, without the idea of ('me' and) 'mine', and devoid of pride.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.71 He attains Peace who, giving up desire, moves through the world
-without aspiration, possessing nothing which he can call his own, and
-free from pride.
+2.71 He attains Peace who, giving up desire, moves through the world without aspiration, possessing nothing which he can call his own, and free from pride.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.71 The man who, abandoning all desires, abides without longing and
-possession and the sense of 'I' and 'mine', wins peace.
+2.71 The man who, abandoning all desires, abides without longing and possession and the sense of 'I' and 'mine', wins peace.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/71_vihAya_kAmAnyaH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.71 That man attains peace who, abandoning all desires, moves about
-without longing, without the sense of mine and without egoism.
+2.71 That man attains peace who, abandoning all desires, moves about without longing, without the sense of mine and without egoism.
 
 </details>
 </div>
@@ -446,13 +450,8 @@ without longing, without the sense of mine and without egoism.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.71 विहाय abandoning; कामान् desires; यः that; सर्वान् all; पुमान् man;
-चरति moves about; निःस्पृहः free from longing; निर्ममः devoid of
-mineness; निरहंकारः without egoism; सः he; शान्तिम् to peace; अधिगच्छति
-attains.Commentary That man who lives destitute of longing; abandoning
-all desires; without the senses of I and mine; who is satisfied with the
-bare necessities of life; who does not care even for those bare
-necessities of life; who has no attachment even for the bare necessities
-of life; attains Moksha or eternal peace. (Cf.II.55).
+चरति moves about; निःस्पृहः free from longing; निर्ममः devoid of mineness; निरहंकारः without egoism; सः he; शान्तिम् to peace; अधिगच्छति
+attains.Commentary That man who lives destitute of longing; abandoning all desires; without the senses of I and mine; who is satisfied with the bare necessities of life; who does not care even for those bare necessities of life; who has no attachment even for the bare necessities of life; attains Moksha or eternal peace. (Cf.II.55).
 
 </details>
 </div>

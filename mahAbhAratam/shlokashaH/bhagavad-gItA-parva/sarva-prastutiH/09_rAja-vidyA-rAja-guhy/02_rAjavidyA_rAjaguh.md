@@ -91,27 +91,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.2 This is a 'royal science', the king among sciences; 'the royal
-mystery', the king among mysteries. Or royal science may also mean the
-science known and practised by kings. Indeed kings are those who have
-broad and profound minds. The meaning is that this is the science of
-great minds. This is a mystery, because the great-minded alone are
-skilled in keeping mysteries. This is 'supreme purifier'; for it removes
-completely all blemishes opposed to the attainment of Myself. It is
-realised by 'direct perception'. Avagama' is that which is apprehended -
-the subject of knowledge. It is that knowledge which has become direct
-perception, so that its object is directly apprehended. The import is
-that I, when worshipped in the spirit of Bhakti, become perceptible to
-the worshipper immediately. Even so, it is in 'accord with Dharma' or
-inseparable from Dharma. What is called Dharma is that which constitutes
-the means for the highest good. Though it is of the nature of supreme
-good, as it brings about the vision of Myself, yet it is also the means
-for completely attaining Me, which is the end unsurpassed and the final
-good. Because of this, it is 'pleasurable' to practise; its adoption is
-a matter of supreme love. It is 'abiding', imperishable. It does not
-perish even after leading to My attainment. That is, I give Myself up to
-one who performs this form of worship; even then it appears to Me that I
-have done nothing for him. Such is the meaning.
+9.2 This is a 'royal science', the king among sciences; 'the royal mystery', the king among mysteries. Or royal science may also mean the science known and practised by kings. Indeed kings are those who have broad and profound minds. The meaning is that this is the science of great minds. This is a mystery, because the great-minded alone are skilled in keeping mysteries. This is 'supreme purifier'; for it removes completely all blemishes opposed to the attainment of Myself. It is realised by 'direct perception'. Avagama' is that which is apprehended -
+the subject of knowledge. It is that knowledge which has become direct perception, so that its object is directly apprehended. The import is that I, when worshipped in the spirit of Bhakti, become perceptible to the worshipper immediately. Even so, it is in 'accord with Dharma' or inseparable from Dharma. What is called Dharma is that which constitutes the means for the highest good. Though it is of the nature of supreme good, as it brings about the vision of Myself, yet it is also the means for completely attaining Me, which is the end unsurpassed and the final good. Because of this, it is 'pleasurable' to practise; its adoption is a matter of supreme love. It is 'abiding', imperishable. It does not perish even after leading to My attainment. That is, I give Myself up to one who performs this form of worship; even then it appears to Me that I have done nothing for him. Such is the meaning.
 
 </details>
 </div>
@@ -528,27 +509,21 @@ is righteous, easy to do, and imperishable.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.2 This is the Sovereign Knowledge, the Sovereign Profundity, the best
-sanctifire; directly realizable, righteous, very easy to practise and
-imperishable.
+9.2 This is the Sovereign Knowledge, the Sovereign Profundity, the best sanctifire; directly realizable, righteous, very easy to practise and imperishable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.2 This is the Premier Science, the Sovereign Secret, the Purest and
-Best; intuitional, righteous; and to him who practiseth it pleasant
-beyond measure.
+9.2 This is the Premier Science, the Sovereign Secret, the Purest and Best; intuitional, righteous; and to him who practiseth it pleasant beyond measure.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/02_rAjavidyA_rAjaguh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.2 This is the royal science, royal mystery, the supreme purifier, It
-is realised by direct experience. It is in accord with Dharma, it is
-pleasant to practise and is abiding.
+9.2 This is the royal science, royal mystery, the supreme purifier, It is realised by direct experience. It is in accord with Dharma, it is pleasant to practise and is abiding.
 
 </details>
 </div>
@@ -565,41 +540,12 @@ very easy to perform and imperishable.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 9.2 राजविद्या the king of sciences; राजगुह्यम् kingly secret; पवित्रम्
-purifier; इदम् this; उत्तमम् highest; प्रत्यक्षावगमम् realisable by
-direct; intuitional knowledge; धर्म्यम् according to righteousness;
-सुसुखम् very easy; कर्तुम् to perform; अव्ययम् imperishable.Commentary
-In this verse Lord Krishna eulogies the knowledge of Brahman very highly
-in order to create a great interest in the spiritual aspirants for
-attaining It ickly.There is neither blind faith nor faithmongering in
-this royal science. The truth; the sovereign,secret (the Self or the
-Absolute) can be directly realised by intuition or immediate perception.
-The science of the Absolute is the most splendid of all sciences. It is
-the science of sciences. Of sciences the highest; of secrets the most
-profoun; of purifiers the supreme is this. The knowledge of Brahman is
-the best purifier. It reduces the roots of all Karmas and all the Karmas
-themselves which have been stored up in the course of many thousands of
-births; into ashes in the twinkling of an eye. It destroys Avidya along
-with its effects. An expiatory act (Prayaschitta) cannot destroy all
-sins. It removes the effect of a single sin; only to some extent. Even
-if it is removed the effect of that sin remains in a subtle state in the
-mind and forces him to do sinful acts in his next birth. But the
-knowledge of the Self destroys ickly all the sins in their gross and
-subtle states that are accumulated in the course of several thousands of
-births along with Avidya; their cause. That is the reason why it is a
-supreme purifier. The causal body of the Jiva is called MulaAvidya
-(rootignorance). The Avidya or the veil of ignorance that envelops the
-visible objects of this world is called Sthula Avidya or gross
-ignorance.The knowledge of the Self is not opposed to Dharma. It is the
-fruit of all actions done in many births without expectation of fruits.
-Further; the knowledge of the Absolute can very easily be attained. One
-may think that this knowledge will perish soon as it is easily obtained;
-when its effect is exhausted. It is not so. It is imperishable. It is
-everlasting. It shines for ever by its own Selfeffulgence. He who has
-tasted this nectar even once becomes immortal. Therefore the knowledge
-of the Absolute is certainly worth aciring. You will have to strive very
-hard to attain it anyhow in this birth; as it is very difficult to get a
-human birth. Strive hard every moment; for life is uncertain and the
-prize (final liberation) is great.
+purifier; इदम् this; उत्तमम् highest; प्रत्यक्षावगमम् realisable by direct; intuitional knowledge; धर्म्यम् according to righteousness;
+सुसुखम् very easy; कर्तुम् to perform; अव्ययम् imperishable.Commentary In this verse Lord Krishna eulogies the knowledge of Brahman very highly in order to create a great interest in the spiritual aspirants for attaining It ickly.There is neither blind faith nor faithmongering in this royal science. The truth; the sovereign,secret (the Self or the Absolute) can be directly realised by intuition or immediate perception.
+The science of the Absolute is the most splendid of all sciences. It is the science of sciences. Of sciences the highest; of secrets the most profoun; of purifiers the supreme is this. The knowledge of Brahman is the best purifier. It reduces the roots of all Karmas and all the Karmas themselves which have been stored up in the course of many thousands of births; into ashes in the twinkling of an eye. It destroys Avidya along with its effects. An expiatory act (Prayaschitta) cannot destroy all sins. It removes the effect of a single sin; only to some extent. Even if it is removed the effect of that sin remains in a subtle state in the mind and forces him to do sinful acts in his next birth. But the knowledge of the Self destroys ickly all the sins in their gross and subtle states that are accumulated in the course of several thousands of births along with Avidya; their cause. That is the reason why it is a supreme purifier. The causal body of the Jiva is called MulaAvidya
+(rootignorance). The Avidya or the veil of ignorance that envelops the visible objects of this world is called Sthula Avidya or gross ignorance.The knowledge of the Self is not opposed to Dharma. It is the fruit of all actions done in many births without expectation of fruits.
+Further; the knowledge of the Absolute can very easily be attained. One may think that this knowledge will perish soon as it is easily obtained;
+when its effect is exhausted. It is not so. It is imperishable. It is everlasting. It shines for ever by its own Selfeffulgence. He who has tasted this nectar even once becomes immortal. Therefore the knowledge of the Absolute is certainly worth aciring. You will have to strive very hard to attain it anyhow in this birth; as it is very difficult to get a human birth. Strive hard every moment; for life is uncertain and the prize (final liberation) is great.
 
 </details>
 </div>

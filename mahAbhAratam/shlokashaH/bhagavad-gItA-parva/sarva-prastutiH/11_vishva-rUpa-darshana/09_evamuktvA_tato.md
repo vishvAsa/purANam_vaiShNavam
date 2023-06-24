@@ -66,14 +66,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.9 Sanjaya said Having thus spoken, Sri Krsna, who is the great Lord
-of Yoga, namely, the Lord of supremely wonderful attributes - Sri Krsna
-who is Narayana, the Supreme Brahman now incarnated as the son of
-Arjuna's maternal uncle and seated as a charioteer in his chariot -
-showed Arjuna, the son of Pritha His paternal aunt, that Lordly form
-uniely His own, which is the ground of the entire universe, which is
-manifold and wonderful, and which rules over everything. And that form
-was like this:
+11.9 Sanjaya said Having thus spoken, Sri Krsna, who is the great Lord of Yoga, namely, the Lord of supremely wonderful attributes - Sri Krsna who is Narayana, the Supreme Brahman now incarnated as the son of Arjuna's maternal uncle and seated as a charioteer in his chariot -
+showed Arjuna, the son of Pritha His paternal aunt, that Lordly form uniely His own, which is the ground of the entire universe, which is manifold and wonderful, and which rules over everything. And that form was like this:
 
 </details>
 </div>
@@ -342,9 +336,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.9. Sanjaya said O king ! Having thus stated, Hari (Krsna), the mighty
-Lord of the Yogins, showed to the son of Prtha \[His own\] Supreme
-Lordly form;
+11.9. Sanjaya said O king ! Having thus stated, Hari (Krsna), the mighty Lord of the Yogins, showed to the son of Prtha \[His own\] Supreme Lordly form;
 
 </details>
 </div>
@@ -352,25 +344,21 @@ Lordly form;
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 11.9 Sanjaya said O King, having spoken thus, thereafter, Hari \[Hari:
-destroyer of ignorance along with its conseences.\] (Krsna) the great
-Master of Yoga, showed to the son of Prtha the supreme divine form:
+destroyer of ignorance along with its conseences.\] (Krsna) the great Master of Yoga, showed to the son of Prtha the supreme divine form:
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.9 Sanjaya continued: "Having thus spoken, O King, the Lord Shri
-Krishna, the Almighty Prince of Wisdom, showed to Arjuna the Supreme
-Form of the Great God.
+11.9 Sanjaya continued: "Having thus spoken, O King, the Lord Shri Krishna, the Almighty Prince of Wisdom, showed to Arjuna the Supreme Form of the Great God.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/09_evamuktvA_tato.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.9 Sanjaya said Having spoken, O King, Sri Krsna, the gread Lord of
-Yoga, then revealed to Arjuna the supreme Lordly Form.
+11.9 Sanjaya said Having spoken, O King, Sri Krsna, the gread Lord of Yoga, then revealed to Arjuna the supreme Lordly Form.
 
 </details>
 </div>
@@ -388,8 +376,7 @@ hari (Krishna), showed to Arjuna His supreme form as the Lord.
 11.9 एवम् thus; उक्त्वा having spoken; ततः then; राजन् O king;
 महायोगेश्वरः the great Lord of Yoga; हरिः Hari; दर्शयामास showed;
 पार्थाय to Arjuna; परमम् Supreme; रूपम् form; ऐश्वरम्
-Sovereign.Commentary King This verse is addressed by Sanjaya to
-Dhritarashtra.Supreme Form The Cosmic Form.
+Sovereign.Commentary King This verse is addressed by Sanjaya to Dhritarashtra.Supreme Form The Cosmic Form.
 
 </details>
 </div>

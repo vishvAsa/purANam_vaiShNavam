@@ -51,12 +51,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.18 When the mind which usually goes after sense enjoyments, abandons
-such desires and 'rests on the self alone,' i.e., becomes well-settled
-on account of discerning unsurpassable good in the self alone and rests
-there alone steadily, without movement - then, being 'free of yearning
-for all desires,' one is said to be integrated. He is said to be fit for
-Yoga.
+6.18 When the mind which usually goes after sense enjoyments, abandons such desires and 'rests on the self alone,' i.e., becomes well-settled on account of discerning unsurpassable good in the self alone and rests there alone steadily, without movement - then, being 'free of yearning for all desires,' one is said to be integrated. He is said to be fit for Yoga.
 
 </details>
 </div>
@@ -282,7 +277,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।6.18।। वश में किया हुआ चित्त जिस कालमें अपने स्वरुपमें ही स्थित हो
-जाता है और स्वयं सम्पूर्ण पदार्थों निः स्पृह हो जाता है, उस कालमें वह
+जाता है और स्वयं सम्पूर्ण पदार्थों नि: स्पृह हो जाता है, उस कालमें वह
 योगी कहा जाता है।
 
 </details>
@@ -324,61 +319,44 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.18. When \[his\] well-controlled mind gets established in nothing but
-the Self and he is free from craving for any desired object-at that time
-his is called a master of Yoga.
+6.18. When \[his\] well-controlled mind gets established in nothing but the Self and he is free from craving for any desired object-at that time his is called a master of Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.18 A man who has become free from hankering for all desirable objects
-is then said to be Self-absorbed when the controlled mind rests in the
-Self alone.
+6.18 A man who has become free from hankering for all desirable objects is then said to be Self-absorbed when the controlled mind rests in the Self alone.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.18 When the mind, completely controlled, is centered in the Self, and
-free from all earthly desires, then is the man truly spiritual.
+6.18 When the mind, completely controlled, is centered in the Self, and free from all earthly desires, then is the man truly spiritual.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.18 When the subdued mind rests on the self alone, then, free of all
-yearning for objects of desire, one is said to be fit for Yoga.
+6.18 When the subdued mind rests on the self alone, then, free of all yearning for objects of desire, one is said to be fit for Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.18 When the perfectly controlled mind rests in the Self only, free
-from longing for all the objects of desires, then it is said, 'He is
-united'.
+6.18 When the perfectly controlled mind rests in the Self only, free from longing for all the objects of desires, then it is said, 'He is united'.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/18_yadA_viniyatam.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-6.18 यदा when; विनियतम् perfectly controlled; चित्तम् mind; आत्मनि in
-the Self; एव only; अवतिष्ठते rests; निःस्पृहः free from longing;
+6.18 यदा when; विनियतम् perfectly controlled; चित्तम् mind; आत्मनि in the Self; एव only; अवतिष्ठते rests; निःस्पृहः free from longing;
 सर्वकामेभ्यः from all (objects of) desires; युक्तः united; इति thus;
-उच्यते is said; तदा then.Commentary Perfectly controlled mind The mind
-with onepointedness.When all desires for the objects of pleasure seen or
-unseen die; the mind becomes very peaceful and rests steadily in the
-Supreme Self within. As the Yogi is perfectly harmonised; as he has
-attained to oneness with the Self and as he has become identical with
-Brahman; sense phenomena and bodily affections do not disturb him. He is
-conscious of his immortal; imperishable and invincible nature.Yukta
-means united (with the Self) or harmonised or balanced. Without union
-with the Self neither harmony nor balance nor Samadhi is possible.
+उच्यते is said; तदा then.Commentary Perfectly controlled mind The mind with onepointedness.When all desires for the objects of pleasure seen or unseen die; the mind becomes very peaceful and rests steadily in the Supreme Self within. As the Yogi is perfectly harmonised; as he has attained to oneness with the Self and as he has become identical with Brahman; sense phenomena and bodily affections do not disturb him. He is conscious of his immortal; imperishable and invincible nature.Yukta means united (with the Self) or harmonised or balanced. Without union with the Self neither harmony nor balance nor Samadhi is possible.
 (Cf.V.23VI.8)
 
 </details>

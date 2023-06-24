@@ -51,11 +51,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.15 Arjuna said O Lord! I behold in Your body all gods and all classes
-of living beings as also Brahma, the four-faced ruler of the cosmic egg.
-So too Siva (Isa) who is seated in the lotus-seated Brahma, meaning that
-Siva abides by the directions of Brahma. So also all the seers of whom
-the divine seers are the foremost; and lustrous snakes like Vasuki,
+11.15 Arjuna said O Lord! I behold in Your body all gods and all classes of living beings as also Brahma, the four-faced ruler of the cosmic egg.
+So too Siva (Isa) who is seated in the lotus-seated Brahma, meaning that Siva abides by the directions of Brahma. So also all the seers of whom the divine seers are the foremost; and lustrous snakes like Vasuki,
 Taksaka etc.
 
 </details>
@@ -300,8 +297,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.15. Arjuna said O God ! In Your body I behold all gods and also hosts
-of different kinds of beings-the Lord Brahma seated on the lotus-seat;
+11.15. Arjuna said O God ! In Your body I behold all gods and also hosts of different kinds of beings-the Lord Brahma seated on the lotus-seat;
 and all the seers and all the glowing serpents.
 
 </details>
@@ -309,9 +305,7 @@ and all the seers and all the glowing serpents.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.15 Arjuna said O God, I see in Your body all the gods as also hosts
-of (various) classes of beings; Brahma the ruler, sitting on a lotus
-seat, and all the heavely sages and serpents.
+11.15 Arjuna said O God, I see in Your body all the gods as also hosts of (various) classes of beings; Brahma the ruler, sitting on a lotus seat, and all the heavely sages and serpents.
 
 </details>
 </div>
@@ -327,9 +321,7 @@ the Sages and the shining angels.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.15 Arjuna said I behold, O Lord, in Your body all the gods and all
-the diverse hosts of beings. Brahma, Siva (Isa) who is in Brahma, the
-seers and the lustrous snakes.
+11.15 Arjuna said I behold, O Lord, in Your body all the gods and all the diverse hosts of beings. Brahma, Siva (Isa) who is in Brahma, the seers and the lustrous snakes.
 
 </details>
 </div>
@@ -337,25 +329,16 @@ seers and the lustrous snakes.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 11.15 Arjuna said I see all the gods, O God, in Thy body, and (also)
-hosts of various classes of beings, Brahma, the Lord, seated on the
-lotus, all the sages and the celestial serpents.
+hosts of various classes of beings, Brahma, the Lord, seated on the lotus, all the sages and the celestial serpents.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/15_pashyAmi_devAMsta.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-11.15 पश्यामि (I) see; देवान् the gods; तव Thy; देव O God; देहे in the
-body; सर्वान् all; तथा also; भूतविशेषसङ्घान् hosts of various classes of
-beings; ब्रह्माणम् Brahma; ईशम् the Lord; कमलासनस्थम् seated on the
-lotus; ऋषीन् sages; च and; सर्वान् all; उरगान् serpents; च and; दिव्यान्
-divine.Commentary Arjuna describes his own experience of the Cosmic Form
-in this and the following verses; 15 to 31.Bhutaviseshasanghan Hosts of
-various classes of beings; both animate and inanimate. These numerous
-entities are in Thy Cosmic Form; like hairs on the human body.Brahma;
-the fourfaced; the Lord of all creatures; is seated in the centre of the
-earthlotus on the Meru which forms the thalamus as it were of the
-earthlotus.Sages; such as Vasishtha. Serpents; such as Vasuki.Moreover
+11.15 पश्यामि (I) see; देवान् the gods; तव Thy; देव O God; देहे in the body; सर्वान् all; तथा also; भूतविशेषसङ्घान् hosts of various classes of beings; ब्रह्माणम् Brahma; ईशम् the Lord; कमलासनस्थम् seated on the lotus; ऋषीन् sages; च and; सर्वान् all; उरगान् serpents; च and; दिव्यान्
+divine.Commentary Arjuna describes his own experience of the Cosmic Form in this and the following verses; 15 to 31.Bhutaviseshasanghan Hosts of various classes of beings; both animate and inanimate. These numerous entities are in Thy Cosmic Form; like hairs on the human body.Brahma;
+the fourfaced; the Lord of all creatures; is seated in the centre of the earthlotus on the Meru which forms the thalamus as it were of the earthlotus.Sages; such as Vasishtha. Serpents; such as Vasuki.Moreover
 --
 
 </details>

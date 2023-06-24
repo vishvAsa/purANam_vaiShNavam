@@ -61,12 +61,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.41 Whatever host of beings has 'power', namely the capacity and means
-to rule over; has 'splendour', has beauty or prosperity in wealth,
+10.41 Whatever host of beings has 'power', namely the capacity and means to rule over; has 'splendour', has beauty or prosperity in wealth,
 grains etc., has 'energy,' namely, is engaged in auspicious undertakings
 - know such manifestations as coming fro a fragment of My 'power'. Power
-(Tejas) is the capacity to overcome opposition. The meaning is, know
-them as arising from a fraction of My inconceivable power of subduing.
+(Tejas) is the capacity to overcome opposition. The meaning is, know them as arising from a fraction of My inconceivable power of subduing.
 
 </details>
 </div>
@@ -347,42 +345,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.41. Whatsoever being exists with the manifesting power, and with
-beauty and vigour, be sure that it is born only of a bit of My
-illuminant.
+10.41. Whatsoever being exists with the manifesting power, and with beauty and vigour, be sure that it is born only of a bit of My illuminant.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.41 Whatever object \[All living beings\] is verily endowed with
-majesty, possessed of prosperity, or is energetic, you know for certain
-each of them as having a part of My power as its source.
+10.41 Whatever object \[All living beings\] is verily endowed with majesty, possessed of prosperity, or is energetic, you know for certain each of them as having a part of My power as its source.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.41 Whatever is glorious, excellent, beautiful and mighty, be assured
-that it comes from a fragment of My splendour.
+10.41 Whatever is glorious, excellent, beautiful and mighty, be assured that it comes from a fragment of My splendour.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.41 Whatever being is possessed of power, or of splendour, or of
-energy, know that as coming from a fragment of My power.
+10.41 Whatever being is possessed of power, or of splendour, or of energy, know that as coming from a fragment of My power.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/41_yadyadvibhUtimats.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.41 Whatever being there is glorious, prosperous or powerful, that
-know thou to be a manifestation of a part of My splendour.
+10.41 Whatever being there is glorious, prosperous or powerful, that know thou to be a manifestation of a part of My splendour.
 
 </details>
 </div>
@@ -391,8 +382,7 @@ know thou to be a manifestation of a part of My splendour.
 
 10.41 यत् यत् whatever; विभूतिमत् glorious; सत्त्वम् being; श्रीमत्
 prosperous; ऊर्जितम् powerful; एव also; वा or; तत् तत् that; एव only;
-अवगच्छ know; त्वम् thou; मम My; तेजोंऽशसंभवम् a manifestation of a part
-of My splendour.No Commentary.
+अवगच्छ know; त्वम् thou; मम My; तेजोंऽशसंभवम् a manifestation of a part of My splendour.No Commentary.
 
 </details>
 </div>

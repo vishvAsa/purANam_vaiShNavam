@@ -71,27 +71,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.24 - 14.25 He who is 'alike in pleasure and pain,' namely, whose mind
-is eal in pleasure and pain; 'who dwells in his self,' namely, who
-dwells in his self because his love for the self keeps his mind in
-eanimity in pleasure and pain arising from the birth, death etc., of his
-sons and other relatives and friends, and who, because of this, 'looks
-upon a clod, a stone and a piece of gold as of eal value,' who
-conseently remains the same towards things dear or hateful, i.e., who
-treats alike the worldly objects desired and undesired; who is
-'intelligent,' namely, proficient in discrimination between the Prakrti
-and the self; who, therefore, regards blame and praise as alike, namely,
-who treats with eality praise and blame looking upon good and evil
-alities as born of identification with bodies such as those of men etc.,
-and as such unconnected with his real self; who is the 'same in honour
-and dishonour' because these are feelings based on the misconception
-that the body is the self, and as a conseence of such discrimination
-between the body and the self, 'looks alike on friend and foe,' because
-he understands that ther is no connection between them and himself; and
-who has thus abandoned all entrprises in which embodied beings are
-involved - he who is like this, is said to have risen above the Gunas.
-Now Sri Krsna states the main method (technie) for transcending such
-Gunas:
+14.24 - 14.25 He who is 'alike in pleasure and pain,' namely, whose mind is eal in pleasure and pain; 'who dwells in his self,' namely, who dwells in his self because his love for the self keeps his mind in eanimity in pleasure and pain arising from the birth, death etc., of his sons and other relatives and friends, and who, because of this, 'looks upon a clod, a stone and a piece of gold as of eal value,' who conseently remains the same towards things dear or hateful, i.e., who treats alike the worldly objects desired and undesired; who is
+'intelligent,' namely, proficient in discrimination between the Prakrti and the self; who, therefore, regards blame and praise as alike, namely,
+who treats with eality praise and blame looking upon good and evil alities as born of identification with bodies such as those of men etc.,
+and as such unconnected with his real self; who is the 'same in honour and dishonour' because these are feelings based on the misconception that the body is the self, and as a conseence of such discrimination between the body and the self, 'looks alike on friend and foe,' because he understands that ther is no connection between them and himself; and who has thus abandoned all entrprises in which embodied beings are involved - he who is like this, is said to have risen above the Gunas.
+Now Sri Krsna states the main method (technie) for transcending such Gunas:
 
 </details>
 </div>
@@ -352,7 +336,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।14.24।। जो स्वस्थ (स्वरूप में स्थित), सुख-दुःख में समान रहता है तथा
+।।14.24।। जो स्वस्थ (स्वरूप में स्थित), सुख-दु:ख में समान रहता है तथा
 मिट्टी, पत्थर और स्वर्ण में समदृष्टि रखता है; ऐसा वीर पुरुष प्रिय और
 अप्रिय को तथा निन्दा और आत्मस्तुति को तुल्य समझता है।।
 
@@ -485,20 +469,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.24. To whom pain, pleasure and sleep are alike; to whom a cold, a
-stone and a lump of gold are alike; to whom both the pleasant and the
-unpleasant things are eal; who is firm \[in mind\]; to whom blame and
-personal commendation are eal;
+14.24. To whom pain, pleasure and sleep are alike; to whom a cold, a stone and a lump of gold are alike; to whom both the pleasant and the unpleasant things are eal; who is firm \[in mind\]; to whom blame and personal commendation are eal;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.24 He to whom sorrow and happiness are alike, who is established in
-his own Self, to whom a lump of earth, iron and gold are the same, to
-whom the agreeable and the disagreeable are the same, who is wise, to
-whom censure and his own praise are the same;
+14.24 He to whom sorrow and happiness are alike, who is established in his own Self, to whom a lump of earth, iron and gold are the same, to whom the agreeable and the disagreeable are the same, who is wise, to whom censure and his own praise are the same;
 
 </details>
 </div>
@@ -506,17 +484,14 @@ whom censure and his own praise are the same;
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 14.24 Who accepts pain and pleasure as it comes, is centred in his Self,
-to whom a piece of clay or stone or gold are the same, who neither likes
-nor dislikes, who is steadfast, indifferent alike to praise or censure;
+to whom a piece of clay or stone or gold are the same, who neither likes nor dislikes, who is steadfast, indifferent alike to praise or censure;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.24 He who is alike in pleasure and pain, who dwells in his self, who
-looks upon a clod, a stone and piece of gold as of eal value, who
-remains the same towards things dear and hateful and who is intelligent,
+14.24 He who is alike in pleasure and pain, who dwells in his self, who looks upon a clod, a stone and piece of gold as of eal value, who remains the same towards things dear and hateful and who is intelligent,
 who regards both blame and praise of himself as eal;
 
 </details>
@@ -524,28 +499,16 @@ who regards both blame and praise of himself as eal;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.24 Who is the same in pleasure and pain, who dwells in the Self, to
-whom a clod of earth, stone and gold are alike, who is the same to the
-dear and the unfriendly, who is firm, and to whom censure and praise are
-as one.
+14.24 Who is the same in pleasure and pain, who dwells in the Self, to whom a clod of earth, stone and gold are alike, who is the same to the dear and the unfriendly, who is firm, and to whom censure and praise are as one.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/14_guNa-traya-vibhAga-y/24_samaduHkhasukhaH_.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-14.24 समदुःखसुखः alike in pleasure and pain; स्वस्थः standing in his own
-Self; समलोष्टाश्मकाञ्चनः regarding a clod of earth; a stone and gold
-alike; तुल्यप्रियाप्रियः the same to the dear and the undear; धीरः firm;
-तुल्यनिन्दात्मसंस्तुतिः the same in censure and praise. Commentary Night
-and day have no meaning to a post fixed in the ground. Even so pleasure
-and pain have no meaning to a sage who dwells in his own Self. He is
-above the pairs of opposites. In his eyes cowdung or gold; a jewel or a
-stone; are of eal value. He is free from the idea of,giving and taking.
-His mind is not perturbed by anything pleasant or unpleasant. He is the
-same towards agreeable and disagreeable things. Praise and censure
-cannot affect him. He stands adamant. He abides in his own essential
-state as ExistenceKnowledgeBliss Absolute. He is ever calm and serene.
+14.24 समदुःखसुखः alike in pleasure and pain; स्वस्थः standing in his own Self; समलोष्टाश्मकाञ्चनः regarding a clod of earth; a stone and gold alike; तुल्यप्रियाप्रियः the same to the dear and the undear; धीरः firm;
+तुल्यनिन्दात्मसंस्तुतिः the same in censure and praise. Commentary Night and day have no meaning to a post fixed in the ground. Even so pleasure and pain have no meaning to a sage who dwells in his own Self. He is above the pairs of opposites. In his eyes cowdung or gold; a jewel or a stone; are of eal value. He is free from the idea of,giving and taking.
+His mind is not perturbed by anything pleasant or unpleasant. He is the same towards agreeable and disagreeable things. Praise and censure cannot affect him. He stands adamant. He abides in his own essential state as ExistenceKnowledgeBliss Absolute. He is ever calm and serene.
 (Cf.V.18)
 
 </details>

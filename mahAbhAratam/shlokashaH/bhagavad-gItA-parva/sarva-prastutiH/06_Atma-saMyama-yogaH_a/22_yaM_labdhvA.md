@@ -95,23 +95,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.20 - 6.23 Where, through the practice of Yoga, the mind, which is
-subdued everywhere by such practice, 'rejoices', i.e., rejoices in
-surpassing felicity; and where, perceiving through Yoga 'the self
-(Atman)' by 'the mind (Atman)' one is delighted by the self and
-indifferent to all other objects; and where, through Yoga, one 'knows',
-i.e., experiences that infinite happiness which can be grasped only by
-the 'intellect' contemplating on the self, but is beyond the grasp of
-the senses; where, remaining in that Yoga, one does not 'swerve from
-that state,' because of the overwhelming happiness that state confers;
-having gained which, he desires for it alone, even when he is awakened
-from Yoga, and does not hold anything else as a gain; where one is not
-moved even by 'the heaviest sorrow' caused by any berevaement like that
-of a virtuous son - let him know that disunion from all union with pain,
-i.e., which forms the opposite of union with pain, is called by the term
-Yoga. This Yoga must be practised with the determination of its nature
-as such from the beginning with a mind free from despondency, i.e., with
-zestful exaltation.
+6.20 - 6.23 Where, through the practice of Yoga, the mind, which is subdued everywhere by such practice, 'rejoices', i.e., rejoices in surpassing felicity; and where, perceiving through Yoga 'the self
+(Atman)' by 'the mind (Atman)' one is delighted by the self and indifferent to all other objects; and where, through Yoga, one 'knows',
+i.e., experiences that infinite happiness which can be grasped only by the 'intellect' contemplating on the self, but is beyond the grasp of the senses; where, remaining in that Yoga, one does not 'swerve from that state,' because of the overwhelming happiness that state confers;
+having gained which, he desires for it alone, even when he is awakened from Yoga, and does not hold anything else as a gain; where one is not moved even by 'the heaviest sorrow' caused by any berevaement like that of a virtuous son - let him know that disunion from all union with pain,
+i.e., which forms the opposite of union with pain, is called by the term Yoga. This Yoga must be practised with the determination of its nature as such from the beginning with a mind free from despondency, i.e., with zestful exaltation.
 
 </details>
 </div>
@@ -294,7 +282,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।6.22।। जिस लाभकी प्राप्ति होनेपर उससे अधिक कोई दूसरा लाभ उसके माननेमें
-भी नहीं आता और जिसमें स्थित होनेपर वह बड़े भारी दुःख से भी विचलित नहीं
+भी नहीं आता और जिसमें स्थित होनेपर वह बड़े भारी दु:ख से भी विचलित नहीं
 होता है।।
 
 </details>
@@ -335,26 +323,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.22. And having attained Which, he does not think of any other gain as
-superior to That; being established in Which he is not shaken much by
-misery, however powerful that may be;
+6.22. And having attained Which, he does not think of any other gain as superior to That; being established in Which he is not shaken much by misery, however powerful that may be;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.22 Obtaining which one does not think of any other acisition to be
-superior to that, and being established in which one is not perturbed
-even by great sorrow;
+6.22 Obtaining which one does not think of any other acisition to be superior to that, and being established in which one is not perturbed even by great sorrow;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.22 Finding That, he will realise that there is no possession so
-precious. And when once established here, no calamity can disturb him.
+6.22 Finding That, he will realise that there is no possession so precious. And when once established here, no calamity can disturb him.
 
 </details>
 </div>
@@ -369,8 +352,7 @@ wherein established, one is not moved even by the heaviest sorrow -
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/22_yaM_labdhvA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.22 Which, having obtained, he thinks there is no other gain superior
-to it; wherein estabished, he is not moved even by heavy sorrow.
+6.22 Which, having obtained, he thinks there is no other gain superior to it; wherein estabished, he is not moved even by heavy sorrow.
 
 </details>
 </div>
@@ -380,18 +362,8 @@ to it; wherein estabished, he is not moved even by heavy sorrow.
 6.22 यम् which; लब्ध्वा having obtained; च and; अपरम् other; लाभम् gain;
 मन्यते thinks; न not; अधिकम् greater; ततः than that; यस्मिन् in which;
 स्थितः established; न not; दुःखेन by sorrow; गुरुणा (by) heavy; अपि
-even; विचाल्यते is moved.Commentary Which the gain or the realisation of
-the Self or the immortal Soul.Wherein in the allblissful Self which is
-free from delusion and sorrow. The Self is allfull and selfcontained.
-All the desires are fulfilled when one attains Selfrealisation. That is
-the reason why the Lord says There is no other acisition superior to
-Selfrealisation. If one gets himself established in the Supreme Self
-within; he cannot be shaken every by heavy sorrow and pain; because he
-is mindless and he is identifying himself with the sorrowless and
-painless Brahman. One can experience pain and sorrow when he identifies
-himself with the body and the mind. If there is no mind there cannot be
-any pain. When one is under chloroform he feels no pian even when his
-hand is amputated; because the mind is withdrawn from the body.
+even; विचाल्यते is moved.Commentary Which the gain or the realisation of the Self or the immortal Soul.Wherein in the allblissful Self which is free from delusion and sorrow. The Self is allfull and selfcontained.
+All the desires are fulfilled when one attains Selfrealisation. That is the reason why the Lord says There is no other acisition superior to Selfrealisation. If one gets himself established in the Supreme Self within; he cannot be shaken every by heavy sorrow and pain; because he is mindless and he is identifying himself with the sorrowless and painless Brahman. One can experience pain and sorrow when he identifies himself with the body and the mind. If there is no mind there cannot be any pain. When one is under chloroform he feels no pian even when his hand is amputated; because the mind is withdrawn from the body.
 
 </details>
 </div>

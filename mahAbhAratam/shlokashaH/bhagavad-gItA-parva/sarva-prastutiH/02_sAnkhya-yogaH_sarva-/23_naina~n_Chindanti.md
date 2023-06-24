@@ -63,12 +63,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 2.23 - 2.24 Weapons, fire, water and air are incapable of cleaving,
-burning, wetting and drying the self; for, the nature of the self is to
-pervade all elements; It is present everywhere; for, It is subtler than
-all the elements; It is not capable of being pervaded by them; and
-cleaving, burning, wetting and drying are actions which can take place
-only by pervading a substance. Therefore the self is eternal. It is
-stable, immovable and primeval. The meaning is that It is unchanging,
+burning, wetting and drying the self; for, the nature of the self is to pervade all elements; It is present everywhere; for, It is subtler than all the elements; It is not capable of being pervaded by them; and cleaving, burning, wetting and drying are actions which can take place only by pervading a substance. Therefore the self is eternal. It is stable, immovable and primeval. The meaning is that It is unchanging,
 unshakable and ancient.
 
 </details>
@@ -438,8 +433,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.23 Weapons do not cut It, fire does not burn It, water does not
-moisten It, and air does not dry It.
+2.23 Weapons do not cut It, fire does not burn It, water does not moisten It, and air does not dry It.
 
 </details>
 </div>
@@ -454,16 +448,14 @@ and wind dries It not.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.23 Weapons do not cleave It (the self), fire does not burn It, waters
-do not wet It, and wind does not dry It.
+2.23 Weapons do not cleave It (the self), fire does not burn It, waters do not wet It, and wind does not dry It.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/23_naina~n_Chindanti.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.23 Weapons cut It not, fire burns It not, water wets It not, wind
-dries It not.
+2.23 Weapons cut It not, fire burns It not, water wets It not, wind dries It not.
 
 </details>
 </div>
@@ -472,10 +464,8 @@ dries It not.
 
 2.23 न not; एनम् this (Self); छिन्दन्ति cut; शस्त्राणि weapons; न not;
 एनम् this; दहति burns; पावकः fire; न not;,च and; एनम् this; क्लेदयन्ति
-wet; आपः waters; न not; शोषयति dries; मारुतः wind.Commentary The Self is
-indivisible. It has no parts. It is extremely subtle. It is infinite.
-Therefore; sword cannot cut It fire cannot burn It water cannot wet It
-wind cannot dry It.
+wet; आपः waters; न not; शोषयति dries; मारुतः wind.Commentary The Self is indivisible. It has no parts. It is extremely subtle. It is infinite.
+Therefore; sword cannot cut It fire cannot burn It water cannot wet It wind cannot dry It.
 
 </details>
 </div>

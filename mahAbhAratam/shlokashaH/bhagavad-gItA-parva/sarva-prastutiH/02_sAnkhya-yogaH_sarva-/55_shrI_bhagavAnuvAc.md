@@ -36,15 +36,33 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.55।। एवं करणत्रयानुष्ठानप्रकारप्रश्नस्य साक्षादुत्तरेषुप्रजहाति
+इत्यादिषु चतुर्षु श्लोकेषु प्रथमस्य स्वरूपप्रश्नोत्तरतामिति दर्शयति
+वृत्तिविशेषेति। प्रकृष्टानुकूल्ययोगिन्यात्मनि प्रीतिरूपस्य तोषस्य
+कामान्तरप्रहाणहेतुत्वात्तथान्वयमाह आत्मन्येवेति। सर्वशब्दस्यआत्मनि
+तुष्टः इत्येतत्सन्निधानसिद्धं सङ्कोचमाह तद्व्यतिरिक्तानिति।
+यद्वाआत्मन्येवात्मना तुष्टः इति यथाक्रममेवान्वयः आत्मैकविषयेण हि
+मनसाऽन्यतो जातालम्बुद्धिरूपसन्तोष इत्यर्थः।
+एतदभिप्रायेणोक्तंमनसाऽऽत्मैकावलम्बनेन तुष्ट इति। तेन तोषेणेति। स
+त्वासक्तमतिः कृष्णे दृश्यमानो महोरगैः। न विवेदात्मनो गात्रं
+तत्स्मृत्याह्लादसंस्थितः वि.पु.1।17।39 इतिवत्। प्रकर्षेणेति
+अपुनरङ्कुरमित्यर्थः। स्थितप्रज्ञविषयश्लोकचतुष्टयं तदवस्थाचतुष्टयविषयमिति
+मन्वानश्चतुर्थीयमवस्थेत्याह ज्ञाननिष्ठाकाष्ठेयमिति। उक्तं चहैरण्यगर्भैः
+दृष्टानुश्रविकविषयवितृष्णस्य वशीकारसंज्ञा वैराग्यम् पा.यो.1।15 इति।
+ऐहिकामुष्मिकसकलफलविमुखस्य यस्तेषु फलेषु सवासनरागत्यागः सा
+वशीकरणसंज्ञेत्युच्यत इत्यर्थः।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 2.55 The Lord said When a person is satisfied in himself with himself,
-i.e. when his mind depends on the self within himself; and being content
-with that, expels all the desires of the mind which are different from
-that state of mind - then he is said to be a man of firm wisdom. This is
-the highest form of devotion of knowledge. Then, the lower state, not
-far below it, of one established in firm wisdom, is described:
+i.e. when his mind depends on the self within himself; and being content with that, expels all the desires of the mind which are different from that state of mind - then he is said to be a man of firm wisdom. This is the highest form of devotion of knowledge. Then, the lower state, not far below it, of one established in firm wisdom, is described:
 
 </details>
 </div>
@@ -552,8 +570,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.55. The Bhagavat said O son of Prtha ! When a man casts off all
-desires existing in his mind and remains content in the Self by the self
+2.55. The Bhagavat said O son of Prtha ! When a man casts off all desires existing in his mind and remains content in the Self by the self
 (mind), then he is called 'a man-of-stabilized-intellect.
 
 </details>
@@ -561,27 +578,21 @@ desires existing in his mind and remains content in the Self by the self
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.55 The Blessed said O Partha, when one fully renounces all the desires
-that have entered the mind, and remains satisfied in the Self alone by
-the Self, then he is called a man of steady wisdom.
+2.55 The Blessed said O Partha, when one fully renounces all the desires that have entered the mind, and remains satisfied in the Self alone by the Self, then he is called a man of steady wisdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.55 Lord Shri Krishna replied: When a man has given up the desires of
-his heart and is satisfied with the Self alone, be sure that he has
-reached the highest state.
+2.55 Lord Shri Krishna replied: When a man has given up the desires of his heart and is satisfied with the Self alone, be sure that he has reached the highest state.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.55 The Lord said When a man renounces all the desires of the mind, O
-Arjuna, when he is satisfied in himself with himself, then he is said to
-be of firm wisdom.
+2.55 The Lord said When a man renounces all the desires of the mind, O Arjuna, when he is satisfied in himself with himself, then he is said to be of firm wisdom.
 
 </details>
 </div>
@@ -597,15 +608,8 @@ then is he said to be one of steady wisdom.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/55_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.55 प्रजहाति casts off; यदा when; कामान् desires; सर्वान् all; पार्थ O
-Partha; मनोगतान् of the mind; आत्मनि in the Self; एव only; आत्मना by the
-Self; तुष्टः satisfied; स्थितप्रज्ञः of steady wisdom; तदा then; उच्यते
-(he) is called.Commentary In this verse Lord Krishna gives His answer to
-the first part of Arjunas estion.If anyone gets sugarcandy will he crave
-for blacksugar Certainly not. If anyone can attain the supreme bliss of
-the Self; will he thirst for the sensual pleasures No; not at all. The
-sumtotal of all the pleasures of the world will seem worthless for the
-sage of steady wisdom who is satisfied in the Self. (Cf.III.17VI.7;8).
+2.55 प्रजहाति casts off; यदा when; कामान् desires; सर्वान् all; पार्थ O Partha; मनोगतान् of the mind; आत्मनि in the Self; एव only; आत्मना by the Self; तुष्टः satisfied; स्थितप्रज्ञः of steady wisdom; तदा then; उच्यते
+(he) is called.Commentary In this verse Lord Krishna gives His answer to the first part of Arjunas estion.If anyone gets sugarcandy will he crave for blacksugar Certainly not. If anyone can attain the supreme bliss of the Self; will he thirst for the sensual pleasures No; not at all. The sumtotal of all the pleasures of the world will seem worthless for the sage of steady wisdom who is satisfied in the Self. (Cf.III.17VI.7;8).
 
 </details>
 </div>

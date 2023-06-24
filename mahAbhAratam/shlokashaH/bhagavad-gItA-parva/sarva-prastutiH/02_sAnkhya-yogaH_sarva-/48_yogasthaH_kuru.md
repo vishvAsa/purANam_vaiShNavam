@@ -25,6 +25,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः मूलम्" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/mUlam/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 <details><summary><h3>(सं) रामानुजः मूलम् ...{Loading}...</h3></summary>
 
+एतद् एव स्पष्टीकरोति -
+
 ।।2.48।। राज्य-बन्धु-प्रभृतिषु **सङ्गं त्यक्त्वा** युद्धादीनि **कर्माणि योगस्थः कुरु।**  
 तदन्तर्भूत-विजयादि-**सिद्ध्य्-असिद्ध्योः समो भूत्वा** कुरु।  
 तद् इदं सिद्ध्य्-असिद्ध्योः **समत्वं** योगस्थ इत्यत्र योग-शब्देन **उच्यते।**  
@@ -33,17 +35,38 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.48।। अनन्तरग्रन्थं सङ्गमयति एतदेवेति।
+अवधारणेनार्थान्तरपरत्वव्युदासः। स्फुटीकरोतीति
+पौनरुक्त्यपरिहारः। राज्यबन्धुप्रभृतिष्विति राज्यप्रभृतिषु सङ्गः फलद्वारा
+बाधकः बन्धुप्रभृतिषु सङ्गस्तु युद्धाद्यननुष्ठानद्वारेति तदुभयमपि
+त्याज्यत्वादत्र सङ्गशब्देन सङ्गृहीतमिति भावः। युद्धादीनीति
+प्रकृतविशेषप्रदर्शनम्। आनुषङ्गिकत्वसूचनायोक्तंतदन्तर्भूतेति। लाभालाभौ
+जयाजयौ 2।38 इति पूर्वोक्तानुसन्धानेनाह विजयादीति। योगस्थः ৷৷.
+सिद्ध्यसिद्ध्योः समो भूत्वा इत्यनयोरेकवाक्यत्वे
+पौनरुक्त्याद्भिन्नवाक्यत्वे तु
+तादृशश्रुतिवाक्यविशेषोपबृंहणौपयिकयोगशब्दार्थव्याख्यानरूपत्वेन
+पौनरुक्त्याच्च कुर्वितीदगावर्तितम्। विद्याविनयसम्पन्ने 5।18
+इत्यादिप्रदेशान्तरोक्तसमत्वान्तरव्यावर्तनायोक्तंतदिदं
+सिद्ध्यसिद्ध्योरिति।
+सार्वत्रिकयोगशब्दप्रयोगविषयव्यावृत्त्यर्थमुक्तंयोगस्थ इत्यत्रेति।
+योगशब्दस्य सिद्ध्यसिद्धिसाम्ये क्वचिदपि प्रयोगो न दृश्यत इत्यत्राह योग
+इति। चित्तसमाधाने प्रयोगस्तावद्योगानुशासनादिसिद्धः। इदमपि समत्वं
+तद्रूपमिति योगशब्दार्थ इत्याकूतम्।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.48 Abandoning the attachment to kingdom, relatives etc., and
-established in Yoga, engage in war and such other activities. Perform
-these with eanimity as regards success and failure resulting from
-victory etc., which are inherent in them. This eanimity with regard to
-success and failure is called here by the term Yoga, in the expression
-'established in Yoga.' Yoga is eanimity of mind which takes the form of
-evenness in success and failure. Sri Krsna explains why this is
-repeatedly said:
+
+Sri Krsna makes this clear in the following verse:
+
+2.48 Abandoning the attachment to kingdom, relatives etc., and established in Yoga, engage in war and such other activities. Perform these with eanimity as regards success and failure resulting from victory etc., which are inherent in them. This eanimity with regard to success and failure is called here by the term Yoga, in the expression
+'established in Yoga.' Yoga is eanimity of mind which takes the form of evenness in success and failure. Sri Krsna explains why this is repeatedly said:
 
 </details>
 </div>
@@ -380,9 +403,7 @@ for, the even-mindedness is said to be the Yoga.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.48 By being established in Yoga, O Dhananjaya (Arjuna), undertake
-actions, casting off attachment and remaining eipoised in success and
-failure. Eanimity is called Yoga.
+2.48 By being established in Yoga, O Dhananjaya (Arjuna), undertake actions, casting off attachment and remaining eipoised in success and failure. Eanimity is called Yoga.
 
 </details>
 </div>
@@ -390,8 +411,7 @@ failure. Eanimity is called Yoga.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 2.48 Perform all thy actions with mind concentrated on the Divine,
-renouncing attachment and looking upon success and failure with an equal
-eye. Spirituality implies equanimity.
+renouncing attachment and looking upon success and failure with an equal eye. Spirituality implies equanimity.
 
 </details>
 </div>
@@ -399,17 +419,14 @@ eye. Spirituality implies equanimity.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 2.48 Abandoning attachment and established in Yoga, perfom works,
-viewing success and failure with an even mind. Evenness of mind is said
-to be Yoga.
+viewing success and failure with an even mind. Evenness of mind is said to be Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/48_yogasthaH_kuru.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.48 Perform action, O Arjuna, being steadfast in Yoga, abandoning
-attachment and balanced in success and failure. Evenness of mind is
-called Yoga.
+2.48 Perform action, O Arjuna, being steadfast in Yoga, abandoning attachment and balanced in success and failure. Evenness of mind is called Yoga.
 
 </details>
 </div>
@@ -418,14 +435,8 @@ called Yoga.
 
 2.48 योगस्थः steadfast in Yoga; कुरु perform; कर्माणि actions; सङ्गम्
 attachment; त्यक्त्वा having abandoned; धनञ्जय O Dhananjaya;
-सिद्ध्यसिद्ध्योः in success and failure; समः the smae; भूत्वा having
-become; समत्वम् evenness of mind; योगः Yoga; उच्यते is called.Commentary
-Dwelling in union with the Divine perform actions merely for Gods sake
-with a balanced mind in success and failure. Eilibrium is Yoga. The
-attainment of the knowledge of the Self through purity of heart obtained
-by doing actions without expectation of fruits is success (Siddhi).
-Failure is the nonattainment of knowledge by doing actions with
-expectation of fruit. (Cf.III.9IV.14IV.20).
+सिद्ध्यसिद्ध्योः in success and failure; समः the smae; भूत्वा having become; समत्वम् evenness of mind; योगः Yoga; उच्यते is called.Commentary Dwelling in union with the Divine perform actions merely for Gods sake with a balanced mind in success and failure. Eilibrium is Yoga. The attainment of the knowledge of the Self through purity of heart obtained by doing actions without expectation of fruits is success (Siddhi).
+Failure is the nonattainment of knowledge by doing actions with expectation of fruit. (Cf.III.9IV.14IV.20).
 
 </details>
 </div>

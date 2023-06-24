@@ -59,14 +59,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 6.3 Karma Yoga is said to be the means for an aspirant for release who
-'seeks to climb the heights of Yoga,' i.e., the vision of the self. For
-the same person, when he has climbed the 'heights of Yoga,' i.e., when
-he is established in Yoga - tranility, i.e., freedom from actions is
-said to be the means. A man should perform actions until he has attained
-release (Moksa) in the form of the vision of the self. Full release
-comes only with the fall of the body. The 'vision of the self' referred
-to here is called Moksa by courtesy. When does not become established in
-Yoga; Sri Krsna replies:
+'seeks to climb the heights of Yoga,' i.e., the vision of the self. For the same person, when he has climbed the 'heights of Yoga,' i.e., when he is established in Yoga - tranility, i.e., freedom from actions is said to be the means. A man should perform actions until he has attained release (Moksa) in the form of the vision of the self. Full release comes only with the fall of the body. The 'vision of the self' referred to here is called Moksa by courtesy. When does not become established in Yoga; Sri Krsna replies:
 
 </details>
 </div>
@@ -450,17 +443,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.3. For a sage, who is desirous of mounting upon the Yoga, action is
-said to be the cause; for the same \[sage\], when he has mounted upon
-the Yoga, ietude is said to be the cause.
+6.3. For a sage, who is desirous of mounting upon the Yoga, action is said to be the cause; for the same \[sage\], when he has mounted upon the Yoga, ietude is said to be the cause.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.3 For the sage who wishes to ascend to (Dhyana-) yoga, action is said
-to be the means. For that person, when he has ascended to (Dhyana-)yoga,
+6.3 For the sage who wishes to ascend to (Dhyana-) yoga, action is said to be the means. For that person, when he has ascended to (Dhyana-)yoga,
 inaction alone is said to be the means.
 
 </details>
@@ -468,26 +458,21 @@ inaction alone is said to be the means.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.3 For the sage who seeks the heights of spiritual meditation, practice
-is the only method, and when he has attained them, he must maintain
-himself there by continual self-control.
+6.3 For the sage who seeks the heights of spiritual meditation, practice is the only method, and when he has attained them, he must maintain himself there by continual self-control.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.3 Action is said to be the means for the sage who seeks to climb the
-heights of Yoga; but when he has climbed the heights of Yoga, tranillity
-is said to be the means.
+6.3 Action is said to be the means for the sage who seeks to climb the heights of Yoga; but when he has climbed the heights of Yoga, tranillity is said to be the means.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/03_Aruruxormuneryoga.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.3 For a sage who wishes to attain to Yoga, action is said to be the
-means; for the same sage who has attained to Yoga, inaction (iescence)
+6.3 For a sage who wishes to attain to Yoga, action is said to be the means; for the same sage who has attained to Yoga, inaction (iescence)
 is said to be the means.
 
 </details>
@@ -496,21 +481,10 @@ is said to be the means.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.3 आरुरुक्षोः wishing to climb; मुनेः of a Muni or sage; योगम् Yoga;
-कर्म action; कारणम् the cause; उच्यते is said; योगारूढस्य of one who has
-attained to Yoga; तस्य of him; एव even; शमः inaction (iescence); कारणम्
-the cause; उच्यते is said.Commentary For a man who cannot practise
-meditation for a long time and who is not able to keep his mind steady
-in meditation; action is a means to get himself enthroned in Yoga.
-Action purifies his mind and makes the mind fit for the practice of
-steady meditation. Action leads to steady concentration and
-meditation.For the sage who is enthroned in Yoga; Sama or renunciation
-of actions is said to be the means.The more perfectly he abstains from
-actions; the more steady his mind is; and the more peaceful,he is; the
-more easily and thoroughly does his mind get fixed in the Self. For a
-Brahmana there is no wealth like unto the knowledge of oneness and
-homogeneity (of the Self in all beings); truthfulness; good character;
-steadiness; harmlessness; straightforwardness and renunciation of all
-actions. (Mahabharata; Santi Parva; 175.38)
+कर्म action; कारणम् the cause; उच्यते is said; योगारूढस्य of one who has attained to Yoga; तस्य of him; एव even; शमः inaction (iescence); कारणम्
+the cause; उच्यते is said.Commentary For a man who cannot practise meditation for a long time and who is not able to keep his mind steady in meditation; action is a means to get himself enthroned in Yoga.
+Action purifies his mind and makes the mind fit for the practice of steady meditation. Action leads to steady concentration and meditation.For the sage who is enthroned in Yoga; Sama or renunciation of actions is said to be the means.The more perfectly he abstains from actions; the more steady his mind is; and the more peaceful,he is; the more easily and thoroughly does his mind get fixed in the Self. For a Brahmana there is no wealth like unto the knowledge of oneness and homogeneity (of the Self in all beings); truthfulness; good character;
+steadiness; harmlessness; straightforwardness and renunciation of all actions. (Mahabharata; Santi Parva; 175.38)
 
 </details>
 </div>

@@ -76,12 +76,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.3 O Supreme Lord, it is certain that it is even as you have described
-Yourself. O Supreme Person, O ocean of compassion for your dependants!
-I, however, wish to see or wish to realise directly, Your Lordly form
-peculiar to you - the form as the sovereign, protector, creator,
-destroyer, supporter of all, the mine of auspicious attributes, supreme
-and distinct from all other entities.
+11.3 O Supreme Lord, it is certain that it is even as you have described Yourself. O Supreme Person, O ocean of compassion for your dependants!
+I, however, wish to see or wish to realise directly, Your Lordly form peculiar to you - the form as the sovereign, protector, creator,
+destroyer, supporter of all, the mine of auspicious attributes, supreme and distinct from all other entities.
 
 </details>
 </div>
@@ -314,40 +311,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.3. As You describe Yourself as the Supreme Lord \[of all\], it must
-be so. \[Hence\], O Supreme Self, I desire to perceive Your Lordly form.
+11.3. As You describe Yourself as the Supreme Lord \[of all\], it must be so. \[Hence\], O Supreme Self, I desire to perceive Your Lordly form.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.3 O supreme Lord, so it is, as You speak about Yourself. O supreme
-Person, I wish to see the divine form of Yours.
+11.3 O supreme Lord, so it is, as You speak about Yourself. O supreme Person, I wish to see the divine form of Yours.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.3 I believe all as Thou hast declared it. I long now to have a vision
-of thy Divine Form, O Thou Most High!
+11.3 I believe all as Thou hast declared it. I long now to have a vision of thy Divine Form, O Thou Most High!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.3 O Supreme Lord, how You described Yourself, even so are You. I wish
-to see Your Lordly form, O Supreme Person.
+11.3 O Supreme Lord, how You described Yourself, even so are You. I wish to see Your Lordly form, O Supreme Person.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/03_evametadyathAttha.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.3 (Now) O Supreme Lord, as Thou hast thus described Thyself, O
-Supreme Person, I wish to see Thy divine form.
+11.3 (Now) O Supreme Lord, as Thou hast thus described Thyself, O Supreme Person, I wish to see Thy divine form.
 
 </details>
 </div>
@@ -356,11 +348,7 @@ Supreme Person, I wish to see Thy divine form.
 
 11.3 एवम् thus; एतत् this; यथा as; आत्थ hast declared; त्वम् Thou;
 आत्मानम् Thyself; परमेश्वर O Supreme Lord; द्रष्टुम् to see; इच्छामि (I)
-desire; ते Thy; रूपम् form; ऐश्वरम् sovereign; पुरुषोत्तम O Supreme
-Purusha.Commentary Some commentators take the two halves of this verse
-as two independent sentences and interpret it thusSo it is; O Supreme
-Lord; as Thou hast declared Thyself to be. (But still) I desire to see
-Thy form as Isvara; O Supreme Person.Rupamaisvaram Thy form as Isvara;
+desire; ते Thy; रूपम् form; ऐश्वरम् sovereign; पुरुषोत्तम O Supreme Purusha.Commentary Some commentators take the two halves of this verse as two independent sentences and interpret it thusSo it is; O Supreme Lord; as Thou hast declared Thyself to be. (But still) I desire to see Thy form as Isvara; O Supreme Person.Rupamaisvaram Thy form as Isvara;
 that of Vishnu as possessed of infinite knowledge; sovereignty; power;
 strength; prowess and splendour.
 

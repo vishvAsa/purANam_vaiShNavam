@@ -68,16 +68,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/24_avyaktaM_vyakitam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.24 Ignorant people do not know My higher nature, immutable and
-unsurpassed. They do not know that it is I, who is worshipped through
-all rites, who is the Lord of all, and whose nature is beyond speech and
-mind, that has incarnated as the son of Vasudeva, without abandoning My
-divine nature, out of My supreme compassion and parental love for those
-who resort to Me and in order that I may be the refuge of all. They
-consider Me as only a worldly prince who was not manifest before and who
-has now become manifest by Karma and has secured a special form.
-Therefore, they do not resort to Me, nor do they worship Me. Why is He
-not manifest (to them); Sri Krsna says:
+7.24 Ignorant people do not know My higher nature, immutable and unsurpassed. They do not know that it is I, who is worshipped through all rites, who is the Lord of all, and whose nature is beyond speech and mind, that has incarnated as the son of Vasudeva, without abandoning My divine nature, out of My supreme compassion and parental love for those who resort to Me and in order that I may be the refuge of all. They consider Me as only a worldly prince who was not manifest before and who has now become manifest by Karma and has secured a special form.
+Therefore, they do not resort to Me, nor do they worship Me. Why is He not manifest (to them); Sri Krsna says:
 
 </details>
 </div>
@@ -454,35 +446,28 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 7.24. The men of poor intellect, are not conscious of the higher,
-changeless and supreme nature of Mine; and hence, they regard Me, the
-Unmanifest, to be a manifest one.
+changeless and supreme nature of Mine; and hence, they regard Me, the Unmanifest, to be a manifest one.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/24_avyaktaM_vyakitam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.24 The unintelligent, unaware of My supreme state which is immutable
-and unsurpassable, think of Me as the unmanifest that has become
-manifest.
+7.24 The unintelligent, unaware of My supreme state which is immutable and unsurpassable, think of Me as the unmanifest that has become manifest.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/24_avyaktaM_vyakitam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.24 The ignorant think of Me, who am the Unmanifested Spirit, as if I
-were really in human form. They do not understand that My Superior
-Nature is changeless and most excellent.
+7.24 The ignorant think of Me, who am the Unmanifested Spirit, as if I were really in human form. They do not understand that My Superior Nature is changeless and most excellent.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/24_avyaktaM_vyakitam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.24 Not knowing My higher nature, immutable and unsurpassed, the
-ignorant think of Me as an unmanifest entity who has now become
-manifest.
+7.24 Not knowing My higher nature, immutable and unsurpassed, the ignorant think of Me as an unmanifest entity who has now become manifest.
 
 </details>
 </div>
@@ -498,16 +483,9 @@ knowing not My higher, immutable and most excellent nature.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 7.24 अव्यक्तम् the unmanifested; व्यक्तिम् to manifestation; आपन्नम्
-come to; मन्यन्ते think; माम् Me; अबुद्धयः the foolish; परम् the
-highest; भावम् nature; अजानन्तः not knowing; मम My; अव्ययम् immutable;
-अनुत्तमम् most excellent.Commentary The ignorant take Lord Krishna as a
-common mortal. They think that He has taken a body like ordinary human
-beings from the unmanifested state on account of the force of Karma of
-the previous birth. They have no knowledge of His higher; imperishable
-and selfluminous nature as the Highest Self. They think that He has just
-now come into manifestation; though He is selfexistent; eternal;
-beginningless; endless; birthless; deathless; changeless; infinite and
-unmanifest.
+come to; मन्यन्ते think; माम् Me; अबुद्धयः the foolish; परम् the highest; भावम् nature; अजानन्तः not knowing; मम My; अव्ययम् immutable;
+अनुत्तमम् most excellent.Commentary The ignorant take Lord Krishna as a common mortal. They think that He has taken a body like ordinary human beings from the unmanifested state on account of the force of Karma of the previous birth. They have no knowledge of His higher; imperishable and selfluminous nature as the Highest Self. They think that He has just now come into manifestation; though He is selfexistent; eternal;
+beginningless; endless; birthless; deathless; changeless; infinite and unmanifest.
 
 </details>
 </div>

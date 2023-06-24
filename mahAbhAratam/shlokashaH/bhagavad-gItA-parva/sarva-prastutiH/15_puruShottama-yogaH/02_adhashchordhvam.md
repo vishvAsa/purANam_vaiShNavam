@@ -108,12 +108,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/02_adhashchordhvam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.2 The 'secondary roots' of this tree having the main roots in the
-world of Brahman and its crest in men ramify below in the world of men.
-They bind them according to their Karma. The meaning is that the effects
-of acts causing bondag become roots in the world of men. For, the effect
-of actions done in the human state brings about the further condition of
-men, beasts etc., down below, and of divinities etc., up above.
+15.2 The 'secondary roots' of this tree having the main roots in the world of Brahman and its crest in men ramify below in the world of men.
+They bind them according to their Karma. The meaning is that the effects of acts causing bondag become roots in the world of men. For, the effect of actions done in the human state brings about the further condition of men, beasts etc., down below, and of divinities etc., up above.
 
 </details>
 </div>
@@ -595,41 +591,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/15_puruShottama-yogaH/02_adhashchordhvam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-15.2. Of which (Tree) the branches, spreading downward and upward, well
-developed with Strands, have sense objects as sprouts; also below in the
-human world are Its roots, stretching successively, having actions for
-their sub-knots.
+15.2. Of which (Tree) the branches, spreading downward and upward, well developed with Strands, have sense objects as sprouts; also below in the human world are Its roots, stretching successively, having actions for their sub-knots.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/02_adhashchordhvam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.2 The branches of that (Tree), extending down-wards and upwards, are
-strengthened by the alities and have sense-objects as their shoots. And
-the roots, which are followed by actions, spread down-wards in the human
-world \[According to A.G. and M.S. manusya-loke means a body
-distinguished by Brahminhood etc.\].
+15.2 The branches of that (Tree), extending down-wards and upwards, are strengthened by the alities and have sense-objects as their shoots. And the roots, which are followed by actions, spread down-wards in the human world \[According to A.G. and M.S. manusya-loke means a body distinguished by Brahminhood etc.\].
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/02_adhashchordhvam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.2 Its branches shoot upwards and downwards, deriving their
-nourishment from the Qualities; its buds are the objects of sense; and
-its roots, which follow the Law causing man's regeneration and
-degeneration, pierce downwards into the soil.
+15.2 Its branches shoot upwards and downwards, deriving their nourishment from the Qualities; its buds are the objects of sense; and its roots, which follow the Law causing man's regeneration and degeneration, pierce downwards into the soil.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/02_adhashchordhvam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-15.2 (a) Its branches extend both above and below, nourished by the
-Gunas. Their shoots are sense objects ৷৷. (b) ৷৷. And their secondary
-roots extend downwards, resulting in acts which bind in the world of
-men.
+15.2 (a) Its branches extend both above and below, nourished by the Gunas. Their shoots are sense objects ৷৷. (b) ৷৷. And their secondary roots extend downwards, resulting in acts which bind in the world of men.
 
 </details>
 </div>
@@ -637,8 +620,7 @@ men.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 15.2 Below and above spread its branches, nourished by the Gunas;
-sense-objects are its buds; and below, in the world of men, stretch
-forth the roots, originating action.
+sense-objects are its buds; and below, in the world of men, stretch forth the roots, originating action.
 
 </details>
 </div>
@@ -649,43 +631,10 @@ forth the roots, originating action.
 branches; गुणप्रवृद्धाः nourished by the Gunas; विषयप्रवालाः
 senseobjects (are) its buds; अधः below; च and; मूलानि the roots;
 अनुसन्ततानि are stretched forth; कर्मानुबन्धीनि originating action;
-मनुष्यलोके in the world of men.Commentary The countless objects; large
-and small; which life needs are all products of the five elements
-through the activity of the alities. This tree of Samsara is nourished
-by the three alities of Nature. The senseobjects are its buds and the
-roots which grow downwards are the bonds of Karma for those who lead a
-life of passion and attachment in this world; who are under the sway of
-likes and dislikes. The sprouts of this marvellous tree are the charming
-objects of the senses with their characteristics of sound; touch;
-colour; taste and smell. The roots; the Karmic tendencies from the past
-lives; grow downwards to generate the bonds of Karma in the world of
-men. These roots strengthen the bondage by further actions.The primal
-root is ignorance from which arises the eightfold Nature -- the five
-elements; mind; intellect and egoism. From the stem of the tree spring
-four branches called Svedaja; Andaja;,Jarayuja and Udbhijja. Eightyfour
-lakhs (eight million and four hundred thousand) of species came into
-being.One branch shoots straight upwards. This is the branch of Dharma
-which yields the fruit of enjoyment in heaven. Another branch is the
-branch of dispassion which yields the fruit of Selfrealisation. The sun;
-the planets; the manes and the sages have also come out of this
-wonderful tree. Above them are the branches of the worlds of Indra and
-the gods. Still higher are those of the sages and the men of austerities
-and penance. Still higher is the Satyaloka where Hiranyagarbha
-dwells.From man down to the immovable objects below and from him up to
-the realm of the Creator above; whatever regions are attained in
-accordance with the nature of knowledge or action; they are the
-ramifying branches of the tree of Samsara. They are nurtured and
-fattened by the three Gunas which form their material base.The
-senseobjects such as sound; touch; colour; taste and smell represent the
-buds that sprout from the branches of the physical bodies which are the
-products of actions.The highest root of this wondeful tree is Brahman.
-The secondary roots are the latent impressions (Samskaras) of likes and
-dislikes; which spread in this world of men and impel them to perform
-virtuus and vicious actions and bind them fast to actions.Now listen to
-the way by which this tree can be cut off. Only he who thus cuts his
-bondage to this tree of Samsara can be happy even in this world. He has
-the highest wisdom because he stands as a spectator of this tree and
-knows it as it is; without being tied to it.
+मनुष्यलोके in the world of men.Commentary The countless objects; large and small; which life needs are all products of the five elements through the activity of the alities. This tree of Samsara is nourished by the three alities of Nature. The senseobjects are its buds and the roots which grow downwards are the bonds of Karma for those who lead a life of passion and attachment in this world; who are under the sway of likes and dislikes. The sprouts of this marvellous tree are the charming objects of the senses with their characteristics of sound; touch;
+colour; taste and smell. The roots; the Karmic tendencies from the past lives; grow downwards to generate the bonds of Karma in the world of men. These roots strengthen the bondage by further actions.The primal root is ignorance from which arises the eightfold Nature -- the five elements; mind; intellect and egoism. From the stem of the tree spring four branches called Svedaja; Andaja;,Jarayuja and Udbhijja. Eightyfour lakhs (eight million and four hundred thousand) of species came into being.One branch shoots straight upwards. This is the branch of Dharma which yields the fruit of enjoyment in heaven. Another branch is the branch of dispassion which yields the fruit of Selfrealisation. The sun;
+the planets; the manes and the sages have also come out of this wonderful tree. Above them are the branches of the worlds of Indra and the gods. Still higher are those of the sages and the men of austerities and penance. Still higher is the Satyaloka where Hiranyagarbha dwells.From man down to the immovable objects below and from him up to the realm of the Creator above; whatever regions are attained in accordance with the nature of knowledge or action; they are the ramifying branches of the tree of Samsara. They are nurtured and fattened by the three Gunas which form their material base.The senseobjects such as sound; touch; colour; taste and smell represent the buds that sprout from the branches of the physical bodies which are the products of actions.The highest root of this wondeful tree is Brahman.
+The secondary roots are the latent impressions (Samskaras) of likes and dislikes; which spread in this world of men and impel them to perform virtuus and vicious actions and bind them fast to actions.Now listen to the way by which this tree can be cut off. Only he who thus cuts his bondage to this tree of Samsara can be happy even in this world. He has the highest wisdom because he stands as a spectator of this tree and knows it as it is; without being tied to it.
 
 </details>
 </div>

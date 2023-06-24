@@ -99,37 +99,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.3 The Lord said You have not properly understood what I taught you
-before. In this world, full of people with varying degrees of
-alifications, I have taught in the days of yore two ways, that of
-knowledge (Jnana Yoga) and that of works, according to the alifications
-of aspirants. There is no contradiction in this. It is not possible for
-all people of the world in whom the desire for release has arisen, to
-become capable immediately for the practice of Jnana Yoga. But he who
-performs the worship of the Supreme Person without desire for fruits and
-thery gets completely rid of inner impurities and keeps his senses
-unagitated - he becomes competent for the path of knowledge. That all
-activities are for performing the worship of the Supreme Person will be
-taught in the Gita verse, 'He from \`whom the activities of all beings
-arise and by whom all this is pervaded - by worshipping Him with his
-duty man reaches perfection' (18.46). Earlier also performance of
-activities without any attachment to the fruits is enjoined by the verse
-beginning with. 'You have the right to work alone ৷৷.' (2.47). Next for
-those whose intellect has been redeemed by this kind of discipline, is
-enjoined Jnana Yoga by the words, 'When a man renounces all the desires
-৷৷.' (2.55). Conseently, firm devotion to Jnana Yoga is taught only to
-the Sankhyas, i.e., those persons who are competent to follow the
-discipline of the knowledge of the self, and Karma Yoga to Yogins, i.e.,
-to those competent for the path of work. Sankhya means Buddhi and those
-who are endowed with the Buddhi (intellectual or mental disposition)
-having only the self for its object, are Sankhyans. Therefore those who
-are not fit for this are alified for Karma Yoga. Those who are possessed
-of Buddhi which is agitated by objects of the senses, are the persons
-alified for Karma Yoga, whereas those whose Buddhi is not thus agitated,
-are alified for Jnana Yoga. Therefore nothing contradictory and
-confusing is taught. It is said in the next stanza that Jnana Yoga is
-difficult to practise all at once, even when the desire for release
-arises in any worldy person:
+3.3 The Lord said You have not properly understood what I taught you before. In this world, full of people with varying degrees of alifications, I have taught in the days of yore two ways, that of knowledge (Jnana Yoga) and that of works, according to the alifications of aspirants. There is no contradiction in this. It is not possible for all people of the world in whom the desire for release has arisen, to become capable immediately for the practice of Jnana Yoga. But he who performs the worship of the Supreme Person without desire for fruits and thery gets completely rid of inner impurities and keeps his senses unagitated - he becomes competent for the path of knowledge. That all activities are for performing the worship of the Supreme Person will be taught in the Gita verse, 'He from \`whom the activities of all beings arise and by whom all this is pervaded - by worshipping Him with his duty man reaches perfection' (18.46). Earlier also performance of activities without any attachment to the fruits is enjoined by the verse beginning with. 'You have the right to work alone ৷৷.' (2.47). Next for those whose intellect has been redeemed by this kind of discipline, is enjoined Jnana Yoga by the words, 'When a man renounces all the desires
+৷৷.' (2.55). Conseently, firm devotion to Jnana Yoga is taught only to the Sankhyas, i.e., those persons who are competent to follow the discipline of the knowledge of the self, and Karma Yoga to Yogins, i.e.,
+to those competent for the path of work. Sankhya means Buddhi and those who are endowed with the Buddhi (intellectual or mental disposition)
+having only the self for its object, are Sankhyans. Therefore those who are not fit for this are alified for Karma Yoga. Those who are possessed of Buddhi which is agitated by objects of the senses, are the persons alified for Karma Yoga, whereas those whose Buddhi is not thus agitated,
+are alified for Jnana Yoga. Therefore nothing contradictory and confusing is taught. It is said in the next stanza that Jnana Yoga is difficult to practise all at once, even when the desire for release arises in any worldy person:
 
 </details>
 </div>
@@ -658,47 +632,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.3. The Bhagavat said The two-fold path in this world-\[the one\] with
-Yoga of knowledge for men of reflection \[and the other\] with Yoga of
-action for men of Yoga-has been declared to be one by Me formerly, O
-sinless one !
+3.3. The Bhagavat said The two-fold path in this world-\[the one\] with Yoga of knowledge for men of reflection \[and the other\] with Yoga of action for men of Yoga-has been declared to be one by Me formerly, O sinless one !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.3 The Blessed Lord said O unblemished one, two kinds of steadfastness
-in this world were spoken of by Me in the days of yore-through the Yoga
-of Knowledge for the men of realization; through the Yoga of Action for
-the yogis.
+3.3 The Blessed Lord said O unblemished one, two kinds of steadfastness in this world were spoken of by Me in the days of yore-through the Yoga of Knowledge for the men of realization; through the Yoga of Action for the yogis.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.3 Lord Shri Krishna replied: In this world, as I have said, there is a
-twofold path, O Sinless One! There is the Path of Wisdom for those who
-meditate, and the Path of Action for those who work.
+3.3 Lord Shri Krishna replied: In this world, as I have said, there is a twofold path, O Sinless One! There is the Path of Wisdom for those who meditate, and the Path of Action for those who work.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.3 The Lord said In this world a two-fold way was of yore laid down by
-Me, O sinless one: by Jnana Yoga for the Sankhyas and by Karma Yoga for
-the Yogins.
+3.3 The Lord said In this world a two-fold way was of yore laid down by Me, O sinless one: by Jnana Yoga for the Sankhyas and by Karma Yoga for the Yogins.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/03_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.3 The Blessed Lord said In this world there is a twofold path, as I
-said before, O sinless one; the path of knowledge of the Sankhyas and
-the path of action of the Yogins.
+3.3 The Blessed Lord said In this world there is a twofold path, as I said before, O sinless one; the path of knowledge of the Sankhyas and the path of action of the Yogins.
 
 </details>
 </div>
@@ -706,24 +668,7 @@ the path of action of the Yogins.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.3 लोके in world; अस्मिन् in this; द्विविधा twofold; निष्ठा path; पुरा
-previously; प्रोक्ता said; मया by Me; अनघ O sinless one; ज्ञानयोगेन by
-the path of knowledge; साङ्ख्यानाम् of the Sankhyas; कर्मयोगेन by the
-path of action; योगिनाम् of the Yogins.Commentary The path of knowledge
-of the Sankhyas (Jnana Yoga) was described by Lord Krishna in chapter
-II; verses 11 to 38 the path of action (Karma Yoga) from 40 to 53.Pura
-Prokta may also mean In the beginning of creation the twofold path was
-given by Me to this world.Those who are endowed with the four means and
-who have sharp; subtle intellect and bold understanding are fit for
-Jnana Yoga. Those who have a tendency or inclination for wok are fit for
-Karma Yoga. (The four means are discrimination; dispassion; sixfold
-virutes; and longing for liberation. The sixfold virtues are control of
-the mind; control of the senses; fortitude (endurance); turning away
-from the objects of the world; faith and tranillity.)It is not possible
-for a man to practise the two Yogas simultaneously. Karma Yoga is a
-means to an end. It purifies the heart and prepares the aspirant for the
-reception of knowledge. The Karma Yogi should take up Jnana Yoga as soon
-as his heart is purified. Jnana Yoga takes the aspirant directly to the
-goal without any extraneous help. (Cf.V.5).
+previously; प्रोक्ता said; मया by Me; अनघ O sinless one; ज्ञानयोगेन by the path of knowledge; साङ्ख्यानाम् of the Sankhyas; कर्मयोगेन by the path of action; योगिनाम् of the Yogins.Commentary The path of knowledge of the Sankhyas (Jnana Yoga) was described by Lord Krishna in chapter II; verses 11 to 38 the path of action (Karma Yoga) from 40 to 53.Pura Prokta may also mean In the beginning of creation the twofold path was given by Me to this world.Those who are endowed with the four means and who have sharp; subtle intellect and bold understanding are fit for Jnana Yoga. Those who have a tendency or inclination for wok are fit for Karma Yoga. (The four means are discrimination; dispassion; sixfold virutes; and longing for liberation. The sixfold virtues are control of the mind; control of the senses; fortitude (endurance); turning away from the objects of the world; faith and tranillity.)It is not possible for a man to practise the two Yogas simultaneously. Karma Yoga is a means to an end. It purifies the heart and prepares the aspirant for the reception of knowledge. The Karma Yogi should take up Jnana Yoga as soon as his heart is purified. Jnana Yoga takes the aspirant directly to the goal without any extraneous help. (Cf.V.5).
 
 </details>
 </div>

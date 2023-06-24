@@ -145,39 +145,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.14 These actions of varied nature like creation etc., do not
-contaminate Me i.e., do not bind Me. For the distinctions of gods, men
-etc., are not brought about by Me, but by the particular Karmas, good
-and evil, of created beings. Therefore by the process of discriminating
-between the acired and the inherent, it will be found that I am not the
-author of this varied creations etc. The created or embodied selves, who
-are endowed with bodies and organs at the time of creation in accordance
-with their own Karmas springing from attachment to fruits etc.,
-experience all enjoyments available in creation. Thus for them (embodied
-selves) alone there is desire for the results of creation etc., and for
-the results of their Karmas. There is no desire in Me for it. The
-Sutrakara says to the same effect: 'No partiality or cruelty on account
-of there being dependence (on the Karma of souls for inealities' (Br.
-S., 2.1.34). Bhagavan Parasara also says so: 'He (the Lord) is only the
-operative cause in the creation of beings. That from which the creative
-forces spring constitutes the material cause. Leaving aside the material
-cause, the being that becomes embodied does not reire the help of any
-other thing whatever. A thing is led into the condition in which it is,
-O best of ascetics, only by its own potentiality' (V. P., 1.4.51-2). The
-Supreme Person is only the operative cause with regard to the creation
-of those to be created, i.e., the selves in the bodies of gods etc. The
-material cause for the differences into gods etc., is the potentiality
-in the form of previous Karmas of the selves to be created. Therefore,
-leaving aside the operative cause, i.e., the Supreme Person, the
-creator, the embodied beings do not reire anything else for causing
-difference into conditions of gods etc. For these selves are led to take
-the forms of gods etc., by the potentiality of their own old Karma with
-which they are connected. Such is the meaning. He who knows Me thus to
-be the agent of creation etc., and still a non-agent, i.e., as one who
-has no desire for the results of the acts of creation etc., - such a
-person is not tied by previous actions, i.e., he is freed from the old
-Karmas which obstruct the undertaking of Karma Yoga by causing
-attachment to results. Such is the purport.
+4.14 These actions of varied nature like creation etc., do not contaminate Me i.e., do not bind Me. For the distinctions of gods, men etc., are not brought about by Me, but by the particular Karmas, good and evil, of created beings. Therefore by the process of discriminating between the acired and the inherent, it will be found that I am not the author of this varied creations etc. The created or embodied selves, who are endowed with bodies and organs at the time of creation in accordance with their own Karmas springing from attachment to fruits etc.,
+experience all enjoyments available in creation. Thus for them (embodied selves) alone there is desire for the results of creation etc., and for the results of their Karmas. There is no desire in Me for it. The Sutrakara says to the same effect: 'No partiality or cruelty on account of there being dependence (on the Karma of souls for inealities' (Br.
+S., 2.1.34). Bhagavan Parasara also says so: 'He (the Lord) is only the operative cause in the creation of beings. That from which the creative forces spring constitutes the material cause. Leaving aside the material cause, the being that becomes embodied does not reire the help of any other thing whatever. A thing is led into the condition in which it is,
+O best of ascetics, only by its own potentiality' (V. P., 1.4.51-2). The Supreme Person is only the operative cause with regard to the creation of those to be created, i.e., the selves in the bodies of gods etc. The material cause for the differences into gods etc., is the potentiality in the form of previous Karmas of the selves to be created. Therefore,
+leaving aside the operative cause, i.e., the Supreme Person, the creator, the embodied beings do not reire anything else for causing difference into conditions of gods etc. For these selves are led to take the forms of gods etc., by the potentiality of their own old Karma with which they are connected. Such is the meaning. He who knows Me thus to be the agent of creation etc., and still a non-agent, i.e., as one who has no desire for the results of the acts of creation etc., - such a person is not tied by previous actions, i.e., he is freed from the old Karmas which obstruct the undertaking of Karma Yoga by causing attachment to results. Such is the purport.
 
 </details>
 </div>
@@ -484,41 +456,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 4.14. Actions do not stain Me; nor do I have a desire for the fruits
-\[of actions\] also. Whosoever comprehends Me as such, he is not bound
-by actions.
+\[of actions\] also. Whosoever comprehends Me as such, he is not bound by actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.14 Actions do not taint Me; for Me there is no hankering for the
-results of actions. One who knows Me thus, does not become bound by
-actions.
+4.14 Actions do not taint Me; for Me there is no hankering for the results of actions. One who knows Me thus, does not become bound by actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.14 My actions do not fetter Me, nor do I desire anything that they can
-bring. He who thus realises Me is not enslaved by action.
+4.14 My actions do not fetter Me, nor do I desire anything that they can bring. He who thus realises Me is not enslaved by action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.14 Works do not contaminate Me. In Me there is no desire for fruits of
-actions. He who understands Me thus is not bound by actions.
+4.14 Works do not contaminate Me. In Me there is no desire for fruits of actions. He who understands Me thus is not bound by actions.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/14_na_mAm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.14 Actions do not taint Me, nor have I a desire for the fruit of
-actions. He who knows Me thus is not bound by actions.
+4.14 Actions do not taint Me, nor have I a desire for the fruit of actions. He who knows Me thus is not bound by actions.
 
 </details>
 </div>
@@ -527,13 +493,8 @@ actions. He who knows Me thus is not bound by actions.
 
 4.14 न not; माम् Me; कर्माणि actions; लिम्पन्ति taint; न not; मे to Me;
 कर्मफले in the fruit of actions; स्पृहा desire; इति thus; माम् Me; यः
-who; अभिजानाति knows; कर्मभिः by actions; न not; सः he; बध्यते is
-bound.Commentary As I have neither egoism nor desire for fruits; I am
-not bound by actions. Wordly people think they are the agents and they
-perfrom actions. They also expect fruits for their actions. So they take
-birth again and again. If one works without attachment; without egoism;
-without expectation of fruits; he too will not be bound by actions. He
-will be freed from birth and death. (Cf.IX.9).
+who; अभिजानाति knows; कर्मभिः by actions; न not; सः he; बध्यते is bound.Commentary As I have neither egoism nor desire for fruits; I am not bound by actions. Wordly people think they are the agents and they perfrom actions. They also expect fruits for their actions. So they take birth again and again. If one works without attachment; without egoism;
+without expectation of fruits; he too will not be bound by actions. He will be freed from birth and death. (Cf.IX.9).
 
 </details>
 </div>

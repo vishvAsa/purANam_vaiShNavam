@@ -95,18 +95,10 @@ _________________
 
 15.6 The sun cannot illumine the light of the self, nor moon, nor fire.
 For, knowledge is indeed that which illumines them all. External lights,
-however, are helpful only in removing the darkness which hinders the
-contact between the senses and the objects. It is the intelligence of
-the self that reveals such external lights. What reveals this (i.e., the
-self) is Yoga (i.e., meditation) only. Beginningless Karma is the
-hindrance. It has been taught that the way for the erasing of Karma is
-self-surrender to the Lord through detachment etc. That supreme light,
-reaching which they do not return any more is the self, which is My
-glory (Vibhuti) and therefore belongs to Me and is a part of Myself.
+however, are helpful only in removing the darkness which hinders the contact between the senses and the objects. It is the intelligence of the self that reveals such external lights. What reveals this (i.e., the self) is Yoga (i.e., meditation) only. Beginningless Karma is the hindrance. It has been taught that the way for the erasing of Karma is self-surrender to the Lord through detachment etc. That supreme light,
+reaching which they do not return any more is the self, which is My glory (Vibhuti) and therefore belongs to Me and is a part of Myself.
 Such is the meaning. The supremacy of this light (i.e., individual self)
-consists in its capacity to illumine the light of knowledge. Knowledge
-alone can illuminate all things (including the light of the sun which
-sheds only physical light on objects.).
+consists in its capacity to illumine the light of knowledge. Knowledge alone can illuminate all things (including the light of the sun which sheds only physical light on objects.).
 
 </details>
 </div>
@@ -413,7 +405,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।15.6।। उसे न सूर्य प्रकाशित कर सकता है और न चन्द्रमा और न अग्नि। जिसे
-प्राप्त कर मनुष्य पुनः (संसार को) नहीं लौटते हैं, वह मेरा परम धाम है।।
+प्राप्त कर मनुष्य पुन: (संसार को) नहीं लौटते हैं, वह मेरा परम धाम है।।
 
 </details>
 </div>
@@ -504,32 +496,28 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 15.6. The sun does not illumine That; nor the moon and nor the fire;
-That is My Abode Supreme, having gone to Which they (Yogins) never
-return.
+That is My Abode Supreme, having gone to Which they (Yogins) never return.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-15.6 Neither the sun nor the moon nor fire illumines That. That is My
-supreme Abode, reaching which they do not return.
+15.6 Neither the sun nor the moon nor fire illumines That. That is My supreme Abode, reaching which they do not return.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-15.6 Neither sun, moon, nor fire shines there. Those who go thither
-never come back. For, O Arjuna, that is my Celestial Home!
+15.6 Neither sun, moon, nor fire shines there. Those who go thither never come back. For, O Arjuna, that is my Celestial Home!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/06_na_tadbhAsayate.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-15.6 That supreme light (i.e. the individual self), reaching which they
-do not return any more, is Mine; the sun does not illumine It, nor moon,
+15.6 That supreme light (i.e. the individual self), reaching which they do not return any more, is Mine; the sun does not illumine It, nor moon,
 nor the fire.
 
 </details>
@@ -548,23 +536,12 @@ having gone thither they return not; that is My supreme abode.
 15.6 न not; तत् that; भासयते illumines; सूर्यः the sun; न not; शशाङ्कः
 the moon; न not; पावकः fire; यत् to which; गत्वा having gone; न not;
 निवर्तन्ते (they) return; तत् that; धाम Abode; परमम् Supreme; मम
-My.Commentary That supreme abode is selfillumined for Brahman is
-selfluminous. It existed before the sun; the moon and the fire came into
-existence during creation. It remains even after they dissolve into the
-Unmanifested during the dissolution of the world.This verse is taken
-from the Kathopanishad The sun does not shine there; nor do the moon and
-the stars; nor does this lightning shine and much less this fire. When
-It shines; everything shines after It; by Its light; all these shine
+My.Commentary That supreme abode is selfillumined for Brahman is selfluminous. It existed before the sun; the moon and the fire came into existence during creation. It remains even after they dissolve into the Unmanifested during the dissolution of the world.This verse is taken from the Kathopanishad The sun does not shine there; nor do the moon and the stars; nor does this lightning shine and much less this fire. When It shines; everything shines after It; by Its light; all these shine
 (Chap.II;5.15). The same idea occurs in the Svetasvatara Upanishad
 (6.14) and the Mundaka Upanishad (II.2.10). The sun; the moon; etc.;
-derive their light from Para Brahman. Nothing else is needed for
-illuminating the Supreme Being because It is selfluminous.Dhama paramam
-Supreme abode or superexcellent seat or Para Brahman.Though the sun is
-endowed with the power of illumining all; it cannot illumine the Supreme
-Being.यत् धाम वैष्णवं पदं गत्वा प्राप्य न निवर्तन्ते यत् च सूर्यादिभिः न
+derive their light from Para Brahman. Nothing else is needed for illuminating the Supreme Being because It is selfluminous.Dhama paramam Supreme abode or superexcellent seat or Para Brahman.Though the sun is endowed with the power of illumining all; it cannot illumine the Supreme Being.यत् धाम वैष्णवं पदं गत्वा प्राप्य न निवर्तन्ते यत् च सूर्यादिभिः न
 भासयते तत् धाम पदं परमं मम विष्णोः। That abode; to which having gone;
-none returns; and which the sun; moon; stars; lightning and fire do not
-illumine; is the highest abode of Vishnu.  
+none returns; and which the sun; moon; stars; lightning and fire do not illumine; is the highest abode of Vishnu.  
   
 (Cf.VIII.21)
 

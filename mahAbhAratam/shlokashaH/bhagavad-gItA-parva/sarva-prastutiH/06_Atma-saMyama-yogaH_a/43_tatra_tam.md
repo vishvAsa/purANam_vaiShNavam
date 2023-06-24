@@ -52,23 +52,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.43 - 6.44 There, in that existence, he regains the mental disposition
-for Yoga that he had in the previous birth. Like one awakened from
-sleep, he strives again from where he had left before attaining complete
-success. He strives so as not to be defeated by impediments. This person
-who has fallen away from Yoga is borne on towards Yoga alone by his
-previous practice, i.e., by the older practice with regard to Yoga. This
-power of Yoga is well known. Even a person, who has not engaged in Yoga
-but has only been desirous of knowing Yoga, i.e., has failed to follow
-it up, acries once again the same desire to practise Yoga. He then
-practises Yoga, of which the first stage is Karma Yoga, and transcends
-Sabda-brahman (or Brahman which is denotable by words). The
-Sabda-brahman is the Brahman capable of manifesting as gods, men, earth,
-sky, heaven etc., namely, Prakrti. The meaning is that having been
-liberated from the bonds of Prakrti, he attains the self which is
-incapable of being named by such words as gods, men etc., and which
-comprises solely of knowledge and beatitude. After thus describing the
-glory of Yoga the verse says:
+6.43 - 6.44 There, in that existence, he regains the mental disposition for Yoga that he had in the previous birth. Like one awakened from sleep, he strives again from where he had left before attaining complete success. He strives so as not to be defeated by impediments. This person who has fallen away from Yoga is borne on towards Yoga alone by his previous practice, i.e., by the older practice with regard to Yoga. This power of Yoga is well known. Even a person, who has not engaged in Yoga but has only been desirous of knowing Yoga, i.e., has failed to follow it up, acries once again the same desire to practise Yoga. He then practises Yoga, of which the first stage is Karma Yoga, and transcends Sabda-brahman (or Brahman which is denotable by words). The Sabda-brahman is the Brahman capable of manifesting as gods, men, earth,
+sky, heaven etc., namely, Prakrti. The meaning is that having been liberated from the bonds of Prakrti, he attains the self which is incapable of being named by such words as gods, men etc., and which comprises solely of knowledge and beatitude. After thus describing the glory of Yoga the verse says:
 
 </details>
 </div>
@@ -323,42 +308,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.43. There in that life, he gains (regains) that link of mentality
-transmitted from his former body. Conseently once again he strives for a
-full success, O rejoicer of the Kurus !
+6.43. There in that life, he gains (regains) that link of mentality transmitted from his former body. Conseently once again he strives for a full success, O rejoicer of the Kurus !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.43 There he becomes endowed with that wisdom acired in the previous
-body. and he strives more than before for perfection, O scion of the
-Kuru dynasty.
+6.43 There he becomes endowed with that wisdom acired in the previous body. and he strives more than before for perfection, O scion of the Kuru dynasty.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.43 Then the experience acquired in his former life will revive, and
-with its help he will strive for perfection more eagerly than before.
+6.43 Then the experience acquired in his former life will revive, and with its help he will strive for perfection more eagerly than before.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.43 There he regains the disposition of mind which he had in his former
-body, O Arjuna, and from there he strives much more for success inYoga.
+6.43 There he regains the disposition of mind which he had in his former body, O Arjuna, and from there he strives much more for success inYoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/43_tatra_tam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.43 Thee he comes in touch with the knowledge acired in his former body
-and strives more than before for perfection, O Arjuna.
+6.43 Thee he comes in touch with the knowledge acired in his former body and strives more than before for perfection, O Arjuna.
 
 </details>
 </div>
@@ -367,20 +345,7 @@ and strives more than before for perfection, O Arjuna.
 
 6.43 तत्र there; तम् that; बुद्धिसंयोगम् union with knowledge; लभते
 obtains; पौर्वदेहिकम् acired in his fomer body; यतते strives; च and; ततः
-than that; भूयः more; संसिद्धौ for perfection; कुरुनन्दन O son of the
-Kurus.Commentary When he takes a human body again in this world his
-previous exertions and practice in the path of Yoga are not wasted. They
-bear full fruit now; and hasten his moral and spiritual evolution.Our
-thoughts and actions are left in our subconscious minds in the form of
-subtle Samskaras or impressions. Our experiences in the shape of
-Samskaras; habits and tendencies are also stored up in our subconscious
-mind. These Samskaras of the past birth are revivified and reenergised
-in the next birth. The Samskaras of Yogic practices and meditation and
-the Yogic tendencies will compel the spiritual aspirant to strive with
-greater vigour than that with which he attempted in the former birth. He
-will endeavour more strenuously to get more spiritual experiences and to
-attain to higher planes of realisation than those acired in his previous
-birth.
+than that; भूयः more; संसिद्धौ for perfection; कुरुनन्दन O son of the Kurus.Commentary When he takes a human body again in this world his previous exertions and practice in the path of Yoga are not wasted. They bear full fruit now; and hasten his moral and spiritual evolution.Our thoughts and actions are left in our subconscious minds in the form of subtle Samskaras or impressions. Our experiences in the shape of Samskaras; habits and tendencies are also stored up in our subconscious mind. These Samskaras of the past birth are revivified and reenergised in the next birth. The Samskaras of Yogic practices and meditation and the Yogic tendencies will compel the spiritual aspirant to strive with greater vigour than that with which he attempted in the former birth. He will endeavour more strenuously to get more spiritual experiences and to attain to higher planes of realisation than those acired in his previous birth.
 
 </details>
 </div>

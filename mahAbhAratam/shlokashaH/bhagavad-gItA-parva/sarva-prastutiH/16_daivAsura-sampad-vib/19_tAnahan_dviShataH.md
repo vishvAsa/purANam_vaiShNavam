@@ -67,12 +67,9 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 16.19 Those who hate Me in this manner, I hurl them, the cruel,
-inauspicious and the vilest of mankind into the cycle of births and
-deaths for ever, viz., old age, death etc., revolving again and again,
+inauspicious and the vilest of mankind into the cycle of births and deaths for ever, viz., old age, death etc., revolving again and again,
 and even there into demoniac wombs. I hurl them into births,
-antagonistic to any friendliness towards Me. The meaning is that I shall
-connect them to cruel minds as would impel them to actions which lead
-them to the attainment of cursed births.
+antagonistic to any friendliness towards Me. The meaning is that I shall connect them to cruel minds as would impel them to actions which lead them to the attainment of cursed births.
 
 </details>
 </div>
@@ -361,8 +358,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.19. These hateful, cruel, basest men, I hurl incessantly into the
-inauspicious demoniac wombs alone in the cycle of birth-and-death.
+16.19. These hateful, cruel, basest men, I hurl incessantly into the inauspicious demoniac wombs alone in the cycle of birth-and-death.
 
 </details>
 </div>
@@ -377,25 +373,21 @@ the vilest of human beings, verily into the demoniacla classes.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.19 Those who thus hate Me, who are cruel, the dregs of mankind, I
-condemn them to a continuous, miserable and godless rebirth.
+16.19 Those who thus hate Me, who are cruel, the dregs of mankind, I condemn them to a continuous, miserable and godless rebirth.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.19 Those haters, cruel, the vilest and the most inauspicious of
-mankind, I hurl forever into the cycles of births and deaths, into the
-wombs of demons.
+16.19 Those haters, cruel, the vilest and the most inauspicious of mankind, I hurl forever into the cycles of births and deaths, into the wombs of demons.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/19_tAnahan_dviShataH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-16.19 Those cruel haters, worst among men in the world, I hurl those
-evil-doers into the wombs of demons only.
+16.19 Those cruel haters, worst among men in the world, I hurl those evil-doers into the wombs of demons only.
 
 </details>
 </div>
@@ -405,19 +397,8 @@ evil-doers into the wombs of demons only.
 16.19 तान् those; अहम् I; द्विषतः (the) hating (ones); क्रूरान् cruel;
 संसारेषु in the worlds; नराधमान् worst among men; क्षिपामि (I) hurl;
 अजस्रम् for ever; अशुभान् evildoers; आसुरीषु of demons; एव only; योनिषु
-in wombs.Commentary Now listen to the manner in which I deal with all
-these demoniacal persons who injure people and who take delight in
-killing people and animals and who hate Me; the indweller of all bodies.
-I deprive them of their human state and reduce them to a lower condition
-as subhuman creatures. I hurl them into the wombs of the most cruel
-beings such as tigers; lions; scorpions; snakes and the like. For ever
-only means till they purify their hearts. There is no such thing as
-eternal damnation.Tan Those The enemies of those who tread the path of
-righteousness and the haters of virtuous persons.Naradhaman Worst among
-men because they are guilty of the wors evil deeds and they take delight
-in injuring virtuous persns and in killing persons and animals
-ruthlessly.Asurishu yonishu Wombs of Asuras Wombs of the most cruel
-beings such as tigers; lions and the like.
+in wombs.Commentary Now listen to the manner in which I deal with all these demoniacal persons who injure people and who take delight in killing people and animals and who hate Me; the indweller of all bodies.
+I deprive them of their human state and reduce them to a lower condition as subhuman creatures. I hurl them into the wombs of the most cruel beings such as tigers; lions; scorpions; snakes and the like. For ever only means till they purify their hearts. There is no such thing as eternal damnation.Tan Those The enemies of those who tread the path of righteousness and the haters of virtuous persons.Naradhaman Worst among men because they are guilty of the wors evil deeds and they take delight in injuring virtuous persns and in killing persons and animals ruthlessly.Asurishu yonishu Wombs of Asuras Wombs of the most cruel beings such as tigers; lions and the like.
 
 </details>
 </div>

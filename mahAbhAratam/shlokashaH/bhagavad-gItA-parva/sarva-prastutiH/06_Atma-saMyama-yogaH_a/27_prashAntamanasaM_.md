@@ -53,15 +53,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.27 Supreme happiness, which is of the nature of experience of the self
-in its essential nature comes to this Yogin whose 'mind is at peace,'
-i.e., whose mind does not swerve from the self, whose mind abides in the
-self; whose impurities are thery completely burnt away; whose Rajas is
-thery 'wholly annulled,' i.e., in whom the ality of Rajas is destroyed;
-and who has thus become the Brahman, i.e., who remains steady in his
-essential nature as the Atman. 'Hi' (for) is added to indicate reason.
-The meaning is this: 'On account of the nature of the self which has the
-form of supreme bliss.'
+6.27 Supreme happiness, which is of the nature of experience of the self in its essential nature comes to this Yogin whose 'mind is at peace,'
+i.e., whose mind does not swerve from the self, whose mind abides in the self; whose impurities are thery completely burnt away; whose Rajas is thery 'wholly annulled,' i.e., in whom the ality of Rajas is destroyed;
+and who has thus become the Brahman, i.e., who remains steady in his essential nature as the Atman. 'Hi' (for) is added to indicate reason.
+The meaning is this: 'On account of the nature of the self which has the form of supreme bliss.'
 
 </details>
 </div>
@@ -333,18 +328,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.27. Indeed the Supreme Bliss comes to this highly tranil-minded man of
-Yoga, whose passions remain ietened, who has become the Brahman and who
-is free from sins.
+6.27. Indeed the Supreme Bliss comes to this highly tranil-minded man of Yoga, whose passions remain ietened, who has become the Brahman and who is free from sins.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/27_prashAntamanasaM_.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.27 Supreme Bliss comes to this yogi alone whose mind has become
-perfectly tranil, whose (ality of) rajas has been eliminated, who has
-become identified with Brahman, and is taintless.
+6.27 Supreme Bliss comes to this yogi alone whose mind has become perfectly tranil, whose (ality of) rajas has been eliminated, who has become identified with Brahman, and is taintless.
 
 </details>
 </div>
@@ -352,8 +343,7 @@ become identified with Brahman, and is taintless.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 6.27 Supreme Bliss is the lot of the sage, whose mind attains Peace,
-whose passions subside, who is without sin, and who becomes one with the
-Absolute.
+whose passions subside, who is without sin, and who becomes one with the Absolute.
 
 </details>
 </div>
@@ -361,8 +351,7 @@ Absolute.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 6.27 For supreme happiness comes to the Yogin whose mind is at peace,
-who is free of evil, from whom the Rajas has departed, and who has
-become the Brahman.
+who is free of evil, from whom the Rajas has departed, and who has become the Brahman.
 
 </details>
 </div>
@@ -378,16 +367,8 @@ whose passion is ieted, who has become Brahman and who is free from sin.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 6.27 प्रशान्तमनसम् one of peaceful mind; हि verily; एनम् this; योगिनम्
-Yogi; सुखम् bliss; उत्तमम् supreme; उपैति comes; शान्तरजसम् one whose
-passion is ieted; ब्रह्मभूतम् one who has become Brahman; अकल्मषम् one
-who is free from sin.Commentary In this verse and in the next also the
-Lord describes the benefits of Yoga.Supreme (eternal; unalloyed and
-uninterrupted) bliss comes to the Yogi whose mind is perfectly serene;
-who has calmed his passionate nature; who has destroyed all sorts of
-attachments; who has attained knowledge of the Self and thus become a
-Jivanmukta or one who is liberated while living; who feels that all is
-Brahman only; and who is taintless; i.e.; who is not affected by Dharma
-or Adharma (good or evil).
+Yogi; सुखम् bliss; उत्तमम् supreme; उपैति comes; शान्तरजसम् one whose passion is ieted; ब्रह्मभूतम् one who has become Brahman; अकल्मषम् one who is free from sin.Commentary In this verse and in the next also the Lord describes the benefits of Yoga.Supreme (eternal; unalloyed and uninterrupted) bliss comes to the Yogi whose mind is perfectly serene;
+who has calmed his passionate nature; who has destroyed all sorts of attachments; who has attained knowledge of the Self and thus become a Jivanmukta or one who is liberated while living; who feels that all is Brahman only; and who is taintless; i.e.; who is not affected by Dharma or Adharma (good or evil).
 
 </details>
 </div>

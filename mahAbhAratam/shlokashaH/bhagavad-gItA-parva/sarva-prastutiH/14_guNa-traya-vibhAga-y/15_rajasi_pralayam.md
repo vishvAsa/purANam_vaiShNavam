@@ -43,14 +43,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.15 (a) Meeting with death when Rajas is preponderant, one is rorn in
-the families of those who act for the sake of fruits for themselves.
-Being rorn in such families, he becomes alified to perform auspicious
-acts which constitute the way for attaining heaven and the like. (b)
-Similarly, one who dies when Tamas is preponderant is born in the wombs
-of beings lacking in intelligence, namely, in the wombs of dogs, pigs
-etc. The meaning is that he is rorn as one incapable of realising any
-human end.
+14.15 (a) Meeting with death when Rajas is preponderant, one is rorn in the families of those who act for the sake of fruits for themselves.
+Being rorn in such families, he becomes alified to perform auspicious acts which constitute the way for attaining heaven and the like. (b)
+Similarly, one who dies when Tamas is preponderant is born in the wombs of beings lacking in intelligence, namely, in the wombs of dogs, pigs etc. The meaning is that he is rorn as one incapable of realising any human end.
 
 </details>
 </div>
@@ -332,18 +327,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.15. By meeting death when the Rajas \[is on the increase\], he is
-born among those who are attached to action; likewise meeting death when
-the Tamas \[is on the increase\], he is born in the wombs of the
-duluded.
+14.15. By meeting death when the Rajas \[is on the increase\], he is born among those who are attached to action; likewise meeting death when the Tamas \[is on the increase\], he is born in the wombs of the duluded.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.15 When one dies while rajas predominates, he is born among people
-attached to activity. Similarly, when one dies while tamas predominates,
+14.15 When one dies while rajas predominates, he is born among people attached to activity. Similarly, when one dies while tamas predominates,
 he takes birth among the stupid species.
 
 </details>
@@ -351,42 +342,29 @@ he takes birth among the stupid species.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.15 When Passion prevails, the soul is reborn among those who love
-activity; when Ignorance rules, it enters the wombs of the ignorant.
+14.15 When Passion prevails, the soul is reborn among those who love activity; when Ignorance rules, it enters the wombs of the ignorant.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.15 (a) Meeting with dissolution when Rajas is prevalent, one is born
-among those attached to work৷৷. (b) Similarly, one who has met with
-dissolution when Tamas prevails, is born in the womb of beings lacking
-in intelligence.
+14.15 (a) Meeting with dissolution when Rajas is prevalent, one is born among those attached to work৷৷. (b) Similarly, one who has met with dissolution when Tamas prevails, is born in the womb of beings lacking in intelligence.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.15 Meeting death in Rajas, he is born among those who are attached to
-action; and dying in Tamas, he is born in the womb of the senseless.
+14.15 Meeting death in Rajas, he is born among those who are attached to action; and dying in Tamas, he is born in the womb of the senseless.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/14_guNa-traya-vibhAga-y/15_rajasi_pralayam.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-14.15 रजसि in Rajas; प्रलयम् death; गत्वा meeting; कर्मसङ्गिषु among
-those attached to action; जायते (he) is born; तथा so; प्रलीनः dying;
-तमसि in inertia; मूढयोनिषु in the wombs of the senseless; जायते (he) is
-born.Commentary Meeting with death in Rajas If he dies when Rajas is
-predominant in him; he is born among men who are attached to action. If
-he dies when Tamas is fully predominant in him; he takes birth in
-ignorant species such as cattle; birds; beasts or insects.He may take
-his birth amongst the dull and the stupid or the lowest grades of human
-beings. He need not take the body of an animal. This is the view of some
-persons.
+14.15 रजसि in Rajas; प्रलयम् death; गत्वा meeting; कर्मसङ्गिषु among those attached to action; जायते (he) is born; तथा so; प्रलीनः dying;
+तमसि in inertia; मूढयोनिषु in the wombs of the senseless; जायते (he) is born.Commentary Meeting with death in Rajas If he dies when Rajas is predominant in him; he is born among men who are attached to action. If he dies when Tamas is fully predominant in him; he takes birth in ignorant species such as cattle; birds; beasts or insects.He may take his birth amongst the dull and the stupid or the lowest grades of human beings. He need not take the body of an animal. This is the view of some persons.
 
 </details>
 </div>

@@ -56,13 +56,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.28 Thus, in the above - said manner, devoting himself to the Yoga of
-the self and by that means expelling all old impurities, the Yogin
-attains 'perfect', i.e., boundless felicity at all times easily, without
-stress and strain. The felicity is born of the contact with the Brahman
-(Atman), meaning the joy of experience of the Brahman. Now Sri Krsna
-says that the mature stage of Yoga consists of four degrees, as stated
-in the succeeding verses from 29th to 32nd.
+6.28 Thus, in the above - said manner, devoting himself to the Yoga of the self and by that means expelling all old impurities, the Yogin attains 'perfect', i.e., boundless felicity at all times easily, without stress and strain. The felicity is born of the contact with the Brahman
+(Atman), meaning the joy of experience of the Brahman. Now Sri Krsna says that the mature stage of Yoga consists of four degrees, as stated in the succeeding verses from 29th to 32nd.
 
 </details>
 </div>
@@ -398,26 +393,21 @@ easily attains a complete union \[viz.,\] the Brahman.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.28 By concentrating his mind constantly thus, the taintless yogi
-easily attains the absolute Bliss of contact with Brahman.
+6.28 By concentrating his mind constantly thus, the taintless yogi easily attains the absolute Bliss of contact with Brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.28 Thus, free from sin, abiding always in the Eternal, the saint
-enjoys without effort the Bliss which flows from realisation of the
-Infinite.
+6.28 Thus, free from sin, abiding always in the Eternal, the saint enjoys without effort the Bliss which flows from realisation of the Infinite.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/28_yunjannevaM_sadA-.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.28 Thus devoting himself to the Yoga of the self, freed from
-impurities, the Yogin easily attains the supreme bliss of contact with
-the Brahman.
+6.28 Thus devoting himself to the Yoga of the self, freed from impurities, the Yogin easily attains the supreme bliss of contact with the Brahman.
 
 </details>
 </div>
@@ -425,8 +415,7 @@ the Brahman.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 6.28 The Yogi, always engaging the mind thus (in the practice of Yoga),
-freed from sins, easily enjoys the Infinite Bliss of contact with
-Brahman (the Eternal).
+freed from sins, easily enjoys the Infinite Bliss of contact with Brahman (the Eternal).
 
 </details>
 </div>
@@ -436,15 +425,8 @@ Brahman (the Eternal).
 6.28 युञ्जन् practising Yoga; एवम् thus; सदा always; आत्मानम् the self;
 योगी Yogi; विगतकल्मषः freed from sin; सुखेन easily; ब्रह्मसंस्पर्शम्
 caused by contact with Brahman; अत्यन्तम् infinite; सुखम् bliss; अश्नुते
-enjoys.Commentary By Yogic practices such as the withdrawal of the
-senses; concentration and meditation he loses contact with the objects
-of the senses and comes into contact with Brahman or the immortal Self
-within and thus enjoys the Infinite Bliss of Brahman.Sensual pleasures
-are transitory or fleeting but the bliss of Brahman is uninterrupted;
-undecaying and everlasting. That is the reason why one should attempt to
-realise the Self within.The Yogi removes the obstacles that stand in the
-way of obtaining union with the Lord and thus always keeps the mind
-steady in the Self.
+enjoys.Commentary By Yogic practices such as the withdrawal of the senses; concentration and meditation he loses contact with the objects of the senses and comes into contact with Brahman or the immortal Self within and thus enjoys the Infinite Bliss of Brahman.Sensual pleasures are transitory or fleeting but the bliss of Brahman is uninterrupted;
+undecaying and everlasting. That is the reason why one should attempt to realise the Self within.The Yogi removes the obstacles that stand in the way of obtaining union with the Lord and thus always keeps the mind steady in the Self.
 
 </details>
 </div>

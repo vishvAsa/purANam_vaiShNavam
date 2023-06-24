@@ -84,13 +84,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.4 - 2.5 Arjuna said Again Arjuna, being moved by love, compassion and
-fear, mistaking unrighteousness for righteousness, and not
-understanding, i.e., not knowing the beneficial words of Sri Krsna, said
-as follows: 'How can I slay Bhisma, Drona and others worthy or
-reverence; After slaying those elders, though they are intensely
-attached to enjoyments, how can I enjoy those very pleasures which are
-now being enjoyed by them; For, it will be mixed with their blood.
+2.4 - 2.5 Arjuna said Again Arjuna, being moved by love, compassion and fear, mistaking unrighteousness for righteousness, and not understanding, i.e., not knowing the beneficial words of Sri Krsna, said as follows: 'How can I slay Bhisma, Drona and others worthy or reverence; After slaying those elders, though they are intensely attached to enjoyments, how can I enjoy those very pleasures which are now being enjoyed by them; For, it will be mixed with their blood.
 
 </details>
 </div>
@@ -365,43 +359,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.4. Arjuna said How shall I with arrows fight in battle against Bhisma
-and Drona, both being worthy of reverence ; O slayer of Mandhu, O slayer
-of foes !
+2.4. Arjuna said How shall I with arrows fight in battle against Bhisma and Drona, both being worthy of reverence ; O slayer of Mandhu, O slayer of foes !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.4 Arjuna said O Madhusudana, O destroyer of enemies, how can I fight
-with arrows in battle against Bhisma and Drona who are worthy of
-adoration;
+2.4 Arjuna said O Madhusudana, O destroyer of enemies, how can I fight with arrows in battle against Bhisma and Drona who are worthy of adoration;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.4 Arjuna argued: My Lord! How can I, when the battle rages, send an
-arrow through Bheeshma and Drona, who should receive my reverence;
+2.4 Arjuna argued: My Lord! How can I, when the battle rages, send an arrow through Bheeshma and Drona, who should receive my reverence;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.4 Arjuna said How can I, O slayer of foes, aim arrows in battle
-against Bhisma and Drona who are worthy of reverence;
+2.4 Arjuna said How can I, O slayer of foes, aim arrows in battle against Bhisma and Drona who are worthy of reverence;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/04_katham_bhIShmamah.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.4 Arjuna said How, O Madhusudana, shall I fight in battle with arrows
-against Bhishma and Drona, who are fit to be worshipped, O destroyer of
-enemies;
+2.4 Arjuna said How, O Madhusudana, shall I fight in battle with arrows against Bhishma and Drona, who are fit to be worshipped, O destroyer of enemies;
 
 </details>
 </div>
@@ -409,9 +395,7 @@ enemies;
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.4 कथम् how; भीष्मम् Bhishma; अहम् I; संख्ये in battle; द्रोणम् Drona;
-च and; मधुसूदन O Madhusudana; इषुभिः with arrows; प्रतियोत्स्यामि shall
-fight; पूजार्हौ worthy to be worshipped; अरिसूदन O destroyer of
-enemies.No commentary.
+च and; मधुसूदन O Madhusudana; इषुभिः with arrows; प्रतियोत्स्यामि shall fight; पूजार्हौ worthy to be worshipped; अरिसूदन O destroyer of enemies.No commentary.
 
 </details>
 </div>

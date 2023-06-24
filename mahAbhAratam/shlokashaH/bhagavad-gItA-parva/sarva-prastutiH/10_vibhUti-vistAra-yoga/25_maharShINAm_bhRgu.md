@@ -71,11 +71,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/25_maharShINAm_bhRgu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.25 Of great seers like Marici etc., I am Bhrgu. Words are sounds that
-convey meaning. Of such words, I am the single-lettered word Pranava (Or
-Om). Of the sacrifices, I am the sacrifice of Japa (sacred formula
-silently repeated) which is the most prominent form of sacrificial
-offerings. Of immovables or mountains, I am the Himalaya.
+10.25 Of great seers like Marici etc., I am Bhrgu. Words are sounds that convey meaning. Of such words, I am the single-lettered word Pranava (Or Om). Of the sacrifices, I am the sacrifice of Japa (sacred formula silently repeated) which is the most prominent form of sacrificial offerings. Of immovables or mountains, I am the Himalaya.
 
 </details>
 </div>
@@ -347,22 +343,15 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/25_maharShINAm_bhRgu.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.25. Of the great seers, I am Bhrgu; of the words, I am the
-Single-syllable (Om); of the sacrifices \[performed with external
-objects\], I am the sacrifice of muttering prayer; of the immovables, I
-am the Himalayan range.
+10.25. Of the great seers, I am Bhrgu; of the words, I am the Single-syllable (Om); of the sacrifices \[performed with external objects\], I am the sacrifice of muttering prayer; of the immovables, I am the Himalayan range.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/25_maharShINAm_bhRgu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.25 Among the great sages I am Bhrgu; of words I am the single
-syllable (Om) \[Om is the best because it is the name as well as the
-symbol of Brahman.\]. Among rituals I am the ritual of Japa \[Japa,
-muttering prayers-repeating passages from the Vedas, silently repeating
-names of deities, etc. Rituals often involve killing of animals. But
-Japa is free from such injury, and hence the best.\] of the immovables,
+10.25 Among the great sages I am Bhrgu; of words I am the single syllable (Om) \[Om is the best because it is the name as well as the symbol of Brahman.\]. Among rituals I am the ritual of Japa \[Japa,
+muttering prayers-repeating passages from the Vedas, silently repeating names of deities, etc. Rituals often involve killing of animals. But Japa is free from such injury, and hence the best.\] of the immovables,
 the Himalaya.
 
 </details>
@@ -370,25 +359,21 @@ the Himalaya.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/25_maharShINAm_bhRgu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.25 Of the great seers I am Bhrigu, of words I am Om, of offerings I
-am the silent prayer, among things immovable I am the Himalayas.
+10.25 Of the great seers I am Bhrigu, of words I am Om, of offerings I am the silent prayer, among things immovable I am the Himalayas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/25_maharShINAm_bhRgu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.25 Of the great seers, I am Bhrgu. Of words, I am the single-lettered
-word Om. Of sacrifices, I am the sacrifice of Japa. Of immovable things
-I am the Himalayas.
+10.25 Of the great seers, I am Bhrgu. Of words, I am the single-lettered word Om. Of sacrifices, I am the sacrifice of Japa. Of immovable things I am the Himalayas.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/25_maharShINAm_bhRgu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.25 Among the great sages I am Bhrigu; among words I am the one
-syllable (Om); among sacrifices I am the sacrifice of silent repetition;
+10.25 Among the great sages I am Bhrigu; among words I am the one syllable (Om); among sacrifices I am the sacrifice of silent repetition;
 among the immovable things I am the Himalayas.
 
 </details>
@@ -399,11 +384,7 @@ among the immovable things I am the Himalayas.
 10.25 महर्षीणाम् among the great Rishis; भृगुः Bhrigu; अहम् I; गिराम्
 among words; अस्मि (I) am; ऐकम् the one; अक्षरम् syllable; यज्ञानाम्
 among sacrifices; जपयज्ञः the sacrifice of silent repetition; अस्मि (I)
-am; स्थावराणाम् among immovable things; हिमालयः Himalayas.Commentary
-Manu has said Whatever else the Brahmana may or may not do; he attains
-salvation by Japa (silent repetition of a Mantra) alone.Bhrigu is one of
-the mindborn of the Creator.Himalaya The highest mountain range in the
-world.Japayajna There is neither injury nor loss in this Yajna.
+am; स्थावराणाम् among immovable things; हिमालयः Himalayas.Commentary Manu has said Whatever else the Brahmana may or may not do; he attains salvation by Japa (silent repetition of a Mantra) alone.Bhrigu is one of the mindborn of the Creator.Himalaya The highest mountain range in the world.Japayajna There is neither injury nor loss in this Yajna.
 Therefore; it is regarded as the best of all Yajnas.
 
 </details>

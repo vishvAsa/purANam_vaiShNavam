@@ -44,8 +44,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.12 This is for illustrating that His splendour is infinite. The
-meaning is that it is of the nature of inexhaustible radiance.
+11.12 This is for illustrating that His splendour is infinite. The meaning is that it is of the nature of inexhaustible radiance.
 
 </details>
 </div>
@@ -292,33 +291,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.12. If the splendour of a thousand suns were to burst forth at once
-in the sky, would that be eal to the splendour of that Mighty Self ;
+11.12. If the splendour of a thousand suns were to burst forth at once in the sky, would that be eal to the splendour of that Mighty Self ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.12 Should the effulgence of a thousand suns blaze forth
-simultaneously in the sky, that might be similar to the radiance of that
-exalted One.
+11.12 Should the effulgence of a thousand suns blaze forth simultaneously in the sky, that might be similar to the radiance of that exalted One.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.12 Could a thousand suns blaze forth together it would be but a faint
-reflection of the radiance of the Lord God.
+11.12 Could a thousand suns blaze forth together it would be but a faint reflection of the radiance of the Lord God.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/12_divi_sUryasahasra.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.12 If a thousand suns were to rise at once in the sky, the resulting
-splendour may be like the splendour of that mighty One.
+11.12 If a thousand suns were to rise at once in the sky, the resulting splendour may be like the splendour of that mighty One.
 
 </details>
 </div>
@@ -326,8 +320,7 @@ splendour may be like the splendour of that mighty One.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 11.12 If the splendour of a thousand suns were to blaze out at once
-(simultaneously) in the sky, that would be the splendour of that mighty
-Being (great Soul).
+(simultaneously) in the sky, that would be the splendour of that mighty Being (great Soul).
 
 </details>
 </div>
@@ -337,9 +330,7 @@ Being (great Soul).
 11.12 दिवि in the sky; सूर्यसहस्रस्य of a thousand suns; भवेत् were;
 युगपत् at once (simultaneously); उत्थिता arisen; यदि if; भाः splendour;
 सदृशी like; सा that; स्यात् would be; भासः splendour; तस्य of that;
-महात्मनः of the mighty Being (great soul).Commentary Divi here means in
-the Antariksha or the sky.Mahatma here refers to the great Soul or the
-mighty Being; the Cosmic Form.
+महात्मनः of the mighty Being (great soul).Commentary Divi here means in the Antariksha or the sky.Mahatma here refers to the great Soul or the mighty Being; the Cosmic Form.
 
 </details>
 </div>

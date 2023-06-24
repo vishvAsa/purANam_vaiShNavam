@@ -56,15 +56,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.26 To those who are free from desire and wrath; 'who are wont to exert
-themselves' i.e., who are practising self-control; whose 'thought is
-controlled,' i.e., whose minds are subdued; 'who have conered them,'
-i.e., whose minds are under their control - to such persons the
-beatitude of the Brahman is close at hand. The beatitude of the Brahman
-is already in hand to persons of this type. Sri Krsna concludes the
-examination of Karma Yoga already stated, as reaching the highest point
-in the practice of mental concentration (Yoga) having for its object the
-vision of the self:
+5.26 To those who are free from desire and wrath; 'who are wont to exert themselves' i.e., who are practising self-control; whose 'thought is controlled,' i.e., whose minds are subdued; 'who have conered them,'
+i.e., whose minds are under their control - to such persons the beatitude of the Brahman is close at hand. The beatitude of the Brahman is already in hand to persons of this type. Sri Krsna concludes the examination of Karma Yoga already stated, as reaching the highest point in the practice of mental concentration (Yoga) having for its object the vision of the self:
 
 </details>
 </div>
@@ -339,45 +332,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.26. Warding off the external contacts outside; making the sense of
-sight in the middle of the two wandering ones; counter-balancing both
-the forward and backward moving forces that travel within what acts
-crookedly;
+5.26. Warding off the external contacts outside; making the sense of sight in the middle of the two wandering ones; counter-balancing both the forward and backward moving forces that travel within what acts crookedly;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.26 To the monks who have control over their internal organ, who are
-free from desire and anger, who have known the Self, there is absorption
-in Brahman either way.
+5.26 To the monks who have control over their internal organ, who are free from desire and anger, who have known the Self, there is absorption in Brahman either way.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.26 Saints who know their Selves, who control their minds, and feel
-neither desire nor anger, find Eternal Bliss everywhere.
+5.26 Saints who know their Selves, who control their minds, and feel neither desire nor anger, find Eternal Bliss everywhere.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.26 To those who are free from desire and wrath, who are wont to exert
-themselves, whose thought is controlled, and who have conered it - the
-beatitude of the Brahman is close at hand.
+5.26 To those who are free from desire and wrath, who are wont to exert themselves, whose thought is controlled, and who have conered it - the beatitude of the Brahman is close at hand.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/26_kAmakrodhaviyuktA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.26 Absolute freedom (or Brahmic bliss) exists on all sides for those
-self-controlled ascetics who are free from desire and anger, who have
-controlled their thoughts and who have realised the Self.
+5.26 Absolute freedom (or Brahmic bliss) exists on all sides for those self-controlled ascetics who are free from desire and anger, who have controlled their thoughts and who have realised the Self.
 
 </details>
 </div>
@@ -385,16 +368,10 @@ controlled their thoughts and who have realised the Self.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 5.26 कामक्रोधवियुक्तानाम् of those who are free from desire and anger;
-यतीनाम् of the selfcontrolled ascetics; यतचेतसाम् of those who have
-controlled their thoughts; अभितः on all sides; ब्रह्मनिर्वाणम् absolute
-freedom; वर्तते exists; विदितात्मनाम् of those who have realised the
-Self.Commentary Those who renounce all actions and practise Sravana
+यतीनाम् of the selfcontrolled ascetics; यतचेतसाम् of those who have controlled their thoughts; अभितः on all sides; ब्रह्मनिर्वाणम् absolute freedom; वर्तते exists; विदितात्मनाम् of those who have realised the Self.Commentary Those who renounce all actions and practise Sravana
 (hearing of the scriptures); Manana (reflection) and Nididhyasana
-(meditation); who are established in Brahman or who are steadily devoted
-to the knowledge of the Self attain liberation or Moksha instantaneously
-(Kaivalya Moksha). Karma Yoga leads to Moksha step by step (Krama
-Mukti). First comes purification of the mind; then knowledge; then
-renunciation of all actions and eventually Moksha.
+(meditation); who are established in Brahman or who are steadily devoted to the knowledge of the Self attain liberation or Moksha instantaneously
+(Kaivalya Moksha). Karma Yoga leads to Moksha step by step (Krama Mukti). First comes purification of the mind; then knowledge; then renunciation of all actions and eventually Moksha.
 
 </details>
 </div>

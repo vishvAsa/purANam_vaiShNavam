@@ -53,14 +53,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.21 He who finds happiness in the self within himself, his mind
-detached from external contact in the manner already mentioned, i.e.,
-from experience of objects other than the self - such a person
-abandoning the contemplation on Prakrti or bodily experiences, has his
-mind engaged in the contemplation on Brahman i.e., the Atman. Thus he
-attains everlasting bliss which consists in the experience of Brahman
-(the self). Sri Krsna speaks of the abandonment of material pleasure as
-easy:
+5.21 He who finds happiness in the self within himself, his mind detached from external contact in the manner already mentioned, i.e.,
+from experience of objects other than the self - such a person abandoning the contemplation on Prakrti or bodily experiences, has his mind engaged in the contemplation on Brahman i.e., the Atman. Thus he attains everlasting bliss which consists in the experience of Brahman
+(the self). Sri Krsna speaks of the abandonment of material pleasure as easy:
 
 </details>
 </div>
@@ -339,7 +334,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।5.21।। बाह्य विषयों में आसक्तिरहित अन्तःकरण वाला पुरुष आत्मा में ही
+।।5.21।। बाह्य विषयों में आसक्तिरहित अन्त:करण वाला पुरुष आत्मा में ही
 सुख प्राप्त करता है; ब्रह्म के ध्यान में समाहित चित्त वाला पुरुष अक्षय
 सुख प्राप्त करता है।।
 
@@ -409,18 +404,15 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.21. The enjoyments that are born of contacts \[with objects\] are
-indeed nothing but sources of misery and have beginning and end.
-\[Hence\], an intelligent man does not get delighted in them, O son of
-Kunti !
+5.21. The enjoyments that are born of contacts \[with objects\] are indeed nothing but sources of misery and have beginning and end.
+\[Hence\], an intelligent man does not get delighted in them, O son of Kunti !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.21 With his heart unattached to external objects, he gets the bliss
-that is in the Self. With his heart absorbed in meditation on Brahman,
+5.21 With his heart unattached to external objects, he gets the bliss that is in the Self. With his heart absorbed in meditation on Brahman,
 he acires undecaying Bliss.
 
 </details>
@@ -428,43 +420,31 @@ he acires undecaying Bliss.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.21 He finds happiness in his own Self, and enjoys eternal bliss, whose
-heart does not yearn for the contacts of earth and whose Self is one
-with the Everlasting.
+5.21 He finds happiness in his own Self, and enjoys eternal bliss, whose heart does not yearn for the contacts of earth and whose Self is one with the Everlasting.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.21 He whose mind is detached from external contact, and finds
-happiness in the self - he has his mind engaged in the contemplation of
-Brahman and he enjoys undecaying bliss.
+5.21 He whose mind is detached from external contact, and finds happiness in the self - he has his mind engaged in the contemplation of Brahman and he enjoys undecaying bliss.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.21 With the self unattached to external contacts he finds happiness in
-the Self; with the self engaged in the meditation of Brahman he attains
-to the endless happiness.
+5.21 With the self unattached to external contacts he finds happiness in the Self; with the self engaged in the meditation of Brahman he attains to the endless happiness.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/05_karma-saMnyAsa-yogaH/21_bAhyasparsheShvas.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-5.21 बाह्यस्पर्शेषु in external contacts; असक्तात्मा one whose mind is
-unattached; विन्दति finds; आत्मनि in,the Self; यत् (that) which; सुखम्
-happiness; सः he; ब्रह्मयोगयुक्तात्मा with the self engaged in the
-meditation of Brahman; सुखम् happiness; अक्षयम् endless; अश्नुते
-enjoys.Commentary When the mind is not attached to external objects of
-the senses; when one is deeply engaged in the contemplation of Brahman;
-he finds undecaying bliss in the Self within. If you want to enjoy the
-imperishable happiness of the Self within; you will have to withdraw the
-senses from their respective objects and plunge yourself in deep
-meditation on the Self within. This is the gist of this verse.
+5.21 बाह्यस्पर्शेषु in external contacts; असक्तात्मा one whose mind is unattached; विन्दति finds; आत्मनि in,the Self; यत् (that) which; सुखम्
+happiness; सः he; ब्रह्मयोगयुक्तात्मा with the self engaged in the meditation of Brahman; सुखम् happiness; अक्षयम् endless; अश्नुते
+enjoys.Commentary When the mind is not attached to external objects of the senses; when one is deeply engaged in the contemplation of Brahman;
+he finds undecaying bliss in the Self within. If you want to enjoy the imperishable happiness of the Self within; you will have to withdraw the senses from their respective objects and plunge yourself in deep meditation on the Self within. This is the gist of this verse.
 
 </details>
 </div>

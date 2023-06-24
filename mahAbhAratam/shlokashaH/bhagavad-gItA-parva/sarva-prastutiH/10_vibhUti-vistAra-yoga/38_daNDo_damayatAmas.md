@@ -56,10 +56,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.38 I am the power of punishment of those who punish, if law is
-transgressed. In regard to those who seek victory I am policy which is
-the means of getting victory. Of factors associated with secrecy. I am
-silence. I am the wisdon of those who are wise.
+10.38 I am the power of punishment of those who punish, if law is transgressed. In regard to those who seek victory I am policy which is the means of getting victory. Of factors associated with secrecy. I am silence. I am the wisdon of those who are wise.
 
 </details>
 </div>
@@ -313,43 +310,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.38. I am the punishment \[at the hands\] of the punishers; I am the
-political wisdom of those who seek victory; I am also silence of the
-secret ones; I am the knowledge of the knowers.
+10.38. I am the punishment \[at the hands\] of the punishers; I am the political wisdom of those who seek victory; I am also silence of the secret ones; I am the knowledge of the knowers.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.38 Of the punishers I am the rod; I am the righteous policy of those
-who desire to coner. And of things secret, I am verily silence; I am
-knowledge of the men of knowledge৷৷
+10.38 Of the punishers I am the rod; I am the righteous policy of those who desire to coner. And of things secret, I am verily silence; I am knowledge of the men of knowledge৷৷
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.38 I am the Sceptre of rulers, the Strategy of the conquerors, the
-Silence of mystery, the Wisdom of the wise.
+10.38 I am the Sceptre of rulers, the Strategy of the conquerors, the Silence of mystery, the Wisdom of the wise.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.38 Of those that punish, I am the principle of punishment. Of these
-that seek victory, I am policy. Of secrets, I am also silence. And of
-those who are wise, I am wisdom.
+10.38 Of those that punish, I am the principle of punishment. Of these that seek victory, I am policy. Of secrets, I am also silence. And of those who are wise, I am wisdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/38_daNDo_damayatAmas.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.38 Of those who punish, I am the sceptre; among those who seek
-victory, I am statesmanship; and also among secrets, I am silence;
+10.38 Of those who punish, I am the sceptre; among those who seek victory, I am statesmanship; and also among secrets, I am silence;
 knowledge among knowers I am.
 
 </details>
@@ -360,9 +349,7 @@ knowledge among knowers I am.
 10.38 दण्डः the sceptre; दमयताम् among punishers; अस्मि (I) am; नीतिः
 statesmanship; अस्मि (I) am; जिगीषताम् among thoese who seek victory;
 मौनम् silence; च and; एव also; अस्मि (I) am; गुह्यानाम् among secrets;
-ज्ञानम् the knowledge; ज्ञानवताम् among the knowers; अहम् I.Commentary
-Niti Diplomacy; polity.Maunam The silence produced by constant
-meditation on Brahman or the Self.Jnanam Knowledge of the Self.
+ज्ञानम् the knowledge; ज्ञानवताम् among the knowers; अहम् I.Commentary Niti Diplomacy; polity.Maunam The silence produced by constant meditation on Brahman or the Self.Jnanam Knowledge of the Self.
 
 </details>
 </div>

@@ -91,27 +91,9 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 13.23 The self existing in the body becomes the 'spectator and approver'
-of this body by means of the will in consonance with the functioning of
-the body. Likewise, It is the 'supporter' of the body, Similarly, It
-becomes 'experiencer' of the pleasure and pain resulting from the
-activities of the body. Thus, by virtue of ruling and supporting the
-body and by making the body completely subservient, It becomes 'the
-great lord' (Mahesvara) in relation to the body, the senses and the
-mind. Sri Krsna will further declare: 'When the lord acires the body,
-and when he leaves it and goes on his way, he takes these as the wind
-carries scents from their places' (15.8). In the body, It is said to be
-the 'supreme self' in relation to the body, the senses and the mind. The
-word 'self' (Atman) is applied to the body and the mind subseently. It
-is said afterwards: 'Some perceive the self by means of the self through
-meditation' (13.24). The particle 'also' (api) indicates that the self
-is the 'supreme lord'; in relation to the body just as It is the supreme
-self. The supremacy of the self has been described in the text beginning
-with 'It is the beginningless brahman having Me for the Highest'
-(13.12). It is true that the self (in Its emancipated state) has
-limitless power knowledge. But It becomes the great lord and the supreme
-self only in relation to the body. Such lordship and supremacy is the
-result of attachment to the Gunas arising from the beginningless
-conjunction with Prakrti.
+of this body by means of the will in consonance with the functioning of the body. Likewise, It is the 'supporter' of the body, Similarly, It becomes 'experiencer' of the pleasure and pain resulting from the activities of the body. Thus, by virtue of ruling and supporting the body and by making the body completely subservient, It becomes 'the great lord' (Mahesvara) in relation to the body, the senses and the mind. Sri Krsna will further declare: 'When the lord acires the body,
+and when he leaves it and goes on his way, he takes these as the wind carries scents from their places' (15.8). In the body, It is said to be the 'supreme self' in relation to the body, the senses and the mind. The word 'self' (Atman) is applied to the body and the mind subseently. It is said afterwards: 'Some perceive the self by means of the self through meditation' (13.24). The particle 'also' (api) indicates that the self is the 'supreme lord'; in relation to the body just as It is the supreme self. The supremacy of the self has been described in the text beginning with 'It is the beginningless brahman having Me for the Highest'
+(13.12). It is true that the self (in Its emancipated state) has limitless power knowledge. But It becomes the great lord and the supreme self only in relation to the body. Such lordship and supremacy is the result of attachment to the Gunas arising from the beginningless conjunction with Prakrti.
 
 </details>
 </div>
@@ -733,26 +715,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.23. The Supreme Soul in this \[corporeal\] body is called the
-Spectator, the Assentor, the Supporter, the Experiencer, the Mighty Lord
-and also the Supreme Self.
+13.23. The Supreme Soul in this \[corporeal\] body is called the Spectator, the Assentor, the Supporter, the Experiencer, the Mighty Lord and also the Supreme Self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.23 He who is the Witness, the Permitter, the Sustainer, the
-Experiencer, the great Lord, and who is also spoken of as the
-transcendental Self is the supreme Person in this body.
+13.23 He who is the Witness, the Permitter, the Sustainer, the Experiencer, the great Lord, and who is also spoken of as the transcendental Self is the supreme Person in this body.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.23 Thus in the body of man dwells the Supreme God; He who sees and
-permits, upholds and enjoys, the Highest God and the Highest Self.
+13.23 Thus in the body of man dwells the Supreme God; He who sees and permits, upholds and enjoys, the Highest God and the Highest Self.
 
 </details>
 </div>
@@ -767,68 +744,16 @@ experiencer, the great lord and also the supreme self in the body.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.23 The Supreme Soul in this body is also called the spectator, the
-permitter, the supporter, the enjoyer, the great Lord and the Supreme
-Self.
+13.23 The Supreme Soul in this body is also called the spectator, the permitter, the supporter, the enjoyer, the great Lord and the Supreme Self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/13_xetra-xetrajna-yogaH/23_upadraShTA-numant.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-13.23 उपद्रष्टा the spectator; अनुमन्ता the permitter; च and; भर्ता the
-supporter; भोक्ता the enjoyer; महेश्वरः the great Lord; परमात्मा the
-Supreme Self; इति thus; च and; अपि also; उक्तः is called; देहे in the
-body; अस्मिन् (in) this; पुरुषः Purusha; परः Supreme.Commentary
-Upadrashta A spectator; a witness; a lookeron; a bystander; one who sits
-near. When the priests and the sacrificer perform the sacrificial rites;
-an expert who has good experience in sacrifical matters sits by their
-side. He does not take any part at all in the sacrifice. He sits as a
-silent witness. He guides them. He points out their defects and corrects
-them. Even so the Supreme Self does not act. It does not take any part
-in the activities of the body; the mind and the senses. It is entirely
-distinct from them. It is a silent witness of their activities. It sits
-near Nature and silently watches Her actions.It may be explained in
-another way. The body; the eyes; the mind; the intellect and the Self
-are the,seers. Of these the body is the most external seer the Self is
-the most internal and nearest seer. Beyond the Self there is no other
-internal seer.Anumanta Permitter. The Supreme Self gives consent. It
-expresses Its approval or satisfaction regarding the actions done by the
-senses; the mind and the intellect. The King consents and says Yes. The
-Prime Minister and the other officers carry out his orders. Even so the
-Supreme Self consents or gives permission the body; the mind; the
-intellect; and the senses perform their respective functions. Or; though
-It Itself does not work while the senses; the mind and the intellect
-work; It appears to be engaged in action; it seems to cooperate with
-them. As It is an onlooker or mere witness; It never stands in the way
-of the activities of the body; the mind; the intellect and the
-senses.Bharta Supporter. Just as the hu**and is the supporter of his
-wife; so also the Self is the supporter of this body; mind; intellect;
-lifeforce and the senses. It is different from them; just as the father
-who supports the children is different from them.Bhokta Enjoyer the
-Self; of the nature of eternal intelligence. Just as heat is the
-inherent nature of fire; so also eternal intelligence is the inherent
-nature of the Self. All the states of the mind such as pleasure; pain
-and delusion are permeated and illumined by the intelligent Self. Just
-as Govindan who takes the food is different from the foo; so also the
-Self is different from the intellect; the mind and the senses.Mahesvarah
-The great Lord. As He is the soul or essence of everything and as He is
-independent of all; He is Mahesvara. The sky is very big. Mahesva is
-bigger than even the sky; and so He is called Mahesvara. Just as the
-king is different from his subjects; so also the Self is different from
-Nature and the effects or modifications of Nature.Paramatma The Supreme
-Self. It is supreme because It is superior to all those things; from the
-Unmanifested to the physical body; which are mistaken for the Self on
-account of ignorance. Just as an iron piece moves in the presence of a
-magnet so also the mind and the intellect which are insentient move and
-function in the presence of the Supreme Self. Just as the moon borrows
-its light from the sun; so also the mind and the intellect borrow their
-light from the Supreme Self. The Supreme Self is selfluminous. Mind and
-intellect have no selfluminosity. In the Vedas also He is called the
-Supreme Self. Lord Krishna says in verse 17 of the fifteenth chapter But
-distinct is the Highest Purusha spoken of as the Supreme Self.Do thou
-also know Me as the knower of the field in all the fields; has been
-described in detial and the subject is concluded in this verse.**
+13.23 उपद्रष्टा the spectator; अनुमन्ता the permitter; च and; भर्ता the supporter; भोक्ता the enjoyer; महेश्वरः the great Lord; परमात्मा the Supreme Self; इति thus; च and; अपि also; उक्तः is called; देहे in the body; अस्मिन् (in) this; पुरुषः Purusha; परः Supreme.Commentary Upadrashta A spectator; a witness; a lookeron; a bystander; one who sits near. When the priests and the sacrificer perform the sacrificial rites;
+an expert who has good experience in sacrifical matters sits by their side. He does not take any part at all in the sacrifice. He sits as a silent witness. He guides them. He points out their defects and corrects them. Even so the Supreme Self does not act. It does not take any part in the activities of the body; the mind and the senses. It is entirely distinct from them. It is a silent witness of their activities. It sits near Nature and silently watches Her actions.It may be explained in another way. The body; the eyes; the mind; the intellect and the Self are the,seers. Of these the body is the most external seer the Self is the most internal and nearest seer. Beyond the Self there is no other internal seer.Anumanta Permitter. The Supreme Self gives consent. It expresses Its approval or satisfaction regarding the actions done by the senses; the mind and the intellect. The King consents and says Yes. The Prime Minister and the other officers carry out his orders. Even so the Supreme Self consents or gives permission the body; the mind; the intellect; and the senses perform their respective functions. Or; though It Itself does not work while the senses; the mind and the intellect work; It appears to be engaged in action; it seems to cooperate with them. As It is an onlooker or mere witness; It never stands in the way of the activities of the body; the mind; the intellect and the senses.Bharta Supporter. Just as the hu**and is the supporter of his wife; so also the Self is the supporter of this body; mind; intellect;
+lifeforce and the senses. It is different from them; just as the father who supports the children is different from them.Bhokta Enjoyer the Self; of the nature of eternal intelligence. Just as heat is the inherent nature of fire; so also eternal intelligence is the inherent nature of the Self. All the states of the mind such as pleasure; pain and delusion are permeated and illumined by the intelligent Self. Just as Govindan who takes the food is different from the foo; so also the Self is different from the intellect; the mind and the senses.Mahesvarah The great Lord. As He is the soul or essence of everything and as He is independent of all; He is Mahesvara. The sky is very big. Mahesva is bigger than even the sky; and so He is called Mahesvara. Just as the king is different from his subjects; so also the Self is different from Nature and the effects or modifications of Nature.Paramatma The Supreme Self. It is supreme because It is superior to all those things; from the Unmanifested to the physical body; which are mistaken for the Self on account of ignorance. Just as an iron piece moves in the presence of a magnet so also the mind and the intellect which are insentient move and function in the presence of the Supreme Self. Just as the moon borrows its light from the sun; so also the mind and the intellect borrow their light from the Supreme Self. The Supreme Self is selfluminous. Mind and intellect have no selfluminosity. In the Vedas also He is called the Supreme Self. Lord Krishna says in verse 17 of the fifteenth chapter But distinct is the Highest Purusha spoken of as the Supreme Self.Do thou also know Me as the knower of the field in all the fields; has been described in detial and the subject is concluded in this verse.**
 
 </details>
 </div>

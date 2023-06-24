@@ -37,34 +37,12 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/05_dhRShTaketushchek.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the
-forces of Pandavas protected by Bhima, and his own forces protected by
-Bhisma conveyed his views thus to Drona, his teacher, about the adeacy
-of Bhima's forces for conering the Kaurava forces and the inadeacy of
-his own forces for victory against the Pandava forces. He was
-grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma,
+1.1 - 1.19 Dhrtarastra said - Sanjaya said Duryodhana, after viewing the forces of Pandavas protected by Bhima, and his own forces protected by Bhisma conveyed his views thus to Drona, his teacher, about the adeacy of Bhima's forces for conering the Kaurava forces and the inadeacy of his own forces for victory against the Pandava forces. He was grief-stricken within. Observing his (Duryodhana's) despondecny, Bhisma,
 in order to cheer him, roared like a lion, and then blowing his conch,
-made his side sound their conchs and kettle-drums, which made an uproar
-as a sign of victory. Then, having heard that great tumult, Arjuna and
-Sri Krsna the Lord of all lords, who was acting as the charioteer of
-Arjuna, sitting in their great chariot which was powerful enough to
-coner the three worlds; blew their divine conchs Srimad Pancajanya and
-Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs
-separately. That tumult rent asunder the hearts of your sons, led by
-Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost
-lost now itself.' So said Sanjaya to Dhrtarastra who was longing for
-their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas,
-who were ready for battle, Arjuna, who had Hanuman, noted for his
-exploit of burning Lanka, as the emblem on his flag on his chariot,
-directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by
-parental love for those who take shelter in Him who is the
-treasure-house of knowledge, power, lordship, energy, potency and
-splendour, whose sportive delight brings about the origin, sustentation
-and dissolution of the entire cosmos at His will, who is the Lord of the
-senses, who controls in all ways the senses inner and outer of all,
-superior and inferior - by saying, 'Station my chariot in an appropriate
-place in order that I may see exactly my enemies who are eager for
-battle.'
+made his side sound their conchs and kettle-drums, which made an uproar as a sign of victory. Then, having heard that great tumult, Arjuna and Sri Krsna the Lord of all lords, who was acting as the charioteer of Arjuna, sitting in their great chariot which was powerful enough to coner the three worlds; blew their divine conchs Srimad Pancajanya and Devadatta. Then, both Yudhisthira and Bhima blew their respective conchs separately. That tumult rent asunder the hearts of your sons, led by Duryodhana. The sons of Dhrtarastra then thought, 'Our cause is almost lost now itself.' So said Sanjaya to Dhrtarastra who was longing for their victory. Sanjaya said to Dhrtarastra: Then, seeing the Kauravas,
+who were ready for battle, Arjuna, who had Hanuman, noted for his exploit of burning Lanka, as the emblem on his flag on his chariot,
+directed his charioteer Sri Krsna, the Supreme Lord-who is overcome by parental love for those who take shelter in Him who is the treasure-house of knowledge, power, lordship, energy, potency and splendour, whose sportive delight brings about the origin, sustentation and dissolution of the entire cosmos at His will, who is the Lord of the senses, who controls in all ways the senses inner and outer of all,
+superior and inferior - by saying, 'Station my chariot in an appropriate place in order that I may see exactly my enemies who are eager for battle.'
 
 </details>
 </div>
@@ -277,8 +255,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/05_dhRShTaketushchek.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.5. Dhrstaketu, Cekitana and the valourous king of Kasi, and
-Kuntibhoja, the coneror of many, and the Sibi king, the best among men;
+1.5. Dhrstaketu, Cekitana and the valourous king of Kasi, and Kuntibhoja, the coneror of many, and the Sibi king, the best among men;
 
 </details>
 </div>
@@ -301,16 +278,14 @@ Kuntibhoja, Shaibya - a master over many;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/05_dhRShTaketushchek.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.5 Dhrstaketu, Cekitana, and the valiant king of Kasi; Purujit and
-Kuntibhoja, and Saibya the best among men;
+1.5 Dhrstaketu, Cekitana, and the valiant king of Kasi; Purujit and Kuntibhoja, and Saibya the best among men;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/05_dhRShTaketushchek.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.5. "Dhrishtaketu, chekitana and the valiant king of Kasi, Purujit and
-Kuntibhoja and Saibya, the best men.
+1.5. "Dhrishtaketu, chekitana and the valiant king of Kasi, Purujit and Kuntibhoja and Saibya, the best men.
 
 </details>
 </div>

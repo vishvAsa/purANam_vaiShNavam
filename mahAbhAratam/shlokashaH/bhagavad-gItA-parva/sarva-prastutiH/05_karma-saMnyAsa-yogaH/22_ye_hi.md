@@ -71,12 +71,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.22 Those pleasures which result from the contact of sense objects with
-the senses, are the wombs of pain, i.e., have pain as their ultimate
-fruit 'They have a beginning and an end,' i.e., they are seen to remain
-only for a brief period and the reaction that follows their cessation is
-painful. He who knows what they themselves are, i.e., know themselves as
-Atman, will not find pleasure in them.
+5.22 Those pleasures which result from the contact of sense objects with the senses, are the wombs of pain, i.e., have pain as their ultimate fruit 'They have a beginning and an end,' i.e., they are seen to remain only for a brief period and the reaction that follows their cessation is painful. He who knows what they themselves are, i.e., know themselves as Atman, will not find pleasure in them.
 
 </details>
 </div>
@@ -458,7 +453,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।5.22।। हे कौन्तेय (इन्द्रिय तथा विषयों के) संयोग से उत्पन्न होने वाले
-जो भोग हैं वे दुःख के ही हेतु हैं, क्योंकि वे आदि-अन्त वाले हैं।
+जो भोग हैं वे दु:ख के ही हेतु हैं, क्योंकि वे आदि-अन्त वाले हैं।
 बुद्धिमान् पुरुष उनमें नहीं रमता।।
 
 </details>
@@ -509,27 +504,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.22. Whosoever, right here, before abandoning the body, is capable of
-bearing the force sprung from desire and wrath-he is considered to be a
-man of Yoga and a happy man.
+5.22. Whosoever, right here, before abandoning the body, is capable of bearing the force sprung from desire and wrath-he is considered to be a man of Yoga and a happy man.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.22 Since enjoyments that result from contact (with objects) are verily
-the sources of sorrow and have a beginning and an end, (therefore) O son
-of Kunti, the wise one does not delight in them.
+5.22 Since enjoyments that result from contact (with objects) are verily the sources of sorrow and have a beginning and an end, (therefore) O son of Kunti, the wise one does not delight in them.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.22 The joys that spring from external associations bring pain; they
-have their beginning and their endings. The wise man does not rejoice in
-them.
+5.22 The joys that spring from external associations bring pain; they have their beginning and their endings. The wise man does not rejoice in them.
 
 </details>
 </div>
@@ -537,17 +526,14 @@ them.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 5.22 For those pleasures that are born of contact are wombs or pain.
-They have a beginning and an end, O Arjuna. The wise do not rejoice in
-them.
+They have a beginning and an end, O Arjuna. The wise do not rejoice in them.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/22_ye_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.22 The enjoyments that are born of contacts are only generators of
-pain, for they have a beginning and an end, O Arjuna; the wise man does
-not rejoice in them.
+5.22 The enjoyments that are born of contacts are only generators of pain, for they have a beginning and an end, O Arjuna; the wise man does not rejoice in them.
 
 </details>
 </div>
@@ -555,21 +541,8 @@ not rejoice in them.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 5.22 ये which; हि verily; संस्पर्शजाः contactborn; भोगाः enjoyments;
-दुःखयोनयः generators of pain; एव only; ते they; आद्यन्तवन्तः having
-beginning and end; कौन्तेय O Kaunteya; न not; तेषु in those; रमते
-rejoices; बुधः the wise.Commentary Man goes in est of joy and searches
-in the external perishable objects for his happiness. He fails to get it
-but instead he carries a load of sorrow on his head.You should withdraw
-the senses from the senseobjects as there is no trace of happiness in
-them and fix the min on the immortal; blissful Self within. The
-senseobjects have a beginning and an end. Separation from the
-senseobjects gives you a lot of pain. During the interval between the
-origin and the end you experience a hollow; momentary; illusory
-pleasure. This fleeting pleasure is due to Avidya or ignorance. Even in
-the other world you will have the same experience. He who is endowed
-with discrimination or the knowledge of the Self will never rejoice in
-these sensual objects. Only ignorant persons who are passionate will
-rejoice in the senseobjects. (Cf.II.14;XVIII.38)
+दुःखयोनयः generators of pain; एव only; ते they; आद्यन्तवन्तः having beginning and end; कौन्तेय O Kaunteya; न not; तेषु in those; रमते
+rejoices; बुधः the wise.Commentary Man goes in est of joy and searches in the external perishable objects for his happiness. He fails to get it but instead he carries a load of sorrow on his head.You should withdraw the senses from the senseobjects as there is no trace of happiness in them and fix the min on the immortal; blissful Self within. The senseobjects have a beginning and an end. Separation from the senseobjects gives you a lot of pain. During the interval between the origin and the end you experience a hollow; momentary; illusory pleasure. This fleeting pleasure is due to Avidya or ignorance. Even in the other world you will have the same experience. He who is endowed with discrimination or the knowledge of the Self will never rejoice in these sensual objects. Only ignorant persons who are passionate will rejoice in the senseobjects. (Cf.II.14;XVIII.38)
 
 </details>
 </div>

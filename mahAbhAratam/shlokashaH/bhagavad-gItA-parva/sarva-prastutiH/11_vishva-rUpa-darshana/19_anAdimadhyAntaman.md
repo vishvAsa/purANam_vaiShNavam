@@ -107,34 +107,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/19_anAdimadhyAntaman.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.19 I behold You as without beginning, middle and end. Your might is
-infinite, of unsurpassed excellence. Here the term 'might' is used for
-illustration. The meaning is that You are the sole repository of
-knowledge, strength, sovereignty, valour, power and glory, one whose
-excellence cannot be surpassed. Your arms are infinite, i.e., they are
-countless. This is also for illustration, implying that You have an
-infinite number of arms, stomachs, feet, mouths etc. The sun and moon
-are Your eyes; all Your eyes are like the moon and the sun, beaming with
-grace and power. The grace is directed towards the devotees like the
-gods who offer salutations etc., and power is directed against Asuras,
+11.19 I behold You as without beginning, middle and end. Your might is infinite, of unsurpassed excellence. Here the term 'might' is used for illustration. The meaning is that You are the sole repository of knowledge, strength, sovereignty, valour, power and glory, one whose excellence cannot be surpassed. Your arms are infinite, i.e., they are countless. This is also for illustration, implying that You have an infinite number of arms, stomachs, feet, mouths etc. The sun and moon are Your eyes; all Your eyes are like the moon and the sun, beaming with grace and power. The grace is directed towards the devotees like the gods who offer salutations etc., and power is directed against Asuras,
 Raksasas etc., who are opposed to these. For it will be said later on:
-'The Raksasas flee on all sides in fear, and all the hosts of Siddhas
-bow down to You' (11.36). Your mouth is emitting fire, namely, the fire
-appropriate for destroying all things, as the Fire of Time consumes the
-world at the time of dissolution. With Your own radiance You are warming
-the universe. By radiance (Tejas) is meant the poweer to vanish others.
+'The Raksasas flee on all sides in fear, and all the hosts of Siddhas bow down to You' (11.36). Your mouth is emitting fire, namely, the fire appropriate for destroying all things, as the Fire of Time consumes the world at the time of dissolution. With Your own radiance You are warming the universe. By radiance (Tejas) is meant the poweer to vanish others.
 I behold You warming (or governing) the universe with Your own radiance.
-The meaning is this: 'I directly realise You' as taught before as the
-Creator of all, as the supporter of everything, as the sovereign over
-everything, as the destroyer of everything, as the ocean of knowledge
-and other infinite attributes, as without beginning, middle and end, and
-as possessing a divine body of this nature. How, in one divine body, can
-there be many stomachs etc.; This is possible in the following way: From
-a hip of infinite extent, stomachs etc., as described, branc off
-upwards. The divine feet etc., branch off downwards. So there is no
-contradiction in attributing a pair of eyes for each face. 'On
-perceiving You to be thus, the gods etc., and myself, have become
-frightened - says Arjuna in the following words:
+The meaning is this: 'I directly realise You' as taught before as the Creator of all, as the supporter of everything, as the sovereign over everything, as the destroyer of everything, as the ocean of knowledge and other infinite attributes, as without beginning, middle and end, and as possessing a divine body of this nature. How, in one divine body, can there be many stomachs etc.; This is possible in the following way: From a hip of infinite extent, stomachs etc., as described, branc off upwards. The divine feet etc., branch off downwards. So there is no contradiction in attributing a pair of eyes for each face. 'On perceiving You to be thus, the gods etc., and myself, have become frightened - says Arjuna in the following words:
 
 </details>
 </div>
@@ -398,49 +375,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/19_anAdimadhyAntaman.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.19. I observe You having to beginning, no middle and no end; having
-infinite creative power, and infinite arms; as havig the moon and the
-sun for Your eyes, and the blazing fire for Your mouth; \[and\] as
-acorching this universe with Your rediance.
+11.19. I observe You having to beginning, no middle and no end; having infinite creative power, and infinite arms; as havig the moon and the sun for Your eyes, and the blazing fire for Your mouth; \[and\] as acorching this universe with Your rediance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/19_anAdimadhyAntaman.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.19 I see You as without beginning, middle and end, possessed of
-infinite valour, having innumerable arms, having the sun and the moon as
-eyes, having a mouth like a blazing fire, and heating up this Universe
-by Your own brilliance.
+11.19 I see You as without beginning, middle and end, possessed of infinite valour, having innumerable arms, having the sun and the moon as eyes, having a mouth like a blazing fire, and heating up this Universe by Your own brilliance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/19_anAdimadhyAntaman.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.19 Without beginning, without middle and without end, infinite in
-power, Thine arms all-embracing, the sun and moon Thine eyes, Thy face
-beaming with the fire of sacrifice, flooding the whole universe with
-light.
+11.19 Without beginning, without middle and without end, infinite in power, Thine arms all-embracing, the sun and moon Thine eyes, Thy face beaming with the fire of sacrifice, flooding the whole universe with light.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/19_anAdimadhyAntaman.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.19 I behold You as without beginning, middle and end. Your might is
-infinite. You are endowed with an endless number of arms. The sun and
-moon are Your eyes. Your mouth is emitting burning fire. With Your own
-radiance You are warning the whole universe.
+11.19 I behold You as without beginning, middle and end. Your might is infinite. You are endowed with an endless number of arms. The sun and moon are Your eyes. Your mouth is emitting burning fire. With Your own radiance You are warning the whole universe.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/19_anAdimadhyAntaman.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.19 I see Thee without beginning, middle or end, infinite in power, of
-endless arms, the sun and the moon being Thy eyes, the burning fire Thy
-mouth, heating the whole universe with Thy radiance.
+11.19 I see Thee without beginning, middle or end, infinite in power, of endless arms, the sun and the moon being Thy eyes, the burning fire Thy mouth, heating the whole universe with Thy radiance.
 
 </details>
 </div>
@@ -448,12 +411,8 @@ mouth, heating the whole universe with Thy radiance.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 11.19 अनादिमध्यान्तम् without beginning; middle or end; अनन्तवीर्यम्
-infinite in power; अनन्तबाहुम् of endless arms; शशिसूर्यनेत्रम् Thy eyes
-as the sun and the moon; पश्यामि (I) see; त्वाम् Thee;
-दीप्तहुताशवक्त्रम् Thy mouth as the burning fire; स्वतेजसा with Thy
-radiance; विश्वम् the universe; इदम् this; तपन्तम् heating.Commentary
-Anantabahu Having endless arms. This denotes that the multiplicity of
-His limbs are endless.
+infinite in power; अनन्तबाहुम् of endless arms; शशिसूर्यनेत्रम् Thy eyes as the sun and the moon; पश्यामि (I) see; त्वाम् Thee;
+दीप्तहुताशवक्त्रम् Thy mouth as the burning fire; स्वतेजसा with Thy radiance; विश्वम् the universe; इदम् this; तपन्तम् heating.Commentary Anantabahu Having endless arms. This denotes that the multiplicity of His limbs are endless.
 
 </details>
 </div>

@@ -54,11 +54,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/44_tasmAtpraNamya_pr.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.44 Therefore, bowing down and prostrating, I implore You, O adorable
-Lord, for Your mercy. Just as, when entreated with salutation, a father
-will show mercy to his son, or a friend to a friend, even if he has been
-at fault, even so it is meet that You, most compassionate and dear to
-me, should bear with me, who is dear to You in all respects.
+11.44 Therefore, bowing down and prostrating, I implore You, O adorable Lord, for Your mercy. Just as, when entreated with salutation, a father will show mercy to his son, or a friend to a friend, even if he has been at fault, even so it is meet that You, most compassionate and dear to me, should bear with me, who is dear to You in all respects.
 
 </details>
 </div>
@@ -328,50 +324,37 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/44_tasmAtpraNamya_pr.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.44. Hence, paying homage, and prostrating may body, I solicit grace
-of You, the Lord praisworthy. O God ! Be pleased to bear with me, just
-as a beloved father with his beloved son and just as a dear friend with
-his dear friend.
+11.44. Hence, paying homage, and prostrating may body, I solicit grace of You, the Lord praisworthy. O God ! Be pleased to bear with me, just as a beloved father with his beloved son and just as a dear friend with his dear friend.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/44_tasmAtpraNamya_pr.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.44 Therefore, by bowing down and prostrating the body, I seek to
-propitate You who are God and are adorable. O Lord, You should \[The
-elision of a (in arhasi of priyayarhasi) is a metrical licence.\]
-forgive (my faults) as would a father (the faults) of a son, as a
-friend, of a friend, and as a lover of a beloved.
+11.44 Therefore, by bowing down and prostrating the body, I seek to propitate You who are God and are adorable. O Lord, You should \[The elision of a (in arhasi of priyayarhasi) is a metrical licence.\]
+forgive (my faults) as would a father (the faults) of a son, as a friend, of a friend, and as a lover of a beloved.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/44_tasmAtpraNamya_pr.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.44 Therefore I prostrate myself before Thee, O Lord! Most Adorable! I
-salute Thee, I ask Thy blessing. Only Thou canst be trusted to bear with
-me, as father to son, as friend to friend, as lover to his beloved.
+11.44 Therefore I prostrate myself before Thee, O Lord! Most Adorable! I salute Thee, I ask Thy blessing. Only Thou canst be trusted to bear with me, as father to son, as friend to friend, as lover to his beloved.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/44_tasmAtpraNamya_pr.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.44 Therefore, bowing down, prostrating the body. I implore Your
-mercy, O adorable Lord. As a father hears with his son or a friend with
-his friend, it is meet, O Lord, that You, who are dear to me, should
-bear with me who am dear to You.
+11.44 Therefore, bowing down, prostrating the body. I implore Your mercy, O adorable Lord. As a father hears with his son or a friend with his friend, it is meet, O Lord, that You, who are dear to me, should bear with me who am dear to You.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/44_tasmAtpraNamya_pr.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.44 Therefore, bowing down, prostrating my body, I crave Thy
-forgiveness, O adorable Lord. As a father forgives his son, a friend his
-(dear) friend, a lover his beloved, even so shouldst Thou forgive me, O
-God.
+11.44 Therefore, bowing down, prostrating my body, I crave Thy forgiveness, O adorable Lord. As a father forgives his son, a friend his
+(dear) friend, a lover his beloved, even so shouldst Thou forgive me, O God.
 
 </details>
 </div>
@@ -382,10 +365,7 @@ God.
 body; प्रसादये crave forgiveness; त्वाम् Thee; अहम् I; ईशम् the Lord;
 ईड्यम् adorable; पिता father; प्रियः beloved; प्रियायाः to the beloved;
 अर्हसि (Thou) shouldst; देव O God; सोढुम् to bear.Commentary O Lord;
-take me to Thy bosom as a mother does her child. Forgive me for all tht
-I have hitherto spoken or done. Forgive my faults. Please overlook my
-past mistakes. I have done this through ignorance. Now I have come to
-Thee in submission. I beg Your pardon now.
+take me to Thy bosom as a mother does her child. Forgive me for all tht I have hitherto spoken or done. Forgive my faults. Please overlook my past mistakes. I have done this through ignorance. Now I have come to Thee in submission. I beg Your pardon now.
 
 </details>
 </div>

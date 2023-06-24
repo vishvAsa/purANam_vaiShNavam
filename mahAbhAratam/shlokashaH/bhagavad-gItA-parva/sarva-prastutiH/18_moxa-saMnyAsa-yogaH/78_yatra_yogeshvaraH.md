@@ -99,14 +99,8 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 18.78 Wherever there is Sri Krsna, the son of Vasudeva, the 'Yogesvara'
-who is the ruler of the various manifestations of Nature pertaining to
-all intelligent and non-intelligent entities that have high and low
-forms, and on whose volition depend the differences in the essential
-natures, existences and the activities of all things other than Himself,
-and wherever there is Arjuna, the archer, who is his paternal aunt's son
-and who took sole refuge at His feet - in such places there always will
-be present fortune, victory, wealth and sound morality. Such is my firm
-conviction.
+who is the ruler of the various manifestations of Nature pertaining to all intelligent and non-intelligent entities that have high and low forms, and on whose volition depend the differences in the essential natures, existences and the activities of all things other than Himself,
+and wherever there is Arjuna, the archer, who is his paternal aunt's son and who took sole refuge at His feet - in such places there always will be present fortune, victory, wealth and sound morality. Such is my firm conviction.
 
 </details>
 </div>
@@ -683,45 +677,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.78. Where Krsna, the Lord of Yogins remains, where the son of Prtha
-holds his bow, there lie fortune, victory, prosperity and firm
-justice-so I believe.
+18.78. Where Krsna, the Lord of Yogins remains, where the son of Prtha holds his bow, there lie fortune, victory, prosperity and firm justice-so I believe.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.78 Where there is Krsna, the Lord of yogas, and where there is
-Partha, the wielder of the bow, there are fortune, victory, prosperity
-and unfailing prudence. Such is my conviction.
+18.78 Where there is Krsna, the Lord of yogas, and where there is Partha, the wielder of the bow, there are fortune, victory, prosperity and unfailing prudence. Such is my conviction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.78 Wherever is the Lord Shri Krishna, the Prince of Wisdom, and
-wherever is Arjuna, the Great Archer, I am more than convinced that good
-fortune, victory, happiness and righteousness will follow"
+18.78 Wherever is the Lord Shri Krishna, the Prince of Wisdom, and wherever is Arjuna, the Great Archer, I am more than convinced that good fortune, victory, happiness and righteousness will follow"
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.78 Wherever there is Sri Krsna, the Lord of Yoga, and Arjuna the
-archer, there are ever fortune, victory, wealth and sound morality. This
-is my firm conviction.
+18.78 Wherever there is Sri Krsna, the Lord of Yoga, and Arjuna the archer, there are ever fortune, victory, wealth and sound morality. This is my firm conviction.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/78_yatra_yogeshvaraH.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.78 Wherever is Krishna, the Lord of Yoga; wherever is Arjuna, the
-wielder of the bow; there are prosperity, victory, happiness and firm
-policy; such is my conviction.
+18.78 Wherever is Krishna, the Lord of Yoga; wherever is Arjuna, the wielder of the bow; there are prosperity, victory, happiness and firm policy; such is my conviction.
 
 </details>
 </div>
@@ -731,17 +715,8 @@ policy; such is my conviction.
 18.78 यत्र wherever; योगेश्वरः the Lord of Yoga; कृष्णः Krishna; यत्र
 wherever; पार्थः Arjuna; धनुर्धरः the archer; तत्र there; श्रीः
 prosperity; विजयः victory; भूतिः happiness; ध्रुवा firm; नीतिः policy;
-मतिः conviction; मम my.Commentary This verse is called the Ekasloki
-Gita; i.e.; Bhagavad Gita in one verse. Repetition of even this one
-verse bestows the benefits of reading the whole of the
-scripture.Wherever On that side on which.Yogesvarah The Lord of Yoga.
-Krishna is called the Lord of Yogas as the seed of all Yogas comes forth
-from Him.Dhanurdharah The wielder of the bow called the Gandiva. There
-On the side of the Pandavas.Thus in the Upanishads of the glorious
-Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the
-dialogue between Sri Krishna and Arjuna; ends the eighteenth discourse
-entitledThe Yoga of Liberation by Renunciation.OM SHANTIH SHANTIH
-SHANTIH ,,
+मतिः conviction; मम my.Commentary This verse is called the Ekasloki Gita; i.e.; Bhagavad Gita in one verse. Repetition of even this one verse bestows the benefits of reading the whole of the scripture.Wherever On that side on which.Yogesvarah The Lord of Yoga.
+Krishna is called the Lord of Yogas as the seed of all Yogas comes forth from Him.Dhanurdharah The wielder of the bow called the Gandiva. There On the side of the Pandavas.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the eighteenth discourse entitledThe Yoga of Liberation by Renunciation.OM SHANTIH SHANTIH SHANTIH ,,
 
 </details>
 </div>

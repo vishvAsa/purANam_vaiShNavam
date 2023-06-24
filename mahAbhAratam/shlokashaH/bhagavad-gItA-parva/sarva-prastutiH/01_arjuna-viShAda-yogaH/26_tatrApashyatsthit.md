@@ -83,17 +83,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/26_tatrApashyatsthit.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -330,9 +321,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/01_arjuna-viShAda-yogaH/26_tatrApashyatsthit.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-1.26. Noticing all those kinsmen arrayed \[in the army\], the son of
-Kunti was overpowered by unmost compassion; and being despondent, he
-uttered this:
+1.26. Noticing all those kinsmen arrayed \[in the army\], the son of Kunti was overpowered by unmost compassion; and being despondent, he uttered this:
 
 </details>
 </div>
@@ -341,8 +330,7 @@ uttered this:
 
 1.26 Then Partha (Arjuna) saw, marshalled among both the armies, (his)
 uncles as also grandfathers, teachers, maternal uncles, brothers (and
-(cousins), sons, grandsons, as well as comrades and fathers-in-law and
-friends.
+(cousins), sons, grandsons, as well as comrades and fathers-in-law and friends.
 
 </details>
 </div>
@@ -357,8 +345,7 @@ grandsons, teachers, friends;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/26_tatrApashyatsthit.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.26 Then as Arjuna looked on, he saw standing there fathers and
-grand-fathers, teachers, uncles, brothers, sons, grandsons and comrades;
+1.26 Then as Arjuna looked on, he saw standing there fathers and grand-fathers, teachers, uncles, brothers, sons, grandsons and comrades;
 
 </details>
 </div>
@@ -378,8 +365,7 @@ grandsons and friends too.
 fathers; अथ also; पितामहान्  
   
 grandfathers; आचार्यान् teachers; मातुलान् maternal uncles; भ्रातॄन्
-brothers; पुत्रान् sons; पौत्रान् grandsons; सखीन् friends; तथा too.No
-Commentary.
+brothers; पुत्रान् sons; पौत्रान् grandsons; सखीन् friends; तथा too.No Commentary.
 
 </details>
 </div>

@@ -77,13 +77,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/11_devAnbhAvayatAnen.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.11 'By this,' i.e., by this sacrifice, you propitiate the gods who
-form My body and have Me as their Self. For Sri Krsna will say later on:
+3.11 'By this,' i.e., by this sacrifice, you propitiate the gods who form My body and have Me as their Self. For Sri Krsna will say later on:
 'For I am the only enjoyer and the only Lord of Sacrifices' (9.24).
 Worshipped by sacrifices, may these gods, who have Me as their Self,
-nourish you with food, drink etc., which are reired also for their
-worship. Thus, supporting each other, may you attain the highest good
-called Moksa (release).
+nourish you with food, drink etc., which are reired also for their worship. Thus, supporting each other, may you attain the highest good called Moksa (release).
 
 </details>
 </div>
@@ -370,9 +367,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/11_devAnbhAvayatAnen.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.11. 'With this you must gratify the devas and let the devas gratify
-you; \[thus\] gratifying one another, you shall attain the highest
-good.'
+3.11. 'With this you must gratify the devas and let the devas gratify you; \[thus\] gratifying one another, you shall attain the highest good.'
 
 </details>
 </div>
@@ -387,17 +382,14 @@ Nourishing one another, you shall attain the supreme Good.'
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/11_devAnbhAvayatAnen.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.11 Worship the Powers of Nature thereby, and let them nourish you in
-return; thus supporting each other, you shall attain your highest
-welfare.
+3.11 Worship the Powers of Nature thereby, and let them nourish you in return; thus supporting each other, you shall attain your highest welfare.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/11_devAnbhAvayatAnen.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.11 By this, please the gods, and the gods will support you. Thus
-nourishing one another, may you obtain the highest good.
+3.11 By this, please the gods, and the gods will support you. Thus nourishing one another, may you obtain the highest good.
 
 </details>
 </div>
@@ -414,13 +406,7 @@ thus nourishing one another, ye shall attain to the highest good.
 
 3.11 देवान् the gods; भावयत nourish (ye); अनेन with this; ते those;
 देवाः gods; भावयन्तु may nourish; वः you; परस्परम् one another; भावयन्तः
-nourishing; श्रेयः good; परम् the highest; अवाप्स्यथ shall
-attain.Commentary Deva literally means the shining one. By this
-sacrifice you nourish the gods such as Indra. The gods shall nourish you
-with rain; etc. the highest good is the attainment of the knowledge of
-the Self which frees one from the round of births and deaths. The
-highest good may mean the attainment of heaven also. The fruit depends
-upon the motive of the aspirant.
+nourishing; श्रेयः good; परम् the highest; अवाप्स्यथ shall attain.Commentary Deva literally means the shining one. By this sacrifice you nourish the gods such as Indra. The gods shall nourish you with rain; etc. the highest good is the attainment of the knowledge of the Self which frees one from the round of births and deaths. The highest good may mean the attainment of heaven also. The fruit depends upon the motive of the aspirant.
 
 </details>
 </div>

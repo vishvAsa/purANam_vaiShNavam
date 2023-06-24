@@ -51,22 +51,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.18 Thus, in the manner explained, those who 'rest in Sattva rise
-upwards,' namely, they attain liberation from the bonds of Samsara
-gradually. Those who, 'abiding in Rajas' which produces greed for heaven
-etc., engage themselves in actions which constitute the means for
-obtaining such results. Experiencing those results, they are born again
-and engage in, and perform, the very same acts. So they remain in the
+14.18 Thus, in the manner explained, those who 'rest in Sattva rise upwards,' namely, they attain liberation from the bonds of Samsara gradually. Those who, 'abiding in Rajas' which produces greed for heaven etc., engage themselves in actions which constitute the means for obtaining such results. Experiencing those results, they are born again and engage in, and perform, the very same acts. So they remain in the
 'middle'. This is mostly suffering, as it is characterised by rirths.
-Those of Tamasic nature 'stoop down' into lower levels, as Tamas grows
-ever worse in them. They go 'downwards' i.e., to the lowest state among
-human beings, then to the condition of animals; then to that of worms;
-insects etc., then of immovable things, and even to the condition of
-shrubs and creepers, and ultimately to the condition of stones, wood,
-clod of earth, straw etc. Sri Krsna now teaches about the manner of
-those in whom the Sattva has gradually increased by adopting special
-holy food and performance of special disinterested deeds, and who thus
-rise upward by transcending the Gunas.
+Those of Tamasic nature 'stoop down' into lower levels, as Tamas grows ever worse in them. They go 'downwards' i.e., to the lowest state among human beings, then to the condition of animals; then to that of worms;
+insects etc., then of immovable things, and even to the condition of shrubs and creepers, and ultimately to the condition of stones, wood,
+clod of earth, straw etc. Sri Krsna now teaches about the manner of those in whom the Sattva has gradually increased by adopting special holy food and performance of special disinterested deeds, and who thus rise upward by transcending the Gunas.
 
 </details>
 </div>
@@ -475,44 +464,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-14.18. Those who are established in the Sattva, go upward; the persons
-given to the Rajas, remain in the middle \[state\]; those who are given
-to the Tamas, being established in the tendencies of bad alities, go
-downwards.
+14.18. Those who are established in the Sattva, go upward; the persons given to the Rajas, remain in the middle \[state\]; those who are given to the Tamas, being established in the tendencies of bad alities, go downwards.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.18 People who conform to sattva go higher up; those who conform to
-rajas stay in the middle; those who conform to tamas, who conform to the
-actions of the lowest ality, go down.
+14.18 People who conform to sattva go higher up; those who conform to rajas stay in the middle; those who conform to tamas, who conform to the actions of the lowest ality, go down.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.18 When Purity is in the ascendant, the man evolves; when Passion, he
-neither evolves nor degenerates; when Ignorance, he is lost.
+14.18 When Purity is in the ascendant, the man evolves; when Passion, he neither evolves nor degenerates; when Ignorance, he is lost.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.18 Those who rest in Sattva rise upwards; those who abide in Rajas
-remain in the middle; and those, abiding in the tendencies of Tamas go
-downwards.
+14.18 Those who rest in Sattva rise upwards; those who abide in Rajas remain in the middle; and those, abiding in the tendencies of Tamas go downwards.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/18_Urdhva~N_gachChan.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.18 Those who are seated in Sattva go upwards; the Rajasic dwell in
-the middle; and the Tamasic, abiding in the function of the lowest Guna,
+14.18 Those who are seated in Sattva go upwards; the Rajasic dwell in the middle; and the Tamasic, abiding in the function of the lowest Guna,
 go downwards.
 
 </details>
@@ -523,23 +503,8 @@ go downwards.
 14.18 ऊर्ध्वम् upwards; गच्छन्ति go; सत्त्वस्थाः in Sattva seated; मध्ये
 in the middle; तिष्ठन्ति dwell; राजसाः the Rajasic; जघन्यगुणवृत्तिस्थाः
 abiding in the function of the lowest Guna; अधः downwards; गच्छन्ति go;
-तामसाः the Tamasic.Commentary Those who abide in Sattva become the lords
-of heaven after giving up the physical body. The Rajasic are rorn on
-this earth as human beings. The Tamasic go downwards; i.e.; they will be
-born in the wormbs of cattle and beasts. They may take their birth
-amongst the lowest grades of human beings. The lowest grades of human
-beings are only brutes though they have assumed human form. Their
-actions are brutal. Therefore it is not necessary for them to enter into
-animal incarnation.Man identifies himself with Nature on account of the
-force of ignorance or illusory knowledge and gets attached to the
-alities of Nature. This is the cause of his birth in the wombs of high
-or low creatures. He feels; I am happy; miserable or deluded; on account
-of the attachment to the Gunas.The nature of the Gunas; their functions;
-how they bind a man to the Samsara; the effects of each Guna when it is
-predominant; and the plane reached by the man when he is under the
-influence of a particular Guna are described in the previous verses. Now
-the Lord describes in the following verse that liberation comes when one
-knows Him Who is above the three Gunas.
+तामसाः the Tamasic.Commentary Those who abide in Sattva become the lords of heaven after giving up the physical body. The Rajasic are rorn on this earth as human beings. The Tamasic go downwards; i.e.; they will be born in the wormbs of cattle and beasts. They may take their birth amongst the lowest grades of human beings. The lowest grades of human beings are only brutes though they have assumed human form. Their actions are brutal. Therefore it is not necessary for them to enter into animal incarnation.Man identifies himself with Nature on account of the force of ignorance or illusory knowledge and gets attached to the alities of Nature. This is the cause of his birth in the wombs of high or low creatures. He feels; I am happy; miserable or deluded; on account of the attachment to the Gunas.The nature of the Gunas; their functions;
+how they bind a man to the Samsara; the effects of each Guna when it is predominant; and the plane reached by the man when he is under the influence of a particular Guna are described in the previous verses. Now the Lord describes in the following verse that liberation comes when one knows Him Who is above the three Gunas.
 
 </details>
 </div>

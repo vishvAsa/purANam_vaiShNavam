@@ -87,28 +87,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.3 The Lord said That which is the Supreme Imperishable (Aksara) has
-been named 'that brahman' The Aksara is that which cannot be destroyed
-and forms the totality of all individual selves. The Srutis say to this
-effect: 'The Avyakta is dissolved into the Aksara, the Aksara is
-dissolved into Tamas' (Su. U., 2). The supreme Aksara is the essential
-form of the self, separated from Prakrti. One's own material nature (the
-body) is spoken of as Adhyatma or that which dwells with the self. This
-material nature (Svabhava) is Prakrti. It does not form the self but
-attaches itself to the self in the form of subtle elements, impressions
-etc. This has been taught in the Vidya of Five Fires (Cha. U., 5). Both
-these (the Aksara and the Adhyatma) should be known by the aspirants for
-liberation (Kaivalya) - the former as what should be attained and the
-latter as what should be relinished. Karma is that force which produces
-the origination of mundane beings. 'Beings' here means beings such as
-the human beings. The creative force which produces their origination is
-contact with woman. It has been described in the Sruti passage thus:
-'The waters sacrificed in the fifth oblations become those who are named
-Purusas' (Cha. U., 5.3.3). That creative force is called Karma. All the
-acts associated with that should be considered by aspirants after
-release as calling for abstention. This abstention will also be
-inculcated immediately in the text, 'Desiring which they practise the
-vow of continence' (8.11).
+8.3 The Lord said That which is the Supreme Imperishable (Aksara) has been named 'that brahman' The Aksara is that which cannot be destroyed and forms the totality of all individual selves. The Srutis say to this effect: 'The Avyakta is dissolved into the Aksara, the Aksara is dissolved into Tamas' (Su. U., 2). The supreme Aksara is the essential form of the self, separated from Prakrti. One's own material nature (the body) is spoken of as Adhyatma or that which dwells with the self. This material nature (Svabhava) is Prakrti. It does not form the self but attaches itself to the self in the form of subtle elements, impressions etc. This has been taught in the Vidya of Five Fires (Cha. U., 5). Both these (the Aksara and the Adhyatma) should be known by the aspirants for liberation (Kaivalya) - the former as what should be attained and the latter as what should be relinished. Karma is that force which produces the origination of mundane beings. 'Beings' here means beings such as the human beings. The creative force which produces their origination is contact with woman. It has been described in the Sruti passage thus:
+'The waters sacrificed in the fifth oblations become those who are named Purusas' (Cha. U., 5.3.3). That creative force is called Karma. All the acts associated with that should be considered by aspirants after release as calling for abstention. This abstention will also be inculcated immediately in the text, 'Desiring which they practise the vow of continence' (8.11).
 
 </details>
 </div>
@@ -565,9 +545,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.3. The Bhagavat said The immutable Absolute is the Brahman. Its
-intrinsic nature is called the Lord of the self. The emitting activity
-that causes the birth of both the animate and the inanimate is named
+8.3. The Bhagavat said The immutable Absolute is the Brahman. Its intrinsic nature is called the Lord of the self. The emitting activity that causes the birth of both the animate and the inanimate is named
 'action '.
 
 </details>
@@ -576,29 +554,22 @@ that causes the birth of both the animate and the inanimate is named
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 8.3 The Blessed Lord said The Immutable is the supreme Brahman;
-self-hood is said to the entity present in the individual plane. By
-action is meant the offerings which bring about the origin of the
-existence of things.
+self-hood is said to the entity present in the individual plane. By action is meant the offerings which bring about the origin of the existence of things.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.3 The Lord Shri Krishna replied: The Supreme Spirit is the Highest
-Imperishable Self, and Its Nature is spiritual consciousness. The worlds
-have been created and are supported by an emanation from the Spirit
-which is called the Law.
+8.3 The Lord Shri Krishna replied: The Supreme Spirit is the Highest Imperishable Self, and Its Nature is spiritual consciousness. The worlds have been created and are supported by an emanation from the Spirit which is called the Law.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/03_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.3 The Blessed Lord said Brahman is the Imperishable, the Supreme; Its
-essential nature is called Self-knowledge; the offering (to the gods)
-which causes existence and manifestation of beings and which also
-sustains them is called action.
+8.3 The Blessed Lord said Brahman is the Imperishable, the Supreme; Its essential nature is called Self-knowledge; the offering (to the gods)
+which causes existence and manifestation of beings and which also sustains them is called action.
 
 </details>
 </div>
@@ -606,32 +577,10 @@ sustains them is called action.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 8.3 अक्षरम् imperishable; ब्रह्म Brahman; परमम् Supreme; स्वभावः (His)
-Nature; अध्यात्मम् Selfknowledge; उच्यते is called; भूतभावोद्भवकरः that
-which causes the origin and growth of beings; विसर्गः offering (to
-gods); कर्मसंज्ञितः is called action.Commentary Brahman is imperishable;
-immutable; eternal; selfexistent; selfluminous; unchanging and
-allpervading. It is the source; root and womb of everything. In It all
-beings that are manifested live; move and have their very being. Hence;
-It is Paramam; the Supreme and Akshara.Its essential nature or Svabhava
-is Adhyatma. Brahmans dwelling in each individual body as the innermost
-Self (the Pratyagatma) is called Adhyatma. Yajnavalkya (a great sage of
-the Upanishadic period) said O Gargi Heaven and earth stand upheld in
-their places. The Brahmanas call this (Brahman) the Akshara (the
-imperishable). It is neither red nor white It is not shadow; not
-darkness; nor air; not ehter; without adhesion; without smell; without
-eyes; without ears; without speech; without mind; without light; without
-breath; without a mouth or door; without measures; having nothing within
-and nothing outside It. It does not consume anything; nor does anyone
-consume It. Akshara is the Supreme Brahman only.Akshara here does not
-mean the holy word Om; or the Avyakta (the unmanifested source of all
-that is in Nature). There is Laya (absorption) for Om. There is
-destruction for the unmanifested Nature also. Therefore Brahman is the
-Akshara; the Imperishable; the Supreme Being.Offering All virtuous
-work.The sacrificial act which consists of offering cooked rice; cakes;
-etc.; to the gods and which causes the genesis and support of beings is
-called Karma. The oblations in the sacrifice assume a subtle form and
-reach the sphere of the sun. Through the sun there is rain; and various
-sorts of grains; vegetables and fruits crop up. The living beings
+Nature; अध्यात्मम् Selfknowledge; उच्यते is called; भूतभावोद्भवकरः that which causes the origin and growth of beings; विसर्गः offering (to gods); कर्मसंज्ञितः is called action.Commentary Brahman is imperishable;
+immutable; eternal; selfexistent; selfluminous; unchanging and allpervading. It is the source; root and womb of everything. In It all beings that are manifested live; move and have their very being. Hence;
+It is Paramam; the Supreme and Akshara.Its essential nature or Svabhava is Adhyatma. Brahmans dwelling in each individual body as the innermost Self (the Pratyagatma) is called Adhyatma. Yajnavalkya (a great sage of the Upanishadic period) said O Gargi Heaven and earth stand upheld in their places. The Brahmanas call this (Brahman) the Akshara (the imperishable). It is neither red nor white It is not shadow; not darkness; nor air; not ehter; without adhesion; without smell; without eyes; without ears; without speech; without mind; without light; without breath; without a mouth or door; without measures; having nothing within and nothing outside It. It does not consume anything; nor does anyone consume It. Akshara is the Supreme Brahman only.Akshara here does not mean the holy word Om; or the Avyakta (the unmanifested source of all that is in Nature). There is Laya (absorption) for Om. There is destruction for the unmanifested Nature also. Therefore Brahman is the Akshara; the Imperishable; the Supreme Being.Offering All virtuous work.The sacrificial act which consists of offering cooked rice; cakes;
+etc.; to the gods and which causes the genesis and support of beings is called Karma. The oblations in the sacrifice assume a subtle form and reach the sphere of the sun. Through the sun there is rain; and various sorts of grains; vegetables and fruits crop up. The living beings
 (Bhutas) live and develop on account of rice and other foodstuffs.
 Therefore Yajnas are the cause of the genesis and support of all beings.
 

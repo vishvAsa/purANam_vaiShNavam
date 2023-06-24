@@ -65,17 +65,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 2.21 He who knows the self to be eternal, as It is indestructible,
-unborn and changeless - how can that person be said to cause the death
-of the self, be it of the self existing in the bodies of gods or animals
-or immovables; Whom does he kill; The meaning is - how can he destroy
-any one or cause anyone to slay; How does he become an instrument for
-slaying; The meaning is this: the feeling of sorrow: 'I cause the
-slaying of these selves, I slay these,' has its basis solely in
-ignorance about the true nature of the self. Let it be granted that what
-is done is only separation of the bodies from the eternal selves. Even
-then, when the bodies, which are instruments for the experience of
-agreeable pleasures, perish, there still exists reason for sorrow in
-their separation from the bodies. To this (Sri Krsna) replies:
+unborn and changeless - how can that person be said to cause the death of the self, be it of the self existing in the bodies of gods or animals or immovables; Whom does he kill; The meaning is - how can he destroy any one or cause anyone to slay; How does he become an instrument for slaying; The meaning is this: the feeling of sorrow: 'I cause the slaying of these selves, I slay these,' has its basis solely in ignorance about the true nature of the self. Let it be granted that what is done is only separation of the bodies from the eternal selves. Even then, when the bodies, which are instruments for the experience of agreeable pleasures, perish, there still exists reason for sorrow in their separation from the bodies. To this (Sri Krsna) replies:
 
 </details>
 </div>
@@ -983,8 +973,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.21. Whosever realises This to be changeless, destructionless, unborn
-and immutable, how can that person be slain; how can he either slay
+2.21. Whosever realises This to be changeless, destructionless, unborn and immutable, how can that person be slain; how can he either slay
 \[any one\] ; O son of Prtha !
 
 </details>
@@ -993,9 +982,7 @@ and immutable, how can that person be slain; how can he either slay
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 2.21 O Partha, he who knows this One as indestructible, eternal,
-birthless and undecaying, how and whom does that person kill, or whom
-does he cause to be killed! \[This is not a estion but only an emphatic
-denial.-Tr.\]
+birthless and undecaying, how and whom does that person kill, or whom does he cause to be killed! \[This is not a estion but only an emphatic denial.-Tr.\]
 
 </details>
 </div>
@@ -1010,8 +997,7 @@ Always-the-Same, how should he kill or cause to be killed;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.21 He who knows this (self) to be indestructible, unborn, unchanging
-and hence eternal - how and whom, O Arjuna, does he cause to be killed,
+2.21 He who knows this (self) to be indestructible, unborn, unchanging and hence eternal - how and whom, O Arjuna, does he cause to be killed,
 and whom he kill;
 
 </details>
@@ -1019,8 +1005,7 @@ and whom he kill;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/21_vedAvinAshinan_ni.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.21 Whosoever knows It to be indestructible, eternal, unborn and
-inexhaustible, how can that man slay, O Arjuna, or cause to be slain;
+2.21 Whosoever knows It to be indestructible, eternal, unborn and inexhaustible, how can that man slay, O Arjuna, or cause to be slain;
 
 </details>
 </div>
@@ -1029,11 +1014,7 @@ inexhaustible, how can that man slay, O Arjuna, or cause to be slain;
 
 2.21 वेद knows; अविनाशिनम् indestructible; नित्यम् eternal; यः who; एनम्
 this (Self); अजम् unborn; अव्ययम् inexhaustible; कथम् how; सः he (that);
-पुरुषः man; पार्थ O Partha (son of Pritha); कम् whom; घातयति causes to
-be slain; हन्ति kills; कम् whom.Commentary The enlightened sage who
-knows the immutable and indestructible Self through direct cognition or
-spiritual Anubhava (experience) cannot do the act of slaying. He cannot
-cause another to slay also.
+पुरुषः man; पार्थ O Partha (son of Pritha); कम् whom; घातयति causes to be slain; हन्ति kills; कम् whom.Commentary The enlightened sage who knows the immutable and indestructible Self through direct cognition or spiritual Anubhava (experience) cannot do the act of slaying. He cannot cause another to slay also.
 
 </details>
 </div>

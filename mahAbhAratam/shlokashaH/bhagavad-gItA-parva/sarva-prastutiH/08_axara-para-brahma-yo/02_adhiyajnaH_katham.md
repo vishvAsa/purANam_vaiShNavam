@@ -95,13 +95,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.1 8.2 Arjuna said What are that brahman, Adhyatma and Karma which have
-been mentioned as what should be known by those who aspire for release
-from old age and death while they take refuge with the Lord; What are
-Adhibuta and Adhidaiva, which should be known by the aspirants for
-wealth; Who is Adhiyajna that is to be known by the three groups as
-their dying hour. In what manner are You to be known by these three
-groups who are self-controlled;
+8.1 8.2 Arjuna said What are that brahman, Adhyatma and Karma which have been mentioned as what should be known by those who aspire for release from old age and death while they take refuge with the Lord; What are Adhibuta and Adhidaiva, which should be known by the aspirants for wealth; Who is Adhiyajna that is to be known by the three groups as their dying hour. In what manner are You to be known by these three groups who are self-controlled;
 
 </details>
 </div>
@@ -347,27 +341,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.2. Who is Lord-of-sacrifices (adhiyajna) \[and\] how ; Who in this
-body ; O slayer of Madhu ! How are You to be realised by the
-self-controlled ones at the time of their journey (i.e., death) also ;
+8.2. Who is Lord-of-sacrifices (adhiyajna) \[and\] how ; Who in this body ; O slayer of Madhu ! How are You to be realised by the self-controlled ones at the time of their journey (i.e., death) also ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.2 O Madhusudana, how, and who, is the entity existing in the sacrifice
-here in this body; And at the time of death, how are You to be known by
-people of concentrated minds;
+8.2 O Madhusudana, how, and who, is the entity existing in the sacrifice here in this body; And at the time of death, how are You to be known by people of concentrated minds;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/02_adhiyajnaH_katham.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.2 Who is it who rules the spirit sacrifice in many; and at the time of
-death how may those who have learned self-control come to the knowledge
-of Thee;
+8.2 Who is it who rules the spirit sacrifice in many; and at the time of death how may those who have learned self-control come to the knowledge of Thee;
 
 </details>
 </div>
@@ -375,8 +363,7 @@ of Thee;
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 8.2 Who and how is Adhiyajna here in this body, O destroyer of Madhu
-(Krishna); And how at the time of death, art Thou to be known by the
-self-controlled;
+(Krishna); And how at the time of death, art Thou to be known by the self-controlled;
 
 </details>
 </div>
@@ -385,39 +372,26 @@ self-controlled;
 
 8.2 अधियज्ञः Adhiyajna; कथम् how; कः who; अत्र here; देहे in body;
 अस्मिन् this; मधुसूदन O Madhusudana; प्रयाणकाले at the time of death; च
-and; कथम् how; ज्ञेयः knowable; असि art; नियतात्मभिः by the
-selfcontrolled.Commentary Arjuna put seven estions to the Lord  
+and; कथम् how; ज्ञेयः knowable; असि art; नियतात्मभिः by the selfcontrolled.Commentary Arjuna put seven estions to the Lord  
   
-1. What is that Brahman Is it Brahman with the Upadhis (limiting
-adjuncts) or Brahman without them  
+1. What is that Brahman Is it Brahman with the Upadhis (limiting adjuncts) or Brahman without them  
   
 2. Is it the aggregate of the senses or individual consciousness
 (PratyakChaitanya) or distinct; pure consciousness  
   
 3. What is Karma Is it Yajna Or; is it distinct from Yajna  
   
-4. Adhibhuta is knowledge of the Bhutas. Is this the knowledge of the
-elements or something else  
+4. Adhibhuta is knowledge of the Bhutas. Is this the knowledge of the elements or something else  
   
-5. Adhidaiva is that which is associated with the gods. Is this the
-meditation on the gods Or; is it the consciousness associated with the
-Suryamandala; etc.  
+5. Adhidaiva is that which is associated with the gods. Is this the meditation on the gods Or; is it the consciousness associated with the Suryamandala; etc.  
   
 6. Adhiyajna is that which is associated with Yajnas or Vedic rituals.
-Is this the Para Brahman (Supreme Being) or any special god Is it of the
-same form (Tadatmyarupa) or is it entirely nondifferent (Abheda) Does it
-exist in the body or outside it If it exists in the body; is it the
-intellect (Buddhi) or distinct from it  
+Is this the Para Brahman (Supreme Being) or any special god Is it of the same form (Tadatmyarupa) or is it entirely nondifferent (Abheda) Does it exist in the body or outside it If it exists in the body; is it the intellect (Buddhi) or distinct from it  
   
-7. At the time of death; when the memory is lost and when the senses
-become cold (i.e.; when  
+7. At the time of death; when the memory is lost and when the senses become cold (i.e.; when  
   
-they lose their vitality) how can the man of onepointedness and of
-steadfast mind know the LordO Lord Madhusudana Thou art allmerciful.
-Thou hast killed Madhu and removed the miseries of the people. Even so
-Thou canst remove my difficulties and doubts very easily. This is
-nothing for Thee; the omniscient Lord. (This is the reason why Arjuna
-addresses the Lord by the name Madhusudana.)
+they lose their vitality) how can the man of onepointedness and of steadfast mind know the LordO Lord Madhusudana Thou art allmerciful.
+Thou hast killed Madhu and removed the miseries of the people. Even so Thou canst remove my difficulties and doubts very easily. This is nothing for Thee; the omniscient Lord. (This is the reason why Arjuna addresses the Lord by the name Madhusudana.)
 
 </details>
 </div>

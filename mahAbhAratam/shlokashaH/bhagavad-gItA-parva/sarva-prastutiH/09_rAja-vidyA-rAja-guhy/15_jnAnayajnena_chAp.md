@@ -71,17 +71,8 @@ _________________
 
 9.15 Other high-minded persons worship Me by singing My names, etc.,
 already described; and they also perform the sacrifice called knowledge.
-They worship Me, who, by being 'characterised by diversity in various
-ways' in the form of the cosmos, is a multiform, namely, having all
-entities as modes (Prakaras) and also as One (the Prakari). The purport
-is this: The Lord Vasudeva alone, having the body comprising animate and
-inanimate entities in an extremely subtle form (in the state of Cosmic
-dissolution) incapable of distinctness by name and form, resolves by His
-unfailing true will power: 'May I become embodied in gross animate and
-inanimate entities, distinguished variously by name and form.' He alone
-then abides, with the variegated cosmos as His body, comprising gods,
-animals, men and immobile things. They worship Me by contemplating on Me
-thus. Therefore Sri Krsna declares: 'I, having the universe for My body,
+They worship Me, who, by being 'characterised by diversity in various ways' in the form of the cosmos, is a multiform, namely, having all entities as modes (Prakaras) and also as One (the Prakari). The purport is this: The Lord Vasudeva alone, having the body comprising animate and inanimate entities in an extremely subtle form (in the state of Cosmic dissolution) incapable of distinctness by name and form, resolves by His unfailing true will power: 'May I become embodied in gross animate and inanimate entities, distinguished variously by name and form.' He alone then abides, with the variegated cosmos as His body, comprising gods,
+animals, men and immobile things. They worship Me by contemplating on Me thus. Therefore Sri Krsna declares: 'I, having the universe for My body,
 alone abide'.
 
 </details>
@@ -445,8 +436,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.15. \[Of them\] some worship Me by knowledge-sacrifice and others by
-offering sacrifices; \[thus\] they worship Me, the Universally-faced
+9.15. \[Of them\] some worship Me by knowledge-sacrifice and others by offering sacrifices; \[thus\] they worship Me, the Universally-faced
 \[either\] as One \[or\] as Many.
 
 </details>
@@ -454,8 +444,7 @@ offering sacrifices; \[thus\] they worship Me, the Universally-faced
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.15 Others verily worship Me by adoring exclusively through the
-sacrifice of the knowledge of oneness; (others worship Me)
+9.15 Others verily worship Me by adoring exclusively through the sacrifice of the knowledge of oneness; (others worship Me)
 multifariously, and (others) as the multiformed existing variously.
 
 </details>
@@ -471,17 +460,14 @@ the Omnipresent, the Universal.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.15 Others, too, besides offering the sacrifice of knowledge, worship
-Me as One, who, characterised by diversity in numberless ways, is
-multiformed (in My Cosmic aspect).
+9.15 Others, too, besides offering the sacrifice of knowledge, worship Me as One, who, characterised by diversity in numberless ways, is multiformed (in My Cosmic aspect).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/15_jnAnayajnena_chAp.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.15 Others also sacrificing with the wisdom-sacrifice worship Me, the
-All-faced, as one, as distinct, and as manifold.
+9.15 Others also sacrificing with the wisdom-sacrifice worship Me, the All-faced, as one, as distinct, and as manifold.
 
 </details>
 </div>
@@ -490,22 +476,9 @@ All-faced, as one, as distinct, and as manifold.
 
 9.15 ज्ञानयज्ञेन with the wisdomsacrifice; च and; अपि also; अन्ये
 others; यजन्तः sacrificing; माम् Me;,उपासते worhsip; एकत्वेन as one;
-पृथक्त्वेन as different; बहुधा in various ways; विश्वतोमुखम् the
-Allfaced.Commentary Others too sacrificing by the wisdomsacrifice; i.e.;
-seeing the Self in all; adore Me the One and the manifold; present
-everywhere. They regard all the forms they see as the forms of God; all
-sounds they hear as the names of God. They give all objects they eat as
-offerings unto the Lord in vaious ways.Some adore Him with the knowledge
-that there is only one Reality; the Supreme Being Who is
-ExistenceKnowledgeBliss. They identify themselves with the Truth or
-Brahman. This is the Monistic view of the Vedantins. Some worship Him
-making a distinction between the Lord and themselves with the attitude
-of master and servant. This is the view of the Dualistic School of
-philosophy. Some worship Him with the knowledge that He exists as the
-various divinities; Brahma; Vishnu; Rudra; Siva; etc.Visvatomukham
-Others worship Him who has assumed all the manifold forms in the world;
-Who exists in all the forms as the Allfaced (the one Lord exists in all
-the different forms with His face on all sides; as it were). (Cf.IV.33)
+पृथक्त्वेन as different; बहुधा in various ways; विश्वतोमुखम् the Allfaced.Commentary Others too sacrificing by the wisdomsacrifice; i.e.;
+seeing the Self in all; adore Me the One and the manifold; present everywhere. They regard all the forms they see as the forms of God; all sounds they hear as the names of God. They give all objects they eat as offerings unto the Lord in vaious ways.Some adore Him with the knowledge that there is only one Reality; the Supreme Being Who is ExistenceKnowledgeBliss. They identify themselves with the Truth or Brahman. This is the Monistic view of the Vedantins. Some worship Him making a distinction between the Lord and themselves with the attitude of master and servant. This is the view of the Dualistic School of philosophy. Some worship Him with the knowledge that He exists as the various divinities; Brahma; Vishnu; Rudra; Siva; etc.Visvatomukham Others worship Him who has assumed all the manifold forms in the world;
+Who exists in all the forms as the Allfaced (the one Lord exists in all the different forms with His face on all sides; as it were). (Cf.IV.33)
 
 </details>
 </div>

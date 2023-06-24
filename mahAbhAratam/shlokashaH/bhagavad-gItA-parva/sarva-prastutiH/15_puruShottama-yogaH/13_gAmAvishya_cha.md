@@ -55,9 +55,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-15.13 Entering the earth I uphold all beings by My strength, namely, by
-My irresistible power, Likewise, becoming the Soma consisting of the
-juice of the nectar, I nourish all herbs.
+15.13 Entering the earth I uphold all beings by My strength, namely, by My irresistible power, Likewise, becoming the Soma consisting of the juice of the nectar, I nourish all herbs.
 
 </details>
 </div>
@@ -376,9 +374,7 @@ energy; being the sapful moon, I nourish all plants.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 15.13 And entering the earth I sustain the beings through (My) power;
-and nourish all the plants by becoming Soma \[According to S. and most
-other translators, Soma means the moon.-Tr.\] which is of the nature of
-sap.
+and nourish all the plants by becoming Soma \[According to S. and most other translators, Soma means the moon.-Tr.\] which is of the nature of sap.
 
 </details>
 </div>
@@ -393,16 +389,14 @@ and by My cool moonbeams I nourish the plants.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-15.13 And entering the earth I uphold all beings by My strength. I
-nourish all herbs, becoming the juicy Soma.
+15.13 And entering the earth I uphold all beings by My strength. I nourish all herbs, becoming the juicy Soma.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/15_puruShottama-yogaH/13_gAmAvishya_cha.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-15.13 Permeating the earth I support all beings by (My) energy; and
-having become the watery moon I nourish all herbs.
+15.13 Permeating the earth I support all beings by (My) energy; and having become the watery moon I nourish all herbs.
 
 </details>
 </div>
@@ -412,21 +406,10 @@ having become the watery moon I nourish all herbs.
 15.13 गाम the earth; आविश्य permeating; च and; भूतानि all beings;
 धारयामि support; अहम् I; ओजसा by (My) energy; पुष्णामि (I) nourish; च
 and; औषधीः the herbs; सर्वाः all; सोमः moon; भूत्वा having become
-रसात्मकः watery.Commentary The immanence of the Lord as the
-allsustaining life is described in this verse.Ojas The energy of the
-Lord (Isvara). The vast heaven and earth are firmly held by this energy.
-It permeates the earth to support the world. This energy is destitute of
-passion and attachment. As the vast earth is supported by the energy of
-the Lord; it does not fall; it is not broken down to pieces and it does
-not sink into the nether worlds.The Lord penetrates the earth and
-supports all movable and immovable objects by His energy.Rasatmakah
-somah The watery moon The moon is regarded as the repository of all
-savours or,fluids (Rasas). I; becoming the watery moon; nourish all
-herbs and plants such as rice; wheat; etc.; by infusing sap into them;
+रसात्मकः watery.Commentary The immanence of the Lord as the allsustaining life is described in this verse.Ojas The energy of the Lord (Isvara). The vast heaven and earth are firmly held by this energy.
+It permeates the earth to support the world. This energy is destitute of passion and attachment. As the vast earth is supported by the energy of the Lord; it does not fall; it is not broken down to pieces and it does not sink into the nether worlds.The Lord penetrates the earth and supports all movable and immovable objects by His energy.Rasatmakah somah The watery moon The moon is regarded as the repository of all savours or,fluids (Rasas). I; becoming the watery moon; nourish all herbs and plants such as rice; wheat; etc.; by infusing sap into them;
 and make them savoury. I feed the vegetable kingdom with My vital juice
-(Ojas) which pervades the soil and generates sweet juice or sap in
-herbs; plants and trees. The watery or savoury moon nourishes all herbs
-and plants by infusing sap or savours into them.Moreover --
+(Ojas) which pervades the soil and generates sweet juice or sap in herbs; plants and trees. The watery or savoury moon nourishes all herbs and plants by infusing sap or savours into them.Moreover --
 
 </details>
 </div>

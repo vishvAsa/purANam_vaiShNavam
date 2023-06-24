@@ -104,12 +104,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.26 11.27 All these sons of Dhrtarastra like Duryodhana and others
-like Bhisma, Drona, and Suta's son Karna together with the hosts of
-monarchs on their side and also the leading warriors on our side, are
-hastening to their destruction; they enter Your fearful mouths with
-terrible fangs; some, caught between the teeth are seen with their heads
-crushed to powder.
+11.26 11.27 All these sons of Dhrtarastra like Duryodhana and others like Bhisma, Drona, and Suta's son Karna together with the hosts of monarchs on their side and also the leading warriors on our side, are hastening to their destruction; they enter Your fearful mouths with terrible fangs; some, caught between the teeth are seen with their heads crushed to powder.
 
 </details>
 </div>
@@ -379,9 +374,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.27. They enter, hastening, into Your terrible mouths, frightening
-with tusks; some \[of them\], sticking in between Your teeth, are
-clearly visible with their heads powered.
+11.27. They enter, hastening, into Your terrible mouths, frightening with tusks; some \[of them\], sticking in between Your teeth, are clearly visible with their heads powered.
 
 </details>
 </div>
@@ -389,17 +382,14 @@ clearly visible with their heads powered.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 11.27 They rapidly enter into Your terrible mouths with cruel teeths!
-Some are seen sticking in the gaps between the teeth, with their heads
-crushed!
+Some are seen sticking in the gaps between the teeth, with their heads crushed!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.27 1 see them all rushing headlong into Thy mouths, with terrible
-tusks, horrible to behold. Some are mangled between thy jaws, with their
-heads crushed to atoms.
+11.27 1 see them all rushing headlong into Thy mouths, with terrible tusks, horrible to behold. Some are mangled between thy jaws, with their heads crushed to atoms.
 
 </details>
 </div>
@@ -414,9 +404,7 @@ caught between the teeth are seen with their heads crushed to powder.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/27_vaktrANi_te.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.27 Some hurriedly enter Thy mouths with their terrible teeth, fearful
-to behold. Some are found sticking in the gaps between the teeth with
-their heads crushed to powder.
+11.27 Some hurriedly enter Thy mouths with their terrible teeth, fearful to behold. Some are found sticking in the gaps between the teeth with their heads crushed to powder.
 
 </details>
 </div>
@@ -427,8 +415,7 @@ their heads crushed to powder.
 दंष्ट्राकरालानि terribletoothed; भयानकानि fearful to behold; केचित्
 some; विलग्नाः sticking; दशनान्तरेषु in the gaps between the teeth;
 संदृश्यन्ते are found; चूर्णितैः crushed to powder; उत्तमाङ्गैः with
-(their) heads.Commentary How do they enter into the mouth Arjuna
-continues
+(their) heads.Commentary How do they enter into the mouth Arjuna continues
 
 </details>
 </div>

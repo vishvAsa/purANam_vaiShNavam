@@ -64,15 +64,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.9 They live with their minds 'focussed' on Me, namely, with their
-minds fixed on Me; with their 'Pranas', i.e., life, centred on Me - the
-meaning is that they are unable to sustain themselves without Me. They
-'inspire one another' by speaking about My attributes which have been
-experienced by them and narrating My divine and adorable deeds. They
-live in contentment and bliss at all times. The speakers are delighted
-by their own speech, because it is spontaneous, without any ulterior
-motive; the listeners too feel the speech to be unsurpassingly and
-incomparably dear to them. They thus live in bliss.
+10.9 They live with their minds 'focussed' on Me, namely, with their minds fixed on Me; with their 'Pranas', i.e., life, centred on Me - the meaning is that they are unable to sustain themselves without Me. They
+'inspire one another' by speaking about My attributes which have been experienced by them and narrating My divine and adorable deeds. They live in contentment and bliss at all times. The speakers are delighted by their own speech, because it is spontaneous, without any ulterior motive; the listeners too feel the speech to be unsurpassingly and incomparably dear to them. They thus live in bliss.
 
 </details>
 </div>
@@ -382,25 +375,21 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 10.9. Having their mind fixed on Me, their life gone into Me,
-enlightening each other, and constantly talking of Me, they are pleased
-and are delighted.
+enlightening each other, and constantly talking of Me, they are pleased and are delighted.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.9 With minds fixed on Me, with lives dedicated to Me, enlightening
-each other, and always speaking of Me, they derive satisfaction and
-rejoice.
+10.9 With minds fixed on Me, with lives dedicated to Me, enlightening each other, and always speaking of Me, they derive satisfaction and rejoice.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.9 With minds concentrated on Me, with lives absorbed in Me, and
-enlightening each other, they ever feel content and happy.
+10.9 With minds concentrated on Me, with lives absorbed in Me, and enlightening each other, they ever feel content and happy.
 
 </details>
 </div>
@@ -408,38 +397,25 @@ enlightening each other, they ever feel content and happy.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 10.9 With their minds focussed on Me, with their Pranas centred in Me,
-inspiring one another and always speaking of Me, they live in
-contentment and bliss at all times.
+inspiring one another and always speaking of Me, they live in contentment and bliss at all times.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.9 With their mind and their life wholly absorbed in Me, enlightening
-each other and ever speaking of Me, they are satisfied and delighted.
+10.9 With their mind and their life wholly absorbed in Me, enlightening each other and ever speaking of Me, they are satisfied and delighted.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/10_vibhUti-vistAra-yoga/09_machchittA_madgat.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-10.9 मच्चित्ताः with their minds wholly in Me; मद्गतप्राणाः with their
-life absorbed in Me; बोधयन्तः,enlightening; परस्परम् mutually; कथयन्तः
+10.9 मच्चित्ताः with their minds wholly in Me; मद्गतप्राणाः with their life absorbed in Me; बोधयन्तः,enlightening; परस्परम् mutually; कथयन्तः
 speaking of; च and; माम् Me; नित्यम् always; तुष्यन्ति are satisfied; च
-and; रमन्ति (they) are delighted; च and.Commentary The characteristics
-of a devotee who has attained the realisation of oneness are described
-in this verse. The devotee constantly thinks of the Lord. His very life
-is absorbed in Him. He has consecrated his whole life to the Lord.
-According to another interpretation; all his senses (which function
-because of the Prana); such as the eye are absorbed in Him. He takes
-immense delight in talking about Him; about His supreme wisdom; power;
-might and other attributes. He has completely dedicated himself to the
-Lord.He feels intense satisfaction and is delighted as if he is in the
-company of his Beloved (God). The Purana says; The sum total of the
-sensual pleasures of this world and also all the great pleasures of the
-divine regions (heavens) are not worth a sixteenth part of that bliss
-which proceeds from the eradication of desires and cravings. (Cf.XII.8)
+and; रमन्ति (they) are delighted; च and.Commentary The characteristics of a devotee who has attained the realisation of oneness are described in this verse. The devotee constantly thinks of the Lord. His very life is absorbed in Him. He has consecrated his whole life to the Lord.
+According to another interpretation; all his senses (which function because of the Prana); such as the eye are absorbed in Him. He takes immense delight in talking about Him; about His supreme wisdom; power;
+might and other attributes. He has completely dedicated himself to the Lord.He feels intense satisfaction and is delighted as if he is in the company of his Beloved (God). The Purana says; The sum total of the sensual pleasures of this world and also all the great pleasures of the divine regions (heavens) are not worth a sixteenth part of that bliss which proceeds from the eradication of desires and cravings. (Cf.XII.8)
 
 </details>
 </div>

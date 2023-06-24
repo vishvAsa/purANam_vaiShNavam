@@ -113,23 +113,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/20_na_jAyate.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.20 As the self is eternal for the reasons mentioned (above), and hence
-free from modifications, it is said that all the attributes of the
-insentient (body) like birth, death etc., never touch the self. In this
-connection, as the statement, 'It is never born, It never dies' is in
-the present tense, it should be understood that the birth and death
-which are experienced by all in all bodies, do not touch the self. The
-statement 'Having come into being once, It never ceases to be' means
-that this self, having emerged at the beginning of a Kalpa (one aeon of
-manifestation) will not cease to be at the end of the Kalpa (i.e., will
-emerge again at the beginning of the next Kalpa unless It is liberated).
-This is the meaning - that birth at the beginning of a Kalpa in bodies
-such as those of Brahman and others, and death at the end of a Kalpa as
-stated in the scriptures, do not touch the self. Hence, the selves in
-all bodies, are unborn, and therefore eternal. It is abiding, not
-connected, like matter, with invisible modifications taking place. It is
-primeval; the meaning is that It existed from time immemorial; It is
-even new i.e., It is capable of being experienced always as fresh.
+2.20 As the self is eternal for the reasons mentioned (above), and hence free from modifications, it is said that all the attributes of the insentient (body) like birth, death etc., never touch the self. In this connection, as the statement, 'It is never born, It never dies' is in the present tense, it should be understood that the birth and death which are experienced by all in all bodies, do not touch the self. The statement 'Having come into being once, It never ceases to be' means that this self, having emerged at the beginning of a Kalpa (one aeon of manifestation) will not cease to be at the end of the Kalpa (i.e., will emerge again at the beginning of the next Kalpa unless It is liberated).
+This is the meaning - that birth at the beginning of a Kalpa in bodies such as those of Brahman and others, and death at the end of a Kalpa as stated in the scriptures, do not touch the self. Hence, the selves in all bodies, are unborn, and therefore eternal. It is abiding, not connected, like matter, with invisible modifications taking place. It is primeval; the meaning is that It existed from time immemorial; It is even new i.e., It is capable of being experienced always as fresh.
 Therefore, when the body is slain the self is not slain.
 
 </details>
@@ -638,8 +623,7 @@ eternal and ancient and is not slain \[even\] when the body is slain.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/20_na_jAyate.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.20 Never is this One born, and never does It die; nor is it that
-having come to exist, It will again cease to be. This One is birthless,
+2.20 Never is this One born, and never does It die; nor is it that having come to exist, It will again cease to be. This One is birthless,
 eternal, undecaying, ancient; It is not killed when the body is killed.
 
 </details>
@@ -647,27 +631,21 @@ eternal, undecaying, ancient; It is not killed when the body is killed.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/20_na_jAyate.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.20 It was not born; It will never die, nor once having been, can It
-cease to be. Unborn, Eternal, Ever-enduring, yet Most Ancient, the
-Spirit dies not when the body is dead.
+2.20 It was not born; It will never die, nor once having been, can It cease to be. Unborn, Eternal, Ever-enduring, yet Most Ancient, the Spirit dies not when the body is dead.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/20_na_jAyate.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.20 It (the self) is never born; It never dies; having come into being
-once, It never ceases to be. Unborn, eternal, abiding and primeval, It
-is not slain when the body is slain.
+2.20 It (the self) is never born; It never dies; having come into being once, It never ceases to be. Unborn, eternal, abiding and primeval, It is not slain when the body is slain.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/20_na_jAyate.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.20 It is not born, nor does It ever die; after having been, It again
-ceases not to be; unborn, eternal, changeless and ancient, It is not
-killed when the body is killed.
+2.20 It is not born, nor does It ever die; after having been, It again ceases not to be; unborn, eternal, changeless and ancient, It is not killed when the body is killed.
 
 </details>
 </div>
@@ -678,12 +656,8 @@ killed when the body is killed.
 not; अयम् this (Self); भूत्वा having been; भविता will be; वा or; न not;
 भूयः (any) more; अजः unborn; नित्यः eternal; शाश्वतः changeless; अयम्
 this; पुराणः ancient; न not; हन्यते is killed; हन्यमाने being killed;
-शरीरे in body.Commentary This Self (Atman) is destitute of the six types
-of transformation or BhavaVikaras such as birth; existence; growth;
-transformation; decline and death. As It is indivisible (Akhanda). It
-does not diminish in size. It neither grows nor does It decline. It is
-ever the same. Birth and death are for the physical body only. Birth and
-death cannot touch the immortal; allpervading Self.
+शरीरे in body.Commentary This Self (Atman) is destitute of the six types of transformation or BhavaVikaras such as birth; existence; growth;
+transformation; decline and death. As It is indivisible (Akhanda). It does not diminish in size. It neither grows nor does It decline. It is ever the same. Birth and death are for the physical body only. Birth and death cannot touch the immortal; allpervading Self.
 
 </details>
 </div>

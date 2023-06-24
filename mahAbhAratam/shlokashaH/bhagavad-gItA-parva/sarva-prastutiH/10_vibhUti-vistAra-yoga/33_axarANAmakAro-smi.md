@@ -64,13 +64,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.33 Of letters I am the alphabet 'a', which is the base of all letters
-as established in the Sruti: 'The letter 'a' itself is all speech' (Ai.
-Ai., 3.2.3). Samasika means collection of compound words. In it, I am
-the Dvandva compound; it is eminent because the meanings of both
-constituent terms are important. I am Myself imperishable Time composed
-of (divisions like) Kala, Muhurta etc. I am the four-faced Hiranyagarbha
-who is the creator of all.
+10.33 Of letters I am the alphabet 'a', which is the base of all letters as established in the Sruti: 'The letter 'a' itself is all speech' (Ai.
+Ai., 3.2.3). Samasika means collection of compound words. In it, I am the Dvandva compound; it is eminent because the meanings of both constituent terms are important. I am Myself imperishable Time composed of (divisions like) Kala, Muhurta etc. I am the four-faced Hiranyagarbha who is the creator of all.
 
 </details>
 </div>
@@ -359,8 +354,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.33. Of the syllables, I am A; of the compounds, the Dvandva; none but
-Me, is the immortal Time; I am the dispenser \[of fruits actions\]
+10.33. Of the syllables, I am A; of the compounds, the Dvandva; none but Me, is the immortal Time; I am the dispenser \[of fruits actions\]
 facing on all sides.
 
 </details>
@@ -368,27 +362,21 @@ facing on all sides.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.33 Of the letters I am the letter a, and of the group of compund
-words I am (the compound called) Dvandva. \[Dvandva: A compound of two
-or more words which, if not compounded, would stand in the same case and
-be connected by the conjunction 'and'.-Tr.\] I Mayself am the infinite
-time; I am the Dispenser with faces everywhere.
+10.33 Of the letters I am the letter a, and of the group of compund words I am (the compound called) Dvandva. \[Dvandva: A compound of two or more words which, if not compounded, would stand in the same case and be connected by the conjunction 'and'.-Tr.\] I Mayself am the infinite time; I am the Dispenser with faces everywhere.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.33 Of letters I am A; I am the copulative in compound words; I am
-Time inexhaustible; and I am the all-pervading Preserver.
+10.33 Of letters I am A; I am the copulative in compound words; I am Time inexhaustible; and I am the all-pervading Preserver.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.33 Of letters, I am the alphabet 'a'. Of compound words, I am the
-Dvandva (copulative). I am Myself imperishable Time. I am the Creator,
+10.33 Of letters, I am the alphabet 'a'. Of compound words, I am the Dvandva (copulative). I am Myself imperishable Time. I am the Creator,
 facing every side.
 
 </details>
@@ -396,10 +384,7 @@ facing every side.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/33_axarANAmakAro-smi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.33 Among the letters of the alphabets, the letter 'A' I am and the
-dual among the compounds. I am verily the inexhaustible or everlasting
-time; I am the dispenser (of the fruits of actions) having faces in all
-directions.
+10.33 Among the letters of the alphabets, the letter 'A' I am and the dual among the compounds. I am verily the inexhaustible or everlasting time; I am the dispenser (of the fruits of actions) having faces in all directions.
 
 </details>
 </div>
@@ -408,14 +393,8 @@ directions.
 
 10.33 अक्षराणाम् among letters; अकारः the letter A; अस्मि (I) am;
 द्वन्द्वः the dual; सामासिकस्य among all compounds; च and; अहम् I; एव
-verily; अक्षयः the inexhaustible or everlasting; कालः time; धाता the
-dispenser; अहम् I; विश्वतोमुखः the Allfaced (or having faces in all
-directions).Commentary Among the alphabets I am the letter A. Among the
-various kinds of compounds used in Sanskrit language I am the Dvandva
-(union of the two); the copulative.Time here refers to the moment; the
-ultimate element of time or to Paramesvara; the Supreme Lord Who is the
-time of even time; since He is beyond time.As the Supreme Being is
-allpervading it is said that He has faces in all directions.
+verily; अक्षयः the inexhaustible or everlasting; कालः time; धाता the dispenser; अहम् I; विश्वतोमुखः the Allfaced (or having faces in all directions).Commentary Among the alphabets I am the letter A. Among the various kinds of compounds used in Sanskrit language I am the Dvandva
+(union of the two); the copulative.Time here refers to the moment; the ultimate element of time or to Paramesvara; the Supreme Lord Who is the time of even time; since He is beyond time.As the Supreme Being is allpervading it is said that He has faces in all directions.
 
 </details>
 </div>

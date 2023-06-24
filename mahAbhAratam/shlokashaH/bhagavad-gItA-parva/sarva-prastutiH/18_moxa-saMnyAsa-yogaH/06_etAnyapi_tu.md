@@ -501,42 +501,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.6. Even these actions too must be performed by relinishing attachment
-and fruits : This is my considered best opinion, O son of Prtha !
+18.6. Even these actions too must be performed by relinishing attachment and fruits : This is my considered best opinion, O son of Prtha !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.6 But even these actions have to be undertaken by renouncing
-attachment and (hankering for) results. This is My firm and best
-conclusion, O Parhta.
+18.6 But even these actions have to be undertaken by renouncing attachment and (hankering for) results. This is My firm and best conclusion, O Parhta.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.6 But they should be done with detachment and without thought of
-recompense. This is my final judgment.
+18.6 But they should be done with detachment and without thought of recompense. This is my final judgment.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.6 It is My decided and final view that even these acts should be
-done, O Arjuna, with relinishment of attachment and the fruits thereof.
+18.6 It is My decided and final view that even these acts should be done, O Arjuna, with relinishment of attachment and the fruits thereof.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/06_etAnyapi_tu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.6 But even these actions should be performed leaving aside attachment
-and the desire for rewards, O Arjuna; this is My certain and best
-conviction.
+18.6 But even these actions should be performed leaving aside attachment and the desire for rewards, O Arjuna; this is My certain and best conviction.
 
 </details>
 </div>
@@ -546,28 +539,11 @@ conviction.
 18.6 एतानि these; अपि even; तु but; कर्माणि actions; सङ्गम् attachment;
 त्यक्त्वा leaving; फलानि fruits; च and; कर्तव्यानि should be performed;
 इति thus; मे My; पार्थ O Arjuna; निश्चितम् certain; मतम् belief; उत्तमम्
-best.Commentary This is a summary of the doctrine of Karma Yoga
-enunciated before on several occasions. The fault of defect of Karma is
-certainly not in the action itself; but in the expectation of reward and
-attachment.Etani api Even these Sacrifice; charity and austerity also;
-in the same way as other unselfish actions. Even these refers to acts of
-sacrifice; charity and austerity. Actions that are performed in an
-unselfish spirit without attachment and idea of agency; do not stand in
-the way of your obtaining emancipation. When actions are done without
-expectation of rewards; Rajas and Tamas are destroyed and the mind is
-filled with Sattva or purity. Actions done with the spirit of
-selflessness and with discrimination are instrumental in destroying the
-bonds of Karma (the law of cause and effect).The Lord said Hear from Me
-the conclusion or the final truth about renunciation (verse 4 above).
+best.Commentary This is a summary of the doctrine of Karma Yoga enunciated before on several occasions. The fault of defect of Karma is certainly not in the action itself; but in the expectation of reward and attachment.Etani api Even these Sacrifice; charity and austerity also;
+in the same way as other unselfish actions. Even these refers to acts of sacrifice; charity and austerity. Actions that are performed in an unselfish spirit without attachment and idea of agency; do not stand in the way of your obtaining emancipation. When actions are done without expectation of rewards; Rajas and Tamas are destroyed and the mind is filled with Sattva or purity. Actions done with the spirit of selflessness and with discrimination are instrumental in destroying the bonds of Karma (the law of cause and effect).The Lord said Hear from Me the conclusion or the final truth about renunciation (verse 4 above).
 Then He said with all the force of His authority that acts of sacrifice;
-charity and austerity should not be given up as they are purifiers of
-the wise. Even these actions should be performed; etc.; is only the
-conclusion of what the Lord has stated in verse 4.The word Api (even)
-implies that the acts of sacrifice; charity and austerity should be done
-by an aspirant although they bind one who has attachment to the actions
-and a desire for their reward.Just as the seeds of trees can be rendered
-barren by being scorched; so the aspirant burns the fruitbearing
-tendency of Karma through the abandonment of the desire for the reward.
+charity and austerity should not be given up as they are purifiers of the wise. Even these actions should be performed; etc.; is only the conclusion of what the Lord has stated in verse 4.The word Api (even)
+implies that the acts of sacrifice; charity and austerity should be done by an aspirant although they bind one who has attachment to the actions and a desire for their reward.Just as the seeds of trees can be rendered barren by being scorched; so the aspirant burns the fruitbearing tendency of Karma through the abandonment of the desire for the reward.
 
 </details>
 </div>

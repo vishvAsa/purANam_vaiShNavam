@@ -81,16 +81,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.28 Human beings etc., (i.e., bodies) exist as entities; their previous
-stages are unknown, their middle stages in the form of man etc., are
-known, and their (final) and future stages are unknown. As they thus
-exist in their own natural stages, there is no cause for grief. After
-thus saying that there is no cause for grief even according to the view
-which identifies the body with the self, Sri Krsna proceeds to say that
-it is hard to find one who can be said to have truly perceived the Atman
-or spoken about It or heard about It or gained a true conception of It
-by hearing. For the Atman, which is actually different from the body, is
-of a wonderful nature.
+2.28 Human beings etc., (i.e., bodies) exist as entities; their previous stages are unknown, their middle stages in the form of man etc., are known, and their (final) and future stages are unknown. As they thus exist in their own natural stages, there is no cause for grief. After thus saying that there is no cause for grief even according to the view which identifies the body with the self, Sri Krsna proceeds to say that it is hard to find one who can be said to have truly perceived the Atman or spoken about It or heard about It or gained a true conception of It by hearing. For the Atman, which is actually different from the body, is of a wonderful nature.
 
 </details>
 </div>
@@ -469,43 +460,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 2.28. O descendant of Bharata ! The beings have an unmanifest beginning,
-manifest middle and certainly the unmanifest end. On that account why
-mourning;
+manifest middle and certainly the unmanifest end. On that account why mourning;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.28 O descendant of Bharata, all beings remain unmanifest in the
-beginning;; they become manifest in the middle. After death they
-certainly become unmanifest. What lamentation can there be with regard
-to them;
+2.28 O descendant of Bharata, all beings remain unmanifest in the beginning;; they become manifest in the middle. After death they certainly become unmanifest. What lamentation can there be with regard to them;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.28 The end and the beginning of beings are unknown. We see only the
-intervening formations. Then what cause is there for grief;
+2.28 The end and the beginning of beings are unknown. We see only the intervening formations. Then what cause is there for grief;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.28 O Arjuna, beings have an unknown beginning, a known middle and an
-unknown end. What is there to grieve over in all this;
+2.28 O Arjuna, beings have an unknown beginning, a known middle and an unknown end. What is there to grieve over in all this;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/28_avyaktAdIni_bhUtA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.28 Beings are unmanifested in their beginning, manifested in their
-middle state, O Arjuna, and unmanifested again in their end. What is
-there to grieve about;
+2.28 Beings are unmanifested in their beginning, manifested in their middle state, O Arjuna, and unmanifested again in their end. What is there to grieve about;
 
 </details>
 </div>
@@ -515,24 +498,9 @@ there to grieve about;
 2.28 अव्यक्तादीनि unmanifested in the beginning; भूतानि beings;
 व्यक्तमध्यानि manifested in their middle state; भारत O Bharata;
 अव्यक्तनिधनानि unmanifested again in the end; एव also; तत्र there; का
-what; परिदेवना grief.Commentary The physical body is a combination of
-the five elements. It is seen by the physical eyes only after the five
-elements have entered into such combination. After death; the body
-disintegrates and the five elements go back to their source it cannot be
-seen. Therefore; the body can be seen only in the middle state. The
-relationship as son; friend; teacher; father; mother; wife; brother and
-sister is formed through the body on account of attachment and Moha
-(delusion). Just as planks unite and separate in a river; just as
-pilgrims unite and separate in a public inn; so also fathers; mothers;
-sons and brothers unite and separate in this world. This world is a very
-big public inn. People unite and separate.There is no pot in the
-beginning and in the end. Even if you see the pot in the middle; you
-should think and feel that it is illusory and does not really exist. So
-also there is no body in the beginning and in the end. That which does
-not exist in the beginning and in the end must be illusory in the middle
-also. You must think and feel that the body does not really exist in the
-middle as well.He who thus understands the nature of the body and all
-human relationships based on it; will not grieve.
+what; परिदेवना grief.Commentary The physical body is a combination of the five elements. It is seen by the physical eyes only after the five elements have entered into such combination. After death; the body disintegrates and the five elements go back to their source it cannot be seen. Therefore; the body can be seen only in the middle state. The relationship as son; friend; teacher; father; mother; wife; brother and sister is formed through the body on account of attachment and Moha
+(delusion). Just as planks unite and separate in a river; just as pilgrims unite and separate in a public inn; so also fathers; mothers;
+sons and brothers unite and separate in this world. This world is a very big public inn. People unite and separate.There is no pot in the beginning and in the end. Even if you see the pot in the middle; you should think and feel that it is illusory and does not really exist. So also there is no body in the beginning and in the end. That which does not exist in the beginning and in the end must be illusory in the middle also. You must think and feel that the body does not really exist in the middle as well.He who thus understands the nature of the body and all human relationships based on it; will not grieve.
 
 </details>
 </div>

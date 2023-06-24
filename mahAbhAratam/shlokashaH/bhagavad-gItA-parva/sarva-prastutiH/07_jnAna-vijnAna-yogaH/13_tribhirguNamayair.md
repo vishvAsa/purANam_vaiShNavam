@@ -101,29 +101,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/13_tribhirguNamayair.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.13 Now, in this way, the whole universe, consisting of animate and
-inanimate entities belonging to Me, evolves from time to time from Me
-only, is absorbed in Me, and abides in Me alone. It constitutes My body
-and has Me for its self. Whether in the causal state or in the state of
-effect, it is I who have all these entities as My modes, because all
-entities form My body. Thus, in regard to all these modes, I am superior
-to them, as I am their cause, principal, and as I possess a complex of
-countless auspicious attributes like knowledge, strength etc. In every
-way I remain as the highest being. There exists none higher than Myself.
-Such being the case, I am superior to these entities composed of the
-alities of Sattva, Rajas and Tamas - superior to them by My
-extraordinary attributes and by having these various modes for My
-enjoyment. I am the highest and immutable, i.e., I form a unity in
-Myself. This world constituted of gods, men, animals and immovables, and
-deluded by the three Gunas of Prakrti and its evolutes are inferior and
-transient. The forms of bodies, senses and objects of enjoyment
-comprising the world are there in accordance with their past Karmas. No
-one in the world knows Me. How is it possible that all experiencing
-beings think as enjoyable objects which are inferior, constituted of the
-Gunas and are transient, while You exist - You who are of the nature of
-unbounded and abundant bliss, who has an eternal unchanging form and who
-is the source of the enjoyableness of even the objects of the world; Sri
-Krsna replies:
+7.13 Now, in this way, the whole universe, consisting of animate and inanimate entities belonging to Me, evolves from time to time from Me only, is absorbed in Me, and abides in Me alone. It constitutes My body and has Me for its self. Whether in the causal state or in the state of effect, it is I who have all these entities as My modes, because all entities form My body. Thus, in regard to all these modes, I am superior to them, as I am their cause, principal, and as I possess a complex of countless auspicious attributes like knowledge, strength etc. In every way I remain as the highest being. There exists none higher than Myself.
+Such being the case, I am superior to these entities composed of the alities of Sattva, Rajas and Tamas - superior to them by My extraordinary attributes and by having these various modes for My enjoyment. I am the highest and immutable, i.e., I form a unity in Myself. This world constituted of gods, men, animals and immovables, and deluded by the three Gunas of Prakrti and its evolutes are inferior and transient. The forms of bodies, senses and objects of enjoyment comprising the world are there in accordance with their past Karmas. No one in the world knows Me. How is it possible that all experiencing beings think as enjoyable objects which are inferior, constituted of the Gunas and are transient, while You exist - You who are of the nature of unbounded and abundant bliss, who has an eternal unchanging form and who is the source of the enjoyableness of even the objects of the world; Sri Krsna replies:
 
 </details>
 </div>
@@ -459,8 +438,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/13_tribhirguNamayair.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.13. Being duluded by these three beings of the Strands, this entire
-world does not recognise Me Who am eternal and transcending these
+7.13. Being duluded by these three beings of the Strands, this entire world does not recognise Me Who am eternal and transcending these
 \[Strands\].
 
 </details>
@@ -468,36 +446,28 @@ world does not recognise Me Who am eternal and transcending these
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/13_tribhirguNamayair.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.13 All this world, deluded as it is by these three things made of the
-gunas (alities), does not know Me who am transcendental to these and
-undecaying.
+7.13 All this world, deluded as it is by these three things made of the gunas (alities), does not know Me who am transcendental to these and undecaying.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/13_tribhirguNamayair.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.13 The inhabitants of the world, misled by those natures which the
-Qualities have engendered, know not that I am higher than them all, and
-that I do not change.
+7.13 The inhabitants of the world, misled by those natures which the Qualities have engendered, know not that I am higher than them all, and that I do not change.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/13_tribhirguNamayair.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.13 The entire universe is deluded by these three states originating
-from the Gunas (of Prakrti), and fails to recognise Me, who am beyond
-them and immutable.
+7.13 The entire universe is deluded by these three states originating from the Gunas (of Prakrti), and fails to recognise Me, who am beyond them and immutable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/13_tribhirguNamayair.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.13 Deluded by these Natures (states or things) composed of the three
-alities of Nature all this world does not know Me as distinct from them
-and immutable.
+7.13 Deluded by these Natures (states or things) composed of the three alities of Nature all this world does not know Me as distinct from them and immutable.
 
 </details>
 </div>
@@ -507,14 +477,7 @@ and immutable.
 7.13 त्रिभिः by three; गुणमयैः composed of Gunas; भावैः by natures; एभिः
 by these; सर्वम् all; इदम् this; जगत् world; मोहितम् deluded; न not;
 अभिजानाति knows; माम् Me; एभ्यः from them; परम् higher; अव्ययम्
-immutable.Commentary Persons of this world are deluded by the three
-alities of Nature or Maya. Affection; attachment and infatuated love are
-all modifications of these alities. On account of delusion created by
-these three alities they are not able to break the worldly ties and to
-turn the mind towards the Supreme Soul; the Lord of the three
-alities.Avyayam Immutable or unchangeable or inexhaustible or
-imperishable. The Self is of one homogeneous essence. It has not got the
-six changes or modifications (Shad Bhava Vikaras) which the body has;
+immutable.Commentary Persons of this world are deluded by the three alities of Nature or Maya. Affection; attachment and infatuated love are all modifications of these alities. On account of delusion created by these three alities they are not able to break the worldly ties and to turn the mind towards the Supreme Soul; the Lord of the three alities.Avyayam Immutable or unchangeable or inexhaustible or imperishable. The Self is of one homogeneous essence. It has not got the six changes or modifications (Shad Bhava Vikaras) which the body has;
 viz.; existence; birth; growth; modification; decay and death.
 (Cf.VII.25)
 

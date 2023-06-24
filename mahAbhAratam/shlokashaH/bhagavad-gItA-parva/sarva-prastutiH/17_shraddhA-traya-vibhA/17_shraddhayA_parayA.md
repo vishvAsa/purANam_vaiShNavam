@@ -48,10 +48,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/17_shraddhayA_parayA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.17 The threefold austerity practised with supreme faith through the
-body, speech and mind by men who have no thoughts of any reward and who
-are devoted, viz., are imbued with the thought that it is the worship of
-the Supreme Person, they call such austerity as Sattvika.
+17.17 The threefold austerity practised with supreme faith through the body, speech and mind by men who have no thoughts of any reward and who are devoted, viz., are imbued with the thought that it is the worship of the Supreme Person, they call such austerity as Sattvika.
 
 </details>
 </div>
@@ -315,41 +312,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 17.17. This three-fold austerity, undertaken (observed) with best faith,
-by men who are maters of Yoga and have no desire for its fruits-they
-call it to be of the Sattva.
+by men who are maters of Yoga and have no desire for its fruits-they call it to be of the Sattva.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/17_shraddhayA_parayA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.17 When that threefold austerity is undertaken with supreme faith by
-people who do not hanker after results and are self-controlled, they
-speak of it as born of sattva.
+17.17 When that threefold austerity is undertaken with supreme faith by people who do not hanker after results and are self-controlled, they speak of it as born of sattva.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/17_shraddhayA_parayA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.17 These threefold austerities performed with faith, and without
-thought of reward, may truly be accounted Pure.
+17.17 These threefold austerities performed with faith, and without thought of reward, may truly be accounted Pure.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/17_shraddhayA_parayA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.17 The threefold austerity, practised with supreme faith by men who
-desire no fruit and are devoted - they call it austerity of Sattva.
+17.17 The threefold austerity, practised with supreme faith by men who desire no fruit and are devoted - they call it austerity of Sattva.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/17_shraddhayA_parayA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-17.17 This threefold austerity, practised by steadfast men, with the
-utmost faith, desiring no reward, they call Sattvic.
+17.17 This threefold austerity, practised by steadfast men, with the utmost faith, desiring no reward, they call Sattvic.
 
 </details>
 </div>
@@ -359,11 +350,7 @@ utmost faith, desiring no reward, they call Sattvic.
 17.17 श्रद्धया with faith; परया highest; तप्तम् practised; तपः
 austerity; तत् that; त्रिविधम् threefold; नरैः by men; अफलाकाङ्क्षिभिः
 desiring no fruit; युक्तैः steadfast; सात्त्विकम् Sattvic; परिचक्षते
-(they) declare.Commentary Trividham Threefold -- physical; vocal and
-mental.Yuktaih Steadfast Balanced in mind; unaffected in success and
-failure.Sraddhaya With faith With belief in the existence of God; in the
-words of the preceptor; in the teachings of the scriptures and in ones
-own Self.
+(they) declare.Commentary Trividham Threefold -- physical; vocal and mental.Yuktaih Steadfast Balanced in mind; unaffected in success and failure.Sraddhaya With faith With belief in the existence of God; in the words of the preceptor; in the teachings of the scriptures and in ones own Self.
 
 </details>
 </div>

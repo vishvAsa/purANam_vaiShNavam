@@ -78,23 +78,13 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 11.24 The term 'Nabhas' denotes the Supreme Heaven (Parama-Vyoman),
-which is beyond the Prakrti composed of the three Gunas as established
-by the Sruti passages such as: 'That is in the Imperishable Supreme
-Heaven' (Ma. Na. U., 1.2), 'Him, sun-coloured and beyond Tamas' (Sve.,
-3.8) 'The dweller beyond the Rajas' (Rg. S., 2.6.25.5) and 'He who is
-the president in the Supreme Heaven' (Rg. S., 8.9.17.7). This can be
-understood as implied in the statement that 'the form touches the
-Supreme Heaven.' It expresses the idea that it is the foundation of all
-- of the principle of the Prakrti with its conditions, and of the
-individual selves in all states. It has also been initially declared:
+which is beyond the Prakrti composed of the three Gunas as established by the Sruti passages such as: 'That is in the Imperishable Supreme Heaven' (Ma. Na. U., 1.2), 'Him, sun-coloured and beyond Tamas' (Sve.,
+3.8) 'The dweller beyond the Rajas' (Rg. S., 2.6.25.5) and 'He who is the president in the Supreme Heaven' (Rg. S., 8.9.17.7). This can be understood as implied in the statement that 'the form touches the Supreme Heaven.' It expresses the idea that it is the foundation of all
+- of the principle of the Prakrti with its conditions, and of the individual selves in all states. It has also been initially declared:
 'For by You alone are pervaded the interspace of heaven and earth ৷৷.'
-(11.20). 'Beholding Your form shining, multicoloured, and with yawning
-mouths and large and resplendent eyes, my inner being trembles in fear.
-I am unable to find support, namely, I am unable to find support for the
-body. I am unable to get peace of mind and of the senses. O Visnu,
-namely, O Pervader, beholding You pervading everything, incomparable in
-magnitude, extremely wonderful and terrible, I find my limbs ivering and
-my senses agitated.' Such is the meaning.
+(11.20). 'Beholding Your form shining, multicoloured, and with yawning mouths and large and resplendent eyes, my inner being trembles in fear.
+I am unable to find support, namely, I am unable to find support for the body. I am unable to get peace of mind and of the senses. O Visnu,
+namely, O Pervader, beholding You pervading everything, incomparable in magnitude, extremely wonderful and terrible, I find my limbs ivering and my senses agitated.' Such is the meaning.
 
 </details>
 </div>
@@ -347,27 +337,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.24. As I observe You \[with form\] touching the sky; blazing; having
-many colours, mouths wide open, eyes blazing and large; I am terrified
-in my inner soul (mind); and I do not get courage and peace, O Visnu !
+11.24. As I observe You \[with form\] touching the sky; blazing; having many colours, mouths wide open, eyes blazing and large; I am terrified in my inner soul (mind); and I do not get courage and peace, O Visnu !
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.24 O Visnu, verily, seeing Your form touching heaven, blazing, with
-many colours, open-mouthed, with fiery large eyes, I , becoming
-terrified in my mind, do not find steadiness and peace.
+11.24 O Visnu, verily, seeing Your form touching heaven, blazing, with many colours, open-mouthed, with fiery large eyes, I , becoming terrified in my mind, do not find steadiness and peace.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.24 When I see Thee, touching the Heavens, glowing with colour, with
-open mouth and wide open fiery eyes, I am terrified. O My Lord! My
-courage and peace of mind desert me.
+11.24 When I see Thee, touching the Heavens, glowing with colour, with open mouth and wide open fiery eyes, I am terrified. O My Lord! My courage and peace of mind desert me.
 
 </details>
 </div>
@@ -375,30 +359,23 @@ courage and peace of mind desert me.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 11.24 When I behold You touching the Supreme Heaven, shining,
-multicoloured, with yawning mouths and large resplendent eyes, my inner
-being trembles in fear. I am unable to find support or peace, O Visnu.
+multicoloured, with yawning mouths and large resplendent eyes, my inner being trembles in fear. I am unable to find support or peace, O Visnu.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.24 On seeing Thee (the Cosmic Form) touching the sky, shining in many
-colours, with mouths wide open, with large fiery eyes, I am terrified at
-heart and find neither courage nor peace, O Vishnu.
+11.24 On seeing Thee (the Cosmic Form) touching the sky, shining in many colours, with mouths wide open, with large fiery eyes, I am terrified at heart and find neither courage nor peace, O Vishnu.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/24_nabhaHspRshan.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-11.24 नभःस्पृशम् touching the sky; दीप्तम् shining; अनेकवर्णम् in many
-colours; व्यात्ताननम् with mouths wide open; दीप्तविशालनेत्रम् with
-larve fiery eyes; दृष्ट्वा having seen; हि verily; त्वाम् Thee;
+11.24 नभःस्पृशम् touching the sky; दीप्तम् shining; अनेकवर्णम् in many colours; व्यात्ताननम् with mouths wide open; दीप्तविशालनेत्रम् with larve fiery eyes; दृष्ट्वा having seen; हि verily; त्वाम् Thee;
 प्रव्यथितान्तरात्मा terrified at heart; धृतिम् courage; न not; विन्दामि
-(I) find; शमम् peace; च and; विष्णो O Vishnu.Commentary Dhriti also
-means patience and strength. Sama also means control.The vision of the
-Cosmic Form has frightened Arjuna considerably.
+(I) find; शमम् peace; च and; विष्णो O Vishnu.Commentary Dhriti also means patience and strength. Sama also means control.The vision of the Cosmic Form has frightened Arjuna considerably.
 
 </details>
 </div>

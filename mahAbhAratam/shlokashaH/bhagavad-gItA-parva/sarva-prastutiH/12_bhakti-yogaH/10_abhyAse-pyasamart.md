@@ -61,16 +61,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-12.10 If you are incapable of practising remembrance in the above
-manner, then devote yourself to 'My deeds.' Such devotional acts consist
-in the construction of temples, laying out temple gardens, lighting up
-lamps therein, sweeping, sprinkling water and plastering the floor of
-holy shrines, gathering flowers, engaging in My worship, chanting My
-names, circumambulating My temples, praising Me, prostrating before Me
-etc. Do these with great affection. Even performing such works which are
-exceedingly dear to Me, you will, before long, get your mind steadily
-focused on Me as through the practice of repetitions, and will gain
-perfection through attaining Me.
+12.10 If you are incapable of practising remembrance in the above manner, then devote yourself to 'My deeds.' Such devotional acts consist in the construction of temples, laying out temple gardens, lighting up lamps therein, sweeping, sprinkling water and plastering the floor of holy shrines, gathering flowers, engaging in My worship, chanting My names, circumambulating My temples, praising Me, prostrating before Me etc. Do these with great affection. Even performing such works which are exceedingly dear to Me, you will, before long, get your mind steadily focused on Me as through the practice of repetitions, and will gain perfection through attaining Me.
 
 </details>
 </div>
@@ -369,34 +360,28 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 12.10. If you are incapable of doing a \[steady\] practice, then have,
-your chief aim, of performing actions for Me. Even by performing actions
-for Me, You shall attain success.
+your chief aim, of performing actions for Me. Even by performing actions for Me, You shall attain success.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-12.10 If you are unable even to practise, be intent on works for Me. By
-undertaking works for Me as well, you will attain perfection. \[Identity
-with Brahman.\]
+12.10 If you are unable even to practise, be intent on works for Me. By undertaking works for Me as well, you will attain perfection. \[Identity with Brahman.\]
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-12.10 And if thou are not strong enough to practise concentration, then
-devote thyself to My service, do all thine acts for My sake, and thou
-shalt still attain the goal.
+12.10 And if thou are not strong enough to practise concentration, then devote thyself to My service, do all thine acts for My sake, and thou shalt still attain the goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-12.10 If you are incapable of even this practice of repetition, then
-devote yourself to My deeds (service). For even by working for My sake,
+12.10 If you are incapable of even this practice of repetition, then devote yourself to My deeds (service). For even by working for My sake,
 you will attain perfection.
 
 </details>
@@ -404,8 +389,7 @@ you will attain perfection.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/12_bhakti-yogaH/10_abhyAse-pyasamart.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-12.10 If thou art unable to practise even this Abhyasa Yoga, be thou
-intent on doing actions for My sake; even by doing actions for My sake,
+12.10 If thou art unable to practise even this Abhyasa Yoga, be thou intent on doing actions for My sake; even by doing actions for My sake,
 thou shalt attain perfection.
 
 </details>
@@ -414,28 +398,12 @@ thou shalt attain perfection.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 12.10 अभ्यासे in practice; अपि also; असमर्थः not capable; असि (thou)
-art; मत्कर्मपरमः intent on doing actions for My sake; भव be; मदर्थम् for
-My sake; अपि also; कर्माणि actions; कुर्वन् by doing; सिद्धिम्
-perfection; अवाप्स्यसि thou shalt attain.Commentary Even if thou doest
-mee actions for My sake without practising Yoga thou shalt attain
-perfection. Thou shalt first attain purity of mind; then Yoga
-(concentration and meditation); then knowledge and then ultimately
-perfection (Moksha or liberation). Serving humanity with Narayana Bhava
-(feeling that one is serving the Lord in all) is also doing actions for
-the sake of the Lord. such service should go hand in hand with worship
-of God and meditation.If you are not able to practise the Yoga of
-meditation mentioned in verse 8 or the Yoga of constant practice
-mentioned in verse 9; hear the glorious stories connected with the Lord
-by attending religious discourses; conducted by the devotees of the
-Lord; sing Kirtan and the praises of the Lord.Practise the nine kinds of
-Bhagavata Dharma (the nine modes of devotion). viz.; (1) hearing the
-Lilas (glorious and divine sports) of the Lord (Sravana); (2) singing
-His Names (Kirtana); (3) constant remembrance of the Lord and constant
-repetition of His Names or Mantras (Smarana); (4) service of His feet
-(Padasevana); (5) offering flowers in worship (Archana); (6) doing
-prostrations to the Lord (Vandana); (7) becoming His servant (Dasya);
-(8) friendship with Him (Sakhya); and (9) doing total selfsurrender to
-the Lord (Atmanivedana). (Cf.III.19XI.55)
+art; मत्कर्मपरमः intent on doing actions for My sake; भव be; मदर्थम् for My sake; अपि also; कर्माणि actions; कुर्वन् by doing; सिद्धिम्
+perfection; अवाप्स्यसि thou shalt attain.Commentary Even if thou doest mee actions for My sake without practising Yoga thou shalt attain perfection. Thou shalt first attain purity of mind; then Yoga
+(concentration and meditation); then knowledge and then ultimately perfection (Moksha or liberation). Serving humanity with Narayana Bhava
+(feeling that one is serving the Lord in all) is also doing actions for the sake of the Lord. such service should go hand in hand with worship of God and meditation.If you are not able to practise the Yoga of meditation mentioned in verse 8 or the Yoga of constant practice mentioned in verse 9; hear the glorious stories connected with the Lord by attending religious discourses; conducted by the devotees of the Lord; sing Kirtan and the praises of the Lord.Practise the nine kinds of Bhagavata Dharma (the nine modes of devotion). viz.; (1) hearing the Lilas (glorious and divine sports) of the Lord (Sravana); (2) singing His Names (Kirtana); (3) constant remembrance of the Lord and constant repetition of His Names or Mantras (Smarana); (4) service of His feet
+(Padasevana); (5) offering flowers in worship (Archana); (6) doing prostrations to the Lord (Vandana); (7) becoming His servant (Dasya);
+(8) friendship with Him (Sakhya); and (9) doing total selfsurrender to the Lord (Atmanivedana). (Cf.III.19XI.55)
 
 </details>
 </div>

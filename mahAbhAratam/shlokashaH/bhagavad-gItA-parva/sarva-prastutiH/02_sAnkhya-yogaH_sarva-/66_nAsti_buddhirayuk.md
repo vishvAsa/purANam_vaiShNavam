@@ -35,20 +35,33 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.66।। अथ
+पूर्वोक्तान्योन्याश्रयफलभूतामात्मदर्शनासिद्धिंबुद्धिनाशात्प्रणश्यति 2।63
+इत्येतद्विवरणरूपेणानूद्य ततः परमप्रयोजनस्यापि अलाभप्रकार उच्यते
+नास्तीति। युक्त आसीत मत्परः 2।61 इति पूर्वोक्तस्य
+निवृत्तिरयुक्तशब्देनोच्यत इति तात्पर्येणाह मयीति। यततो ह्यपि 2।60 इति
+पूर्वोक्तं स्मारयति स्वयत्नेनेति। नास्तीत्यनेनाभिप्रेतमाह
+कदाचिदपीत्यादिना। अतिचिरकालप्रयासेनापीत्यर्थः। द्वितीयपादस्थमयुक्तस्येति
+पदं  
+श्रृङ्खलौचित्यायायुक्तत्वफलभूतबुद्ध्यभावलक्षकमिति तात्पर्येणाह अत एवेति।
+यद्वा तस्येत्ययुक्तपरामर्शः। अत एवेति तु बुद्ध्यभावादेवेत्यर्थः। अथवा
+परम्परया हेतुत्वमभिप्रेत्यायुक्तत्वादेवेति विवक्षा
+भिन्नविषयभावनान्तरनिषेधायोगात्तद्भावनेत्युक्तम्। रसोऽप्यस्य परं दृष्ट्वा
+निवर्तते 2।59रागद्वेषवियुक्तैस्तु 2।34सुखेषु विगतस्पृहः 2।56
+इत्याद्यानुगुण्यन शान्ति विशिनष्टि विषयस्पृहा शान्तिरिति। अशान्तस्यैव
+स्वर्गादिसुखलाभादमृतत्वप्रकरणसिद्धं सुखस्य विशेषमाह नित्यनिरतिशयेति।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.66 In him who does not focus his mind on Me but is engaged only in the
-control of senses by his own exertion, the Buddhi or the right
-disposition that is concerned with the pure self never arises. Therefore
-he fails in the practice of meditation on the self. In one who cannot
-think of the pure self, there arises the desire for sense objects; in
-him serenity does not arise. How can eternal and unsurpassed bliss be
-generated in him who is not serene but is attached to sense-objects;
-\[The idea is that without the aid of devotion to God, the effort to
-control the senses by one's will power alone will end in failure.\] Sri
-Krsna speaks again of the calamity that befalls one who does not
-practise the control of the senses in the way prescribed above:
+2.66 In him who does not focus his mind on Me but is engaged only in the control of senses by his own exertion, the Buddhi or the right disposition that is concerned with the pure self never arises. Therefore he fails in the practice of meditation on the self. In one who cannot think of the pure self, there arises the desire for sense objects; in him serenity does not arise. How can eternal and unsurpassed bliss be generated in him who is not serene but is attached to sense-objects;
+\[The idea is that without the aid of devotion to God, the effort to control the senses by one's will power alone will end in failure.\] Sri Krsna speaks again of the calamity that befalls one who does not practise the control of the senses in the way prescribed above:
 
 </details>
 </div>
@@ -363,64 +376,43 @@ _________________
 
 2.66. The capacity to decide is not for one who is not a master of Yoga;
 and concentration of mind is not for one who is not a master of Yoga;
-and peace is not for one who does not concentrate; wherefrom could
-happiness come to one who has no peace ;
+and peace is not for one who does not concentrate; wherefrom could happiness come to one who has no peace ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.66 For the unsteady there is no wisdom, and there is no meditation for
-the unsteady man. And for an unmeditative man there is no peace. How can
-there be happiness for one without peace;
+2.66 For the unsteady there is no wisdom, and there is no meditation for the unsteady man. And for an unmeditative man there is no peace. How can there be happiness for one without peace;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.66 Right discrimination is not for him who cannot concentrate. Without
-concentration, there cannot be meditation; he who cannot meditate must
-not expect peace; and without peace, how can anyone expect happiness;
+2.66 Right discrimination is not for him who cannot concentrate. Without concentration, there cannot be meditation; he who cannot meditate must not expect peace; and without peace, how can anyone expect happiness;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.66 There is no Buddhi for the unintegrated, nor for him is there
-contemplation of the self, and for him without contemplation of the
-self, there is no peace; and for one lacking peace, where is happiness;
+2.66 There is no Buddhi for the unintegrated, nor for him is there contemplation of the self, and for him without contemplation of the self, there is no peace; and for one lacking peace, where is happiness;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.66 There is no knowledge of the Self to the unsteady and to the
-unsteady no meditation is possible, and to the unmeditative there can be
-no peace, and to the man who has no peace, how can there be happiness;
+2.66 There is no knowledge of the Self to the unsteady and to the unsteady no meditation is possible, and to the unmeditative there can be no peace, and to the man who has no peace, how can there be happiness;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/66_nAsti_buddhirayuk.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.66 न not; अस्ति is; बुद्धिः knowledge (of the Self); अयुक्तस्य of the
-unsteady; न not; च and; अयुक्तस्य of the unsteady; भावना meditation; न
-not; च and; अभावयतः of the unmeditated; शान्तिः peace; अशान्तस्य of the
-peaceless; कुतः whence; सुखम् happiness.Commentary The man who cannot
-fix his mind in meditation cannot have knowledge of the Self. The
-unsteady man cannot practise meditation. He cannot have even intense
-devotion to Selfknowledge nor can he have burning longing for liberation
-or Moksha. He who does not practise meditation cannot possess peace of
-mind. How can the man who has no peace of mind enjoy happinessDesire or
-Trishna (thirsting for senseobjects) is the enemy of peace. There cannot
-be an iota or tinge of happiness for a man who is thirsting for sensual
-objects. The mind will be ever restless; and will be hankering for the
-objects. Only when this thirsting dies; does man enjoy peace. Only then
-can he meditate and rest in the Self.
+2.66 न not; अस्ति is; बुद्धिः knowledge (of the Self); अयुक्तस्य of the unsteady; न not; च and; अयुक्तस्य of the unsteady; भावना meditation; न
+not; च and; अभावयतः of the unmeditated; शान्तिः peace; अशान्तस्य of the peaceless; कुतः whence; सुखम् happiness.Commentary The man who cannot fix his mind in meditation cannot have knowledge of the Self. The unsteady man cannot practise meditation. He cannot have even intense devotion to Selfknowledge nor can he have burning longing for liberation or Moksha. He who does not practise meditation cannot possess peace of mind. How can the man who has no peace of mind enjoy happinessDesire or Trishna (thirsting for senseobjects) is the enemy of peace. There cannot be an iota or tinge of happiness for a man who is thirsting for sensual objects. The mind will be ever restless; and will be hankering for the objects. Only when this thirsting dies; does man enjoy peace. Only then can he meditate and rest in the Self.
 
 </details>
 </div>

@@ -35,14 +35,35 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+
+
+।।2.54।। प्रश्नरूपस्योत्तरश्लोकस्यावतारं तत्र पूर्वोत्तरार्धयोः
+क्रमान्निष्कृष्टप्रश्नार्थं चाह एवमिति। पूर्वार्धस्याभिप्रेतं
+वक्तुमन्वयं तावदाह समाधीति। समाधिरत्र पूर्वनिरुक्तप्रकारं मनः। तत्र
+स्थितिः तद्वशीकरणेनावस्थानम्। किं प्रभाषेत इत्यनेन
+पुनरुक्तिपरिहारायस्थितप्रज्ञस्य का भाषा इत्यत्र
+कर्तृतयाऽन्वयशङ्कामपाकरोति को वाचकः शब्द इति। ननुस्थितप्रज्ञः इत्येव
+वाचके सिद्धे किं वाचकान्तरं पृच्छ्यते किं चात्र वाचकप्रश्नस्य प्रयोजनं
+इत्यत्राह तस्येति। केनचिद्वाचकेन हि
+कस्यचित्प्रकारभूतप्रवृत्तिनिमित्तविशिष्टं स्वरूपं निर्देष्टव्यमिति भावः।
+स्थितप्रज्ञशब्दात् स्थितधीशब्दस्यार्थान्तरपरत्वभ्रमनिरासायस्थितप्रज्ञः
+इति पूर्वार्धोक्तशब्द एवात्रावर्तितः। किञ्च
+
+भाषणादिकमितिकिं प्रभाषेत इत्यादयः किंशब्दाः क्रियाविशेषणतयाऽन्वीयमानाः
+क्रियाप्रकारप्रश्नपरा इति भावः। किं प्रभाषेत इति वाचिकेकिं व्रजेत इति
+कायिके च पृष्टेकिमासीत इति मानसपरम् ध्यानार्थत्वादत्रासनस्य।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.54 Arjuna said What is the speech of a man of firm wisdom who is
-abiding with the mind controlled; What words can describe his state;
-What is his nature; This is the meaning of 'How does a man of firm
-wisdom speak etc.;' His specific conduct is now described as his nature
-can be inferred therefrom.
+2.54 Arjuna said What is the speech of a man of firm wisdom who is abiding with the mind controlled; What words can describe his state;
+What is his nature; This is the meaning of 'How does a man of firm wisdom speak etc.;' His specific conduct is now described as his nature can be inferred therefrom.
 
 </details>
 </div>
@@ -447,18 +468,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.54. Arjuna said O Kesava ! What is the connotation of sthita-prajna (a
-man-of-stabilized-intellect), \[applied\] to a man fixed in
-concentration ; What would sthira-dhih (the fixed-minded) convey ; Where
-would the fixed-minded abide ; And what would be reach ;
+2.54. Arjuna said O Kesava ! What is the connotation of sthita-prajna (a man-of-stabilized-intellect), \[applied\] to a man fixed in concentration ; What would sthira-dhih (the fixed-minded) convey ; Where would the fixed-minded abide ; And what would be reach ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.54 Arjuna said O kesava, what is the description of a man of steady
-wisdom who is Self-absorbed; How does the man of steady wisdom speak;
+2.54 Arjuna said O kesava, what is the description of a man of steady wisdom who is Self-absorbed; How does the man of steady wisdom speak;
 How does he sit; How does he move about;
 
 </details>
@@ -466,27 +483,21 @@ How does he sit; How does he move about;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.54 Arjuna asked: My Lord! How can we recognise the saint who has
-attained Pure Intellect, who has reached this state of Bliss, and whose
-mind is steady; how does he talk, how does he live, and how does he act;
+2.54 Arjuna asked: My Lord! How can we recognise the saint who has attained Pure Intellect, who has reached this state of Bliss, and whose mind is steady; how does he talk, how does he live, and how does he act;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.54 Arjuna said What is the mode of speech of him who is of firm
-wisdom, who is established in the control of the mind; What will a man
-of firm wisdom speaks, O Krsna; How does he sit; How does he move;
+2.54 Arjuna said What is the mode of speech of him who is of firm wisdom, who is established in the control of the mind; What will a man of firm wisdom speaks, O Krsna; How does he sit; How does he move;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/54_sthitaprajnasya_k.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.54 Arjuna said What, O Krishna, is the description of him who has
-steady wisdom, and is merged in the superconscious state; How does one
-of steady wisdom speak, how does he sit, how does he walk;
+2.54 Arjuna said What, O Krishna, is the description of him who has steady wisdom, and is merged in the superconscious state; How does one of steady wisdom speak, how does he sit, how does he walk;
 
 </details>
 </div>
@@ -494,16 +505,9 @@ of steady wisdom speak, how does he sit, how does he walk;
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.54 स्थितप्रज्ञस्य of the (sage of) steady wisdom; का what; भाषा
-description; समाधिस्थस्य of the (man) merged in the superconscious
-state; केशव O Kesava; स्थितधीः the sage of steady wisdom; किम् what
+description; समाधिस्थस्य of the (man) merged in the superconscious state; केशव O Kesava; स्थितधीः the sage of steady wisdom; किम् what
 (how); प्रभाषेत speaks; किम् what (how); आसीत sits; व्रजेत walks; किम्
-what (how).Commentary Arjuna wants to know from Lord Krishna the
-characteristic marks of one who is established in the Self in Samadhi
-how he speaks; how he sits; how he moves about.The characteristic marks
-of the sage of steady wisdom and the means of attaining that steady
-knowledge of the Self are described in the verses from 55 to 72 of this
-chapter.Steady wisdom is settled knowledge of ones identity with Brahman
-attained by direct realisation. (Cf.XIV.21; 27).
+what (how).Commentary Arjuna wants to know from Lord Krishna the characteristic marks of one who is established in the Self in Samadhi how he speaks; how he sits; how he moves about.The characteristic marks of the sage of steady wisdom and the means of attaining that steady knowledge of the Self are described in the verses from 55 to 72 of this chapter.Steady wisdom is settled knowledge of ones identity with Brahman attained by direct realisation. (Cf.XIV.21; 27).
 
 </details>
 </div>

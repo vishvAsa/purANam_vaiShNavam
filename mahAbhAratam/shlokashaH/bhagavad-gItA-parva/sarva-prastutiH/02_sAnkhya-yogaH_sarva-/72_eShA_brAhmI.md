@@ -42,31 +42,49 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.72।। अनयोः श्लोकयोः 70।71 विषयानुभवनिवृत्तिलक्षणासा निशा 69 इति
+पूर्वश्लोकोक्तशान्तिरुक्ताएषा इति श्लोकेन परमप्रयोजनतया प्रकृतायाः
+संसारनिवृत्तिलक्षणशान्तेरुपसंहारः क्रियते यद्वा श्लोकत्रये
+शान्तिनिर्वाणशब्दाभ्यामेकमेव फलमुच्यते। ज्ञानं लब्ध्वा परां
+शान्तिमचिरेणाधिगच्छति 4।69 इत्यत्रपरं निर्वाणमाप्नोति इति हि
+व्याख्यास्यति। एषा ब्राह्मी इति श्लोकेनाध्यायार्थस्य निगमनं
+फलाव्यभिचारस्थापनं च। एषा इति निर्देशस्य
+पूर्वोक्तनिखिलप्रकारपरामर्शित्वात्तं प्रकारमाह नित्येति। स्थितधीर्लक्षं
+यस्याः सा स्थितधीलक्षा ज्ञानयोगाख्यस्थितप्रज्ञतासाधनभूतेत्यर्थः।
+ब्राह्मीत्यत्र तद्धितविवक्षितसम्बन्धविशेषं दर्शयति ब्रह्मप्रापिकेति।
+एनामित्यन्वादेशोऽपि सप्रकारपरामर्शीति व्यञ्जयति ईदृशीमिति।
+मोहनिषेधफलितमाह पुनरिति। अन्तकाल इत्युत्क्रान्तिकालभ्रमव्युदासायाह
+अन्तिमेऽपि वयसीति। उत्तमे चेद्वयसि साधुवृत्तः इत्यादिवत्। एतेन बाल्यादिषु
+विषयप्रवणस्यापि पश्चान्निर्विण्णस्याधिकारः सूचितः। किं
+पुनर्ब्रह्मचर्यादिकमारभ्य स्थितस्येति भावः। स्थित्यां
+स्थितिस्तत्सम्बन्धः। षष्ठीसमासभ्रमापाकरणायाह निर्वाणमयं ब्रह्मेति।
+निर्वाणब्रह्मशब्दयोः अर्वाचीनविषयतामाह सुखेति। ननु
+नित्यात्मज्ञानतत्साक्षात्कारयोरपि प्रकृतत्वात्
+कर्मनिष्ठामात्रनिगमनपरोऽयं श्लोक इत्ययुक्तमिति शङ्कायां
+प्रधानभूततदनुबन्धेन अन्यकथनमिति दर्शयन् उत्तराध्यायचतुष्टयसङ्गतिं
+वक्तुमुक्तमर्थं च सङ्कलय्य दर्शयन्नित्यात्मेत्यादिकं
+द्वितीयार्थसङ्ग्रहश्लोकमपि व्याख्याति एवमिति। मोहस्य हेतुस्वरूपकार्याणि
+विशदयति आत्मेत्यादिना निवृत्तस्येत्यन्तेन। व्याख्यानव्याख्येयात्मना
+सङ्ग्रहश्लोकस्थसमासान्तर्गतपदद्वन्द्वद्वयस्य यथासङ्ख्य सम्बन्धं व्यनक्ति
+नित्यात्मेत्यादिना। साङ्ख्यबुद्धिरिति। कर्मयोगावाक्एषा तेऽभिहिता साङ्ख्ये
+बुद्धिः 2।39 इत्युक्तमात्मतत्त्वज्ञानमुच्यते तद्व्यक्त्यर्थं
+हिनित्यात्मविषयेत्युक्तम्। ज्ञानयोगस्तु कर्मयोगसाध्यतयानन्तरं
+पृथगेवोपादीयते। स्थितधीलक्षेति।
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.72 This state of performing disinterested work which is preceded by
-the knowledge of the eternal self and which is characterised by firm
-wisdom, is the Brahmi-state, which secures the attainment of the Brahman
+2.72 This state of performing disinterested work which is preceded by the knowledge of the eternal self and which is characterised by firm wisdom, is the Brahmi-state, which secures the attainment of the Brahman
 (the self). After attaining such a state, he will not be deluded, i.e.,
-he will not get again the mortal coil. Reaching this state even during
-the last years of life, he wins the blissful Brahman (the self) i.e.,
-which is full of beatitude. The meaning is that he attains the self
-which is constituted of nothing but bliss. Thus in the second chapter,
-the Lord wanted to remove the delusion of Arjuna, who did not know the
-real nature of the self and also did not realize that the activity named
-'war' (here an ordained duty) is a means for attaining the nature of
-Sankhya or the self. Arjuna was under the delusion that the body is
-itself the self, and dominated by that delusion, had retreated from
-battle. He was therefore taught the knowledge called 'Sankhya' or the
-understanding of the self, and Yoga or what is called the path of
-practical work without attachment. These together have as their
-objective the attainment of steady wisdom (Sthitaprajnata) This has been
-explained in the following verse by Sri Yamunacarya: Sankhya and Yoga,
-which comprehend within their scope the understanding of the eternal
-self and the practical way of disinterested action respectively, were
-imparted in order to remove Arjuna's delusion. Through them the state of
-firm wisdom can be reached.
+he will not get again the mortal coil. Reaching this state even during the last years of life, he wins the blissful Brahman (the self) i.e.,
+which is full of beatitude. The meaning is that he attains the self which is constituted of nothing but bliss. Thus in the second chapter,
+the Lord wanted to remove the delusion of Arjuna, who did not know the real nature of the self and also did not realize that the activity named
+'war' (here an ordained duty) is a means for attaining the nature of Sankhya or the self. Arjuna was under the delusion that the body is itself the self, and dominated by that delusion, had retreated from battle. He was therefore taught the knowledge called 'Sankhya' or the understanding of the self, and Yoga or what is called the path of practical work without attachment. These together have as their objective the attainment of steady wisdom (Sthitaprajnata) This has been explained in the following verse by Sri Yamunacarya: Sankhya and Yoga,
+which comprehend within their scope the understanding of the eternal self and the practical way of disinterested action respectively, were imparted in order to remove Arjuna's delusion. Through them the state of firm wisdom can be reached.
 
 </details>
 </div>
@@ -656,39 +674,29 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.72. O son of Prtha ! This is the Brahmanic state; having attained
-this, one never gets deluded \[again\]; and even by remaining in this
-\[for a while\] one attains at the time of death, the Brahman, the
-Tranil One.
+2.72. O son of Prtha ! This is the Brahmanic state; having attained this, one never gets deluded \[again\]; and even by remaining in this
+\[for a while\] one attains at the time of death, the Brahman, the Tranil One.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.72 O Partha, this is the state of being established in Brahman. One
-does not become deluded after attaining this. One attains identification
-with Brahman by being established in this state even in the closing
-years of one's life.
+2.72 O Partha, this is the state of being established in Brahman. One does not become deluded after attaining this. One attains identification with Brahman by being established in this state even in the closing years of one's life.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.72 O Arjuna! This is the state of the Self, the Supreme Spirit, to
-which if a man once attain, it shall never be taken from him. Even at
-the time of leaving the body, he will remain firmly enthroned there, and
-will become one with the Eternal."
+2.72 O Arjuna! This is the state of the Self, the Supreme Spirit, to which if a man once attain, it shall never be taken from him. Even at the time of leaving the body, he will remain firmly enthroned there, and will become one with the Eternal."
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/72_eShA_brAhmI.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.72 This is the Brahmi-state, O Arjuna. None attaining to this is
-deluded. By abiding in this state even at the hour of death, one wins
-the self.
+2.72 This is the Brahmi-state, O Arjuna. None attaining to this is deluded. By abiding in this state even at the hour of death, one wins the self.
 
 </details>
 </div>
@@ -696,8 +704,7 @@ the self.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 2.72 This is the Brahmic seat (eternal state), O son of Pritha.
-Attaining to this, none is deluded. Being established therein, even at
-the end of life, one attains to oneness with Brahman.
+Attaining to this, none is deluded. Being established therein, even at the end of life, one attains to oneness with Brahman.
 
 </details>
 </div>
@@ -707,18 +714,7 @@ the end of life, one attains to oneness with Brahman.
 2.72 एषा this; ब्राह्मी of Brahmic; स्थितिः state; पार्थ O Partha; न
 not; एनाम् this; प्राप्य having obtained; विमुह्यति is deluded; स्थित्वा
 being established; अस्याम् in this; अन्तकाले at the end of life; अपि
-even; ब्रह्मनिर्वाणम् oneness with Brahman; ऋच्छति attains.Commentary
-The state described in the previous verse -- to renounce everything and
-to live in Brahman -- is the Brahmic state or the state of Brahman. If
-one attains to this state one is never deluded. He attains Moksha if he
-stays in that state even at the hour of his death. It is needless to say
-that he who gets establised in Brahman throughout his life attains to
-the state of Brahman or,BrahmaNirvana (Cf.VIII.5;6).Maharshi Vidyaranya
-says in his Panchadasi that Antakala here means the moment at which
-Avidya or mutual superimposition of the Self and the notSelf ends.Thus
-in the Upanishads of the glorious Bhagavad Gita; the science of the
-Eternal; the scripture of Yoga; the dialogue between Sri Krishna and
-Arjuna; ends the second discourse entitledThe Sankhya Yoga.,
+even; ब्रह्मनिर्वाणम् oneness with Brahman; ऋच्छति attains.Commentary The state described in the previous verse -- to renounce everything and to live in Brahman -- is the Brahmic state or the state of Brahman. If one attains to this state one is never deluded. He attains Moksha if he stays in that state even at the hour of his death. It is needless to say that he who gets establised in Brahman throughout his life attains to the state of Brahman or,BrahmaNirvana (Cf.VIII.5;6).Maharshi Vidyaranya says in his Panchadasi that Antakala here means the moment at which Avidya or mutual superimposition of the Self and the notSelf ends.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the second discourse entitledThe Sankhya Yoga.,
 
 </details>
 </div>

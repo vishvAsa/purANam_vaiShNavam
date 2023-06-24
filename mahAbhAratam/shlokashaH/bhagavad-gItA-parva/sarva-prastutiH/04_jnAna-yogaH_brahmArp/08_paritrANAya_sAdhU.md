@@ -383,9 +383,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.8. For the protection of the good people, and for the destruction of
-evil-doers, and for the purpose of firmly establishing righteousness, I
-take birth in every age.
+4.8. For the protection of the good people, and for the destruction of evil-doers, and for the purpose of firmly establishing righteousness, I take birth in every age.
 
 </details>
 </div>
@@ -400,40 +398,29 @@ and establishing virtue, I manifest Myself in every age.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.8 To protect the righteous, to destroy the wicked and to establish the
-kingdom of God, I am reborn from age to age.
+4.8 To protect the righteous, to destroy the wicked and to establish the kingdom of God, I am reborn from age to age.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.8 For the protection of the good and also for the destruction of the
-wicked, for the establishment of Dharma, am I born from age to age.
+4.8 For the protection of the good and also for the destruction of the wicked, for the establishment of Dharma, am I born from age to age.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.8 For the protection of the good, for the destruction of the wicked
-and for the establishment of righteousness, I am born in every age.
+4.8 For the protection of the good, for the destruction of the wicked and for the establishment of righteousness, I am born in every age.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/04_jnAna-yogaH_brahmArp/08_paritrANAya_sAdhU.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-4.8 परित्राणाय for the protection; साधूनाम् of the good; विनाशाय for the
-destruction; च and; दुष्कृताम् of the wicked; धर्मसंस्थापनार्थाय for the
-establishment of righteousness; संभवामि (I) am born; युगे युगे in every
-age.Commentary Sadhunam The good who lead a life of righteousness; who
-utiles their bodies in the service of humanity; who are free from
-selfishness; lust and greed; and who devote their lives to divine
-contemplation.Dushkritam Evildoers who lead a life of unrighteousness;
-who break the laws of the society; who are vain and are dishonest and
-greedy; who injure others; who take possession of the property of others
-by force; and who commit atrocious crimes of various sorts.
+4.8 परित्राणाय for the protection; साधूनाम् of the good; विनाशाय for the destruction; च and; दुष्कृताम् of the wicked; धर्मसंस्थापनार्थाय for the establishment of righteousness; संभवामि (I) am born; युगे युगे in every age.Commentary Sadhunam The good who lead a life of righteousness; who utiles their bodies in the service of humanity; who are free from selfishness; lust and greed; and who devote their lives to divine contemplation.Dushkritam Evildoers who lead a life of unrighteousness;
+who break the laws of the society; who are vain and are dishonest and greedy; who injure others; who take possession of the property of others by force; and who commit atrocious crimes of various sorts.
 
 </details>
 </div>

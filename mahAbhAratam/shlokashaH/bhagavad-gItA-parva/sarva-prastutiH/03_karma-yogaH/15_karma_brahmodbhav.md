@@ -100,23 +100,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/15_karma_brahmodbhav.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.15 Here ther term, 'Brahman' connotes the physical body consisting of
-modifications of the Prakrti; for the Prakrti is denoted here by the
-term 'Brahman', as in the scriptural text: 'From Him arises, this
-Brahman and this 'Brahman' becomes name, form and food' (Mun. U.,
-1.1.9). Here also it will be said by Sri Krsna: 'This great 'Brahman' is
-my womb' (14.3). Therefore, the words that 'Activity springs from
-'Brahman' teaches that activity is produced by the physical body which
-is of the nature of the modification of Prakrti. The 'Brahman' arises
-from the imperishable self. Here the term, 'imperishable', indicates the
-individual self. The physical body, which is inhabited by the self who
-is satisfied by food and drink, is fit for action; hence the physical
-body which constitutes the instrument of activity is said to be from the
-imperishable. Therefore the 'all-pervading Brahman' means here the
-bodies of all persons of diverse kinds which are the products of Prakrti
-which comprises all material entities, and is hence all-pervading. They,
-the bodies, are established in sacrifice. The meanig is that the bodies
-have roots in sacrifice.
+3.15 Here ther term, 'Brahman' connotes the physical body consisting of modifications of the Prakrti; for the Prakrti is denoted here by the term 'Brahman', as in the scriptural text: 'From Him arises, this Brahman and this 'Brahman' becomes name, form and food' (Mun. U.,
+1.1.9). Here also it will be said by Sri Krsna: 'This great 'Brahman' is my womb' (14.3). Therefore, the words that 'Activity springs from
+'Brahman' teaches that activity is produced by the physical body which is of the nature of the modification of Prakrti. The 'Brahman' arises from the imperishable self. Here the term, 'imperishable', indicates the individual self. The physical body, which is inhabited by the self who is satisfied by food and drink, is fit for action; hence the physical body which constitutes the instrument of activity is said to be from the imperishable. Therefore the 'all-pervading Brahman' means here the bodies of all persons of diverse kinds which are the products of Prakrti which comprises all material entities, and is hence all-pervading. They,
+the bodies, are established in sacrifice. The meanig is that the bodies have roots in sacrifice.
 
 </details>
 </div>
@@ -622,18 +609,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/15_karma_brahmodbhav.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.15. Action arises from the Brahman, you should know this; the Brhaman
-arises from what does not stream forth; therefore the all-pervading
-Brahman is permanently based on the sacrifice.
+3.15. Action arises from the Brahman, you should know this; the Brhaman arises from what does not stream forth; therefore the all-pervading Brahman is permanently based on the sacrifice.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/15_karma_brahmodbhav.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.15 Know that actin has the veda as its origin; the Vedas has the
-Immutable as its source. Hence, the all-pervading Veda is for ever based
-on sacrifice.
+3.15 Know that actin has the veda as its origin; the Vedas has the Immutable as its source. Hence, the all-pervading Veda is for ever based on sacrifice.
 
 </details>
 </div>
@@ -641,8 +624,7 @@ on sacrifice.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 3.15 All action originates in the Supreme Spirit, which is Imperishable,
-and in sacrificial action the all-pervading Spirit is consciously
-present.
+and in sacrificial action the all-pervading Spirit is consciously present.
 
 </details>
 </div>
@@ -650,17 +632,14 @@ present.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 3.15 Know that activity springs from 'Brahman', i.e., the physical body,
-'Brahman' arises from the imperishable (self); therefore the
-all-pervading 'Brahman' is ever established in sacrifice.
+'Brahman' arises from the imperishable (self); therefore the all-pervading 'Brahman' is ever established in sacrifice.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/15_karma_brahmodbhav.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.15 Know thou that action comes from Brahma and Brahma comes from the
-Imperishable. Therefore, the all-pervading (Brahma) ever rests in
-sacrifice.
+3.15 Know thou that action comes from Brahma and Brahma comes from the Imperishable. Therefore, the all-pervading (Brahma) ever rests in sacrifice.
 
 </details>
 </div>
@@ -670,12 +649,8 @@ sacrifice.
 3.15 कर्म action; ब्रह्मोद्भवम् arisen from Brahma; विद्धि know; ब्रह्म
 Brahma; अक्षरसमुद्भवम् arisen from the Imperishable; तस्मात् therefore;
 सर्वगतम् allpervading; ब्रह्म Brahma; नित्यम् ever; यज्ञे in sacrifice;
-प्रतिष्ठितम् (is) established.Commentary Brahma may mean Veda. Just as
-the breath comes out of a man; so also the Veda is the breath of the
-Imperishable or the Omniscient. The Veda ever rests in the sacrifice;
-i.e.; it deals chiefly with sacrifices and the ways of their
-performance. (Cf.IV.24 to 32).Karma Action; Brahmodbhavam arisen from
-the injunctions of the Vedas.
+प्रतिष्ठितम् (is) established.Commentary Brahma may mean Veda. Just as the breath comes out of a man; so also the Veda is the breath of the Imperishable or the Omniscient. The Veda ever rests in the sacrifice;
+i.e.; it deals chiefly with sacrifices and the ways of their performance. (Cf.IV.24 to 32).Karma Action; Brahmodbhavam arisen from the injunctions of the Vedas.
 
 </details>
 </div>

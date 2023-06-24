@@ -62,16 +62,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.11 Because of their evil actions (Karmas), fools disregard Me - the
-great Lord of all beings, the Omniscient, whose resolves are true, who
-is the sole cause of the entire universe, and who has taken the human
-body out of great compassion so that I might become the refuge of all.
-They consider Me to be a man like themselves. The meaning is that they
-disregard Me, not knowing My higher nature which is an abode of
-compassion, generosity, condescension and parental solicitude. This
-nature of mine is the cause of My resorting to the human shape. But
-without understanding this, the ignorant consider Me as of the same
-nature as others, because I have assumed the human form.
+9.11 Because of their evil actions (Karmas), fools disregard Me - the great Lord of all beings, the Omniscient, whose resolves are true, who is the sole cause of the entire universe, and who has taken the human body out of great compassion so that I might become the refuge of all.
+They consider Me to be a man like themselves. The meaning is that they disregard Me, not knowing My higher nature which is an abode of compassion, generosity, condescension and parental solicitude. This nature of mine is the cause of My resorting to the human shape. But without understanding this, the ignorant consider Me as of the same nature as others, because I have assumed the human form.
 
 </details>
 </div>
@@ -404,40 +396,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.11. Being unaware of the immutable highest Absolute Supreme nature of
-Mine, the deluded ones disregard Me dwelling in the human body.
+9.11. Being unaware of the immutable highest Absolute Supreme nature of Mine, the deluded ones disregard Me dwelling in the human body.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.11 Not knowing My supreme nature as the Lord of all beings, foolish
-people disregard Me who have taken a human body.
+9.11 Not knowing My supreme nature as the Lord of all beings, foolish people disregard Me who have taken a human body.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.11 Fools disregard Me, seeing Me clad in human form. They know not
-that in My higher nature I am the Lord-God of all.
+9.11 Fools disregard Me, seeing Me clad in human form. They know not that in My higher nature I am the Lord-God of all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.11 Fools disregard Me, dwelling in a human form, not knowing My higher
-nature, as the Supreme Lord of all beings.
+9.11 Fools disregard Me, dwelling in a human form, not knowing My higher nature, as the Supreme Lord of all beings.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/11_avajAnanti_mAm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.11 Fools disregard Me, clad in human form, not knowing My higher Being
-as the great Lord of (all) beings.
+9.11 Fools disregard Me, clad in human form, not knowing My higher Being as the great Lord of (all) beings.
 
 </details>
 </div>
@@ -445,25 +432,10 @@ as the great Lord of (all) beings.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 9.11 अवजानन्ति disregard; माम् Me; मूढाः fools; मानुषीम् human; तनुम्
-form; आश्रितम् assumed; परम् higher; भावम् state or nature; अजानन्तः not
-knowing; मम My; भूतमहेश्वरम् the Great Lord of beings.Commentary Fools
-only find fault with My pure nature; just as a man with jaundiced eyes
-finds all objects to be yellow. The man who is suffering from fever
-finds even milk as bitter as the essence of neem. Those who wish to
-behold Me by means of the physical eyes cannot know Me. If anyone takes
-the mirage for the Ganga; can he find any water thereFools who do not
-have discrimination and right understanding despise Me; dwelling in the
-human form. I have taken this body to bless My devotees. These fools
-have no knowledge of My higher Being. They do not know that I am the
-great Lord; the Supreme SElf; the luminous; omniscient; pure; ever free;
-immortal; wise; the Self of all. These fools take Me for an ordinary
-mortal and despise Me always. The wise know both My transcendental
-nature and the glory of My manifestation.I pervade; permeate and
-interpenetrate the universe. I am the support of this world; body; mind;
-lifeforce and the senses and yet there are some miserable fools; who say
-that I do not exist. There is thus not a place anywhere where I am not;
-and yet these people are not able to see Me. Look at the misfortune of
-these people. Pitiable is their lot (Cf.IV.6VII.24)
+form; आश्रितम् assumed; परम् higher; भावम् state or nature; अजानन्तः not knowing; मम My; भूतमहेश्वरम् the Great Lord of beings.Commentary Fools only find fault with My pure nature; just as a man with jaundiced eyes finds all objects to be yellow. The man who is suffering from fever finds even milk as bitter as the essence of neem. Those who wish to behold Me by means of the physical eyes cannot know Me. If anyone takes the mirage for the Ganga; can he find any water thereFools who do not have discrimination and right understanding despise Me; dwelling in the human form. I have taken this body to bless My devotees. These fools have no knowledge of My higher Being. They do not know that I am the great Lord; the Supreme SElf; the luminous; omniscient; pure; ever free;
+immortal; wise; the Self of all. These fools take Me for an ordinary mortal and despise Me always. The wise know both My transcendental nature and the glory of My manifestation.I pervade; permeate and interpenetrate the universe. I am the support of this world; body; mind;
+lifeforce and the senses and yet there are some miserable fools; who say that I do not exist. There is thus not a place anywhere where I am not;
+and yet these people are not able to see Me. Look at the misfortune of these people. Pitiable is their lot (Cf.IV.6VII.24)
 
 </details>
 </div>

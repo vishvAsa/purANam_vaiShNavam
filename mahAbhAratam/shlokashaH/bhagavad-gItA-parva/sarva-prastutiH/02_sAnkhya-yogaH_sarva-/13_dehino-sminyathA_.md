@@ -79,22 +79,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.13 As the self is eternal, one does not grieve, thinking that the self
-is lost, when an embodied self living in a body gives up the state of
-childhood and attains youth and other states. Similarly, the wise men,
-knowing that the self is eternal, do not grieve, when the self attains a
-body different from the present body. Hence the selves, being eternal,
-are not fit objects for grief. This much has to be done here; the
-eternal selves because of Their being subject ot beginningless Karma
-become endowed with bodies suited to Their Karmas. To get rid of this
-bondage (of bodies), embodied beings perform duties like war appropriate
-to their stations in life with the help of the same bodies in an
-attitude of detachment from the fruits as prescribed by the scripture.
-Even to such aspirants, contacts with sense-objects give pleasure and
-pain, arising from cold, heat and such other things. But these
-experiences are to be endured till the acts enjoined in the scriptures
-come to an end. The Lord explains the significance immediately
-afterwards:
+2.13 As the self is eternal, one does not grieve, thinking that the self is lost, when an embodied self living in a body gives up the state of childhood and attains youth and other states. Similarly, the wise men,
+knowing that the self is eternal, do not grieve, when the self attains a body different from the present body. Hence the selves, being eternal,
+are not fit objects for grief. This much has to be done here; the eternal selves because of Their being subject ot beginningless Karma become endowed with bodies suited to Their Karmas. To get rid of this bondage (of bodies), embodied beings perform duties like war appropriate to their stations in life with the help of the same bodies in an attitude of detachment from the fruits as prescribed by the scripture.
+Even to such aspirants, contacts with sense-objects give pleasure and pain, arising from cold, heat and such other things. But these experiences are to be endured till the acts enjoined in the scriptures come to an end. The Lord explains the significance immediately afterwards:
 
 </details>
 </div>
@@ -744,9 +732,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.13. Just as the boyhood, youth and old age come to the embodied Soul
-in this body, in the same manner is the attaining of another body; the
-wise man is not deluded at that.
+2.13. Just as the boyhood, youth and old age come to the embodied Soul in this body, in the same manner is the attaining of another body; the wise man is not deluded at that.
 
 </details>
 </div>
@@ -762,8 +748,7 @@ an intelligent person does not get deluded.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.13 As the soul experiences in this body infancy, youth and old age, so
-finally it passes into another. The wise have no delusion about this.
+2.13 As the soul experiences in this body infancy, youth and old age, so finally it passes into another. The wise have no delusion about this.
 
 </details>
 </div>
@@ -771,8 +756,7 @@ finally it passes into another. The wise have no delusion about this.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 2.13 Just as the self associated with a body passes through childhood,
-youth and old age (pertaining to that body), so too (at death) It passes
-into another body. A wise man is not deluded by that.
+youth and old age (pertaining to that body), so too (at death) It passes into another body. A wise man is not deluded by that.
 
 </details>
 </div>
@@ -780,26 +764,16 @@ into another body. A wise man is not deluded by that.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 2.13 Just as in this body the embodied (soul) passes into childhood,
-youth and old age, so also does it pass into another body; the firm man
-does not grieve thereat.
+youth and old age, so also does it pass into another body; the firm man does not grieve thereat.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/13_dehino-sminyathA_.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.13 देहिनः of the embodied (soul); अस्मिन् in this; यथा as; देहे in
-body; कौमारम् childhood; यौवनम् youth; जरा old age; तथा so also;
+2.13 देहिनः of the embodied (soul); अस्मिन् in this; यथा as; देहे in body; कौमारम् childhood; यौवनम् youth; जरा old age; तथा so also;
 देहान्तरप्राप्तिः the attaining of another body; धीरः the firm; तत्र
-thereat; न not; मुह्यति grieves.Commentary -- Just as there is no
-interruption in the passing of childhood into youth and youth into old
-age in this body; so also there is no interruption by death in the
-continuity of the ego. The Self is not dead at the termination of the
-stage; viz.; childhood. It is certainly not born again at the beginning
-of the second stage; viz.; youth. Just as the Self passes unchanged from
-childhood to youth and from yourth to old age; so also the Self passes
-unchanged from one body into,another. Therefore; the wise man is not at
-all distressed about it.
+thereat; न not; मुह्यति grieves.Commentary -- Just as there is no interruption in the passing of childhood into youth and youth into old age in this body; so also there is no interruption by death in the continuity of the ego. The Self is not dead at the termination of the stage; viz.; childhood. It is certainly not born again at the beginning of the second stage; viz.; youth. Just as the Self passes unchanged from childhood to youth and from yourth to old age; so also the Self passes unchanged from one body into,another. Therefore; the wise man is not at all distressed about it.
 
 </details>
 </div>

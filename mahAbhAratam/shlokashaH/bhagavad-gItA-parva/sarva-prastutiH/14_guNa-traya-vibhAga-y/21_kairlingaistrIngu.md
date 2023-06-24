@@ -62,12 +62,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/14_guNa-traya-vibhAga-y/21_kairlingaistrIngu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-14.21 Arjuna said By what signs, namely, distinguishing features, is a
-man who has crossed beyond these three Gunas, Sattva and the rest,
-characterised; What is his behaviour; With what kind of behaviour is he
-associated and how does it serve as a sign for knowing his state; Such
-is the meaning. How does he, i.e., by what means does he cross beyond
-the three Gunas, the Sattva and the rest;
+14.21 Arjuna said By what signs, namely, distinguishing features, is a man who has crossed beyond these three Gunas, Sattva and the rest,
+characterised; What is his behaviour; With what kind of behaviour is he associated and how does it serve as a sign for knowing his state; Such is the meaning. How does he, i.e., by what means does he cross beyond the three Gunas, the Sattva and the rest;
 
 </details>
 </div>
@@ -344,36 +340,28 @@ who has transcended these three Strands, exist ; Of what behaviour is he
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/14_guNa-traya-vibhAga-y/21_kairlingaistrIngu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-14.21 Arjuna said O Lord, by what signs is one (known) who has gone
-beyond these three alities; What is his behaviour, and how does he
-transcend these three alities;
+14.21 Arjuna said O Lord, by what signs is one (known) who has gone beyond these three alities; What is his behaviour, and how does he transcend these three alities;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/14_guNa-traya-vibhAga-y/21_kairlingaistrIngu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-14.21 Arjuna asked: My Lord! By what signs can he who has transcended
-the Qualities be recognized; How does he act; How does he live beyond
-them;
+14.21 Arjuna asked: My Lord! By what signs can he who has transcended the Qualities be recognized; How does he act; How does he live beyond them;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/14_guNa-traya-vibhAga-y/21_kairlingaistrIngu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-14.21 Arjuna said What are the marks of a man who has crossed beyond the
-three Gunas; What is his behaviour; And how does he cross beyond the
-three Gunas;
+14.21 Arjuna said What are the marks of a man who has crossed beyond the three Gunas; What is his behaviour; And how does he cross beyond the three Gunas;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/14_guNa-traya-vibhAga-y/21_kairlingaistrIngu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-14.21 Arjuna said What are the marks of him who has transcended the
-three alities, O Lord; What is his conduct and how does he go beyond
-these three alities;
+14.21 Arjuna said What are the marks of him who has transcended the three alities, O Lord; What is his conduct and how does he go beyond these three alities;
 
 </details>
 </div>
@@ -383,17 +371,7 @@ these three alities;
 14.21 कैः by what; लिंगैः by marks; त्रीन् three; गुणान् Gunas; एतान्
 these; अतीतः crossed; भवति becomes; प्रभो O Lord; किमाचारः what (is his)
 conduct; कथम् how; च and; एतान् these; त्रीन् three; गुणान् Gunas;
-अतिवर्तते goes beyond.Commentary Arjuna said O Lord; by what
-characteristics may a man be recognised as having gone beyond the three
-alities What is the behaviour of that Trigunatita sage (one who has gone
-beyond the three alities) and how does he go beyond the world and is
-above the Gunas Tell me that.These are the characteristics of the sage
-who has gone beyond the Gunas others should cultivate them.Just as a
-king is able to remove the grievances and sorrows of his servants; so
-also the Lord is able to remove the sorrows of His devotees. That is the
-reason why Arjuna addresses Sri Krishna as Lord and uses the term
-Prabhu. By using this word; Arjuna hinted to the Lord that He alone was
-capable of relieving his sorrows and pains. (Cf.II.54)
+अतिवर्तते goes beyond.Commentary Arjuna said O Lord; by what characteristics may a man be recognised as having gone beyond the three alities What is the behaviour of that Trigunatita sage (one who has gone beyond the three alities) and how does he go beyond the world and is above the Gunas Tell me that.These are the characteristics of the sage who has gone beyond the Gunas others should cultivate them.Just as a king is able to remove the grievances and sorrows of his servants; so also the Lord is able to remove the sorrows of His devotees. That is the reason why Arjuna addresses Sri Krishna as Lord and uses the term Prabhu. By using this word; Arjuna hinted to the Lord that He alone was capable of relieving his sorrows and pains. (Cf.II.54)
 
 </details>
 </div>

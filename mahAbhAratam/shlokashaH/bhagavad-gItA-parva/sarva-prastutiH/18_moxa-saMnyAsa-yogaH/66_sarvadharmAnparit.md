@@ -605,10 +605,7 @@ _अर्थ-सिद्ध एव त्यागो_+++(5)+++
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.66 'Relinishing all Dharmas means the complete relinishment of the
-sense of agency, possessiveness, fruits etc., in the practising of
-Karma, Jnana and Bhakti Yogas in the way instructed, and the realising
-of Me as the agent, object of worship, the means and the end. It means
+18.66 'Relinishing all Dharmas means the complete relinishment of the sense of agency, possessiveness, fruits etc., in the practising of Karma, Jnana and Bhakti Yogas in the way instructed, and the realising of Me as the agent, object of worship, the means and the end. It means
 that relinishment is not of all devotional duties but only of the sense
 of agency and the fruits. This is the Sastraic relinishment of all
 Dharmas. It is firmly established in the beginning of this chapter
@@ -3206,8 +3203,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.66. Abandoning all attributes, come to Me as your sole refuge; I
-shall rescue you from all sins; don't be sorrowful.
+18.66. Abandoning all attributes, come to Me as your sole refuge; I shall rescue you from all sins; don't be sorrowful.
 
 </details>
 </div>
@@ -3222,24 +3218,21 @@ I sahll free you from all sins. (Therefore) do not grieve.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.66 Give up then thy earthly duties, surrender thyself to Me only. Do
-not be anxious; I will absolve thee from all thy sin.
+18.66 Give up then thy earthly duties, surrender thyself to Me only. Do not be anxious; I will absolve thee from all thy sin.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.66 Completely relinishing all Dharmas, seek Me alone for refuge. I
-will release you from all sins. Grieve not:
+18.66 Completely relinishing all Dharmas, seek Me alone for refuge. I will release you from all sins. Grieve not:
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/66_sarvadharmAnparit.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.66 Abandoning all duties, take refuge in Me alone: I will liberate
-thee from all sins; grieve not.
+18.66 Abandoning all duties, take refuge in Me alone: I will liberate thee from all sins; grieve not.
 
 </details>
 </div>
@@ -3249,41 +3242,10 @@ thee from all sins; grieve not.
 18.66 सर्वधर्मान् all duties; परित्यज्य having abandoned; माम् to Me;
 एकम् alone; शरणम् refuge; व्रज take; अहम् I; त्वा thee; सर्वपापेभ्यः
 from all sins; मोक्षयिष्यामि will liberate; मा dont; शुचः
-grieve.Commentary This is the answer given by the Lord to the estion put
-by Arjuna in chapter II; verse 7 I ask Thee which may be the better tell
-me that decidedly. I am Thy disciple; suppliant to Thee teach me.All
-Dharmas Righteous deeds; including Adharma all actions; righteous or
-unrighteous; as absolute freedom from all actions is intended to be
-taught here.Taking refuge in Me alone implies the knowledge of unity
-without any thought of duality knowing that there is nothing else except
-Me; the Self of all; dwelling the same in all. If thou art established
-in this faith; I shall liberate thee from all sins; from all bonds of
-Dharma and Adharma by manifesting Myself as thy own Self.To behold forms
-is the Dharma of the eye. The support or substratum of all forms is
-Brahman. When you look at an object behold Brahman Which is the one
-essence and abandon the form as it is illusory and unreal. Have the same
-attitude towards the other objects which pertain to the other
-senses.Give up the JivaDharma (the notions I am the doer o actions; I
-enjoy. I am a Brahmana. I am a Brahmachari. I am endowed with a little
-knowledge and power; etc. and get yourself established in BrahmaBhavana
-(the understanding or knowledge I am Brahman). This is what is meant by
-taking refuge in Lord Krishna; according to the Vedantins.Work
-ceaselessly for the Lord but surrender the fruits of all actions to the
-Lord. Take the Lord as your sole refuge. Live for Him. Work for Him.
-Serve Him in all forms. Think of Him only. Meditate on Him alone. See
-Him in all forms. Think of Him only. Meditate on Him alone. See Him
-everywhere. Worship Him in your heart. Consecrate your life; all
-actions; feelings and thoughts to the Lord. You will rest in Him. You
-will attain union with Him. You will attain immortal supreme peace and
-eternal bliss. This is the view of another school of thought.Sri Sankara
-very strongly refutes the idea that knowledge in conjunction with Karma
-(action) produces or leads to liberation. He says that Karma and
-knowledge may not go together in the same man; that karma helps the man
-to get purification of the heart; and that right knowledge of the Self
-alone will give him absolute freedom from Samsara. He says that work and
-knowledge are like darkness and light; that action is possible only in
-this universe of illusory phenomena which is the projection of ignorance
-and knowledge dispels this ignorance. (Cf.III.30IX.22)
+grieve.Commentary This is the answer given by the Lord to the estion put by Arjuna in chapter II; verse 7 I ask Thee which may be the better tell me that decidedly. I am Thy disciple; suppliant to Thee teach me.All Dharmas Righteous deeds; including Adharma all actions; righteous or unrighteous; as absolute freedom from all actions is intended to be taught here.Taking refuge in Me alone implies the knowledge of unity without any thought of duality knowing that there is nothing else except Me; the Self of all; dwelling the same in all. If thou art established in this faith; I shall liberate thee from all sins; from all bonds of Dharma and Adharma by manifesting Myself as thy own Self.To behold forms is the Dharma of the eye. The support or substratum of all forms is Brahman. When you look at an object behold Brahman Which is the one essence and abandon the form as it is illusory and unreal. Have the same attitude towards the other objects which pertain to the other senses.Give up the JivaDharma (the notions I am the doer o actions; I enjoy. I am a Brahmana. I am a Brahmachari. I am endowed with a little knowledge and power; etc. and get yourself established in BrahmaBhavana
+(the understanding or knowledge I am Brahman). This is what is meant by taking refuge in Lord Krishna; according to the Vedantins.Work ceaselessly for the Lord but surrender the fruits of all actions to the Lord. Take the Lord as your sole refuge. Live for Him. Work for Him.
+Serve Him in all forms. Think of Him only. Meditate on Him alone. See Him in all forms. Think of Him only. Meditate on Him alone. See Him everywhere. Worship Him in your heart. Consecrate your life; all actions; feelings and thoughts to the Lord. You will rest in Him. You will attain union with Him. You will attain immortal supreme peace and eternal bliss. This is the view of another school of thought.Sri Sankara very strongly refutes the idea that knowledge in conjunction with Karma
+(action) produces or leads to liberation. He says that Karma and knowledge may not go together in the same man; that karma helps the man to get purification of the heart; and that right knowledge of the Self alone will give him absolute freedom from Samsara. He says that work and knowledge are like darkness and light; that action is possible only in this universe of illusory phenomena which is the projection of ignorance and knowledge dispels this ignorance. (Cf.III.30IX.22)
 
 </details>
 </div>

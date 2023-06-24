@@ -64,10 +64,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.70 He who will study the dialogue between us, which is consistent
-with the path to realisation, by him I shall be worshipped through the
-sacrifice of knowledge. Such is My view. The meaning is that whateve
-sacrifice of knowledge is taught herein, by that I shall become
+18.70 He who will study the dialogue between us, which is consistent with the path to realisation, by him I shall be worshipped through the sacrifice of knowledge. Such is My view. The meaning is that whateve sacrifice of knowledge is taught herein, by that I shall become
 worshipped by the mere fact of its study.
 
 </details>
@@ -439,9 +436,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.70. Whosoever would learn this sacred dialogue of both of us, by him
-I am worshipped (delighted) through the knowledge-sacrifice : This is My
-opinion
+18.70. Whosoever would learn this sacred dialogue of both of us, by him I am worshipped (delighted) through the knowledge-sacrifice : This is My opinion
 
 </details>
 </div>
@@ -449,8 +444,7 @@ opinion
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 18.70 And he who will study this sacred conversation between us two,
-which is conducive to virtue, by him I shall be adored through the
-Sacrifice in the form of Knowledge. This is My judgement.
+which is conducive to virtue, by him I shall be adored through the Sacrifice in the form of Knowledge. This is My judgement.
 
 </details>
 </div>
@@ -465,17 +459,14 @@ he shall thereby worship Me at the altar of Wisdom.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.70 And he who will study his dialogue of ours which is consistent
-with Dharma, by him I shall be worshipped through the sacrifice of
-knowledge; such is My view.
+18.70 And he who will study his dialogue of ours which is consistent with Dharma, by him I shall be worshipped through the sacrifice of knowledge; such is My view.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/70_adhyeShyate_cha.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.70 And he who will study this sacred dialogue of ours, by him I shall
-have been worshipped by the sacrifice of wisdom, such is My conviction.
+18.70 And he who will study this sacred dialogue of ours, by him I shall have been worshipped by the sacrifice of wisdom, such is My conviction.
 
 </details>
 </div>
@@ -485,14 +476,8 @@ have been worshipped by the sacrifice of wisdom, such is My conviction.
 18.70 अध्येष्यते shall study; च and; यः who; इमम् this; धर्म्यम् sacred;
 संवादम् dialogue; आवयोः of ours; ज्ञानयज्ञेन by the sacrifice of wisdom;
 तेन by him; अहम् I; इष्टः worshipped; स्याम् (I) shall have been; इति
-thus; मे My; मतिः conviction. Commentary There are four kinds of
-sacrifice -- Vidhi; Japa; Upamsu and Manasa. Vidhi is ritual. Japa is
-recitation of a Mantra. Upamsu is Japa done in a whisper. Of the four
-kinds; JnanaYajna or the wisdomsacrifice comes under Manasa and is;
-therefore; the highest. The Gita is eulogised as a JnanaYajna. He who
-studies this scripture with faith and devotion will attain the fruit
-that is eal to that of performing JnanaYajna or meditation on a deity
-and the like.
+thus; मे My; मतिः conviction. Commentary There are four kinds of sacrifice -- Vidhi; Japa; Upamsu and Manasa. Vidhi is ritual. Japa is recitation of a Mantra. Upamsu is Japa done in a whisper. Of the four kinds; JnanaYajna or the wisdomsacrifice comes under Manasa and is;
+therefore; the highest. The Gita is eulogised as a JnanaYajna. He who studies this scripture with faith and devotion will attain the fruit that is eal to that of performing JnanaYajna or meditation on a deity and the like.
 
 </details>
 </div>

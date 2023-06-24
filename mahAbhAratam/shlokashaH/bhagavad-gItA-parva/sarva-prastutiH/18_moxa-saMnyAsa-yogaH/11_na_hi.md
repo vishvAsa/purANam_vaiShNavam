@@ -66,21 +66,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.11 It is impossible for one who has a body and has to nourish it. 'to
-abandon action entirely'; for eating, drinking etc., reired for
-nourshing the body and other acts connected therewith are unavoidable.
-And for the same reason the five great sacrifices etc., are also
-indispensable. He who has given up the fruits of the five great
-sacrifices, is said to have renounced; this is referred to in the Srutis
-such as: 'Only through renunciation do some obtain immortality' (Ma.
-Na., 8.14). Renunciation of fruits of actions is illustrative; it
-implies much more. It implies one who has renounced the fruits, agency
-and attachment to works, as the topic has been begun with the
-declaration: 'For abandonment (Tyaga) is declard to be of three kinds'
+18.11 It is impossible for one who has a body and has to nourish it. 'to abandon action entirely'; for eating, drinking etc., reired for nourshing the body and other acts connected therewith are unavoidable.
+And for the same reason the five great sacrifices etc., are also indispensable. He who has given up the fruits of the five great sacrifices, is said to have renounced; this is referred to in the Srutis such as: 'Only through renunciation do some obtain immortality' (Ma.
+Na., 8.14). Renunciation of fruits of actions is illustrative; it implies much more. It implies one who has renounced the fruits, agency and attachment to works, as the topic has been begun with the declaration: 'For abandonment (Tyaga) is declard to be of three kinds'
 (18.4). This statement may be estioned in the following manner:
-'Agnihotra, the full moon and new moon sacrifices, Jyotistoma etc., and
-also the five great sacrifices are enjoined by the Sastras only for the
-attainment of their results like heaven. They are not purposeless. Even
+'Agnihotra, the full moon and new moon sacrifices, Jyotistoma etc., and also the five great sacrifices are enjoined by the Sastras only for the attainment of their results like heaven. They are not purposeless. Even
 the injunction with regard to obligatory and occasional ceremonies is
 enjoined because they yield results, as implied in the following
 passage: "For householders, Prajapatya ceremony" (V.P., 1.6.37).
@@ -478,45 +468,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.11. Indeed, to relinish actions entirely is not possible for a
-body-bearing one; but whosoever relinishes the fruits of actions, he is
-said to be a man of \[true\] relinishment.
+18.11. Indeed, to relinish actions entirely is not possible for a body-bearing one; but whosoever relinishes the fruits of actions, he is said to be a man of \[true\] relinishment.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.11 Since it is not possible for one who holds on to a body to give up
-actions entirely, therefore he, on the other hand, who renounces results
-on actions is called a man of renunciation.
+18.11 Since it is not possible for one who holds on to a body to give up actions entirely, therefore he, on the other hand, who renounces results on actions is called a man of renunciation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.11 But since those still in the body cannot entirely avoid action, in
-their case abandonment of the fruit of action is considered as complete
-renunciation.
+18.11 But since those still in the body cannot entirely avoid action, in their case abandonment of the fruit of action is considered as complete renunciation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.11 For, it is impossible for one who bears a body to abandon actions
-entirely. But he who gives up the fruits of works, is called the
-abandoner.
+18.11 For, it is impossible for one who bears a body to abandon actions entirely. But he who gives up the fruits of works, is called the abandoner.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/11_na_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.11 Verily, it is not possible for an embodied being to abandon
-actions entirely; but he who relinishes the rewards of actions is verily
-called a man of renunciation.
+18.11 Verily, it is not possible for an embodied being to abandon actions entirely; but he who relinishes the rewards of actions is verily called a man of renunciation.
 
 </details>
 </div>
@@ -526,32 +506,8 @@ called a man of renunciation.
 18.11 न not; हि verily; देहभृता by an embodied being; शक्यम् possible;
 त्यक्तुम् to abandon; कर्माणि actions; अशेषतः entirely; यः who; तु but;
 कर्मफलत्यागी relinisher of the fruits of actions; सः he; त्यागी
-relinisher; इति thus; अभिधीयते is called.Commentary He who has assumed a
-human body and yet grumbles at having to perform actions is verily a
-fool. Can fire that is endowed with heat as its natural property ever
-think of getting rid of it So long as you are living in this body you
-cannot entirely relinish action. Lord Krishna says to Arjuna Nor can
-anyone; even for an instant remain actionless for helplessly is everyone
-driven to action by the alities born of Nature (Cf.III.5). Nature (and
-your own nature; too) will urge you to do actions. You will have to
-abandon the idea of agency and the fruits of actions. Then you are ite
-safe. No action will bind you.The ignorant man who identifies himself
-with the body and who thinks that he is himself the doer of all actions
-should not abandon actions. It is impossible for him to relinish
-actions. He will have to perform all the prescribed duties while
-relinishing their fruits.Dehabhrita A wearer of the body An embodied
-being; i.e.; he who identifies himself with the body. A man who has
-discrimination between the Real and the unreal; the Eternal and the
-transient; cannot be called a bodywearer; because he does not think that
-he is the doer of actions -- vide chapter II.21 (He who knows Him Who is
-indestructible; eternal; unborn; undiminishing -- how can that man slay;
-O Arjuna; or cause to be slain).When the ignorant man who is alified for
-action does the prescribed duties; relinishing the desire for the fruits
-of his actions; he is called a Tyagi; although he is active. This title
-Tyagi is given to him for the sake of courtesy.The relinishment of all
-actions is possible only for him who has attained Selfrealisation and
-who is; therefore; not a wearer of the body; i.e.; does not hink that
-the body is the Self. (Cf.III.5)
+relinisher; इति thus; अभिधीयते is called.Commentary He who has assumed a human body and yet grumbles at having to perform actions is verily a fool. Can fire that is endowed with heat as its natural property ever think of getting rid of it So long as you are living in this body you cannot entirely relinish action. Lord Krishna says to Arjuna Nor can anyone; even for an instant remain actionless for helplessly is everyone driven to action by the alities born of Nature (Cf.III.5). Nature (and your own nature; too) will urge you to do actions. You will have to abandon the idea of agency and the fruits of actions. Then you are ite safe. No action will bind you.The ignorant man who identifies himself with the body and who thinks that he is himself the doer of all actions should not abandon actions. It is impossible for him to relinish actions. He will have to perform all the prescribed duties while relinishing their fruits.Dehabhrita A wearer of the body An embodied being; i.e.; he who identifies himself with the body. A man who has discrimination between the Real and the unreal; the Eternal and the transient; cannot be called a bodywearer; because he does not think that he is the doer of actions -- vide chapter II.21 (He who knows Him Who is indestructible; eternal; unborn; undiminishing -- how can that man slay;
+O Arjuna; or cause to be slain).When the ignorant man who is alified for action does the prescribed duties; relinishing the desire for the fruits of his actions; he is called a Tyagi; although he is active. This title Tyagi is given to him for the sake of courtesy.The relinishment of all actions is possible only for him who has attained Selfrealisation and who is; therefore; not a wearer of the body; i.e.; does not hink that the body is the Self. (Cf.III.5)
 
 </details>
 </div>

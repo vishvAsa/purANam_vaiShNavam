@@ -86,24 +86,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.19 The Lord said O Arjuna, I shall tell you My auspicious
-manifestations - those that are prominent among these. The term
-'Pradhanya' connotes pre-eminence. For it will be said, 'Know Me to be
-the chief among family priests' (10.24). I shall declare to you those
-that are prominent in the world. For it would not be possible to tell or
-listen to them in detail, because there is no limit to them. To be a
-Vibhuti, the manifestation referred to should be under the control of
-the Lord; because it is stated: 'He who in truth knows this supernal
-manifestation and the seat of auspicious attributes' (10.7), after
-listing the various kinds of mental dispositions like intelligence etc.,
-of all beings. Similarly it has been stated there that 'being the
-creator etc.,' is meant by the term Yoga, and that their 'being
-actuated,' meant by the term Vibhuti. Again it is stated: 'I am the
-origin of all; from me proceed everything; thinking thus, the wise
-worship Me with all devotion' (10.8). Sri Krsna clearly declares that he
-rules over all creatures by actuating them from within as their Self. He
-also declares His being the creator, sustainer and destroyer of
-everything, as connected by the term Yoga.
+10.19 The Lord said O Arjuna, I shall tell you My auspicious manifestations - those that are prominent among these. The term
+'Pradhanya' connotes pre-eminence. For it will be said, 'Know Me to be the chief among family priests' (10.24). I shall declare to you those that are prominent in the world. For it would not be possible to tell or listen to them in detail, because there is no limit to them. To be a Vibhuti, the manifestation referred to should be under the control of the Lord; because it is stated: 'He who in truth knows this supernal manifestation and the seat of auspicious attributes' (10.7), after listing the various kinds of mental dispositions like intelligence etc.,
+of all beings. Similarly it has been stated there that 'being the creator etc.,' is meant by the term Yoga, and that their 'being actuated,' meant by the term Vibhuti. Again it is stated: 'I am the origin of all; from me proceed everything; thinking thus, the wise worship Me with all devotion' (10.8). Sri Krsna clearly declares that he rules over all creatures by actuating them from within as their Self. He also declares His being the creator, sustainer and destroyer of everything, as connected by the term Yoga.
 
 </details>
 </div>
@@ -377,8 +362,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.19. The Bhagavat said Yes. O the best among the Kurus ! I shall
-expound to you, only the chief auspicious manifesting powers of Mine.
+10.19. The Bhagavat said Yes. O the best among the Kurus ! I shall expound to you, only the chief auspicious manifesting powers of Mine.
 For, there would be no end to My details.
 
 </details>
@@ -386,36 +370,28 @@ For, there would be no end to My details.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.19 The Blessed Lord said O best of the Kurus, now, according to their
-importance, I shall described to you My onw glories, which are indeed
-divine. There is no end to my manifestations.
+10.19 The Blessed Lord said O best of the Kurus, now, according to their importance, I shall described to you My onw glories, which are indeed divine. There is no end to my manifestations.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.19 Lord Shri Krishna replied: So be it, My beloved fried! I will
-unfold to thee some of the chief aspects of My glory. Of its full extent
-there is no end.
+10.19 Lord Shri Krishna replied: So be it, My beloved fried! I will unfold to thee some of the chief aspects of My glory. Of its full extent there is no end.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.19 The Lord said Indeed I shall tell you, O Arjuna, My auspicious
-manifestations (Vibhutis) - those that are prominent among these. There
-is no end to their extent.
+10.19 The Lord said Indeed I shall tell you, O Arjuna, My auspicious manifestations (Vibhutis) - those that are prominent among these. There is no end to their extent.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/10_vibhUti-vistAra-yoga/19_shrI_bhagavAnuvAc.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-10.19 The Blessed Lord said Very well! Now I will declare to thee My
-divine glories in their prominence, O Arjuna; there is no end to their
-detailed description.
+10.19 The Blessed Lord said Very well! Now I will declare to thee My divine glories in their prominence, O Arjuna; there is no end to their detailed description.
 
 </details>
 </div>
@@ -423,11 +399,8 @@ detailed description.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 10.19 हन्त now; very well; ते to thee; कथयिष्यामि (I) will declare;
-दिव्याः divine; हि indeed; आत्मविभूतयः My glories; प्राधान्यतः in their
-prominence; कुरुश्रेष्ठ O best of the Kurus; न not; अस्ति is; अन्तः end;
-विस्तरस्य of detail; मे of Me.Commentary Now I will tell you of My most
-prominent divine glories. My glories are illimitable it is not possible
-to describe all of them.
+दिव्याः divine; हि indeed; आत्मविभूतयः My glories; प्राधान्यतः in their prominence; कुरुश्रेष्ठ O best of the Kurus; न not; अस्ति is; अन्तः end;
+विस्तरस्य of detail; मे of Me.Commentary Now I will tell you of My most prominent divine glories. My glories are illimitable it is not possible to describe all of them.
 
 </details>
 </div>

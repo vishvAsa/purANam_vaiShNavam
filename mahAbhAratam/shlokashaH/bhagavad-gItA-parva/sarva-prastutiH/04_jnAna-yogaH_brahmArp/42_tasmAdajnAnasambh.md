@@ -60,10 +60,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.42 Therefore, after sundering this doubt concerning the self, born of
-beginningless ignorance and present in the heart, by the sword of the
-knowledge of the self in the manner explained before, practise the Karma
-Yoga taught by Me. For that, rise up, O Arjuna.
+4.42 Therefore, after sundering this doubt concerning the self, born of beginningless ignorance and present in the heart, by the sword of the knowledge of the self in the manner explained before, practise the Karma Yoga taught by Me. For that, rise up, O Arjuna.
 
 </details>
 </div>
@@ -403,8 +400,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.42. Therefore, thus cutting off, by means of knowledge-sword, the
-doubt that has sprung from ignornace and exists in \[your\] heart,
+4.42. Therefore, thus cutting off, by means of knowledge-sword, the doubt that has sprung from ignornace and exists in \[your\] heart,
 practise the Yoga ! Stand up ! O descendant of Bharata !
 
 </details>
@@ -412,36 +408,28 @@ practise the Yoga ! Stand up ! O descendant of Bharata !
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.42 Therefore, O scion of the Bharata dyasty, take recourse to yoga and
-rise up, cutting asunder with the sword of Knowledge this doubt of your
-own in the heart, arising from ignorance.
+4.42 Therefore, O scion of the Bharata dyasty, take recourse to yoga and rise up, cutting asunder with the sword of Knowledge this doubt of your own in the heart, arising from ignorance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.42 Therefore, cleaving asunder with the sword of wisdom the doubts of
-the heart, which thine own ignorance has engendered, follow the Path of
-Wisdom and arise!"
+4.42 Therefore, cleaving asunder with the sword of wisdom the doubts of the heart, which thine own ignorance has engendered, follow the Path of Wisdom and arise!"
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.42 Therefore, sunder, with the sword of knowledge, this doubt present
-in your heart resulting from ignorance concerning the self. Practise
-this Yoga, O Arjuna, and rise up.
+4.42 Therefore, sunder, with the sword of knowledge, this doubt present in your heart resulting from ignorance concerning the self. Practise this Yoga, O Arjuna, and rise up.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/42_tasmAdajnAnasambh.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.42 Therefore with the sword of the knowledge (of the Self) cut asunder
-the doubt of the self born of ignorance, residing in thy heart, and take
-refuge in Yoga. Arise, O Arjuna.
+4.42 Therefore with the sword of the knowledge (of the Self) cut asunder the doubt of the self born of ignorance, residing in thy heart, and take refuge in Yoga. Arise, O Arjuna.
 
 </details>
 </div>
@@ -449,16 +437,9 @@ refuge in Yoga. Arise, O Arjuna.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 4.42 तस्मात् therefore; अज्ञानसंभूतम् born out of ignorance; हृत्स्थम्
-residing in the heart; ज्ञानासिना by the sword of knowledge; आत्मनः of
-the Self; छित्त्वा having cut; एनम् this; संशयम् doubt; योगम् Yoga;
-आत्तिष्ठ take refuge; उत्तिष्ठ arise; भारत O Bharata.Commentary Doubt
-causes a great deal of mental torment. It is most sinful. It is born of
-ignorance. Kill it ruthlessly with the knowledge of the Self. Now stand
-up and fight; O Arjuna.(This chapter is known by the names Jnana Yoga;
-Abhyasa Yoga and jnanakarmasannyasa Yoga also.)Thus in the Upanishads of
-the glorious Bhagavad Gita; the science of the Eternal; the scripture of
-Yoga; the dialogue between Sri Krishna and Arjuna; ends the fourth
-discourse entitledThe Yoga of the Division of Wisdom. ,
+residing in the heart; ज्ञानासिना by the sword of knowledge; आत्मनः of the Self; छित्त्वा having cut; एनम् this; संशयम् doubt; योगम् Yoga;
+आत्तिष्ठ take refuge; उत्तिष्ठ arise; भारत O Bharata.Commentary Doubt causes a great deal of mental torment. It is most sinful. It is born of ignorance. Kill it ruthlessly with the knowledge of the Self. Now stand up and fight; O Arjuna.(This chapter is known by the names Jnana Yoga;
+Abhyasa Yoga and jnanakarmasannyasa Yoga also.)Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the fourth discourse entitledThe Yoga of the Division of Wisdom. ,
 
 </details>
 </div>

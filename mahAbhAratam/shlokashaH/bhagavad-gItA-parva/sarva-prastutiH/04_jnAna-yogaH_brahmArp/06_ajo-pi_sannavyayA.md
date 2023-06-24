@@ -164,12 +164,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.6 Without forsaking any of the My special alities, as supreme
-rulership, birthless, imperishability etc., I am born by My free will.
-Prakrti means one's own nature. The meaning is that by employment of My
-own Nature and taking a form of My choice, I incarnate by My own will
-(Maya). The character of My own Nature becomes evident from the
-following Srutis: 'Him who is of sun-like colour, beyond darkness
+4.6 Without forsaking any of the My special alities, as supreme rulership, birthless, imperishability etc., I am born by My free will.
+Prakrti means one's own nature. The meaning is that by employment of My own Nature and taking a form of My choice, I incarnate by My own will
+(Maya). The character of My own Nature becomes evident from the following Srutis: 'Him who is of sun-like colour, beyond darkness
 (Tamas)' (Sve. U., 3.8), 'Him who abides beyond Rajas (active matter)'
 (Sama 17.1.4.2); 'This Golden Person who is within the sun' (Cha. U.
 1.6.6); 'Within the heart, there is the Person consisting of mind,
@@ -777,9 +774,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.6. Though \[I am\] unborn and the changeless Self; though I am the the
-Lord of \[all\] beings; yet presiding over My own nature I take birth by
-My own Trick-of-illusion.
+4.6. Though \[I am\] unborn and the changeless Self; though I am the the Lord of \[all\] beings; yet presiding over My own nature I take birth by My own Trick-of-illusion.
 
 </details>
 </div>
@@ -787,33 +782,28 @@ My own Trick-of-illusion.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 4.6 Though I am birthless, undecaying by nature, and the Lord of beings,
-(still) by subjugating My Prakriti, I take birth by means of My own
-Maya.
+(still) by subjugating My Prakriti, I take birth by means of My own Maya.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.6 have no beginning. Though I am imperishable, as well as Lord of all
-that exists, yet by My own will and power do I manifest Myself.
+4.6 have no beginning. Though I am imperishable, as well as Lord of all that exists, yet by My own will and power do I manifest Myself.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.6 Though I am birthless and of immutable nature, though I am the Lord
-of all beings, yet by employing My own Nature (Prakrti) I am born out of
-My own free will.
+4.6 Though I am birthless and of immutable nature, though I am the Lord of all beings, yet by employing My own Nature (Prakrti) I am born out of My own free will.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/06_ajo-pi_sannavyayA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.6 Though I am unborn, of imperishable nature, and though I am the Lord
-of all beings, yet, governing My own Nature, I am born by My own Maya.
+4.6 Though I am unborn, of imperishable nature, and though I am the Lord of all beings, yet, governing My own Nature, I am born by My own Maya.
 
 </details>
 </div>
@@ -823,14 +813,8 @@ of all beings, yet, governing My own Nature, I am born by My own Maya.
 4.6 अजः unborn; अपि also; सन् being; अव्ययात्मा of imperishable nature;
 भूतानाम् of beings; ईश्वरः the Lord; अपि also; सन् being; प्रकृतिम्
 Nature; स्वाम् My own; अधिष्ठाय governing; संभवामि come into being;
-आत्ममायया by My own Maya.Commentary Man is bound by Karma. So he takes
-birth. He is under the clutches of Nature. He,is deluded by the three
-alities of Nature whereas the Lord has Maya under His perfect control.
-He rules over Nature; and so He is not under the thraldom of the alities
-o Nature. He appears to be born and embodied through His own Maya or
-illusory power; but is not so in reality. His embodiment is ; as a
-matter of fact; apparent; It cannot affect in the least His true divine
-nature. (Cf.IX.8).
+आत्ममायया by My own Maya.Commentary Man is bound by Karma. So he takes birth. He is under the clutches of Nature. He,is deluded by the three alities of Nature whereas the Lord has Maya under His perfect control.
+He rules over Nature; and so He is not under the thraldom of the alities o Nature. He appears to be born and embodied through His own Maya or illusory power; but is not so in reality. His embodiment is ; as a matter of fact; apparent; It cannot affect in the least His true divine nature. (Cf.IX.8).
 
 </details>
 </div>

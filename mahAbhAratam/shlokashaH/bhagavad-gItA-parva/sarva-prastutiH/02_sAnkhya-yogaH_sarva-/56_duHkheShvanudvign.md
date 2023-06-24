@@ -36,22 +36,44 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.56।। अथैकेन्द्रियसंज्ञाख्यतृतीयावस्थोच्यत इत्याह ततोऽर्वाचीनेति। ओ
+विजी भयचलनयोः इति धातुरत्र चलनार्थःवीतरागभयं इति भयस्य पृथगभिधानात्।
+यद्वाअनुद्विग्न ৷৷. इति निर्दुःखत्वमात्रं विवक्षितम्। तत एवदुःखेषु
+इत्येतदपि दुःखहेतुपरमिति मन्वान आह दुःखनिमित्तेष्विति।
+आदिशब्देनाप्रियागमनसङ्ग्रहः। भयहेतुव्यावृत्त्यर्थमुक्तं उपस्थितेष्विति
+दुःखोत्पादनप्रवृत्तेष्वित्यर्थः। दुःखशब्दवदेवात्र सुखशब्दस्यापि
+हेतुपरतां तत्रापि पृथङ्निर्दिष्टरागविषयाद्विलक्षणतां चाह प्रियेषु
+सन्निहितेष्वपीति। विगतस्पृहवीतरागशब्दयोरपुनरुक्तितां व्यनक्ति अनागतेषु
+स्पृहा राग इति। स्पृहारागशब्दौ सामान्यविशेषविषयौ। ततश्च
+विशेषशब्दसन्निधाने गोबलीवर्दन्यायात् सामान्यशब्दस्तद्व्यतिरिक्तपर इति
+भावः। पुनरुक्तिपरिहाराय भयस्य दुःखविशेषतामाह
+प्रियेत्यादिनाहेतुदर्शननिमित्तं दुःखमित्यन्तेन।
+प्रियविश्लेषाप्रियागमनयोर्दुखरूपयोः सामग्रीदशामापन्नो यो हेतुः सूचकश्च
+निमित्तादिकः तस्य यद्दर्शनं सकलसहकारिसम्पत्त्युत्प्रेक्षागर्भम्
+दर्शनमिति ज्ञानमात्रपरं वा तेन यद्दुःखं
+तदानीमेवाङ्गकम्पादिहेतुरुत्पद्यते तद्भयमित्यर्थः। क्रोधलक्षणे
+प्रियविश्लेषादिस्त्रैकालिकः सर्वत्र क्रोधोत्पत्तिदर्शनात्। अचेतनेषु
+वातातपकण्टकादिषु बाधकेष्वपि क्रोधाभावात्चेतनेत्युक्तम्।
+यस्तून्मत्तस्तत्रापि कुप्यति सोऽपि चेतनत्वाध्यासेन। अन्तरशब्देन
+स्वदुःखहेतुस्वमनोविकारव्यावर्तनम्। स हि तथाविधो निर्वेदादिरूपः स्यात्।
+क्रोधादात्महननाद्यपि परपीडाभिसन्धिगर्भम्। मनोविकारोऽत्र
+रजस्तमस्समुन्मेषकृतो व्यापारविशेषः। तदधीनो ज्ञानविशेष इह
+तच्छब्देनोपचर्यते। मुनिर्मननशील इति व्युत्पत्तिः तस्य मननस्यात्र
+साक्षात्करिष्यमाणात्मविषयत्वव्यक्त्यर्थमुक्तम् आत्ममननशील इति।
+एवमस्यास्तृतीयावस्थाया उद्वेगस्पृहादिविरहसाम्येऽपि
+औत्सुक्यमात्रक्षमवासनाशेषस्य भस्मच्छन्नदहनवदवस्थितत्वाच्च चतुर्थावस्थातो
+विशेषः।  
+  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.56 Even when there are reasons for grief like separation from beloved
-ones, his mind is not perturbed, i.e., he is not aggrieved. He has no
-longing to enjoy pleasures, i.e., even though the things which he likes
-are near him, he has no longing for them. He is free from desire and
-anger; desire is longing for objects not yet obtained; he is free from
-this. Fear is affliction produced from the knowledge of the factors
-which cause separation from the beloved or from meeting with that which
-is not desirable; he is free from this. Anger is a disturbed state of
-one's own mind which produces affliction and which is aimed at another
-sentient being who is the cause of separation from the beloved or of
-confrontation with what is not desirable. He is free from this. A sage
-of this sort, who constantly meditates on the self, is said to be of
-firm wisdom. Then, the next state below this is described:
+2.56 Even when there are reasons for grief like separation from beloved ones, his mind is not perturbed, i.e., he is not aggrieved. He has no longing to enjoy pleasures, i.e., even though the things which he likes are near him, he has no longing for them. He is free from desire and anger; desire is longing for objects not yet obtained; he is free from this. Fear is affliction produced from the knowledge of the factors which cause separation from the beloved or from meeting with that which is not desirable; he is free from this. Anger is a disturbed state of one's own mind which produces affliction and which is aimed at another sentient being who is the cause of separation from the beloved or of confrontation with what is not desirable. He is free from this. A sage of this sort, who constantly meditates on the self, is said to be of firm wisdom. Then, the next state below this is described:
 
 </details>
 </div>
@@ -422,63 +444,45 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.56. He, whose mind is undisturbed in the midst of sorrows; who is free
-from desire in the midst of pleasures; and from whom longing, fear and
-wrath have totally gone-he is said to be a firm-minded sage.
+2.56. He, whose mind is undisturbed in the midst of sorrows; who is free from desire in the midst of pleasures; and from whom longing, fear and wrath have totally gone-he is said to be a firm-minded sage.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.56 That monk is called a man of steady wisdom when his mind is
-unperturbed in sorrow, he is free from longing for delights, and has
-gone beyond attachment, fear and anger.
+2.56 That monk is called a man of steady wisdom when his mind is unperturbed in sorrow, he is free from longing for delights, and has gone beyond attachment, fear and anger.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.56 The sage, whose mind is unruffled in suffering, whose desire is not
-roused by enjoyment, who is without attachment, anger or fear - take him
-to be one who stands at that lofty level.
+2.56 The sage, whose mind is unruffled in suffering, whose desire is not roused by enjoyment, who is without attachment, anger or fear - take him to be one who stands at that lofty level.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.56 He whose mind is not perturbed in pain, who has no longing for
-pleasures, who is free from desire, fear and anger - he is called a sage
-of firm wisdom.
+2.56 He whose mind is not perturbed in pain, who has no longing for pleasures, who is free from desire, fear and anger - he is called a sage of firm wisdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.56 He whose mind is not shaken by adversity, who does not hanker after
-pleasures, and is free from attachment, fear and anger, is called a sage
-of steady wisdom.
+2.56 He whose mind is not shaken by adversity, who does not hanker after pleasures, and is free from attachment, fear and anger, is called a sage of steady wisdom.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/02_sAnkhya-yogaH_sarva-/56_duHkheShvanudvign.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-2.56 दुःखेषु in adversity; अनुद्विग्नमनाः of unshaken mind; सुखेषु in
-pleasure; विगतस्पृहः withut hankering; वीतरागभयक्रोधः free from
-attachment; fear and anger; स्थितधीः of steady wisdom; मुनिः sage;
-उच्यते (he) is called.Commentary Lord Krishna gives His answer to the
-second part of Arjunas estion as to the conduct of a sage of steady
-wisdom in the 56th; 57th and 58th verses.The mind of a sage of steady
-wisdom is not distressed in calamities. He is not affected by the three
-afflictions (Taapas) -- Adhyatmika (arising from diseases or disorders
-in ones own body); Adhidaivika (arising from thunder; lightning; storm;
+2.56 दुःखेषु in adversity; अनुद्विग्नमनाः of unshaken mind; सुखेषु in pleasure; विगतस्पृहः withut hankering; वीतरागभयक्रोधः free from attachment; fear and anger; स्थितधीः of steady wisdom; मुनिः sage;
+उच्यते (he) is called.Commentary Lord Krishna gives His answer to the second part of Arjunas estion as to the conduct of a sage of steady wisdom in the 56th; 57th and 58th verses.The mind of a sage of steady wisdom is not distressed in calamities. He is not affected by the three afflictions (Taapas) -- Adhyatmika (arising from diseases or disorders in ones own body); Adhidaivika (arising from thunder; lightning; storm;
 flood; etc.); and Adhibhautika (arising from scorpions; cobras; tigers;
-etc.). When he is placed in an affluent condition he does not long for
-sensual pleasures. (Cf.IV.10).
+etc.). When he is placed in an affluent condition he does not long for sensual pleasures. (Cf.IV.10).
 
 </details>
 </div>

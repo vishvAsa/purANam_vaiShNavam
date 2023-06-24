@@ -70,18 +70,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/02_na_me.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.2 However supernatural the vision and however great the knowledge of
-the host of the gods and the wise seers may be, they cannot comprehend
-My powers. They do not know My name, actions, essence, attributes etc.,
-for the reason that I am the source in every way of these gods and great
-seers. I am the source of their nature and knowledge, power etc. The
-knowledge given to them by Me according to their meritorious deeds
-constitutes the cause of their being gods, the great seers etc. That
-knowledge is limited. Thus, they have limited knowledge and do not know
-the real nature of My essence. Sri Krsna proceeds to explain that
-knowledge about His real nature, which is beyond the grasp of gods etc.,
-and which is the means for release from the evil that stands in the way
-of the rise of devotion.
+10.2 However supernatural the vision and however great the knowledge of the host of the gods and the wise seers may be, they cannot comprehend My powers. They do not know My name, actions, essence, attributes etc.,
+for the reason that I am the source in every way of these gods and great seers. I am the source of their nature and knowledge, power etc. The knowledge given to them by Me according to their meritorious deeds constitutes the cause of their being gods, the great seers etc. That knowledge is limited. Thus, they have limited knowledge and do not know the real nature of My essence. Sri Krsna proceeds to explain that knowledge about His real nature, which is beyond the grasp of gods etc.,
+and which is the means for release from the evil that stands in the way of the rise of devotion.
 
 </details>
 </div>
@@ -408,16 +399,14 @@ For, I am the first, in every respect, among the gods and great seers.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/02_na_me.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.2 Neither the gods nor the great sages know My majesty. For, in all
-respects, I am the source of the gods and the great sages.
+10.2 Neither the gods nor the great sages know My majesty. For, in all respects, I am the source of the gods and the great sages.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/02_na_me.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.2 Neither the professors of divinity nor the great ascetics know My
-origin, for I am the source of them all.
+10.2 Neither the professors of divinity nor the great ascetics know My origin, for I am the source of them all.
 
 </details>
 </div>
@@ -440,12 +429,7 @@ for in every way I am the source of all the gods and the great sages.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/10_vibhUti-vistAra-yoga/02_na_me.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-10.2 Commentary Prabhavam Origin. It may also mean great lordly
-power.Maharshis great sages like Bhrigu.As I am the source of all these
-gods; sages and living beings; it is very difficult for them to know
-Me.Sarvasah In every way -- not only am I the source of all the gods and
-the sages but also their efficient cause; their inner ruler and the
-dispenser or ordainer and the guide of their intellect; etc.
+10.2 Commentary Prabhavam Origin. It may also mean great lordly power.Maharshis great sages like Bhrigu.As I am the source of all these gods; sages and living beings; it is very difficult for them to know Me.Sarvasah In every way -- not only am I the source of all the gods and the sages but also their efficient cause; their inner ruler and the dispenser or ordainer and the guide of their intellect; etc.
 
 </details>
 </div>

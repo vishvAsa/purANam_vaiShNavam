@@ -62,11 +62,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/38_na_hi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.38 Nothing here in this world purifies like this knowledge; for the
-knowledge of the self destroys all evil. He who has reached perfection
-by practising Karma Yoga in its form of knowledge daily in the manner
-taught, in due time, of his own accord, attaints it, i.e., knowledge
-concerning his own self. Sri Krsna expounds the same lucidly thus:
+4.38 Nothing here in this world purifies like this knowledge; for the knowledge of the self destroys all evil. He who has reached perfection by practising Karma Yoga in its form of knowledge daily in the manner taught, in due time, of his own accord, attaints it, i.e., knowledge concerning his own self. Sri Krsna expounds the same lucidly thus:
 
 </details>
 </div>
@@ -366,8 +362,7 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 4.38. In this world there exists no purifier comparabel to knowledge.
-One who becomes perfect in Yoga finds this, on his own accord, in his
-Self in course of time.
+One who becomes perfect in Yoga finds this, on his own accord, in his Self in course of time.
 
 </details>
 </div>
@@ -375,33 +370,28 @@ Self in course of time.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 4.38 Indeed, there is nothing purifying here comparable to Knowledge.
-One who has become perfected after a (long) time through yoga, realizes
-That by himself in his own heart.
+One who has become perfected after a (long) time through yoga, realizes That by himself in his own heart.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/38_na_hi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.38 There is nothing in the world so purifying as wisdom; and he who is
-a perfect saint finds that at last in his own Self.
+4.38 There is nothing in the world so purifying as wisdom; and he who is a perfect saint finds that at last in his own Self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/04_jnAna-yogaH_brahmArp/38_na_hi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-4.38 For there is no purifier here eal to knowledge; he that is
-perfected in Karma Yoga finds this (knowledge) of his own accord in
-himself in due time.
+4.38 For there is no purifier here eal to knowledge; he that is perfected in Karma Yoga finds this (knowledge) of his own accord in himself in due time.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/38_na_hi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.38 Verily, there is no purifier in this world like knowledge. He who
-is perfected in Yoga finds it in the Self in time.
+4.38 Verily, there is no purifier in this world like knowledge. He who is perfected in Yoga finds it in the Self in time.
 
 </details>
 </div>
@@ -412,9 +402,7 @@ is perfected in Yoga finds it in the Self in time.
 here (in this world); विद्यते is; तत् that; स्वयम् oneself; योगसंसिद्धः
 perfected in Yoga; कालेन in time; आत्मनि in the Self; विन्दति
 finds.Commentary There exists no purifier eal to knowledge of the Self.
-He who has attained perfection by the constant practice of Karma Yoga
-and Dhyana Yoga (the Yoga of meditation) will; after a time; find the
-knowledge of the Self in himself.
+He who has attained perfection by the constant practice of Karma Yoga and Dhyana Yoga (the Yoga of meditation) will; after a time; find the knowledge of the Self in himself.
 
 </details>
 </div>

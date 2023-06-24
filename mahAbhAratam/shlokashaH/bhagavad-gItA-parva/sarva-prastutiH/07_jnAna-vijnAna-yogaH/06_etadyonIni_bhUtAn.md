@@ -81,26 +81,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.6 Know that all beings from Brahma down to a tuft of grass, who have
-their origin in these two Prakrtis of Mine, are aggregated forms of the
-self and of inanimate matter. Irrespective of whether they are existing
-in a superior or inferior form, the selves and inanimate matter are
-mixed together in them. On account of their origination in My two
-Prakrtis, they are Mine. So, know that because the entire universe has
-its origination in these two Prakrtis which have their origination in
-Me, I am myself the origin and dissolution of the entire universe. For
-the same reason, I am its Lord (Sesin). It is proved on the basis of the
-Srutis and Smrtis that these two, Prakrti and Purusa (matter and the
-self), which form the aggregate of all animate and inanimate beings,
-have the Supreme Person as their cause. This is evident from Sruti and
-Smrti texts like the following: 'The Mahat resolves into Avyakta,
-Avyakta into Aksara, Aksara into Tamas, and Tamas becomes one with the
-Supreme Lord' (Su. U., 2); 'O sage, distinct from the form of Visnu, the
-Supreme Lord, the two forms, Prakrti and Purusa, arise' (V. P., 1.2.24);
-and 'What was described by Me as Prakrti in its dual form of the
-manifest and the unmanifest, and the Purusa do merge in the Supreme
-Self, and the Supreme Self is the support of all. He is the Supreme Lord
-named Visnu, exalted in the Vedas and Vedanta' (V. P., 6.4.38-39).
+7.6 Know that all beings from Brahma down to a tuft of grass, who have their origin in these two Prakrtis of Mine, are aggregated forms of the self and of inanimate matter. Irrespective of whether they are existing in a superior or inferior form, the selves and inanimate matter are mixed together in them. On account of their origination in My two Prakrtis, they are Mine. So, know that because the entire universe has its origination in these two Prakrtis which have their origination in Me, I am myself the origin and dissolution of the entire universe. For the same reason, I am its Lord (Sesin). It is proved on the basis of the Srutis and Smrtis that these two, Prakrti and Purusa (matter and the self), which form the aggregate of all animate and inanimate beings,
+have the Supreme Person as their cause. This is evident from Sruti and Smrti texts like the following: 'The Mahat resolves into Avyakta,
+Avyakta into Aksara, Aksara into Tamas, and Tamas becomes one with the Supreme Lord' (Su. U., 2); 'O sage, distinct from the form of Visnu, the Supreme Lord, the two forms, Prakrti and Purusa, arise' (V. P., 1.2.24);
+and 'What was described by Me as Prakrti in its dual form of the manifest and the unmanifest, and the Purusa do merge in the Supreme Self, and the Supreme Self is the support of all. He is the Supreme Lord named Visnu, exalted in the Vedas and Vedanta' (V. P., 6.4.38-39).
 
 </details>
 </div>
@@ -352,7 +336,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।7.6।। यह जानो कि समम्पूर्ण भूत इन दोनों प्रकृतियों से उत्पत्ति वाले
-हैं। (अतः) मैं सम्पूर्ण जगत् का उत्पत्ति तथा प्रलय स्थान हूँ।।
+हैं। (अत:) मैं सम्पूर्ण जगत् का उत्पत्ति तथा प्रलय स्थान हूँ।।
 
 </details>
 </div>
@@ -406,24 +390,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.6. All beings are born of this womb. Hence keep \[them\] nearby. I am
-the origin as well as the dissolution of the entire world.
+7.6. All beings are born of this womb. Hence keep \[them\] nearby. I am the origin as well as the dissolution of the entire world.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.6 Understand thus that all things (sentient and insentient) have these
-as their source. I am the origin as also the end of the whole Universe.
+7.6 Understand thus that all things (sentient and insentient) have these as their source. I am the origin as also the end of the whole Universe.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.6 It is the womb of all being; for I am He by Whom the worlds were
-created and shall be dissolved.
+7.6 It is the womb of all being; for I am He by Whom the worlds were created and shall be dissolved.
 
 </details>
 </div>
@@ -438,8 +419,7 @@ Therefore, I am the origin and the dissolution of the whole universe.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/06_etadyonIni_bhUtAn.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.6 Know that these two (Natures) are the womb of all beings. So I am
-the source and dissolution of the whole universe.
+7.6 Know that these two (Natures) are the womb of all beings. So I am the source and dissolution of the whole universe.
 
 </details>
 </div>
@@ -447,19 +427,10 @@ the source and dissolution of the whole universe.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 7.6 एतद्योनीनि those of which these two (Prakritis) are the womb; भूतानि
-beings; सर्वाणि all; इति thus; उपधारय know; अहम् I; कृत्स्नस्य of the
-whole; जगतः of the world; प्रभवः source; प्रलयः dissolution; तथा
-also.Commentary These two Natures; the inferior and the superior; are
-the womb of all beings. As I am the source of these two Prakritis or
-Natures also; I am the cause of this universe. The whole universe
-originates from Me and dissolves in Me.In the Brahma Sutras (chapter 1;
-section 1; aphorism 2) it is said; Janmadyasya yatah meaning that
-Brahman is that omniscient and omnipotent cause from which proceed the
-origin; subsistence and dissolution of this world.Just as the mind is
-the material cause and also the seer (Drashta) for the objects seen in a
-dream; so also Isvara is the material cause of this world
-(UpadanaKarana) and also the seer (Drashta). He is also the efficient or
-the instrumental cause (NimittaKarana). (Cf.XIV.3)
+beings; सर्वाणि all; इति thus; उपधारय know; अहम् I; कृत्स्नस्य of the whole; जगतः of the world; प्रभवः source; प्रलयः dissolution; तथा
+also.Commentary These two Natures; the inferior and the superior; are the womb of all beings. As I am the source of these two Prakritis or Natures also; I am the cause of this universe. The whole universe originates from Me and dissolves in Me.In the Brahma Sutras (chapter 1;
+section 1; aphorism 2) it is said; Janmadyasya yatah meaning that Brahman is that omniscient and omnipotent cause from which proceed the origin; subsistence and dissolution of this world.Just as the mind is the material cause and also the seer (Drashta) for the objects seen in a dream; so also Isvara is the material cause of this world
+(UpadanaKarana) and also the seer (Drashta). He is also the efficient or the instrumental cause (NimittaKarana). (Cf.XIV.3)
 
 </details>
 </div>

@@ -88,31 +88,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.24 The expression 'Brahman is the instrument to offer with' (It is to
-be remembered that in Ramanuja's system 'Brahman' in the primary sense
-is the 'Whole' with the Supreme Being as the Soul and Atmans and Matter
+4.24 The expression 'Brahman is the instrument to offer with' (It is to be remembered that in Ramanuja's system 'Brahman' in the primary sense is the 'Whole' with the Supreme Being as the Soul and Atmans and Matter
 (Prakrti) as His body in inseparable union with the Whole. So the word
-'Brahman' can, according to the needs of each context, be used to
-indicate the Supreme Being, the Atman, or Prakrti; In verse 24 it has
-been used in all these senses. We have therefore put it in italics. See
-Introduction.) is adjectival to 'the oblation'. That by which an
-offering is given, such as a ladle, is an Arpana. It is called Brahman
-because it is an effect of Brahman, Brahman being the material cause of
-the universe. 'Brahmaarpanam' is the oblation, of which the instrument
-is Brahman. The oblation, just like the instrument with which it is
-offered, is also Brahman. It is offered by the agent Brahman into the
-fire of Brahman. He is the Brahma-karma-samadhi who contemplates thus on
-all acts as filled with the Supreme Brahman or as having the Supreme
-Brahman as the Self. He who contemplates on Brahman as the Soul of all
-actions, reaches Brahman alone, as his own self has the Supreme Brahman
-as Its Self. The meaning is that the individual self - which is Brahman
-because of Its having Brahman as Its Self - has to realise Its own real
-nature. All actions performed by an aspirant for release have the form
-of knowledge because of their association with the contemplation of the
-Supreme Brahman as their self. They are a direct means for the vision of
-the self without the meditation of Jnana Yoga. Thus, Sri Krsna, after
-explaining how Karma takes the form of knowledge, now speaks of the
-various kinds of Karma Yoga.
+'Brahman' can, according to the needs of each context, be used to indicate the Supreme Being, the Atman, or Prakrti; In verse 24 it has been used in all these senses. We have therefore put it in italics. See Introduction.) is adjectival to 'the oblation'. That by which an offering is given, such as a ladle, is an Arpana. It is called Brahman because it is an effect of Brahman, Brahman being the material cause of the universe. 'Brahmaarpanam' is the oblation, of which the instrument is Brahman. The oblation, just like the instrument with which it is offered, is also Brahman. It is offered by the agent Brahman into the fire of Brahman. He is the Brahma-karma-samadhi who contemplates thus on all acts as filled with the Supreme Brahman or as having the Supreme Brahman as the Self. He who contemplates on Brahman as the Soul of all actions, reaches Brahman alone, as his own self has the Supreme Brahman as Its Self. The meaning is that the individual self - which is Brahman because of Its having Brahman as Its Self - has to realise Its own real nature. All actions performed by an aspirant for release have the form of knowledge because of their association with the contemplation of the Supreme Brahman as their self. They are a direct means for the vision of the self without the meditation of Jnana Yoga. Thus, Sri Krsna, after explaining how Karma takes the form of knowledge, now speaks of the various kinds of Karma Yoga.
 
 </details>
 </div>
@@ -978,9 +956,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.24. The Brahman-oblation that is to be offered ot the Brahman, is
-poured into the Brahman-fire by the Brahman; it is nothing but the
-Brahman that is to be attained by him whose deep contemplation is the
+4.24. The Brahman-oblation that is to be offered ot the Brahman, is poured into the Brahman-fire by the Brahman; it is nothing but the Brahman that is to be attained by him whose deep contemplation is the
 \[said\] Brahman-action.
 
 </details>
@@ -989,21 +965,14 @@ Brahman that is to be attained by him whose deep contemplation is the
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 4.24 The ladle is Brahman \[Some translate as 'Brahman is the ladle৷৷.,'
-etc.-Tr.\], the oblations is Brahman, the offering is poured by Brahman
-in the fire of Brahman. Brahman alone is to be reached by him who has
-concentration on Brahman as the objective \[As an object to be known and
-attained. (Some translate brahma-karma-samadhina as, 'by him who sees
-Brahman in action'.)
+etc.-Tr.\], the oblations is Brahman, the offering is poured by Brahman in the fire of Brahman. Brahman alone is to be reached by him who has concentration on Brahman as the objective \[As an object to be known and attained. (Some translate brahma-karma-samadhina as, 'by him who sees Brahman in action'.)
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-4.24 For him, the sacrifice itself is the Spirit; the Spirit and the
-oblation are one; it is the Spirit Itself which is sacrificed in Its own
-fire, and the man even in action is united with God, since while
-performing his act, his mind never ceases to be fixed on Him.
+4.24 For him, the sacrifice itself is the Spirit; the Spirit and the oblation are one; it is the Spirit Itself which is sacrificed in Its own fire, and the man even in action is united with God, since while performing his act, his mind never ceases to be fixed on Him.
 
 </details>
 </div>
@@ -1011,41 +980,22 @@ performing his act, his mind never ceases to be fixed on Him.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 4.24 Brahman is the instrument to offer with; Brahman is the oblation.
-By Brahman is the oblation offered into the fire of Brahman; Brahman
-alone is to be reached by him who meditates on Him in his works.
+By Brahman is the oblation offered into the fire of Brahman; Brahman alone is to be reached by him who meditates on Him in his works.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.24 Brahman is the oblation; Brahman is the melted butter (ghee); by
-Brahman is the oblation poured into the fire of Brahman; Brahman verily
-shall be reached by him who always sees Brahman in action.
+4.24 Brahman is the oblation; Brahman is the melted butter (ghee); by Brahman is the oblation poured into the fire of Brahman; Brahman verily shall be reached by him who always sees Brahman in action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/04_jnAna-yogaH_brahmArp/24_brahmArpaNam.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-4.24 ब्रह्म Brahman; अर्पणम् the oblation; ब्रह्म Brahman; हविः the
-clarified butter; ब्रह्माग्नौ in the fire of Brahman; ब्रह्मणा by
-Brahman; हुतम् is offered; ब्रह्म Brahman; एव only; तेन by him;
-गन्तव्यम् shall be reached; ब्रह्मकर्मसमाधिना by the man who is absorbed
-in action which is Brahman.Commentary This is JnanaYajna or
-wisdomsacrifice wherein the idea of Brahman is substituted for the ideas
-of the instrument and other accessories of action; the idea of action
-itself and of its results. By entertaining such an idea the whole action
-melts away; as stated in the previous verse (No.23).When one attains to
-the knowledge of the Self or Selfrealisation his whole life becomes a
-wisdomsacrifice in which the oblation; the melted butter or the
-offering; the performer of the sacrifice; the action and the goal are
-all Brahman. He who meditates thus wholly upon Brahman shall verily
-attain to Brahman.The sage who has the knowledge of the Self knows that
-the oblation; the fire; the instrument by which the melted butter is
-poured into the fire and himself have no existence apart from that of
-Brahman. He who has realised through direct cognitio (Anubhava) that all
-is Brahman; does no action even if he performs actions. (Cf.III.15)
+4.24 ब्रह्म Brahman; अर्पणम् the oblation; ब्रह्म Brahman; हविः the clarified butter; ब्रह्माग्नौ in the fire of Brahman; ब्रह्मणा by Brahman; हुतम् is offered; ब्रह्म Brahman; एव only; तेन by him;
+गन्तव्यम् shall be reached; ब्रह्मकर्मसमाधिना by the man who is absorbed in action which is Brahman.Commentary This is JnanaYajna or wisdomsacrifice wherein the idea of Brahman is substituted for the ideas of the instrument and other accessories of action; the idea of action itself and of its results. By entertaining such an idea the whole action melts away; as stated in the previous verse (No.23).When one attains to the knowledge of the Self or Selfrealisation his whole life becomes a wisdomsacrifice in which the oblation; the melted butter or the offering; the performer of the sacrifice; the action and the goal are all Brahman. He who meditates thus wholly upon Brahman shall verily attain to Brahman.The sage who has the knowledge of the Self knows that the oblation; the fire; the instrument by which the melted butter is poured into the fire and himself have no existence apart from that of Brahman. He who has realised through direct cognitio (Anubhava) that all is Brahman; does no action even if he performs actions. (Cf.III.15)
 
 </details>
 </div>

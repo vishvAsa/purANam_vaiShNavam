@@ -50,15 +50,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.5 By the self (Atman), i.e., by the mind, which is unattached to
-sense-objects, one should raise the self. One should not allow the self
-to sink by a mind which is of the contrary kind. 'For the self alone,'
-i.e., the mind alone is the friend of the self; and it alone is the foe
-of the self. \[The figure of speech here is of Samsara as the ocean in
-which the individual self is like an object with liability to sink. What
-causes its sinking is the lingering attachments of the mind to some
-objects, though in the discipline of Jnana Yoga one may keep aloof from
-such objects. A mind with such attachments is the foe and without them,
+6.5 By the self (Atman), i.e., by the mind, which is unattached to sense-objects, one should raise the self. One should not allow the self to sink by a mind which is of the contrary kind. 'For the self alone,'
+i.e., the mind alone is the friend of the self; and it alone is the foe of the self. \[The figure of speech here is of Samsara as the ocean in which the individual self is like an object with liability to sink. What causes its sinking is the lingering attachments of the mind to some objects, though in the discipline of Jnana Yoga one may keep aloof from such objects. A mind with such attachments is the foe and without them,
 the friend.\]
 
 </details>
@@ -384,7 +377,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.5।। मनुष्य को अपने द्वारा अपना उद्धार करना चाहिये और अपना अधः पतन
+।।6.5।। मनुष्य को अपने द्वारा अपना उद्धार करना चाहिये और अपना अध: पतन
 नहीं करना चाहिये; क्योंकि आत्मा ही आत्मा का मित्र है और आत्मा (मनुष्य
 स्वयं) ही आत्मा का (अपना) शत्रु है।।
 
@@ -441,9 +434,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.5. Let a person lift the Self by self and let him not depress the
-Self. For, the self alone is the friend of the Self and self alone is
-the foe of the Self.
+6.5. Let a person lift the Self by self and let him not depress the Self. For, the self alone is the friend of the Self and self alone is the foe of the Self.
 
 </details>
 </div>
@@ -451,35 +442,28 @@ the foe of the Self.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 6.5 One should save oneself by oneself; one should not lower oneself.
-For oneself is verily one's onw friend; oneself is verily one's own
-enemy.
+For oneself is verily one's onw friend; oneself is verily one's own enemy.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.5 Let him seek liberation by the help of his Highest Self, and let him
-never disgrace his own Self. For that Self is his only friend; yet it
-may also be his enemy.
+6.5 Let him seek liberation by the help of his Highest Self, and let him never disgrace his own Self. For that Self is his only friend; yet it may also be his enemy.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.5 One should raise the self by his own mind and not allow the self to
-sink; for the mind alone is the friend of the self, and the mind alone
-is the foe of the slef.
+6.5 One should raise the self by his own mind and not allow the self to sink; for the mind alone is the friend of the self, and the mind alone is the foe of the slef.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/05_uddharedAtmanA-.a.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.5 One should raise oneself by one's Self alone; let not one lower
-oneself; for the Self alone is the friend of oneself, and the Self alone
-is the enemy of oneself.
+6.5 One should raise oneself by one's Self alone; let not one lower oneself; for the Self alone is the friend of oneself, and the Self alone is the enemy of oneself.
 
 </details>
 </div>
@@ -489,25 +473,7 @@ is the enemy of oneself.
 6.5 उद्धरेत् should raise; आत्मना by the Self; आत्मानम् the self; न not;
 आत्मानम् the self; अवसादयेत् let (him) lower; आत्मा the Self; एव only;
 हि verily; आत्मनः of the self; बन्धुः friend; आत्मा the Self; एव only;
-रिपुः the enemy; आत्मनः of the self.Commentary Practise Yog. Discipline
-the senses and the mind. Elevate yourself and become a Yogarudha. Attain
-to Yoga. Shine gloriously as a dynamic Yogi. Do not sink into the ocean
-of Samsara (transmigration). Do not become a wordlyminded man. Do not
-become a slave of lust; greed and anger. Rise above worldliness; become
-divine and attain Godhead.You alone are your friend you alone are your
-enemy. The socalled worldly friend is not your real friend; because he
-gets attached to you; wastes your time and puts obstacles on your path
-of Yoga. He is very selfish and keeps friendship with you only to
-extract something. If he is not able to get from you the object of his
-selfish interest; he forsakes you. Therefore he is your enemy in
-reality. If you are attached to your friend on account of delusion or
-affection; this will become a cause of your bondage to Samsara.Friends
-and enemies are not outside. They exist in the mind only. It is the mind
-that makes a friend an enemy and an enemy a friend. Therefore the Self
-alone is the friend of oneself; and the Self alone is the enemy of
-oneself. The lower mind or the Asuddha Manas (impure mind) is your real
-enemy because it binds you to the Samsara; and the higher mind or the
-Sattvic mind (Suddha Manas or the pure mind) is your real friend;
+रिपुः the enemy; आत्मनः of the self.Commentary Practise Yog. Discipline the senses and the mind. Elevate yourself and become a Yogarudha. Attain to Yoga. Shine gloriously as a dynamic Yogi. Do not sink into the ocean of Samsara (transmigration). Do not become a wordlyminded man. Do not become a slave of lust; greed and anger. Rise above worldliness; become divine and attain Godhead.You alone are your friend you alone are your enemy. The socalled worldly friend is not your real friend; because he gets attached to you; wastes your time and puts obstacles on your path of Yoga. He is very selfish and keeps friendship with you only to extract something. If he is not able to get from you the object of his selfish interest; he forsakes you. Therefore he is your enemy in reality. If you are attached to your friend on account of delusion or affection; this will become a cause of your bondage to Samsara.Friends and enemies are not outside. They exist in the mind only. It is the mind that makes a friend an enemy and an enemy a friend. Therefore the Self alone is the friend of oneself; and the Self alone is the enemy of oneself. The lower mind or the Asuddha Manas (impure mind) is your real enemy because it binds you to the Samsara; and the higher mind or the Sattvic mind (Suddha Manas or the pure mind) is your real friend;
 because it helps you in the attainment of Moksha.
 
 </details>

@@ -81,22 +81,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.55 Whosoever performs all acts like the study of the Vedas described
-above, considering them as several modes of worship, 'he works for Me.'
-He who 'looks upon Me as the highest,' namely, one to whom I alone am
-the highest purpose in all his enterprises, has Me as 'the highest end.'
-He who is 'devoted to me,' i.e., is greatly devoted to me and hence
-unable to sustain himself without reciting My names, praising Me,
-meditating upon Me, worshipping Me, saluting Me etc., he who performs
-these always considering Me as the supreme end - he is My devotee. He is
-'free from attachments,' as he is attached to me alone, and is therefore
-unable to have attachment to any other entity. He who is without hatred
-towards any being, is one who fulfils all the following conditions: his
-nature is to feel pleasure or pain solely on account of his union or
-separation from Me; he considers his own sins to be the cause of his
-sufferings (and not the work of others); he is confirmed in his faith
-that all beings are dependent on the Parama-purusa. For all these
-reasons he has no hatred for any one.
+11.55 Whosoever performs all acts like the study of the Vedas described above, considering them as several modes of worship, 'he works for Me.'
+He who 'looks upon Me as the highest,' namely, one to whom I alone am the highest purpose in all his enterprises, has Me as 'the highest end.'
+He who is 'devoted to me,' i.e., is greatly devoted to me and hence unable to sustain himself without reciting My names, praising Me,
+meditating upon Me, worshipping Me, saluting Me etc., he who performs these always considering Me as the supreme end - he is My devotee. He is
+'free from attachments,' as he is attached to me alone, and is therefore unable to have attachment to any other entity. He who is without hatred towards any being, is one who fulfils all the following conditions: his nature is to feel pleasure or pain solely on account of his union or separation from Me; he considers his own sins to be the cause of his sufferings (and not the work of others); he is confirmed in his faith that all beings are dependent on the Parama-purusa. For all these reasons he has no hatred for any one.
 
 </details>
 </div>
@@ -437,9 +426,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.55. He, who performs actions for \[attaining\] Me; who regards Me as
-his supreme goal; who is devoted to Me; who is free from attachment; and
-who is free from hatred towards all beings-he attains me, O son of Pandu
+11.55. He, who performs actions for \[attaining\] Me; who regards Me as his supreme goal; who is devoted to Me; who is free from attachment; and who is free from hatred towards all beings-he attains me, O son of Pandu
 !
 
 </details>
@@ -447,27 +434,21 @@ who is free from hatred towards all beings-he attains me, O son of Pandu
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.55 O son of Pandu, he who works for Me, accepts Me as the supreme
-Goal, is devoted to Me, is devoid of attachment and free from enmity
-towards all beings-he attains Me.
+11.55 O son of Pandu, he who works for Me, accepts Me as the supreme Goal, is devoted to Me, is devoid of attachment and free from enmity towards all beings-he attains Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.55 He whose every action is done for My sake, to whom I am the final
-goal, who loves Me only and hates no one - O My dearest son, only he can
-realize Me!"
+11.55 He whose every action is done for My sake, to whom I am the final goal, who loves Me only and hates no one - O My dearest son, only he can realize Me!"
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.55 Whosoever works for Me, looks upon Me as the highest and is
-devoted to Me, free from attached and without enmity towards any
-creature, he comes to Me, O Arjuna.
+11.55 Whosoever works for Me, looks upon Me as the highest and is devoted to Me, free from attached and without enmity towards any creature, he comes to Me, O Arjuna.
 
 </details>
 </div>
@@ -475,33 +456,17 @@ creature, he comes to Me, O Arjuna.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 11.55 He who does all actions for Me, who looks upon Me as the Supreme,
-who is devoted to Me, who is free from attachment, who bears enmity
-towards no creature, he comes to Me, O Arjuna.
+who is devoted to Me, who is free from attachment, who bears enmity towards no creature, he comes to Me, O Arjuna.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/55_matkarmakRnmatpar.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-11.55 मत्कर्मकृत् does actions for Me; मत्परमः looks on Me as the
-Supreme; मद्भक्तः is devoted to Me; सङ्गवर्जितः is freed from
-attachment; निर्वैरः without enmity; सर्वभूतेषु towards all creatures;
-यः who; सः he; माम् to Me; एति goes; पाण्डव O Arjuna.Commentary This is
-the essence of the whole teaching of the Gita. He who practises this
-teaching will attain Supreme Bliss and Immortality. This verse contains
-the summary of the entire philosophy of the Gita.He who performs actions
-(duties) for the sake of the Lord; who consecrates all his actions to
-Him; who serves the Lord with his heart and soul; who regards the Lord
-as his supreme goal; who lives for Him alone; who works for Him alone;
-who sees the Lord in everything; who sees the whole world as the Cosmic
-Form of the Lord and therefore cherishes no feeling of hatred or enmity
-towards any creature even when great injury has been done by others to
-him; who has no attachment or love to wealth; children; wife; friends
-and relatives; and who seeks nothing else but the Lord; realises Him and
-enters into His Being. He becomes one with Him.Thus in the Upanishads of
-the glorious Bhagavad Gita; the science of the Eternal; the scripture of
-Yoga; the dialogue between Sri Krishna and Arjuna; ends the eleventh
-discourse entitledThe Yoga of the Vision of the Cosmic Form.,
+11.55 मत्कर्मकृत् does actions for Me; मत्परमः looks on Me as the Supreme; मद्भक्तः is devoted to Me; सङ्गवर्जितः is freed from attachment; निर्वैरः without enmity; सर्वभूतेषु towards all creatures;
+यः who; सः he; माम् to Me; एति goes; पाण्डव O Arjuna.Commentary This is the essence of the whole teaching of the Gita. He who practises this teaching will attain Supreme Bliss and Immortality. This verse contains the summary of the entire philosophy of the Gita.He who performs actions
+(duties) for the sake of the Lord; who consecrates all his actions to Him; who serves the Lord with his heart and soul; who regards the Lord as his supreme goal; who lives for Him alone; who works for Him alone;
+who sees the Lord in everything; who sees the whole world as the Cosmic Form of the Lord and therefore cherishes no feeling of hatred or enmity towards any creature even when great injury has been done by others to him; who has no attachment or love to wealth; children; wife; friends and relatives; and who seeks nothing else but the Lord; realises Him and enters into His Being. He becomes one with Him.Thus in the Upanishads of the glorious Bhagavad Gita; the science of the Eternal; the scripture of Yoga; the dialogue between Sri Krishna and Arjuna; ends the eleventh discourse entitledThe Yoga of the Vision of the Cosmic Form.,
 
 </details>
 </div>

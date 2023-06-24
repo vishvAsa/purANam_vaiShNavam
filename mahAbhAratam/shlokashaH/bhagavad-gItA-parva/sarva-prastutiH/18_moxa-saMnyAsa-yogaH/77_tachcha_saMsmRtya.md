@@ -48,10 +48,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.77 Great amazement is caused in me, stirred by joy born of the
-repeated remembrance of that most marvellous and sovereign form of the
-Lord revealed to Arjuna and directly witnessed by me. I rejoice again
-and again. Why say more;
+18.77 Great amazement is caused in me, stirred by joy born of the repeated remembrance of that most marvellous and sovereign form of the Lord revealed to Arjuna and directly witnessed by me. I rejoice again and again. Why say more;
 
 </details>
 </div>
@@ -316,7 +313,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।18.77।। हे राजन ! श्री हरि के अति अद्भुत रूप को भी पुनः पुनः स्मरण
+।।18.77।। हे राजन ! श्री हरि के अति अद्भुत रूप को भी पुन: पुन: स्मरण
 करके मुझे महान् विस्मय होता है और मैं बारम्बार हर्षित हो रहा हूँ।।
 
 </details>
@@ -364,49 +361,42 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.77. O great king ! On recalling in the mind that extremely wonderful
-supreme form of Hari, I am amazed and I feel joyous again and again.
+18.77. O great king ! On recalling in the mind that extremely wonderful supreme form of Hari, I am amazed and I feel joyous again and again.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.77 O king, repeatedly recollecting that greatly extraordinary form of
-Hari, I am struck with wonder. And I rejoice again and again.
+18.77 O king, repeatedly recollecting that greatly extraordinary form of Hari, I am struck with wonder. And I rejoice again and again.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.77 As memory recalls again and again the exceeding beauty of the
-Lord, I am filled with amazement and happiness.
+18.77 As memory recalls again and again the exceeding beauty of the Lord, I am filled with amazement and happiness.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.77 And remembering over and over again that most marvellous form of
-Hari, great is my amazement, O King, and I rejoice again and again.
+18.77 And remembering over and over again that most marvellous form of Hari, great is my amazement, O King, and I rejoice again and again.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.77 And, remembering again and again, also that most wonderful form of
-Hari, great is my wonder, O King; and I rejoice again and again.
+18.77 And, remembering again and again, also that most wonderful form of Hari, great is my wonder, O King; and I rejoice again and again.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/77_tachcha_saMsmRtya.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.77 तत् that; च and; संस्मृत्य having remembered; संस्मृत्य having
-remembered; रूपम् the form; अत्यद्भुतम् the most wonderful; हरेः of
-Hari; विस्मयः wonder; मे my; महान् great; राजन् O King; हृष्यामि (I)
+18.77 तत् that; च and; संस्मृत्य having remembered; संस्मृत्य having remembered; रूपम् the form; अत्यद्भुतम् the most wonderful; हरेः of Hari; विस्मयः wonder; मे my; महान् great; राजन् O King; हृष्यामि (I)
 rejoice; च and; पुनः again; पुनः again.Commentary Form The Cosmic Form.
 (Cf.XI)
 

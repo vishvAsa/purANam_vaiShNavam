@@ -70,12 +70,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.21 These divinities too constitute My body as taught in the Sruti text
-like: 'He who, dwelling in the sun, whom the sun does not know, whose
-body is the sun' (Br. U., 3.7.9). Whichever devotee seeks to worship
-with faith whatever form of Mine, such as the Indra, although not
-knowing these divinities to be My forms, I consider his faith as being
-directed to My bodies or manifestations, and make his faith steadfast,
+7.21 These divinities too constitute My body as taught in the Sruti text like: 'He who, dwelling in the sun, whom the sun does not know, whose body is the sun' (Br. U., 3.7.9). Whichever devotee seeks to worship with faith whatever form of Mine, such as the Indra, although not knowing these divinities to be My forms, I consider his faith as being directed to My bodies or manifestations, and make his faith steadfast,
 i.e., make it free from obstacles.
 
 </details>
@@ -364,33 +359,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.21. Whatever may be the form \[of the deity\] a devotee-whosoever he
-may be-desires to worship with faith, I assume that form which is firm
-and is according to \[his\] faith.
+7.21. Whatever may be the form \[of the deity\] a devotee-whosoever he may be-desires to worship with faith, I assume that form which is firm and is according to \[his\] faith.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.21 Whichever form (of a deity) any devotee wants to worship with
-faith, that very firm faith of his I strengthen.
+7.21 Whichever form (of a deity) any devotee wants to worship with faith, that very firm faith of his I strengthen.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.21 But whatever the form of worship, if the devotee have faith, then
-upon his faith in that worship do I set My own seal.
+7.21 But whatever the form of worship, if the devotee have faith, then upon his faith in that worship do I set My own seal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/21_yo_yo.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.21 Whichever devotee seeks to worship with faith whatever form, I make
-that very faith steadfast.
+7.21 Whichever devotee seeks to worship with faith whatever form, I make that very faith steadfast.
 
 </details>
 </div>
@@ -406,12 +396,8 @@ that very faith steadfast.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 7.21 यः who; यः who; याम् which; याम् which; तनुम् form; भक्तः devotee;
-श्रद्धया with faith; अर्चितुम् to worship; इच्छति desires; तस्य तस्य of
-him; अचलाम् unflinching; श्रद्धाम् faith; ताम् that; एव surely; विदधामि
-make; अहम् I.Commentary Tanu or body is used here in the sense of a
-Devata (god).The Lord; the indweller of all beings; makes the faith of
-that devotee who worships the lesser divinities; which is born of the
-Samskaras of his previous birth; steady and unswerving.
+श्रद्धया with faith; अर्चितुम् to worship; इच्छति desires; तस्य तस्य of him; अचलाम् unflinching; श्रद्धाम् faith; ताम् that; एव surely; विदधामि
+make; अहम् I.Commentary Tanu or body is used here in the sense of a Devata (god).The Lord; the indweller of all beings; makes the faith of that devotee who worships the lesser divinities; which is born of the Samskaras of his previous birth; steady and unswerving.
 (Cf.IV.11IX.22and23)
 
 </details>

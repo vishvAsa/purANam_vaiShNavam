@@ -71,25 +71,10 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 9.25 The term 'Vrata' in the text denotes will, intention or motive.
-Those who intend to worship gods, like Indra and others with the
-resolution, 'Let us worship Indra and other gods by ceremonies like the
-new moon and full moon sacrifices' - such worshippers go to Indra and
-other gods. Those who intend worshipping manes, resolving 'Let us
-worship the manes through sacrifices,' - such worshippers go to the
-manes or others resolving - 'Let us worship the Yaksas, Raksasas,'
-Pisacas and other evil spirits' - they go to them. But those who, with
-the same rites of worship, worship Me with the intention, 'Let us
-worship Lord Vasudeva, the Supreme Self, whose body is constituted of
-gods, the manes and the evil spirits' - they are My worshippers and they
-reach Me only. Those who intend worshipping gods etc., attain gods etc.
-After sharing limited enjoyment with them, they are destroyed with them
-when the time comes for their destruction. But My worshippers attain Me,
-who has no beginning or end, who is omniscient, whose will is
-unfailingly effective, who is a great ocean of innumerable auspicious
-attributes of unlimited excellence and whose bliss too is of limitless
-excellence. They do not return to Samsara. Such is the meaning. Sri
-Krsna continues to say, 'There is also another distinguishing
-characteristic of My worshippers.'
+Those who intend to worship gods, like Indra and others with the resolution, 'Let us worship Indra and other gods by ceremonies like the new moon and full moon sacrifices' - such worshippers go to Indra and other gods. Those who intend worshipping manes, resolving 'Let us worship the manes through sacrifices,' - such worshippers go to the manes or others resolving - 'Let us worship the Yaksas, Raksasas,'
+Pisacas and other evil spirits' - they go to them. But those who, with the same rites of worship, worship Me with the intention, 'Let us worship Lord Vasudeva, the Supreme Self, whose body is constituted of gods, the manes and the evil spirits' - they are My worshippers and they reach Me only. Those who intend worshipping gods etc., attain gods etc.
+After sharing limited enjoyment with them, they are destroyed with them when the time comes for their destruction. But My worshippers attain Me,
+who has no beginning or end, who is omniscient, whose will is unfailingly effective, who is a great ocean of innumerable auspicious attributes of unlimited excellence and whose bliss too is of limitless excellence. They do not return to Samsara. Such is the meaning. Sri Krsna continues to say, 'There is also another distinguishing characteristic of My worshippers.'
 
 </details>
 </div>
@@ -443,46 +428,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.25. The votaries of the gods attain the gods; the votaries of the
-manes attain the manes; performers of sacrifices for the goblins attain
-the goblins; also the performers of scrifices for Me attain Me.
+9.25. The votaries of the gods attain the gods; the votaries of the manes attain the manes; performers of sacrifices for the goblins attain the goblins; also the performers of scrifices for Me attain Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-9.25 Votaries of the gods reach the gods; the votarites of the manes go
-to the manes; the worshippers of the Beings reach the Beings; and those
-who worship Me reach Me.
+9.25 Votaries of the gods reach the gods; the votarites of the manes go to the manes; the worshippers of the Beings reach the Beings; and those who worship Me reach Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.25 The votaries of the lesser Powers go to them; the devotees of
-spirits go to them; they who worship the Powers of Darkness, to such
-Powers shall they go; and so, too, those who worship Me shall come to
-Me.
+9.25 The votaries of the lesser Powers go to them; the devotees of spirits go to them; they who worship the Powers of Darkness, to such Powers shall they go; and so, too, those who worship Me shall come to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.25 Devotees of gods go to the gods. The manes-worshippers go to the
-manes. The worshippers of Bhutas go to the Bhutas. And those who worship
-Me come to Me.
+9.25 Devotees of gods go to the gods. The manes-worshippers go to the manes. The worshippers of Bhutas go to the Bhutas. And those who worship Me come to Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/25_yAnti_devavratA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.25 The worshippers of the gods go to them; to the manes go the
-ancestor-worshippers; to the deities who preside over the elements go
-their worshippers; but My devotees come to Me.
+9.25 The worshippers of the gods go to them; to the manes go the ancestor-worshippers; to the deities who preside over the elements go their worshippers; but My devotees come to Me.
 
 </details>
 </div>
@@ -490,22 +464,7 @@ their worshippers; but My devotees come to Me.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 9.25 यान्ति go; देवव्रताः worshippers of the gods; देवान् to the gods;
-पितॄन् to the Pitris or ancestors; यान्ति go; पितृव्रताः worshippers of
-the Pitris; भूतानि to the Bhutas; यान्ति go; भूतेज्याः the worshippers
-of the Bhutas; यान्ति go; मद्याजिनः My worshippers; अपि also; माम् to
-Me.Commentary The worshippers of the manes such as the Agnisvattas who
-perform Sraaddha and other rites in devotion to their ancestors go to
-the manes. Those who worship the gods with devotion and vows go to
-them.Bhutas are elemental beings lower than the gods but higher than
-human beigns they are the Vinayakas; the hosts of Matris; the four
-Bhaginis and the like.Those who devote themselves to the gods attain the
-form of those gods at death. Similar is the fate of those who worship
-the manes (their own ancestors) or the Bhutas. The fruit of the worship
-is in accordance with the knowledge; faith; offering and nature of
-worship of the devotee.Though the exertion is the same; people do not
-worship Me on account of their ignorance. Conseently they get very
-little reward.My devotees obtain endless fruit. They do not come back to
-this mortal world. It is also easy for them to worship Me. How
+पितॄन् to the Pitris or ancestors; यान्ति go; पितृव्रताः worshippers of the Pitris; भूतानि to the Bhutas; यान्ति go; भूतेज्याः the worshippers of the Bhutas; यान्ति go; मद्याजिनः My worshippers; अपि also; माम् to Me.Commentary The worshippers of the manes such as the Agnisvattas who perform Sraaddha and other rites in devotion to their ancestors go to the manes. Those who worship the gods with devotion and vows go to them.Bhutas are elemental beings lower than the gods but higher than human beigns they are the Vinayakas; the hosts of Matris; the four Bhaginis and the like.Those who devote themselves to the gods attain the form of those gods at death. Similar is the fate of those who worship the manes (their own ancestors) or the Bhutas. The fruit of the worship is in accordance with the knowledge; faith; offering and nature of worship of the devotee.Though the exertion is the same; people do not worship Me on account of their ignorance. Conseently they get very little reward.My devotees obtain endless fruit. They do not come back to this mortal world. It is also easy for them to worship Me. How
 (Cf.VII.23)
 
 </details>

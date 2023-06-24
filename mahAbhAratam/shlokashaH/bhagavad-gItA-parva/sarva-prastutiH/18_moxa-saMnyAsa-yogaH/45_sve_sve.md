@@ -59,9 +59,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.45 When one is devoted to his own duty in a way mentioned earlier, he
-attains perfection i.e., the supreme state. When a person is devoted to
-his duty, how he attains perfection, i.e., attains the supreme state,
+18.45 When one is devoted to his own duty in a way mentioned earlier, he attains perfection i.e., the supreme state. When a person is devoted to his duty, how he attains perfection, i.e., attains the supreme state,
 listen.
 
 </details>
@@ -477,16 +475,14 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 18.45. A man, devoted to his own respective action, attains success.
-Devoted to one's own action, how one attains success that you must hear
-from Me.
+Devoted to one's own action, how one attains success that you must hear from Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.45 Being devoted to his own duty, man attains complete success. Hear
-that as to how one devoted to his own duty achieves success.
+18.45 Being devoted to his own duty, man attains complete success. Hear that as to how one devoted to his own duty achieves success.
 
 </details>
 </div>
@@ -494,24 +490,21 @@ that as to how one devoted to his own duty achieves success.
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 18.45 Perfection is attained when each attends diligently to his duty.
-Listen and I will tell you how it is attained by him who always minds
-his own duty.
+Listen and I will tell you how it is attained by him who always minds his own duty.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.45 Devoted to his duty, man attains perfection. Hear now how one
-devoted to his own duty attains perfection.
+18.45 Devoted to his duty, man attains perfection. Hear now how one devoted to his own duty attains perfection.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/45_sve_sve.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.45 Each man devoted to his own duty attains perfection. How he
-attains perfection while being engaged in his own duty, hear now.
+18.45 Each man devoted to his own duty attains perfection. How he attains perfection while being engaged in his own duty, hear now.
 
 </details>
 </div>
@@ -519,19 +512,9 @@ attains perfection while being engaged in his own duty, hear now.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.45 स्वे in own; स्वे in own; कर्मणि to duty; अभिरतः devoted;
-संसिद्धिम् perfection; लभते attains; नरः a man; स्वकर्मनिरतः engaged in
-his own duty; सिद्धिम् perfection; यथा how; विन्दति finds; तत् that;
-श्रृणु hear.Commentary This is the division of labour for which each
-caste is fitted according to its own nature. The duty prescribed is your
-sole support; and the highest service you can render to the Supreme is
-to carry it out wholeheartedly; without expectation of fruits; with the
-attitutde of dedication to the Lord. This will surely lead you to the
-Supreme. All the impurities of the mind will be washed away by the
-performance of ones own duty and you will be fit for Selfknowledge.Sve
-sve karmani Each devoted to his own duty in accordance with his nature
-(Guna) or caste. It is impossible to attain Moksha by works alone but
-works purify the heart and prepare the aspirant for receiving the divine
-light.The attitude of worshipfulness is prescribed for work
+संसिद्धिम् perfection; लभते attains; नरः a man; स्वकर्मनिरतः engaged in his own duty; सिद्धिम् perfection; यथा how; विन्दति finds; तत् that;
+श्रृणु hear.Commentary This is the division of labour for which each caste is fitted according to its own nature. The duty prescribed is your sole support; and the highest service you can render to the Supreme is to carry it out wholeheartedly; without expectation of fruits; with the attitutde of dedication to the Lord. This will surely lead you to the Supreme. All the impurities of the mind will be washed away by the performance of ones own duty and you will be fit for Selfknowledge.Sve sve karmani Each devoted to his own duty in accordance with his nature
+(Guna) or caste. It is impossible to attain Moksha by works alone but works purify the heart and prepare the aspirant for receiving the divine light.The attitude of worshipfulness is prescribed for work
 
 </details>
 </div>

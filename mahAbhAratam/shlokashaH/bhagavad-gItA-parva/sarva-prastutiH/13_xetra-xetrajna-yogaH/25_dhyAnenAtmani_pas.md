@@ -56,14 +56,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/25_dhyAnenAtmani_pas.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.25 The different type of Yogis are described herein: (1) Some with
-perfect Yoga perceive the self (Atmanam) in the body with the mind
+13.25 The different type of Yogis are described herein: (1) Some with perfect Yoga perceive the self (Atmanam) in the body with the mind
 (Atmana) by meditation. (2) Others with imperfect Yoga see the self,
 with mind rendered fit for Yoga, by Sankhya Yoga, namely, Jnana Yoga,
-(3) Still others, (a) unalified to practise Jnana Yoga, and (b alified
-but preferring an easier method, and (c) also distinguished persons like
-Janaka - all these perceive the self after being alified for Yoga by
-Karma Yoga which contains within itself knowledge (Jnana).
+(3) Still others, (a) unalified to practise Jnana Yoga, and (b alified but preferring an easier method, and (c) also distinguished persons like Janaka - all these perceive the self after being alified for Yoga by Karma Yoga which contains within itself knowledge (Jnana).
 
 </details>
 </div>
@@ -481,41 +477,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 13.25. \[However\] by means of meditation, certain persons (Yogis)
-perceive the Self as the Self in the self (the heart etc.); others by
-the knowledge-Yoga; and others by the action-Yoga.
+perceive the Self as the Self in the self (the heart etc.); others by the knowledge-Yoga; and others by the action-Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/25_dhyAnenAtmani_pas.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.25 Through meditation some realize the Self in (their) intellect with
-the help of the internal organ; others through Sankhya-yoga, and others
-through Karma-yoga.
+13.25 Through meditation some realize the Self in (their) intellect with the help of the internal organ; others through Sankhya-yoga, and others through Karma-yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/25_dhyAnenAtmani_pas.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.25 Some realise the Supreme by meditating, by its aid, on the Self
-within, others by pure reason, others by right action.
+13.25 Some realise the Supreme by meditating, by its aid, on the Self within, others by pure reason, others by right action.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/13_xetra-xetrajna-yogaH/25_dhyAnenAtmani_pas.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-13.25 Some perceive the self within the self (body) by meditation by the
-self (mind), others by Sankhya Yoga, and still others by Karma Yoga.
+13.25 Some perceive the self within the self (body) by meditation by the self (mind), others by Sankhya Yoga, and still others by Karma Yoga.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/13_xetra-xetrajna-yogaH/25_dhyAnenAtmani_pas.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-13.25 Some by meditation behold the Self in the self by the self, others
-by the Yoga of knowledge, and still others by the Yoga of action.
+13.25 Some by meditation behold the Self in the self by the self, others by the Yoga of knowledge, and still others by the Yoga of action.
 
 </details>
 </div>
@@ -524,38 +514,8 @@ by the Yoga of knowledge, and still others by the Yoga of action.
 
 13.25 ध्यानेन by meditation; आत्मनि in the self; पश्यन्ति behold; केचित्
 some; आत्मानम् the Self; आत्मना by the self; अन्ये others; साङ्ख्येन
-योगेन by the Yoga of knowledge (by the Sankhya Yoga); कर्मयोगेन by Karma
-Yoga; च and; अपरे others.Commentary There are severla paths to reach the
-knowledge of the Self according to the nature or temperament and
-capacity of the individual. The first path is the Yoga of meditation
-taught by Maharshi Patanjali. The Raja Yogins behold the Supreme Self in
-the self (Buddhi) by the self (purified mind). Meditation is a continous
-and unbroken flow of thought of the Self like the flow of oil from one
-vessel to another. Through concentration hearing and the other senses
-are withdrawn into the mind. The senses are not allowed to run towards
-their respective sensual objects. They are kept under proper check and
-control through the process of abstraction. Then the mind itself is made
-to abide in the Self through constant meditation on the Self. The mind
-is refined or purified by meditation. The mind that is rendered pure
-will naturally move towards the Self. It is not attracted by nor is it
-attached to the sensual objects.Sankhya Yoga is Jnana Yoga. The aspirant
-does Vichara (analysis; reflection) and separates himself from the three
-alities of Nature; the three bodies and the five sheaths and identifies
-himself with the witness (Self). He thinks and feels; I am distinct from
-the three alities. I am the silent witness. I am unattached. I am
-nondoer. I am nonenjoyer. I am immortal; eternal; selfexistent;
-selfluminous; indivisible; unborn and unchanging.The Karma Yogi
-surrenders his actions and their fruits to the Lord. He has Isvarapana
-Buddhi (intelligence that offers everything to God). This produces
-purity of mind which gives rise to knowledge of the Self. Karma Yoga
-brings about concentration of the mind through the purification of the
-mind. It leads to Yoga through the purification of the mind and so it is
-spoken of as Yoga itself.Those who practise Sankhya Yoga are the highest
-class of spiritual aspirants. Those who practise the Yoga of meditation
-are aspirants of the middling class. Those who practise Karma Yoga are
-the lowest class of spiritual aspirants. The aspirants of the middling
-and lowest class soon become aspirants of the highest class through
-rigorous Sadhana or spiritual practices. (Cf.V.5VI.46)
+योगेन by the Yoga of knowledge (by the Sankhya Yoga); कर्मयोगेन by Karma Yoga; च and; अपरे others.Commentary There are severla paths to reach the knowledge of the Self according to the nature or temperament and capacity of the individual. The first path is the Yoga of meditation taught by Maharshi Patanjali. The Raja Yogins behold the Supreme Self in the self (Buddhi) by the self (purified mind). Meditation is a continous and unbroken flow of thought of the Self like the flow of oil from one vessel to another. Through concentration hearing and the other senses are withdrawn into the mind. The senses are not allowed to run towards their respective sensual objects. They are kept under proper check and control through the process of abstraction. Then the mind itself is made to abide in the Self through constant meditation on the Self. The mind is refined or purified by meditation. The mind that is rendered pure will naturally move towards the Self. It is not attracted by nor is it attached to the sensual objects.Sankhya Yoga is Jnana Yoga. The aspirant does Vichara (analysis; reflection) and separates himself from the three alities of Nature; the three bodies and the five sheaths and identifies himself with the witness (Self). He thinks and feels; I am distinct from the three alities. I am the silent witness. I am unattached. I am nondoer. I am nonenjoyer. I am immortal; eternal; selfexistent;
+selfluminous; indivisible; unborn and unchanging.The Karma Yogi surrenders his actions and their fruits to the Lord. He has Isvarapana Buddhi (intelligence that offers everything to God). This produces purity of mind which gives rise to knowledge of the Self. Karma Yoga brings about concentration of the mind through the purification of the mind. It leads to Yoga through the purification of the mind and so it is spoken of as Yoga itself.Those who practise Sankhya Yoga are the highest class of spiritual aspirants. Those who practise the Yoga of meditation are aspirants of the middling class. Those who practise Karma Yoga are the lowest class of spiritual aspirants. The aspirants of the middling and lowest class soon become aspirants of the highest class through rigorous Sadhana or spiritual practices. (Cf.V.5VI.46)
 
 </details>
 </div>

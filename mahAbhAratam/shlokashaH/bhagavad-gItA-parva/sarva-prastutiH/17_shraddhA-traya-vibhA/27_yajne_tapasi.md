@@ -67,12 +67,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.27 Therefore, devotion of persons of the first three stations who
-follow the Vedas in respect of sacrifices, austerities and gifts is
-called Sat, since it is auspicious. So the Vedas, Vedic acts and the
-three stations, expressed by the term 'brahmana,' since they are
-characterised by their connection with the words 'Om Tat Sat,' are to be
-distinguished from what are not the Vedas and Vedic.
+17.27 Therefore, devotion of persons of the first three stations who follow the Vedas in respect of sacrifices, austerities and gifts is called Sat, since it is auspicious. So the Vedas, Vedic acts and the three stations, expressed by the term 'brahmana,' since they are characterised by their connection with the words 'Om Tat Sat,' are to be distinguished from what are not the Vedas and Vedic.
 
 </details>
 </div>
@@ -443,8 +438,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.27. The steadfastness is performing sacrifice, in austerity and in
-giving gift is also called SAT; and also the act for such purpose is
+17.27. The steadfastness is performing sacrifice, in austerity and in giving gift is also called SAT; and also the act for such purpose is
 \[hence\] just called SAT.
 
 </details>
@@ -452,17 +446,14 @@ giving gift is also called SAT; and also the act for such purpose is
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.27 And the steadfastness in sacrifice, austerity and charity is
-spoken of as sat. And even the action meant for these is, verily, called
-as sat (good).
+17.27 And the steadfastness in sacrifice, austerity and charity is spoken of as sat. And even the action meant for these is, verily, called as sat (good).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/27_yajne_tapasi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.27 Conviction in sacrifice, in austerity and in giving is also called
-Sat.' So too an action done only for the Lord's sake.
+17.27 Conviction in sacrifice, in austerity and in giving is also called Sat.' So too an action done only for the Lord's sake.
 
 </details>
 </div>
@@ -478,8 +469,7 @@ and so any act for such purposes is named Sat.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 17.27 Steadfastness in sacrifice, austerity and gift, is also called
-'Sat' and also action in connection with these (or for the sake of the
-Supreme) is called 'Sat'.
+'Sat' and also action in connection with these (or for the sake of the Supreme) is called 'Sat'.
 
 </details>
 </div>
@@ -488,21 +478,8 @@ Supreme) is called 'Sat'.
 
 17.27 यज्ञे in sacrifice; तपसि in austerity; दाने in gift; च and;
 स्थितिः steadiness; सत् Sat; इति thus; च and; उच्यते is called; कर्म
-action; च and; एव also; तदर्थीयम् in connection with these or for the
-sake of the Supreme; सत् Sat; इति thus; एव even; अभिधीयते is
-called.Commentary If you perform sacrifice; austerity; gift and all
-actions in a spirit of total surrender to the Lord or the Eternal Being
-with purity and sincerity of heart; you will attain the highest goal of
-life or immortality; freedom and eternal bliss. If you do them in the
-name and for the sake of Brahman you will attain perfection and supreme
-peace of the Absolute.If you pin your faith on the glory and power of
-this name Om or Om Tat Sat; you will be freed from the bondage of birth
-and death. If you perform any sacrifice; austerity or charity or any
-action in a selfless and motiveless spirit; surrendering all the actions
-and their rewards to the Lord and if you utter the word Sat with faith;
-feeling and devotion; you will attain perfection and success in the
-action.Even the imperfect and nonSattvic acts of sacrifice; austerity
-and gift will be turned into perfect and Sattvic ones.These Sacrifice;
+action; च and; एव also; तदर्थीयम् in connection with these or for the sake of the Supreme; सत् Sat; इति thus; एव even; अभिधीयते is called.Commentary If you perform sacrifice; austerity; gift and all actions in a spirit of total surrender to the Lord or the Eternal Being with purity and sincerity of heart; you will attain the highest goal of life or immortality; freedom and eternal bliss. If you do them in the name and for the sake of Brahman you will attain perfection and supreme peace of the Absolute.If you pin your faith on the glory and power of this name Om or Om Tat Sat; you will be freed from the bondage of birth and death. If you perform any sacrifice; austerity or charity or any action in a selfless and motiveless spirit; surrendering all the actions and their rewards to the Lord and if you utter the word Sat with faith;
+feeling and devotion; you will attain perfection and success in the action.Even the imperfect and nonSattvic acts of sacrifice; austerity and gift will be turned into perfect and Sattvic ones.These Sacrifice;
 austerity and gift.
 
 </details>

@@ -671,8 +671,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.1. Arjuna said O krsna, you commend renunciation of action and again
-the Yoga of action; which one of these two is superior \[to the other\]
+5.1. Arjuna said O krsna, you commend renunciation of action and again the Yoga of action; which one of these two is superior \[to the other\]
 ; Please tell me that for certain.
 
 </details>
@@ -681,34 +680,28 @@ the Yoga of action; which one of these two is superior \[to the other\]
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 5.1 Arjuna said O Krsna, You praise renunciation of actions, and again,
-(Karma-) yoga. Tell me for certain that one which is better between
-these two.
+(Karma-) yoga. Tell me for certain that one which is better between these two.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.1 "Arjuna said: My Lord! At one moment Thou praisest renunciation of
-action; at another, right action. Tell me truly, I pray, which of these
-is the more conducive to my highest welfare;
+5.1 "Arjuna said: My Lord! At one moment Thou praisest renunciation of action; at another, right action. Tell me truly, I pray, which of these is the more conducive to my highest welfare;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.1 Arjuna said You praise, O Krsna, the renunciation of actions and
-then praise Karma Yoga also. Tell me with certainly which of these is
-the superior one leading to the ultimate good.
+5.1 Arjuna said You praise, O Krsna, the renunciation of actions and then praise Karma Yoga also. Tell me with certainly which of these is the superior one leading to the ultimate good.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/01_sannyAsa~N_karmaN.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.1 Arjuna said Renunciation of actions, O Krishna, Thou praisest, and
-again Yoga. Tell me conclusively that which is the better of the two.
+5.1 Arjuna said Renunciation of actions, O Krishna, Thou praisest, and again Yoga. Tell me conclusively that which is the better of the two.
 
 </details>
 </div>
@@ -720,10 +713,7 @@ again Yoga. Tell me conclusively that which is the better of the two.
 5.1 संन्यासम् renunciation; कर्मणाम् of actions; कृष्ण O Krishna; पुनः
 again; योगम् Yoga; च and; शंससि (Thou) praisest; यत् which; श्रेयः
 better; एतयोः of these two; एकम् one; तत् that; मे to me; ब्रूहि tell;
-सुनिश्चितम् conclusively.Commentary Thou teachest renunciation of
-actions and also their performance. This has confused me. Tell
-decisively now which is better. It is not possible for a man to resort
-to both of them at the same time. Yoga here means Karma Yoga. (Cf.III.2)
+सुनिश्चितम् conclusively.Commentary Thou teachest renunciation of actions and also their performance. This has confused me. Tell decisively now which is better. It is not possible for a man to resort to both of them at the same time. Yoga here means Karma Yoga. (Cf.III.2)
 
 </details>
 </div>

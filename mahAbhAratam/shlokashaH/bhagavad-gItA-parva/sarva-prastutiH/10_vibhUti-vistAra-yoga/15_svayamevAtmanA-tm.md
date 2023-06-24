@@ -70,13 +70,9 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 10.15 O Supreme Person, You Yourself know Yourself by Yourself; namely,
-by virtue of Your knowledge! O Creator of beings, namely, O Originator
-of all beings! O Lord of all beings, namely, O Controller of all beings!
-O God of gods, namely, O the Supreme Deity even of all divinities! Just
-as the gods surpass men, animals, birds, reptiles etc., in beauty,
-condescension and the host of auspicious alities, You, O Lord, in the
-same manner, transcend all these gods in all these attributes! O Ruler
-of the universe, O Master of the universe!
+by virtue of Your knowledge! O Creator of beings, namely, O Originator of all beings! O Lord of all beings, namely, O Controller of all beings!
+O God of gods, namely, O the Supreme Deity even of all divinities! Just as the gods surpass men, animals, birds, reptiles etc., in beauty,
+condescension and the host of auspicious alities, You, O Lord, in the same manner, transcend all these gods in all these attributes! O Ruler of the universe, O Master of the universe!
 
 </details>
 </div>
@@ -373,17 +369,14 @@ Creator of all beings, Lord of beings, God of gods, Lord of the Universe
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.15 O supreme Person, the Creator of beings, the Lord of beings, God
-of gods, the Lord of the worlds, You Yourself alone know Yourself by
-Yourself.
+10.15 O supreme Person, the Creator of beings, the Lord of beings, God of gods, the Lord of the worlds, You Yourself alone know Yourself by Yourself.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.15 Thou alone knowest Thyself, by the power of Thy Self; Thou the
-Supreme Spirit, the Source and Master of all being, the Lord of Lords,
+10.15 Thou alone knowest Thyself, by the power of Thy Self; Thou the Supreme Spirit, the Source and Master of all being, the Lord of Lords,
 the Ruler of the Universe.
 
 </details>
@@ -391,8 +384,7 @@ the Ruler of the Universe.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/15_svayamevAtmanA-tm.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.15 O Supreme Person, O Creator of beings, O Lord of beings, O God of
-gods, O Ruler of the universe, You Yourself know Yourself by Yourself.
+10.15 O Supreme Person, O Creator of beings, O Lord of beings, O God of gods, O Ruler of the universe, You Yourself know Yourself by Yourself.
 
 </details>
 </div>
@@ -410,13 +402,7 @@ O source and Lord of beings, O God of gods, O ruler of the world!
 10.15 स्वयम् Thyself; एव only; आत्मना by Thyself; आत्मानम् Thyself;
 वेत्थ (Thou) knowest; त्वम् Thou; पुरुषोत्तम O Purusha Supreme; भूतभावन
 O source of beings; भूतेश O Lord of beings; देवदेव O God of,gods;
-जगत्पते O ruler of the world.Commentary Purushottama means the best
-among all Purushas. He assumes the four forms; viz.; the source of
-beings; the Lord of beings; God of gods and ruler of the world. Hence He
-is called Purushottama.Devadeva is He who is worshipped even by Indra
-and other gods.Jagatpati The Lord protects the world and guides the
-people through the instructions given in the Vedas. Hence the name ruler
-of the world.
+जगत्पते O ruler of the world.Commentary Purushottama means the best among all Purushas. He assumes the four forms; viz.; the source of beings; the Lord of beings; God of gods and ruler of the world. Hence He is called Purushottama.Devadeva is He who is worshipped even by Indra and other gods.Jagatpati The Lord protects the world and guides the people through the instructions given in the Vedas. Hence the name ruler of the world.
 
 </details>
 </div>

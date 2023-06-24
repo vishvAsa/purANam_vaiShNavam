@@ -47,8 +47,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.12 That sacrifice, performed to gain fruits, full of ostentation and
-with fame as its aim, know that sacrifice to be characterised by Rajas.
+17.12 That sacrifice, performed to gain fruits, full of ostentation and with fame as its aim, know that sacrifice to be characterised by Rajas.
 
 </details>
 </div>
@@ -275,59 +274,44 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-17.12. What is offered aiming at fruit and also only for the sake of
-display-know that sacrifice to be of the Rajas (Strand) and to be
-transitary and impermanent.
+17.12. What is offered aiming at fruit and also only for the sake of display-know that sacrifice to be of the Rajas (Strand) and to be transitary and impermanent.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-17.12 But that sacrifice which is performed having in veiw a result, as
-also for ostentation,-know that sacrifice to be done through rajas, O
-greatest among the descendants of Bharata.
+17.12 But that sacrifice which is performed having in veiw a result, as also for ostentation,-know that sacrifice to be done through rajas, O greatest among the descendants of Bharata.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-17.12 Sacrifice which is performed for the sake of its results, or for
-self-glorification - that, O best of Aryans, is the product of Passion.
+17.12 Sacrifice which is performed for the sake of its results, or for self-glorification - that, O best of Aryans, is the product of Passion.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-17.12 But that sacrifice which is offered with the fruit in view and for
-the sake of ostentation, know it, O Arjuna, to be Rajasika.
+17.12 But that sacrifice which is offered with the fruit in view and for the sake of ostentation, know it, O Arjuna, to be Rajasika.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-17.12 The sacrifice which is offered, O Arjuna, seeking a reward and for
-ostentation, know thou that to be a Rajasic Yajna.
+17.12 The sacrifice which is offered, O Arjuna, seeking a reward and for ostentation, know thou that to be a Rajasic Yajna.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/17_shraddhA-traya-vibhA/12_abhisandhAya_tu.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-17.12 अभिसंधाय seeking for; तु indeed; फलम् fruit; दम्भार्थम् for
-ostentation; अपि also; च and; एव even; यत् which; इज्यते is offered;
+17.12 अभिसंधाय seeking for; तु indeed; फलम् fruit; दम्भार्थम् for ostentation; अपि also; च and; एव even; यत् which; इज्यते is offered;
 भरतश्रेष्ठ O best of the Bharatas; तम् that; यज्ञम् sacrifice; विद्धि
-know; राजसम् Rajasic.Commentary If anyone performs a sacrifice in order
-to obtain; heaven; son; wealth; or name and fame; then it is a sacrifice
-of a Rajasic nature. The performer of this kind of sacrifice has the
-motive of increasing his own importance; for popularising his own name
-in the world; for gaining some reward; for showing himself off as a
-great; pious and learned man; for making an exhibition of his riches for
-his own glorificaion. He has no aspiration for attaining the knowledge
-of the Self.
+know; राजसम् Rajasic.Commentary If anyone performs a sacrifice in order to obtain; heaven; son; wealth; or name and fame; then it is a sacrifice of a Rajasic nature. The performer of this kind of sacrifice has the motive of increasing his own importance; for popularising his own name in the world; for gaining some reward; for showing himself off as a great; pious and learned man; for making an exhibition of his riches for his own glorificaion. He has no aspiration for attaining the knowledge of the Self.
 
 </details>
 </div>

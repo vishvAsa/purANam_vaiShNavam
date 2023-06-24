@@ -94,22 +94,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-8.9 - 8.10 He who focusses his life-breath between the eyrows at the
-time of death with a mind rendered unswerving through its purification
-achieved by the strength of Yoga conjoined with Bhakti practised day
-after day; and he who contemplates on the 'Kavi' i.e., the Omniscient,
-the 'Primeval', i.e., who existed always, 'the Ruler,' i.e., who governs
-the universe, 'who is subtler than the subtle,' i.e., who is subtler
-than the individual self, 'who is the Dhata' of all, i.e., the creator
-of all, 'whose nature is inconceivable,' i.e., whose nature is other
-than everything else, 'who is sun-coloured and beyond darkness,' i.e.,
-who possesses a divine form peculiar to Himself - he who concentrates on
-Him, the Divine Person described above, between the eyrows, attains Him
-alone. He attains His state and comes to have power and glory similar to
-His. Such is the meaning. Then He describes the mode of meditation to be
-adopted by the seeker of Kaivalya or the Jijnasu (i.e., of one who seeks
-to know his own self or Atman in contrast to one whose object is
-God-realisation).
+8.9 - 8.10 He who focusses his life-breath between the eyrows at the time of death with a mind rendered unswerving through its purification achieved by the strength of Yoga conjoined with Bhakti practised day after day; and he who contemplates on the 'Kavi' i.e., the Omniscient,
+the 'Primeval', i.e., who existed always, 'the Ruler,' i.e., who governs the universe, 'who is subtler than the subtle,' i.e., who is subtler than the individual self, 'who is the Dhata' of all, i.e., the creator of all, 'whose nature is inconceivable,' i.e., whose nature is other than everything else, 'who is sun-coloured and beyond darkness,' i.e.,
+who possesses a divine form peculiar to Himself - he who concentrates on Him, the Divine Person described above, between the eyrows, attains Him alone. He attains His state and comes to have power and glory similar to His. Such is the meaning. Then He describes the mode of meditation to be adopted by the seeker of Kaivalya or the Jijnasu (i.e., of one who seeks to know his own self or Atman in contrast to one whose object is God-realisation).
 
 </details>
 </div>
@@ -603,8 +590,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-8.9. He, who meditates continuously on the Ancient Seer, the Ruler, the
-Subtler than the subtle, the Supporter of all, the Unimaginable-formed,
+8.9. He, who meditates continuously on the Ancient Seer, the Ruler, the Subtler than the subtle, the Supporter of all, the Unimaginable-formed,
 the Sun-coloured, and That which is beyond the darkness;
 
 </details>
@@ -612,44 +598,30 @@ the Sun-coloured, and That which is beyond the darkness;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-8.9 He who meditates on the Omniscient, the Anceint, the Ruler, subtler
-than the subtle, the Ordainer of everything, of inconceivable form,
-effulgent like the sun, and beyond darkness-(he attains the supreme
-Person).
+8.9 He who meditates on the Omniscient, the Anceint, the Ruler, subtler than the subtle, the Ordainer of everything, of inconceivable form,
+effulgent like the sun, and beyond darkness-(he attains the supreme Person).
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-8.9 Whoso meditates on the Omniscient, the Ancient, more minute than the
-atom, yet the Ruler and Upholder of all, Unimaginable, Brilliant like
-the Sun, Beyond the reach of darkness;
+8.9 Whoso meditates on the Omniscient, the Ancient, more minute than the atom, yet the Ruler and Upholder of all, Unimaginable, Brilliant like the Sun, Beyond the reach of darkness;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-8.9 Whosoever meditates on the Omniscient, the Ancient, the Ruler (of
-the whole world), minuter than an atom, the supporter of all, of
-inconceivable form, effulgent like the sun and beyond the darkness of
-ignorance.
+8.9 Whosoever meditates on the Omniscient, the Ancient, the Ruler (of the whole world), minuter than an atom, the supporter of all, of inconceivable form, effulgent like the sun and beyond the darkness of ignorance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/08_axara-para-brahma-yo/09_kavim_purANamanus.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-8.9 कविम् Omniscient; पुराणम् Ancient; अनुशासितारम् the Ruler (of the
-whole world); अणोः than atom; अणीयांसम् minuter; अनुस्मरेत् remembers;
-यः who; सर्वस्य of all; धातारम् supporter; अचिन्त्यरूपम् one whose form
-is inconceivable; आदित्यवर्णम् effulgent like the sun; तमसः from the
-darkness (of ignorance); परस्तात् beyond.Commentary Kavim The sage; seer
-or poet; the omniscient.The Lord dispenses the fruits of actions of the
-Jivas (individual souls). He is the Ruler of the world. It is very
-difficult to conceive the form of the Lord. He is selfluminous and He
-illumies everything like the sun.
+8.9 कविम् Omniscient; पुराणम् Ancient; अनुशासितारम् the Ruler (of the whole world); अणोः than atom; अणीयांसम् minuter; अनुस्मरेत् remembers;
+यः who; सर्वस्य of all; धातारम् supporter; अचिन्त्यरूपम् one whose form is inconceivable; आदित्यवर्णम् effulgent like the sun; तमसः from the darkness (of ignorance); परस्तात् beyond.Commentary Kavim The sage; seer or poet; the omniscient.The Lord dispenses the fruits of actions of the Jivas (individual souls). He is the Ruler of the world. It is very difficult to conceive the form of the Lord. He is selfluminous and He illumies everything like the sun.
 
 </details>
 </div>

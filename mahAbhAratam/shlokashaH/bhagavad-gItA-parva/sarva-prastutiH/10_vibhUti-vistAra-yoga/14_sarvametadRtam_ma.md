@@ -62,14 +62,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.14 Therefore, I deem all this to be a statement of facts as they are
-in reality, and not merely an exaggeration - all this which You tell me
-of Your sovereign glory and infinite auspicious attributes which are
-unie, unbounded, unsurpassed and natural. Therefore, O Lord, O Treasure
-of unsurpassed knowledge, power, strength, sovereignty, valour and
-radiance! - neither the gods nor the demons who possess limited
-knowledge know 'Your manifestation', the way in which You manifest
-Yourself.
+10.14 Therefore, I deem all this to be a statement of facts as they are in reality, and not merely an exaggeration - all this which You tell me of Your sovereign glory and infinite auspicious attributes which are unie, unbounded, unsurpassed and natural. Therefore, O Lord, O Treasure of unsurpassed knowledge, power, strength, sovereignty, valour and radiance! - neither the gods nor the demons who possess limited knowledge know 'Your manifestation', the way in which You manifest Yourself.
 
 </details>
 </div>
@@ -330,8 +323,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-10.14. What You tell me, I take all to be true, O Kesava ! For, O
-Bhagavat, neither the gods nor the great seers know Your manifestation.
+10.14. What You tell me, I take all to be true, O Kesava ! For, O Bhagavat, neither the gods nor the great seers know Your manifestation.
 
 </details>
 </div>
@@ -339,24 +331,21 @@ Bhagavat, neither the gods nor the great seers know Your manifestation.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 10.14 O Kesava, I accept to be true all this which You tell me.
-Certainly, O Lord, neither the gods nor the demons comprehend Your
-glory.
+Certainly, O Lord, neither the gods nor the demons comprehend Your glory.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.14 I believe in what Thou hast said, my Lord! For neither the godly
-not the godless comprehend Thy manifestation.
+10.14 I believe in what Thou hast said, my Lord! For neither the godly not the godless comprehend Thy manifestation.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/14_sarvametadRtam_ma.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.14 I deem as true all this that you say to Me, O Krsna. Verily O
-Lord, neither the gods nor the demons know Your manifestation.
+10.14 I deem as true all this that you say to Me, O Krsna. Verily O Lord, neither the gods nor the demons know Your manifestation.
 
 </details>
 </div>
@@ -364,8 +353,7 @@ Lord, neither the gods nor the demons know Your manifestation.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 10.14 I believe all this that Thou sayest to me to be true, O Krishna;
-verily, O blessed Lord! neither the gods nor the demons know Thy
-manifestation (origin).
+verily, O blessed Lord! neither the gods nor the demons know Thy manifestation (origin).
 
 </details>
 </div>
@@ -375,15 +363,9 @@ manifestation (origin).
 10.14 सर्वम् all; एतत् this; ऋतम् true; मन्ये (I) think; यत् which; माम्
 to me; वदसि (Thou) sayest; केशव O Krishna; न not; हि verily; ते Thy;
 भगवन् O blessed Lord; व्यक्तिम् manifestation; विदुः know; देवाः gods; न
-not; दानवाः demons.Commentary Bhagavan is He; in whom ever exist the six
-attributes in their fullness; viz.; Jnana (wisdom); Vairagya
-(dispassion); Aisvarya (lordship); Dharma (virtue); Sri (wealth) and
-Bala (omnipotence). Also; He Who knows the origin; dissolution and the
-future of all beings and Who is omniscient; is called Bhagavan.Vyakti
-Origin.Danavah Demons or the Titans.Arjuna addresses the Lord as Keshava
-(Lord of all) because the Lord knows what is going on in his mind; as He
-is omniscient. As the Lord is the source of the gods; the demons and
-others; they cannot comprehend His manifestation or origin. (Cf.IV.6)
+not; दानवाः demons.Commentary Bhagavan is He; in whom ever exist the six attributes in their fullness; viz.; Jnana (wisdom); Vairagya
+(dispassion); Aisvarya (lordship); Dharma (virtue); Sri (wealth) and Bala (omnipotence). Also; He Who knows the origin; dissolution and the future of all beings and Who is omniscient; is called Bhagavan.Vyakti Origin.Danavah Demons or the Titans.Arjuna addresses the Lord as Keshava
+(Lord of all) because the Lord knows what is going on in his mind; as He is omniscient. As the Lord is the source of the gods; the demons and others; they cannot comprehend His manifestation or origin. (Cf.IV.6)
 
 </details>
 </div>

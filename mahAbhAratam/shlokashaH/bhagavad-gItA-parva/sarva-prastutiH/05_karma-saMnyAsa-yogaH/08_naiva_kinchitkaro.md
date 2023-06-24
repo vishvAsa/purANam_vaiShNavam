@@ -48,14 +48,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.8 - 5.9 Thus he who knows the truth concerning the self should reflect
-in mind that the ear and the other organs of sensation (Jnanendriyas) as
-also organs of action (Karmendriyas) and the vital currents (the Pranas)
-are occupied with their own respective objects. Thus he should know, 'I
-do not do anything at all.' He should reflect, 'My intrinsic nature is
-one of knowledge. The sense of agency comes because of the association
-of the self with the senses and the Pranas which are rooted in Karma. It
-does not spring from my essential nature.'
+5.8 - 5.9 Thus he who knows the truth concerning the self should reflect in mind that the ear and the other organs of sensation (Jnanendriyas) as also organs of action (Karmendriyas) and the vital currents (the Pranas)
+are occupied with their own respective objects. Thus he should know, 'I do not do anything at all.' He should reflect, 'My intrinsic nature is one of knowledge. The sense of agency comes because of the association of the self with the senses and the Pranas which are rooted in Karma. It does not spring from my essential nature.'
 
 </details>
 </div>
@@ -398,8 +392,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.8. A master of Yoga, knowing the reality would think 'I do not perform
-any action at all'. For, he who, while seeing, hearing, touching,
+5.8. A master of Yoga, knowing the reality would think 'I do not perform any action at all'. For, he who, while seeing, hearing, touching,
 smelling, eating, going, sleeping and breathing;
 
 </details>
@@ -407,28 +400,23 @@ smelling, eating, going, sleeping and breathing;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.8-5.9 Remaining absorbed in the Self, the knower of Reality should
-think, 'I certainly do not do anything', even while seeing, hearing,
+5.8-5.9 Remaining absorbed in the Self, the knower of Reality should think, 'I certainly do not do anything', even while seeing, hearing,
 touching, smelling, eating, moving, sleeping, breathing, speaking,
-releasing, holding, opening and closing the eyes-remembering that the
-organs function in relation to the objects of the organs.
+releasing, holding, opening and closing the eyes-remembering that the organs function in relation to the objects of the organs.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.8 Though the saint sees, hears, touches, smells, eats, moves, sleeps
-and breathes, yet he knows the Truth, and he knows that it is not he who
-acts.
+5.8 Though the saint sees, hears, touches, smells, eats, moves, sleeps and breathes, yet he knows the Truth, and he knows that it is not he who acts.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.8 The knower of the truth, who is devoted to Yoga should think, 'I do
-not at all do anything' even though he is seeing, hearing, touching,
+5.8 The knower of the truth, who is devoted to Yoga should think, 'I do not at all do anything' even though he is seeing, hearing, touching,
 smelling, eating, moving, sleeping, breathing;
 
 </details>
@@ -436,8 +424,7 @@ smelling, eating, moving, sleeping, breathing;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/08_naiva_kinchitkaro.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.8 "I do nothing at all," thus would the harmonised knower of Truth
-think seeing, hearing, touching, smelling, eating, going, sleeping,
+5.8 "I do nothing at all," thus would the harmonised knower of Truth think seeing, hearing, touching, smelling, eating, going, sleeping,
 breathing.
 
 </details>
@@ -446,8 +433,7 @@ breathing.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 5.8 न not; एव even; किञ्चित् anything; करोमि I do; इति thus; युक्तः
-centred (in the Self); मन्येत should think; तत्त्ववित् the knower of
-Truth; पश्यन् seeing; श्रृण्वन् hearing; स्पृशन् touching; जिघ्रन्
+centred (in the Self); मन्येत should think; तत्त्ववित् the knower of Truth; पश्यन् seeing; श्रृण्वन् hearing; स्पृशन् touching; जिघ्रन्
 smelling; अश्नन् eating; गच्छन् going; स्वपन् sleeping; श्वसन्
 breathing.No Commentary.
 

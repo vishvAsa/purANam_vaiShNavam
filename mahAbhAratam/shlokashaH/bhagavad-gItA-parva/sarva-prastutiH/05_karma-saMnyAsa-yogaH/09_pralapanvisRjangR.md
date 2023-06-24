@@ -70,14 +70,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/09_pralapanvisRjangR.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.8 - 5.9 Thus he who knows the truth concerning the self should reflect
-in mind that the ear and the other organs of sensation (Jnanendriyas) as
-also organs of action (Karmendriyas) and the vital currents (the Pranas)
-are occupied with their own respective objects. Thus he should know, 'I
-do not do anything at all.' He should reflect, 'My intrinsic nature is
-one of knowledge. The sense of agency comes because of the association
-of the self with the senses and the Pranas which are rooted in Karma. It
-does not spring from my essential nature.'
+5.8 - 5.9 Thus he who knows the truth concerning the self should reflect in mind that the ear and the other organs of sensation (Jnanendriyas) as also organs of action (Karmendriyas) and the vital currents (the Pranas)
+are occupied with their own respective objects. Thus he should know, 'I do not do anything at all.' He should reflect, 'My intrinsic nature is one of knowledge. The sense of agency comes because of the association of the self with the senses and the Pranas which are rooted in Karma. It does not spring from my essential nature.'
 
 </details>
 </div>
@@ -396,44 +390,37 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/09_pralapanvisRjangR.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.9. Taking, rejecting, receiving, opening and closing the eyes, bears
-in mind that the sense-organs are on their respective objects; and
+5.9. Taking, rejecting, receiving, opening and closing the eyes, bears in mind that the sense-organs are on their respective objects; and
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/09_pralapanvisRjangR.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.8-5.9 Remaining absorbed in the Self, the knower of Reality should
-think, 'I certainly do not do anything', even while seeing, hearing,
+5.8-5.9 Remaining absorbed in the Self, the knower of Reality should think, 'I certainly do not do anything', even while seeing, hearing,
 touching, smelling, eating, moving, sleeping, breathing, speaking,
-releasing, holding, opening and closing the eyes-remembering that the
-organs function in relation to the objects of the organs.
+releasing, holding, opening and closing the eyes-remembering that the organs function in relation to the objects of the organs.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/09_pralapanvisRjangR.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.9 Though he talks, though he gives and receives, though he opens his
-eyes and shuts them, he still knows that his senses are merely
-disporting themselves among the objects of perception.
+5.9 Though he talks, though he gives and receives, though he opens his eyes and shuts them, he still knows that his senses are merely disporting themselves among the objects of perception.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/09_pralapanvisRjangR.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.9 Speaking, discharging, grasping, opening, closing his eyes etc. He
-should always bear in mind that the senses operate among sense-objects.
+5.9 Speaking, discharging, grasping, opening, closing his eyes etc. He should always bear in mind that the senses operate among sense-objects.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/09_pralapanvisRjangR.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.9 Speaking, letting go, seizing, opening and closing the eyes
-convinced that the senses move among the sense-objects.
+5.9 Speaking, letting go, seizing, opening and closing the eyes convinced that the senses move among the sense-objects.
 
 </details>
 </div>
@@ -443,12 +430,8 @@ convinced that the senses move among the sense-objects.
 5.9 प्रलपन् speaking; विसृजन् letting go; गृह्णन् seizing; उन्मिषन्
 opening (the eyes); निमिषन् closing (the eyes); अपि also; इन्द्रियाणि
 the senses; इन्द्रियार्थेषु amongst the senseobjects; वर्तन्ते move; इति
-thus; धारयन् being convinced.Commentary The liberated sage or a Jnani
-always remains as a witness of the activities of the senses as he
-identifies himself with the Self or Brahman. He thinks and says; I do
-not see the eyes perceive. I do not hear the ears hear. I do not smell;
-the nose smells; etc. He beholds,inaction in action as he has burnt his
-actions in the fire of wisdom. (Cf.XIV.1923)
+thus; धारयन् being convinced.Commentary The liberated sage or a Jnani always remains as a witness of the activities of the senses as he identifies himself with the Self or Brahman. He thinks and says; I do not see the eyes perceive. I do not hear the ears hear. I do not smell;
+the nose smells; etc. He beholds,inaction in action as he has burnt his actions in the fire of wisdom. (Cf.XIV.1923)
 
 </details>
 </div>

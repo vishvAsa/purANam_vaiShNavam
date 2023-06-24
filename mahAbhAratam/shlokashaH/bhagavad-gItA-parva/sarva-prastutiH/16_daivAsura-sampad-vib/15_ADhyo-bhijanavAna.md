@@ -59,11 +59,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/15_ADhyo-bhijanavAna.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.15 'I am rich by myself. Who else is there in this world like me
-gaining all glory with his own ability; I myself shall sacrifice, I
-shall give alms and I shall rejoice' - thus they think deluded by
-ignorance, viz., deluded by ignorance that they are themselves capable
-of offering sacrifices, gifts etc., unaided by the grace of God.
+16.15 'I am rich by myself. Who else is there in this world like me gaining all glory with his own ability; I myself shall sacrifice, I shall give alms and I shall rejoice' - thus they think deluded by ignorance, viz., deluded by ignorance that they are themselves capable of offering sacrifices, gifts etc., unaided by the grace of God.
 
 </details>
 </div>
@@ -308,8 +304,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/15_ADhyo-bhijanavAna.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.15. 'I am rich; I am of of noble birth; who else is eal ot me ; I
-shall perform sacrifices; I shall give gifts; and I shall rejoice' -
+16.15. 'I am rich; I am of of noble birth; who else is eal ot me ; I shall perform sacrifices; I shall give gifts; and I shall rejoice' -
 deluded by these wrong ideas;
 
 </details>
@@ -317,36 +312,28 @@ deluded by these wrong ideas;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/15_ADhyo-bhijanavAna.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.15 'I am rich and high-born; who else is there similar to me; I shall
-perform sacrifices; I shall give, I shall rejoice,'-thus they are
-diversely deluded by non-discrimination.
+16.15 'I am rich and high-born; who else is there similar to me; I shall perform sacrifices; I shall give, I shall rejoice,'-thus they are diversely deluded by non-discrimination.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/15_ADhyo-bhijanavAna.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.15 I am rich, I am well-bred; who is there to compare with me; I will
-sacrifice, I will give, I will pay - and I will enjoy. Thus blinded by
-Ignorance,
+16.15 I am rich, I am well-bred; who is there to compare with me; I will sacrifice, I will give, I will pay - and I will enjoy. Thus blinded by Ignorance,
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/15_ADhyo-bhijanavAna.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.15 ' I am wealthy and high-born; who else is eal to me; I shall
-sacrifice, I shall give alms, I shall rejoice.' Thus they think, deluded
-byignorance.
+16.15 ' I am wealthy and high-born; who else is eal to me; I shall sacrifice, I shall give alms, I shall rejoice.' Thus they think, deluded byignorance.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/16_daivAsura-sampad-vib/15_ADhyo-bhijanavAna.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-16.15 "I am rich and born in a noble family. Who else is equal to me; I
-shall perform sacrifices. I shall give (charity). I shall rejoice," thus
-deluded by ignorance.
+16.15 "I am rich and born in a noble family. Who else is equal to me; I shall perform sacrifices. I shall give (charity). I shall rejoice," thus deluded by ignorance.
 
 </details>
 </div>
@@ -355,18 +342,7 @@ deluded by ignorance.
 
 16.15 आढ्यः rich; अभिजनवान् wellborn; अस्मि (I) am; कः who; अन्यः else;
 अस्ति is; सदृशः eal; मया to me; यक्ष्ये (I) will sacrifice; दास्यामि (I)
-will give; मोदिष्ये (I) will rejoice; इति thus; अज्ञानविमोहिताः deluded
-by ignorance.Commentary Kubera (the god of wealth) may be wealthy; but
-he cannot be compared with me. Even Vishnu Himself does not possess the
-wealth that I possess. In comparison with my illustrious family and the
-extent of my relations even Brahma is indeed of inferior descent. They
-are as nothing when compared with me. Who then is there in the whole
-world eal to meWellborn Born in a family learned in the scriptures for
-seven generations. None is eal to me in this respect. I will do may
-sacrificial rites to get name and fame. None is eal to me in this
-respect also. I will give money and presents to those who entertain me
-with dance; music and songs in praise of me. None is eal to me in
-charity (giving) also. I will indulge in eating; drinking and women.
+will give; मोदिष्ये (I) will rejoice; इति thus; अज्ञानविमोहिताः deluded by ignorance.Commentary Kubera (the god of wealth) may be wealthy; but he cannot be compared with me. Even Vishnu Himself does not possess the wealth that I possess. In comparison with my illustrious family and the extent of my relations even Brahma is indeed of inferior descent. They are as nothing when compared with me. Who then is there in the whole world eal to meWellborn Born in a family learned in the scriptures for seven generations. None is eal to me in this respect. I will do may sacrificial rites to get name and fame. None is eal to me in this respect also. I will give money and presents to those who entertain me with dance; music and songs in praise of me. None is eal to me in charity (giving) also. I will indulge in eating; drinking and women.
 
 </details>
 </div>

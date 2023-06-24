@@ -63,15 +63,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/10_vibhUti-vistAra-yoga/39_yachchApi_sarvabh.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-10.39 Of all beings, in whatever condition they may exist, whether
-manifest or not, I alone am that state. Whatever host of beings are said
-to exist, they do not exist without Me as their Self. In the statement,
-'Nothing that moves or does not move exists without Me', it is taught
-that the Lord exists as the Self, as said in the beginning: 'I am the
-Self, seated in the hearts of all beings' (10.20). The purport is that
-the entire host of beings in every state, is united with Me, their Self.
-By this He makes it clear that He, being the Self of all things, is the
-ground for His being denoted by everything in co-ordinate predication.
+10.39 Of all beings, in whatever condition they may exist, whether manifest or not, I alone am that state. Whatever host of beings are said to exist, they do not exist without Me as their Self. In the statement,
+'Nothing that moves or does not move exists without Me', it is taught that the Lord exists as the Self, as said in the beginning: 'I am the Self, seated in the hearts of all beings' (10.20). The purport is that the entire host of beings in every state, is united with Me, their Self.
+By this He makes it clear that He, being the Self of all things, is the ground for His being denoted by everything in co-ordinate predication.
 
 </details>
 </div>
@@ -351,32 +345,28 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 10.39. Further, O Arjuna, I am that which is the seed of all beings;
-there is no being, whether moving or non-moving, that could exist
-without Me.
+there is no being, whether moving or non-moving, that could exist without Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/10_vibhUti-vistAra-yoga/39_yachchApi_sarvabh.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-10.39 Moreover, O Arjuna, whatsoever is the seed of all beings, that I
-am. There is no thing moving or non-moving which can exist without Me.
+10.39 Moreover, O Arjuna, whatsoever is the seed of all beings, that I am. There is no thing moving or non-moving which can exist without Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/10_vibhUti-vistAra-yoga/39_yachchApi_sarvabh.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-10.39 I am the Seed of all being, O Arjuna! No creature moving or
-unmoving can live without Me.
+10.39 I am the Seed of all being, O Arjuna! No creature moving or unmoving can live without Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/10_vibhUti-vistAra-yoga/39_yachchApi_sarvabh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-10.39 I am also that which is the seed of all beings, O Arjuna. Nothing
-that moves or does not move, exists without Me.
+10.39 I am also that which is the seed of all beings, O Arjuna. Nothing that moves or does not move, exists without Me.
 
 </details>
 </div>
@@ -384,8 +374,7 @@ that moves or does not move, exists without Me.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 10.39 And whatever is the seed of all beings, that also am I, O Arjuna;
-there is no being, whether moving or unmoving, that can exist without
-Me.
+there is no being, whether moving or unmoving, that can exist without Me.
 
 </details>
 </div>
@@ -395,11 +384,7 @@ Me.
 10.39 यत् which; च and; अपि also; सर्वभूतानाम् among all beings; बीजम्
 seed; तत् that; अहम् I; अर्जुन O Arjuna; न not; तत् that; अस्ति is; विना
 without; यत् which; स्यात् may be; मया by Me; भूतम् being; चराचरम्
-moving or unmoving.Commentary I am the primeval seed from which all
-creation has come into existence. I am the seed of everything. I am the
-Self of everything. Nothing can exist without Me. Everything is of My
-nature. I am the essence of everything. Without Me all things would be
-mere void. I am the soul of everything.
+moving or unmoving.Commentary I am the primeval seed from which all creation has come into existence. I am the seed of everything. I am the Self of everything. Nothing can exist without Me. Everything is of My nature. I am the essence of everything. Without Me all things would be mere void. I am the soul of everything.
 
 </details>
 </div>

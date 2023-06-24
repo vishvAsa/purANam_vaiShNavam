@@ -68,14 +68,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.36 Moreover, your enemies, the sons of Dhrtarastra, will make many
-remarks unutterably slanderous and disparaging to heroes, saying, 'How
-can this Partha stand in the presence of us, who are heroes, even for a
-moment; His prowess is elsewhere than in our presence.' Can there be
-anything more painful to you than this; You yourself will understand
-that death is preferable to subjection to disparagement of this kind.
-Sri Krsna now says that for a hero, enemies being slain by oneself and
-oneself being slain by enemies are both conducive to supreme bliss.
+2.36 Moreover, your enemies, the sons of Dhrtarastra, will make many remarks unutterably slanderous and disparaging to heroes, saying, 'How can this Partha stand in the presence of us, who are heroes, even for a moment; His prowess is elsewhere than in our presence.' Can there be anything more painful to you than this; You yourself will understand that death is preferable to subjection to disparagement of this kind.
+Sri Krsna now says that for a hero, enemies being slain by oneself and oneself being slain by enemies are both conducive to supreme bliss.
 
 </details>
 </div>
@@ -267,7 +261,7 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।2.36।। तुम्हारे शत्रु तुम्हारे सार्मथ्य की निन्दा करते हुए बहुत से
-अकथनीय वचनों को कहेंगे, फिर उससे अधिक दुःख क्या होगा ;
+अकथनीय वचनों को कहेंगे, फिर उससे अधिक दु:ख क्या होगा ;
 
 </details>
 </div>
@@ -301,40 +295,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.36. Slandering your ability, the enemies will talk of you many sayings
-that should not be talked of. Is there anything more painful than that ;
+2.36. Slandering your ability, the enemies will talk of you many sayings that should not be talked of. Is there anything more painful than that ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.36 And your enemies will speak many indecent words while denigrating
-your might. What can be more painful than that;
+2.36 And your enemies will speak many indecent words while denigrating your might. What can be more painful than that;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.36 Thine enemies will spread scandal and mock at thy courage. Can
-anything be more humiliating;
+2.36 Thine enemies will spread scandal and mock at thy courage. Can anything be more humiliating;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.36 Your enemies, slandering your prowess, will use words which should
-never be uttered. What could be more painful than that;
+2.36 Your enemies, slandering your prowess, will use words which should never be uttered. What could be more painful than that;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/36_avAchyavAdAMshcha.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.36 Thy enemies also, cavilling at thy power, will speak many abusive
-words. What is more painful than this;
+2.36 Thy enemies also, cavilling at thy power, will speak many abusive words. What is more painful than this;
 
 </details>
 </div>
@@ -344,8 +333,7 @@ words. What is more painful than this;
 2.36 अवाच्यवादान् words that are improper to be spoken; च and; बहून्
 many; वदिष्यन्ति will say; तव thy; अहिताः enemies; निन्दन्तः cavilling;
 तव thy; सामर्थ्यम् power; ततः than this; दुःखतरम् more painful; नु
-indeed; किम् what.Commentary There is really no pain more unbearable and
-tormenting that that of slander thus incurred.
+indeed; किम् what.Commentary There is really no pain more unbearable and tormenting that that of slander thus incurred.
 
 </details>
 </div>

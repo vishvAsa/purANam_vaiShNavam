@@ -78,13 +78,7 @@ _________________
 
 11.43 O Being of matchless greatness! You are the father of this world,
 of all that moves and does not move. You are the teacher of this world.
-Therefore You are the one most worthy of reverence in this world of
-mobile and immobile entities. There is none eal to You. How then could
-there be in the three worlds another greater than You; No other being is
-eal to You in point of any attribute like compassion etc. How could
-there be any one greater; Inasmuch as You are the father of all, the
-most worthy of reverence, teacher and exalted over all by virtue of
-attributes like compassion etc.,
+Therefore You are the one most worthy of reverence in this world of mobile and immobile entities. There is none eal to You. How then could there be in the three worlds another greater than You; No other being is eal to You in point of any attribute like compassion etc. How could there be any one greater; Inasmuch as You are the father of all, the most worthy of reverence, teacher and exalted over all by virtue of attributes like compassion etc.,
 
 </details>
 </div>
@@ -335,10 +329,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/43_pitAsi_lokasya.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.43. You are the father of the world of the moving and unmoving; You
-are the great preceptor of this universe; in the triad of worlds there
-is no one eal to You-How can there be anyone else superior ; - having
-greatness not comprehended.
+11.43. You are the father of the world of the moving and unmoving; You are the great preceptor of this universe; in the triad of worlds there is no one eal to You-How can there be anyone else superior ; - having greatness not comprehended.
 
 </details>
 </div>
@@ -346,56 +337,38 @@ greatness not comprehended.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 11.43 You are the Father of all beings moving and non-moving; to this
-(world) You are worthy of worship, the Teacher, and greater (than a
-teacher). There is none eal to You; how at all can there be anyone
-greater even in all the three worlds, O You or unrivalled power;
+(world) You are worthy of worship, the Teacher, and greater (than a teacher). There is none eal to You; how at all can there be anyone greater even in all the three worlds, O You or unrivalled power;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/11_vishva-rUpa-darshana/43_pitAsi_lokasya.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-11.43 For Thou art the Father of all things movable and immovable, the
-Worshipful, the Master of Masters! In all the worlds there is none equal
-to Thee, how then superior, O Thou who standeth alone, Supreme.
+11.43 For Thou art the Father of all things movable and immovable, the Worshipful, the Master of Masters! In all the worlds there is none equal to Thee, how then superior, O Thou who standeth alone, Supreme.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/43_pitAsi_lokasya.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.43 You are the father of this world, of all that moves and that does
-not move. You are its teacher and the one most worthy of reverence.
-There is none eal to You. How then could there be in the three worlds
-another greater than You, O Being of matchless greatness;
+11.43 You are the father of this world, of all that moves and that does not move. You are its teacher and the one most worthy of reverence.
+There is none eal to You. How then could there be in the three worlds another greater than You, O Being of matchless greatness;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/11_vishva-rUpa-darshana/43_pitAsi_lokasya.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-11.43 Thou art the Father of this world, moving and unmoving. Thou art
-to be adored by this world, Thou, the greatest Guru; (for) none there
-exists who is eal to Thee; how then could there be another superior to
-Thee in the three worlds, O Being of unealled power;
+11.43 Thou art the Father of this world, moving and unmoving. Thou art to be adored by this world, Thou, the greatest Guru; (for) none there exists who is eal to Thee; how then could there be another superior to Thee in the three worlds, O Being of unealled power;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/11_vishva-rUpa-darshana/43_pitAsi_lokasya.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-11.43 पिता Father; असि (Thou) art; लोकस्य of the world; चराचरस्य of the
-moving and unmoving; त्वम् Thou; अस्य of this; पूज्यः to be reserved; च
+11.43 पिता Father; असि (Thou) art; लोकस्य of the world; चराचरस्य of the moving and unmoving; त्वम् Thou; अस्य of this; पूज्यः to be reserved; च
 and; गुरुः the Guru; गरीयान् weightier; न not; त्वत्समः eal to Thee;
-अस्ति is; अभ्यधिकः surpassing; कुतः whence; अन्यः other; लोकत्रये in the
-three worlds; अपि also; अप्रतिमप्रभाव O Being of unealled
-power.Commentary There exists none who is eal to Thee There cannot be
-two or more Isvaras. If there were; the world will not get on as it does
-now. All the Isvaras may not be of one mind; as they would all be
-independent of one another. What one wishes to create; another may wish
-to destroyWhen there does not exist one who is eal to Thee; how could
-there be one superior to TheeFather Creator. As the Lord is the creator
-of this world He is fit to be adored. He is the greatest Guru also.
+अस्ति is; अभ्यधिकः surpassing; कुतः whence; अन्यः other; लोकत्रये in the three worlds; अपि also; अप्रतिमप्रभाव O Being of unealled power.Commentary There exists none who is eal to Thee There cannot be two or more Isvaras. If there were; the world will not get on as it does now. All the Isvaras may not be of one mind; as they would all be independent of one another. What one wishes to create; another may wish to destroyWhen there does not exist one who is eal to Thee; how could there be one superior to TheeFather Creator. As the Lord is the creator of this world He is fit to be adored. He is the greatest Guru also.
 Therefore there is no one who is eal to the Lord.
 
 </details>

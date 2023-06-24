@@ -101,31 +101,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.9 - 2.10 Sanjaya said Thus, the Lord, the Supreme Person, introduced
-the Sastra regarding the self for the sake of Arjuna - whose natural
-courage was lost due to love and compassion in a misplaced situation,
-who thought war to be unrighteous even though it was the highest duty
-for warriors (Ksatriyas), and who took refuge in Sri Krsna to know what
-his right duty was -, thinking that Arjuna's delusion would not come to
-an end except by the knowledge of the real nature of the self, and that
-war was an ordained duty here which, when freed from attachment to
-fruits, is a means for self-knowledge. Thus, has it been said by Sri
-Yamunacarya: 'The introduction to the Sastra was begun for the sake of
-Arjuna, whose mind was agitated by misplaced love and compassion and by
-the delusion that righteousness was unrighteousness, and who took refuge
-in Sri Krsna.' The Supreme Person spoke these words as if smiling, and
-looking at Arjuna, who was thus overcome by grief resulting from
-ignorance about the real nature of the body and the self, but was
-nevertheless speaking about duty as if he had an understanding that the
-self is distinct from the body, and while he (Arjuna), torn between
-contradictory ideas, had suddenly become inactive standing between the
-two armies that were getting ready to fight. Sri Krsna said, as if in
-ridicule, to Arjuna the words beginning with, 'There never was a time
-when I did not exist' (II. 12), and ending with 'I will release you from
-all sins; grieve not!' (XVIII. 66) - which have for their contents the
-real nature of the self, of the Supreme Self, and of the paths of work
-(Karma), knowledge (Jnana) and devotion (Bhakti) which constitute the
-means for attaining the highest spiritual fulfilment.
+2.9 - 2.10 Sanjaya said Thus, the Lord, the Supreme Person, introduced the Sastra regarding the self for the sake of Arjuna - whose natural courage was lost due to love and compassion in a misplaced situation,
+who thought war to be unrighteous even though it was the highest duty for warriors (Ksatriyas), and who took refuge in Sri Krsna to know what his right duty was -, thinking that Arjuna's delusion would not come to an end except by the knowledge of the real nature of the self, and that war was an ordained duty here which, when freed from attachment to fruits, is a means for self-knowledge. Thus, has it been said by Sri Yamunacarya: 'The introduction to the Sastra was begun for the sake of Arjuna, whose mind was agitated by misplaced love and compassion and by the delusion that righteousness was unrighteousness, and who took refuge in Sri Krsna.' The Supreme Person spoke these words as if smiling, and looking at Arjuna, who was thus overcome by grief resulting from ignorance about the real nature of the body and the self, but was nevertheless speaking about duty as if he had an understanding that the self is distinct from the body, and while he (Arjuna), torn between contradictory ideas, had suddenly become inactive standing between the two armies that were getting ready to fight. Sri Krsna said, as if in ridicule, to Arjuna the words beginning with, 'There never was a time when I did not exist' (II. 12), and ending with 'I will release you from all sins; grieve not!' (XVIII. 66) - which have for their contents the real nature of the self, of the Supreme Self, and of the paths of work
+(Karma), knowledge (Jnana) and devotion (Bhakti) which constitute the means for attaining the highest spiritual fulfilment.
 
 </details>
 </div>
@@ -367,8 +345,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.9. Sanjaya said O scorcher of foes (O Dhrtarastra) ! Having spoken to
-Hrsikesa (the master of sense-organs), Govinda (Krsna) in this manner,
+2.9. Sanjaya said O scorcher of foes (O Dhrtarastra) ! Having spoken to Hrsikesa (the master of sense-organs), Govinda (Krsna) in this manner,
 and having declared 'I will not fight', Gudakesa (Arjuna), became silent
 !
 
@@ -386,27 +363,21 @@ and having declared 'I will not fight', Gudakesa (Arjuna), became silent
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.9 Sanjaya continued: "Arjuna, the conqueror of all enemies, then told
-the Lord of All-Hearts that he would no fight, and became silent, O
-King!
+2.9 Sanjaya continued: "Arjuna, the conqueror of all enemies, then told the Lord of All-Hearts that he would no fight, and became silent, O King!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.9 Sanjaya said Having spoken thus to Sri Krsna, Arjuna, the coneror of
-sleep and the scorcher of foes, said, 'I will not fight' and became
-silent.
+2.9 Sanjaya said Having spoken thus to Sri Krsna, Arjuna, the coneror of sleep and the scorcher of foes, said, 'I will not fight' and became silent.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/09_evamuktvA_hRShIke.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.9 Sanjaya said Having spoken thus to Hrishikesha (the Lord of the
-senses), Arjuna (the coneror of sleep), the destroyer of foes, said to
-Krishna, "I will not fight" and became silent.
+2.9 Sanjaya said Having spoken thus to Hrishikesha (the Lord of the senses), Arjuna (the coneror of sleep), the destroyer of foes, said to Krishna, "I will not fight" and became silent.
 
 </details>
 </div>
@@ -414,8 +385,7 @@ Krishna, "I will not fight" and became silent.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 2.9 एवम् thus; उक्त्वा having spoken; हृषीकेशम् to Hrishikesha; गुडाकेशः
-Arjuna (the coneror of sleep); परन्तप destroyer of foes; न योत्स्ये I
-will not fight; इति thus; गोविन्दम् to Govinda; उक्त्वा having said;
+Arjuna (the coneror of sleep); परन्तप destroyer of foes; न योत्स्ये I will not fight; इति thus; गोविन्दम् to Govinda; उक्त्वा having said;
 तूष्णीम् silent; बभूव ह became.No commentary.
 
 </details>

@@ -75,14 +75,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.29 Among innumerable beings, someone, who by great austerity has got
-rid of sins and has increased his merits, realises this self possessing
-the above mentioned nature, which is wonderful and distinct in kind from
-all things other than Itself. Such a one speaks of It to another. Thus,
-someone hears of It. And even after hearing of It, no one knows It
-exactly that It really exists. The term 'ca' (and) implies that even
-amongst the seers, the speakers and hearers, one with authentic
-percepetion, authentic speech and authentic hearing, is a rarity.
+2.29 Among innumerable beings, someone, who by great austerity has got rid of sins and has increased his merits, realises this self possessing the above mentioned nature, which is wonderful and distinct in kind from all things other than Itself. Such a one speaks of It to another. Thus,
+someone hears of It. And even after hearing of It, no one knows It exactly that It really exists. The term 'ca' (and) implies that even amongst the seers, the speakers and hearers, one with authentic percepetion, authentic speech and authentic hearing, is a rarity.
 
 </details>
 </div>
@@ -759,46 +753,36 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.29. This someone observes as a wonder; similarly another speaks of
-This as a wonder; another hears This as a wonder; but even after
-hearing, not even one understands This.
+2.29. This someone observes as a wonder; similarly another speaks of This as a wonder; another hears This as a wonder; but even after hearing, not even one understands This.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.29 Someone visualizes It as a wonder; and similarly indeed, someone
-else talks of It as a wonder; and someone else hears of It as a wonder.
-And some one else, indeed, does not realize It even after hearing about
-It.
+2.29 Someone visualizes It as a wonder; and similarly indeed, someone else talks of It as a wonder; and someone else hears of It as a wonder.
+And some one else, indeed, does not realize It even after hearing about It.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.29 One hears of the Spirit with surprise, another thinks It
-marvellous, the third listens without comprehending. Thus, though many
-are told about It, scarcely is there one who knows It.
+2.29 One hears of the Spirit with surprise, another thinks It marvellous, the third listens without comprehending. Thus, though many are told about It, scarcely is there one who knows It.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.29 One looks upon This (self) as a wonder; likewise another speaks of
-It as a wonder; still another hears of It as a wonder; and even after
-hearing of It, one knows It not.
+2.29 One looks upon This (self) as a wonder; likewise another speaks of It as a wonder; still another hears of It as a wonder; and even after hearing of It, one knows It not.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/29_Ashcharyavatpashy.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.29 One sees This (the Self) as a wonder; another speaks of It as a
-wonder; another hears of It as a wonder; yet having heard, none
-understands It at all.
+2.29 One sees This (the Self) as a wonder; another speaks of It as a wonder; another hears of It as a wonder; yet having heard, none understands It at all.
 
 </details>
 </div>
@@ -809,10 +793,7 @@ understands It at all.
 (Self); आश्चर्यवत् as a wonder; वदति speaks of; तथा so; एव also; च and;
 अन्यः another; आश्चर्यवत् as a wonder; च and; एनम् this; अन्यः another;
 श्रृणोति hears; श्रुत्वा having heard; अपि even; एनम् this; वेद knows; न
-not; च and; एव also; कश्चित् any one.Commentary The verse may also be
-interpreted in this manner. He that sees; hears and speaks of the Self
-is a wonderful man. Such a man is very rare. He is one among many
-thousands. Thus the Self is very hard to understand.
+not; च and; एव also; कश्चित् any one.Commentary The verse may also be interpreted in this manner. He that sees; hears and speaks of the Self is a wonderful man. Such a man is very rare. He is one among many thousands. Thus the Self is very hard to understand.
 
 </details>
 </div>

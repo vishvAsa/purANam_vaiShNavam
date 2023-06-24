@@ -78,12 +78,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.13 - 6.14 Keeping the trunk, head and neck erect and motionless; well
-seated in order to be steady; looking not in any direction but gazing at
-the tip of the nose; serene, i.e., holding the mind extremely peaceful;
-fearless; firm in the vow of celibacy; holding the mind in check; and
-fixing his thoughts on Me - he should sit in Yoga, i.e., remain
-concentrated and intent on Me, i.e., he should concentrating on Me only.
+6.13 - 6.14 Keeping the trunk, head and neck erect and motionless; well seated in order to be steady; looking not in any direction but gazing at the tip of the nose; serene, i.e., holding the mind extremely peaceful;
+fearless; firm in the vow of celibacy; holding the mind in check; and fixing his thoughts on Me - he should sit in Yoga, i.e., remain concentrated and intent on Me, i.e., he should concentrating on Me only.
 
 </details>
 </div>
@@ -395,7 +391,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(हि) तेजोमयानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/hindI/tejomayAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-।।6.14।। (साधक को) प्रशान्त अन्तःकरण, निर्भय और ब्रह्मचर्य ब्रत में
+।।6.14।। (साधक को) प्रशान्त अन्त:करण, निर्भय और ब्रह्मचर्य ब्रत में
 स्थित होकर, मन को संयमित करके चित्त को मुझमें लगाकर मुझे ही परम लक्ष्य
 समझकर बैठना चाहिए।।
 
@@ -433,43 +429,35 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 6.14. Being calm-minded, fearless, firm in the vow of celibacy;
-controlling mind fully; let the master of Yoga remain, fixing his mind
-in Me and having Me \[alone\] as his supreme goal.
+controlling mind fully; let the master of Yoga remain, fixing his mind in Me and having Me \[alone\] as his supreme goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.14 He should remain seated with a placid mind, free from fear, firm in
-the vow of a celibate, and with the mind fixed on Me by controlling it
-through concentration, having Me as the supreme Goal.
+6.14 He should remain seated with a placid mind, free from fear, firm in the vow of a celibate, and with the mind fixed on Me by controlling it through concentration, having Me as the supreme Goal.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-6.14 With peace in his heart and nor fear, observing the vow of
-celibacy, with mind controlled and fixed on Me, let the student lose
-himself in contemplation of Me.
+6.14 With peace in his heart and nor fear, observing the vow of celibacy, with mind controlled and fixed on Me, let the student lose himself in contemplation of Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.14 Serene and fearless, firm in the vow of celibacy, holding the mind
-in check and fixing the thought on Me, he should sit in Yoga, intent on
-Me.
+6.14 Serene and fearless, firm in the vow of celibacy, holding the mind in check and fixing the thought on Me, he should sit in Yoga, intent on Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.14 Serene-minded, fearless, firm in the vow of a Brahmachari, having
-controlled the mind, thinking of Me and balanced in mind, let him sit,
+6.14 Serene-minded, fearless, firm in the vow of a Brahmachari, having controlled the mind, thinking of Me and balanced in mind, let him sit,
 having Me as his supreme goal.
 
 </details>
@@ -477,31 +465,12 @@ having Me as his supreme goal.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/06_Atma-saMyama-yogaH_a/14_prashAntAtmA.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-6.14 प्रशान्तात्मा sereneminded; विगतभीः fearless; ब्रह्मचारिव्रते in
-the vow of Brahmacharya; स्थितः firm; मनः the mind; संयम्य having
-controlled; मच्चित्तः thinking on Me; युक्तः balanced; आसीत let him sit;
-मत्परः Me as the supreme goal.Commentary The spiritual aspirant should
-possess serenity of mind. The Divine Light can descend only in a serene
-mind. Serenity is attained by the eradication of Vasanas or desires and
-cravings. He should be fearless. This is the most important alification.
+6.14 प्रशान्तात्मा sereneminded; विगतभीः fearless; ब्रह्मचारिव्रते in the vow of Brahmacharya; स्थितः firm; मनः the mind; संयम्य having controlled; मच्चित्तः thinking on Me; युक्तः balanced; आसीत let him sit;
+मत्परः Me as the supreme goal.Commentary The spiritual aspirant should possess serenity of mind. The Divine Light can descend only in a serene mind. Serenity is attained by the eradication of Vasanas or desires and cravings. He should be fearless. This is the most important alification.
 A timid man or a coward is very far from Selfrealisation.A Brahmachari
-(celibate) should serve his Guru or the spiritual preceptor
-wholeheartedly and should live on alms. This also constitutes the
-BrahmachariVrata. The aspirant should control the modifications of the
-mind. He should be balanced in pleasure and pain; heat and cold; honour
-and dishonour. He should ever think of the Lord and take Him as the
-Supreme Goal.Brahmacharya also means continence. Semen or the vital
-fluid tones the nerves and the brain; and energises the whole system.
-That Brahmachari who has preserved this vital force by the vow,of
-celibacy and sublimated it into Ojas Sakti or radiant spiritual power
-can practise steady meditation for a long period. Only he can ascend the
-ladder of Yoga. Without Brahmacharya or celibacy not an iota or
-spiritual progress is possible. Continence is the very foundation on
-which the superstructure of meditation and Samadhi can be built up. Many
-persons waste this vital energy -- a great spiritual treasure indeed --
-when they become blind and lose their power of reason under sexual
-excitement. Pitiable is their lot They cannot make substantial progress
-in Yoga.
+(celibate) should serve his Guru or the spiritual preceptor wholeheartedly and should live on alms. This also constitutes the BrahmachariVrata. The aspirant should control the modifications of the mind. He should be balanced in pleasure and pain; heat and cold; honour and dishonour. He should ever think of the Lord and take Him as the Supreme Goal.Brahmacharya also means continence. Semen or the vital fluid tones the nerves and the brain; and energises the whole system.
+That Brahmachari who has preserved this vital force by the vow,of celibacy and sublimated it into Ojas Sakti or radiant spiritual power can practise steady meditation for a long period. Only he can ascend the ladder of Yoga. Without Brahmacharya or celibacy not an iota or spiritual progress is possible. Continence is the very foundation on which the superstructure of meditation and Samadhi can be built up. Many persons waste this vital energy -- a great spiritual treasure indeed --
+when they become blind and lose their power of reason under sexual excitement. Pitiable is their lot They cannot make substantial progress in Yoga.
 
 </details>
 </div>

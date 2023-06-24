@@ -61,14 +61,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.30 The self within the body of everyone such as gods etc., must be
-considered to be eternally imperishable, though the body can be killed.
-Therefore, all beings from gods to immovable beings, even though they
-possess different forms, are all uniform and eternal in their nature as
-described above. The ineality and the perishableness pertain only to the
-bodies. Therefore, it is not fit for you to feel grief for any of the
-beings beginning from gods etc., and not merely for Bhisma and such
-others.
+2.30 The self within the body of everyone such as gods etc., must be considered to be eternally imperishable, though the body can be killed.
+Therefore, all beings from gods to immovable beings, even though they possess different forms, are all uniform and eternal in their nature as described above. The ineality and the perishableness pertain only to the bodies. Therefore, it is not fit for you to feel grief for any of the beings beginning from gods etc., and not merely for Bhisma and such others.
 
 </details>
 </div>
@@ -360,17 +354,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.30. O descendant of Bharata ! This embodied One in the body of every
-one is for ever incapable of being slain. Therefore you should not
-lament over all beings.
+2.30. O descendant of Bharata ! This embodied One in the body of every one is for ever incapable of being slain. Therefore you should not lament over all beings.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.30 O descendant of Bharata, this embodied Self existing in everyone's
-body can never be killed. Therefore you ought not to grieve for all
+2.30 O descendant of Bharata, this embodied Self existing in everyone's body can never be killed. Therefore you ought not to grieve for all
 (these) beings.
 
 </details>
@@ -378,26 +369,21 @@ body can never be killed. Therefore you ought not to grieve for all
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.30 Be not anxious about these armies. The Spirit in man is
-imperishable.
+2.30 Be not anxious about these armies. The Spirit in man is imperishable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.30 The self in the body, O Arjuna, is eternal and indestructible. This
-is so in the case of the selves in all bodies. Therefore, it is not fit
-for you to feet grief for any being.
+2.30 The self in the body, O Arjuna, is eternal and indestructible. This is so in the case of the selves in all bodies. Therefore, it is not fit for you to feet grief for any being.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/30_dehI_nityamavadhy.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.30 This, the Indweller in the body of everyone, is ever
-indestructible, O Arjuna; therefore, thou shouldst not grieve for any
-creature.
+2.30 This, the Indweller in the body of everyone, is ever indestructible, O Arjuna; therefore, thou shouldst not grieve for any creature.
 
 </details>
 </div>
@@ -406,10 +392,7 @@ creature.
 
 2.30 देही indweller; नित्यम् always; अवध्यः indestructible; अयम् this;
 देहे in the body; सर्वस्य of all; भारत O Bharata; तस्मात् therefore;
-सर्वाणि (for) all; भूतानि creatures; न not; त्वम् thou; शोचितुम् to
-grieve; अर्हसि (thou) shouldst.Commentary The body of any creature may
-be destroyed but the Self cannot be killed. Therefore you should not
-grieve regarding any creature whatever; Bhishma or anybody else.
+सर्वाणि (for) all; भूतानि creatures; न not; त्वम् thou; शोचितुम् to grieve; अर्हसि (thou) shouldst.Commentary The body of any creature may be destroyed but the Self cannot be killed. Therefore you should not grieve regarding any creature whatever; Bhishma or anybody else.
 
 </details>
 </div>

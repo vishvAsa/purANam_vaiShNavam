@@ -43,17 +43,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/01_arjuna-viShAda-yogaH/40_kulaxaye_praNashy.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The
-high-minded Arjuna, extremely kind, deeply friendly, and supremely
-righteous, having brothers like himself, though repeatedly deceived by
-the treacherous attempts of your people like burning in the lac-house
-etc., and therefore fit to be killed by him with the help of the Supreme
-Person, nevertheless said, 'I will not fight.' He felt weak, overcome as
-he was by his love and extreme compassion for his relatives. He was also
-filled with fear, not knowing what was righteous and what unrighteous.
-His mind was tortured by grief, because of the thought of future
-separation from his relations. So he threw away his bow and arrow and
-sat on the chariot as if to fast to death.
+1.26 - 1.47 Arjuna said - Sanjaya said Sanjaya continued: The high-minded Arjuna, extremely kind, deeply friendly, and supremely righteous, having brothers like himself, though repeatedly deceived by the treacherous attempts of your people like burning in the lac-house etc., and therefore fit to be killed by him with the help of the Supreme Person, nevertheless said, 'I will not fight.' He felt weak, overcome as he was by his love and extreme compassion for his relatives. He was also filled with fear, not knowing what was righteous and what unrighteous.
+His mind was tortured by grief, because of the thought of future separation from his relations. So he threw away his bow and arrow and sat on the chariot as if to fast to death.
 
 </details>
 </div>
@@ -292,8 +283,7 @@ when the duties perish, impiety inevitably dominates the entire family.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/01_arjuna-viShAda-yogaH/40_kulaxaye_praNashy.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-1.40 From the ruin of the family are totally destroyed the traditional
-rites and duties of the family. When rites and duties are destroyed,
+1.40 From the ruin of the family are totally destroyed the traditional rites and duties of the family. When rites and duties are destroyed,
 vice overpowers the entire family also.
 
 </details>
@@ -301,25 +291,21 @@ vice overpowers the entire family also.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/01_arjuna-viShAda-yogaH/40_kulaxaye_praNashy.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-1.40 The destruction of our kindred means the destruction of the
-traditions of our ancient lineage, and when these are lost, irreligion
-will overrun our homes.
+1.40 The destruction of our kindred means the destruction of the traditions of our ancient lineage, and when these are lost, irreligion will overrun our homes.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/01_arjuna-viShAda-yogaH/40_kulaxaye_praNashy.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-1.40 With the ruin of a clan, perish its ancient traditions, and when
-traditions perish, lawlessness overtakes the whole clan
+1.40 With the ruin of a clan, perish its ancient traditions, and when traditions perish, lawlessness overtakes the whole clan
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/01_arjuna-viShAda-yogaH/40_kulaxaye_praNashy.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-1.40. In the destruction of a family, the immemorial religious rites of
-that family perish; on the destruction of spirituality, impiety, indeed,
+1.40. In the destruction of a family, the immemorial religious rites of that family perish; on the destruction of spirituality, impiety, indeed,
 overcomes the whole family.
 
 </details>
@@ -332,8 +318,7 @@ overcomes the whole family.
 spirituality; नष्टे being destroyed; कुलम् कृत्स्नम् the whole family;
 अधर्मः impiety; अभिभवति overcomes; उत indeed.  
   
-Commentary Dharma -- the duties and ceremonies practised by the family
-in accordance with the injunctions of the scriptures.
+Commentary Dharma -- the duties and ceremonies practised by the family in accordance with the injunctions of the scriptures.
 
 </details>
 </div>

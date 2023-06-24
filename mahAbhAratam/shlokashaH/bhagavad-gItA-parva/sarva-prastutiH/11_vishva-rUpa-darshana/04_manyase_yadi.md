@@ -63,16 +63,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-11.4 If You think that Your form as all-creator, as all-ruler and as
-all-supporter, can be seen by me, then, O Lord of Yoga - Yoga is the
-property of having knowledge and other auspicious attributes, for it
-will be said later on: 'Behold My Lordly Yoga' (11.8) - O treasure of
-knowledge, strength, sovereignty, valour, power and glory which are
-inconceivable in any one else! Reveal Yourself to me completely.
-'Avyayam' (completely) is an adverb. The meaning is, 'Reveal everything
-about Yourself to me.' Thus, prayed to by Arjuna, who was desirous to
-know, and whose voice was therefore choked with fervour, the Lord said
-as follows to him:
+11.4 If You think that Your form as all-creator, as all-ruler and as all-supporter, can be seen by me, then, O Lord of Yoga - Yoga is the property of having knowledge and other auspicious attributes, for it will be said later on: 'Behold My Lordly Yoga' (11.8) - O treasure of knowledge, strength, sovereignty, valour, power and glory which are inconceivable in any one else! Reveal Yourself to me completely.
+'Avyayam' (completely) is an adverb. The meaning is, 'Reveal everything about Yourself to me.' Thus, prayed to by Arjuna, who was desirous to know, and whose voice was therefore choked with fervour, the Lord said as follows to him:
 
 </details>
 </div>
@@ -316,16 +308,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-11.4. O Master ! If you think that it is possible for me to see that
-form, then, O Lord of the Yogins, please show me Your Immortal Self.
+11.4. O Master ! If you think that it is possible for me to see that form, then, O Lord of the Yogins, please show me Your Immortal Self.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-11.4 O Lord, if You think that it is possible to be seen by me, then, O
-Lord of Yoga, You show me Your eternal Self.
+11.4 O Lord, if You think that it is possible to be seen by me, then, O Lord of Yoga, You show me Your eternal Self.
 
 </details>
 </div>
@@ -340,8 +330,7 @@ show me, O Lord of Lords, Thine own Eternal Self.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/11_vishva-rUpa-darshana/04_manyase_yadi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-11.4 If you think, O Lord, that it can be seen by me, then, O Lord of
-Yoga, reveal Yourself to me completely.
+11.4 If you think, O Lord, that it can be seen by me, then, O Lord of Yoga, reveal Yourself to me completely.
 
 </details>
 </div>
@@ -359,16 +348,8 @@ then, O Lord of the Yogins, show me Thy imperishable Self.
 11.4 मन्यसे Thou thinkest; यदि if; तत् that; शक्यम् possible; मया by me;
 द्रष्टुम् to see; इति thus; प्रभो O Lord; योगेश्वर O Lord of Yogins; ततः
 then; मे me; त्वम् Thou; दर्शय show; आत्मानम् (Thy) Self; अव्ययम्
-imperishable.Commentary Arjuna is very keen and eager to see the Cosmic
-Form of the Lord. He prays to Him to grant him the vision. This supreme
-vision can be obtained only through His grace.Yogesvara also means the
-Lord of Yoga. A Yogi is one who is endowed with the eight psychic powers
-(Siddhis). The Lord of the Yogins is Yogesvara. And; Yoga is identity of
-the individual soul with the Absolute. He who is able to bestow this
-realisation of identity on the deserving spiritual aspirant is
-Yogesvara.He Who is able to create; preserve; destroy; veil and
-graciously release is the Lord. (These five actions; Panchakriyas; are
-known respectively as Srishti; Sthiti; Samhara; Tirodhana and Anugraha.)
+imperishable.Commentary Arjuna is very keen and eager to see the Cosmic Form of the Lord. He prays to Him to grant him the vision. This supreme vision can be obtained only through His grace.Yogesvara also means the Lord of Yoga. A Yogi is one who is endowed with the eight psychic powers
+(Siddhis). The Lord of the Yogins is Yogesvara. And; Yoga is identity of the individual soul with the Absolute. He who is able to bestow this realisation of identity on the deserving spiritual aspirant is Yogesvara.He Who is able to create; preserve; destroy; veil and graciously release is the Lord. (These five actions; Panchakriyas; are known respectively as Srishti; Sthiti; Samhara; Tirodhana and Anugraha.)
 
 </details>
 </div>

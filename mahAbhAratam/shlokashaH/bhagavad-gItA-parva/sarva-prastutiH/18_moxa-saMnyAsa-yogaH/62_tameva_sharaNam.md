@@ -95,11 +95,8 @@ _________________
 
 18.62 Such being the case, take refuge with all your heart
 (Sarvabhavena), by every disposition of your body, senses and mind
-(Sarvatmana) in Him - Him, the ruler of all, who has become your
-charioteer out of compassion for dependents, and who orders you, 'Act
-thus' and so on. Even if you do not do so now, fighting in battle etc.,
-is inevitable for you who are ignorant and actuated by His Maya, but
-then you will get ruined. Therefore, fight etc., in the manner which has
+(Sarvatmana) in Him - Him, the ruler of all, who has become your charioteer out of compassion for dependents, and who orders you, 'Act thus' and so on. Even if you do not do so now, fighting in battle etc.,
+is inevitable for you who are ignorant and actuated by His Maya, but then you will get ruined. Therefore, fight etc., in the manner which has
 been explained by Him. Such is the meaning. Acting in this way, you will
 attain supreme peace, release from all bondage, and the eternal abode.
 Hundreds of Srutis declare it: 'That supreme place of Visnu which the
@@ -445,8 +442,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.62. To Him alone you must go for refuge with all your thought, O
-descendant of Bharata ! Through My Grace you will attain the success,
+18.62. To Him alone you must go for refuge with all your thought, O descendant of Bharata ! Through My Grace you will attain the success,
 the eternal abode.
 
 </details>
@@ -454,17 +450,14 @@ the eternal abode.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.62 Take refuge in Him alone with your whole being, O scion of the
-Bharata dynasty. Through His grace you will attain the supreme Peace and
-the eternal Abode.
+18.62 Take refuge in Him alone with your whole being, O scion of the Bharata dynasty. Through His grace you will attain the supreme Peace and the eternal Abode.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.62 With all thy strength, fly unto Him and surrender thyself, and by
-His grace shalt thou attain Supreme Peace and reach the Eternal Home.
+18.62 With all thy strength, fly unto Him and surrender thyself, and by His grace shalt thou attain Supreme Peace and reach the Eternal Home.
 
 </details>
 </div>
@@ -479,24 +472,17 @@ By His grace, you shall find supreme peace and eternal abode.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.62 Fly unto Him for refuge with all thy being, O Arjuna; by His grace
-thou shalt obtain supreme peace (and) the eternal abode.
+18.62 Fly unto Him for refuge with all thy being, O Arjuna; by His grace thou shalt obtain supreme peace (and) the eternal abode.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/18_moxa-saMnyAsa-yogaH/62_tameva_sharaNam.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-18.62 तम् to Him; एव even; शरणम् गच्छ take refuge; सर्वभावेन with all
-thy being; भारत O Bharata; तत्प्रसादात् by His grace; पराम् supreme;
+18.62 तम् to Him; एव even; शरणम् गच्छ take refuge; सर्वभावेन with all thy being; भारत O Bharata; तत्प्रसादात् by His grace; पराम् supreme;
 शान्तिम् peace; स्थानम् the abode; प्राप्स्यसि (thou) shalt obtain;
 शाश्वतम् eternal.Commentary Do total and perfect surrender to the Lord.
-Do not keep any secret desires for silent gratification. Desire and
-egoism are the two chief obstacles that stand in the way of
-selfsurrender. Kill them ruthlessly.Run to the Lord for shelter with all
-thy being for freeing thyself from the troubles; afflictions and sorrows
-of Samsara. Take the Lord as the sole refuge. Then by His grace; thou
-shalt obtain supreme peace and attain to the supreme; eternal Abode.
+Do not keep any secret desires for silent gratification. Desire and egoism are the two chief obstacles that stand in the way of selfsurrender. Kill them ruthlessly.Run to the Lord for shelter with all thy being for freeing thyself from the troubles; afflictions and sorrows of Samsara. Take the Lord as the sole refuge. Then by His grace; thou shalt obtain supreme peace and attain to the supreme; eternal Abode.
 
 </details>
 </div>

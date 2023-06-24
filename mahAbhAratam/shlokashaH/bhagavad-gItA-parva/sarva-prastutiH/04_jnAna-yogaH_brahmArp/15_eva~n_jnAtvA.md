@@ -65,15 +65,8 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/04_jnAna-yogaH_brahmArp/15_eva~n_jnAtvA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-4.15 Actions of the kind described above were performed even by the
-aspirants of old for liberation, who have become free from evil after
-knowing Me in this way. Therefore, after having got rid of the sins by
-knowledge of Me in the aforesaid way, perform actions in the same way as
-they were performed by those ancients like Vivasvan, Manu etc., in olden
-times, in the way in which their performance was taught by Me even then.
-I shall declare it again in what follows. Sri Krsna stresses the
-difficulty of undertaking the type of Karma that is going to be taught
-now.
+4.15 Actions of the kind described above were performed even by the aspirants of old for liberation, who have become free from evil after knowing Me in this way. Therefore, after having got rid of the sins by knowledge of Me in the aforesaid way, perform actions in the same way as they were performed by those ancients like Vivasvan, Manu etc., in olden times, in the way in which their performance was taught by Me even then.
+I shall declare it again in what follows. Sri Krsna stresses the difficulty of undertaking the type of Karma that is going to be taught now.
 
 </details>
 </div>
@@ -371,18 +364,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/04_jnAna-yogaH_brahmArp/15_eva~n_jnAtvA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-4.15. Realizing in this fashion, action had been under-taken also by
-ancient seekers of salvation. Hence, you too should perform, by all
-means, the more ancient action that had been performed by the ancients.
+4.15. Realizing in this fashion, action had been under-taken also by ancient seekers of salvation. Hence, you too should perform, by all means, the more ancient action that had been performed by the ancients.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/04_jnAna-yogaH_brahmArp/15_eva~n_jnAtvA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-4.15 Having known thus, duties were performed even by the ancient
-seekers of Liberation. Thererfore you undertake action itself as was
-performed earlier by the ancient ones.
+4.15 Having known thus, duties were performed even by the ancient seekers of Liberation. Thererfore you undertake action itself as was performed earlier by the ancient ones.
 
 </details>
 </div>
@@ -405,9 +394,7 @@ Therefore, do your wok only as the ancients did in olden times.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/04_jnAna-yogaH_brahmArp/15_eva~n_jnAtvA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-4.15 Having known this, the ancient seekers after freedom also performed
-action; therefore do thou also perform action, as did the ancients in
-days of yore.
+4.15 Having known this, the ancient seekers after freedom also performed action; therefore do thou also perform action, as did the ancients in days of yore.
 
 </details>
 </div>
@@ -416,16 +403,7 @@ days of yore.
 
 4.15 एवं thus; ज्ञात्वा having known; कृतम् (was) done; कर्म action;
 पूर्वैः by ancients; अपि also; मुमुक्षुभिः seekers after freedom; कुरु
-perform; कर्म action; एव even; तस्मात् therefore; त्वम् thou; पूर्वैः by
-ancients;,पूर्वतरम् in the olden time; कृतम् done.Commentary Knowing
-thus that the Self can have no desire for the fruits of actions and
-cannot be tainted by them; and knowing that no one can be tainted if he
-works without egoism; attachment and expectation of fruits; do thou
-perform your duty.If your heart is impure; perform actions for its
-purification. If you have attained AtmaJnana or the knowledge of the
-Self; work for the wellbeing of the world. The ancients such as Janaka
-and others performed actions in the days of yore. So do thou also
-perform action.
+perform; कर्म action; एव even; तस्मात् therefore; त्वम् thou; पूर्वैः by ancients;,पूर्वतरम् in the olden time; कृतम् done.Commentary Knowing thus that the Self can have no desire for the fruits of actions and cannot be tainted by them; and knowing that no one can be tainted if he works without egoism; attachment and expectation of fruits; do thou perform your duty.If your heart is impure; perform actions for its purification. If you have attained AtmaJnana or the knowledge of the Self; work for the wellbeing of the world. The ancients such as Janaka and others performed actions in the days of yore. So do thou also perform action.
 
 </details>
 </div>

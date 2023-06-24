@@ -77,12 +77,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.28 But he who knows the truth about the divisions of the Gunas and
-their actions - namely, about the division among Sattva etc., on the one
-hand, and the divisions among their respective functionings on the other
-hand - it is he who, realising that Gunas, i.e., Sattva etc., are
-operating on their own products, is not attached to the actions of the
-Gunas, being convinced, 'I am not the doer.'
+3.28 But he who knows the truth about the divisions of the Gunas and their actions - namely, about the division among Sattva etc., on the one hand, and the divisions among their respective functionings on the other hand - it is he who, realising that Gunas, i.e., Sattva etc., are operating on their own products, is not attached to the actions of the Gunas, being convinced, 'I am not the doer.'
 
 </details>
 </div>
@@ -436,47 +431,36 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.28. But, O mighty-armed one, the knower of the real nature of the
-divisions of the Strands and of their \[respective\] divisions of work,
-realises : 'The Strands are at their \[respective\] purposes' And hence
-he is not attached.
+3.28. But, O mighty-armed one, the knower of the real nature of the divisions of the Strands and of their \[respective\] divisions of work,
+realises : 'The Strands are at their \[respective\] purposes' And hence he is not attached.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.28 But, O mighty-armed one, the one who is a knower of the facts about
-the varieties of the gunas (alities) and actions does not become
-attached, thinking thus: 'The organs rest (act) on the objects of the
-organs.'
+3.28 But, O mighty-armed one, the one who is a knower of the facts about the varieties of the gunas (alities) and actions does not become attached, thinking thus: 'The organs rest (act) on the objects of the organs.'
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/28_tattvavittu_mahAb.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.28 But he, O Mighty One, who understands correctly the relation of the
-Qualities to action, is not attached to the act for he perceives that it
-is merely the action and reaction of the Qualities among themselves.
+3.28 But he, O Mighty One, who understands correctly the relation of the Qualities to action, is not attached to the act for he perceives that it is merely the action and reaction of the Qualities among themselves.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.28 But he who knows the truth about the division of the Gunas and
-works, O mighty-armed one, through his knowledge that 'Gunas operate on
-their products,' is not attached.
+3.28 But he who knows the truth about the division of the Gunas and works, O mighty-armed one, through his knowledge that 'Gunas operate on their products,' is not attached.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/28_tattvavittu_mahAb.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.28 But he who knows the Truth, O mighty-armed (Arjuna), about the
-divisions of the alities and (their) functions, knowing that the Gunas
-as senses move amidst the Gunas as the sense-objects, is not attached.
+3.28 But he who knows the Truth, O mighty-armed (Arjuna), about the divisions of the alities and (their) functions, knowing that the Gunas as senses move amidst the Gunas as the sense-objects, is not attached.
 
 </details>
 </div>
@@ -484,15 +468,8 @@ as senses move amidst the Gunas as the sense-objects, is not attached.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.28 तत्त्ववित् the knower of the Truth; तु but; महाबाहो O mightyarmed;
-गुणकर्मविभागयोः of the divisions of alities and functions; गुणाः the
-alities (in the shape of senses); गुणेषु amidst the alities (in the
-shape of objects); वर्तन्ते remain; इति thus; मत्वा knowing; न not;
-सज्जते is attached.Commentary He who knows the truth that the Self is
-entirely distinct from the three Gunas and actions does not become
-attached to the actions. He who knows the truth about the classification
-of the Gunas and their respective functions understands that the alities
-as senseorgans move amidst the alities as senseobjects. Therefore he is
-not attached to the actions. He knows; I am Akarta -- I am not the doer.
+गुणकर्मविभागयोः of the divisions of alities and functions; गुणाः the alities (in the shape of senses); गुणेषु amidst the alities (in the shape of objects); वर्तन्ते remain; इति thus; मत्वा knowing; न not;
+सज्जते is attached.Commentary He who knows the truth that the Self is entirely distinct from the three Gunas and actions does not become attached to the actions. He who knows the truth about the classification of the Gunas and their respective functions understands that the alities as senseorgans move amidst the alities as senseobjects. Therefore he is not attached to the actions. He knows; I am Akarta -- I am not the doer.
 (Cf.XIV.23).
 
 </details>

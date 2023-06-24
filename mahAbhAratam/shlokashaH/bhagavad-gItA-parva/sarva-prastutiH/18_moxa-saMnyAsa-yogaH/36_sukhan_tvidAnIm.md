@@ -52,12 +52,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.36 Now, hear about the pleasure to which the knowledge, action, agent
-etc., already mentioned are all subservient and which is threefold
-according to the Gunas. ৷৷. That pleasure in which a person, through
-long practice extending over a long time, gradually attains to
-incomparable joy and never again is engulfed by the pain of life in
-Samsara. Sri Krsna explains the same:
+18.36 Now, hear about the pleasure to which the knowledge, action, agent etc., already mentioned are all subservient and which is threefold according to the Gunas. ৷৷. That pleasure in which a person, through long practice extending over a long time, gradually attains to incomparable joy and never again is engulfed by the pain of life in Samsara. Sri Krsna explains the same:
 
 </details>
 </div>
@@ -275,8 +270,8 @@ _________________
 <details><summary><h3>(हि) तेजोमयानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 ।।18.36।। हे भरतश्रेष्ठ ! अब तुम त्रिविध सुख को मुझसे सुनो, जिसमें (साधक
-पुरुष) अभ्यास से रमता है और दुःखों के अन्त को प्राप्त होता है (जहाँ उसके
-दुःखों का अन्त हो जाता है। )।।
+पुरुष) अभ्यास से रमता है और दु:खों के अन्त को प्राप्त होता है (जहाँ उसके
+दु:खों का अन्त हो जाता है। )।।
 
 </details>
 </div>
@@ -416,28 +411,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.36. O best among the Bharatas ! Now from Me you must also listen to
-the three-fold happiness where one gets delighted by practice, and
-attains the end of suffering.
+18.36. O best among the Bharatas ! Now from Me you must also listen to the three-fold happiness where one gets delighted by practice, and attains the end of suffering.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.36 Now hear from Me, O scion of the Bharata dynasty, as regards the
-three kinds of joy: That in which one delights owing to habit, and
-certainly attains the cessation of sorrows; \[S. and S.S. take the
-second line of this verse along with the next verse referring to
-sattvika happiness.-Tr.\]
+18.36 Now hear from Me, O scion of the Bharata dynasty, as regards the three kinds of joy: That in which one delights owing to habit, and certainly attains the cessation of sorrows; \[S. and S.S. take the second line of this verse along with the next verse referring to sattvika happiness.-Tr.\]
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.36 Hear further the three kinds of pleasure. That which increases day
-after day delivers one from misery,
+18.36 Hear further the three kinds of pleasure. That which increases day after day delivers one from misery,
 
 </details>
 </div>
@@ -445,16 +433,14 @@ after day delivers one from misery,
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 18.36 Now hear from Me, O Arjuna, the threefold division of pleasure৷৷.
-that in which a man rejoices by long practice and in which he comes to
-the end of pain;
+that in which a man rejoices by long practice and in which he comes to the end of pain;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/36_sukhan_tvidAnIm.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.36 And now hear from Me, O Arjuna, of the threefold pleasure, in
-which one rejoices by practice and surely comes to the end of pain.
+18.36 And now hear from Me, O Arjuna, of the threefold pleasure, in which one rejoices by practice and surely comes to the end of pain.
 
 </details>
 </div>
@@ -462,12 +448,8 @@ which one rejoices by practice and surely comes to the end of pain.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 18.36 सुखम् pleasure; तु indeed; इदानीम् now; त्रिविधम् threefold;
-श्रृणु hear; मे of Me; भरतर्षभ O lord of the Bharatas; अभ्यासात् from
-practice; रमते rejoices; यत्र in which; दुःखान्तम् the end of pain; च
-and; निगच्छति (he) attains to.Commentary A little of this pleasure
-experienced by the Self must result in the cessation of pain. This
-pleasure is threefold in its nature and I will describe its aspects in
-turn; O Arjuna. (Cf.VI.20;30).
+श्रृणु hear; मे of Me; भरतर्षभ O lord of the Bharatas; अभ्यासात् from practice; रमते rejoices; यत्र in which; दुःखान्तम् the end of pain; च
+and; निगच्छति (he) attains to.Commentary A little of this pleasure experienced by the Self must result in the cessation of pain. This pleasure is threefold in its nature and I will describe its aspects in turn; O Arjuna. (Cf.VI.20;30).
 
 </details>
 </div>

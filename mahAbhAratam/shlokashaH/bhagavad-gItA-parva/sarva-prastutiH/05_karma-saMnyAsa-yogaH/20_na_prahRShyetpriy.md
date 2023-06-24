@@ -65,23 +65,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-5.20 Whatever is experienced as pleasant by one staying in a body and
-remaining in a particular condition because of the subtle impressions of
-his old Karmas, and whatever is experienced as unpleasant - on attaining
-those two types of experiences, one should not feel joy or grief. How;
+5.20 Whatever is experienced as pleasant by one staying in a body and remaining in a particular condition because of the subtle impressions of his old Karmas, and whatever is experienced as unpleasant - on attaining those two types of experiences, one should not feel joy or grief. How;
 By having the mind on that 'Which is steadfast' i.e., the self,
-'Undeluded,' i.e., one must be free from the delusion of identity of the
-steadfast self with the transient body. And how can this be; He who
-knows Brahman and abides in Brahman, i.e., by becoming a knower of
-Brahman by instruction by the teachers - such a person abides steadily,
+'Undeluded,' i.e., one must be free from the delusion of identity of the steadfast self with the transient body. And how can this be; He who knows Brahman and abides in Brahman, i.e., by becoming a knower of Brahman by instruction by the teachers - such a person abides steadily,
 engaged in the practices towards winning Brahman. What is said is this:
-From the instructions received from the sages who know the truth, one
-should learn what has to be learnt about the self. Endeavouring to
-actualise the same, one does not consider the body as the sefl and
-remains fixed in the joyous experience of the vision of the steadfast
-self. Let him not rejoice and grieve when he experiences pleasant and
-unpleasant things, as such experiences result from the Prakrti and are
-transient.
+From the instructions received from the sages who know the truth, one should learn what has to be learnt about the self. Endeavouring to actualise the same, one does not consider the body as the sefl and remains fixed in the joyous experience of the vision of the steadfast self. Let him not rejoice and grieve when he experiences pleasant and unpleasant things, as such experiences result from the Prakrti and are transient.
 
 </details>
 </div>
@@ -430,46 +418,36 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-5.20. He who, with his self (mind) not attached to the external
-contacts, finds happiness in the Self-that person, with his self engaged
-in the Yoga, pervades easily, suffering no loss, the Brahman.
+5.20. He who, with his self (mind) not attached to the external contacts, finds happiness in the Self-that person, with his self engaged in the Yoga, pervades easily, suffering no loss, the Brahman.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.20 A knower of Brahman, who is established in Brahman, should have his
-intellect steady and should not be deluded. He should not get delighted
-by getting what is desirable, nor become dejected by getting what is
-undesirable.
+5.20 A knower of Brahman, who is established in Brahman, should have his intellect steady and should not be deluded. He should not get delighted by getting what is desirable, nor become dejected by getting what is undesirable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-5.20 He who knows and lives in the Absolute remains unmoved and
-unperturbed; he is not elated by pleasure or depressed by pain.
+5.20 He who knows and lives in the Absolute remains unmoved and unperturbed; he is not elated by pleasure or depressed by pain.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.20 He who knows Brahman (individual self) and abides in Brahman, whose
-mind is steadfastly on the self and undeluded by the body consciousness
-- he neither rejoices at gaining what is pleasant, nor grieves on
-obtaining what is unpleasant.
+5.20 He who knows Brahman (individual self) and abides in Brahman, whose mind is steadfastly on the self and undeluded by the body consciousness
+- he neither rejoices at gaining what is pleasant, nor grieves on obtaining what is unpleasant.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/20_na_prahRShyetpriy.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.20 Resting in Brahman, with steady intellect and undeluded, the knower
-of Brahman neither rejoiceth on obtaining what is pleasant nor grieveth
-on obtaining what is unpleasant.
+5.20 Resting in Brahman, with steady intellect and undeluded, the knower of Brahman neither rejoiceth on obtaining what is pleasant nor grieveth on obtaining what is unpleasant.
 
 </details>
 </div>
@@ -477,16 +455,7 @@ on obtaining what is unpleasant.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 5.20 न not; प्रहृष्येत् should rejoice; प्रियम् the pleasant; प्राप्य
-having obtained; न not; उद्विजेत् should be troubled; प्राप्य having
-obtained; च and; अप्रियम् the unpleasant; स्थिरबुद्धिः one with steady
-intellect; असम्मूढः undeluded; ब्रह्मवित् knower of Brahman; ब्रह्मणि in
-Brahman; स्थितः established.Commentary This is the state of a Jivanmukta
-or a liberated sage or a Brahmana who identifies himself with the Self
-or Atman. He always has a balanced mind. He is never deluded. He has
-abandoned all actions as he rests in Brahman. He who has an unbalanced
-mind; who identifies himself with the body and mind feels pleasure and
-pain; exhilaration of spirits when he gets a pleasant object and grief
-when he obtains an unpleasant object. (Cf.VI.21;27;28XIII.12XIV.20)
+having obtained; न not; उद्विजेत् should be troubled; प्राप्य having obtained; च and; अप्रियम् the unpleasant; स्थिरबुद्धिः one with steady intellect; असम्मूढः undeluded; ब्रह्मवित् knower of Brahman; ब्रह्मणि in Brahman; स्थितः established.Commentary This is the state of a Jivanmukta or a liberated sage or a Brahmana who identifies himself with the Self or Atman. He always has a balanced mind. He is never deluded. He has abandoned all actions as he rests in Brahman. He who has an unbalanced mind; who identifies himself with the body and mind feels pleasure and pain; exhilaration of spirits when he gets a pleasant object and grief when he obtains an unpleasant object. (Cf.VI.21;27;28XIII.12XIV.20)
 
 </details>
 </div>

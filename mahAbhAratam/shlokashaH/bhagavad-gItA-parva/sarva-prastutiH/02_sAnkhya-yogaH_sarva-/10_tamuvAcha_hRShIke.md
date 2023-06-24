@@ -82,31 +82,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.9 - 2.10 Sanjaya said Thus, the Lord, the Supreme Person, introduced
-the Sastra regarding the self for the sake of Arjuna - whose natural
-courage was lost due to love and compassion in a misplaced situation,
-who thought war to be unrighteous even though it was the highest duty
-for warriors (Ksatriyas), and who took refuge in Sri Krsna to know what
-his right duty was -, thinking that Arjuna's delusion would not come to
-an end except by the knowledge of the real nature of the self, and that
-war was an ordained duty here which, when freed from attachment to
-fruits, is a means for self-knowledge. Thus, has it been said by Sri
-Yamunacarya: 'The introduction to the Sastra was begun for the sake of
-Arjuna, whose mind was agitated by misplaced love and compassion and by
-the delusion that righteousness was unrighteousness, and who took refuge
-in Sri Krsna.' The Supreme Person spoke these words as if smiling, and
-looking at Arjuna, who was thus overcome by grief resulting from
-ignorance about the real nature of the body and the self, but was
-nevertheless speaking about duty as if he had an understanding that the
-self is distinct from the body, and while he (Arjuna), torn between
-contradictory ideas, had suddenly become inactive standing between the
-two armies that were getting ready to fight. Sri Krsna said, as if in
-ridicule, to Arjuna the words beginning with, 'There never was a time
-when I did not exist' (II. 12), and ending with 'I will release you from
-all sins; grieve not!' (XVIII. 66) - which have for their contents the
-real nature of the self, of the Supreme Self, and of the paths of work
-(Karma), knowledge (Jnana) and devotion (Bhakti) which constitute the
-means for attaining the highest spiritual fulfilment.
+2.9 - 2.10 Sanjaya said Thus, the Lord, the Supreme Person, introduced the Sastra regarding the self for the sake of Arjuna - whose natural courage was lost due to love and compassion in a misplaced situation,
+who thought war to be unrighteous even though it was the highest duty for warriors (Ksatriyas), and who took refuge in Sri Krsna to know what his right duty was -, thinking that Arjuna's delusion would not come to an end except by the knowledge of the real nature of the self, and that war was an ordained duty here which, when freed from attachment to fruits, is a means for self-knowledge. Thus, has it been said by Sri Yamunacarya: 'The introduction to the Sastra was begun for the sake of Arjuna, whose mind was agitated by misplaced love and compassion and by the delusion that righteousness was unrighteousness, and who took refuge in Sri Krsna.' The Supreme Person spoke these words as if smiling, and looking at Arjuna, who was thus overcome by grief resulting from ignorance about the real nature of the body and the self, but was nevertheless speaking about duty as if he had an understanding that the self is distinct from the body, and while he (Arjuna), torn between contradictory ideas, had suddenly become inactive standing between the two armies that were getting ready to fight. Sri Krsna said, as if in ridicule, to Arjuna the words beginning with, 'There never was a time when I did not exist' (II. 12), and ending with 'I will release you from all sins; grieve not!' (XVIII. 66) - which have for their contents the real nature of the self, of the Supreme Self, and of the paths of work
+(Karma), knowledge (Jnana) and devotion (Bhakti) which constitute the means for attaining the highest spiritual fulfilment.
 
 </details>
 </div>
@@ -877,33 +855,28 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.10. O descendant of Bharata (O Dhrtarastra) ! Hrsikesa, as if \[he
-was\] smiling, spoke to him who was sinking in despondency in between
-two armies.
+2.10. O descendant of Bharata (O Dhrtarastra) ! Hrsikesa, as if \[he was\] smiling, spoke to him who was sinking in despondency in between two armies.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.10 O descendant of Bharata, to him who was sorrowing between the two
-armies, Hrsikesa, mocking as it were, said these words:
+2.10 O descendant of Bharata, to him who was sorrowing between the two armies, Hrsikesa, mocking as it were, said these words:
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-2.10 Thereupon the Lord, with a gracious smile, addressed him who was so
-much depressed in the midst of the two armies.
+2.10 Thereupon the Lord, with a gracious smile, addressed him who was so much depressed in the midst of the two armies.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/10_tamuvAcha_hRShIke.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.10 O King, to him who was thus sorrowing between the two armies, Sri
-Krsna spoke the following words, as if smiling (by way of ridicule).
+2.10 O King, to him who was thus sorrowing between the two armies, Sri Krsna spoke the following words, as if smiling (by way of ridicule).
 
 </details>
 </div>

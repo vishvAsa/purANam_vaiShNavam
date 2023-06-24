@@ -77,21 +77,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-17.8 To a man endowed with Sattva, foods preponderating in Sattva become
-dear. The foods preponderating in Sattva promote longevity. Again they
-promote intellectual alertness. 'Sattva', means internal organ, viz.,
-knowledge which is the effect of the internal organ is here meant by the
-term Sattva. For the Sattva is the cause of growth of knowledge, as
-declared in: 'From Sattva arises knowledge' (14.17). Even as the food
-preponderant in Sattva is the cause of the growth of knowledge,
-likewise, they promote strength and health; they also promote pleasure
-and happiness. As the time of assimilation they, by themselves, promote
-happiness, viz, by the performance of actions which cause happiness.
+17.8 To a man endowed with Sattva, foods preponderating in Sattva become dear. The foods preponderating in Sattva promote longevity. Again they promote intellectual alertness. 'Sattva', means internal organ, viz.,
+knowledge which is the effect of the internal organ is here meant by the term Sattva. For the Sattva is the cause of growth of knowledge, as declared in: 'From Sattva arises knowledge' (14.17). Even as the food preponderant in Sattva is the cause of the growth of knowledge,
+likewise, they promote strength and health; they also promote pleasure and happiness. As the time of assimilation they, by themselves, promote happiness, viz, by the performance of actions which cause happiness.
 They are sweet, viz., abundant in sweet juices. They are mixed with oil,
-viz., wholly oily. They are substantial, viz., they originate
-substantial effects. They are agreeable viz., they appear to the eye in
-beautiful forms. Food of this kind, full of Sattva-guna, is dear to the
-person characterised by Sattva.
+viz., wholly oily. They are substantial, viz., they originate substantial effects. They are agreeable viz., they appear to the eye in beautiful forms. Food of this kind, full of Sattva-guna, is dear to the person characterised by Sattva.
 
 </details>
 </div>
@@ -359,8 +349,7 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 17.8. The foods that increase life, energy, strength, good health,
-happiness and satisfaction; and which are delicious, soft, substantial
-and pleasant to heart (stomach) - they are dear to the men of the Sattva
+happiness and satisfaction; and which are delicious, soft, substantial and pleasant to heart (stomach) - they are dear to the men of the Sattva
 (Strand).
 
 </details>
@@ -369,8 +358,7 @@ and pleasant to heart (stomach) - they are dear to the men of the Sattva
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 17.8 Foods that augment life, firmless of mind, strength, health,
-happiness and delight, and which are succulent, oleaginous, substantial
-and agreeable, are dear to one endowed with sattva.
+happiness and delight, and which are succulent, oleaginous, substantial and agreeable, are dear to one endowed with sattva.
 
 </details>
 </div>
@@ -395,8 +383,7 @@ substantial and agreeable, are dear to Sattvika men.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/17_shraddhA-traya-vibhA/08_AyuHsattvabalArog.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-17.8 The foods which increase life, purity, strength, health, joy and
-cheerfulness (good appetite), which are savoury and oleaginous,
+17.8 The foods which increase life, purity, strength, health, joy and cheerfulness (good appetite), which are savoury and oleaginous,
 substantial and agreeable, are dear to the Sattvic (pure) people.
 
 </details>
@@ -408,37 +395,9 @@ substantial and agreeable, are dear to the Sattvic (pure) people.
 (life); Sattva (purity); Bala (strength); Arogya (health); Sukha (joy);
 Priti (cheerfulness and good appetite); रस्याः savoury; स्निग्धाः
 oleaginous; स्थिराः substantial; हृद्याः agreeable; आहाराः the foods;
-सात्त्विकप्रियाः are dear to Sattvic (pure).Commentary Pure food
-increases the vitality and strength of those who eat it. It augments the
-energy of the mind also.Sattva Cheerfulness purity inner; moral and
-spiritual strength and courage that keep the mind steady even in great
-distress.Bala Strength absence of fatigue even in doing difficult
-work.Priti Absence of retching good appetite.Rasyah Sweet and
-juicy.Sthirah Substantial which can last long in the body vitalising but
-not difficult to digest.Hridyah The mere sight of the food is very
-pleasing to the mind and it is free from odour of smoke or burnt
-condition.Sattvic food produces cheerfulness; serenity and mental
-clarity and helps the aspirants to enter into deep meditation and
-maintain mental poise and nervous eilibrium. It supplies the maximum
-energy to the body and the mind. It is very easily assimilated and
-absorbed.A Sattvic man relishes juicy food and other foods which are
-attractive in form; soft to touch and pleasant to taste; which are small
-in bulk but great in nourishment like the words from the lips of a
-spiritual preceptor. Sattvic food is highly conducive to health.Eat that
-food which will develop Sattva in you. Milk; butter; fresh; ripe fruits;
-almonds; green Dal; barley; Parwal; Torai; Karela; plantains; etc.; are
-Sattvic. Abandon fish; meat; liors; eggs; etc.; ruthlessly if you want
-to increase Sattva and attain Selfrealisation. The mind is formed of the
-subtle portion of the food. जैसा अन्न वैसा मन As is the food so is the
-mind says a Hindi proverb. If you take Sattvic food; the mind also will
-be Sattvic. The seven elements (Dhatus) of the body (Chyle; blood;
-flesh; fat; bone; marrow and semen) are formed out of food.Ideas or
-concepts are generated in the mind corresponding to these seven
-elements. As is the constitution of these elements; so is the
-constitution of the mind. Just as water is rendered hot when the pot
-that contains it is placed over the fire; so also the nature and
-constitution of the mind is according to the nature and constitution of
-the food or the seven elements.
+सात्त्विकप्रियाः are dear to Sattvic (pure).Commentary Pure food increases the vitality and strength of those who eat it. It augments the energy of the mind also.Sattva Cheerfulness purity inner; moral and spiritual strength and courage that keep the mind steady even in great distress.Bala Strength absence of fatigue even in doing difficult work.Priti Absence of retching good appetite.Rasyah Sweet and juicy.Sthirah Substantial which can last long in the body vitalising but not difficult to digest.Hridyah The mere sight of the food is very pleasing to the mind and it is free from odour of smoke or burnt condition.Sattvic food produces cheerfulness; serenity and mental clarity and helps the aspirants to enter into deep meditation and maintain mental poise and nervous eilibrium. It supplies the maximum energy to the body and the mind. It is very easily assimilated and absorbed.A Sattvic man relishes juicy food and other foods which are attractive in form; soft to touch and pleasant to taste; which are small in bulk but great in nourishment like the words from the lips of a spiritual preceptor. Sattvic food is highly conducive to health.Eat that food which will develop Sattva in you. Milk; butter; fresh; ripe fruits;
+almonds; green Dal; barley; Parwal; Torai; Karela; plantains; etc.; are Sattvic. Abandon fish; meat; liors; eggs; etc.; ruthlessly if you want to increase Sattva and attain Selfrealisation. The mind is formed of the subtle portion of the food. जैसा अन्न वैसा मन As is the food so is the mind says a Hindi proverb. If you take Sattvic food; the mind also will be Sattvic. The seven elements (Dhatus) of the body (Chyle; blood;
+flesh; fat; bone; marrow and semen) are formed out of food.Ideas or concepts are generated in the mind corresponding to these seven elements. As is the constitution of these elements; so is the constitution of the mind. Just as water is rendered hot when the pot that contains it is placed over the fire; so also the nature and constitution of the mind is according to the nature and constitution of the food or the seven elements.
 
 </details>
 </div>

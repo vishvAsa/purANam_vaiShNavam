@@ -71,13 +71,7 @@ _________________
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
 5.27 - 5.28 'Shutting off all contact with outside objects,' i.e.,
-stopping the outward functioning of the senses; seated with his trunk
-straightened in a posture fit for meditation (Yoga); 'fixing the gaze
-between the eye-brows,' i.e., at the root of the nose where the
-eye-brows meet; 'ealising inward and outward breaths,' i.e., making
-exhalatory and inhalatory breath move eally: making the senses, Manas
-and intellect no longer capable of anything except the vision of the
-self, conseently being free from 'desire, fear and wrath'; 'who is
+stopping the outward functioning of the senses; seated with his trunk straightened in a posture fit for meditation (Yoga); 'fixing the gaze between the eye-brows,' i.e., at the root of the nose where the eye-brows meet; 'ealising inward and outward breaths,' i.e., making exhalatory and inhalatory breath move eally: making the senses, Manas and intellect no longer capable of anything except the vision of the self, conseently being free from 'desire, fear and wrath'; 'who is
 intent on release as his final goal,' i.e., having release as his only
 aim - the sage who is thus intent on the vision of the self 'is indeed
 liberated for ever,' i.e., he is almost a liberated person, as he would
@@ -462,19 +456,14 @@ _________________
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
 5.27. The sage, who has controlled his sense-organs, mind and intellect;
-whose chief aim is emancipation; and from whom desire, fear and wrath
-have departed-he remains just free always.
+whose chief aim is emancipation; and from whom desire, fear and wrath have departed-he remains just free always.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-5.27-5.28 Keeping the external objects outside, the eyes at the juncture
-of the eye-brows, and making eal the outgoing and incoming breaths that
-move through the nostrils, the contemplative who has control over his
-organs, mind and intellect should be fully intent on Liberation and free
-from desire, fear and anger. He who is ever is verily free.
+5.27-5.28 Keeping the external objects outside, the eyes at the juncture of the eye-brows, and making eal the outgoing and incoming breaths that move through the nostrils, the contemplative who has control over his organs, mind and intellect should be fully intent on Liberation and free from desire, fear and anger. He who is ever is verily free.
 
 </details>
 </div>
@@ -489,17 +478,14 @@ the inward and outward breathings passing equally through his nostrils;
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-5.27 Shutting off outward contacts, fixing the gaze between the
-eye-brows, ealising inward and outward breaths moving in the nostrils;
+5.27 Shutting off outward contacts, fixing the gaze between the eye-brows, ealising inward and outward breaths moving in the nostrils;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/05_karma-saMnyAsa-yogaH/27_sparshAnkRtvA.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-5.27 Shutting out (all) external contacts and fixing the gaze between
-the eyrow, ealising the outgoing and incoming breaths moving within the
-nostrils.
+5.27 Shutting out (all) external contacts and fixing the gaze between the eyrow, ealising the outgoing and incoming breaths moving within the nostrils.
 
 </details>
 </div>
@@ -509,17 +495,9 @@ nostrils.
 5.27 स्पर्शान् contacts; कृत्वा बहिः shutting out; बाह्यान् external;
 चक्षुः eye (gaze); च and; एव even; अन्तरे in the middle; भ्रुवोः of the
 (two) eyrows; प्राणापानौ the outgoing and incoming breaths; समौ eal;
-कृत्वा having made; नासाभ्यन्तरचारिणौ moving inside the
-nostrils.Commentary The verses 27 and 28 deal with the Yoga of
-meditation (Dhyana). External objects or contacts are the sound and the
-other senseobjects. If the mind does not think of the external objects
-they are shut out from the mind. The senses are the doors or avenues
-through which sound and the other senseobjects enter the mind.If you fix
-the gaze between the eyrows the eyalls remain fixed and steady.
-Rhythmical breathing is described here. You will have to make the breath
-rhythmical. The mind becomes steady when the breath becomes rhythmical.
-When the breath becomes rhythmical there is perfect harmony in the mind
-and the whole system. (Cf.VI.10;14VIII.10)
+कृत्वा having made; नासाभ्यन्तरचारिणौ moving inside the nostrils.Commentary The verses 27 and 28 deal with the Yoga of meditation (Dhyana). External objects or contacts are the sound and the other senseobjects. If the mind does not think of the external objects they are shut out from the mind. The senses are the doors or avenues through which sound and the other senseobjects enter the mind.If you fix the gaze between the eyrows the eyalls remain fixed and steady.
+Rhythmical breathing is described here. You will have to make the breath rhythmical. The mind becomes steady when the breath becomes rhythmical.
+When the breath becomes rhythmical there is perfect harmony in the mind and the whole system. (Cf.VI.10;14VIII.10)
 
 </details>
 </div>

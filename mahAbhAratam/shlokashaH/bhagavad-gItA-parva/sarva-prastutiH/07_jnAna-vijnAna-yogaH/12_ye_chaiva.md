@@ -62,17 +62,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-7.12 Why should this be declared with particular illustrations; The
-reason is as follows: Whatever entities exist in the world partaking of
-the alities of Sattva, Rajas and Tamas in the forms of bodies, senses,
-objects of enjoyment and their causes - know them all to have originated
-from Me alone, and they abide in Me alone, as they constitute My body.
-'But I am not in them.' That is, I do not depend for My existence on
-them at any time. In the case of other beings, though the body depends
-for its existence on the self, the body serves some purpose of the self
-in the matter of Its sustenance. To Me, however, there is no purpose at
-all of that kind served by them constituting My body. The meaning is
-that they merely serve the purpose of My sport.
+7.12 Why should this be declared with particular illustrations; The reason is as follows: Whatever entities exist in the world partaking of the alities of Sattva, Rajas and Tamas in the forms of bodies, senses,
+objects of enjoyment and their causes - know them all to have originated from Me alone, and they abide in Me alone, as they constitute My body.
+'But I am not in them.' That is, I do not depend for My existence on them at any time. In the case of other beings, though the body depends for its existence on the self, the body serves some purpose of the self in the matter of Its sustenance. To Me, however, there is no purpose at all of that kind served by them constituting My body. The meaning is that they merely serve the purpose of My sport.
 
 </details>
 </div>
@@ -516,26 +508,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-7.12. Whatever beings are there \[in the universe\]-whether they are of
-the Sattva or of Rajas or of Tamas (Strands)- be sure that they are from
-Me; I am not in them, but they are in Me.
+7.12. Whatever beings are there \[in the universe\]-whether they are of the Sattva or of Rajas or of Tamas (Strands)- be sure that they are from Me; I am not in them, but they are in Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-7.12 Those things that indeed are made of (the ality of ) sattva, and
-those things that are made of (the ality of) rajas and tamas, know them
-to have sprung from Me alone. However, I am not in them; they are in Me!
+7.12 Those things that indeed are made of (the ality of ) sattva, and those things that are made of (the ality of) rajas and tamas, know them to have sprung from Me alone. However, I am not in them; they are in Me!
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-7.12 Whatever be the nature of their life, whether it be pure or
-passionate or ignorant, they are all derived from Me. They are in Me,
+7.12 Whatever be the nature of their life, whether it be pure or passionate or ignorant, they are all derived from Me. They are in Me,
 but I am not in them.
 
 </details>
@@ -543,16 +530,14 @@ but I am not in them.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-7.12 Know that all those states of Sattva, Rajas and Tamas are from Me
-alone. But I am not in them; they are in Me.
+7.12 Know that all those states of Sattva, Rajas and Tamas are from Me alone. But I am not in them; they are in Me.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/07_jnAna-vijnAna-yogaH/12_ye_chaiva.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-7.12 Whatever beings (and objects) that are pure, active and inert, know
-that they proceed from Me. They are in Me, yet I am not in them.
+7.12 Whatever beings (and objects) that are pure, active and inert, know that they proceed from Me. They are in Me, yet I am not in them.
 
 </details>
 </div>
@@ -561,20 +546,8 @@ that they proceed from Me. They are in Me, yet I am not in them.
 
 7.12 ये whatever; च and; एव even; सात्त्विकाः pure; भावाः natures;
 राजसाः active; तामसाः inert; च and; ये whatever; मत्तः from Me; एव even;
-इति thus; तान् them; विद्धि know; न not; तु indeed; अहम् I; तेषु in
-them; ते they; मयि in Me.Commentary This is a world of the three Gunas;
-viz.; Sattva (purity); Rajas (passion) and Tamas (inertia). All sentient
-and insentient objects are the aggregate of these three alities of
-Nature. One ality predominates in them and the predominant ality imparts
-to the object its distinctive character or definite properties.In the
-gods; sages milk and green gram; Sattva is predominant. In Gandharvas (a
-class of celestials); kings; warriors and chillies; Rajas is
-predominant. In demons; Sudras; garlic; onion and meat; Tamas is
-predominant.Though these beings and objects proceed from Me; I am not in
-them they are in Me. I am independent. I am the support for them they
-depend on Me just as the superimposed snake depends on the rope. The
-snake is in the rope; but the rope is never in the snake. The waves
-belong to the ocean but the ocean does not belong to the waves.
+इति thus; तान् them; विद्धि know; न not; तु indeed; अहम् I; तेषु in them; ते they; मयि in Me.Commentary This is a world of the three Gunas;
+viz.; Sattva (purity); Rajas (passion) and Tamas (inertia). All sentient and insentient objects are the aggregate of these three alities of Nature. One ality predominates in them and the predominant ality imparts to the object its distinctive character or definite properties.In the gods; sages milk and green gram; Sattva is predominant. In Gandharvas (a class of celestials); kings; warriors and chillies; Rajas is predominant. In demons; Sudras; garlic; onion and meat; Tamas is predominant.Though these beings and objects proceed from Me; I am not in them they are in Me. I am independent. I am the support for them they depend on Me just as the superimposed snake depends on the rope. The snake is in the rope; but the rope is never in the snake. The waves belong to the ocean but the ocean does not belong to the waves.
 (Cf.IX.4and6)
 
 </details>

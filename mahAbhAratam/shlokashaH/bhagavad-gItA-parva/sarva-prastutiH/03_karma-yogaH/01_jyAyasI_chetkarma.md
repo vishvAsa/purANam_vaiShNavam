@@ -150,18 +150,9 @@ _________________
 
 3.1 'Arjuna said If you consider that knowledge is superior to works,
 why do you engage me in this terrible deed;' What is said here is this:
-If the firm adherence to knowledge is the only means to the vision of
-the self, then how can one accept the idea that devotion to works
-(Karma) leads to it; It was said before that this firm devotion to
-knowledge, which forms the means for the vision of the self, could arise
-by the cessation of the activities of all the senses and the mind in
-relation to their respective objects such as sound. If the vision of the
-self is to be attained, which arises by the cessation of the activities
-of the senses, I should be guided to engage myself solely to acire firm
-devotion to knowledge, which is preceded by the abandoning of all works.
-For what purpose, then, do you engage me in this terrible deed, which
-consists in the activities of all the senses, and is thus an obstacle
-for the vision of the self;
+If the firm adherence to knowledge is the only means to the vision of the self, then how can one accept the idea that devotion to works
+(Karma) leads to it; It was said before that this firm devotion to knowledge, which forms the means for the vision of the self, could arise by the cessation of the activities of all the senses and the mind in relation to their respective objects such as sound. If the vision of the self is to be attained, which arises by the cessation of the activities of the senses, I should be guided to engage myself solely to acire firm devotion to knowledge, which is preceded by the abandoning of all works.
+For what purpose, then, do you engage me in this terrible deed, which consists in the activities of all the senses, and is thus an obstacle for the vision of the self;
 
 </details>
 </div>
@@ -768,43 +759,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.1. Arjuna said O Janardana, if knowledg is held to be superior to
-action by You, then why do You engage me in action that is terrible, O
-Kesava ;
+3.1. Arjuna said O Janardana, if knowledg is held to be superior to action by You, then why do You engage me in action that is terrible, O Kesava ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.1 Arjuna said O Janardana (krsna), if it be Your opinion that wisdom
-is superior to action, why they do you urge me to horrible aciton, O
-Kesava ;
+3.1 Arjuna said O Janardana (krsna), if it be Your opinion that wisdom is superior to action, why they do you urge me to horrible aciton, O Kesava ;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.1 "Arjuna questioned: My Lord! If Wisdom is above action, why dost
-Thou advise me to engage in this terrible fight;
+3.1 "Arjuna questioned: My Lord! If Wisdom is above action, why dost Thou advise me to engage in this terrible fight;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.1 Arjuna said If, O Krsna, you consider that Buddhi (knowledge) is
-superior to works, why do you engage me in this terrible deed;
+3.1 Arjuna said If, O Krsna, you consider that Buddhi (knowledge) is superior to works, why do you engage me in this terrible deed;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/01_jyAyasI_chetkarma.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.1 Arjuna said If Thou thinkest that knowledge is superior to action, O
-Krishna, why then, O Kesava, dost Thou ask me to engage in this terrible
-action;
+3.1 Arjuna said If Thou thinkest that knowledge is superior to action, O Krishna, why then, O Kesava, dost Thou ask me to engage in this terrible action;
 
 </details>
 </div>
@@ -815,9 +798,7 @@ action;
   
 3.1 ज्यायसी superior; चेत् if; कर्मणः than action; ते by Thee; मता
 thought; बुद्धिः knowledge; जनार्दन O Janardana; तत् then; किम् why;
-कर्मणि in action; घोरे terrible; माम् me; नियोजयसि Thou engagest; केशव O
-Kesava.Commentary In verses 49; 50 and 51 of chapter II; Lord Krsihna
-has spoken very highly about Buddhi Yoga. He again asks Arjuna to fight.
+कर्मणि in action; घोरे terrible; माम् me; नियोजयसि Thou engagest; केशव O Kesava.Commentary In verses 49; 50 and 51 of chapter II; Lord Krsihna has spoken very highly about Buddhi Yoga. He again asks Arjuna to fight.
 That is the reason why Arjuna is perplexed now.
 
 </details>

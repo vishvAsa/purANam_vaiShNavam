@@ -70,16 +70,10 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-9.18 'Gaith' means that which is reached. The meaning is that it is the
-place to be reached from everywhere. The 'supporter' is one who props.
+9.18 'Gaith' means that which is reached. The meaning is that it is the place to be reached from everywhere. The 'supporter' is one who props.
 The 'ruler' is one who rules. The 'witness' is one who sees directly.
 The 'abode' is that where one dwells in as in a house etc. The 'refuge'
-is the intelligent being wh has to be sought, as he leads one to the
-attainment of desirable things and avoidance of evils. A 'friend' is one
-who wishes well. The 'base' is that place in which origin and
-dissolution takes place. I alone am that 'Nidhana', that which is
-preserved. What comes into being and is dissolved is Myself. The
-imperishable seed is that exhaustless cause everywhere. I alone am that.
+is the intelligent being wh has to be sought, as he leads one to the attainment of desirable things and avoidance of evils. A 'friend' is one who wishes well. The 'base' is that place in which origin and dissolution takes place. I alone am that 'Nidhana', that which is preserved. What comes into being and is dissolved is Myself. The imperishable seed is that exhaustless cause everywhere. I alone am that.
 
 </details>
 </div>
@@ -464,9 +458,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-9.18. \[I am\] the method, the nourisher, the lord, the witness, the
-abode, the refuge, the good-hearted (friend), the origin, the
-dissolution, the sustenance, the repository and the imperishable seed
+9.18. \[I am\] the method, the nourisher, the lord, the witness, the abode, the refuge, the good-hearted (friend), the origin, the dissolution, the sustenance, the repository and the imperishable seed
 \[of the world\].
 
 </details>
@@ -475,54 +467,38 @@ dissolution, the sustenance, the repository and the imperishable seed
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 9.18 (I am) the fruit of actions, the nourisher, the Lord, witness,
-abode, refuge, friend, origin, end, foundation, store and the
-imperishable seed.
+abode, refuge, friend, origin, end, foundation, store and the imperishable seed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-9.18 I am the Goal, the Sustainer, the Lord, the Witness, the Home, the
-Shelter, the Lover and the Origin; I am Life and Death; I am the
-Fountain and the Seed Imperishable.
+9.18 I am the Goal, the Sustainer, the Lord, the Witness, the Home, the Shelter, the Lover and the Origin; I am Life and Death; I am the Fountain and the Seed Imperishable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-9.18 I am the goal, supporter, the Lord, the witness, the abode, the
-refuge and the friend. I am the seat of origin and dissolution, the base
-for preservation and the imperishable seed.
+9.18 I am the goal, supporter, the Lord, the witness, the abode, the refuge and the friend. I am the seat of origin and dissolution, the base for preservation and the imperishable seed.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-9.18 I am the goal, the supporter, the Lord, the witness, the abode, the
-shelter, the friend, the origin, the dissolution, the foundation, the
-treasure-house and the seed which is imperishable.
+9.18 I am the goal, the supporter, the Lord, the witness, the abode, the shelter, the friend, the origin, the dissolution, the foundation, the treasure-house and the seed which is imperishable.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/09_rAja-vidyA-rAja-guhy/18_gatirbhartA_prabh.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-9.18 गतिः the goal; भर्ता the supporter; प्रभुः the Lord; साक्षी the
-witness; निवासः the abode; शरणम् the shelter; सुहृत् the friend; प्रभवः
-the origin; प्रलयः the dissolution; स्थानम् the foundation; निधानम् the
-treasurehouse; बीजम् the seed; अव्ययम् imperishable.Commentary I am the
-goal; the fruit of action. He who nourishes and supports is the hu**and.
+9.18 गतिः the goal; भर्ता the supporter; प्रभुः the Lord; साक्षी the witness; निवासः the abode; शरणम् the shelter; सुहृत् the friend; प्रभवः
+the origin; प्रलयः the dissolution; स्थानम् the foundation; निधानम् the treasurehouse; बीजम् the seed; अव्ययम् imperishable.Commentary I am the goal; the fruit of action. He who nourishes and supports is the hu**and.
 I am the witness of the good and evil actions done by the Jivas
-(individuals). I am the abode wherein all living beings dwell. I am the
-shelter or refuge for the distressed. I relieve the sufferings of those
-who take shelter under Me. I am the friend; i.e.; I do good without
-expecting any return. I am the source of this universe. In Me the whole
-world is dissolved. I am the mainstay or the foundation of this world. I
-am the treasurehouse which living beings shall enjoy in the future. I am
-the imperishable see; i.e.; the cause of the origin of all beings.
+(individuals). I am the abode wherein all living beings dwell. I am the shelter or refuge for the distressed. I relieve the sufferings of those who take shelter under Me. I am the friend; i.e.; I do good without expecting any return. I am the source of this universe. In Me the whole world is dissolved. I am the mainstay or the foundation of this world. I am the treasurehouse which living beings shall enjoy in the future. I am the imperishable see; i.e.; the cause of the origin of all beings.
 Therefore; take shelter under My feet.**
 
 </details>

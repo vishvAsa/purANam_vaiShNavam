@@ -97,23 +97,11 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/06_Atma-saMyama-yogaH_a/20_yatroparamate_chi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-6.20 - 6.23 Where, through the practice of Yoga, the mind, which is
-subdued everywhere by such practice, 'rejoices', i.e., rejoices in
-surpassing felicity; and where, perceiving through Yoga 'the self
-(Atman)' by 'the mind (Atman)' one is delighted by the self and
-indifferent to all other objects; and where, through Yoga, one 'knows',
-i.e., experiences that infinite happiness which can be grasped only by
-the 'intellect' contemplating on the self, but is beyond the grasp of
-the senses; where, remaining in that Yoga, one does not 'swerve from
-that state,' because of the overwhelming happiness that state confers;
-having gained which, he desires for it alone, even when he is awakened
-from Yoga, and does not hold anything else as a gain; where one is not
-moved even by 'the heaviest sorrow' caused by any berevaement like that
-of a virtuous son - let him know that disunion from all union with pain,
-i.e., which forms the opposite of union with pain, is called by the term
-Yoga. This Yoga must be practised with the determination of its nature
-as such from the beginning with a mind free from despondency, i.e., with
-zestful exaltation.
+6.20 - 6.23 Where, through the practice of Yoga, the mind, which is subdued everywhere by such practice, 'rejoices', i.e., rejoices in surpassing felicity; and where, perceiving through Yoga 'the self
+(Atman)' by 'the mind (Atman)' one is delighted by the self and indifferent to all other objects; and where, through Yoga, one 'knows',
+i.e., experiences that infinite happiness which can be grasped only by the 'intellect' contemplating on the self, but is beyond the grasp of the senses; where, remaining in that Yoga, one does not 'swerve from that state,' because of the overwhelming happiness that state confers;
+having gained which, he desires for it alone, even when he is awakened from Yoga, and does not hold anything else as a gain; where one is not moved even by 'the heaviest sorrow' caused by any berevaement like that of a virtuous son - let him know that disunion from all union with pain,
+i.e., which forms the opposite of union with pain, is called by the term Yoga. This Yoga must be practised with the determination of its nature as such from the beginning with a mind free from despondency, i.e., with zestful exaltation.
 
 </details>
 </div>
@@ -372,8 +360,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/06_Atma-saMyama-yogaH_a/20_yatroparamate_chi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-6.20. Where the mind, well-restrained through Yoga-practice, remains
-iet; again where, observing, by the self, nothing but the Self, he
+6.20. Where the mind, well-restrained through Yoga-practice, remains iet; again where, observing, by the self, nothing but the Self, he
 (Yogi) is satisfied in the Self;
 
 </details>
@@ -381,9 +368,7 @@ iet; again where, observing, by the self, nothing but the Self, he
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/06_Atma-saMyama-yogaH_a/20_yatroparamate_chi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-6.20 At the time when the mind restrained through the practice of Yoga
-gets withdrawn, and just when by seeing the Self by the self one remains
-contented in the Self alone \[A.G. construes the word eva (certainly)
+6.20 At the time when the mind restrained through the practice of Yoga gets withdrawn, and just when by seeing the Self by the self one remains contented in the Self alone \[A.G. construes the word eva (certainly)
 with tusyati (remains contented).-Tr.\];
 
 </details>
@@ -392,25 +377,21 @@ with tusyati (remains contented).-Tr.\];
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
 6.20 There, where the whole nature is seen in the light of the Self,
-where the man abides within his Self and is satisfied there, its
-functions restrained by its union with the Divine, the mind finds rest.
+where the man abides within his Self and is satisfied there, its functions restrained by its union with the Divine, the mind finds rest.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/06_Atma-saMyama-yogaH_a/20_yatroparamate_chi.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-6.20 Where the mind, controlled by the practice of Yoga, rests and where
-seeing the self by the self one is delighted by the self only;
+6.20 Where the mind, controlled by the practice of Yoga, rests and where seeing the self by the self one is delighted by the self only;
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/06_Atma-saMyama-yogaH_a/20_yatroparamate_chi.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-6.20 When the mind, restrained by the practice of Yoga attains to
-quietude and when seeing the Self by the self, he is satisfied in his
-own Self.
+6.20 When the mind, restrained by the practice of Yoga attains to quietude and when seeing the Self by the self, he is satisfied in his own Self.
 
 </details>
 </div>
@@ -419,14 +400,7 @@ own Self.
 
 6.20 यत्र where; उपरमते attains ietude; चित्तम् mind; निरुद्धम्
 restrained; योगसेवया by the practice of Yoga; यत्र where; च and; एव
-only; आत्मना by the Self; आत्मानम् the Self; पश्यन् seeing; आत्मनि in
-the Self; तुष्यति is satisfied.Commentary The verses 20; 21; 22 and 23
-must be taken together.When the mind is completely withdrawn from the
-objects of the senses; supreme peace reigns within the heart. When the
-mind becomes ite steady by constant and protracted practice of
-concentration the Yogi beholds the Supreme Self by the mind which is
-rendered pure and onepointed and attains to supreme satisfaction in the
-Self within.
+only; आत्मना by the Self; आत्मानम् the Self; पश्यन् seeing; आत्मनि in the Self; तुष्यति is satisfied.Commentary The verses 20; 21; 22 and 23 must be taken together.When the mind is completely withdrawn from the objects of the senses; supreme peace reigns within the heart. When the mind becomes ite steady by constant and protracted practice of concentration the Yogi beholds the Supreme Self by the mind which is rendered pure and onepointed and attains to supreme satisfaction in the Self within.
 
 </details>
 </div>

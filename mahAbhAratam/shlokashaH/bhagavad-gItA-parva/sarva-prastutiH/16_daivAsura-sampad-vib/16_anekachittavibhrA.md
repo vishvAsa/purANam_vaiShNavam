@@ -57,15 +57,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.16 As do not accept the need for the help of past Karma and the Lord
-for their achievements and believe them to be only due to their own
-efforts, they are 'bewildered' by many thoughts, 'Thus I shall do, this
-I shall accomplish, and still another I shall achieve.' In this way they
-are ensnared by the net of delusion. Highly addicted to sensual
-enjoyments, they die in the middle of such enjoyments and fall into foul
-Naraka \[Naraka is sometimes translated as hell. This is the Christian
-conception. In the Hindu view it is purgatory where through intense
-sufferings the Jiva is purged of sins\].
+16.16 As do not accept the need for the help of past Karma and the Lord for their achievements and believe them to be only due to their own efforts, they are 'bewildered' by many thoughts, 'Thus I shall do, this I shall accomplish, and still another I shall achieve.' In this way they are ensnared by the net of delusion. Highly addicted to sensual enjoyments, they die in the middle of such enjoyments and fall into foul Naraka \[Naraka is sometimes translated as hell. This is the Christian conception. In the Hindu view it is purgatory where through intense sufferings the Jiva is purged of sins\].
 
 </details>
 </div>
@@ -345,9 +337,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.16. Endowed with many thoughts; confused highly; enslaved simply by
-their delusion; and addicated to the gratification of desires; they fall
-into the hell and into what is foul.
+16.16. Endowed with many thoughts; confused highly; enslaved simply by their delusion; and addicated to the gratification of desires; they fall into the hell and into what is foul.
 
 </details>
 </div>
@@ -355,16 +345,14 @@ into the hell and into what is foul.
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
 16.16 Bewildered by numerous thoughts, caught in the net of delusion,
-(and) engrossed in the enjoyment of desirable objects, they fall into a
-foul hell.
+(and) engrossed in the enjoyment of desirable objects, they fall into a foul hell.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/16_anekachittavibhrA.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.16 Perplexed by discordant thoughts, entangled in the snares of
-desire, infatuated by passion, they sink into the horrors of hell.
+16.16 Perplexed by discordant thoughts, entangled in the snares of desire, infatuated by passion, they sink into the horrors of hell.
 
 </details>
 </div>
@@ -388,21 +376,8 @@ addicted to the gratification of lust, they fall into a foul hell.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 16.16 अनेकचित्तविभ्रान्ताः bewildred by many a fancy; मोहजालसमावृताः
-entangled in the snare of delusion; प्रसक्ताः addicted; कामभोगेषु to the
-gratification of lust; पतन्ति (they) fall; नरके into hell; अशुचौ
-foul.Commentary Just as a man utters many incoherent words when he gets
-delirium or high fever; so also these diabolical men prattle about their
-desires; sensual enjoyment; etc. They commit,countless sins and so they
-fall into a foul hell such as the Vaitarani. Delusion is a snare because
-those who are deluded are entrapped. They are caught like fish in the
-meshes of the net of delusion. They are enveloped by the net on four
-sides. They are bewildered as to what to do first and what next. As they
-are enveloped or covered by delusion; they are bewildered in various
-ways by entertaining various evil thoughts. They have no discrimination
-between the proper or beneficial and improper or harmful Sadhanas. The
-lack of the knowledge of the distinction between these two is Moha. As
-Mohas is a veil and a cause of bondage it is compared to a net.All the
-alities mentioned above lead to downfall.
+entangled in the snare of delusion; प्रसक्ताः addicted; कामभोगेषु to the gratification of lust; पतन्ति (they) fall; नरके into hell; अशुचौ
+foul.Commentary Just as a man utters many incoherent words when he gets delirium or high fever; so also these diabolical men prattle about their desires; sensual enjoyment; etc. They commit,countless sins and so they fall into a foul hell such as the Vaitarani. Delusion is a snare because those who are deluded are entrapped. They are caught like fish in the meshes of the net of delusion. They are enveloped by the net on four sides. They are bewildered as to what to do first and what next. As they are enveloped or covered by delusion; they are bewildered in various ways by entertaining various evil thoughts. They have no discrimination between the proper or beneficial and improper or harmful Sadhanas. The lack of the knowledge of the distinction between these two is Moha. As Mohas is a veil and a cause of bondage it is compared to a net.All the alities mentioned above lead to downfall.
 
 </details>
 </div>

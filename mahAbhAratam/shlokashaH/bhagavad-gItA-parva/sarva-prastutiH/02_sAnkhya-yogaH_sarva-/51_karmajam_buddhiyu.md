@@ -31,13 +31,25 @@ _________________
 
 </details>
 </div>
+<div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः वेङ्कटनाथः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/venkaTanAthaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
+<details><summary><h3>(सं) रामानुजः वेङ्कटनाथः ...{Loading}...</h3></summary>
+
+।।2.51।। अथ तत्फलभूतबन्धनिवृत्तिपूर्वकामृतत्वप्राप्तिपरस्यकर्मजं इति
+श्लोकस्य हेतुफलभावक्रमेण अन्वयमाह बुद्धियोगयुक्ता इति। कर्मजं फलं
+सांसारिकम्। जन्मबन्धो जन्मनो बन्धः स्वच्छन्दत्वहानिः अथवा जन्मैव बन्ध
+इति कर्मधारयः। अनामयं पदं स्थानविशेषो वा परमप्राप्यं परमात्मस्वरूपं वा
+प्रकरणवशादत्र ब्रह्मपर्यन्तजीवस्वरूपं वा पद्यते गम्यत इति पदम् त्रयमपि
+हि साक्षादन्यथा वा मुक्तप्राप्यत्वात्पदशब्दवाच्यम्। हिशब्दस्यात्र
+हेतुत्वादिपरत्वासम्भवात् प्रसिद्धिपरत्वम्। प्रसिद्धिस्थलं चाह प्रसिद्धं
+ह्येतत्वसर्वास्विति। एवमुक्तप्रकारो हेयोपादेयविभागो युक्त्यागमनिरपेक्षं
+तवैव स्पष्टो भविष्यतीति चमत्कारार्थमुच्यते।  
+
+</details>
+</div>
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-2.51 Those who possess this evenness of mind while performing actions
-and relinish their fruits, are freed from the bondage of rirth, and go
-to the region beyond all ills. 'Hi' means that this dictum or teaching
-is well known in all the Upanisads.
+2.51 Those who possess this evenness of mind while performing actions and relinish their fruits, are freed from the bondage of rirth, and go to the region beyond all ills. 'Hi' means that this dictum or teaching is well known in all the Upanisads.
 
 </details>
 </div>
@@ -377,18 +389,14 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-2.51. By renouncing the fruit, born of action, the intelligent ones
-endowed with determining faculty and freed from the bond of birth, go to
-the place that is devoid of illness.
+2.51. By renouncing the fruit, born of action, the intelligent ones endowed with determining faculty and freed from the bond of birth, go to the place that is devoid of illness.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-2.51 Because, those who are devoted to wisdom, (they) becoming men of
-Enlightenment by giving up the fruits produced by actions, reach the
-state beyond evils by having become freed from the bondage of birth.
+2.51 Because, those who are devoted to wisdom, (they) becoming men of Enlightenment by giving up the fruits produced by actions, reach the state beyond evils by having become freed from the bondage of birth.
 
 </details>
 </div>
@@ -403,18 +411,14 @@ and, freed from the chains of rebirth, they reach the highest bliss.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-2.51 The wise who possess evenness of mind, relinishing the fruits born
-of action, are freed from the bondage of birth, and go to the region
-beyond all ills.
+2.51 The wise who possess evenness of mind, relinishing the fruits born of action, are freed from the bondage of birth, and go to the region beyond all ills.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/02_sAnkhya-yogaH_sarva-/51_karmajam_buddhiyu.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-2.51 The wise, possessed of knowledge, having abandoned the fruits of
-their actions, and being freed from the fetters of birth, go to the
-place which is beyond all evil.
+2.51 The wise, possessed of knowledge, having abandoned the fruits of their actions, and being freed from the fetters of birth, go to the place which is beyond all evil.
 
 </details>
 </div>
@@ -424,16 +428,7 @@ place which is beyond all evil.
 2.51 कर्मजम् actionborn; बुद्धियुक्ताः possessed of knowledsge; हि
 indeed; फलम् the fruit; त्यक्त्वा having abandoned; मनीषिणः the wise;
 जन्मबन्धविनिर्मुक्ताः freed from the fetters of birth; पदम् the abode;
-गच्छन्ति go; अनामयम् beyond evil.Commentary Clinging to the fruits of
-actions is the cause of rirth. Man takes a body to enjoy them. If anyone
-performs actions for the sake of God in fulfilment of His purpose
-without desire for the fruits; he is released from the bonds of birth
-and attains to the blissful state or the immortal abode.Sages who
-possess evenness of mind abandon the fruits of their actions and thus
-escape from good and bad actions.Buddhi referred to in the three verses
-49; 50 and 51 may be the wisdom of the Sankhyas; i.e.; the knowledge of
-the Self or AtmaJnana which dawns when the mind is purified by Karma
-Yoga.
+गच्छन्ति go; अनामयम् beyond evil.Commentary Clinging to the fruits of actions is the cause of rirth. Man takes a body to enjoy them. If anyone performs actions for the sake of God in fulfilment of His purpose without desire for the fruits; he is released from the bonds of birth and attains to the blissful state or the immortal abode.Sages who possess evenness of mind abandon the fruits of their actions and thus escape from good and bad actions.Buddhi referred to in the three verses 49; 50 and 51 may be the wisdom of the Sankhyas; i.e.; the knowledge of the Self or AtmaJnana which dawns when the mind is purified by Karma Yoga.
 
 </details>
 </div>

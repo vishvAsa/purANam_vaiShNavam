@@ -52,10 +52,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-18.19 The knowledge of action which ought to be done, the act to be
-performed, and the performer of the act are threefold, each of them
-being divided in accordance with Sattva etc., Listen about these, which
-are differentiated according to the Gunas.
+18.19 The knowledge of action which ought to be done, the act to be performed, and the performer of the act are threefold, each of them being divided in accordance with Sattva etc., Listen about these, which are differentiated according to the Gunas.
 
 </details>
 </div>
@@ -468,9 +465,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-18.19. The instrument of knowledge, the object and the agent are just
-three kinds because of the differences in the Strands-thus it is
-declared in enumerating the Strands. These also you must listen to
+18.19. The instrument of knowledge, the object and the agent are just three kinds because of the differences in the Strands-thus it is declared in enumerating the Strands. These also you must listen to
 \[from Me\] as they are.
 
 </details>
@@ -478,35 +473,28 @@ declared in enumerating the Strands. These also you must listen to
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-18.19 Knowledge, action and agent are stated in the teaching about the
-gunas to be only of three kinds according to the differences of the
-gunas. Hear about them also as they are.
+18.19 Knowledge, action and agent are stated in the teaching about the gunas to be only of three kinds according to the differences of the gunas. Hear about them also as they are.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-18.19 The knowledge, the act and the doer differ according to the
-Qualities. Listen to this too:
+18.19 The knowledge, the act and the doer differ according to the Qualities. Listen to this too:
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-18.19 Knowledge, act and agent are declared in the science of Gunas to
-be of three kinds, according to the difference in the Gunas. Listen
-about them also as they are.
+18.19 Knowledge, act and agent are declared in the science of Gunas to be of three kinds, according to the difference in the Gunas. Listen about them also as they are.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/18_moxa-saMnyAsa-yogaH/19_jnAna~N_karma.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-18.19 Knowledge, action and actor are declared in the science of the
-Gunas (Sankhya philosophy) to be of three kinds only, according to the
-distinction of the Gunas. Of these also, hear duly.
+18.19 Knowledge, action and actor are declared in the science of the Gunas (Sankhya philosophy) to be of three kinds only, according to the distinction of the Gunas. Of these also, hear duly.
 
 </details>
 </div>
@@ -515,20 +503,8 @@ distinction of the Gunas. Of these also, hear duly.
 
 18.19 ज्ञानम् knowledge; कर्म action; च and; कर्ता actor; च and; त्रिधा
 of three kinds; एव only; गुणभेदतः according to the distinction of Gunas;
-प्रोच्यते are declared; गुणसंख्याने in the science of Gunas (Sankhya
-philosophy); यथावत् duly; श्रृणु hear; तानि them; अपि also.Commentary
-The three alities overpower the whole of creation with their special
-nature and bring it entirely under their control. The nature of action;
-the actor and his knowledge are threefold according to the Gunas that is
-predominant. If all the three are Sattvic; then the action will not bind
-the man.Karta The doer of the actions.The science of the Gunas here
-referred to is Kapilas system of philosophy. Though the Sankhya system
-is opposed to Vedanta with reference to the Supreme Truth; viz.; the
-oneness or nonduality of Brahman; yet it is an authority on the science
-of the Gunas.I shall describe knowledge; action and actor; as also their
-various distinctions caused by different Gunas; scientifically and
-rationally. Hear My teachings; O Arjuna; with rapt attention. You will
-be immensely benefited.
+प्रोच्यते are declared; गुणसंख्याने in the science of Gunas (Sankhya philosophy); यथावत् duly; श्रृणु hear; तानि them; अपि also.Commentary The three alities overpower the whole of creation with their special nature and bring it entirely under their control. The nature of action;
+the actor and his knowledge are threefold according to the Gunas that is predominant. If all the three are Sattvic; then the action will not bind the man.Karta The doer of the actions.The science of the Gunas here referred to is Kapilas system of philosophy. Though the Sankhya system is opposed to Vedanta with reference to the Supreme Truth; viz.; the oneness or nonduality of Brahman; yet it is an authority on the science of the Gunas.I shall describe knowledge; action and actor; as also their various distinctions caused by different Gunas; scientifically and rationally. Hear My teachings; O Arjuna; with rapt attention. You will be immensely benefited.
 
 </details>
 </div>

@@ -84,18 +84,9 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-13.18 This (self) alone is the 'light' which illuminates things like the
-sun, a lamp, a gem etc. It is knowledge alone in the form of the
-effulgence of the self which illuminates a lamp, the sun etc. But a lamp
-etc., dispel the darkness that intervenes between the sense of sight and
-its subject. Their illuminating power is limited to this extent. This is
-said to be beyond Tamas (darkness). The term Tamas denotes Prakrti in
-its subtle state. The meaning is that the self transcends Prakrti.
-Therefore, It is to be comprehended as knowledge, i.e., to be understood
-as of the form of knowledge. It is attainable by means of knowledge -
-such as modesty etc., already described. It is present in the heart of
-all, i.e., It is specially settled, or present in the heart of all
-beings like men etc.
+13.18 This (self) alone is the 'light' which illuminates things like the sun, a lamp, a gem etc. It is knowledge alone in the form of the effulgence of the self which illuminates a lamp, the sun etc. But a lamp etc., dispel the darkness that intervenes between the sense of sight and its subject. Their illuminating power is limited to this extent. This is said to be beyond Tamas (darkness). The term Tamas denotes Prakrti in its subtle state. The meaning is that the self transcends Prakrti.
+Therefore, It is to be comprehended as knowledge, i.e., to be understood as of the form of knowledge. It is attainable by means of knowledge -
+such as modesty etc., already described. It is present in the heart of all, i.e., It is specially settled, or present in the heart of all beings like men etc.
 
 </details>
 </div>
@@ -561,27 +552,21 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-13.18. This is the Light even of \[all\] the lights, \[and\] is stated
-to be beyond darkness; It is to be known by \[the above\] knowledge; It
-is to be attained \[only\] by knowledge; and It distinctly remains in
-the heart of all.
+13.18. This is the Light even of \[all\] the lights, \[and\] is stated to be beyond darkness; It is to be known by \[the above\] knowledge; It is to be attained \[only\] by knowledge; and It distinctly remains in the heart of all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-13.18 That is the Light even of the lights; It is spoken of as beyond
-darkness. It is Knowledge, the Knowable, and the Known. It exists
-specially \[A variant reading is dhisthitam.-Tr.\] in the hearts of all.
+13.18 That is the Light even of the lights; It is spoken of as beyond darkness. It is Knowledge, the Knowable, and the Known. It exists specially \[A variant reading is dhisthitam.-Tr.\] in the hearts of all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-13.18 It is the Light of lights, beyond the reach of darkness; the
-Wisdom, the only thing that is worth knowing or that wisdom can teach;
+13.18 It is the Light of lights, beyond the reach of darkness; the Wisdom, the only thing that is worth knowing or that wisdom can teach;
 the Presence in the hearts of all.
 
 </details>
@@ -590,8 +575,7 @@ the Presence in the hearts of all.
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
 13.18 The light of all lights, this is said to be beyond Tamas
-(darkness). It is known to be knowledge. It is to be attained by
-knowledge. It is present in the heart of all.
+(darkness). It is known to be knowledge. It is to be attained by knowledge. It is present in the heart of all.
 
 </details>
 </div>
@@ -599,31 +583,19 @@ knowledge. It is present in the heart of all.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 13.18 That, the Light of all lights, is said to be beyond darkness:
-knowledge, the knowable and the goal of knowledge, seated in the hearts
-of all.
+knowledge, the knowable and the goal of knowledge, seated in the hearts of all.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः टीका" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/TIkA/13_xetra-xetrajna-yogaH/18_jyotiShAmapi.md">
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
-13.18 ज्योतिषाम् of lights; अपि even; तत् That; ज्योतिः Light; तमसः from
-darkness; परम् beyond; उच्यते is said (to be); ज्ञानम् knowledge;
+13.18 ज्योतिषाम् of lights; अपि even; तत् That; ज्योतिः Light; तमसः from darkness; परम् beyond; उच्यते is said (to be); ज्ञानम् knowledge;
 ज्ञेयम् that which is to be known; ज्ञानगम्यम् attainable by knowledge;
-हृदि in the heart; सर्वस्य of all; विष्ठितम् seated.Commentary The
-Supreme Self illumines the intellect; the mind; the sun; moon; stars;
+हृदि in the heart; सर्वस्य of all; विष्ठितम् seated.Commentary The Supreme Self illumines the intellect; the mind; the sun; moon; stars;
 fire and lightning. It is selfluminous; The sun does not shine there;
-nor do the moon and the stars; nor do these lightnings shine and much
-less this fire. When It shines; everything shines after It all these
-shine by Its Light. (Kathopanishad 5.15 also Svetasvataropanishad
-6.14)Knowledge Such as humility. (Cf.XIII.7to11)The knowable As
-described in verses 12 to 7.The goal of knowledge; i.e.; capable of
-being understood by wisdom.These three are installed in the heart
-(Buddhi) of every living being. Though the light of the sun shines in
-all objects; yet the suns light shines more brilliantly in all bright
-and clean objects such as a mirror. Even so; though Brahman is present
-in all objects; the intellect shines with special effulgence received
-from Brahman. (Cf.X.20XIII.3XVIII.61)
+nor do the moon and the stars; nor do these lightnings shine and much less this fire. When It shines; everything shines after It all these shine by Its Light. (Kathopanishad 5.15 also Svetasvataropanishad 6.14)Knowledge Such as humility. (Cf.XIII.7to11)The knowable As described in verses 12 to 7.The goal of knowledge; i.e.; capable of being understood by wisdom.These three are installed in the heart
+(Buddhi) of every living being. Though the light of the sun shines in all objects; yet the suns light shines more brilliantly in all bright and clean objects such as a mirror. Even so; though Brahman is present in all objects; the intellect shines with special effulgence received from Brahman. (Cf.X.20XIII.3XVIII.61)
 
 </details>
 </div>

@@ -69,24 +69,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/03_karma-yogaH/18_naiva_tasya.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-3.18 Thus, for such a one there is no purpose, i.e., nothing to be
-gained from work done as a means for the vision of the self, nor is he
-subject to any evil or calamity from work left undone, because his
-vision of the self does not rest on any external means. To such a person
-who has turned by himself away from non-intelligent matter which is
-different from the self, there is nothing acceptable as a purpose to be
-gained from the constituents of Prakrti and their products; only if
-there were such a purpose, there would be the need for the means of
-retreat therefrom. For, the adoption of the means is only for effecting
-such a retreat. But he is verily liberated. Non-pursuit of the means for
-vision of the self is only for that person whose vision of the self no
-longer depends on any means. But Karma Yoga is better in gaining the
-vision of the self for one who is in pursuit of the means for that
-vision, because it is easy to perfom, because it is secure from possible
-error, because the contemplation of the true nature of the self is
-included in it, and because even for a Jnana Yogin the performance of
-minimum activity is necessary. For these reasons, Karma Yoga is better
-as a means for the vision of the Atman.
+3.18 Thus, for such a one there is no purpose, i.e., nothing to be gained from work done as a means for the vision of the self, nor is he subject to any evil or calamity from work left undone, because his vision of the self does not rest on any external means. To such a person who has turned by himself away from non-intelligent matter which is different from the self, there is nothing acceptable as a purpose to be gained from the constituents of Prakrti and their products; only if there were such a purpose, there would be the need for the means of retreat therefrom. For, the adoption of the means is only for effecting such a retreat. But he is verily liberated. Non-pursuit of the means for vision of the self is only for that person whose vision of the self no longer depends on any means. But Karma Yoga is better in gaining the vision of the self for one who is in pursuit of the means for that vision, because it is easy to perfom, because it is secure from possible error, because the contemplation of the true nature of the self is included in it, and because even for a Jnana Yogin the performance of minimum activity is necessary. For these reasons, Karma Yoga is better as a means for the vision of the Atman.
 
 </details>
 </div>
@@ -589,43 +572,35 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/03_karma-yogaH/18_naiva_tasya.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-3.18. No purpose is served for him by what he has done or by what he has
-not done. For him there is hardly any dependenc on any purpose among all
-beings.
+3.18. No purpose is served for him by what he has done or by what he has not done. For him there is hardly any dependenc on any purpose among all beings.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/03_karma-yogaH/18_naiva_tasya.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-3.18 For him there is no concern here at all with performing action; nor
-any (concern) with nonperformance. Moreover, for him there is no
-dependence on any object to serve any purpose.
+3.18 For him there is no concern here at all with performing action; nor any (concern) with nonperformance. Moreover, for him there is no dependence on any object to serve any purpose.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/03_karma-yogaH/18_naiva_tasya.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-3.18 He has nothing to gain by the performance or non-performance of
-action. His welfare depends not on any contribution that an earthly
-creature can make.
+3.18 He has nothing to gain by the performance or non-performance of action. His welfare depends not on any contribution that an earthly creature can make.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/03_karma-yogaH/18_naiva_tasya.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-3.18 He has no purpose to gain by work done or left undone, nor has he
-to rely on any end.
+3.18 He has no purpose to gain by work done or left undone, nor has he to rely on any end.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शिवानन्दः अनुवादः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shivAnandaH/anuvAdaH/03_karma-yogaH/18_naiva_tasya.md">
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
-3.18 For him there is no interest whatever in what is done or what is
-not done; nor does he depend on any being for any object.
+3.18 For him there is no interest whatever in what is done or what is not done; nor does he depend on any being for any object.
 
 </details>
 </div>
@@ -633,14 +608,8 @@ not done; nor does he depend on any being for any object.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 3.18 न not; एव even; तस्य of hi; कृतेन by action; अर्थः concern; न not;
-अकृतेन by actions not done; इह here; कश्चन् any; न not; च and; अस्य of
-this man; सर्वभूतेषु in all beings; कश्चित् any; अर्थव्यपाश्रयः
-depending for any object.Commentary The sage who is thus rejoicing in
-the Self does not gain anything by doing any action. For him really no
-purpose is served by an action. No evil (Pratyavaya Dosha) can touch him
-from inaction. He does not lose anything from inaction. He need not
-depend upon anybody to gain a particular object. He need not exert
-himself to get the favour of anybody.
+अकृतेन by actions not done; इह here; कश्चन् any; न not; च and; अस्य of this man; सर्वभूतेषु in all beings; कश्चित् any; अर्थव्यपाश्रयः
+depending for any object.Commentary The sage who is thus rejoicing in the Self does not gain anything by doing any action. For him really no purpose is served by an action. No evil (Pratyavaya Dosha) can touch him from inaction. He does not lose anything from inaction. He need not depend upon anybody to gain a particular object. He need not exert himself to get the favour of anybody.
 
 </details>
 </div>

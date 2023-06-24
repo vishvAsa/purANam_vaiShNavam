@@ -55,10 +55,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(सं) रामानुजः (Eng) आदिदेवानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/saMskRtam/rAmAnujaH/english/AdidevAnandaH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 <details><summary><h3>(सं) रामानुजः (Eng) आदिदेवानन्दः ...{Loading}...</h3></summary>
 
-16.12 They are 'bound by hundreds of fetters of hope,' viz., bound by
-hundreds of fetters in the form of hope. They are given over to 'desire
-and anger,' viz., they are intent solely on desire and anger. To satisfy
-their sensual desires, they endeavour for wealth through immortal means.
+16.12 They are 'bound by hundreds of fetters of hope,' viz., bound by hundreds of fetters in the form of hope. They are given over to 'desire and anger,' viz., they are intent solely on desire and anger. To satisfy their sensual desires, they endeavour for wealth through immortal means.
 
 </details>
 </div>
@@ -351,8 +348,7 @@ _________________
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) शङ्करनारायणः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/shankaranArAyaNaH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 <details><summary><h3>(Eng) शङ्करनारायणः ...{Loading}...</h3></summary>
 
-16.12. Being bound by hundreds of ropes of longing; and being devoted to
-their desire and anger, they seek, by unjust means, hoards with wealth,
+16.12. Being bound by hundreds of ropes of longing; and being devoted to their desire and anger, they seek, by unjust means, hoards with wealth,
 for the purpose of the gratification of their desires.
 
 </details>
@@ -360,27 +356,21 @@ for the purpose of the gratification of their desires.
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) गम्भीरानन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/gambhIrAnandaH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 <details><summary><h3>(Eng) गम्भीरानन्दः ...{Loading}...</h3></summary>
 
-16.12 Bound by hundreds of shackles in the form of hope, giving
-themselves wholly to passion and anger, they endeavour to amass wealth
-through foul means for the enjoyment of desirable objects.
+16.12 Bound by hundreds of shackles in the form of hope, giving themselves wholly to passion and anger, they endeavour to amass wealth through foul means for the enjoyment of desirable objects.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) पुरोहितस्वामी" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/purohitasvAmI/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 <details><summary><h3>(Eng) पुरोहितस्वामी ...{Loading}...</h3></summary>
 
-16.12 Caught in the toils of a hundred vain hopes, the slaves of passion
-and wrath, they accumulate hoards of unjust wealth, only to pander to
-their sensual desire.
+16.12 Caught in the toils of a hundred vain hopes, the slaves of passion and wrath, they accumulate hoards of unjust wealth, only to pander to their sensual desire.
 
 </details>
 </div>
 <div class="js_include collapsed" newlevelforh1="3" title="(Eng) आदिदेवनन्दः" unfilled url="/purANam_vaiShNavam/mahAbhAratam/06-bhIShma-parva/03-bhagavad-gItA-parva/english/AdidevanandaH/16_daivAsura-sampad-vib/12_AshApAshashatairb.md">
 <details><summary><h3>(Eng) आदिदेवनन्दः ...{Loading}...</h3></summary>
 
-16.12 Bound by hundreds of fetters of hopes, given over to desire and
-anger, they strive unjustly to gather wealth for the gratification of
-their desires.
+16.12 Bound by hundreds of fetters of hopes, given over to desire and anger, they strive unjustly to gather wealth for the gratification of their desires.
 
 </details>
 </div>
@@ -388,8 +378,7 @@ their desires.
 <details><summary><h3>(Eng) शिवानन्दः अनुवादः ...{Loading}...</h3></summary>
 
 16.12 Bound by a hundred ties of hope, given over to lust and anger,
-they strive to obtain by unlawful means hoards to wealth for sensual
-enjoyments.
+they strive to obtain by unlawful means hoards to wealth for sensual enjoyments.
 
 </details>
 </div>
@@ -397,20 +386,8 @@ enjoyments.
 <details><summary><h3>(Eng) शिवानन्दः टीका ...{Loading}...</h3></summary>
 
 16.12 आशापाशशतैः by a hundred ties of hope; बद्धाः bound;
-कामक्रोधपरायणाः given over to lust and anger; ईहन्ते (they) strive (to
-attain); कामभोगार्थम् for sensual enjoyment; अन्यायेन by unlawful means;
-अर्थसञ्चयान् hoards of wealth.Commentary They murder people and rob them
-of their wealth in order to have sensual enjoyments. They amass wealth
-for sensepleasure only; but not for doing righteous actions. They have
-no mercy. They are very cruel. They are held in bondage by a hundred
-ties of expectation. They harbour in their hearts a craving for all
-kinds of sensual objects. Various sorts of desires crop up in their
-mind. When their desires are not gratified they become furious. They
-acire wealth by unjust means. Hope or expectation binds a man to the
-wheel of Samsara.,Therefore hope is likened to a cord or a rope. There
-is no end to their cravings. Though they possess enormous wealth their
-cravings are not appeased. They multiply daily. These people become
-hopeless victims of greed.
+कामक्रोधपरायणाः given over to lust and anger; ईहन्ते (they) strive (to attain); कामभोगार्थम् for sensual enjoyment; अन्यायेन by unlawful means;
+अर्थसञ्चयान् hoards of wealth.Commentary They murder people and rob them of their wealth in order to have sensual enjoyments. They amass wealth for sensepleasure only; but not for doing righteous actions. They have no mercy. They are very cruel. They are held in bondage by a hundred ties of expectation. They harbour in their hearts a craving for all kinds of sensual objects. Various sorts of desires crop up in their mind. When their desires are not gratified they become furious. They acire wealth by unjust means. Hope or expectation binds a man to the wheel of Samsara.,Therefore hope is likened to a cord or a rope. There is no end to their cravings. Though they possess enormous wealth their cravings are not appeased. They multiply daily. These people become hopeless victims of greed.
 
 </details>
 </div>
