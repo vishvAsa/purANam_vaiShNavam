@@ -4,6 +4,6 @@ title = "45 अहो बत"
 +++
   
   
-।।1.45।। No commentary.  
+॥1.45॥ No commentary.  
   
   

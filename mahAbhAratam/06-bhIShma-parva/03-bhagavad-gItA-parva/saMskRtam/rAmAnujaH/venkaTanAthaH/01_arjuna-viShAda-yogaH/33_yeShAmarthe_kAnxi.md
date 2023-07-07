@@ -2,7 +2,7 @@
 title = "33 येषामर्थे काङ्क्षितम्"
 
 +++
-।। 1.33।। No commentary.  
+॥ 1.33॥ No commentary.  
   
   
   

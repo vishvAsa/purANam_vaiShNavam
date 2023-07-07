@@ -2,6 +2,6 @@
 title = "35 एतान्न हन्तुमिच्छामि"
 
 +++
-।। 1.35।। No commentary.  
+॥ 1.35॥ No commentary.  
   
   

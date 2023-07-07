@@ -2,7 +2,7 @@
 title = "44 उत्सन्नकुलधर्माणाम्"
 
 +++
-।। 1.44।। No commentary.  
+॥ 1.44॥ No commentary.  
   
   
   
