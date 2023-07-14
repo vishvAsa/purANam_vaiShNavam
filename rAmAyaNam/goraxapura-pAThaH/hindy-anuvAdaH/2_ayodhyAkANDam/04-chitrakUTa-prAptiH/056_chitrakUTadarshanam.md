@@ -4,11 +4,8 @@ title_english = "056 The Chitrakuta Mountain"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-056-Chitrakoota_Darshanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-056-Chitrakoota_Darshanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "056 The Chitrakuta Mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सौमित्रे शृणु वन्यानां वल्गु व्याहरतां स्वनम्।  
-सम्प्रतिष्ठामहे कालः प्रस्थानस्य परंतप॥ २॥
+सम्प्रतिष्ठामहे कालः प्रस्थानस्य परन्तप॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सौमित्रे शृणु वन्यानां वल्गु व्याहरतां स्वनम्।  
-सम्प्रतिष्ठामहे कालः प्रस्थानस्य परंतप॥ २॥
+सम्प्रतिष्ठामहे कालः प्रस्थानस्य परन्तप॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -154,13 +151,13 @@ title_english = "056 The Chitrakuta Mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एष क्रोशति नत्यूहस्तं शिखी प्रतिकूजति।  
-रमणीये वनोद्देशे पुष्पसंस्तरसंकटे॥ ९॥
+रमणीये वनोद्देशे पुष्पसंस्तरसङ्कटे॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एष क्रोशति नत्यूहस्तं शिखी प्रतिकूजति।  
-रमणीये वनोद्देशे पुष्पसंस्तरसंकटे॥ ९॥
+रमणीये वनोद्देशे पुष्पसंस्तरसङ्कटे॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -170,13 +167,13 @@ title_english = "056 The Chitrakuta Mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मातङ्गयूथानुसृतं पक्षिसंघानुनादितम्।  
+मातङ्गयूथानुसृतं पक्षिसङ्घानुनादितम्।  
 चित्रकूटमिमं पश्य प्रवृद्धशिखरं गिरिम्॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मातङ्गयूथानुसृतं पक्षिसंघानुनादितम्।  
+मातङ्गयूथानुसृतं पक्षिसङ्घानुनादितम्।  
 चित्रकूटमिमं पश्य प्रवृद्धशिखरं गिरिम्॥ १०॥
 </details>
 
@@ -307,13 +304,13 @@ title_english = "056 The Chitrakuta Mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽब्रवीन्महाबाहुर्लक्ष्मणं लक्ष्मणाग्रजः।  
-संनिवेद्य यथान्यायमात्मानमृषये प्रभुः॥ १८॥
+सन्निवेद्य यथान्यायमात्मानमृषये प्रभुः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततोऽब्रवीन्महाबाहुर्लक्ष्मणं लक्ष्मणाग्रजः।  
-संनिवेद्य यथान्यायमात्मानमृषये प्रभुः॥ १८॥
+सन्निवेद्य यथान्यायमात्मानमृषये प्रभुः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -341,13 +338,13 @@ title_english = "056 The Chitrakuta Mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा सौमित्रिर्विविधान् द्रुमान्।  
-आजहार ततश्चक्रे पर्णशालामरिंदमः॥ २०॥
+आजहार ततश्चक्रे पर्णशालामरिन्दमः॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्य तद् वचनं श्रुत्वा सौमित्रिर्विविधान् द्रुमान्।  
-आजहार ततश्चक्रे पर्णशालामरिंदमः॥ २०॥
+आजहार ततश्चक्रे पर्णशालामरिन्दमः॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -498,13 +495,13 @@ title_english = "056 The Chitrakuta Mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं सर्वः समस्ताङ्गः शृतः कृष्णमृगो मया।  
-देवता देवसंकाश यजस्व कुशलो ह्यसि॥ २८॥
+देवता देवसङ्काश यजस्व कुशलो ह्यसि॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अयं सर्वः समस्ताङ्गः शृतः कृष्णमृगो मया।  
-देवता देवसंकाश यजस्व कुशलो ह्यसि॥ २८॥
+देवता देवसङ्काश यजस्व कुशलो ह्यसि॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -520,13 +517,13 @@ title_english = "056 The Chitrakuta Mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामः स्नात्वा तु नियतो गुणवाञ्जपकोविदः।  
-संग्रहेणाकरोत् सर्वान् मन्त्रान् सत्रावसानिकान्॥ २९॥
+सङ्ग्रहेणाकरोत् सर्वान् मन्त्रान् सत्रावसानिकान्॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रामः स्नात्वा तु नियतो गुणवाञ्जपकोविदः।  
-संग्रहेणाकरोत् सर्वान् मन्त्रान् सत्रावसानिकान्॥ २९॥
+सङ्ग्रहेणाकरोत् सर्वान् मन्त्रान् सत्रावसानिकान्॥ २९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -649,3 +646,4 @@ title_english = "056 The Chitrakuta Mountain"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे षट्पञ्चाशः सर्गः॥ ५६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें छप्पनवाँ सर्ग पूरा हुआ॥ ५६॥
 </details>
+

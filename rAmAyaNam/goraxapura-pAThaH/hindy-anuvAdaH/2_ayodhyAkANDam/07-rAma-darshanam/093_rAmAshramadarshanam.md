@@ -4,11 +4,8 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-093-Rama_Shrama_Darshanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-093-Rama_Shrama_Darshanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -69,13 +66,13 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सागरौघनिभा सेना भरतस्य महात्मनः।  
-महीं संछादयामास प्रावृषि द्यामिवाम्बुदः॥ ४॥
+महीं सञ्छादयामास प्रावृषि द्यामिवाम्बुदः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सागरौघनिभा सेना भरतस्य महात्मनः।  
-महीं संछादयामास प्रावृषि द्यामिवाम्बुदः॥ ४॥
+महीं सञ्छादयामास प्रावृषि द्यामिवाम्बुदः॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -85,13 +82,13 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तुरंगौघैरवतता वारणैश्च महाबलैः।  
+तुरङ्गौघैरवतता वारणैश्च महाबलैः।  
 अनालक्ष्या चिरं कालं तस्मिन् काले बभूव सा॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तुरंगौघैरवतता वारणैश्च महाबलैः।  
+तुरङ्गौघैरवतता वारणैश्च महाबलैः।  
 अनालक्ष्या चिरं कालं तस्मिन् काले बभूव सा॥ ५॥
 </details>
 
@@ -176,13 +173,13 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किंनराचरितं देशं पश्य शत्रुघ्न पर्वते।  
+किन्नराचरितं देशं पश्य शत्रुघ्न पर्वते।  
 हयैः समन्तादाकीर्णं मकरैरिव सागरम्॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-किंनराचरितं देशं पश्य शत्रुघ्न पर्वते।  
+किन्नराचरितं देशं पश्य शत्रुघ्न पर्वते।  
 हयैः समन्तादाकीर्णं मकरैरिव सागरम्॥ ११॥
 </details>
 
@@ -380,13 +377,13 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ नात्र नरव्याघ्रौ राजपुत्रौ परंतपौ।  
+अथ नात्र नरव्याघ्रौ राजपुत्रौ परन्तपौ।  
 अन्ये रामोपमाः सन्ति व्यक्तमत्र तपस्विनः॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथ नात्र नरव्याघ्रौ राजपुत्रौ परंतपौ।  
+अथ नात्र नरव्याघ्रौ राजपुत्रौ परन्तपौ।  
 अन्ये रामोपमाः सन्ति व्यक्तमत्र तपस्विनः॥ २३॥
 </details>
 
@@ -472,3 +469,4 @@ title_english = "093 Bharata and his army reach Chitrakuta mountain"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्रिनवतितमः सर्गः॥ ९३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें तिरानबेवाँ सर्ग पूरा हुआ॥ ९३॥
 </details>
+

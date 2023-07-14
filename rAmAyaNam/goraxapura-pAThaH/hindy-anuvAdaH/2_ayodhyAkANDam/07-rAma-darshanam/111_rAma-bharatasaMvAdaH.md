@@ -4,11 +4,8 @@ title_english = "111 Vashishta urges Rama to grant the prayer of Bharata"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-111-Rama_Bharatha_Samvadaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-111-Rama_Bharatha_Samvadaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -68,13 +65,13 @@ title_english = "111 Vashishta urges Rama to grant the prayer of Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स तेऽहं पितुराचार्यस्तव चैव परंतप।  
+स तेऽहं पितुराचार्यस्तव चैव परन्तप।  
 मम त्वं वचनं कुर्वन् नातिवर्तेः सतां गतिम्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स तेऽहं पितुराचार्यस्तव चैव परंतप।  
+स तेऽहं पितुराचार्यस्तव चैव परन्तप।  
 मम त्वं वचनं कुर्वन् नातिवर्तेः सतां गतिम्॥ ४॥
 </details>
 
@@ -472,13 +469,13 @@ title_english = "111 Vashishta urges Rama to grant the prayer of Bharata"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जानामि भरतं क्षान्तं गुरुसत्कारकारिणम्।  
-सर्वमेवात्र कल्याणं सत्यसंधे महात्मनि॥ ३०॥
+सर्वमेवात्र कल्याणं सत्यसन्धे महात्मनि॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 जानामि भरतं क्षान्तं गुरुसत्कारकारिणम्।  
-सर्वमेवात्र कल्याणं सत्यसंधे महात्मनि॥ ३०॥
+सर्वमेवात्र कल्याणं सत्यसन्धे महात्मनि॥ ३०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -525,3 +522,4 @@ title_english = "111 Vashishta urges Rama to grant the prayer of Bharata"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकादशाधिकशततमः सर्गः॥ १११॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ ग्यारहवाँ सर्ग पूरा हुआ॥ १११॥
 </details>
+

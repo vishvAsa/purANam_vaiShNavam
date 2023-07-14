@@ -4,11 +4,8 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-039-Rama_and_others_see_the_charming_garden_on_Suvela_mountain_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-039-Rama_and_others_see_the_charming_garden_on_Suvela_mountain_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,7 +49,7 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चम्पकाशोकबकुलशालतालसमाकुला।  
-तमालवनसंछन्ना नागमालासमावृता॥ ३॥  
+तमालवनसञ्छन्ना नागमालासमावृता॥ ३॥  
 हिन्तालैरर्जुनैर्नीपैः सप्तपर्णैः सुपुष्पितैः।  
 तिलकैः कर्णिकारैश्च पाटलैश्च समन्ततः॥ ४॥  
 शुशुभे पुष्पिताग्रैश्च लतापरिगतैर्द्रुमैः।  
@@ -62,7 +59,7 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 <details><summary>मूलम्</summary>
 
 चम्पकाशोकबकुलशालतालसमाकुला।  
-तमालवनसंछन्ना नागमालासमावृता॥ ३॥  
+तमालवनसञ्छन्ना नागमालासमावृता॥ ३॥  
 हिन्तालैरर्जुनैर्नीपैः सप्तपर्णैः सुपुष्पितैः।  
 तिलकैः कर्णिकारैश्च पाटलैश्च समन्ततः॥ ४॥  
 शुशुभे पुष्पिताग्रैश्च लतापरिगतैर्द्रुमैः।  
@@ -110,13 +107,13 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच्चैत्ररथसंकाशं मनोज्ञं नन्दनोपमम्।  
+तच्चैत्ररथसङ्काशं मनोज्ञं नन्दनोपमम्।  
 वनं सर्वर्तुकं रम्यं शुशुभे षट्पदायुतम्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तच्चैत्ररथसंकाशं मनोज्ञं नन्दनोपमम्।  
+तच्चैत्ररथसङ्काशं मनोज्ञं नन्दनोपमम्।  
 वनं सर्वर्तुकं रम्यं शुशुभे षट्पदायुतम्॥ ८॥
 </details>
 
@@ -144,8 +141,8 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नित्यमत्तविहंगानि भ्रमराचरितानि च।  
-कोकिलाकुलखण्डानि विहंगाभिरुतानि च॥ १०॥  
+नित्यमत्तविहङ्गानि भ्रमराचरितानि च।  
+कोकिलाकुलखण्डानि विहङ्गाभिरुतानि च॥ १०॥  
 भृङ्गराजाधिगीतानि कुररस्वनितानि च।  
 कोणालकविघुष्टानि सारसाभिरुतानि च।  
 विविशुस्ते ततस्तानि वनान्युपवनानि च॥ ११॥
@@ -153,8 +150,8 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 
 <details><summary>मूलम्</summary>
 
-नित्यमत्तविहंगानि भ्रमराचरितानि च।  
-कोकिलाकुलखण्डानि विहंगाभिरुतानि च॥ १०॥  
+नित्यमत्तविहङ्गानि भ्रमराचरितानि च।  
+कोकिलाकुलखण्डानि विहङ्गाभिरुतानि च॥ १०॥  
 भृङ्गराजाधिगीतानि कुररस्वनितानि च।  
 कोणालकविघुष्टानि सारसाभिरुतानि च।  
 विविशुस्ते ततस्तानि वनान्युपवनानि च॥ ११॥
@@ -242,13 +239,13 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिखरं तु त्रिकूटस्य प्रांशु चैकं दिविस्पृशम्।  
-समन्तात् पुष्पसंछन्नं महारजतसंनिभम्॥ १७॥
+समन्तात् पुष्पसञ्छन्नं महारजतसन्निभम्॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 शिखरं तु त्रिकूटस्य प्रांशु चैकं दिविस्पृशम्।  
-समन्तात् पुष्पसंछन्नं महारजतसंनिभम्॥ १७॥
+समन्तात् पुष्पसञ्छन्नं महारजतसन्निभम्॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -293,14 +290,14 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशयोजनविस्तीर्णा विंशद्योजनमायता।  
-सा पुरी गोपुरैरुच्चैः पाण्डुराम्बुदसंनिभैः।  
+सा पुरी गोपुरैरुच्चैः पाण्डुराम्बुदसन्निभैः।  
 काञ्चनेन च शालेन राजतेन च शोभते॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दशयोजनविस्तीर्णा विंशद्योजनमायता।  
-सा पुरी गोपुरैरुच्चैः पाण्डुराम्बुदसंनिभैः।  
+सा पुरी गोपुरैरुच्चैः पाण्डुराम्बुदसन्निभैः।  
 काञ्चनेन च शालेन राजतेन च शोभते॥ २०॥
 </details>
 
@@ -334,13 +331,13 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्यां स्तम्भसहस्रेण प्रासादः समलंकृतः।  
+यस्यां स्तम्भसहस्रेण प्रासादः समलङ्कृतः।  
 कैलासशिखराकारो दृश्यते खमिवोल्लिखन्॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यस्यां स्तम्भसहस्रेण प्रासादः समलंकृतः।  
+यस्यां स्तम्भसहस्रेण प्रासादः समलङ्कृतः।  
 कैलासशिखराकारो दृश्यते खमिवोल्लिखन्॥ २२॥
 </details>
 
@@ -385,13 +382,13 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नानाविहगसंघुष्टां नानामृगनिषेविताम्।  
+नानाविहगसङ्घुष्टां नानामृगनिषेविताम्।  
 नानाकुसुमसम्पन्नां नानाराक्षससेविताम्॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नानाविहगसंघुष्टां नानामृगनिषेविताम्।  
+नानाविहगसङ्घुष्टां नानामृगनिषेविताम्।  
 नानाकुसुमसम्पन्नां नानाराक्षससेविताम्॥ २५॥
 </details>
 
@@ -437,7 +434,7 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां रत्नपूर्णां बहुसंविधानां  
-प्रासादमालाभिरलंकृतां च।  
+प्रासादमालाभिरलङ्कृतां च।  
 पुरीं महायन्त्रकवाटमुख्यां  
 ददर्श रामो महता बलेन॥ २८॥
 </details>
@@ -445,7 +442,7 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 <details><summary>मूलम्</summary>
 
 तां रत्नपूर्णां बहुसंविधानां  
-प्रासादमालाभिरलंकृतां च।  
+प्रासादमालाभिरलङ्कृतां च।  
 पुरीं महायन्त्रकवाटमुख्यां  
 ददर्श रामो महता बलेन॥ २८॥
 </details>
@@ -460,3 +457,4 @@ title_english = "039 Rama and others see the charming garden on Suvela mountain"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकोनचत्वारिंशः सर्गः॥ ३९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें उन्तालीसवाँ सर्ग पूरा हुआ॥ ३९॥
 </details>
+

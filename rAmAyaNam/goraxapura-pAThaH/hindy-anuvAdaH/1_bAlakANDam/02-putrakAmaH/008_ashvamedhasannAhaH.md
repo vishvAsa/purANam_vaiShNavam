@@ -4,11 +4,8 @@ title_english = "008 King dasharatha proposes Vedic ritual for progeny"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-008-Ashvamedha_Sannahaaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-008-Ashvamedha_Sannahaaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "008 King dasharatha proposes Vedic ritual for progeny"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य चैवंप्रभावस्य धर्मज्ञस्य महात्मनः।  
+तस्य चैवम्प्रभावस्य धर्मज्ञस्य महात्मनः।  
 सुतार्थं तप्यमानस्य नासीद् वंशकरः सुतः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्य चैवंप्रभावस्य धर्मज्ञस्य महात्मनः।  
+तस्य चैवम्प्रभावस्य धर्मज्ञस्य महात्मनः।  
 सुतार्थं तप्यमानस्य नासीद् वंशकरः सुतः॥ १॥
 </details>
 
@@ -269,13 +266,13 @@ title_english = "008 King dasharatha proposes Vedic ritual for progeny"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विसर्जयित्वा तान् विप्रान् सचिवानिदमब्रवीत्॥ २१॥  
-ऋत्विग्भिरुपसंदिष्टो यथावत् क्रतुराप्यताम्।
+ऋत्विग्भिरुपसन्दिष्टो यथावत् क्रतुराप्यताम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 विसर्जयित्वा तान् विप्रान् सचिवानिदमब्रवीत्॥ २१॥  
-ऋत्विग्भिरुपसंदिष्टो यथावत् क्रतुराप्यताम्।
+ऋत्विग्भिरुपसन्दिष्टो यथावत् क्रतुराप्यताम्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -302,13 +299,13 @@ title_english = "008 King dasharatha proposes Vedic ritual for progeny"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः स गत्वा ताः पत्नीर्नरेन्द्रो हृदयंगमाः॥ २३॥  
+ततः स गत्वा ताः पत्नीर्नरेन्द्रो हृदयङ्गमाः॥ २३॥  
 उवाच दीक्षां विशत यक्ष्येऽहं सुतकारणात्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः स गत्वा ताः पत्नीर्नरेन्द्रो हृदयंगमाः॥ २३॥  
+ततः स गत्वा ताः पत्नीर्नरेन्द्रो हृदयङ्गमाः॥ २३॥  
 उवाच दीक्षां विशत यक्ष्येऽहं सुतकारणात्।
 </details>
 
@@ -339,3 +336,4 @@ title_english = "008 King dasharatha proposes Vedic ritual for progeny"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टमः सर्गः॥ ८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें आठवाँ सर्ग पूरा हुआ॥ ८॥
 </details>
+

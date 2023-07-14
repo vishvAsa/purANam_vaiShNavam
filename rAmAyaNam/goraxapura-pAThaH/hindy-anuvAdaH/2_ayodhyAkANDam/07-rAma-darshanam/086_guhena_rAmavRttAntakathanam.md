@@ -4,11 +4,8 @@ title_english = "086 Guha narrates Bharata about Rama s stay"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-086-Guhena_Rama_Vruththantha_Kathanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-086-Guhena_Rama_Vruththantha_Kathanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -123,13 +120,13 @@ title_english = "086 Guha narrates Bharata about Rama s stay"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नहि मेऽविदितं किंचिद् वनेऽस्मिंश्चरतः सदा।  
+नहि मेऽविदितं किञ्चिद् वनेऽस्मिंश्चरतः सदा।  
 चतुरङ्गं ह्यपि बलं प्रसहेम वयं युधि॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नहि मेऽविदितं किंचिद् वनेऽस्मिंश्चरतः सदा।  
+नहि मेऽविदितं किञ्चिद् वनेऽस्मिंश्चरतः सदा।  
 चतुरङ्गं ह्यपि बलं प्रसहेम वयं युधि॥ ८॥
 </details>
 
@@ -357,13 +354,13 @@ title_english = "086 Guha narrates Bharata about Rama s stay"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रभाते विमले सूर्ये कारयित्वा जटा उभौ।  
-अस्मिन् भागीरथीतीरे सुखं संतारितौ मया॥ २४॥
+अस्मिन् भागीरथीतीरे सुखं सन्तारितौ मया॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रभाते विमले सूर्ये कारयित्वा जटा उभौ।  
-अस्मिन् भागीरथीतीरे सुखं संतारितौ मया॥ २४॥
+अस्मिन् भागीरथीतीरे सुखं सन्तारितौ मया॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -375,7 +372,7 @@ title_english = "086 Guha narrates Bharata about Rama s stay"
 
 जटाधरौ तौ द्रुमचीरवाससौ  
 महाबलौ कुञ्जरयूथपोपमौ।  
-वरेषुधीचापधरौ परंतपौ  
+वरेषुधीचापधरौ परन्तपौ  
 व्यपेक्षमाणौ सह सीतया गतौ॥ २५॥
 </details>
 
@@ -383,7 +380,7 @@ title_english = "086 Guha narrates Bharata about Rama s stay"
 
 जटाधरौ तौ द्रुमचीरवाससौ  
 महाबलौ कुञ्जरयूथपोपमौ।  
-वरेषुधीचापधरौ परंतपौ  
+वरेषुधीचापधरौ परन्तपौ  
 व्यपेक्षमाणौ सह सीतया गतौ॥ २५॥
 </details>
 
@@ -397,3 +394,4 @@ title_english = "086 Guha narrates Bharata about Rama s stay"
 इत्यार्षे श्रीमद्रारामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे षडशीतितमः सर्गः॥ ८६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें छियासीवाँ सर्ग पूरा हुआ॥ ८६॥
 </details>
+

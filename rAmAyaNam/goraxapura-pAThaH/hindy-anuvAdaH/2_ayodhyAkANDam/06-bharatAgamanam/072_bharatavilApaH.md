@@ -4,11 +4,8 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-072-Bharatha_Vilapaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-072-Bharatha_Vilapaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -153,7 +150,7 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यन्मे धनं च रत्नं च ददौ राजा परंतपः।  
+यन्मे धनं च रत्नं च ददौ राजा परन्तपः।  
 परिश्रान्तं पथ्यभवत् ततोऽहं पूर्वमागतः॥ ९॥  
 राजवाक्यहरैर्दूतैस्त्वर्यमाणोऽहमागतः।  
 यदहं प्रष्टुमिच्छामि तदम्बा वक्तुमर्हति॥ १०॥
@@ -161,7 +158,7 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 
 <details><summary>मूलम्</summary>
 
-यन्मे धनं च रत्नं च ददौ राजा परंतपः।  
+यन्मे धनं च रत्नं च ददौ राजा परन्तपः।  
 परिश्रान्तं पथ्यभवत् ततोऽहं पूर्वमागतः॥ ९॥  
 राजवाक्यहरैर्दूतैस्त्वर्यमाणोऽहमागतः।  
 यदहं प्रष्टुमिच्छामि तदम्बा वक्तुमर्हति॥ १०॥
@@ -335,17 +332,17 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमार्तं देवसंकाशं समीक्ष्य पतितं भुवि।  
+तमार्तं देवसङ्काशं समीक्ष्य पतितं भुवि।  
 निकृत्तमिव सालस्य स्कन्धं परशुना वने॥ २२॥  
-माता मातङ्गसंकाशं चन्द्रार्कसदृशं सुतम्।  
+माता मातङ्गसङ्काशं चन्द्रार्कसदृशं सुतम्।  
 उत्थापयित्वा शोकार्तं वचनं चेदमब्रवीत्॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तमार्तं देवसंकाशं समीक्ष्य पतितं भुवि।  
+तमार्तं देवसङ्काशं समीक्ष्य पतितं भुवि।  
 निकृत्तमिव सालस्य स्कन्धं परशुना वने॥ २२॥  
-माता मातङ्गसंकाशं चन्द्रार्कसदृशं सुतम्।  
+माता मातङ्गसङ्काशं चन्द्रार्कसदृशं सुतम्।  
 उत्थापयित्वा शोकार्तं वचनं चेदमब्रवीत्॥ २३॥
 </details>
 
@@ -408,13 +405,13 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिषेक्ष्यति रामं तु राजा यज्ञं नु यक्ष्यते।  
-इत्यहं कृतसंकल्पो हृष्टो यात्रामयासिषम्॥ २७॥
+इत्यहं कृतसङ्कल्पो हृष्टो यात्रामयासिषम्॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अभिषेक्ष्यति रामं तु राजा यज्ञं नु यक्ष्यते।  
-इत्यहं कृतसंकल्पो हृष्टो यात्रामयासिषम्॥ २७॥
+इत्यहं कृतसङ्कल्पो हृष्टो यात्रामयासिषम्॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -459,13 +456,13 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न नूनं मां महाराजः प्राप्तं जानाति कीर्तिमान्।  
-उपजिघ्रेत् तु मां मूर्ध्नि तातः संनाम्य सत्वरम्॥ ३०॥
+उपजिघ्रेत् तु मां मूर्ध्नि तातः सन्नाम्य सत्वरम्॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 न नूनं मां महाराजः प्राप्तं जानाति कीर्तिमान्।  
-उपजिघ्रेत् तु मां मूर्ध्नि तातः संनाम्य सत्वरम्॥ ३०॥
+उपजिघ्रेत् तु मां मूर्ध्नि तातः सन्नाम्य सत्वरम्॥ ३०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -528,14 +525,14 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 
 धर्मविद् धर्मशीलश्च महाभागो दृढव्रतः।  
 आर्ये किमब्रवीद् राजा पिता मे सत्यविक्रमः॥ ३४॥  
-पश्चिमं साधुसंदेशमिच्छामि श्रोतुमात्मनः।
+पश्चिमं साधुसन्देशमिच्छामि श्रोतुमात्मनः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 धर्मविद् धर्मशीलश्च महाभागो दृढव्रतः।  
 आर्ये किमब्रवीद् राजा पिता मे सत्यविक्रमः॥ ३४॥  
-पश्चिमं साधुसंदेशमिच्छामि श्रोतुमात्मनः।
+पश्चिमं साधुसन्देशमिच्छामि श्रोतुमात्मनः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -751,14 +748,14 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न ब्राह्मणधनं किंचिद्‍धृतं रामेण कस्यचित्।  
+न ब्राह्मणधनं किञ्चिद्‍धृतं रामेण कस्यचित्।  
 कश्चिन्नाढ्यो दरिद्रो वा तेनापापो विहिंसितः।  
 न रामः परदारान् स चक्षुर्भ्यामपि पश्यति॥ ४८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न ब्राह्मणधनं किंचिद्‍धृतं रामेण कस्यचित्।  
+न ब्राह्मणधनं किञ्चिद्‍धृतं रामेण कस्यचित्।  
 कश्चिन्नाढ्यो दरिद्रो वा तेनापापो विहिंसितः।  
 न रामः परदारान् स चक्षुर्भ्यामपि पश्यति॥ ४८॥
 </details>
@@ -825,13 +822,13 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा शोकं मा च संतापं धैर्यमाश्रय पुत्रक।  
+मा शोकं मा च सन्तापं धैर्यमाश्रय पुत्रक।  
 त्वदधीना हि नगरी राज्यं चैतदनामयम्॥ ५३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मा शोकं मा च संतापं धैर्यमाश्रय पुत्रक।  
+मा शोकं मा च सन्तापं धैर्यमाश्रय पुत्रक।  
 त्वदधीना हि नगरी राज्यं चैतदनामयम्॥ ५३॥
 </details>
 
@@ -844,7 +841,7 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 
 तत् पुत्र शीघ्रं विधिना विधिज्ञै-  
 र्वसिष्ठमुख्यैः सहितो द्विजेन्द्रैः।  
-संकाल्य राजानमदीनसत्त्व-  
+सङ्काल्य राजानमदीनसत्त्व-  
 मात्मानमुर्व्यामभिषेचयस्व॥ ५४॥
 </details>
 
@@ -852,7 +849,7 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 
 तत् पुत्र शीघ्रं विधिना विधिज्ञै-  
 र्वसिष्ठमुख्यैः सहितो द्विजेन्द्रैः।  
-संकाल्य राजानमदीनसत्त्व-  
+सङ्काल्य राजानमदीनसत्त्व-  
 मात्मानमुर्व्यामभिषेचयस्व॥ ५४॥
 </details>
 
@@ -866,3 +863,4 @@ title_english = "072 Kaikeyi informs Bharata about the death of Dasaratha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे द्विसप्ततितमः सर्गः॥ ७२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें बहत्तरवाँ सर्ग पूरा हुआ॥ ७२॥
 </details>
+

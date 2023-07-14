@@ -4,11 +4,8 @@ title_english = "057 Sumantra drives back to Ayodhya"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-057-Sumantrasya_Yodhya_Gamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-057-Sumantrasya_Yodhya_Gamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -120,13 +117,13 @@ title_english = "057 Sumantra drives back to Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कच्चिन्न सगजा साश्वा सजना सजनाधिपा।  
-रामसंतापदुःखेन दग्धा शोकाग्निना पुरी॥ ७॥
+रामसन्तापदुःखेन दग्धा शोकाग्निना पुरी॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कच्चिन्न सगजा साश्वा सजना सजनाधिपा।  
-रामसंतापदुःखेन दग्धा शोकाग्निना पुरी॥ ७॥
+रामसन्तापदुःखेन दग्धा शोकाग्निना पुरी॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -380,7 +377,7 @@ title_english = "057 Sumantra drives back to Ayodhya"
 
 सत्यरूपं तु तद् वाक्यं राजस्त्रीणां निशामयन्।  
 प्रदीप्त इव शोकेन विवेश सहसा गृहम्॥ २३॥  
-रानियोंकी वह सच्ची बात सुनकर शोकसे दग्ध-से होते हुए सुमन्त्रने सहसा राजभवनमें प्रवेश किया॥ २३॥  
+रानियोङ्की वह सच्ची बात सुनकर शोकसे दग्ध-से होते हुए सुमन्त्रने सहसा राजभवनमें प्रवेश किया॥ २३॥  
 स प्रविश्याष्टमीं कक्ष्यां राजानं दीनमातुरम्।  
 पुत्रशोकपरिद्यूनमपश्यत् पाण्डुरे गृहे॥ २४॥
 </details>
@@ -389,7 +386,7 @@ title_english = "057 Sumantra drives back to Ayodhya"
 
 सत्यरूपं तु तद् वाक्यं राजस्त्रीणां निशामयन्।  
 प्रदीप्त इव शोकेन विवेश सहसा गृहम्॥ २३॥  
-रानियोंकी वह सच्ची बात सुनकर शोकसे दग्ध-से होते हुए सुमन्त्रने सहसा राजभवनमें प्रवेश किया॥ २३॥  
+रानियोङ्की वह सच्ची बात सुनकर शोकसे दग्ध-से होते हुए सुमन्त्रने सहसा राजभवनमें प्रवेश किया॥ २३॥  
 स प्रविश्याष्टमीं कक्ष्यां राजानं दीनमातुरम्।  
 पुत्रशोकपरिद्यूनमपश्यत् पाण्डुरे गृहे॥ २४॥
 </details>
@@ -557,7 +554,7 @@ title_english = "057 Sumantra drives back to Ayodhya"
 ततस्तमन्तःपुरनादमुत्थितं  
 समीक्ष्य वृद्धास्तरुणाश्च मानवाः।  
 स्त्रियश्च सर्वा रुरुदुः समन्ततः  
-पुरं तदासीत् पुनरेव संकुलम्॥ ३४॥
+पुरं तदासीत् पुनरेव सङ्कुलम्॥ ३४॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -565,7 +562,7 @@ title_english = "057 Sumantra drives back to Ayodhya"
 ततस्तमन्तःपुरनादमुत्थितं  
 समीक्ष्य वृद्धास्तरुणाश्च मानवाः।  
 स्त्रियश्च सर्वा रुरुदुः समन्ततः  
-पुरं तदासीत् पुनरेव संकुलम्॥ ३४॥
+पुरं तदासीत् पुनरेव सङ्कुलम्॥ ३४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -578,3 +575,4 @@ title_english = "057 Sumantra drives back to Ayodhya"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्तपञ्चाशः सर्गः॥ ५७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें सत्तावनवाँ सर्ग पूरा हुआ॥ ५७॥
 </details>
+

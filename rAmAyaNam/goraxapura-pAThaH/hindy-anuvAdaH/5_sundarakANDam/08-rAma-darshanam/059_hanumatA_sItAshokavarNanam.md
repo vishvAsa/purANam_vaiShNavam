@@ -4,11 +4,8 @@ title_english = "059 Hanuma describes the plight of Seetha to his fellow monkeys
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-058-Jambavan_requests_Hanuma_to_narrate_clearly_the_happenings.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-058-Jambavan_requests_Hanuma_to_narrate_clearly_the_happenings.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -103,14 +100,14 @@ title_english = "059 Hanuma describes the plight of Seetha to his fellow monkeys
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाम्बवत्प्रमुखान् सर्वाननुज्ञाप्य महाकपीन्।  
-अस्मिन् नेवंगते कार्ये भवतां च निवेदिते।  
+अस्मिन् नेवङ्गते कार्ये भवतां च निवेदिते।  
 न्याय्यं स्म सह वैदेह्या द्रष्टुं तौ पार्थिवात्मजौ॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 जाम्बवत्प्रमुखान् सर्वाननुज्ञाप्य महाकपीन्।  
-अस्मिन् नेवंगते कार्ये भवतां च निवेदिते।  
+अस्मिन् नेवङ्गते कार्ये भवतां च निवेदिते।  
 न्याय्यं स्म सह वैदेह्या द्रष्टुं तौ पार्थिवात्मजौ॥ ६॥
 </details>
 
@@ -339,13 +336,13 @@ title_english = "059 Hanuma describes the plight of Seetha to his fellow monkeys
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राक्षसीभिः परिवृता शोकसंतापकर्शिता।  
+राक्षसीभिः परिवृता शोकसन्तापकर्शिता।  
 मेघरेखापरिवृता चन्द्ररेखेव निष्प्रभा॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-राक्षसीभिः परिवृता शोकसंतापकर्शिता।  
+राक्षसीभिः परिवृता शोकसन्तापकर्शिता।  
 मेघरेखापरिवृता चन्द्ररेखेव निष्प्रभा॥ २२॥
 </details>
 
@@ -428,13 +425,13 @@ title_english = "059 Hanuma describes the plight of Seetha to his fellow monkeys
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथंचिन्मृगशावाक्षी विश्वासमुपपादिता।  
+कथञ्चिन्मृगशावाक्षी विश्वासमुपपादिता।  
 ततः सम्भाषिता चैव सर्वमर्थं प्रकाशिता॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथंचिन्मृगशावाक्षी विश्वासमुपपादिता।  
+कथञ्चिन्मृगशावाक्षी विश्वासमुपपादिता।  
 ततः सम्भाषिता चैव सर्वमर्थं प्रकाशिता॥ २८॥
 </details>
 
@@ -516,3 +513,4 @@ title_english = "059 Hanuma describes the plight of Seetha to his fellow monkeys
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे एकोनषष्टितमः सर्गः॥ ५९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें उनसठवाँ सर्ग पूरा हुआ॥ ५९॥
 </details>
+

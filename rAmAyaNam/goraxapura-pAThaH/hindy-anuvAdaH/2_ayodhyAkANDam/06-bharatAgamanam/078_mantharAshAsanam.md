@@ -4,11 +4,8 @@ title_english = "078 Shatrughna seizes Manthara and threatens to punish her"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-078-Mandhara_Shasanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-078-Mandhara_Shasanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "078 Shatrughna seizes Manthara and threatens to punish her"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ यात्रां समीहन्तं शत्रुघ्नो लक्ष्मणानुजः।  
-भरतं शोकसंतप्तमिदं वचनमब्रवीत्॥ १॥
+भरतं शोकसन्तप्तमिदं वचनमब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथ यात्रां समीहन्तं शत्रुघ्नो लक्ष्मणानुजः।  
-भरतं शोकसंतप्तमिदं वचनमब्रवीत्॥ १॥
+भरतं शोकसन्तप्तमिदं वचनमब्रवीत्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -221,13 +218,13 @@ title_english = "078 Shatrughna seizes Manthara and threatens to punish her"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः सुभृशसंतप्तस्तस्याः सर्वः सखीजनः।  
+ततः सुभृशसन्तप्तस्तस्याः सर्वः सखीजनः।  
 क्रुद्धमाज्ञाय शत्रुघ्नं व्यपलायत सर्वशः॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः सुभृशसंतप्तस्तस्याः सर्वः सखीजनः।  
+ततः सुभृशसन्तप्तस्तस्याः सर्वः सखीजनः।  
 क्रुद्धमाज्ञाय शत्रुघ्नं व्यपलायत सर्वशः॥ १३॥
 </details>
 
@@ -341,13 +338,13 @@ title_english = "078 Shatrughna seizes Manthara and threatens to punish her"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तैर्वाक्यैः परुषैर्दुःखैः कैकेयी भृशदुःखिता।  
-शत्रुघ्नभयसंत्रस्ता पुत्रं शरणमागता॥ २०॥
+शत्रुघ्नभयसन्त्रस्ता पुत्रं शरणमागता॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तैर्वाक्यैः परुषैर्दुःखैः कैकेयी भृशदुःखिता।  
-शत्रुघ्नभयसंत्रस्ता पुत्रं शरणमागता॥ २०॥
+शत्रुघ्नभयसन्त्रस्ता पुत्रं शरणमागता॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -442,7 +439,7 @@ title_english = "078 Shatrughna seizes Manthara and threatens to punish her"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शत्रुघ्नविक्षेपविमूढसंज्ञां  
+शत्रुघ्नविक्षेपविमूढसञ्ज्ञां  
 समीक्ष्य कुब्जां भरतस्य माता।  
 शनैः समाश्वासयदार्तरूपां  
 क्रौञ्चीं विलग्नामिव वीक्षमाणाम्॥ २६॥
@@ -450,7 +447,7 @@ title_english = "078 Shatrughna seizes Manthara and threatens to punish her"
 
 <details><summary>मूलम्</summary>
 
-शत्रुघ्नविक्षेपविमूढसंज्ञां  
+शत्रुघ्नविक्षेपविमूढसञ्ज्ञां  
 समीक्ष्य कुब्जां भरतस्य माता।  
 शनैः समाश्वासयदार्तरूपां  
 क्रौञ्चीं विलग्नामिव वीक्षमाणाम्॥ २६॥
@@ -466,3 +463,4 @@ title_english = "078 Shatrughna seizes Manthara and threatens to punish her"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डेऽष्टसप्ततितमः सर्गः॥ ७८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें अठहत्तरवाँ सर्ग पूरा हुआ॥ ७८॥
 </details>
+

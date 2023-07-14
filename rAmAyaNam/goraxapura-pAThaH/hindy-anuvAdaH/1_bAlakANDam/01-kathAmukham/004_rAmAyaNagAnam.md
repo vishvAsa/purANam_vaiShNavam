@@ -4,11 +4,8 @@ title_english = "004 Lava and Kusha assigned to sing the epic rAma listents to i
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-004-Ramayana_Gaanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-004-Ramayana_Gaanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -112,7 +109,7 @@ title_english = "004 Lava and Kusha assigned to sing the epic rAma listents to i
 
 पाठ्ये गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम्।  
 जातिभिः सप्तभिर्युक्तं तन्त्रीलयसमन्वितम्॥ ८॥  
-रसैः शृंगारकरुणहास्य रौद्रभयानकैः।  
+रसैः शृङ्गारकरुणहास्य रौद्रभयानकैः।  
 वीरादिभी रसैर्युक्तं काव्यमेतदगायताम्॥ ९॥
 </details>
 
@@ -120,7 +117,7 @@ title_english = "004 Lava and Kusha assigned to sing the epic rAma listents to i
 
 पाठ्ये गेये च मधुरं प्रमाणैस्त्रिभिरन्वितम्।  
 जातिभिः सप्तभिर्युक्तं तन्त्रीलयसमन्वितम्॥ ८॥  
-रसैः शृंगारकरुणहास्य रौद्रभयानकैः।  
+रसैः शृङ्गारकरुणहास्य रौद्रभयानकैः।  
 वीरादिभी रसैर्युक्तं काव्यमेतदगायताम्॥ ९॥
 </details>
 
@@ -477,3 +474,4 @@ title_english = "004 Lava and Kusha assigned to sing the epic rAma listents to i
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुर्थः सर्गः॥ ४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें चौथा सर्ग पूरा हुआ॥ ४॥
 </details>
+

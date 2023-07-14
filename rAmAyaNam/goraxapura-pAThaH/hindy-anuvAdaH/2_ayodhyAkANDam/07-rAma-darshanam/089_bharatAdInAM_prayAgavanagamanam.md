@@ -4,11 +4,8 @@ title_english = "089 Bharata asks Guha to to ferry them across the river by boat
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-089-Bharathaa_Deenam_Prayaga_Vanagamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-089-Bharathaa_Deenam_Prayaga_Vanagamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -120,13 +117,13 @@ title_english = "089 Bharata asks Guha to to ferry them across the river by boat
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखा नः शर्वरी धीमन् पूजिताश्चापि ते वयम्।  
-गङ्गां तु नौभिर्बह्वीभिर्दाशाः संतारयन्तु नः॥ ७॥
+गङ्गां तु नौभिर्बह्वीभिर्दाशाः सन्तारयन्तु नः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सुखा नः शर्वरी धीमन् पूजिताश्चापि ते वयम्।  
-गङ्गां तु नौभिर्बह्वीभिर्दाशाः संतारयन्तु नः॥ ७॥
+गङ्गां तु नौभिर्बह्वीभिर्दाशाः सन्तारयन्तु नः॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -136,13 +133,13 @@ title_english = "089 Bharata asks Guha to to ferry them across the river by boat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो गुहः संत्वरितः श्रुत्वा भरतशासनम्।  
+ततो गुहः सन्त्वरितः श्रुत्वा भरतशासनम्।  
 प्रतिप्रविश्य नगरं तं ज्ञातिजनमब्रवीत्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततो गुहः संत्वरितः श्रुत्वा भरतशासनम्।  
+ततो गुहः सन्त्वरितः श्रुत्वा भरतशासनम्।  
 प्रतिप्रविश्य नगरं तं ज्ञातिजनमब्रवीत्॥ ८॥
 </details>
 
@@ -349,13 +346,13 @@ title_english = "089 Bharata asks Guha to to ferry them across the river by boat
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा पुण्या ध्वजिनी गङ्गां दाशैः संतारिता स्वयम्।  
+सा पुण्या ध्वजिनी गङ्गां दाशैः सन्तारिता स्वयम्।  
 मैत्रे मुहूर्ते प्रययौ प्रयागवनमुत्तमम्॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सा पुण्या ध्वजिनी गङ्गां दाशैः संतारिता स्वयम्।  
+सा पुण्या ध्वजिनी गङ्गां दाशैः सन्तारिता स्वयम्।  
 मैत्रे मुहूर्ते प्रययौ प्रयागवनमुत्तमम्॥ २१॥
 </details>
 
@@ -420,3 +417,4 @@ title_english = "089 Bharata asks Guha to to ferry them across the river by boat
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकोननवतितमः सर्गः॥ ८९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें नवासीवाँ सर्ग पूरा हुआ॥ ८९॥
 </details>
+

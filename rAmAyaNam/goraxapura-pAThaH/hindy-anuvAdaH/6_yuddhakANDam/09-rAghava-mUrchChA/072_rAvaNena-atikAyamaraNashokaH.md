@@ -4,11 +4,8 @@ title_english = "072 Ravana s grief over Atikaya s death"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-072-Ravana_s_grief_over_Atikaya_s_death_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-072-Ravana_s_grief_over_Atikaya_s_death_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -271,7 +268,7 @@ title_english = "072 Ravana s grief over Atikaya s death"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः स संदीपितकोपवह्नि-  
+ततः स सन्दीपितकोपवह्नि-  
 र्निशाचराणामधिपो महाबलः।  
 तदेव पुत्रव्यसनं विचिन्तयन्  
 मुहुर्मुहुश्चैव तदा विनिःश्वसन्॥ १९॥
@@ -279,7 +276,7 @@ title_english = "072 Ravana s grief over Atikaya s death"
 
 <details><summary>मूलम्</summary>
 
-ततः स संदीपितकोपवह्नि-  
+ततः स सन्दीपितकोपवह्नि-  
 र्निशाचराणामधिपो महाबलः।  
 तदेव पुत्रव्यसनं विचिन्तयन्  
 मुहुर्मुहुश्चैव तदा विनिःश्वसन्॥ १९॥
@@ -295,3 +292,4 @@ title_english = "072 Ravana s grief over Atikaya s death"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्विसप्ततितमः सर्गः॥ ७२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें बहत्तरवाँ सर्ग पूरा हुआ॥ ७२॥
 </details>
+

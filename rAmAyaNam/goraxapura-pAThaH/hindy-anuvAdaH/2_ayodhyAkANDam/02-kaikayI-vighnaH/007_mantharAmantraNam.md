@@ -4,11 +4,8 @@ title_english = "007 The wicked Manthara"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-007-Mandthara_Manthranam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-007-Mandthara_Manthranam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "007 The wicked Manthara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञातिदासी यतो जाता कैकेय्या तु सहोषिता।  
-प्रासादं चन्द्रसंकाशमारुरोह यदृच्छया॥ १॥
+प्रासादं चन्द्रसङ्काशमारुरोह यदृच्छया॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ज्ञातिदासी यतो जाता कैकेय्या तु सहोषिता।  
-प्रासादं चन्द्रसंकाशमारुरोह यदृच्छया॥ १॥
+प्रासादं चन्द्रसङ्काशमारुरोह यदृच्छया॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -51,13 +48,13 @@ title_english = "007 The wicked Manthara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पताकाभिर्वरार्हाभिर्ध्वजैश्च समलंकृताम्।  
+पताकाभिर्वरार्हाभिर्ध्वजैश्च समलङ्कृताम्।  
 सिक्तां चन्दनतोयैश्च शिरःस्नातजनैर्युताम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पताकाभिर्वरार्हाभिर्ध्वजैश्च समलंकृताम्।  
+पताकाभिर्वरार्हाभिर्ध्वजैश्च समलङ्कृताम्।  
 सिक्तां चन्दनतोयैश्च शिरःस्नातजनैर्युताम्॥ ३॥
 </details>
 
@@ -357,13 +354,13 @@ title_english = "007 The wicked Manthara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धर्मवादी शठो भर्ता श्लक्ष्णवादी च दारुणः।  
-शुद्धभावेन जानीषे तेनैवमतिसंधिता॥ २४॥
+शुद्धभावेन जानीषे तेनैवमतिसन्धिता॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 धर्मवादी शठो भर्ता श्लक्ष्णवादी च दारुणः।  
-शुद्धभावेन जानीषे तेनैवमतिसंधिता॥ २४॥
+शुद्धभावेन जानीषे तेनैवमतिसन्धिता॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -492,13 +489,13 @@ title_english = "007 The wicked Manthara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतीव सा तु संतुष्टा कैकेयी विस्मयान्विता।  
+अतीव सा तु सन्तुष्टा कैकेयी विस्मयान्विता।  
 दिव्यमाभरणं तस्यै कुब्जायै प्रददौ शुभम्॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अतीव सा तु संतुष्टा कैकेयी विस्मयान्विता।  
+अतीव सा तु सन्तुष्टा कैकेयी विस्मयान्विता।  
 दिव्यमाभरणं तस्यै कुब्जायै प्रददौ शुभम्॥ ३२॥
 </details>
 
@@ -547,7 +544,7 @@ title_english = "007 The wicked Manthara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न मे परं किंचिदितो वरं पुनः  
+न मे परं किञ्चिदितो वरं पुनः  
 प्रियं प्रियार्हे सुवचं वचोऽमृतम्।  
 तथा ह्यवोचस्त्वमतः प्रियोत्तरं  
 वरं परं ते प्रददामि तं वृणु॥ ३६॥
@@ -555,7 +552,7 @@ title_english = "007 The wicked Manthara"
 
 <details><summary>मूलम्</summary>
 
-न मे परं किंचिदितो वरं पुनः  
+न मे परं किञ्चिदितो वरं पुनः  
 प्रियं प्रियार्हे सुवचं वचोऽमृतम्।  
 तथा ह्यवोचस्त्वमतः प्रियोत्तरं  
 वरं परं ते प्रददामि तं वृणु॥ ३६॥
@@ -571,3 +568,4 @@ title_english = "007 The wicked Manthara"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्तमः सर्गः॥ ७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें सातवाँ सर्ग पूरा हुआ॥ ७॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-054-Vajradamstra_shows_terror_among_the_monkeys__0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-054-Vajradamstra_shows_terror_among_the_monkeys__0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -86,13 +83,13 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्रायुधसहस्राणि तस्मिन्नायोधने भृशम्।  
-राक्षसाः कपिमुख्येषु पातयांचक्रिरे तदा॥ ५॥
+राक्षसाः कपिमुख्येषु पातयाञ्चक्रिरे तदा॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तत्रायुधसहस्राणि तस्मिन्नायोधने भृशम्।  
-राक्षसाः कपिमुख्येषु पातयांचक्रिरे तदा॥ ५॥
+राक्षसाः कपिमुख्येषु पातयाञ्चक्रिरे तदा॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -103,13 +100,13 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानराश्चैव रक्षःसु गिरिवृक्षान् महाशिलाः।  
-प्रवीराः पातयामासुर्मत्तवारणसंनिभाः॥ ६॥
+प्रवीराः पातयामासुर्मत्तवारणसन्निभाः॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 वानराश्चैव रक्षःसु गिरिवृक्षान् महाशिलाः।  
-प्रवीराः पातयामासुर्मत्तवारणसंनिभाः॥ ६॥
+प्रवीराः पातयामासुर्मत्तवारणसन्निभाः॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -154,13 +151,13 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरयो राक्षसाश्चैव शेरते गां समाश्रिताः।  
-कङ्कगृध्रबलाढ्याश्च गोमायुकुलसंकुलाः॥ ९॥
+कङ्कगृध्रबलाढ्याश्च गोमायुकुलसङ्कुलाः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 हरयो राक्षसाश्चैव शेरते गां समाश्रिताः।  
-कङ्कगृध्रबलाढ्याश्च गोमायुकुलसंकुलाः॥ ९॥
+कङ्कगृध्रबलाढ्याश्च गोमायुकुलसङ्कुलाः॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -206,13 +203,13 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राक्षसान् भयवित्रस्तान् हन्यमानान् प्लवंगमैः॥ १२॥  
+राक्षसान् भयवित्रस्तान् हन्यमानान् प्लवङ्गमैः॥ १२॥  
 दृष्ट्वा स रोषताम्राक्षो वज्रदंष्ट्रः प्रतापवान्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-राक्षसान् भयवित्रस्तान् हन्यमानान् प्लवंगमैः॥ १२॥  
+राक्षसान् भयवित्रस्तान् हन्यमानान् प्लवङ्गमैः॥ १२॥  
 दृष्ट्वा स रोषताम्राक्षो वज्रदंष्ट्रः प्रतापवान्।
 </details>
 
@@ -257,13 +254,13 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रस्ताः सर्वे हरिगणाः शरैः संकृत्तदेहिनः।  
+त्रस्ताः सर्वे हरिगणाः शरैः सङ्कृत्तदेहिनः।  
 अङ्गदं सम्प्रधावन्ति प्रजापतिमिव प्रजाः॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्रस्ताः सर्वे हरिगणाः शरैः संकृत्तदेहिनः।  
+त्रस्ताः सर्वे हरिगणाः शरैः सङ्कृत्तदेहिनः।  
 अङ्गदं सम्प्रधावन्ति प्रजापतिमिव प्रजाः॥ १५॥
 </details>
 
@@ -444,13 +441,13 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स लब्धसंज्ञो गदया वालिपुत्रमवस्थितम्।  
+स लब्धसञ्ज्ञो गदया वालिपुत्रमवस्थितम्।  
 जघान परमक्रुद्धो वक्षोदेशे निशाचरः॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स लब्धसंज्ञो गदया वालिपुत्रमवस्थितम्।  
+स लब्धसञ्ज्ञो गदया वालिपुत्रमवस्थितम्।  
 जघान परमक्रुद्धो वक्षोदेशे निशाचरः॥ २६॥
 </details>
 
@@ -513,13 +510,13 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जग्राह चार्षभं चर्म खड्गं च विपुलं शुभम्।  
-किङ्किणीजालसंछन्नं चर्मणा च परिष्कृतम्॥ ३०॥
+किङ्किणीजालसञ्छन्नं चर्मणा च परिष्कृतम्॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 जग्राह चार्षभं चर्म खड्गं च विपुलं शुभम्।  
-किङ्किणीजालसंछन्नं चर्मणा च परिष्कृतम्॥ ३०॥
+किङ्किणीजालसञ्छन्नं चर्मणा च परिष्कृतम्॥ ३०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -530,13 +527,13 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चित्रांश्च रुचिरान् मार्गांश्चेरतुः कपिराक्षसौ।  
-जघ्नतुश्च तदान्योन्यं नर्दन्तौ जयकांक्षिणौ॥ ३१॥
+जघ्नतुश्च तदान्योन्यं नर्दन्तौ जयकाङ्क्षिणौ॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 चित्रांश्च रुचिरान् मार्गांश्चेरतुः कपिराक्षसौ।  
-जघ्नतुश्च तदान्योन्यं नर्दन्तौ जयकांक्षिणौ॥ ३१॥
+जघ्नतुश्च तदान्योन्यं नर्दन्तौ जयकाङ्क्षिणौ॥ ३१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -616,14 +613,14 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 
 वज्रदंष्ट्रं हतं दृष्ट्वा राक्षसा भयमोहिताः।  
 त्रस्ता ह्यभ्यद्रवल्ँ लङ्कां वध्यमानाः प्लवङ्गमैः।  
-विषण्णवदना दीना ह्रिया किंचिदवाङ्मुखाः॥ ३६॥
+विषण्णवदना दीना ह्रिया किञ्चिदवाङ्मुखाः॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 वज्रदंष्ट्रं हतं दृष्ट्वा राक्षसा भयमोहिताः।  
 त्रस्ता ह्यभ्यद्रवल्ँ लङ्कां वध्यमानाः प्लवङ्गमैः।  
-विषण्णवदना दीना ह्रिया किंचिदवाङ्मुखाः॥ ३६॥
+विषण्णवदना दीना ह्रिया किञ्चिदवाङ्मुखाः॥ ३६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -657,3 +654,4 @@ title_english = "054 Vajradamstra shows terror among the monkeys"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चतुःपञ्चाशः सर्गः॥ ५४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें चौवनवाँ सर्ग पूरा हुआ॥ ५४॥
 </details>
+

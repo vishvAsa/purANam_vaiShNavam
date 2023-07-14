@@ -4,11 +4,8 @@ title_english = "056 Akampana enters the battle field"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-056-Akampana_enters_the_battle-field__0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-056-Akampana_enters_the_battle-field__0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "056 Akampana enters the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रोधमूिर्च्छत  तरूपस्तु धुन्वन् परमकार्मुकम्।  
+क्रोधमूिर्च्छत तरूपस्तु धुन्वन् परमकार्मुकम्।  
 दृष्ट्वा तु कर्म शत्रूणां सारथिं वाक्यमब्रवीत्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-क्रोधमूिर्च्छत  तरूपस्तु धुन्वन् परमकार्मुकम्।  
+क्रोधमूिर्च्छत तरूपस्तु धुन्वन् परमकार्मुकम्।  
 दृष्ट्वा तु कर्म शत्रूणां सारथिं वाक्यमब्रवीत्॥ २॥
 </details>
 
@@ -290,13 +287,13 @@ title_english = "056 Akampana enters the battle field"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तमभिदुद्राव राक्षसेन्द्रमकम्पनम्।  
-पुरा हि नमुचिं संख्ये वज्रेणेव पुरंदरः॥ १७॥
+पुरा हि नमुचिं सङ्ख्ये वज्रेणेव पुरन्दरः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततस्तमभिदुद्राव राक्षसेन्द्रमकम्पनम्।  
-पुरा हि नमुचिं संख्ये वज्रेणेव पुरंदरः॥ १७॥
+पुरा हि नमुचिं सङ्ख्ये वज्रेणेव पुरन्दरः॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -425,13 +422,13 @@ title_english = "056 Akampana enters the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमापतन्तं संक्रुद्धं राक्षसानां भयावहम्।  
+तमापतन्तं सङ्क्रुद्धं राक्षसानां भयावहम्।  
 ददर्शाकम्पनो वीरश्चुक्षोभ च ननाद च॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तमापतन्तं संक्रुद्धं राक्षसानां भयावहम्।  
+तमापतन्तं सङ्क्रुद्धं राक्षसानां भयावहम्।  
 ददर्शाकम्पनो वीरश्चुक्षोभ च ननाद च॥ २५॥
 </details>
 
@@ -477,13 +474,13 @@ title_english = "056 Akampana enters the battle field"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विरराज महावीर्यो महाकायो महाबलः।  
-पुष्पिताशोकसंकाशो विधूम इव पावकः॥ २८॥
+पुष्पिताशोकसङ्काशो विधूम इव पावकः॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 विरराज महावीर्यो महाकायो महाबलः।  
-पुष्पिताशोकसंकाशो विधूम इव पावकः॥ २८॥
+पुष्पिताशोकसङ्काशो विधूम इव पावकः॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -669,7 +666,7 @@ title_english = "056 Akampana enters the battle field"
 
 अपूजयन् देवगणास्तदाकपिं  
 स्वयं च रामोऽतिबलश्च लक्ष्मणः।  
-तथैव सुग्रीवमुखाः प्लवंगमा  
+तथैव सुग्रीवमुखाः प्लवङ्गमा  
 विभीषणश्चैव महाबलस्तदा॥ ३९॥
 </details>
 
@@ -677,7 +674,7 @@ title_english = "056 Akampana enters the battle field"
 
 अपूजयन् देवगणास्तदाकपिं  
 स्वयं च रामोऽतिबलश्च लक्ष्मणः।  
-तथैव सुग्रीवमुखाः प्लवंगमा  
+तथैव सुग्रीवमुखाः प्लवङ्गमा  
 विभीषणश्चैव महाबलस्तदा॥ ३९॥
 </details>
 
@@ -691,3 +688,4 @@ title_english = "056 Akampana enters the battle field"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे षट्पञ्चाशः सर्गः॥ ५६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें छप्पनवाँ सर्ग पूरा हुआ॥ ५६॥
 </details>
+

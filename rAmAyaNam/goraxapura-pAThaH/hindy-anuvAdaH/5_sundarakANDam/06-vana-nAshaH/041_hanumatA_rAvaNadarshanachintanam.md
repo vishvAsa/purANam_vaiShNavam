@@ -4,11 +4,8 @@ title_english = "041 Hanuma thinks to meet Ravana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-041-Hanuma_thinks_to_meet_Ravana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-041-Hanuma_thinks_to_meet_Ravana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -75,7 +72,7 @@ title_english = "041 Hanuma thinks to meet Ravana"
 न चास्य कार्यस्य पराक्रमादृते  
 विनिश्चयः कश्चिदिहोपपद्यते।  
 हतप्रवीराश्च रणे तु राक्षसाः  
-कथंचिदीयुर्यदिहाद्य मार्दवम्॥ ४॥
+कथञ्चिदीयुर्यदिहाद्य मार्दवम्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -83,7 +80,7 @@ title_english = "041 Hanuma thinks to meet Ravana"
 न चास्य कार्यस्य पराक्रमादृते  
 विनिश्चयः कश्चिदिहोपपद्यते।  
 हतप्रवीराश्च रणे तु राक्षसाः  
-कथंचिदीयुर्यदिहाद्य मार्दवम्॥ ४॥
+कथञ्चिदीयुर्यदिहाद्य मार्दवम्॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -404,3 +401,4 @@ title_english = "041 Hanuma thinks to meet Ravana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे एकचत्वारिंशः सर्गः॥ ४१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें इकतालीसवाँ सर्ग पूरा हुआ॥ ४१॥
 </details>
+

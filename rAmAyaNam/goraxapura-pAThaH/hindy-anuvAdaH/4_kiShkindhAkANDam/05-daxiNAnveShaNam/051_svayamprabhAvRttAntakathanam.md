@@ -4,11 +4,8 @@ title_english = "051 The legend of Black Cave"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-051-Swayam_Prabha_Vruthantha_Kathanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-051-Swayam_Prabha_Vruthantha_Kathanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -39,7 +36,7 @@ title_english = "051 The legend of Black Cave"
 महद् धरण्या विवरं प्रविष्टाः स्म पिपासिताः।  
 इमांस्त्वेवंविधान् भावान् विविधानद्भुतोपमान्॥ ३॥  
 दृष्ट्वा वयं प्रव्यथिताः सम्भ्रान्ता नष्टचेतसः।  
-कस्यैते काञ्चना वृक्षास्तरुणादित्यसंनिभाः॥ ४॥
+कस्यैते काञ्चना वृक्षास्तरुणादित्यसन्निभाः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -49,7 +46,7 @@ title_english = "051 The legend of Black Cave"
 महद् धरण्या विवरं प्रविष्टाः स्म पिपासिताः।  
 इमांस्त्वेवंविधान् भावान् विविधानद्भुतोपमान्॥ ३॥  
 दृष्ट्वा वयं प्रव्यथिताः सम्भ्रान्ता नष्टचेतसः।  
-कस्यैते काञ्चना वृक्षास्तरुणादित्यसंनिभाः॥ ४॥
+कस्यैते काञ्चना वृक्षास्तरुणादित्यसन्निभाः॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -172,13 +169,13 @@ title_english = "051 The legend of Black Cave"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विधाय सर्वं बलवान् सर्वकामेश्वरस्तदा॥ १३॥  
-उवास सुखितः कालं कंचिदस्मिन् महावने।
+उवास सुखितः कालं कञ्चिदस्मिन् महावने।
 </details>
 
 <details><summary>मूलम्</summary>
 
 विधाय सर्वं बलवान् सर्वकामेश्वरस्तदा॥ १३॥  
-उवास सुखितः कालं कंचिदस्मिन् महावने।
+उवास सुखितः कालं कञ्चिदस्मिन् महावने।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -189,13 +186,13 @@ title_english = "051 The legend of Black Cave"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमप्सरसि हेमायां सक्तं दानवपुङ्गवम्॥ १४॥  
-विक्रम्यैवाशनिं गृह्य जघानेशः पुरंदरः।
+विक्रम्यैवाशनिं गृह्य जघानेशः पुरन्दरः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 तमप्सरसि हेमायां सक्तं दानवपुङ्गवम्॥ १४॥  
-विक्रम्यैवाशनिं गृह्य जघानेशः पुरंदरः।
+विक्रम्यैवाशनिं गृह्य जघानेशः पुरन्दरः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -222,13 +219,13 @@ title_english = "051 The legend of Black Cave"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दुहिता मेरुसावर्णेरहं तस्याः स्वयंप्रभा॥ १६॥  
+दुहिता मेरुसावर्णेरहं तस्याः स्वयम्प्रभा॥ १६॥  
 इदं रक्षामि भवनं हेमाया वानरोत्तम।
 </details>
 
 <details><summary>मूलम्</summary>
 
-दुहिता मेरुसावर्णेरहं तस्याः स्वयंप्रभा॥ १६॥  
+दुहिता मेरुसावर्णेरहं तस्याः स्वयम्प्रभा॥ १६॥  
 इदं रक्षामि भवनं हेमाया वानरोत्तम।
 </details>
 
@@ -293,3 +290,4 @@ title_english = "051 The legend of Black Cave"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे एकपञ्चाशः सर्गः॥ ५१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें इक्यावनवाँ सर्ग पूरा हुआ॥ ५१॥
 </details>
+

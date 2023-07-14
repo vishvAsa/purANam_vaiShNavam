@@ -4,11 +4,8 @@ title_english = "031 rAma travel to mithila city"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-031-Mithila_Prasthanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-031-Mithila_Prasthanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -68,13 +65,13 @@ title_english = "031 rAma travel to mithila city"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इमौ स्म मुनिशार्दूल किंकरौ समुपागतौ।  
+इमौ स्म मुनिशार्दूल किङ्करौ समुपागतौ।  
 आज्ञापय मुनिश्रेष्ठ शासनं करवाव किम्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इमौ स्म मुनिशार्दूल किंकरौ समुपागतौ।  
+इमौ स्म मुनिशार्दूल किङ्करौ समुपागतौ।  
 आज्ञापय मुनिश्रेष्ठ शासनं करवाव किम्॥ ४॥
 </details>
 
@@ -154,13 +151,13 @@ title_english = "031 rAma travel to mithila city"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्य देवा न गन्धर्वा नासुरा न च राक्षसाः।  
-कर्तुमारोपणं शक्ता न कथंचन मानुषाः॥ ९॥
+कर्तुमारोपणं शक्ता न कथञ्चन मानुषाः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नास्य देवा न गन्धर्वा नासुरा न च राक्षसाः।  
-कर्तुमारोपणं शक्ता न कथंचन मानुषाः॥ ९॥
+कर्तुमारोपणं शक्ता न कथञ्चन मानुषाः॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -417,3 +414,4 @@ title_english = "031 rAma travel to mithila city"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकत्रिंशः सर्गः॥ ३१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें इकतीसवाँ सर्ग पूरा हुआ॥ ३१॥
 </details>
+

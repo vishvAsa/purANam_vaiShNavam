@@ -4,11 +4,8 @@ title_english = "041 Sugreeva sends Vanara s to Southward"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-041-Dakshina_Disham_Prathi_Hanumadadi_Preshanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-041-Dakshina_Disham_Prathi_Hanumadadi_Preshanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -41,7 +38,7 @@ title_english = "041 Sugreeva sends Vanara s to Southward"
 मैन्दं च द्विविदं चैव सुषेणं गन्धमादनम्।  
 उल्कामुखमनङ्गं च हुताशनसुतावुभौ॥ ४॥  
 अङ्गदप्रमुखान् वीरान् वीरः कपिगणेश्वरः।  
-वेगविक्रमसम्पन्नान् संदिदेश विशेषवित्॥ ५॥
+वेगविक्रमसम्पन्नान् सन्दिदेश विशेषवित्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -53,7 +50,7 @@ title_english = "041 Sugreeva sends Vanara s to Southward"
 मैन्दं च द्विविदं चैव सुषेणं गन्धमादनम्।  
 उल्कामुखमनङ्गं च हुताशनसुतावुभौ॥ ४॥  
 अङ्गदप्रमुखान् वीरान् वीरः कपिगणेश्वरः।  
-वेगविक्रमसम्पन्नान् संदिदेश विशेषवित्॥ ५॥
+वेगविक्रमसम्पन्नान् सन्दिदेश विशेषवित्॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -202,13 +199,13 @@ title_english = "041 Sugreeva sends Vanara s to Southward"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यासीनं नगस्याग्रे मलयस्य महौजसम्॥ १५॥  
-द्रक्ष्यथादित्यसंकाशमगस्त्यमृषिसत्तमम् ।
+द्रक्ष्यथादित्यसङ्काशमगस्त्यमृषिसत्तमम् ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्यासीनं नगस्याग्रे मलयस्य महौजसम्॥ १५॥  
-द्रक्ष्यथादित्यसंकाशमगस्त्यमृषिसत्तमम् ।
+द्रक्ष्यथादित्यसङ्काशमगस्त्यमृषिसत्तमम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -408,13 +405,13 @@ title_english = "041 Sugreeva sends Vanara s to Southward"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चन्द्रसूर्यांशुसंकाशः सागराम्बुसमाश्रयः।  
+चन्द्रसूर्यांशुसङ्काशः सागराम्बुसमाश्रयः।  
 भ्राजते विपुलैः शृङ्गैरम्बरं विलिखन्निव॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-चन्द्रसूर्यांशुसंकाशः सागराम्बुसमाश्रयः।  
+चन्द्रसूर्यांशुसङ्काशः सागराम्बुसमाश्रयः।  
 भ्राजते विपुलैः शृङ्गैरम्बरं विलिखन्निव॥ २९॥
 </details>
 
@@ -663,13 +660,13 @@ title_english = "041 Sugreeva sends Vanara s to Southward"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतावदेव युष्माभिर्वीरा वानरपुंगवाः।  
+एतावदेव युष्माभिर्वीरा वानरपुङ्गवाः।  
 शक्यं विचेतुं गन्तुं वा नातो गतिमतां गतिः॥ ४५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एतावदेव युष्माभिर्वीरा वानरपुंगवाः।  
+एतावदेव युष्माभिर्वीरा वानरपुङ्गवाः।  
 शक्यं विचेतुं गन्तुं वा नातो गतिमतां गतिः॥ ४५॥
 </details>
 
@@ -681,13 +678,13 @@ title_english = "041 Sugreeva sends Vanara s to Southward"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वमेतत् समालोक्य यच्चान्यदपि दृश्यते।  
-गतिं विदित्वा वैदेह्याः संनिवर्तितुमर्हथ॥ ४६॥
+गतिं विदित्वा वैदेह्याः सन्निवर्तितुमर्हथ॥ ४६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सर्वमेतत् समालोक्य यच्चान्यदपि दृश्यते।  
-गतिं विदित्वा वैदेह्याः संनिवर्तितुमर्हथ॥ ४६॥
+गतिं विदित्वा वैदेह्याः सन्निवर्तितुमर्हथ॥ ४६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -755,3 +752,4 @@ title_english = "041 Sugreeva sends Vanara s to Southward"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे एकचत्वारिंशः सर्गः॥ ४१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें इकतालीसवाँ सर्ग पूरा हुआ॥ ४१॥
 </details>
+

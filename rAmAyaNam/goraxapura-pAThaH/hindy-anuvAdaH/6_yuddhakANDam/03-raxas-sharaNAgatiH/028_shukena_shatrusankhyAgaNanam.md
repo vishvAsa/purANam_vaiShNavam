@@ -4,11 +4,8 @@ title_english = "028 Shuka enumerates the enemies"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-028-Shuka_enumerates_the_enemies_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-028-Shuka_enumerates_the_enemies_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -37,7 +34,7 @@ title_english = "028 Shuka enumerates the enemies"
 स्थितान् पश्यसि यानेतान् मत्तानिव महाद्विपान्।  
 न्यग्रोधानिव गाङ्गेयान् सालान् हैमवतानिव॥ २॥  
 एते दुष्प्रसहा राजन् बलिनः कामरूपिणः।  
-दैत्यदानवसंकाशा युद्धे देवपराक्रमाः॥ ३॥
+दैत्यदानवसङ्काशा युद्धे देवपराक्रमाः॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -45,7 +42,7 @@ title_english = "028 Shuka enumerates the enemies"
 स्थितान् पश्यसि यानेतान् मत्तानिव महाद्विपान्।  
 न्यग्रोधानिव गाङ्गेयान् सालान् हैमवतानिव॥ २॥  
 एते दुष्प्रसहा राजन् बलिनः कामरूपिणः।  
-दैत्यदानवसंकाशा युद्धे देवपराक्रमाः॥ ३॥
+दैत्यदानवसङ्काशा युद्धे देवपराक्रमाः॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -183,13 +180,13 @@ title_english = "028 Shuka enumerates the enemies"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पतितस्य कपेरस्य हनुरेका शिलातले।  
-किंचिद् भिन्ना दृढहनुर्हनूमानेष तेन वै॥ १५॥
+किञ्चिद् भिन्ना दृढहनुर्हनूमानेष तेन वै॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पतितस्य कपेरस्य हनुरेका शिलातले।  
-किंचिद् भिन्ना दृढहनुर्हनूमानेष तेन वै॥ १५॥
+किञ्चिद् भिन्ना दृढहनुर्हनूमानेष तेन वै॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -595,3 +592,4 @@ title_english = "028 Shuka enumerates the enemies"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽष्टाविंशः सर्गः॥ २८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें अट्ठाईसवाँ सर्ग पूरा हुआ॥ २८॥
 </details>
+

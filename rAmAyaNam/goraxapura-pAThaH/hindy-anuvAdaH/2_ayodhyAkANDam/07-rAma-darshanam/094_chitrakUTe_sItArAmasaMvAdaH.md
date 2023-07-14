@@ -4,11 +4,8 @@ title_english = "094 Rama shows the captivating scenery of Chitrakuta to Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-094-Chitra_Kute_Rama_Sita_Samvadaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-094-Chitra_Kute_Rama_Sita_Samvadaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,17 +15,17 @@ title_english = "094 Rama shows the captivating scenery of Chitrakuta to Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घकालोषितस्तस्मिन् गिरौ गिरिवरप्रियः।  
-वैदेह्याः प्रियमाकांक्षन् स्वं च चित्तं विलोभयन्॥ १॥  
+वैदेह्याः प्रियमाकाङ्क्षन् स्वं च चित्तं विलोभयन्॥ १॥  
 अथ दाशरथिश्चित्रं चित्रकूटमदर्शयत्।  
-भार्याममरसंकाशः शचीमिव पुरंदरः॥ २॥
+भार्याममरसङ्काशः शचीमिव पुरन्दरः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दीर्घकालोषितस्तस्मिन् गिरौ गिरिवरप्रियः।  
-वैदेह्याः प्रियमाकांक्षन् स्वं च चित्तं विलोभयन्॥ १॥  
+वैदेह्याः प्रियमाकाङ्क्षन् स्वं च चित्तं विलोभयन्॥ १॥  
 अथ दाशरथिश्चित्रं चित्रकूटमदर्शयत्।  
-भार्याममरसंकाशः शचीमिव पुरंदरः॥ २॥
+भार्याममरसङ्काशः शचीमिव पुरन्दरः॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -72,7 +69,7 @@ title_english = "094 Rama shows the captivating scenery of Chitrakuta to Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-केचिद् रजतसंकाशाः केचित् क्षतजसंनिभाः।  
+केचिद् रजतसङ्काशाः केचित् क्षतजसन्निभाः।  
 पीतमाञ्जिष्ठवर्णाश्च केचिन्मणिवरप्रभाः॥ ५॥  
 पुष्पार्ककेतकाभाश्च केचिज्ज्योतीरसप्रभाः।  
 विराजन्तेऽचलेन्द्रस्य देशा धातुविभूषिताः॥ ६॥
@@ -80,7 +77,7 @@ title_english = "094 Rama shows the captivating scenery of Chitrakuta to Seetha"
 
 <details><summary>मूलम्</summary>
 
-केचिद् रजतसंकाशाः केचित् क्षतजसंनिभाः।  
+केचिद् रजतसङ्काशाः केचित् क्षतजसन्निभाः।  
 पीतमाञ्जिष्ठवर्णाश्च केचिन्मणिवरप्रभाः॥ ५॥  
 पुष्पार्ककेतकाभाश्च केचिज्ज्योतीरसप्रभाः।  
 विराजन्तेऽचलेन्द्रस्य देशा धातुविभूषिताः॥ ६॥
@@ -136,13 +133,13 @@ title_english = "094 Rama shows the captivating scenery of Chitrakuta to Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शैलप्रस्थेषु रम्येषु पश्येमान् कामहर्षणान्।  
-किंनरान् द्वन्द्वशो भद्रे रममाणान् मनस्विनः॥ ११॥
+किन्नरान् द्वन्द्वशो भद्रे रममाणान् मनस्विनः॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 शैलप्रस्थेषु रम्येषु पश्येमान् कामहर्षणान्।  
-किंनरान् द्वन्द्वशो भद्रे रममाणान् मनस्विनः॥ ११॥
+किन्नरान् द्वन्द्वशो भद्रे रममाणान् मनस्विनः॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -322,13 +319,13 @@ title_english = "094 Rama shows the captivating scenery of Chitrakuta to Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-केचित् क्षयनिभा देशाः केचिदुद्यानसंनिभाः।  
+केचित् क्षयनिभा देशाः केचिदुद्यानसन्निभाः।  
 केचिदेकशिला भान्ति पर्वतस्यास्य भामिनि॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-केचित् क्षयनिभा देशाः केचिदुद्यानसंनिभाः।  
+केचित् क्षयनिभा देशाः केचिदुद्यानसन्निभाः।  
 केचिदेकशिला भान्ति पर्वतस्यास्य भामिनि॥ २२॥
 </details>
 
@@ -356,13 +353,13 @@ title_english = "094 Rama shows the captivating scenery of Chitrakuta to Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुष्ठस्थगरपुंनागभूर्जपत्रोत्तरच्छदान्।  
+कुष्ठस्थगरपुन्नागभूर्जपत्रोत्तरच्छदान्।  
 कामिनां स्वास्तरान् पश्य कुशेशयदलायुतान्॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कुष्ठस्थगरपुंनागभूर्जपत्रोत्तरच्छदान्।  
+कुष्ठस्थगरपुन्नागभूर्जपत्रोत्तरच्छदान्।  
 कामिनां स्वास्तरान् पश्य कुशेशयदलायुतान्॥ २४॥
 </details>
 
@@ -431,3 +428,4 @@ title_english = "094 Rama shows the captivating scenery of Chitrakuta to Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे चतुर्नवतितमः सर्गः॥ ९४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें चौरानबेवाँ सर्ग पूरा हुआ॥ ९४॥
 </details>
+

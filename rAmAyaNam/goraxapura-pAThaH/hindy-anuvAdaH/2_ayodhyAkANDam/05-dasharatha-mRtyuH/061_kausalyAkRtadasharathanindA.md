@@ -4,11 +4,8 @@ title_english = "061 Kausalya rebukes Dasaratha for his evil act"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-061-Kousalya_Krutha_Dahsratha_Nindaa.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-061-Kousalya_Krutha_Dahsratha_Nindaa.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -119,14 +116,14 @@ title_english = "061 Kausalya rebukes Dasaratha for his evil act"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महेन्द्रध्वजसंकाशः क्व नु शेते महाभुजः।  
-भुजं परिघसंकाशमुपाधाय महाबलः॥ ७॥
+महेन्द्रध्वजसङ्काशः क्व नु शेते महाभुजः।  
+भुजं परिघसङ्काशमुपाधाय महाबलः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-महेन्द्रध्वजसंकाशः क्व नु शेते महाभुजः।  
-भुजं परिघसंकाशमुपाधाय महाबलः॥ ७॥
+महेन्द्रध्वजसङ्काशः क्व नु शेते महाभुजः।  
+भुजं परिघसङ्काशमुपाधाय महाबलः॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -474,3 +471,4 @@ title_english = "061 Kausalya rebukes Dasaratha for his evil act"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकषष्टितमः सर्गः॥ ६१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एकसठवाँ सर्ग पूरा हुआ॥ ६१॥
 </details>
+

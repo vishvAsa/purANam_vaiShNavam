@@ -4,11 +4,8 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-022-Daiva_Prabhavaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-022-Daiva_Prabhavaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -94,13 +91,13 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्याः शङ्कामयं दुःखं मुहूर्तमपि नोत्सहे।  
-मनसि प्रतिसंजातं सौमित्रेऽहमुपेक्षितुम्॥ ७॥
+मनसि प्रतिसञ्जातं सौमित्रेऽहमुपेक्षितुम्॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्याः शङ्कामयं दुःखं मुहूर्तमपि नोत्सहे।  
-मनसि प्रतिसंजातं सौमित्रेऽहमुपेक्षितुम्॥ ७॥
+मनसि प्रतिसञ्जातं सौमित्रेऽहमुपेक्षितुम्॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -127,13 +124,13 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्यः सत्याभिसंधश्च नित्यं सत्यपराक्रमः।  
+सत्यः सत्याभिसन्धश्च नित्यं सत्यपराक्रमः।  
 परलोकभयाद् भीतो निर्भयोऽस्तु पिता मम॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सत्यः सत्याभिसंधश्च नित्यं सत्यपराक्रमः।  
+सत्यः सत्याभिसन्धश्च नित्यं सत्यपराक्रमः।  
 परलोकभयाद् भीतो निर्भयोऽस्तु पिता मम॥ ९॥
 </details>
 
@@ -213,13 +210,13 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुद्धिः प्रणीता येनेयं मनश्च सुसमाहितम्।  
-तं नु नार्हामि संक्लेष्टुं प्रव्रजिष्यामि मा चिरम्॥ १४॥
+तं नु नार्हामि सङ्क्लेष्टुं प्रव्रजिष्यामि मा चिरम्॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बुद्धिः प्रणीता येनेयं मनश्च सुसमाहितम्।  
-तं नु नार्हामि संक्लेष्टुं प्रव्रजिष्यामि मा चिरम्॥ १४॥
+तं नु नार्हामि सङ्क्लेष्टुं प्रव्रजिष्यामि मा चिरम्॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -298,13 +295,13 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथं प्रकृतिसम्पन्ना राजपुत्री तथागुणा।  
-ब्रूयात् सा प्राकृतेव स्त्री मत्पीड्यं भर्तृसंनिधौ॥ १९॥
+ब्रूयात् सा प्राकृतेव स्त्री मत्पीड्यं भर्तृसन्निधौ॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कथं प्रकृतिसम्पन्ना राजपुत्री तथागुणा।  
-ब्रूयात् सा प्राकृतेव स्त्री मत्पीड्यं भर्तृसंनिधौ॥ १९॥
+ब्रूयात् सा प्राकृतेव स्त्री मत्पीड्यं भर्तृसन्निधौ॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -332,13 +329,13 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कश्च दैवेन सौमित्रे योद्धुमुत्सहते पुमान्।  
-यस्य नु ग्रहणं किंचित् कर्मणोऽन्यन्न दृश्यते॥ २१॥
+यस्य नु ग्रहणं किञ्चित् कर्मणोऽन्यन्न दृश्यते॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कश्च दैवेन सौमित्रे योद्धुमुत्सहते पुमान्।  
-यस्य नु ग्रहणं किंचित् कर्मणोऽन्यन्न दृश्यते॥ २१॥
+यस्य नु ग्रहणं किञ्चित् कर्मणोऽन्यन्न दृश्यते॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -349,13 +346,13 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखदुःखे भयक्रोधौ लाभालाभौ भवाभवौ।  
-यस्य किंचित् तथाभूतं ननु दैवस्य कर्म तत्॥ २२॥
+यस्य किञ्चित् तथाभूतं ननु दैवस्य कर्म तत्॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सुखदुःखे भयक्रोधौ लाभालाभौ भवाभवौ।  
-यस्य किंचित् तथाभूतं ननु दैवस्य कर्म तत्॥ २२॥
+यस्य किञ्चित् तथाभूतं ननु दैवस्य कर्म तत्॥ २२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -382,13 +379,13 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असंकल्पितमेवेह यदकस्मात् प्रवर्तते।  
+असङ्कल्पितमेवेह यदकस्मात् प्रवर्तते।  
 निवर्त्यारब्धमारम्भैर्ननु दैवस्य कर्म तत्॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-असंकल्पितमेवेह यदकस्मात् प्रवर्तते।  
+असङ्कल्पितमेवेह यदकस्मात् प्रवर्तते।  
 निवर्त्यारब्धमारम्भैर्ननु दैवस्य कर्म तत्॥ २४॥
 </details>
 
@@ -467,13 +464,13 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मा च लक्ष्मण संतापं कार्षीर्लक्ष्म्या विपर्यये।  
+मा च लक्ष्मण सन्तापं कार्षीर्लक्ष्म्या विपर्यये।  
 राज्यं वा वनवासो वा वनवासो महोदयः॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मा च लक्ष्मण संतापं कार्षीर्लक्ष्म्या विपर्यये।  
+मा च लक्ष्मण सन्तापं कार्षीर्लक्ष्म्या विपर्यये।  
 राज्यं वा वनवासो वा वनवासो महोदयः॥ २९॥
 </details>
 
@@ -486,7 +483,7 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 
 न लक्ष्मणास्मिन् मम राज्यविघ्ने  
 माता यवीयस्यभिशङ्कितव्या।  
-दैवाभिपन्ना न पिता कथंचि-  
+दैवाभिपन्ना न पिता कथञ्चि-  
 ज्जानासि दैवं हि तथाप्रभावम्॥३०॥
 </details>
 
@@ -494,7 +491,7 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 
 न लक्ष्मणास्मिन् मम राज्यविघ्ने  
 माता यवीयस्यभिशङ्कितव्या।  
-दैवाभिपन्ना न पिता कथंचि-  
+दैवाभिपन्ना न पिता कथञ्चि-  
 ज्जानासि दैवं हि तथाप्रभावम्॥३०॥
 </details>
 
@@ -508,3 +505,4 @@ title_english = "022 Rama tries to pacify Lakshmana further"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे द्वाविंशः सर्गः॥ २२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें बाईसवाँ सर्ग पूरा हुआ॥ २२॥
 </details>
+

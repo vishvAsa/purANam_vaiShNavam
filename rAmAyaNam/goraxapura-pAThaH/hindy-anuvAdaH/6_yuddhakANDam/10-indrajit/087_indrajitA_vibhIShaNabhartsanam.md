@@ -4,11 +4,8 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-087-Indrajit_s_harsh_words_to_Vibhishana_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-087-Indrajit_s_harsh_words_to_Vibhishana_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,13 +48,13 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नीलजीमूतसंकाशं न्यग्रोधं भीमदर्शनम्।  
+नीलजीमूतसङ्काशं न्यग्रोधं भीमदर्शनम्।  
 तेजस्वी रावणभ्राता लक्ष्मणाय न्यवेदयत्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नीलजीमूतसंकाशं न्यग्रोधं भीमदर्शनम्।  
+नीलजीमूतसङ्काशं न्यग्रोधं भीमदर्शनम्।  
 तेजस्वी रावणभ्राता लक्ष्मणाय न्यवेदयत्॥ ३॥
 </details>
 
@@ -69,13 +66,13 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इहोपहारं भूतानां बलवान् रावणात्मजः।  
-उपहृत्य ततः पश्चात् संग्राममभिवर्तते॥ ४॥
+उपहृत्य ततः पश्चात् सङ्ग्राममभिवर्तते॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इहोपहारं भूतानां बलवान् रावणात्मजः।  
-उपहृत्य ततः पश्चात् संग्राममभिवर्तते॥ ४॥
+उपहृत्य ततः पश्चात् सङ्ग्राममभिवर्तते॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -525,3 +522,4 @@ title_english = "087 Indrajit s harsh words to Vibhishana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे सप्ताशीतितमः सर्गः॥ ८७॥  
 इस प्रकार श्रीवाल्मीकिर्निमित आर्षरामायण आदिकाव्यके युद्धकाण्डमें सतासीवाँ सर्ग पूरा हुआ॥ ८७॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "036 Hanuma gives Seetha the signet ring sent by"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-036-Hanuma_gives_Seetha,_the_signet_ring_sent_by.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-036-Hanuma_gives_Seetha,_the_signet_ring_sent_by.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -102,13 +99,13 @@ title_english = "036 Hanuma gives Seetha the signet ring sent by"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः सा ह्रीमती बाला भर्तुः संदेशहर्षिता।  
+ततः सा ह्रीमती बाला भर्तुः सन्देशहर्षिता।  
 परितुष्टा प्रियं कृत्वा प्रशशंस महाकपिम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः सा ह्रीमती बाला भर्तुः संदेशहर्षिता।  
+ततः सा ह्रीमती बाला भर्तुः सन्देशहर्षिता।  
 परितुष्टा प्रियं कृत्वा प्रशशंस महाकपिम्॥ ६॥
 </details>
 
@@ -154,13 +151,13 @@ title_english = "036 Hanuma gives Seetha the signet ring sent by"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि त्वां प्राकृतं मन्ये वानरं वानरर्षभ।  
-यस्य ते नास्ति संत्रासो रावणादपि सम्भ्रमः॥ ९॥
+यस्य ते नास्ति सन्त्रासो रावणादपि सम्भ्रमः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नहि त्वां प्राकृतं मन्ये वानरं वानरर्षभ।  
-यस्य ते नास्ति संत्रासो रावणादपि सम्भ्रमः॥ ९॥
+यस्य ते नास्ति सन्त्रासो रावणादपि सम्भ्रमः॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -204,13 +201,13 @@ title_english = "036 Hanuma gives Seetha the signet ring sent by"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दिष्ट्या च कुशली रामो धर्मात्मा सत्यसंगरः।  
+दिष्ट्या च कुशली रामो धर्मात्मा सत्यसङ्गरः।  
 लक्ष्मणश्च महातेजाः सुमित्रानन्दवर्धनः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-दिष्ट्या च कुशली रामो धर्मात्मा सत्यसंगरः।  
+दिष्ट्या च कुशली रामो धर्मात्मा सत्यसङ्गरः।  
 लक्ष्मणश्च महातेजाः सुमित्रानन्दवर्धनः॥ १२॥
 </details>
 
@@ -290,13 +287,13 @@ title_english = "036 Hanuma gives Seetha the signet ring sent by"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्विविधं त्रिविधोपायमुपायमपि सेवते।  
-विजिगीषुः सुहृत् कच्चिन्मित्रेषु च परंतपः॥ १७॥
+विजिगीषुः सुहृत् कच्चिन्मित्रेषु च परन्तपः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 द्विविधं त्रिविधोपायमुपायमपि सेवते।  
-विजिगीषुः सुहृत् कच्चिन्मित्रेषु च परंतपः॥ १७॥
+विजिगीषुः सुहृत् कच्चिन्मित्रेषु च परन्तपः॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -578,13 +575,13 @@ title_english = "036 Hanuma gives Seetha the signet ring sent by"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न त्वामिहस्थां जानीते रामः कमललोचनः।  
-तेन त्वां नानयत्याशु शचीमिव पुरंदरः॥ ३३॥
+तेन त्वां नानयत्याशु शचीमिव पुरन्दरः॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 न त्वामिहस्थां जानीते रामः कमललोचनः।  
-तेन त्वां नानयत्याशु शचीमिव पुरंदरः॥ ३३॥
+तेन त्वां नानयत्याशु शचीमिव पुरन्दरः॥ ३३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -735,13 +732,13 @@ title_english = "036 Hanuma gives Seetha the signet ring sent by"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नित्यं ध्यानपरो रामो नित्यं शोकपरायणः।  
-नान्यच्चिन्तयते किंचित् स तु कामवशं गतः॥ ४३॥
+नान्यच्चिन्तयते किञ्चित् स तु कामवशं गतः॥ ४३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नित्यं ध्यानपरो रामो नित्यं शोकपरायणः।  
-नान्यच्चिन्तयते किंचित् स तु कामवशं गतः॥ ४३॥
+नान्यच्चिन्तयते किञ्चित् स तु कामवशं गतः॥ ४३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -806,7 +803,7 @@ title_english = "036 Hanuma gives Seetha the signet ring sent by"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा रामसंकीर्तनवीतशोका  
+सा रामसङ्कीर्तनवीतशोका  
 रामस्य शोकेन समानशोका।  
 शरन्मुखेनाम्बुदशेषचन्द्रा  
 निशेव वैदेहसुता बभूव॥ ४७॥
@@ -814,7 +811,7 @@ title_english = "036 Hanuma gives Seetha the signet ring sent by"
 
 <details><summary>मूलम्</summary>
 
-सा रामसंकीर्तनवीतशोका  
+सा रामसङ्कीर्तनवीतशोका  
 रामस्य शोकेन समानशोका।  
 शरन्मुखेनाम्बुदशेषचन्द्रा  
 निशेव वैदेहसुता बभूव॥ ४७॥
@@ -830,3 +827,4 @@ title_english = "036 Hanuma gives Seetha the signet ring sent by"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे षट‍‍्त्रिंशः सर्गः॥ ३६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें छत्तीसवाँ सर्ग पूरा हुआ॥ ३६॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "115 Bharata expresses his desire to proceed to Nandigrama villa
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-115-Nandigrama_Nivasaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-115-Nandigrama_Nivasaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "115 Bharata expresses his desire to proceed to Nandigrama villa
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निक्षिप्य मातॄस्ता अयोध्यायां दृढव्रतः।  
-भरतः शोकसंतप्तो गुरूनिदमथाब्रवीत्॥ १॥
+भरतः शोकसन्तप्तो गुरूनिदमथाब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततो निक्षिप्य मातॄस्ता अयोध्यायां दृढव्रतः।  
-भरतः शोकसंतप्तो गुरूनिदमथाब्रवीत्॥ १॥
+भरतः शोकसन्तप्तो गुरूनिदमथाब्रवीत्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -187,13 +184,13 @@ title_english = "115 Bharata expresses his desire to proceed to Nandigrama villa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बलं च तदनाहूतं गजाश्वरथसंकुलम्।  
+बलं च तदनाहूतं गजाश्वरथसङ्कुलम्।  
 प्रययौ भरते याते सर्वे च पुरवासिनः॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-बलं च तदनाहूतं गजाश्वरथसंकुलम्।  
+बलं च तदनाहूतं गजाश्वरथसङ्कुलम्।  
 प्रययौ भरते याते सर्वे च पुरवासिनः॥ ११॥
 </details>
 
@@ -238,13 +235,13 @@ title_english = "115 Bharata expresses his desire to proceed to Nandigrama villa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतद् राज्यं मम भ्रात्रा दत्तं संन्यासमुत्तमम्।  
+एतद् राज्यं मम भ्रात्रा दत्तं सन्न्यासमुत्तमम्।  
 योगक्षेमवहे चेमे पादुके हेमभूषिते॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एतद् राज्यं मम भ्रात्रा दत्तं संन्यासमुत्तमम्।  
+एतद् राज्यं मम भ्रात्रा दत्तं सन्न्यासमुत्तमम्।  
 योगक्षेमवहे चेमे पादुके हेमभूषिते॥ १४॥
 </details>
 
@@ -255,14 +252,14 @@ title_english = "115 Bharata expresses his desire to proceed to Nandigrama villa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भरतः शिरसा कृत्वा संन्यासं पादुके ततः।  
-अब्रवीद् दुःखसंतप्तः सर्वं प्रकृतिमण्डलम्॥ १५॥
+भरतः शिरसा कृत्वा सन्न्यासं पादुके ततः।  
+अब्रवीद् दुःखसन्तप्तः सर्वं प्रकृतिमण्डलम्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-भरतः शिरसा कृत्वा संन्यासं पादुके ततः।  
-अब्रवीद् दुःखसंतप्तः सर्वं प्रकृतिमण्डलम्॥ १५॥
+भरतः शिरसा कृत्वा सन्न्यासं पादुके ततः।  
+अब्रवीद् दुःखसन्तप्तः सर्वं प्रकृतिमण्डलम्॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -289,13 +286,13 @@ title_english = "115 Bharata expresses his desire to proceed to Nandigrama villa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ्रात्रा तु मयि संन्यासो निक्षिप्तः सौहृदादयम्।  
+भ्रात्रा तु मयि सन्न्यासो निक्षिप्तः सौहृदादयम्।  
 तमिमं पालयिष्यामि राघवागमनं प्रति॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-भ्रात्रा तु मयि संन्यासो निक्षिप्तः सौहृदादयम्।  
+भ्रात्रा तु मयि सन्न्यासो निक्षिप्तः सौहृदादयम्।  
 तमिमं पालयिष्यामि राघवागमनं प्रति॥ १७॥
 </details>
 
@@ -340,13 +337,13 @@ title_english = "115 Bharata expresses his desire to proceed to Nandigrama villa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राघवाय च संन्यासं दत्त्वेमे वरपादुके।  
+राघवाय च सन्न्यासं दत्त्वेमे वरपादुके।  
 राज्यं चेदमयोध्यां च धूतपापो भवाम्यहम्॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-राघवाय च संन्यासं दत्त्वेमे वरपादुके।  
+राघवाय च सन्न्यासं दत्त्वेमे वरपादुके।  
 राज्यं चेदमयोध्यां च धूतपापो भवाम्यहम्॥ २०॥
 </details>
 
@@ -408,14 +405,14 @@ title_english = "115 Bharata expresses his desire to proceed to Nandigrama villa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रामागमनमाकांक्षन् भरतो भ्रातृ़वत्सलः।  
+रामागमनमाकाङ्क्षन् भरतो भ्रातृ़वत्सलः।  
 भ्रातुर्वचनकारी च प्रतिज्ञापारगस्तदा।  
 पादुके त्वभिषिच्याथ नन्दिग्रामेऽवसत् तदा॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-रामागमनमाकांक्षन् भरतो भ्रातृ़वत्सलः।  
+रामागमनमाकाङ्क्षन् भरतो भ्रातृ़वत्सलः।  
 भ्रातुर्वचनकारी च प्रतिज्ञापारगस्तदा।  
 पादुके त्वभिषिच्याथ नन्दिग्रामेऽवसत् तदा॥ २४॥
 </details>
@@ -461,7 +458,7 @@ title_english = "115 Bharata expresses his desire to proceed to Nandigrama villa
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदा हि यत् कार्यमुपैति किंचि-  
+तदा हि यत् कार्यमुपैति किञ्चि-  
 दुपायनं चोपहृतं महार्हम्।  
 स पादुकाभ्यां प्रथमं निवेद्य  
 चकार पश्चाद् भरतो यथावत्॥ २७॥
@@ -469,7 +466,7 @@ title_english = "115 Bharata expresses his desire to proceed to Nandigrama villa
 
 <details><summary>मूलम्</summary>
 
-तदा हि यत् कार्यमुपैति किंचि-  
+तदा हि यत् कार्यमुपैति किञ्चि-  
 दुपायनं चोपहृतं महार्हम्।  
 स पादुकाभ्यां प्रथमं निवेद्य  
 चकार पश्चाद् भरतो यथावत्॥ २७॥
@@ -485,3 +482,4 @@ title_english = "115 Bharata expresses his desire to proceed to Nandigrama villa
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे पञ्चदशाधिकशततमः सर्गः॥ ११५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ पंद्रहवाँ सर्ग पूरा हुआ॥ ११५॥
 </details>
+

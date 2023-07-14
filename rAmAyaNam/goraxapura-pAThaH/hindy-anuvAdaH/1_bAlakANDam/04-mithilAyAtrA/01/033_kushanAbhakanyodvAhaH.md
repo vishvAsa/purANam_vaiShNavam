@@ -4,11 +4,8 @@ title_english = "033 Legend of brahmadatta"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-033-Kushanabha_Kanyodvahaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-033-Kushanabha_Kanyodvahaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -119,14 +116,14 @@ title_english = "033 Legend of brahmadatta"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अलंकारो हि नारीणां क्षमा तु पुरुषस्य वा।  
+अलङ्कारो हि नारीणां क्षमा तु पुरुषस्य वा।  
 दुष्करं तच्च वै क्षान्तं त्रिदशेषु विशेषतः॥ ७॥  
 यादृशी वः क्षमा पुत्र्यः सर्वासामविशेषतः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अलंकारो हि नारीणां क्षमा तु पुरुषस्य वा।  
+अलङ्कारो हि नारीणां क्षमा तु पुरुषस्य वा।  
 दुष्करं तच्च वै क्षान्तं त्रिदशेषु विशेषतः॥ ७॥  
 यादृशी वः क्षमा पुत्र्यः सर्वासामविशेषतः।
 </details>
@@ -451,3 +448,4 @@ title_english = "033 Legend of brahmadatta"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रयस्त्रिंशः सर्गः॥ ३३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें तैंतीसवाँ सर्ग पूरा हुआ॥ ३३॥
 </details>
+

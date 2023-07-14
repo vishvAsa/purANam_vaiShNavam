@@ -4,11 +4,8 @@ title_english = "012 The initial challenge"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-012-Rama_Krutham_Saptha_Thala_Chedhanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-012-Rama_Krutham_Saptha_Thala_Chedhanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -497,13 +494,13 @@ title_english = "012 The initial challenge"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अलंकारेण वेषेण प्रमाणेन गतेन च।  
+अलङ्कारेण वेषेण प्रमाणेन गतेन च।  
 त्वं च सुग्रीव वाली च सदृशौ स्थः परस्परम्॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अलंकारेण वेषेण प्रमाणेन गतेन च।  
+अलङ्कारेण वेषेण प्रमाणेन गतेन च।  
 त्वं च सुग्रीव वाली च सदृशौ स्थः परस्परम्॥ ३०॥
 </details>
 
@@ -548,13 +545,13 @@ title_english = "012 The initial challenge"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जीवितान्तकरं घोरं सादृश्यात्  तु विशङ्कितः।  
+जीवितान्तकरं घोरं सादृश्यात् तु विशङ्कितः।  
 मूलघातो न नौ स्याद्धि द्वयोरिति कृतो मया॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-जीवितान्तकरं घोरं सादृश्यात्  तु विशङ्कितः।  
+जीवितान्तकरं घोरं सादृश्यात् तु विशङ्कितः।  
 मूलघातो न नौ स्याद्धि द्वयोरिति कृतो मया॥ ३३॥
 </details>
 
@@ -566,13 +563,13 @@ title_english = "012 The initial challenge"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वयि वीर विपन्ने हि अज्ञानाल्लाघवान्मया।  
-मौढ्यं च मम बाल्यं च ख्यापितं स्यात्  कपीश्वर॥ ३४॥
+मौढ्यं च मम बाल्यं च ख्यापितं स्यात् कपीश्वर॥ ३४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्वयि वीर विपन्ने हि अज्ञानाल्लाघवान्मया।  
-मौढ्यं च मम बाल्यं च ख्यापितं स्यात्  कपीश्वर॥ ३४॥
+मौढ्यं च मम बाल्यं च ख्यापितं स्यात् कपीश्वर॥ ३४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -672,13 +669,13 @@ title_english = "012 The initial challenge"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तया शुशुभे श्रीमाल्ँ लतया कण्ठसक्तया।  
-मालयेव बलाकानां ससंध्य इव तोयदः॥ ४१॥
+मालयेव बलाकानां ससन्ध्य इव तोयदः॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स तया शुशुभे श्रीमाल्ँ लतया कण्ठसक्तया।  
-मालयेव बलाकानां ससंध्य इव तोयदः॥ ४१॥
+मालयेव बलाकानां ससन्ध्य इव तोयदः॥ ४१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -708,3 +705,4 @@ title_english = "012 The initial challenge"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे द्वादशः सर्गः॥ १२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें बारहवाँ सर्ग पूरा हुआ॥ १२॥
 </details>
+

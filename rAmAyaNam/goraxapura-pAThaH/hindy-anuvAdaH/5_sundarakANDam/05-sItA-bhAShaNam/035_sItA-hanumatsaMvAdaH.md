@@ -4,11 +4,8 @@ title_english = "035 Seetha asks Hanuma to describe the characteristics"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-035-Seetha_asks_Hanuma_to_describe_the_characteristics.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-035-Seetha_asks_Hanuma_to_describe_the_characteristics.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -153,18 +150,18 @@ title_english = "035 Seetha asks Hanuma to describe the characteristics"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेजसाऽऽदित्यसंकाशः क्षमया पृथिवीसमः।  
+तेजसाऽऽदित्यसङ्काशः क्षमया पृथिवीसमः।  
 बृहस्पतिसमो बुद्ध्या यशसा वासवोपमः॥ ९॥  
 रक्षिता जीवलोकस्य स्वजनस्य च रक्षिता।  
-रक्षिता स्वस्य वृत्तस्य धर्मस्य च परंतपः॥ १०॥
+रक्षिता स्वस्य वृत्तस्य धर्मस्य च परन्तपः॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तेजसाऽऽदित्यसंकाशः क्षमया पृथिवीसमः।  
+तेजसाऽऽदित्यसङ्काशः क्षमया पृथिवीसमः।  
 बृहस्पतिसमो बुद्ध्या यशसा वासवोपमः॥ ९॥  
 रक्षिता जीवलोकस्य स्वजनस्य च रक्षिता।  
-रक्षिता स्वस्य वृत्तस्य धर्मस्य च परंतपः॥ १०॥
+रक्षिता स्वस्य वृत्तस्य धर्मस्य च परन्तपः॥ १०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -209,13 +206,13 @@ title_english = "035 Seetha asks Hanuma to describe the characteristics"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजनीत्यां विनीतश्च ब्राह्मणानामुपासकः।  
-ज्ञानवान् शीलसम्पन्नो विनीतश्च परंतपः॥ १३॥
+ज्ञानवान् शीलसम्पन्नो विनीतश्च परन्तपः॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 राजनीत्यां विनीतश्च ब्राह्मणानामुपासकः।  
-ज्ञानवान् शीलसम्पन्नो विनीतश्च परंतपः॥ १३॥
+ज्ञानवान् शीलसम्पन्नो विनीतश्च परन्तपः॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -349,13 +346,13 @@ title_english = "035 Seetha asks Hanuma to describe the characteristics"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्यधर्मरतः श्रीमान् संग्रहानुग्रहे रतः।  
+सत्यधर्मरतः श्रीमान् सङ्ग्रहानुग्रहे रतः।  
 देशकालविभागज्ञः सर्वलोकप्रियंवदः॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सत्यधर्मरतः श्रीमान् संग्रहानुग्रहे रतः।  
+सत्यधर्मरतः श्रीमान् सङ्ग्रहानुग्रहे रतः।  
 देशकालविभागज्ञः सर्वलोकप्रियंवदः॥ २१॥
 </details>
 
@@ -385,14 +382,14 @@ title_english = "035 Seetha asks Hanuma to describe the characteristics"
 
 स सुवर्णच्छविः श्रीमान् रामः श्यामो महायशाः।  
 तावुभौ नरशार्दूलौ त्वद्दर्शनकृतोत्सवौ॥ २३॥  
-विचिन्वन्तौ महीं कृत्स्नामस्माभिः सह संगतौ।
+विचिन्वन्तौ महीं कृत्स्नामस्माभिः सह सङ्गतौ।
 </details>
 
 <details><summary>मूलम्</summary>
 
 स सुवर्णच्छविः श्रीमान् रामः श्यामो महायशाः।  
 तावुभौ नरशार्दूलौ त्वद्दर्शनकृतोत्सवौ॥ २३॥  
-विचिन्वन्तौ महीं कृत्स्नामस्माभिः सह संगतौ।
+विचिन्वन्तौ महीं कृत्स्नामस्माभिः सह सङ्गतौ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -419,13 +416,13 @@ title_english = "035 Seetha asks Hanuma to describe the characteristics"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋष्यमूकस्य मूले तु बहुपादपसंकुले॥ २५॥  
+ऋष्यमूकस्य मूले तु बहुपादपसङ्कुले॥ २५॥  
 भ्रातुर्भयार्तमासीनं सुग्रीवं प्रियदर्शनम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऋष्यमूकस्य मूले तु बहुपादपसंकुले॥ २५॥  
+ऋष्यमूकस्य मूले तु बहुपादपसङ्कुले॥ २५॥  
 भ्रातुर्भयार्तमासीनं सुग्रीवं प्रियदर्शनम्।
 </details>
 
@@ -674,13 +671,13 @@ title_english = "035 Seetha asks Hanuma to describe the characteristics"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तानि दृष्ट्वा महार्हाणि दर्शयित्वा मुहुर्मुहुः।  
-राघवः सहसौमित्रिः सुग्रीवे संन्यवेशयत्॥ ४४॥
+राघवः सहसौमित्रिः सुग्रीवे सन्न्यवेशयत्॥ ४४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तानि दृष्ट्वा महार्हाणि दर्शयित्वा मुहुर्मुहुः।  
-राघवः सहसौमित्रिः सुग्रीवे संन्यवेशयत्॥ ४४॥
+राघवः सहसौमित्रिः सुग्रीवे सन्न्यवेशयत्॥ ४४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -998,14 +995,14 @@ title_english = "035 Seetha asks Hanuma to describe the characteristics"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषां नः स्वामिसंदेशान्निराशानां मुमूर्षताम्॥ ६३॥  
+तेषां नः स्वामिसन्देशान्निराशानां मुमूर्षताम्॥ ६३॥  
 कार्यहेतोरिहायातः शकुनिर्वीर्यवान् महान्।  
 गृध्रराजस्य सोदर्यः सम्पातिर्नाम गृध्रराट्॥ ६४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तेषां नः स्वामिसंदेशान्निराशानां मुमूर्षताम्॥ ६३॥  
+तेषां नः स्वामिसन्देशान्निराशानां मुमूर्षताम्॥ ६३॥  
 कार्यहेतोरिहायातः शकुनिर्वीर्यवान् महान्।  
 गृध्रराजस्य सोदर्यः सम्पातिर्नाम गृध्रराट्॥ ६४॥
 </details>
@@ -1202,13 +1199,13 @@ title_english = "035 Seetha asks Hanuma to describe the characteristics"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्याहं हरिसैन्यानां त्वन्नाशमनुशोचताम्॥ ७८॥  
-अपनेष्यामि संतापं तवाधिगमशासनात्।
+अपनेष्यामि सन्तापं तवाधिगमशासनात्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 दिष्ट्याहं हरिसैन्यानां त्वन्नाशमनुशोचताम्॥ ७८॥  
-अपनेष्यामि संतापं तवाधिगमशासनात्।
+अपनेष्यामि सन्तापं तवाधिगमशासनात्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1403,3 +1400,4 @@ title_english = "035 Seetha asks Hanuma to describe the characteristics"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे पञ्चत्रिंशः सर्गः॥ ३५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें पैंतीसवाँ सर्ग पूरा हुआ॥ ३५॥
 </details>
+

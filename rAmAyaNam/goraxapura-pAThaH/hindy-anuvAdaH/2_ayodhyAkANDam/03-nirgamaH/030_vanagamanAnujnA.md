@@ -4,11 +4,8 @@ title_english = "030 Rama agrees to take Seetha to the forest"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-030-Vanagama_Naanugnaa.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-030-Vanagama_Naanugnaa.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -153,13 +150,13 @@ title_english = "030 Rama agrees to take Seetha to the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्य पथ्यंचरामात्थ यस्य चार्थेऽवरुध्यसे।  
+यस्य पथ्यञ्चरामात्थ यस्य चार्थेऽवरुध्यसे।  
 त्वं तस्य भव वश्यश्च विधेयश्च सदानघ॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यस्य पथ्यंचरामात्थ यस्य चार्थेऽवरुध्यसे।  
+यस्य पथ्यञ्चरामात्थ यस्य चार्थेऽवरुध्यसे।  
 त्वं तस्य भव वश्यश्च विधेयश्च सदानघ॥ ९॥
 </details>
 
@@ -289,13 +286,13 @@ title_english = "030 Rama agrees to take Seetha to the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च तत्र ततः किंचिद् द्रष्टुमर्हसि विप्रियम्।  
+न च तत्र ततः किञ्चिद् द्रष्टुमर्हसि विप्रियम्।  
 मत्कृते न च ते शोको न भविष्यामि दुर्भरा॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न च तत्र ततः किंचिद् द्रष्टुमर्हसि विप्रियम्।  
+न च तत्र ततः किञ्चिद् द्रष्टुमर्हसि विप्रियम्।  
 मत्कृते न च ते शोको न भविष्यामि दुर्भरा॥ १७॥
 </details>
 
@@ -374,13 +371,13 @@ title_english = "030 Rama agrees to take Seetha to the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति सा शोकसंतप्ता विलप्य करुणं बहु।  
+इति सा शोकसन्तप्ता विलप्य करुणं बहु।  
 चुक्रोश पतिमायस्ता भृशमालिङ्ग्य सस्वरम्॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इति सा शोकसंतप्ता विलप्य करुणं बहु।  
+इति सा शोकसन्तप्ता विलप्य करुणं बहु।  
 चुक्रोश पतिमायस्ता भृशमालिङ्ग्य सस्वरम्॥ २२॥
 </details>
 
@@ -392,13 +389,13 @@ title_english = "030 Rama agrees to take Seetha to the forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा विद्धा बहुभिर्वाक्यैर्दिग्धैरिव गजाङ्गना।  
-चिरसंनियतं बाष्पं मुमोचाग्निमिवारणिः॥ २३॥
+चिरसन्नियतं बाष्पं मुमोचाग्निमिवारणिः॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा विद्धा बहुभिर्वाक्यैर्दिग्धैरिव गजाङ्गना।  
-चिरसंनियतं बाष्पं मुमोचाग्निमिवारणिः॥ २३॥
+चिरसन्नियतं बाष्पं मुमोचाग्निमिवारणिः॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -408,13 +405,13 @@ title_english = "030 Rama agrees to take Seetha to the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्याः स्फटिकसंकाशं वारि संतापसम्भवम्।  
+तस्याः स्फटिकसङ्काशं वारि सन्तापसम्भवम्।  
 नेत्राभ्यां परिसुस्राव पङ्कजाभ्यामिवोदकम्॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्याः स्फटिकसंकाशं वारि संतापसम्भवम्।  
+तस्याः स्फटिकसङ्काशं वारि सन्तापसम्भवम्।  
 नेत्राभ्यां परिसुस्राव पङ्कजाभ्यामिवोदकम्॥ २४॥
 </details>
 
@@ -442,13 +439,13 @@ title_english = "030 Rama agrees to take Seetha to the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तां परिष्वज्य बाहुभ्यां विसंज्ञामिव दुःखिताम्।  
+तां परिष्वज्य बाहुभ्यां विसञ्ज्ञामिव दुःखिताम्।  
 उवाच वचनं रामः परिविश्वासयंस्तदा॥२६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तां परिष्वज्य बाहुभ्यां विसंज्ञामिव दुःखिताम्।  
+तां परिष्वज्य बाहुभ्यां विसञ्ज्ञामिव दुःखिताम्।  
 उवाच वचनं रामः परिविश्वासयंस्तदा॥२६॥
 </details>
 
@@ -460,13 +457,13 @@ title_english = "030 Rama agrees to take Seetha to the forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न देवि बत दुःखेन स्वर्गमप्यभिरोचये।  
-नहि मेऽस्ति भयं किंचित् स्वयम्भोरिव सर्वतः॥ २७॥
+नहि मेऽस्ति भयं किञ्चित् स्वयम्भोरिव सर्वतः॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 न देवि बत दुःखेन स्वर्गमप्यभिरोचये।  
-नहि मेऽस्ति भयं किंचित् स्वयम्भोरिव सर्वतः॥ २७॥
+नहि मेऽस्ति भयं किञ्चित् स्वयम्भोरिव सर्वतः॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -613,13 +610,13 @@ title_english = "030 Rama agrees to take Seetha to the forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वर्गो धनं वा धान्यं वा विद्या पुत्राः सुखानि च।  
-गुरुवृत्त्यनुरोधेन न किंचिदपि दुर्लभम्॥ ३६॥
+गुरुवृत्त्यनुरोधेन न किञ्चिदपि दुर्लभम्॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स्वर्गो धनं वा धान्यं वा विद्या पुत्राः सुखानि च।  
-गुरुवृत्त्यनुरोधेन न किंचिदपि दुर्लभम्॥ ३६॥
+गुरुवृत्त्यनुरोधेन न किञ्चिदपि दुर्लभम्॥ ३६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -732,13 +729,13 @@ title_english = "030 Rama agrees to take Seetha to the forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्राह्मणेभ्यश्च रत्नानि भिक्षुकेभ्यश्च भोजनम्।  
-देहि चाशंसमानेभ्यः संत्वरस्व च मा चिरम्॥ ४३॥
+देहि चाशंसमानेभ्यः सन्त्वरस्व च मा चिरम्॥ ४३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब्राह्मणेभ्यश्च रत्नानि भिक्षुकेभ्यश्च भोजनम्।  
-देहि चाशंसमानेभ्यः संत्वरस्व च मा चिरम्॥ ४३॥
+देहि चाशंसमानेभ्यः सन्त्वरस्व च मा चिरम्॥ ४३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -810,3 +807,4 @@ title_english = "030 Rama agrees to take Seetha to the forest"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्रिंशः सर्गः॥ ३०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें तीसवाँ सर्ग पूरा हुआ॥ ३०॥
 </details>
+

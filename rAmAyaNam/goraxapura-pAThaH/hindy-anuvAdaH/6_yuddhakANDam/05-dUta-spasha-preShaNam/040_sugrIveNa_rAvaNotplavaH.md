@@ -4,11 +4,8 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-040-On_seeing_Ravana_Sugreeva_bounces_on_him_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-040-On_seeing_Ravana_Sugreeva_bounces_on_him_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -72,13 +69,13 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नीलजीमूतसंकाशं हेमसंछादिताम्बरम्।  
+नीलजीमूतसङ्काशं हेमसञ्छादिताम्बरम्।  
 ऐरावतविषाणाग्रैरुत्कृष्टकिणवक्षसम्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नीलजीमूतसंकाशं हेमसंछादिताम्बरम्।  
+नीलजीमूतसङ्काशं हेमसञ्छादिताम्बरम्।  
 ऐरावतविषाणाग्रैरुत्कृष्टकिणवक्षसम्॥ ५॥
 </details>
 
@@ -90,13 +87,13 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शशलोहितरागेण संवीतं रक्तवाससा।  
-संध्यातपेन संछन्नं मेघराशिमिवाम्बरे॥ ६॥
+सन्ध्यातपेन सञ्छन्नं मेघराशिमिवाम्बरे॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 शशलोहितरागेण संवीतं रक्तवाससा।  
-संध्यातपेन संछन्नं मेघराशिमिवाम्बरे॥ ६॥
+सन्ध्यातपेन सञ्छन्नं मेघराशिमिवाम्बरे॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -352,7 +349,7 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्यम्य चान्योन्यमधिक्षिपन्तौ  
-संचक्रमाते बहु युद्धमार्गे।  
+सञ्चक्रमाते बहु युद्धमार्गे।  
 व्यायामशिक्षाबलसम्प्रयुक्तौ  
 क्लमं न तौ जग्मतुराशु वीरौ॥ २०॥
 </details>
@@ -360,7 +357,7 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 <details><summary>मूलम्</summary>
 
 उद्यम्य चान्योन्यमधिक्षिपन्तौ  
-संचक्रमाते बहु युद्धमार्गे।  
+सञ्चक्रमाते बहु युद्धमार्गे।  
 व्यायामशिक्षाबलसम्प्रयुक्तौ  
 क्लमं न तौ जग्मतुराशु वीरौ॥ २०॥
 </details>
@@ -375,7 +372,7 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 बाहूत्तमैर्वारणवारणाभै-  
 र्निवारयन्तौ परवारणाभौ।  
 चिरेण कालेन भृशं प्रयुद्धौ  
-संचेरतुर्मण्डलमार्गमाशु॥ २१॥
+सञ्चेरतुर्मण्डलमार्गमाशु॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -383,7 +380,7 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 बाहूत्तमैर्वारणवारणाभै-  
 र्निवारयन्तौ परवारणाभौ।  
 चिरेण कालेन भृशं प्रयुद्धौ  
-संचेरतुर्मण्डलमार्गमाशु॥ २१॥
+सञ्चेरतुर्मण्डलमार्गमाशु॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -479,7 +476,7 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ हरिवरनाथः प्राप्तसंग्रामकीर्ति-  
+अथ हरिवरनाथः प्राप्तसङ्ग्रामकीर्ति-  
 र्निशिचरपतिमाजौ योजयित्वा श्रमेण।  
 गगनमतिविशालं लङ्घयित्वार्कसूनु-  
 र्हरिगणबलमध्ये रामपार्श्वं जगाम॥ २९॥
@@ -487,7 +484,7 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 
 <details><summary>मूलम्</summary>
 
-अथ हरिवरनाथः प्राप्तसंग्रामकीर्ति-  
+अथ हरिवरनाथः प्राप्तसङ्ग्रामकीर्ति-  
 र्निशिचरपतिमाजौ योजयित्वा श्रमेण।  
 गगनमतिविशालं लङ्घयित्वार्कसूनु-  
 र्हरिगणबलमध्ये रामपार्श्वं जगाम॥ २९॥
@@ -524,3 +521,4 @@ title_english = "040 On seeing Ravana Sugreeva bounces on him"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चत्वारिंशः सर्गः॥ ४०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें चालीसवाँ सर्ग पूरा हुआ॥ ४०॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "054 Hanuma advises Angada"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-054-Hanuma_advises_Angada.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-054-Hanuma_advises_Angada.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -76,13 +73,13 @@ title_english = "054 Hanuma advises Angada"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बृहस्पतिसमं बुद्ध्या विक्रमे सदृशं पितुः।  
-शुश्रूषमाणं तारस्य शुक्रस्येव पुरंदरम्॥ ४॥
+शुश्रूषमाणं तारस्य शुक्रस्येव पुरन्दरम्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बृहस्पतिसमं बुद्ध्या विक्रमे सदृशं पितुः।  
-शुश्रूषमाणं तारस्य शुक्रस्येव पुरंदरम्॥ ४॥
+शुश्रूषमाणं तारस्य शुक्रस्येव पुरन्दरम्॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -93,13 +90,13 @@ title_english = "054 Hanuma advises Angada"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्तुरर्थे परिश्रान्तं सर्वशास्त्रविशारदः।  
-अभिसंधातुमारेभे हनूमानङ्गदं ततः॥ ५॥
+अभिसन्धातुमारेभे हनूमानङ्गदं ततः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 भर्तुरर्थे परिश्रान्तं सर्वशास्त्रविशारदः।  
-अभिसंधातुमारेभे हनूमानङ्गदं ततः॥ ५॥
+अभिसन्धातुमारेभे हनूमानङ्गदं ततः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -160,13 +157,13 @@ title_english = "054 Hanuma advises Angada"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नित्यमस्थिरचित्ता हि कपयो हरिपुंगव।  
+नित्यमस्थिरचित्ता हि कपयो हरिपुङ्गव।  
 नाज्ञाप्यं विषहिष्यन्ति पुत्रदारं विना त्वया॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नित्यमस्थिरचित्ता हि कपयो हरिपुंगव।  
+नित्यमस्थिरचित्ता हि कपयो हरिपुङ्गव।  
 नाज्ञाप्यं विषहिष्यन्ति पुत्रदारं विना त्वया॥ ९॥
 </details>
 
@@ -266,13 +263,13 @@ title_english = "054 Hanuma advises Angada"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवस्थानं यदैव त्वमासिष्यसि परंतप।  
+अवस्थानं यदैव त्वमासिष्यसि परन्तप।  
 तदैव हरयः सर्वे त्यक्ष्यन्ति कृतनिश्चयाः॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अवस्थानं यदैव त्वमासिष्यसि परंतप।  
+अवस्थानं यदैव त्वमासिष्यसि परन्तप।  
 तदैव हरयः सर्वे त्यक्ष्यन्ति कृतनिश्चयाः॥ १६॥
 </details>
 
@@ -388,3 +385,4 @@ title_english = "054 Hanuma advises Angada"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे चतुःपञ्चाशः सर्गः॥ ५४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें चौवनवाँ सर्ग पूरा हुआ॥ ५४॥
 </details>
+

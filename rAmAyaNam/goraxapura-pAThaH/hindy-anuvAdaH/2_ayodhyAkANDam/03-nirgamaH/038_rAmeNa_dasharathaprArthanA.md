@@ -4,11 +4,8 @@ title_english = "038 Dasaratha is enraged"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-038-_Ramena_Dashratha_Prathana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-038-_Ramena_Dashratha_Prathana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -72,18 +69,18 @@ title_english = "038 Dasaratha is enraged"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इयं हि कस्यापि करोति किंचित्  
+इयं हि कस्यापि करोति किञ्चित्  
 तपस्विनी राजवरस्य पुत्री।  
 या चीरमासाद्य जनस्य मध्ये  
-स्थिता विसंज्ञा श्रमणीव काचित् ॥ ५॥
+स्थिता विसञ्ज्ञा श्रमणीव काचित् ॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इयं हि कस्यापि करोति किंचित्  
+इयं हि कस्यापि करोति किञ्चित्  
 तपस्विनी राजवरस्य पुत्री।  
 या चीरमासाद्य जनस्य मध्ये  
-स्थिता विसंज्ञा श्रमणीव काचित् ॥ ५॥
+स्थिता विसञ्ज्ञा श्रमणीव काचित् ॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -135,13 +132,13 @@ title_english = "038 Dasaratha is enraged"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रामेण यदि ते पापे किंचित्कृतमशोभनम्।  
+रामेण यदि ते पापे किञ्चित्कृतमशोभनम्।  
 अपकारः क इह ते वैदेह्या दर्शितोऽधमे॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-रामेण यदि ते पापे किंचित्कृतमशोभनम्।  
+रामेण यदि ते पापे किञ्चित्कृतमशोभनम्।  
 अपकारः क इह ते वैदेह्या दर्शितोऽधमे॥ ८॥
 </details>
 
@@ -259,13 +256,13 @@ title_english = "038 Dasaratha is enraged"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुत्रशोकं यथा नर्च्छेत् त्वया पूज्येन पूजिता।  
-मां हि संचिन्तयन्ती सा त्वयि जीवेत् तपस्विनी॥ १६॥
+मां हि सञ्चिन्तयन्ती सा त्वयि जीवेत् तपस्विनी॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पुत्रशोकं यथा नर्च्छेत् त्वया पूज्येन पूजिता।  
-मां हि संचिन्तयन्ती सा त्वयि जीवेत् तपस्विनी॥ १६॥
+मां हि सञ्चिन्तयन्ती सा त्वयि जीवेत् तपस्विनी॥ १६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -299,3 +296,4 @@ title_english = "038 Dasaratha is enraged"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डेऽष्टात्रिंशः सर्गः॥ ३८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें अड़तीसवाँ सर्ग पूरा हुआ॥ ३८॥
 </details>
+

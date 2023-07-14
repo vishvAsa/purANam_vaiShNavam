@@ -4,11 +4,8 @@ title_english = "019 Sage vishvamitra s arrival to take rAma along with him to g
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-019-Vishvamitrakrutha_Ramayaachana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-019-Vishvamitrakrutha_Ramayaachana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -175,13 +172,13 @@ title_english = "019 Sage vishvamitra s arrival to take rAma along with him to g
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्रयाणामपि लोकानां येन ख्यातिं गमिष्यति।  
-न च तौ राममासाद्य शक्तो स्थातुं कथंचन॥ ११॥
+न च तौ राममासाद्य शक्तो स्थातुं कथञ्चन॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्रयाणामपि लोकानां येन ख्यातिं गमिष्यति।  
-न च तौ राममासाद्य शक्तो स्थातुं कथंचन॥ ११॥
+न च तौ राममासाद्य शक्तो स्थातुं कथञ्चन॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -346,7 +343,7 @@ title_english = "019 Sage vishvamitra s arrival to take rAma along with him to g
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लब्धसंज्ञस्तदोत्थाय व्यषीदत भयान्वितः॥ २१॥  
+लब्धसञ्ज्ञस्तदोत्थाय व्यषीदत भयान्वितः॥ २१॥  
 इति हृदयमनोविदारणं  
 मुनिवचनं तदतीव शुश्रुवान्।  
 नरपतिरभवन्महान् महात्मा  
@@ -355,7 +352,7 @@ title_english = "019 Sage vishvamitra s arrival to take rAma along with him to g
 
 <details><summary>मूलम्</summary>
 
-लब्धसंज्ञस्तदोत्थाय व्यषीदत भयान्वितः॥ २१॥  
+लब्धसञ्ज्ञस्तदोत्थाय व्यषीदत भयान्वितः॥ २१॥  
 इति हृदयमनोविदारणं  
 मुनिवचनं तदतीव शुश्रुवान्।  
 नरपतिरभवन्महान् महात्मा  
@@ -372,3 +369,4 @@ title_english = "019 Sage vishvamitra s arrival to take rAma along with him to g
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकोनविंशः सर्गः॥ १९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें उन्नीसवाँ सर्ग पूरा हुआ॥ १९॥
 </details>
+

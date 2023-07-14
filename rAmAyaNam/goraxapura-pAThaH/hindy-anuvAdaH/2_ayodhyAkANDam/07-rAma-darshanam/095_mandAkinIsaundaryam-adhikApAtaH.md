@@ -4,11 +4,8 @@ title_english = "095 Rama and Seetha spend some time at Mandakini River"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-095-Mandakini_Soundaryam_Adhika_Pataha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-095-Mandakini_Soundaryam_Adhika_Pataha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -86,13 +83,13 @@ title_english = "095 Rama and Seetha spend some time at Mandakini River"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगयूथनिपीतानि कलुषाम्भांसि साम्प्रतम्।  
-तीर्थानि रमणीयानि रतिं संजनयन्ति मे॥ ५॥
+तीर्थानि रमणीयानि रतिं सञ्जनयन्ति मे॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मृगयूथनिपीतानि कलुषाम्भांसि साम्प्रतम्।  
-तीर्थानि रमणीयानि रतिं संजनयन्ति मे॥ ५॥
+तीर्थानि रमणीयानि रतिं सञ्जनयन्ति मे॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -170,13 +167,13 @@ title_english = "095 Rama and Seetha spend some time at Mandakini River"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्धूतान् वायुना पश्य विततान् पुष्पसंचयान्।  
+निर्धूतान् वायुना पश्य विततान् पुष्पसञ्चयान्।  
 पोप्लूयमानानपरान् पश्य त्वं तनुमध्यमे॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-निर्धूतान् वायुना पश्य विततान् पुष्पसंचयान्।  
+निर्धूतान् वायुना पश्य विततान् पुष्पसञ्चयान्।  
 पोप्लूयमानानपरान् पश्य त्वं तनुमध्यमे॥ १०॥
 </details>
 
@@ -308,7 +305,7 @@ title_english = "095 Rama and Seetha spend some time at Mandakini River"
 
 इमां हि रम्यां गजयूथलोडितां  
 निपीततोयां गजसिंहवानरैः।  
-सुपुष्पितां पुष्पभरैरलंकृतां  
+सुपुष्पितां पुष्पभरैरलङ्कृतां  
 न सोऽस्ति यः स्यान्न गतक्लमः सुखी॥ १८॥
 </details>
 
@@ -316,7 +313,7 @@ title_english = "095 Rama and Seetha spend some time at Mandakini River"
 
 इमां हि रम्यां गजयूथलोडितां  
 निपीततोयां गजसिंहवानरैः।  
-सुपुष्पितां पुष्पभरैरलंकृतां  
+सुपुष्पितां पुष्पभरैरलङ्कृतां  
 न सोऽस्ति यः स्यान्न गतक्लमः सुखी॥ १८॥
 </details>
 
@@ -327,7 +324,7 @@ title_english = "095 Rama and Seetha spend some time at Mandakini River"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतीव रामो बहुसंगतं वचः  
+इतीव रामो बहुसङ्गतं वचः  
 प्रियासहायः सरितं प्रति ब्रुवन्।  
 चचार रम्यं नयनाञ्जनप्रभं  
 स चित्रकूटं रघुवंशवर्धनः॥ १९॥
@@ -335,7 +332,7 @@ title_english = "095 Rama and Seetha spend some time at Mandakini River"
 
 <details><summary>मूलम्</summary>
 
-इतीव रामो बहुसंगतं वचः  
+इतीव रामो बहुसङ्गतं वचः  
 प्रियासहायः सरितं प्रति ब्रुवन्।  
 चचार रम्यं नयनाञ्जनप्रभं  
 स चित्रकूटं रघुवंशवर्धनः॥ १९॥
@@ -351,3 +348,4 @@ title_english = "095 Rama and Seetha spend some time at Mandakini River"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे पञ्चनवतितमः सर्गः॥ ९५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें पंचानबेवाँ सर्ग पूरा हुआ॥ ९५॥
 </details>
+

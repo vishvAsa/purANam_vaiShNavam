@@ -4,11 +4,8 @@ title_english = "025 Vali s funeral ritual"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-025-Rama_Santvanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-025-Rama_Santvanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "025 Vali s funeral ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लोकवृत्तमनुष्ठेयं कृतं वो बाष्पमोक्षणम्।  
-न कालादुत्तरं किंचित् कर्मशक्यमुपासितुम्॥ ३॥
+न कालादुत्तरं किञ्चित् कर्मशक्यमुपासितुम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 लोकवृत्तमनुष्ठेयं कृतं वो बाष्पमोक्षणम्।  
-न कालादुत्तरं किंचित् कर्मशक्यमुपासितुम्॥ ३॥
+न कालादुत्तरं किञ्चित् कर्मशक्यमुपासितुम्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -426,13 +423,13 @@ title_english = "025 Vali s funeral ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वराभरणहारैश्च चित्रमाल्योपशोभिताम्।  
-गुहागहनसंछन्नां रक्तचन्दनभूषिताम्॥ २५॥
+गुहागहनसञ्छन्नां रक्तचन्दनभूषिताम्॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 वराभरणहारैश्च चित्रमाल्योपशोभिताम्।  
-गुहागहनसंछन्नां रक्तचन्दनभूषिताम्॥ २५॥
+गुहागहनसञ्छन्नां रक्तचन्दनभूषिताम्॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -494,13 +491,13 @@ title_english = "025 Vali s funeral ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आरोप्य शिबिकां चैव वालिनं गतजीवितम्।  
-अलंकारैश्च विविधैर्माल्यैर्वस्त्रैश्च भूषितम्॥ २९॥
+अलङ्कारैश्च विविधैर्माल्यैर्वस्त्रैश्च भूषितम्॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 आरोप्य शिबिकां चैव वालिनं गतजीवितम्।  
-अलंकारैश्च विविधैर्माल्यैर्वस्त्रैश्च भूषितम्॥ २९॥
+अलङ्कारैश्च विविधैर्माल्यैर्वस्त्रैश्च भूषितम्॥ २९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -791,13 +788,13 @@ title_english = "025 Vali s funeral ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विसर्जयैनान् सचिवान् यथापुरमरिंदम।  
+विसर्जयैनान् सचिवान् यथापुरमरिन्दम।  
 ततः क्रीडामहे सर्वा वनेषु मदनोत्कटाः॥ ४७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-विसर्जयैनान् सचिवान् यथापुरमरिंदम।  
+विसर्जयैनान् सचिवान् यथापुरमरिन्दम।  
 ततः क्रीडामहे सर्वा वनेषु मदनोत्कटाः॥ ४७॥
 </details>
 
@@ -934,3 +931,4 @@ title_english = "025 Vali s funeral ritual"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे पञ्चविंशः सर्गः॥ २५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें पचीसवाँ सर्ग पूरा हुआ॥ २५॥
 </details>
+

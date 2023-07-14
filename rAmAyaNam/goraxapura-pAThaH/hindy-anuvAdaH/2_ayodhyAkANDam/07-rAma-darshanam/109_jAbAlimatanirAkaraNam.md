@@ -4,11 +4,8 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-109-Jabali_Matha_Nirakaranam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-109-Jabali_Matha_Nirakaranam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवान् मे प्रियकामार्थं वचनं यदिहोक्तवान्।  
-अकार्यं कार्यसंकाशमपथ्यं पथ्य संनिभम्॥ २॥
+अकार्यं कार्यसङ्काशमपथ्यं पथ्य सन्निभम्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 भवान् मे प्रियकामार्थं वचनं यदिहोक्तवान्।  
-अकार्यं कार्यसंकाशमपथ्यं पथ्य संनिभम्॥ २॥
+अकार्यं कार्यसङ्काशमपथ्यं पथ्य सन्निभम्॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -102,7 +99,7 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अधर्मं धर्मवेषेण यद्यहं लोकसंकरम्।  
+अधर्मं धर्मवेषेण यद्यहं लोकसङ्करम्।  
 अभिपत्स्ये शुभं हित्वा क्रियां विधिविवर्जिताम्॥ ६॥  
 कश्चेतयानः पुरुषः कार्याकार्यविचक्षणः।  
 बहु मन्येत मां लोके दुर्वृत्तं लोकदूषणम्॥ ७॥
@@ -110,7 +107,7 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 
 <details><summary>मूलम्</summary>
 
-अधर्मं धर्मवेषेण यद्यहं लोकसंकरम्।  
+अधर्मं धर्मवेषेण यद्यहं लोकसङ्करम्।  
 अभिपत्स्ये शुभं हित्वा क्रियां विधिविवर्जिताम्॥ ६॥  
 कश्चेतयानः पुरुषः कार्याकार्यविचक्षणः।  
 बहु मन्येत मां लोके दुर्वृत्तं लोकदूषणम्॥ ७॥
@@ -293,13 +290,13 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असत्यसंधस्य सतश्चलस्यास्थिरचेतसः।  
+असत्यसन्धस्य सतश्चलस्यास्थिरचेतसः।  
 नैव देवा न पितरः प्रतीच्छन्तीति नः श्रुतम्॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-असत्यसंधस्य सतश्चलस्यास्थिरचेतसः।  
+असत्यसन्धस्य सतश्चलस्यास्थिरचेतसः।  
 नैव देवा न पितरः प्रतीच्छन्तीति नः श्रुतम्॥ १८॥
 </details>
 
@@ -412,13 +409,13 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्थिरा मया प्रतिज्ञाता प्रतिज्ञा गुरुसंनिधौ।  
+स्थिरा मया प्रतिज्ञाता प्रतिज्ञा गुरुसन्निधौ।  
 प्रहृष्टमानसा देवी कैकेयी चाभवत् तदा॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स्थिरा मया प्रतिज्ञाता प्रतिज्ञा गुरुसंनिधौ।  
+स्थिरा मया प्रतिज्ञाता प्रतिज्ञा गुरुसन्निधौ।  
 प्रहृष्टमानसा देवी कैकेयी चाभवत् तदा॥ २५॥
 </details>
 
@@ -446,13 +443,13 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संतुष्टपञ्चवर्गोऽहं लोकयात्रां प्रवाहये।  
+सन्तुष्टपञ्चवर्गोऽहं लोकयात्रां प्रवाहये।  
 अकुहः श्रद्दधानः सन् कार्याकार्यविचक्षणः॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संतुष्टपञ्चवर्गोऽहं लोकयात्रां प्रवाहये।  
+सन्तुष्टपञ्चवर्गोऽहं लोकयात्रां प्रवाहये।  
 अकुहः श्रद्दधानः सन् कार्याकार्यविचक्षणः॥ २७॥
 </details>
 
@@ -542,7 +539,7 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 तेनैवमाज्ञाय यथावदर्थ-  
 मेकोदयं सम्प्रतिपद्य विप्राः।  
 धर्मं चरन्तः सकलं यथावत्  
-कांक्षन्ति लोकागममप्रमत्ताः॥ ३२॥
+काङ्क्षन्ति लोकागममप्रमत्ताः॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -550,7 +547,7 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 तेनैवमाज्ञाय यथावदर्थ-  
 मेकोदयं सम्प्रतिपद्य विप्राः।  
 धर्मं चरन्तः सकलं यथावत्  
-कांक्षन्ति लोकागममप्रमत्ताः॥ ३२॥
+काङ्क्षन्ति लोकागममप्रमत्ताः॥ ३२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -666,7 +663,7 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न नास्तिकानां वचनं ब्रवीम्यहं  
-न नास्तिकोऽहं न च नास्ति किंचन।  
+न नास्तिकोऽहं न च नास्ति किञ्चन।  
 समीक्ष्य कालं पुनरास्तिकोऽभवं  
 भवेय काले पुनरेव नास्तिकः॥ ३८॥
 </details>
@@ -674,7 +671,7 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 <details><summary>मूलम्</summary>
 
 न नास्तिकानां वचनं ब्रवीम्यहं  
-न नास्तिकोऽहं न च नास्ति किंचन।  
+न नास्तिकोऽहं न च नास्ति किञ्चन।  
 समीक्ष्य कालं पुनरास्तिकोऽभवं  
 भवेय काले पुनरेव नास्तिकः॥ ३८॥
 </details>
@@ -710,3 +707,4 @@ title_english = "109 Rama refutes the atheistic arguments of Jabali"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे नवाधिकशततमः सर्गः॥ १०९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ नौवाँ सर्ग पूरा हुआ॥ १०९॥
 </details>
+

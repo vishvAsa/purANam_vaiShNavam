@@ -4,11 +4,8 @@ title_english = "012 Ravana instructs Prahasta to defend Lanka"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-012-Ravana_instructs_Prahasta_to_defend_Lanka.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-012-Ravana_instructs_Prahasta_to_defend_Lanka.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "012 Ravana instructs Prahasta to defend Lanka"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स तां परिषदं कृत्स्नां समीक्ष्य समितिंजयः।  
+स तां परिषदं कृत्स्नां समीक्ष्य समितिञ्जयः।  
 प्रचोदयामास तदा प्रहस्तं वाहिनीपतिम्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स तां परिषदं कृत्स्नां समीक्ष्य समितिंजयः।  
+स तां परिषदं कृत्स्नां समीक्ष्य समितिञ्जयः।  
 प्रचोदयामास तदा प्रहस्तं वाहिनीपतिम्॥ १॥
 </details>
 
@@ -272,14 +269,14 @@ title_english = "012 Ravana instructs Prahasta to defend Lanka"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हुताग्नेरर्चिसंकाशामेनां सौरीमिव प्रभाम्।  
+हुताग्नेरर्चिसङ्काशामेनां सौरीमिव प्रभाम्।  
 उन्नसं विमलं वल्गु वदनं चारुलोचनम्॥ १६॥  
 पश्यंस्तदवशस्तस्याः कामस्य वशमेयिवान्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-हुताग्नेरर्चिसंकाशामेनां सौरीमिव प्रभाम्।  
+हुताग्नेरर्चिसङ्काशामेनां सौरीमिव प्रभाम्।  
 उन्नसं विमलं वल्गु वदनं चारुलोचनम्॥ १६॥  
 पश्यंस्तदवशस्तस्याः कामस्य वशमेयिवान्।
 </details>
@@ -292,13 +289,13 @@ title_english = "012 Ravana instructs Prahasta to defend Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रोधहर्षसमानेन दुर्वर्णकरणेन च॥ १७॥  
-शोकसंतापनित्येन कामेन कलुषीकृतः।
+शोकसन्तापनित्येन कामेन कलुषीकृतः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 क्रोधहर्षसमानेन दुर्वर्णकरणेन च॥ १७॥  
-शोकसंतापनित्येन कामेन कलुषीकृतः।
+शोकसन्तापनित्येन कामेन कलुषीकृतः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -481,13 +478,13 @@ title_english = "012 Ravana instructs Prahasta to defend Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न्यायेन राजकार्याणि यः करोति दशानन।  
-न स संतप्यते पश्चान्निश्चितार्थमतिर्नृपः॥ ३०॥
+न स सन्तप्यते पश्चान्निश्चितार्थमतिर्नृपः॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 न्यायेन राजकार्याणि यः करोति दशानन।  
-न स संतप्यते पश्चान्निश्चितार्थमतिर्नृपः॥ ३०॥
+न स सन्तप्यते पश्चान्निश्चितार्थमतिर्नृपः॥ ३०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -607,13 +604,13 @@ title_english = "012 Ravana instructs Prahasta to defend Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गिरिमात्रशरीरस्य महापरिघयोधिनः।  
-नर्दतस्तीक्ष्णदंष्ट्रस्य बिभीयाद् वै पुरंदरः॥ ३७॥
+नर्दतस्तीक्ष्णदंष्ट्रस्य बिभीयाद् वै पुरन्दरः॥ ३७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गिरिमात्रशरीरस्य महापरिघयोधिनः।  
-नर्दतस्तीक्ष्णदंष्ट्रस्य बिभीयाद् वै पुरंदरः॥ ३७॥
+नर्दतस्तीक्ष्णदंष्ट्रस्य बिभीयाद् वै पुरन्दरः॥ ३७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -685,3 +682,4 @@ title_english = "012 Ravana instructs Prahasta to defend Lanka"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्वादशः सर्गः॥ १२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें बारहवाँ सर्ग पूरा हुआ॥ १२॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "032 Seetha is shocked to see Hanuma"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-032-Seetha_is_shocked_to_see_Hanuma.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-032-Seetha_is_shocked_to_see_Hanuma.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,7 +15,7 @@ title_english = "032 Seetha is shocked to see Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शाखान्तरे लीनं दृष्ट्वा चलितमानसा।  
-वेष्टितार्जुनवस्त्रं तं विद्युत्संघातपिंगलम्॥ १॥  
+वेष्टितार्जुनवस्त्रं तं विद्युत्सङ्घातपिङ्गलम्॥ १॥  
 सा ददर्श कपिं तत्र प्रश्रितं प्रियवादिनम्।  
 फुल्लाशोकोत्कराभासं तप्तचामीकरेक्षणम्॥ २॥
 </details>
@@ -26,7 +23,7 @@ title_english = "032 Seetha is shocked to see Hanuma"
 <details><summary>मूलम्</summary>
 
 ततः शाखान्तरे लीनं दृष्ट्वा चलितमानसा।  
-वेष्टितार्जुनवस्त्रं तं विद्युत्संघातपिंगलम्॥ १॥  
+वेष्टितार्जुनवस्त्रं तं विद्युत्सङ्घातपिङ्गलम्॥ १॥  
 सा ददर्श कपिं तत्र प्रश्रितं प्रियवादिनम्।  
 फुल्लाशोकोत्कराभासं तप्तचामीकरेक्षणम्॥ २॥
 </details>
@@ -110,7 +107,7 @@ title_english = "032 Seetha is shocked to see Hanuma"
 
 सा वीक्षमाणा पृथुभुग्नवक्त्रं  
 शाखामृगेन्द्रस्य यथोक्तकारम्।  
-ददर्श पिंगप्रवरं महार्हं  
+ददर्श पिङ्गप्रवरं महार्हं  
 वातात्मजं बुद्धिमतां वरिष्ठम्॥ ७॥
 </details>
 
@@ -118,7 +115,7 @@ title_english = "032 Seetha is shocked to see Hanuma"
 
 सा वीक्षमाणा पृथुभुग्नवक्त्रं  
 शाखामृगेन्द्रस्य यथोक्तकारम्।  
-ददर्श पिंगप्रवरं महार्हं  
+ददर्श पिङ्गप्रवरं महार्हं  
 वातात्मजं बुद्धिमतां वरिष्ठम्॥ ७॥
 </details>
 
@@ -131,7 +128,7 @@ title_english = "032 Seetha is shocked to see Hanuma"
 
 सा तं समीक्ष्यैव भृशं विपन्ना  
 गतासुकल्पेव बभूव सीता।  
-चिरेण संज्ञां प्रतिलभ्य चैवं  
+चिरेण सञ्ज्ञां प्रतिलभ्य चैवं  
 विचिन्तयामास विशालनेत्रा॥ ८॥
 </details>
 
@@ -139,7 +136,7 @@ title_english = "032 Seetha is shocked to see Hanuma"
 
 सा तं समीक्ष्यैव भृशं विपन्ना  
 गतासुकल्पेव बभूव सीता।  
-चिरेण संज्ञां प्रतिलभ्य चैवं  
+चिरेण सञ्ज्ञां प्रतिलभ्य चैवं  
 विचिन्तयामास विशालनेत्रा॥ ८॥
 </details>
 
@@ -279,3 +276,4 @@ title_english = "032 Seetha is shocked to see Hanuma"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे द्वात्रिंशः सर्गः॥ ३२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें बत्तीसवाँ सर्ग पूरा हुआ॥ ३२॥
 </details>
+

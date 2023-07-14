@@ -4,11 +4,8 @@ title_english = "059 Dasaratha falls unconscious"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-059-Dasharatha_Vilapaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-059-Dasharatha_Vilapaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -107,13 +104,13 @@ title_english = "059 Dasaratha falls unconscious"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लीनपुष्करपत्राश्च नद्यश्च कलुषोदकाः।  
-संतप्तपद्माः पद्मिन्यो लीनमीनविहंगमाः॥ ७॥
+सन्तप्तपद्माः पद्मिन्यो लीनमीनविहङ्गमाः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 लीनपुष्करपत्राश्च नद्यश्च कलुषोदकाः।  
-संतप्तपद्माः पद्मिन्यो लीनमीनविहंगमाः॥ ७॥
+सन्तप्तपद्माः पद्मिन्यो लीनमीनविहङ्गमाः॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -226,13 +223,13 @@ title_english = "059 Dasaratha falls unconscious"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नामित्राणां न मित्राणामुदासीनजनस्य च।  
-अहमार्ततया कंचिद् विशेषं नोपलक्षये॥ १४॥
+अहमार्ततया कञ्चिद् विशेषं नोपलक्षये॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नामित्राणां न मित्राणामुदासीनजनस्य च।  
-अहमार्ततया कंचिद् विशेषं नोपलक्षये॥ १४॥
+अहमार्ततया कञ्चिद् विशेषं नोपलक्षये॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -242,7 +239,7 @@ title_english = "059 Dasaratha falls unconscious"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अप्रहृष्टमनुष्या च दीननागतुरंगमा।  
+अप्रहृष्टमनुष्या च दीननागतुरङ्गमा।  
 आर्तस्वरपरिम्लाना विनिःश्वसितनिःस्वना॥ १५॥  
 निरानन्दा महाराज रामप्रव्राजनातुरा।  
 कौसल्या पुत्रहीनेव अयोध्या प्रतिभाति मे॥ १६॥
@@ -250,7 +247,7 @@ title_english = "059 Dasaratha falls unconscious"
 
 <details><summary>मूलम्</summary>
 
-अप्रहृष्टमनुष्या च दीननागतुरंगमा।  
+अप्रहृष्टमनुष्या च दीननागतुरङ्गमा।  
 आर्तस्वरपरिम्लाना विनिःश्वसितनिःस्वना॥ १५॥  
 निरानन्दा महाराज रामप्रव्राजनातुरा।  
 कौसल्या पुत्रहीनेव अयोध्या प्रतिभाति मे॥ १६॥
@@ -331,14 +328,14 @@ title_english = "059 Dasaratha falls unconscious"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूत यद्यस्ति ते किंचिन्मयापि सुकृतं कृतम्।  
-त्वं प्रापयाशु मां रामं प्राणाः संत्वरयन्ति माम्॥ २१॥
+सूत यद्यस्ति ते किञ्चिन्मयापि सुकृतं कृतम्।  
+त्वं प्रापयाशु मां रामं प्राणाः सन्त्वरयन्ति माम्॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सूत यद्यस्ति ते किंचिन्मयापि सुकृतं कृतम्।  
-त्वं प्रापयाशु मां रामं प्राणाः संत्वरयन्ति माम्॥ २१॥
+सूत यद्यस्ति ते किञ्चिन्मयापि सुकृतं कृतम्।  
+त्वं प्रापयाशु मां रामं प्राणाः सन्त्वरयन्ति माम्॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -541,3 +538,4 @@ title_english = "059 Dasaratha falls unconscious"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकोनषष्टितमः सर्गः॥ ५९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें उनसठवाँ सर्ग पूरा हुआ॥ ५९॥
 </details>
+

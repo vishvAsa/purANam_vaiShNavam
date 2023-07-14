@@ -4,11 +4,8 @@ title_english = "048 Hanuma s search for Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-048-Vindhye_Sita_Anveshana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-048-Vindhye_Sita_Anveshana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -287,13 +284,13 @@ title_english = "048 Hanuma s search for Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽपि तान् वानरान् सर्वान् नष्टाः स्थेत्यब्रवीद् बली॥ १९॥  
-अभ्यधावत संक्रुद्धो मुष्टिमुद्यम्य संगतम्।
+अभ्यधावत सङ्क्रुद्धो मुष्टिमुद्यम्य सङ्गतम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 सोऽपि तान् वानरान् सर्वान् नष्टाः स्थेत्यब्रवीद् बली॥ १९॥  
-अभ्यधावत संक्रुद्धो मुष्टिमुद्यम्य संगतम्।
+अभ्यधावत सङ्क्रुद्धो मुष्टिमुद्यम्य सङ्गतम्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -378,3 +375,4 @@ title_english = "048 Hanuma s search for Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डेऽष्टचत्वारिंशः सर्गः॥ ४८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें अड़तालीसवाँ सर्ग पूरा हुआ॥ ४८॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "056 Hanuma again visits Ashoka garden and sees Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-055-Hanuma_doubts_whether_Seetha_dies_in_the_fire.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-055-Hanuma_doubts_whether_Seetha_dies_in_the_fire.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -68,13 +65,13 @@ title_english = "056 Hanuma again visits Ashoka garden and sees Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मम चैवाल्पभाग्यायाः सांनिध्यात् तव वानर।  
+मम चैवाल्पभाग्यायाः सान्निध्यात् तव वानर।  
 शोकस्यास्याप्रमेयस्य मुहूर्तं स्यादपि क्षयः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मम चैवाल्पभाग्यायाः सांनिध्यात् तव वानर।  
+मम चैवाल्पभाग्यायाः सान्निध्यात् तव वानर।  
 शोकस्यास्याप्रमेयस्य मुहूर्तं स्यादपि क्षयः॥ ४॥
 </details>
 
@@ -119,17 +116,17 @@ title_english = "056 Hanuma again visits Ashoka garden and sees Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अयं च वीर संदेहस्तिष्ठतीव ममाग्रतः।  
+अयं च वीर सन्देहस्तिष्ठतीव ममाग्रतः।  
 सुमहत्सु सहायेषु हर्यृक्षेषु महाबलः॥ ७॥  
-कथं नु खलु दुष्पारं संतरिष्यति सागरम्।  
+कथं नु खलु दुष्पारं सन्तरिष्यति सागरम्।  
 तानि हर्यृक्षसैन्यानि तौ वा नरवरात्मजौ॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अयं च वीर संदेहस्तिष्ठतीव ममाग्रतः।  
+अयं च वीर सन्देहस्तिष्ठतीव ममाग्रतः।  
 सुमहत्सु सहायेषु हर्यृक्षेषु महाबलः॥ ७॥  
-कथं नु खलु दुष्पारं संतरिष्यति सागरम्।  
+कथं नु खलु दुष्पारं सन्तरिष्यति सागरम्।  
 तानि हर्यृक्षसैन्यानि तौ वा नरवरात्मजौ॥ ८॥
 </details>
 
@@ -191,13 +188,13 @@ title_english = "056 Hanuma again visits Ashoka garden and sees Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बलैस्तु संकुलां कृत्वा लङ्कां परबलार्दनः।  
+बलैस्तु सङ्कुलां कृत्वा लङ्कां परबलार्दनः।  
 मां नयेद् यदि काकुत्स्थस्तत् तस्य सदृशं भवेत्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-बलैस्तु संकुलां कृत्वा लङ्कां परबलार्दनः।  
+बलैस्तु सङ्कुलां कृत्वा लङ्कां परबलार्दनः।  
 मां नयेद् यदि काकुत्स्थस्तत् तस्य सदृशं भवेत्॥ १२॥
 </details>
 
@@ -401,13 +398,13 @@ title_english = "056 Hanuma again visits Ashoka garden and sees Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः स कपिशार्दूलः स्वामिसंदर्शनोत्सुकः॥ २५॥  
+ततः स कपिशार्दूलः स्वामिसन्दर्शनोत्सुकः॥ २५॥  
 आरुरोह गिरिश्रेष्ठमरिष्टमरिमर्दनः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः स कपिशार्दूलः स्वामिसंदर्शनोत्सुकः॥ २५॥  
+ततः स कपिशार्दूलः स्वामिसन्दर्शनोत्सुकः॥ २५॥  
 आरुरोह गिरिश्रेष्ठमरिष्टमरिमर्दनः।
 </details>
 
@@ -540,13 +537,13 @@ title_english = "056 Hanuma again visits Ashoka garden and sees Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सालतालैश्च कर्णैश्च वंशैश्च बहुभिर्वृतम्।  
-लतावितानैर्विततैः पुष्पवद्भिरलंकृतम्॥ ३४॥
+लतावितानैर्विततैः पुष्पवद्भिरलङ्कृतम्॥ ३४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सालतालैश्च कर्णैश्च वंशैश्च बहुभिर्वृतम्।  
-लतावितानैर्विततैः पुष्पवद्भिरलंकृतम्॥ ३४॥
+लतावितानैर्विततैः पुष्पवद्भिरलङ्कृतम्॥ ३४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -557,13 +554,13 @@ title_english = "056 Hanuma again visits Ashoka garden and sees Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानामृगगणैः कीर्णं धातुनिष्यन्दभूषितम्।  
-बहुप्रस्रवणोपेतं शिलासंचयसंकटम्॥ ३५॥
+बहुप्रस्रवणोपेतं शिलासञ्चयसङ्कटम्॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नानामृगगणैः कीर्णं धातुनिष्यन्दभूषितम्।  
-बहुप्रस्रवणोपेतं शिलासंचयसंकटम्॥ ३५॥
+बहुप्रस्रवणोपेतं शिलासञ्चयसङ्कटम्॥ ३५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -573,13 +570,13 @@ title_english = "056 Hanuma again visits Ashoka garden and sees Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महर्षियक्षगन्धर्वकिंनरोरगसेवितम्।  
+महर्षियक्षगन्धर्वकिन्नरोरगसेवितम्।  
 लतापादपसम्बाधं सिंहाधिष्ठितकन्दरम्॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-महर्षियक्षगन्धर्वकिंनरोरगसेवितम्।  
+महर्षियक्षगन्धर्वकिन्नरोरगसेवितम्।  
 लतापादपसम्बाधं सिंहाधिष्ठितकन्दरम्॥ ३६॥
 </details>
 
@@ -764,13 +761,13 @@ title_english = "056 Hanuma again visits Ashoka garden and sees Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किंनरोरगगन्धर्वयक्षविद्याधरास्तथा।  
+किन्नरोरगगन्धर्वयक्षविद्याधरास्तथा।  
 पीडितं तं नगवरं त्यक्त्वा गगनमास्थिताः॥ ४८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-किंनरोरगगन्धर्वयक्षविद्याधरास्तथा।  
+किन्नरोरगगन्धर्वयक्षविद्याधरास्तथा।  
 पीडितं तं नगवरं त्यक्त्वा गगनमास्थिताः॥ ४८॥
 </details>
 
@@ -835,3 +832,4 @@ title_english = "056 Hanuma again visits Ashoka garden and sees Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे षट्पञ्चाशः सर्गः॥ ५६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें छप्पनवाँ सर्ग पूरा हुआ॥ ५६॥
 </details>
+

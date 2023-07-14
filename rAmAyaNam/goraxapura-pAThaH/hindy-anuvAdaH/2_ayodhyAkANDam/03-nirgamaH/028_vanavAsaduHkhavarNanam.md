@@ -4,11 +4,8 @@ title_english = "028 Rama warns Seetha of difficulties of staying in forest"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-028-Vanavasa_Dukka_Varnanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-028-Vanavasa_Dukka_Varnanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -170,13 +167,13 @@ title_english = "028 Rama warns Seetha of difficulties of staying in forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लताकण्टकसंकीर्णाः कृकवाकूपनादिताः।  
+लताकण्टकसङ्कीर्णाः कृकवाकूपनादिताः।  
 निरपाश्च सुदुःखाश्च मार्गा दुःखमतो वनम्॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-लताकण्टकसंकीर्णाः कृकवाकूपनादिताः।  
+लताकण्टकसङ्कीर्णाः कृकवाकूपनादिताः।  
 निरपाश्च सुदुःखाश्च मार्गा दुःखमतो वनम्॥ १०॥
 </details>
 
@@ -187,13 +184,13 @@ title_english = "028 Rama warns Seetha of difficulties of staying in forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुप्यते पर्णशय्यासु स्वयंभग्नासु भूतले।  
+सुप्यते पर्णशय्यासु स्वयम्भग्नासु भूतले।  
 रात्रिषु श्रमखिन्नेन तस्माद् दुःखमतो वनम्॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सुप्यते पर्णशय्यासु स्वयंभग्नासु भूतले।  
+सुप्यते पर्णशय्यासु स्वयम्भग्नासु भूतले।  
 रात्रिषु श्रमखिन्नेन तस्माद् दुःखमतो वनम्॥ ११॥
 </details>
 
@@ -204,13 +201,13 @@ title_english = "028 Rama warns Seetha of difficulties of staying in forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहोरात्रं च संतोषः कर्तव्यो नियतात्मना।  
+अहोरात्रं च सन्तोषः कर्तव्यो नियतात्मना।  
 फलैर्वृक्षावपतितैः सीते दुःखमतो वनम्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अहोरात्रं च संतोषः कर्तव्यो नियतात्मना।  
+अहोरात्रं च सन्तोषः कर्तव्यो नियतात्मना।  
 फलैर्वृक्षावपतितैः सीते दुःखमतो वनम्॥ १२॥
 </details>
 
@@ -289,13 +286,13 @@ title_english = "028 Rama warns Seetha of difficulties of staying in forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथालब्धेन कर्तव्यः संतोषस्तेन मैथिलि।  
+यथालब्धेन कर्तव्यः सन्तोषस्तेन मैथिलि।  
 यताहारैर्वनचरैः सीते दुःखमतो वनम्॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यथालब्धेन कर्तव्यः संतोषस्तेन मैथिलि।  
+यथालब्धेन कर्तव्यः सन्तोषस्तेन मैथिलि।  
 यताहारैर्वनचरैः सीते दुःखमतो वनम्॥ १७॥
 </details>
 
@@ -466,3 +463,4 @@ title_english = "028 Rama warns Seetha of difficulties of staying in forest"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डेऽष्टाविंशः सर्गः॥ २८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें अट्ठाईसवाँ सर्ग पूरा हुआ॥ २८॥
 </details>
+

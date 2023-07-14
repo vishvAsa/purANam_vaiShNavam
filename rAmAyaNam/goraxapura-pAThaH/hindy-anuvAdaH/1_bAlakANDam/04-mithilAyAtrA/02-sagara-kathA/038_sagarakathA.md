@@ -4,11 +4,8 @@ title_english = "038 Legend of emperor sagara"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-038-Sagaro_Pakhyanam_.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-038-Sagaro_Pakhyanam_.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -69,13 +66,13 @@ title_english = "038 Legend of emperor sagara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अरिष्टनेमेर्दुहिता सुपर्णभगिनी तु सा।  
-द्वितीया सगरस्यासीत् पत्नी सुमतिसंज्ञिता॥ ४॥
+द्वितीया सगरस्यासीत् पत्नी सुमतिसञ्ज्ञिता॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अरिष्टनेमेर्दुहिता सुपर्णभगिनी तु सा।  
-द्वितीया सगरस्यासीत् पत्नी सुमतिसंज्ञिता॥ ४॥
+द्वितीया सगरस्यासीत् पत्नी सुमतिसञ्ज्ञिता॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -209,13 +206,13 @@ title_english = "038 Legend of emperor sagara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुनेस्तु वचनं श्रुत्वा केशिनी रघुनन्दन।  
-पुत्रं वंशकरं राम जग्राह नृपसंनिधौ॥ १३॥
+पुत्रं वंशकरं राम जग्राह नृपसन्निधौ॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मुनेस्तु वचनं श्रुत्वा केशिनी रघुनन्दन।  
-पुत्रं वंशकरं राम जग्राह नृपसंनिधौ॥ १३॥
+पुत्रं वंशकरं राम जग्राह नृपसन्निधौ॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -363,13 +360,13 @@ title_english = "038 Legend of emperor sagara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य पुत्रोंऽशुमान् नाम असमञ्जस्य वीर्यवान्॥ २२॥  
+तस्य पुत्रोऽंशुमान् नाम असमञ्जस्य वीर्यवान्॥ २२॥  
 सम्मतः सर्वलोकस्य सर्वस्यापि प्रियंवदः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्य पुत्रोंऽशुमान् नाम असमञ्जस्य वीर्यवान्॥ २२॥  
+तस्य पुत्रोऽंशुमान् नाम असमञ्जस्य वीर्यवान्॥ २२॥  
 सम्मतः सर्वलोकस्य सर्वस्यापि प्रियंवदः।
 </details>
 
@@ -417,3 +414,4 @@ title_english = "038 Legend of emperor sagara"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टात्रिंशः सर्गः॥ ३८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें अड़तीसवाँ सर्ग पूरा हुआ॥ ३८॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "018 Lakshmana punishes Surpanakha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-018-Shoorpanakha_Shasanam_.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-018-Shoorpanakha_Shasanam_.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -196,13 +193,13 @@ title_english = "018 Lakshmana punishes Surpanakha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-को हि रूपमिदं श्रेष्ठं संत्यज्य वरवर्णिनि।  
+को हि रूपमिदं श्रेष्ठं सन्त्यज्य वरवर्णिनि।  
 मानुषीषु वरारोहे कुर्याद् भावं विचक्षणः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-को हि रूपमिदं श्रेष्ठं संत्यज्य वरवर्णिनि।  
+को हि रूपमिदं श्रेष्ठं सन्त्यज्य वरवर्णिनि।  
 मानुषीषु वरारोहे कुर्याद् भावं विचक्षणः॥ १२॥
 </details>
 
@@ -230,13 +227,13 @@ title_english = "018 Lakshmana punishes Surpanakha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा रामं पर्णशालायामुपविष्टं परंतपम्।  
+सा रामं पर्णशालायामुपविष्टं परन्तपम्।  
 सीतया सह दुर्धर्षमब्रवीत् काममोहिता॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सा रामं पर्णशालायामुपविष्टं परंतपम्।  
+सा रामं पर्णशालायामुपविष्टं परन्तपम्।  
 सीतया सह दुर्धर्षमब्रवीत् काममोहिता॥ १४॥
 </details>
 
@@ -282,13 +279,13 @@ title_english = "018 Lakshmana punishes Surpanakha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मृगशावाक्षीमलातसदृशेक्षणा।  
-अभ्यगच्छत् सुसंक्रुद्धा महोल्का रोहिणीमिव॥ १७॥
+अभ्यगच्छत् सुसङ्क्रुद्धा महोल्का रोहिणीमिव॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इत्युक्त्वा मृगशावाक्षीमलातसदृशेक्षणा।  
-अभ्यगच्छत् सुसंक्रुद्धा महोल्का रोहिणीमिव॥ १७॥
+अभ्यगच्छत् सुसङ्क्रुद्धा महोल्का रोहिणीमिव॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -315,14 +312,14 @@ title_english = "018 Lakshmana punishes Surpanakha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्रूरैरनार्यैः सौमित्रे परिहासः कथंचन।  
-न कार्यः पश्य वैदेहीं कथंचित् सौम्य जीवतीम्॥ १९॥
+क्रूरैरनार्यैः सौमित्रे परिहासः कथञ्चन।  
+न कार्यः पश्य वैदेहीं कथञ्चित् सौम्य जीवतीम्॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-क्रूरैरनार्यैः सौमित्रे परिहासः कथंचन।  
-न कार्यः पश्य वैदेहीं कथंचित् सौम्य जीवतीम्॥ १९॥
+क्रूरैरनार्यैः सौमित्रे परिहासः कथञ्चन।  
+न कार्यः पश्य वैदेहीं कथञ्चित् सौम्य जीवतीम्॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -462,3 +459,4 @@ title_english = "018 Lakshmana punishes Surpanakha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डेऽष्टादशः सर्गः॥ १८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें अठारहवाँ सर्ग पूरा हुआ॥ १८॥
 </details>
+

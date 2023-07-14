@@ -4,11 +4,8 @@ title_english = "113 Keeping Rama s sandals on his head Bharata ascends his char
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-113-Bharathasya_Prathi_Nivartham.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-113-Bharathasya_Prathi_Nivartham.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -379,13 +376,13 @@ title_english = "113 Keeping Rama s sandals on his head Bharata ascends his char
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तां रम्यजलसम्पूर्णां संतीर्य सहबान्धवः।  
+तां रम्यजलसम्पूर्णां सन्तीर्य सहबान्धवः।  
 शृङ्गवेरपुरं रम्यं प्रविवेश ससैनिकः॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तां रम्यजलसम्पूर्णां संतीर्य सहबान्धवः।  
+तां रम्यजलसम्पूर्णां सन्तीर्य सहबान्धवः।  
 शृङ्गवेरपुरं रम्यं प्रविवेश ससैनिकः॥ २२॥
 </details>
 
@@ -396,16 +393,16 @@ title_english = "113 Keeping Rama s sandals on his head Bharata ascends his char
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शृङ्गवेरपुराद् भूय अयोध्यां संददर्श ह।  
+शृङ्गवेरपुराद् भूय अयोध्यां सन्ददर्श ह।  
 अयोध्यां तु तदा दृष्ट्वा पित्रा भ्रात्रा विवर्जिताम्॥ २३॥  
-भरतो दुःखसंतप्तः सारथिं चेदमब्रवीत्।
+भरतो दुःखसन्तप्तः सारथिं चेदमब्रवीत्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-शृङ्गवेरपुराद् भूय अयोध्यां संददर्श ह।  
+शृङ्गवेरपुराद् भूय अयोध्यां सन्ददर्श ह।  
 अयोध्यां तु तदा दृष्ट्वा पित्रा भ्रात्रा विवर्जिताम्॥ २३॥  
-भरतो दुःखसंतप्तः सारथिं चेदमब्रवीत्।
+भरतो दुःखसन्तप्तः सारथिं चेदमब्रवीत्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -435,3 +432,4 @@ title_english = "113 Keeping Rama s sandals on his head Bharata ascends his char
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्रयोदशाधिकशततमः सर्गः॥ ११३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ तेरहवाँ सर्ग पूरा हुआ॥ ११३॥
 </details>
+

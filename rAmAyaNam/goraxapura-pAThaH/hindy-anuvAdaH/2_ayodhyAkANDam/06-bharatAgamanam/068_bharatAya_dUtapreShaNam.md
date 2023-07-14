@@ -4,11 +4,8 @@ title_english = "068 Vasishta instructs messengers to call Bharata and Satrughna
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-068-Bharathaya_dutha_Preshanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-068-Bharathaya_dutha_Preshanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -188,13 +185,13 @@ title_english = "068 Vasishta instructs messengers to call Bharata and Satrughna
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रास्थानिकं कृत्वा कार्यशेषमनन्तरम्।  
-वसिष्ठेनाभ्यनुज्ञाता दूताः संत्वरितं ययुः॥ ११॥
+वसिष्ठेनाभ्यनुज्ञाता दूताः सन्त्वरितं ययुः॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः प्रास्थानिकं कृत्वा कार्यशेषमनन्तरम्।  
-वसिष्ठेनाभ्यनुज्ञाता दूताः संत्वरितं ययुः॥ ११॥
+वसिष्ठेनाभ्यनुज्ञाता दूताः सन्त्वरितं ययुः॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -385,3 +382,4 @@ title_english = "068 Vasishta instructs messengers to call Bharata and Satrughna
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डेऽष्टषष्टितमः सर्गः॥ ६८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें अरसठवाँ सर्ग पूरा हुआ॥ ६८॥
 </details>
+

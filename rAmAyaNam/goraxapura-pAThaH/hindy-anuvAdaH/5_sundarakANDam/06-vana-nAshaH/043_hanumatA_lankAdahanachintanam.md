@@ -4,11 +4,8 @@ title_english = "043 Hanuma thinks of destroying a sacred sanctuary of demons"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-043-Hanuma_thinks_of_destroying_a_sacred_sanctuary_of_demons.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-043-Hanuma_thinks_of_destroying_a_sacred_sanctuary_of_demons.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "043 Hanuma thinks of destroying a sacred sanctuary of demons"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः स किंकरान् हत्वा हनूमान् ध्यानमास्थितः।  
+ततः स किङ्करान् हत्वा हनूमान् ध्यानमास्थितः।  
 वनं भग्नं मया चैत्यप्रासादो न विनाशितः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः स किंकरान् हत्वा हनूमान् ध्यानमास्थितः।  
+ततः स किङ्करान् हत्वा हनूमान् ध्यानमास्थितः।  
 वनं भग्नं मया चैत्यप्रासादो न विनाशितः॥ १॥
 </details>
 
@@ -40,7 +37,7 @@ title_english = "043 Hanuma thinks of destroying a sacred sanctuary of demons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् प्रासादमद्यैवमिमं विध्वंसयाम्यहम्।  
-इति संचिन्त्य हनुमान् मनसादर्शयन् बलम्॥ २॥  
+इति सञ्चिन्त्य हनुमान् मनसादर्शयन् बलम्॥ २॥  
 चैत्यप्रासादमुत्प्लुत्य मेरुशृङ्गमिवोन्नतम्।  
 आरुरोह हरिश्रेष्ठो हनूमान् मारुतात्मजः॥ ३॥
 </details>
@@ -48,7 +45,7 @@ title_english = "043 Hanuma thinks of destroying a sacred sanctuary of demons"
 <details><summary>मूलम्</summary>
 
 तस्मात् प्रासादमद्यैवमिमं विध्वंसयाम्यहम्।  
-इति संचिन्त्य हनुमान् मनसादर्शयन् बलम्॥ २॥  
+इति सञ्चिन्त्य हनुमान् मनसादर्शयन् बलम्॥ २॥  
 चैत्यप्रासादमुत्प्लुत्य मेरुशृङ्गमिवोन्नतम्।  
 आरुरोह हरिश्रेष्ठो हनूमान् मारुतात्मजः॥ ३॥
 </details>
@@ -60,13 +57,13 @@ title_english = "043 Hanuma thinks of destroying a sacred sanctuary of demons"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आरुह्य गिरिसंकाशं प्रासादं हरियूथपः।  
+आरुह्य गिरिसङ्काशं प्रासादं हरियूथपः।  
 बभौ स सुमहातेजाः प्रतिसूर्य इवोदितः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-आरुह्य गिरिसंकाशं प्रासादं हरियूथपः।  
+आरुह्य गिरिसङ्काशं प्रासादं हरियूथपः।  
 बभौ स सुमहातेजाः प्रतिसूर्य इवोदितः॥ ४॥
 </details>
 
@@ -112,13 +109,13 @@ title_english = "043 Hanuma thinks of destroying a sacred sanctuary of demons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यास्फोटितशब्देन महता श्रोत्रघातिना।  
-पेतुर्विहंगमास्तत्र चैत्यपालाश्च मोहिताः॥ ७॥
+पेतुर्विहङ्गमास्तत्र चैत्यपालाश्च मोहिताः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्यास्फोटितशब्देन महता श्रोत्रघातिना।  
-पेतुर्विहंगमास्तत्र चैत्यपालाश्च मोहिताः॥ ७॥
+पेतुर्विहङ्गमास्तत्र चैत्यपालाश्च मोहिताः॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -193,14 +190,14 @@ title_english = "043 Hanuma thinks of destroying a sacred sanctuary of demons"
 
 विसृजन्तो महाकाया मारुतिं पर्यवारयन्।  
 ते गदाभिर्विचित्राभिः परिघैः काञ्चनाङ्गदैः॥ १४॥  
-आजग्मुर्वानरश्रेष्ठं बाणैश्चादित्यसंनिभैः।
+आजग्मुर्वानरश्रेष्ठं बाणैश्चादित्यसन्निभैः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 विसृजन्तो महाकाया मारुतिं पर्यवारयन्।  
 ते गदाभिर्विचित्राभिः परिघैः काञ्चनाङ्गदैः॥ १४॥  
-आजग्मुर्वानरश्रेष्ठं बाणैश्चादित्यसंनिभैः।
+आजग्मुर्वानरश्रेष्ठं बाणैश्चादित्यसन्निभैः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -361,3 +358,4 @@ title_english = "043 Hanuma thinks of destroying a sacred sanctuary of demons"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे त्रिचत्वारिंशः सर्गः॥ ४३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें तैंतालीसवाँ सर्ग पूरा हुआ॥ ४३॥
 </details>
+

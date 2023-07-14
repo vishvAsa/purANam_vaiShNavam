@@ -4,11 +4,8 @@ title_english = "019 Seetha in Ashoka garden"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-019-Seetha_in_Ashoka_garden.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-019-Seetha_in_Ashoka_garden.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -76,13 +73,13 @@ title_english = "019 Seetha in Ashoka garden"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मलमण्डनदिग्धांगीं मण्डनार्हाममण्डनाम्।  
+मलमण्डनदिग्धाङ्गीं मण्डनार्हाममण्डनाम्।  
 मृणाली पङ्कदिग्धेव विभाति न विभाति च॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मलमण्डनदिग्धांगीं मण्डनार्हाममण्डनाम्।  
+मलमण्डनदिग्धाङ्गीं मण्डनार्हाममण्डनाम्।  
 मृणाली पङ्कदिग्धेव विभाति न विभाति च॥ ६॥
 </details>
 
@@ -94,13 +91,13 @@ title_english = "019 Seetha in Ashoka garden"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 समीपं राजसिंहस्य रामस्य विदितात्मनः।  
-संकल्पहयसंयुक्तैर्यान्तीमिव मनोरथैः॥ ७॥
+सङ्कल्पहयसंयुक्तैर्यान्तीमिव मनोरथैः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 समीपं राजसिंहस्य रामस्य विदितात्मनः।  
-संकल्पहयसंयुक्तैर्यान्तीमिव मनोरथैः॥ ७॥
+सङ्कल्पहयसंयुक्तैर्यान्तीमिव मनोरथैः॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -190,13 +187,13 @@ title_english = "019 Seetha in Ashoka garden"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उत्कृष्टपर्णकमलां वित्रासितविहंगमाम्।  
+उत्कृष्टपर्णकमलां वित्रासितविहङ्गमाम्।  
 हस्तिहस्तपरामृष्टामाकुलामिव पद्मिनीम्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उत्कृष्टपर्णकमलां वित्रासितविहंगमाम्।  
+उत्कृष्टपर्णकमलां वित्रासितविहङ्गमाम्।  
 हस्तिहस्तपरामृष्टामाकुलामिव पद्मिनीम्॥ १५॥
 </details>
 
@@ -224,13 +221,13 @@ title_english = "019 Seetha in Ashoka garden"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुकुमारीं सुजातांगीं रत्नगर्भगृहोचिताम्।  
+सुकुमारीं सुजाताङ्गीं रत्नगर्भगृहोचिताम्।  
 तप्यमानामिवोष्णेन मृणालीमचिरोद‍्धृताम्॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सुकुमारीं सुजातांगीं रत्नगर्भगृहोचिताम्।  
+सुकुमारीं सुजाताङ्गीं रत्नगर्भगृहोचिताम्।  
 तप्यमानामिवोष्णेन मृणालीमचिरोद‍्धृताम्॥ १७॥
 </details>
 
@@ -333,3 +330,4 @@ title_english = "019 Seetha in Ashoka garden"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे एकोनविंशः सर्गः॥ १९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें उन्नीसवाँ सर्ग पूरा हुआ॥ १९॥
 </details>
+

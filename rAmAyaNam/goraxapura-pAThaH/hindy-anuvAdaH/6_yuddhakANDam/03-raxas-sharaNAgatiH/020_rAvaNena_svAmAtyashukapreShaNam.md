@@ -4,11 +4,8 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-020-Ravana_sends_Shuka_to_Sugreeva_as_an_ambassador.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-020-Ravana_sends_Shuka_to_Sugreeva_as_an_ambassador.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -74,14 +71,14 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतौ सागरमासाद्य संनिविष्टौ महाद्युते॥ ५॥  
+एतौ सागरमासाद्य सन्निविष्टौ महाद्युते॥ ५॥  
 बलं चाकाशमावृत्य सर्वतो दशयोजनम्।  
 तत्त्वभूतं महाराज क्षिप्रं वेदितुमर्हसि॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एतौ सागरमासाद्य संनिविष्टौ महाद्युते॥ ५॥  
+एतौ सागरमासाद्य सन्निविष्टौ महाद्युते॥ ५॥  
 बलं चाकाशमावृत्य सर्वतो दशयोजनम्।  
 तत्त्वभूतं महाराज क्षिप्रं वेदितुमर्हसि॥ ६॥
 </details>
@@ -130,13 +127,13 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुग्रीवं ब्रूहि गत्वाऽऽशु राजानं वचनान्मम।  
-यथासंदेशमक्लीबं श्लक्ष्णया परया गिरा॥ ९॥
+यथासन्देशमक्लीबं श्लक्ष्णया परया गिरा॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सुग्रीवं ब्रूहि गत्वाऽऽशु राजानं वचनान्मम।  
-यथासंदेशमक्लीबं श्लक्ष्णया परया गिरा॥ ९॥
+यथासन्देशमक्लीबं श्लक्ष्णया परया गिरा॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -184,13 +181,13 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नहीयं हरिभिर्लङ्का प्राप्तुं शक्या कथंचन।  
+नहीयं हरिभिर्लङ्का प्राप्तुं शक्या कथञ्चन।  
 देवैरपि सगन्धर्वैः किं पुनर्नरवानरैः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नहीयं हरिभिर्लङ्का प्राप्तुं शक्या कथंचन।  
+नहीयं हरिभिर्लङ्का प्राप्तुं शक्या कथञ्चन।  
 देवैरपि सगन्धर्वैः किं पुनर्नरवानरैः॥ १२॥
 </details>
 
@@ -201,14 +198,14 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स तदा राक्षसेन्द्रेण संदिष्टो रजनीचरः।  
-शुको विहंगमो भूत्वा तूर्णमाप्लुत्य चाम्बरम्॥ १३॥
+स तदा राक्षसेन्द्रेण सन्दिष्टो रजनीचरः।  
+शुको विहङ्गमो भूत्वा तूर्णमाप्लुत्य चाम्बरम्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स तदा राक्षसेन्द्रेण संदिष्टो रजनीचरः।  
-शुको विहंगमो भूत्वा तूर्णमाप्लुत्य चाम्बरम्॥ १३॥
+स तदा राक्षसेन्द्रेण सन्दिष्टो रजनीचरः।  
+शुको विहङ्गमो भूत्वा तूर्णमाप्लुत्य चाम्बरम्॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -254,13 +251,13 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वैः प्लवंगैः प्रसभं निगृहीतो निशाचरः॥ १६॥  
+सर्वैः प्लवङ्गैः प्रसभं निगृहीतो निशाचरः॥ १६॥  
 गगनाद् भूतले चाशु प्रतिगृह्यावतारितः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-सर्वैः प्लवंगैः प्रसभं निगृहीतो निशाचरः॥ १६॥  
+सर्वैः प्लवङ्गैः प्रसभं निगृहीतो निशाचरः॥ १६॥  
 गगनाद् भूतले चाशु प्रतिगृह्यावतारितः।
 </details>
 
@@ -344,7 +341,7 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एवमुक्तः प्लवगाधिपस्तदा  
-प्लवंगमानामृषभो महाबलः।  
+प्लवङ्गमानामृषभो महाबलः।  
 उवाच वाक्यं रजनीचरस्य  
 चारं शुकं शुद्धमदीनसत्त्वः॥ २२॥
 </details>
@@ -352,7 +349,7 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 <details><summary>मूलम्</summary>
 
 स एवमुक्तः प्लवगाधिपस्तदा  
-प्लवंगमानामृषभो महाबलः।  
+प्लवङ्गमानामृषभो महाबलः।  
 उवाच वाक्यं रजनीचरस्य  
 चारं शुकं शुद्धमदीनसत्त्वः॥ २२॥
 </details>
@@ -410,7 +407,7 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 सुरैः सहेन्द्रैरपि मूढ गुप्तः।  
 अन्तर्हितः सूर्यपथं गतोऽपि  
 तथैव पातालमनुप्रविष्टः।  
-गिरीशपादाम्बुजसंगतो वा  
+गिरीशपादाम्बुजसङ्गतो वा  
 हतोऽसि रामेण सहानुजस्त्वम्॥ २५॥
 </details>
 
@@ -420,7 +417,7 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 सुरैः सहेन्द्रैरपि मूढ गुप्तः।  
 अन्तर्हितः सूर्यपथं गतोऽपि  
 तथैव पातालमनुप्रविष्टः।  
-गिरीशपादाम्बुजसंगतो वा  
+गिरीशपादाम्बुजसङ्गतो वा  
 हतोऽसि रामेण सहानुजस्त्वम्॥ २५॥
 </details>
 
@@ -449,14 +446,14 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवधीस्त्वं जरावृद्धं गृध्रराजं जटायुषम्।  
-किं नु ते रामसांनिध्ये सकाशे लक्ष्मणस्य च।  
+किं नु ते रामसान्निध्ये सकाशे लक्ष्मणस्य च।  
 हृता सीता विशालाक्षी यां त्वं गृह्य न बुध्यसे॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अवधीस्त्वं जरावृद्धं गृध्रराजं जटायुषम्।  
-किं नु ते रामसांनिध्ये सकाशे लक्ष्मणस्य च।  
+किं नु ते रामसान्निध्ये सकाशे लक्ष्मणस्य च।  
 हृता सीता विशालाक्षी यां त्वं गृह्य न बुध्यसे॥ २७॥
 </details>
 
@@ -567,3 +564,4 @@ title_english = "020 Ravana sends Shuka to Sugreeva as an ambassador"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे विंशः सर्गः॥ २०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें बीसवाँ सर्ग पूरा हुआ॥ २०॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "069 Bharata experiences a bad dream"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-069-Bharathena_Duswapna_Darshanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-069-Bharathena_Duswapna_Darshanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -335,7 +332,7 @@ title_english = "069 Bharata experiences a bad dream"
 
 इमां च दुःस्वप्नगतिं निशम्य हि  
 त्वनेकरूपामवितर्कितां पुरा।  
-भयं महत्  तुद् हृदयान्न याति मे  
+भयं महत् तुद् हृदयान्न याति मे  
 विचिन्त्य राजानमचिन्त्यदर्शनम्॥ २१॥
 </details>
 
@@ -343,7 +340,7 @@ title_english = "069 Bharata experiences a bad dream"
 
 इमां च दुःस्वप्नगतिं निशम्य हि  
 त्वनेकरूपामवितर्कितां पुरा।  
-भयं महत्  तुद् हृदयान्न याति मे  
+भयं महत् तुद् हृदयान्न याति मे  
 विचिन्त्य राजानमचिन्त्यदर्शनम्॥ २१॥
 </details>
 
@@ -357,3 +354,4 @@ title_english = "069 Bharata experiences a bad dream"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकोनसप्ततितमः सर्गः॥ ६९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें उनहत्तरवाँ सर्ग पूरा हुआ॥ ६९॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-036-Sidhdhardasya_Kaikeyyupadeshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-036-Sidhdhardasya_Kaikeyyupadeshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -152,14 +149,14 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 
 **यजन्** पुण्येषु देशेषु  
 **विसृजंश्** चाप्तदक्षिणाः।  
-ऋषिभिश् चापि **संगम्य**  
+ऋषिभिश् चापि **सङ्गम्य**  
 **प्रवत्स्यति** सुखं वने॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यजन् पुण्येषु देशेषु विसृजंश्चाप्तदक्षिणाः।  
-ऋषिभिश्चापि संगम्य प्रवत्स्यति सुखं वने॥ ८॥
+ऋषिभिश्चापि सङ्गम्य प्रवत्स्यति सुखं वने॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -207,7 +204,7 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा विषण्णा च संत्रस्ता  
+सा विषण्णा च सन्त्रस्ता  
 मुखेन परिशुष्यता।  
 राजानम् एवाभिमुखी  
 कैकेयी वाक्यम् **अब्रवीत्**॥ ११॥
@@ -215,7 +212,7 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 
 <details><summary>मूलम्</summary>
 
-सा विषण्णा च संत्रस्ता मुखेन परिशुष्यता।  
+सा विषण्णा च सन्त्रस्ता मुखेन परिशुष्यता।  
 राजानमेवाभिमुखी कैकेयी वाक्यमब्रवीत्॥ ११॥
 </details>
 
@@ -398,14 +395,14 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् **उवाच** ततो राजा  
-किंनिमित्तम् इदं भयम्।  
+किन्निमित्तम् इदं भयम्।  
 ताश्चापि राज्ञा सम्पृष्टा  
 वाक्यं प्रकृतयो **ऽब्रुवन्**॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तानुवाच ततो राजा किंनिमित्तमिदं भयम्।  
+तानुवाच ततो राजा किन्निमित्तमिदं भयम्।  
 ताश्चापि राज्ञा सम्पृष्टा वाक्यं प्रकृतयोऽब्रुवन्॥ २१॥
 </details>
 
@@ -498,7 +495,7 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नहि कंचन **पश्यामो**  
+नहि कञ्चन **पश्यामो**  
 राघवस्यागुणं वयम्।  
 **दुर्लभो** ह्य् अस्य **निरयः**  
 शशाङ्कस्येव कल्मषम्॥ २७॥
@@ -506,7 +503,7 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 
 <details><summary>मूलम्</summary>
 
-नहि कंचन पश्यामो राघवस्यागुणं वयम्।  
+नहि कञ्चन पश्यामो राघवस्यागुणं वयम्।  
 दुर्लभो ह्यस्य निरयः शशाङ्कस्येव कल्मषम्॥ २७॥
 </details>
 
@@ -517,7 +514,7 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथवा देवि त्वं कंचिद्  
+अथवा देवि त्वं कञ्चिद्  
 **दोषं पश्यसि** राघवे।  
 तमद्य **ब्रूहि** तत्त्वेन  
 तदा रामो **विवास्यते**॥ २८॥
@@ -525,7 +522,7 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 
 <details><summary>मूलम्</summary>
 
-अथवा देवि त्वं कंचिद् दोषं पश्यसि राघवे।  
+अथवा देवि त्वं कञ्चिद् दोषं पश्यसि राघवे।  
 तमद्य ब्रूहि तत्त्वेन तदा रामो विवास्यते॥ २८॥
 </details>
 
@@ -536,7 +533,7 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदुष्टस्य हि **संत्यागः**  
+अदुष्टस्य हि **सन्त्यागः**  
 सत्पथे निरतस्य च।  
 **निर्दहेद्** अपि शक्रस्य  
 द्युतिं धर्मविरोधवान्॥ २९॥
@@ -544,7 +541,7 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 
 <details><summary>मूलम्</summary>
 
-अदुष्टस्य हि संत्यागः सत्पथे निरतस्य च।  
+अदुष्टस्य हि सन्त्यागः सत्पथे निरतस्य च।  
 निर्दहेदपि शक्रस्य द्युतिं धर्मविरोधवान्॥ २९॥
 </details>
 
@@ -638,3 +635,4 @@ title_english = "036 Siddhartha tries to persuade Kaikeyi"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे षट‍‍्त्रिंशः सर्गः॥ ३६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें छत्तीसवाँ सर्ग पूरा हुआ॥ ३६॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "060 Jambavan s wise guidelines"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-059-Hanuma_describes_the_plight_of_Seetha_to_his_fellow_monkeys.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-059-Hanuma_describes_the_plight_of_Seetha_to_his_fellow_monkeys.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "060 Jambavan s wise guidelines"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा वालिसूनुरभाषत।  
-अश्विपुत्रौ महावेगौ बलवन्तौ प्लवंगमौ॥ १॥
+अश्विपुत्रौ महावेगौ बलवन्तौ प्लवङ्गमौ॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्य तद् वचनं श्रुत्वा वालिसूनुरभाषत।  
-अश्विपुत्रौ महावेगौ बलवन्तौ प्लवंगमौ॥ १॥
+अश्विपुत्रौ महावेगौ बलवन्तौ प्लवङ्गमौ॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -57,13 +54,13 @@ title_english = "060 Jambavan s wise guidelines"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतावेव हि संक्रुद्धौ सवाजिरथकुञ्जराम्॥ ४॥  
+एतावेव हि सङ्क्रुद्धौ सवाजिरथकुञ्जराम्॥ ४॥  
 लङ्कां नाशयितुं शक्तौ सर्वे तिष्ठन्तु वानराः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-एतावेव हि संक्रुद्धौ सवाजिरथकुञ्जराम्॥ ४॥  
+एतावेव हि सङ्क्रुद्धौ सवाजिरथकुञ्जराम्॥ ४॥  
 लङ्कां नाशयितुं शक्तौ सर्वे तिष्ठन्तु वानराः।
 </details>
 
@@ -186,13 +183,13 @@ title_english = "060 Jambavan s wise guidelines"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमेवं कृतसंकल्पं जाम्बवान् हरिसत्तमः।  
+तमेवं कृतसङ्कल्पं जाम्बवान् हरिसत्तमः।  
 उवाच परमप्रीतो वाक्यमर्थवदर्थवित्॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तमेवं कृतसंकल्पं जाम्बवान् हरिसत्तमः।  
+तमेवं कृतसङ्कल्पं जाम्बवान् हरिसत्तमः।  
 उवाच परमप्रीतो वाक्यमर्थवदर्थवित्॥ १४॥
 </details>
 
@@ -222,13 +219,13 @@ title_english = "060 Jambavan s wise guidelines"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथंचिन्निर्जितां सीतामस्माभिर्नाभिरोचयेत्॥ १६॥  
+कथञ्चिन्निर्जितां सीतामस्माभिर्नाभिरोचयेत्॥ १६॥  
 राघवो नृपशार्दूलः कुलं व्यपदिशन् स्वकम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथंचिन्निर्जितां सीतामस्माभिर्नाभिरोचयेत्॥ १६॥  
+कथञ्चिन्निर्जितां सीतामस्माभिर्नाभिरोचयेत्॥ १६॥  
 राघवो नृपशार्दूलः कुलं व्यपदिशन् स्वकम्।
 </details>
 
@@ -314,3 +311,4 @@ title_english = "060 Jambavan s wise guidelines"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे षष्टितमः सर्गः॥ ६०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें साठवाँ सर्ग पूरा हुआ॥ ६०॥
 </details>
+

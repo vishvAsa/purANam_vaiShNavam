@@ -4,11 +4,8 @@ title_english = "069 dasharatha arrives at mithila"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-069-Janaka_Dasharatha_Samvadhaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-069-Janaka_Dasharatha_Samvadhaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,13 +48,13 @@ title_english = "069 dasharatha arrives at mithila"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चतुरंगबलं चापि शीघ्रं निर्यातु सर्वशः।  
+चतुरङ्गबलं चापि शीघ्रं निर्यातु सर्वशः।  
 ममाज्ञासमकालं च यानं युग्यमनुत्तमम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-चतुरंगबलं चापि शीघ्रं निर्यातु सर्वशः।  
+चतुरङ्गबलं चापि शीघ्रं निर्यातु सर्वशः।  
 ममाज्ञासमकालं च यानं युग्यमनुत्तमम्॥ ३॥
 </details>
 
@@ -89,13 +86,13 @@ title_english = "069 dasharatha arrives at mithila"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वचनाच्च नरेन्द्रस्य सेना च चतुरंगिणी।  
+वचनाच्च नरेन्द्रस्य सेना च चतुरङ्गिणी।  
 राजानमृषिभिः सार्धं व्रजन्तं पृष्ठतोऽन्वयात्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वचनाच्च नरेन्द्रस्य सेना च चतुरंगिणी।  
+वचनाच्च नरेन्द्रस्य सेना च चतुरङ्गिणी।  
 राजानमृषिभिः सार्धं व्रजन्तं पृष्ठतोऽन्वयात्॥ ६॥
 </details>
 
@@ -332,3 +329,4 @@ title_english = "069 dasharatha arrives at mithila"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकोनसप्ततितमः सर्गः॥ ६९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें उनहत्तरवाँ सर्ग पूरा हुआ॥ ६९॥
 </details>
+

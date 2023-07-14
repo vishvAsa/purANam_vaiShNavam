@@ -4,11 +4,8 @@ title_english = "080 Construction of a high way from Ayodhya to River Ganga"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-080-Marga_Nirmanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-080-Marga_Nirmanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -131,13 +128,13 @@ title_english = "080 Construction of a high way from Ayodhya to River Ganga"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बबन्धुर्बन्धनीयांश्च क्षोद्यान् संचुक्षुदुस्तथा।  
+बबन्धुर्बन्धनीयांश्च क्षोद्यान् सञ्चुक्षुदुस्तथा।  
 बिभिदुर्भेदनीयांश्च तांस्तान् देशान् नरास्तदा॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-बबन्धुर्बन्धनीयांश्च क्षोद्यान् संचुक्षुदुस्तथा।  
+बबन्धुर्बन्धनीयांश्च क्षोद्यान् सञ्चुक्षुदुस्तथा।  
 बिभिदुर्भेदनीयांश्च तांस्तान् देशान् नरास्तदा॥ १०॥
 </details>
 
@@ -183,7 +180,7 @@ title_english = "080 Construction of a high way from Ayodhya to River Ganga"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ससुधाकुट्टिमतलः प्रपुष्पितमहीरुहः।  
-मत्तोद‍्घुष्टद्विजगणः पताकाभिरलंकृतः॥ १३॥  
+मत्तोद‍्घुष्टद्विजगणः पताकाभिरलङ्कृतः॥ १३॥  
 चन्दनोदकसंसिक्तो नानाकुसुमभूषितः।  
 बह्वशोभत सेनायाः पन्थाः सुरपथोपमः॥ १४॥
 </details>
@@ -191,7 +188,7 @@ title_english = "080 Construction of a high way from Ayodhya to River Ganga"
 <details><summary>मूलम्</summary>
 
 ससुधाकुट्टिमतलः प्रपुष्पितमहीरुहः।  
-मत्तोद‍्घुष्टद्विजगणः पताकाभिरलंकृतः॥ १३॥  
+मत्तोद‍्घुष्टद्विजगणः पताकाभिरलङ्कृतः॥ १३॥  
 चन्दनोदकसंसिक्तो नानाकुसुमभूषितः।  
 बह्वशोभत सेनायाः पन्थाः सुरपथोपमः॥ १४॥
 </details>
@@ -294,3 +291,4 @@ title_english = "080 Construction of a high way from Ayodhya to River Ganga"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डेऽशीतितमः सर्गः॥ ८०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें अस्सीवाँ सर्ग पूरा हुआ॥ ८०॥
 </details>
+

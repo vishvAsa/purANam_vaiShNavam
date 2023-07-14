@@ -4,11 +4,8 @@ title_english = "071 Kabandha requestes for incineration"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-071-Kabandhena_Swa_Vruththantha_Kathanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-071-Kabandhena_Swa_Vruththantha_Kathanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -201,13 +198,13 @@ title_english = "071 Kabandha requestes for incineration"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोऽहं भुजाभ्यां दीर्घाभ्यां संक्षिप्यास्मिन् वनेचरान्॥ १४॥  
+सोऽहं भुजाभ्यां दीर्घाभ्यां सङ्क्षिप्यास्मिन् वनेचरान्॥ १४॥  
 सिंहद्वीपिमृगव्याघ्रान् भक्षयामि समन्ततः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-सोऽहं भुजाभ्यां दीर्घाभ्यां संक्षिप्यास्मिन् वनेचरान्॥ १४॥  
+सोऽहं भुजाभ्यां दीर्घाभ्यां सङ्क्षिप्यास्मिन् वनेचरान्॥ १४॥  
 सिंहद्वीपिमृगव्याघ्रान् भक्षयामि समन्ततः।
 </details>
 
@@ -533,3 +530,4 @@ title_english = "071 Kabandha requestes for incineration"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे एकसप्ततितमः सर्गः॥ ७१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें इकहत्तरवाँ सर्ग पूरा हुआ॥ ७१॥
 </details>
+

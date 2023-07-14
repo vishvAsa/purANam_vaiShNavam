@@ -4,11 +4,8 @@ title_english = "034 Sarama consoles Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-034-Sarama_consoles_Seetha_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-034-Sarama_consoles_Seetha_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "034 Sarama consoles Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ तां जातसंतापां तेन वाक्येन मोहिताम्।  
+अथ तां जातसन्तापां तेन वाक्येन मोहिताम्।  
 सरमा ह्लादयामास महीं दग्धामिवाम्भसा॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथ तां जातसंतापां तेन वाक्येन मोहिताम्।  
+अथ तां जातसन्तापां तेन वाक्येन मोहिताम्।  
 सरमा ह्लादयामास महीं दग्धामिवाम्भसा॥ १॥
 </details>
 
@@ -444,13 +441,13 @@ title_english = "034 Sarama consoles Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निहत्य रावणं संख्ये सर्वथा निशितैः शरैः।  
+निहत्य रावणं सङ्ख्ये सर्वथा निशितैः शरैः।  
 प्रतिनेष्यति रामस्त्वामयोध्यामसितेक्षणे॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-निहत्य रावणं संख्ये सर्वथा निशितैः शरैः।  
+निहत्य रावणं सङ्ख्ये सर्वथा निशितैः शरैः।  
 प्रतिनेष्यति रामस्त्वामयोध्यामसितेक्षणे॥ २६॥
 </details>
 
@@ -502,3 +499,4 @@ title_english = "034 Sarama consoles Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चतुस्त्रिंशः सर्गः॥ ३४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें चौंतीसवाँ सर्ग पूरा हुआ॥ ३४॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "040 Sage kapila burns the sons of sagara"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-040-Sagara_Putra_Vinashaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-040-Sagara_Putra_Vinashaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -19,14 +16,14 @@ title_english = "040 Sage kapila burns the sons of sagara"
 
 देवतानां वचः श्रुत्वा  
 भगवान् वै पितामहः।  
-प्रत्युवाच सुसंत्रस्तान्  
+प्रत्युवाच सुसन्त्रस्तान्  
 कृतान्तबलमोहितान्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 देवतानां वचः श्रुत्वा भगवान् वै पितामहः।  
-प्रत्युवाच सुसंत्रस्तान् कृतान्तबलमोहितान्॥ १॥
+प्रत्युवाच सुसन्त्रस्तान् कृतान्तबलमोहितान्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -74,13 +71,13 @@ title_english = "040 Sage kapila burns the sons of sagara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पितामहवचः श्रुत्वा त्रयस्त्रिंशदरिंदमाः।  
+पितामहवचः श्रुत्वा त्रयस्त्रिंशदरिन्दमाः।  
 देवाः परमसंहृष्टाः पुनर्जग्मुर्यथागतम्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पितामहवचः श्रुत्वा त्रयस्त्रिंशदरिंदमाः।  
+पितामहवचः श्रुत्वा त्रयस्त्रिंशदरिन्दमाः।  
 देवाः परमसंहृष्टाः पुनर्जग्मुर्यथागतम्॥ ५॥
 </details>
 
@@ -442,13 +439,13 @@ title_english = "040 Sage kapila burns the sons of sagara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते तं यज्ञहनं ज्ञात्वा क्रोधपर्याकुलेक्षणाः।  
-खनित्रलांगलधरा नानावृक्षशिलाधराः॥ २७॥
+खनित्रलाङ्गलधरा नानावृक्षशिलाधराः॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ते तं यज्ञहनं ज्ञात्वा क्रोधपर्याकुलेक्षणाः।  
-खनित्रलांगलधरा नानावृक्षशिलाधराः॥ २७॥
+खनित्रलाङ्गलधरा नानावृक्षशिलाधराः॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -458,14 +455,14 @@ title_english = "040 Sage kapila burns the sons of sagara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभ्यधावन्त संक्रुद्धास्तिष्ठ तिष्ठेति चाब्रुवन्।  
+अभ्यधावन्त सङ्क्रुद्धास्तिष्ठ तिष्ठेति चाब्रुवन्।  
 अस्माकं त्वं हि तुरगं यज्ञियं हृतवानसि॥ २८॥  
 दुर्मेधस्त्वं हि सम्प्राप्तान् विद्धि नः सगरात्मजान्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अभ्यधावन्त संक्रुद्धास्तिष्ठ तिष्ठेति चाब्रुवन्।  
+अभ्यधावन्त सङ्क्रुद्धास्तिष्ठ तिष्ठेति चाब्रुवन्।  
 अस्माकं त्वं हि तुरगं यज्ञियं हृतवानसि॥ २८॥  
 दुर्मेधस्त्वं हि सम्प्राप्तान् विद्धि नः सगरात्मजान्।
 </details>
@@ -514,3 +511,4 @@ title_english = "040 Sage kapila burns the sons of sagara"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चत्वारिंशः सर्गः॥ ४०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें चालीसवाँ सर्ग पूरा हुआ॥ ४०॥
 </details>
+

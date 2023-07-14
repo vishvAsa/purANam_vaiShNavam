@@ -4,11 +4,8 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-058-Vibhishana_explains_the_prowess_of_Prahasta_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-058-Vibhishana_explains_the_prowess_of_Prahasta_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रहस्तं निर्यान्तं दृष्ट्वा रणकृतोद्यमम्।  
-उवाच सस्मितं रामो विभीषणमरिंदमः॥ १॥
+उवाच सस्मितं रामो विभीषणमरिन्दमः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः प्रहस्तं निर्यान्तं दृष्ट्वा रणकृतोद्यमम्।  
-उवाच सस्मितं रामो विभीषणमरिंदमः॥ १॥
+उवाच सस्मितं रामो विभीषणमरिन्दमः॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -77,7 +74,7 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 ततः प्रहस्तं निर्यान्तं भीमं भीमपराक्रमम्।  
 गर्जन्तं सुमहाकायं राक्षसैरभिसंवृतम्॥ ५॥  
 ददर्श महती सेना वानराणां बलीयसाम्।  
-अभिसंजातघोषाणां प्रहस्तमभिगर्जताम्॥ ६॥
+अभिसञ्जातघोषाणां प्रहस्तमभिगर्जताम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -85,7 +82,7 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 ततः प्रहस्तं निर्यान्तं भीमं भीमपराक्रमम्।  
 गर्जन्तं सुमहाकायं राक्षसैरभिसंवृतम्॥ ५॥  
 ददर्श महती सेना वानराणां बलीयसाम्।  
-अभिसंजातघोषाणां प्रहस्तमभिगर्जताम्॥ ६॥
+अभिसञ्जातघोषाणां प्रहस्तमभिगर्जताम्॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -117,13 +114,13 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जगृहुः पादपांश्चापि पुष्पितांस्तु गिरींस्तथा।  
-शिलाश्च विपुला दीर्घा योद‍्धुकामाः प्लवंगमाः॥ ९॥
+शिलाश्च विपुला दीर्घा योद‍्धुकामाः प्लवङ्गमाः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 जगृहुः पादपांश्चापि पुष्पितांस्तु गिरींस्तथा।  
-शिलाश्च विपुला दीर्घा योद‍्धुकामाः प्लवंगमाः॥ ९॥
+शिलाश्च विपुला दीर्घा योद‍्धुकामाः प्लवङ्गमाः॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -133,13 +130,13 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषामन्योन्यमासाद्य संग्रामः सुमहानभूत्।  
+तेषामन्योन्यमासाद्य सङ्ग्रामः सुमहानभूत्।  
 बहूनामश्मवृष्टिं च शरवर्षं च वर्षताम्॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तेषामन्योन्यमासाद्य संग्रामः सुमहानभूत्।  
+तेषामन्योन्यमासाद्य सङ्ग्रामः सुमहानभूत्।  
 बहूनामश्मवृष्टिं च शरवर्षं च वर्षताम्॥ १०॥
 </details>
 
@@ -185,13 +182,13 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निरुच्छ्वासाः पुनः केचित् पतिता जगतीतले।  
-विभिन्नहृदयाः केचिदिषुसंधानसाधिताः॥ १३॥
+विभिन्नहृदयाः केचिदिषुसन्धानसाधिताः॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 निरुच्छ्वासाः पुनः केचित् पतिता जगतीतले।  
-विभिन्नहृदयाः केचिदिषुसंधानसाधिताः॥ १३॥
+विभिन्नहृदयाः केचिदिषुसन्धानसाधिताः॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -218,13 +215,13 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वानरैश्चापि संक्रुद्धै राक्षसौघाः समन्ततः।  
+वानरैश्चापि सङ्क्रुद्धै राक्षसौघाः समन्ततः।  
 पादपैर्गिरिशृङ्गैश्च सम्पिष्टा वसुधातले॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वानरैश्चापि संक्रुद्धै राक्षसौघाः समन्ततः।  
+वानरैश्चापि सङ्क्रुद्धै राक्षसौघाः समन्ततः।  
 पादपैर्गिरिशृङ्गैश्च सम्पिष्टा वसुधातले॥ १५॥
 </details>
 
@@ -337,13 +334,13 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जाम्बवांस्तु सुसंक्रुद्धः प्रगृह्य महतीं शिलाम्।  
+जाम्बवांस्तु सुसङ्क्रुद्धः प्रगृह्य महतीं शिलाम्।  
 पातयामास तेजस्वी महानादस्य वक्षसि॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-जाम्बवांस्तु सुसंक्रुद्धः प्रगृह्य महतीं शिलाम्।  
+जाम्बवांस्तु सुसङ्क्रुद्धः प्रगृह्य महतीं शिलाम्।  
 पातयामास तेजस्वी महानादस्य वक्षसि॥ २२॥
 </details>
 
@@ -355,13 +352,13 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ कुम्भहनुस्तत्र तारेणासाद्य वीर्यवान्।  
-वृक्षेण महता सद्यः प्राणान् संत्याजयद् रणे॥ २३॥
+वृक्षेण महता सद्यः प्राणान् सन्त्याजयद् रणे॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथ कुम्भहनुस्तत्र तारेणासाद्य वीर्यवान्।  
-वृक्षेण महता सद्यः प्राणान् संत्याजयद् रणे॥ २३॥
+वृक्षेण महता सद्यः प्राणान् सन्त्याजयद् रणे॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -388,13 +385,13 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आवर्त इव संजज्ञे सेनयोरुभयोस्तदा।  
+आवर्त इव सञ्जज्ञे सेनयोरुभयोस्तदा।  
 क्षुभितस्याप्रमेयस्य सागरस्येव निःस्वनः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-आवर्त इव संजज्ञे सेनयोरुभयोस्तदा।  
+आवर्त इव सञ्जज्ञे सेनयोरुभयोस्तदा।  
 क्षुभितस्याप्रमेयस्य सागरस्येव निःस्वनः॥ २५॥
 </details>
 
@@ -406,13 +403,13 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महता हि शरौघेण राक्षसो रणदुर्मदः।  
-अर्दयामास संक्रुद्धो वानरान् परमाहवे॥ २६॥
+अर्दयामास सङ्क्रुद्धो वानरान् परमाहवे॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 महता हि शरौघेण राक्षसो रणदुर्मदः।  
-अर्दयामास संक्रुद्धो वानरान् परमाहवे॥ २६॥
+अर्दयामास सङ्क्रुद्धो वानरान् परमाहवे॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -440,13 +437,13 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा मही रुधिरौघेण प्रच्छन्ना सम्प्रकाशते।  
-संछन्ना माधवे मासि पलाशैरिव पुष्पितैः॥ २८॥
+सञ्छन्ना माधवे मासि पलाशैरिव पुष्पितैः॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा मही रुधिरौघेण प्रच्छन्ना सम्प्रकाशते।  
-संछन्ना माधवे मासि पलाशैरिव पुष्पितैः॥ २८॥
+सञ्छन्ना माधवे मासि पलाशैरिव पुष्पितैः॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -490,13 +487,13 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सृजन्तं बाणौघान् प्रहस्तं स्यन्दने स्थितम्।  
-ददर्श तरसा नीलो विधमन्तं प्लवंगमान्॥ ३४॥
+ददर्श तरसा नीलो विधमन्तं प्लवङ्गमान्॥ ३४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः सृजन्तं बाणौघान् प्रहस्तं स्यन्दने स्थितम्।  
-ददर्श तरसा नीलो विधमन्तं प्लवंगमान्॥ ३४॥
+ददर्श तरसा नीलो विधमन्तं प्लवङ्गमान्॥ ३४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -578,14 +575,14 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स तेनाभिहतः क्रुद्धो नर्दन् राक्षसपुंगवः।  
-ववर्ष शरवर्षाणि प्लवंगानां चमूपतौ॥ ४०॥
+स तेनाभिहतः क्रुद्धो नर्दन् राक्षसपुङ्गवः।  
+ववर्ष शरवर्षाणि प्लवङ्गानां चमूपतौ॥ ४०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स तेनाभिहतः क्रुद्धो नर्दन् राक्षसपुंगवः।  
-ववर्ष शरवर्षाणि प्लवंगानां चमूपतौ॥ ४०॥
+स तेनाभिहतः क्रुद्धो नर्दन् राक्षसपुङ्गवः।  
+ववर्ष शरवर्षाणि प्लवङ्गानां चमूपतौ॥ ४०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -892,14 +889,14 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 
 हते तस्मिंश्चमूमुख्ये राक्षसास्ते निरुद्यमाः।  
 रक्षःपतिगृहं गत्वा ध्यानमूकत्वमागताः॥ ५९॥  
-प्राप्ताः शोकार्णवं तीव्रं विसंज्ञा इव तेऽभवन्॥ ६०॥
+प्राप्ताः शोकार्णवं तीव्रं विसञ्ज्ञा इव तेऽभवन्॥ ६०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 हते तस्मिंश्चमूमुख्ये राक्षसास्ते निरुद्यमाः।  
 रक्षःपतिगृहं गत्वा ध्यानमूकत्वमागताः॥ ५९॥  
-प्राप्ताः शोकार्णवं तीव्रं विसंज्ञा इव तेऽभवन्॥ ६०॥
+प्राप्ताः शोकार्णवं तीव्रं विसञ्ज्ञा इव तेऽभवन्॥ ६०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -933,3 +930,4 @@ title_english = "058 Vibhishana explains the prowess of Prahasta"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽष्टपञ्चाशः सर्गः॥ ५८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें अट्ठावनवाँ सर्ग पूरा हुआ॥ ५८॥
 </details>
+

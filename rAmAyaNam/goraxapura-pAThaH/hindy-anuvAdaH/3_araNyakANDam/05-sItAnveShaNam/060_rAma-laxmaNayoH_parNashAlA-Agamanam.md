@@ -4,11 +4,8 @@ title_english = "060 Rama laments for Seetha s separation"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-060-Rama_Lakshmanayoho_Parnashala_Agamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-060-Rama_Lakshmanayoho_Parnashala_Agamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -90,13 +87,13 @@ title_english = "060 Rama laments for Seetha s separation"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुदन्तमिव वृक्षैश्च ग्लानपुष्पमृगद्विजम्।  
-श्रिया विहीनं विध्वस्तं संत्यक्तं वनदैवतैः॥ ६॥
+श्रिया विहीनं विध्वस्तं सन्त्यक्तं वनदैवतैः॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रुदन्तमिव वृक्षैश्च ग्लानपुष्पमृगद्विजम्।  
-श्रिया विहीनं विध्वस्तं संत्यक्तं वनदैवतैः॥ ६॥
+श्रिया विहीनं विध्वस्तं सन्त्यक्तं वनदैवतैः॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -193,7 +190,7 @@ title_english = "060 Rama laments for Seetha s separation"
 
 अस्ति कच्चित्त्वया दृष्टा सा कदम्बप्रिया प्रिया।  
 कदम्ब यदि जानीषे शंस सीतां शुभाननाम्॥ १२॥  
-स्निग्धपल्लवसंकाशां पीतकौशेयवासिनीम्।  
+स्निग्धपल्लवसङ्काशां पीतकौशेयवासिनीम्।  
 शंसस्व यदि सा दृष्टा बिल्व बिल्वोपमस्तनी॥ १३॥
 </details>
 
@@ -201,7 +198,7 @@ title_english = "060 Rama laments for Seetha s separation"
 
 अस्ति कच्चित्त्वया दृष्टा सा कदम्बप्रिया प्रिया।  
 कदम्ब यदि जानीषे शंस सीतां शुभाननाम्॥ १२॥  
-स्निग्धपल्लवसंकाशां पीतकौशेयवासिनीम्।  
+स्निग्धपल्लवसङ्काशां पीतकौशेयवासिनीम्।  
 शंसस्व यदि सा दृष्टा बिल्व बिल्वोपमस्तनी॥ १३॥
 </details>
 
@@ -256,13 +253,13 @@ title_english = "060 Rama laments for Seetha s separation"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अशोक शोकापनुद शोकोपहतचेतनम्।  
-त्वन्नामानं कुरु क्षिप्रं प्रियासंदर्शनेन माम्॥ १७॥
+त्वन्नामानं कुरु क्षिप्रं प्रियासन्दर्शनेन माम्॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अशोक शोकापनुद शोकोपहतचेतनम्।  
-त्वन्नामानं कुरु क्षिप्रं प्रियासंदर्शनेन माम्॥ १७॥
+त्वन्नामानं कुरु क्षिप्रं प्रियासन्दर्शनेन माम्॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -612,3 +609,4 @@ title_english = "060 Rama laments for Seetha s separation"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे षष्टितमः सर्गः॥ ६०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें साठवाँ सर्ग पूरा हुआ॥ ६०॥
 </details>
+

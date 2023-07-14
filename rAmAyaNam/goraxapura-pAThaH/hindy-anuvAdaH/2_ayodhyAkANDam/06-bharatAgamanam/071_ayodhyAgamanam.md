@@ -4,11 +4,8 @@ title_english = "071 Bharata reaches the city of Ayodhya"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-071-Ayodhyaa_Gamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-071-Ayodhyaa_Gamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,7 +15,7 @@ title_english = "071 Bharata reaches the city of Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्राङ्मुखो राजगृहादभिनिर्याय वीर्यवान्।  
-ततः सुदामां द्युतिमान् संतीर्यावेक्ष्य तां नदीम्॥ १॥  
+ततः सुदामां द्युतिमान् सन्तीर्यावेक्ष्य तां नदीम्॥ १॥  
 ह्रादिनीं दूरपारां च प्रत्यक्स्रोतस्तरङ्गिणीम्।  
 शतद्रुमतरच्छ्रीमान् नदीमिक्ष्वाकुनन्दनः॥ २॥
 </details>
@@ -26,7 +23,7 @@ title_english = "071 Bharata reaches the city of Ayodhya"
 <details><summary>मूलम्</summary>
 
 स प्राङ्मुखो राजगृहादभिनिर्याय वीर्यवान्।  
-ततः सुदामां द्युतिमान् संतीर्यावेक्ष्य तां नदीम्॥ १॥  
+ततः सुदामां द्युतिमान् सन्तीर्यावेक्ष्य तां नदीम्॥ १॥  
 ह्रादिनीं दूरपारां च प्रत्यक्स्रोतस्तरङ्गिणीम्।  
 शतद्रुमतरच्छ्रीमान् नदीमिक्ष्वाकुनन्दनः॥ २॥
 </details>
@@ -60,13 +57,13 @@ title_english = "071 Bharata reaches the city of Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्यसंधः शुचिर्भूत्वा प्रेक्षमाणः शिलावहाम्।  
+सत्यसन्धः शुचिर्भूत्वा प्रेक्षमाणः शिलावहाम्।  
 अभ्यगात् स महाशैलान् वनं चैत्ररथं प्रति॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सत्यसंधः शुचिर्भूत्वा प्रेक्षमाणः शिलावहाम्।  
+सत्यसन्धः शुचिर्भूत्वा प्रेक्षमाणः शिलावहाम्।  
 अभ्यगात् स महाशैलान् वनं चैत्ररथं प्रति॥ ४॥
 </details>
 
@@ -95,13 +92,13 @@ title_english = "071 Bharata reaches the city of Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वेगिनीं च कुलिङ्गाख्यां ह्रादिनीं पर्वतावृताम्।  
-यमुनां प्राप्य संतीर्णो बलमाश्वासयत् तदा॥ ६॥
+यमुनां प्राप्य सन्तीर्णो बलमाश्वासयत् तदा॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 वेगिनीं च कुलिङ्गाख्यां ह्रादिनीं पर्वतावृताम्।  
-यमुनां प्राप्य संतीर्णो बलमाश्वासयत् तदा॥ ६॥
+यमुनां प्राप्य सन्तीर्णो बलमाश्वासयत् तदा॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -132,13 +129,13 @@ title_english = "071 Bharata reaches the city of Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भागीरथीं दुष्प्रतरां सोंऽशुधाने महानदीम्।  
+भागीरथीं दुष्प्रतरां सोऽंशुधाने महानदीम्।  
 उपायाद् राघवस्तूर्णं प्राग्वटे विश्रुते पुरे॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-भागीरथीं दुष्प्रतरां सोंऽशुधाने महानदीम्।  
+भागीरथीं दुष्प्रतरां सोऽंशुधाने महानदीम्।  
 उपायाद् राघवस्तूर्णं प्राग्वटे विश्रुते पुरे॥ ९॥
 </details>
 
@@ -409,13 +406,13 @@ title_english = "071 Bharata reaches the city of Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भेरीमृदङ्गवीणानां कोणसंघट्टितः पुनः।  
+भेरीमृदङ्गवीणानां कोणसङ्घट्टितः पुनः।  
 किमद्य शब्दो विरतः सदादीनगतिः पुरा॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-भेरीमृदङ्गवीणानां कोणसंघट्टितः पुनः।  
+भेरीमृदङ्गवीणानां कोणसङ्घट्टितः पुनः।  
 किमद्य शब्दो विरतः सदादीनगतिः पुरा॥ २९॥
 </details>
 
@@ -687,3 +684,4 @@ title_english = "071 Bharata reaches the city of Ayodhya"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकसप्ततितमः सर्गः॥ ७१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें इकहत्तरहवाँ सर्ग पूरा हुआ॥ ७१॥
 </details>
+

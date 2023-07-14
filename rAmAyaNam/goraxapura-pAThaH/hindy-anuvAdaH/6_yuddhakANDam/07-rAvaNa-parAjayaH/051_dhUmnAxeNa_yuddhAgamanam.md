@@ -4,11 +4,8 @@ title_english = "051 Dhumraksha enters the battle field"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-051-Dhumraksha_enters_the_battle_field_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-051-Dhumraksha_enters_the_battle_field_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -157,13 +154,13 @@ title_english = "051 Dhumraksha enters the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संत्रस्तहृदयाः सर्वे प्राकारादवरुह्य ते।  
+सन्त्रस्तहृदयाः सर्वे प्राकारादवरुह्य ते।  
 विवर्णा राक्षसा घोरा राक्षसेन्द्रमुपस्थिताः॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संत्रस्तहृदयाः सर्वे प्राकारादवरुह्य ते।  
+सन्त्रस्तहृदयाः सर्वे प्राकारादवरुह्य ते।  
 विवर्णा राक्षसा घोरा राक्षसेन्द्रमुपस्थिताः॥ १०॥
 </details>
 
@@ -230,7 +227,7 @@ title_english = "051 Dhumraksha enters the battle field"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घोरैर्दत्तवरैर्बद्धौ शरैराशीविषोपमैः।  
-अमोघैः सूर्यसंकाशैः प्रमथ्येन्द्रजिता युधि॥ १५॥  
+अमोघैः सूर्यसङ्काशैः प्रमथ्येन्द्रजिता युधि॥ १५॥  
 तदस्त्रबन्धमासाद्य यदि मुक्तौ रिपू मम।  
 संशयस्थमिदं सर्वमनुपश्याम्यहं बलम्॥ १६॥
 </details>
@@ -238,7 +235,7 @@ title_english = "051 Dhumraksha enters the battle field"
 <details><summary>मूलम्</summary>
 
 घोरैर्दत्तवरैर्बद्धौ शरैराशीविषोपमैः।  
-अमोघैः सूर्यसंकाशैः प्रमथ्येन्द्रजिता युधि॥ १५॥  
+अमोघैः सूर्यसङ्काशैः प्रमथ्येन्द्रजिता युधि॥ १५॥  
 तदस्त्रबन्धमासाद्य यदि मुक्तौ रिपू मम।  
 संशयस्थमिदं सर्वमनुपश्याम्यहं बलम्॥ १६॥
 </details>
@@ -251,13 +248,13 @@ title_english = "051 Dhumraksha enters the battle field"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निष्फलाः खलु संवृत्ताः शराः पावकतेजसः।  
-आदत्तं यैस्तु संग्रामे रिपूणां जीवितं मम॥ १७॥
+आदत्तं यैस्तु सङ्ग्रामे रिपूणां जीवितं मम॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 निष्फलाः खलु संवृत्ताः शराः पावकतेजसः।  
-आदत्तं यैस्तु संग्रामे रिपूणां जीवितं मम॥ १७॥
+आदत्तं यैस्तु सङ्ग्रामे रिपूणां जीवितं मम॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -267,13 +264,13 @@ title_english = "051 Dhumraksha enters the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमुक्त्वा तु संक्रुद्धो निःश्वसन्नुरगो यथा।  
+एवमुक्त्वा तु सङ्क्रुद्धो निःश्वसन्नुरगो यथा।  
 अब्रवीद् रक्षसां मध्ये धूम्राक्षं नाम राक्षसम्॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा तु संक्रुद्धो निःश्वसन्नुरगो यथा।  
+एवमुक्त्वा तु सङ्क्रुद्धो निःश्वसन्नुरगो यथा।  
 अब्रवीद् रक्षसां मध्ये धूम्राक्षं नाम राक्षसम्॥ १८॥
 </details>
 
@@ -390,7 +387,7 @@ title_english = "051 Dhumraksha enters the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रथैः कवचिनस्त्वन्ये ध्वजैश्च समलंकृतैः।  
+रथैः कवचिनस्त्वन्ये ध्वजैश्च समलङ्कृतैः।  
 सुवर्णजालविहितैः खरैश्च विविधाननैः॥ २६॥  
 हयैः परमशीघ्रैश्च गजैश्चैव मदोत्कटैः।  
 निर्ययुर्नैर्ऋतव्याघ्रा व्याघ्रा इव दुरासदाः॥ २७॥
@@ -398,7 +395,7 @@ title_english = "051 Dhumraksha enters the battle field"
 
 <details><summary>मूलम्</summary>
 
-रथैः कवचिनस्त्वन्ये ध्वजैश्च समलंकृतैः।  
+रथैः कवचिनस्त्वन्ये ध्वजैश्च समलङ्कृतैः।  
 सुवर्णजालविहितैः खरैश्च विविधाननैः॥ २६॥  
 हयैः परमशीघ्रैश्च गजैश्चैव मदोत्कटैः।  
 निर्ययुर्नैर्ऋतव्याघ्रा व्याघ्रा इव दुरासदाः॥ २७॥
@@ -484,13 +481,13 @@ title_english = "051 Dhumraksha enters the battle field"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विस्वरं चोत्सृजन्नादान् धूम्राक्षस्य निपातितः।  
-ववर्ष रुधिरं देवः संचचाल च मेदिनी॥ ३३॥
+ववर्ष रुधिरं देवः सञ्चचाल च मेदिनी॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 विस्वरं चोत्सृजन्नादान् धूम्राक्षस्य निपातितः।  
-ववर्ष रुधिरं देवः संचचाल च मेदिनी॥ ३३॥
+ववर्ष रुधिरं देवः सञ्चचाल च मेदिनी॥ ३३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -560,3 +557,4 @@ title_english = "051 Dhumraksha enters the battle field"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकपञ्चाशः सर्गः॥ ५१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें इक्यावनवाँ सर्ग पूरा हुआ॥ ५१॥
 </details>
+

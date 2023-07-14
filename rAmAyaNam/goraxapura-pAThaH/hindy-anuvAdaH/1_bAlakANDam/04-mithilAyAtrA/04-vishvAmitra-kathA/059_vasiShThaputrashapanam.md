@@ -4,11 +4,8 @@ title_english = "059 trishanku undertakes Vedic ritual"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-059-Vasista_Putranam_Shapa_Prapthi.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-059-Vasista_Putranam_Shapa_Prapthi.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "059 trishanku undertakes Vedic ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाको स्वागतं वत्स जानामि त्वां सुधार्मिकम्।  
-शरणं ते प्रदास्यामि मा भैषीर्नृपपुंगव॥ २॥
+शरणं ते प्रदास्यामि मा भैषीर्नृपपुङ्गव॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इक्ष्वाको स्वागतं वत्स जानामि त्वां सुधार्मिकम्।  
-शरणं ते प्रदास्यामि मा भैषीर्नृपपुंगव॥ २॥
+शरणं ते प्रदास्यामि मा भैषीर्नृपपुङ्गव॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -181,13 +178,13 @@ title_english = "059 trishanku undertakes Vedic ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वासिष्ठं यच्छतं सर्वं क्रोधपर्याकुलाक्षरम्॥ १२॥  
-यथाह वचनं सर्वं शृणु त्वं मुनिपुंगव।
+यथाह वचनं सर्वं शृणु त्वं मुनिपुङ्गव।
 </details>
 
 <details><summary>मूलम्</summary>
 
 वासिष्ठं यच्छतं सर्वं क्रोधपर्याकुलाक्षरम्॥ १२॥  
-यथाह वचनं सर्वं शृणु त्वं मुनिपुंगव।
+यथाह वचनं सर्वं शृणु त्वं मुनिपुङ्गव।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -235,13 +232,13 @@ title_english = "059 trishanku undertakes Vedic ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषां तद् वचनं श्रुत्वा सर्वेषां मुनिपुंगवः॥ १६॥  
+तेषां तद् वचनं श्रुत्वा सर्वेषां मुनिपुङ्गवः॥ १६॥  
 क्रोधसंरक्तनयनः सरोषमिदमब्रवीत्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तेषां तद् वचनं श्रुत्वा सर्वेषां मुनिपुंगवः॥ १६॥  
+तेषां तद् वचनं श्रुत्वा सर्वेषां मुनिपुङ्गवः॥ १६॥  
 क्रोधसंरक्तनयनः सरोषमिदमब्रवीत्।
 </details>
 
@@ -331,3 +328,4 @@ title_english = "059 trishanku undertakes Vedic ritual"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकोनषष्टितमः सर्गः॥ ५९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें उनसठवाँ सर्ग पूरा हुआ॥ ५९॥
 </details>
+

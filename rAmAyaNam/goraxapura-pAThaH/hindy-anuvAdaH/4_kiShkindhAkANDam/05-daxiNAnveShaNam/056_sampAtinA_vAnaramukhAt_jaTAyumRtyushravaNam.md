@@ -4,11 +4,8 @@ title_english = "056 Sampaati hears of Jataayu s death"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-056-Sampaati_hears_of_Jataayu_s_death.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-056-Sampaati_hears_of_Jataayu_s_death.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -19,7 +16,7 @@ title_english = "056 Sampaati hears of Jataayu s death"
 
 उपविष्टास्तु ते सर्वे यस्मिन् प्रायं गिरिस्थले।  
 हरयो गृध्रराजश्च तं देशमुपचक्रमे॥ १॥  
-सम्पातिर्नाम नाम्ना तु चिरजीवी विहंगमः।  
+सम्पातिर्नाम नाम्ना तु चिरजीवी विहङ्गमः।  
 भ्राता जटायुषः श्रीमान् विख्यातबलपौरुषः॥ २॥
 </details>
 
@@ -27,7 +24,7 @@ title_english = "056 Sampaati hears of Jataayu s death"
 
 उपविष्टास्तु ते सर्वे यस्मिन् प्रायं गिरिस्थले।  
 हरयो गृध्रराजश्च तं देशमुपचक्रमे॥ १॥  
-सम्पातिर्नाम नाम्ना तु चिरजीवी विहंगमः।  
+सम्पातिर्नाम नाम्ना तु चिरजीवी विहङ्गमः।  
 भ्राता जटायुषः श्रीमान् विख्यातबलपौरुषः॥ २॥
 </details>
 
@@ -58,7 +55,7 @@ title_english = "056 Sampaati hears of Jataayu s death"
 विधिः किल नरं लोके विधानेनानुवर्तते।  
 यथायं विहितो भक्ष्यश्चिरान्मह्यमुपागतः॥ ४॥  
 परम्पराणां भक्षिष्ये वानराणां मृतं मृतम्।  
-उवाचैतद् वचः पक्षी तान् निरीक्ष्य प्लवंगमान्॥ ५॥
+उवाचैतद् वचः पक्षी तान् निरीक्ष्य प्लवङ्गमान्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -66,7 +63,7 @@ title_english = "056 Sampaati hears of Jataayu s death"
 विधिः किल नरं लोके विधानेनानुवर्तते।  
 यथायं विहितो भक्ष्यश्चिरान्मह्यमुपागतः॥ ४॥  
 परम्पराणां भक्षिष्ये वानराणां मृतं मृतम्।  
-उवाचैतद् वचः पक्षी तान् निरीक्ष्य प्लवंगमान्॥ ५॥
+उवाचैतद् वचः पक्षी तान् निरीक्ष्य प्लवङ्गमान्॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -179,14 +176,14 @@ title_english = "056 Sampaati hears of Jataayu s death"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रियं कृतं हि रामस्य धर्मज्ञेन जटायुषा।  
-राघवार्थे परिश्रान्ता वयं संत्यक्तजीविताः॥ १२॥  
+राघवार्थे परिश्रान्ता वयं सन्त्यक्तजीविताः॥ १२॥  
 कान्ताराणि प्रपन्नाः स्म न च पश्याम मैथिलीम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रियं कृतं हि रामस्य धर्मज्ञेन जटायुषा।  
-राघवार्थे परिश्रान्ता वयं संत्यक्तजीविताः॥ १२॥  
+राघवार्थे परिश्रान्ता वयं सन्त्यक्तजीविताः॥ १२॥  
 कान्ताराणि प्रपन्नाः स्म न च पश्याम मैथिलीम्।
 </details>
 
@@ -365,13 +362,13 @@ title_english = "056 Sampaati hears of Jataayu s death"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सूर्यांशुदग्धपक्षत्वान्न शक्नोमि विसर्पितुम्।  
-इच्छेयं पर्वतादस्मादवतर्तुमरिंदमाः॥ २४॥
+इच्छेयं पर्वतादस्मादवतर्तुमरिन्दमाः॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सूर्यांशुदग्धपक्षत्वान्न शक्नोमि विसर्पितुम्।  
-इच्छेयं पर्वतादस्मादवतर्तुमरिंदमाः॥ २४॥
+इच्छेयं पर्वतादस्मादवतर्तुमरिन्दमाः॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -384,3 +381,4 @@ title_english = "056 Sampaati hears of Jataayu s death"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे षट्पञ्चाशः सर्गः॥ ५६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें छप्पनवाँ सर्ग पूरा हुआ॥ ५६॥
 </details>
+

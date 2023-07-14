@@ -4,11 +4,8 @@ title_english = "070 The messengers enter the city of Rajagriha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-070-Bharathasya_Nishakramanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-070-Bharathasya_Nishakramanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -222,13 +219,13 @@ title_english = "070 The messengers enter the city of Rajagriha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भरतश्चापि तान् दूतानेवमुक्तोऽभ्यभाषत।  
-आपृच्छेऽहं महाराजं दूताः संत्वरयन्ति माम्॥ १३॥
+आपृच्छेऽहं महाराजं दूताः सन्त्वरयन्ति माम्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 भरतश्चापि तान् दूतानेवमुक्तोऽभ्यभाषत।  
-आपृच्छेऽहं महाराजं दूताः संत्वरयन्ति माम्॥ १३॥
+आपृच्छेऽहं महाराजं दूताः सन्त्वरयन्ति माम्॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -239,13 +236,13 @@ title_english = "070 The messengers enter the city of Rajagriha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु तान् दूतान् भरतः पार्थिवात्मजः।  
-दूतैः संचोदितो वाक्यं मातामहमुवाच ह॥ १४॥
+दूतैः सञ्चोदितो वाक्यं मातामहमुवाच ह॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्त्वा तु तान् दूतान् भरतः पार्थिवात्मजः।  
-दूतैः संचोदितो वाक्यं मातामहमुवाच ह॥ १४॥
+दूतैः सञ्चोदितो वाक्यं मातामहमुवाच ह॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -290,13 +287,13 @@ title_english = "070 The messengers enter the city of Rajagriha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छ तातानुजाने त्वां कैकेयी सुप्रजास्त्वया।  
-मातरं कुशलं ब्रूयाः पितरं च परंतप॥ १७॥
+मातरं कुशलं ब्रूयाः पितरं च परन्तप॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गच्छ तातानुजाने त्वां कैकेयी सुप्रजास्त्वया।  
-मातरं कुशलं ब्रूयाः पितरं च परंतप॥ १७॥
+मातरं कुशलं ब्रूयाः पितरं च परन्तप॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -442,13 +439,13 @@ title_english = "070 The messengers enter the city of Rajagriha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स स्ववेश्माभ्यतिक्रम्य नरनागाश्वसंकुलम्।  
+स स्ववेश्माभ्यतिक्रम्य नरनागाश्वसङ्कुलम्।  
 प्रपेदे सुमहच्छ्रीमान् राजमार्गमनुत्तमम्॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स स्ववेश्माभ्यतिक्रम्य नरनागाश्वसंकुलम्।  
+स स्ववेश्माभ्यतिक्रम्य नरनागाश्वसङ्कुलम्।  
 प्रपेदे सुमहच्छ्रीमान् राजमार्गमनुत्तमम्॥ २६॥
 </details>
 
@@ -534,3 +531,4 @@ title_english = "070 The messengers enter the city of Rajagriha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्ततितमः सर्गः॥ ७०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें सत्तरवाँ सर्ग पूरा हुआ॥ ७०॥
 </details>
+

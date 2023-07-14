@@ -4,11 +4,8 @@ title_english = "046 Ravana applauds his son for his daring act"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-046-Ravana_applauds_his_son_for_his_daring_act_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-046-Ravana_applauds_his_son_for_his_daring_act_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "046 Ravana applauds his son for his daring act"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो द्यां पृथिवीं चैव वीक्षमाणा वनौकसः।  
-ददृशुः संततौ बाणैर्भ्रातरौ रामलक्ष्मणौ॥ १॥
+ददृशुः सन्ततौ बाणैर्भ्रातरौ रामलक्ष्मणौ॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततो द्यां पृथिवीं चैव वीक्षमाणा वनौकसः।  
-ददृशुः संततौ बाणैर्भ्रातरौ रामलक्ष्मणौ॥ १॥
+ददृशुः सन्ततौ बाणैर्भ्रातरौ रामलक्ष्मणौ॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -518,7 +515,7 @@ title_english = "046 Ravana applauds his son for his daring act"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवंप्रायाणि युद्धानि विजयो नास्ति नैष्ठिकः॥ ३१॥  
+एवम्प्रायाणि युद्धानि विजयो नास्ति नैष्ठिकः॥ ३१॥  
 सभाग्यशेषतास्माकं यदि वीर भविष्यति।  
 मोहमेतौ प्रहास्येते महात्मानौ महाबलौ॥ ३२॥  
 पर्यवस्थापयात्मानमनाथं मां च वानर।  
@@ -527,7 +524,7 @@ title_english = "046 Ravana applauds his son for his daring act"
 
 <details><summary>मूलम्</summary>
 
-एवंप्रायाणि युद्धानि विजयो नास्ति नैष्ठिकः॥ ३१॥  
+एवम्प्रायाणि युद्धानि विजयो नास्ति नैष्ठिकः॥ ३१॥  
 सभाग्यशेषतास्माकं यदि वीर भविष्यति।  
 मोहमेतौ प्रहास्येते महात्मानौ महाबलौ॥ ३२॥  
 पर्यवस्थापयात्मानमनाथं मां च वानर।  
@@ -626,14 +623,14 @@ title_english = "046 Ravana applauds his son for his daring act"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ वा रक्ष्यतां रामो यावत्संज्ञाविपर्ययः।  
-लब्धसंज्ञौ हि काकुत्स्थौ भयं नौ व्यपनेष्यतः॥ ३९॥
+अथ वा रक्ष्यतां रामो यावत्सञ्ज्ञाविपर्ययः।  
+लब्धसञ्ज्ञौ हि काकुत्स्थौ भयं नौ व्यपनेष्यतः॥ ३९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथ वा रक्ष्यतां रामो यावत्संज्ञाविपर्ययः।  
-लब्धसंज्ञौ हि काकुत्स्थौ भयं नौ व्यपनेष्यतः॥ ३९॥
+अथ वा रक्ष्यतां रामो यावत्सञ्ज्ञाविपर्ययः।  
+लब्धसञ्ज्ञौ हि काकुत्स्थौ भयं नौ व्यपनेष्यतः॥ ३९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -643,13 +640,13 @@ title_english = "046 Ravana applauds his son for his daring act"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैतत् किंचन रामस्य न च रामो मुमूर्षति।  
+नैतत् किञ्चन रामस्य न च रामो मुमूर्षति।  
 नह्येनं हास्यते लक्ष्मीर्दुर्लभा या गतायुषाम्॥ ४०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नैतत् किंचन रामस्य न च रामो मुमूर्षति।  
+नैतत् किञ्चन रामस्य न च रामो मुमूर्षति।  
 नह्येनं हास्यते लक्ष्मीर्दुर्लभा या गतायुषाम्॥ ४०॥
 </details>
 
@@ -822,3 +819,4 @@ title_english = "046 Ravana applauds his son for his daring act"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे षट्चत्वारिंशः सर्गः॥ ४६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें छियालीसवाँ सर्ग पूरा हुआ॥ ४६॥
 </details>
+

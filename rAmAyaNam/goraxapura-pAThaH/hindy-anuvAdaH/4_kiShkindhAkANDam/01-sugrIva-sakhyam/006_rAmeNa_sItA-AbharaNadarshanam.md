@@ -4,11 +4,8 @@ title_english = "006 Sugreeva s narration of the abduction"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-006-Sita_Abharana_Darshanam_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-006-Sita_Abharana_Darshanam_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -77,13 +74,13 @@ title_english = "006 Sugreeva s narration of the abduction"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रसातले वा वर्तन्तीं वर्तन्तीं वा नभस्तले।  
-अहमानीय दास्यामि तव भार्यामरिंदम॥ ६॥
+अहमानीय दास्यामि तव भार्यामरिन्दम॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रसातले वा वर्तन्तीं वर्तन्तीं वा नभस्तले।  
-अहमानीय दास्यामि तव भार्यामरिंदम॥ ६॥
+अहमानीय दास्यामि तव भार्यामरिन्दम॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -241,13 +238,13 @@ title_english = "006 Sugreeva s narration of the abduction"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हृदि कृत्वा स बहुशस्तमलंकारमुत्तमम्।  
+हृदि कृत्वा स बहुशस्तमलङ्कारमुत्तमम्।  
 निशश्वास भृशं सर्पो बिलस्थ इव रोषितः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-हृदि कृत्वा स बहुशस्तमलंकारमुत्तमम्।  
+हृदि कृत्वा स बहुशस्तमलङ्कारमुत्तमम्।  
 निशश्वास भृशं सर्पो बिलस्थ इव रोषितः॥ १८॥
 </details>
 
@@ -275,13 +272,13 @@ title_english = "006 Sugreeva s narration of the abduction"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पश्य लक्ष्मण वैदेह्या संत्यक्तं ह्रियमाणया।  
+पश्य लक्ष्मण वैदेह्या सन्त्यक्तं ह्रियमाणया।  
 उत्तरीयमिदं भूमौ शरीराद् भूषणानि च॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पश्य लक्ष्मण वैदेह्या संत्यक्तं ह्रियमाणया।  
+पश्य लक्ष्मण वैदेह्या सन्त्यक्तं ह्रियमाणया।  
 उत्तरीयमिदं भूमौ शरीराद् भूषणानि च॥ २०॥
 </details>
 
@@ -384,7 +381,7 @@ title_english = "006 Sugreeva s narration of the abduction"
 मम दयिततमा हृता वनाद्  
 रजनिचरेण विमथ्य येन सा।  
 कथय मम रिपुं तमद्य वै  
-प्लवगपते यमसंनिधिं नयामि॥ २७॥
+प्लवगपते यमसन्निधिं नयामि॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -392,7 +389,7 @@ title_english = "006 Sugreeva s narration of the abduction"
 मम दयिततमा हृता वनाद्  
 रजनिचरेण विमथ्य येन सा।  
 कथय मम रिपुं तमद्य वै  
-प्लवगपते यमसंनिधिं नयामि॥ २७॥
+प्लवगपते यमसन्निधिं नयामि॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -405,3 +402,4 @@ title_english = "006 Sugreeva s narration of the abduction"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे षष्ठः सर्गः॥ ६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें छठा सर्ग पूरा हुआ॥ ६॥
 </details>
+

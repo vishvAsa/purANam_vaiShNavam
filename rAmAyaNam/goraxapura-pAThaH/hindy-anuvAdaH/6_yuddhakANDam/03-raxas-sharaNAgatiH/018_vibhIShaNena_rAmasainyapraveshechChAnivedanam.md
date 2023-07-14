@@ -4,11 +4,8 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-018-Vibhishana_joins_as_an_associate_in_Rama_s_side.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-018-Vibhishana_joins_as_an_associate_in_Rama_s_side.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,13 +48,13 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मित्रभावेन सम्प्राप्तं न त्यजेयं कथंचन।  
+मित्रभावेन सम्प्राप्तं न त्यजेयं कथञ्चन।  
 दोषो यद्यपि तस्य स्यात् सतामेतदगर्हितम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मित्रभावेन सम्प्राप्तं न त्यजेयं कथंचन।  
+मित्रभावेन सम्प्राप्तं न त्यजेयं कथञ्चन।  
 दोषो यद्यपि तस्य स्यात् सतामेतदगर्हितम्॥ ३॥
 </details>
 
@@ -140,13 +137,13 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्ति सूक्ष्मतरं किंचिद् यथात्र प्रतिभाति मा।  
+अस्ति सूक्ष्मतरं किञ्चिद् यथात्र प्रतिभाति मा।  
 प्रत्यक्षं लौकिकं चापि वर्तते सर्वराजसु॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अस्ति सूक्ष्मतरं किंचिद् यथात्र प्रतिभाति मा।  
+अस्ति सूक्ष्मतरं किञ्चिद् यथात्र प्रतिभाति मा।  
 प्रत्यक्षं लौकिकं चापि वर्तते सर्वराजसु॥ ९॥
 </details>
 
@@ -225,14 +222,14 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अव्यग्राश्च प्रहृष्टाश्च ते भविष्यन्ति संगताः।  
+अव्यग्राश्च प्रहृष्टाश्च ते भविष्यन्ति सङ्गताः।  
 प्रणादश्च महानेषोऽन्योन्यस्य भयमागतम्।  
 इति भेदं गमिष्यन्ति तस्माद् ग्राह्यो विभीषणः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अव्यग्राश्च प्रहृष्टाश्च ते भविष्यन्ति संगताः।  
+अव्यग्राश्च प्रहृष्टाश्च ते भविष्यन्ति सङ्गताः।  
 प्रणादश्च महानेषोऽन्योन्यस्य भयमागतम्।  
 इति भेदं गमिष्यन्ति तस्माद् ग्राह्यो विभीषणः॥ १४॥
 </details>
@@ -295,7 +292,7 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राक्षसो जिह्मया बुद्ध्या संदिष्टोऽयमिहागतः।  
+राक्षसो जिह्मया बुद्ध्या सन्दिष्टोऽयमिहागतः।  
 प्रहर्तुं त्वयि विश्वस्ते विश्वस्ते मयि वानघ॥ १८॥  
 लक्ष्मणे वा महाबाहो स वध्यः सचिवैः सह।  
 रावणस्य नृशंसस्य भ्राता ह्येष विभीषणः॥ १९॥
@@ -303,7 +300,7 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 
 <details><summary>मूलम्</summary>
 
-राक्षसो जिह्मया बुद्ध्या संदिष्टोऽयमिहागतः।  
+राक्षसो जिह्मया बुद्ध्या सन्दिष्टोऽयमिहागतः।  
 प्रहर्तुं त्वयि विश्वस्ते विश्वस्ते मयि वानघ॥ १८॥  
 लक्ष्मणे वा महाबाहो स वध्यः सचिवैः सह।  
 रावणस्य नृशंसस्य भ्राता ह्येष विभीषणः॥ १९॥
@@ -351,13 +348,13 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दुष्टो वाप्यदुष्टो वा किमेष रजनीचरः।  
-सूक्ष्ममप्यहितं कर्तुं मम शक्तः कथंचन॥ २२॥
+सूक्ष्ममप्यहितं कर्तुं मम शक्तः कथञ्चन॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स दुष्टो वाप्यदुष्टो वा किमेष रजनीचरः।  
-सूक्ष्ममप्यहितं कर्तुं मम शक्तः कथंचन॥ २२॥
+सूक्ष्ममप्यहितं कर्तुं मम शक्तः कथञ्चन॥ २२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -436,13 +433,13 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बद्धाञ्जलिपुटं दीनं याचन्तं शरणागतम्।  
-न हन्यादानृशंस्यार्थमपि शत्रुं परंतप॥ २७॥
+न हन्यादानृशंस्यार्थमपि शत्रुं परन्तप॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बद्धाञ्जलिपुटं दीनं याचन्तं शरणागतम्।  
-न हन्यादानृशंस्यार्थमपि शत्रुं परंतप॥ २७॥
+न हन्यादानृशंस्यार्थमपि शत्रुं परन्तप॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -641,16 +638,16 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 
 ततस्तु सुग्रीववचो निशम्य त-  
 द्धरीश्वरेणाभिहितं नरेश्वरः।  
-विभीषणेनाशु जगाम संगमं  
-पतत्त्रिराजेन यथा पुरंदरः॥ ३९॥
+विभीषणेनाशु जगाम सङ्गमं  
+पतत्त्रिराजेन यथा पुरन्दरः॥ ३९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततस्तु सुग्रीववचो निशम्य त-  
 द्धरीश्वरेणाभिहितं नरेश्वरः।  
-विभीषणेनाशु जगाम संगमं  
-पतत्त्रिराजेन यथा पुरंदरः॥ ३९॥
+विभीषणेनाशु जगाम सङ्गमं  
+पतत्त्रिराजेन यथा पुरन्दरः॥ ३९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -663,3 +660,4 @@ title_english = "018 Vibhishana joins as an associate in Rama s side"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽष्टादशः सर्गः॥ १८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें अठारहवाँ सर्ग पूरा हुआ॥ १८॥
 </details>
+

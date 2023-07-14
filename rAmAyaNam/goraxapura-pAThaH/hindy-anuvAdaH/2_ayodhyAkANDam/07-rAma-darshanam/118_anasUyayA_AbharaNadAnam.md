@@ -4,11 +4,8 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-118-Anasuyayaa_AAbharana_Daanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-118-Anasuyayaa_AAbharana_Daanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -136,13 +133,13 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पाणिप्रदानकाले च यत् पुरा त्वग्निसंनिधौ।  
+पाणिप्रदानकाले च यत् पुरा त्वग्निसन्निधौ।  
 अनुशिष्टं जनन्या मे वाक्यं तदपि मे धृतम्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पाणिप्रदानकाले च यत् पुरा त्वग्निसंनिधौ।  
+पाणिप्रदानकाले च यत् पुरा त्वग्निसन्निधौ।  
 अनुशिष्टं जनन्या मे वाक्यं तदपि मे धृतम्॥ ८॥
 </details>
 
@@ -309,7 +306,7 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 इदं दिव्यं वरं माल्यं वस्त्रमाभरणानि च।  
 अङ्गरागं च वैदेहि महार्हमनुलेपनम्॥ १८॥  
 मया दत्तमिदं सीते तव गात्राणि शोभयेत्।  
-अनुरूपमसंक्लिष्टं नित्यमेव भविष्यति॥ १९॥
+अनुरूपमसङ्क्लिष्टं नित्यमेव भविष्यति॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -317,7 +314,7 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 इदं दिव्यं वरं माल्यं वस्त्रमाभरणानि च।  
 अङ्गरागं च वैदेहि महार्हमनुलेपनम्॥ १८॥  
 मया दत्तमिदं सीते तव गात्राणि शोभयेत्।  
-अनुरूपमसंक्लिष्टं नित्यमेव भविष्यति॥ १९॥
+अनुरूपमसङ्क्लिष्टं नित्यमेव भविष्यति॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -366,13 +363,13 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा सीतामुपासीनामनसूया दृढव्रता।  
-वचनं प्रष्टुमारेभे कथां कांचिदनुप्रियाम्॥ २३॥
+वचनं प्रष्टुमारेभे कथां काञ्चिदनुप्रियाम्॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तथा सीतामुपासीनामनसूया दृढव्रता।  
-वचनं प्रष्टुमारेभे कथां कांचिदनुप्रियाम्॥ २३॥
+वचनं प्रष्टुमारेभे कथां काञ्चिदनुप्रियाम्॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -586,13 +583,13 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तां धर्षणामदूरस्थां संदृश्यात्मनि पार्थिवः।  
+तां धर्षणामदूरस्थां सन्दृश्यात्मनि पार्थिवः।  
 चिन्तार्णवगतः पारं नाससादाप्लवो यथा॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तां धर्षणामदूरस्थां संदृश्यात्मनि पार्थिवः।  
+तां धर्षणामदूरस्थां सन्दृश्यात्मनि पार्थिवः।  
 चिन्तार्णवगतः पारं नाससादाप्लवो यथा॥ ३६॥
 </details>
 
@@ -620,13 +617,13 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य बुद्धिरियं जाता चिन्तयानस्य संततम्।  
+तस्य बुद्धिरियं जाता चिन्तयानस्य सन्ततम्।  
 स्वयंवरं तनूजायाः करिष्यामीति धर्मतः॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्य बुद्धिरियं जाता चिन्तयानस्य संततम्।  
+तस्य बुद्धिरियं जाता चिन्तयानस्य सन्ततम्।  
 स्वयंवरं तनूजायाः करिष्यामीति धर्मतः॥ ३८॥
 </details>
 
@@ -654,13 +651,13 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असंचाल्यं मनुष्यैश्च यत्नेनापि च गौरवात्।  
+असञ्चाल्यं मनुष्यैश्च यत्नेनापि च गौरवात्।  
 तन्न शक्ता नमयितुं स्वप्नेष्वपि नराधिपाः॥ ४०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-असंचाल्यं मनुष्यैश्च यत्नेनापि च गौरवात्।  
+असञ्चाल्यं मनुष्यैश्च यत्नेनापि च गौरवात्।  
 तन्न शक्ता नमयितुं स्वप्नेष्वपि नराधिपाः॥ ४०॥
 </details>
 
@@ -705,13 +702,13 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच्च दृष्ट्वा धनुःश्रेष्ठं गौरवाद् गिरिसंनिभम्।  
+तच्च दृष्ट्वा धनुःश्रेष्ठं गौरवाद् गिरिसन्निभम्।  
 अभिवाद्य नृपा जग्मुरशक्तास्तस्य तोलने॥ ४३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तच्च दृष्ट्वा धनुःश्रेष्ठं गौरवाद् गिरिसंनिभम्।  
+तच्च दृष्ट्वा धनुःश्रेष्ठं गौरवाद् गिरिसन्निभम्।  
 अभिवाद्य नृपा जग्मुरशक्तास्तस्य तोलने॥ ४३॥
 </details>
 
@@ -744,14 +741,14 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रोवाच पितरं तत्र राघवौ रामलक्ष्मणौ।  
-सुतौ दशरथस्येमौ धनुर्दर्शनकांक्षिणौ।  
+सुतौ दशरथस्येमौ धनुर्दर्शनकाङ्क्षिणौ।  
 धनुर्दर्शय रामाय राजपुत्राय दैविकम्॥ ४६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रोवाच पितरं तत्र राघवौ रामलक्ष्मणौ।  
-सुतौ दशरथस्येमौ धनुर्दर्शनकांक्षिणौ।  
+सुतौ दशरथस्येमौ धनुर्दर्शनकाङ्क्षिणौ।  
 धनुर्दर्शय रामाय राजपुत्राय दैविकम्॥ ४६॥
 </details>
 
@@ -813,13 +810,13 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततोऽहं तत्र रामाय पित्रा सत्याभिसंधिना।  
+ततोऽहं तत्र रामाय पित्रा सत्याभिसन्धिना।  
 उद्यता दातुमुद्यम्य जलभाजनमुत्तमम्॥ ५०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततोऽहं तत्र रामाय पित्रा सत्याभिसंधिना।  
+ततोऽहं तत्र रामाय पित्रा सत्याभिसन्धिना।  
 उद्यता दातुमुद्यम्य जलभाजनमुत्तमम्॥ ५०॥
 </details>
 
@@ -901,3 +898,4 @@ title_english = "118 Anasuya instructs Seetha on the role of a devoted wife"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डेऽष्टादशाधिकशततमः सर्गः॥ ११८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ अठारहवाँ सर्ग पूरा हुआ॥ ११८॥
 </details>
+

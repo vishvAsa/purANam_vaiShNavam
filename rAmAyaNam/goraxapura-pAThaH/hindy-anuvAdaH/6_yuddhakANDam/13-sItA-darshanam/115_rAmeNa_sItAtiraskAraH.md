@@ -3,11 +3,8 @@ title = "११५ रामेण सीतातिरस्कारः"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-115-Rama_disowns_her_and_asks_her_to_seek_shelter_elsewhere._0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-115-Rama_disowns_her_and_asks_her_to_seek_shelter_elsewhere._0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -253,7 +250,7 @@ title = "११५ रामेण सीतातिरस्कारः"
 <details><summary>मूलम्</summary>
 
 यत् कर्तव्यं मनुष्येण धर्षणां प्रतिमार्जता।  
-तत् कृतं रावणं हत्वा मयेदं मानकांक्षिणा॥ १३॥
+तत् कृतं रावणं हत्वा मयेदं मानकाङ्क्षिणा॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -320,7 +317,7 @@ title = "११५ रामेण सीतातिरस्कारः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राप्त-चारित्र-संदेहा  
+प्राप्त-चारित्र-सन्देहा  
 मम प्रतिमुखे स्थिता।  
 दीपो नेत्रातुरस्येव  
 **प्रतिकूलासि** मे दृढा॥ १७॥+++(5)+++
@@ -328,7 +325,7 @@ title = "११५ रामेण सीतातिरस्कारः"
 
 <details><summary>मूलम्</summary>
 
-प्राप्तचारित्रसंदेहा मम प्रतिमुखे स्थिता।  
+प्राप्तचारित्रसन्देहा मम प्रतिमुखे स्थिता।  
 दीपो नेत्रातुरस्येव प्रतिकूलासि मे दृढा॥ १७॥
 </details>
 
@@ -496,3 +493,4 @@ title = "११५ रामेण सीतातिरस्कारः"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे पञ्चदशाधिकशततमः सर्गः॥ ११५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें एक सौ पंद्रहवाँ सर्ग पूरा हुआ॥ ११५॥
 </details>
+

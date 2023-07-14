@@ -4,11 +4,8 @@ title_english = "019 Rama decides to leave for forest"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-019-Vanavaasa_Prathigna.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-019-Vanavaasa_Prathigna.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -54,13 +51,13 @@ title_english = "019 Rama decides to leave for forest"
 इदं तु ज्ञातुमिच्छामि  
 किमर्थं मां महीपतिः।  
 नाभिनन्दति दुर्धर्षो  
-यथापूर्वमरिंदमः॥ ३॥
+यथापूर्वमरिन्दमः॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इदं तु ज्ञातुमिच्छामि किमर्थं मां महीपतिः।  
-नाभिनन्दति दुर्धर्षो यथापूर्वमरिंदमः॥ ३॥
+नाभिनन्दति दुर्धर्षो यथापूर्वमरिन्दमः॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -264,13 +261,13 @@ title_english = "019 Rama decides to leave for forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्रीडान्वितः स्वयं यच्च नृपस्त्वां नाभिभाषते।  
-नैतत् किंचिन्नरश्रेष्ठ मन्युरेषोऽपनीयताम्॥ १५॥
+नैतत् किञ्चिन्नरश्रेष्ठ मन्युरेषोऽपनीयताम्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्रीडान्वितः स्वयं यच्च नृपस्त्वां नाभिभाषते।  
-नैतत् किंचिन्नरश्रेष्ठ मन्युरेषोऽपनीयताम्॥ १५॥
+नैतत् किञ्चिन्नरश्रेष्ठ मन्युरेषोऽपनीयताम्॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -367,7 +364,7 @@ title_english = "019 Rama decides to leave for forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यत् तत्रभवतः किंचिच्  
+यत् तत्रभवतः किञ्चिच्  
 छक्यं कर्तुं प्रियं मया।  
 प्राणानपि परित्यज्य  
 सर्वथा कृतमेव तत्॥ २१॥
@@ -375,7 +372,7 @@ title_english = "019 Rama decides to leave for forest"
 
 <details><summary>मूलम्</summary>
 
-यत् तत्रभवतः किंचिच्छक्यं कर्तुं प्रियं मया।  
+यत् तत्रभवतः किञ्चिच्छक्यं कर्तुं प्रियं मया।  
 प्राणानपि परित्यज्य सर्वथा कृतमेव तत्॥ २१॥
 </details>
 
@@ -387,14 +384,14 @@ title_english = "019 Rama decides to leave for forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न ह्यतो धर्मचरणं  
-किंचिदस्ति महत्तरम्।  
+किञ्चिदस्ति महत्तरम्।  
 यथा पितरि शुश्रूषा  
 तस्य वा वचनक्रिया॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न ह्यतो धर्मचरणं किंचिदस्ति महत्तरम्।  
+न ह्यतो धर्मचरणं किञ्चिदस्ति महत्तरम्।  
 यथा पितरि शुश्रूषा तस्य वा वचनक्रिया॥ २२॥
 </details>
 
@@ -422,13 +419,13 @@ title_english = "019 Rama decides to leave for forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न नूनं मयि कैकेयि किंचिदाशंससे गुणान्।  
+न नूनं मयि कैकेयि किञ्चिदाशंससे गुणान्।  
 यद् राजानमवोचस्त्वं ममेश्वरतरा सती॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न नूनं मयि कैकेयि किंचिदाशंससे गुणान्।  
+न नूनं मयि कैकेयि किञ्चिदाशंससे गुणान्।  
 यद् राजानमवोचस्त्वं ममेश्वरतरा सती॥ २४॥
 </details>
 
@@ -490,13 +487,13 @@ title_english = "019 Rama decides to leave for forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वन्दित्वा चरणौ राज्ञो विसंज्ञस्य पितुस्तदा।  
+वन्दित्वा चरणौ राज्ञो विसञ्ज्ञस्य पितुस्तदा।  
 कैकेय्याश्चाप्यनार्याया निष्पपात महाद्युतिः॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वन्दित्वा चरणौ राज्ञो विसंज्ञस्य पितुस्तदा।  
+वन्दित्वा चरणौ राज्ञो विसञ्ज्ञस्य पितुस्तदा।  
 कैकेय्याश्चाप्यनार्याया निष्पपात महाद्युतिः॥ २८॥
 </details>
 
@@ -583,14 +580,14 @@ title_english = "019 Rama decides to leave for forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न वनं गन्तुकामस्य  
-त्यजतश्च वसुंधराम्।  
+त्यजतश्च वसुन्धराम्।  
 सर्वलोकातिगस्येव  
 **लक्ष्यते** चित्तविक्रिया॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न वनं गन्तुकामस्य त्यजतश्च वसुंधराम्।  
+न वनं गन्तुकामस्य त्यजतश्च वसुन्धराम्।  
 सर्वलोकातिगस्येव लक्ष्यते चित्तविक्रिया॥ ३३॥
 </details>
 
@@ -602,7 +599,7 @@ title_english = "019 Rama decides to leave for forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रतिषिध्य** शुभं छत्रं  
-व्यजने च स्वलंकृते।  
+व्यजने च स्वलङ्कृते।  
 **विसर्जयित्वा** स्वजनं  
 रथं पौरांस् तथा जनान्॥ ३४॥  
 **धारयन्** मनसा दुःखम्  
@@ -613,7 +610,7 @@ title_english = "019 Rama decides to leave for forest"
 
 <details><summary>मूलम्</summary>
 
-प्रतिषिध्य शुभं छत्रं व्यजने च स्वलंकृते।  
+प्रतिषिध्य शुभं छत्रं व्यजने च स्वलङ्कृते।  
 विसर्जयित्वा स्वजनं रथं पौरांस्तथा जनान्॥ ३४॥  
 धारयन् मनसा दुःखमिन्द्रियाणि निगृह्य च।  
 प्रविवेशात्मवान् वेश्म मातुरप्रियशंसिवान्॥ ३५॥
@@ -629,13 +626,13 @@ title_english = "019 Rama decides to leave for forest"
 सर्वोऽप्य् अभिजनः श्रीमान्  
 श्रीमतः सत्यवादिनः।  
 **नालक्षयत** रामस्य  
-कंचिद् **आकारम्** आनने॥ ३६॥
+कञ्चिद् **आकारम्** आनने॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सर्वोऽप्यभिजनः श्रीमान् श्रीमतः सत्यवादिनः।  
-नालक्षयत रामस्य कंचिदाकारमानने॥ ३६॥
+नालक्षयत रामस्य कञ्चिदाकारमानने॥ ३६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -729,3 +726,4 @@ title_english = "019 Rama decides to leave for forest"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकोनविंशः सर्गः॥ १९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें उन्नीसवाँ सर्ग पूरा हुआ॥१९॥
 </details>
+

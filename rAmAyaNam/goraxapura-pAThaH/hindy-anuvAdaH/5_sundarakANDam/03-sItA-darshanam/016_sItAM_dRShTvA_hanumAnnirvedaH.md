@@ -4,11 +4,8 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-016-Hanuma_s_grief_at_the_plight_of_Seetha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-016-Hanuma_s_grief_at_the_plight_of_Seetha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रशस्य तु प्रशस्तव्यां सीतां तां हरिपुंगवः।  
+प्रशस्य तु प्रशस्तव्यां सीतां तां हरिपुङ्गवः।  
 गुणाभिरामं रामं च पुनश्चिन्तापरोऽभवत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्रशस्य तु प्रशस्तव्यां सीतां तां हरिपुंगवः।  
+प्रशस्य तु प्रशस्तव्यां सीतां तां हरिपुङ्गवः।  
 गुणाभिरामं रामं च पुनश्चिन्तापरोऽभवत्॥ १॥
 </details>
 
@@ -69,13 +66,13 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामस्य व्यवसायज्ञा लक्ष्मणस्य च धीमतः।  
-नात्यर्थं क्षुभ्यते देवी गंगेव जलदागमे॥ ४॥
+नात्यर्थं क्षुभ्यते देवी गङ्गेव जलदागमे॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रामस्य व्यवसायज्ञा लक्ष्मणस्य च धीमतः।  
-नात्यर्थं क्षुभ्यते देवी गंगेव जलदागमे॥ ४॥
+नात्यर्थं क्षुभ्यते देवी गङ्गेव जलदागमे॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -136,13 +133,13 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विराधश्च हतः संख्ये राक्षसो भीमविक्रमः।  
+विराधश्च हतः सङ्ख्ये राक्षसो भीमविक्रमः।  
 वने रामेण विक्रम्य महेन्द्रेणेव शम्बरः॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-विराधश्च हतः संख्ये राक्षसो भीमविक्रमः।  
+विराधश्च हतः सङ्ख्ये राक्षसो भीमविक्रमः।  
 वने रामेण विक्रम्य महेन्द्रेणेव शम्बरः॥ ८॥
 </details>
 
@@ -155,7 +152,7 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 
 चतुर्दश सहस्राणि रक्षसां भीमकर्मणाम्।  
 निहतानि जनस्थाने शरैरग्निशिखोपमैः॥ ९॥  
-खरश्च निहतः संख्ये त्रिशिराश्च निपातितः।  
+खरश्च निहतः सङ्ख्ये त्रिशिराश्च निपातितः।  
 दूषणश्च महातेजा रामेण विदितात्मना॥ १०॥
 </details>
 
@@ -163,7 +160,7 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 
 चतुर्दश सहस्राणि रक्षसां भीमकर्मणाम्।  
 निहतानि जनस्थाने शरैरग्निशिखोपमैः॥ ९॥  
-खरश्च निहतः संख्ये त्रिशिराश्च निपातितः।  
+खरश्च निहतः सङ्ख्ये त्रिशिराश्च निपातितः।  
 दूषणश्च महातेजा रामेण विदितात्मना॥ १०॥
 </details>
 
@@ -327,13 +324,13 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संतुष्टा फलमूलेन भर्तृशुश्रूषणापरा।  
+सन्तुष्टा फलमूलेन भर्तृशुश्रूषणापरा।  
 या परां भजते प्रीतिं वनेऽपि भवने यथा॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संतुष्टा फलमूलेन भर्तृशुश्रूषणापरा।  
+सन्तुष्टा फलमूलेन भर्तृशुश्रूषणापरा।  
 या परां भजते प्रीतिं वनेऽपि भवने यथा॥ २०॥
 </details>
 
@@ -344,13 +341,13 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सेयं कनकवर्णांगी नित्यं सुस्मितभाषिणी।  
+सेयं कनकवर्णाङ्गी नित्यं सुस्मितभाषिणी।  
 सहते यातनामेतामनर्थानामभागिनी॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सेयं कनकवर्णांगी नित्यं सुस्मितभाषिणी।  
+सेयं कनकवर्णाङ्गी नित्यं सुस्मितभाषिणी।  
 सहते यातनामेतामनर्थानामभागिनी॥ २१॥
 </details>
 
@@ -480,7 +477,7 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षितिक्षमा पुष्करसंनिभेक्षणा  
+क्षितिक्षमा पुष्करसन्निभेक्षणा  
 या रक्षिता राघवलक्ष्मणाभ्याम्।  
 सा राक्षसीभिर्विकृतेक्षणाभिः  
 संरक्ष्यते सम्प्रति वृक्षमूले॥ २९॥
@@ -488,7 +485,7 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 
 <details><summary>मूलम्</summary>
 
-क्षितिक्षमा पुष्करसंनिभेक्षणा  
+क्षितिक्षमा पुष्करसन्निभेक्षणा  
 या रक्षिता राघवलक्ष्मणाभ्याम्।  
 सा राक्षसीभिर्विकृतेक्षणाभिः  
 संरक्ष्यते सम्प्रति वृक्षमूले॥ २९॥
@@ -567,3 +564,4 @@ title_english = "016 Hanuma s grief at the plight of Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे षोडशः सर्गः॥ १६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें सोलहवाँ सर्ग पूरा हुआ॥ १६॥
 </details>
+

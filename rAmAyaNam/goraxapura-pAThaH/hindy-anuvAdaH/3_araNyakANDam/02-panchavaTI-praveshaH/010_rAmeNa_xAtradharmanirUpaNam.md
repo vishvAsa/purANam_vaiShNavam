@@ -4,11 +4,8 @@ title_english = "010 Sri Rama s reply to Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-010-Ramena_Kshatra_Dharma_Nirupanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-010-Ramena_Kshatra_Dharma_Nirupanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -140,14 +137,14 @@ title_english = "010 Sri Rama s reply to Seetha"
 
 प्रसीदन्तु भवन्तो मे ह्रीरेषा तु ममातुला॥ ८॥  
 यदीदृशैरहं विप्रैरुपस्थेयैरुपस्थितः।  
-किं करोमीति च मया व्याहृतं द्विजसंनिधौ॥ ९॥
+किं करोमीति च मया व्याहृतं द्विजसन्निधौ॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रसीदन्तु भवन्तो मे ह्रीरेषा तु ममातुला॥ ८॥  
 यदीदृशैरहं विप्रैरुपस्थेयैरुपस्थितः।  
-किं करोमीति च मया व्याहृतं द्विजसंनिधौ॥ ९॥
+किं करोमीति च मया व्याहृतं द्विजसन्निधौ॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -374,3 +371,4 @@ title_english = "010 Sri Rama s reply to Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे दशमः सर्गः॥ १०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें दसवाँ सर्ग पूरा हुआ॥ १०॥
 </details>
+

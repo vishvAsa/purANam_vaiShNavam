@@ -4,11 +4,8 @@ title_english = "042 king bhageeratha s effort to bring river ganga ion to the e
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-042-Bhagiratha_Yathnaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-042-Bhagiratha_Yathnaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -102,13 +99,13 @@ title_english = "042 king bhageeratha s effort to bring river ganga ion to the e
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथं गंगावतरणं कथं तेषां जलक्रिया।  
+कथं गङ्गावतरणं कथं तेषां जलक्रिया।  
 तारयेयं कथं चैतानिति चिन्तापरोऽभवत्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथं गंगावतरणं कथं तेषां जलक्रिया।  
+कथं गङ्गावतरणं कथं तेषां जलक्रिया।  
 तारयेयं कथं चैतानिति चिन्तापरोऽभवत्॥ ६॥
 </details>
 
@@ -189,7 +186,7 @@ title_english = "042 king bhageeratha s effort to bring river ganga ion to the e
 
 भगीरथस्तु राजर्षिर्धार्मिको रघुनन्दन।  
 अनपत्यो महाराजः प्रजाकामः स च प्रजाः॥ ११॥  
-मन्त्रिष्वाधाय तद् राज्यं गंगावतरणे रतः।  
+मन्त्रिष्वाधाय तद् राज्यं गङ्गावतरणे रतः।  
 तपो दीर्घं समातिष्ठद् गोकर्णे रघुनन्दन॥ १२॥
 </details>
 
@@ -197,7 +194,7 @@ title_english = "042 king bhageeratha s effort to bring river ganga ion to the e
 
 भगीरथस्तु राजर्षिर्धार्मिको रघुनन्दन।  
 अनपत्यो महाराजः प्रजाकामः स च प्रजाः॥ ११॥  
-मन्त्रिष्वाधाय तद् राज्यं गंगावतरणे रतः।  
+मन्त्रिष्वाधाय तद् राज्यं गङ्गावतरणे रतः।  
 तपो दीर्घं समातिष्ठद् गोकर्णे रघुनन्दन॥ १२॥
 </details>
 
@@ -297,13 +294,13 @@ title_english = "042 king bhageeratha s effort to bring river ganga ion to the e
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गंगायाः सलिलक्लिन्ने भस्मन्येषां महात्मनाम्।  
+गङ्गायाः सलिलक्लिन्ने भस्मन्येषां महात्मनाम्।  
 स्वर्गं गच्छेयुरत्यन्तं सर्वे च प्रपितामहाः॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-गंगायाः सलिलक्लिन्ने भस्मन्येषां महात्मनाम्।  
+गङ्गायाः सलिलक्लिन्ने भस्मन्येषां महात्मनाम्।  
 स्वर्गं गच्छेयुरत्यन्तं सर्वे च प्रपितामहाः॥ १९॥
 </details>
 
@@ -314,13 +311,13 @@ title_english = "042 king bhageeratha s effort to bring river ganga ion to the e
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देव याचे ह संतत्यै नावसीदेत् कुलं च नः।  
+देव याचे ह सन्तत्यै नावसीदेत् कुलं च नः।  
 इक्ष्वाकूणां कुले देव एष मेऽस्तु वरः परः॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-देव याचे ह संतत्यै नावसीदेत् कुलं च नः।  
+देव याचे ह सन्तत्यै नावसीदेत् कुलं च नः।  
 इक्ष्वाकूणां कुले देव एष मेऽस्तु वरः परः॥ २०॥
 </details>
 
@@ -365,13 +362,13 @@ title_english = "042 king bhageeratha s effort to bring river ganga ion to the e
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इयं हैमवती ज्येष्ठा गंगा हिमवतः सुता।  
+इयं हैमवती ज्येष्ठा गङ्गा हिमवतः सुता।  
 तां वै धारयितुं राजन् हरस्तत्र नियुज्यताम्॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इयं हैमवती ज्येष्ठा गंगा हिमवतः सुता।  
+इयं हैमवती ज्येष्ठा गङ्गा हिमवतः सुता।  
 तां वै धारयितुं राजन् हरस्तत्र नियुज्यताम्॥ २३॥
 </details>
 
@@ -382,13 +379,13 @@ title_english = "042 king bhageeratha s effort to bring river ganga ion to the e
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गंगायाः पतनं राजन् पृथिवी न सहिष्यते।  
+गङ्गायाः पतनं राजन् पृथिवी न सहिष्यते।  
 तां वै धारयितुं राजन् नान्यं पश्यामि शूलिनः॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-गंगायाः पतनं राजन् पृथिवी न सहिष्यते।  
+गङ्गायाः पतनं राजन् पृथिवी न सहिष्यते।  
 तां वै धारयितुं राजन् नान्यं पश्यामि शूलिनः॥ २४॥
 </details>
 
@@ -399,13 +396,13 @@ title_english = "042 king bhageeratha s effort to bring river ganga ion to the e
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमेवमुक्त्वा राजानं गंगां चाभाष्य लोककृत्।  
+तमेवमुक्त्वा राजानं गङ्गां चाभाष्य लोककृत्।  
 जगाम त्रिदिवं देवैः सर्वैः सह मरुद्‍गणैः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तमेवमुक्त्वा राजानं गंगां चाभाष्य लोककृत्।  
+तमेवमुक्त्वा राजानं गङ्गां चाभाष्य लोककृत्।  
 जगाम त्रिदिवं देवैः सर्वैः सह मरुद्‍गणैः॥ २५॥
 </details>
 
@@ -419,3 +416,4 @@ title_english = "042 king bhageeratha s effort to bring river ganga ion to the e
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्विचत्वारिंशः सर्गः॥ ४२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें बयालीसवाँ सर्ग पूरा हुआ॥ ४२॥
 </details>
+

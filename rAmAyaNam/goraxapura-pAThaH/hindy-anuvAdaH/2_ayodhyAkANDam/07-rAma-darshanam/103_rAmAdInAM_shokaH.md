@@ -4,11 +4,8 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-103-Rama_Deenam_Shokaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-103-Rama_Deenam_Shokaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,7 +32,7 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं तु वज्रमिवोत्सृष्टमाहवे दानवारिणा।  
-वाग्वज्रं भरतेनोक्तममनोज्ञं परंतपः॥ २॥  
+वाग्वज्रं भरतेनोक्तममनोज्ञं परन्तपः॥ २॥  
 प्रगृह्य रामो बाहू वै पुष्पिताङ्ग इव द्रुमः।  
 वने परशुना कृत्तस्तथा भुवि पपात ह॥ ३॥
 </details>
@@ -43,7 +40,7 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 <details><summary>मूलम्</summary>
 
 तं तु वज्रमिवोत्सृष्टमाहवे दानवारिणा।  
-वाग्वज्रं भरतेनोक्तममनोज्ञं परंतपः॥ २॥  
+वाग्वज्रं भरतेनोक्तममनोज्ञं परन्तपः॥ २॥  
 प्रगृह्य रामो बाहू वै पुष्पिताङ्ग इव द्रुमः।  
 वने परशुना कृत्तस्तथा भुवि पपात ह॥ ३॥
 </details>
@@ -76,13 +73,13 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स तु संज्ञां पुनर्लब्ध्वा नेत्राभ्यामश्रुमुत्सृजन्।  
+स तु सञ्ज्ञां पुनर्लब्ध्वा नेत्राभ्यामश्रुमुत्सृजन्।  
 उपाक्रामत काकुत्स्थः कृपणं बहु भाषितुम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स तु संज्ञां पुनर्लब्ध्वा नेत्राभ्यामश्रुमुत्सृजन्।  
+स तु सञ्ज्ञां पुनर्लब्ध्वा नेत्राभ्यामश्रुमुत्सृजन्।  
 उपाक्रामत काकुत्स्थः कृपणं बहु भाषितुम्॥ ६॥
 </details>
 
@@ -178,13 +175,13 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-समाप्तवनवासं मामयोध्यायां परंतप।  
+समाप्तवनवासं मामयोध्यायां परन्तप।  
 कोऽनुशासिष्यति पुनस्ताते लोकान्तरं गते॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-समाप्तवनवासं मामयोध्यायां परंतप।  
+समाप्तवनवासं मामयोध्यायां परन्तप।  
 कोऽनुशासिष्यति पुनस्ताते लोकान्तरं गते॥ १२॥
 </details>
 
@@ -213,13 +210,13 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वाथ भरतं भार्यामभ्येत्य राघवः।  
-उवाच शोकसंतप्तः पूर्णचन्द्रनिभाननाम्॥ १४॥
+उवाच शोकसन्तप्तः पूर्णचन्द्रनिभाननाम्॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्त्वाथ भरतं भार्यामभ्येत्य राघवः।  
-उवाच शोकसंतप्तः पूर्णचन्द्रनिभाननाम्॥ १४॥
+उवाच शोकसन्तप्तः पूर्णचन्द्रनिभाननाम्॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -502,7 +499,7 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 
 महाबलानां रुदतां कुर्वतामुदकं पितुः।  
 विज्ञाय तुमुलं शब्दं त्रस्ता भरतसैनिकाः॥ ३४॥  
-अब्रुवंश्चापि रामेण भरतः संगतो ध्रुवम्।  
+अब्रुवंश्चापि रामेण भरतः सङ्गतो ध्रुवम्।  
 तेषामेव महान् शब्दः शोचतां पितरं मृतम्॥ ३५॥
 </details>
 
@@ -510,7 +507,7 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 
 महाबलानां रुदतां कुर्वतामुदकं पितुः।  
 विज्ञाय तुमुलं शब्दं त्रस्ता भरतसैनिकाः॥ ३४॥  
-अब्रुवंश्चापि रामेण भरतः संगतो ध्रुवम्।  
+अब्रुवंश्चापि रामेण भरतः सङ्गतो ध्रुवम्।  
 तेषामेव महान् शब्दः शोचतां पितरं मृतम्॥ ३५॥
 </details>
 
@@ -538,13 +535,13 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हयैरन्ये गजैरन्ये रथैरन्ये स्वलंकृतैः।  
+हयैरन्ये गजैरन्ये रथैरन्ये स्वलङ्कृतैः।  
 सुकुमारास्तथैवान्ये पद्भिरेव नरा ययुः॥ ३७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-हयैरन्ये गजैरन्ये रथैरन्ये स्वलंकृतैः।  
+हयैरन्ये गजैरन्ये रथैरन्ये स्वलङ्कृतैः।  
 सुकुमारास्तथैवान्ये पद्भिरेव नरा ययुः॥ ३७॥
 </details>
 
@@ -641,13 +638,13 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथाह्वहंसानत्यूहाः प्लवाः कारण्डवाः परे।  
-तथा पुंस्कोकिलाः क्रौञ्चा विसंज्ञा भेजिरे दिशः॥ ४३॥
+तथा पुंस्कोकिलाः क्रौञ्चा विसञ्ज्ञा भेजिरे दिशः॥ ४३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रथाह्वहंसानत्यूहाः प्लवाः कारण्डवाः परे।  
-तथा पुंस्कोकिलाः क्रौञ्चा विसंज्ञा भेजिरे दिशः॥ ४३॥
+तथा पुंस्कोकिलाः क्रौञ्चा विसञ्ज्ञा भेजिरे दिशः॥ ४३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -658,13 +655,13 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन शब्देन वित्रस्तैराकाशं पक्षिभिर्वृतम्।  
-मनुष्यैरावृता भूमिरुभयं प्रबभौ तदा॥  ४४॥
+मनुष्यैरावृता भूमिरुभयं प्रबभौ तदा॥ ४४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तेन शब्देन वित्रस्तैराकाशं पक्षिभिर्वृतम्।  
-मनुष्यैरावृता भूमिरुभयं प्रबभौ तदा॥  ४४॥
+मनुष्यैरावृता भूमिरुभयं प्रबभौ तदा॥ ४४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -748,7 +745,7 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 
 ततः स तेषां रुदतां महात्मनां  
 भुवं च खं चानुविनादयन् स्वनः।  
-गुहा गिरीणां च दिशश्च संततं  
+गुहा गिरीणां च दिशश्च सन्ततं  
 मृदङ्गघोषप्रतिमो विशुश्रुवे॥ ४९॥
 </details>
 
@@ -756,7 +753,7 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 
 ततः स तेषां रुदतां महात्मनां  
 भुवं च खं चानुविनादयन् स्वनः।  
-गुहा गिरीणां च दिशश्च संततं  
+गुहा गिरीणां च दिशश्च सन्ततं  
 मृदङ्गघोषप्रतिमो विशुश्रुवे॥ ४९॥
 </details>
 
@@ -770,3 +767,4 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्र्यधिकशततमः सर्गः॥ १०३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ तीनवाँ सर्ग पूरा हुआ॥ १०३॥
 </details>
+

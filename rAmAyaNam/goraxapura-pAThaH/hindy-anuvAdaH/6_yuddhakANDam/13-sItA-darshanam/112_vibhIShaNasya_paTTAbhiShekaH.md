@@ -3,11 +3,8 @@ title = "११२ विभीषणस्य पट्टाभिषेकः
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-112-Vibhishana_s_installation__0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-112-Vibhishana_s_installation__0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -349,7 +346,7 @@ title = "११२ विभीषणस्य पट्टाभिषेकः
 वैदेह्यै मां च कुशलं सुग्रीवं च सलक्ष्मणम्।  
 आचक्ष्व वदतां श्रेष्ठ रावणं च हतं रणे॥ २५॥  
 प्रियमेतदिहाख्याहि वैदेह्यास्त्वं हरीश्वर।  
-प्रतिगृह्य तु संदेशमुपावर्तितुमर्हसि॥ २६॥
+प्रतिगृह्य तु सन्देशमुपावर्तितुमर्हसि॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -357,7 +354,7 @@ title = "११२ विभीषणस्य पट्टाभिषेकः
 वैदेह्यै मां च कुशलं सुग्रीवं च सलक्ष्मणम्।  
 आचक्ष्व वदतां श्रेष्ठ रावणं च हतं रणे॥ २५॥  
 प्रियमेतदिहाख्याहि वैदेह्यास्त्वं हरीश्वर।  
-प्रतिगृह्य तु संदेशमुपावर्तितुमर्हसि॥ २६॥
+प्रतिगृह्य तु सन्देशमुपावर्तितुमर्हसि॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -370,3 +367,4 @@ title = "११२ विभीषणस्य पट्टाभिषेकः
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्वादशाधिकशततमः सर्गः॥ ११२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें एक सौ बारहवाँ सर्ग पूरा हुआ॥ ११२॥
 </details>
+

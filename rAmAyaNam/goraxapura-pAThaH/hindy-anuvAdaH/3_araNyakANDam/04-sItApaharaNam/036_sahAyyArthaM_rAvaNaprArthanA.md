@@ -4,11 +4,8 @@ title_english = "036 Ravana seeks Mareecha s help"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-036-Sahayyartham_Ravana_Prathana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-036-Sahayyartham_Ravana_Prathana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -107,15 +104,15 @@ title_english = "036 Ravana seeks Mareecha s help"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाशस्त्रप्रहरणाः खरप्रमुखराक्षसाः।  
-तेन संजातरोषेण रामेण रणमूर्धनि॥ ७॥  
-अनुक्त्वा परुषं किंचिच्छरैर्व्यापारितं धनुः।
+तेन सञ्जातरोषेण रामेण रणमूर्धनि॥ ७॥  
+अनुक्त्वा परुषं किञ्चिच्छरैर्व्यापारितं धनुः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 नानाशस्त्रप्रहरणाः खरप्रमुखराक्षसाः।  
-तेन संजातरोषेण रामेण रणमूर्धनि॥ ७॥  
-अनुक्त्वा परुषं किंचिच्छरैर्व्यापारितं धनुः।
+तेन सञ्जातरोषेण रामेण रणमूर्धनि॥ ७॥  
+अनुक्त्वा परुषं किञ्चिच्छरैर्व्यापारितं धनुः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -127,7 +124,7 @@ title_english = "036 Ravana seeks Mareecha s help"
 
 चतुर्दश सहस्राणि रक्षसामुग्रतेजसाम्॥ ८॥  
 निहतानि शरैर्दीप्तैर्मानुषेण पदातिना।  
-खरश्च निहतः संख्ये दूषणश्च निपातितः॥ ९॥  
+खरश्च निहतः सङ्ख्ये दूषणश्च निपातितः॥ ९॥  
 हत्वा त्रिशिरसं चापि निर्भया दण्डकाः कृताः।
 </details>
 
@@ -135,7 +132,7 @@ title_english = "036 Ravana seeks Mareecha s help"
 
 चतुर्दश सहस्राणि रक्षसामुग्रतेजसाम्॥ ८॥  
 निहतानि शरैर्दीप्तैर्मानुषेण पदातिना।  
-खरश्च निहतः संख्ये दूषणश्च निपातितः॥ ९॥  
+खरश्च निहतः सङ्ख्ये दूषणश्च निपातितः॥ ९॥  
 हत्वा त्रिशिरसं चापि निर्भया दण्डकाः कृताः।
 </details>
 
@@ -367,3 +364,4 @@ title_english = "036 Ravana seeks Mareecha s help"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे षट‍‍्त्रिंशः सर्गः॥ ३६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें छत्तीसवाँ सर्ग पूरा हुआ॥ ३६॥
 </details>
+

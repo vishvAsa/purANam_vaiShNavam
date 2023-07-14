@@ -4,11 +4,8 @@ title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-119-Ramasya_Dandakaranya_Praveshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-119-Ramasya_Dandakaranya_Praveshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -54,7 +51,7 @@ title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 रमेयं कथया ते तु दृढं मधुरभाषिणि।  
 रविरस्तं गतः श्रीमानुपोह्य रजनीं शुभाम्॥ ३॥  
 दिवसं परिकीर्णानामाहारार्थं पतत्त्रिणाम्।  
-संध्याकाले निलीनानां निद्रार्थं श्रूयते ध्वनिः॥ ४॥
+सन्ध्याकाले निलीनानां निद्रार्थं श्रूयते ध्वनिः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -62,7 +59,7 @@ title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 रमेयं कथया ते तु दृढं मधुरभाषिणि।  
 रविरस्तं गतः श्रीमानुपोह्य रजनीं शुभाम्॥ ३॥  
 दिवसं परिकीर्णानामाहारार्थं पतत्त्रिणाम्।  
-संध्याकाले निलीनानां निद्रार्थं श्रूयते ध्वनिः॥ ४॥
+सन्ध्याकाले निलीनानां निद्रार्थं श्रूयते ध्वनिः॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -140,13 +137,13 @@ title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम्प्रवृत्ता निशा सीते नक्षत्रसमलंकृता।  
+सम्प्रवृत्ता निशा सीते नक्षत्रसमलङ्कृता।  
 ज्योत्स्नाप्रावरणश्चन्द्रो दृश्यतेऽभ्युदितोऽम्बरे॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सम्प्रवृत्ता निशा सीते नक्षत्रसमलंकृता।  
+सम्प्रवृत्ता निशा सीते नक्षत्रसमलङ्कृता।  
 ज्योत्स्नाप्रावरणश्चन्द्रो दृश्यतेऽभ्युदितोऽम्बरे॥ ९॥
 </details>
 
@@ -174,14 +171,14 @@ title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अलंकुरु च तावत् त्वं प्रत्यक्षं मम मैथिलि।  
-प्रीतिं जनय मे वत्से दिव्यालंकारशोभिनी॥ ११॥
+अलङ्कुरु च तावत् त्वं प्रत्यक्षं मम मैथिलि।  
+प्रीतिं जनय मे वत्से दिव्यालङ्कारशोभिनी॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अलंकुरु च तावत् त्वं प्रत्यक्षं मम मैथिलि।  
-प्रीतिं जनय मे वत्से दिव्यालंकारशोभिनी॥ ११॥
+अलङ्कुरु च तावत् त्वं प्रत्यक्षं मम मैथिलि।  
+प्रीतिं जनय मे वत्से दिव्यालङ्कारशोभिनी॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -191,13 +188,13 @@ title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा तदा समलंकृत्य सीता सुरसुतोपमा।  
+सा तदा समलङ्कृत्य सीता सुरसुतोपमा।  
 प्रणम्य शिरसा पादौ रामं त्वभिमुखी ययौ॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सा तदा समलंकृत्य सीता सुरसुतोपमा।  
+सा तदा समलङ्कृत्य सीता सुरसुतोपमा।  
 प्रणम्य शिरसा पादौ रामं त्वभिमुखी ययौ॥ १२॥
 </details>
 
@@ -294,7 +291,7 @@ title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तावूचुस्ते वनचरास्तापसा धर्मचारिणः।  
-वनस्य तस्य संचारं राक्षसैः समभिप्लुतम्॥ १८॥  
+वनस्य तस्य सञ्चारं राक्षसैः समभिप्लुतम्॥ १८॥  
 रक्षांसि पुरुषादानि नानारूपाणि राघव।  
 वसन्त्यस्मिन् महारण्ये व्यालाश्च रुधिराशनाः॥ १९॥
 </details>
@@ -302,7 +299,7 @@ title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 <details><summary>मूलम्</summary>
 
 तावूचुस्ते वनचरास्तापसा धर्मचारिणः।  
-वनस्य तस्य संचारं राक्षसैः समभिप्लुतम्॥ १८॥  
+वनस्य तस्य सञ्चारं राक्षसैः समभिप्लुतम्॥ १८॥  
 रक्षांसि पुरुषादानि नानारूपाणि राघव।  
 वसन्त्यस्मिन् महारण्ये व्यालाश्च रुधिराशनाः॥ १९॥
 </details>
@@ -349,7 +346,7 @@ title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतीरितः प्राञ्जलिभिस्तपस्विभि-  
-र्द्विजैः कृतस्वस्त्ययनः परंतपः।  
+र्द्विजैः कृतस्वस्त्ययनः परन्तपः।  
 वनं सभार्यः प्रविवेश राघवः  
 सलक्ष्मणः सूर्य इवाभ्रमण्डलम्॥ २२॥
 </details>
@@ -357,7 +354,7 @@ title_english = "119 Seetha shows the gifts of Anasuya to Rama"
 <details><summary>मूलम्</summary>
 
 इतीरितः प्राञ्जलिभिस्तपस्विभि-  
-र्द्विजैः कृतस्वस्त्ययनः परंतपः।  
+र्द्विजैः कृतस्वस्त्ययनः परन्तपः।  
 वनं सभार्यः प्रविवेश राघवः  
 सलक्ष्मणः सूर्य इवाभ्रमण्डलम्॥ २२॥
 </details>

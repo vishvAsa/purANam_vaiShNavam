@@ -4,11 +4,8 @@ title_english = "047 Ravana sends his son Aksha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-046-Ravana_sends_five_army-generals.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-046-Ravana_sends_five_army-generals.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -60,7 +57,7 @@ title_english = "047 Ravana sends his son Aksha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो महान् बालदिवाकरप्रभं  
-प्रतप्तजाम्बूनदजालसंततम्।  
+प्रतप्तजाम्बूनदजालसन्ततम्।  
 रथं समास्थाय ययौ स वीर्यवान्  
 महाहरिं तं प्रति नैर्ऋतर्षभः॥ ३॥
 </details>
@@ -68,7 +65,7 @@ title_english = "047 Ravana sends his son Aksha"
 <details><summary>मूलम्</summary>
 
 ततो महान् बालदिवाकरप्रभं  
-प्रतप्तजाम्बूनदजालसंततम्।  
+प्रतप्तजाम्बूनदजालसन्ततम्।  
 रथं समास्थाय ययौ स वीर्यवान्  
 महाहरिं तं प्रति नैर्ऋतर्षभः॥ ३॥
 </details>
@@ -80,7 +77,7 @@ title_english = "047 Ravana sends his son Aksha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततस्तपःसंग्रहसंचयार्जितं  
+ततस्तपःसङ्ग्रहसञ्चयार्जितं  
 प्रतप्तजाम्बूनदजालचित्रितम्।  
 पताकिनं रत्नविभूषितध्वजं  
 मनोजवाष्टाश्ववरैः सुयोजितम्॥ ४॥  
@@ -96,7 +93,7 @@ title_english = "047 Ravana sends his son Aksha"
 
 <details><summary>मूलम्</summary>
 
-ततस्तपःसंग्रहसंचयार्जितं  
+ततस्तपःसङ्ग्रहसञ्चयार्जितं  
 प्रतप्तजाम्बूनदजालचित्रितम्।  
 पताकिनं रत्नविभूषितध्वजं  
 मनोजवाष्टाश्ववरैः सुयोजितम्॥ ४॥  
@@ -728,7 +725,7 @@ title_english = "047 Ravana sends his son Aksha"
 
 स भग्नबाहूरुकटीपयोधरः  
 क्षरन्नसृङ्‍‍‍‍निर्मथितास्थिलोचनः।  
-सम्भिन्नसंधिः प्रविकीर्णबन्धनो  
+सम्भिन्नसन्धिः प्रविकीर्णबन्धनो  
 हतः क्षितौ वायुसुतेन राक्षसः॥ ३६॥
 </details>
 
@@ -736,7 +733,7 @@ title_english = "047 Ravana sends his son Aksha"
 
 स भग्नबाहूरुकटीपयोधरः  
 क्षरन्नसृङ्‍‍‍‍निर्मथितास्थिलोचनः।  
-सम्भिन्नसंधिः प्रविकीर्णबन्धनो  
+सम्भिन्नसन्धिः प्रविकीर्णबन्धनो  
 हतः क्षितौ वायुसुतेन राक्षसः॥ ३६॥
 </details>
 
@@ -796,3 +793,4 @@ title_english = "047 Ravana sends his son Aksha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे सप्तचत्वारिंशः सर्गः॥ ४७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें सैंतालीसवाँ सर्ग पूरा हुआ॥ ४७॥
 </details>
+

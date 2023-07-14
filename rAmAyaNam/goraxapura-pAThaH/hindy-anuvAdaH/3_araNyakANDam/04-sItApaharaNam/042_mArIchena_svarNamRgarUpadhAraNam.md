@@ -4,11 +4,8 @@ title_english = "042 Maareecha turns into Golden Deer"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-042-Suvarna_Mruga_Rupadharanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-042-Suvarna_Mruga_Rupadharanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "042 Maareecha turns into Golden Deer"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु परुषं मारीचो रावणं ततः।  
-गच्छावेत्यब्रवीद् दीनो भयाद् रात्रिंचरप्रभोः॥ १॥
+गच्छावेत्यब्रवीद् दीनो भयाद् रात्रिञ्चरप्रभोः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्त्वा तु परुषं मारीचो रावणं ततः।  
-गच्छावेत्यब्रवीद् दीनो भयाद् रात्रिंचरप्रभोः॥ १॥
+गच्छावेत्यब्रवीद् दीनो भयाद् रात्रिञ्चरप्रभोः॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -247,8 +244,8 @@ title_english = "042 Maareecha turns into Golden Deer"
 स तु रूपं समास्थाय महदद्भुतदर्शनम्॥ १५॥  
 मणिप्रवरशृङ्गाग्रः सितासितमुखाकृतिः।  
 रक्तपद्मोत्पलमुख इन्द्रनीलोत्पलश्रवाः॥ १६॥  
-किंचिदभ्युन्नतग्रीव इन्द्रनीलनिभोदरः।  
-मधूकनिभपार्श्वश्च कञ्जकिञ्जल्कसंनिभः॥ १७॥
+किञ्चिदभ्युन्नतग्रीव इन्द्रनीलनिभोदरः।  
+मधूकनिभपार्श्वश्च कञ्जकिञ्जल्कसन्निभः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -256,8 +253,8 @@ title_english = "042 Maareecha turns into Golden Deer"
 स तु रूपं समास्थाय महदद्भुतदर्शनम्॥ १५॥  
 मणिप्रवरशृङ्गाग्रः सितासितमुखाकृतिः।  
 रक्तपद्मोत्पलमुख इन्द्रनीलोत्पलश्रवाः॥ १६॥  
-किंचिदभ्युन्नतग्रीव इन्द्रनीलनिभोदरः।  
-मधूकनिभपार्श्वश्च कञ्जकिञ्जल्कसंनिभः॥ १७॥
+किञ्चिदभ्युन्नतग्रीव इन्द्रनीलनिभोदरः।  
+मधूकनिभपार्श्वश्च कञ्जकिञ्जल्कसन्निभः॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -267,13 +264,13 @@ title_english = "042 Maareecha turns into Golden Deer"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वैदूर्यसंकाशखुरस्तनुजङ्घः सुसंहतः।  
+वैदूर्यसङ्काशखुरस्तनुजङ्घः सुसंहतः।  
 इन्द्रायुधसवर्णेन पुच्छेनोर्ध्वं विराजितः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वैदूर्यसंकाशखुरस्तनुजङ्घः सुसंहतः।  
+वैदूर्यसङ्काशखुरस्तनुजङ्घः सुसंहतः।  
 इन्द्रायुधसवर्णेन पुच्छेनोर्ध्वं विराजितः॥ १८॥
 </details>
 
@@ -340,13 +337,13 @@ title_english = "042 Maareecha turns into Golden Deer"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदलीगृहकं गत्वा कर्णिकारानितस्ततः।  
-समाश्रयन् मन्दगतिं सीतासंदर्शनं ततः॥ २३॥
+समाश्रयन् मन्दगतिं सीतासन्दर्शनं ततः॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कदलीगृहकं गत्वा कर्णिकारानितस्ततः।  
-समाश्रयन् मन्दगतिं सीतासंदर्शनं ततः॥ २३॥
+समाश्रयन् मन्दगतिं सीतासन्दर्शनं ततः॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -408,13 +405,13 @@ title_english = "042 Maareecha turns into Golden Deer"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मृगयूथैरनुगतः पुनरेव निवर्तते।  
-सीतादर्शनमाकांक्षन् राक्षसो मृगतां गतः॥ २७॥
+सीतादर्शनमाकाङ्क्षन् राक्षसो मृगतां गतः॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मृगयूथैरनुगतः पुनरेव निवर्तते।  
-सीतादर्शनमाकांक्षन् राक्षसो मृगतां गतः॥ २७॥
+सीतादर्शनमाकाङ्क्षन् राक्षसो मृगतां गतः॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -552,3 +549,4 @@ title_english = "042 Maareecha turns into Golden Deer"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे द्विचत्वारिंशः सर्गः॥ ४२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें बयालीसवाँ सर्ग पूरा हुआ॥ ४२॥
 </details>
+

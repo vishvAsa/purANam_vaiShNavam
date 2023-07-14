@@ -4,11 +4,8 @@ title_english = "016 Ravana refuses to hear the words of Vibhishana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-016-Ravana_refuses_to_hear_the_words_of_Vibhishana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-016-Ravana_refuses_to_hear_the_words_of_Vibhishana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -205,13 +202,13 @@ title_english = "016 Ravana refuses to hear the words of Vibhishana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा शरदि मेघानां सिञ्चतामपि गर्जताम्।  
-न भवत्यम्बुसंक्लेदस्तथानार्येषु सौहृदम्॥ १२॥
+न भवत्यम्बुसङ्क्लेदस्तथानार्येषु सौहृदम्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यथा शरदि मेघानां सिञ्चतामपि गर्जताम्।  
-न भवत्यम्बुसंक्लेदस्तथानार्येषु सौहृदम्॥ १२॥
+न भवत्यम्बुसङ्क्लेदस्तथानार्येषु सौहृदम्॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -393,13 +390,13 @@ title_english = "016 Ravana refuses to hear the words of Vibhishana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दीप्तपावकसंकाशैः शितैः काञ्चनभूषणैः।  
+दीप्तपावकसङ्काशैः शितैः काञ्चनभूषणैः।  
 न त्वामिच्छाम्यहं द्रष्टुं रामेण निहतं शरैः॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-दीप्तपावकसंकाशैः शितैः काञ्चनभूषणैः।  
+दीप्तपावकसङ्काशैः शितैः काञ्चनभूषणैः।  
 न त्वामिच्छाम्यहं द्रष्टुं रामेण निहतं शरैः॥ २३॥
 </details>
 
@@ -470,3 +467,4 @@ title_english = "016 Ravana refuses to hear the words of Vibhishana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे षोडशः सर्गः॥ १६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें सोलहवाँ सर्ग पूरा हुआ॥ १६॥
 </details>
+

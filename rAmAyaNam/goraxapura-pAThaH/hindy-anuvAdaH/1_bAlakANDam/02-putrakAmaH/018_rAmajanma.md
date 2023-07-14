@@ -4,11 +4,8 @@ title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-018-Rama_Janma.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-018-Rama_Janma.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथार्हं पूजितास्तेन राज्ञा च पृथिवीश्वराः।  
-मुदिताः प्रययुर्देशान् प्रणम्य मुनिपुंगवम्॥ ३॥
+मुदिताः प्रययुर्देशान् प्रणम्य मुनिपुङ्गवम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यथार्हं पूजितास्तेन राज्ञा च पृथिवीश्वराः।  
-मुदिताः प्रययुर्देशान् प्रणम्य मुनिपुंगवम्॥ ३॥
+मुदिताः प्रययुर्देशान् प्रणम्य मुनिपुङ्गवम्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -102,13 +99,13 @@ title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शान्तया प्रययौ सार्धमृष्यशृंगः सुपूजितः।  
+शान्तया प्रययौ सार्धमृष्यशृङ्गः सुपूजितः।  
 अनुगम्यमानो राज्ञा च सानुयात्रेण धीमता॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-शान्तया प्रययौ सार्धमृष्यशृंगः सुपूजितः।  
+शान्तया प्रययौ सार्धमृष्यशृङ्गः सुपूजितः।  
 अनुगम्यमानो राज्ञा च सानुयात्रेण धीमता॥ ६॥
 </details>
 
@@ -286,13 +283,13 @@ title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्सवश्च महानासीदयोध्यायां जनाकुलः।  
-रथ्याश्च जनसम्बाधा नटनर्तकसंकुलाः॥ १८॥
+रथ्याश्च जनसम्बाधा नटनर्तकसङ्कुलाः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 उत्सवश्च महानासीदयोध्यायां जनाकुलः।  
-रथ्याश्च जनसम्बाधा नटनर्तकसंकुलाः॥ १८॥
+रथ्याश्च जनसम्बाधा नटनर्तकसङ्कुलाः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -514,7 +511,7 @@ title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 
 ते यदा ज्ञानसम्पन्नाः सर्वे समुदिता गुणैः॥ ३४॥  
 ह्रीमन्तः कीर्तिमन्तश्च सर्वज्ञा दीर्घदर्शिनः।  
-तेषामेवंप्रभावाणां सर्वेषां दीप्ततेजसाम्॥ ३५॥  
+तेषामेवम्प्रभावाणां सर्वेषां दीप्ततेजसाम्॥ ३५॥  
 पिता दशरथो हृष्टो ब्रह्मा लोकाधिपो यथा।
 </details>
 
@@ -522,7 +519,7 @@ title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 
 ते यदा ज्ञानसम्पन्नाः सर्वे समुदिता गुणैः॥ ३४॥  
 ह्रीमन्तः कीर्तिमन्तश्च सर्वज्ञा दीर्घदर्शिनः।  
-तेषामेवंप्रभावाणां सर्वेषां दीप्ततेजसाम्॥ ३५॥  
+तेषामेवम्प्रभावाणां सर्वेषां दीप्ततेजसाम्॥ ३५॥  
 पिता दशरथो हृष्टो ब्रह्मा लोकाधिपो यथा।
 </details>
 
@@ -571,13 +568,13 @@ title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स राज्ञो दर्शनाकांक्षी द्वाराध्यक्षानुवाच ह॥ ३९॥  
+स राज्ञो दर्शनाकाङ्क्षी द्वाराध्यक्षानुवाच ह॥ ३९॥  
 शीघ्रमाख्यात मां प्राप्तं कौशिकं गाधिनः सुतम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-स राज्ञो दर्शनाकांक्षी द्वाराध्यक्षानुवाच ह॥ ३९॥  
+स राज्ञो दर्शनाकाङ्क्षी द्वाराध्यक्षानुवाच ह॥ ३९॥  
 शीघ्रमाख्यात मां प्राप्तं कौशिकं गाधिनः सुतम्।
 </details>
 
@@ -690,13 +687,13 @@ title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपि ते संनताः सर्वे सामन्तरिपवो जिताः॥ ४६॥  
+अपि ते सन्नताः सर्वे सामन्तरिपवो जिताः॥ ४६॥  
 दैवं च मानुषं चैव कर्म ते साध्वनुष्ठितम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अपि ते संनताः सर्वे सामन्तरिपवो जिताः॥ ४६॥  
+अपि ते सन्नताः सर्वे सामन्तरिपवो जिताः॥ ४६॥  
 दैवं च मानुषं चैव कर्म ते साध्वनुष्ठितम्।
 </details>
 
@@ -707,13 +704,13 @@ title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वसिष्ठं च समागम्य कुशलं मुनिपुंगवः॥ ४७॥  
+वसिष्ठं च समागम्य कुशलं मुनिपुङ्गवः॥ ४७॥  
 ऋषींश्च तान् यथान्यायं महाभाग उवाच ह।
 </details>
 
 <details><summary>मूलम्</summary>
 
-वसिष्ठं च समागम्य कुशलं मुनिपुंगवः॥ ४७॥  
+वसिष्ठं च समागम्य कुशलं मुनिपुङ्गवः॥ ४७॥  
 ऋषींश्च तान् यथान्यायं महाभाग उवाच ह।
 </details>
 
@@ -819,13 +816,13 @@ title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शुभक्षेत्रगतश्चाहं तव संदर्शनात् प्रभो।  
+शुभक्षेत्रगतश्चाहं तव सन्दर्शनात् प्रभो।  
 ब्रूहि यत् प्रार्थितं तुभ्यं कार्यमागमनं प्रति॥ ५६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-शुभक्षेत्रगतश्चाहं तव संदर्शनात् प्रभो।  
+शुभक्षेत्रगतश्चाहं तव सन्दर्शनात् प्रभो।  
 ब्रूहि यत् प्रार्थितं तुभ्यं कार्यमागमनं प्रति॥ ५६॥
 </details>
 
@@ -896,3 +893,4 @@ title_english = "018 Rama Bharata Lakshmana and Shatrughna took births"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टादशः सर्गः॥ १८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें अठारहवाँ सर्ग पूरा हुआ॥ १८॥
 </details>
+

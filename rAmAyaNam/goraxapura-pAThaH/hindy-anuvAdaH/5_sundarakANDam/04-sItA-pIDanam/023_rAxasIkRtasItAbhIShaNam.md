@@ -4,11 +4,8 @@ title_english = "023 Ogres frighten Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-023-Ogres_frighten_Seetha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-023-Ogres_frighten_Seetha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "023 Ogres frighten Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा मैथिलीं राजा रावणः शत्रुरावणः।  
-संदिश्य च ततः सर्वा राक्षसीर्निर्जगाम ह॥ १॥
+सन्दिश्य च ततः सर्वा राक्षसीर्निर्जगाम ह॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इत्युक्त्वा मैथिलीं राजा रावणः शत्रुरावणः।  
-संदिश्य च ततः सर्वा राक्षसीर्निर्जगाम ह॥ १॥
+सन्दिश्य च ततः सर्वा राक्षसीर्निर्जगाम ह॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -186,13 +183,13 @@ title_english = "023 Ogres frighten Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वीर्योत्सिक्तस्य शूरस्य संग्रामेष्वनिवर्तिनः।  
+वीर्योत्सिक्तस्य शूरस्य सङ्ग्रामेष्वनिवर्तिनः।  
 बलिनो वीर्ययुक्तस्य भार्यात्वं किं न लिप्ससे॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वीर्योत्सिक्तस्य शूरस्य संग्रामेष्वनिवर्तिनः।  
+वीर्योत्सिक्तस्य शूरस्य सङ्ग्रामेष्वनिवर्तिनः।  
 बलिनो वीर्ययुक्तस्य भार्यात्वं किं न लिप्ससे॥ ११॥
 </details>
 
@@ -307,3 +304,4 @@ title_english = "023 Ogres frighten Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे त्रयोविंशः सर्गः॥ २३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें तेईसवाँ सर्ग पूरा हुआ॥ २३॥
 </details>
+

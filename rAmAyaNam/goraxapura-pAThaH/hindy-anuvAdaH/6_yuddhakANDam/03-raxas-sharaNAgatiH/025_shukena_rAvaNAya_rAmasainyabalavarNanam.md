@@ -4,11 +4,8 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-025-Suka_explains_the_strength_of_the_enemy_s_army_to_Ravana_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-025-Suka_explains_the_strength_of_the_enemy_s_army_to_Ravana_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,14 +48,14 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सागरे सेतुबन्धं तं न श्रद्दध्यां कथंचन।  
-अवश्यं चापि संख्येयं तन्मया वानरं बलम्॥ ३॥
+सागरे सेतुबन्धं तं न श्रद्दध्यां कथञ्चन।  
+अवश्यं चापि सङ्ख्येयं तन्मया वानरं बलम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सागरे सेतुबन्धं तं न श्रद्दध्यां कथंचन।  
-अवश्यं चापि संख्येयं तन्मया वानरं बलम्॥ ३॥
+सागरे सेतुबन्धं तं न श्रद्दध्यां कथञ्चन।  
+अवश्यं चापि सङ्ख्येयं तन्मया वानरं बलम्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -69,9 +66,9 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवन्तौ वानरं सैन्यं प्रविश्यानुपलक्षितौ।  
-परिमाणं च वीर्यं च ये च मुख्याः प्लवंगमाः॥ ४॥  
+परिमाणं च वीर्यं च ये च मुख्याः प्लवङ्गमाः॥ ४॥  
 मन्त्रिणो ये च रामस्य सुग्रीवस्य च सम्मताः।  
-ये पूर्वमभिवर्तन्ते ये च शूराः प्लवंगमाः॥ ५॥  
+ये पूर्वमभिवर्तन्ते ये च शूराः प्लवङ्गमाः॥ ५॥  
 स च सेतुर्यथा बद्धः सागरे सलिलार्णवे।  
 निवेशं च यथा तेषां वानराणां महात्मनाम्॥ ६॥  
 रामस्य व्यवसायं च वीर्यं प्रहरणानि च।  
@@ -83,9 +80,9 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 <details><summary>मूलम्</summary>
 
 भवन्तौ वानरं सैन्यं प्रविश्यानुपलक्षितौ।  
-परिमाणं च वीर्यं च ये च मुख्याः प्लवंगमाः॥ ४॥  
+परिमाणं च वीर्यं च ये च मुख्याः प्लवङ्गमाः॥ ४॥  
 मन्त्रिणो ये च रामस्य सुग्रीवस्य च सम्मताः।  
-ये पूर्वमभिवर्तन्ते ये च शूराः प्लवंगमाः॥ ५॥  
+ये पूर्वमभिवर्तन्ते ये च शूराः प्लवङ्गमाः॥ ५॥  
 स च सेतुर्यथा बद्धः सागरे सलिलार्णवे।  
 निवेशं च यथा तेषां वानराणां महात्मनाम्॥ ६॥  
 रामस्य व्यवसायं च वीर्यं प्रहरणानि च।  
@@ -119,13 +116,13 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तद् वानरं सैन्यमचिन्त्यं लोमहर्षणम्।  
-संख्यातुं नाध्यगच्छेतां तदा तौ शुकसारणौ॥ १०॥
+सङ्ख्यातुं नाध्यगच्छेतां तदा तौ शुकसारणौ॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततस्तद् वानरं सैन्यमचिन्त्यं लोमहर्षणम्।  
-संख्यातुं नाध्यगच्छेतां तदा तौ शुकसारणौ॥ १०॥
+सङ्ख्यातुं नाध्यगच्छेतां तदा तौ शुकसारणौ॥ १०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -189,13 +186,13 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्यैतौ राक्षसेन्द्रस्य मन्त्रिणौ शुकसारणौ।  
-लङ्कायाः समनुप्राप्तौ चारौ परपुरंजय॥ १४॥
+लङ्कायाः समनुप्राप्तौ चारौ परपुरञ्जय॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्यैतौ राक्षसेन्द्रस्य मन्त्रिणौ शुकसारणौ।  
-लङ्कायाः समनुप्राप्तौ चारौ परपुरंजय॥ १४॥
+लङ्कायाः समनुप्राप्तौ चारौ परपुरञ्जय॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -273,14 +270,14 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ किंचिददृष्टं वा भूयस्तद् द्रष्टुमर्हथः।  
-विभीषणो वा कात्स्‍‍र्न्येन पुनः संदर्शयिष्यति॥ १९॥
+अथ किञ्चिददृष्टं वा भूयस्तद् द्रष्टुमर्हथः।  
+विभीषणो वा कात्स्‍‍र्न्येन पुनः सन्दर्शयिष्यति॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथ किंचिददृष्टं वा भूयस्तद् द्रष्टुमर्हथः।  
-विभीषणो वा कात्स्‍‍र्न्येन पुनः संदर्शयिष्यति॥ १९॥
+अथ किञ्चिददृष्टं वा भूयस्तद् द्रष्टुमर्हथः।  
+विभीषणो वा कात्स्‍‍र्न्येन पुनः सन्दर्शयिष्यति॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -307,13 +304,13 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रच्छन्नौ च विमुञ्चेमौ चारौ रात्रिंचरावुभौ।  
+प्रच्छन्नौ च विमुञ्चेमौ चारौ रात्रिञ्चरावुभौ।  
 शत्रुपक्षस्य सततं विभीषण विकर्षिणौ॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्रच्छन्नौ च विमुञ्चेमौ चारौ रात्रिंचरावुभौ।  
+प्रच्छन्नौ च विमुञ्चेमौ चारौ रात्रिञ्चरावुभौ।  
 शत्रुपक्षस्य सततं विभीषण विकर्षिणौ॥ २१॥
 </details>
 
@@ -433,7 +430,7 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 रामो दाशरथिः श्रीमाल्ँलक्ष्मणश्च विभीषणः॥ २९॥  
 सुग्रीवश्च महातेजा महेन्द्रसमविक्रमः।  
 एते शक्ताः पुरीं लङ्कां सप्राकारां सतोरणाम्॥ ३०॥  
-उत्पाट्य संक्रामयितुं सर्वे तिष्ठन्तु वानराः।
+उत्पाट्य सङ्क्रामयितुं सर्वे तिष्ठन्तु वानराः।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -443,7 +440,7 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 रामो दाशरथिः श्रीमाल्ँलक्ष्मणश्च विभीषणः॥ २९॥  
 सुग्रीवश्च महातेजा महेन्द्रसमविक्रमः।  
 एते शक्ताः पुरीं लङ्कां सप्राकारां सतोरणाम्॥ ३०॥  
-उत्पाट्य संक्रामयितुं सर्वे तिष्ठन्तु वानराः।
+उत्पाट्य सङ्क्रामयितुं सर्वे तिष्ठन्तु वानराः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -511,3 +508,4 @@ title_english = "025 Suka explains the strength of the enemy s army to Ravana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे पञ्चविंशः सर्गः॥ २५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें पचीसवाँ सर्ग पूरा हुआ॥ २५॥
 </details>
+

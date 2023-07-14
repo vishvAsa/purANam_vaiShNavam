@@ -4,11 +4,8 @@ title_english = "038 Rama decides to stay on Suvela mountain"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-038-Rama_decides_to_stay_on_Suvela_mountain__0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-038-Rama_decides_to_stay_on_Suvela_mountain__0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -256,13 +253,13 @@ title_english = "038 Rama decides to stay on Suvela mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततोऽस्तमगमत् सूर्यः संध्यया प्रतिरञ्जितः।  
+ततोऽस्तमगमत् सूर्यः सन्ध्यया प्रतिरञ्जितः।  
 पूर्णचन्द्रप्रदीप्ता च क्षपा समतिवर्तत॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततोऽस्तमगमत् सूर्यः संध्यया प्रतिरञ्जितः।  
+ततोऽस्तमगमत् सूर्यः सन्ध्यया प्रतिरञ्जितः।  
 पूर्णचन्द्रप्रदीप्ता च क्षपा समतिवर्तत॥ १९॥
 </details>
 
@@ -297,3 +294,4 @@ title_english = "038 Rama decides to stay on Suvela mountain"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽष्टात्रिंशः सर्गः॥ ३८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें अड़तीसवाँ सर्ग पूरा हुआ॥ ३८॥
 </details>
+

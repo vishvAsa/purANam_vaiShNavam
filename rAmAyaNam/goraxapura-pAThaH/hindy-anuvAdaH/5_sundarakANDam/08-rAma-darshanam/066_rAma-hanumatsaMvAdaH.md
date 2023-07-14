@@ -4,11 +4,8 @@ title_english = "066 Sri Rama urges Hanuma to repeat the words spoken by Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-065-Hanuma_conveys_Seetha_s_message_to_.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-065-Hanuma_conveys_Seetha_s_message_to_.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -277,3 +274,4 @@ title_english = "066 Sri Rama urges Hanuma to repeat the words spoken by Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे षट्षष्टितमः सर्गः॥ ६६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें छाछठवाँ सर्ग पूरा हुआ॥ ६६॥
 </details>
+

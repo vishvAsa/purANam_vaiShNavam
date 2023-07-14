@@ -4,11 +4,8 @@ title_english = "039 Maareecha further advises Ravana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-039-Sahayya_Karana_Nirakaranam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-039-Sahayya_Karana_Nirakaranam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "039 Maareecha further advises Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमस्मि तदा मुक्तः कथंचित् तेन संयुगे।  
+एवमस्मि तदा मुक्तः कथञ्चित् तेन संयुगे।  
 इदानीमपि यद् वृत्तं तच्छृणुष्व यदुत्तरम्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवमस्मि तदा मुक्तः कथंचित् तेन संयुगे।  
+एवमस्मि तदा मुक्तः कथञ्चित् तेन संयुगे।  
 इदानीमपि यद् वृत्तं तच्छृणुष्व यदुत्तरम्॥ १॥
 </details>
 
@@ -142,7 +139,7 @@ title_english = "039 Maareecha further advises Ravana"
 
 सोऽहं वनगतं रामं परिभूय महाबलम्।  
 तापसोऽयमिति ज्ञात्वा पूर्ववैरमनुस्मरन्॥ ९॥  
-अभ्यधावं सुसंक्रुद्धस्तीक्ष्णशृङ्गो मृगाकृतिः।  
+अभ्यधावं सुसङ्क्रुद्धस्तीक्ष्णशृङ्गो मृगाकृतिः।  
 जिघांसुरकृतप्रज्ञस्तं प्रहारमनुस्मरन्॥ १०॥
 </details>
 
@@ -150,7 +147,7 @@ title_english = "039 Maareecha further advises Ravana"
 
 सोऽहं वनगतं रामं परिभूय महाबलम्।  
 तापसोऽयमिति ज्ञात्वा पूर्ववैरमनुस्मरन्॥ ९॥  
-अभ्यधावं सुसंक्रुद्धस्तीक्ष्णशृङ्गो मृगाकृतिः।  
+अभ्यधावं सुसङ्क्रुद्धस्तीक्ष्णशृङ्गो मृगाकृतिः।  
 जिघांसुरकृतप्रज्ञस्तं प्रहारमनुस्मरन्॥ १०॥
 </details>
 
@@ -178,14 +175,14 @@ title_english = "039 Maareecha further advises Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते बाणा वज्रसंकाशाः सुघोरा रक्तभोजनाः।  
-आजग्मुः सहिताः सर्वे त्रयः संनतपर्वणः॥ १२॥
+ते बाणा वज्रसङ्काशाः सुघोरा रक्तभोजनाः।  
+आजग्मुः सहिताः सर्वे त्रयः सन्नतपर्वणः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते बाणा वज्रसंकाशाः सुघोरा रक्तभोजनाः।  
-आजग्मुः सहिताः सर्वे त्रयः संनतपर्वणः॥ १२॥
+ते बाणा वज्रसङ्काशाः सुघोरा रक्तभोजनाः।  
+आजग्मुः सहिताः सर्वे त्रयः सन्नतपर्वणः॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -212,13 +209,13 @@ title_english = "039 Maareecha further advises Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शरेण मुक्तो रामस्य कथंचित् प्राप्य जीवितम्।  
+शरेण मुक्तो रामस्य कथञ्चित् प्राप्य जीवितम्।  
 इह प्रव्राजितो युक्तस्तापसोऽहं समाहितः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-शरेण मुक्तो रामस्य कथंचित् प्राप्य जीवितम्।  
+शरेण मुक्तो रामस्य कथञ्चित् प्राप्य जीवितम्।  
 इह प्रव्राजितो युक्तस्तापसोऽहं समाहितः॥ १४॥
 </details>
 
@@ -425,3 +422,4 @@ title_english = "039 Maareecha further advises Ravana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे एकोनचत्वारिंशः सर्गः॥ ३९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें उनतालीसवाँ सर्ग पूरा हुआ॥ ३९॥
 </details>
+

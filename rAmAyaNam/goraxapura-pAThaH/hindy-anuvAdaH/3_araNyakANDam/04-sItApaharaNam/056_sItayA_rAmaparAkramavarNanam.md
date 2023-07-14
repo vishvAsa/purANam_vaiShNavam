@@ -4,10 +4,8 @@ title_english = "056 Seetha reprimands Ravana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-056-Sitaaya_Rama_Parakrama_Varnanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-056-Sitaaya_Rama_Parakrama_Varnanam.mp3"></div>
 </details>
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,7 +32,7 @@ title_english = "056 Seetha reprimands Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजा दशरथो नाम धर्मसेतुरिवाचलः।  
-सत्यसंधः परिज्ञातो यस्य पुत्रः स राघवः॥ २॥  
+सत्यसन्धः परिज्ञातो यस्य पुत्रः स राघवः॥ २॥  
 रामो नाम स धर्मात्मा त्रिषु लोकेषु विश्रुतः।  
 दीर्घबाहुर्विशालाक्षो दैवतं स पतिर्मम॥ ३॥
 </details>
@@ -42,7 +40,7 @@ title_english = "056 Seetha reprimands Ravana"
 <details><summary>मूलम्</summary>
 
 राजा दशरथो नाम धर्मसेतुरिवाचलः।  
-सत्यसंधः परिज्ञातो यस्य पुत्रः स राघवः॥ २॥  
+सत्यसन्धः परिज्ञातो यस्य पुत्रः स राघवः॥ २॥  
 रामो नाम स धर्मात्मा त्रिषु लोकेषु विश्रुतः।  
 दीर्घबाहुर्विशालाक्षो दैवतं स पतिर्मम॥ ३॥
 </details>
@@ -72,13 +70,13 @@ title_english = "056 Seetha reprimands Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्यक्षं यद्यहं तस्य त्वया वै धर्षिता बलात्।  
-शयिता त्वं हतः संख्ये जनस्थाने यथा खरः॥ ५॥
+शयिता त्वं हतः सङ्ख्ये जनस्थाने यथा खरः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रत्यक्षं यद्यहं तस्य त्वया वै धर्षिता बलात्।  
-शयिता त्वं हतः संख्ये जनस्थाने यथा खरः॥ ५॥
+शयिता त्वं हतः सङ्ख्ये जनस्थाने यथा खरः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -343,13 +341,13 @@ title_english = "056 Seetha reprimands Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदं शरीरं निःसंज्ञं बन्ध वा घातयस्व वा।  
+इदं शरीरं निःसञ्ज्ञं बन्ध वा घातयस्व वा।  
 नेदं शरीरं रक्ष्यं मे जीवितं वापि राक्षस॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इदं शरीरं निःसंज्ञं बन्ध वा घातयस्व वा।  
+इदं शरीरं निःसञ्ज्ञं बन्ध वा घातयस्व वा।  
 नेदं शरीरं रक्ष्यं मे जीवितं वापि राक्षस॥ २१॥
 </details>
 
@@ -362,14 +360,14 @@ title_english = "056 Seetha reprimands Ravana"
 
 न तु शक्यमपक्रोशं पृथिव्यां दातुमात्मनः।  
 एवमुक्त्वा तु वैदेही क्रोधात् सुपरुषं वचः॥ २२॥  
-रावणं जानकी तत्र पुनर्नोवाच किंचन।
+रावणं जानकी तत्र पुनर्नोवाच किञ्चन।
 </details>
 
 <details><summary>मूलम्</summary>
 
 न तु शक्यमपक्रोशं पृथिव्यां दातुमात्मनः।  
 एवमुक्त्वा तु वैदेही क्रोधात् सुपरुषं वचः॥ २२॥  
-रावणं जानकी तत्र पुनर्नोवाच किंचन।
+रावणं जानकी तत्र पुनर्नोवाच किञ्चन।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -380,13 +378,13 @@ title_english = "056 Seetha reprimands Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताया वचनं श्रुत्वा परुषं रोमहर्षणम्॥ २३॥  
-प्रत्युवाच ततः सीतां भयसंदर्शनं वचः।
+प्रत्युवाच ततः सीतां भयसन्दर्शनं वचः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 सीताया वचनं श्रुत्वा परुषं रोमहर्षणम्॥ २३॥  
-प्रत्युवाच ततः सीतां भयसंदर्शनं वचः।
+प्रत्युवाच ततः सीतां भयसन्दर्शनं वचः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -609,3 +607,4 @@ title_english = "056 Seetha reprimands Ravana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे षट्पञ्चाशः सर्गः॥ ५६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें छप्पनवाँ सर्ग पूरा हुआ॥ ५६॥
 </details>
+

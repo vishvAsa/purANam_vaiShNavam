@@ -4,11 +4,8 @@ title_english = "026 Seetha decides to give up life"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-026-Seetha_decides_to_give_up_life.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-026-Seetha_decides_to_give_up_life.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -175,13 +172,13 @@ title_english = "026 Seetha decides to give up life"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ख्यातः प्राज्ञः कृतज्ञश्च सानुक्रोशश्च राघवः।  
-सद‍्वृत्तो निरनुक्रोशः शङ्के मद्भाग्यसंक्षयात्॥ ११॥
+सद‍्वृत्तो निरनुक्रोशः शङ्के मद्भाग्यसङ्क्षयात्॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ख्यातः प्राज्ञः कृतज्ञश्च सानुक्रोशश्च राघवः।  
-सद‍्वृत्तो निरनुक्रोशः शङ्के मद्भाग्यसंक्षयात्॥ ११॥
+सद‍्वृत्तो निरनुक्रोशः शङ्के मद्भाग्यसङ्क्षयात्॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -225,13 +222,13 @@ title_english = "026 Seetha decides to give up life"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विराधो दण्डकारण्ये येन राक्षसपुंगवः।  
+विराधो दण्डकारण्ये येन राक्षसपुङ्गवः।  
 रणे रामेण निहतः स मां किं नाभिपद्यते॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-विराधो दण्डकारण्ये येन राक्षसपुंगवः।  
+विराधो दण्डकारण्ये येन राक्षसपुङ्गवः।  
 रणे रामेण निहतः स मां किं नाभिपद्यते॥ १४॥
 </details>
 
@@ -464,13 +461,13 @@ title_english = "026 Seetha decides to give up life"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुण्योत्सवसमृद्धा च नष्टभर्त्री सराक्षसा।  
-भविष्यति पुरी लङ्का नष्टभर्त्री यथांगना॥ २८॥
+भविष्यति पुरी लङ्का नष्टभर्त्री यथाङ्गना॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पुण्योत्सवसमृद्धा च नष्टभर्त्री सराक्षसा।  
-भविष्यति पुरी लङ्का नष्टभर्त्री यथांगना॥ २८॥
+भविष्यति पुरी लङ्का नष्टभर्त्री यथाङ्गना॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -497,13 +494,13 @@ title_english = "026 Seetha decides to give up life"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सान्धकारा हतद्योता हतराक्षसपुंगवा।  
+सान्धकारा हतद्योता हतराक्षसपुङ्गवा।  
 भविष्यति पुरी लङ्का निर्दग्धा रामसायकैः॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सान्धकारा हतद्योता हतराक्षसपुंगवा।  
+सान्धकारा हतद्योता हतराक्षसपुङ्गवा।  
 भविष्यति पुरी लङ्का निर्दग्धा रामसायकैः॥ ३०॥
 </details>
 
@@ -840,3 +837,4 @@ title_english = "026 Seetha decides to give up life"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे षड‍‍्विंशः सर्गः॥ २६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें छब्बीसवाँ सर्ग पूरा हुआ॥ २६॥
 </details>
+

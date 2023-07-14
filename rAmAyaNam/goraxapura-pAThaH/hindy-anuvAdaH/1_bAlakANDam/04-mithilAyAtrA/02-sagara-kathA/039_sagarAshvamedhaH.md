@@ -4,11 +4,8 @@ title_english = "039 sagara s sons dig earth in search of ritual hose"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-039-Sagara_Ashvamedhaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-039-Sagara_Ashvamedhaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -69,7 +66,7 @@ title_english = "039 sagara s sons dig earth in search of ritual hose"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयतां विस्तरो राम सगरस्य महात्मनः।  
-शंकरश्वशुरो नाम्ना हिमवानिति विश्रुतः॥ ४॥  
+शङ्करश्वशुरो नाम्ना हिमवानिति विश्रुतः॥ ४॥  
 विन्ध्यपर्वतमासाद्य निरीक्षेते परस्परम्।  
 तयोर्मध्ये समभवद् यज्ञः स पुरुषोत्तम॥ ५॥
 </details>
@@ -77,7 +74,7 @@ title_english = "039 sagara s sons dig earth in search of ritual hose"
 <details><summary>मूलम्</summary>
 
 श्रूयतां विस्तरो राम सगरस्य महात्मनः।  
-शंकरश्वशुरो नाम्ना हिमवानिति विश्रुतः॥ ४॥  
+शङ्करश्वशुरो नाम्ना हिमवानिति विश्रुतः॥ ४॥  
 विन्ध्यपर्वतमासाद्य निरीक्षेते परस्परम्।  
 तयोर्मध्ये समभवद् यज्ञः स पुरुषोत्तम॥ ५॥
 </details>
@@ -174,7 +171,7 @@ title_english = "039 sagara s sons dig earth in search of ritual hose"
 तद् गच्छथ विचिन्वध्वं पुत्रका भद्रमस्तु वः॥ १३॥  
 समुद्रमालिनीं सर्वां पृथिवीमनुगच्छथ।  
 एकैकं योजनं पुत्रा विस्तारमभिगच्छत॥ १४॥  
-यावत् तुरगसंदर्शस्तावत् खनत मेदिनीम्।  
+यावत् तुरगसन्दर्शस्तावत् खनत मेदिनीम्।  
 तमेव हयहर्तारं मार्गमाणा ममाज्ञया॥ १५॥
 </details>
 
@@ -183,7 +180,7 @@ title_english = "039 sagara s sons dig earth in search of ritual hose"
 तद् गच्छथ विचिन्वध्वं पुत्रका भद्रमस्तु वः॥ १३॥  
 समुद्रमालिनीं सर्वां पृथिवीमनुगच्छथ।  
 एकैकं योजनं पुत्रा विस्तारमभिगच्छत॥ १४॥  
-यावत् तुरगसंदर्शस्तावत् खनत मेदिनीम्।  
+यावत् तुरगसन्दर्शस्तावत् खनत मेदिनीम्।  
 तमेव हयहर्तारं मार्गमाणा ममाज्ञया॥ १५॥
 </details>
 
@@ -333,13 +330,13 @@ title_english = "039 sagara s sons dig earth in search of ritual hose"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते प्रसाद्य महात्मानं विषण्णवदनास्तदा।  
-ऊचुः परमसंत्रस्ताः पितामहमिदं वचः॥ २४॥
+ऊचुः परमसन्त्रस्ताः पितामहमिदं वचः॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ते प्रसाद्य महात्मानं विषण्णवदनास्तदा।  
-ऊचुः परमसंत्रस्ताः पितामहमिदं वचः॥ २४॥
+ऊचुः परमसन्त्रस्ताः पितामहमिदं वचः॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -386,3 +383,4 @@ title_english = "039 sagara s sons dig earth in search of ritual hose"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकोनचत्वारिंशः सर्गः॥ ३९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें उनतालीसवाँ सर्ग पूरा हुआ॥ ३९॥
 </details>
+

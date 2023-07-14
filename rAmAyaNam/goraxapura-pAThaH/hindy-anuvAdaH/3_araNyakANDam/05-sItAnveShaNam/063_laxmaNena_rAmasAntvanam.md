@@ -4,11 +4,8 @@ title_english = "063 Rama laments for Seetha contd"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-063-Lakshmanena_Rama_Samthvanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-063-Lakshmanena_Rama_Samthvanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -60,7 +57,7 @@ title_english = "063 Rama laments for Seetha contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मद्विधो दुष्कृतकर्मकारी  
-मन्ये द्वितीयोऽस्ति वसुंधरायाम्।  
+मन्ये द्वितीयोऽस्ति वसुन्धरायाम्।  
 शोकानुशोको हि परम्पराया  
 मामेति भिन्दन् हृदयं मनश्च॥ ३॥
 </details>
@@ -68,7 +65,7 @@ title_english = "063 Rama laments for Seetha contd"
 <details><summary>मूलम्</summary>
 
 न मद्विधो दुष्कृतकर्मकारी  
-मन्ये द्वितीयोऽस्ति वसुंधरायाम्।  
+मन्ये द्वितीयोऽस्ति वसुन्धरायाम्।  
 शोकानुशोको हि परम्पराया  
 मामेति भिन्दन् हृदयं मनश्च॥ ३॥
 </details>
@@ -353,7 +350,7 @@ title_english = "063 Rama laments for Seetha contd"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लोकेषु सर्वेषु न नास्ति किंचिद्  
+लोकेषु सर्वेषु न नास्ति किञ्चिद्  
 यत् ते न नित्यं विदितं भवेत् तत्।  
 शंसस्व वायो कुलपालिनीं तां  
 मृता हृता वा पथि वर्तते वा॥ १७॥
@@ -361,7 +358,7 @@ title_english = "063 Rama laments for Seetha contd"
 
 <details><summary>मूलम्</summary>
 
-लोकेषु सर्वेषु न नास्ति किंचिद्  
+लोकेषु सर्वेषु न नास्ति किञ्चिद्  
 यत् ते न नित्यं विदितं भवेत् तत्।  
 शंसस्व वायो कुलपालिनीं तां  
 मृता हृता वा पथि वर्तते वा॥ १७॥
@@ -375,7 +372,7 @@ title_english = "063 Rama laments for Seetha contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतीव तं शोकविधेयदेहं  
-रामं विसंज्ञं विलपन्तमेव।  
+रामं विसञ्ज्ञं विलपन्तमेव।  
 उवाच सौमित्रिरदीनसत्त्वो  
 न्याय्ये स्थितः कालयुतं च वाक्यम्॥ १८॥
 </details>
@@ -383,7 +380,7 @@ title_english = "063 Rama laments for Seetha contd"
 <details><summary>मूलम्</summary>
 
 इतीव तं शोकविधेयदेहं  
-रामं विसंज्ञं विलपन्तमेव।  
+रामं विसञ्ज्ञं विलपन्तमेव।  
 उवाच सौमित्रिरदीनसत्त्वो  
 न्याय्ये स्थितः कालयुतं च वाक्यम्॥ १८॥
 </details>
@@ -440,3 +437,4 @@ title_english = "063 Rama laments for Seetha contd"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे त्रिषष्टितमः सर्गः॥ ६३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें तिरसठवाँ सर्ग पूरा हुआ॥ ६३॥
 </details>
+

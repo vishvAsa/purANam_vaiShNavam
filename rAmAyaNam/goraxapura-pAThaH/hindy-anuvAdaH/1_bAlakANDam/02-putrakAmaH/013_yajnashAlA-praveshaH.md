@@ -4,11 +4,8 @@ title_english = "013 ashva medha begun sage vashiSTa s arrangements"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-013-Yagnashala_Praveshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-013-Yagnashala_Praveshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,14 +48,14 @@ title_english = "013 ashva medha begun sage vashiSTa s arrangements"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यज्ञो मे क्रियतां ब्रह्मन् यथोक्तं मुनिपुंगव।  
-यथा न विघ्नाः क्रियन्ते यज्ञांगेषु विधीयताम्॥ ३॥
+यज्ञो मे क्रियतां ब्रह्मन् यथोक्तं मुनिपुङ्गव।  
+यथा न विघ्नाः क्रियन्ते यज्ञाङ्गेषु विधीयताम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यज्ञो मे क्रियतां ब्रह्मन् यथोक्तं मुनिपुंगव।  
-यथा न विघ्नाः क्रियन्ते यज्ञांगेषु विधीयताम्॥ ३॥
+यज्ञो मे क्रियतां ब्रह्मन् यथोक्तं मुनिपुङ्गव।  
+यथा न विघ्नाः क्रियन्ते यज्ञाङ्गेषु विधीयताम्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -249,14 +246,14 @@ title_english = "013 ashva medha begun sage vashiSTa s arrangements"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये स्युः सम्पूजिताः सर्वे वसुभिर्भोजनेन च॥ १६॥  
-यथा सर्वं सुविहितं न किंचित् परिहीयते।  
+यथा सर्वं सुविहितं न किञ्चित् परिहीयते।  
 तथा भवन्तः कुर्वन्तु प्रीतियुक्तेन चेतसा॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ये स्युः सम्पूजिताः सर्वे वसुभिर्भोजनेन च॥ १६॥  
-यथा सर्वं सुविहितं न किंचित् परिहीयते।  
+यथा सर्वं सुविहितं न किञ्चित् परिहीयते।  
 तथा भवन्तः कुर्वन्तु प्रीतियुक्तेन चेतसा॥ १७॥
 </details>
 
@@ -268,15 +265,15 @@ title_english = "013 ashva medha begun sage vashiSTa s arrangements"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सर्वे समागम्य वसिष्ठमिदमब्रुवन्।  
-यथेष्टं तत् सुविहितं न किंचित् परिहीयते॥ १८॥  
-यथोक्तं तत् करिष्यामो न किंचित् परिहास्यते।
+यथेष्टं तत् सुविहितं न किञ्चित् परिहीयते॥ १८॥  
+यथोक्तं तत् करिष्यामो न किञ्चित् परिहास्यते।
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः सर्वे समागम्य वसिष्ठमिदमब्रुवन्।  
-यथेष्टं तत् सुविहितं न किंचित् परिहीयते॥ १८॥  
-यथोक्तं तत् करिष्यामो न किंचित् परिहास्यते।
+यथेष्टं तत् सुविहितं न किञ्चित् परिहीयते॥ १८॥  
+यथोक्तं तत् करिष्यामो न किञ्चित् परिहास्यते।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -327,13 +324,13 @@ title_english = "013 ashva medha begun sage vashiSTa s arrangements"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा काशिपतिं स्निग्धं सततं प्रियवादिनम्।  
-सद‍्वृत्तं देवसंकाशं स्वयमेवानयस्व ह॥ २३॥
+सद‍्वृत्तं देवसङ्काशं स्वयमेवानयस्व ह॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तथा काशिपतिं स्निग्धं सततं प्रियवादिनम्।  
-सद‍्वृत्तं देवसंकाशं स्वयमेवानयस्व ह॥ २३॥
+सद‍्वृत्तं देवसङ्काशं स्वयमेवानयस्व ह॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -360,13 +357,13 @@ title_english = "013 ashva medha begun sage vashiSTa s arrangements"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अंगेश्वरं महेष्वासं रोमपादं सुसत्कृतम्।  
+अङ्गेश्वरं महेष्वासं रोमपादं सुसत्कृतम्।  
 वयस्यं राजसिंहस्य सपुत्रं तमिहानय॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अंगेश्वरं महेष्वासं रोमपादं सुसत्कृतम्।  
+अङ्गेश्वरं महेष्वासं रोमपादं सुसत्कृतम्।  
 वयस्यं राजसिंहस्य सपुत्रं तमिहानय॥ २५॥
 </details>
 
@@ -574,13 +571,13 @@ title_english = "013 ashva medha begun sage vashiSTa s arrangements"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा वसिष्ठवचनादृष्यशृंगस्य चोभयोः।  
+तथा वसिष्ठवचनादृष्यशृङ्गस्य चोभयोः।  
 दिवसे शुभनक्षत्रे निर्यातो जगतीपतिः॥ ३९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तथा वसिष्ठवचनादृष्यशृंगस्य चोभयोः।  
+तथा वसिष्ठवचनादृष्यशृङ्गस्य चोभयोः।  
 दिवसे शुभनक्षत्रे निर्यातो जगतीपतिः॥ ३९॥
 </details>
 
@@ -592,7 +589,7 @@ title_english = "013 ashva medha begun sage vashiSTa s arrangements"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो वसिष्ठप्रमुखाः सर्व एव द्विजोत्तमाः।  
-ऋष्यशृंगं पुरस्कृत्य यज्ञकर्मारभंस्तदा॥ ४०॥  
+ऋष्यशृङ्गं पुरस्कृत्य यज्ञकर्मारभंस्तदा॥ ४०॥  
 यज्ञवाटं गताः सर्वे यथाशास्त्रं यथाविधि।  
 श्रीमांश्च सह पत्नीभी राजा दीक्षामुपाविशत्॥ ४१॥
 </details>
@@ -600,7 +597,7 @@ title_english = "013 ashva medha begun sage vashiSTa s arrangements"
 <details><summary>मूलम्</summary>
 
 ततो वसिष्ठप्रमुखाः सर्व एव द्विजोत्तमाः।  
-ऋष्यशृंगं पुरस्कृत्य यज्ञकर्मारभंस्तदा॥ ४०॥  
+ऋष्यशृङ्गं पुरस्कृत्य यज्ञकर्मारभंस्तदा॥ ४०॥  
 यज्ञवाटं गताः सर्वे यथाशास्त्रं यथाविधि।  
 श्रीमांश्च सह पत्नीभी राजा दीक्षामुपाविशत्॥ ४१॥
 </details>
@@ -615,3 +612,4 @@ title_english = "013 ashva medha begun sage vashiSTa s arrangements"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रयोदशः सर्गः॥ १३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें तेरहवाँ सर्ग पूरा हुआ॥ १३॥
 </details>
+

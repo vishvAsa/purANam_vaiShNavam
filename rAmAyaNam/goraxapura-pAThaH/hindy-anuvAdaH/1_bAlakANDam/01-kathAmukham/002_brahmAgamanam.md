@@ -4,11 +4,8 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-002-Brahma_Aagamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-002-Brahma_Aagamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -187,13 +184,13 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं शोणितपरीतांगं चेष्टमानं महीतले।  
+तं शोणितपरीताङ्गं चेष्टमानं महीतले।  
 भार्या तु निहतं दृष्ट्वा रुराव करुणां गिरम्॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तं शोणितपरीतांगं चेष्टमानं महीतले।  
+तं शोणितपरीताङ्गं चेष्टमानं महीतले।  
 भार्या तु निहतं दृष्ट्वा रुराव करुणां गिरम्॥ ११॥
 </details>
 
@@ -290,13 +287,13 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिन्तयन् स महाप्राज्ञश्चकार मतिमान्मतिम्।  
-शिष्यं चैवाब्रवीद् वाक्यमिदं स मुनिपुंगवः॥ १७॥
+शिष्यं चैवाब्रवीद् वाक्यमिदं स मुनिपुङ्गवः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 चिन्तयन् स महाप्राज्ञश्चकार मतिमान्मतिम्।  
-शिष्यं चैवाब्रवीद् वाक्यमिदं स मुनिपुंगवः॥ १७॥
+शिष्यं चैवाब्रवीद् वाक्यमिदं स मुनिपुङ्गवः॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -324,13 +321,13 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम्।  
-प्रतिजग्राह संतुष्टस्तस्य तुष्टोऽभवन्मुनिः॥ १९॥
+प्रतिजग्राह सन्तुष्टस्तस्य तुष्टोऽभवन्मुनिः॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 शिष्यस्तु तस्य ब्रुवतो मुनेर्वाक्यमनुत्तमम्।  
-प्रतिजग्राह संतुष्टस्तस्य तुष्टोऽभवन्मुनिः॥ १९॥
+प्रतिजग्राह सन्तुष्टस्तस्य तुष्टोऽभवन्मुनिः॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -392,13 +389,13 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आजगाम ततो ब्रह्मा लोककर्ता स्वयं प्रभुः।  
-चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुंगवम्॥ २३॥
+चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुङ्गवम्॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 आजगाम ततो ब्रह्मा लोककर्ता स्वयं प्रभुः।  
-चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुंगवम्॥ २३॥
+चतुर्मुखो महातेजा द्रष्टुं तं मुनिपुङ्गवम्॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -443,13 +440,13 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथोपविश्य भगवानासने परमार्चिते।  
-वाल्मीकये च ऋषये संदिदेशासनं ततः॥ २६॥
+वाल्मीकये च ऋषये सन्दिदेशासनं ततः॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथोपविश्य भगवानासने परमार्चिते।  
-वाल्मीकये च ऋषये संदिदेशासनं ततः॥ २६॥
+वाल्मीकये च ऋषये सन्दिदेशासनं ततः॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -499,14 +496,14 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमुवाच ततो ब्रह्मा प्रहसन् मुनिपुंगवम्॥ ३०॥  
+तमुवाच ततो ब्रह्मा प्रहसन् मुनिपुङ्गवम्॥ ३०॥  
 श्लोक एवास्त्वयं बद्धो नात्र कार्या विचारणा।  
 मच्छन्दादेव ते ब्रह्मन् प्रवृत्तेयं सरस्वती॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तमुवाच ततो ब्रह्मा प्रहसन् मुनिपुंगवम्॥ ३०॥  
+तमुवाच ततो ब्रह्मा प्रहसन् मुनिपुङ्गवम्॥ ३०॥  
 श्लोक एवास्त्वयं बद्धो नात्र कार्या विचारणा।  
 मच्छन्दादेव ते ब्रह्मन् प्रवृत्तेयं सरस्वती॥ ३१॥
 </details>
@@ -703,7 +700,7 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदुपगतसमाससंधियोगं  
+तदुपगतसमाससन्धियोगं  
 सममधुरोपनतार्थवाक्यबद्धम्।  
 रघुवरचरितं मुनिप्रणीतं  
 दशशिरसश्च वधं निशामयध्वम्॥ ४३॥
@@ -711,7 +708,7 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 
 <details><summary>मूलम्</summary>
 
-तदुपगतसमाससंधियोगं  
+तदुपगतसमाससन्धियोगं  
 सममधुरोपनतार्थवाक्यबद्धम्।  
 रघुवरचरितं मुनिप्रणीतं  
 दशशिरसश्च वधं निशामयध्वम्॥ ४३॥
@@ -727,3 +724,4 @@ title_english = "002 vAlmIki gets divine guidance to compile the epic"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्वितीयः सर्गः॥ २॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें दूसरा सर्ग पूरा हुआ॥ २॥
 </details>
+

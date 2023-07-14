@@ -4,11 +4,8 @@ title_english = "076 parashu rAma s pride is hurt"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-076-Jaama_Dagnya_Parajayaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-076-Jaama_Dagnya_Parajayaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -121,7 +118,7 @@ title_english = "076 parashu rAma s pride is hurt"
 
 इमां वा त्वद‍्गतिं राम तपोबलसमर्जितान्।  
 लोकानप्रतिमान् वापि हनिष्यामीति मे मतिः॥ ७॥  
-न ह्ययं वैष्णवो दिव्यः शरः परपुरंजयः।  
+न ह्ययं वैष्णवो दिव्यः शरः परपुरञ्जयः।  
 मोघः पतति वीर्येण बलदर्पविनाशनः॥ ८॥
 </details>
 
@@ -129,7 +126,7 @@ title_english = "076 parashu rAma s pride is hurt"
 
 इमां वा त्वद‍्गतिं राम तपोबलसमर्जितान्।  
 लोकानप्रतिमान् वापि हनिष्यामीति मे मतिः॥ ७॥  
-न ह्ययं वैष्णवो दिव्यः शरः परपुरंजयः।  
+न ह्ययं वैष्णवो दिव्यः शरः परपुरञ्जयः।  
 मोघः पतति वीर्येण बलदर्पविनाशनः॥ ८॥
 </details>
 
@@ -208,13 +205,13 @@ title_english = "076 parashu rAma s pride is hurt"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-काश्यपाय मया दत्ता यदा पूर्वं वसुंधरा।  
+काश्यपाय मया दत्ता यदा पूर्वं वसुन्धरा।  
 विषये मे न वस्तव्यमिति मां काश्यपोऽब्रवीत्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-काश्यपाय मया दत्ता यदा पूर्वं वसुंधरा।  
+काश्यपाय मया दत्ता यदा पूर्वं वसुन्धरा।  
 विषये मे न वस्तव्यमिति मां काश्यपोऽब्रवीत्॥ १३॥
 </details>
 
@@ -277,13 +274,13 @@ title_english = "076 parashu rAma s pride is hurt"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षय्यं मधुहन्तारं जानामि त्वां सुरेश्वरम्।  
-धनुषोऽस्य परामर्शात् स्वस्ति तेऽस्तु परंतप॥ १७॥
+धनुषोऽस्य परामर्शात् स्वस्ति तेऽस्तु परन्तप॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अक्षय्यं मधुहन्तारं जानामि त्वां सुरेश्वरम्।  
-धनुषोऽस्य परामर्शात् स्वस्ति तेऽस्तु परंतप॥ १७॥
+धनुषोऽस्य परामर्शात् स्वस्ति तेऽस्तु परन्तप॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -415,3 +412,4 @@ title_english = "076 parashu rAma s pride is hurt"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षट्सप्ततितमः सर्गः॥ ७६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें छिहत्तरवाँ सर्ग पूरा हुआ॥ ७६॥
 </details>
+

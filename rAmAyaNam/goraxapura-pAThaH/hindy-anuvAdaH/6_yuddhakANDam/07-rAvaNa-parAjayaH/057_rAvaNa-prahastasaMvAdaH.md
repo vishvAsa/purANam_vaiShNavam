@@ -4,11 +4,8 @@ title_english = "057 Ravana asks Prahasta to go to the battle"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-057-Ravana_asks_Prahasta_to_go_to_the_battle_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-057-Ravana_asks_Prahasta_to_go_to_the_battle_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "057 Ravana asks Prahasta to go to the battle"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अकम्पनवधं श्रुत्वा क्रुद्धो वै राक्षसेश्वरः।  
-किंचिद् दीनमुखश्चापि सचिवांस्तानुदैक्षत॥ १॥
+किञ्चिद् दीनमुखश्चापि सचिवांस्तानुदैक्षत॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अकम्पनवधं श्रुत्वा क्रुद्धो वै राक्षसेश्वरः।  
-किंचिद् दीनमुखश्चापि सचिवांस्तानुदैक्षत॥ १॥
+किञ्चिद् दीनमुखश्चापि सचिवांस्तानुदैक्षत॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -379,13 +376,13 @@ title_english = "057 Ravana asks Prahasta to go to the battle"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्रजश्च विविधाकारा जगृहुस्त्वभिमन्त्रिताः॥ २२॥  
-संग्रामसज्जाः संहृष्टा धारयन् राक्षसास्तदा।
+सङ्ग्रामसज्जाः संहृष्टा धारयन् राक्षसास्तदा।
 </details>
 
 <details><summary>मूलम्</summary>
 
 स्रजश्च विविधाकारा जगृहुस्त्वभिमन्त्रिताः॥ २२॥  
-संग्रामसज्जाः संहृष्टा धारयन् राक्षसास्तदा।
+सङ्ग्रामसज्जाः संहृष्टा धारयन् राक्षसास्तदा।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -641,13 +638,13 @@ title_english = "057 Ravana asks Prahasta to go to the battle"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सारथेर्बहुशश्चास्य संग्राममवगाहतः॥ ३८॥  
+सारथेर्बहुशश्चास्य सङ्ग्राममवगाहतः॥ ३८॥  
 प्रतोदो न्यपतद्धस्तात् सूतस्य हयसादिनः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-सारथेर्बहुशश्चास्य संग्राममवगाहतः॥ ३८॥  
+सारथेर्बहुशश्चास्य सङ्ग्राममवगाहतः॥ ३८॥  
 प्रतोदो न्यपतद्धस्तात् सूतस्य हयसादिनः।
 </details>
 
@@ -767,3 +764,4 @@ title_english = "057 Ravana asks Prahasta to go to the battle"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे सप्तपञ्चाशः सर्गः॥ ५७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें सत्तावनवाँ सर्ग पूरा हुआ॥ ५७॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "021 Seetha s reply"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-021-Seetha_s_reply.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-021-Seetha_s_reply.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -193,13 +190,13 @@ title_english = "021 Seetha s reply"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथैव त्वां समासाद्य लंका रत्नौघसंकुला।  
+तथैव त्वां समासाद्य लङ्का रत्नौघसङ्कुला।  
 अपराधात् तवैकस्य नचिराद् विनशिष्यति॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तथैव त्वां समासाद्य लंका रत्नौघसंकुला।  
+तथैव त्वां समासाद्य लङ्का रत्नौघसङ्कुला।  
 अपराधात् तवैकस्य नचिराद् विनशिष्यति॥ १२॥
 </details>
 
@@ -381,13 +378,13 @@ title_english = "021 Seetha s reply"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वर्जयेद् वज्रमुत्सृष्टं वर्जयेदन्तकश्चिरम्।  
-त्वद्विधं न तु संक्रुद्धो लोकनाथः स राघवः॥ २३॥
+त्वद्विधं न तु सङ्क्रुद्धो लोकनाथः स राघवः॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 वर्जयेद् वज्रमुत्सृष्टं वर्जयेदन्तकश्चिरम्।  
-त्वद्विधं न तु संक्रुद्धो लोकनाथः स राघवः॥ २३॥
+त्वद्विधं न तु सङ्क्रुद्धो लोकनाथः स राघवः॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -465,13 +462,13 @@ title_english = "021 Seetha s reply"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपनेष्यति मां भर्ता त्वत्तः शीघ्रमरिंदमः।  
+अपनेष्यति मां भर्ता त्वत्तः शीघ्रमरिन्दमः।  
 असुरेभ्यः श्रियं दीप्तां विष्णुस्त्रिभिरिव क्रमैः॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अपनेष्यति मां भर्ता त्वत्तः शीघ्रमरिंदमः।  
+अपनेष्यति मां भर्ता त्वत्तः शीघ्रमरिन्दमः।  
 असुरेभ्यः श्रियं दीप्तां विष्णुस्त्रिभिरिव क्रमैः॥ २८॥
 </details>
 
@@ -517,13 +514,13 @@ title_english = "021 Seetha s reply"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि गन्धमुपाघ्राय रामलक्ष्मणयोस्त्वया।  
-शक्यं संदर्शने स्थातुं शुना शार्दूलयोरिव॥ ३१॥
+शक्यं सन्दर्शने स्थातुं शुना शार्दूलयोरिव॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नहि गन्धमुपाघ्राय रामलक्ष्मणयोस्त्वया।  
-शक्यं संदर्शने स्थातुं शुना शार्दूलयोरिव॥ ३१॥
+शक्यं सन्दर्शने स्थातुं शुना शार्दूलयोरिव॥ ३१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -591,3 +588,4 @@ title_english = "021 Seetha s reply"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे एकविंशः सर्गः॥ २१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें इक्कीसवाँ सर्ग पूरा हुआ॥ २१॥
 </details>
+

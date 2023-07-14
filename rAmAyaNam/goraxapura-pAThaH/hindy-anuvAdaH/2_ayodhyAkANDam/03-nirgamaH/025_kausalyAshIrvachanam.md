@@ -4,11 +4,8 @@ title_english = "025 Kausalya bids farewell to Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-025-Kousalya_Ashirvachanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-025-Kousalya_Ashirvachanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -213,7 +210,7 @@ title_english = "025 Kausalya bids farewell to Rama"
 शैलाः सर्वे समुद्राश्च राजा वरुण एव च।  
 द्यौरन्तरिक्षं पृथिवी वायुश्च सचराचरः॥ १३॥  
 नक्षत्राणि च सर्वाणि ग्रहाश्च सह दैवतैः।  
-अहोरात्रे तथा संध्ये पान्तु त्वां वनमाश्रितम्॥ १४॥
+अहोरात्रे तथा सन्ध्ये पान्तु त्वां वनमाश्रितम्॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -221,7 +218,7 @@ title_english = "025 Kausalya bids farewell to Rama"
 शैलाः सर्वे समुद्राश्च राजा वरुण एव च।  
 द्यौरन्तरिक्षं पृथिवी वायुश्च सचराचरः॥ १३॥  
 नक्षत्राणि च सर्वाणि ग्रहाश्च सह दैवतैः।  
-अहोरात्रे तथा संध्ये पान्तु त्वां वनमाश्रितम्॥ १४॥
+अहोरात्रे तथा सन्ध्ये पान्तु त्वां वनमाश्रितम्॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -648,7 +645,7 @@ title_english = "025 Kausalya bids farewell to Rama"
 आनम्य मूर्ध्नि चाघ्राय परिष्वज्य यशस्विनी।  
 अवदत् पुत्रमिष्टार्थो गच्छ राम यथासुखम्॥ ४०॥  
 अरोगं सर्वसिद्धार्थमयोध्यां पुनरागतम्।  
-पश्यामि त्वां सुखं वत्स संधितं राजवर्त्मसु॥ ४१॥
+पश्यामि त्वां सुखं वत्स सन्धितं राजवर्त्मसु॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -656,7 +653,7 @@ title_english = "025 Kausalya bids farewell to Rama"
 आनम्य मूर्ध्नि चाघ्राय परिष्वज्य यशस्विनी।  
 अवदत् पुत्रमिष्टार्थो गच्छ राम यथासुखम्॥ ४०॥  
 अरोगं सर्वसिद्धार्थमयोध्यां पुनरागतम्।  
-पश्यामि त्वां सुखं वत्स संधितं राजवर्त्मसु॥ ४१॥
+पश्यामि त्वां सुखं वत्स सन्धितं राजवर्त्मसु॥ ४१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -666,13 +663,13 @@ title_english = "025 Kausalya bids farewell to Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रणष्टदुःखसंकल्पा हर्षविद्योतितानना।  
+प्रणष्टदुःखसङ्कल्पा हर्षविद्योतितानना।  
 द्रक्ष्यामि त्वां वनात् प्राप्तं पूर्णचन्द्रमिवोदितम्॥ ४२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्रणष्टदुःखसंकल्पा हर्षविद्योतितानना।  
+प्रणष्टदुःखसङ्कल्पा हर्षविद्योतितानना।  
 द्रक्ष्यामि त्वां वनात् प्राप्तं पूर्णचन्द्रमिवोदितम्॥ ४२॥
 </details>
 
@@ -720,7 +717,7 @@ title_english = "025 Kausalya bids farewell to Rama"
 मयार्चिता देवगणाः शिवादयो  
 महर्षयो भूतगणाः सुरोरगाः।  
 अभिप्रयातस्य वनं चिराय ते  
-हितानि कांक्षन्तु दिशश्च राघव॥ ४५॥
+हितानि काङ्क्षन्तु दिशश्च राघव॥ ४५॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -728,7 +725,7 @@ title_english = "025 Kausalya bids farewell to Rama"
 मयार्चिता देवगणाः शिवादयो  
 महर्षयो भूतगणाः सुरोरगाः।  
 अभिप्रयातस्य वनं चिराय ते  
-हितानि कांक्षन्तु दिशश्च राघव॥ ४५॥
+हितानि काङ्क्षन्तु दिशश्च राघव॥ ४५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -783,3 +780,4 @@ title_english = "025 Kausalya bids farewell to Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे पञ्चविंशः सर्गः॥ २५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें पचीसवाँ सर्ग पूरा हुआ॥२५॥
 </details>
+

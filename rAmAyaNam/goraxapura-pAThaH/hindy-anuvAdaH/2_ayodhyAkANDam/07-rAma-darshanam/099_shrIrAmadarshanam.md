@@ -4,11 +4,8 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-099-Sri_Rama_Darshanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-099-Sri_Rama_Darshanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋषिं वसिष्ठं संदिश्य मातॄर्मे शीघ्रमानय।  
+ऋषिं वसिष्ठं सन्दिश्य मातॄर्मे शीघ्रमानय।  
 इति त्वरितमग्रे स जगाम गुरुवत्सलः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऋषिं वसिष्ठं संदिश्य मातॄर्मे शीघ्रमानय।  
+ऋषिं वसिष्ठं सन्दिश्य मातॄर्मे शीघ्रमानय।  
 इति त्वरितमग्रे स जगाम गुरुवत्सलः॥ २॥
 </details>
 
@@ -119,13 +116,13 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ददर्श च वने तस्मिन् महतः संचयान् कृतान्।  
+ददर्श च वने तस्मिन् महतः सञ्चयान् कृतान्।  
 मृगाणां महिषाणां च करीषैः शीतकारणात्॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ददर्श च वने तस्मिन् महतः संचयान् कृतान्।  
+ददर्श च वने तस्मिन् महतः सञ्चयान् कृतान्।  
 मृगाणां महिषाणां च करीषैः शीतकारणात्॥ ७॥
 </details>
 
@@ -205,13 +202,13 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यमेवाधातुमिच्छन्ति तापसाः सततं वने।  
-तस्यासौ दृश्यते धूमः संकुलः कृष्णवर्त्मनः॥ १२॥
+तस्यासौ दृश्यते धूमः सङ्कुलः कृष्णवर्त्मनः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यमेवाधातुमिच्छन्ति तापसाः सततं वने।  
-तस्यासौ दृश्यते धूमः संकुलः कृष्णवर्त्मनः॥ १२॥
+तस्यासौ दृश्यते धूमः सङ्कुलः कृष्णवर्त्मनः॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -392,13 +389,13 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोधाङ्गुलित्रैरासक्तैश्चित्रकाञ्चनभूषितैः।  
-अरिसंघैरनाधृष्यां मृगैः सिंहगुहामिव॥ २३॥
+अरिसङ्घैरनाधृष्यां मृगैः सिंहगुहामिव॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गोधाङ्गुलित्रैरासक्तैश्चित्रकाञ्चनभूषितैः।  
-अरिसंघैरनाधृष्यां मृगैः सिंहगुहामिव॥ २३॥
+अरिसङ्घैरनाधृष्यां मृगैः सिंहगुहामिव॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -484,13 +481,13 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृष्ट्वैव विललापार्तो बाष्पसंदिग्धया गिरा।  
+दृष्ट्वैव विललापार्तो बाष्पसन्दिग्धया गिरा।  
 अशक्नुवन् वारयितुं धैर्याद् वचनमब्रुवन्॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-दृष्ट्वैव विललापार्तो बाष्पसंदिग्धया गिरा।  
+दृष्ट्वैव विललापार्तो बाष्पसन्दिग्धया गिरा।  
 अशक्नुवन् वारयितुं धैर्याद् वचनमब्रुवन्॥ ३०॥
 </details>
 
@@ -552,13 +549,13 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यस्य यज्ञैर्यथादिष्टैर्युक्तो धर्मस्य संचयः।  
+यस्य यज्ञैर्यथादिष्टैर्युक्तो धर्मस्य सञ्चयः।  
 शरीरक्लेशसम्भूतं स धर्मं परिमार्गते॥ ३४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यस्य यज्ञैर्यथादिष्टैर्युक्तो धर्मस्य संचयः।  
+यस्य यज्ञैर्यथादिष्टैर्युक्तो धर्मस्य सञ्चयः।  
 शरीरक्लेशसम्भूतं स धर्मं परिमार्गते॥ ३४॥
 </details>
 
@@ -621,13 +618,13 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दुःखाभितप्तो भरतो राजपुत्रो महाबलः।  
-उक्त्वाऽऽर्येति सकृद् दीनं पुनर्नोवाच किंचन॥ ३८॥
+उक्त्वाऽऽर्येति सकृद् दीनं पुनर्नोवाच किञ्चन॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दुःखाभितप्तो भरतो राजपुत्रो महाबलः।  
-उक्त्वाऽऽर्येति सकृद् दीनं पुनर्नोवाच किंचन॥ ३८॥
+उक्त्वाऽऽर्येति सकृद् दीनं पुनर्नोवाच किञ्चन॥ ३८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -638,13 +635,13 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पैः पिहितकण्ठश्च प्रेक्ष्य रामं यशस्विनम्।  
-आर्येत्येवाभिसंक्रुश्य व्याहर्तुं नाशकत् ततः॥ ३९॥
+आर्येत्येवाभिसङ्क्रुश्य व्याहर्तुं नाशकत् ततः॥ ३९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बाष्पैः पिहितकण्ठश्च प्रेक्ष्य रामं यशस्विनम्।  
-आर्येत्येवाभिसंक्रुश्य व्याहर्तुं नाशकत् ततः॥ ३९॥
+आर्येत्येवाभिसङ्क्रुश्य व्याहर्तुं नाशकत् ततः॥ ३९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -716,3 +713,4 @@ title_english = "099 Bharata beholds Rama s hermitage and approaches it"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे नवनवतितमः सर्गः॥ ९९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें निन्यानबेवाँ सर्ग पूरा हुआ॥ ९९॥
 </details>
+

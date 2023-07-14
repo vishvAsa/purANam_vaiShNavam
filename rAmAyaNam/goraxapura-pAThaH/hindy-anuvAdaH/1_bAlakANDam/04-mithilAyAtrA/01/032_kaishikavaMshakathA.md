@@ -4,11 +4,8 @@ title_english = "032 Story of vishvAmitra"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-032-Koushika_Vamsha_Katha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-032-Koushika_Vamsha_Katha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -201,7 +198,7 @@ title_english = "032 Story of vishvAmitra"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तास्तु यौवनशालिन्यो रूपवत्यः स्वलंकृताः।  
+तास्तु यौवनशालिन्यो रूपवत्यः स्वलङ्कृताः।  
 उद्यानभूमिमागम्य प्रावृषीव शतह्रदाः॥ १२॥  
 गायन्त्यो नृत्यमानाश्च वादयन्त्यस्तु राघव।  
 आमोदं परमं जग्मुर्वराभरणभूषिताः॥ १३॥
@@ -209,7 +206,7 @@ title_english = "032 Story of vishvAmitra"
 
 <details><summary>मूलम्</summary>
 
-तास्तु यौवनशालिन्यो रूपवत्यः स्वलंकृताः।  
+तास्तु यौवनशालिन्यो रूपवत्यः स्वलङ्कृताः।  
 उद्यानभूमिमागम्य प्रावृषीव शतह्रदाः॥ १२॥  
 गायन्त्यो नृत्यमानाश्च वादयन्त्यस्तु राघव।  
 आमोदं परमं जग्मुर्वराभरणभूषिताः॥ १३॥
@@ -430,14 +427,14 @@ title_english = "032 Story of vishvAmitra"
 
 किमिदं कथ्यतां पुत्र्यः को धर्ममवमन्यते।  
 कुब्जाः केन कृताः सर्वाश्चेष्टन्त्यो नाभिभाषथ।  
-एवं राजा विनिःश्वस्य समाधिं संदधे ततः॥ २६॥
+एवं राजा विनिःश्वस्य समाधिं सन्दधे ततः॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 किमिदं कथ्यतां पुत्र्यः को धर्ममवमन्यते।  
 कुब्जाः केन कृताः सर्वाश्चेष्टन्त्यो नाभिभाषथ।  
-एवं राजा विनिःश्वस्य समाधिं संदधे ततः॥ २६॥
+एवं राजा विनिःश्वस्य समाधिं सन्दधे ततः॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -450,3 +447,4 @@ title_english = "032 Story of vishvAmitra"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्वात्रिंशः सर्गः॥ ३२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें बत्तीसवाँ सर्ग पूरा हुआ॥ ३२॥
 </details>
+

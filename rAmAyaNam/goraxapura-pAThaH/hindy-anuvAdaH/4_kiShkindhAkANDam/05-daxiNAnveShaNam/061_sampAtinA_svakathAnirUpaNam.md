@@ -4,11 +4,8 @@ title_english = "061 Sampaati s legend contd"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-061-Sampaati_s_legend_[contd.].mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-061-Sampaati_s_legend_[contd.].mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,13 +48,13 @@ title_english = "061 Sampaati s legend contd"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहं चैव जटायुश्च संघर्षाद् गर्वमोहितौ।  
+अहं चैव जटायुश्च सङ्घर्षाद् गर्वमोहितौ।  
 आकाशं पतितौ दूराज्जिज्ञासन्तौ पराक्रमम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अहं चैव जटायुश्च संघर्षाद् गर्वमोहितौ।  
+अहं चैव जटायुश्च सङ्घर्षाद् गर्वमोहितौ।  
 आकाशं पतितौ दूराज्जिज्ञासन्तौ पराक्रमम्॥ ३॥
 </details>
 
@@ -136,14 +133,14 @@ title_english = "061 Sampaati s legend contd"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपलैरिव संछन्ना दृश्यते भूः शिलोच्चयैः।  
-आपगाभिश्च संवीता सूत्रैरिव वसुंधरा॥ ८॥
+उपलैरिव सञ्छन्ना दृश्यते भूः शिलोच्चयैः।  
+आपगाभिश्च संवीता सूत्रैरिव वसुन्धरा॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपलैरिव संछन्ना दृश्यते भूः शिलोच्चयैः।  
-आपगाभिश्च संवीता सूत्रैरिव वसुंधरा॥ ८॥
+उपलैरिव सञ्छन्ना दृश्यते भूः शिलोच्चयैः।  
+आपगाभिश्च संवीता सूत्रैरिव वसुन्धरा॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -192,7 +189,7 @@ title_english = "061 Sampaati s legend contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मनश्च मे हतं भूयश्चक्षुः प्राप्य तु संश्रयम्।  
-यत्नेन महता ह्यस्मिन् मनः संधाय चक्षुषी॥ १२॥  
+यत्नेन महता ह्यस्मिन् मनः सन्धाय चक्षुषी॥ १२॥  
 यत्नेन महता भूयो भास्करः प्रतिलोकितः।  
 तुल्यपृथ्वीप्रमाणेन भास्करः प्रतिभाति नौ॥ १३॥
 </details>
@@ -200,7 +197,7 @@ title_english = "061 Sampaati s legend contd"
 <details><summary>मूलम्</summary>
 
 मनश्च मे हतं भूयश्चक्षुः प्राप्य तु संश्रयम्।  
-यत्नेन महता ह्यस्मिन् मनः संधाय चक्षुषी॥ १२॥  
+यत्नेन महता ह्यस्मिन् मनः सन्धाय चक्षुषी॥ १२॥  
 यत्नेन महता भूयो भास्करः प्रतिलोकितः।  
 तुल्यपृथ्वीप्रमाणेन भास्करः प्रतिभाति नौ॥ १३॥
 </details>
@@ -270,3 +267,4 @@ title_english = "061 Sampaati s legend contd"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे एकषष्टितमः सर्गः॥ ६१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें इकसठवाँ सर्ग पूरा हुआ॥ ६१॥
 </details>
+

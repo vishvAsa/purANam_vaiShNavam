@@ -4,11 +4,8 @@ title_english = "085 Bharata thanks Guha for his hospitality"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-085-Guha_Krutham_Marga_Darshanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-085-Guha_Krutham_Marga_Darshanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -255,13 +252,13 @@ title_english = "085 Bharata thanks Guha for his hospitality"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संनिवेश्य स तां सेनां गुहेन परितोषितः।  
+सन्निवेश्य स तां सेनां गुहेन परितोषितः।  
 शत्रुघ्नेन समं श्रीमाञ्छयनं पुनरागमत्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संनिवेश्य स तां सेनां गुहेन परितोषितः।  
+सन्निवेश्य स तां सेनां गुहेन परितोषितः।  
 शत्रुघ्नेन समं श्रीमाञ्छयनं पुनरागमत्॥ १५॥
 </details>
 
@@ -289,14 +286,14 @@ title_english = "085 Bharata thanks Guha for his hospitality"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्तर्दाहेन दहनः संतापयति राघवम्।  
-वनदाहाग्निसंतप्तं गूढोऽग्निरिव पादपम्॥ १७॥
+अन्तर्दाहेन दहनः सन्तापयति राघवम्।  
+वनदाहाग्निसन्तप्तं गूढोऽग्निरिव पादपम्॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अन्तर्दाहेन दहनः संतापयति राघवम्।  
-वनदाहाग्निसंतप्तं गूढोऽग्निरिव पादपम्॥ १७॥
+अन्तर्दाहेन दहनः सन्तापयति राघवम्।  
+वनदाहाग्निसन्तप्तं गूढोऽग्निरिव पादपम्॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -307,13 +304,13 @@ title_english = "085 Bharata thanks Guha for his hospitality"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रसृतः सर्वगात्रेभ्यः स्वेदं शोकाग्निसम्भवम्।  
-यथा सूर्यांशुसंतप्तो हिमवान् प्रसृतो हिमम्॥ १८॥
+यथा सूर्यांशुसन्तप्तो हिमवान् प्रसृतो हिमम्॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रसृतः सर्वगात्रेभ्यः स्वेदं शोकाग्निसम्भवम्।  
-यथा सूर्यांशुसंतप्तो हिमवान् प्रसृतो हिमम्॥ १८॥
+यथा सूर्यांशुसन्तप्तो हिमवान् प्रसृतो हिमम्॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -324,16 +321,16 @@ title_english = "085 Bharata thanks Guha for his hospitality"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ध्याननिर्दरशैलेन विनिःश्वसितधातुना।  
-दैन्यपादपसंघेन शोकायासाधिशृङ्गिणा॥ १९॥  
-प्रमोहानन्तसत्त्वेन संतापौषधिवेणुना।  
+दैन्यपादपसङ्घेन शोकायासाधिशृङ्गिणा॥ १९॥  
+प्रमोहानन्तसत्त्वेन सन्तापौषधिवेणुना।  
 आक्रान्तो दुःखशैलेन महता कैकयीसुतः॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ध्याननिर्दरशैलेन विनिःश्वसितधातुना।  
-दैन्यपादपसंघेन शोकायासाधिशृङ्गिणा॥ १९॥  
-प्रमोहानन्तसत्त्वेन संतापौषधिवेणुना।  
+दैन्यपादपसङ्घेन शोकायासाधिशृङ्गिणा॥ १९॥  
+प्रमोहानन्तसत्त्वेन सन्तापौषधिवेणुना।  
 आक्रान्तो दुःखशैलेन महता कैकयीसुतः॥ २०॥
 </details>
 
@@ -345,7 +342,7 @@ title_english = "085 Bharata thanks Guha for his hospitality"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनिःश्वसन् वै भृशदुर्मनास्ततः  
-प्रमूढसंज्ञः परमापदं गतः।  
+प्रमूढसञ्ज्ञः परमापदं गतः।  
 शमं न लेभे हृदयज्वरार्दितो  
 नरर्षभो यूथहतो यथर्षभः॥ २१॥
 </details>
@@ -353,7 +350,7 @@ title_english = "085 Bharata thanks Guha for his hospitality"
 <details><summary>मूलम्</summary>
 
 विनिःश्वसन् वै भृशदुर्मनास्ततः  
-प्रमूढसंज्ञः परमापदं गतः।  
+प्रमूढसञ्ज्ञः परमापदं गतः।  
 शमं न लेभे हृदयज्वरार्दितो  
 नरर्षभो यूथहतो यथर्षभः॥ २१॥
 </details>
@@ -389,3 +386,4 @@ title_english = "085 Bharata thanks Guha for his hospitality"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे पञ्चाशीतितमः सर्गः॥ ८५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें पचासीवाँ सर्ग पूरा हुआ॥ ८५॥
 </details>
+

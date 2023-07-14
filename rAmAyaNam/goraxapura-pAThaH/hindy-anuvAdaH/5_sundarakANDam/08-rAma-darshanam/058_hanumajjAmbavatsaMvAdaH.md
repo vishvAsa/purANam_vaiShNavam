@@ -4,11 +4,8 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-057-Hanuma_leaps_from_Lanka_and_touches_Mount_Mainaka.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-057-Hanuma_leaps_from_Lanka_and_touches_Mount_Mainaka.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -146,13 +143,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपसंगम्य तं दिव्यं काञ्चनं नगमुत्तमम्॥ १०॥  
+उपसङ्गम्य तं दिव्यं काञ्चनं नगमुत्तमम्॥ १०॥  
 कृता मे मनसा बुद्धिर्भेत्तव्योऽयं मयेति च।
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपसंगम्य तं दिव्यं काञ्चनं नगमुत्तमम्॥ १०॥  
+उपसङ्गम्य तं दिव्यं काञ्चनं नगमुत्तमम्॥ १०॥  
 कृता मे मनसा बुद्धिर्भेत्तव्योऽयं मयेति च।
 </details>
 
@@ -164,13 +161,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रहतस्य मया तस्य लाङ्गूलेन महागिरेः॥ ११॥  
-शिखरं सूर्यसंकाशं व्यशीर्यत सहस्रधा।
+शिखरं सूर्यसङ्काशं व्यशीर्यत सहस्रधा।
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रहतस्य मया तस्य लाङ्गूलेन महागिरेः॥ ११॥  
-शिखरं सूर्यसंकाशं व्यशीर्यत सहस्रधा।
+शिखरं सूर्यसङ्काशं व्यशीर्यत सहस्रधा।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -238,14 +235,14 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मारुतेन तदा वत्स प्रक्षिप्तो वरुणालये।  
-राघवस्य मया साह्ये वर्तितव्यमरिंदम॥ १७॥  
+राघवस्य मया साह्ये वर्तितव्यमरिन्दम॥ १७॥  
 रामो धर्मभृतां श्रेष्ठो महेन्द्रसमविक्रमः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 मारुतेन तदा वत्स प्रक्षिप्तो वरुणालये।  
-राघवस्य मया साह्ये वर्तितव्यमरिंदम॥ १७॥  
+राघवस्य मया साह्ये वर्तितव्यमरिन्दम॥ १७॥  
 रामो धर्मभृतां श्रेष्ठो महेन्द्रसमविक्रमः।
 </details>
 
@@ -361,13 +358,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामो दाशरथिः श्रीमान् प्रविष्टो दण्डकावनम्।  
-लक्ष्मणेन सह भ्रात्रा सीतया च परंतपः॥ २५॥
+लक्ष्मणेन सह भ्रात्रा सीतया च परन्तपः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रामो दाशरथिः श्रीमान् प्रविष्टो दण्डकावनम्।  
-लक्ष्मणेन सह भ्रात्रा सीतया च परंतपः॥ २५॥
+लक्ष्मणेन सह भ्रात्रा सीतया च परन्तपः॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -518,13 +515,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततोऽन्तरिक्षं विपुलं प्लुतोऽहं गरुडो यथा।  
-छाया मे निगृहीता च न च पश्यामि किंचन॥ ३५॥
+छाया मे निगृहीता च न च पश्यामि किञ्चन॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततोऽन्तरिक्षं विपुलं प्लुतोऽहं गरुडो यथा।  
-छाया मे निगृहीता च न च पश्यामि किंचन॥ ३५॥
+छाया मे निगृहीता च न च पश्यामि किञ्चन॥ ३५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -535,13 +532,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽहं विगतवेगस्तु दिशो दश विलोकयन्।  
-न किंचित् तत्र पश्यामि येन मे विहता गतिः॥ ३६॥
+न किञ्चित् तत्र पश्यामि येन मे विहता गतिः॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सोऽहं विगतवेगस्तु दिशो दश विलोकयन्।  
-न किंचित् तत्र पश्यामि येन मे विहता गतिः॥ ३६॥
+न किञ्चित् तत्र पश्यामि येन मे विहता गतिः॥ ३६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -551,13 +548,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ मे बुद्धिरुत्पन्ना किंनाम गमने मम।  
+अथ मे बुद्धिरुत्पन्ना किन्नाम गमने मम।  
 ईदृशो विघ्न उत्पन्नो रूपमत्र न दृश्यते॥ ३७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथ मे बुद्धिरुत्पन्ना किंनाम गमने मम।  
+अथ मे बुद्धिरुत्पन्ना किन्नाम गमने मम।  
 ईदृशो विघ्न उत्पन्नो रूपमत्र न दृश्यते॥ ३७॥
 </details>
 
@@ -653,13 +650,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततोऽहं विपुलं रूपं संक्षिप्य निमिषान्तरात्।  
+ततोऽहं विपुलं रूपं सङ्क्षिप्य निमिषान्तरात्।  
 तस्या हृदयमादाय प्रपतामि नभःस्थलम्॥ ४३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततोऽहं विपुलं रूपं संक्षिप्य निमिषान्तरात्।  
+ततोऽहं विपुलं रूपं सङ्क्षिप्य निमिषान्तरात्।  
 तस्या हृदयमादाय प्रपतामि नभःस्थलम्॥ ४३॥
 </details>
 
@@ -671,13 +668,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा विसृष्टभुजा भीमा पपात लवणाम्भसि।  
-मया पर्वतसंकाशा निकृत्तहृदया सती॥ ४४॥
+मया पर्वतसङ्काशा निकृत्तहृदया सती॥ ४४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा विसृष्टभुजा भीमा पपात लवणाम्भसि।  
-मया पर्वतसंकाशा निकृत्तहृदया सती॥ ४४॥
+मया पर्वतसङ्काशा निकृत्तहृदया सती॥ ४४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -895,14 +892,14 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शोकसंतापदीनाङ्गीं सीतां भर्तृहिते स्थिताम्।  
+शोकसन्तापदीनाङ्गीं सीतां भर्तृहिते स्थिताम्।  
 राक्षसीभिर्विरूपाभिः क्रूराभिरभिसंवृताम्॥ ५८॥  
 मांसशोणितभक्ष्याभिर्व्याघ्रीभिर्हरिणीं यथा।
 </details>
 
 <details><summary>मूलम्</summary>
 
-शोकसंतापदीनाङ्गीं सीतां भर्तृहिते स्थिताम्।  
+शोकसन्तापदीनाङ्गीं सीतां भर्तृहिते स्थिताम्।  
 राक्षसीभिर्विरूपाभिः क्रूराभिरभिसंवृताम्॥ ५८॥  
 मांसशोणितभक्ष्याभिर्व्याघ्रीभिर्हरिणीं यथा।
 </details>
@@ -934,13 +931,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणाद् विनिवृत्तार्था मर्तव्ये कृतनिश्चया।  
-कथंचिन्मृगशावाक्षी तूर्णमासादिता मया॥ ६१॥
+कथञ्चिन्मृगशावाक्षी तूर्णमासादिता मया॥ ६१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रावणाद् विनिवृत्तार्था मर्तव्ये कृतनिश्चया।  
-कथंचिन्मृगशावाक्षी तूर्णमासादिता मया॥ ६१॥
+कथञ्चिन्मृगशावाक्षी तूर्णमासादिता मया॥ ६१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1019,13 +1016,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वाथ वरारोहा सीता रक्षोगणेश्वरम्।  
-संकुच्योरू स्तनौ पीनौ बाहुभ्यां परिरभ्य च॥ ६६॥
+सङ्कुच्योरू स्तनौ पीनौ बाहुभ्यां परिरभ्य च॥ ६६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तं दृष्ट्वाथ वरारोहा सीता रक्षोगणेश्वरम्।  
-संकुच्योरू स्तनौ पीनौ बाहुभ्यां परिरभ्य च॥ ६६॥
+सङ्कुच्योरू स्तनौ पीनौ बाहुभ्यां परिरभ्य च॥ ६६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1036,7 +1033,7 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वित्रस्तां परमोद्विग्नां वीक्ष्यमाणामितस्ततः।  
-त्राणं कंचिदपश्यन्तीं वेपमानां तपस्विनीम्॥ ६७॥  
+त्राणं कञ्चिदपश्यन्तीं वेपमानां तपस्विनीम्॥ ६७॥  
 तामुवाच दशग्रीवः सीतां परमदुःखिताम्।  
 अवाक्शिराः प्रपतितो बहुमन्यस्व मामिति॥ ६८॥
 </details>
@@ -1044,7 +1041,7 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details><summary>मूलम्</summary>
 
 वित्रस्तां परमोद्विग्नां वीक्ष्यमाणामितस्ततः।  
-त्राणं कंचिदपश्यन्तीं वेपमानां तपस्विनीम्॥ ६७॥  
+त्राणं कञ्चिदपश्यन्तीं वेपमानां तपस्विनीम्॥ ६७॥  
 तामुवाच दशग्रीवः सीतां परमदुःखिताम्।  
 अवाक्शिराः प्रपतितो बहुमन्यस्व मामिति॥ ६८॥
 </details>
@@ -1109,13 +1106,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किंस्विद्वीर्य तवानार्य यो मां भर्तुरसंनिधौ॥ ७२॥  
+किंस्विद्वीर्य तवानार्य यो मां भर्तुरसन्निधौ॥ ७२॥  
 अपहृत्यागतः पाप तेनादृष्टो महात्मना।
 </details>
 
 <details><summary>मूलम्</summary>
 
-किंस्विद्वीर्य तवानार्य यो मां भर्तुरसंनिधौ॥ ७२॥  
+किंस्विद्वीर्य तवानार्य यो मां भर्तुरसन्निधौ॥ ७२॥  
 अपहृत्यागतः पाप तेनादृष्टो महात्मना।
 </details>
 
@@ -1587,13 +1584,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्त्वा तु वरारोहा मणिप्रवरमुत्तमम्।  
-प्रायच्छत् परमोद्विग्ना वाचा मां संदिदेश ह॥ १०४॥
+प्रायच्छत् परमोद्विग्ना वाचा मां सन्दिदेश ह॥ १०४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इत्युक्त्वा तु वरारोहा मणिप्रवरमुत्तमम्।  
-प्रायच्छत् परमोद्विग्ना वाचा मां संदिदेश ह॥ १०४॥
+प्रायच्छत् परमोद्विग्ना वाचा मां सन्दिदेश ह॥ १०४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1675,13 +1672,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततोऽवर्धत मे कायस्तदा पर्वतसंनिभः।  
+ततोऽवर्धत मे कायस्तदा पर्वतसन्निभः।  
 युद्धाकाङ्क्षी वनं तस्य विनाशयितुमारभे॥ ११०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततोऽवर्धत मे कायस्तदा पर्वतसंनिभः।  
+ततोऽवर्धत मे कायस्तदा पर्वतसन्निभः।  
 युद्धाकाङ्क्षी वनं तस्य विनाशयितुमारभे॥ ११०॥
 </details>
 
@@ -1761,13 +1758,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राक्षसेन्द्रेण विसृष्टा बहुदुर्जयाः।  
-राक्षसाः किंकरा नाम रावणस्य मनोऽनुगाः॥ ११५॥
+राक्षसाः किङ्करा नाम रावणस्य मनोऽनुगाः॥ ११५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तच्छ्रुत्वा राक्षसेन्द्रेण विसृष्टा बहुदुर्जयाः।  
-राक्षसाः किंकरा नाम रावणस्य मनोऽनुगाः॥ ११५॥
+राक्षसाः किङ्करा नाम रावणस्य मनोऽनुगाः॥ ११५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1940,14 +1937,14 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 
 तमक्षमागतं भग्नं निशम्य स दशाननः।  
 ततश्चेन्द्रजितं नाम द्वितीयं रावणः सुतम्॥ १२७॥  
-व्यादिदेश सुसंक्रुद्धो बलिनं युद्धदुर्मदम्।
+व्यादिदेश सुसङ्क्रुद्धो बलिनं युद्धदुर्मदम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 तमक्षमागतं भग्नं निशम्य स दशाननः।  
 ततश्चेन्द्रजितं नाम द्वितीयं रावणः सुतम्॥ १२७॥  
-व्यादिदेश सुसंक्रुद्धो बलिनं युद्धदुर्मदम्।
+व्यादिदेश सुसङ्क्रुद्धो बलिनं युद्धदुर्मदम्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -2307,13 +2304,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विभीषणेनैवमुक्तो रावणः संदिदेश तान्।  
+विभीषणेनैवमुक्तो रावणः सन्दिदेश तान्।  
 राक्षसानेतदेवाद्य लाङ्गूलं दह्यतामिति॥ १५१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-विभीषणेनैवमुक्तो रावणः संदिदेश तान्।  
+विभीषणेनैवमुक्तो रावणः सन्दिदेश तान्।  
 राक्षसानेतदेवाद्य लाङ्गूलं दह्यतामिति॥ १५१॥
 </details>
 
@@ -2341,13 +2338,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राक्षसाः सिद्धसंनाहास्ततस्ते चण्डविक्रमाः।  
+राक्षसाः सिद्धसन्नाहास्ततस्ते चण्डविक्रमाः।  
 तदादीप्यन्त मे पुच्छं हनन्तः काष्ठमुष्टिभिः॥ १५३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-राक्षसाः सिद्धसंनाहास्ततस्ते चण्डविक्रमाः।  
+राक्षसाः सिद्धसन्नाहास्ततस्ते चण्डविक्रमाः।  
 तदादीप्यन्त मे पुच्छं हनन्तः काष्ठमुष्टिभिः॥ १५३॥
 </details>
 
@@ -2392,13 +2389,13 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततोऽहं सुमहद्रूपं संक्षिप्य पुनरात्मनः।  
+ततोऽहं सुमहद्रूपं सङ्क्षिप्य पुनरात्मनः।  
 विमोचयित्वा तं बन्धं प्रकृतिस्थः स्थितः पुनः॥ १५६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततोऽहं सुमहद्रूपं संक्षिप्य पुनरात्मनः।  
+ततोऽहं सुमहद्रूपं सङ्क्षिप्य पुनरात्मनः।  
 विमोचयित्वा तं बन्धं प्रकृतिस्थः स्थितः पुनः॥ १५६॥
 </details>
 
@@ -2594,3 +2591,4 @@ title_english = "058 Jambavan requests Hanuma to narrate clearly the happenings"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे अष्टपञ्चाशः सर्गः॥ ५८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें अट्ठावनवाँ सर्ग पूरा हुआ॥ ५८॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "062 Rama laments for Seetha contd"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-062-Rama_Vilapaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-062-Rama_Vilapaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -224,13 +221,13 @@ title_english = "062 Rama laments for Seetha contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदेहराजो नूनं मां दृष्ट्वा विरहितं तया॥ १३॥  
-सुताविनाशसंतप्तो मोहस्य वशमेष्यति।
+सुताविनाशसन्तप्तो मोहस्य वशमेष्यति।
 </details>
 
 <details><summary>मूलम्</summary>
 
 विदेहराजो नूनं मां दृष्ट्वा विरहितं तया॥ १३॥  
-सुताविनाशसंतप्तो मोहस्य वशमेष्यति।
+सुताविनाशसन्तप्तो मोहस्य वशमेष्यति।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -258,13 +255,13 @@ title_english = "062 Rama laments for Seetha contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तन्मामुत्सृज्य हि वने गच्छायोध्यापुरीं शुभाम्॥ १५॥  
-न त्वहं तां विना सीतां जीवेयं हि कथंचन।
+न त्वहं तां विना सीतां जीवेयं हि कथञ्चन।
 </details>
 
 <details><summary>मूलम्</summary>
 
 तन्मामुत्सृज्य हि वने गच्छायोध्यापुरीं शुभाम्॥ १५॥  
-न त्वहं तां विना सीतां जीवेयं हि कथंचन।
+न त्वहं तां विना सीतां जीवेयं हि कथञ्चन।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -275,13 +272,13 @@ title_english = "062 Rama laments for Seetha contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गाढमाश्लिष्य भरतो वाच्यो मद्वचनात् त्वया॥ १६॥  
-अनुज्ञातोऽसि रामेण पालयेति वसुंधराम्।
+अनुज्ञातोऽसि रामेण पालयेति वसुन्धराम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 गाढमाश्लिष्य भरतो वाच्यो मद्वचनात् त्वया॥ १६॥  
-अनुज्ञातोऽसि रामेण पालयेति वसुंधराम्।
+अनुज्ञातोऽसि रामेण पालयेति वसुन्धराम्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -351,3 +348,4 @@ title_english = "062 Rama laments for Seetha contd"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे द्विषष्टितमः सर्गः॥ ६२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें बासठवाँ सर्ग पूरा हुआ॥ ६२॥
 </details>
+

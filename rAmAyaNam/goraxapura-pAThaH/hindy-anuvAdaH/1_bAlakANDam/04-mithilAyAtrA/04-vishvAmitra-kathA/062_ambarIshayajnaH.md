@@ -4,11 +4,8 @@ title_english = "062 Legend of shunashshepa contd"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-062-Ambareesha_Yagnaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-062-Ambareesha_Yagnaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -58,13 +55,13 @@ title_english = "062 Legend of shunashshepa contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मेऽस्ति माता न पिता ज्ञातयो बान्धवाः कुतः॥ ४॥  
-त्रातुमर्हसि मां सौम्य धर्मेण मुनिपुंगव।
+त्रातुमर्हसि मां सौम्य धर्मेण मुनिपुङ्गव।
 </details>
 
 <details><summary>मूलम्</summary>
 
 न मेऽस्ति माता न पिता ज्ञातयो बान्धवाः कुतः॥ ४॥  
-त्रातुमर्हसि मां सौम्य धर्मेण मुनिपुंगव।
+त्रातुमर्हसि मां सौम्य धर्मेण मुनिपुङ्गव।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -229,13 +226,13 @@ title_english = "062 Legend of shunashshepa contd"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषां तद् वचनं श्रुत्वा पुत्राणां मुनिपुंगवः।  
+तेषां तद् वचनं श्रुत्वा पुत्राणां मुनिपुङ्गवः।  
 क्रोधसंरक्तनयनो व्याहर्तुमुपचक्रमे॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तेषां तद् वचनं श्रुत्वा पुत्राणां मुनिपुंगवः।  
+तेषां तद् वचनं श्रुत्वा पुत्राणां मुनिपुङ्गवः।  
 क्रोधसंरक्तनयनो व्याहर्तुमुपचक्रमे॥ १५॥
 </details>
 
@@ -444,3 +441,4 @@ title_english = "062 Legend of shunashshepa contd"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्विषष्टितमः सर्गः॥ ६२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें बासठवाँ सर्ग पूरा हुआ॥ ६२॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "057 Hanuma leaps from Lanka and touches Mount Mainaka"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-056-Hanuma_again_visits_Ashoka_garden_and_sees_Seetha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-056-Hanuma_again_visits_Ashoka_garden_and_sees_Seetha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -23,7 +20,7 @@ title_english = "057 Hanuma leaps from Lanka and touches Mount Mainaka"
 तिष्यश्रवणकादम्बमभ्रशैवलशाद्वलम्॥ २॥  
 पुनर्वसुमहामीनं लोहिताङ्गमहाग्रहम्।  
 ऐरावतमहाद्वीपं स्वातीहंसविलासितम्॥ ३॥  
-वातसंघातजालोर्मिचन्द्रांशुशिशिराम्बुमत्।  
+वातसङ्घातजालोर्मिचन्द्रांशुशिशिराम्बुमत्।  
 हनूमानपरिश्रान्तः पुप्लुवे गगनार्णवम्॥ ४॥
 </details>
 
@@ -35,7 +32,7 @@ title_english = "057 Hanuma leaps from Lanka and touches Mount Mainaka"
 तिष्यश्रवणकादम्बमभ्रशैवलशाद्वलम्॥ २॥  
 पुनर्वसुमहामीनं लोहिताङ्गमहाग्रहम्।  
 ऐरावतमहाद्वीपं स्वातीहंसविलासितम्॥ ३॥  
-वातसंघातजालोर्मिचन्द्रांशुशिशिराम्बुमत्।  
+वातसङ्घातजालोर्मिचन्द्रांशुशिशिराम्बुमत्।  
 हनूमानपरिश्रान्तः पुप्लुवे गगनार्णवम्॥ ४॥
 </details>
 
@@ -175,14 +172,14 @@ title_english = "057 Hanuma leaps from Lanka and touches Mount Mainaka"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स किंचिदारात् सम्प्राप्तः समालोक्य महागिरिम्॥ १४॥  
-महेन्द्रं मेघसंकाशं ननाद स महाकपिः।
+स किञ्चिदारात् सम्प्राप्तः समालोक्य महागिरिम्॥ १४॥  
+महेन्द्रं मेघसङ्काशं ननाद स महाकपिः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-स किंचिदारात् सम्प्राप्तः समालोक्य महागिरिम्॥ १४॥  
-महेन्द्रं मेघसंकाशं ननाद स महाकपिः।
+स किञ्चिदारात् सम्प्राप्तः समालोक्य महागिरिम्॥ १४॥  
+महेन्द्रं मेघसङ्काशं ननाद स महाकपिः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -400,13 +397,13 @@ title_english = "057 Hanuma leaps from Lanka and touches Mount Mainaka"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमभ्रघनसंकाशमापतन्तं महाकपिम्।  
+तमभ्रघनसङ्काशमापतन्तं महाकपिम्।  
 दृष्ट्वा ते वानराः सर्वे तस्थुः प्राञ्जलयस्तदा॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तमभ्रघनसंकाशमापतन्तं महाकपिम्।  
+तमभ्रघनसङ्काशमापतन्तं महाकपिम्।  
 दृष्ट्वा ते वानराः सर्वे तस्थुः प्राञ्जलयस्तदा॥ २८॥
 </details>
 
@@ -524,13 +521,13 @@ title_english = "057 Hanuma leaps from Lanka and touches Mount Mainaka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ताभ्यां पूजितः पूज्यः कपिभिश्च प्रसादितः।  
-दृष्टा देवीति विक्रान्तः संक्षेपेण न्यवेदयत्॥ ३६॥
+दृष्टा देवीति विक्रान्तः सङ्क्षेपेण न्यवेदयत्॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स ताभ्यां पूजितः पूज्यः कपिभिश्च प्रसादितः।  
-दृष्टा देवीति विक्रान्तः संक्षेपेण न्यवेदयत्॥ ३६॥
+दृष्टा देवीति विक्रान्तः सङ्क्षेपेण न्यवेदयत्॥ ३६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -784,3 +781,4 @@ title_english = "057 Hanuma leaps from Lanka and touches Mount Mainaka"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे सप्तपञ्चाशः सर्गः॥ ५७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें सत्तावनवाँ सर्ग पूरा हुआ॥ ५७॥
 </details>
+

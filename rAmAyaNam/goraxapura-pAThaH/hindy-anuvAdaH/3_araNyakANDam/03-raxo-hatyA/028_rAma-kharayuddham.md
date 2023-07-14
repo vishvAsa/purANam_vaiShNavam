@@ -4,11 +4,8 @@ title_english = "028 Khara s war with Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-028-Rama_Khara_Yuddham.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-028-Rama_Khara_Yuddham.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -124,13 +121,13 @@ title_english = "028 Khara s war with Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् बभूव शितैर्बाणैः खररामविसर्जितैः।  
-पर्याकाशमनाकाशं सर्वतः शरसंकुलम्॥ ८॥
+पर्याकाशमनाकाशं सर्वतः शरसङ्कुलम्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तद् बभूव शितैर्बाणैः खररामविसर्जितैः।  
-पर्याकाशमनाकाशं सर्वतः शरसंकुलम्॥ ८॥
+पर्याकाशमनाकाशं सर्वतः शरसङ्कुलम्॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -361,14 +358,14 @@ title_english = "028 Khara s war with Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः कनकपुङ्खैस्तु शरैः संनतपर्वभिः।  
-चिच्छेद रामः संक्रुद्धः खरस्य समरे ध्वजम्॥ २२॥
+ततः कनकपुङ्खैस्तु शरैः सन्नतपर्वभिः।  
+चिच्छेद रामः सङ्क्रुद्धः खरस्य समरे ध्वजम्॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः कनकपुङ्खैस्तु शरैः संनतपर्वभिः।  
-चिच्छेद रामः संक्रुद्धः खरस्य समरे ध्वजम्॥ २२॥
+ततः कनकपुङ्खैस्तु शरैः सन्नतपर्वभिः।  
+चिच्छेद रामः सङ्क्रुद्धः खरस्य समरे ध्वजम्॥ २२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -429,13 +426,13 @@ title_english = "028 Khara s war with Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स धनुर्धन्विनां श्रेष्ठः संगृह्य परमाहवे।  
+स धनुर्धन्विनां श्रेष्ठः सङ्गृह्य परमाहवे।  
 मुमोच परमेष्वासः षट् शरानभिलक्षितान्॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स धनुर्धन्विनां श्रेष्ठः संगृह्य परमाहवे।  
+स धनुर्धन्विनां श्रेष्ठः सङ्गृह्य परमाहवे।  
 मुमोच परमेष्वासः षट् शरानभिलक्षितान्॥ २६॥
 </details>
 
@@ -481,13 +478,13 @@ title_english = "028 Khara s war with Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथस्य युगमेकेन चतुर्भिः शबलान् हयान्।  
-षष्ठेन च शिरः संख्ये चिच्छेद खरसारथेः॥ २९॥
+षष्ठेन च शिरः सङ्ख्ये चिच्छेद खरसारथेः॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रथस्य युगमेकेन चतुर्भिः शबलान् हयान्।  
-षष्ठेन च शिरः संख्ये चिच्छेद खरसारथेः॥ २९॥
+षष्ठेन च शिरः सङ्ख्ये चिच्छेद खरसारथेः॥ २९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -559,3 +556,4 @@ title_english = "028 Khara s war with Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डेऽष्टाविंशः सर्गः॥ २८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें अट्ठाईसवाँ सर्ग पूरा हुआ॥ २८॥
 </details>
+

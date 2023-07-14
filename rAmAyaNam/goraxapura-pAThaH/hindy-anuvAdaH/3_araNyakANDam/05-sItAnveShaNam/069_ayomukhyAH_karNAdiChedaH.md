@@ -4,11 +4,8 @@ title_english = "069 Kabandha captures Rama Lakshmana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-069-Ayomukyhaha_Karnaadi_Chchedaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-069-Ayomukyhaha_Karnaadi_Chchedaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -396,13 +393,13 @@ title_english = "069 Kabandha captures Rama Lakshmana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तयोरन्वेषतोरेवं सर्वं तद् वनमोजसा।  
-संजज्ञे विपुलः शब्दः प्रभञ्जन्निव तद् वनम्॥ २४॥
+सञ्जज्ञे विपुलः शब्दः प्रभञ्जन्निव तद् वनम्॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तयोरन्वेषतोरेवं सर्वं तद् वनमोजसा।  
-संजज्ञे विपुलः शब्दः प्रभञ्जन्निव तद् वनम्॥ २४॥
+सञ्जज्ञे विपुलः शब्दः प्रभञ्जन्निव तद् वनम्॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -429,13 +426,13 @@ title_english = "069 Kabandha captures Rama Lakshmana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं शब्दं कांक्षमाणस्तु रामः खड्गी सहानुजः।  
+तं शब्दं काङ्क्षमाणस्तु रामः खड्गी सहानुजः।  
 ददर्श सुमहाकायं राक्षसं विपुलोरसम्॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तं शब्दं कांक्षमाणस्तु रामः खड्गी सहानुजः।  
+तं शब्दं काङ्क्षमाणस्तु रामः खड्गी सहानुजः।  
 ददर्श सुमहाकायं राक्षसं विपुलोरसम्॥ २६॥
 </details>
 
@@ -595,13 +592,13 @@ title_english = "069 Kabandha captures Rama Lakshmana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उवाच च विषण्णः सन् राघवं राघवानुजः।  
-पश्य मां विवशं वीर राक्षसस्य वशंगतम्॥ ३८॥
+पश्य मां विवशं वीर राक्षसस्य वशङ्गतम्॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 उवाच च विषण्णः सन् राघवं राघवानुजः।  
-पश्य मां विवशं वीर राक्षसस्य वशंगतम्॥ ३८॥
+पश्य मां विवशं वीर राक्षसस्य वशङ्गतम्॥ ३८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -800,3 +797,4 @@ title_english = "069 Kabandha captures Rama Lakshmana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे एकोनसप्ततितमः सर्गः॥ ६९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें उनहत्तरवाँ सर्ग पूरा हुआ॥ ६९॥
 </details>
+

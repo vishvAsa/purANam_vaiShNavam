@@ -4,16 +4,14 @@ title_english = "032 Rama distributes his wealth to Rishis"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-032-Lakshmanaaya_Mamathihi.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-032-Lakshmanaaya_Mamathihi.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
 32. सीतासहित श्रीरामका वसिष्ठपुत्र सुयज्ञको बुलाकर उनके तथा उनकी पत्नीके लिये बहुमूल्य आभूषण, रत्न और धन आदिका दान तथा लक्ष्मणसहित श्रीरामद्वारा ब्राह्मणों, ब्रह्मचारियों, सेवकों, त्रिजट ब्राह्मण और सुहृज्जनोंको धनका वितरण
 </details>
+
 
 ## सुयज्ञाह्वानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -56,7 +54,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः संध्याम् उपास्थाय  
+ततः सन्ध्याम् उपास्थाय  
 गत्वा सौमित्रिणा सह।  
 ऋद्धं स प्राविशल् लक्ष्म्या  
 रम्यं राम-निवेशनम्॥ ३॥
@@ -64,7 +62,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 
 <details><summary>मूलम्</summary>
 
-ततः संध्यामुपास्थाय गत्वा सौमित्रिणा सह।  
+ततः सन्ध्यामुपास्थाय गत्वा सौमित्रिणा सह।  
 ऋद्धं स प्राविशल्लक्ष्म्या रम्यं रामनिवेशनम्॥ ३॥
 </details>
 
@@ -184,7 +182,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 
 <details><summary>मूलम्</summary>
 
-नागः शत्रुंजयो नाम मातुलोऽयं ददौ मम।  
+नागः शत्रुञ्जयो नाम मातुलोऽयं ददौ मम।  
 तं ते निष्कसहस्रेण ददामि द्विजपुङ्गव॥ १०॥
 </details>
 
@@ -211,6 +209,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 
 श्रीरामके ऐसा कहनेपर सुयज्ञने वे सब वस्तुएँ ग्रहण करके श्रीराम, लक्ष्मण और सीताके लिये मङ्गलमय आशीर्वाद प्रदान किये॥ ११॥
 </details>
+
 
 ## अन्यदानादेशः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -322,7 +321,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 <details><summary>मूलम्</summary>
 
 ये चेमे कठकालापा बहवो दण्डमाणवाः॥ १८॥  
-नित्यस्वाध्यायशीलत्वान्नान्यत् कुर्वन्ति किंचन।  
+नित्यस्वाध्यायशीलत्वान्नान्यत् कुर्वन्ति किञ्चन।  
 अलसाः स्वादुकामाश्च महतां चापि सम्मताः॥ १९॥  
 तेषामशीतियानानि रत्नपूर्णानि दापय।  
 शालिवाहसहस्रं च द्वे शते भद्रकांस्तथा॥ २०॥
@@ -393,6 +392,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 इस प्रकार आज्ञा प्राप्त होनेपर पुरुषसिंह लक्ष्मणने स्वयं ही कुबेरकी भाँति श्रीरामके कथनानुसार उन श्रेष्ठ ब्राह्मणोंको उस धनका दान किया॥ २३॥
 </details>
 
+
 ## उपजीविभ्यो वचनम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -419,6 +419,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 
 इसके बाद वहाँ खड़े हुए अपने आश्रित सेवकोंको जिनका गला आँसुओंसे रुँधा हुआ था, बुलाकर श्रीरामने उनमेंसे एक-एकको चौदह वर्षोंतक जीविका चलानेयोग्य बहुत-सा द्रव्य प्रदान किया और उन सबसे कहा—‘जबतक मैं वनसे लौटकर न आऊँ, तबतक तुमलोग लक्ष्मणके और मेरे इस घरको कभी सूना न करना—छोड़कर अन्यत्र न जाना’॥ २४-२५॥
 </details>
+
 
 ## त्रिजटाय दानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -514,7 +515,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 तं वृद्धं तरुणी भार्या बालानादाय दारकान्।  
 अब्रवीद् ब्राह्मणं वाक्यं स्त्रीणां भर्ता हि देवता॥ ३०॥  
 अपास्य फालं कुद्दालं कुरुष्व वचनं मम।  
-रामं दर्शय धर्मज्ञं यदि किंचिदवाप्स्यसि॥ ३१॥
+रामं दर्शय धर्मज्ञं यदि किञ्चिदवाप्स्यसि॥ ३१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -634,7 +635,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 <details><summary>मूलम्</summary>
 
 स तीर्त्वा सरयूपारं दण्डस्तस्य कराच्च्युतः।  
-गोव्रजे बहुसाहस्रे पपातोक्षणसंनिधौ॥ ३८॥
+गोव्रजे बहुसाहस्रे पपातोक्षणसन्निधौ॥ ३८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -694,7 +695,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 इदं हि तेजस्तव यद् दुरत्ययं  
 तदेव जिज्ञासितुमिच्छता मया।  
 इमं भवानर्थमभिप्रचोदितो  
-वृणीष्व किंचेदपरं व्यवस्यसि॥ ४१॥
+वृणीष्व किञ्चेदपरं व्यवस्यसि॥ ४१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -744,6 +745,7 @@ title_english = "032 Rama distributes his wealth to Rishis"
 गौओंके उस महान् समूहको पाकर पत्नीसहित महामुनि त्रिजटको बड़ी प्रसन्नता हुई, वे महात्मा श्रीरामको यश, बल, प्रीति तथा सुख बढ़ानेवाले आशीर्वाद देने लगे॥ ४३॥
 </details>
 
+
 ## अन्येभ्यो दानम्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -792,3 +794,4 @@ title_english = "032 Rama distributes his wealth to Rishis"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे द्वात्रिंशः सर्गः॥ ३२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें बत्तीसवाँ सर्ग पूरा हुआ॥ ३२॥
 </details>
+

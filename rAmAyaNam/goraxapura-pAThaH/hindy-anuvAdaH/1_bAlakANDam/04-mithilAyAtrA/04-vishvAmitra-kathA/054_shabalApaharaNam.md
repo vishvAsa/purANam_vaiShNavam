@@ -4,11 +4,8 @@ title_english = "054 Sacred Cow creates forces to fightback"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-054-Shabala_Paharanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-054-Shabala_Paharanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -85,14 +82,14 @@ title_english = "054 Sacred Cow creates forces to fightback"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति संचिन्तयित्वा तु निःश्वस्य च पुनः पुनः।  
+इति सञ्चिन्तयित्वा तु निःश्वस्य च पुनः पुनः।  
 जगाम वेगेन तदा वसिष्ठं परमौजसम्॥ ५॥  
 निर्धूय तांस्तदा भृत्यान् शतशः शत्रुसूदन।
 </details>
 
 <details><summary>मूलम्</summary>
 
-इति संचिन्तयित्वा तु निःश्वस्य च पुनः पुनः।  
+इति सञ्चिन्तयित्वा तु निःश्वस्य च पुनः पुनः।  
 जगाम वेगेन तदा वसिष्ठं परमौजसम्॥ ५॥  
 निर्धूय तांस्तदा भृत्यान् शतशः शत्रुसूदन।
 </details>
@@ -141,13 +138,13 @@ title_english = "054 Sacred Cow creates forces to fightback"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु ब्रह्मर्षिरिदं वचनमब्रवीत्।  
-शोकसंतप्तहृदयां स्वसारमिव दुःखिताम्॥ ९॥
+शोकसन्तप्तहृदयां स्वसारमिव दुःखिताम्॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्तस्तु ब्रह्मर्षिरिदं वचनमब्रवीत्।  
-शोकसंतप्तहृदयां स्वसारमिव दुःखिताम्॥ ९॥
+शोकसन्तप्तहृदयां स्वसारमिव दुःखिताम्॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -294,13 +291,13 @@ title_english = "054 Sacred Cow creates forces to fightback"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा सुरभिः सासृजत् तदा।  
-तस्या हुंभारवोत्सृष्टाः पह्लवाः शतशो नृप॥ १८॥
+तस्या हुम्भारवोत्सृष्टाः पह्लवाः शतशो नृप॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्य तद् वचनं श्रुत्वा सुरभिः सासृजत् तदा।  
-तस्या हुंभारवोत्सृष्टाः पह्लवाः शतशो नृप॥ १८॥
+तस्या हुम्भारवोत्सृष्टाः पह्लवाः शतशो नृप॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -348,7 +345,7 @@ title_english = "054 Sacred Cow creates forces to fightback"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रभावद्भिर्महावीर्यैर्हेमकिंजल्कसंनिभैः।  
+प्रभावद्भिर्महावीर्यैर्हेमकिञ्जल्कसन्निभैः।  
 तीक्ष्णासिपट्टिशधरैर्हेमवर्णाम्बरावृतैः॥ २२॥  
 निर्दग्धं तद‍्बलं सर्वं प्रदीप्तैरिव पावकैः।  
 ततोऽस्त्राणि महातेजा विश्वामित्रो मुमोच ह।  
@@ -357,7 +354,7 @@ title_english = "054 Sacred Cow creates forces to fightback"
 
 <details><summary>मूलम्</summary>
 
-प्रभावद्भिर्महावीर्यैर्हेमकिंजल्कसंनिभैः।  
+प्रभावद्भिर्महावीर्यैर्हेमकिञ्जल्कसन्निभैः।  
 तीक्ष्णासिपट्टिशधरैर्हेमवर्णाम्बरावृतैः॥ २२॥  
 निर्दग्धं तद‍्बलं सर्वं प्रदीप्तैरिव पावकैः।  
 ततोऽस्त्राणि महातेजा विश्वामित्रो मुमोच ह।  
@@ -374,3 +371,4 @@ title_english = "054 Sacred Cow creates forces to fightback"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुःपञ्चाशः सर्गः॥ ५४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें चौवनवाँ सर्ग पूरा हुआ॥ ५४॥
 </details>
+

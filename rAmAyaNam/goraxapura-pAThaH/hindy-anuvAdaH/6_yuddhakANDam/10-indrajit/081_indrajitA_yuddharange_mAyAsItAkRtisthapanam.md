@@ -4,11 +4,8 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-081-Indrajit_places_illusory_live_image_of_Seetha_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-081-Indrajit_places_illusory_live_image_of_Seetha_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -120,13 +117,13 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा त्वभिनिर्यान्तं सर्वे ते काननौकसः।  
-उत्पेतुरभिसंक्रुद्धाः शिलाहस्ता युयुत्सवः॥ ७॥
+उत्पेतुरभिसङ्क्रुद्धाः शिलाहस्ता युयुत्सवः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तं दृष्ट्वा त्वभिनिर्यान्तं सर्वे ते काननौकसः।  
-उत्पेतुरभिसंक्रुद्धाः शिलाहस्ता युयुत्सवः॥ ७॥
+उत्पेतुरभिसङ्क्रुद्धाः शिलाहस्ता युयुत्सवः॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -359,13 +356,13 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सीतां हत्वा तु न चिरं जीविष्यसि कथंचन।  
+सीतां हत्वा तु न चिरं जीविष्यसि कथञ्चन।  
 वधार्ह कर्मणा तेन मम हस्तगतो ह्यसि॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सीतां हत्वा तु न चिरं जीविष्यसि कथंचन।  
+सीतां हत्वा तु न चिरं जीविष्यसि कथञ्चन।  
 वधार्ह कर्मणा तेन मम हस्तगतो ह्यसि॥ २१॥
 </details>
 
@@ -394,13 +391,13 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति ब्रुवाणो हनुमान् सायुधैर्हरिभिर्वृतः।  
-अभ्यधावत् सुसंक्रुद्धो राक्षसेन्द्रसुतं प्रति॥ २३॥
+अभ्यधावत् सुसङ्क्रुद्धो राक्षसेन्द्रसुतं प्रति॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इति ब्रुवाणो हनुमान् सायुधैर्हरिभिर्वृतः।  
-अभ्यधावत् सुसंक्रुद्धो राक्षसेन्द्रसुतं प्रति॥ २३॥
+अभ्यधावत् सुसङ्क्रुद्धो राक्षसेन्द्रसुतं प्रति॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -465,13 +462,13 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हन्तव्याः स्त्रियश्चेति यद् ब्रवीषि प्लवंगम।  
+न हन्तव्याः स्त्रियश्चेति यद् ब्रवीषि प्लवङ्गम।  
 पीडाकरममित्राणां यच्च कर्तव्यमेव तत्॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न हन्तव्याः स्त्रियश्चेति यद् ब्रवीषि प्लवंगम।  
+न हन्तव्याः स्त्रियश्चेति यद् ब्रवीषि प्लवङ्गम।  
 पीडाकरममित्राणां यच्च कर्तव्यमेव तत्॥ २८॥
 </details>
 
@@ -593,3 +590,4 @@ title_english = "081 Indrajit places illusory live image of Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकाशीतितमः सर्गः॥ ८१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें इक्यासीवाँ सर्ग पूरा हुआ॥ ८१॥
 </details>
+

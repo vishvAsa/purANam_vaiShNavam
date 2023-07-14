@@ -4,11 +4,8 @@ title_english = "005 Hermitage of Sage Sharabhanga"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-005-Sharabhangasya_Agni_Praveshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-005-Sharabhangasya_Agni_Praveshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -82,14 +79,14 @@ title_english = "005 Hermitage of Sage Sharabhanga"
 
 तद्विधैरेव बहुभिः पूज्यमानं महात्मभिः।  
 हरितैर्वाजिभिर्युक्तमन्तरिक्षगतं रथम्॥ ७॥  
-ददर्शादूरतस्तस्य तरुणादित्यसंनिभम्।
+ददर्शादूरतस्तस्य तरुणादित्यसन्निभम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 तद्विधैरेव बहुभिः पूज्यमानं महात्मभिः।  
 हरितैर्वाजिभिर्युक्तमन्तरिक्षगतं रथम्॥ ७॥  
-ददर्शादूरतस्तस्य तरुणादित्यसंनिभम्।
+ददर्शादूरतस्तस्य तरुणादित्यसन्निभम्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -99,13 +96,13 @@ title_english = "005 Hermitage of Sage Sharabhanga"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पाण्डुराभ्रघनप्रख्यं चन्द्रमण्डलसंनिभम्॥ ८॥  
+पाण्डुराभ्रघनप्रख्यं चन्द्रमण्डलसन्निभम्॥ ८॥  
 अपश्यद् विमलं छत्रं चित्रमाल्योपशोभितम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-पाण्डुराभ्रघनप्रख्यं चन्द्रमण्डलसंनिभम्॥ ८॥  
+पाण्डुराभ्रघनप्रख्यं चन्द्रमण्डलसन्निभम्॥ ८॥  
 अपश्यद् विमलं छत्रं चित्रमाल्योपशोभितम्।
 </details>
 
@@ -211,13 +208,13 @@ title_english = "005 Hermitage of Sage Sharabhanga"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उरोदेशेषु सर्वेषां हारा ज्वलनसंनिभाः।  
+उरोदेशेषु सर्वेषां हारा ज्वलनसन्निभाः।  
 रूपं बिभ्रति सौमित्रे पञ्चविंशतिवार्षिकम्॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उरोदेशेषु सर्वेषां हारा ज्वलनसंनिभाः।  
+उरोदेशेषु सर्वेषां हारा ज्वलनसन्निभाः।  
 रूपं बिभ्रति सौमित्रे पञ्चविंशतिवार्षिकम्॥ १७॥
 </details>
 
@@ -331,13 +328,13 @@ title_english = "005 Hermitage of Sage Sharabhanga"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ वज्री तमामन्त्र्य मानयित्वा च तापसम्।  
-रथेन हययुक्तेन ययौ दिवमरिंदमः॥ २४॥
+रथेन हययुक्तेन ययौ दिवमरिन्दमः॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथ वज्री तमामन्त्र्य मानयित्वा च तापसम्।  
-रथेन हययुक्तेन ययौ दिवमरिंदमः॥ २४॥
+रथेन हययुक्तेन ययौ दिवमरिन्दमः॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -364,13 +361,13 @@ title_english = "005 Hermitage of Sage Sharabhanga"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य पादौ च संगृह्य रामः सीता च लक्ष्मणः।  
+तस्य पादौ च सङ्गृह्य रामः सीता च लक्ष्मणः।  
 निषेदुस्तदनुज्ञाता लब्धवासा निमन्त्रिताः॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्य पादौ च संगृह्य रामः सीता च लक्ष्मणः।  
+तस्य पादौ च सङ्गृह्य रामः सीता च लक्ष्मणः।  
 निषेदुस्तदनुज्ञाता लब्धवासा निमन्त्रिताः॥ २६॥
 </details>
 
@@ -619,13 +616,13 @@ title_english = "005 Hermitage of Sage Sharabhanga"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स च पावकसंकाशः कुमारः समपद्यत।  
+स च पावकसङ्काशः कुमारः समपद्यत।  
 उत्थायाग्निचयात् तस्माच्छरभङ्गो व्यरोचत॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स च पावकसंकाशः कुमारः समपद्यत।  
+स च पावकसङ्काशः कुमारः समपद्यत।  
 उत्थायाग्निचयात् तस्माच्छरभङ्गो व्यरोचत॥ ४१॥
 </details>
 
@@ -677,3 +674,4 @@ title_english = "005 Hermitage of Sage Sharabhanga"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे पञ्चमः सर्गः॥ ५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें पाँचवाँ सर्ग पूरा हुआ॥ ५॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "046 Sugreeva s knowledge of physical world"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-046-_Dundubhi_Vruthanthaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-046-_Dundubhi_Vruthanthaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -112,13 +109,13 @@ title_english = "046 Sugreeva s knowledge of physical world"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाहं गतबुद्धिस्तु सुव्यक्तं निहतो गुरुः।  
-शिला पर्वतसंकाशा बिलद्वारि मया कृता॥ ७॥
+शिला पर्वतसङ्काशा बिलद्वारि मया कृता॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथाहं गतबुद्धिस्तु सुव्यक्तं निहतो गुरुः।  
-शिला पर्वतसंकाशा बिलद्वारि मया कृता॥ ७॥
+शिला पर्वतसङ्काशा बिलद्वारि मया कृता॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -198,7 +195,7 @@ title_english = "046 Sugreeva s knowledge of physical world"
 
 ततोऽहं वालिना तेन सोऽनुबद्धः प्रधावितः।  
 नदीश्च विविधाः पश्यन् वनानि नगराणि च॥ १२॥  
-आदर्शतलसंकाशा ततो वै पृथिवी मया।  
+आदर्शतलसङ्काशा ततो वै पृथिवी मया।  
 अलातचक्रप्रतिमा दृष्टा गोष्पदवत् कृता॥ १३॥
 </details>
 
@@ -206,7 +203,7 @@ title_english = "046 Sugreeva s knowledge of physical world"
 
 ततोऽहं वालिना तेन सोऽनुबद्धः प्रधावितः।  
 नदीश्च विविधाः पश्यन् वनानि नगराणि च॥ १२॥  
-आदर्शतलसंकाशा ततो वै पृथिवी मया।  
+आदर्शतलसङ्काशा ततो वै पृथिवी मया।  
 अलातचक्रप्रतिमा दृष्टा गोष्पदवत् कृता॥ १३॥
 </details>
 
@@ -269,13 +266,13 @@ title_english = "046 Sugreeva s knowledge of physical world"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिशस्तस्यास्ततो भूयः प्रस्थितो दक्षिणां दिशम्।  
-विन्ध्यपादपसंकीर्णां चन्दनद्रुमशोभिताम्॥ १७॥
+विन्ध्यपादपसङ्कीर्णां चन्दनद्रुमशोभिताम्॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दिशस्तस्यास्ततो भूयः प्रस्थितो दक्षिणां दिशम्।  
-विन्ध्यपादपसंकीर्णां चन्दनद्रुमशोभिताम्॥ १७॥
+विन्ध्यपादपसङ्कीर्णां चन्दनद्रुमशोभिताम्॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -396,3 +393,4 @@ title_english = "046 Sugreeva s knowledge of physical world"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे षट्चत्वारिंशः सर्गः॥ ४६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें छियालीसवाँ सर्ग पूरा हुआ॥ ४६॥
 </details>
+

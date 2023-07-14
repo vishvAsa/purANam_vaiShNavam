@@ -4,11 +4,8 @@ title_english = "067 Hanuma narrates an incident connected with a crow"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-066-urges_Hanuma,_to_repeat_the_words_spoken_by_Seetha..mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-066-urges_Hanuma,_to_repeat_the_words_spoken_by_Seetha..mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -103,13 +100,13 @@ title_english = "067 Hanuma narrates an incident connected with a crow"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वायसेन च तेनैवं सततं बाध्यमानया।  
-बोधितः किल देव्या त्वं सुखसुप्तः परंतप॥ ६॥
+बोधितः किल देव्या त्वं सुखसुप्तः परन्तप॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 वायसेन च तेनैवं सततं बाध्यमानया।  
-बोधितः किल देव्या त्वं सुखसुप्तः परंतप॥ ६॥
+बोधितः किल देव्या त्वं सुखसुप्तः परन्तप॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -255,14 +252,14 @@ title_english = "067 Hanuma narrates an incident connected with a crow"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुनरप्यागतस्तत्र त्वत्सकाशमरिंदम।  
+पुनरप्यागतस्तत्र त्वत्सकाशमरिन्दम।  
 त्वं तं निपतितं भूमौ शरण्यः शरणागतम्॥ १५॥  
 वधार्हमपि काकुत्स्थ कृपया परिपालयः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-पुनरप्यागतस्तत्र त्वत्सकाशमरिंदम।  
+पुनरप्यागतस्तत्र त्वत्सकाशमरिन्दम।  
 त्वं तं निपतितं भूमौ शरण्यः शरणागतम्॥ १५॥  
 वधार्हमपि काकुत्स्थ कृपया परिपालयः।
 </details>
@@ -359,13 +356,13 @@ title_english = "067 Hanuma narrates an incident connected with a crow"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ्रातुरादेशमाज्ञाय लक्ष्मणो वा परंतपः॥ २१॥  
+भ्रातुरादेशमाज्ञाय लक्ष्मणो वा परन्तपः॥ २१॥  
 स किमर्थं नरवरो न मां रक्षति राघवः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-भ्रातुरादेशमाज्ञाय लक्ष्मणो वा परंतपः॥ २१॥  
+भ्रातुरादेशमाज्ञाय लक्ष्मणो वा परन्तपः॥ २१॥  
 स किमर्थं नरवरो न मां रक्षति राघवः।
 </details>
 
@@ -393,14 +390,14 @@ title_english = "067 Hanuma narrates an incident connected with a crow"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ममैव दुष्कृतं किंचिन्महदस्ति न संशयः॥ २३॥  
-समर्थौ सहितौ यन्मां न रक्षेते परंतपौ।
+ममैव दुष्कृतं किञ्चिन्महदस्ति न संशयः॥ २३॥  
+समर्थौ सहितौ यन्मां न रक्षेते परन्तपौ।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ममैव दुष्कृतं किंचिन्महदस्ति न संशयः॥ २३॥  
-समर्थौ सहितौ यन्मां न रक्षेते परंतपौ।
+ममैव दुष्कृतं किञ्चिन्महदस्ति न संशयः॥ २३॥  
+समर्थौ सहितौ यन्मां न रक्षेते परन्तपौ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -444,13 +441,13 @@ title_english = "067 Hanuma narrates an incident connected with a crow"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथंचिद् भवती दृष्टा न कालः परिशोचितुम्॥ २६॥  
+कथञ्चिद् भवती दृष्टा न कालः परिशोचितुम्॥ २६॥  
 अस्मिन् मुहूर्ते दुःखानामन्तं द्रक्ष्यसि भामिनि।
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथंचिद् भवती दृष्टा न कालः परिशोचितुम्॥ २६॥  
+कथञ्चिद् भवती दृष्टा न कालः परिशोचितुम्॥ २६॥  
 अस्मिन् मुहूर्ते दुःखानामन्तं द्रक्ष्यसि भामिनि।
 </details>
 
@@ -461,13 +458,13 @@ title_english = "067 Hanuma narrates an incident connected with a crow"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तावुभौ नरशार्दूलौ राजपुत्रौ परंतपौ॥ २७॥  
+तावुभौ नरशार्दूलौ राजपुत्रौ परन्तपौ॥ २७॥  
 त्वद्दर्शनकृतोत्साहौ लङ्कां भस्मीकरिष्यतः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तावुभौ नरशार्दूलौ राजपुत्रौ परंतपौ॥ २७॥  
+तावुभौ नरशार्दूलौ राजपुत्रौ परन्तपौ॥ २७॥  
 त्वद्दर्शनकृतोत्साहौ लङ्कां भस्मीकरिष्यतः।
 </details>
 
@@ -496,13 +493,13 @@ title_english = "067 Hanuma narrates an incident connected with a crow"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु रामो विजानीयादभिज्ञानमनिन्दिते॥ २९॥  
-प्रीतिसंजननं तस्य प्रदातुं तत् त्वमर्हसि।
+प्रीतिसञ्जननं तस्य प्रदातुं तत् त्वमर्हसि।
 </details>
 
 <details><summary>मूलम्</summary>
 
 यत् तु रामो विजानीयादभिज्ञानमनिन्दिते॥ २९॥  
-प्रीतिसंजननं तस्य प्रदातुं तत् त्वमर्हसि।
+प्रीतिसञ्जननं तस्य प्रदातुं तत् त्वमर्हसि।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -630,15 +627,15 @@ title_english = "067 Hanuma narrates an incident connected with a crow"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्येवं सा समाभाष्य भूयः संदेष्टुमास्थिता॥ ४०॥  
-हनूमन् सिंहसंकाशौ तावुभौ रामलक्ष्मणौ।  
+इत्येवं सा समाभाष्य भूयः सन्देष्टुमास्थिता॥ ४०॥  
+हनूमन् सिंहसङ्काशौ तावुभौ रामलक्ष्मणौ।  
 सुग्रीवं च सहामात्यं सर्वान् ब्रूया अनामयम्॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इत्येवं सा समाभाष्य भूयः संदेष्टुमास्थिता॥ ४०॥  
-हनूमन् सिंहसंकाशौ तावुभौ रामलक्ष्मणौ।  
+इत्येवं सा समाभाष्य भूयः सन्देष्टुमास्थिता॥ ४०॥  
+हनूमन् सिंहसङ्काशौ तावुभौ रामलक्ष्मणौ।  
 सुग्रीवं च सहामात्यं सर्वान् ब्रूया अनामयम्॥ ४१॥
 </details>
 
@@ -711,3 +708,4 @@ title_english = "067 Hanuma narrates an incident connected with a crow"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे सप्तषष्टितमः सर्गः॥ ६७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें सरसठवाँ सर्ग पूरा हुआ॥ ६७॥
 </details>
+

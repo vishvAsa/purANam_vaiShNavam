@@ -4,11 +4,8 @@ title_english = "022 rAma lakshmaNa travel with vishvamitra to his ritual place"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-022-Rama_Lakshmana_YorniShrakamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-022-Rama_Lakshmana_YorniShrakamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -20,7 +17,7 @@ title_english = "022 rAma lakshmaNa travel with vishvamitra to his ritual place"
 तथा वसिष्ठे ब्रुवति राजा दशरथः स्वयम्।  
 प्रहृष्टवदनो राममाजुहाव सलक्ष्मणम्॥ १॥  
 कृतस्वस्त्ययनं मात्रा पित्रा दशरथेन च।  
-पुरोधसा वसिष्ठेन मंगलैरभिमन्त्रितम्॥ २॥
+पुरोधसा वसिष्ठेन मङ्गलैरभिमन्त्रितम्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -28,7 +25,7 @@ title_english = "022 rAma lakshmaNa travel with vishvamitra to his ritual place"
 तथा वसिष्ठे ब्रुवति राजा दशरथः स्वयम्।  
 प्रहृष्टवदनो राममाजुहाव सलक्ष्मणम्॥ १॥  
 कृतस्वस्त्ययनं मात्रा पित्रा दशरथेन च।  
-पुरोधसा वसिष्ठेन मंगलैरभिमन्त्रितम्॥ २॥
+पुरोधसा वसिष्ठेन मङ्गलैरभिमन्त्रितम्॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -127,8 +124,8 @@ title_english = "022 rAma lakshmaNa travel with vishvamitra to his ritual place"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदा कुशिकपुत्रं तु धनुष्पाणी स्वलंकृतौ।  
-बद्धगोधांगुलित्राणौ खड्गवन्तौ महाद्युती॥ ९॥  
+तदा कुशिकपुत्रं तु धनुष्पाणी स्वलङ्कृतौ।  
+बद्धगोधाङ्गुलित्राणौ खड्गवन्तौ महाद्युती॥ ९॥  
 कुमारौ चारुवपुषौ भ्रातरौ रामलक्ष्मणौ।  
 अनुयातौ श्रिया दीप्तौ शोभयेतामनिन्दितौ॥ १०॥  
 स्थाणुं देवमिवाचिन्त्यं कुमाराविव पावकी।
@@ -136,8 +133,8 @@ title_english = "022 rAma lakshmaNa travel with vishvamitra to his ritual place"
 
 <details><summary>मूलम्</summary>
 
-तदा कुशिकपुत्रं तु धनुष्पाणी स्वलंकृतौ।  
-बद्धगोधांगुलित्राणौ खड्गवन्तौ महाद्युती॥ ९॥  
+तदा कुशिकपुत्रं तु धनुष्पाणी स्वलङ्कृतौ।  
+बद्धगोधाङ्गुलित्राणौ खड्गवन्तौ महाद्युती॥ ९॥  
 कुमारौ चारुवपुषौ भ्रातरौ रामलक्ष्मणौ।  
 अनुयातौ श्रिया दीप्तौ शोभयेतामनिन्दितौ॥ १०॥  
 स्थाणुं देवमिवाचिन्त्यं कुमाराविव पावकी।
@@ -384,3 +381,4 @@ title_english = "022 rAma lakshmaNa travel with vishvamitra to his ritual place"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्वाविंशः सर्गः॥ २२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें बाईसवाँ सर्ग पूरा हुआ॥ २२॥
 </details>
+

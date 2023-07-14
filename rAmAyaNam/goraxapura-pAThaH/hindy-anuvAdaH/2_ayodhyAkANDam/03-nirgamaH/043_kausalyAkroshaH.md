@@ -4,11 +4,8 @@ title_english = "043 Lamentation of Kausalya"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-043-Kousalya_Kroshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-043-Kousalya_Kroshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -222,13 +219,13 @@ title_english = "043 Lamentation of Kausalya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदा प्राणिसहस्राणि राजमार्गे ममात्मजौ।  
-लाजैरवकरिष्यन्ति प्रविशन्तावरिंदमौ॥ १३॥
+लाजैरवकरिष्यन्ति प्रविशन्तावरिन्दमौ॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कदा प्राणिसहस्राणि राजमार्गे ममात्मजौ।  
-लाजैरवकरिष्यन्ति प्रविशन्तावरिंदमौ॥ १३॥
+लाजैरवकरिष्यन्ति प्रविशन्तावरिन्दमौ॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -340,13 +337,13 @@ title_english = "043 Lamentation of Kausalya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न हि मे जीविते किंचित् सामर्थ्यमिह कल्प्यते।  
+न हि मे जीविते किञ्चित् सामर्थ्यमिह कल्प्यते।  
 अपश्यन्त्याः प्रियं पुत्रं लक्ष्मणं च महाबलम्॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न हि मे जीविते किंचित् सामर्थ्यमिह कल्प्यते।  
+न हि मे जीविते किञ्चित् सामर्थ्यमिह कल्प्यते।  
 अपश्यन्त्याः प्रियं पुत्रं लक्ष्मणं च महाबलम्॥ २०॥
 </details>
 
@@ -381,3 +378,4 @@ title_english = "043 Lamentation of Kausalya"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्रिचत्वारिंशः सर्गः॥ ४३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें तैंतालीसवाँ सर्ग पूरा हुआ॥४३॥
 </details>
+

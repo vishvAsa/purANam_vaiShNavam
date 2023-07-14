@@ -4,11 +4,8 @@ title_english = "063 Legend of vishvamitra contd"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-063-Vishvamithra_Thapobhamgaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-063-Vishvamithra_Thapobhamgaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -386,14 +383,14 @@ title_english = "063 Legend of vishvamitra contd"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मिन् संतप्यमाने तु विश्वामित्रे महामुनौ।  
-संतापः सुमहानासीत् सुराणां वासवस्य च॥ २५॥
+तस्मिन् सन्तप्यमाने तु विश्वामित्रे महामुनौ।  
+सन्तापः सुमहानासीत् सुराणां वासवस्य च॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मिन् संतप्यमाने तु विश्वामित्रे महामुनौ।  
-संतापः सुमहानासीत् सुराणां वासवस्य च॥ २५॥
+तस्मिन् सन्तप्यमाने तु विश्वामित्रे महामुनौ।  
+सन्तापः सुमहानासीत् सुराणां वासवस्य च॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -423,3 +420,4 @@ title_english = "063 Legend of vishvamitra contd"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रिषष्टितमः सर्गः॥ ६३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें तिरसठवाँ सर्ग पूरा हुआ॥ ६३॥
 </details>
+

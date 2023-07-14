@@ -4,11 +4,8 @@ title_english = "047 The legend of Seven maruts wind gods"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-047-Marudut_Paththihi.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-047-Marudut_Paththihi.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -108,14 +105,14 @@ title_english = "047 The legend of Seven maruts wind gods"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चत्वारस्तु सुरश्रेष्ठ दिशो वै तव शासनात्।  
-संचरिष्यन्ति भद्रं ते कालेन हि ममात्मजाः॥ ६॥  
+सञ्चरिष्यन्ति भद्रं ते कालेन हि ममात्मजाः॥ ६॥  
 त्वत्कृतेनैव नाम्ना वै मारुता इति विश्रुताः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 चत्वारस्तु सुरश्रेष्ठ दिशो वै तव शासनात्।  
-संचरिष्यन्ति भद्रं ते कालेन हि ममात्मजाः॥ ६॥  
+सञ्चरिष्यन्ति भद्रं ते कालेन हि ममात्मजाः॥ ६॥  
 त्वत्कृतेनैव नाम्ना वै मारुता इति विश्रुताः।
 </details>
 
@@ -126,13 +123,13 @@ title_english = "047 The legend of Seven maruts wind gods"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यास्तद् वचनं श्रुत्वा सहस्राक्षः पुरंदरः॥ ७॥  
+तस्यास्तद् वचनं श्रुत्वा सहस्राक्षः पुरन्दरः॥ ७॥  
 उवाच प्राञ्जलिर्वाक्यमतीदं बलसूदनः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्यास्तद् वचनं श्रुत्वा सहस्राक्षः पुरंदरः॥ ७॥  
+तस्यास्तद् वचनं श्रुत्वा सहस्राक्षः पुरन्दरः॥ ७॥  
 उवाच प्राञ्जलिर्वाक्यमतीदं बलसूदनः।
 </details>
 
@@ -386,3 +383,4 @@ title_english = "047 The legend of Seven maruts wind gods"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तचत्वारिंशः सर्गः॥ ४७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें सैंतालीसवाँ सर्ग पूरा हुआ॥ ४७॥
 </details>
+

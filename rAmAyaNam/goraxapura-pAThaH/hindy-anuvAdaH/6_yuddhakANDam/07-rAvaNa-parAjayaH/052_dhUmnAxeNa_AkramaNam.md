@@ -4,11 +4,8 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-052-Dhumraksha_along_with_army_attacks_the_monkeys_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-052-Dhumraksha_along_with_army_attacks_the_monkeys_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषां सुतुमुलं युद्धं संजज्ञे कपिरक्षसाम्।  
+तेषां सुतुमुलं युद्धं सञ्जज्ञे कपिरक्षसाम्।  
 अन्योन्यं पादपैर्घोरैर्निघ्नतां शूलमुद‍्गरैः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तेषां सुतुमुलं युद्धं संजज्ञे कपिरक्षसाम्।  
+तेषां सुतुमुलं युद्धं सञ्जज्ञे कपिरक्षसाम्।  
 अन्योन्यं पादपैर्घोरैर्निघ्नतां शूलमुद‍्गरैः॥ २॥
 </details>
 
@@ -68,14 +65,14 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राक्षसास्त्वभिसंक्रुद्धा वानरान् निशितैः शरैः।  
-विव्यधुर्घोरसंकाशैः कङ्कपत्रैरजिह्मगैः॥ ४॥
+राक्षसास्त्वभिसङ्क्रुद्धा वानरान् निशितैः शरैः।  
+विव्यधुर्घोरसङ्काशैः कङ्कपत्रैरजिह्मगैः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-राक्षसास्त्वभिसंक्रुद्धा वानरान् निशितैः शरैः।  
-विव्यधुर्घोरसंकाशैः कङ्कपत्रैरजिह्मगैः॥ ४॥
+राक्षसास्त्वभिसङ्क्रुद्धा वानरान् निशितैः शरैः।  
+विव्यधुर्घोरसङ्काशैः कङ्कपत्रैरजिह्मगैः॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -345,13 +342,13 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 केचिद् विनिहता भूमौ रुधिरार्द्रा वनौकसः।  
-केचिद् विद्राविता नष्टाः संक्रुद्धै राक्षसैर्युधि॥ २१॥
+केचिद् विद्राविता नष्टाः सङ्क्रुद्धै राक्षसैर्युधि॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 केचिद् विनिहता भूमौ रुधिरार्द्रा वनौकसः।  
-केचिद् विद्राविता नष्टाः संक्रुद्धै राक्षसैर्युधि॥ २१॥
+केचिद् विद्राविता नष्टाः सङ्क्रुद्धै राक्षसैर्युधि॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -378,14 +375,14 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् सुभीमं महद्युद्धं हरिराक्षससंकुलम्।  
-प्रबभौ शस्त्रबहुलं शिलापादपसंकुलम्॥ २३॥
+तत् सुभीमं महद्युद्धं हरिराक्षससङ्कुलम्।  
+प्रबभौ शस्त्रबहुलं शिलापादपसङ्कुलम्॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तत् सुभीमं महद्युद्धं हरिराक्षससंकुलम्।  
-प्रबभौ शस्त्रबहुलं शिलापादपसंकुलम्॥ २३॥
+तत् सुभीमं महद्युद्धं हरिराक्षससङ्कुलम्।  
+प्रबभौ शस्त्रबहुलं शिलापादपसङ्कुलम्॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -430,13 +427,13 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूम्राक्षेणार्दितं सैन्यं व्यथितं प्रेक्ष्य मारुतिः।  
-अभ्यवर्तत संक्रुद्धः प्रगृह्य विपुलां शिलाम्॥ २६॥
+अभ्यवर्तत सङ्क्रुद्धः प्रगृह्य विपुलां शिलाम्॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 धूम्राक्षेणार्दितं सैन्यं व्यथितं प्रेक्ष्य मारुतिः।  
-अभ्यवर्तत संक्रुद्धः प्रगृह्य विपुलां शिलाम्॥ २६॥
+अभ्यवर्तत सङ्क्रुद्धः प्रगृह्य विपुलां शिलाम्॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -619,13 +616,13 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धूम्राक्षं निहतं दृष्ट्वा हतशेषा निशाचराः।  
-त्रस्ताः प्रविविशुर्लङ्कां वध्यमानाः प्लवंगमैः॥ ३७॥
+त्रस्ताः प्रविविशुर्लङ्कां वध्यमानाः प्लवङ्गमैः॥ ३७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 धूम्राक्षं निहतं दृष्ट्वा हतशेषा निशाचराः।  
-त्रस्ताः प्रविविशुर्लङ्कां वध्यमानाः प्लवंगमैः॥ ३७॥
+त्रस्ताः प्रविविशुर्लङ्कां वध्यमानाः प्लवङ्गमैः॥ ३७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -659,3 +656,4 @@ title_english = "052 Dhumraksha along with army attacks the monkeys"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्विपञ्चाशः सर्गः॥ ५२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें बावनवाँ सर्ग पूरा हुआ॥ ५२॥
 </details>
+

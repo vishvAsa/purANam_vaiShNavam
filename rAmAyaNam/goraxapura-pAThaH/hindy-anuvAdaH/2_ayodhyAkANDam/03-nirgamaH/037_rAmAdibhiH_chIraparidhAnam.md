@@ -4,11 +4,8 @@ title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-037-Chira_Paridhanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-037-Chira_Paridhanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -171,7 +168,7 @@ title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 
 अथात्म-परिधानार्थं  
 सीता कौशेय-वासिनी।  
-**सम्प्रेक्ष्य** चीरं संत्रस्ता  
+**सम्प्रेक्ष्य** चीरं सन्त्रस्ता  
 पृषती वागुराम् इव॥ ९॥  
 सा व्यपत्रपमाणेव  
 **प्रगृह्य** च सुदुर्मनाः।  
@@ -190,7 +187,7 @@ title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 <details><summary>मूलम्</summary>
 
 अथात्मपरिधानार्थं सीता कौशेयवासिनी।  
-सम्प्रेक्ष्य चीरं संत्रस्ता पृषती वागुरामिव॥ ९॥  
+सम्प्रेक्ष्य चीरं सन्त्रस्ता पृषती वागुरामिव॥ ९॥  
 सा व्यपत्रपमाणेव प्रगृह्य च सुदुर्मनाः।  
 कैकेय्याः कुशचीरे ते जानकी शुभलक्षणा॥ १०॥  
 अश्रुसम्पूर्णनेत्रा च धर्मज्ञा धर्मदर्शिनी।  
@@ -403,14 +400,14 @@ title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आत्मा हि दाराः सर्वेषां  
-दार-संग्रह-वर्तिनाम्।  
+दार-सङ्ग्रह-वर्तिनाम्।  
 आत्मेयम् इति रामस्य  
 **पालयिष्यति** मेदिनीम्॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-आत्मा हि दाराः सर्वेषां दारसंग्रहवर्तिनाम्।  
+आत्मा हि दाराः सर्वेषां दारसङ्ग्रहवर्तिनाम्।  
 आत्मेयमिति रामस्य पालयिष्यति मेदिनीम्॥ २४॥
 </details>
 
@@ -422,7 +419,7 @@ title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ **यास्यति** वैदेही  
-वनं रामेण संगता।  
+वनं रामेण सङ्गता।  
 वयम् अत्रानुयास्यामः  
 पुरं चेदं **गमिष्यति**॥ २५॥  
 अन्त-पालाश् च **यास्यन्ति**  
@@ -433,7 +430,7 @@ title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 
 <details><summary>मूलम्</summary>
 
-अथ यास्यति वैदेही वनं रामेण संगता।  
+अथ यास्यति वैदेही वनं रामेण सङ्गता।  
 वयमत्रानुयास्यामः पुरं चेदं गमिष्यति॥ २५॥  
 अन्तपालाश्च यास्यन्ति सदारो यत्र राघवः।  
 सहोपजीव्यं राष्ट्रं च पुरं च सपरिच्छदम्॥ २६॥
@@ -664,3 +661,4 @@ title_english = "037 Kaikeyi offers tree bark to Seetha to wear"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्तत्रिंशः सर्गः॥ ३७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें सैंतीसवाँ सर्ग पूरा हुआ॥ ३७॥
 </details>
+

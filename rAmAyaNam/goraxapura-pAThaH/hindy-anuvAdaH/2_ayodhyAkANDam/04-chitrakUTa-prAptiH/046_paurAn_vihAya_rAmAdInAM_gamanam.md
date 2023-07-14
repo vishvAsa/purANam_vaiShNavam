@@ -4,11 +4,8 @@ title_english = "046 Rama passes the night on the banks of Tamasa river"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-046-Pouran_Vihaya_Ramadeenam_Gamanam_.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-046-Pouran_Vihaya_Ramadeenam_Gamanam_.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -136,13 +133,13 @@ title_english = "046 Rama passes the night on the banks of Tamasa river"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भरतस्यानृशंसत्वं संचिन्त्याहं पुनः पुनः।  
+भरतस्यानृशंसत्वं सञ्चिन्त्याहं पुनः पुनः।  
 नानुशोचामि पितरं मातरं च महाभुज॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-भरतस्यानृशंसत्वं संचिन्त्याहं पुनः पुनः।  
+भरतस्यानृशंसत्वं सञ्चिन्त्याहं पुनः पुनः।  
 नानुशोचामि पितरं मातरं च महाभुज॥ ८॥
 </details>
 
@@ -221,13 +218,13 @@ title_english = "046 Rama passes the night on the banks of Tamasa river"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपास्य तु शिवां संध्यां दृष्ट्वा रात्रिमुपागताम्।  
+उपास्य तु शिवां सन्ध्यां दृष्ट्वा रात्रिमुपागताम्।  
 रामस्य शयनं चक्रे सूतः सौमित्रिणा सह॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपास्य तु शिवां संध्यां दृष्ट्वा रात्रिमुपागताम्।  
+उपास्य तु शिवां सन्ध्यां दृष्ट्वा रात्रिमुपागताम्।  
 रामस्य शयनं चक्रे सूतः सौमित्रिणा सह॥ १३॥
 </details>
 
@@ -442,13 +439,13 @@ title_english = "046 Rama passes the night on the banks of Tamasa river"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सूतस्ततः संत्वरितः स्यन्दनं तैर्हयोत्तमैः।  
+सूतस्ततः सन्त्वरितः स्यन्दनं तैर्हयोत्तमैः।  
 योजयित्वा तु रामस्य प्राञ्जलिः प्रत्यवेदयत्॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सूतस्ततः संत्वरितः स्यन्दनं तैर्हयोत्तमैः।  
+सूतस्ततः सन्त्वरितः स्यन्दनं तैर्हयोत्तमैः।  
 योजयित्वा तु रामस्य प्राञ्जलिः प्रत्यवेदयत्॥ २६॥
 </details>
 
@@ -493,13 +490,13 @@ title_english = "046 Rama passes the night on the banks of Tamasa river"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स संतीर्य महाबाहुः श्रीमान् शिवमकण्टकम्।  
+स सन्तीर्य महाबाहुः श्रीमान् शिवमकण्टकम्।  
 प्रापद्यत महामार्गमभयं भयदर्शिनाम्॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स संतीर्य महाबाहुः श्रीमान् शिवमकण्टकम्।  
+स सन्तीर्य महाबाहुः श्रीमान् शिवमकण्टकम्।  
 प्रापद्यत महामार्गमभयं भयदर्शिनाम्॥ २९॥
 </details>
 
@@ -550,7 +547,7 @@ title_english = "046 Rama passes the night on the banks of Tamasa river"
 
 तौ सम्प्रयुक्तं तु रथं समास्थितौ  
 तदा ससीतौ रघुवंशवर्धनौ।  
-प्रचोदयामास ततस्तुरंगमान्  
+प्रचोदयामास ततस्तुरङ्गमान्  
 स सारथिर्येन पथा तपोवनम्॥ ३३॥
 </details>
 
@@ -558,7 +555,7 @@ title_english = "046 Rama passes the night on the banks of Tamasa river"
 
 तौ सम्प्रयुक्तं तु रथं समास्थितौ  
 तदा ससीतौ रघुवंशवर्धनौ।  
-प्रचोदयामास ततस्तुरंगमान्  
+प्रचोदयामास ततस्तुरङ्गमान्  
 स सारथिर्येन पथा तपोवनम्॥ ३३॥
 </details>
 
@@ -593,3 +590,4 @@ title_english = "046 Rama passes the night on the banks of Tamasa river"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे षट्चत्वारिंशः सर्गः॥ ४६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें छियालीसवाँ सर्ग पूरा हुआ॥ ४६॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-066-Angada_reassures_the_monkeys_to_return_to_the_battle__0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-066-Angada_reassures_the_monkeys_to_return_to_the_battle__0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -136,13 +133,13 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृच्छ्रेण तु समाश्वस्य संगम्य च ततस्ततः।  
+कृच्छ्रेण तु समाश्वस्य सङ्गम्य च ततस्ततः।  
 वृक्षान् गृहीत्वा हरयः सम्प्रतस्थू रणाजिरे॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कृच्छ्रेण तु समाश्वस्य संगम्य च ततस्ततः।  
+कृच्छ्रेण तु समाश्वस्य सङ्गम्य च ततस्ततः।  
 वृक्षान् गृहीत्वा हरयः सम्प्रतस्थू रणाजिरे॥ ८॥
 </details>
 
@@ -191,13 +188,13 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोऽपि सैन्यानि संक्रुद्धौ वानराणां महौजसाम्।  
+सोऽपि सैन्यानि सङ्क्रुद्धौ वानराणां महौजसाम्।  
 ममन्थ परमायत्तो वनान्यग्निरिवोत्थितः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सोऽपि सैन्यानि संक्रुद्धौ वानराणां महौजसाम्।  
+सोऽपि सैन्यानि सङ्क्रुद्धौ वानराणां महौजसाम्।  
 ममन्थ परमायत्तो वनान्यग्निरिवोत्थितः॥ १२॥
 </details>
 
@@ -296,13 +293,13 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् समीक्ष्याङ्गदो भग्नान् वानरानिदमब्रवीत्।  
-अवतिष्ठत युध्यामो निवर्तध्वं प्लवंगमाः॥ १८॥
+अवतिष्ठत युध्यामो निवर्तध्वं प्लवङ्गमाः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तान् समीक्ष्याङ्गदो भग्नान् वानरानिदमब्रवीत्।  
-अवतिष्ठत युध्यामो निवर्तध्वं प्लवंगमाः॥ १८॥
+अवतिष्ठत युध्यामो निवर्तध्वं प्लवङ्गमाः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -576,3 +573,4 @@ title_english = "066 Angada reassures the monkeys to return to the battle"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे षट्षष्टितमः सर्गः॥ ६६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें छाछठवाँ सर्ग पूरा हुआ॥ ६६॥
 </details>
+

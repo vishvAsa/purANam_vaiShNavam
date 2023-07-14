@@ -4,11 +4,8 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-064-Hanuma_apprises_of_the_discovery_of_Seetha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-064-Hanuma_apprises_of_the_discovery_of_Seetha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -40,7 +37,7 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 
 रावणान्तःपुरे रोधं राक्षसीभिश्च तर्जनम्।  
 रामे समनुरागं च यथा च नियमः कृतः॥ ३॥  
-एतदाख्याय ते सर्वं हरयो रामसंनिधौ।  
+एतदाख्याय ते सर्वं हरयो रामसन्निधौ।  
 वैदेहीमक्षतां श्रुत्वा रामस्तूत्तरमब्रवीत्॥ ४॥
 </details>
 
@@ -48,7 +45,7 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 
 रावणान्तःपुरे रोधं राक्षसीभिश्च तर्जनम्।  
 रामे समनुरागं च यथा च नियमः कृतः॥ ३॥  
-एतदाख्याय ते सर्वं हरयो रामसंनिधौ।  
+एतदाख्याय ते सर्वं हरयो रामसन्निधौ।  
 वैदेहीमक्षतां श्रुत्वा रामस्तूत्तरमब्रवीत्॥ ४॥
 </details>
 
@@ -76,13 +73,13 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रामस्य गदितं श्रुत्वा हरयो रामसंनिधौ।  
+रामस्य गदितं श्रुत्वा हरयो रामसन्निधौ।  
 चोदयन्ति हनूमन्तं सीतावृत्तान्तकोविदम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-रामस्य गदितं श्रुत्वा हरयो रामसंनिधौ।  
+रामस्य गदितं श्रुत्वा हरयो रामसन्निधौ।  
 चोदयन्ति हनूमन्तं सीतावृत्तान्तकोविदम्॥ ६॥
 </details>
 
@@ -164,7 +161,7 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र सीता मया दृष्टा रावणान्तःपुरे सती॥ ११॥  
-त्वयि संन्यस्य जीवन्ती रामा राम मनोरथम्।  
+त्वयि सन्न्यस्य जीवन्ती रामा राम मनोरथम्।  
 दृष्टा मे राक्षसीमध्ये तर्ज्यमाना मुहुर्मुहुः॥ १२॥  
 राक्षसीभिर्विरूपाभी रक्षिता प्रमदावने।
 </details>
@@ -172,7 +169,7 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 <details><summary>मूलम्</summary>
 
 तत्र सीता मया दृष्टा रावणान्तःपुरे सती॥ ११॥  
-त्वयि संन्यस्य जीवन्ती रामा राम मनोरथम्।  
+त्वयि सन्न्यस्य जीवन्ती रामा राम मनोरथम्।  
 दृष्टा मे राक्षसीमध्ये तर्ज्यमाना मुहुर्मुहुः॥ १२॥  
 राक्षसीभिर्विरूपाभी रक्षिता प्रमदावने।
 </details>
@@ -220,7 +217,7 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवी कथंचित् काकुत्स्थ त्वन्मना मार्गिता मया।  
+देवी कथञ्चित् काकुत्स्थ त्वन्मना मार्गिता मया।  
 इक्ष्वाकुवंशविख्यातिं शनैः कीर्तयतानघ॥ १६॥  
 सा मया नरशार्दूल शनैर्विश्वासिता तदा।  
 ततः सम्भाषिता देवी सर्वमर्थं च दर्शिता॥ १७॥
@@ -228,7 +225,7 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 
 <details><summary>मूलम्</summary>
 
-देवी कथंचित् काकुत्स्थ त्वन्मना मार्गिता मया।  
+देवी कथञ्चित् काकुत्स्थ त्वन्मना मार्गिता मया।  
 इक्ष्वाकुवंशविख्यातिं शनैः कीर्तयतानघ॥ १६॥  
 सा मया नरशार्दूल शनैर्विश्वासिता तदा।  
 ततः सम्भाषिता देवी सर्वमर्थं च दर्शिता॥ १७॥
@@ -369,13 +366,13 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदेव मयाऽऽख्यातं सर्वं राघव यद् यथा।  
-सर्वथा सागरजले संतारः प्रविधीयताम्॥ २७॥
+सर्वथा सागरजले सन्तारः प्रविधीयताम्॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एतदेव मयाऽऽख्यातं सर्वं राघव यद् यथा।  
-सर्वथा सागरजले संतारः प्रविधीयताम्॥ २७॥
+सर्वथा सागरजले सन्तारः प्रविधीयताम्॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -409,3 +406,4 @@ title_english = "065 Hanuma conveys Seetha s message to Sri Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे पञ्चषष्टितमः सर्गः॥ ६५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें पैंसठवाँ सर्ग पूरा हुआ॥ ६५॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "026 Sugreeva s coronation"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-026-Angada_Youvarajyabhishekaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-026-Angada_Youvarajyabhishekaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,7 +14,7 @@ title_english = "026 Sugreeva s coronation"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः शोकाभिसंतप्तं सुग्रीवं क्लिन्नवाससम्।  
+ततः शोकाभिसन्तप्तं सुग्रीवं क्लिन्नवाससम्।  
 शाखामृगमहामात्राः परिवार्योपतस्थिरे॥ १॥  
 अभिगम्य महाबाहुं राममक्लिष्टकारिणम्।  
 स्थिताः प्राञ्जलयः सर्वे पितामहमिवर्षयः॥ २॥
@@ -25,7 +22,7 @@ title_english = "026 Sugreeva s coronation"
 
 <details><summary>मूलम्</summary>
 
-ततः शोकाभिसंतप्तं सुग्रीवं क्लिन्नवाससम्।  
+ततः शोकाभिसन्तप्तं सुग्रीवं क्लिन्नवाससम्।  
 शाखामृगमहामात्राः परिवार्योपतस्थिरे॥ १॥  
 अभिगम्य महाबाहुं राममक्लिष्टकारिणम्।  
 स्थिताः प्राञ्जलयः सर्वे पितामहमिवर्षयः॥ २॥
@@ -187,13 +184,13 @@ title_english = "026 Sugreeva s coronation"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूर्वोऽयं वार्षिको मासः श्रावणः सलिलागमः।  
-प्रवृत्ताः सौम्य चत्वारो मासा वार्षिक संज्ञिताः॥ १४॥
+प्रवृत्ताः सौम्य चत्वारो मासा वार्षिक सञ्ज्ञिताः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पूर्वोऽयं वार्षिको मासः श्रावणः सलिलागमः।  
-प्रवृत्ताः सौम्य चत्वारो मासा वार्षिक संज्ञिताः॥ १४॥
+प्रवृत्ताः सौम्य चत्वारो मासा वार्षिक सञ्ज्ञिताः॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -494,13 +491,13 @@ title_english = "026 Sugreeva s coronation"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अङ्गदे चाभिषिक्ते तु सानुक्रोशाः प्लवंगमाः।  
+अङ्गदे चाभिषिक्ते तु सानुक्रोशाः प्लवङ्गमाः।  
 साधु साध्विति सुग्रीवं महात्मानो ह्यपूजयन्॥ ३९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अङ्गदे चाभिषिक्ते तु सानुक्रोशाः प्लवंगमाः।  
+अङ्गदे चाभिषिक्ते तु सानुक्रोशाः प्लवङ्गमाः।  
 साधु साध्विति सुग्रीवं महात्मानो ह्यपूजयन्॥ ३९॥
 </details>
 
@@ -569,3 +566,4 @@ title_english = "026 Sugreeva s coronation"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे षड‍‍्विंशः सर्गः॥ २६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें छब्बीसवाँ सर्ग पूरा हुआ॥ २६॥
 </details>
+

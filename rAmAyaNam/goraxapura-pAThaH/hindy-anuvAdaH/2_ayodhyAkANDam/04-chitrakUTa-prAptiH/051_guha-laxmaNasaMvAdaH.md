@@ -4,11 +4,8 @@ title_english = "051 Guha requests Lakshmana to take rest"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-051-Guha_Lakshmana_Samvadhaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-051-Guha_Lakshmana_Samvadhaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "051 Guha requests Lakshmana to take rest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं जाग्रतमदम्भेन भ्रातुरर्थाय लक्ष्मणम्।  
-गुहः संतापसंतप्तो राघवं वाक्यमब्रवीत्॥ १॥
+गुहः सन्तापसन्तप्तो राघवं वाक्यमब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तं जाग्रतमदम्भेन भ्रातुरर्थाय लक्ष्मणम्।  
-गुहः संतापसंतप्तो राघवं वाक्यमब्रवीत्॥ १॥
+गुहः सन्तापसन्तप्तो राघवं वाक्यमब्रवीत्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -119,14 +116,14 @@ title_english = "051 Guha requests Lakshmana to take rest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न मेऽस्त्यविदितं किंचिद् वनेऽस्मिंश्चरतः सदा।  
-चतुरङ्गं ह्यतिबलं सुमहत् संतरेमहि॥ ७॥
+न मेऽस्त्यविदितं किञ्चिद् वनेऽस्मिंश्चरतः सदा।  
+चतुरङ्गं ह्यतिबलं सुमहत् सन्तरेमहि॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न मेऽस्त्यविदितं किंचिद् वनेऽस्मिंश्चरतः सदा।  
-चतुरङ्गं ह्यतिबलं सुमहत् संतरेमहि॥ ७॥
+न मेऽस्त्यविदितं किञ्चिद् वनेऽस्मिंश्चरतः सदा।  
+चतुरङ्गं ह्यतिबलं सुमहत् सन्तरेमहि॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -431,3 +428,4 @@ title_english = "051 Guha requests Lakshmana to take rest"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकपञ्चाशः सर्गः॥ ५१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें इक्यावनवाँ सर्ग पूरा हुआ॥ ५१॥
 </details>
+

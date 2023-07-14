@@ -4,11 +4,8 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-075-Bharatha_Kousalya_Samvadaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-075-Bharatha_Kousalya_Samvadaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,14 +14,14 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दीर्घकालात् समुत्थाय संज्ञां लब्ध्वा स वीर्यवान्।  
+दीर्घकालात् समुत्थाय सञ्ज्ञां लब्ध्वा स वीर्यवान्।  
 नेत्राभ्यामश्रुपूर्णाभ्यां दीनामुद्वीक्ष्य मातरम्॥ १॥  
 सोऽमात्यमध्ये भरतो जननीमभ्यकुत्सयत्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-दीर्घकालात् समुत्थाय संज्ञां लब्ध्वा स वीर्यवान्।  
+दीर्घकालात् समुत्थाय सञ्ज्ञां लब्ध्वा स वीर्यवान्।  
 नेत्राभ्यामश्रुपूर्णाभ्यां दीनामुद्वीक्ष्य मातरम्॥ १॥  
 सोऽमात्यमध्ये भरतो जननीमभ्यकुत्सयत्।
 </details>
@@ -281,13 +278,13 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पपात चरणौ तस्यास्तदा सम्भ्रान्तचेतनः।  
-विलप्य बहुधासंज्ञो लब्धसंज्ञस्तदाभवत्॥ १८॥
+विलप्य बहुधासञ्ज्ञो लब्धसञ्ज्ञस्तदाभवत्॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पपात चरणौ तस्यास्तदा सम्भ्रान्तचेतनः।  
-विलप्य बहुधासंज्ञो लब्धसंज्ञस्तदाभवत्॥ १८॥
+विलप्य बहुधासञ्ज्ञो लब्धसञ्ज्ञस्तदाभवत्॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -332,13 +329,13 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतशास्त्रानुगा बुद्धिर्मा भूत् तस्य कदाचन।  
-सत्यसंधः सतां श्रेष्ठो यस्यार्योऽनुमते गतः॥ २१॥
+सत्यसन्धः सतां श्रेष्ठो यस्यार्योऽनुमते गतः॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कृतशास्त्रानुगा बुद्धिर्मा भूत् तस्य कदाचन।  
-सत्यसंधः सतां श्रेष्ठो यस्यार्योऽनुमते गतः॥ २१॥
+सत्यसन्धः सतां श्रेष्ठो यस्यार्योऽनुमते गतः॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -518,13 +515,13 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्वासात् कथितं किंचित् परिवादं मिथः क्वचित्।  
+विश्वासात् कथितं किञ्चित् परिवादं मिथः क्वचित्।  
 विवृणोतु स दुष्टात्मा यस्यार्योऽनुमते गतः॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-विश्वासात् कथितं किंचित् परिवादं मिथः क्वचित्।  
+विश्वासात् कथितं किञ्चित् परिवादं मिथः क्वचित्।  
 विवृणोतु स दुष्टात्मा यस्यार्योऽनुमते गतः॥ ३२॥
 </details>
 
@@ -586,13 +583,13 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-माऽऽत्मनः संततिं द्राक्षीत् स्वेषु दारेषु दुःखितः।  
+माऽऽत्मनः सन्ततिं द्राक्षीत् स्वेषु दारेषु दुःखितः।  
 आयुःसमग्रमप्राप्य यस्यार्योऽनुमते गतः॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-माऽऽत्मनः संततिं द्राक्षीत् स्वेषु दारेषु दुःखितः।  
+माऽऽत्मनः सन्ततिं द्राक्षीत् स्वेषु दारेषु दुःखितः।  
 आयुःसमग्रमप्राप्य यस्यार्योऽनुमते गतः॥ ३६॥
 </details>
 
@@ -637,13 +634,13 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संग्रामे समुपोढे च शत्रुपक्षभयंकरे।  
+सङ्ग्रामे समुपोढे च शत्रुपक्षभयङ्करे।  
 पलायमानो वध्येत यस्यार्योऽनुमते गतः॥ ३९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संग्रामे समुपोढे च शत्रुपक्षभयंकरे।  
+सङ्ग्रामे समुपोढे च शत्रुपक्षभयङ्करे।  
 पलायमानो वध्येत यस्यार्योऽनुमते गतः॥ ३९॥
 </details>
 
@@ -705,13 +702,13 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संचितान्यस्य वित्तानि विविधानि सहस्रशः।  
+सञ्चितान्यस्य वित्तानि विविधानि सहस्रशः।  
 दस्युभिर्विप्रलुप्यन्तां यस्यार्योऽनुमते गतः॥ ४३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संचितान्यस्य वित्तानि विविधानि सहस्रशः।  
+सञ्चितान्यस्य वित्तानि विविधानि सहस्रशः।  
 दस्युभिर्विप्रलुप्यन्तां यस्यार्योऽनुमते गतः॥ ४३॥
 </details>
 
@@ -722,7 +719,7 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उभे संध्ये शयानस्य यत् पापं परिकल्प्यते।  
+उभे सन्ध्ये शयानस्य यत् पापं परिकल्प्यते।  
 तच्च पापं भवेत् तस्य यस्यार्योऽनुमते गतः॥ ४४॥  
 यदग्निदायके पापं यत् पापं गुरुतल्पगे।  
 मित्रद्रोहे च यत् पापं तत् पापं प्रतिपद्यताम्॥ ४५॥
@@ -730,7 +727,7 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 
 <details><summary>मूलम्</summary>
 
-उभे संध्ये शयानस्य यत् पापं परिकल्प्यते।  
+उभे सन्ध्ये शयानस्य यत् पापं परिकल्प्यते।  
 तच्च पापं भवेत् तस्य यस्यार्योऽनुमते गतः॥ ४४॥  
 यदग्निदायके पापं यत् पापं गुरुतल्पगे।  
 मित्रद्रोहे च यत् पापं तत् पापं प्रतिपद्यताम्॥ ४५॥
@@ -982,13 +979,13 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा तं शपथैः कष्टैः शपमानमचेतनम्।  
-भरतं शोकसंतप्तं कौसल्या वाक्यमब्रवीत्॥ ६०॥
+भरतं शोकसन्तप्तं कौसल्या वाक्यमब्रवीत्॥ ६०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तदा तं शपथैः कष्टैः शपमानमचेतनम्।  
-भरतं शोकसंतप्तं कौसल्या वाक्यमब्रवीत्॥ ६०॥
+भरतं शोकसन्तप्तं कौसल्या वाक्यमब्रवीत्॥ ६०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1090,3 +1087,4 @@ title_english = "075 Bharata and Satrughna go to Kausalya s palace"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे पञ्चसप्ततितमः सर्गः॥ ७५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें पचहत्तरवाँ सर्ग पूरा हुआ॥ ७५॥
 </details>
+

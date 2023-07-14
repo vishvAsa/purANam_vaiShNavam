@@ -4,11 +4,8 @@ title_english = "054 Seetha drops jewellery at Sugreeva"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-054-Bhushana_Prekshepanam_Lankaa_Praveshanam_Cha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-054-Bhushana_Prekshepanam_Lankaa_Praveshanam_Cha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "054 Seetha drops jewellery at Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ह्रियमाणा तु वैदेही कंचिन्नाथमपश्यती।  
+ह्रियमाणा तु वैदेही कञ्चिन्नाथमपश्यती।  
 ददर्श गिरिशृङ्गस्थान् पञ्च वानरपुङ्गवान्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ह्रियमाणा तु वैदेही कंचिन्नाथमपश्यती।  
+ह्रियमाणा तु वैदेही कञ्चिन्नाथमपश्यती।  
 ददर्श गिरिशृङ्गस्थान् पञ्च वानरपुङ्गवान्॥ १॥
 </details>
 
@@ -266,13 +263,13 @@ title_english = "054 Seetha drops jewellery at Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-या च वक्ष्यति वैदेहीं वचनं किंचिदप्रियम्॥ १६॥  
+या च वक्ष्यति वैदेहीं वचनं किञ्चिदप्रियम्॥ १६॥  
 अज्ञानाद् यदि वा ज्ञानान्न तस्या जीवितं प्रियम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-या च वक्ष्यति वैदेहीं वचनं किंचिदप्रियम्॥ १६॥  
+या च वक्ष्यति वैदेहीं वचनं किञ्चिदप्रियम्॥ १६॥  
 अज्ञानाद् यदि वा ज्ञानान्न तस्या जीवितं प्रियम्।
 </details>
 
@@ -517,3 +514,4 @@ title_english = "054 Seetha drops jewellery at Sugreeva"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे चतुष्पञ्चाशः सर्गः॥ ५४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें चौवनवाँ सर्ग पूरा हुआ॥ ५४॥
 </details>
+

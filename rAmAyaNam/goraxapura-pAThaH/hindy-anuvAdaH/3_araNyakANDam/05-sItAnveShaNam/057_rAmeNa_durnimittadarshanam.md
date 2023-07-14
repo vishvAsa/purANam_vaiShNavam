@@ -4,11 +4,8 @@ title_english = "057 Rama meets Lakshmana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-057-Ramena_Durnimiththa_Darshanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-057-Ramena_Durnimiththa_Darshanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "057 Rama meets Lakshmana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य संत्वरमाणस्य द्रष्टुकामस्य मैथिलीम्।  
+तस्य सन्त्वरमाणस्य द्रष्टुकामस्य मैथिलीम्।  
 क्रूरस्वनोऽथ गोमायुर्विननादास्य पृष्ठतः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्य संत्वरमाणस्य द्रष्टुकामस्य मैथिलीम्।  
+तस्य सन्त्वरमाणस्य द्रष्टुकामस्य मैथिलीम्।  
 क्रूरस्वनोऽथ गोमायुर्विननादास्य पृष्ठतः॥ २॥
 </details>
 
@@ -333,14 +330,14 @@ title_english = "057 Rama meets Lakshmana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यथा वै मृगसंघाश्च गोमायुश्चैव भैरवम्।  
+यथा वै मृगसङ्घाश्च गोमायुश्चैव भैरवम्।  
 वाश्यन्ते शकुनाश्चापि प्रदीप्तामभितो दिशम्।  
 अपि स्वस्ति भवेत् तस्या राजपुत्र्या महाबल॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यथा वै मृगसंघाश्च गोमायुश्चैव भैरवम्।  
+यथा वै मृगसङ्घाश्च गोमायुश्चैव भैरवम्।  
 वाश्यन्ते शकुनाश्चापि प्रदीप्तामभितो दिशम्।  
 अपि स्वस्ति भवेत् तस्या राजपुत्र्या महाबल॥ २१॥
 </details>
@@ -352,17 +349,17 @@ title_english = "057 Rama meets Lakshmana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदं हि रक्षो मृगसंनिकाशं  
+इदं हि रक्षो मृगसन्निकाशं  
 प्रलोभ्य मां दूरमनुप्रयातम्।  
-हतं कथंचिन्महता श्रमेण  
+हतं कथञ्चिन्महता श्रमेण  
 स राक्षसोऽभून्म्रियमाण एव॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इदं हि रक्षो मृगसंनिकाशं  
+इदं हि रक्षो मृगसन्निकाशं  
 प्रलोभ्य मां दूरमनुप्रयातम्।  
-हतं कथंचिन्महता श्रमेण  
+हतं कथञ्चिन्महता श्रमेण  
 स राक्षसोऽभून्म्रियमाण एव॥ २२॥
 </details>
 
@@ -397,3 +394,4 @@ title_english = "057 Rama meets Lakshmana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे सप्तपञ्चाशः सर्गः॥ ५७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें सत्तावनवाँ सर्ग पूरा हुआ॥ ५७॥
 </details>
+

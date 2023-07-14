@@ -4,11 +4,8 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-084-Vibhishana_tells_the_secret_of_conjuring_trick_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-084-Vibhishana_tells_the_secret_of_conjuring_trick_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानाप्रहरणैर्वीरैश्चतुर्भिरभिसंवृतः।  
-नीलाञ्जनचयाकारैर्मातंगैरिव यूथपैः॥ २॥
+नीलाञ्जनचयाकारैर्मातङ्गैरिव यूथपैः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नानाप्रहरणैर्वीरैश्चतुर्भिरभिसंवृतः।  
-नीलाञ्जनचयाकारैर्मातंगैरिव यूथपैः॥ २॥
+नीलाञ्जनचयाकारैर्मातङ्गैरिव यूथपैः॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -85,13 +82,13 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-व्रीडितं शोकसंतप्तं दृष्ट्वा रामं विभीषणः।  
+व्रीडितं शोकसन्तप्तं दृष्ट्वा रामं विभीषणः।  
 अन्तर्दुःखेन दीनात्मा किमेतदिति सोऽब्रवीत्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-व्रीडितं शोकसंतप्तं दृष्ट्वा रामं विभीषणः।  
+व्रीडितं शोकसन्तप्तं दृष्ट्वा रामं विभीषणः।  
 अन्तर्दुःखेन दीनात्मा किमेतदिति सोऽब्रवीत्॥ ५॥
 </details>
 
@@ -136,14 +133,14 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथयन्तं तु सौमित्रिं संनिवार्य विभीषणः।  
-पुष्कलार्थमिदं वाक्यं विसंज्ञं राममब्रवीत्॥ ८॥
+कथयन्तं तु सौमित्रिं सन्निवार्य विभीषणः।  
+पुष्कलार्थमिदं वाक्यं विसञ्ज्ञं राममब्रवीत्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथयन्तं तु सौमित्रिं संनिवार्य विभीषणः।  
-पुष्कलार्थमिदं वाक्यं विसंज्ञं राममब्रवीत्॥ ८॥
+कथयन्तं तु सौमित्रिं सन्निवार्य विभीषणः।  
+पुष्कलार्थमिदं वाक्यं विसञ्ज्ञं राममब्रवीत्॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -240,14 +237,14 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 
 चैत्यं निकुम्भिलामद्य प्राप्य होमं करिष्यति।  
 हुतवानुपयातो हि देवैरपि सवासवैः॥ १४॥  
-दुराधर्षो भवत्येष संग्रामे रावणात्मजः।
+दुराधर्षो भवत्येष सङ्ग्रामे रावणात्मजः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 चैत्यं निकुम्भिलामद्य प्राप्य होमं करिष्यति।  
 हुतवानुपयातो हि देवैरपि सवासवैः॥ १४॥  
-दुराधर्षो भवत्येष संग्रामे रावणात्मजः।
+दुराधर्षो भवत्येष सङ्ग्रामे रावणात्मजः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -275,13 +272,13 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ससैन्यास्तत्र गच्छामो यावत्तन्न समाप्यते॥ १६॥  
-त्यजैनं नरशार्दूल मिथ्या संतापमागतम्।
+त्यजैनं नरशार्दूल मिथ्या सन्तापमागतम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 ससैन्यास्तत्र गच्छामो यावत्तन्न समाप्यते॥ १६॥  
-त्यजैनं नरशार्दूल मिथ्या संतापमागतम्।
+त्यजैनं नरशार्दूल मिथ्या सन्तापमागतम्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -344,13 +341,13 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् संदिश महाबाहो लक्ष्मणं शुभलक्षणम्।  
+तत् सन्दिश महाबाहो लक्ष्मणं शुभलक्षणम्।  
 राक्षसस्य विनाशाय वज्रं वज्रधरो यथा॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तत् संदिश महाबाहो लक्ष्मणं शुभलक्षणम्।  
+तत् सन्दिश महाबाहो लक्ष्मणं शुभलक्षणम्।  
 राक्षसस्य विनाशाय वज्रं वज्रधरो यथा॥ २१॥
 </details>
 
@@ -406,3 +403,4 @@ title_english = "084 Vibhishana tells the secret of conjuring trick"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चतुरशीतितमः सर्गः॥ ८४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें चौरासीवाँ सर्ग पूरा हुआ॥ ८४॥
 </details>
+

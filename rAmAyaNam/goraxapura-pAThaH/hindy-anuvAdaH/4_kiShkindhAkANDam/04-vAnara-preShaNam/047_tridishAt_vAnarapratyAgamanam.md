@@ -4,11 +4,8 @@ title_english = "047 Search for Seetha failed in east north and west"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-047-Thridigbhyaha_Vanara_Prathyagamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-047-Thridigbhyaha_Vanara_Prathyagamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -103,13 +100,13 @@ title_english = "047 Search for Seetha failed in east north and west"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदहः प्रथमं कृत्वा मासे प्रस्रवणं गताः।  
-कपिराजेन संगम्य निराशाः कपिकुञ्जराः॥ ६॥
+कपिराजेन सङ्गम्य निराशाः कपिकुञ्जराः॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तदहः प्रथमं कृत्वा मासे प्रस्रवणं गताः।  
-कपिराजेन संगम्य निराशाः कपिकुञ्जराः॥ ६॥
+कपिराजेन सङ्गम्य निराशाः कपिकुञ्जराः॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -190,7 +187,7 @@ title_english = "047 Search for Seetha failed in east north and west"
 विचिताः पर्वताः सर्वे वनानि गहनानि च।  
 निम्नगाः सागरान्ताश्च सर्वे जनपदाश्च ये॥ ११॥  
 गुहाश्च विचिताः सर्वा याश्च ते परिकीर्तिताः।  
-विचिताश्च महागुल्मा लताविततसंतताः॥ १२॥
+विचिताश्च महागुल्मा लताविततसन्तताः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -198,7 +195,7 @@ title_english = "047 Search for Seetha failed in east north and west"
 विचिताः पर्वताः सर्वे वनानि गहनानि च।  
 निम्नगाः सागरान्ताश्च सर्वे जनपदाश्च ये॥ ११॥  
 गुहाश्च विचिताः सर्वा याश्च ते परिकीर्तिताः।  
-विचिताश्च महागुल्मा लताविततसंतताः॥ १२॥
+विचिताश्च महागुल्मा लताविततसन्तताः॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -251,3 +248,4 @@ title_english = "047 Search for Seetha failed in east north and west"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे सप्तचत्वारिंशः सर्गः॥ ४७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें सैंतालीसवाँ सर्ग पूरा हुआ॥ ४७॥
 </details>
+

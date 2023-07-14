@@ -4,11 +4,8 @@ title_english = "032 Seetha sees the illusory head and bow"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-032-Seetha_sees_the_illusory_head_and_bow_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-032-Seetha_sees_the_illusory_head_and_bow_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -540,13 +537,13 @@ title_english = "032 Seetha sees the illusory head and bow"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इतीव दुःखसंतप्ता विललापायतेक्षणा।  
+इतीव दुःखसन्तप्ता विललापायतेक्षणा।  
 भर्तुः शिरो धनुश्चैव ददर्श जनकात्मजा॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इतीव दुःखसंतप्ता विललापायतेक्षणा।  
+इतीव दुःखसन्तप्ता विललापायतेक्षणा।  
 भर्तुः शिरो धनुश्चैव ददर्श जनकात्मजा॥ ३३॥
 </details>
 
@@ -609,13 +606,13 @@ title_english = "032 Seetha sees the illusory head and bow"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनमस्ति महाराज राजभावात् क्षमान्वित।  
-किंचिदात्ययिकं कार्यं तेषां त्वं दर्शनं कुरु॥ ३७॥
+किञ्चिदात्ययिकं कार्यं तेषां त्वं दर्शनं कुरु॥ ३७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नूनमस्ति महाराज राजभावात् क्षमान्वित।  
-किंचिदात्ययिकं कार्यं तेषां त्वं दर्शनं कुरु॥ ३७॥
+किञ्चिदात्ययिकं कार्यं तेषां त्वं दर्शनं कुरु॥ ३७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -751,3 +748,4 @@ title_english = "032 Seetha sees the illusory head and bow"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्वात्रिंशः सर्गः॥ ३२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें बत्तीसवाँ सर्ग पूरा हुआ॥ ३२॥
 </details>
+

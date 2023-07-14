@@ -3,11 +3,8 @@ title = "१२२ पुष्पकविमानेन रामादीन
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-122-Rama_along_with_Lakshmana_and_Seetha_ascend_the_aerial_car_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-122-Rama_along_with_Lakshmana_and_Seetha_ascend_the_aerial_car_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -85,13 +82,13 @@ title = "१२२ पुष्पकविमानेन रामादीन
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सहामीभिस्त्वया लङ्का निर्जिता राक्षसेश्वर।  
-हृष्टैः प्राणभयं त्यक्त्वा संग्रामेष्वनिवर्तिभिः॥ ५॥
+हृष्टैः प्राणभयं त्यक्त्वा सङ्ग्रामेष्वनिवर्तिभिः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सहामीभिस्त्वया लङ्का निर्जिता राक्षसेश्वर।  
-हृष्टैः प्राणभयं त्यक्त्वा संग्रामेष्वनिवर्तिभिः॥ ५॥
+हृष्टैः प्राणभयं त्यक्त्वा सङ्ग्रामेष्वनिवर्तिभिः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -135,13 +132,13 @@ title = "१२२ पुष्पकविमानेन रामादीन
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्यागिनं संग्रहीतारं सानुक्रोशं जितेन्द्रियम्।  
+त्यागिनं सङ्ग्रहीतारं सानुक्रोशं जितेन्द्रियम्।  
 सर्वे त्वामभिगच्छन्ति ततः सम्बोधयामि ते॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्यागिनं संग्रहीतारं सानुक्रोशं जितेन्द्रियम्।  
+त्यागिनं सङ्ग्रहीतारं सानुक्रोशं जितेन्द्रियम्।  
 सर्वे त्वामभिगच्छन्ति ततः सम्बोधयामि ते॥ ८॥
 </details>
 
@@ -467,3 +464,4 @@ title = "१२२ पुष्पकविमानेन रामादीन
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्वाविंशत्यधिकशततमः सर्गः॥ १२२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें एक सौ बाईसवाँ सर्ग पूरा हुआ॥ १२२॥
 </details>
+

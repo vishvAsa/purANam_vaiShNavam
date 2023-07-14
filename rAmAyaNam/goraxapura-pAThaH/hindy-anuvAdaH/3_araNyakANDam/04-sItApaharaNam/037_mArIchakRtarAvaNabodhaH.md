@@ -4,11 +4,8 @@ title_english = "037 Maareecha s advise to Ravana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-037-Maarichakruthaha_Ravana_Bodhaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-037-Maarichakruthaha_Ravana_Bodhaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -69,13 +66,13 @@ title_english = "037 Maareecha s advise to Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अपि स्वस्ति भवेत् तात सर्वेषामपि रक्षसाम्।  
-अपि रामो न संक्रुद्धः कुर्याल्लोकानराक्षसान्॥ ४॥
+अपि रामो न सङ्क्रुद्धः कुर्याल्लोकानराक्षसान्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अपि स्वस्ति भवेत् तात सर्वेषामपि रक्षसाम्।  
-अपि रामो न संक्रुद्धः कुर्याल्लोकानराक्षसान्॥ ४॥
+अपि रामो न सङ्क्रुद्धः कुर्याल्लोकानराक्षसान्॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -136,13 +133,13 @@ title_english = "037 Maareecha s advise to Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च पित्रा परित्यक्तो नामर्यादः कथंचन।  
+न च पित्रा परित्यक्तो नामर्यादः कथञ्चन।  
 न लुब्धो न च दुःशीलो न च क्षत्रियपांसनः॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न च पित्रा परित्यक्तो नामर्यादः कथंचन।  
+न च पित्रा परित्यक्तो नामर्यादः कथञ्चन।  
 न लुब्धो न च दुःशीलो न च क्षत्रियपांसनः॥ ८॥
 </details>
 
@@ -274,7 +271,7 @@ title_english = "037 Maareecha s advise to Ravana"
 
 धनुर्व्यादितदीप्तास्यं शरार्चिषममर्षणम्।  
 चापबाणधरं तीक्ष्णं शत्रुसेनापहारिणम्॥ १६॥  
-राज्यं सुखं च संत्यज्य जीवितं चेष्टमात्मनः।  
+राज्यं सुखं च सन्त्यज्य जीवितं चेष्टमात्मनः।  
 नात्यासादयितुं तात रामान्तकमिहार्हसि॥ १७॥
 </details>
 
@@ -282,7 +279,7 @@ title_english = "037 Maareecha s advise to Ravana"
 
 धनुर्व्यादितदीप्तास्यं शरार्चिषममर्षणम्।  
 चापबाणधरं तीक्ष्णं शत्रुसेनापहारिणम्॥ १६॥  
-राज्यं सुखं च संत्यज्य जीवितं चेष्टमात्मनः।  
+राज्यं सुखं च सन्त्यज्य जीवितं चेष्टमात्मनः।  
 नात्यासादयितुं तात रामान्तकमिहार्हसि॥ १७॥
 </details>
 
@@ -425,3 +422,4 @@ title_english = "037 Maareecha s advise to Ravana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे सप्तत्रिंशः सर्गः॥ ३७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें सैंतीसवाँ सर्ग पूरा हुआ॥ ३७॥
 </details>
+

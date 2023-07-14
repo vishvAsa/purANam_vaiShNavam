@@ -4,11 +4,8 @@ title_english = "010 Banishment of Sugreeva by Vali"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-010-Vaathiva_Sugreeva_Nirvasanam_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-010-Vaathiva_Sugreeva_Nirvasanam_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "010 Banishment of Sugreeva by Vali"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः क्रोधसमाविष्टं संरब्धं तमुपागतम्।  
-अहं प्रसादयांचक्रे भ्रातरं हितकाम्यया॥ १॥
+अहं प्रसादयाञ्चक्रे भ्रातरं हितकाम्यया॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः क्रोधसमाविष्टं संरब्धं तमुपागतम्।  
-अहं प्रसादयांचक्रे भ्रातरं हितकाम्यया॥ १॥
+अहं प्रसादयाञ्चक्रे भ्रातरं हितकाम्यया॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -224,13 +221,13 @@ title_english = "010 Banishment of Sugreeva by Vali"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विदितं वो मया रात्रौ मायावी स महासुरः॥ १३॥  
-मां समाह्वयत क्रुद्धो युद्धाकांक्षी तदा पुरा।
+मां समाह्वयत क्रुद्धो युद्धाकाङ्क्षी तदा पुरा।
 </details>
 
 <details><summary>मूलम्</summary>
 
 विदितं वो मया रात्रौ मायावी स महासुरः॥ १३॥  
-मां समाह्वयत क्रुद्धो युद्धाकांक्षी तदा पुरा।
+मां समाह्वयत क्रुद्धो युद्धाकाङ्क्षी तदा पुरा।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -258,14 +255,14 @@ title_english = "010 Banishment of Sugreeva by Vali"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु दृष्ट्वैव मां रात्रौ सद्वितीयं महाबलः॥ १५॥  
-प्राद्रवद् भयसंत्रस्तो वीक्ष्यावां समुपागतौ।  
+प्राद्रवद् भयसन्त्रस्तो वीक्ष्यावां समुपागतौ।  
 अभिद्रुतस्तु वेगेन विवेश स महाबिलम्॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स तु दृष्ट्वैव मां रात्रौ सद्वितीयं महाबलः॥ १५॥  
-प्राद्रवद् भयसंत्रस्तो वीक्ष्यावां समुपागतौ।  
+प्राद्रवद् भयसन्त्रस्तो वीक्ष्यावां समुपागतौ।  
 अभिद्रुतस्तु वेगेन विवेश स महाबिलम्॥ १६॥
 </details>
 
@@ -518,13 +515,13 @@ title_english = "010 Banishment of Sugreeva by Vali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अमोघाः सूर्यसंकाशा निशिता मे शरा इमे।  
+अमोघाः सूर्यसङ्काशा निशिता मे शरा इमे।  
 तस्मिन् वालिनि दुर्वृत्ते पतिष्यन्ति रुषान्विताः॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अमोघाः सूर्यसंकाशा निशिता मे शरा इमे।  
+अमोघाः सूर्यसङ्काशा निशिता मे शरा इमे।  
 तस्मिन् वालिनि दुर्वृत्ते पतिष्यन्ति रुषान्विताः॥ ३२॥
 </details>
 
@@ -589,3 +586,4 @@ title_english = "010 Banishment of Sugreeva by Vali"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे दशमः सर्गः॥ १०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें दसवाँ सर्ग पूरा हुआ॥ १०॥
 </details>
+

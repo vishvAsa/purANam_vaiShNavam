@@ -4,11 +4,8 @@ title_english = "042 Dasaratha feels dejected"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-042-Dashratha_Vilapaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-042-Dashratha_Vilapaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "042 Dasaratha feels dejected"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावत् तु निर्यतस्तस्य रजोरूपमदृश्यत।  
-नैवेक्ष्वाकुवरस्तावत् संजहारात्मचक्षुषी॥ १॥
+नैवेक्ष्वाकुवरस्तावत् सञ्जहारात्मचक्षुषी॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यावत् तु निर्यतस्तस्य रजोरूपमदृश्यत।  
-नैवेक्ष्वाकुवरस्तावत् संजहारात्मचक्षुषी॥ १॥
+नैवेक्ष्वाकुवरस्तावत् सञ्जहारात्मचक्षुषी॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -188,13 +185,13 @@ title_english = "042 Dasaratha feels dejected"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हत्वेव ब्राह्मणं कामात् स्पृष्ट्वाग्निमिव पाणिना।  
-अन्वतप्यत धर्मात्मा पुत्रं संचिन्त्य राघवम्॥ ११॥
+अन्वतप्यत धर्मात्मा पुत्रं सञ्चिन्त्य राघवम्॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 हत्वेव ब्राह्मणं कामात् स्पृष्ट्वाग्निमिव पाणिना।  
-अन्वतप्यत धर्मात्मा पुत्रं संचिन्त्य राघवम्॥ ११॥
+अन्वतप्यत धर्मात्मा पुत्रं सञ्चिन्त्य राघवम्॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -580,3 +577,4 @@ title_english = "042 Dasaratha feels dejected"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे द्विचत्वारिंशः सर्गः॥ ४२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें बयालीसवाँ सर्ग पूरा हुआ॥ ४२॥
 </details>
+

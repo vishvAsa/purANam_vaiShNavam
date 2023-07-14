@@ -4,11 +4,8 @@ title_english = "032 Ravana s pomp and pride"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-032-Shoorpanakakrutha_Ravana_Bala_Stuthi.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-032-Shoorpanakakrutha_Ravana_Bala_Stuthi.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -72,13 +69,13 @@ title_english = "032 Ravana s pomp and pride"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आसीनं सूर्यसंकाशे काञ्चने परमासने।  
+आसीनं सूर्यसङ्काशे काञ्चने परमासने।  
 रुक्मवेदिगतं प्राज्यं ज्वलन्तमिव पावकम्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-आसीनं सूर्यसंकाशे काञ्चने परमासने।  
+आसीनं सूर्यसङ्काशे काञ्चने परमासने।  
 रुक्मवेदिगतं प्राज्यं ज्वलन्तमिव पावकम्॥ ५॥
 </details>
 
@@ -112,7 +109,7 @@ title_english = "032 Ravana s pomp and pride"
 
 विंशद्भुजं दशग्रीवं दर्शनीयपरिच्छदम्।  
 विशालवक्षसं वीरं राजलक्षणलक्षितम्॥ ८॥  
-नद्धवैदूर्यसंकाशं तप्तकाञ्चनभूषणम्।  
+नद्धवैदूर्यसङ्काशं तप्तकाञ्चनभूषणम्।  
 सुभुजं शुक्लदशनं महास्यं पर्वतोपमम्॥ ९॥
 </details>
 
@@ -120,7 +117,7 @@ title_english = "032 Ravana s pomp and pride"
 
 विंशद्भुजं दशग्रीवं दर्शनीयपरिच्छदम्।  
 विशालवक्षसं वीरं राजलक्षणलक्षितम्॥ ८॥  
-नद्धवैदूर्यसंकाशं तप्तकाञ्चनभूषणम्।  
+नद्धवैदूर्यसङ्काशं तप्तकाञ्चनभूषणम्।  
 सुभुजं शुक्लदशनं महास्यं पर्वतोपमम्॥ ९॥
 </details>
 
@@ -235,13 +232,13 @@ title_english = "032 Ravana s pomp and pride"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चन्द्रसूर्यौ महाभागावुत्तिष्ठन्तौ परंतपौ॥ १६॥  
+चन्द्रसूर्यौ महाभागावुत्तिष्ठन्तौ परन्तपौ॥ १६॥  
 निवारयति बाहुभ्यां यः शैलशिखरोपमः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-चन्द्रसूर्यौ महाभागावुत्तिष्ठन्तौ परंतपौ॥ १६॥  
+चन्द्रसूर्यौ महाभागावुत्तिष्ठन्तौ परन्तपौ॥ १६॥  
 निवारयति बाहुभ्यां यः शैलशिखरोपमः।
 </details>
 
@@ -253,13 +250,13 @@ title_english = "032 Ravana s pomp and pride"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशवर्षसहस्राणि तपस्तप्त्वा महावने॥ १७॥  
-पुरा स्वयंभुवे धीरः शिरांस्युपजहार यः।
+पुरा स्वयम्भुवे धीरः शिरांस्युपजहार यः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 दशवर्षसहस्राणि तपस्तप्त्वा महावने॥ १७॥  
-पुरा स्वयंभुवे धीरः शिरांस्युपजहार यः।
+पुरा स्वयम्भुवे धीरः शिरांस्युपजहार यः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -270,13 +267,13 @@ title_english = "032 Ravana s pomp and pride"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 देवदानवगन्धर्वपिशाचपतगोरगैः॥ १८॥  
-अभयं यस्य संग्रामे मृत्युतो मानुषादृते।
+अभयं यस्य सङ्ग्रामे मृत्युतो मानुषादृते।
 </details>
 
 <details><summary>मूलम्</summary>
 
 देवदानवगन्धर्वपिशाचपतगोरगैः॥ १८॥  
-अभयं यस्य संग्रामे मृत्युतो मानुषादृते।
+अभयं यस्य सङ्ग्रामे मृत्युतो मानुषादृते।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -397,3 +394,4 @@ title_english = "032 Ravana s pomp and pride"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे द्वात्रिंशः सर्गः॥ ३२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें बत्तीसवाँ सर्ग पूरा हुआ॥ ३२॥
 </details>
+

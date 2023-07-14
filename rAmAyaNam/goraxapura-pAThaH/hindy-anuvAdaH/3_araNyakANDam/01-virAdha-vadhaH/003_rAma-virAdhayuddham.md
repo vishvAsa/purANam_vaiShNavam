@@ -4,11 +4,8 @@ title_english = "003 Viradha attacks Sri Rama and Lakshmana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-003-Rama_Viradha_Yudhdham.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-003-Rama_Viradha_Yudhdham.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -141,13 +138,13 @@ title_english = "003 Viradha attacks Sri Rama and Lakshmana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षुद्र धिक् त्वां तु हीनार्थं मृत्युमन्वेषसे ध्रुवम्।  
-रणे प्राप्स्यसि संतिष्ठ न मे जीवन् विमोक्ष्यसे॥ ९॥
+रणे प्राप्स्यसि सन्तिष्ठ न मे जीवन् विमोक्ष्यसे॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 क्षुद्र धिक् त्वां तु हीनार्थं मृत्युमन्वेषसे ध्रुवम्।  
-रणे प्राप्स्यसि संतिष्ठ न मे जीवन् विमोक्ष्यसे॥ ९॥
+रणे प्राप्स्यसि सन्तिष्ठ न मे जीवन् विमोक्ष्यसे॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -158,13 +155,13 @@ title_english = "003 Viradha attacks Sri Rama and Lakshmana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सज्यं धनुः कृत्वा रामः सुनिशितान् शरान्।  
-सुशीघ्रमभिसंधाय राक्षसं निजघान ह॥ १०॥
+सुशीघ्रमभिसन्धाय राक्षसं निजघान ह॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः सज्यं धनुः कृत्वा रामः सुनिशितान् शरान्।  
-सुशीघ्रमभिसंधाय राक्षसं निजघान ह॥ १०॥
+सुशीघ्रमभिसन्धाय राक्षसं निजघान ह॥ १०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -209,13 +206,13 @@ title_english = "003 Viradha attacks Sri Rama and Lakshmana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स विद्धो न्यस्य वैदेहीं शूलमुद्यम्य राक्षसः।  
-अभ्यद्रवत् सुसंक्रुद्धस्तदा रामं सलक्ष्मणम्॥ १३॥
+अभ्यद्रवत् सुसङ्क्रुद्धस्तदा रामं सलक्ष्मणम्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स विद्धो न्यस्य वैदेहीं शूलमुद्यम्य राक्षसः।  
-अभ्यद्रवत् सुसंक्रुद्धस्तदा रामं सलक्ष्मणम्॥ १३॥
+अभ्यद्रवत् सुसङ्क्रुद्धस्तदा रामं सलक्ष्मणम्॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -293,13 +290,13 @@ title_english = "003 Viradha attacks Sri Rama and Lakshmana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच्छूलं वज्रसंकाशं गगने ज्वलनोपमम्।  
+तच्छूलं वज्रसङ्काशं गगने ज्वलनोपमम्।  
 द्वाभ्यां शराभ्यां चिच्छेद रामः शस्त्रभृतां वरः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तच्छूलं वज्रसंकाशं गगने ज्वलनोपमम्।  
+तच्छूलं वज्रसङ्काशं गगने ज्वलनोपमम्।  
 द्वाभ्यां शराभ्यां चिच्छेद रामः शस्त्रभृतां वरः॥ १८॥
 </details>
 
@@ -440,3 +437,4 @@ title_english = "003 Viradha attacks Sri Rama and Lakshmana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे तृतीयः सर्गः॥ ३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें तीसरा सर्ग पूरा हुआ॥ ३॥
 </details>
+

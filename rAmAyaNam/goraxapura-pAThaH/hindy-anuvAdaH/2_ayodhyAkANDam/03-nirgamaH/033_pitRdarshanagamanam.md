@@ -4,11 +4,8 @@ title_english = "033 Rama pays respects to his father at departure"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-033-Pithur_Dharshanaartham_Gamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-033-Pithur_Dharshanaartham_Gamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "033 Rama pays respects to his father at departure"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो गृहीते प्रेष्याभ्यामशोभेतां तदायुधे।  
-मालादामभिरासक्ते सीतया समलंकृते॥ २॥
+मालादामभिरासक्ते सीतया समलङ्कृते॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततो गृहीते प्रेष्याभ्यामशोभेतां तदायुधे।  
-मालादामभिरासक्ते सीतया समलंकृते॥ २॥
+मालादामभिरासक्ते सीतया समलङ्कृते॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -222,13 +219,13 @@ title_english = "033 Rama pays respects to his father at departure"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् तस्योपघातेन प्रजाः परमपीडिताः।  
-औदकानीव सत्त्वानि ग्रीष्मे सलिलसंक्षयात्॥ १३॥
+औदकानीव सत्त्वानि ग्रीष्मे सलिलसङ्क्षयात्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्मात् तस्योपघातेन प्रजाः परमपीडिताः।  
-औदकानीव सत्त्वानि ग्रीष्मे सलिलसंक्षयात्॥ १३॥
+औदकानीव सत्त्वानि ग्रीष्मे सलिलसङ्क्षयात्॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -494,3 +491,4 @@ title_english = "033 Rama pays respects to his father at departure"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्रयस्त्रिंशः सर्गः॥ ३३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें तैंतीसवाँ सर्ग पूरा हुआ॥ ३३॥
 </details>
+

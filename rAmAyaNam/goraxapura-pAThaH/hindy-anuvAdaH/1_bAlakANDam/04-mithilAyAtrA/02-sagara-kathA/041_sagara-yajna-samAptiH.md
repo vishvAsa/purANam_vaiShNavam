@@ -4,11 +4,8 @@ title_english = "041 sagara s grandson amshuman s search for the horse"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-041-Sagara_Yagna_Parisamapthihi.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-041-Sagara_Yagna_Parisamapthihi.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -69,13 +66,13 @@ title_english = "041 sagara s grandson amshuman s search for the horse"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिवाद्याभिवाद्यांस्त्वं हत्वा विघ्नकरानपि।  
-सिद्धार्थः संनिवर्तस्व मम यज्ञस्य पारगः॥ ४॥
+सिद्धार्थः सन्निवर्तस्व मम यज्ञस्य पारगः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अभिवाद्याभिवाद्यांस्त्वं हत्वा विघ्नकरानपि।  
-सिद्धार्थः संनिवर्तस्व मम यज्ञस्य पारगः॥ ४॥
+सिद्धार्थः सन्निवर्तस्व मम यज्ञस्य पारगः॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -85,13 +82,13 @@ title_english = "041 sagara s grandson amshuman s search for the horse"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमुक्तोंऽशुमान् सम्यक् सगरेण महात्मना।  
+एवमुक्तोऽंशुमान् सम्यक् सगरेण महात्मना।  
 धनुरादाय खड्गं च जगाम लघुविक्रमः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तोंऽशुमान् सम्यक् सगरेण महात्मना।  
+एवमुक्तोऽंशुमान् सम्यक् सगरेण महात्मना।  
 धनुरादाय खड्गं च जगाम लघुविक्रमः॥ ५॥
 </details>
 
@@ -323,13 +320,13 @@ title_english = "041 sagara s grandson amshuman s search for the horse"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गंगा हिमवतो ज्येष्ठा दुहिता पुरुषर्षभ।  
+गङ्गा हिमवतो ज्येष्ठा दुहिता पुरुषर्षभ।  
 तस्यां कुरु महाबाहो पितॄणां सलिलक्रियाम्॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-गंगा हिमवतो ज्येष्ठा दुहिता पुरुषर्षभ।  
+गङ्गा हिमवतो ज्येष्ठा दुहिता पुरुषर्षभ।  
 तस्यां कुरु महाबाहो पितॄणां सलिलक्रियाम्॥ १९॥
 </details>
 
@@ -341,14 +338,14 @@ title_english = "041 sagara s grandson amshuman s search for the horse"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भस्मराशीकृतानेतान् प्लावयेल्लोकपावनी।  
-तया क्लिन्नमिदं भस्म गंगया लोककान्तया।  
+तया क्लिन्नमिदं भस्म गङ्गया लोककान्तया।  
 षष्टिं पुत्रसहस्राणि स्वर्गलोकं गमिष्यति॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 भस्मराशीकृतानेतान् प्लावयेल्लोकपावनी।  
-तया क्लिन्नमिदं भस्म गंगया लोककान्तया।  
+तया क्लिन्नमिदं भस्म गङ्गया लोककान्तया।  
 षष्टिं पुत्रसहस्राणि स्वर्गलोकं गमिष्यति॥ २०॥
 </details>
 
@@ -359,13 +356,13 @@ title_english = "041 sagara s grandson amshuman s search for the horse"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्गच्छाश्वं महाभाग संगृह्य पुरुषर्षभ।  
+निर्गच्छाश्वं महाभाग सङ्गृह्य पुरुषर्षभ।  
 यज्ञं पैतामहं वीर निर्वर्तयितुमर्हसि॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-निर्गच्छाश्वं महाभाग संगृह्य पुरुषर्षभ।  
+निर्गच्छाश्वं महाभाग सङ्गृह्य पुरुषर्षभ।  
 यज्ञं पैतामहं वीर निर्वर्तयितुमर्हसि॥ २१॥
 </details>
 
@@ -376,13 +373,13 @@ title_english = "041 sagara s grandson amshuman s search for the horse"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुपर्णवचनं श्रुत्वा सोंऽशुमानतिवीर्यवान्।  
+सुपर्णवचनं श्रुत्वा सोऽंशुमानतिवीर्यवान्।  
 त्वरितं हयमादाय पुनरायान्महातपाः॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सुपर्णवचनं श्रुत्वा सोंऽशुमानतिवीर्यवान्।  
+सुपर्णवचनं श्रुत्वा सोऽंशुमानतिवीर्यवान्।  
 त्वरितं हयमादाय पुनरायान्महातपाः॥ २२॥
 </details>
 
@@ -410,13 +407,13 @@ title_english = "041 sagara s grandson amshuman s search for the horse"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच्छ्रुत्वा घोरसंकाशं वाक्यमंशुमतो नृपः।  
+तच्छ्रुत्वा घोरसङ्काशं वाक्यमंशुमतो नृपः।  
 यज्ञं निर्वर्तयामास यथाकल्पं यथाविधि॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तच्छ्रुत्वा घोरसंकाशं वाक्यमंशुमतो नृपः।  
+तच्छ्रुत्वा घोरसङ्काशं वाक्यमंशुमतो नृपः।  
 यज्ञं निर्वर्तयामास यथाकल्पं यथाविधि॥ २४॥
 </details>
 
@@ -428,13 +425,13 @@ title_english = "041 sagara s grandson amshuman s search for the horse"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वपुरं त्वगमच्छ्रीमानिष्टयज्ञो महीपतिः।  
-गंगायाश्चागमे राजा निश्चयं नाध्यगच्छत॥ २५॥
+गङ्गायाश्चागमे राजा निश्चयं नाध्यगच्छत॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स्वपुरं त्वगमच्छ्रीमानिष्टयज्ञो महीपतिः।  
-गंगायाश्चागमे राजा निश्चयं नाध्यगच्छत॥ २५॥
+गङ्गायाश्चागमे राजा निश्चयं नाध्यगच्छत॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -464,3 +461,4 @@ title_english = "041 sagara s grandson amshuman s search for the horse"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकचत्वारिंशः सर्गः॥ ४१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें इकतालीसवाँ सर्ग पूरा हुआ॥ ४१॥
 </details>
+

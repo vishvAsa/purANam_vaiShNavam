@@ -4,11 +4,8 @@ title_english = "061 Monkeys took halt at Madhuvana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-060-Jambavan_s_wise_guidelines.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-060-Jambavan_s_wise_guidelines.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,13 +48,13 @@ title_english = "061 Monkeys took halt at Madhuvana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मेरुमन्दरसंकाशा मत्ता इव महागजाः।  
+मेरुमन्दरसङ्काशा मत्ता इव महागजाः।  
 छादयन्त इवाकाशं महाकाया महाबलाः॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मेरुमन्दरसंकाशा मत्ता इव महागजाः।  
+मेरुमन्दरसङ्काशा मत्ता इव महागजाः।  
 छादयन्त इवाकाशं महाकाया महाबलाः॥ ३॥
 </details>
 
@@ -451,3 +448,4 @@ title_english = "061 Monkeys took halt at Madhuvana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे एकषष्टितमः सर्गः॥ ६१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें इकसठवाँ सर्ग पूरा हुआ॥ ६१॥
 </details>
+

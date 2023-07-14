@@ -3,11 +3,8 @@ title = "११० रावणसम्बधिभिः शोकः"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-110-All_the_consorts_of_Ravana_lament_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-110-All_the_consorts_of_Ravana_lament_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -312,13 +309,13 @@ title = "११० रावणसम्बधिभिः शोकः"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ब्रुवाणोऽपि हितं वाक्यमिष्टो भ्राता विभीषणः।  
-दृष्टं परुषितो मोहात् त्वयाऽऽत्मवधकांक्षिणा॥ १९॥
+दृष्टं परुषितो मोहात् त्वयाऽऽत्मवधकाङ्क्षिणा॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ब्रुवाणोऽपि हितं वाक्यमिष्टो भ्राता विभीषणः।  
-दृष्टं परुषितो मोहात् त्वयाऽऽत्मवधकांक्षिणा॥ १९॥
+दृष्टं परुषितो मोहात् त्वयाऽऽत्मवधकाङ्क्षिणा॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -379,13 +376,13 @@ title = "११० रावणसम्बधिभिः शोकः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न कामकारः कामं वा तव राक्षसपुंगव।  
+न कामकारः कामं वा तव राक्षसपुङ्गव।  
 दैवं चेष्टयते सर्वं हतं दैवेन हन्यते॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न कामकारः कामं वा तव राक्षसपुंगव।  
+न कामकारः कामं वा तव राक्षसपुङ्गव।  
 दैवं चेष्टयते सर्वं हतं दैवेन हन्यते॥ २३॥
 </details>
 
@@ -450,3 +447,4 @@ title = "११० रावणसम्बधिभिः शोकः"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे दशाधिकशततमः सर्गः॥ ११०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें एक सौ दसवाँ सर्ग पूरा हुआ॥ ११०॥
 </details>
+

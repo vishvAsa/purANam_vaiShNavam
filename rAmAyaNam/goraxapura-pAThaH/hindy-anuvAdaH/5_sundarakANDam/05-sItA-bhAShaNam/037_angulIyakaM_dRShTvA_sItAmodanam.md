@@ -4,11 +4,8 @@ title_english = "037 Seetha was both delighted and depressed"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-037-Seetha_was_both_delighted_and_depressed.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-037-Seetha_was_both_delighted_and_depressed.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -119,13 +116,13 @@ title_english = "037 Seetha was both delighted and depressed"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स वाच्यः संत्वरस्वेति यावदेव न पूर्यते।  
+स वाच्यः सन्त्वरस्वेति यावदेव न पूर्यते।  
 अयं संवत्सरः कालस्तावद्धि मम जीवितम्॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स वाच्यः संत्वरस्वेति यावदेव न पूर्यते।  
+स वाच्यः सन्त्वरस्वेति यावदेव न पूर्यते।  
 अयं संवत्सरः कालस्तावद्धि मम जीवितम्॥ ७॥
 </details>
 
@@ -171,13 +168,13 @@ title_english = "037 Seetha was both delighted and depressed"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम प्रतिप्रदानं हि रावणस्य न रोचते।  
-रावणं मार्गते संख्ये मृत्युः कालवशंगतम्॥ १०॥
+रावणं मार्गते सङ्ख्ये मृत्युः कालवशङ्गतम्॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मम प्रतिप्रदानं हि रावणस्य न रोचते।  
-रावणं मार्गते संख्ये मृत्युः कालवशंगतम्॥ १०॥
+रावणं मार्गते सङ्ख्ये मृत्युः कालवशङ्गतम्॥ १०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -323,13 +320,13 @@ title_english = "037 Seetha was both delighted and depressed"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति संजल्पमानां तां रामार्थे शोककर्शिताम्।  
+इति सञ्जल्पमानां तां रामार्थे शोककर्शिताम्।  
 अश्रुसम्पूर्णवदनामुवाच हनुमान् कपिः॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इति संजल्पमानां तां रामार्थे शोककर्शिताम्।  
+इति सञ्जल्पमानां तां रामार्थे शोककर्शिताम्।  
 अश्रुसम्पूर्णवदनामुवाच हनुमान् कपिः॥ १९॥
 </details>
 
@@ -341,13 +338,13 @@ title_english = "037 Seetha was both delighted and depressed"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वैव च वचो मह्यं क्षिप्रमेष्यति राघवः।  
-चमूं प्रकर्षन् महतीं हर्यृक्षगणसंकुलाम्॥ २०॥
+चमूं प्रकर्षन् महतीं हर्यृक्षगणसङ्कुलाम्॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 श्रुत्वैव च वचो मह्यं क्षिप्रमेष्यति राघवः।  
-चमूं प्रकर्षन् महतीं हर्यृक्षगणसंकुलाम्॥ २०॥
+चमूं प्रकर्षन् महतीं हर्यृक्षगणसङ्कुलाम्॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -374,13 +371,13 @@ title_english = "037 Seetha was both delighted and depressed"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वां तु पृष्ठगतां कृत्वा संतरिष्यामि सागरम्।  
+त्वां तु पृष्ठगतां कृत्वा सन्तरिष्यामि सागरम्।  
 शक्तिरस्ति हि मे वोढुं लङ्कामपि सरावणाम्॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्वां तु पृष्ठगतां कृत्वा संतरिष्यामि सागरम्।  
+त्वां तु पृष्ठगतां कृत्वा सन्तरिष्यामि सागरम्।  
 शक्तिरस्ति हि मे वोढुं लङ्कामपि सरावणाम्॥ २२॥
 </details>
 
@@ -426,13 +423,13 @@ title_english = "037 Seetha was both delighted and depressed"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वद्दर्शनकृतोत्साहमाश्रमस्थं महाबलम्।  
-पुरंदरमिवासीनं नगराजस्य मूर्धनि॥ २५॥
+पुरन्दरमिवासीनं नगराजस्य मूर्धनि॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्वद्दर्शनकृतोत्साहमाश्रमस्थं महाबलम्।  
-पुरंदरमिवासीनं नगराजस्य मूर्धनि॥ २५॥
+पुरन्दरमिवासीनं नगराजस्य मूर्धनि॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -459,13 +456,13 @@ title_english = "037 Seetha was both delighted and depressed"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथयन्तीव शशिना संगमिष्यसि रोहिणी।  
+कथयन्तीव शशिना सङ्गमिष्यसि रोहिणी।  
 मत्पृष्ठमधिरोह त्वं तराकाशं महार्णवम्॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथयन्तीव शशिना संगमिष्यसि रोहिणी।  
+कथयन्तीव शशिना सङ्गमिष्यसि रोहिणी।  
 मत्पृष्ठमधिरोह त्वं तराकाशं महार्णवम्॥ २७॥
 </details>
 
@@ -595,13 +592,13 @@ title_english = "037 Seetha was both delighted and depressed"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति संचिन्त्य हनुमांस्तदा प्लवगसत्तमः।  
+इति सञ्चिन्त्य हनुमांस्तदा प्लवगसत्तमः।  
 दर्शयामास सीतायाः स्वरूपमरिमर्दनः॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इति संचिन्त्य हनुमांस्तदा प्लवगसत्तमः।  
+इति सञ्चिन्त्य हनुमांस्तदा प्लवगसत्तमः।  
 दर्शयामास सीतायाः स्वरूपमरिमर्दनः॥ ३५॥
 </details>
 
@@ -629,13 +626,13 @@ title_english = "037 Seetha was both delighted and depressed"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मेरुमन्दरसंकाशो बभौ दीप्तानलप्रभः।  
+मेरुमन्दरसङ्काशो बभौ दीप्तानलप्रभः।  
 अग्रतो व्यवतस्थे च सीताया वानरर्षभः॥ ३७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मेरुमन्दरसंकाशो बभौ दीप्तानलप्रभः।  
+मेरुमन्दरसङ्काशो बभौ दीप्तानलप्रभः।  
 अग्रतो व्यवतस्थे च सीताया वानरर्षभः॥ ३७॥
 </details>
 
@@ -646,13 +643,13 @@ title_english = "037 Seetha was both delighted and depressed"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हरिः पर्वतसंकाशस्ताम्रवक्त्रो महाबलः।  
+हरिः पर्वतसङ्काशस्ताम्रवक्त्रो महाबलः।  
 वज्रदंष्ट्रनखो भीमो वैदेहीमिदमब्रवीत्॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-हरिः पर्वतसंकाशस्ताम्रवक्त्रो महाबलः।  
+हरिः पर्वतसङ्काशस्ताम्रवक्त्रो महाबलः।  
 वज्रदंष्ट्रनखो भीमो वैदेहीमिदमब्रवीत्॥ ३८॥
 </details>
 
@@ -697,13 +694,13 @@ title_english = "037 Seetha was both delighted and depressed"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं दृष्ट्वाचलसंकाशमुवाच जनकात्मजा।  
+तं दृष्ट्वाचलसङ्काशमुवाच जनकात्मजा।  
 पद्मपत्रविशालाक्षी मारुतस्यौरसं सुतम्॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तं दृष्ट्वाचलसंकाशमुवाच जनकात्मजा।  
+तं दृष्ट्वाचलसङ्काशमुवाच जनकात्मजा।  
 पद्मपत्रविशालाक्षी मारुतस्यौरसं सुतम्॥ ४१॥
 </details>
 
@@ -817,13 +814,13 @@ title_english = "037 Seetha was both delighted and depressed"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न च शक्ष्ये त्वया सार्धं गन्तुं शत्रुविनाशन।  
-कलत्रवति संदेहस्त्वयि स्यादप्यसंशयम्॥ ४८॥
+कलत्रवति सन्देहस्त्वयि स्यादप्यसंशयम्॥ ४८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 न च शक्ष्ये त्वया सार्धं गन्तुं शत्रुविनाशन।  
-कलत्रवति संदेहस्त्वयि स्यादप्यसंशयम्॥ ४८॥
+कलत्रवति सन्देहस्त्वयि स्यादप्यसंशयम्॥ ४८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -902,7 +899,7 @@ title_english = "037 Seetha was both delighted and depressed"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रक्षांसि भीमानि महान्ति बलवन्ति च।  
-कथंचित् साम्पराये त्वां जयेयुः कपिसत्तम॥ ५३॥  
+कथञ्चित् साम्पराये त्वां जयेयुः कपिसत्तम॥ ५३॥  
 अथवा युध्यमानस्य पतेयं विमुखस्य ते।  
 पतितां च गृहीत्वा मां नयेयुः पापराक्षसाः॥ ५४॥
 </details>
@@ -910,7 +907,7 @@ title_english = "037 Seetha was both delighted and depressed"
 <details><summary>मूलम्</summary>
 
 अथ रक्षांसि भीमानि महान्ति बलवन्ति च।  
-कथंचित् साम्पराये त्वां जयेयुः कपिसत्तम॥ ५३॥  
+कथञ्चित् साम्पराये त्वां जयेयुः कपिसत्तम॥ ५३॥  
 अथवा युध्यमानस्य पतेयं विमुखस्य ते।  
 पतितां च गृहीत्वा मां नयेयुः पापराक्षसाः॥ ५४॥
 </details>
@@ -1024,14 +1021,14 @@ title_english = "037 Seetha was both delighted and depressed"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तौ निराशौ मदर्थं च शोकसंतापकर्शितौ।  
-सह सर्वर्क्षहरिभिस्त्यक्ष्यतः प्राणसंग्रहम्॥ ६१॥
+तौ निराशौ मदर्थं च शोकसन्तापकर्शितौ।  
+सह सर्वर्क्षहरिभिस्त्यक्ष्यतः प्राणसङ्ग्रहम्॥ ६१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तौ निराशौ मदर्थं च शोकसंतापकर्शितौ।  
-सह सर्वर्क्षहरिभिस्त्यक्ष्यतः प्राणसंग्रहम्॥ ६१॥
+तौ निराशौ मदर्थं च शोकसन्तापकर्शितौ।  
+सह सर्वर्क्षहरिभिस्त्यक्ष्यतः प्राणसङ्ग्रहम्॥ ६१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1179,3 +1176,4 @@ title_english = "037 Seetha was both delighted and depressed"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे सप्तत्रिंशः सर्गः॥ ३७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें सैंतीसवाँ सर्ग पूरा हुआ॥ ३७॥
 </details>
+

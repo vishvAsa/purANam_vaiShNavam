@@ -4,11 +4,8 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-017-Ruksha_Vaanarothpaththi.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-017-Ruksha_Vaanarothpaththi.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,7 +31,7 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्यसंधस्य वीरस्य सर्वेषां नो हितैषिणः।  
+सत्यसन्धस्य वीरस्य सर्वेषां नो हितैषिणः।  
 विष्णोः सहायान् बलिनः सृजध्वं कामरूपिणः॥ २॥  
 मायाविदश्च शूरांश्च वायुवेगसमान् जवे।  
 नयज्ञान् बुद्धिसम्पन्नान् विष्णुतुल्यपराक्रमान्॥ ३॥  
@@ -44,7 +41,7 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 
 <details><summary>मूलम्</summary>
 
-सत्यसंधस्य वीरस्य सर्वेषां नो हितैषिणः।  
+सत्यसन्धस्य वीरस्य सर्वेषां नो हितैषिणः।  
 विष्णोः सहायान् बलिनः सृजध्वं कामरूपिणः॥ २॥  
 मायाविदश्च शूरांश्च वायुवेगसमान् जवे।  
 नयज्ञान् बुद्धिसम्पन्नान् विष्णुतुल्यपराक्रमान्॥ ३॥  
@@ -80,13 +77,13 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पूर्वमेव मया सृष्टो जाम्बवानृक्षपुंगवः।  
+पूर्वमेव मया सृष्टो जाम्बवानृक्षपुङ्गवः।  
 जृम्भमाणस्य सहसा मम वक्त्रादजायत॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पूर्वमेव मया सृष्टो जाम्बवानृक्षपुंगवः।  
+पूर्वमेव मया सृष्टो जाम्बवानृक्षपुङ्गवः।  
 जृम्भमाणस्य सहसा मम वक्त्रादजायत॥ ७॥
 </details>
 
@@ -268,13 +265,13 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अप्रमेयबला वीरा विक्रान्ताः कामरूपिणः।  
-ते गजाचलसंकाशा वपुष्मन्तो महाबलाः॥ १८॥
+ते गजाचलसङ्काशा वपुष्मन्तो महाबलाः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अप्रमेयबला वीरा विक्रान्ताः कामरूपिणः।  
-ते गजाचलसंकाशा वपुष्मन्तो महाबलाः॥ १८॥
+ते गजाचलसङ्काशा वपुष्मन्तो महाबलाः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -287,7 +284,7 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 ऋक्षवानरगोपुच्छाः क्षिप्रमेवाभिजज्ञिरे।  
 यस्य देवस्य यद्रूपं वेषो यश्च पराक्रमः॥ १९॥  
 अजायत समं तेन तस्य तस्य पृथक् पृथक्।  
-गोलांगूलेषु चोत्पन्नाः किंचिदुन्नतविक्रमाः॥ २०॥
+गोलाङ्गूलेषु चोत्पन्नाः किञ्चिदुन्नतविक्रमाः॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -295,7 +292,7 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 ऋक्षवानरगोपुच्छाः क्षिप्रमेवाभिजज्ञिरे।  
 यस्य देवस्य यद्रूपं वेषो यश्च पराक्रमः॥ १९॥  
 अजायत समं तेन तस्य तस्य पृथक् पृथक्।  
-गोलांगूलेषु चोत्पन्नाः किंचिदुन्नतविक्रमाः॥ २०॥
+गोलाङ्गूलेषु चोत्पन्नाः किञ्चिदुन्नतविक्रमाः॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -307,7 +304,7 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 
 ऋक्षीषु च तथा जाता वानराः किन्नरीषु च।  
 देवा महर्षिगन्धर्वास्तार्क्ष्ययक्षा यशस्विनः॥ २१॥  
-नागाः किंपुरुषाश्चैव सिद्धविद्याधरोरगाः।  
+नागाः किम्पुरुषाश्चैव सिद्धविद्याधरोरगाः।  
 बहवो जनयामासुर्हृष्टास्तत्र सहस्रशः॥ २२॥
 </details>
 
@@ -315,7 +312,7 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 
 ऋक्षीषु च तथा जाता वानराः किन्नरीषु च।  
 देवा महर्षिगन्धर्वास्तार्क्ष्ययक्षा यशस्विनः॥ २१॥  
-नागाः किंपुरुषाश्चैव सिद्धविद्याधरोरगाः।  
+नागाः किम्पुरुषाश्चैव सिद्धविद्याधरोरगाः।  
 बहवो जनयामासुर्हृष्टास्तत्र सहस्रशः॥ २२॥
 </details>
 
@@ -414,13 +411,13 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नभस्तलं विशेयुश्च गृह्णीयुरपि तोयदान्।  
-गृह्णीयुरपि मातंगान् मत्तान् प्रव्रजतो वने॥ २८॥
+गृह्णीयुरपि मातङ्गान् मत्तान् प्रव्रजतो वने॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नभस्तलं विशेयुश्च गृह्णीयुरपि तोयदान्।  
-गृह्णीयुरपि मातंगान् मत्तान् प्रव्रजतो वने॥ २८॥
+गृह्णीयुरपि मातङ्गान् मत्तान् प्रव्रजतो वने॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -430,7 +427,7 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नर्दमानांश्च नादेन पातयेयुर्विहंगमान्।  
+नर्दमानांश्च नादेन पातयेयुर्विहङ्गमान्।  
 ईदृशानां प्रसूतानि हरीणां कामरूपिणाम्॥ २९॥  
 शतं शतसहस्राणि यूथपानां महात्मनाम्।  
 ते प्रधानेषु यूथेषु हरीणां हरियूथपाः॥ ३०॥
@@ -438,7 +435,7 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 
 <details><summary>मूलम्</summary>
 
-नर्दमानांश्च नादेन पातयेयुर्विहंगमान्।  
+नर्दमानांश्च नादेन पातयेयुर्विहङ्गमान्।  
 ईदृशानां प्रसूतानि हरीणां कामरूपिणाम्॥ २९॥  
 शतं शतसहस्राणि यूथपानां महात्मनाम्।  
 ते प्रधानेषु यूथेषु हरीणां हरियूथपाः॥ ३०॥
@@ -527,7 +524,7 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तैर्मेघवृन्दाचलकूटसंनिभै-  
+तैर्मेघवृन्दाचलकूटसन्निभै-  
 र्महाबलैर्वानरयूथपाधिपैः।  
 बभूव भूर्भीमशरीररूपैः  
 समावृता रामसहायहेतोः॥ ३७॥
@@ -535,7 +532,7 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 
 <details><summary>मूलम्</summary>
 
-तैर्मेघवृन्दाचलकूटसंनिभै-  
+तैर्मेघवृन्दाचलकूटसन्निभै-  
 र्महाबलैर्वानरयूथपाधिपैः।  
 बभूव भूर्भीमशरीररूपैः  
 समावृता रामसहायहेतोः॥ ३७॥
@@ -551,3 +548,4 @@ title_english = "017 brahma orders gods to spawn forest rangers vAnarA s"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तदशः सर्गः॥ १७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें सत्रहवाँ सर्ग पूरा हुआ॥ १७॥
 </details>
+

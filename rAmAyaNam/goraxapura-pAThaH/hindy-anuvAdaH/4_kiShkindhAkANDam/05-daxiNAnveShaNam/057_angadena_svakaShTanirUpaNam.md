@@ -4,11 +4,8 @@ title_english = "057 Angada informs their plight to Sampaati"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-057-Angada_informs_their_plight_to_Sampaati.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-057-Angada_informs_their_plight_to_Sampaati.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "057 Angada informs their plight to Sampaati"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते प्रायमुपविष्टास्तु दृष्ट्वा गृध्रं प्लवंगमाः।  
+ते प्रायमुपविष्टास्तु दृष्ट्वा गृध्रं प्लवङ्गमाः।  
 चक्रुर्बुद्धिं तदा रौद्रां सर्वान् नो भक्षयिष्यति॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते प्रायमुपविष्टास्तु दृष्ट्वा गृध्रं प्लवंगमाः।  
+ते प्रायमुपविष्टास्तु दृष्ट्वा गृध्रं प्लवङ्गमाः।  
 चक्रुर्बुद्धिं तदा रौद्रां सर्वान् नो भक्षयिष्यति॥ २॥
 </details>
 
@@ -306,3 +303,4 @@ title_english = "057 Angada informs their plight to Sampaati"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे सप्तपञ्चाशः सर्गः॥ ५७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें सत्तावनवाँ सर्ग पूरा हुआ॥ ५७॥
 </details>
+

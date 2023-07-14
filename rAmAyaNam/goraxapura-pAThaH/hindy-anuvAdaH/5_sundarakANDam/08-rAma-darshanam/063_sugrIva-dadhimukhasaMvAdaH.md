@@ -4,11 +4,8 @@ title_english = "063 Dadhimukha reports Madhuvana destruction to Sugreeva"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-062-Dadhimukha_departs_to_Kishkindha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-062-Dadhimukha_departs_to_Kishkindha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -309,7 +306,7 @@ title_english = "063 Dadhimukha reports Madhuvana destruction to Sugreeva"
 वारयन्तो भृशं प्राप्ताः पाला जानुभिराहताः।  
 तथा न गणितश्चायं कपिर्दधिमुखो बली॥ १८॥  
 पतिर्मम वनस्यायमस्माभिः स्थापितः स्वयम्।  
-दृष्टा देवी न संदेहो न चान्येन हनूमता॥ १९॥
+दृष्टा देवी न सन्देहो न चान्येन हनूमता॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -317,7 +314,7 @@ title_english = "063 Dadhimukha reports Madhuvana destruction to Sugreeva"
 वारयन्तो भृशं प्राप्ताः पाला जानुभिराहताः।  
 तथा न गणितश्चायं कपिर्दधिमुखो बली॥ १८॥  
 पतिर्मम वनस्यायमस्माभिः स्थापितः स्वयम्।  
-दृष्टा देवी न संदेहो न चान्येन हनूमता॥ १९॥
+दृष्टा देवी न सन्देहो न चान्येन हनूमता॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -526,3 +523,4 @@ title_english = "063 Dadhimukha reports Madhuvana destruction to Sugreeva"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे त्रिषष्टितमः सर्गः॥ ६३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें तिरसठवाँ सर्ग पूरा हुआ॥ ६३॥
 </details>
+

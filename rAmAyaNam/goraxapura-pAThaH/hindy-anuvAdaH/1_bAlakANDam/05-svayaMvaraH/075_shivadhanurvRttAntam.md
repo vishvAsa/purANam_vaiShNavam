@@ -4,11 +4,8 @@ title_english = "075 Legends of shiva and vishnu bows"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-075-Parashu_Ramena_Shivadhanur_Vruththtantha_Kathanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-075-Parashu_Ramena_Shivadhanur_Vruththtantha_Kathanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,13 +48,13 @@ title_english = "075 Legends of shiva and vishnu bows"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदिदं घोरसंकाशं जामदग्न्यं महद्धनुः।  
+तदिदं घोरसङ्काशं जामदग्न्यं महद्धनुः।  
 पूरयस्व शरेणैव स्वबलं दर्शयस्व च॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदिदं घोरसंकाशं जामदग्न्यं महद्धनुः।  
+तदिदं घोरसङ्काशं जामदग्न्यं महद्धनुः।  
 पूरयस्व शरेणैव स्वबलं दर्शयस्व च॥ ३॥
 </details>
 
@@ -123,13 +120,13 @@ title_english = "075 Legends of shiva and vishnu bows"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स त्वं धर्मपरो भूत्वा कश्यपाय वसुंधराम्।  
+स त्वं धर्मपरो भूत्वा कश्यपाय वसुन्धराम्।  
 दत्त्वा वनमुपागम्य महेन्द्रकृतकेतनः॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स त्वं धर्मपरो भूत्वा कश्यपाय वसुंधराम्।  
+स त्वं धर्मपरो भूत्वा कश्यपाय वसुन्धराम्।  
 दत्त्वा वनमुपागम्य महेन्द्रकृतकेतनः॥ ८॥
 </details>
 
@@ -209,13 +206,13 @@ title_english = "075 Legends of shiva and vishnu bows"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं द्वितीयं दुर्धर्षं विष्णोर्दत्तं सुरोत्तमैः।  
-तदिदं वैष्णवं राम धनुः परपुरंजयम्॥ १३॥
+तदिदं वैष्णवं राम धनुः परपुरञ्जयम्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इदं द्वितीयं दुर्धर्षं विष्णोर्दत्तं सुरोत्तमैः।  
-तदिदं वैष्णवं राम धनुः परपुरंजयम्॥ १३॥
+तदिदं वैष्णवं राम धनुः परपुरञ्जयम्॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -279,13 +276,13 @@ title_english = "075 Legends of shiva and vishnu bows"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा तु जृम्भितं शैवं धनुर्भीमपराक्रमम्॥ १७॥  
-हुंकारेण महादेवः स्तम्भितोऽथ त्रिलोचनः।
+हुङ्कारेण महादेवः स्तम्भितोऽथ त्रिलोचनः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 तदा तु जृम्भितं शैवं धनुर्भीमपराक्रमम्॥ १७॥  
-हुंकारेण महादेवः स्तम्भितोऽथ त्रिलोचनः।
+हुङ्कारेण महादेवः स्तम्भितोऽथ त्रिलोचनः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -329,13 +326,13 @@ title_english = "075 Legends of shiva and vishnu bows"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धनू रुद्रस्तु संक्रुद्धो विदेहेषु महायशाः॥ २०॥  
+धनू रुद्रस्तु सङ्क्रुद्धो विदेहेषु महायशाः॥ २०॥  
 देवरातस्य राजर्षेर्ददौ हस्ते ससायकम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-धनू रुद्रस्तु संक्रुद्धो विदेहेषु महायशाः॥ २०॥  
+धनू रुद्रस्तु सङ्क्रुद्धो विदेहेषु महायशाः॥ २०॥  
 देवरातस्य राजर्षेर्ददौ हस्ते ससायकम्।
 </details>
 
@@ -346,13 +343,13 @@ title_english = "075 Legends of shiva and vishnu bows"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदं च वैष्णवं राम धनुः परपुरंजयम्॥ २१॥  
+इदं च वैष्णवं राम धनुः परपुरञ्जयम्॥ २१॥  
 ऋचीके भार्गवे प्रादाद् विष्णुः स न्यासमुत्तमम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-इदं च वैष्णवं राम धनुः परपुरंजयम्॥ २१॥  
+इदं च वैष्णवं राम धनुः परपुरञ्जयम्॥ २१॥  
 ऋचीके भार्गवे प्रादाद् विष्णुः स न्यासमुत्तमम्।
 </details>
 
@@ -450,7 +447,7 @@ title_english = "075 Legends of shiva and vishnu bows"
 
 तदेवं वैष्णवं राम पितृपैतामहं महत्।  
 क्षत्रधर्मं पुरस्कृत्य गृह्णीष्व धनुरुत्तमम्॥ २७॥  
-योजयस्व धनुःश्रेष्ठे शरं परपुरंजयम्।  
+योजयस्व धनुःश्रेष्ठे शरं परपुरञ्जयम्।  
 यदि शक्तोऽसि काकुत्स्थ द्वन्द्वं दास्यामि ते ततः॥ २८॥
 </details>
 
@@ -458,7 +455,7 @@ title_english = "075 Legends of shiva and vishnu bows"
 
 तदेवं वैष्णवं राम पितृपैतामहं महत्।  
 क्षत्रधर्मं पुरस्कृत्य गृह्णीष्व धनुरुत्तमम्॥ २७॥  
-योजयस्व धनुःश्रेष्ठे शरं परपुरंजयम्।  
+योजयस्व धनुःश्रेष्ठे शरं परपुरञ्जयम्।  
 यदि शक्तोऽसि काकुत्स्थ द्वन्द्वं दास्यामि ते ततः॥ २८॥
 </details>
 
@@ -472,3 +469,4 @@ title_english = "075 Legends of shiva and vishnu bows"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चसप्ततितमः सर्गः॥ ७५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें पचहत्तरवाँ सर्ग पूरा हुआ॥ ७५॥
 </details>
+

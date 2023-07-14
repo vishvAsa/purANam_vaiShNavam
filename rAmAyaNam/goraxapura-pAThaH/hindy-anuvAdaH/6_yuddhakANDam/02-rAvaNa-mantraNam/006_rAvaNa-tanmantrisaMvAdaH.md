@@ -4,11 +4,8 @@ title_english = "006 Ravana calls a meetings of his ministers"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-006-Ravana_calls_a_meetings_of_his_ministers.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-006-Ravana_calls_a_meetings_of_his_ministers.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -19,14 +16,14 @@ title_english = "006 Ravana calls a meetings of his ministers"
 
 लङ्कायां तु कृतं कर्म घोरं दृष्ट्वा भयावहम्।  
 राक्षसेन्द्रो हनुमता शक्रेणेव महात्मना।  
-अब्रवीद् राक्षसान् सर्वान् ह्रिया किंचिदवाङ्मुखः॥ १॥
+अब्रवीद् राक्षसान् सर्वान् ह्रिया किञ्चिदवाङ्मुखः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 लङ्कायां तु कृतं कर्म घोरं दृष्ट्वा भयावहम्।  
 राक्षसेन्द्रो हनुमता शक्रेणेव महात्मना।  
-अब्रवीद् राक्षसान् सर्वान् ह्रिया किंचिदवाङ्मुखः॥ १॥
+अब्रवीद् राक्षसान् सर्वान् ह्रिया किञ्चिदवाङ्मुखः॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -317,3 +314,4 @@ title_english = "006 Ravana calls a meetings of his ministers"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे षष्ठः सर्गः॥ ६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मत आर्षरामायण आदिकाव्यके युद्धकाण्डमें छठा सर्ग पूरा हुआ॥ ६॥
 </details>
+

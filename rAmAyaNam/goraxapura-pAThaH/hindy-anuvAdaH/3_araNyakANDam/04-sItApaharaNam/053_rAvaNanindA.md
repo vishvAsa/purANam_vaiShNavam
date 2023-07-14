@@ -4,11 +4,8 @@ title_english = "053 Seetha denounces Ravana s misdeeds"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-053-Ravana_Nindaa.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-053-Ravana_Nindaa.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -191,14 +188,14 @@ title_english = "053 Seetha denounces Ravana s misdeeds"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न त्वं तयोः शरस्पर्शं सोढुं शक्तः कथंचन।  
-वने प्रज्वलितस्येव स्पर्शमग्नेर्विहंगमः॥ १२॥
+न त्वं तयोः शरस्पर्शं सोढुं शक्तः कथञ्चन।  
+वने प्रज्वलितस्येव स्पर्शमग्नेर्विहङ्गमः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न त्वं तयोः शरस्पर्शं सोढुं शक्तः कथंचन।  
-वने प्रज्वलितस्येव स्पर्शमग्नेर्विहंगमः॥ १२॥
+न त्वं तयोः शरस्पर्शं सोढुं शक्तः कथञ्चन।  
+वने प्रज्वलितस्येव स्पर्शमग्नेर्विहङ्गमः॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -209,14 +206,14 @@ title_english = "053 Seetha denounces Ravana s misdeeds"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु कृत्वाऽऽत्मनः पथ्यं साधु मां मुञ्च रावण।  
-मत्प्रधर्षणसंक्रुद्धो भ्रात्रा सह पतिर्मम॥ १३॥  
+मत्प्रधर्षणसङ्क्रुद्धो भ्रात्रा सह पतिर्मम॥ १३॥  
 विधास्यति विनाशाय त्वं मां यदि न मुञ्चसि।
 </details>
 
 <details><summary>मूलम्</summary>
 
 साधु कृत्वाऽऽत्मनः पथ्यं साधु मां मुञ्च रावण।  
-मत्प्रधर्षणसंक्रुद्धो भ्रात्रा सह पतिर्मम॥ १३॥  
+मत्प्रधर्षणसङ्क्रुद्धो भ्रात्रा सह पतिर्मम॥ १३॥  
 विधास्यति विनाशाय त्वं मां यदि न मुञ्चसि।
 </details>
 
@@ -403,3 +400,4 @@ title_english = "053 Seetha denounces Ravana s misdeeds"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे त्रिपञ्चाशः सर्गः॥ ५३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें तिरपनवाँ सर्ग पूरा हुआ॥ ५३॥
 </details>
+

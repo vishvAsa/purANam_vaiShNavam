@@ -4,11 +4,8 @@ title_english = "029 Khara s fight with Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-029-Khara_Nribhartha_Sanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-029-Khara_Nribhartha_Sanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -184,13 +181,13 @@ title_english = "029 Khara s fight with Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये त्वया दण्डकारण्ये भक्षिता धर्मचारिणः।  
-तानद्य निहतः संख्ये ससैन्योऽनुगमिष्यसि॥ १२॥
+तानद्य निहतः सङ्ख्ये ससैन्योऽनुगमिष्यसि॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ये त्वया दण्डकारण्ये भक्षिता धर्मचारिणः।  
-तानद्य निहतः संख्ये ससैन्योऽनुगमिष्यसि॥ १२॥
+तानद्य निहतः सङ्ख्ये ससैन्योऽनुगमिष्यसि॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -269,13 +266,13 @@ title_english = "029 Khara s fight with Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विक्रान्ता बलवन्तो वा ये भवन्ति नरर्षभाः।  
-कथयन्ति न ते किंचित् तेजसा चातिगर्विताः॥ १७॥
+कथयन्ति न ते किञ्चित् तेजसा चातिगर्विताः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 विक्रान्ता बलवन्तो वा ये भवन्ति नरर्षभाः।  
-कथयन्ति न ते किंचित् तेजसा चातिगर्विताः॥ १७॥
+कथयन्ति न ते किञ्चित् तेजसा चातिगर्विताः॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -475,3 +472,4 @@ title_english = "029 Khara s fight with Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे एकोनत्रिंशः सर्गः॥ २९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें उनतीसवाँ सर्ग पूरा हुआ॥ २९॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "044 Sumitra assuages Kausalya s grief"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-044-Kousalya_Santhvanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-044-Kousalya_Santhvanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -124,13 +121,13 @@ title_english = "044 Sumitra assuages Kausalya s grief"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यक्तं रामस्य विज्ञाय शौचं माहात्म्यमुत्तमम्।  
-न गात्रमंशुभिः सूर्यः संतापयितुमर्हति॥८॥
+न गात्रमंशुभिः सूर्यः सन्तापयितुमर्हति॥८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्यक्तं रामस्य विज्ञाय शौचं माहात्म्यमुत्तमम्।  
-न गात्रमंशुभिः सूर्यः संतापयितुमर्हति॥८॥
+न गात्रमंशुभिः सूर्यः सन्तापयितुमर्हति॥८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -192,13 +189,13 @@ title_english = "044 Sumitra assuages Kausalya s grief"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स शूरः पुरुषव्याघ्रः स्वबाहुबलमाश्रितः।  
-असंत्रस्तो ह्यरण्येऽसौ वेश्मनीव निवत्स्यते॥ १२॥
+असन्त्रस्तो ह्यरण्येऽसौ वेश्मनीव निवत्स्यते॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स शूरः पुरुषव्याघ्रः स्वबाहुबलमाश्रितः।  
-असंत्रस्तो ह्यरण्येऽसौ वेश्मनीव निवत्स्यते॥ १२॥
+असन्त्रस्तो ह्यरण्येऽसौ वेश्मनीव निवत्स्यते॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -516,3 +513,4 @@ title_english = "044 Sumitra assuages Kausalya s grief"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे चतुश्चत्वारिंशः सर्गः॥ ४४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें चौवालीसवाँ सर्ग पूरा हुआ॥ ४४॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "055 vishvamitra ruins vashiSTHa s hermitage"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-055-Vishra_Mithrena_Stramokshnam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-055-Vishra_Mithrena_Stramokshnam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "055 vishvamitra ruins vashiSTHa s hermitage"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्या हुंकारतो जाताः काम्बोजा रविसंनिभाः।  
+तस्या हुङ्कारतो जाताः काम्बोजा रविसन्निभाः।  
 ऊधसश्चाथ सम्भूता बर्बराः शस्त्रपाणयः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्या हुंकारतो जाताः काम्बोजा रविसंनिभाः।  
+तस्या हुङ्कारतो जाताः काम्बोजा रविसन्निभाः।  
 ऊधसश्चाथ सम्भूता बर्बराः शस्त्रपाणयः॥ २॥
 </details>
 
@@ -87,16 +84,16 @@ title_english = "055 vishvamitra ruins vashiSTHa s hermitage"
 
 दृष्ट्वा निषूदितं सैन्यं वसिष्ठेन महात्मना।  
 विश्वामित्रसुतानां तु शतं नानाविधायुधम्॥ ५॥  
-अभ्यधावत् सुसंक्रुद्धं वसिष्ठं जपतां वरम्।  
-हुंकारेणैव तान् सर्वान् निर्ददाह महानृषिः॥ ६॥
+अभ्यधावत् सुसङ्क्रुद्धं वसिष्ठं जपतां वरम्।  
+हुङ्कारेणैव तान् सर्वान् निर्ददाह महानृषिः॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दृष्ट्वा निषूदितं सैन्यं वसिष्ठेन महात्मना।  
 विश्वामित्रसुतानां तु शतं नानाविधायुधम्॥ ५॥  
-अभ्यधावत् सुसंक्रुद्धं वसिष्ठं जपतां वरम्।  
-हुंकारेणैव तान् सर्वान् निर्ददाह महानृषिः॥ ६॥
+अभ्यधावत् सुसङ्क्रुद्धं वसिष्ठं जपतां वरम्।  
+हुङ्कारेणैव तान् सर्वान् निर्ददाह महानृषिः॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -191,13 +188,13 @@ title_english = "055 vishvamitra ruins vashiSTHa s hermitage"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स गत्वा हिमवत्पार्श्वे किंनरोरगसेवितम्।  
+स गत्वा हिमवत्पार्श्वे किन्नरोरगसेवितम्।  
 महादेवप्रसादार्थं तपस्तेपे महातपाः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स गत्वा हिमवत्पार्श्वे किंनरोरगसेवितम्।  
+स गत्वा हिमवत्पार्श्वे किन्नरोरगसेवितम्।  
 महादेवप्रसादार्थं तपस्तेपे महातपाः॥ १२॥
 </details>
 
@@ -226,13 +223,13 @@ title_english = "055 vishvamitra ruins vashiSTHa s hermitage"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किमर्थं तप्यसे राजन् ब्रूहि यत् ते विवक्षितम्।  
-वरदोऽस्मि वरो यस्ते कांक्षितः सोऽभिधीयताम्॥ १४॥
+वरदोऽस्मि वरो यस्ते काङ्क्षितः सोऽभिधीयताम्॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 किमर्थं तप्यसे राजन् ब्रूहि यत् ते विवक्षितम्।  
-वरदोऽस्मि वरो यस्ते कांक्षितः सोऽभिधीयताम्॥ १४॥
+वरदोऽस्मि वरो यस्ते काङ्क्षितः सोऽभिधीयताम्॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -260,13 +257,13 @@ title_english = "055 vishvamitra ruins vashiSTHa s hermitage"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तुष्टो महादेव धनुर्वेदो ममानघ।  
-सांगोपांगोपनिषदः सरहस्यः प्रदीयताम्॥ १६॥
+साङ्गोपाङ्गोपनिषदः सरहस्यः प्रदीयताम्॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदि तुष्टो महादेव धनुर्वेदो ममानघ।  
-सांगोपांगोपनिषदः सरहस्यः प्रदीयताम्॥ १६॥
+साङ्गोपाङ्गोपनिषदः सरहस्यः प्रदीयताम्॥ १६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -383,13 +380,13 @@ title_english = "055 vishvamitra ruins vashiSTHa s hermitage"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठस्याश्रमपदं शून्यमासीन्महात्मनः।  
-मुहूर्तमिव निःशब्दमासीदीरिणसंनिभम्॥ २४॥
+मुहूर्तमिव निःशब्दमासीदीरिणसन्निभम्॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 वसिष्ठस्याश्रमपदं शून्यमासीन्महात्मनः।  
-मुहूर्तमिव निःशब्दमासीदीरिणसंनिभम्॥ २४॥
+मुहूर्तमिव निःशब्दमासीदीरिणसन्निभम्॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -470,3 +467,4 @@ title_english = "055 vishvamitra ruins vashiSTHa s hermitage"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चपञ्चाशः सर्गः॥ ५५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें पचपनवाँ सर्ग पूरा हुआ॥ ५५॥
 </details>
+

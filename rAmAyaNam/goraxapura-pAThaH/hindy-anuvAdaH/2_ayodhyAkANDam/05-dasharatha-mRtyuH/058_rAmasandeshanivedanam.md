@@ -4,11 +4,8 @@ title_english = "058 Sumantra delivers the messages of Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-058-Rama_Sandesha_Nivedanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-058-Rama_Sandesha_Nivedanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,7 +48,7 @@ title_english = "058 Sumantra delivers the messages of Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृद्धं परमसंतप्तं नवग्रहमिव द्विपम्।  
+वृद्धं परमसन्तप्तं नवग्रहमिव द्विपम्।  
 विनिःश्वसन्तं ध्यायन्तमस्वस्थमिव कुञ्जरम्॥ ३॥  
 राजा तु रजसा सूतं ध्वस्ताङ्गं समुपस्थितम्।  
 अश्रुपूर्णमुखं दीनमुवाच परमार्तवत्॥ ४॥
@@ -59,7 +56,7 @@ title_english = "058 Sumantra delivers the messages of Rama"
 
 <details><summary>मूलम्</summary>
 
-वृद्धं परमसंतप्तं नवग्रहमिव द्विपम्।  
+वृद्धं परमसन्तप्तं नवग्रहमिव द्विपम्।  
 विनिःश्वसन्तं ध्यायन्तमस्वस्थमिव कुञ्जरम्॥ ३॥  
 राजा तु रजसा सूतं ध्वस्ताङ्गं समुपस्थितम्।  
 अश्रुपूर्णमुखं दीनमुवाच परमार्तवत्॥ ४॥
@@ -383,13 +380,13 @@ title_english = "058 Sumantra delivers the messages of Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लक्ष्मणस्तु सुसंक्रुद्धो निःश्वसन् वाक्यमब्रवीत्।  
+लक्ष्मणस्तु सुसङ्क्रुद्धो निःश्वसन् वाक्यमब्रवीत्।  
 केनायमपराधेन राजपुत्रो विवासितः॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-लक्ष्मणस्तु सुसंक्रुद्धो निःश्वसन् वाक्यमब्रवीत्।  
+लक्ष्मणस्तु सुसङ्क्रुद्धो निःश्वसन् वाक्यमब्रवीत्।  
 केनायमपराधेन राजपुत्रो विवासितः॥ २६॥
 </details>
 
@@ -452,13 +449,13 @@ title_english = "058 Sumantra delivers the messages of Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 असमीक्ष्य समारब्धं विरुद्धं बुद्धिलाघवात्।  
-जनयिष्यति संक्रोशं राघवस्य विवासनम्॥३०॥
+जनयिष्यति सङ्क्रोशं राघवस्य विवासनम्॥३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 असमीक्ष्य समारब्धं विरुद्धं बुद्धिलाघवात्।  
-जनयिष्यति संक्रोशं राघवस्य विवासनम्॥३०॥
+जनयिष्यति सङ्क्रोशं राघवस्य विवासनम्॥३०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -537,13 +534,13 @@ title_english = "058 Sumantra delivers the messages of Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अदृष्टपूर्वव्यसना राजपुत्री यशस्विनी।  
-तेन दुःखेन रुदती नैव मां किंचिदब्रवीत्॥ ३५॥
+तेन दुःखेन रुदती नैव मां किञ्चिदब्रवीत्॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अदृष्टपूर्वव्यसना राजपुत्री यशस्विनी।  
-तेन दुःखेन रुदती नैव मां किंचिदब्रवीत्॥ ३५॥
+तेन दुःखेन रुदती नैव मां किञ्चिदब्रवीत्॥ ३५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -594,3 +591,4 @@ title_english = "058 Sumantra delivers the messages of Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डेऽष्टपञ्चाशः सर्गः॥ ५८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें अट्ठावनवाँ सर्ग पूरा हुआ॥ ५८॥
 </details>
+

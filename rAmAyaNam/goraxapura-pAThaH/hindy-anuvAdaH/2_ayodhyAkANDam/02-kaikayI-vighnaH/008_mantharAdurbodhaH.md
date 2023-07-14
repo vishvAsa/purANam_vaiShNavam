@@ -4,11 +4,8 @@ title_english = "008 Manthara s sinful words"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-008-Mandthara_Durbhodhaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-008-Mandthara_Durbhodhaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -256,13 +253,13 @@ title_english = "008 Manthara s sinful words"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातॄन् भृत्यांश्च दीर्घायुः पितृवत् पालयिष्यति।  
-संतप्यसे कथं कुब्जे श्रुत्वा रामाभिषेचनम्॥ १५॥
+सन्तप्यसे कथं कुब्जे श्रुत्वा रामाभिषेचनम्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 भ्रातॄन् भृत्यांश्च दीर्घायुः पितृवत् पालयिष्यति।  
-संतप्यसे कथं कुब्जे श्रुत्वा रामाभिषेचनम्॥ १५॥
+सन्तप्यसे कथं कुब्जे श्रुत्वा रामाभिषेचनम्॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -477,13 +474,13 @@ title_english = "008 Manthara s sinful words"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाल एव तु मातुल्यं भरतो नायितस्त्वया।  
-संनिकर्षाच्च सौहार्दं जायते स्थावरेष्विव॥ २८॥
+सन्निकर्षाच्च सौहार्दं जायते स्थावरेष्विव॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बाल एव तु मातुल्यं भरतो नायितस्त्वया।  
-संनिकर्षाच्च सौहार्दं जायते स्थावरेष्विव॥ २८॥
+सन्निकर्षाच्च सौहार्दं जायते स्थावरेष्विव॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -511,13 +508,13 @@ title_english = "008 Manthara s sinful words"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रूयते हि द्रुमः कश्चिच्छेत्तव्यो वनजीवनैः।  
-संनिकर्षादिषीकाभिर्मोचितः परमाद् भयात्॥ ३०॥
+सन्निकर्षादिषीकाभिर्मोचितः परमाद् भयात्॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 श्रूयते हि द्रुमः कश्चिच्छेत्तव्यो वनजीवनैः।  
-संनिकर्षादिषीकाभिर्मोचितः परमाद् भयात्॥ ३०॥
+सन्निकर्षादिषीकाभिर्मोचितः परमाद् भयात्॥ ३०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -544,13 +541,13 @@ title_english = "008 Manthara s sinful words"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मान्न लक्ष्मणे रामः पापं किंचित् करिष्यति।  
+तस्मान्न लक्ष्मणे रामः पापं किञ्चित् करिष्यति।  
 रामस्तु भरते पापं कुर्यादेव न संशयः॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मान्न लक्ष्मणे रामः पापं किंचित् करिष्यति।  
+तस्मान्न लक्ष्मणे रामः पापं किञ्चित् करिष्यति।  
 रामस्तु भरते पापं कुर्यादेव न संशयः॥ ३२॥
 </details>
 
@@ -669,7 +666,7 @@ title_english = "008 Manthara s sinful words"
 
 यदा हि रामः पृथिवीमवाप्स्यते  
 ध्रुवं प्रणष्टो भरतो भविष्यति।  
-अतो हि संचिन्तय राज्यमात्मजे  
+अतो हि सञ्चिन्तय राज्यमात्मजे  
 परस्य चैवास्य विवासकारणम्॥ ३९॥
 </details>
 
@@ -677,7 +674,7 @@ title_english = "008 Manthara s sinful words"
 
 यदा हि रामः पृथिवीमवाप्स्यते  
 ध्रुवं प्रणष्टो भरतो भविष्यति।  
-अतो हि संचिन्तय राज्यमात्मजे  
+अतो हि सञ्चिन्तय राज्यमात्मजे  
 परस्य चैवास्य विवासकारणम्॥ ३९॥
 </details>
 
@@ -691,3 +688,4 @@ title_english = "008 Manthara s sinful words"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डेऽष्टमः सर्गः॥ ८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें आठवाँ सर्ग पूरा हुआ॥ ८॥
 </details>
+

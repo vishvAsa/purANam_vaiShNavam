@@ -4,11 +4,8 @@ title_english = "055 Ravana entices Seetha to marry him"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-055-Sitaam_Prathi_Ravana_Darpookthihi.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-055-Sitaam_Prathi_Ravana_Darpookthihi.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "055 Ravana entices Seetha to marry him"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संदिश्य राक्षसान् घोरान् रावणोऽष्टौ महाबलान्।  
+सन्दिश्य राक्षसान् घोरान् रावणोऽष्टौ महाबलान्।  
 आत्मानं बुद्धिवैक्लव्यात् कृत्कृत्यममन्यत॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संदिश्य राक्षसान् घोरान् रावणोऽष्टौ महाबलान्।  
+सन्दिश्य राक्षसान् घोरान् रावणोऽष्टौ महाबलान्।  
 आत्मानं बुद्धिवैक्लव्यात् कृत्कृत्यममन्यत॥ १॥
 </details>
 
@@ -457,7 +454,7 @@ title_english = "055 Ravana entices Seetha to marry him"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुष्पकं नाम सुश्रोणि भ्रातुर्वैश्रवणस्य मे॥ २९॥  
-विमानं सूर्यसंकाशं तरसा निर्जितं रणे।  
+विमानं सूर्यसङ्काशं तरसा निर्जितं रणे।  
 विशालं रमणीयं च तद्विमानं मनोजवम्॥ ३०॥  
 तत्र सीते मया सार्धं विहरस्व यथासुखम्।
 </details>
@@ -465,7 +462,7 @@ title_english = "055 Ravana entices Seetha to marry him"
 <details><summary>मूलम्</summary>
 
 पुष्पकं नाम सुश्रोणि भ्रातुर्वैश्रवणस्य मे॥ २९॥  
-विमानं सूर्यसंकाशं तरसा निर्जितं रणे।  
+विमानं सूर्यसङ्काशं तरसा निर्जितं रणे।  
 विशालं रमणीयं च तद्विमानं मनोजवम्॥ ३०॥  
 तत्र सीते मया सार्धं विहरस्व यथासुखम्।
 </details>
@@ -477,13 +474,13 @@ title_english = "055 Ravana entices Seetha to marry him"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वदनं पद्मसंकाशं विमलं चारुदर्शनम्॥ ३१॥  
+वदनं पद्मसङ्काशं विमलं चारुदर्शनम्॥ ३१॥  
 शोकार्तं तु वरारोहे न भ्राजति वरानने।
 </details>
 
 <details><summary>मूलम्</summary>
 
-वदनं पद्मसंकाशं विमलं चारुदर्शनम्॥ ३१॥  
+वदनं पद्मसङ्काशं विमलं चारुदर्शनम्॥ ३१॥  
 शोकार्तं तु वरारोहे न भ्राजति वरानने।
 </details>
 
@@ -568,13 +565,13 @@ title_english = "055 Ravana entices Seetha to marry him"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इमाः शून्या मया वाचः शुष्यमाणेन भाषिताः॥ ३६॥  
-न चापि रावणः कांचिन्मूर्ध्ना स्त्रीं प्रणमेत ह।
+न चापि रावणः काञ्चिन्मूर्ध्ना स्त्रीं प्रणमेत ह।
 </details>
 
 <details><summary>मूलम्</summary>
 
 इमाः शून्या मया वाचः शुष्यमाणेन भाषिताः॥ ३६॥  
-न चापि रावणः कांचिन्मूर्ध्ना स्त्रीं प्रणमेत ह।
+न चापि रावणः काञ्चिन्मूर्ध्ना स्त्रीं प्रणमेत ह।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -604,3 +601,4 @@ title_english = "055 Ravana entices Seetha to marry him"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे पञ्चपञ्चाशः सर्गः॥ ५५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें पचपनवाँ सर्ग पूरा हुआ॥ ५५॥
 </details>
+

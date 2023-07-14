@@ -4,11 +4,8 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-011-Agastya_Mahathyam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-011-Agastya_Mahathyam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -102,14 +99,14 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पद्मपुष्करसम्बाधं गजयूथैरलंकृतम्।  
-सारसैर्हंसकादम्बैः संकुलं जलजातिभिः॥ ६॥
+पद्मपुष्करसम्बाधं गजयूथैरलङ्कृतम्।  
+सारसैर्हंसकादम्बैः सङ्कुलं जलजातिभिः॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पद्मपुष्करसम्बाधं गजयूथैरलंकृतम्।  
-सारसैर्हंसकादम्बैः संकुलं जलजातिभिः॥ ६॥
+पद्मपुष्करसम्बाधं गजयूथैरलङ्कृतम्।  
+सारसैर्हंसकादम्बैः सङ्कुलं जलजातिभिः॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -323,13 +320,13 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तासां संक्रीडमानानामेष वादित्रनिःस्वनः।  
+तासां सङ्क्रीडमानानामेष वादित्रनिःस्वनः।  
 श्रूयते भूषणोन्मिश्रो गीतशब्दो मनोहरः॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तासां संक्रीडमानानामेष वादित्रनिःस्वनः।  
+तासां सङ्क्रीडमानानामेष वादित्रनिःस्वनः।  
 श्रूयते भूषणोन्मिश्रो गीतशब्दो मनोहरः॥ १९॥
 </details>
 
@@ -466,13 +463,13 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तमाश्रममागम्य मुनिभिः परिपूजितः॥ २८॥  
-तत्रापि न्यवसद् रामः किंचित् कालमरिंदमः।
+तत्रापि न्यवसद् रामः किञ्चित् कालमरिन्दमः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 स तमाश्रममागम्य मुनिभिः परिपूजितः॥ २८॥  
-तत्रापि न्यवसद् रामः किंचित् कालमरिंदमः।
+तत्रापि न्यवसद् रामः किञ्चित् कालमरिन्दमः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -689,13 +686,13 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पश्यन् वनानि चित्राणि पर्वतांश्चाभ्रसंनिभान्।  
+पश्यन् वनानि चित्राणि पर्वतांश्चाभ्रसन्निभान्।  
 सरांसि सरितश्चैव पथि मार्गवशानुगान्॥ ४५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पश्यन् वनानि चित्राणि पर्वतांश्चाभ्रसंनिभान्।  
+पश्यन् वनानि चित्राणि पर्वतांश्चाभ्रसन्निभान्।  
 सरांसि सरितश्चैव पथि मार्गवशानुगान्॥ ४५॥
 </details>
 
@@ -741,13 +738,13 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा हीमे वनस्यास्य ज्ञाताः पथि सहस्रशः।  
-संनताः फलभारेण पुष्पभारेण च द्रुमाः॥ ४८॥
+सन्नताः फलभारेण पुष्पभारेण च द्रुमाः॥ ४८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यथा हीमे वनस्यास्य ज्ञाताः पथि सहस्रशः।  
-संनताः फलभारेण पुष्पभारेण च द्रुमाः॥ ४८॥
+सन्नताः फलभारेण पुष्पभारेण च द्रुमाः॥ ४८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -774,13 +771,13 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र तत्र च दृश्यन्ते संक्षिप्ताः काष्ठसंचयाः।  
+तत्र तत्र च दृश्यन्ते सङ्क्षिप्ताः काष्ठसञ्चयाः।  
 लूनाश्च परिदृश्यन्ते दर्भा वैदूर्यवर्चसः॥ ५०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तत्र तत्र च दृश्यन्ते संक्षिप्ताः काष्ठसंचयाः।  
+तत्र तत्र च दृश्यन्ते सङ्क्षिप्ताः काष्ठसञ्चयाः।  
 लूनाश्च परिदृश्यन्ते दर्भा वैदूर्यवर्चसः॥ ५०॥
 </details>
 
@@ -1068,13 +1065,13 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं कथयमानस्य तस्य सौमित्रिणा सह।  
-रामस्यास्तं गतः सूर्यः संध्याकालोऽभ्यवर्तत॥ ६८॥
+रामस्यास्तं गतः सूर्यः सन्ध्याकालोऽभ्यवर्तत॥ ६८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवं कथयमानस्य तस्य सौमित्रिणा सह।  
-रामस्यास्तं गतः सूर्यः संध्याकालोऽभ्यवर्तत॥ ६८॥
+रामस्यास्तं गतः सूर्यः सन्ध्याकालोऽभ्यवर्तत॥ ६८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1084,13 +1081,13 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपास्य पश्चिमां संध्यां सह भ्रात्रा यथाविधि।  
+उपास्य पश्चिमां सन्ध्यां सह भ्रात्रा यथाविधि।  
 प्रविवेशाश्रमपदं तमृषिं चाभ्यवादयत्॥ ६९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपास्य पश्चिमां संध्यां सह भ्रात्रा यथाविधि।  
+उपास्य पश्चिमां सन्ध्यां सह भ्रात्रा यथाविधि।  
 प्रविवेशाश्रमपदं तमृषिं चाभ्यवादयत्॥ ६९॥
 </details>
 
@@ -1323,13 +1320,13 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मार्गं निरोद‍्धुं सततं भास्करस्याचलोत्तमः।  
-संदेशं पालयंस्तस्य विन्ध्यशैलो न वर्धते॥ ८५॥
+सन्देशं पालयंस्तस्य विन्ध्यशैलो न वर्धते॥ ८५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मार्गं निरोद‍्धुं सततं भास्करस्याचलोत्तमः।  
-संदेशं पालयंस्तस्य विन्ध्यशैलो न वर्धते॥ ८५॥
+सन्देशं पालयंस्तस्य विन्ध्यशैलो न वर्धते॥ ८५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1441,13 +1438,13 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्र सिद्धा महात्मानो विमानैः सूर्यसंनिभैः।  
+अत्र सिद्धा महात्मानो विमानैः सूर्यसन्निभैः।  
 त्यक्त्वा देहान् नवैर्देहैः स्वर्याताः परमर्षयः॥ ९२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अत्र सिद्धा महात्मानो विमानैः सूर्यसंनिभैः।  
+अत्र सिद्धा महात्मानो विमानैः सूर्यसन्निभैः।  
 त्यक्त्वा देहान् नवैर्देहैः स्वर्याताः परमर्षयः॥ ९२॥
 </details>
 
@@ -1495,3 +1492,4 @@ title_english = "011 Stories of Sages Mandakarani and Agastya"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे एकादशः सर्गः॥ ११॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें ग्यारहवाँ सर्ग पूरा हुआ॥ ११॥
 </details>
+

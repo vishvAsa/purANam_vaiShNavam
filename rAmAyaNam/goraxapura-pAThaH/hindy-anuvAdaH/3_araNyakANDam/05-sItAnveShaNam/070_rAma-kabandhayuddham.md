@@ -4,11 +4,8 @@ title_english = "070 Kabandha s overlong arms are cut off"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-070-Kabandhena_Saha_Yudhdham.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-070-Kabandhena_Saha_Yudhdham.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "070 Kabandha s overlong arms are cut off"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तिष्ठतः किं नु मां दृष्ट्वा क्षुधार्तं क्षत्रियर्षभौ।  
-आहारार्थं तु संदिष्टौ दैवेन हतचेतनौ॥ २॥
+आहारार्थं तु सन्दिष्टौ दैवेन हतचेतनौ॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तिष्ठतः किं नु मां दृष्ट्वा क्षुधार्तं क्षत्रियर्षभौ।  
-आहारार्थं तु संदिष्टौ दैवेन हतचेतनौ॥ २॥
+आहारार्थं तु सन्दिष्टौ दैवेन हतचेतनौ॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -119,13 +116,13 @@ title_english = "070 Kabandha s overlong arms are cut off"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतत् संजल्पितं श्रुत्वा तयोः क्रुद्धस्तु राक्षसः।  
+एतत् सञ्जल्पितं श्रुत्वा तयोः क्रुद्धस्तु राक्षसः।  
 विदार्यास्यं ततो रौद्रं तौ भक्षयितुमारभत्॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एतत् संजल्पितं श्रुत्वा तयोः क्रुद्धस्तु राक्षसः।  
+एतत् सञ्जल्पितं श्रुत्वा तयोः क्रुद्धस्तु राक्षसः।  
 विदार्यास्यं ततो रौद्रं तौ भक्षयितुमारभत्॥ ७॥
 </details>
 
@@ -330,3 +327,4 @@ title_english = "070 Kabandha s overlong arms are cut off"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे सप्ततितमः सर्गः॥ ७०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें सत्तरवाँ सर्ग पूरा हुआ॥ ७०॥
 </details>
+

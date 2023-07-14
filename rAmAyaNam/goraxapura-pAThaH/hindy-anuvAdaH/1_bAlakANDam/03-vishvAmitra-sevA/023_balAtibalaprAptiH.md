@@ -4,11 +4,8 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-023-Balaathi_balaa_Prapthihi.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-023-Balaathi_balaa_Prapthihi.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कौसल्या सुप्रजा राम पूर्वा संध्या प्रवर्तते।  
+कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते।  
 उत्तिष्ठ नरशार्दूल कर्तव्यं दैवमाह्निकम्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कौसल्या सुप्रजा राम पूर्वा संध्या प्रवर्तते।  
+कौसल्या सुप्रजा राम पूर्वा सन्ध्या प्रवर्तते।  
 उत्तिष्ठ नरशार्दूल कर्तव्यं दैवमाह्निकम्॥ २॥
 </details>
 
@@ -86,13 +83,13 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ प्रयान्तौ महावीर्यौ दिव्यां त्रिपथगां नदीम्।  
-ददृशाते ततस्तत्र सरय्वाः संगमे शुभे॥ ५॥
+ददृशाते ततस्तत्र सरय्वाः सङ्गमे शुभे॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तौ प्रयान्तौ महावीर्यौ दिव्यां त्रिपथगां नदीम्।  
-ददृशाते ततस्तत्र सरय्वाः संगमे शुभे॥ ५॥
+ददृशाते ततस्तत्र सरय्वाः सङ्गमे शुभे॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -153,13 +150,13 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तयोस्तद् वचनं श्रुत्वा प्रहस्य मुनिपुंगवः।  
+तयोस्तद् वचनं श्रुत्वा प्रहस्य मुनिपुङ्गवः।  
 अब्रवीच्छ्रूयतां राम यस्यायं पूर्व आश्रमः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तयोस्तद् वचनं श्रुत्वा प्रहस्य मुनिपुंगवः।  
+तयोस्तद् वचनं श्रुत्वा प्रहस्य मुनिपुङ्गवः।  
 अब्रवीच्छ्रूयतां राम यस्यायं पूर्व आश्रमः॥ ९॥
 </details>
 
@@ -188,13 +185,13 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतोद्वाहं तु देवेशं गच्छन्तं समरुद्‍गणम्।  
-धर्षयामास दुर्मेधा हुंकृतश्च महात्मना॥ ११॥
+धर्षयामास दुर्मेधा हुङ्कृतश्च महात्मना॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कृतोद्वाहं तु देवेशं गच्छन्तं समरुद्‍गणम्।  
-धर्षयामास दुर्मेधा हुंकृतश्च महात्मना॥ ११॥
+धर्षयामास दुर्मेधा हुङ्कृतश्च महात्मना॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -238,14 +235,14 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनंग इति विख्यातस्तदाप्रभृति राघव।  
-स चांगविषयः श्रीमान् यत्रांगं स मुमोच ह॥ १४॥
+अनङ्ग इति विख्यातस्तदाप्रभृति राघव।  
+स चाङ्गविषयः श्रीमान् यत्राङ्गं स मुमोच ह॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अनंग इति विख्यातस्तदाप्रभृति राघव।  
-स चांगविषयः श्रीमान् यत्रांगं स मुमोच ह॥ १४॥
+अनङ्ग इति विख्यातस्तदाप्रभृति राघव।  
+स चाङ्गविषयः श्रीमान् यत्राङ्गं स मुमोच ह॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -343,13 +340,13 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सत्कारं समनुप्राप्य कथाभिरभिरञ्जयन्॥ २०॥  
-यथार्हमजपन् संध्यामृषयस्ते समाहिताः।
+यथार्हमजपन् सन्ध्यामृषयस्ते समाहिताः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 सत्कारं समनुप्राप्य कथाभिरभिरञ्जयन्॥ २०॥  
-यथार्हमजपन् संध्यामृषयस्ते समाहिताः।
+यथार्हमजपन् सन्ध्यामृषयस्ते समाहिताः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -377,13 +374,13 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथाभिरभिरामाभिरभिरामौ नृपात्मजौ।  
-रमयामास धर्मात्मा कौशिको मुनिपुंगवः॥ २२॥
+रमयामास धर्मात्मा कौशिको मुनिपुङ्गवः॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कथाभिरभिरामाभिरभिरामौ नृपात्मजौ।  
-रमयामास धर्मात्मा कौशिको मुनिपुंगवः॥ २२॥
+रमयामास धर्मात्मा कौशिको मुनिपुङ्गवः॥ २२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -396,3 +393,4 @@ title_english = "023 Their sojourn at the confluence of the rivers ganga and sar
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रयोविंशः सर्गः॥ २३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें तेईसवाँ सर्ग पूरा हुआ॥ २३॥
 </details>
+

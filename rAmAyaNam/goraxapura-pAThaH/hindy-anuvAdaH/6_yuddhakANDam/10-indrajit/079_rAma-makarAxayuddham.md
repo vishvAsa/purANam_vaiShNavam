@@ -4,11 +4,8 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-079-Makaraksha_challenges_Rama_to_fight_with_him_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-079-Makaraksha_challenges_Rama_to_fight_with_him_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निर्गतं मकराक्षं ते दृष्ट्वा वानरपुंगवाः।  
+निर्गतं मकराक्षं ते दृष्ट्वा वानरपुङ्गवाः।  
 आप्लुत्य सहसा सर्वे योद्धुकामा व्यवस्थिताः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-निर्गतं मकराक्षं ते दृष्ट्वा वानरपुंगवाः।  
+निर्गतं मकराक्षं ते दृष्ट्वा वानरपुङ्गवाः।  
 आप्लुत्य सहसा सर्वे योद्धुकामा व्यवस्थिताः॥ १॥
 </details>
 
@@ -35,13 +32,13 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रवृत्तं सुमहत् तद् युद्धं लोमहर्षणम्।  
-निशाचरैः प्लवंगानां देवानां दानवैरिव॥ २॥
+निशाचरैः प्लवङ्गानां देवानां दानवैरिव॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः प्रवृत्तं सुमहत् तद् युद्धं लोमहर्षणम्।  
-निशाचरैः प्लवंगानां देवानां दानवैरिव॥ २॥
+निशाचरैः प्लवङ्गानां देवानां दानवैरिव॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -209,13 +206,13 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्यासि दर्शनं राम मम त्वं प्राप्तवानिह।  
-कांक्षितोऽसि क्षुधार्तस्य सिंहस्येवेतरो मृगः॥ १३॥
+काङ्क्षितोऽसि क्षुधार्तस्य सिंहस्येवेतरो मृगः॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दिष्ट्यासि दर्शनं राम मम त्वं प्राप्तवानिह।  
-कांक्षितोऽसि क्षुधार्तस्य सिंहस्येवेतरो मृगः॥ १३॥
+काङ्क्षितोऽसि क्षुधार्तस्य सिंहस्येवेतरो मृगः॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -399,13 +396,13 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवदानवगन्धर्वाः किंनराश्च महोरगाः।  
+देवदानवगन्धर्वाः किन्नराश्च महोरगाः।  
 अन्तरिक्षगताः सर्वे द्रष्टुकामास्तदद्भुतम्॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-देवदानवगन्धर्वाः किंनराश्च महोरगाः।  
+देवदानवगन्धर्वाः किन्नराश्च महोरगाः।  
 अन्तरिक्षगताः सर्वे द्रष्टुकामास्तदद्भुतम्॥ २५॥
 </details>
 
@@ -451,13 +448,13 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाणौघवितताः सर्वा दिशश्च प्रदिशस्तथा।  
-संछन्ना वसुधा चैव समन्तान्न प्रकाशते॥ २८॥
+सञ्छन्ना वसुधा चैव समन्तान्न प्रकाशते॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बाणौघवितताः सर्वा दिशश्च प्रदिशस्तथा।  
-संछन्ना वसुधा चैव समन्तान्न प्रकाशते॥ २८॥
+सञ्छन्ना वसुधा चैव समन्तान्न प्रकाशते॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -518,13 +515,13 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दुरवापं महच्छूलं रुद्रदत्तं भयंकरम्।  
+दुरवापं महच्छूलं रुद्रदत्तं भयङ्करम्।  
 जाज्वल्यमानमाकाशे संहारास्त्रमिवापरम्॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-दुरवापं महच्छूलं रुद्रदत्तं भयंकरम्।  
+दुरवापं महच्छूलं रुद्रदत्तं भयङ्करम्।  
 जाज्वल्यमानमाकाशे संहारास्त्रमिवापरम्॥ ३२॥
 </details>
 
@@ -623,13 +620,13 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तं दृष्ट्वा पतन्तं तु प्रहस्य रघुनन्दनः।  
-पावकास्त्रं ततो रामः संदधे तु शरासने॥ ३८॥
+पावकास्त्रं ततो रामः सन्दधे तु शरासने॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स तं दृष्ट्वा पतन्तं तु प्रहस्य रघुनन्दनः।  
-पावकास्त्रं ततो रामः संदधे तु शरासने॥ ३८॥
+पावकास्त्रं ततो रामः सन्दधे तु शरासने॥ ३८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -640,13 +637,13 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेनास्त्रेण हतं रक्षः काकुत्स्थेन तदा रणे।  
-संछिन्नहृदयं तत्र पपात च ममार च॥ ३९॥
+सञ्छिन्नहृदयं तत्र पपात च ममार च॥ ३९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तेनास्त्रेण हतं रक्षः काकुत्स्थेन तदा रणे।  
-संछिन्नहृदयं तत्र पपात च ममार च॥ ३९॥
+सञ्छिन्नहृदयं तत्र पपात च ममार च॥ ३९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -697,3 +694,4 @@ title_english = "079 Makaraksha challenges Rama to fight with him"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकोनाशीतितमः सर्गः॥ ७९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें उन्नासीवाँ सर्ग पूरा हुआ॥ ७९॥
 </details>
+

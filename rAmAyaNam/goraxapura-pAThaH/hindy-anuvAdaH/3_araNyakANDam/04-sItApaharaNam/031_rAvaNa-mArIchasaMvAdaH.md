@@ -4,11 +4,8 @@ title_english = "031 Akampana s repot to Ravana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-031-Ravana_Maaricha_Samvadhaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-031-Ravana_Maaricha_Samvadhaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "031 Akampana s repot to Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनस्थानस्थिता राजन् राक्षसा बहवो हताः।  
-खरश्च निहतः संख्ये कथंचिदहमागतः॥ २॥
+खरश्च निहतः सङ्ख्ये कथञ्चिदहमागतः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 जनस्थानस्थिता राजन् राक्षसा बहवो हताः।  
-खरश्च निहतः संख्ये कथंचिदहमागतः॥ २॥
+खरश्च निहतः सङ्ख्ये कथञ्चिदहमागतः॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -120,13 +117,13 @@ title_english = "031 Akampana s repot to Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वातस्य तरसा वेगं निहन्तुमपि चोत्सहे।  
-दहेयमपि संक्रुद्धस्तेजसाऽऽदित्यपावकौ॥ ७॥
+दहेयमपि सङ्क्रुद्धस्तेजसाऽऽदित्यपावकौ॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 वातस्य तरसा वेगं निहन्तुमपि चोत्सहे।  
-दहेयमपि संक्रुद्धस्तेजसाऽऽदित्यपावकौ॥ ७॥
+दहेयमपि सङ्क्रुद्धस्तेजसाऽऽदित्यपावकौ॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -137,13 +134,13 @@ title_english = "031 Akampana s repot to Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथा क्रुद्धं दशग्रीवं कृताञ्जलिरकम्पनः।  
-भयात् संदिग्धया वाचा रावणं याचतेऽभयम्॥ ८॥
+भयात् सन्दिग्धया वाचा रावणं याचतेऽभयम्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तथा क्रुद्धं दशग्रीवं कृताञ्जलिरकम्पनः।  
-भयात् संदिग्धया वाचा रावणं याचतेऽभयम्॥ ८॥
+भयात् सन्दिग्धया वाचा रावणं याचतेऽभयम्॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -154,13 +151,13 @@ title_english = "031 Akampana s repot to Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दशग्रीवोऽभयं तस्मै प्रददौ रक्षसां वरः।  
-स विस्रब्धोऽब्रवीद् वाक्यमसंदिग्धमकम्पनः॥ ९॥
+स विस्रब्धोऽब्रवीद् वाक्यमसन्दिग्धमकम्पनः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दशग्रीवोऽभयं तस्मै प्रददौ रक्षसां वरः।  
-स विस्रब्धोऽब्रवीद् वाक्यमसंदिग्धमकम्पनः॥ ९॥
+स विस्रब्धोऽब्रवीद् वाक्यमसन्दिग्धमकम्पनः॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -764,7 +761,7 @@ title_english = "031 Akampana s repot to Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-असौ रणान्तःस्थितिसंधिवालो  
+असौ रणान्तःस्थितिसन्धिवालो  
 विदग्धरक्षोमृगहा नृसिंहः।  
 सुप्तस्त्वया बोधयितुं न शक्यः  
 शराङ्गपूर्णो निशितासिदंष्ट्रः॥ ४७॥
@@ -772,7 +769,7 @@ title_english = "031 Akampana s repot to Ravana"
 
 <details><summary>मूलम्</summary>
 
-असौ रणान्तःस्थितिसंधिवालो  
+असौ रणान्तःस्थितिसन्धिवालो  
 विदग्धरक्षोमृगहा नृसिंहः।  
 सुप्तस्त्वया बोधयितुं न शक्यः  
 शराङ्गपूर्णो निशितासिदंष्ट्रः॥ ४७॥
@@ -847,3 +844,4 @@ title_english = "031 Akampana s repot to Ravana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे एकत्रिंशः सर्गः॥ ३१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें इकतीसवाँ सर्ग पूरा हुआ॥ ३१॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "052 Ravana orders Hanuma to be killed"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-051-Hanuma_narrates_the_story_of.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-051-Hanuma_narrates_the_story_of.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -259,7 +256,7 @@ title_english = "052 Ravana orders Hanuma to be killed"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैरूप्यमङ्गेषु कशाभिघातो  
-मौण्ड्यं तथा लक्षणसंनिपातः।  
+मौण्ड्यं तथा लक्षणसन्निपातः।  
 एतान् हि दूते प्रवदन्ति दण्डान्  
 वधस्तु दूतस्य न नः श्रुतोऽस्ति॥ १५॥
 </details>
@@ -267,7 +264,7 @@ title_english = "052 Ravana orders Hanuma to be killed"
 <details><summary>मूलम्</summary>
 
 वैरूप्यमङ्गेषु कशाभिघातो  
-मौण्ड्यं तथा लक्षणसंनिपातः।  
+मौण्ड्यं तथा लक्षणसन्निपातः।  
 एतान् हि दूते प्रवदन्ति दण्डान्  
 वधस्तु दूतस्य न नः श्रुतोऽस्ति॥ १५॥
 </details>
@@ -363,13 +360,13 @@ title_english = "052 Ravana orders Hanuma to be killed"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चाप्यस्य कपेर्घाते कंचित् पश्याम्यहं गुणम्।  
+न चाप्यस्य कपेर्घाते कञ्चित् पश्याम्यहं गुणम्।  
 तेष्वयं पात्यतां दण्डो यैरयं प्रेषितः कपिः॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न चाप्यस्य कपेर्घाते कंचित् पश्याम्यहं गुणम्।  
+न चाप्यस्य कपेर्घाते कञ्चित् पश्याम्यहं गुणम्।  
 तेष्वयं पात्यतां दण्डो यैरयं प्रेषितः कपिः॥ २०॥
 </details>
 
@@ -414,13 +411,13 @@ title_english = "052 Ravana orders Hanuma to be killed"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मान्नास्य वधे यत्नः कार्यः परपुरंजय।  
+तस्मान्नास्य वधे यत्नः कार्यः परपुरञ्जय।  
 भवान् सेन्द्रेषु देवेषु यत्नमास्थातुमर्हति॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मान्नास्य वधे यत्नः कार्यः परपुरंजय।  
+तस्मान्नास्य वधे यत्नः कार्यः परपुरञ्जय।  
 भवान् सेन्द्रेषु देवेषु यत्नमास्थातुमर्हति॥ २३॥
 </details>
 
@@ -526,3 +523,4 @@ title_english = "052 Ravana orders Hanuma to be killed"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे द्विपञ्चाशः सर्गः॥ ५२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें बावनवाँ सर्ग पूरा हुआ॥ ५२॥
 </details>
+

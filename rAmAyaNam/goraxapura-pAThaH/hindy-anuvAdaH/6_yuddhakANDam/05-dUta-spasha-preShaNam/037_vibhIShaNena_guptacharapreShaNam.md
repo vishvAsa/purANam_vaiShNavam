@@ -4,11 +4,8 @@ title_english = "037 Vibhishana sends spies into Lanka"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-037-Vibhishana_sends_spies_into_Lanka_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-037-Vibhishana_sends_spies_into_Lanka_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -60,13 +57,13 @@ title_english = "037 Vibhishana sends spies into Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कार्यसिद्धिं पुरस्कृत्य मन्त्रयध्वं विनिर्णये।  
-नित्यं संनिहितो यत्र रावणो राक्षसाधिपः॥ ५॥
+नित्यं सन्निहितो यत्र रावणो राक्षसाधिपः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कार्यसिद्धिं पुरस्कृत्य मन्त्रयध्वं विनिर्णये।  
-नित्यं संनिहितो यत्र रावणो राक्षसाधिपः॥ ५॥
+नित्यं सन्निहितो यत्र रावणो राक्षसाधिपः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -445,7 +442,7 @@ title_english = "037 Vibhishana sends spies into Lanka"
 
 दैत्यदानवसङ्घानामृषीणां च महात्मनाम्।  
 विप्रकारप्रियः क्षुद्रो वरदानबलान्वितः॥ २९॥  
-परिक्रमति यः सर्वान् लोकान् संतापयन् प्रजाः।  
+परिक्रमति यः सर्वान् लोकान् सन्तापयन् प्रजाः।  
 तस्याहं राक्षसेन्द्रस्य स्वयमेव वधे धृतः॥ ३०॥  
 उत्तरं नगरद्वारमहं सौमित्रिणा सह।  
 निपीड्याभिप्रवेक्ष्यामि सबलो यत्र रावणः॥ ३१॥
@@ -455,7 +452,7 @@ title_english = "037 Vibhishana sends spies into Lanka"
 
 दैत्यदानवसङ्घानामृषीणां च महात्मनाम्।  
 विप्रकारप्रियः क्षुद्रो वरदानबलान्वितः॥ २९॥  
-परिक्रमति यः सर्वान् लोकान् संतापयन् प्रजाः।  
+परिक्रमति यः सर्वान् लोकान् सन्तापयन् प्रजाः।  
 तस्याहं राक्षसेन्द्रस्य स्वयमेव वधे धृतः॥ ३०॥  
 उत्तरं नगरद्वारमहं सौमित्रिणा सह।  
 निपीड्याभिप्रवेक्ष्यामि सबलो यत्र रावणः॥ ३१॥
@@ -486,13 +483,13 @@ title_english = "037 Vibhishana sends spies into Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न चैव मानुषं रूपं कार्यं हरिभिराहवे।  
-एषा भवतु नः संज्ञा युद्धेऽस्मिन् वानरे बले॥ ३३॥
+एषा भवतु नः सञ्ज्ञा युद्धेऽस्मिन् वानरे बले॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 न चैव मानुषं रूपं कार्यं हरिभिराहवे।  
-एषा भवतु नः संज्ञा युद्धेऽस्मिन् वानरे बले॥ ३३॥
+एषा भवतु नः सञ्ज्ञा युद्धेऽस्मिन् वानरे बले॥ ३३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -579,3 +576,4 @@ title_english = "037 Vibhishana sends spies into Lanka"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे सप्तत्रिंशः सर्गः॥ ३७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें सैंतीसवाँ सर्ग पूरा हुआ॥ ३७॥
 </details>
+

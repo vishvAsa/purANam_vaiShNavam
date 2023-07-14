@@ -4,11 +4,8 @@ title_english = "117 Rama decides to leave Chitrakuta Mountain"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-117-Athryaa_Shrama_Gamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-117-Athryaa_Shrama_Gamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -68,14 +65,14 @@ title_english = "117 Rama decides to leave Chitrakuta Mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मादन्यत्र गच्छाम इति संचिन्त्य राघवः।  
-प्रातिष्ठत स वैदेह्या लक्ष्मणेन च संगतः॥ ४॥
+तस्मादन्यत्र गच्छाम इति सञ्चिन्त्य राघवः।  
+प्रातिष्ठत स वैदेह्या लक्ष्मणेन च सङ्गतः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मादन्यत्र गच्छाम इति संचिन्त्य राघवः।  
-प्रातिष्ठत स वैदेह्या लक्ष्मणेन च संगतः॥ ४॥
+तस्मादन्यत्र गच्छाम इति सञ्चिन्त्य राघवः।  
+प्रातिष्ठत स वैदेह्या लक्ष्मणेन च सङ्गतः॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -143,7 +140,7 @@ title_english = "117 Rama decides to leave Chitrakuta Mountain"
 रामाय चाचचक्षे तां तापसीं धर्मचारिणीम्।  
 दश वर्षाण्यनावृष्ट्या दग्धे लोके निरन्तरम्॥ ९॥  
 यया मूलफले सृष्टे जाह्नवी च प्रवर्तिता।  
-उग्रेण तपसा युक्ता नियमैश्चाप्यलंकृता॥ १०॥  
+उग्रेण तपसा युक्ता नियमैश्चाप्यलङ्कृता॥ १०॥  
 दश वर्षसहस्राणि यया तप्तं महत् तपः।  
 अनसूयाव्रतैस्तात प्रत्यूहाश्च निबर्हिताः॥ ११॥
 </details>
@@ -153,7 +150,7 @@ title_english = "117 Rama decides to leave Chitrakuta Mountain"
 रामाय चाचचक्षे तां तापसीं धर्मचारिणीम्।  
 दश वर्षाण्यनावृष्ट्या दग्धे लोके निरन्तरम्॥ ९॥  
 यया मूलफले सृष्टे जाह्नवी च प्रवर्तिता।  
-उग्रेण तपसा युक्ता नियमैश्चाप्यलंकृता॥ १०॥  
+उग्रेण तपसा युक्ता नियमैश्चाप्यलङ्कृता॥ १०॥  
 दश वर्षसहस्राणि यया तप्तं महत् तपः।  
 अनसूयाव्रतैस्तात प्रत्यूहाश्च निबर्हिताः॥ ११॥
 </details>
@@ -165,13 +162,13 @@ title_english = "117 Rama decides to leave Chitrakuta Mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-देवकार्यनिमित्तं च यया संत्वरमाणया।  
+देवकार्यनिमित्तं च यया सन्त्वरमाणया।  
 दशरात्रं कृता रात्रिः सेयं मातेव तेऽनघ॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-देवकार्यनिमित्तं च यया संत्वरमाणया।  
+देवकार्यनिमित्तं च यया सन्त्वरमाणया।  
 दशरात्रं कृता रात्रिः सेयं मातेव तेऽनघ॥ १२॥
 </details>
 
@@ -478,3 +475,4 @@ title_english = "117 Rama decides to leave Chitrakuta Mountain"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्तदशाधिकशततमः सर्गः॥ ११७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ सत्रहवाँ सर्ग पूरा हुआ॥ ११७॥
 </details>
+

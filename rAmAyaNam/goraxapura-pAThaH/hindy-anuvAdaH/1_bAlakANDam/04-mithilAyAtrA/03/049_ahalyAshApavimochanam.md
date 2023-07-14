@@ -4,11 +4,8 @@ title_english = "049 Redemption of ahalya from her curse"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-049-_Ahalya_Shapa_Vimochanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-049-_Ahalya_Shapa_Vimochanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -241,7 +238,7 @@ title_english = "049 Redemption of ahalya from her curse"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयत्नान्निर्मितां धात्रा दिव्यां मायामयीमिव।  
-धूमेनाभिपरीतांगीं दीप्तामग्निशिखामिव॥ १४॥  
+धूमेनाभिपरीताङ्गीं दीप्तामग्निशिखामिव॥ १४॥  
 सतुषारावृतां साभ्रां पूर्णचन्द्रप्रभामिव।  
 मध्येऽम्भसो दुराधर्षां दीप्तां सूर्यप्रभामिव॥ १५॥
 </details>
@@ -249,7 +246,7 @@ title_english = "049 Redemption of ahalya from her curse"
 <details><summary>मूलम्</summary>
 
 प्रयत्नान्निर्मितां धात्रा दिव्यां मायामयीमिव।  
-धूमेनाभिपरीतांगीं दीप्तामग्निशिखामिव॥ १४॥  
+धूमेनाभिपरीताङ्गीं दीप्तामग्निशिखामिव॥ १४॥  
 सतुषारावृतां साभ्रां पूर्णचन्द्रप्रभामिव।  
 मध्येऽम्भसो दुराधर्षां दीप्तां सूर्यप्रभामिव॥ १५॥
 </details>
@@ -319,13 +316,13 @@ title_english = "049 Redemption of ahalya from her curse"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 साधु साध्विति देवास्तामहल्यां समपूजयन्।  
-तपोबलविशुद्धांगीं गौतमस्य वशानुगाम्॥ २०॥
+तपोबलविशुद्धाङ्गीं गौतमस्य वशानुगाम्॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 साधु साध्विति देवास्तामहल्यां समपूजयन्।  
-तपोबलविशुद्धांगीं गौतमस्य वशानुगाम्॥ २०॥
+तपोबलविशुद्धाङ्गीं गौतमस्य वशानुगाम्॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -372,3 +369,4 @@ title_english = "049 Redemption of ahalya from her curse"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकोनपञ्चाशः सर्गः॥ ४९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें उनचासवाँ सर्ग पूरा हुआ॥ ४९॥
 </details>
+

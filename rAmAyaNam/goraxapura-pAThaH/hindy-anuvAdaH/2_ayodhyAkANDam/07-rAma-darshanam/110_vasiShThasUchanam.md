@@ -4,11 +4,8 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-110-Vasista_Soochanam_.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-110-Vasista_Soochanam_.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वं सलिलमेवासीत् पृथिवी तत्र निर्मिता।  
-ततः समभवद् ब्रह्मा स्वयंभूर्दैवतैः सह॥ ३॥
+ततः समभवद् ब्रह्मा स्वयम्भूर्दैवतैः सह॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सर्वं सलिलमेवासीत् पृथिवी तत्र निर्मिता।  
-ततः समभवद् ब्रह्मा स्वयंभूर्दैवतैः सह॥ ३॥
+ततः समभवद् ब्रह्मा स्वयम्भूर्दैवतैः सह॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -68,13 +65,13 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स वराहस्ततो भूत्वा प्रोज्जहार वसुंधराम्।  
+स वराहस्ततो भूत्वा प्रोज्जहार वसुन्धराम्।  
 असृजच्च जगत् सर्वं सह पुत्रैः कृतात्मभिः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स वराहस्ततो भूत्वा प्रोज्जहार वसुंधराम्।  
+स वराहस्ततो भूत्वा प्रोज्जहार वसुन्धराम्।  
 असृजच्च जगत् सर्वं सह पुत्रैः कृतात्मभिः॥ ४॥
 </details>
 
@@ -86,13 +83,13 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आकाशप्रभवो ब्रह्मा शाश्वतो नित्य अव्ययः।  
-तस्मान्मरीचिः संजज्ञे मरीचेः कश्यपः सुतः॥ ५॥
+तस्मान्मरीचिः सञ्जज्ञे मरीचेः कश्यपः सुतः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 आकाशप्रभवो ब्रह्मा शाश्वतो नित्य अव्ययः।  
-तस्मान्मरीचिः संजज्ञे मरीचेः कश्यपः सुतः॥ ५॥
+तस्मान्मरीचिः सञ्जज्ञे मरीचेः कश्यपः सुतः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -238,14 +235,14 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मान्धातुस्तु महातेजाः सुसंधिरुदपद्यत।  
-सुसंधेरपि पुत्रौ द्वौ ध्रुवसंधिः प्रसेनजित्॥ १४॥
+मान्धातुस्तु महातेजाः सुसन्धिरुदपद्यत।  
+सुसन्धेरपि पुत्रौ द्वौ ध्रुवसन्धिः प्रसेनजित्॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मान्धातुस्तु महातेजाः सुसंधिरुदपद्यत।  
-सुसंधेरपि पुत्रौ द्वौ ध्रुवसंधिः प्रसेनजित्॥ १४॥
+मान्धातुस्तु महातेजाः सुसन्धिरुदपद्यत।  
+सुसन्धेरपि पुत्रौ द्वौ ध्रुवसन्धिः प्रसेनजित्॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -255,13 +252,13 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यशस्वी ध्रुवसंधेस्तु भरतो रिपुसूदनः।  
+यशस्वी ध्रुवसन्धेस्तु भरतो रिपुसूदनः।  
 भरतात् तु महाबाहोरसितो नाम जायत॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यशस्वी ध्रुवसंधेस्तु भरतो रिपुसूदनः।  
+यशस्वी ध्रुवसन्धेस्तु भरतो रिपुसूदनः।  
 भरतात् तु महाबाहोरसितो नाम जायत॥ १५॥
 </details>
 
@@ -308,7 +305,7 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 
 द्वे चास्य भार्ये गर्भिण्यौ बभूवतुरिति श्रुतिः।  
 तत्र चैका महाभागा भार्गवं देववर्चसम्॥ १८॥  
-ववन्दे पद्मपत्राक्षी कांक्षिणी पुत्रमुत्तमम्।  
+ववन्दे पद्मपत्राक्षी काङ्क्षिणी पुत्रमुत्तमम्।  
 एका गर्भविनाशाय सपत्न्यै गरलं ददौ॥ १९॥
 </details>
 
@@ -316,7 +313,7 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 
 द्वे चास्य भार्ये गर्भिण्यौ बभूवतुरिति श्रुतिः।  
 तत्र चैका महाभागा भार्गवं देववर्चसम्॥ १८॥  
-ववन्दे पद्मपत्राक्षी कांक्षिणी पुत्रमुत्तमम्।  
+ववन्दे पद्मपत्राक्षी काङ्क्षिणी पुत्रमुत्तमम्।  
 एका गर्भविनाशाय सपत्न्यै गरलं ददौ॥ १९॥
 </details>
 
@@ -434,13 +431,13 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अंशुमानपि पुत्रोऽभूदसमञ्जस्य वीर्यवान्।  
-दिलीपोंऽशुमतः पुत्रो दिलीपस्य भगीरथः॥ २७॥
+दिलीपोऽंशुमतः पुत्रो दिलीपस्य भगीरथः॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अंशुमानपि पुत्रोऽभूदसमञ्जस्य वीर्यवान्।  
-दिलीपोंऽशुमतः पुत्रो दिलीपस्य भगीरथः॥ २७॥
+दिलीपोऽंशुमतः पुत्रो दिलीपस्य भगीरथः॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -627,3 +624,4 @@ title_english = "110 Vasishta gives details of the creation of the world to Sri 
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे दशाधिकशततमः सर्गः॥ ११०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ दसवाँ सर्ग पूरा हुआ॥ ११०॥
 </details>
+

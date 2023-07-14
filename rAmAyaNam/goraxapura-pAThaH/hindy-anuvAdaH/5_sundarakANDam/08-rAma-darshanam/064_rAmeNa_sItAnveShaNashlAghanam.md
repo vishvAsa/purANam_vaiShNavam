@@ -4,11 +4,8 @@ title_english = "064 Hanuma apprises of the discovery of Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-063-Dadhimukha_reports_Madhuvana_destruction_to_Sugreeva.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-063-Dadhimukha_reports_Madhuvana_destruction_to_Sugreeva.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -212,14 +209,14 @@ title_english = "064 Hanuma apprises of the discovery of Seetha"
 
 शङ्के श्रुतोऽयं वृत्तान्तो रामेण हरियूथपाः॥ १३॥  
 अयं च हर्षादाख्याति तेन जानामि हेतुना।  
-तत् क्षमं नेह नः स्थातुं कृते कार्ये परंतपाः॥ १४॥
+तत् क्षमं नेह नः स्थातुं कृते कार्ये परन्तपाः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 शङ्के श्रुतोऽयं वृत्तान्तो रामेण हरियूथपाः॥ १३॥  
 अयं च हर्षादाख्याति तेन जानामि हेतुना।  
-तत् क्षमं नेह नः स्थातुं कृते कार्ये परंतपाः॥ १४॥
+तत् क्षमं नेह नः स्थातुं कृते कार्ये परन्तपाः॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -419,13 +416,13 @@ title_english = "064 Hanuma apprises of the discovery of Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदे समनुप्राप्ते सुग्रीवो वानरेश्वरः॥ २६॥  
-उवाच शोकसंतप्तं रामं कमललोचनम्।
+उवाच शोकसन्तप्तं रामं कमललोचनम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 अङ्गदे समनुप्राप्ते सुग्रीवो वानरेश्वरः॥ २६॥  
-उवाच शोकसंतप्तं रामं कमललोचनम्।
+उवाच शोकसन्तप्तं रामं कमललोचनम्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -506,13 +503,13 @@ title_english = "064 Hanuma apprises of the discovery of Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कौसल्या सुप्रजा राम समाश्वसिहि सुव्रत।  
-दृष्टा देवी न संदेहो न चान्येन हनूमता॥ ३२॥
+दृष्टा देवी न सन्देहो न चान्येन हनूमता॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कौसल्या सुप्रजा राम समाश्वसिहि सुव्रत।  
-दृष्टा देवी न संदेहो न चान्येन हनूमता॥ ३२॥
+दृष्टा देवी न सन्देहो न चान्येन हनूमता॥ ३२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -546,7 +543,7 @@ title_english = "064 Hanuma apprises of the discovery of Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मा भूश्चिन्तासमायुक्तः सम्प्रत्यमितविक्रम॥ ३५॥  
-यदा हि दर्पितोदग्राः संगताः काननौकसः।  
+यदा हि दर्पितोदग्राः सङ्गताः काननौकसः।  
 नैषामकृतकार्याणामीदृशः स्यादुपक्रमः॥ ३६॥  
 वनभङ्गेन जानामि मधूनां भक्षणेन च।
 </details>
@@ -554,7 +551,7 @@ title_english = "064 Hanuma apprises of the discovery of Seetha"
 <details><summary>मूलम्</summary>
 
 मा भूश्चिन्तासमायुक्तः सम्प्रत्यमितविक्रम॥ ३५॥  
-यदा हि दर्पितोदग्राः संगताः काननौकसः।  
+यदा हि दर्पितोदग्राः सङ्गताः काननौकसः।  
 नैषामकृतकार्याणामीदृशः स्यादुपक्रमः॥ ३६॥  
 वनभङ्गेन जानामि मधूनां भक्षणेन च।
 </details>
@@ -707,3 +704,4 @@ title_english = "064 Hanuma apprises of the discovery of Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे चतुःषष्टितमः सर्गः॥ ६४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें चौंसठवाँ सर्ग पूरा हुआ॥ ६४॥
 </details>
+

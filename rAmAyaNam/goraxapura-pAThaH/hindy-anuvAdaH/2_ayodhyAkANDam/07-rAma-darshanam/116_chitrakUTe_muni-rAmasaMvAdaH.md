@@ -4,11 +4,8 @@ title_english = "116 Rama notices anxiety among the sages who live in the vicini
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-116-Chitrakoote_Rushi_Rama_Samvadaha_.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-116-Chitrakoote_Rushi_Rama_Samvadaha_.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -85,13 +82,13 @@ title_english = "116 Rama notices anxiety among the sages who live in the vicini
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न कश्चिद् भगवन् किंचित् पूर्ववृत्तमिदं मयि।  
+न कश्चिद् भगवन् किञ्चित् पूर्ववृत्तमिदं मयि।  
 दृश्यते विकृतं येन विक्रियन्ते तपस्विनः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न कश्चिद् भगवन् किंचित् पूर्ववृत्तमिदं मयि।  
+न कश्चिद् भगवन् किञ्चित् पूर्ववृत्तमिदं मयि।  
 दृश्यते विकृतं येन विक्रियन्ते तपस्विनः॥ ५॥
 </details>
 
@@ -102,13 +99,13 @@ title_english = "116 Rama notices anxiety among the sages who live in the vicini
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रमादाच्चरितं किंचित् कच्चिन्नावरजस्य मे।  
+प्रमादाच्चरितं किञ्चित् कच्चिन्नावरजस्य मे।  
 लक्ष्मणस्यर्षिभिर्दृष्टं नानुरूपं महात्मनः॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्रमादाच्चरितं किंचित् कच्चिन्नावरजस्य मे।  
+प्रमादाच्चरितं किञ्चित् कच्चिन्नावरजस्य मे।  
 लक्ष्मणस्यर्षिभिर्दृष्टं नानुरूपं महात्मनः॥ ६॥
 </details>
 
@@ -348,13 +345,13 @@ title_english = "116 Rama notices anxiety among the sages who live in the vicini
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सकलत्रस्य संदेहो नित्यं युक्तस्य राघव।  
+सकलत्रस्य सन्देहो नित्यं युक्तस्य राघव।  
 समर्थस्यापि हि सतो वासो दुःखमिहाद्य ते॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सकलत्रस्य संदेहो नित्यं युक्तस्य राघव।  
+सकलत्रस्य सन्देहो नित्यं युक्तस्य राघव।  
 समर्थस्यापि हि सतो वासो दुःखमिहाद्य ते॥ २२॥
 </details>
 
@@ -444,3 +441,4 @@ title_english = "116 Rama notices anxiety among the sages who live in the vicini
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे षोडशाधिकशततमः सर्गः॥ ११६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ सोलहवाँ सर्ग पूरा हुआ॥ ११६॥
 </details>
+

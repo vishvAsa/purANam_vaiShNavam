@@ -4,11 +4,8 @@ title_english = "043 The duels arose between the monkeys and demons"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-043-The_duels_arose_between_the_monkeys_and_demons_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-043-The_duels_arose_between_the_monkeys_and_demons_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,7 +32,7 @@ title_english = "043 The duels arose between the monkeys and demons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते हयैः काञ्चनापीडैर्गजैश्चाग्निशिखोपमैः।  
-रथैश्चादित्यसंकाशैः कवचैश्च मनोरमैः॥ २॥  
+रथैश्चादित्यसङ्काशैः कवचैश्च मनोरमैः॥ २॥  
 निर्ययू राक्षसा वीरा नादयन्तो दिशो दश।  
 राक्षसा भीमकर्माणो रावणस्य जयैषिणः॥ ३॥
 </details>
@@ -43,7 +40,7 @@ title_english = "043 The duels arose between the monkeys and demons"
 <details><summary>मूलम्</summary>
 
 ते हयैः काञ्चनापीडैर्गजैश्चाग्निशिखोपमैः।  
-रथैश्चादित्यसंकाशैः कवचैश्च मनोरमैः॥ २॥  
+रथैश्चादित्यसङ्काशैः कवचैश्च मनोरमैः॥ २॥  
 निर्ययू राक्षसा वीरा नादयन्तो दिशो दश।  
 राक्षसा भीमकर्माणो रावणस्य जयैषिणः॥ ३॥
 </details>
@@ -123,13 +120,13 @@ title_english = "043 The duels arose between the monkeys and demons"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संगतस्तु महाक्रोधो राक्षसो रावणानुजः।  
+सङ्गतस्तु महाक्रोधो राक्षसो रावणानुजः।  
 समरे तीक्ष्णवेगेन शत्रुघ्नेन विभीषणः॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संगतस्तु महाक्रोधो राक्षसो रावणानुजः।  
+सङ्गतस्तु महाक्रोधो राक्षसो रावणानुजः।  
 समरे तीक्ष्णवेगेन शत्रुघ्नेन विभीषणः॥ ८॥
 </details>
 
@@ -157,14 +154,14 @@ title_english = "043 The duels arose between the monkeys and demons"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वानरेन्द्रस्तु सुग्रीवः प्रघसेन सुसंगतः।  
-संगतः समरे श्रीमान् विरूपाक्षेण लक्ष्मणः॥ १०॥
+वानरेन्द्रस्तु सुग्रीवः प्रघसेन सुसङ्गतः।  
+सङ्गतः समरे श्रीमान् विरूपाक्षेण लक्ष्मणः॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वानरेन्द्रस्तु सुग्रीवः प्रघसेन सुसंगतः।  
-संगतः समरे श्रीमान् विरूपाक्षेण लक्ष्मणः॥ १०॥
+वानरेन्द्रस्तु सुग्रीवः प्रघसेन सुसङ्गतः।  
+सङ्गतः समरे श्रीमान् विरूपाक्षेण लक्ष्मणः॥ १०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -175,13 +172,13 @@ title_english = "043 The duels arose between the monkeys and demons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निकेतुः सुदुर्धर्षो रश्मिकेतुश्च राक्षसः।  
-सुप्तघ्नो यज्ञकोपश्च रामेण सह संगताः॥ ११॥
+सुप्तघ्नो यज्ञकोपश्च रामेण सह सङ्गताः॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अग्निकेतुः सुदुर्धर्षो रश्मिकेतुश्च राक्षसः।  
-सुप्तघ्नो यज्ञकोपश्च रामेण सह संगताः॥ ११॥
+सुप्तघ्नो यज्ञकोपश्च रामेण सह सङ्गताः॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -277,13 +274,13 @@ title_english = "043 The duels arose between the monkeys and demons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हरिराक्षसदेहेभ्यः प्रभूताः केशशाद्वलाः।  
-शरीरसंघाटवहाः प्रसुस्रुः शोणतापगाः॥ १७॥
+शरीरसङ्घाटवहाः प्रसुस्रुः शोणतापगाः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 हरिराक्षसदेहेभ्यः प्रभूताः केशशाद्वलाः।  
-शरीरसंघाटवहाः प्रसुस्रुः शोणतापगाः॥ १७॥
+शरीरसङ्घाटवहाः प्रसुस्रुः शोणतापगाः॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -551,13 +548,13 @@ title_english = "043 The duels arose between the monkeys and demons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 द्विविदं वानरेन्द्रं तु द्रुमयोधिनमाहवे।  
-शरैरशनिसंकाशैः स विव्याधाशनिप्रभः॥ ३३॥
+शरैरशनिसङ्काशैः स विव्याधाशनिप्रभः॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 द्विविदं वानरेन्द्रं तु द्रुमयोधिनमाहवे।  
-शरैरशनिसंकाशैः स विव्याधाशनिप्रभः॥ ३३॥
+शरैरशनिसङ्काशैः स विव्याधाशनिप्रभः॥ ३३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -721,7 +718,7 @@ title_english = "043 The duels arose between the monkeys and demons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भल्लैश्चान्यैर्गदाभिश्च शक्तितोमरसायकैः।  
-अपविद्धैश्चापि रथैस्तथा सांग्रामिकैर्हयैः॥ ४३॥  
+अपविद्धैश्चापि रथैस्तथा साङ्ग्रामिकैर्हयैः॥ ४३॥  
 निहतैः कुञ्जरैर्मत्तैस्तथा वानरराक्षसैः।  
 चक्राक्षयुगदण्डैश्च भग्नैर्धरणिसंश्रितैः॥ ४४॥  
 बभूवायोधनं घोरं गोमायुगणसेवितम्।  
@@ -732,7 +729,7 @@ title_english = "043 The duels arose between the monkeys and demons"
 <details><summary>मूलम्</summary>
 
 भल्लैश्चान्यैर्गदाभिश्च शक्तितोमरसायकैः।  
-अपविद्धैश्चापि रथैस्तथा सांग्रामिकैर्हयैः॥ ४३॥  
+अपविद्धैश्चापि रथैस्तथा साङ्ग्रामिकैर्हयैः॥ ४३॥  
 निहतैः कुञ्जरैर्मत्तैस्तथा वानरराक्षसैः।  
 चक्राक्षयुगदण्डैश्च भग्नैर्धरणिसंश्रितैः॥ ४४॥  
 बभूवायोधनं घोरं गोमायुगणसेवितम्।  
@@ -776,3 +773,4 @@ title_english = "043 The duels arose between the monkeys and demons"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्रिचत्वारिंशः सर्गः॥ ४३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें तैंतालीसवाँ सर्ग पूरा हुआ॥ ४३॥
 </details>
+

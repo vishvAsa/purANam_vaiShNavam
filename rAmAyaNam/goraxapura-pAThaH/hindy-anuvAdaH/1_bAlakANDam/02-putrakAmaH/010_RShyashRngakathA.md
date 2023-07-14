@@ -4,11 +4,8 @@ title_english = "010 Rishyasringa enticed and brought from woods"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-010-Rushya_Shrunga_Kathaa.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-010-Rushya_Shrunga_Kathaa.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,14 +15,14 @@ title_english = "010 Rishyasringa enticed and brought from woods"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा।  
-यथर्ष्यशृंगस्त्वानीतो येनोपायेन मन्त्रिभिः।  
+यथर्ष्यशृङ्गस्त्वानीतो येनोपायेन मन्त्रिभिः।  
 तन्मे निगदितं सर्वं शृणु मे मन्त्रिभिः सह॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सुमन्त्रश्चोदितो राज्ञा प्रोवाचेदं वचस्तदा।  
-यथर्ष्यशृंगस्त्वानीतो येनोपायेन मन्त्रिभिः।  
+यथर्ष्यशृङ्गस्त्वानीतो येनोपायेन मन्त्रिभिः।  
 तन्मे निगदितं सर्वं शृणु मे मन्त्रिभिः सह॥ १॥
 </details>
 
@@ -53,13 +50,13 @@ title_english = "010 Rishyasringa enticed and brought from woods"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋष्यशृंगो वनचरस्तपःस्वाध्यायसंयुतः।  
+ऋष्यशृङ्गो वनचरस्तपःस्वाध्यायसंयुतः।  
 अनभिज्ञस्तु नारीणां विषयाणां सुखस्य च॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऋष्यशृंगो वनचरस्तपःस्वाध्यायसंयुतः।  
+ऋष्यशृङ्गो वनचरस्तपःस्वाध्यायसंयुतः।  
 अनभिज्ञस्तु नारीणां विषयाणां सुखस्य च॥ ३॥
 </details>
 
@@ -87,13 +84,13 @@ title_english = "010 Rishyasringa enticed and brought from woods"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलंकृताः।  
+गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलङ्कृताः।  
 प्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलंकृताः।  
+गणिकास्तत्र गच्छन्तु रूपवत्यः स्वलङ्कृताः।  
 प्रलोभ्य विविधोपायैरानेष्यन्तीह सत्कृताः॥ ५॥
 </details>
 
@@ -139,13 +136,13 @@ title_english = "010 Rishyasringa enticed and brought from woods"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋषेः पुत्रस्य धीरस्य नित्यमाश्रमवासिनः।  
-पितुः स नित्यसंतुष्टो नातिचक्राम चाश्रमात्॥ ८॥
+पितुः स नित्यसन्तुष्टो नातिचक्राम चाश्रमात्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ऋषेः पुत्रस्य धीरस्य नित्यमाश्रमवासिनः।  
-पितुः स नित्यसंतुष्टो नातिचक्राम चाश्रमात्॥ ८॥
+पितुः स नित्यसन्तुष्टो नातिचक्राम चाश्रमात्॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -173,13 +170,13 @@ title_english = "010 Rishyasringa enticed and brought from woods"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः कदाचित् तं देशमाजगाम यदृच्छया।  
-विभाण्डकसुतस्तत्र ताश्चापश्यद् वरांगनाः॥ १०॥
+विभाण्डकसुतस्तत्र ताश्चापश्यद् वराङ्गनाः॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः कदाचित् तं देशमाजगाम यदृच्छया।  
-विभाण्डकसुतस्तत्र ताश्चापश्यद् वरांगनाः॥ १०॥
+विभाण्डकसुतस्तत्र ताश्चापश्यद् वराङ्गनाः॥ १०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -241,13 +238,13 @@ title_english = "010 Rishyasringa enticed and brought from woods"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः।  
-ऋष्यशृंग इति ख्यातं नाम कर्म च मे भुवि॥ १४॥
+ऋष्यशृङ्ग इति ख्यातं नाम कर्म च मे भुवि॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पिता विभाण्डकोऽस्माकं तस्याहं सुत औरसः।  
-ऋष्यशृंग इति ख्यातं नाम कर्म च मे भुवि॥ १४॥
+ऋष्यशृङ्ग इति ख्यातं नाम कर्म च मे भुवि॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -412,14 +409,14 @@ title_english = "010 Rishyasringa enticed and brought from woods"
 
 ततोऽपरेद्युस्तं देशमाजगाम स वीर्यवान्।  
 विभाण्डकसुतः श्रीमान् मनसाचिन्तयन्मुहुः॥ २४॥  
-मनोज्ञा यत्र ता दृष्टा वारमुख्याः स्वलंकृताः।
+मनोज्ञा यत्र ता दृष्टा वारमुख्याः स्वलङ्कृताः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततोऽपरेद्युस्तं देशमाजगाम स वीर्यवान्।  
 विभाण्डकसुतः श्रीमान् मनसाचिन्तयन्मुहुः॥ २४॥  
-मनोज्ञा यत्र ता दृष्टा वारमुख्याः स्वलंकृताः।
+मनोज्ञा यत्र ता दृष्टा वारमुख्याः स्वलङ्कृताः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -465,13 +462,13 @@ title_english = "010 Rishyasringa enticed and brought from woods"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रुत्वा तु वचनं तासां सर्वासां हृदयंगमम्।  
+श्रुत्वा तु वचनं तासां सर्वासां हृदयङ्गमम्।  
 गमनाय मतिं चक्रे तं च निन्युस्तथा स्त्रियः॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-श्रुत्वा तु वचनं तासां सर्वासां हृदयंगमम्।  
+श्रुत्वा तु वचनं तासां सर्वासां हृदयङ्गमम्।  
 गमनाय मतिं चक्रे तं च निन्युस्तथा स्त्रियः॥ २८॥
 </details>
 
@@ -551,13 +548,13 @@ title_english = "010 Rishyasringa enticed and brought from woods"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं स न्यवसत् तत्र सर्वकामैः सुपूजितः।  
-ऋष्यशृंगो महातेजाः शान्तया सह भार्यया॥ ३३॥
+ऋष्यशृङ्गो महातेजाः शान्तया सह भार्यया॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवं स न्यवसत् तत्र सर्वकामैः सुपूजितः।  
-ऋष्यशृंगो महातेजाः शान्तया सह भार्यया॥ ३३॥
+ऋष्यशृङ्गो महातेजाः शान्तया सह भार्यया॥ ३३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -570,3 +567,4 @@ title_english = "010 Rishyasringa enticed and brought from woods"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे दशमः सर्गः॥ १०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें दसवाँ सर्ग पूरा हुआ॥ १०॥
 </details>
+

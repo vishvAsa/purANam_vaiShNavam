@@ -4,11 +4,8 @@ title_english = "016 Sugreeva s second fight and Vali s falling down"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-016-Vali_Vadhaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-016-Vali_Vadhaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -226,13 +223,13 @@ title_english = "016 Sugreeva s second fight and Vali s falling down"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स निःश्वस्य महारोषो वाली परमवेगवान्।  
-सर्वतश्चारयन् दृष्टिं शत्रुदर्शनकांक्षया॥ १४॥
+सर्वतश्चारयन् दृष्टिं शत्रुदर्शनकाङ्क्षया॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स निःश्वस्य महारोषो वाली परमवेगवान्।  
-सर्वतश्चारयन् दृष्टिं शत्रुदर्शनकांक्षया॥ १४॥
+सर्वतश्चारयन् दृष्टिं शत्रुदर्शनकाङ्क्षया॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -519,13 +516,13 @@ title_english = "016 Sugreeva s second fight and Vali s falling down"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो रामो महातेजा आर्तं दृष्ट्वा हरीश्वरम्।  
-स शरं वीक्षते वीरो वालिनो वधकांक्षया॥ ३२॥
+स शरं वीक्षते वीरो वालिनो वधकाङ्क्षया॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततो रामो महातेजा आर्तं दृष्ट्वा हरीश्वरम्।  
-स शरं वीक्षते वीरो वालिनो वधकांक्षया॥ ३२॥
+स शरं वीक्षते वीरो वालिनो वधकाङ्क्षया॥ ३२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -535,13 +532,13 @@ title_english = "016 Sugreeva s second fight and Vali s falling down"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो धनुषि संधाय शरमाशीविषोपमम्।  
+ततो धनुषि सन्धाय शरमाशीविषोपमम्।  
 पूरयामास तच्चापं कालचक्रमिवान्तकः॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततो धनुषि संधाय शरमाशीविषोपमम्।  
+ततो धनुषि सन्धाय शरमाशीविषोपमम्।  
 पूरयामास तच्चापं कालचक्रमिवान्तकः॥ ३३॥
 </details>
 
@@ -569,13 +566,13 @@ title_english = "016 Sugreeva s second fight and Vali s falling down"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुक्तस्तु वज्रनिर्घोषः प्रदीप्ताशनिसंनिभः।  
+मुक्तस्तु वज्रनिर्घोषः प्रदीप्ताशनिसन्निभः।  
 राघवेण महाबाणो वालिवक्षसि पातितः॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मुक्तस्तु वज्रनिर्घोषः प्रदीप्ताशनिसंनिभः।  
+मुक्तस्तु वज्रनिर्घोषः प्रदीप्ताशनिसन्निभः।  
 राघवेण महाबाणो वालिवक्षसि पातितः॥ ३५॥
 </details>
 
@@ -667,3 +664,4 @@ title_english = "016 Sugreeva s second fight and Vali s falling down"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे षोडशः सर्गः॥ १६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें सोलहवाँ सर्ग पूरा हुआ॥ १६॥
 </details>
+

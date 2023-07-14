@@ -4,11 +4,8 @@ title_english = "076 Advice of Vasishta to Bharata"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-076-Dasharathasya_Auordhva_Dehikam_.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-076-Dasharathasya_Auordhva_Dehikam_.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "076 Advice of Vasishta to Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमेवं शोकसंतप्तं भरतं कैकयीसुतम्।  
+तमेवं शोकसन्तप्तं भरतं कैकयीसुतम्।  
 उवाच वदतां श्रेष्ठो वसिष्ठः श्रेष्ठवागृषिः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तमेवं शोकसंतप्तं भरतं कैकयीसुतम्।  
+तमेवं शोकसन्तप्तं भरतं कैकयीसुतम्।  
 उवाच वदतां श्रेष्ठो वसिष्ठः श्रेष्ठवागृषिः॥ १॥
 </details>
 
@@ -313,7 +310,7 @@ title_english = "076 Advice of Vasishta to Bharata"
 शिबिकाभिश्च यानैश्च यथार्हं तस्य योषितः।  
 नगरान्निर्ययुस्तत्र वृद्धैः परिवृतास्तथा॥ १९॥  
 प्रसव्यं चापि तं चक्रुर्ऋत्विजोऽग्निचितं नृपम्।  
-स्त्रियश्च शोकसंतप्ताः कौसल्याप्रमुखास्तदा॥ २०॥
+स्त्रियश्च शोकसन्तप्ताः कौसल्याप्रमुखास्तदा॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -321,7 +318,7 @@ title_english = "076 Advice of Vasishta to Bharata"
 शिबिकाभिश्च यानैश्च यथार्हं तस्य योषितः।  
 नगरान्निर्ययुस्तत्र वृद्धैः परिवृतास्तथा॥ १९॥  
 प्रसव्यं चापि तं चक्रुर्ऋत्विजोऽग्निचितं नृपम्।  
-स्त्रियश्च शोकसंतप्ताः कौसल्याप्रमुखास्तदा॥ २०॥
+स्त्रियश्च शोकसन्तप्ताः कौसल्याप्रमुखास्तदा॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -389,3 +386,4 @@ title_english = "076 Advice of Vasishta to Bharata"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे षट्सप्ततितमः सर्गः॥ ७६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें छिहत्तरवाँ सर्ग पूरा हुआ॥ ७६॥
 </details>
+

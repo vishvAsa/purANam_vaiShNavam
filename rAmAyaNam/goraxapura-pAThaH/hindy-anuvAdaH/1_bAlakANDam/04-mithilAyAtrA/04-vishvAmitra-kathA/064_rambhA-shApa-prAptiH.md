@@ -4,11 +4,8 @@ title_english = "064 Legend of vishvamitra contd"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-064-Rambhayaha_Shapa_Prapthihi.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-064-Rambhayaha_Shapa_Prapthihi.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -158,13 +155,13 @@ title_english = "064 Legend of vishvamitra contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तस्य च शब्देन गीतेनाप्रतिमेन च।  
-दर्शनेन च रम्भाया मुनिः संदेहमागतः॥ १०॥
+दर्शनेन च रम्भाया मुनिः सन्देहमागतः॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथ तस्य च शब्देन गीतेनाप्रतिमेन च।  
-दर्शनेन च रम्भाया मुनिः संदेहमागतः॥ १०॥
+दर्शनेन च रम्भाया मुनिः सन्देहमागतः॥ १०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -174,13 +171,13 @@ title_english = "064 Legend of vishvamitra contd"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सहस्राक्षस्य तत्सर्वं विज्ञाय मुनिपुंगवः।  
+सहस्राक्षस्य तत्सर्वं विज्ञाय मुनिपुङ्गवः।  
 रम्भां क्रोधसमाविष्टः शशाप कुशिकात्मजः॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सहस्राक्षस्य तत्सर्वं विज्ञाय मुनिपुंगवः।  
+सहस्राक्षस्य तत्सर्वं विज्ञाय मुनिपुङ्गवः।  
 रम्भां क्रोधसमाविष्टः शशाप कुशिकात्मजः॥ ११॥
 </details>
 
@@ -226,13 +223,13 @@ title_english = "064 Legend of vishvamitra contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजा विश्वामित्रो महामुनिः।  
-अशक्नुवन् धारयितुं कोपं संतापमात्मनः॥ १४॥
+अशक्नुवन् धारयितुं कोपं सन्तापमात्मनः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्त्वा महातेजा विश्वामित्रो महामुनिः।  
-अशक्नुवन् धारयितुं कोपं संतापमात्मनः॥ १४॥
+अशक्नुवन् धारयितुं कोपं सन्तापमात्मनः॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -277,13 +274,13 @@ title_english = "064 Legend of vishvamitra contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूवास्य मनश्चिन्ता तपोऽपहरणे कृते।  
-नैवं क्रोधं गमिष्यामि न च वक्ष्ये कथंचन॥ १७॥
+नैवं क्रोधं गमिष्यामि न च वक्ष्ये कथञ्चन॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बभूवास्य मनश्चिन्ता तपोऽपहरणे कृते।  
-नैवं क्रोधं गमिष्यामि न च वक्ष्ये कथंचन॥ १७॥
+नैवं क्रोधं गमिष्यामि न च वक्ष्ये कथञ्चन॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -328,14 +325,14 @@ title_english = "064 Legend of vishvamitra contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नहि मे तप्यमानस्य क्षयं यास्यन्ति मूर्तयः।  
-एवं वर्षसहस्रस्य दीक्षां स मुनिपुंगवः।  
+एवं वर्षसहस्रस्य दीक्षां स मुनिपुङ्गवः।  
 चकाराप्रतिमां लोके प्रतिज्ञां रघुनन्दन॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नहि मे तप्यमानस्य क्षयं यास्यन्ति मूर्तयः।  
-एवं वर्षसहस्रस्य दीक्षां स मुनिपुंगवः।  
+एवं वर्षसहस्रस्य दीक्षां स मुनिपुङ्गवः।  
 चकाराप्रतिमां लोके प्रतिज्ञां रघुनन्दन॥ २०॥
 </details>
 
@@ -349,3 +346,4 @@ title_english = "064 Legend of vishvamitra contd"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुःषष्टितमः सर्गः॥ ६४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें चौंसठवाँ सर्ग पूरा हुआ॥ ६४॥
 </details>
+

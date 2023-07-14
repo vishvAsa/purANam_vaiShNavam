@@ -4,11 +4,8 @@ title_english = "034 Surpanakha allures Ravana to marry Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-034-Sita_Apaharane_Ravanoththe_Janam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-034-Sita_Apaharane_Ravanoththe_Janam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "034 Surpanakha allures Ravana to marry Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शूर्पणखां दृष्ट्वा ब्रुवन्तीं परुषं वचः।  
-अमात्यमध्ये संक्रुद्धः परिपप्रच्छ रावणः॥ १॥
+अमात्यमध्ये सङ्क्रुद्धः परिपप्रच्छ रावणः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः शूर्पणखां दृष्ट्वा ब्रुवन्तीं परुषं वचः।  
-अमात्यमध्ये संक्रुद्धः परिपप्रच्छ रावणः॥ १॥
+अमात्यमध्ये सङ्क्रुद्धः परिपप्रच्छ रावणः॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -34,13 +31,13 @@ title_english = "034 Surpanakha allures Ravana to marry Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कश्च रामः कथंवीर्यः किंरूपः किंपराक्रमः।  
+कश्च रामः कथंवीर्यः किंरूपः किम्पराक्रमः।  
 किमर्थं दण्डकारण्यं प्रविष्टश्च सुदुस्तरम्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कश्च रामः कथंवीर्यः किंरूपः किंपराक्रमः।  
+कश्च रामः कथंवीर्यः किंरूपः किम्पराक्रमः।  
 किमर्थं दण्डकारण्यं प्रविष्टश्च सुदुस्तरम्॥ २॥
 </details>
 
@@ -52,13 +49,13 @@ title_english = "034 Surpanakha allures Ravana to marry Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आयुधं किं च रामस्य येन ते राक्षसा हताः।  
-खरश्च निहतः संख्ये दूषणस्त्रिशिरास्तथा॥ ३॥
+खरश्च निहतः सङ्ख्ये दूषणस्त्रिशिरास्तथा॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 आयुधं किं च रामस्य येन ते राक्षसा हताः।  
-खरश्च निहतः संख्ये दूषणस्त्रिशिरास्तथा॥ ३॥
+खरश्च निहतः सङ्ख्ये दूषणस्त्रिशिरास्तथा॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -176,13 +173,13 @@ title_english = "034 Surpanakha allures Ravana to marry Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एका कथंचिन्मुक्ताहं परिभूय महात्मना।  
+एका कथञ्चिन्मुक्ताहं परिभूय महात्मना।  
 स्त्रीवधं शङ्कमानेन रामेण विदितात्मना॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एका कथंचिन्मुक्ताहं परिभूय महात्मना।  
+एका कथञ्चिन्मुक्ताहं परिभूय महात्मना।  
 स्त्रीवधं शङ्कमानेन रामेण विदितात्मना॥ १२॥
 </details>
 
@@ -265,13 +262,13 @@ title_english = "034 Surpanakha allures Ravana to marry Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नैव देवी न गन्धर्वी न यक्षी न च किंनरी।  
+नैव देवी न गन्धर्वी न यक्षी न च किन्नरी।  
 तथारूपा मया नारी दृष्टपूर्वा महीतले॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नैव देवी न गन्धर्वी न यक्षी न च किंनरी।  
+नैव देवी न गन्धर्वी न यक्षी न च किन्नरी।  
 तथारूपा मया नारी दृष्टपूर्वा महीतले॥ १८॥
 </details>
 
@@ -283,13 +280,13 @@ title_english = "034 Surpanakha allures Ravana to marry Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य सीता भवेद् भार्या यं च हृष्टा परिष्वजेत्।  
-अभिजीवेत् स सर्वेषु लोकेष्वपि पुरंदरात्॥ १९॥
+अभिजीवेत् स सर्वेषु लोकेष्वपि पुरन्दरात्॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यस्य सीता भवेद् भार्या यं च हृष्टा परिष्वजेत्।  
-अभिजीवेत् स सर्वेषु लोकेष्वपि पुरंदरात्॥ १९॥
+अभिजीवेत् स सर्वेषु लोकेष्वपि पुरन्दरात्॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -427,3 +424,4 @@ title_english = "034 Surpanakha allures Ravana to marry Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे चतुस्त्रिंशः सर्गः॥ ३४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें चौंतीसवाँ सर्ग पूरा हुआ॥ ३४॥
 </details>
+

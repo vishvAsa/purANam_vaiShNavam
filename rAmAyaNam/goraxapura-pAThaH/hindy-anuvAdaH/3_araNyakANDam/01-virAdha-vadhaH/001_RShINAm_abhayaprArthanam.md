@@ -4,11 +4,8 @@ title_english = "001 Entering Dandaka Forest"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-001-Rusheenam_Abhaya_Prathanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-001-Rusheenam_Abhaya_Prathanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "001 Entering Dandaka Forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शरण्यं सर्वभूतानां सुसम्मृष्टाजिरं सदा।  
-मृगैर्बहुभिराकीर्णं पक्षिसंघैः समावृतम्॥ ३॥
+मृगैर्बहुभिराकीर्णं पक्षिसङ्घैः समावृतम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 शरण्यं सर्वभूतानां सुसम्मृष्टाजिरं सदा।  
-मृगैर्बहुभिराकीर्णं पक्षिसंघैः समावृतम्॥ ३॥
+मृगैर्बहुभिराकीर्णं पक्षिसङ्घैः समावृतम्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -230,13 +227,13 @@ title_english = "001 Entering Dandaka Forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्रैनं हि महाभागाः सर्वभूतहिते रताः।  
-अतिथिं पर्णशालायां राघवं संन्यवेशयन्॥ १५॥
+अतिथिं पर्णशालायां राघवं सन्न्यवेशयन्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अत्रैनं हि महाभागाः सर्वभूतहिते रताः।  
-अतिथिं पर्णशालायां राघवं संन्यवेशयन्॥ १५॥
+अतिथिं पर्णशालायां राघवं सन्न्यवेशयन्॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -374,3 +371,4 @@ title_english = "001 Entering Dandaka Forest"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे प्रथमः सर्गः॥ १॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें पहला सर्ग पूरा हुआ॥ १॥
 </details>
+

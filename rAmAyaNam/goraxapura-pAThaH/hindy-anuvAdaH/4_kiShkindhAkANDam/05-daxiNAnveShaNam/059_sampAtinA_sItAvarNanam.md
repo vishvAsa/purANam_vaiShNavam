@@ -4,11 +4,8 @@ title_english = "059 Sampaati details Angada about Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-059-Sampaati_details_Angada_about_Seetha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-059-Sampaati_details_Angada_about_Seetha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -136,13 +133,13 @@ title_english = "059 Sampaati details Angada about Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं मामेवंगतं पुत्रः सुपार्श्वो नाम नामतः।  
+तं मामेवङ्गतं पुत्रः सुपार्श्वो नाम नामतः।  
 आहारेण यथाकालं बिभर्ति पततां वरः॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तं मामेवंगतं पुत्रः सुपार्श्वो नाम नामतः।  
+तं मामेवङ्गतं पुत्रः सुपार्श्वो नाम नामतः।  
 आहारेण यथाकालं बिभर्ति पततां वरः॥ ८॥
 </details>
 
@@ -170,13 +167,13 @@ title_english = "059 Sampaati details Angada about Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स कदाचित् क्षुधार्तस्य ममाहाराभिकांक्षिणः।  
+स कदाचित् क्षुधार्तस्य ममाहाराभिकाङ्क्षिणः।  
 गतसूर्येऽहनि प्राप्तो मम पुत्रो ह्यनामिषः॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स कदाचित् क्षुधार्तस्य ममाहाराभिकांक्षिणः।  
+स कदाचित् क्षुधार्तस्य ममाहाराभिकाङ्क्षिणः।  
 गतसूर्येऽहनि प्राप्तो मम पुत्रो ह्यनामिषः॥ १०॥
 </details>
 
@@ -222,13 +219,13 @@ title_english = "059 Sampaati details Angada about Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र सत्त्वसहस्राणां सागरान्तरचारिणाम्।  
-पन्थानमेकोऽध्यवसं संनिरोद‍्धुमवाङ्मुखः॥ १३॥
+पन्थानमेकोऽध्यवसं सन्निरोद‍्धुमवाङ्मुखः॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तत्र सत्त्वसहस्राणां सागरान्तरचारिणाम्।  
-पन्थानमेकोऽध्यवसं संनिरोद‍्धुमवाङ्मुखः॥ १३॥
+पन्थानमेकोऽध्यवसं सन्निरोद‍्धुमवाङ्मुखः॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -289,13 +286,13 @@ title_english = "059 Sampaati details Angada about Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स यातस्तेजसा व्योम संक्षिपन्निव वेगितः।  
+स यातस्तेजसा व्योम सङ्क्षिपन्निव वेगितः।  
 अथाहं खेचरैर्भूतैरभिगम्य सभाजितः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स यातस्तेजसा व्योम संक्षिपन्निव वेगितः।  
+स यातस्तेजसा व्योम सङ्क्षिपन्निव वेगितः।  
 अथाहं खेचरैर्भूतैरभिगम्य सभाजितः॥ १७॥
 </details>
 
@@ -307,13 +304,13 @@ title_english = "059 Sampaati details Angada about Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्या जीवति सीतेति ह्यब्रुवन् मां महर्षयः।  
-कथंचित् सकलत्रोऽसौ गतस्ते स्वस्त्यसंशयम्॥ १८॥
+कथञ्चित् सकलत्रोऽसौ गतस्ते स्वस्त्यसंशयम्॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दिष्ट्या जीवति सीतेति ह्यब्रुवन् मां महर्षयः।  
-कथंचित् सकलत्रोऽसौ गतस्ते स्वस्त्यसंशयम्॥ १८॥
+कथञ्चित् सकलत्रोऽसौ गतस्ते स्वस्त्यसंशयम्॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -365,14 +362,14 @@ title_english = "059 Sampaati details Angada about Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपक्षो हि कथं पक्षी कर्म किंचित् समारभेत्।  
+अपक्षो हि कथं पक्षी कर्म किञ्चित् समारभेत्।  
 यत् तु शक्यं मया कर्तुं वाग्बुद्धिगुणवर्तिना॥ २३॥  
 श्रूयतां तत्र वक्ष्यामि भवतां पौरुषाश्रयम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अपक्षो हि कथं पक्षी कर्म किंचित् समारभेत्।  
+अपक्षो हि कथं पक्षी कर्म किञ्चित् समारभेत्।  
 यत् तु शक्यं मया कर्तुं वाग्बुद्धिगुणवर्तिना॥ २३॥  
 श्रूयतां तत्र वक्ष्यामि भवतां पौरुषाश्रयम्।
 </details>
@@ -436,13 +433,13 @@ title_english = "059 Sampaati details Angada about Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामं खलु दशग्रीवस्तेजोबलसमन्वितः।  
-भवतां तु समर्थानां न किंचिदपि दुष्करम्॥ २७॥
+भवतां तु समर्थानां न किञ्चिदपि दुष्करम्॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कामं खलु दशग्रीवस्तेजोबलसमन्वितः।  
-भवतां तु समर्थानां न किंचिदपि दुष्करम्॥ २७॥
+भवतां तु समर्थानां न किञ्चिदपि दुष्करम्॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -472,3 +469,4 @@ title_english = "059 Sampaati details Angada about Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे एकोनषष्टितमः सर्गः॥ ५९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें उनसठवाँ सर्ग पूरा हुआ॥ ५९॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "048 Trijata reassures Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-048-Trijata_reassures_Seetha_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-048-Trijata_reassures_Seetha_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -430,7 +427,7 @@ title_english = "048 Trijata reassures Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हतवीरप्रधाना हि गतोत्साहा निरुद्यमा।  
-सेना भ्रमति संख्येषु हतकर्णेव नौर्जले॥ २६॥  
+सेना भ्रमति सङ्ख्येषु हतकर्णेव नौर्जले॥ २६॥  
 इयं पुनरसम्भ्रान्ता निरुद्विग्ना तपस्विनि।  
 सेना रक्षति काकुत्स्थौ मया प्रीत्या निवेदितौ॥ २७॥
 </details>
@@ -438,7 +435,7 @@ title_english = "048 Trijata reassures Seetha"
 <details><summary>मूलम्</summary>
 
 हतवीरप्रधाना हि गतोत्साहा निरुद्यमा।  
-सेना भ्रमति संख्येषु हतकर्णेव नौर्जले॥ २६॥  
+सेना भ्रमति सङ्ख्येषु हतकर्णेव नौर्जले॥ २६॥  
 इयं पुनरसम्भ्रान्ता निरुद्विग्ना तपस्विनि।  
 सेना रक्षति काकुत्स्थौ मया प्रीत्या निवेदितौ॥ २७॥
 </details>
@@ -502,13 +499,13 @@ title_english = "048 Trijata reassures Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं तु सुमहच्चित्रं शरैः पश्यस्व मैथिलि।  
-विसंज्ञौ पतितावेतौ नैव लक्ष्मीर्विमुञ्चति॥ ३१॥
+विसञ्ज्ञौ पतितावेतौ नैव लक्ष्मीर्विमुञ्चति॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इदं तु सुमहच्चित्रं शरैः पश्यस्व मैथिलि।  
-विसंज्ञौ पतितावेतौ नैव लक्ष्मीर्विमुञ्चति॥ ३१॥
+विसञ्ज्ञौ पतितावेतौ नैव लक्ष्मीर्विमुञ्चति॥ ३१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -569,13 +566,13 @@ title_english = "048 Trijata reassures Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विमानं पुष्पकं तत्तु संनिवर्त्य मनोजवम्।  
+विमानं पुष्पकं तत्तु सन्निवर्त्य मनोजवम्।  
 दीना त्रिजटया सीता लङ्कामेव प्रवेशिता॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-विमानं पुष्पकं तत्तु संनिवर्त्य मनोजवम्।  
+विमानं पुष्पकं तत्तु सन्निवर्त्य मनोजवम्।  
 दीना त्रिजटया सीता लङ्कामेव प्रवेशिता॥ ३५॥
 </details>
 
@@ -605,7 +602,7 @@ title_english = "048 Trijata reassures Seetha"
 
 प्रविश्य सीता बहुवृक्षखण्डां  
 तां राक्षसेन्द्रस्य विहारभूमिम्।  
-सम्प्रेक्ष्य संचिन्त्य च राजपुत्रौ  
+सम्प्रेक्ष्य सञ्चिन्त्य च राजपुत्रौ  
 परं विषादं समुपाजगाम॥ ३७॥
 </details>
 
@@ -613,7 +610,7 @@ title_english = "048 Trijata reassures Seetha"
 
 प्रविश्य सीता बहुवृक्षखण्डां  
 तां राक्षसेन्द्रस्य विहारभूमिम्।  
-सम्प्रेक्ष्य संचिन्त्य च राजपुत्रौ  
+सम्प्रेक्ष्य सञ्चिन्त्य च राजपुत्रौ  
 परं विषादं समुपाजगाम॥ ३७॥
 </details>
 
@@ -627,3 +624,4 @@ title_english = "048 Trijata reassures Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽष्टचत्वारिंशः सर्गः॥ ४८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें अड़तालीसवाँ सर्ग पूरा हुआ॥ ४८॥
 </details>
+

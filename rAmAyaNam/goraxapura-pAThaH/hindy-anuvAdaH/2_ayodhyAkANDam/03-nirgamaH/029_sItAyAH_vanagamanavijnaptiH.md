@@ -4,11 +4,8 @@ title_english = "029 Seetha s insistence on going to the forest"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-029-Sita_Vanagamana_Vignapthihi.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-029-Sita_Vanagamana_Vignapthihi.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -230,13 +227,13 @@ title_english = "029 Seetha s insistence on going to the forest"
 प्रसादितश् च वै पूर्वं  
 त्वं मे बहुतिथं प्रभो।  
 गमनं वनवासस्य  
-कांक्षितं हि सह त्वया॥ १४॥
+काङ्क्षितं हि सह त्वया॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रसादितश्च वै पूर्वं त्वं मे बहुतिथं प्रभो।  
-गमनं वनवासस्य कांक्षितं हि सह त्वया॥ १४॥
+गमनं वनवासस्य काङ्क्षितं हि सह त्वया॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -280,13 +277,13 @@ title_english = "029 Seetha s insistence on going to the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रेत्यभावे हि कल्याणः संगमो मे सदा त्वया।  
+प्रेत्यभावे हि कल्याणः सङ्गमो मे सदा त्वया।  
 श्रुतिर्हि श्रूयते पुण्या ब्राह्मणानां यशस्विनाम्॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्रेत्यभावे हि कल्याणः संगमो मे सदा त्वया।  
+प्रेत्यभावे हि कल्याणः सङ्गमो मे सदा त्वया।  
 श्रुतिर्हि श्रूयते पुण्या ब्राह्मणानां यशस्विनाम्॥ १७॥
 </details>
 
@@ -419,3 +416,4 @@ title_english = "029 Seetha s insistence on going to the forest"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकोनत्रिंशः सर्गः॥ २९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें उनतीसवाँ सर्ग पूरा हुआ॥ २९॥
 </details>
+

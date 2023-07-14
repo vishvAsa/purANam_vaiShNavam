@@ -4,11 +4,8 @@ title_english = "052 Vanaras deliverance from black hole"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-052-Vanaraihi_Swagamana_Hethu_Kathanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-052-Vanaraihi_Swagamana_Hethu_Kathanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -175,13 +172,13 @@ title_english = "052 Vanaras deliverance from black hole"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चारयन्तस्ततश्चक्षुर्दृष्टवन्तो महद् बिलम्।  
-लतापादपसंछन्नं तिमिरेण समावृतम्॥ ११॥
+लतापादपसञ्छन्नं तिमिरेण समावृतम्॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 चारयन्तस्ततश्चक्षुर्दृष्टवन्तो महद् बिलम्।  
-लतापादपसंछन्नं तिमिरेण समावृतम्॥ ११॥
+लतापादपसञ्छन्नं तिमिरेण समावृतम्॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -295,13 +292,13 @@ title_english = "052 Vanaras deliverance from black hole"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमुक्ता तु सर्वज्ञा वानरैस्तैः स्वयंप्रभा॥ १८॥  
+एवमुक्ता तु सर्वज्ञा वानरैस्तैः स्वयम्प्रभा॥ १८॥  
 प्रत्युवाच ततः सर्वानिदं वानरयूथपान्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवमुक्ता तु सर्वज्ञा वानरैस्तैः स्वयंप्रभा॥ १८॥  
+एवमुक्ता तु सर्वज्ञा वानरैस्तैः स्वयम्प्रभा॥ १८॥  
 प्रत्युवाच ततः सर्वानिदं वानरयूथपान्।
 </details>
 
@@ -440,13 +437,13 @@ title_english = "052 Vanaras deliverance from black hole"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो निमीलिताः सर्वे सुकुमाराङ्गुलैः करैः॥ २८॥  
-सहसा पिदधुर्दृष्टिं हृष्टा गमनकांक्षया।
+सहसा पिदधुर्दृष्टिं हृष्टा गमनकाङ्क्षया।
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततो निमीलिताः सर्वे सुकुमाराङ्गुलैः करैः॥ २८॥  
-सहसा पिदधुर्दृष्टिं हृष्टा गमनकांक्षया।
+सहसा पिदधुर्दृष्टिं हृष्टा गमनकाङ्क्षया।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -493,7 +490,7 @@ title_english = "052 Vanaras deliverance from black hole"
 एष विन्ध्यो गिरिः श्रीमान् नानाद्रुमलतायुतः॥ ३१॥  
 एष प्रस्रवणः शैलः सागरोऽयं महोदधिः।  
 स्वस्ति वोऽस्तु गमिष्यामि भवनं वानरर्षभाः।  
-इत्युक्त्वा तद् बिलं श्रीमत् प्रविवेश स्वयंप्रभा॥ ३२॥
+इत्युक्त्वा तद् बिलं श्रीमत् प्रविवेश स्वयम्प्रभा॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -501,7 +498,7 @@ title_english = "052 Vanaras deliverance from black hole"
 एष विन्ध्यो गिरिः श्रीमान् नानाद्रुमलतायुतः॥ ३१॥  
 एष प्रस्रवणः शैलः सागरोऽयं महोदधिः।  
 स्वस्ति वोऽस्तु गमिष्यामि भवनं वानरर्षभाः।  
-इत्युक्त्वा तद् बिलं श्रीमत् प्रविवेश स्वयंप्रभा॥ ३२॥
+इत्युक्त्वा तद् बिलं श्रीमत् प्रविवेश स्वयम्प्रभा॥ ३२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -514,3 +511,4 @@ title_english = "052 Vanaras deliverance from black hole"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे द्विपञ्चाशः सर्गः॥ ५२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें बावनवाँ सर्ग पूरा हुआ॥ ५२॥
 </details>
+

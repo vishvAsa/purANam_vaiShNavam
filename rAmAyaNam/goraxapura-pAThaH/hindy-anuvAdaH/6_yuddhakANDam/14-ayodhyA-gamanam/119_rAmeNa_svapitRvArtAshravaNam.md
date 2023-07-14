@@ -3,11 +3,8 @@ title = "११९ रामेण स्वपितृवार्ताश्
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-119-Lord_Shiva_informs_Rama_about_his_father_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-119-Lord_Shiva_informs_Rama_about_his_father_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -33,13 +30,13 @@ title = "११९ रामेण स्वपितृवार्ताश्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुष्कराक्ष महाबाहो महावक्षः परंतप।  
+पुष्कराक्ष महाबाहो महावक्षः परन्तप।  
 दिष्ट्या कृतमिदं कर्म त्वया धर्मभृतां वर॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पुष्कराक्ष महाबाहो महावक्षः परंतप।  
+पुष्कराक्ष महाबाहो महावक्षः परन्तप।  
 दिष्ट्या कृतमिदं कर्म त्वया धर्मभृतां वर॥ २॥
 </details>
 
@@ -51,13 +48,13 @@ title = "११९ रामेण स्वपितृवार्ताश्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दिष्ट्या सर्वस्य लोकस्य प्रवृद्धं दारुणं तमः।  
-अपवृत्तं त्वया संख्ये राम रावणजं भयम्॥ ३॥
+अपवृत्तं त्वया सङ्ख्ये राम रावणजं भयम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दिष्ट्या सर्वस्य लोकस्य प्रवृद्धं दारुणं तमः।  
-अपवृत्तं त्वया संख्ये राम रावणजं भयम्॥ ३॥
+अपवृत्तं त्वया सङ्ख्ये राम रावणजं भयम्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -518,13 +515,13 @@ title = "११९ रामेण स्वपितृवार्ताश्
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतत् तदुक्तमव्यक्तमक्षरं ब्रह्मसम्मितम्।  
-देवानां हृदयं सौम्य गुह्यं रामः परंतपः॥ ३२॥
+देवानां हृदयं सौम्य गुह्यं रामः परन्तपः॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एतत् तदुक्तमव्यक्तमक्षरं ब्रह्मसम्मितम्।  
-देवानां हृदयं सौम्य गुह्यं रामः परंतपः॥ ३२॥
+देवानां हृदयं सौम्य गुह्यं रामः परन्तपः॥ ३२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -660,3 +657,4 @@ title = "११९ रामेण स्वपितृवार्ताश्
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकोनविंशत्यधिकशततमः सर्गः॥ ११९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें एक सौ उन्नीसवाँ सर्ग पूरा हुआ॥ ११९॥
 </details>
+

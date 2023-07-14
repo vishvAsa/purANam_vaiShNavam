@@ -4,11 +4,8 @@ title_english = "004 Curse of Viradha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-004-Viradha_Vadhaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-004-Viradha_Vadhaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -103,13 +100,13 @@ title_english = "004 Curse of Viradha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स भग्नबाहुः संविग्नः पपाताशु विमूर्च्छितः।  
-धरण्यां मेघसंकाशो वज्रभिन्न इवाचलः॥ ६॥
+धरण्यां मेघसङ्काशो वज्रभिन्न इवाचलः॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स भग्नबाहुः संविग्नः पपाताशु विमूर्च्छितः।  
-धरण्यां मेघसंकाशो वज्रभिन्न इवाचलः॥ ६॥
+धरण्यां मेघसङ्काशो वज्रभिन्न इवाचलः॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -326,13 +323,13 @@ title_english = "004 Curse of Viradha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तव प्रसादान्मुक्तोऽहमभिशापात् सुदारुणात्॥ १९॥  
-भुवनं स्वं गमिष्यामि स्वस्ति वोऽस्तु परंतप।
+भुवनं स्वं गमिष्यामि स्वस्ति वोऽस्तु परन्तप।
 </details>
 
 <details><summary>मूलम्</summary>
 
 तव प्रसादान्मुक्तोऽहमभिशापात् सुदारुणात्॥ १९॥  
-भुवनं स्वं गमिष्यामि स्वस्ति वोऽस्तु परंतप।
+भुवनं स्वं गमिष्यामि स्वस्ति वोऽस्तु परन्तप।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -343,14 +340,14 @@ title_english = "004 Curse of Viradha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इतो वसति धर्मात्मा शरभङ्गः प्रतापवान्॥ २०॥  
-अध्यर्धयोजने तात महर्षिः सूर्यसंनिभः।  
+अध्यर्धयोजने तात महर्षिः सूर्यसन्निभः।  
 तं क्षिप्रमभिगच्छ त्वं स ते श्रेयोऽभिधास्यति॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इतो वसति धर्मात्मा शरभङ्गः प्रतापवान्॥ २०॥  
-अध्यर्धयोजने तात महर्षिः सूर्यसंनिभः।  
+अध्यर्धयोजने तात महर्षिः सूर्यसन्निभः।  
 तं क्षिप्रमभिगच्छ त्वं स ते श्रेयोऽभिधास्यति॥ २१॥
 </details>
 
@@ -596,3 +593,4 @@ title_english = "004 Curse of Viradha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे चतुर्थः सर्गः॥ ४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें चौथा सर्ग पूरा हुआ॥ ४॥
 </details>
+

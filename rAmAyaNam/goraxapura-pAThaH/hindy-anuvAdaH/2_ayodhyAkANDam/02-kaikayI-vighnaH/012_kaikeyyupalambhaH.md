@@ -4,11 +4,8 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-012-Kaikeyyu_Palambhaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-012-Kaikeyyu_Palambhaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,14 +48,14 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति संचिन्त्य तद् राजा नाध्यगच्छत् तदासुखम्।  
-प्रतिलभ्य ततः संज्ञां कैकेयीवाक्यतापितः॥ ३॥
+इति सञ्चिन्त्य तद् राजा नाध्यगच्छत् तदासुखम्।  
+प्रतिलभ्य ततः सञ्ज्ञां कैकेयीवाक्यतापितः॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इति संचिन्त्य तद् राजा नाध्यगच्छत् तदासुखम्।  
-प्रतिलभ्य ततः संज्ञां कैकेयीवाक्यतापितः॥ ३॥
+इति सञ्चिन्त्य तद् राजा नाध्यगच्छत् तदासुखम्।  
+प्रतिलभ्य ततः सञ्ज्ञां कैकेयीवाक्यतापितः॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -106,13 +103,13 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चिरेण तु नृपः संज्ञां प्रतिलभ्य सुदुःखितः॥ ६॥  
+चिरेण तु नृपः सञ्ज्ञां प्रतिलभ्य सुदुःखितः॥ ६॥  
 कैकेयीमब्रवीत् क्रुद्धो निर्दहन्निव तेजसा।
 </details>
 
 <details><summary>मूलम्</summary>
 
-चिरेण तु नृपः संज्ञां प्रतिलभ्य सुदुःखितः॥ ६॥  
+चिरेण तु नृपः सञ्ज्ञां प्रतिलभ्य सुदुःखितः॥ ६॥  
 कैकेयीमब्रवीत् क्रुद्धो निर्दहन्निव तेजसा।
 </details>
 
@@ -141,13 +138,13 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदा ते जननीतुल्यां वृत्तिं वहति राघवः॥ ८॥  
-तस्यैवं त्वमनर्थाय किंनिमित्तमिहोद्यता।
+तस्यैवं त्वमनर्थाय किन्निमित्तमिहोद्यता।
 </details>
 
 <details><summary>मूलम्</summary>
 
 सदा ते जननीतुल्यां वृत्तिं वहति राघवः॥ ८॥  
-तस्यैवं त्वमनर्थाय किंनिमित्तमिहोद्यता।
+तस्यैवं त्वमनर्थाय किन्निमित्तमिहोद्यता।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -295,13 +292,13 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तच्छ्रुत्वा शोकसंतप्ता संतापयसि मां भृशम्।  
+तच्छ्रुत्वा शोकसन्तप्ता सन्तापयसि मां भृशम्।  
 आविष्टासि गृहे शून्ये सा त्वं परवशं गता॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तच्छ्रुत्वा शोकसंतप्ता संतापयसि मां भृशम्।  
+तच्छ्रुत्वा शोकसन्तप्ता सन्तापयसि मां भृशम्।  
 आविष्टासि गृहे शून्ये सा त्वं परवशं गता॥ १८॥
 </details>
 
@@ -329,13 +326,13 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नहि किंचिदयुक्तं वा विप्रियं वा पुरा मम।  
+नहि किञ्चिदयुक्तं वा विप्रियं वा पुरा मम।  
 अकरोस्त्वं विशालाक्षि तेन न श्रद्दधामि ते॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नहि किंचिदयुक्तं वा विप्रियं वा पुरा मम।  
+नहि किञ्चिदयुक्तं वा विप्रियं वा पुरा मम।  
 अकरोस्त्वं विशालाक्षि तेन न श्रद्दधामि ते॥ २०॥
 </details>
 
@@ -586,13 +583,13 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पृथिव्यां सागरान्तायां यत् किंचिदधिगम्यते।  
+पृथिव्यां सागरान्तायां यत् किञ्चिदधिगम्यते।  
 तत् सर्वं तव दास्यामि मा च त्वं मन्युमाविश॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पृथिव्यां सागरान्तायां यत् किंचिदधिगम्यते।  
+पृथिव्यां सागरान्तायां यत् किञ्चिदधिगम्यते।  
 तत् सर्वं तव दास्यामि मा च त्वं मन्युमाविश॥ ३५॥
 </details>
 
@@ -620,7 +617,7 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति दुःखाभिसंतप्तं विलपन्तमचेतनम्।  
+इति दुःखाभिसन्तप्तं विलपन्तमचेतनम्।  
 घूर्णमानं महाराजं शोकेन समभिप्लुतम्॥ ३७॥  
 पारं शोकार्णवस्याशु प्रार्थयन्तं पुनः पुनः।  
 प्रत्युवाचाथ कैकेयी रौद्रा रौद्रतरं वचः॥ ३८॥
@@ -628,7 +625,7 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 
 <details><summary>मूलम्</summary>
 
-इति दुःखाभिसंतप्तं विलपन्तमचेतनम्।  
+इति दुःखाभिसन्तप्तं विलपन्तमचेतनम्।  
 घूर्णमानं महाराजं शोकेन समभिप्लुतम्॥ ३७॥  
 पारं शोकार्णवस्याशु प्रार्थयन्तं पुनः पुनः।  
 प्रत्युवाचाथ कैकेयी रौद्रा रौद्रतरं वचः॥ ३८॥
@@ -973,13 +970,13 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि भर्तुः प्रियं कार्यं लोकस्य भरतस्य च।  
-नृशंसे पापसंकल्पे क्षुद्रे दुष्कृतकारिणि॥ ६०॥
+नृशंसे पापसङ्कल्पे क्षुद्रे दुष्कृतकारिणि॥ ६०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदि भर्तुः प्रियं कार्यं लोकस्य भरतस्य च।  
-नृशंसे पापसंकल्पे क्षुद्रे दुष्कृतकारिणि॥ ६०॥
+नृशंसे पापसङ्कल्पे क्षुद्रे दुष्कृतकारिणि॥ ६०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -990,13 +987,13 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु दुःखमलीकं वा मयि रामे च पश्यसि।  
-न कथंचिदृते रामाद् भरतो राज्यमावसेत्॥ ६१॥
+न कथञ्चिदृते रामाद् भरतो राज्यमावसेत्॥ ६१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 किं नु दुःखमलीकं वा मयि रामे च पश्यसि।  
-न कथंचिदृते रामाद् भरतो राज्यमावसेत्॥ ६१॥
+न कथञ्चिदृते रामाद् भरतो राज्यमावसेत्॥ ६१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1170,13 +1167,13 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैदेही बत मे प्राणान् शोचन्ती क्षपयिष्यति॥ ७३॥  
-हीना हिमवतः पार्श्वे किंनरेणेव किंनरी।
+हीना हिमवतः पार्श्वे किन्नरेणेव किन्नरी।
 </details>
 
 <details><summary>मूलम्</summary>
 
 वैदेही बत मे प्राणान् शोचन्ती क्षपयिष्यति॥ ७३॥  
-हीना हिमवतः पार्श्वे किंनरेणेव किंनरी।
+हीना हिमवतः पार्श्वे किन्नरेणेव किन्नरी।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1548,7 +1545,7 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य चाहारसमये सूदाः कुण्डलधारिणः।  
-अहंपूर्वाः पचन्ति स्म प्रसन्नाः पानभोजनम्॥ ९६॥  
+अहम्पूर्वाः पचन्ति स्म प्रसन्नाः पानभोजनम्॥ ९६॥  
 स कथं नु कषायाणि तिक्तानि कटुकानि च।  
 भक्षयन् वन्यमाहारं सुतो मे वर्तयिष्यति॥ ९७॥
 </details>
@@ -1556,7 +1553,7 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 <details><summary>मूलम्</summary>
 
 यस्य चाहारसमये सूदाः कुण्डलधारिणः।  
-अहंपूर्वाः पचन्ति स्म प्रसन्नाः पानभोजनम्॥ ९६॥  
+अहम्पूर्वाः पचन्ति स्म प्रसन्नाः पानभोजनम्॥ ९६॥  
 स कथं नु कषायाणि तिक्तानि कटुकानि च।  
 भक्षयन् वन्यमाहारं सुतो मे वर्तयिष्यति॥ ९७॥
 </details>
@@ -1662,7 +1659,7 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं पुनर्देवकुमाररूप-  
-मलंकृतं तं सुतमाव्रजन्तम्।  
+मलङ्कृतं तं सुतमाव्रजन्तम्।  
 नन्दामि पश्यन्निव दर्शनेन  
 भवामि दृष्ट्वैव पुनर्युवेव॥ १०३॥
 </details>
@@ -1670,7 +1667,7 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 <details><summary>मूलम्</summary>
 
 अहं पुनर्देवकुमाररूप-  
-मलंकृतं तं सुतमाव्रजन्तम्।  
+मलङ्कृतं तं सुतमाव्रजन्तम्।  
 नन्दामि पश्यन्निव दर्शनेन  
 भवामि दृष्ट्वैव पुनर्युवेव॥ १०३॥
 </details>
@@ -1766,7 +1763,7 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न किंचिदाहाहितमप्रियं वचो  
+न किञ्चिदाहाहितमप्रियं वचो  
 न वेत्ति रामः परुषाणि भाषितुम्।  
 कथं तु रामे ह्यभिरामवादिनि  
 ब्रवीषि दोषान् गुणनित्यसम्मते॥ १०८॥
@@ -1774,7 +1771,7 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 
 <details><summary>मूलम्</summary>
 
-न किंचिदाहाहितमप्रियं वचो  
+न किञ्चिदाहाहितमप्रियं वचो  
 न वेत्ति रामः परुषाणि भाषितुम्।  
 कथं तु रामे ह्यभिरामवादिनि  
 ब्रवीषि दोषान् गुणनित्यसम्मते॥ १०८॥
@@ -1874,3 +1871,4 @@ title_english = "012 Dasaratha s reaction and Kaikeyi s adamant nature"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे द्वादशः सर्गः॥ १२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें बारहवाँ सर्ग पूरा हुआ॥१२॥
 </details>
+

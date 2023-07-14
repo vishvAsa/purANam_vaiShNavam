@@ -4,11 +4,8 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-030-Ravana_dispatches_Sardula_the_demon-spy_1.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-030-Ravana_dispatches_Sardula_the_demon-spy_1.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चाराणां रावणः श्रुत्वा प्राप्तं रामं महाबलम्।  
-जातोद्वेगोऽभवत् किंचिच्छार्दूलं वाक्यमब्रवीत् ॥ २॥
+जातोद्वेगोऽभवत् किञ्चिच्छार्दूलं वाक्यमब्रवीत् ॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 चाराणां रावणः श्रुत्वा प्राप्तं रामं महाबलम्।  
-जातोद्वेगोऽभवत् किंचिच्छार्दूलं वाक्यमब्रवीत् ॥ २॥
+जातोद्वेगोऽभवत् किञ्चिच्छार्दूलं वाक्यमब्रवीत् ॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -273,13 +270,13 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा महातेजा रावणः पुनरब्रवीत्।  
-चरिता भवता सेना केऽत्र शूराः प्लवंगमाः॥ १६॥
+चरिता भवता सेना केऽत्र शूराः प्लवङ्गमाः॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्त्वा महातेजा रावणः पुनरब्रवीत्।  
-चरिता भवता सेना केऽत्र शूराः प्लवंगमाः॥ १६॥
+चरिता भवता सेना केऽत्र शूराः प्लवङ्गमाः॥ १६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -289,13 +286,13 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किंप्रभाः कीदृशाः सौम्य वानरा ये दुरासदाः।  
+किम्प्रभाः कीदृशाः सौम्य वानरा ये दुरासदाः।  
 कस्य पुत्राश्च पौत्राश्च तत्त्वमाख्याहि राक्षस॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-किंप्रभाः कीदृशाः सौम्य वानरा ये दुरासदाः।  
+किम्प्रभाः कीदृशाः सौम्य वानरा ये दुरासदाः।  
 कस्य पुत्राश्च पौत्राश्च तत्त्वमाख्याहि राक्षस॥ १७॥
 </details>
 
@@ -307,13 +304,13 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथात्र प्रतिपत्स्यामि ज्ञात्वा तेषां बलाबलम्।  
-अवश्यं खलु संख्यानं कर्तव्यं युद्धमिच्छता॥ १८॥
+अवश्यं खलु सङ्ख्यानं कर्तव्यं युद्धमिच्छता॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तथात्र प्रतिपत्स्यामि ज्ञात्वा तेषां बलाबलम्।  
-अवश्यं खलु संख्यानं कर्तव्यं युद्धमिच्छता॥ १८॥
+अवश्यं खलु सङ्ख्यानं कर्तव्यं युद्धमिच्छता॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -324,13 +321,13 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथैवमुक्तः शार्दूलो रावणेनोत्तमश्चरः।  
-इदं वचनमारेभे वक्तुं रावणसंनिधौ॥ १९॥
+इदं वचनमारेभे वक्तुं रावणसन्निधौ॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथैवमुक्तः शार्दूलो रावणेनोत्तमश्चरः।  
-इदं वचनमारेभे वक्तुं रावणसंनिधौ॥ १९॥
+इदं वचनमारेभे वक्तुं रावणसन्निधौ॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -392,13 +389,13 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुमुखो दुर्मुखश्चात्र वेगदर्शी च वानरः।  
-मृत्युर्वानररूपेण नूनं सृष्टः स्वयंभुवा॥ २३॥
+मृत्युर्वानररूपेण नूनं सृष्टः स्वयम्भुवा॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सुमुखो दुर्मुखश्चात्र वेगदर्शी च वानरः।  
-मृत्युर्वानररूपेण नूनं सृष्टः स्वयंभुवा॥ २३॥
+मृत्युर्वानररूपेण नूनं सृष्टः स्वयम्भुवा॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -527,13 +524,13 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लक्ष्मणश्चात्र धर्मात्मा मातंगानामिवर्षभः।  
+लक्ष्मणश्चात्र धर्मात्मा मातङ्गानामिवर्षभः।  
 यस्य बाणपथं प्राप्य न जीवेदपि वासवः॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-लक्ष्मणश्चात्र धर्मात्मा मातंगानामिवर्षभः।  
+लक्ष्मणश्चात्र धर्मात्मा मातङ्गानामिवर्षभः।  
 यस्य बाणपथं प्राप्य न जीवेदपि वासवः॥ ३१॥
 </details>
 
@@ -545,13 +542,13 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्वेतो ज्योतिर्मुखश्चात्र भास्करस्यात्मसम्भवौ।  
-वरुणस्याथ पुत्रोऽथ हेमकूटः प्लवंगमः॥ ३१॥
+वरुणस्याथ पुत्रोऽथ हेमकूटः प्लवङ्गमः॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 श्वेतो ज्योतिर्मुखश्चात्र भास्करस्यात्मसम्भवौ।  
-वरुणस्याथ पुत्रोऽथ हेमकूटः प्लवंगमः॥ ३१॥
+वरुणस्याथ पुत्रोऽथ हेमकूटः प्लवङ्गमः॥ ३१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -620,3 +617,4 @@ title_english = "030 Ravana dispatches Sardula the demon spy"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्रिंशः सर्गः॥ ३०॥  
 इस प्रकार श्रीवाल्मीकिनििर्मत आर्षरामायण आदिकाव्यके युद्धकाण्डमें तीसवाँ सर्ग पूरा हुआ॥ ३०॥
 </details>
+

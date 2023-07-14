@@ -4,11 +4,8 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-013-Hanuma_starts_to_search_in_Ashoka_garden.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-013-Hanuma_starts_to_search_in_Ashoka_garden.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विमानात् तु स संक्रम्य प्राकारं हरियूथपः।  
+विमानात् तु स सङ्क्रम्य प्राकारं हरियूथपः।  
 हनूमान् वेगवानासीद् यथा विद्युद् घनान्तरे॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-विमानात् तु स संक्रम्य प्राकारं हरियूथपः।  
+विमानात् तु स सङ्क्रम्य प्राकारं हरियूथपः।  
 हनूमान् वेगवानासीद् यथा विद्युद् घनान्तरे॥ १॥
 </details>
 
@@ -56,14 +53,14 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भूयिष्ठं लोलिता लंका रामस्य चरता प्रियम्।  
-न हि पश्यामि वैदेहीं सीतां सर्वांगशोभनाम्॥ ३॥
+भूयिष्ठं लोलिता लङ्का रामस्य चरता प्रियम्।  
+न हि पश्यामि वैदेहीं सीतां सर्वाङ्गशोभनाम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-भूयिष्ठं लोलिता लंका रामस्य चरता प्रियम्।  
-न हि पश्यामि वैदेहीं सीतां सर्वांगशोभनाम्॥ ३॥
+भूयिष्ठं लोलिता लङ्का रामस्य चरता प्रियम्।  
+न हि पश्यामि वैदेहीं सीतां सर्वाङ्गशोभनाम्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -317,13 +314,13 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अस्मिन् नेवंगते कार्ये प्राप्तकालं क्षमं च किम्।  
+अस्मिन् नेवङ्गते कार्ये प्राप्तकालं क्षमं च किम्।  
 भवेदिति मतिं भूयो हनुमान् प्रविचारयन्॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अस्मिन् नेवंगते कार्ये प्राप्तकालं क्षमं च किम्।  
+अस्मिन् नेवङ्गते कार्ये प्राप्तकालं क्षमं च किम्।  
 भवेदिति मतिं भूयो हनुमान् प्रविचारयन्॥ १९॥
 </details>
 
@@ -352,13 +349,13 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ममेदं लङ्घनं व्यर्थं सागरस्य भविष्यति।  
-प्रवेशश्चैव लंकायां राक्षसानां च दर्शनम्॥ २१॥
+प्रवेशश्चैव लङ्कायां राक्षसानां च दर्शनम्॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ममेदं लङ्घनं व्यर्थं सागरस्य भविष्यति।  
-प्रवेशश्चैव लंकायां राक्षसानां च दर्शनम्॥ २१॥
+प्रवेशश्चैव लङ्कायां राक्षसानां च दर्शनम्॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -368,13 +365,13 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं वा वक्ष्यति सुग्रीवो हरयो वापि संगताः।  
+किं वा वक्ष्यति सुग्रीवो हरयो वापि सङ्गताः।  
 किष्किन्धामनुसम्प्राप्तं तौ वा दशरथात्मजौ॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-किं वा वक्ष्यति सुग्रीवो हरयो वापि संगताः।  
+किं वा वक्ष्यति सुग्रीवो हरयो वापि सङ्गताः।  
 किष्किन्धामनुसम्प्राप्तं तौ वा दशरथात्मजौ॥ २२॥
 </details>
 
@@ -470,13 +467,13 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कृतज्ञः सत्यसंधश्च सुग्रीवः प्लवगाधिपः।  
+कृतज्ञः सत्यसन्धश्च सुग्रीवः प्लवगाधिपः।  
 रामं तथागतं दृष्ट्वा ततस्त्यक्ष्यति जीवितम्॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कृतज्ञः सत्यसंधश्च सुग्रीवः प्लवगाधिपः।  
+कृतज्ञः सत्यसन्धश्च सुग्रीवः प्लवगाधिपः।  
 रामं तथागतं दृष्ट्वा ततस्त्यक्ष्यति जीवितम्॥ २८॥
 </details>
 
@@ -522,13 +519,13 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मातापित्रोर्विनाशेन सुग्रीवव्यसनेन च।  
-कुमारोऽप्यंगदस्तस्माद् विजहिष्यति जीवितम्॥ ३१॥
+कुमारोऽप्यङ्गदस्तस्माद् विजहिष्यति जीवितम्॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मातापित्रोर्विनाशेन सुग्रीवव्यसनेन च।  
-कुमारोऽप्यंगदस्तस्माद् विजहिष्यति जीवितम्॥ ३१॥
+कुमारोऽप्यङ्गदस्तस्माद् विजहिष्यति जीवितम्॥ ३१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -695,13 +692,13 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपविष्टस्य वा सम्यग् लिंगिनं साधयिष्यतः।  
+उपविष्टस्य वा सम्यग् लिङ्गिनं साधयिष्यतः।  
 शरीरं भक्षयिष्यन्ति वायसाः श्वापदानि च॥ ४२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपविष्टस्य वा सम्यग् लिंगिनं साधयिष्यतः।  
+उपविष्टस्य वा सम्यग् लिङ्गिनं साधयिष्यतः।  
 शरीरं भक्षयिष्यन्ति वायसाः श्वापदानि च॥ ४२॥
 </details>
 
@@ -764,13 +761,13 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तु प्रतिगच्छामि सीतामनधिगम्य ताम्।  
-अंगदः सहितः सर्वैर्वानरैर्न भविष्यति॥ ४६॥
+अङ्गदः सहितः सर्वैर्वानरैर्न भविष्यति॥ ४६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदि तु प्रतिगच्छामि सीतामनधिगम्य ताम्।  
-अंगदः सहितः सर्वैर्वानरैर्न भविष्यति॥ ४६॥
+अङ्गदः सहितः सर्वैर्वानरैर्न भविष्यति॥ ४६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -781,13 +778,13 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विनाशे बहवो दोषा जीवन् प्राप्नोति भद्रकम्।  
-तस्मात् प्राणान् धरिष्यामि ध्रुवो जीवति संगमः॥ ४७॥
+तस्मात् प्राणान् धरिष्यामि ध्रुवो जीवति सङ्गमः॥ ४७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 विनाशे बहवो दोषा जीवन् प्राप्नोति भद्रकम्।  
-तस्मात् प्राणान् धरिष्यामि ध्रुवो जीवति संगमः॥ ४७॥
+तस्मात् प्राणान् धरिष्यामि ध्रुवो जीवति सङ्गमः॥ ४७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -868,13 +865,13 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावत् सीतां न पश्यामि रामपत्नीं यशस्विनीम्।  
-तावदेतां पुरीं लंकां विचिनोमि पुनः पुनः॥ ५२॥
+तावदेतां पुरीं लङ्कां विचिनोमि पुनः पुनः॥ ५२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यावत् सीतां न पश्यामि रामपत्नीं यशस्विनीम्।  
-तावदेतां पुरीं लंकां विचिनोमि पुनः पुनः॥ ५२॥
+तावदेतां पुरीं लङ्कां विचिनोमि पुनः पुनः॥ ५२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1062,13 +1059,13 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संक्षिप्तोऽयं मयाऽऽत्मा च रामार्थे रावणस्य च।  
+सङ्क्षिप्तोऽयं मयाऽऽत्मा च रामार्थे रावणस्य च।  
 सिद्धिं दिशन्तु मे सर्वे देवाः सर्षिगणास्त्विह॥ ६४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संक्षिप्तोऽयं मयाऽऽत्मा च रामार्थे रावणस्य च।  
+सङ्क्षिप्तोऽयं मयाऽऽत्मा च रामार्थे रावणस्य च।  
 सिद्धिं दिशन्तु मे सर्वे देवाः सर्षिगणास्त्विह॥ ६४॥
 </details>
 
@@ -1139,7 +1136,7 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्षुद्रेण हीनेन नृशंसमूर्तिना  
-सुदारुणालंकृतवेषधारिणा।  
+सुदारुणालङ्कृतवेषधारिणा।  
 बलाभिभूता ह्यबला तपस्विनी  
 कथं नु मे दृष्टिपथेऽद्य सा भवेत्॥ ६९॥
 </details>
@@ -1147,7 +1144,7 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 <details><summary>मूलम्</summary>
 
 क्षुद्रेण हीनेन नृशंसमूर्तिना  
-सुदारुणालंकृतवेषधारिणा।  
+सुदारुणालङ्कृतवेषधारिणा।  
 बलाभिभूता ह्यबला तपस्विनी  
 कथं नु मे दृष्टिपथेऽद्य सा भवेत्॥ ६९॥
 </details>
@@ -1162,3 +1159,4 @@ title_english = "013 Hanuma starts to search in Ashoka garden"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे त्रयोदशः सर्गः॥ १३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें तेरहवाँ सर्ग पूरा हुआ॥ १३॥
 </details>
+

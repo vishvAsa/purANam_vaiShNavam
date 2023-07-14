@@ -4,11 +4,8 @@ title_english = "072 Kabandha advises Rama to meet Sugreeva"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-072-Sitaa_Prapthyupaya_Kathanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-072-Sitaa_Prapthyupaya_Kathanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -196,14 +193,14 @@ title_english = "072 Kabandha advises Rama to meet Sugreeva"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वानरेन्द्रो महावीर्यस्तेजोवानमितप्रभः।  
-सत्यसंधो विनीतश्च धृतिमान् मतिमान् महान्॥ १३॥  
+सत्यसन्धो विनीतश्च धृतिमान् मतिमान् महान्॥ १३॥  
 दक्षः प्रगल्भो द्युतिमान् महाबलपराक्रमः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 वानरेन्द्रो महावीर्यस्तेजोवानमितप्रभः।  
-सत्यसंधो विनीतश्च धृतिमान् मतिमान् महान्॥ १३॥  
+सत्यसन्धो विनीतश्च धृतिमान् मतिमान् महान्॥ १३॥  
 दक्षः प्रगल्भो द्युतिमान् महाबलपराक्रमः।
 </details>
 
@@ -319,14 +316,14 @@ title_english = "072 Kabandha advises Rama to meet Sugreeva"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भास्करस्यौरसः पुत्रो वालिना कृतकिल्बिषः।  
-संनिधायायुधं क्षिप्रमृष्यमूकालयं कपिम्॥ २१॥  
+सन्निधायायुधं क्षिप्रमृष्यमूकालयं कपिम्॥ २१॥  
 कुरु राघव सत्येन वयस्यं वनचारिणम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 भास्करस्यौरसः पुत्रो वालिना कृतकिल्बिषः।  
-संनिधायायुधं क्षिप्रमृष्यमूकालयं कपिम्॥ २१॥  
+सन्निधायायुधं क्षिप्रमृष्यमूकालयं कपिम्॥ २१॥  
 कुरु राघव सत्येन वयस्यं वनचारिणम्।
 </details>
 
@@ -337,13 +334,13 @@ title_english = "072 Kabandha advises Rama to meet Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स हि स्थानानि कात्स्‍न्‍‍र्येन  सर्वाणि कपिकुञ्जरः॥ २२॥  
+स हि स्थानानि कात्स्‍न्‍‍र्येन सर्वाणि कपिकुञ्जरः॥ २२॥  
 नरमांसाशिनां लोके नैपुण्यादधिगच्छति।
 </details>
 
 <details><summary>मूलम्</summary>
 
-स हि स्थानानि कात्स्‍न्‍‍र्येन  सर्वाणि कपिकुञ्जरः॥ २२॥  
+स हि स्थानानि कात्स्‍न्‍‍र्येन सर्वाणि कपिकुञ्जरः॥ २२॥  
 नरमांसाशिनां लोके नैपुण्यादधिगच्छति।
 </details>
 
@@ -354,14 +351,14 @@ title_english = "072 Kabandha advises Rama to meet Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तस्याविदितं लोके किंचिदस्ति हि राघव॥ २३॥  
-यावत् सूर्यः प्रतपति सहस्रांशुः परंतप।
+न तस्याविदितं लोके किञ्चिदस्ति हि राघव॥ २३॥  
+यावत् सूर्यः प्रतपति सहस्रांशुः परन्तप।
 </details>
 
 <details><summary>मूलम्</summary>
 
-न तस्याविदितं लोके किंचिदस्ति हि राघव॥ २३॥  
-यावत् सूर्यः प्रतपति सहस्रांशुः परंतप।
+न तस्याविदितं लोके किञ्चिदस्ति हि राघव॥ २३॥  
+यावत् सूर्यः प्रतपति सहस्रांशुः परन्तप।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -431,3 +428,4 @@ title_english = "072 Kabandha advises Rama to meet Sugreeva"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे द्विसप्ततितमः सर्गः॥ ७२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें बहत्तरवाँ सर्ग पूरा हुआ॥ ७२॥
 </details>
+

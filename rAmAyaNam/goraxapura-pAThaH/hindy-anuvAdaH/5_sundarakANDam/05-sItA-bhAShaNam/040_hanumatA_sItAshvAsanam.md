@@ -4,11 +4,8 @@ title_english = "040 Hanuma consoles Seetha and travels northward"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-040-Hanuma_consoles_Seetha_and_travels_northward.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-040-Hanuma_consoles_Seetha_and_travels_northward.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "040 Hanuma consoles Seetha and travels northward"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वां दृष्ट्वा प्रियवक्तारं सम्प्रहृष्यामि वानर।  
-अर्धसंजातसस्येव वृष्टिं प्राप्य वसुंधरा॥ २॥
+अर्धसञ्जातसस्येव वृष्टिं प्राप्य वसुन्धरा॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्वां दृष्ट्वा प्रियवक्तारं सम्प्रहृष्यामि वानर।  
-अर्धसंजातसस्येव वृष्टिं प्राप्य वसुंधरा॥ २॥
+अर्धसञ्जातसस्येव वृष्टिं प्राप्य वसुन्धरा॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -238,13 +235,13 @@ title_english = "040 Hanuma consoles Seetha and travels northward"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दृष्टा कथंचिद् भवती न कालः परिदेवितुम्।  
+दृष्टा कथञ्चिद् भवती न कालः परिदेवितुम्।  
 इमं मुहूर्तं दुःखानामन्तं द्रक्ष्यसि भामिनि॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-दृष्टा कथंचिद् भवती न कालः परिदेवितुम्।  
+दृष्टा कथञ्चिद् भवती न कालः परिदेवितुम्।  
 इमं मुहूर्तं दुःखानामन्तं द्रक्ष्यसि भामिनि॥ १४॥
 </details>
 
@@ -290,13 +287,13 @@ title_english = "040 Hanuma consoles Seetha and travels northward"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्तु रामो विजानीयादभिज्ञानमनिन्दिते।  
-प्रीतिसंजननं भूयस्तस्य त्वं दातुमर्हसि॥ १७॥
+प्रीतिसञ्जननं भूयस्तस्य त्वं दातुमर्हसि॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यत्तु रामो विजानीयादभिज्ञानमनिन्दिते।  
-प्रीतिसंजननं भूयस्तस्य त्वं दातुमर्हसि॥ १७॥
+प्रीतिसञ्जननं भूयस्तस्य त्वं दातुमर्हसि॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -361,13 +358,13 @@ title_english = "040 Hanuma consoles Seetha and travels northward"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हनूमन् सिंहसंकाशौ भ्रातरौ रामलक्ष्मणौ।  
+हनूमन् सिंहसङ्काशौ भ्रातरौ रामलक्ष्मणौ।  
 सुग्रीवं च सहामात्यं सर्वान् ब्रूया अनामयम्॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-हनूमन् सिंहसंकाशौ भ्रातरौ रामलक्ष्मणौ।  
+हनूमन् सिंहसङ्काशौ भ्रातरौ रामलक्ष्मणौ।  
 सुग्रीवं च सहामात्यं सर्वान् ब्रूया अनामयम्॥ २२॥
 </details>
 
@@ -440,3 +437,4 @@ title_english = "040 Hanuma consoles Seetha and travels northward"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे चत्वारिंशः सर्गः॥ ४०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें चालीसवाँ सर्ग पूरा हुआ॥ ४०॥
 </details>
+

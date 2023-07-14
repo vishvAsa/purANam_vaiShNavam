@@ -4,11 +4,8 @@ title_english = "030 rAma safeguards vishvAmitra s vedic ritual"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-030-Yagna_Samrakshnam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-030-Yagna_Samrakshnam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "030 rAma safeguards vishvAmitra s vedic ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ तौ देशकालज्ञौ राजपुत्रावरिंदमौ।  
+अथ तौ देशकालज्ञौ राजपुत्रावरिन्दमौ।  
 देशे काले च वाक्यज्ञावब्रूतां कौशिकं वचः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथ तौ देशकालज्ञौ राजपुत्रावरिंदमौ।  
+अथ तौ देशकालज्ञौ राजपुत्रावरिन्दमौ।  
 देशे काले च वाक्यज्ञावब्रूतां कौशिकं वचः॥ १॥
 </details>
 
@@ -102,14 +99,14 @@ title_english = "030 rAma safeguards vishvAmitra s vedic ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपासांचक्रतुर्वीरौ यत्तौ परमधन्विनौ।  
-ररक्षतुर्मुनिवरं विश्वामित्रमरिंदमौ॥ ६॥
+उपासाञ्चक्रतुर्वीरौ यत्तौ परमधन्विनौ।  
+ररक्षतुर्मुनिवरं विश्वामित्रमरिन्दमौ॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपासांचक्रतुर्वीरौ यत्तौ परमधन्विनौ।  
-ररक्षतुर्मुनिवरं विश्वामित्रमरिंदमौ॥ ६॥
+उपासाञ्चक्रतुर्वीरौ यत्तौ परमधन्विनौ।  
+ररक्षतुर्मुनिवरं विश्वामित्रमरिन्दमौ॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -190,7 +187,7 @@ title_english = "030 rAma safeguards vishvAmitra s vedic ritual"
 आवार्य गगनं मेघो यथा प्रावृषि दृश्यते।  
 तथा मायां विकुर्वाणौ राक्षसावभ्यधावताम्॥ ११॥  
 मारीचश्च सुबाहुश्च तयोरनुचरास्तथा।  
-आगम्य भीमसंकाशा रुधिरौघानवासृजन्॥ १२॥
+आगम्य भीमसङ्काशा रुधिरौघानवासृजन्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -198,7 +195,7 @@ title_english = "030 rAma safeguards vishvAmitra s vedic ritual"
 आवार्य गगनं मेघो यथा प्रावृषि दृश्यते।  
 तथा मायां विकुर्वाणौ राक्षसावभ्यधावताम्॥ ११॥  
 मारीचश्च सुबाहुश्च तयोरनुचरास्तथा।  
-आगम्य भीमसंकाशा रुधिरौघानवासृजन्॥ १२॥
+आगम्य भीमसङ्काशा रुधिरौघानवासृजन्॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -231,14 +228,14 @@ title_english = "030 rAma safeguards vishvAmitra s vedic ritual"
 
 पश्य लक्ष्मण दुर्वृत्तान् राक्षसान् पिशिताशनान्।  
 मानवास्त्रसमाधूताननिलेन यथा घनान्॥ १५॥  
-करिष्यामि न संदेहो नोत्सहे हन्तुमीदृशान्।
+करिष्यामि न सन्देहो नोत्सहे हन्तुमीदृशान्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 पश्य लक्ष्मण दुर्वृत्तान् राक्षसान् पिशिताशनान्।  
 मानवास्त्रसमाधूताननिलेन यथा घनान्॥ १५॥  
-करिष्यामि न संदेहो नोत्सहे हन्तुमीदृशान्।
+करिष्यामि न सन्देहो नोत्सहे हन्तुमीदृशान्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -248,14 +245,14 @@ title_english = "030 rAma safeguards vishvAmitra s vedic ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्युक्त्वा वचनं रामश्चापे संधाय वेगवान्॥ १६॥  
+इत्युक्त्वा वचनं रामश्चापे सन्धाय वेगवान्॥ १६॥  
 मानवं परमोदारमस्त्रं परमभास्वरम्।  
 चिक्षेप परमक्रुद्धो मारीचोरसि राघवः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वा वचनं रामश्चापे संधाय वेगवान्॥ १६॥  
+इत्युक्त्वा वचनं रामश्चापे सन्धाय वेगवान्॥ १६॥  
 मानवं परमोदारमस्त्रं परमभास्वरम्।  
 चिक्षेप परमक्रुद्धो मारीचोरसि राघवः॥ १७॥
 </details>
@@ -394,14 +391,14 @@ title_english = "030 rAma safeguards vishvAmitra s vedic ritual"
 
 कृतार्थोऽस्मि महाबाहो कृतं गुरुवचस्त्वया।  
 सिद्धाश्रममिदं सत्यं कृतं वीर महायशः।  
-स हि रामं प्रशस्यैवं ताभ्यां संध्यामुपागमत्॥ २६॥
+स हि रामं प्रशस्यैवं ताभ्यां सन्ध्यामुपागमत्॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कृतार्थोऽस्मि महाबाहो कृतं गुरुवचस्त्वया।  
 सिद्धाश्रममिदं सत्यं कृतं वीर महायशः।  
-स हि रामं प्रशस्यैवं ताभ्यां संध्यामुपागमत्॥ २६॥
+स हि रामं प्रशस्यैवं ताभ्यां सन्ध्यामुपागमत्॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -414,3 +411,4 @@ title_english = "030 rAma safeguards vishvAmitra s vedic ritual"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रिंशः सर्गः॥ ३०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें तीसवाँ सर्ग पूरा हुआ॥ ३०॥
 </details>
+

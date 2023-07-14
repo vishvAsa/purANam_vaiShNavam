@@ -4,11 +4,8 @@ title_english = "011 Kaikeyi s evil boons"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-011-Kaikeyyaha_Varayaachana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-011-Kaikeyyaha_Varayaachana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -69,13 +66,13 @@ title_english = "011 Kaikeyi s evil boons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तामुवाच महाराजः कैकेयीमीषदुत्स्मयः।  
-कामी हस्तेन संगृह्य मूर्धजेषु भुवि स्थिताम्॥ ४॥
+कामी हस्तेन सङ्गृह्य मूर्धजेषु भुवि स्थिताम्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तामुवाच महाराजः कैकेयीमीषदुत्स्मयः।  
-कामी हस्तेन संगृह्य मूर्धजेषु भुवि स्थिताम्॥ ४॥
+कामी हस्तेन सङ्गृह्य मूर्धजेषु भुवि स्थिताम्॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -259,13 +256,13 @@ title_english = "011 Kaikeyi s evil boons"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्यसंधो महातेजा धर्मज्ञः सत्यवाक्शुचिः।  
+सत्यसन्धो महातेजा धर्मज्ञः सत्यवाक्शुचिः।  
 वरं मम ददात्येष सर्वे शृण्वन्तु दैवताः॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सत्यसंधो महातेजा धर्मज्ञः सत्यवाक्शुचिः।  
+सत्यसन्धो महातेजा धर्मज्ञः सत्यवाक्शुचिः।  
 वरं मम ददात्येष सर्वे शृण्वन्तु दैवताः॥ १६॥
 </details>
 
@@ -454,7 +451,7 @@ title_english = "011 Kaikeyi s evil boons"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स राजराजो भव सत्यसंगरः  
+स राजराजो भव सत्यसङ्गरः  
 कुलं च शीलं च हि जन्म रक्ष च।  
 परत्र वासे हि वदन्त्यनुत्तमं  
 तपोधनाः सत्यवचो हितं नृणाम्॥ २९॥
@@ -462,7 +459,7 @@ title_english = "011 Kaikeyi s evil boons"
 
 <details><summary>मूलम्</summary>
 
-स राजराजो भव सत्यसंगरः  
+स राजराजो भव सत्यसङ्गरः  
 कुलं च शीलं च हि जन्म रक्ष च।  
 परत्र वासे हि वदन्त्यनुत्तमं  
 तपोधनाः सत्यवचो हितं नृणाम्॥ २९॥
@@ -478,3 +475,4 @@ title_english = "011 Kaikeyi s evil boons"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकादशः सर्गः॥ ११॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें ग्यारहवाँ सर्ग पूरा हुआ॥ ११॥
 </details>
+

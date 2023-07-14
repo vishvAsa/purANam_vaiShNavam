@@ -4,11 +4,8 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-031-Lakshmanaanugamana_Pradhana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-031-Lakshmanaanugamana_Pradhana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -69,13 +66,13 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मया समेतोऽरण्यानि रम्याणि विचरिष्यसि।  
-पक्षिभिर्मृगयूथैश्च संघुष्टानि समन्ततः॥ ४॥
+पक्षिभिर्मृगयूथैश्च सङ्घुष्टानि समन्ततः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मया समेतोऽरण्यानि रम्याणि विचरिष्यसि।  
-पक्षिभिर्मृगयूथैश्च संघुष्टानि समन्ततः॥ ४॥
+पक्षिभिर्मृगयूथैश्च सङ्घुष्टानि समन्ततः॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -527,13 +524,13 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुवाचात्मवान् रामः प्रीत्या लक्ष्मणमागतम्।  
-काले त्वमागतः सौम्य कांक्षिते मम लक्ष्मण॥ ३४॥
+काले त्वमागतः सौम्य काङ्क्षिते मम लक्ष्मण॥ ३४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तमुवाचात्मवान् रामः प्रीत्या लक्ष्मणमागतम्।  
-काले त्वमागतः सौम्य कांक्षिते मम लक्ष्मण॥ ३४॥
+काले त्वमागतः सौम्य काङ्क्षिते मम लक्ष्मण॥ ३४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -544,13 +541,13 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहं प्रदातुमिच्छामि यदिदं मामकं धनम्।  
-ब्राह्मणेभ्यस्तपस्विभ्यस्त्वया सह परंतप॥ ३५॥
+ब्राह्मणेभ्यस्तपस्विभ्यस्त्वया सह परन्तप॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अहं प्रदातुमिच्छामि यदिदं मामकं धनम्।  
-ब्राह्मणेभ्यस्तपस्विभ्यस्त्वया सह परंतप॥ ३५॥
+ब्राह्मणेभ्यस्तपस्विभ्यस्त्वया सह परन्तप॥ ३५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -601,3 +598,4 @@ title_english = "031 Lakshmana too is permitted to go to the forest"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकत्रिंशः सर्गः॥ ३१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें इकतीसवाँ सर्ग पूरा हुआ॥ ३१॥
 </details>
+

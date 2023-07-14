@@ -4,11 +4,8 @@ title_english = "081 Bharata with Shatrughna enters the assembly"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-081-Raja_Sabhaa_Gamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-081-Raja_Sabhaa_Gamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "081 Bharata with Shatrughna enters the assembly"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तूर्यघोषः सुमहान् दिवमापूरयन्निव।  
-भरतं शोकसंतप्तं भूयः शोकैररन्धयत्॥ ३॥
+भरतं शोकसन्तप्तं भूयः शोकैररन्धयत्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स तूर्यघोषः सुमहान् दिवमापूरयन्निव।  
-भरतं शोकसंतप्तं भूयः शोकैररन्धयत्॥ ३॥
+भरतं शोकसन्तप्तं भूयः शोकैररन्धयत्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -68,13 +65,13 @@ title_english = "081 Bharata with Shatrughna enters the assembly"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः प्रबुद्धो भरतस्तं घोषं संनिवर्त्य च।  
+ततः प्रबुद्धो भरतस्तं घोषं सन्निवर्त्य च।  
 नाहं राजेति चोक्त्वा तं शत्रुघ्नमिदमब्रवीत्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः प्रबुद्धो भरतस्तं घोषं संनिवर्त्य च।  
+ततः प्रबुद्धो भरतस्तं घोषं सन्निवर्त्य च।  
 नाहं राजेति चोक्त्वा तं शत्रुघ्नमिदमब्रवीत्॥ ४॥
 </details>
 
@@ -275,3 +272,4 @@ title_english = "081 Bharata with Shatrughna enters the assembly"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकाशीतितमः सर्गः॥ ८१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें इक्यासीवाँ सर्ग पूरा हुआ॥ ८१॥
 </details>
+

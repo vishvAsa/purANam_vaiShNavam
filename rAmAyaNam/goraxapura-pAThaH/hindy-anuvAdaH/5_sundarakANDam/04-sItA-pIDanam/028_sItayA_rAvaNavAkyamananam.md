@@ -4,11 +4,8 @@ title_english = "028 Seetha recollects the time limit"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-028-Seetha_recollects_the_time_limit.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-028-Seetha_recollects_the_time_limit.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -83,7 +80,7 @@ title_english = "028 Seetha recollects the time limit"
 सुखाद् विहीनं बहुदुःखपूर्ण-  
 मिदं तु नूनं हृदयं स्थिरं मे।  
 विदीर्यते यन्न सहस्रधाद्य  
-वज्राहतं शृंगमिवाचलस्य॥ ४॥
+वज्राहतं शृङ्गमिवाचलस्य॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -91,7 +88,7 @@ title_english = "028 Seetha recollects the time limit"
 सुखाद् विहीनं बहुदुःखपूर्ण-  
 मिदं तु नूनं हृदयं स्थिरं मे।  
 विदीर्यते यन्न सहस्रधाद्य  
-वज्राहतं शृंगमिवाचलस्य॥ ४॥
+वज्राहतं शृङ्गमिवाचलस्य॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -124,7 +121,7 @@ title_english = "028 Seetha recollects the time limit"
 
 तस्मिन्ननागच्छति लोकनाथे  
 गर्भस्थजन्तोरिव शल्यकृन्तः।  
-नूनं ममांगान्यचिरादनार्यः  
+नूनं ममाङ्गान्यचिरादनार्यः  
 शस्त्रैः शितैश्छेत्स्यति राक्षसेन्द्रः॥ ६॥
 </details>
 
@@ -132,7 +129,7 @@ title_english = "028 Seetha recollects the time limit"
 
 तस्मिन्ननागच्छति लोकनाथे  
 गर्भस्थजन्तोरिव शल्यकृन्तः।  
-नूनं ममांगान्यचिरादनार्यः  
+नूनं ममाङ्गान्यचिरादनार्यः  
 शस्त्रैः शितैश्छेत्स्यति राक्षसेन्द्रः॥ ६॥
 </details>
 
@@ -272,7 +269,7 @@ title_english = "028 Seetha recollects the time limit"
 मोघो हि धर्मश्चरितो ममायं  
 तथैकपत्नीत्वमिदं निरर्थकम्।  
 या त्वां न पश्यामि कृशा विवर्णा  
-हीना त्वया संगमने निराशा॥ १३॥
+हीना त्वया सङ्गमने निराशा॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -280,7 +277,7 @@ title_english = "028 Seetha recollects the time limit"
 मोघो हि धर्मश्चरितो ममायं  
 तथैकपत्नीत्वमिदं निरर्थकम्।  
 या त्वां न पश्यामि कृशा विवर्णा  
-हीना त्वया संगमने निराशा॥ १३॥
+हीना त्वया सङ्गमने निराशा॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -332,7 +329,7 @@ title_english = "028 Seetha recollects the time limit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संजीवितं क्षिप्रमहं त्यजेयं  
+सञ्जीवितं क्षिप्रमहं त्यजेयं  
 विषेण शस्त्रेण शितेन वापि।  
 विषस्य दाता न तु मेऽस्ति कश्चि-  
 च्छस्त्रस्य वा वेश्मनि राक्षसस्य॥ १६॥
@@ -340,7 +337,7 @@ title_english = "028 Seetha recollects the time limit"
 
 <details><summary>मूलम्</summary>
 
-संजीवितं क्षिप्रमहं त्यजेयं  
+सञ्जीवितं क्षिप्रमहं त्यजेयं  
 विषेण शस्त्रेण शितेन वापि।  
 विषस्य दाता न तु मेऽस्ति कश्चि-  
 च्छस्त्रस्य वा वेश्मनि राक्षसस्य॥ १६॥
@@ -377,7 +374,7 @@ title_english = "028 Seetha recollects the time limit"
 उपस्थिता सा मृदुसर्वगात्री  
 शाखां गृहीत्वा च नगस्य तस्य।  
 तस्यास्तु रामं परिचिन्तयन्त्या  
-रामानुजं स्वं च कुलं शुभांग्याः॥ १८॥  
+रामानुजं स्वं च कुलं शुभाङ्ग्याः॥ १८॥  
 तस्या विशोकानि तदा बहूनि  
 धैर्यार्जितानि प्रवराणि लोके।  
 प्रादुर्निमित्तानि तदा बभूवुः  
@@ -389,7 +386,7 @@ title_english = "028 Seetha recollects the time limit"
 उपस्थिता सा मृदुसर्वगात्री  
 शाखां गृहीत्वा च नगस्य तस्य।  
 तस्यास्तु रामं परिचिन्तयन्त्या  
-रामानुजं स्वं च कुलं शुभांग्याः॥ १८॥  
+रामानुजं स्वं च कुलं शुभाङ्ग्याः॥ १८॥  
 तस्या विशोकानि तदा बहूनि  
 धैर्यार्जितानि प्रवराणि लोके।  
 प्रादुर्निमित्तानि तदा बभूवुः  
@@ -406,3 +403,4 @@ title_english = "028 Seetha recollects the time limit"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डेऽष्टाविंशः सर्गः॥ २८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें अट्ठाईसवाँ सर्ग पूरा हुआ॥ २८॥
 </details>
+

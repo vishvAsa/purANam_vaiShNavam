@@ -4,11 +4,8 @@ title_english = "029 Ravana reprimands Shuka and Sarana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-029-Ravana_reprimands_Shuka_and_Sarana_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-029-Ravana_reprimands_Shuka_and_Sarana_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -46,13 +43,13 @@ title_english = "029 Ravana reprimands Shuka and Sarana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किंचिदाविग्नहृदयो जातक्रोधश्च रावणः।  
+किञ्चिदाविग्नहृदयो जातक्रोधश्च रावणः।  
 भर्त्सयामास तौ वीरौ कथान्ते शुकसारणौ॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-किंचिदाविग्नहृदयो जातक्रोधश्च रावणः।  
+किञ्चिदाविग्नहृदयो जातक्रोधश्च रावणः।  
 भर्त्सयामास तौ वीरौ कथान्ते शुकसारणौ॥ ५॥
 </details>
 
@@ -199,14 +196,14 @@ title_english = "029 Ravana reprimands Shuka and Sarana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपध्वंसत नश्यध्वं संनिकर्षादितो मम।  
+अपध्वंसत नश्यध्वं सन्निकर्षादितो मम।  
 नहि वां हन्तुमिच्छामि स्मराम्युपकृतानि वाम्।  
 हतावेव कृतघ्नौ द्वौ मयि स्नेहपराङ्मुखौ॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अपध्वंसत नश्यध्वं संनिकर्षादितो मम।  
+अपध्वंसत नश्यध्वं सन्निकर्षादितो मम।  
 नहि वां हन्तुमिच्छामि स्मराम्युपकृतानि वाम्।  
 हतावेव कृतघ्नौ द्वौ मयि स्नेहपराङ्मुखौ॥ १४॥
 </details>
@@ -254,13 +251,13 @@ title_english = "029 Ravana reprimands Shuka and Sarana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततश्चाराः संत्वरिताः प्राप्ताः पार्थिवशासनात्।  
+ततश्चाराः सन्त्वरिताः प्राप्ताः पार्थिवशासनात्।  
 उपस्थिताः प्राञ्जलयो वर्धयित्वा जयाशिषः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततश्चाराः संत्वरिताः प्राप्ताः पार्थिवशासनात्।  
+ततश्चाराः सन्त्वरिताः प्राप्ताः पार्थिवशासनात्।  
 उपस्थिताः प्राञ्जलयो वर्धयित्वा जयाशिषः॥ १७॥
 </details>
 
@@ -424,13 +421,13 @@ title_english = "029 Ravana reprimands Shuka and Sarana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मोचितः सोऽपि रामेण वध्यमानः प्लवंगमैः।  
+मोचितः सोऽपि रामेण वध्यमानः प्लवङ्गमैः।  
 आनृशंस्येन रामेण मोचिता राक्षसाः परे॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मोचितः सोऽपि रामेण वध्यमानः प्लवंगमैः।  
+मोचितः सोऽपि रामेण वध्यमानः प्लवङ्गमैः।  
 आनृशंस्येन रामेण मोचिता राक्षसाः परे॥ २७॥
 </details>
 
@@ -482,3 +479,4 @@ title_english = "029 Ravana reprimands Shuka and Sarana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकोनत्रिंशः सर्गः॥ २९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें उन्तीसवाँ सर्ग पूरा हुआ॥ २९॥
 </details>
+

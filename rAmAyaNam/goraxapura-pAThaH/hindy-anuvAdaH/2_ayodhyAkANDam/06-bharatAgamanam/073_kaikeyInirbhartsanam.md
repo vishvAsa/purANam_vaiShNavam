@@ -4,11 +4,8 @@ title_english = "073 Bharata reproaches Kaikeyi in many ways"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-073-Kaikeyee_Nirbhartha_Sanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-073-Kaikeyee_Nirbhartha_Sanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "073 Bharata reproaches Kaikeyi in many ways"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वा च स पितुर्वृत्तं भ्रातरौ च विवासितौ।  
-भरतो दुःखसंतप्त इदं वचनमब्रवीत्॥ १॥
+भरतो दुःखसन्तप्त इदं वचनमब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 श्रुत्वा च स पितुर्वृत्तं भ्रातरौ च विवासितौ।  
-भरतो दुःखसंतप्त इदं वचनमब्रवीत्॥ १॥
+भरतो दुःखसन्तप्त इदं वचनमब्रवीत्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -102,14 +99,14 @@ title_english = "073 Bharata reproaches Kaikeyi in many ways"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वां प्राप्य हि पिता मेऽद्य सत्यसंधो महायशाः।  
-तीव्रदुःखाभिसंतप्तो वृत्तो दशरथो नृपः॥ ६॥
+त्वां प्राप्य हि पिता मेऽद्य सत्यसन्धो महायशाः।  
+तीव्रदुःखाभिसन्तप्तो वृत्तो दशरथो नृपः॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्वां प्राप्य हि पिता मेऽद्य सत्यसंधो महायशाः।  
-तीव्रदुःखाभिसंतप्तो वृत्तो दशरथो नृपः॥ ६॥
+त्वां प्राप्य हि पिता मेऽद्य सत्यसन्धो महायशाः।  
+तीव्रदुःखाभिसन्तप्तो वृत्तो दशरथो नृपः॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -306,13 +303,13 @@ title_english = "073 Bharata reproaches Kaikeyi in many ways"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न मे विकांक्षा जायेत त्यक्तुं त्वां पापनिश्चयाम्।  
+न मे विकाङ्क्षा जायेत त्यक्तुं त्वां पापनिश्चयाम्।  
 यदि रामस्य नावेक्षा त्वयि स्यान्मातृवत् सदा॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न मे विकांक्षा जायेत त्यक्तुं त्वां पापनिश्चयाम्।  
+न मे विकाङ्क्षा जायेत त्यक्तुं त्वां पापनिश्चयाम्।  
 यदि रामस्य नावेक्षा त्वयि स्यान्मातृवत् सदा॥ १८॥
 </details>
 
@@ -500,3 +497,4 @@ title_english = "073 Bharata reproaches Kaikeyi in many ways"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्रिसप्ततितमः सर्गः॥ ७३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें तिहत्तरवाँ सर्ग पूरा हुआ॥ ७३॥
 </details>
+

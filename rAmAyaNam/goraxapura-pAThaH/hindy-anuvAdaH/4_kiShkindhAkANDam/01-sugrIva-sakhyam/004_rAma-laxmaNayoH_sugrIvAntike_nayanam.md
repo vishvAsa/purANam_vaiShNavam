@@ -4,11 +4,8 @@ title_english = "004 Lakshmana s narration to Hanuma"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-004-RamaLakshmanayoho_Sugreeva_Sameepa_Nayanam_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-004-RamaLakshmanayoho_Sugreeva_Sameepa_Nayanam_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -119,13 +116,13 @@ title_english = "004 Lakshmana s narration to Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न द्वेष्टा विद्यते तस्य स तु द्वेष्टि न कंचन।  
+न द्वेष्टा विद्यते तस्य स तु द्वेष्टि न कञ्चन।  
 स तु सर्वेषु भूतेषु पितामह इवापरः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न द्वेष्टा विद्यते तस्य स तु द्वेष्टि न कंचन।  
+न द्वेष्टा विद्यते तस्य स तु द्वेष्टि न कञ्चन।  
 स तु सर्वेषु भूतेषु पितामह इवापरः॥ ७॥
 </details>
 
@@ -332,13 +329,13 @@ title_english = "004 Lakshmana s narration to Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यस्य प्रसादे सततं प्रसीदेयुरिमाः प्रजाः।  
-स रामो वानरेन्द्रस्य प्रसादमभिकांक्षते॥ २१॥
+स रामो वानरेन्द्रस्य प्रसादमभिकाङ्क्षते॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यस्य प्रसादे सततं प्रसीदेयुरिमाः प्रजाः।  
-स रामो वानरेन्द्रस्य प्रसादमभिकांक्षते॥ २१॥
+स रामो वानरेन्द्रस्य प्रसादमभिकाङ्क्षते॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -580,3 +577,4 @@ title_english = "004 Lakshmana s narration to Hanuma"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे चतुर्थः सर्गः॥ ४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें चौथा सर्ग पूरा हुआ॥ ४॥
 </details>
+

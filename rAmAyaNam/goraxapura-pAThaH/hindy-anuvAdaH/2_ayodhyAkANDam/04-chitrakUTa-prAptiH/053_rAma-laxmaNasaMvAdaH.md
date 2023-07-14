@@ -4,11 +4,8 @@ title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-053-Rama_Lakshmana_Samvadhaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-053-Rama_Lakshmana_Samvadhaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स तं वृक्षं समासाद्य संध्यामन्वास्य पश्चिमाम्।  
+स तं वृक्षं समासाद्य सन्ध्यामन्वास्य पश्चिमाम्।  
 रामो रमयतां श्रेष्ठ इति होवाच लक्ष्मणम्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स तं वृक्षं समासाद्य संध्यामन्वास्य पश्चिमाम्।  
+स तं वृक्षं समासाद्य सन्ध्यामन्वास्य पश्चिमाम्।  
 रामो रमयतां श्रेष्ठ इति होवाच लक्ष्मणम्॥ १॥
 </details>
 
@@ -68,13 +65,13 @@ title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रात्रिं कथंचिदेवेमां सौमित्रे वर्तयामहे।  
+रात्रिं कथञ्चिदेवेमां सौमित्रे वर्तयामहे।  
 अपवर्तामहे भूमावास्तीर्य स्वयमर्जितैः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-रात्रिं कथंचिदेवेमां सौमित्रे वर्तयामहे।  
+रात्रिं कथञ्चिदेवेमां सौमित्रे वर्तयामहे।  
 अपवर्तामहे भूमावास्तीर्य स्वयमर्जितैः॥ ४॥
 </details>
 
@@ -396,14 +393,14 @@ title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शोचन्त्याश्चाल्पभाग्याया न किंचिदुपकुर्वता।  
-पुत्रेण किमपुत्राया मया कार्यमरिंदम॥ २३॥
+शोचन्त्याश्चाल्पभाग्याया न किञ्चिदुपकुर्वता।  
+पुत्रेण किमपुत्राया मया कार्यमरिन्दम॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-शोचन्त्याश्चाल्पभाग्याया न किंचिदुपकुर्वता।  
-पुत्रेण किमपुत्राया मया कार्यमरिंदम॥ २३॥
+शोचन्त्याश्चाल्पभाग्याया न किञ्चिदुपकुर्वता।  
+पुत्रेण किमपुत्राया मया कार्यमरिन्दम॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -549,13 +546,13 @@ title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नहि तातं न शत्रुघ्नं न सुमित्रां परंतप।  
+नहि तातं न शत्रुघ्नं न सुमित्रां परन्तप।  
 द्रष्टुमिच्छेयमद्याहं स्वर्गं चापि त्वया विना॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नहि तातं न शत्रुघ्नं न सुमित्रां परंतप।  
+नहि तातं न शत्रुघ्नं न सुमित्रां परन्तप।  
 द्रष्टुमिच्छेयमद्याहं स्वर्गं चापि त्वया विना॥ ३२॥
 </details>
 
@@ -585,7 +582,7 @@ title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 
 स लक्ष्मणस्योत्तमपुष्कलं वचो  
 निशम्य चैवं वनवासमादरात्।  
-समाः समस्ता विदधे परंतपः  
+समाः समस्ता विदधे परन्तपः  
 प्रपद्य धर्मं सुचिराय राघवः॥ ३४॥
 </details>
 
@@ -593,7 +590,7 @@ title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 
 स लक्ष्मणस्योत्तमपुष्कलं वचो  
 निशम्य चैवं वनवासमादरात्।  
-समाः समस्ता विदधे परंतपः  
+समाः समस्ता विदधे परन्तपः  
 प्रपद्य धर्मं सुचिराय राघवः॥ ३४॥
 </details>
 
@@ -628,3 +625,4 @@ title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्रिपञ्चाशः सर्गः॥ ५३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें तिरपनवाँ सर्ग पूरा हुआ॥ ५३॥
 </details>
+

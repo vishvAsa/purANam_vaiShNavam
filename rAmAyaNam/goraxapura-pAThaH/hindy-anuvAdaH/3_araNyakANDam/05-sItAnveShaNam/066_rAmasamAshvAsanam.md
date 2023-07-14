@@ -4,11 +4,8 @@ title_english = "066 Lakshmana s advisory words to Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-066-Rama_Sama_Shwasanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-066-Rama_Sama_Shwasanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,7 +14,7 @@ title_english = "066 Lakshmana s advisory words to Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं तथा शोकसंतप्तं विलपन्तमनाथवत्।  
+तं तथा शोकसन्तप्तं विलपन्तमनाथवत्।  
 मोहेन महता युक्तं परिद्यूनमचेतसम्॥ १॥  
 ततः सौमित्रिराश्वस्य मुहूर्तादिव लक्ष्मणः।  
 रामं सम्बोधयामास चरणौ चाभिपीडयन्॥ २॥
@@ -25,7 +22,7 @@ title_english = "066 Lakshmana s advisory words to Rama"
 
 <details><summary>मूलम्</summary>
 
-तं तथा शोकसंतप्तं विलपन्तमनाथवत्।  
+तं तथा शोकसन्तप्तं विलपन्तमनाथवत्।  
 मोहेन महता युक्तं परिद्यूनमचेतसम्॥ १॥  
 ततः सौमित्रिराश्वस्य मुहूर्तादिव लक्ष्मणः।  
 रामं सम्बोधयामास चरणौ चाभिपीडयन्॥ २॥
@@ -364,3 +361,4 @@ title_english = "066 Lakshmana s advisory words to Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे षट्षष्टितमः सर्गः॥ ६६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें छाछठवाँ सर्ग पूरा हुआ॥ ६६॥
 </details>
+

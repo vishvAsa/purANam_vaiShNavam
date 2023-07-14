@@ -4,11 +4,8 @@ title_english = "064 Monkeys arrive at seashore"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-064-Monkeys_arrive_at_seashore.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-064-Monkeys_arrive_at_seashore.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "064 Monkeys arrive at seashore"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आख्याता गृध्रराजेन समुत्प्लुत्य प्लवङ्गमाः।  
-संगताः प्रीतिसंयुक्ता विनेदुः सिंहविक्रमाः॥ १॥
+सङ्गताः प्रीतिसंयुक्ता विनेदुः सिंहविक्रमाः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 आख्याता गृध्रराजेन समुत्प्लुत्य प्लवङ्गमाः।  
-संगताः प्रीतिसंयुक्ता विनेदुः सिंहविक्रमाः॥ १॥
+सङ्गताः प्रीतिसंयुक्ता विनेदुः सिंहविक्रमाः॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -35,13 +32,13 @@ title_english = "064 Monkeys arrive at seashore"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्पातेर्वचनं श्रुत्वा हरयो रावणक्षयम्।  
-हृष्टाः सागरमाजग्मुः सीतादर्शनकांक्षिणः॥ २॥
+हृष्टाः सागरमाजग्मुः सीतादर्शनकाङ्क्षिणः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सम्पातेर्वचनं श्रुत्वा हरयो रावणक्षयम्।  
-हृष्टाः सागरमाजग्मुः सीतादर्शनकांक्षिणः॥ २॥
+हृष्टाः सागरमाजग्मुः सीतादर्शनकाङ्क्षिणः॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -69,13 +66,13 @@ title_english = "064 Monkeys arrive at seashore"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दक्षिणस्य समुद्रस्य समासाद्योत्तरां दिशम्।  
-संनिवेशं ततश्चक्रुर्हरिवीरा महाबलाः॥ ४॥
+सन्निवेशं ततश्चक्रुर्हरिवीरा महाबलाः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दक्षिणस्य समुद्रस्य समासाद्योत्तरां दिशम्।  
-संनिवेशं ततश्चक्रुर्हरिवीरा महाबलाः॥ ४॥
+सन्निवेशं ततश्चक्रुर्हरिवीरा महाबलाः॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -102,13 +99,13 @@ title_english = "064 Monkeys arrive at seashore"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संकुलं दानवेन्द्रैश्च पातालतलवासिभिः।  
+सङ्कुलं दानवेन्द्रैश्च पातालतलवासिभिः।  
 रोमहर्षकरं दृष्ट्वा विषेदुः कपिकुञ्जराः॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संकुलं दानवेन्द्रैश्च पातालतलवासिभिः।  
+सङ्कुलं दानवेन्द्रैश्च पातालतलवासिभिः।  
 रोमहर्षकरं दृष्ट्वा विषेदुः कपिकुञ्जराः॥ ६॥
 </details>
 
@@ -238,13 +235,13 @@ title_english = "064 Monkeys arrive at seashore"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततस्तान् हरिवृद्धांश्च तच्च सैन्यमरिंदमः।  
+ततस्तान् हरिवृद्धांश्च तच्च सैन्यमरिन्दमः।  
 अनुमान्याङ्गदः श्रीमान् वाक्यमर्थवदब्रवीत्॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततस्तान् हरिवृद्धांश्च तच्च सैन्यमरिंदमः।  
+ततस्तान् हरिवृद्धांश्च तच्च सैन्यमरिन्दमः।  
 अनुमान्याङ्गदः श्रीमान् वाक्यमर्थवदब्रवीत्॥ १४॥
 </details>
 
@@ -256,13 +253,13 @@ title_english = "064 Monkeys arrive at seashore"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क इदानीं महातेजा लङ्घयिष्यति सागरम्।  
-कः करिष्यति सुग्रीवं सत्यसंधमरिंदमम्॥ १५॥
+कः करिष्यति सुग्रीवं सत्यसन्धमरिन्दमम्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 क इदानीं महातेजा लङ्घयिष्यति सागरम्।  
-कः करिष्यति सुग्रीवं सत्यसंधमरिंदमम्॥ १५॥
+कः करिष्यति सुग्रीवं सत्यसन्धमरिन्दमम्॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -340,13 +337,13 @@ title_english = "064 Monkeys arrive at seashore"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अङ्गदस्य वचः श्रुत्वा न कश्चित् किंचिदब्रवीत्।  
+अङ्गदस्य वचः श्रुत्वा न कश्चित् किञ्चिदब्रवीत्।  
 स्तिमितेवाभवत् सर्वा सा तत्र हरिवाहिनी॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अङ्गदस्य वचः श्रुत्वा न कश्चित् किंचिदब्रवीत्।  
+अङ्गदस्य वचः श्रुत्वा न कश्चित् किञ्चिदब्रवीत्।  
 स्तिमितेवाभवत् सर्वा सा तत्र हरिवाहिनी॥ २०॥
 </details>
 
@@ -396,3 +393,4 @@ title_english = "064 Monkeys arrive at seashore"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे चतुःषष्टितमः सर्गः॥ ६४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें चौंसठवाँ सर्ग पूरा हुआ॥ ६४॥
 </details>
+

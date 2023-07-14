@@ -4,11 +4,8 @@ title_english = "044 Indrajit comes back in an invisible form"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-044-Indrajit_comes_back_in_an_invisible_form_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-044-Indrajit_comes_back_in_an_invisible_form_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -85,13 +82,13 @@ title_english = "044 Indrajit comes back in an invisible form"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कालाः काञ्चनसंनाहास्तस्मिंस्तमसि राक्षसाः।  
+कालाः काञ्चनसन्नाहास्तस्मिंस्तमसि राक्षसाः।  
 सम्प्रदृश्यन्त शैलेन्द्रा दीप्तौषधिवना इव॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कालाः काञ्चनसंनाहास्तस्मिंस्तमसि राक्षसाः।  
+कालाः काञ्चनसन्नाहास्तस्मिंस्तमसि राक्षसाः।  
 सम्प्रदृश्यन्त शैलेन्द्रा दीप्तौषधिवना इव॥ ५॥
 </details>
 
@@ -172,13 +169,13 @@ title_english = "044 Indrajit comes back in an invisible form"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तुरंगखुरविध्वस्तं रथनेमिसमुत्थितम्॥ १०॥  
+तुरङ्गखुरविध्वस्तं रथनेमिसमुत्थितम्॥ १०॥  
 रुरोध कर्णनेत्राणि युध्यतां धरणीरजः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तुरंगखुरविध्वस्तं रथनेमिसमुत्थितम्॥ १०॥  
+तुरङ्गखुरविध्वस्तं रथनेमिसमुत्थितम्॥ १०॥  
 रुरोध कर्णनेत्राणि युध्यतां धरणीरजः।
 </details>
 
@@ -189,13 +186,13 @@ title_english = "044 Indrajit comes back in an invisible form"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्तमाने तथा घोरे संग्रामे लोमहर्षणे।  
+वर्तमाने तथा घोरे सङ्ग्रामे लोमहर्षणे।  
 रुधिरौघा महाघोरा नद्यस्तत्र विसुस्रुवुः॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वर्तमाने तथा घोरे संग्रामे लोमहर्षणे।  
+वर्तमाने तथा घोरे सङ्ग्रामे लोमहर्षणे।  
 रुधिरौघा महाघोरा नद्यस्तत्र विसुस्रुवुः॥ ११॥
 </details>
 
@@ -432,13 +429,13 @@ title_english = "044 Indrajit comes back in an invisible form"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन शब्देन महता प्रवृद्धेन समन्ततः।  
-त्रिकूटः कंदराकीर्णः प्रव्याहरदिवाचलः॥ २६॥
+त्रिकूटः कन्दराकीर्णः प्रव्याहरदिवाचलः॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तेन शब्देन महता प्रवृद्धेन समन्ततः।  
-त्रिकूटः कंदराकीर्णः प्रव्याहरदिवाचलः॥ २६॥
+त्रिकूटः कन्दराकीर्णः प्रव्याहरदिवाचलः॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -663,3 +660,4 @@ title_english = "044 Indrajit comes back in an invisible form"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चतुश्चत्वारिंशः सर्गः॥ ४४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें चौवालीसवाँ सर्ग पूरा हुआ॥ ४४॥
 </details>
+

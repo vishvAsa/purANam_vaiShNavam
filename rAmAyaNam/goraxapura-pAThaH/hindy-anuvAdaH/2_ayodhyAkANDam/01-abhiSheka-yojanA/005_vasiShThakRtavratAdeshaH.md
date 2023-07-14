@@ -4,11 +4,8 @@ title_english = "005 Festivities in Ayodhya"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-005-Vasista_Krutha_Vrathadeshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-005-Vasista_Krutha_Vrathadeshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "005 Festivities in Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संदिश्य रामं नृपतिः श्वोभाविन्यभिषेचने।  
+सन्दिश्य रामं नृपतिः श्वोभाविन्यभिषेचने।  
 पुरोहितं समाहूय वसिष्ठमिदमब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संदिश्य रामं नृपतिः श्वोभाविन्यभिषेचने।  
+सन्दिश्य रामं नृपतिः श्वोभाविन्यभिषेचने।  
 पुरोहितं समाहूय वसिष्ठमिदमब्रवीत्॥ १॥
 </details>
 
@@ -276,13 +273,13 @@ title_english = "005 Festivities in Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जनवृन्दोर्मिसंघर्षहर्षस्वनवृतस्तदा।  
+जनवृन्दोर्मिसङ्घर्षहर्षस्वनवृतस्तदा।  
 बभूव राजमार्गस्य सागरस्येव निःस्वनः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-जनवृन्दोर्मिसंघर्षहर्षस्वनवृतस्तदा।  
+जनवृन्दोर्मिसङ्घर्षहर्षस्वनवृतस्तदा।  
 बभूव राजमार्गस्य सागरस्येव निःस्वनः॥ १७॥
 </details>
 
@@ -311,13 +308,13 @@ title_english = "005 Festivities in Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा ह्ययोध्यानिलयः सस्त्रीबालाकुलो जनः।  
-रामाभिषेकमाकांक्षन्नाकांक्षन्नुदयं रवेः॥ १९॥
+रामाभिषेकमाकाङ्क्षन्नाकाङ्क्षन्नुदयं रवेः॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तदा ह्ययोध्यानिलयः सस्त्रीबालाकुलो जनः।  
-रामाभिषेकमाकांक्षन्नाकांक्षन्नुदयं रवेः॥ १९॥
+रामाभिषेकमाकाङ्क्षन्नाकाङ्क्षन्नुदयं रवेः॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -327,13 +324,13 @@ title_english = "005 Festivities in Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रजालंकारभूतं च जनस्यानन्दवर्धनम्।  
+प्रजालङ्कारभूतं च जनस्यानन्दवर्धनम्।  
 उत्सुकोऽभूज्जनो द्रष्टुं तमयोध्यामहोत्सवम्॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्रजालंकारभूतं च जनस्यानन्दवर्धनम्।  
+प्रजालङ्कारभूतं च जनस्यानन्दवर्धनम्।  
 उत्सुकोऽभूज्जनो द्रष्टुं तमयोध्यामहोत्सवम्॥ २०॥
 </details>
 
@@ -432,7 +429,7 @@ title_english = "005 Festivities in Ayodhya"
 तदग्र्यवेषप्रमदाजनाकुलं  
 महेन्द्रवेश्मप्रतिमं निवेशनम्।  
 व्यदीपयंश्चारु विवेश पार्थिवः  
-शशीव तारागणसंकुलं नभः॥ २६॥
+शशीव तारागणसङ्कुलं नभः॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -440,7 +437,7 @@ title_english = "005 Festivities in Ayodhya"
 तदग्र्यवेषप्रमदाजनाकुलं  
 महेन्द्रवेश्मप्रतिमं निवेशनम्।  
 व्यदीपयंश्चारु विवेश पार्थिवः  
-शशीव तारागणसंकुलं नभः॥ २६॥
+शशीव तारागणसङ्कुलं नभः॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -453,3 +450,4 @@ title_english = "005 Festivities in Ayodhya"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे पञ्चमः सर्गः॥ ५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें पाँचवाँ सर्ग पूरा हुआ॥ ५॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "104 Vasishta advances to the hermitage of Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-104-Rama_Kousalya_Deenam_Sambhashanam_.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-104-Rama_Kousalya_Deenam_Sambhashanam_.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -221,13 +218,13 @@ title_english = "104 Vasishta advances to the hermitage of Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अतो दुःखतरं लोके न किंचित् प्रतिभाति मे।  
+अतो दुःखतरं लोके न किञ्चित् प्रतिभाति मे।  
 यत्र रामः पितुर्दद्यादिङ्गुदीक्षोदमृद्धिमान्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अतो दुःखतरं लोके न किंचित् प्रतिभाति मे।  
+अतो दुःखतरं लोके न किञ्चित् प्रतिभाति मे।  
 यत्र रामः पितुर्दद्यादिङ्गुदीक्षोदमृद्धिमान्॥ १३॥
 </details>
 
@@ -307,13 +304,13 @@ title_english = "104 Vasishta advances to the hermitage of Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तासां रामः समुत्थाय जग्राह चरणाम्बुजान्।  
-मातॄणां मनुजव्याघ्रः सर्वासां सत्यसंगरः॥ १८॥
+मातॄणां मनुजव्याघ्रः सर्वासां सत्यसङ्गरः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तासां रामः समुत्थाय जग्राह चरणाम्बुजान्।  
-मातॄणां मनुजव्याघ्रः सर्वासां सत्यसंगरः॥ १८॥
+मातॄणां मनुजव्याघ्रः सर्वासां सत्यसङ्गरः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -374,13 +371,13 @@ title_english = "104 Vasishta advances to the hermitage of Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सीतापि चरणांस्तासामुपसंगृह्य दुःखिता।  
+सीतापि चरणांस्तासामुपसङ्गृह्य दुःखिता।  
 श्वश्रूणामश्रुपूर्णाक्षी सम्बभूवाग्रतः स्थिता॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सीतापि चरणांस्तासामुपसंगृह्य दुःखिता।  
+सीतापि चरणांस्तासामुपसङ्गृह्य दुःखिता।  
 श्वश्रूणामश्रुपूर्णाक्षी सम्बभूवाग्रतः स्थिता॥ २२॥
 </details>
 
@@ -425,13 +422,13 @@ title_english = "104 Vasishta advances to the hermitage of Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पद्ममातपसंतप्तं परिक्लिष्टमिवोत्पलम्।  
+पद्ममातपसन्तप्तं परिक्लिष्टमिवोत्पलम्।  
 काञ्चनं रजसा ध्वस्तं क्लिष्टं चन्द्रमिवाम्बुदैः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पद्ममातपसंतप्तं परिक्लिष्टमिवोत्पलम्।  
+पद्ममातपसन्तप्तं परिक्लिष्टमिवोत्पलम्।  
 काञ्चनं रजसा ध्वस्तं क्लिष्टं चन्द्रमिवाम्बुदैः॥ २५॥
 </details>
 
@@ -584,3 +581,4 @@ title_english = "104 Vasishta advances to the hermitage of Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे चतुरधिकशततमः सर्गः॥ १०४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ चारवाँ सर्ग पूरा हुआ॥ १०४॥
 </details>
+

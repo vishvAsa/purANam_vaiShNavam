@@ -4,11 +4,8 @@ title_english = "017 Vali s questioning Rama s propriety"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-017-Valikrutha_Rama_Ninda.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-017-Valikrutha_Rama_Ninda.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -103,13 +100,13 @@ title_english = "017 Vali s questioning Rama s propriety"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तया मालया वीरो हैमया हरियूथपः।  
-संध्यानुगतपर्यन्तः पयोधर इवाभवत्॥ ६॥
+सन्ध्यानुगतपर्यन्तः पयोधर इवाभवत्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स तया मालया वीरो हैमया हरियूथपः।  
-संध्यानुगतपर्यन्तः पयोधर इवाभवत्॥ ६॥
+सन्ध्यानुगतपर्यन्तः पयोधर इवाभवत्॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -153,7 +150,7 @@ title_english = "017 Vali s questioning Rama s propriety"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं तथा **पतितं** संख्ये  
+तं तथा **पतितं** सङ्ख्ये  
 गतार्चिषम् इवानलम्।  
 ययातिम् इव पुण्यान्ते  
 देवलोकाद् इह च्युतम्॥ ९॥+++(5)+++  
@@ -171,7 +168,7 @@ title_english = "017 Vali s questioning Rama s propriety"
 
 <details><summary>मूलम्</summary>
 
-तं तथा पतितं संख्ये गतार्चिषमिवानलम्।  
+तं तथा पतितं सङ्ख्ये गतार्चिषमिवानलम्।  
 ययातिमिव पुण्यान्ते देवलोकादिह च्युतम्॥ ९॥  
 आदित्यमिव कालेन युगान्ते भुवि पातितम्।  
 महेन्द्रमिव दुर्धर्षमुपेन्द्रमिव दुःसहम्॥ १०॥  
@@ -503,13 +500,13 @@ title_english = "017 Vali s questioning Rama s propriety"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नयश्च विनयश्चोभौ निग्रहानुग्रहावपि।  
-राजवृत्तिरसंकीर्णा न नृपाः कामवृत्तयः॥ ३२॥
+राजवृत्तिरसङ्कीर्णा न नृपाः कामवृत्तयः॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नयश्च विनयश्चोभौ निग्रहानुग्रहावपि।  
-राजवृत्तिरसंकीर्णा न नृपाः कामवृत्तयः॥ ३२॥
+राजवृत्तिरसङ्कीर्णा न नृपाः कामवृत्तयः॥ ३२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -520,13 +517,13 @@ title_english = "017 Vali s questioning Rama s propriety"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं तु कामप्रधानश्च कोपनश्चानवस्थितः।  
-राजवृत्तेषु संकीर्णः शरासनपरायणः॥ ३३॥
+राजवृत्तेषु सङ्कीर्णः शरासनपरायणः॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्वं तु कामप्रधानश्च कोपनश्चानवस्थितः।  
-राजवृत्तेषु संकीर्णः शरासनपरायणः॥ ३३॥
+राजवृत्तेषु सङ्कीर्णः शरासनपरायणः॥ ३३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -632,7 +629,6 @@ title_english = "017 Vali s questioning Rama s propriety"
 O scion of raghu, five five-fingered animals are edible for v1s& v2s: the hedgehog, the porcupine, the Varanus lizard, the hare & the turtle as the 5th
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 पञ्च पञ्चनखा भक्ष्या ब्रह्मक्षत्रेण राघव।  
@@ -661,7 +657,6 @@ O king, educated folks don't touch (i.e., wear) my skin& bones. I, that five-fin
 
 The taboo against eating primates/wearing bones/skin
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -693,13 +688,13 @@ The taboo against eating primates/wearing bones/skin
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वया नाथेन काकुत्स्थ न सनाथा वसुंधरा।  
+त्वया नाथेन काकुत्स्थ न सनाथा वसुन्धरा।  
 प्रमदा शीलसम्पूर्णा पत्येव च विधर्मणा॥ ४२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्वया नाथेन काकुत्स्थ न सनाथा वसुंधरा।  
+त्वया नाथेन काकुत्स्थ न सनाथा वसुन्धरा।  
 प्रमदा शीलसम्पूर्णा पत्येव च विधर्मणा॥ ४२॥
 </details>
 
@@ -901,7 +896,7 @@ The taboo against eating primates/wearing bones/skin
 
 इत्येवमुक्त्वा परिशुष्कवक्त्रः  
 शराभिघाताद् व्यथितो महात्मा।  
-समीक्ष्य रामं रविसंनिकाशं  
+समीक्ष्य रामं रविसन्निकाशं  
 तूष्णीं बभौ वानरराजसूनुः॥ ५४॥
 </details>
 
@@ -909,7 +904,7 @@ The taboo against eating primates/wearing bones/skin
 
 इत्येवमुक्त्वा परिशुष्कवक्त्रः  
 शराभिघाताद् व्यथितो महात्मा।  
-समीक्ष्य रामं रविसंनिकाशं  
+समीक्ष्य रामं रविसन्निकाशं  
 तूष्णीं बभौ वानरराजसूनुः॥ ५४॥
 </details>
 
@@ -923,3 +918,4 @@ The taboo against eating primates/wearing bones/skin
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे सप्तदशः सर्गः॥ १७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें सत्रहवाँ सर्ग पूरा हुआ॥ १७॥
 </details>
+

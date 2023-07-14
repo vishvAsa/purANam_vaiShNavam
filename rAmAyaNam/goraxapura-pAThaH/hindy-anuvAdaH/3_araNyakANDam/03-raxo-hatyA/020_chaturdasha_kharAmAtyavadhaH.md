@@ -4,11 +4,8 @@ title_english = "020 Rama eliminates Khara s demons"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-020-Chaturdhasha_Rakshasa_Samharaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-020-Chaturdhasha_Rakshasa_Samharaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -157,13 +154,13 @@ title_english = "020 Rama eliminates Khara s demons"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तिष्ठतैवात्र संतुष्टा नोपवर्तितुमर्हथ।  
+तिष्ठतैवात्र सन्तुष्टा नोपवर्तितुमर्हथ।  
 यदि प्राणैरिहार्थो वो निवर्तध्वं निशाचराः॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तिष्ठतैवात्र संतुष्टा नोपवर्तितुमर्हथ।  
+तिष्ठतैवात्र सन्तुष्टा नोपवर्तितुमर्हथ।  
 यदि प्राणैरिहार्थो वो निवर्तध्वं निशाचराः॥ १०॥
 </details>
 
@@ -175,7 +172,7 @@ title_english = "020 Rama eliminates Khara s demons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य तद् वचनं श्रुत्वा राक्षसास्ते चतुर्दश।  
-ऊचुर्वाचं सुसंक्रुद्धा ब्रह्मघ्नाः शूलपाणयः॥ ११॥  
+ऊचुर्वाचं सुसङ्क्रुद्धा ब्रह्मघ्नाः शूलपाणयः॥ ११॥  
 संरक्तनयना घोरा रामं संरक्तलोचनम्।  
 परुषा मधुराभाषं हृष्टा दृष्टपराक्रमम्॥ १२॥
 </details>
@@ -183,7 +180,7 @@ title_english = "020 Rama eliminates Khara s demons"
 <details><summary>मूलम्</summary>
 
 तस्य तद् वचनं श्रुत्वा राक्षसास्ते चतुर्दश।  
-ऊचुर्वाचं सुसंक्रुद्धा ब्रह्मघ्नाः शूलपाणयः॥ ११॥  
+ऊचुर्वाचं सुसङ्क्रुद्धा ब्रह्मघ्नाः शूलपाणयः॥ ११॥  
 संरक्तनयना घोरा रामं संरक्तलोचनम्।  
 परुषा मधुराभाषं हृष्टा दृष्टपराक्रमम्॥ १२॥
 </details>
@@ -282,7 +279,7 @@ title_english = "020 Rama eliminates Khara s demons"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः पश्चान्महातेजा नाराचान् सूर्यसंनिभान्॥ १८॥  
+ततः पश्चान्महातेजा नाराचान् सूर्यसन्निभान्॥ १८॥  
 जग्राह परमक्रुद्धश्चतुर्दश शिलाशितान्।  
 गृहीत्वा धनुरायम्य लक्ष्यानुद्दिश्य राक्षसान्॥ १९॥  
 मुमोच राघवो बाणान् वज्रानिव शतक्रतुः।
@@ -290,7 +287,7 @@ title_english = "020 Rama eliminates Khara s demons"
 
 <details><summary>मूलम्</summary>
 
-ततः पश्चान्महातेजा नाराचान् सूर्यसंनिभान्॥ १८॥  
+ततः पश्चान्महातेजा नाराचान् सूर्यसन्निभान्॥ १८॥  
 जग्राह परमक्रुद्धश्चतुर्दश शिलाशितान्।  
 गृहीत्वा धनुरायम्य लक्ष्यानुद्दिश्य राक्षसान्॥ १९॥  
 मुमोच राघवो बाणान् वज्रानिव शतक्रतुः।
@@ -338,14 +335,14 @@ title_english = "020 Rama eliminates Khara s demons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तान् भूमौ पतितान् दृष्ट्वा राक्षसी क्रोधमूर्छिता॥ २२॥  
-उपगम्य खरं सा तु किंचित्संशुष्कशोणिता।  
+उपगम्य खरं सा तु किञ्चित्संशुष्कशोणिता।  
 पपात पुनरेवार्ता सनिर्यासेव वल्लरी॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तान् भूमौ पतितान् दृष्ट्वा राक्षसी क्रोधमूर्छिता॥ २२॥  
-उपगम्य खरं सा तु किंचित्संशुष्कशोणिता।  
+उपगम्य खरं सा तु किञ्चित्संशुष्कशोणिता।  
 पपात पुनरेवार्ता सनिर्यासेव वल्लरी॥ २३॥
 </details>
 
@@ -397,3 +394,4 @@ title_english = "020 Rama eliminates Khara s demons"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे विंशः सर्गः॥ २०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें बीसवाँ सर्ग पूरा हुआ॥ २०॥
 </details>
+

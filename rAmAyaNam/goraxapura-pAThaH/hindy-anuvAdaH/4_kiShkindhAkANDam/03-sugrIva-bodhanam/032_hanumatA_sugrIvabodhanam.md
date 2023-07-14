@@ -4,11 +4,8 @@ title_english = "032 Hanuma s advise to Sugreeva"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-032-Hanumatha_Sugreeva_Bodhanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-032-Hanumatha_Sugreeva_Bodhanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,13 +48,13 @@ title_english = "032 Hanuma s advise to Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न मे दुर्व्याहृतं किंचिन्नापि मे दुरनुष्ठितम्।  
+न मे दुर्व्याहृतं किञ्चिन्नापि मे दुरनुष्ठितम्।  
 लक्ष्मणो राघवभ्राता क्रुद्धः किमिति चिन्तये॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न मे दुर्व्याहृतं किंचिन्नापि मे दुरनुष्ठितम्।  
+न मे दुर्व्याहृतं किञ्चिन्नापि मे दुरनुष्ठितम्।  
 लक्ष्मणो राघवभ्राता क्रुद्धः किमिति चिन्तये॥ ३॥
 </details>
 
@@ -153,13 +150,13 @@ title_english = "032 Hanuma s advise to Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुग्रीवेणैवमुक्ते तु हनूमान् हरिपुंगवः।  
+सुग्रीवेणैवमुक्ते तु हनूमान् हरिपुङ्गवः।  
 उवाच स्वेन तर्केण मध्ये वानरमन्त्रिणाम्॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सुग्रीवेणैवमुक्ते तु हनूमान् हरिपुंगवः।  
+सुग्रीवेणैवमुक्ते तु हनूमान् हरिपुङ्गवः।  
 उवाच स्वेन तर्केण मध्ये वानरमन्त्रिणाम्॥ ९॥
 </details>
 
@@ -242,13 +239,13 @@ title_english = "032 Hanuma s advise to Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्राप्तमुद्योगकालं तु नावैषि हरिपुंगव।  
+प्राप्तमुद्योगकालं तु नावैषि हरिपुङ्गव।  
 त्वं प्रमत्त इति व्यक्तं लक्ष्मणोऽयमिहागतः॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्राप्तमुद्योगकालं तु नावैषि हरिपुंगव।  
+प्राप्तमुद्योगकालं तु नावैषि हरिपुङ्गव।  
 त्वं प्रमत्त इति व्यक्तं लक्ष्मणोऽयमिहागतः॥ १५॥
 </details>
 
@@ -385,3 +382,4 @@ title_english = "032 Hanuma s advise to Sugreeva"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे द्वात्रिंशः सर्गः॥ ३२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें बत्तीसवाँ सर्ग पूरा हुआ॥ ३२॥
 </details>
+

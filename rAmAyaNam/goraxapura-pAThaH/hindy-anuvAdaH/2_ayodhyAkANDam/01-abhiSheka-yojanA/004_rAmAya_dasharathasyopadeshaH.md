@@ -4,11 +4,8 @@ title_english = "004 Dasaratha s Premonition"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-004-Ramaya_Dasharatha_Syopadeshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-004-Ramaya_Dasharatha_Syopadeshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -242,13 +239,13 @@ title_english = "004 Dasaratha s Premonition"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न किंचिन्मम कर्तव्यं तवान्यत्राभिषेचनात्।  
+न किञ्चिन्मम कर्तव्यं तवान्यत्राभिषेचनात्।  
 अतो यत्त्वामहं ब्रूयां तन्मे त्वं कर्तुमर्हसि॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न किंचिन्मम कर्तव्यं तवान्यत्राभिषेचनात्।  
+न किञ्चिन्मम कर्तव्यं तवान्यत्राभिषेचनात्।  
 अतो यत्त्वामहं ब्रूयां तन्मे त्वं कर्तुमर्हसि॥ १५॥
 </details>
 
@@ -362,13 +359,13 @@ title_english = "004 Dasaratha s Premonition"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र पुष्येऽभिषिञ्चस्व मनस्त्वरयतीव माम्।  
-श्वस्त्वाहमभिषेक्ष्यामि यौवराज्ये परंतप॥ २२॥
+श्वस्त्वाहमभिषेक्ष्यामि यौवराज्ये परन्तप॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तत्र पुष्येऽभिषिञ्चस्व मनस्त्वरयतीव माम्।  
-श्वस्त्वाहमभिषेक्ष्यामि यौवराज्ये परंतप॥ २२॥
+श्वस्त्वाहमभिषेक्ष्यामि यौवराज्ये परन्तप॥ २२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -607,13 +604,13 @@ title_english = "004 Dasaratha s Premonition"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतच्छ्रुत्वा तु कौसल्या चिरकालाभिकांक्षितम्।  
+एतच्छ्रुत्वा तु कौसल्या चिरकालाभिकाङ्क्षितम्।  
 हर्षबाष्पाकुलं वाक्यमिदं राममभाषत॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एतच्छ्रुत्वा तु कौसल्या चिरकालाभिकांक्षितम्।  
+एतच्छ्रुत्वा तु कौसल्या चिरकालाभिकाङ्क्षितम्।  
 हर्षबाष्पाकुलं वाक्यमिदं राममभाषत॥ ३८॥
 </details>
 
@@ -692,13 +689,13 @@ title_english = "004 Dasaratha s Premonition"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लक्ष्मणेमां मया सार्धं प्रशाधि त्वं वसुंधराम्।  
+लक्ष्मणेमां मया सार्धं प्रशाधि त्वं वसुन्धराम्।  
 द्वितीयं मेऽन्तरात्मानं त्वामियं श्रीरुपस्थिता॥ ४३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-लक्ष्मणेमां मया सार्धं प्रशाधि त्वं वसुंधराम्।  
+लक्ष्मणेमां मया सार्धं प्रशाधि त्वं वसुन्धराम्।  
 द्वितीयं मेऽन्तरात्मानं त्वामियं श्रीरुपस्थिता॥ ४३॥
 </details>
 
@@ -746,3 +743,4 @@ title_english = "004 Dasaratha s Premonition"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे चतुर्थः सर्गः॥ ४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें चौथा सर्ग पूरा हुआ॥ ४॥
 </details>
+

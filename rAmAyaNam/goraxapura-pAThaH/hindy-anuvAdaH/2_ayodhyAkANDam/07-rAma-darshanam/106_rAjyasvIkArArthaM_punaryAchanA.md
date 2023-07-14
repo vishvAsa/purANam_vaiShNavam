@@ -4,11 +4,8 @@ title_english = "106 Bharata gives many reasons to Rama to accept the throne"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-106-Raajya_Sweekaarardham_Punaryaachana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-106-Raajya_Sweekaarardham_Punaryaachana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -20,7 +17,7 @@ title_english = "106 Bharata gives many reasons to Rama to accept the throne"
 एवमुक्त्वा तु विरते रामे वचनमर्थवत्।  
 ततो मन्दाकिनीतीरे रामं प्रकृतिवत्सलम्॥ १॥  
 उवाच भरतश्चित्रं धार्मिको धािर्मकं वचः।  
-को हि स्यादीदृशो लोके यादृशस्त्वमरिंदम॥ २॥
+को हि स्यादीदृशो लोके यादृशस्त्वमरिन्दम॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -28,7 +25,7 @@ title_english = "106 Bharata gives many reasons to Rama to accept the throne"
 एवमुक्त्वा तु विरते रामे वचनमर्थवत्।  
 ततो मन्दाकिनीतीरे रामं प्रकृतिवत्सलम्॥ १॥  
 उवाच भरतश्चित्रं धार्मिको धािर्मकं वचः।  
-को हि स्यादीदृशो लोके यादृशस्त्वमरिंदम॥ २॥
+को हि स्यादीदृशो लोके यादृशस्त्वमरिन्दम॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -89,13 +86,13 @@ title_english = "106 Bharata gives many reasons to Rama to accept the throne"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अमरोपमसत्त्वस्त्वं महात्मा सत्यसंगरः।  
+अमरोपमसत्त्वस्त्वं महात्मा सत्यसङ्गरः।  
 सर्वज्ञः सर्वदर्शी च बुद्धिमांश्चासि राघव॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अमरोपमसत्त्वस्त्वं महात्मा सत्यसंगरः।  
+अमरोपमसत्त्वस्त्वं महात्मा सत्यसङ्गरः।  
 सर्वज्ञः सर्वदर्शी च बुद्धिमांश्चासि राघव॥ ६॥
 </details>
 
@@ -106,13 +103,13 @@ title_english = "106 Bharata gives many reasons to Rama to accept the throne"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न त्वामेवंगुणैर्युक्तं प्रभवाभवकोविदम्।  
+न त्वामेवङ्गुणैर्युक्तं प्रभवाभवकोविदम्।  
 अविषह्यतमं दुःखमासादयितुमर्हति॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न त्वामेवंगुणैर्युक्तं प्रभवाभवकोविदम्।  
+न त्वामेवङ्गुणैर्युक्तं प्रभवाभवकोविदम्।  
 अविषह्यतमं दुःखमासादयितुमर्हति॥ ७॥
 </details>
 
@@ -225,13 +222,13 @@ title_english = "106 Bharata gives many reasons to Rama to accept the throne"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-साध्वर्थमभिसंधाय क्रोधान्मोहाच्च साहसात्।  
+साध्वर्थमभिसन्धाय क्रोधान्मोहाच्च साहसात्।  
 तातस्य यदतिक्रान्तं प्रत्याहरतु तद् भवान्॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-साध्वर्थमभिसंधाय क्रोधान्मोहाच्च साहसात्।  
+साध्वर्थमभिसन्धाय क्रोधान्मोहाच्च साहसात्।  
 तातस्य यदतिक्रान्तं प्रत्याहरतु तद् भवान्॥ १४॥
 </details>
 
@@ -591,7 +588,7 @@ title_english = "106 Bharata gives many reasons to Rama to accept the throne"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमृत्विजो नैगमयूथवल्लभा-  
-स्तथा विसंज्ञाश्रुकलाश्च मातरः।  
+स्तथा विसञ्ज्ञाश्रुकलाश्च मातरः।  
 तथा ब्रुवाणं भरतं प्रतुष्टुवुः  
 प्रणम्य रामं च ययाचिरे सह॥ ३५॥
 </details>
@@ -599,7 +596,7 @@ title_english = "106 Bharata gives many reasons to Rama to accept the throne"
 <details><summary>मूलम्</summary>
 
 तमृत्विजो नैगमयूथवल्लभा-  
-स्तथा विसंज्ञाश्रुकलाश्च मातरः।  
+स्तथा विसञ्ज्ञाश्रुकलाश्च मातरः।  
 तथा ब्रुवाणं भरतं प्रतुष्टुवुः  
 प्रणम्य रामं च ययाचिरे सह॥ ३५॥
 </details>
@@ -614,3 +611,4 @@ title_english = "106 Bharata gives many reasons to Rama to accept the throne"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे षडधिकशततमः सर्गः॥ १०६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ छवाँ सर्ग पूरा हुआ॥ १०६॥
 </details>
+

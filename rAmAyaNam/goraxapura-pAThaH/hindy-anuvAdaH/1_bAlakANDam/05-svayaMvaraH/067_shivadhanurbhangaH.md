@@ -4,11 +4,8 @@ title_english = "067 rAma breaks shiva s bow"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-067-Shiva_Dhanur_Bhamgaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-067-Shiva_Dhanur_Bhamgaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -69,13 +66,13 @@ title_english = "067 rAma breaks shiva s bow"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नृणां शतानि पञ्चाशद् व्यायतानां महात्मनाम्।  
-मञ्जूषामष्टचक्रां तां समूहुस्ते कथंचन॥ ४॥
+मञ्जूषामष्टचक्रां तां समूहुस्ते कथञ्चन॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नृणां शतानि पञ्चाशद् व्यायतानां महात्मनाम्।  
-मञ्जूषामष्टचक्रां तां समूहुस्ते कथंचन॥ ४॥
+मञ्जूषामष्टचक्रां तां समूहुस्ते कथञ्चन॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -187,13 +184,13 @@ title_english = "067 rAma breaks shiva s bow"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदेतद् धनुषां श्रेष्ठमानीतं मुनिपुंगव।  
+तदेतद् धनुषां श्रेष्ठमानीतं मुनिपुङ्गव।  
 दर्शयैतन्महाभाग अनयो राजपुत्रयोः॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदेतद् धनुषां श्रेष्ठमानीतं मुनिपुंगव।  
+तदेतद् धनुषां श्रेष्ठमानीतं मुनिपुङ्गव।  
 दर्शयैतन्महाभाग अनयो राजपुत्रयोः॥ ११॥
 </details>
 
@@ -328,13 +325,13 @@ title_english = "067 rAma breaks shiva s bow"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रत्याश्वस्ते जने तस्मिन् राजा विगतसाध्वसः।  
-उवाच प्राञ्जलिर्वाक्यं वाक्यज्ञो मुनिपुंगवम्॥ २०॥
+उवाच प्राञ्जलिर्वाक्यं वाक्यज्ञो मुनिपुङ्गवम्॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रत्याश्वस्ते जने तस्मिन् राजा विगतसाध्वसः।  
-उवाच प्राञ्जलिर्वाक्यं वाक्यज्ञो मुनिपुंगवम्॥ २०॥
+उवाच प्राञ्जलिर्वाक्यं वाक्यज्ञो मुनिपुङ्गवम्॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -455,3 +452,4 @@ title_english = "067 rAma breaks shiva s bow"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तषष्टितमः सर्गः॥ ६७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें सरसठवाँ सर्ग पूरा हुआ॥ ६७॥
 </details>
+

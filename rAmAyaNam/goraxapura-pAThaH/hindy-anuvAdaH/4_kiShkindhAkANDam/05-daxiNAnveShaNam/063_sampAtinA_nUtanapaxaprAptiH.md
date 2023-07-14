@@ -4,11 +4,8 @@ title_english = "063 Sampaati gets new wings and flew away"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-063-Sampaati_gets_new_wings_and_flew_away.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-063-Sampaati_gets_new_wings_and_flew_away.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -74,13 +71,13 @@ title_english = "063 Sampaati gets new wings and flew away"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाप्रस्थानमासाद्य स्वर्गते तु निशाकरे।  
-मां निर्दहति संतापो वितर्कैर्बहुभिर्वृतम्॥ ४॥
+मां निर्दहति सन्तापो वितर्कैर्बहुभिर्वृतम्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 महाप्रस्थानमासाद्य स्वर्गते तु निशाकरे।  
-मां निर्दहति संतापो वितर्कैर्बहुभिर्वृतम्॥ ४॥
+मां निर्दहति सन्तापो वितर्कैर्बहुभिर्वृतम्॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -110,13 +107,13 @@ title_english = "063 Sampaati gets new wings and flew away"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बुध्यता च मया वीर्यं रावणस्य दुरात्मनः॥ ६॥  
-पुत्रः संतर्जितो वाग्भिर्न त्राता मैथिली कथम्।
+पुत्रः सन्तर्जितो वाग्भिर्न त्राता मैथिली कथम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 बुध्यता च मया वीर्यं रावणस्य दुरात्मनः॥ ६॥  
-पुत्रः संतर्जितो वाग्भिर्न त्राता मैथिली कथम्।
+पुत्रः सन्तर्जितो वाग्भिर्न त्राता मैथिली कथम्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -286,3 +283,4 @@ title_english = "063 Sampaati gets new wings and flew away"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे त्रिषष्टितमः सर्गः॥ ६३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें तिरसठवाँ सर्ग पूरा हुआ॥ ६३॥
 </details>
+

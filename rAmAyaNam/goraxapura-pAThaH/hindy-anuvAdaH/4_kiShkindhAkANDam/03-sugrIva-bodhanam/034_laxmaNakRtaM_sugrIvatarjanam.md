@@ -4,11 +4,8 @@ title_english = "034 Lakshmana upbraids Sugreeva"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-034-Lakshmana_Krutham_Sugreeva_Tharjanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-034-Lakshmana_Krutham_Sugreeva_Tharjanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,17 +32,17 @@ title_english = "034 Lakshmana upbraids Sugreeva"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 क्रुद्धं निःश्वसमानं तं प्रदीप्तमिव तेजसा।  
-भ्रातुर्व्यसनसंतप्तं दृष्ट्वा दशरथात्मजम्॥ २॥  
+भ्रातुर्व्यसनसन्तप्तं दृष्ट्वा दशरथात्मजम्॥ २॥  
 उत्पपात हरिश्रेष्ठो हित्वा सौवर्णमासनम्।  
-महान् महेन्द्रस्य यथा स्वलंकृत इव ध्वजः॥ ३॥
+महान् महेन्द्रस्य यथा स्वलङ्कृत इव ध्वजः॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 क्रुद्धं निःश्वसमानं तं प्रदीप्तमिव तेजसा।  
-भ्रातुर्व्यसनसंतप्तं दृष्ट्वा दशरथात्मजम्॥ २॥  
+भ्रातुर्व्यसनसन्तप्तं दृष्ट्वा दशरथात्मजम्॥ २॥  
 उत्पपात हरिश्रेष्ठो हित्वा सौवर्णमासनम्।  
-महान् महेन्द्रस्य यथा स्वलंकृत इव ध्वजः॥ ३॥
+महान् महेन्द्रस्य यथा स्वलङ्कृत इव ध्वजः॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -72,13 +69,13 @@ title_english = "034 Lakshmana upbraids Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संरक्तनयनः श्रीमान् संचचार कृताञ्जलिः।  
+संरक्तनयनः श्रीमान् सञ्चचार कृताञ्जलिः।  
 बभूवावस्थितस्तत्र कल्पवृक्षो महानिव॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संरक्तनयनः श्रीमान् संचचार कृताञ्जलिः।  
+संरक्तनयनः श्रीमान् सञ्चचार कृताञ्जलिः।  
 बभूवावस्थितस्तत्र कल्पवृक्षो महानिव॥ ५॥
 </details>
 
@@ -175,13 +172,13 @@ title_english = "034 Lakshmana upbraids Sugreeva"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गीतोऽयं ब्रह्मणा श्लोकः सर्वलोकनमस्कृतः।  
-दृष्ट्वा कृतघ्नं क्रुद्धेन तन्निबोध प्लवंगम॥ ११॥
+दृष्ट्वा कृतघ्नं क्रुद्धेन तन्निबोध प्लवङ्गम॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गीतोऽयं ब्रह्मणा श्लोकः सर्वलोकनमस्कृतः।  
-दृष्ट्वा कृतघ्नं क्रुद्धेन तन्निबोध प्लवंगम॥ ११॥
+दृष्ट्वा कृतघ्नं क्रुद्धेन तन्निबोध प्लवङ्गम॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -293,13 +290,13 @@ title_english = "034 Lakshmana upbraids Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न स संकुचितः पन्था येन वाली हतो गतः।  
+न स सङ्कुचितः पन्था येन वाली हतो गतः।  
 समये तिष्ठ सुग्रीव मा वालिपथमन्वगाः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न स संकुचितः पन्था येन वाली हतो गतः।  
+न स सङ्कुचितः पन्था येन वाली हतो गतः।  
 समये तिष्ठ सुग्रीव मा वालिपथमन्वगाः॥ १८॥
 </details>
 
@@ -311,7 +308,7 @@ title_english = "034 Lakshmana upbraids Sugreeva"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न नूनमिक्ष्वाकुवरस्य कार्मुका-  
-च्छरांश्च तान् पश्यसि वज्रसंनिभान्।  
+च्छरांश्च तान् पश्यसि वज्रसन्निभान्।  
 ततः सुखं नाम विषेवसे सुखी  
 न रामकार्यं मनसाप्यवेक्षसे॥ १९॥
 </details>
@@ -319,7 +316,7 @@ title_english = "034 Lakshmana upbraids Sugreeva"
 <details><summary>मूलम्</summary>
 
 न नूनमिक्ष्वाकुवरस्य कार्मुका-  
-च्छरांश्च तान् पश्यसि वज्रसंनिभान्।  
+च्छरांश्च तान् पश्यसि वज्रसन्निभान्।  
 ततः सुखं नाम विषेवसे सुखी  
 न रामकार्यं मनसाप्यवेक्षसे॥ १९॥
 </details>
@@ -334,3 +331,4 @@ title_english = "034 Lakshmana upbraids Sugreeva"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे चतुस्त्रिंशः सर्गः॥ ३४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें चौंतीसवाँ सर्ग पूरा हुआ॥ ३४॥
 </details>
+

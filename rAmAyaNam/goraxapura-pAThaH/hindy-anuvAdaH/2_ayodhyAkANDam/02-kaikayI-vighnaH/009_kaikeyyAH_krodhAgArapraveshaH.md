@@ -4,11 +4,8 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-009-Kaikeyyaha_Krodhagara_Praveshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-009-Kaikeyyaha_Krodhagara_Praveshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इदं त्विदानीं सम्पश्य केनोपायेन साधये।  
-भरतः प्राप्नुयाद् राज्यं न तु रामः कथंचन॥ ३॥
+भरतः प्राप्नुयाद् राज्यं न तु रामः कथञ्चन॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इदं त्विदानीं सम्पश्य केनोपायेन साधये।  
-भरतः प्राप्नुयाद् राज्यं न तु रामः कथंचन॥ ३॥
+भरतः प्राप्नुयाद् राज्यं न तु रामः कथञ्चन॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -137,13 +134,13 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रुत्वैवं वचनं तस्या मन्थरायास्तु कैकयी।  
-किंचिदुत्थाय शयनात् स्वास्तीर्णादिदमब्रवीत्॥ ८॥
+किञ्चिदुत्थाय शयनात् स्वास्तीर्णादिदमब्रवीत्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 श्रुत्वैवं वचनं तस्या मन्थरायास्तु कैकयी।  
-किंचिदुत्थाय शयनात् स्वास्तीर्णादिदमब्रवीत्॥ ८॥
+किञ्चिदुत्थाय शयनात् स्वास्तीर्णादिदमब्रवीत्॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -154,13 +151,13 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कथयस्व ममोपायं केनोपायेन मन्थरे।  
-भरतः प्राप्नुयाद् राज्यं न तु रामः कथंचन॥ ९॥
+भरतः प्राप्नुयाद् राज्यं न तु रामः कथञ्चन॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कथयस्व ममोपायं केनोपायेन मन्थरे।  
-भरतः प्राप्नुयाद् राज्यं न तु रामः कथंचन॥ ९॥
+भरतः प्राप्नुयाद् राज्यं न तु रामः कथञ्चन॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -207,7 +204,7 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 दिशमास्थाय कैकेयि दक्षिणां दण्डकान् प्रति।  
 वैजयन्तमिति ख्यातं पुरं यत्र तिमिध्वजः॥ १२॥  
 स शम्बर इति ख्यातः शतमायो महासुरः।  
-ददौ शक्रस्य संग्रामं देवसङ्घैरनिर्जितः॥ १३॥
+ददौ शक्रस्य सङ्ग्रामं देवसङ्घैरनिर्जितः॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -215,7 +212,7 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 दिशमास्थाय कैकेयि दक्षिणां दण्डकान् प्रति।  
 वैजयन्तमिति ख्यातं पुरं यत्र तिमिध्वजः॥ १२॥  
 स शम्बर इति ख्यातः शतमायो महासुरः।  
-ददौ शक्रस्य संग्रामं देवसङ्घैरनिर्जितः॥ १३॥
+ददौ शक्रस्य सङ्ग्रामं देवसङ्घैरनिर्जितः॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -225,13 +222,13 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मिन् महति संग्रामे पुरुषान् क्षतविक्षतान्।  
+तस्मिन् महति सङ्ग्रामे पुरुषान् क्षतविक्षतान्।  
 रात्रौ प्रसुप्तान् घ्नन्ति स्म तरसापास्य राक्षसाः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मिन् महति संग्रामे पुरुषान् क्षतविक्षतान्।  
+तस्मिन् महति सङ्ग्रामे पुरुषान् क्षतविक्षतान्।  
 रात्रौ प्रसुप्तान् घ्नन्ति स्म तरसापास्य राक्षसाः॥ १४॥
 </details>
 
@@ -259,13 +256,13 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपवाह्य त्वया देवि संग्रामान्नष्टचेतनः।  
+अपवाह्य त्वया देवि सङ्ग्रामान्नष्टचेतनः।  
 तत्रापि विक्षतः शस्त्रैः पतिस्ते रक्षितस्त्वया॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अपवाह्य त्वया देवि संग्रामान्नष्टचेतनः।  
+अपवाह्य त्वया देवि सङ्ग्रामान्नष्टचेतनः।  
 तत्रापि विक्षतः शस्त्रैः पतिस्ते रक्षितस्त्वया॥ १६॥
 </details>
 
@@ -569,16 +566,16 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संगृहीतमनुष्यश्च सुहृद्भिः साकमात्मवान्।  
+सङ्गृहीतमनुष्यश्च सुहृद्भिः साकमात्मवान्।  
 प्राप्तकालं नु मन्येऽहं राजानं वीतसाध्वसा॥ ३५॥  
-रामाभिषेकसंकल्पान्निगृह्य विनिवर्तय।
+रामाभिषेकसङ्कल्पान्निगृह्य विनिवर्तय।
 </details>
 
 <details><summary>मूलम्</summary>
 
-संगृहीतमनुष्यश्च सुहृद्भिः साकमात्मवान्।  
+सङ्गृहीतमनुष्यश्च सुहृद्भिः साकमात्मवान्।  
 प्राप्तकालं नु मन्येऽहं राजानं वीतसाध्वसा॥ ३५॥  
-रामाभिषेकसंकल्पान्निगृह्य विनिवर्तय।
+रामाभिषेकसङ्कल्पान्निगृह्य विनिवर्तय।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -645,13 +642,13 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वं पद्ममिव वातेन संनता प्रियदर्शना।  
+त्वं पद्ममिव वातेन सन्नता प्रियदर्शना।  
 उरस्तेऽभिनिविष्टं वै यावत् स्कन्धात् समुन्नतम्॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्वं पद्ममिव वातेन संनता प्रियदर्शना।  
+त्वं पद्ममिव वातेन सन्नता प्रियदर्शना।  
 उरस्तेऽभिनिविष्टं वै यावत् स्कन्धात् समुन्नतम्॥ ४१॥
 </details>
 
@@ -869,13 +866,13 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदा हेमोपमा तत्र कुब्जावाक्यवशंगता।  
+तदा हेमोपमा तत्र कुब्जावाक्यवशङ्गता।  
 संविश्य भूमौ कैकेयी मन्थरामिदमब्रवीत्॥ ५७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदा हेमोपमा तत्र कुब्जावाक्यवशंगता।  
+तदा हेमोपमा तत्र कुब्जावाक्यवशङ्गता।  
 संविश्य भूमौ कैकेयी मन्थरामिदमब्रवीत्॥ ५७॥
 </details>
 
@@ -993,7 +990,7 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 
 अहं हि नैवास्तरणानि न स्रजो  
 न चन्दनं नाञ्जनपानभोजनम्।  
-न किंचिदिच्छामि न चेह जीवनं  
+न किञ्चिदिच्छामि न चेह जीवनं  
 न चेदितो गच्छति राघवो वनम्॥ ६४॥
 </details>
 
@@ -1001,7 +998,7 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 
 अहं हि नैवास्तरणानि न स्रजो  
 न चन्दनं नाञ्जनपानभोजनम्।  
-न किंचिदिच्छामि न चेह जीवनं  
+न किञ्चिदिच्छामि न चेह जीवनं  
 न चेदितो गच्छति राघवो वनम्॥ ६४॥
 </details>
 
@@ -1015,7 +1012,7 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 अथैवमुक्त्वा वचनं सुदारुणं  
 निधाय सर्वाभरणानि भामिनी।  
 असंस्कृतामास्तरणेन मेदिनीं  
-तदाधिशिश्ये पतितेव किंनरी॥ ६५॥
+तदाधिशिश्ये पतितेव किन्नरी॥ ६५॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1023,7 +1020,7 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 अथैवमुक्त्वा वचनं सुदारुणं  
 निधाय सर्वाभरणानि भामिनी।  
 असंस्कृतामास्तरणेन मेदिनीं  
-तदाधिशिश्ये पतितेव किंनरी॥ ६५॥
+तदाधिशिश्ये पतितेव किन्नरी॥ ६५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1057,3 +1054,4 @@ title_english = "009 Manthara s success in poisoning Kaikeyi s mind"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे नवमः सर्गः॥ ९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें नवाँ सर्ग पूरा हुआ॥ ९॥
 </details>
+

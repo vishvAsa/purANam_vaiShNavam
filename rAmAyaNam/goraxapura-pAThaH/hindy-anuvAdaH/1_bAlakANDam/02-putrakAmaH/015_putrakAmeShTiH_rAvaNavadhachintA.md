@@ -4,11 +4,8 @@ title_english = "015 Rishyashringa officiates putrakAmeShTi ritual for dasharath
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-015-Putrakaamesti_-_Raavana_Vadhayojanaa.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-015-Putrakaamesti_-_Raavana_Vadhayojanaa.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "015 Rishyashringa officiates putrakAmeShTi ritual for dasharath
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेधावी तु ततो ध्यात्वा स किञ्चिदिदमुत्तरम्।  
-लब्धसंज्ञस्ततस्तं तु वेदज्ञो नृपमब्रवीत्॥ १॥
+लब्धसञ्ज्ञस्ततस्तं तु वेदज्ञो नृपमब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मेधावी तु ततो ध्यात्वा स किञ्चिदिदमुत्तरम्।  
-लब्धसंज्ञस्ततस्तं तु वेदज्ञो नृपमब्रवीत्॥ १॥
+लब्धसञ्ज्ञस्ततस्तं तु वेदज्ञो नृपमब्रवीत्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -282,13 +279,13 @@ title_english = "015 Rishyashringa officiates putrakAmeShTi ritual for dasharath
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तमब्रुवन् सुराः सर्वे समभिष्टूय संनताः॥ १८॥  
+तमब्रुवन् सुराः सर्वे समभिष्टूय सन्नताः॥ १८॥  
 त्वां नियोक्ष्यामहे विष्णो लोकानां हितकाम्यया।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तमब्रुवन् सुराः सर्वे समभिष्टूय संनताः॥ १८॥  
+तमब्रुवन् सुराः सर्वे समभिष्टूय सन्नताः॥ १८॥  
 त्वां नियोक्ष्यामहे विष्णो लोकानां हितकाम्यया।
 </details>
 
@@ -375,13 +372,13 @@ title_english = "015 Rishyashringa officiates putrakAmeShTi ritual for dasharath
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वं गतिः परमा देव सर्वेषां नः परंतप॥ २५॥  
+त्वं गतिः परमा देव सर्वेषां नः परन्तप॥ २५॥  
 वधाय देवशत्रूणां नृणां लोके मनः कुरु।
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्वं गतिः परमा देव सर्वेषां नः परंतप॥ २५॥  
+त्वं गतिः परमा देव सर्वेषां नः परन्तप॥ २५॥  
 वधाय देवशत्रूणां नृणां लोके मनः कुरु।
 </details>
 
@@ -392,14 +389,14 @@ title_english = "015 Rishyashringa officiates putrakAmeShTi ritual for dasharath
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं स्तुतस्तु देवेशो विष्णुस्त्रिदशपुंगवः॥ २६॥  
+एवं स्तुतस्तु देवेशो विष्णुस्त्रिदशपुङ्गवः॥ २६॥  
 पितामहपुरोगांस्तान् सर्वलोकनमस्कृतः।  
 अब्रवीत् त्रिदशान् सर्वान् समेतान् धर्मसंहितान्॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवं स्तुतस्तु देवेशो विष्णुस्त्रिदशपुंगवः॥ २६॥  
+एवं स्तुतस्तु देवेशो विष्णुस्त्रिदशपुङ्गवः॥ २६॥  
 पितामहपुरोगांस्तान् सर्वलोकनमस्कृतः।  
 अब्रवीत् त्रिदशान् सर्वान् समेतान् धर्मसंहितान्॥ २७॥
 </details>
@@ -530,3 +527,4 @@ title_english = "015 Rishyashringa officiates putrakAmeShTi ritual for dasharath
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चदशः सर्गः॥ १५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें पंद्रहवाँ सर्ग पूरा हुआ॥ १५॥
 </details>
+

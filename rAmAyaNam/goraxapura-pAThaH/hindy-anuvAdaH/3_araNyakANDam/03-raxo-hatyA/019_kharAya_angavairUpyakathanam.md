@@ -4,11 +4,8 @@ title_english = "019 Surpanakha s reporting to her brother Khara"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-019-Kharaya_Angavairupya_Kathanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-019-Kharaya_Angavairupya_Kathanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "019 Surpanakha s reporting to her brother Khara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तां तथा पतितां दृष्ट्वा विरूपां शोणितोक्षिताम्।  
-भगिनीं क्रोधसंतप्तः खरः पप्रच्छ राक्षसः॥ १॥
+भगिनीं क्रोधसन्तप्तः खरः पप्रच्छ राक्षसः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तां तथा पतितां दृष्ट्वा विरूपां शोणितोक्षिताम्।  
-भगिनीं क्रोधसंतप्तः खरः पप्रच्छ राक्षसः॥ १॥
+भगिनीं क्रोधसन्तप्तः खरः पप्रच्छ राक्षसः॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -153,13 +150,13 @@ title_english = "019 Surpanakha s reporting to her brother Khara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निहतस्य मया संख्ये शरसंकृत्तमर्मणः।  
+निहतस्य मया सङ्ख्ये शरसङ्कृत्तमर्मणः।  
 सफेनं रुधिरं कस्य मेदिनी पातुमिच्छति॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-निहतस्य मया संख्ये शरसंकृत्तमर्मणः।  
+निहतस्य मया सङ्ख्ये शरसङ्कृत्तमर्मणः।  
 सफेनं रुधिरं कस्य मेदिनी पातुमिच्छति॥ ९॥
 </details>
 
@@ -170,13 +167,13 @@ title_english = "019 Surpanakha s reporting to her brother Khara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कस्य पत्ररथाः कायान्मांसमुत्कृत्य संगताः।  
+कस्य पत्ररथाः कायान्मांसमुत्कृत्य सङ्गताः।  
 प्रहृष्टा भक्षयिष्यन्ति निहतस्य मया रणे॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कस्य पत्ररथाः कायान्मांसमुत्कृत्य संगताः।  
+कस्य पत्ररथाः कायान्मांसमुत्कृत्य सङ्गताः।  
 प्रहृष्टा भक्षयिष्यन्ति निहतस्य मया रणे॥ १०॥
 </details>
 
@@ -204,13 +201,13 @@ title_english = "019 Surpanakha s reporting to her brother Khara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपलभ्य शनैः संज्ञां तं मे शंसितुमर्हसि।  
+उपलभ्य शनैः सञ्ज्ञां तं मे शंसितुमर्हसि।  
 येन त्वं दुर्विनीतेन वने विक्रम्य निर्जिता॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपलभ्य शनैः संज्ञां तं मे शंसितुमर्हसि।  
+उपलभ्य शनैः सञ्ज्ञां तं मे शंसितुमर्हसि।  
 येन त्वं दुर्विनीतेन वने विक्रम्य निर्जिता॥ १२॥
 </details>
 
@@ -462,3 +459,4 @@ title_english = "019 Surpanakha s reporting to her brother Khara"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे एकोनविंशः सर्गः॥ १९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें उन्नीसवाँ सर्ग पूरा हुआ॥ १९॥
 </details>
+

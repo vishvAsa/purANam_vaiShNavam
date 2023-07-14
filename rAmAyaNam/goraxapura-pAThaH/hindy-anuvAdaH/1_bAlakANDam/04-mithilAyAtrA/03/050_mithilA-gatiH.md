@@ -4,11 +4,8 @@ title_english = "050 Redemption of ahalya from her curse cont"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-050-Mithila_Gamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-050-Mithila_Gamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -55,13 +52,13 @@ title_english = "050 Redemption of ahalya from her curse cont"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋषिवाटाश्च दृश्यन्ते शकटीशतसंकुलाः।  
+ऋषिवाटाश्च दृश्यन्ते शकटीशतसङ्कुलाः।  
 देशो विधीयतां ब्रह्मन् यत्र वत्स्यामहे वयम्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऋषिवाटाश्च दृश्यन्ते शकटीशतसंकुलाः।  
+ऋषिवाटाश्च दृश्यन्ते शकटीशतसङ्कुलाः।  
 देशो विधीयतां ब्रह्मन् यत्र वत्स्यामहे वयम्॥ ४॥
 </details>
 
@@ -160,13 +157,13 @@ title_english = "050 Redemption of ahalya from her curse cont"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ राजा मुनिश्रेष्ठं कृताञ्जलिरभाषत॥ १०॥  
-आसने भगवानास्तां सहैभिर्मुनिपुंगवैः।
+आसने भगवानास्तां सहैभिर्मुनिपुङ्गवैः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथ राजा मुनिश्रेष्ठं कृताञ्जलिरभाषत॥ १०॥  
-आसने भगवानास्तां सहैभिर्मुनिपुंगवैः।
+आसने भगवानास्तां सहैभिर्मुनिपुङ्गवैः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -213,14 +210,14 @@ title_english = "050 Redemption of ahalya from her curse cont"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य यज्ञफलं प्राप्तं भगवद्दर्शनान्मया।  
-धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे मुनिपुंगवः॥ १४॥  
+धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे मुनिपुङ्गवः॥ १४॥  
 यज्ञोपसदनं ब्रह्मन् प्राप्तोऽसि मुनिभिः सह।
 </details>
 
 <details><summary>मूलम्</summary>
 
 अद्य यज्ञफलं प्राप्तं भगवद्दर्शनान्मया।  
-धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे मुनिपुंगवः॥ १४॥  
+धन्योऽस्म्यनुगृहीतोऽस्मि यस्य मे मुनिपुङ्गवः॥ १४॥  
 यज्ञोपसदनं ब्रह्मन् प्राप्तोऽसि मुनिभिः सह।
 </details>
 
@@ -356,3 +353,4 @@ title_english = "050 Redemption of ahalya from her curse cont"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चाशः सर्गः॥ ५०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें पचासवाँ सर्ग पूरा हुआ॥ ५०॥
 </details>
+

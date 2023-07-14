@@ -4,11 +4,8 @@ title_english = "005 Oath of friendship"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-005-Rama_Sugreeva_Sakhyam_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-005-Rama_Sugreeva_Sakhyam_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -210,13 +207,13 @@ title_english = "005 Oath of friendship"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो हनूमान् संत्यज्य भिक्षुरूपमरिंदमः॥ १३॥  
+ततो हनूमान् सन्त्यज्य भिक्षुरूपमरिन्दमः॥ १३॥  
 काष्ठयोः स्वेन रूपेण जनयामास पावकम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततो हनूमान् संत्यज्य भिक्षुरूपमरिंदमः॥ १३॥  
+ततो हनूमान् सन्त्यज्य भिक्षुरूपमरिन्दमः॥ १३॥  
 काष्ठयोः स्वेन रूपेण जनयामास पावकम्।
 </details>
 
@@ -431,17 +428,17 @@ title_english = "005 Oath of friendship"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अमोघाः सूर्यसंकाशा ममेमे निशिताः शराः॥ २६॥  
+अमोघाः सूर्यसङ्काशा ममेमे निशिताः शराः॥ २६॥  
 तस्मिन् वालिनि दुर्वृत्ते निपतिष्यन्ति वेगिताः।  
-कङ्कपत्रप्रतिच्छन्ना महेन्द्राशनिसंनिभाः॥ २७॥  
+कङ्कपत्रप्रतिच्छन्ना महेन्द्राशनिसन्निभाः॥ २७॥  
 तीक्ष्णाग्रा ऋजुपर्वाणः सरोषा भुजगा इव।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अमोघाः सूर्यसंकाशा ममेमे निशिताः शराः॥ २६॥  
+अमोघाः सूर्यसङ्काशा ममेमे निशिताः शराः॥ २६॥  
 तस्मिन् वालिनि दुर्वृत्ते निपतिष्यन्ति वेगिताः।  
-कङ्कपत्रप्रतिच्छन्ना महेन्द्राशनिसंनिभाः॥ २७॥  
+कङ्कपत्रप्रतिच्छन्ना महेन्द्राशनिसन्निभाः॥ २७॥  
 तीक्ष्णाग्रा ऋजुपर्वाणः सरोषा भुजगा इव।
 </details>
 
@@ -531,3 +528,4 @@ title_english = "005 Oath of friendship"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे पञ्चमः सर्गः॥ ५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें पाँचवाँ सर्ग पूरा हुआ॥ ५॥
 </details>
+

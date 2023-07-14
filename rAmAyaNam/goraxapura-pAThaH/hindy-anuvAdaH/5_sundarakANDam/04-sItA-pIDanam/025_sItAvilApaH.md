@@ -4,11 +4,8 @@ title_english = "025 Seetha bursts into a wail"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-025-Seetha_bursts_into_a_wail.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-025-Seetha_bursts_into_a_wail.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -85,13 +82,13 @@ title_english = "025 Seetha bursts into a wail"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वेपते स्माधिकं सीता विशन्तीवांगमात्मनः।  
+वेपते स्माधिकं सीता विशन्तीवाङ्गमात्मनः।  
 वने यूथपरिभ्रष्टा मृगी कोकैरिवार्दिता॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वेपते स्माधिकं सीता विशन्तीवांगमात्मनः।  
+वेपते स्माधिकं सीता विशन्तीवाङ्गमात्मनः।  
 वने यूथपरिभ्रष्टा मृगी कोकैरिवार्दिता॥ ५॥
 </details>
 
@@ -360,3 +357,4 @@ title_english = "025 Seetha bursts into a wail"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे पञ्चविंशः सर्गः॥ २५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें पचीसवाँ सर्ग पूरा हुआ॥ २५॥
 </details>
+

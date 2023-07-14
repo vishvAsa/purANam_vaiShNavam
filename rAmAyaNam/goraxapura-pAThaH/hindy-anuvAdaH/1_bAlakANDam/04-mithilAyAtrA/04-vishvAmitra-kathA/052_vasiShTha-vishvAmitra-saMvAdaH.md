@@ -4,11 +4,8 @@ title_english = "052 he legend of Vishvamitra contd"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-052-_Vasista_Vishvamithrayoh_Samvadhaha_.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-052-_Vasista_Vishvamithrayoh_Samvadhaha_.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -140,13 +137,13 @@ title_english = "052 he legend of Vishvamitra contd"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कच्चिद् बलेषु कोशेषु मित्रेषु च परंतप।  
+कच्चिद् बलेषु कोशेषु मित्रेषु च परन्तप।  
 कुशलं ते नरव्याघ्र पुत्रपौत्रे तथानघ॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कच्चिद् बलेषु कोशेषु मित्रेषु च परंतप।  
+कच्चिद् बलेषु कोशेषु मित्रेषु च परन्तप।  
 कुशलं ते नरव्याघ्र पुत्रपौत्रे तथानघ॥ ९॥
 </details>
 
@@ -311,13 +308,13 @@ title_english = "052 he legend of Vishvamitra contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाढमित्येव गाधेयो वसिष्ठं प्रत्युवाच ह।  
-यथाप्रियं भगवतस्तथास्तु मुनिपुंगव॥ १९॥
+यथाप्रियं भगवतस्तथास्तु मुनिपुङ्गव॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बाढमित्येव गाधेयो वसिष्ठं प्रत्युवाच ह।  
-यथाप्रियं भगवतस्तथास्तु मुनिपुंगव॥ १९॥
+यथाप्रियं भगवतस्तथास्तु मुनिपुङ्गव॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -400,3 +397,4 @@ title_english = "052 he legend of Vishvamitra contd"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्विपञ्चाशः सर्गः॥ ५२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें बावनवाँ सर्ग पूरा हुआ॥ ५२॥
 </details>
+

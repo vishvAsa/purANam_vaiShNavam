@@ -4,11 +4,8 @@ title_english = "066 Legend of Hanuma s birth"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-066-Legend_of_Hanuma_s_birth.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-066-Legend_of_Hanuma_s_birth.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -161,14 +158,14 @@ title_english = "066 Legend of Hanuma s birth"
 
 मानुषं विग्रहं कृत्वा रूपयौवनशालिनी॥ १०॥  
 विचित्रमाल्याभरणा कदाचित् क्षौमधारिणी।  
-अचरत् पर्वतस्याग्रे प्रावृडम्बुदसंनिभे॥ ११॥
+अचरत् पर्वतस्याग्रे प्रावृडम्बुदसन्निभे॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मानुषं विग्रहं कृत्वा रूपयौवनशालिनी॥ १०॥  
 विचित्रमाल्याभरणा कदाचित् क्षौमधारिणी।  
-अचरत् पर्वतस्याग्रे प्रावृडम्बुदसंनिभे॥ ११॥
+अचरत् पर्वतस्याग्रे प्रावृडम्बुदसन्निभे॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -400,13 +397,13 @@ title_english = "066 Legend of Hanuma s birth"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्वां निहतं दृष्ट्वा वायुर्गन्धवहः स्वयम्।  
-त्रैलोक्यं भृशसंक्रुद्धो न ववौ वै प्रभञ्जनः॥ २५॥
+त्रैलोक्यं भृशसङ्क्रुद्धो न ववौ वै प्रभञ्जनः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततस्त्वां निहतं दृष्ट्वा वायुर्गन्धवहः स्वयम्।  
-त्रैलोक्यं भृशसंक्रुद्धो न ववौ वै प्रभञ्जनः॥ २५॥
+त्रैलोक्यं भृशसङ्क्रुद्धो न ववौ वै प्रभञ्जनः॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -417,13 +414,13 @@ title_english = "066 Legend of Hanuma s birth"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सम्भ्रान्ताश्च सुराः सर्वे त्रैलोक्ये क्षुभिते सति।  
-प्रसादयन्ति संक्रुद्धं मारुतं भुवनेश्वराः॥ २६॥
+प्रसादयन्ति सङ्क्रुद्धं मारुतं भुवनेश्वराः॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सम्भ्रान्ताश्च सुराः सर्वे त्रैलोक्ये क्षुभिते सति।  
-प्रसादयन्ति संक्रुद्धं मारुतं भुवनेश्वराः॥ २६॥
+प्रसादयन्ति सङ्क्रुद्धं मारुतं भुवनेश्वराः॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -522,13 +519,13 @@ title_english = "066 Legend of Hanuma s birth"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तथा चौषधयोऽस्माभिः संचिता देवशासनात्।  
+तथा चौषधयोऽस्माभिः सञ्चिता देवशासनात्।  
 निर्मथ्यममृतं याभिस्तदानीं नो महद‍्बलम्॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तथा चौषधयोऽस्माभिः संचिता देवशासनात्।  
+तथा चौषधयोऽस्माभिः सञ्चिता देवशासनात्।  
 निर्मथ्यममृतं याभिस्तदानीं नो महद‍्बलम्॥ ३३॥
 </details>
 
@@ -631,3 +628,4 @@ title_english = "066 Legend of Hanuma s birth"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे षट्षष्टितमः सर्गः॥ ६६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें छाछठवाँ सर्ग पूरा हुआ॥ ६६॥
 </details>
+

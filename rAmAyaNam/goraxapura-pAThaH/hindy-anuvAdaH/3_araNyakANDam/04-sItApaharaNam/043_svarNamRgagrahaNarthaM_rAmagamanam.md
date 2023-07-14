@@ -4,11 +4,8 @@ title_english = "043 Lure of the Golden Deer"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-043-Swarna_Mruga_Grahanaardham_Rama_Agamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-043-Swarna_Mruga_Grahanaardham_Rama_Agamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -107,13 +104,13 @@ title_english = "043 Lure of the Golden Deer"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अस्य मायाविदो माया मृगरूपमिदं कृतम्।  
-भानुमत् पुरुषव्याघ्र गन्धर्वपुरसंनिभम्॥ ७॥
+भानुमत् पुरुषव्याघ्र गन्धर्वपुरसन्निभम्॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अस्य मायाविदो माया मृगरूपमिदं कृतम्।  
-भानुमत् पुरुषव्याघ्र गन्धर्वपुरसंनिभम्॥ ७॥
+भानुमत् पुरुषव्याघ्र गन्धर्वपुरसन्निभम्॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -200,13 +197,13 @@ title_english = "043 Lure of the Golden Deer"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानावर्णविचित्राङ्गो रत्नभूतो ममाग्रतः।  
-द्योतयन् वनमव्यग्रं शोभते शशिसंनिभः॥ १४॥
+द्योतयन् वनमव्यग्रं शोभते शशिसन्निभः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नानावर्णविचित्राङ्गो रत्नभूतो ममाग्रतः।  
-द्योतयन् वनमव्यग्रं शोभते शशिसंनिभः॥ १४॥
+द्योतयन् वनमव्यग्रं शोभते शशिसन्निभः॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -604,13 +601,13 @@ title_english = "043 Lure of the Golden Deer"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतेन हि नृशंसेन मारीचेनाकृतात्मना।  
-वने विचरता पूर्वं हिंसिता मुनिपुंगवाः॥ ३९॥
+वने विचरता पूर्वं हिंसिता मुनिपुङ्गवाः॥ ३९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एतेन हि नृशंसेन मारीचेनाकृतात्मना।  
-वने विचरता पूर्वं हिंसिता मुनिपुंगवाः॥ ३९॥
+वने विचरता पूर्वं हिंसिता मुनिपुङ्गवाः॥ ३९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -723,13 +720,13 @@ title_english = "043 Lure of the Golden Deer"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भवेद्धतोऽयं वातापिरगस्त्येनेव मा गतः।  
-इह त्वं भव संनद्धो यन्त्रितो रक्ष मैथिलीम्॥ ४६॥
+इह त्वं भव सन्नद्धो यन्त्रितो रक्ष मैथिलीम्॥ ४६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 भवेद्धतोऽयं वातापिरगस्त्येनेव मा गतः।  
-इह त्वं भव संनद्धो यन्त्रितो रक्ष मैथिलीम्॥ ४६॥
+इह त्वं भव सन्नद्धो यन्त्रितो रक्ष मैथिलीम्॥ ४६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -818,3 +815,4 @@ title_english = "043 Lure of the Golden Deer"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे त्रिचत्वारिंशः सर्गः॥ ४३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें तैंतालीसवाँ सर्ग पूरा हुआ॥ ४३॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "013 Dasaratha s grief and anguish"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-013-Dasharadhasya_Vaiklabyam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-013-Dasharadhasya_Vaiklabyam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -191,13 +188,13 @@ title_english = "013 Dasaratha s grief and anguish"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि दुःखमकृत्वा तु मम संक्रमणं भवेत्।  
+यदि दुःखमकृत्वा तु मम सङ्क्रमणं भवेत्।  
 अदुःखार्हस्य रामस्य ततः सुखमवाप्नुयाम्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदि दुःखमकृत्वा तु मम संक्रमणं भवेत्।  
+यदि दुःखमकृत्वा तु मम सङ्क्रमणं भवेत्।  
 अदुःखार्हस्य रामस्य ततः सुखमवाप्नुयाम्॥ १२॥
 </details>
 
@@ -208,14 +205,14 @@ title_english = "013 Dasaratha s grief and anguish"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नृशंसे पापसंकल्पे रामं सत्यपराक्रमम्।  
+नृशंसे पापसङ्कल्पे रामं सत्यपराक्रमम्।  
 किं विप्रियेण कैकेयि प्रियं योजयसे मम॥ १३॥  
 अकीर्तिरतुला लोके ध्रुवं परिभविष्यति।
 </details>
 
 <details><summary>मूलम्</summary>
 
-नृशंसे पापसंकल्पे रामं सत्यपराक्रमम्।  
+नृशंसे पापसङ्कल्पे रामं सत्यपराक्रमम्।  
 किं विप्रियेण कैकेयि प्रियं योजयसे मम॥ १३॥  
 अकीर्तिरतुला लोके ध्रुवं परिभविष्यति।
 </details>
@@ -421,7 +418,7 @@ title_english = "013 Dasaratha s grief and anguish"
 ततः स राजा पुनरेव मूर्च्छितः  
 प्रियामतुष्टां प्रतिकूलभाषिणीम्।  
 समीक्ष्य पुत्रस्य विवासनं प्रति  
-क्षितौ विसंज्ञो निपपात दुःखितः॥ २५॥
+क्षितौ विसञ्ज्ञो निपपात दुःखितः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -429,7 +426,7 @@ title_english = "013 Dasaratha s grief and anguish"
 ततः स राजा पुनरेव मूर्च्छितः  
 प्रियामतुष्टां प्रतिकूलभाषिणीम्।  
 समीक्ष्य पुत्रस्य विवासनं प्रति  
-क्षितौ विसंज्ञो निपपात दुःखितः॥ २५॥
+क्षितौ विसञ्ज्ञो निपपात दुःखितः॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -463,3 +460,4 @@ title_english = "013 Dasaratha s grief and anguish"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्रयोदशः सर्गः॥ १३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें तेरहवाँ सर्ग पूरा हुआ॥ १३॥
 </details>
+

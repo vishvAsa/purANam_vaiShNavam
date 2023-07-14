@@ -4,11 +4,8 @@ title_english = "072 Marriage alliance to bharata shatrughna"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-072-Kanya_Daanam_Godaanam_Cha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-072-Kanya_Daanam_Godaanam_Cha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "072 Marriage alliance to bharata shatrughna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अचिन्त्यान्यप्रमेयाणि कुलानि नरपुंगव।  
+अचिन्त्यान्यप्रमेयाणि कुलानि नरपुङ्गव।  
 इक्ष्वाकूणां विदेहानां नैषां तुल्योऽस्ति कश्चन॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अचिन्त्यान्यप्रमेयाणि कुलानि नरपुंगव।  
+अचिन्त्यान्यप्रमेयाणि कुलानि नरपुङ्गव।  
 इक्ष्वाकूणां विदेहानां नैषां तुल्योऽस्ति कश्चन॥ २॥
 </details>
 
@@ -128,13 +125,13 @@ title_english = "072 Marriage alliance to bharata shatrughna"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विश्वामित्रवचः श्रुत्वा वसिष्ठस्य मते तदा।  
-जनकः प्राञ्जलिर्वाक्यमुवाच मुनिपुंगवौ॥ ९॥
+जनकः प्राञ्जलिर्वाक्यमुवाच मुनिपुङ्गवौ॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 विश्वामित्रवचः श्रुत्वा वसिष्ठस्य मते तदा।  
-जनकः प्राञ्जलिर्वाक्यमुवाच मुनिपुंगवौ॥ ९॥
+जनकः प्राञ्जलिर्वाक्यमुवाच मुनिपुङ्गवौ॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -144,13 +141,13 @@ title_english = "072 Marriage alliance to bharata shatrughna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुलं धन्यमिदं मन्ये येषां तौ मुनिपुंगवौ।  
+कुलं धन्यमिदं मन्ये येषां तौ मुनिपुङ्गवौ।  
 सदृशं कुलसम्बन्धं यदाज्ञापयतः स्वयम्॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कुलं धन्यमिदं मन्ये येषां तौ मुनिपुंगवौ।  
+कुलं धन्यमिदं मन्ये येषां तौ मुनिपुङ्गवौ।  
 सदृशं कुलसम्बन्धं यदाज्ञापयतः स्वयम्॥ १०॥
 </details>
 
@@ -230,13 +227,13 @@ title_english = "072 Marriage alliance to bharata shatrughna"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 परो धर्मः कृतो मह्यं शिष्योऽस्मि भवतोस्तथा।  
-इमान्यासनमुख्यानि आस्यतां मुनिपुंगवौ॥ १५॥
+इमान्यासनमुख्यानि आस्यतां मुनिपुङ्गवौ॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 परो धर्मः कृतो मह्यं शिष्योऽस्मि भवतोस्तथा।  
-इमान्यासनमुख्यानि आस्यतां मुनिपुंगवौ॥ १५॥
+इमान्यासनमुख्यानि आस्यतां मुनिपुङ्गवौ॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -247,13 +244,13 @@ title_english = "072 Marriage alliance to bharata shatrughna"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा दशरथस्येयं तथायोध्या पुरी मम।  
-प्रभुत्वे नास्ति संदेहो यथार्हं कर्तुमर्हथ॥ १६॥
+प्रभुत्वे नास्ति सन्देहो यथार्हं कर्तुमर्हथ॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यथा दशरथस्येयं तथायोध्या पुरी मम।  
-प्रभुत्वे नास्ति संदेहो यथार्हं कर्तुमर्हथ॥ १६॥
+प्रभुत्वे नास्ति सन्देहो यथार्हं कर्तुमर्हथ॥ १६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -280,13 +277,13 @@ title_english = "072 Marriage alliance to bharata shatrughna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-युवामसंख्येयगुणौ भ्रातरौ मिथिलेश्वरौ।  
+युवामसङ्ख्येयगुणौ भ्रातरौ मिथिलेश्वरौ।  
 ऋषयो राजसङ्घाश्च भवद्भ्यामभिपूजिताः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-युवामसंख्येयगुणौ भ्रातरौ मिथिलेश्वरौ।  
+युवामसङ्ख्येयगुणौ भ्रातरौ मिथिलेश्वरौ।  
 ऋषयो राजसङ्घाश्च भवद्भ्यामभिपूजिताः॥ १८॥
 </details>
 
@@ -406,3 +403,4 @@ title_english = "072 Marriage alliance to bharata shatrughna"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे द्विसप्ततितमः सर्गः॥ ७२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें बहत्तरवाँ सर्ग पूरा हुआ॥ ७२॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "033 Sarama restores confidence to Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-033-Sarama_restores_confidence_to_Seetha__0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-033-Sarama_restores_confidence_to_Seetha__0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -162,7 +159,7 @@ title_english = "033 Sarama restores confidence to Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीर्घवृत्तभुजः श्रीमान् महोरस्कः प्रतापवान्।  
-धन्वी संनहनोपेतो धर्मात्मा भुवि विश्रुतः॥ १०॥  
+धन्वी सन्नहनोपेतो धर्मात्मा भुवि विश्रुतः॥ १०॥  
 विक्रान्तो रक्षिता नित्यमात्मनश्च परस्य च।  
 लक्ष्मणेन सह भ्रात्रा कुलीनो नयशास्त्रवित् ॥ ११॥  
 हन्ता परबलौघानामचिन्त्यबलपौरुषः।  
@@ -172,7 +169,7 @@ title_english = "033 Sarama restores confidence to Seetha"
 <details><summary>मूलम्</summary>
 
 दीर्घवृत्तभुजः श्रीमान् महोरस्कः प्रतापवान्।  
-धन्वी संनहनोपेतो धर्मात्मा भुवि विश्रुतः॥ १०॥  
+धन्वी सन्नहनोपेतो धर्मात्मा भुवि विश्रुतः॥ १०॥  
 विक्रान्तो रक्षिता नित्यमात्मनश्च परस्य च।  
 लक्ष्मणेन सह भ्रात्रा कुलीनो नयशास्त्रवित् ॥ ११॥  
 हन्ता परबलौघानामचिन्त्यबलपौरुषः।  
@@ -221,13 +218,13 @@ title_english = "033 Sarama restores confidence to Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तीर्य सागरं रामः सह वानरसेनया।  
-संनिविष्टः समुद्रस्य तीरमासाद्य दक्षिणम्॥ १५॥
+सन्निविष्टः समुद्रस्य तीरमासाद्य दक्षिणम्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 उत्तीर्य सागरं रामः सह वानरसेनया।  
-संनिविष्टः समुद्रस्य तीरमासाद्य दक्षिणम्॥ १५॥
+सन्निविष्टः समुद्रस्य तीरमासाद्य दक्षिणम्॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -322,13 +319,13 @@ title_english = "033 Sarama restores confidence to Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संनाहजननी ह्येषा भैरवा भीरु भेरिका।  
+सन्नाहजननी ह्येषा भैरवा भीरु भेरिका।  
 भेरीनादं च गम्भीरं शृणु तोयदनिःस्वनम्॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संनाहजननी ह्येषा भैरवा भीरु भेरिका।  
+सन्नाहजननी ह्येषा भैरवा भीरु भेरिका।  
 भेरीनादं च गम्भीरं शृणु तोयदनिःस्वनम्॥ २१॥
 </details>
 
@@ -356,14 +353,14 @@ title_english = "033 Sarama restores confidence to Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत्र तत्र च संनद्धाः सम्पतन्ति सहस्रशः।  
+तत्र तत्र च सन्नद्धाः सम्पतन्ति सहस्रशः।  
 आपूर्यन्ते राजमार्गाः सैन्यैरद्भुतदर्शनैः॥ २३॥  
 वेगवद्भिर्नदद्भिश्च तोयौघैरिव सागरः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तत्र तत्र च संनद्धाः सम्पतन्ति सहस्रशः।  
+तत्र तत्र च सन्नद्धाः सम्पतन्ति सहस्रशः।  
 आपूर्यन्ते राजमार्गाः सैन्यैरद्भुतदर्शनैः॥ २३॥  
 वेगवद्भिर्नदद्भिश्च तोयौघैरिव सागरः।
 </details>
@@ -596,3 +593,4 @@ title_english = "033 Sarama restores confidence to Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्रयस्त्रिंशः सर्गः॥ ३३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें तैंतीसवाँ सर्ग पूरा हुआ॥ ३३॥
 </details>
+

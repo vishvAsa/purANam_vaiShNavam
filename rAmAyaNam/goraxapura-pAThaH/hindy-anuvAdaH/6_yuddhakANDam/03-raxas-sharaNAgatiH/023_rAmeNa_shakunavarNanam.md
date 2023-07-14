@@ -4,11 +4,8 @@ title_english = "023 Rama explains to Lakshmana the various portents"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-023-Rama_explains_to_Lakshmana_the_various_portents.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-023-Rama_explains_to_Lakshmana_the_various_portents.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -68,13 +65,13 @@ title_english = "023 Rama explains to Lakshmana the various portents"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वाताश्च कलुषा वान्ति कम्पते च वसुंधरा।  
+वाताश्च कलुषा वान्ति कम्पते च वसुन्धरा।  
 पर्वताग्राणि वेपन्ते पतन्ति च महीरुहाः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वाताश्च कलुषा वान्ति कम्पते च वसुंधरा।  
+वाताश्च कलुषा वान्ति कम्पते च वसुन्धरा।  
 पर्वताग्राणि वेपन्ते पतन्ति च महीरुहाः॥ ४॥
 </details>
 
@@ -85,13 +82,13 @@ title_english = "023 Rama explains to Lakshmana the various portents"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मेघाः क्रव्यादसंकाशाः परुषाः परुषस्वनाः।  
+मेघाः क्रव्यादसङ्काशाः परुषाः परुषस्वनाः।  
 क्रूराः क्रूरं प्रवर्षन्ति मिश्रं शोणितबिन्दुभिः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मेघाः क्रव्यादसंकाशाः परुषाः परुषस्वनाः।  
+मेघाः क्रव्यादसङ्काशाः परुषाः परुषस्वनाः।  
 क्रूराः क्रूरं प्रवर्षन्ति मिश्रं शोणितबिन्दुभिः॥ ५॥
 </details>
 
@@ -102,13 +99,13 @@ title_english = "023 Rama explains to Lakshmana the various portents"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रक्तचन्दनसंकाशा संध्या परमदारुणा।  
+रक्तचन्दनसङ्काशा सन्ध्या परमदारुणा।  
 ज्वलतः प्रपतत्येतदादित्यादग्निमण्डलम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-रक्तचन्दनसंकाशा संध्या परमदारुणा।  
+रक्तचन्दनसङ्काशा सन्ध्या परमदारुणा।  
 ज्वलतः प्रपतत्येतदादित्यादग्निमण्डलम्॥ ६॥
 </details>
 
@@ -136,13 +133,13 @@ title_english = "023 Rama explains to Lakshmana the various portents"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रजन्यामप्रकाशस्तु संतापयति चन्द्रमाः।  
+रजन्यामप्रकाशस्तु सन्तापयति चन्द्रमाः।  
 कृष्णरक्तांशुपर्यन्तो लोकक्षय इवोदितः॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-रजन्यामप्रकाशस्तु संतापयति चन्द्रमाः।  
+रजन्यामप्रकाशस्तु सन्तापयति चन्द्रमाः।  
 कृष्णरक्तांशुपर्यन्तो लोकक्षय इवोदितः॥ ८॥
 </details>
 
@@ -238,13 +235,13 @@ title_english = "023 Rama explains to Lakshmana the various portents"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्येवमुक्त्वा धन्वी स रामः संग्रामधर्षणः।  
+इत्येवमुक्त्वा धन्वी स रामः सङ्ग्रामधर्षणः।  
 प्रतस्थे पुरतो रामो लङ्कामभिमुखो विभुः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इत्येवमुक्त्वा धन्वी स रामः संग्रामधर्षणः।  
+इत्येवमुक्त्वा धन्वी स रामः सङ्ग्रामधर्षणः।  
 प्रतस्थे पुरतो रामो लङ्कामभिमुखो विभुः॥ १४॥
 </details>
 
@@ -292,3 +289,4 @@ title_english = "023 Rama explains to Lakshmana the various portents"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्रयोविंशः सर्गः॥ २३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें तेईसवाँ सर्ग पूरा हुआ॥ २३॥
 </details>
+

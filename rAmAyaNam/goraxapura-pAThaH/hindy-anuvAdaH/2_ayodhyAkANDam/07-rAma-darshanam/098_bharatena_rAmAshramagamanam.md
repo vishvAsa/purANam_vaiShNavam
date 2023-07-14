@@ -4,11 +4,8 @@ title_english = "098 Bharata continues his search for Rama s hermitage"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-098-Rama_Shrama_Gamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-098-Rama_Shrama_Gamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -38,13 +35,13 @@ title_english = "098 Bharata continues his search for Rama s hermitage"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षिप्रं वनमिदं सौम्य नरसंघैः समन्ततः।  
+क्षिप्रं वनमिदं सौम्य नरसङ्घैः समन्ततः।  
 लुब्धैश्च सहितैरेभिस्त्वमन्वेषितुमर्हसि॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-क्षिप्रं वनमिदं सौम्य नरसंघैः समन्ततः।  
+क्षिप्रं वनमिदं सौम्य नरसङ्घैः समन्ततः।  
 लुब्धैश्च सहितैरेभिस्त्वमन्वेषितुमर्हसि॥ ३॥
 </details>
 
@@ -106,13 +103,13 @@ title_english = "098 Bharata continues his search for Rama s hermitage"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यावन्न चन्द्रसंकाशं तद् द्रक्ष्यामि शुभाननम्।  
+यावन्न चन्द्रसङ्काशं तद् द्रक्ष्यामि शुभाननम्।  
 भ्रातुः पद्मविशालाक्षं न मे शान्तिर्भविष्यति॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यावन्न चन्द्रसंकाशं तद् द्रक्ष्यामि शुभाननम्।  
+यावन्न चन्द्रसङ्काशं तद् द्रक्ष्यामि शुभाननम्।  
 भ्रातुः पद्मविशालाक्षं न मे शान्तिर्भविष्यति॥ ७॥
 </details>
 
@@ -317,3 +314,4 @@ title_english = "098 Bharata continues his search for Rama s hermitage"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डेऽष्टनवतितमः सर्गः॥ ९८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें अट्ठानबेवाँ सर्ग पूरा हुआ॥ ९८॥
 </details>
+

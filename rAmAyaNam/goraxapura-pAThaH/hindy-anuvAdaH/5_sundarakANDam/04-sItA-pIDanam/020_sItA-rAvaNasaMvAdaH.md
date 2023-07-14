@@ -4,11 +4,8 @@ title_english = "020 Ravana talks to Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-020-Ravana_talks_to_Seetha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-020-Ravana_talks_to_Seetha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "020 Ravana talks to Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कामये त्वां विशालाक्षि बहु मन्यस्व मां प्रिये।  
-सर्वांगगुणसम्पन्ने सर्वलोकमनोहरे॥ ३॥
+सर्वाङ्गगुणसम्पन्ने सर्वलोकमनोहरे॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कामये त्वां विशालाक्षि बहु मन्यस्व मां प्रिये।  
-सर्वांगगुणसम्पन्ने सर्वलोकमनोहरे॥ ३॥
+सर्वाङ्गगुणसम्पन्ने सर्वलोकमनोहरे॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -191,13 +188,13 @@ title_english = "020 Ravana talks to Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इदं ते चारु संजातं यौवनं ह्यतिवर्तते।  
+इदं ते चारु सञ्जातं यौवनं ह्यतिवर्तते।  
 यदतीतं पुनर्नैति स्रोतः स्रोतस्विनामिव॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इदं ते चारु संजातं यौवनं ह्यतिवर्तते।  
+इदं ते चारु सञ्जातं यौवनं ह्यतिवर्तते।  
 यदतीतं पुनर्नैति स्रोतः स्रोतस्विनामिव॥ १२॥
 </details>
 
@@ -345,13 +342,13 @@ title_english = "020 Ravana talks to Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इच्छ मां क्रियतामद्य प्रतिकर्म तवोत्तमम्।  
-सुप्रभाण्यवसज्जन्तां तवांगे भूषणानि हि॥ २१॥
+सुप्रभाण्यवसज्जन्तां तवाङ्गे भूषणानि हि॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इच्छ मां क्रियतामद्य प्रतिकर्म तवोत्तमम्।  
-सुप्रभाण्यवसज्जन्तां तवांगे भूषणानि हि॥ २१॥
+सुप्रभाण्यवसज्जन्तां तवाङ्गे भूषणानि हि॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -435,13 +432,13 @@ title_english = "020 Ravana talks to Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निक्षिप्तविजयो रामो गतश्रीर्वनगोचरः।  
-व्रती स्थण्डिलशायी च शंके जीवति वा न वा॥ २६॥
+व्रती स्थण्डिलशायी च शङ्के जीवति वा न वा॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 निक्षिप्तविजयो रामो गतश्रीर्वनगोचरः।  
-व्रती स्थण्डिलशायी च शंके जीवति वा न वा॥ २६॥
+व्रती स्थण्डिलशायी च शङ्के जीवति वा न वा॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -502,13 +499,13 @@ title_english = "020 Ravana talks to Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्लिष्टकौशेयवसनां तन्वीमप्यनलंकृताम्।  
+क्लिष्टकौशेयवसनां तन्वीमप्यनलङ्कृताम्।  
 त्वां दृष्ट्वा स्वेषु दारेषु रतिं नोपलभाम्यहम्॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-क्लिष्टकौशेयवसनां तन्वीमप्यनलंकृताम्।  
+क्लिष्टकौशेयवसनां तन्वीमप्यनलङ्कृताम्।  
 त्वां दृष्ट्वा स्वेषु दारेषु रतिं नोपलभाम्यहम्॥ ३०॥
 </details>
 
@@ -608,17 +605,17 @@ title_english = "020 Ravana talks to Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कुसुमिततरुजालसंततानि  
+कुसुमिततरुजालसन्ततानि  
 भ्रमरयुतानि समुद्रतीरजानि।  
-कनकविमलहारभूषितांगी  
+कनकविमलहारभूषिताङ्गी  
 विहर मया सह भीरु काननानि॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कुसुमिततरुजालसंततानि  
+कुसुमिततरुजालसन्ततानि  
 भ्रमरयुतानि समुद्रतीरजानि।  
-कनकविमलहारभूषितांगी  
+कनकविमलहारभूषिताङ्गी  
 विहर मया सह भीरु काननानि॥ ३६॥
 </details>
 
@@ -632,3 +629,4 @@ title_english = "020 Ravana talks to Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे विंशः सर्गः॥ २०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें बीसवाँ सर्ग पूरा हुआ॥ २०॥
 </details>
+

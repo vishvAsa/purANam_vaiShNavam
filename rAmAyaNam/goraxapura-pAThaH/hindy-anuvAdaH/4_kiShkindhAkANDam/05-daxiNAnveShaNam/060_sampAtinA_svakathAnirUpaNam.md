@@ -4,11 +4,8 @@ title_english = "060 Sampaati narrates his legend"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-060-Sampaati_narrates_his_legend.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-060-Sampaati_narrates_his_legend.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "060 Sampaati narrates his legend"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृत्वा निःशब्दमेकाग्राः शृण्वन्तु हरयो मम।  
-तथ्यं संकीर्तयिष्यामि यथा जानामि मैथिलीम्॥ ३॥
+तथ्यं सङ्कीर्तयिष्यामि यथा जानामि मैथिलीम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कृत्वा निःशब्दमेकाग्राः शृण्वन्तु हरयो मम।  
-तथ्यं संकीर्तयिष्यामि यथा जानामि मैथिलीम्॥ ३॥
+तथ्यं सङ्कीर्तयिष्यामि यथा जानामि मैथिलीम्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -85,14 +82,14 @@ title_english = "060 Sampaati narrates his legend"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-लब्धसंज्ञस्तु षड्रात्राद् विवशो विह्वलन्निव।  
-वीक्षमाणो दिशः सर्वा नाभिजानामि किंचन॥ ५॥
+लब्धसञ्ज्ञस्तु षड्रात्राद् विवशो विह्वलन्निव।  
+वीक्षमाणो दिशः सर्वा नाभिजानामि किञ्चन॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-लब्धसंज्ञस्तु षड्रात्राद् विवशो विह्वलन्निव।  
-वीक्षमाणो दिशः सर्वा नाभिजानामि किंचन॥ ५॥
+लब्धसञ्ज्ञस्तु षड्रात्राद् विवशो विह्वलन्निव।  
+वीक्षमाणो दिशः सर्वा नाभिजानामि किञ्चन॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -377,3 +374,4 @@ title_english = "060 Sampaati narrates his legend"
 इत्यार्षे श्रीमद्राणायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे षष्टितमः सर्गः॥ ६०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें साठवाँ सर्ग पूरा हुआ॥ ६०॥
 </details>
+

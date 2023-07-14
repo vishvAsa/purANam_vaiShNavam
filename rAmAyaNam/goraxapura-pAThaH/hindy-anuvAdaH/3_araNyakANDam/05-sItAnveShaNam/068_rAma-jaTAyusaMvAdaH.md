@@ -4,11 +4,8 @@ title_english = "068 Jataayu infoms about Ravana and dies"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-068-Rama_Jataayu_Samvadaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-068-Rama_Jataayu_Samvadaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,14 +31,14 @@ title_english = "068 Jataayu infoms about Ravana and dies"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ममायं नूनमर्थेषु यतमानो विहंगमः।  
-राक्षसेन हतः संख्ये प्राणांस्त्यजति मत्कृते॥ २॥
+ममायं नूनमर्थेषु यतमानो विहङ्गमः।  
+राक्षसेन हतः सङ्ख्ये प्राणांस्त्यजति मत्कृते॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ममायं नूनमर्थेषु यतमानो विहंगमः।  
-राक्षसेन हतः संख्ये प्राणांस्त्यजति मत्कृते॥ २॥
+ममायं नूनमर्थेषु यतमानो विहङ्गमः।  
+राक्षसेन हतः सङ्ख्ये प्राणांस्त्यजति मत्कृते॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -85,13 +82,13 @@ title_english = "068 Jataayu infoms about Ravana and dies"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किंनिमित्तो जहारार्यां रावणस्तस्य किं मया।  
+किन्निमित्तो जहारार्यां रावणस्तस्य किं मया।  
 अपराधं तु यं दृष्ट्वा रावणेन हृता प्रिया॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-किंनिमित्तो जहारार्यां रावणस्तस्य किं मया।  
+किन्निमित्तो जहारार्यां रावणस्तस्य किं मया।  
 अपराधं तु यं दृष्ट्वा रावणेन हृता प्रिया॥ ५॥
 </details>
 
@@ -102,13 +99,13 @@ title_english = "068 Jataayu infoms about Ravana and dies"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथं तच्चन्द्रसंकाशं मुखमासीन्मनोहरम्।  
+कथं तच्चन्द्रसङ्काशं मुखमासीन्मनोहरम्।  
 सीतया कानि चोक्तानि तस्मिन् काले द्विजोत्तम॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथं तच्चन्द्रसंकाशं मुखमासीन्मनोहरम्।  
+कथं तच्चन्द्रसङ्काशं मुखमासीन्मनोहरम्।  
 सीतया कानि चोक्तानि तस्मिन् काले द्विजोत्तम॥ ६॥
 </details>
 
@@ -119,13 +116,13 @@ title_english = "068 Jataayu infoms about Ravana and dies"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथंवीर्यः कथंरूपः किंकर्मा स च राक्षसः।  
+कथंवीर्यः कथंरूपः किङ्कर्मा स च राक्षसः।  
 क्व चास्य भवनं तात ब्रूहि मे परिपृच्छतः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथंवीर्यः कथंरूपः किंकर्मा स च राक्षसः।  
+कथंवीर्यः कथंरूपः किङ्कर्मा स च राक्षसः।  
 क्व चास्य भवनं तात ब्रूहि मे परिपृच्छतः॥ ७॥
 </details>
 
@@ -154,13 +151,13 @@ title_english = "068 Jataayu infoms about Ravana and dies"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा हृता राक्षसेन्द्रेण रावणेन दुरात्मना।  
-मायामास्थाय विपुलां वातदुर्दिनसंकुलाम्॥ ९॥
+मायामास्थाय विपुलां वातदुर्दिनसङ्कुलाम्॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा हृता राक्षसेन्द्रेण रावणेन दुरात्मना।  
-मायामास्थाय विपुलां वातदुर्दिनसंकुलाम्॥ ९॥
+मायामास्थाय विपुलां वातदुर्दिनसङ्कुलाम्॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -415,13 +412,13 @@ title_english = "068 Jataayu infoms about Ravana and dies"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सीताहरणजं दुःखं न मे सौम्य तथागतम्।  
-यथा विनाशो गृध्रस्य मत्कृते च परंतप॥ २५॥
+यथा विनाशो गृध्रस्य मत्कृते च परन्तप॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सीताहरणजं दुःखं न मे सौम्य तथागतम्।  
-यथा विनाशो गृध्रस्य मत्कृते च परंतप॥ २५॥
+यथा विनाशो गृध्रस्य मत्कृते च परन्तप॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -637,3 +634,4 @@ title_english = "068 Jataayu infoms about Ravana and dies"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डेऽष्टषष्टितमः सर्गः॥ ६८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें अड़सठवाँ सर्ग पूरा हुआ॥ ६८॥
 </details>
+

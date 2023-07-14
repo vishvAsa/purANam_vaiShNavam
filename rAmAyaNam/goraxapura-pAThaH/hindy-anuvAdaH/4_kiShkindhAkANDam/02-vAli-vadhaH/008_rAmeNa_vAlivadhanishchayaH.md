@@ -4,11 +4,8 @@ title_english = "008 The tale of enmity between Vali and Sugreeva"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-008-Ramasya_Valivadha_Nishachayyaha_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-008-Ramasya_Valivadha_Nishachayyaha_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -256,7 +253,7 @@ title_english = "008 The tale of enmity between Vali and Sugreeva"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुखोपविष्टं रामं तु प्रसन्नमुदधिं यथा।  
-सालपुष्पावसंकीर्णे तस्मिन् गिरिवरोत्तमे॥ १५॥  
+सालपुष्पावसङ्कीर्णे तस्मिन् गिरिवरोत्तमे॥ १५॥  
 ततः प्रहृष्टः सुग्रीवः श्लक्ष्णया शुभया गिरा।  
 उवाच प्रणयाद् रामं हर्षव्याकुलिताक्षरम्॥ १६॥
 </details>
@@ -264,7 +261,7 @@ title_english = "008 The tale of enmity between Vali and Sugreeva"
 <details><summary>मूलम्</summary>
 
 सुखोपविष्टं रामं तु प्रसन्नमुदधिं यथा।  
-सालपुष्पावसंकीर्णे तस्मिन् गिरिवरोत्तमे॥ १५॥  
+सालपुष्पावसङ्कीर्णे तस्मिन् गिरिवरोत्तमे॥ १५॥  
 ततः प्रहृष्टः सुग्रीवः श्लक्ष्णया शुभया गिरा।  
 उवाच प्रणयाद् रामं हर्षव्याकुलिताक्षरम्॥ १६॥
 </details>
@@ -310,13 +307,13 @@ title_english = "008 The tale of enmity between Vali and Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वालिनो मे भयार्तस्य सर्वलोकाभयंकर।  
+वालिनो मे भयार्तस्य सर्वलोकाभयङ्कर।  
 ममापि त्वमनाथस्य प्रसादं कर्तुमर्हसि॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वालिनो मे भयार्तस्य सर्वलोकाभयंकर।  
+वालिनो मे भयार्तस्य सर्वलोकाभयङ्कर।  
 ममापि त्वमनाथस्य प्रसादं कर्तुमर्हसि॥ १९॥
 </details>
 
@@ -378,13 +375,13 @@ title_english = "008 The tale of enmity between Vali and Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कङ्कपत्रपरिच्छन्ना महेन्द्राशनिसंनिभाः।  
+कङ्कपत्रपरिच्छन्ना महेन्द्राशनिसन्निभाः।  
 सुपर्वाणः सुतीक्ष्णाग्राः सरोषा भुजगा इव॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कङ्कपत्रपरिच्छन्ना महेन्द्राशनिसंनिभाः।  
+कङ्कपत्रपरिच्छन्ना महेन्द्राशनिसन्निभाः।  
 सुपर्वाणः सुतीक्ष्णाग्राः सरोषा भुजगा इव॥ २३॥
 </details>
 
@@ -395,13 +392,13 @@ title_english = "008 The tale of enmity between Vali and Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वालिसंज्ञममित्रं ते भ्रातरं कृतकिल्बिषम्।  
+वालिसञ्ज्ञममित्रं ते भ्रातरं कृतकिल्बिषम्।  
 शरैर्विनिहतं पश्य विकीर्णमिव पर्वतम्॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वालिसंज्ञममित्रं ते भ्रातरं कृतकिल्बिषम्।  
+वालिसञ्ज्ञममित्रं ते भ्रातरं कृतकिल्बिषम्।  
 शरैर्विनिहतं पश्य विकीर्णमिव पर्वतम्॥ २४॥
 </details>
 
@@ -498,13 +495,13 @@ title_english = "008 The tale of enmity between Vali and Sugreeva"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाष्पवेगं तु सहसा नदीवेगमिवागतम्।  
-धारयामास धैर्येण सुग्रीवो रामसंनिधौ॥ ३०॥
+धारयामास धैर्येण सुग्रीवो रामसन्निधौ॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बाष्पवेगं तु सहसा नदीवेगमिवागतम्।  
-धारयामास धैर्येण सुग्रीवो रामसंनिधौ॥ ३०॥
+धारयामास धैर्येण सुग्रीवो रामसन्निधौ॥ ३०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -633,13 +630,13 @@ title_english = "008 The tale of enmity between Vali and Sugreeva"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संक्षेपस्त्वेष मे राम किमुक्त्वा विस्तरं हि ते।  
+सङ्क्षेपस्त्वेष मे राम किमुक्त्वा विस्तरं हि ते।  
 स मे ज्येष्ठो रिपुर्भ्राता वाली विश्रुतपौरुषः॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संक्षेपस्त्वेष मे राम किमुक्त्वा विस्तरं हि ते।  
+सङ्क्षेपस्त्वेष मे राम किमुक्त्वा विस्तरं हि ते।  
 स मे ज्येष्ठो रिपुर्भ्राता वाली विश्रुतपौरुषः॥ ३८॥
 </details>
 
@@ -789,3 +786,4 @@ title_english = "008 The tale of enmity between Vali and Sugreeva"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डेऽष्टमः सर्गः॥ ८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें आठवाँ सर्ग पूरा हुआ॥ ८॥
 </details>
+

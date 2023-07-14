@@ -4,11 +4,8 @@ title_english = "005 Sri Rama recollects the lotus eyed Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-005-Sri_Rama_recollects_the_lotus-eyed_Seetha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-005-Sri_Rama_recollects_the_lotus-eyed_Seetha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -137,13 +134,13 @@ title_english = "005 Sri Rama recollects the lotus eyed Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद्वियोगेन्धनवता तच्चिन्ताविमलार्चिषा।  
-रात्रिंदिवं शरीरं मे दह्यते मदनाग्निना॥ ८॥
+रात्रिन्दिवं शरीरं मे दह्यते मदनाग्निना॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तद्वियोगेन्धनवता तच्चिन्ताविमलार्चिषा।  
-रात्रिंदिवं शरीरं मे दह्यते मदनाग्निना॥ ८॥
+रात्रिन्दिवं शरीरं मे दह्यते मदनाग्निना॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -391,13 +388,13 @@ title_english = "005 Sri Rama recollects the lotus eyed Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आश्वासितो लक्ष्मणेन रामः संध्यामुपासत।  
+आश्वासितो लक्ष्मणेन रामः सन्ध्यामुपासत।  
 स्मरन् कमलपत्राक्षीं सीतां शोकाकुलीकृतः॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-आश्वासितो लक्ष्मणेन रामः संध्यामुपासत।  
+आश्वासितो लक्ष्मणेन रामः सन्ध्यामुपासत।  
 स्मरन् कमलपत्राक्षीं सीतां शोकाकुलीकृतः॥ २३॥
 </details>
 
@@ -411,3 +408,4 @@ title_english = "005 Sri Rama recollects the lotus eyed Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे पञ्चमः सर्गः॥ ५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें पाँचवाँ सर्ग पूरा हुआ॥ ५॥
 </details>
+

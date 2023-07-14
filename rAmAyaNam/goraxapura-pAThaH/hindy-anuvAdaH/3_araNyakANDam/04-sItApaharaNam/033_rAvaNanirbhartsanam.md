@@ -4,11 +4,8 @@ title_english = "033 Shurpanakha accuses Ravana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-033-Ravana_Nirbhartha_Sanaa.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-033-Ravana_Nirbhartha_Sanaa.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "033 Shurpanakha accuses Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः शूर्पणखा दीना रावणं लोकरावणम्।  
-अमात्यमध्ये संक्रुद्धा परुषं वाक्यमब्रवीत्॥ १॥
+अमात्यमध्ये सङ्क्रुद्धा परुषं वाक्यमब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः शूर्पणखा दीना रावणं लोकरावणम्।  
-अमात्यमध्ये संक्रुद्धा परुषं वाक्यमब्रवीत्॥ १॥
+अमात्यमध्ये सङ्क्रुद्धा परुषं वाक्यमब्रवीत्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -423,3 +420,4 @@ title_english = "033 Shurpanakha accuses Ravana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे त्रयस्त्रिंशः सर्गः॥ ३३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें तैंतीसवाँ सर्ग पूरा हुआ॥ ३३॥
 </details>
+

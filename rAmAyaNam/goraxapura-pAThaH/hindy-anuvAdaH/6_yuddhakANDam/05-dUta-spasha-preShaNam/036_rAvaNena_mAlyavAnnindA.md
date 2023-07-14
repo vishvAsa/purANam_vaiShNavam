@@ -4,11 +4,8 @@ title_english = "036 Ravana abuses Malyavan"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-036-Ravana_abuses_Malyavan__0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-036-Ravana_abuses_Malyavan__0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -85,13 +82,13 @@ title_english = "036 Ravana abuses Malyavan"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रक्षसामीश्वरं मां च देवानां च भयंकरम्।  
+रक्षसामीश्वरं मां च देवानां च भयङ्करम्।  
 हीनं मां मन्यसे केन अहीनं सर्वविक्रमैः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-रक्षसामीश्वरं मां च देवानां च भयंकरम्।  
+रक्षसामीश्वरं मां च देवानां च भयङ्करम्।  
 हीनं मां मन्यसे केन अहीनं सर्वविक्रमैः॥ ५॥
 </details>
 
@@ -344,13 +341,13 @@ title_english = "036 Ravana abuses Malyavan"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं विधानं लङ्कायां कृत्वा राक्षसपुंगवः।  
+एवं विधानं लङ्कायां कृत्वा राक्षसपुङ्गवः।  
 कृतकृत्यमिवात्मानं मन्यते कालचोदितः॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवं विधानं लङ्कायां कृत्वा राक्षसपुंगवः।  
+एवं विधानं लङ्कायां कृत्वा राक्षसपुङ्गवः।  
 कृतकृत्यमिवात्मानं मन्यते कालचोदितः॥ २१॥
 </details>
 
@@ -385,3 +382,4 @@ title_english = "036 Ravana abuses Malyavan"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे षट‍‍्त्रिंशः सर्गः॥ ३६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें छत्तीसवाँ सर्ग पूरा हुआ॥ ३६॥
 </details>
+

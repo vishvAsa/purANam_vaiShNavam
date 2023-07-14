@@ -4,11 +4,8 @@ title_english = "033 Seetha antecedents to Hanuma"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-033-Seetha_antecedents_to_Hanuma.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-033-Seetha_antecedents_to_Hanuma.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -60,7 +57,7 @@ title_english = "033 Seetha antecedents to Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुराणामसुराणां च नागगन्धर्वरक्षसाम्।  
-यक्षाणां किंनराणां च का त्वं भवसि शोभने॥ ५॥  
+यक्षाणां किन्नराणां च का त्वं भवसि शोभने॥ ५॥  
 का त्वं भवसि रुद्राणां मरुतां वा वरानने।  
 वसूनां वा वरारोहे देवता प्रतिभासि मे॥ ६॥
 </details>
@@ -68,7 +65,7 @@ title_english = "033 Seetha antecedents to Hanuma"
 <details><summary>मूलम्</summary>
 
 सुराणामसुराणां च नागगन्धर्वरक्षसाम्।  
-यक्षाणां किंनराणां च का त्वं भवसि शोभने॥ ५॥  
+यक्षाणां किन्नराणां च का त्वं भवसि शोभने॥ ५॥  
 का त्वं भवसि रुद्राणां मरुतां वा वरानने।  
 वसूनां वा वरारोहे देवता प्रतिभासि मे॥ ६॥
 </details>
@@ -132,7 +129,7 @@ title_english = "033 Seetha antecedents to Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रोदनादतिनिःश्वासाद् भूमिसंस्पर्शनादपि।  
-न त्वां देवीमहं मन्ये राज्ञः संज्ञावधारणात्॥ १०॥  
+न त्वां देवीमहं मन्ये राज्ञः सञ्ज्ञावधारणात्॥ १०॥  
 व्यञ्जनानि हि ते यानि लक्षणानि च लक्षये।  
 महिषी भूमिपालस्य राजकन्या च मे मता॥ ११॥
 </details>
@@ -140,7 +137,7 @@ title_english = "033 Seetha antecedents to Hanuma"
 <details><summary>मूलम्</summary>
 
 रोदनादतिनिःश्वासाद् भूमिसंस्पर्शनादपि।  
-न त्वां देवीमहं मन्ये राज्ञः संज्ञावधारणात्॥ १०॥  
+न त्वां देवीमहं मन्ये राज्ञः सञ्ज्ञावधारणात्॥ १०॥  
 व्यञ्जनानि हि ते यानि लक्षणानि च लक्षये।  
 महिषी भूमिपालस्य राजकन्या च मे मता॥ ११॥
 </details>
@@ -360,13 +357,13 @@ title_english = "033 Seetha antecedents to Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दद्यान्न प्रतिगृह्णीयात्  सत्यं ब्रूयान्न चानृतम्।  
+दद्यान्न प्रतिगृह्णीयात् सत्यं ब्रूयान्न चानृतम्।  
 अपि जीवितहेतोर्हि रामः सत्यपराक्रमः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-दद्यान्न प्रतिगृह्णीयात्  सत्यं ब्रूयान्न चानृतम्।  
+दद्यान्न प्रतिगृह्णीयात् सत्यं ब्रूयान्न चानृतम्।  
 अपि जीवितहेतोर्हि रामः सत्यपराक्रमः॥ २५॥
 </details>
 
@@ -412,13 +409,13 @@ title_english = "033 Seetha antecedents to Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रागेव तु महाभागः सौमित्रिर्मित्रनन्दनः।  
-पूर्वजस्यानुयात्रार्थे कुशचीरैरलंकृतः॥ २८॥
+पूर्वजस्यानुयात्रार्थे कुशचीरैरलङ्कृतः॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रागेव तु महाभागः सौमित्रिर्मित्रनन्दनः।  
-पूर्वजस्यानुयात्रार्थे कुशचीरैरलंकृतः॥ २८॥
+पूर्वजस्यानुयात्रार्थे कुशचीरैरलङ्कृतः॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -482,3 +479,4 @@ title_english = "033 Seetha antecedents to Hanuma"
 इत्यार्षे श्रीमद्रामायणे वाल्मीये आदिकाव्ये सुन्दरकाण्डे त्रयस्त्रिंशः सर्गः॥ ३३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें तैंतीसवाँ सर्ग पूरा हुआ॥ ३३॥
 </details>
+

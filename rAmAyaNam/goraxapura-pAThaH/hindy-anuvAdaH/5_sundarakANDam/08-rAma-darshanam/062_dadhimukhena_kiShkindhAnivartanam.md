@@ -4,11 +4,8 @@ title_english = "062 Dadhimukha departs to Kishkindha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-061-Monkeys_took_halt_at_Madhuvana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-061-Monkeys_took_halt_at_Madhuvana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -313,13 +310,13 @@ title_english = "062 Dadhimukha departs to Kishkindha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मध्ये चैषां दधिमुखः सुप्रगृह्य महातरुम्।  
-समभ्यधावन् वेगेन सर्वे ते च प्लवंगमाः॥ २१॥
+समभ्यधावन् वेगेन सर्वे ते च प्लवङ्गमाः॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मध्ये चैषां दधिमुखः सुप्रगृह्य महातरुम्।  
-समभ्यधावन् वेगेन सर्वे ते च प्लवंगमाः॥ २१॥
+समभ्यधावन् वेगेन सर्वे ते च प्लवङ्गमाः॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -347,13 +344,13 @@ title_english = "062 Dadhimukha departs to Kishkindha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बलान्निवारयन्तश्च आसेदुर्हरयो हरीन्।  
-संदष्टौष्ठपुटाः क्रुद्धा भर्त्सयन्तो मुहुर्मुहुः॥ २३॥
+सन्दष्टौष्ठपुटाः क्रुद्धा भर्त्सयन्तो मुहुर्मुहुः॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बलान्निवारयन्तश्च आसेदुर्हरयो हरीन्।  
-संदष्टौष्ठपुटाः क्रुद्धा भर्त्सयन्तो मुहुर्मुहुः॥ २३॥
+सन्दष्टौष्ठपुटाः क्रुद्धा भर्त्सयन्तो मुहुर्मुहुः॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -431,13 +428,13 @@ title_english = "062 Dadhimukha departs to Kishkindha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स कथंचिद् विमुक्तस्तैर्वानरैर्वानरर्षभः।  
+स कथञ्चिद् विमुक्तस्तैर्वानरैर्वानरर्षभः।  
 उवाचैकान्तमागत्य स्वान् भृत्यान् समुपागतान्॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स कथंचिद् विमुक्तस्तैर्वानरैर्वानरर्षभः।  
+स कथञ्चिद् विमुक्तस्तैर्वानरैर्वानरर्षभः।  
 उवाचैकान्तमागत्य स्वान् भृत्यान् समुपागतान्॥ २८॥
 </details>
 
@@ -608,3 +605,4 @@ title_english = "062 Dadhimukha departs to Kishkindha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे द्विषष्टितमः सर्गः॥ ६२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें बासठवाँ सर्ग पूरा हुआ॥ ६२॥
 </details>
+

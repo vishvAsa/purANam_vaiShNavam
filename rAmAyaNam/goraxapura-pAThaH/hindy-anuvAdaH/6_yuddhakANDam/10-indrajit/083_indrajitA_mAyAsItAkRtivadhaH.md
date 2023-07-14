@@ -4,11 +4,8 @@ title_english = "083 Seetha has been killed by Indrajit"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-083-Seetha_has_been_killed_by_Indrajit_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-083-Seetha_has_been_killed_by_Indrajit_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "083 Seetha has been killed by Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राघवश्चापि विपुलं तं राक्षसवनौकसाम्।  
-श्रुत्वा संग्रामनिर्घोषं जाम्बवन्तमुवाच ह॥ १॥
+श्रुत्वा सङ्ग्रामनिर्घोषं जाम्बवन्तमुवाच ह॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 राघवश्चापि विपुलं तं राक्षसवनौकसाम्।  
-श्रुत्वा संग्रामनिर्घोषं जाम्बवन्तमुवाच ह॥ १॥
+श्रुत्वा सङ्ग्रामनिर्घोषं जाम्बवन्तमुवाच ह॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -86,13 +83,13 @@ title_english = "083 Seetha has been killed by Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथायान्तं हनूमन्तं ददर्शर्क्षपतिस्तदा।  
-वानरैः कृतसंग्रामैः श्वसद्भिरभिसंवृतम्॥ ५॥
+वानरैः कृतसङ्ग्रामैः श्वसद्भिरभिसंवृतम्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथायान्तं हनूमन्तं ददर्शर्क्षपतिस्तदा।  
-वानरैः कृतसंग्रामैः श्वसद्भिरभिसंवृतम्॥ ५॥
+वानरैः कृतसङ्ग्रामैः श्वसद्भिरभिसंवृतम्॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -103,13 +100,13 @@ title_english = "083 Seetha has been killed by Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दृष्ट्वा पथि हनूमांश्च तदृक्षबलमुद्यतम्।  
-नीलमेघनिभं भीमं संनिवार्य न्यवर्तत॥ ६॥
+नीलमेघनिभं भीमं सन्निवार्य न्यवर्तत॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दृष्ट्वा पथि हनूमांश्च तदृक्षबलमुद्यतम्।  
-नीलमेघनिभं भीमं संनिवार्य न्यवर्तत॥ ६॥
+नीलमेघनिभं भीमं सन्निवार्य न्यवर्तत॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -119,13 +116,13 @@ title_english = "083 Seetha has been killed by Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स तेन सह सैन्येन संनिकर्षं महायशाः।  
+स तेन सह सैन्येन सन्निकर्षं महायशाः।  
 शीघ्रमागम्य रामाय दुःखितो वाक्यमब्रवीत्॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स तेन सह सैन्येन संनिकर्षं महायशाः।  
+स तेन सह सैन्येन सन्निकर्षं महायशाः।  
 शीघ्रमागम्य रामाय दुःखितो वाक्यमब्रवीत्॥ ७॥
 </details>
 
@@ -153,13 +150,13 @@ title_english = "083 Seetha has been killed by Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद‍्भ्रान्तचित्तस्तां दृष्ट्वा विषण्णोऽहमरिंदम।  
+उद‍्भ्रान्तचित्तस्तां दृष्ट्वा विषण्णोऽहमरिन्दम।  
 तदहं भवतो वृत्तं विज्ञापयितुमागतः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उद‍्भ्रान्तचित्तस्तां दृष्ट्वा विषण्णोऽहमरिंदम।  
+उद‍्भ्रान्तचित्तस्तां दृष्ट्वा विषण्णोऽहमरिन्दम।  
 तदहं भवतो वृत्तं विज्ञापयितुमागतः॥ ९॥
 </details>
 
@@ -187,13 +184,13 @@ title_english = "083 Seetha has been killed by Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं भूमौ देवसंकाशं पतितं दृश्य राघवम्।  
+तं भूमौ देवसङ्काशं पतितं दृश्य राघवम्।  
 अभिपेतुः समुत्पत्य सर्वतः कपिसत्तमाः॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तं भूमौ देवसंकाशं पतितं दृश्य राघवम्।  
+तं भूमौ देवसङ्काशं पतितं दृश्य राघवम्।  
 अभिपेतुः समुत्पत्य सर्वतः कपिसत्तमाः॥ ११॥
 </details>
 
@@ -412,13 +409,13 @@ title_english = "083 Seetha has been killed by Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि सत् स्यात् सतां मुख्य नासत् स्यात् तव किंचन।  
+यदि सत् स्यात् सतां मुख्य नासत् स्यात् तव किञ्चन।  
 त्वया यदीदृशं प्राप्तं तस्मात् तन्नोपपद्यते॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदि सत् स्यात् सतां मुख्य नासत् स्यात् तव किंचन।  
+यदि सत् स्यात् सतां मुख्य नासत् स्यात् तव किञ्चन।  
 त्वया यदीदृशं प्राप्तं तस्मात् तन्नोपपद्यते॥ २५॥
 </details>
 
@@ -468,13 +465,13 @@ title_english = "083 Seetha has been killed by Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ चेत् सत्यवचनं धर्मः किल परंतप।  
+अथ चेत् सत्यवचनं धर्मः किल परन्तप।  
 अनृतं त्वय्यकरणे किं न बद्धस्त्वया विना॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथ चेत् सत्यवचनं धर्मः किल परंतप।  
+अथ चेत् सत्यवचनं धर्मः किल परन्तप।  
 अनृतं त्वय्यकरणे किं न बद्धस्त्वया विना॥ २८॥
 </details>
 
@@ -485,13 +482,13 @@ title_english = "083 Seetha has been killed by Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि धर्मो भवेद् भूत अधर्मो वा परंतप।  
+यदि धर्मो भवेद् भूत अधर्मो वा परन्तप।  
 न स्म हत्वा मुनिं वज्री कुर्यादिज्यां शतक्रतुः॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदि धर्मो भवेद् भूत अधर्मो वा परंतप।  
+यदि धर्मो भवेद् भूत अधर्मो वा परन्तप।  
 न स्म हत्वा मुनिं वज्री कुर्यादिज्यां शतक्रतुः॥ २९॥
 </details>
 
@@ -764,3 +761,4 @@ title_english = "083 Seetha has been killed by Indrajit"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्र्यशीतितमः सर्गः॥ ८३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें तिरासीवाँ सर्ग पूरा हुआ॥ ८३॥
 </details>
+

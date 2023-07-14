@@ -4,11 +4,8 @@ title_english = "101 Bharata informs Rama about Dasaratha s death"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-101-Dasharatha_Niryana_Kathanam_.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-101-Dasharatha_Niryana_Kathanam_.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -89,13 +86,13 @@ title_english = "101 Bharata informs Rama about Dasaratha s death"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्त्रिया नियुक्तः कैकेय्या मम मात्रा परंतप।  
+स्त्रिया नियुक्तः कैकेय्या मम मात्रा परन्तप।  
 चकार सा महत्पापमिदमात्मयशोहरम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स्त्रिया नियुक्तः कैकेय्या मम मात्रा परंतप।  
+स्त्रिया नियुक्तः कैकेय्या मम मात्रा परन्तप।  
 चकार सा महत्पापमिदमात्मयशोहरम्॥ ६॥
 </details>
 
@@ -310,13 +307,13 @@ title_english = "101 Bharata informs Rama about Dasaratha s death"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वयमस्य यथा लोके संख्याताः सौम्य साधुभिः।  
+वयमस्य यथा लोके सङ्ख्याताः सौम्य साधुभिः।  
 भार्याः पुत्राश्च शिष्याश्च त्वमपि ज्ञातुमर्हसि॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वयमस्य यथा लोके संख्याताः सौम्य साधुभिः।  
+वयमस्य यथा लोके सङ्ख्याताः सौम्य साधुभिः।  
 भार्याः पुत्राश्च शिष्याश्च त्वमपि ज्ञातुमर्हसि॥ १९॥
 </details>
 
@@ -395,13 +392,13 @@ title_english = "101 Bharata informs Rama about Dasaratha s death"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमुक्त्वा महाराजो विभागं लोकसंनिधौ।  
+एवमुक्त्वा महाराजो विभागं लोकसन्निधौ।  
 व्यादिश्य च महाराजो दिवं दशरथो गतः॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवमुक्त्वा महाराजो विभागं लोकसंनिधौ।  
+एवमुक्त्वा महाराजो विभागं लोकसन्निधौ।  
 व्यादिश्य च महाराजो दिवं दशरथो गतः॥ २४॥
 </details>
 
@@ -475,3 +472,4 @@ title_english = "101 Bharata informs Rama about Dasaratha s death"
 
 * कुछ प्रतियोंमें यह सर्ग १०४ वें सर्गके रूपमें वर्णित है। १०० वें सर्गके बादके तीन सर्गोंके बाद इसका उल्लेख हुआ है।
 </details>
+

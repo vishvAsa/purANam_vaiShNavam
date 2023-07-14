@@ -4,11 +4,8 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-022-Sea-god_advices_Rama_with_joined_palms_to_build_a_bridge.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-022-Sea-god_advices_Rama_with_joined_palms_to_build_a_bridge.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मत्कार्मुकविसृष्टेन शरवर्षेण सागर।  
-परं तीरं गमिष्यन्ति पद्भिरेव प्लवंगमाः॥ ३॥
+परं तीरं गमिष्यन्ति पद्भिरेव प्लवङ्गमाः॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मत्कार्मुकविसृष्टेन शरवर्षेण सागर।  
-परं तीरं गमिष्यन्ति पद्भिरेव प्लवंगमाः॥ ३॥
+परं तीरं गमिष्यन्ति पद्भिरेव प्लवङ्गमाः॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -69,13 +66,13 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विचिन्वन्नाभिजानासि पौरुषं नापि विक्रमम्।  
-दानवालय संतापं मत्तो नाम गमिष्यसि॥ ४॥
+दानवालय सन्तापं मत्तो नाम गमिष्यसि॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 विचिन्वन्नाभिजानासि पौरुषं नापि विक्रमम्।  
-दानवालय संतापं मत्तो नाम गमिष्यसि॥ ४॥
+दानवालय सन्तापं मत्तो नाम गमिष्यसि॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -136,13 +133,13 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तिर्यक् च सह नक्षत्रैः संगतौ चन्द्रभास्करौ।  
+तिर्यक् च सह नक्षत्रैः सङ्गतौ चन्द्रभास्करौ।  
 भास्करांशुभिरादीप्तं तमसा च समावृतम्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तिर्यक् च सह नक्षत्रैः संगतौ चन्द्रभास्करौ।  
+तिर्यक् च सह नक्षत्रैः सङ्गतौ चन्द्रभास्करौ।  
 भास्करांशुभिरादीप्तं तमसा च समावृतम्॥ ८॥
 </details>
 
@@ -210,13 +207,13 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शिश्यिरे चाभिभूतानि संत्रस्तान्युद्विजन्ति च॥ १३॥  
+शिश्यिरे चाभिभूतानि सन्त्रस्तान्युद्विजन्ति च॥ १३॥  
 सम्प्रविव्यथिरे चापि न च पस्पन्दिरे भयात्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-शिश्यिरे चाभिभूतानि संत्रस्तान्युद्विजन्ति च॥ १३॥  
+शिश्यिरे चाभिभूतानि सन्त्रस्तान्युद्विजन्ति च॥ १३॥  
 सम्प्रविव्यथिरे चापि न च पस्पन्दिरे भयात्।
 </details>
 
@@ -281,13 +278,13 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पन्नगैः सह दीप्तास्यैः समुद्रः प्रत्यदृश्यत।  
-स्निग्धवैदूर्यसंकाशो जाम्बूनदविभूषणः॥ १८॥
+स्निग्धवैदूर्यसङ्काशो जाम्बूनदविभूषणः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पन्नगैः सह दीप्तास्यैः समुद्रः प्रत्यदृश्यत।  
-स्निग्धवैदूर्यसंकाशो जाम्बूनदविभूषणः॥ १८॥
+स्निग्धवैदूर्यसङ्काशो जाम्बूनदविभूषणः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -350,13 +347,13 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आघूर्णिततरङ्गौघः कालिकानिलसंकुलः॥ २२॥  
+आघूर्णिततरङ्गौघः कालिकानिलसङ्कुलः॥ २२॥  
 गङ्गासिन्धुप्रधानाभिरापगाभिः समावृतः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-आघूर्णिततरङ्गौघः कालिकानिलसंकुलः॥ २२॥  
+आघूर्णिततरङ्गौघः कालिकानिलसङ्कुलः॥ २२॥  
 गङ्गासिन्धुप्रधानाभिरापगाभिः समावृतः।
 </details>
 
@@ -423,13 +420,13 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न कामान्न च लोभाद् वा न भयात् पार्थिवात्मज।  
-ग्राहनक्राकुलजलं स्तम्भयेयं कथंचन॥ २८॥
+ग्राहनक्राकुलजलं स्तम्भयेयं कथञ्चन॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 न कामान्न च लोभाद् वा न भयात् पार्थिवात्मज।  
-ग्राहनक्राकुलजलं स्तम्भयेयं कथंचन॥ २८॥
+ग्राहनक्राकुलजलं स्तम्भयेयं कथञ्चन॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -870,13 +867,13 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते नगान् नगसंकाशाः शाखामृगगणर्षभाः।  
+ते नगान् नगसङ्काशाः शाखामृगगणर्षभाः।  
 बभञ्जुः पादपांस्तत्र प्रचकर्षुश्च सागरम्॥ ५५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते नगान् नगसंकाशाः शाखामृगगणर्षभाः।  
+ते नगान् नगसङ्काशाः शाखामृगगणर्षभाः।  
 बभञ्जुः पादपांस्तत्र प्रचकर्षुश्च सागरम्॥ ५५॥
 </details>
 
@@ -1032,13 +1029,13 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाषाणांश्च गिरिप्रख्यान् गिरीणां शिखराणि च।  
-दृश्यन्ते परिधावन्तो गृह्य दानवसंनिभाः॥ ६६॥
+दृश्यन्ते परिधावन्तो गृह्य दानवसन्निभाः॥ ६६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पाषाणांश्च गिरिप्रख्यान् गिरीणां शिखराणि च।  
-दृश्यन्ते परिधावन्तो गृह्य दानवसंनिभाः॥ ६६॥
+दृश्यन्ते परिधावन्तो गृह्य दानवसन्निभाः॥ ६६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1066,13 +1063,13 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतानि प्रथमेनाह्ना योजनानि चतुर्दश।  
-प्रहृष्टैर्गजसंकाशैस्त्वरमाणैः प्लवङ्गमैः॥ ६८॥
+प्रहृष्टैर्गजसङ्काशैस्त्वरमाणैः प्लवङ्गमैः॥ ६८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कृतानि प्रथमेनाह्ना योजनानि चतुर्दश।  
-प्रहृष्टैर्गजसंकाशैस्त्वरमाणैः प्लवङ्गमैः॥ ६८॥
+प्रहृष्टैर्गजसङ्काशैस्त्वरमाणैः प्लवङ्गमैः॥ ६८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1218,14 +1215,14 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आप्लवन्तः प्लवन्तश्च गर्जन्तश्च प्लवंगमाः।  
+आप्लवन्तः प्लवन्तश्च गर्जन्तश्च प्लवङ्गमाः।  
 तमचिन्त्यमसह्यं च ह्यद्भुतं लोमहर्षणम्॥ ७७॥  
 ददृशुः सर्वभूतानि सागरे सेतुबन्धनम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-आप्लवन्तः प्लवन्तश्च गर्जन्तश्च प्लवंगमाः।  
+आप्लवन्तः प्लवन्तश्च गर्जन्तश्च प्लवङ्गमाः।  
 तमचिन्त्यमसह्यं च ह्यद्भुतं लोमहर्षणम्॥ ७७॥  
 ददृशुः सर्वभूतानि सागरे सेतुबन्धनम्।
 </details>
@@ -1326,14 +1323,14 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्ये मध्येन गच्छन्ति पार्श्वतोऽन्ये प्लवंगमाः॥ ८४॥  
+अन्ये मध्येन गच्छन्ति पार्श्वतोऽन्ये प्लवङ्गमाः॥ ८४॥  
 सलिलं प्रपतन्त्यन्ये मार्गमन्ये प्रपेदिरे।  
 केचिद् वैहायसगताः सुपर्णा इव पुप्लुवुः॥ ८५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अन्ये मध्येन गच्छन्ति पार्श्वतोऽन्ये प्लवंगमाः॥ ८४॥  
+अन्ये मध्येन गच्छन्ति पार्श्वतोऽन्ये प्लवङ्गमाः॥ ८४॥  
 सलिलं प्रपतन्त्यन्ये मार्गमन्ये प्रपेदिरे।  
 केचिद् वैहायसगताः सुपर्णा इव पुप्लुवुः॥ ८५॥
 </details>
@@ -1424,3 +1421,4 @@ title_english = "022 Sea god advices Rama with joined palms to build a bridge"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्वाविंशः सर्गः॥ २२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें बाईसवाँ सर्ग पूरा हुआ॥ २२॥
 </details>
+

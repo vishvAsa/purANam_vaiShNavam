@@ -4,11 +4,8 @@ title_english = "022 Khara s army marches to Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-022-Kharasya_Yudhdha_Sidhathaa.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-022-Kharasya_Yudhdha_Sidhathaa.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -68,13 +65,13 @@ title_english = "022 Khara s army marches to Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बाष्पः संधार्यतामेष सम्भ्रमश्च विमुच्यताम्।  
+बाष्पः सन्धार्यतामेष सम्भ्रमश्च विमुच्यताम्।  
 अहं रामं सह भ्रात्रा नयामि यमसादनम्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-बाष्पः संधार्यतामेष सम्भ्रमश्च विमुच्यताम्।  
+बाष्पः सन्धार्यतामेष सम्भ्रमश्च विमुच्यताम्।  
 अहं रामं सह भ्रात्रा नयामि यमसादनम्॥ ४॥
 </details>
 
@@ -212,7 +209,7 @@ title_english = "022 Khara s army marches to Rama"
 हेमचक्रमसम्बाधं वैदूर्यमयकूबरम्॥ १३॥  
 मत्स्यैः पुष्पैर्द्रुमैः शैलैश्चन्द्रसूर्यैश्च काञ्चनैः।  
 माङ्गल्यैः पक्षिसङ्घैश्च ताराभिश्च समावृतम्॥ १४॥  
-ध्वजनिस्त्रिंशसम्पन्नं किंकिणीवरभूषितम्।  
+ध्वजनिस्त्रिंशसम्पन्नं किङ्किणीवरभूषितम्।  
 सदश्वयुक्तं सोऽमर्षादारुरोह खरस्तदा॥ १५॥
 </details>
 
@@ -222,7 +219,7 @@ title_english = "022 Khara s army marches to Rama"
 हेमचक्रमसम्बाधं वैदूर्यमयकूबरम्॥ १३॥  
 मत्स्यैः पुष्पैर्द्रुमैः शैलैश्चन्द्रसूर्यैश्च काञ्चनैः।  
 माङ्गल्यैः पक्षिसङ्घैश्च ताराभिश्च समावृतम्॥ १४॥  
-ध्वजनिस्त्रिंशसम्पन्नं किंकिणीवरभूषितम्।  
+ध्वजनिस्त्रिंशसम्पन्नं किङ्किणीवरभूषितम्।  
 सदश्वयुक्तं सोऽमर्षादारुरोह खरस्तदा॥ १५॥
 </details>
 
@@ -293,13 +290,13 @@ title_english = "022 Khara s army marches to Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तांस्तु निर्धावतो दृष्ट्वा राक्षसान् भीमदर्शनान्।  
-खरस्याथ रथः किंचिज्जगाम तदनन्तरम्॥ २१॥
+खरस्याथ रथः किञ्चिज्जगाम तदनन्तरम्॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तांस्तु निर्धावतो दृष्ट्वा राक्षसान् भीमदर्शनान्।  
-खरस्याथ रथः किंचिज्जगाम तदनन्तरम्॥ २१॥
+खरस्याथ रथः किञ्चिज्जगाम तदनन्तरम्॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -326,13 +323,13 @@ title_english = "022 Khara s army marches to Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संचोदितो रथः शीघ्रं खरस्य रिपुघातिनः।  
+सञ्चोदितो रथः शीघ्रं खरस्य रिपुघातिनः।  
 शब्देनापूरयामास दिशः सप्रदिशस्तथा॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संचोदितो रथः शीघ्रं खरस्य रिपुघातिनः।  
+सञ्चोदितो रथः शीघ्रं खरस्य रिपुघातिनः।  
 शब्देनापूरयामास दिशः सप्रदिशस्तथा॥ २३॥
 </details>
 
@@ -367,3 +364,4 @@ title_english = "022 Khara s army marches to Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे द्वाविंशः सर्गः॥ २२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें बाईसवाँ सर्ग पूरा हुआ॥ २२॥
 </details>
+

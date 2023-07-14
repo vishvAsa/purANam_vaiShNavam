@@ -4,11 +4,8 @@ title_english = "036 Sugreeva s apology pacifies Lakshmana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-036-Sugreeva_Krutham_Lakshmana_Samashvasanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-036-Sugreeva_Krutham_Lakshmana_Samashvasanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "036 Sugreeva s apology pacifies Lakshmana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् प्रतिगृहीते तु वाक्ये हरिगणेश्वरः।  
-लक्ष्मणात् सुमहत्  त्रासं वस्त्रं क्लिन्नमिवात्यजत्॥ २॥
+लक्ष्मणात् सुमहत् त्रासं वस्त्रं क्लिन्नमिवात्यजत्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्मिन् प्रतिगृहीते तु वाक्ये हरिगणेश्वरः।  
-लक्ष्मणात् सुमहत्  त्रासं वस्त्रं क्लिन्नमिवात्यजत्॥ २॥
+लक्ष्मणात् सुमहत् त्रासं वस्त्रं क्लिन्नमिवात्यजत्॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -187,13 +184,13 @@ title_english = "036 Sugreeva s apology pacifies Lakshmana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि किंचिदतिक्रान्तं विश्वासात् प्रणयेन वा।  
+यदि किञ्चिदतिक्रान्तं विश्वासात् प्रणयेन वा।  
 प्रेष्यस्य क्षमितव्यं मे न कश्चिन्नापराध्यति॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदि किंचिदतिक्रान्तं विश्वासात् प्रणयेन वा।  
+यदि किञ्चिदतिक्रान्तं विश्वासात् प्रणयेन वा।  
 प्रेष्यस्य क्षमितव्यं मे न कश्चिन्नापराध्यति॥ ११॥
 </details>
 
@@ -272,13 +269,13 @@ title_english = "036 Sugreeva s apology pacifies Lakshmana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-धर्मज्ञस्य कृतज्ञस्य संग्रामेष्वनिवर्तिनः।  
+धर्मज्ञस्य कृतज्ञस्य सङ्ग्रामेष्वनिवर्तिनः।  
 उपपन्नं च युक्तं च सुग्रीव तव भाषितम्॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-धर्मज्ञस्य कृतज्ञस्य संग्रामेष्वनिवर्तिनः।  
+धर्मज्ञस्य कृतज्ञस्य सङ्ग्रामेष्वनिवर्तिनः।  
 उपपन्नं च युक्तं च सुग्रीव तव भाषितम्॥ १६॥
 </details>
 
@@ -307,13 +304,13 @@ title_english = "036 Sugreeva s apology pacifies Lakshmana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सदृशश्चासि रामेण विक्रमेण बलेन च।  
-सहायो दैवतैर्दत्तश्चिराय हरिपुंगव॥ १८॥
+सहायो दैवतैर्दत्तश्चिराय हरिपुङ्गव॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सदृशश्चासि रामेण विक्रमेण बलेन च।  
-सहायो दैवतैर्दत्तश्चिराय हरिपुंगव॥ १८॥
+सहायो दैवतैर्दत्तश्चिराय हरिपुङ्गव॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -360,3 +357,4 @@ title_english = "036 Sugreeva s apology pacifies Lakshmana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे षट‍‍्त्रिंशः सर्गः॥ ३६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें छत्तीसवाँ सर्ग पूरा हुआ॥ ३६॥
 </details>
+

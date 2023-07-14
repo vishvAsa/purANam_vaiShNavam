@@ -4,11 +4,8 @@ title_english = "009 Seetha concerned about Sri Rama s vow to kill demons"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-009-Sitaya_Aayudhanyasa_Pradhana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-009-Sitaya_Aayudhanyasa_Pradhana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -76,7 +73,7 @@ title_english = "009 Seetha concerned about Sri Rama s vow to kill demons"
 तव नास्ति मनुष्येन्द्र न चाभूत् ते कदाचन॥ ५॥  
 मनस्यपि तथा राम न चैतद् विद्यते क्वचित्।  
 स्वदारनिरतश्चैव नित्यमेव नृपात्मज॥ ६॥  
-धर्मिष्ठः सत्यसंधश्च पितुर्निर्देशकारकः।  
+धर्मिष्ठः सत्यसन्धश्च पितुर्निर्देशकारकः।  
 त्वयि धर्मश्च सत्यं च त्वयि सर्वं प्रतिष्ठितम्॥ ७॥
 </details>
 
@@ -86,7 +83,7 @@ title_english = "009 Seetha concerned about Sri Rama s vow to kill demons"
 तव नास्ति मनुष्येन्द्र न चाभूत् ते कदाचन॥ ५॥  
 मनस्यपि तथा राम न चैतद् विद्यते क्वचित्।  
 स्वदारनिरतश्चैव नित्यमेव नृपात्मज॥ ६॥  
-धर्मिष्ठः सत्यसंधश्च पितुर्निर्देशकारकः।  
+धर्मिष्ठः सत्यसन्धश्च पितुर्निर्देशकारकः।  
 त्वयि धर्मश्च सत्यं च त्वयि सर्वं प्रतिष्ठितम्॥ ७॥
 </details>
 
@@ -370,7 +367,7 @@ title_english = "009 Seetha concerned about Sri Rama s vow to kill demons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्नेहाच्च बहुमानाच्च स्मारये त्वां तु शिक्षये।  
-न कथंचन सा कार्या गृहीतधनुषा त्वया॥ २४॥  
+न कथञ्चन सा कार्या गृहीतधनुषा त्वया॥ २४॥  
 बुद्धिर्वैरं विना हन्तुं राक्षसान् दण्डकाश्रितान्।  
 अपराधं विना हन्तुं लोको वीर न मंस्यते॥ २५॥
 </details>
@@ -378,7 +375,7 @@ title_english = "009 Seetha concerned about Sri Rama s vow to kill demons"
 <details><summary>मूलम्</summary>
 
 स्नेहाच्च बहुमानाच्च स्मारये त्वां तु शिक्षये।  
-न कथंचन सा कार्या गृहीतधनुषा त्वया॥ २४॥  
+न कथञ्चन सा कार्या गृहीतधनुषा त्वया॥ २४॥  
 बुद्धिर्वैरं विना हन्तुं राक्षसान् दण्डकाश्रितान्।  
 अपराधं विना हन्तुं लोको वीर न मंस्यते॥ २५॥
 </details>
@@ -442,13 +439,13 @@ title_english = "009 Seetha concerned about Sri Rama s vow to kill demons"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अक्षया तु भवेत् प्रीतिः श्वश्रूश्वशुरयोर्मम।  
-यदि राज्यं हि संन्यस्य भवेस्त्वं निरतो मुनिः॥ २९॥
+यदि राज्यं हि सन्न्यस्य भवेस्त्वं निरतो मुनिः॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अक्षया तु भवेत् प्रीतिः श्वश्रूश्वशुरयोर्मम।  
-यदि राज्यं हि संन्यस्य भवेस्त्वं निरतो मुनिः॥ २९॥
+यदि राज्यं हि सन्न्यस्य भवेस्त्वं निरतो मुनिः॥ २९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -533,3 +530,4 @@ title_english = "009 Seetha concerned about Sri Rama s vow to kill demons"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे नवमः सर्गः॥ ९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें नवाँ सर्ग पूरा हुआ॥ ९॥
 </details>
+

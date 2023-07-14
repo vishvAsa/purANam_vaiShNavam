@@ -4,11 +4,8 @@ title_english = "008 Dialogue with Sage Suteekshna"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-008-Dandakavana_Nishkramanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-008-Dandakavana_Nishkramanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -93,13 +90,13 @@ title_english = "008 Dialogue with Sage Suteekshna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अभ्यनुज्ञातुमिच्छामः सहैभिर्मुनिपुंगवैः।  
+अभ्यनुज्ञातुमिच्छामः सहैभिर्मुनिपुङ्गवैः।  
 धर्मनित्यैस्तपोदान्तैर्विशिखैरिव पावकैः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अभ्यनुज्ञातुमिच्छामः सहैभिर्मुनिपुंगवैः।  
+अभ्यनुज्ञातुमिच्छामः सहैभिर्मुनिपुङ्गवैः।  
 धर्मनित्यैस्तपोदान्तैर्विशिखैरिव पावकैः॥ ७॥
 </details>
 
@@ -131,13 +128,13 @@ title_english = "008 Dialogue with Sage Suteekshna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तौ संस्पृशन्तौ चरणावुत्थाप्य मुनिपुंगवः।  
+तौ संस्पृशन्तौ चरणावुत्थाप्य मुनिपुङ्गवः।  
 गाढमाश्लिष्य सस्नेहमिदं वचनमब्रवीत्॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तौ संस्पृशन्तौ चरणावुत्थाप्य मुनिपुंगवः।  
+तौ संस्पृशन्तौ चरणावुत्थाप्य मुनिपुङ्गवः।  
 गाढमाश्लिष्य सस्नेहमिदं वचनमब्रवीत्॥ १०॥
 </details>
 
@@ -321,3 +318,4 @@ title_english = "008 Dialogue with Sage Suteekshna"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डेऽष्टमः सर्गः॥ ८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें आठवाँ सर्ग पूरा हुआ॥ ८॥
 </details>
+

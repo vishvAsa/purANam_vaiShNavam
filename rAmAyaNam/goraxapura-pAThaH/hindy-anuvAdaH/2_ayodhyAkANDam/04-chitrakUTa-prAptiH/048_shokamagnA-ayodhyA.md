@@ -4,11 +4,8 @@ title_english = "048 Rama s departure for the forest"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-048-Shokamagnaa_Ayodhya.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-048-Shokamagnaa_Ayodhya.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -451,13 +448,13 @@ title_english = "048 Rama s departure for the forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मिथ्याप्रव्राजितो रामः सभार्यः सहलक्ष्मणः।  
-भरते संनिबद्धाः स्मः सौनिके पशवो यथा॥ २८॥
+भरते सन्निबद्धाः स्मः सौनिके पशवो यथा॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मिथ्याप्रव्राजितो रामः सभार्यः सहलक्ष्मणः।  
-भरते संनिबद्धाः स्मः सौनिके पशवो यथा॥ २८॥
+भरते सन्निबद्धाः स्मः सौनिके पशवो यथा॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -467,7 +464,7 @@ title_english = "048 Rama s departure for the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पूर्णचन्द्राननः श्यामो गूढजत्रुररिंदमः।  
+पूर्णचन्द्राननः श्यामो गूढजत्रुररिन्दमः।  
 आजानुबाहुः पद्माक्षो रामो लक्ष्मणपूर्वजः॥ २९॥  
 पूर्वाभिभाषी मधुरः सत्यवादी महाबलः।  
 सौम्यश्च सर्वलोकस्य चन्द्रवत् प्रियदर्शनः॥ ३०॥
@@ -475,7 +472,7 @@ title_english = "048 Rama s departure for the forest"
 
 <details><summary>मूलम्</summary>
 
-पूर्णचन्द्राननः श्यामो गूढजत्रुररिंदमः।  
+पूर्णचन्द्राननः श्यामो गूढजत्रुररिन्दमः।  
 आजानुबाहुः पद्माक्षो रामो लक्ष्मणपूर्वजः॥ २९॥  
 पूर्वाभिभाषी मधुरः सत्यवादी महाबलः।  
 सौम्यश्च सर्वलोकस्य चन्द्रवत् प्रियदर्शनः॥ ३०॥
@@ -506,13 +503,13 @@ title_english = "048 Rama s departure for the forest"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तास्तथा विलपन्त्यस्तु नगरे नागरस्त्रियः।  
-चुक्रुशुर्दुःखसंतप्ता मृत्योरिव भयागमे॥ ३२॥
+चुक्रुशुर्दुःखसन्तप्ता मृत्योरिव भयागमे॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तास्तथा विलपन्त्यस्तु नगरे नागरस्त्रियः।  
-चुक्रुशुर्दुःखसंतप्ता मृत्योरिव भयागमे॥ ३२॥
+चुक्रुशुर्दुःखसन्तप्ता मृत्योरिव भयागमे॥ ३२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -539,13 +536,13 @@ title_english = "048 Rama s departure for the forest"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नष्टज्वलनसंतापा प्रशान्ताध्यायसत्कथा।  
+नष्टज्वलनसन्तापा प्रशान्ताध्यायसत्कथा।  
 तिमिरेणानुलिप्तेव तदा सा नगरी बभौ॥ ३४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नष्टज्वलनसंतापा प्रशान्ताध्यायसत्कथा।  
+नष्टज्वलनसन्तापा प्रशान्ताध्यायसत्कथा।  
 तिमिरेणानुलिप्तेव तदा सा नगरी बभौ॥ ३४॥
 </details>
 
@@ -597,7 +594,7 @@ title_english = "048 Rama s departure for the forest"
 प्रशान्तगीतोत्सवनृत्यवादना  
 विभ्रष्टहर्षा पिहितापणोदया।  
 तदा ह्ययोध्या नगरी बभूव सा  
-महार्णवः संक्षपितोदको यथा॥ ३७॥
+महार्णवः सङ्क्षपितोदको यथा॥ ३७॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -605,7 +602,7 @@ title_english = "048 Rama s departure for the forest"
 प्रशान्तगीतोत्सवनृत्यवादना  
 विभ्रष्टहर्षा पिहितापणोदया।  
 तदा ह्ययोध्या नगरी बभूव सा  
-महार्णवः संक्षपितोदको यथा॥ ३७॥
+महार्णवः सङ्क्षपितोदको यथा॥ ३७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -618,3 +615,4 @@ title_english = "048 Rama s departure for the forest"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डेऽष्टचत्वारिंशः सर्गः॥ ४८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें अड़तालीसवाँ सर्ग पूरा हुआ॥ ४८॥
 </details>
+

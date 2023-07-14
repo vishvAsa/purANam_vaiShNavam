@@ -4,11 +4,8 @@ title_english = "038 Hanuma asks Seetha to give him a token of remembrance"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-038-Hanuma_asks_Seetha_to_give_him_a_token_of_remembrance.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-038-Hanuma_asks_Seetha_to_give_him_a_token_of_remembrance.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -698,13 +695,13 @@ title_english = "038 Hanuma asks Seetha to give him a token of remembrance"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ्रातुरादेशमादाय लक्ष्मणो वा परंतपः।  
+भ्रातुरादेशमादाय लक्ष्मणो वा परन्तपः।  
 कस्य हेतोर्न मां वीरः परित्राति महाबलः॥ ४४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-भ्रातुरादेशमादाय लक्ष्मणो वा परंतपः।  
+भ्रातुरादेशमादाय लक्ष्मणो वा परन्तपः।  
 कस्य हेतोर्न मां वीरः परित्राति महाबलः॥ ४४॥
 </details>
 
@@ -732,14 +729,14 @@ title_english = "038 Hanuma asks Seetha to give him a token of remembrance"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ममैव दुष्कृतं किंचिन्महदस्ति न संशयः।  
-समर्थावपि तौ यन्मां नावेक्षेते परंतपौ॥ ४६॥
+ममैव दुष्कृतं किञ्चिन्महदस्ति न संशयः।  
+समर्थावपि तौ यन्मां नावेक्षेते परन्तपौ॥ ४६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ममैव दुष्कृतं किंचिन्महदस्ति न संशयः।  
-समर्थावपि तौ यन्मां नावेक्षेते परंतपौ॥ ४६॥
+ममैव दुष्कृतं किञ्चिन्महदस्ति न संशयः।  
+समर्थावपि तौ यन्मां नावेक्षेते परन्तपौ॥ ४६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -783,13 +780,13 @@ title_english = "038 Hanuma asks Seetha to give him a token of remembrance"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथंचिद् भवती दृष्टा न कालः परिशोचितुम्।  
+कथञ्चिद् भवती दृष्टा न कालः परिशोचितुम्।  
 इमं मुहूर्तं दुःखानामन्तं द्रक्ष्यसि शोभने॥ ४९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथंचिद् भवती दृष्टा न कालः परिशोचितुम्।  
+कथञ्चिद् भवती दृष्टा न कालः परिशोचितुम्।  
 इमं मुहूर्तं दुःखानामन्तं द्रक्ष्यसि शोभने॥ ४९॥
 </details>
 
@@ -1041,7 +1038,7 @@ title_english = "038 Hanuma asks Seetha to give him a token of remembrance"
 मणिवरमुपगृह्य तं महार्हं  
 जनकनृपात्मजया धृतं प्रभावात्।  
 गिरिवरपवनावधूतमुक्तः  
-सुखितमनाः प्रतिसंक्रमं प्रपेदे॥ ७०॥
+सुखितमनाः प्रतिसङ्क्रमं प्रपेदे॥ ७०॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1049,7 +1046,7 @@ title_english = "038 Hanuma asks Seetha to give him a token of remembrance"
 मणिवरमुपगृह्य तं महार्हं  
 जनकनृपात्मजया धृतं प्रभावात्।  
 गिरिवरपवनावधूतमुक्तः  
-सुखितमनाः प्रतिसंक्रमं प्रपेदे॥ ७०॥
+सुखितमनाः प्रतिसङ्क्रमं प्रपेदे॥ ७०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1062,3 +1059,4 @@ title_english = "038 Hanuma asks Seetha to give him a token of remembrance"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डेऽष्टात्रिंशः सर्गः॥ ३८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें अड़तीसवाँ सर्ग पूरा हुआ॥ ३८॥
 </details>
+

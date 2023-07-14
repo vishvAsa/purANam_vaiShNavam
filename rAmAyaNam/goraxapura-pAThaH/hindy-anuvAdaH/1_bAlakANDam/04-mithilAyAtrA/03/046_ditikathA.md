@@ -4,11 +4,8 @@ title_english = "046 Lady diti seeks for a son to kill Indra"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-046-Dithi_Katha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-046-Dithi_Katha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -171,13 +168,13 @@ title_english = "046 Lady diti seeks for a son to kill Indra"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अग्निं कुशान् काष्ठमपः फलं मूलं तथैव च।  
-न्यवेदयत् सहस्राक्षो यच्चान्यदपि कांक्षितम्॥ १०॥
+न्यवेदयत् सहस्राक्षो यच्चान्यदपि काङ्क्षितम्॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अग्निं कुशान् काष्ठमपः फलं मूलं तथैव च।  
-न्यवेदयत् सहस्राक्षो यच्चान्यदपि कांक्षितम्॥ १०॥
+न्यवेदयत् सहस्राक्षो यच्चान्यदपि काङ्क्षितम्॥ १०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -306,13 +303,13 @@ title_english = "046 Lady diti seeks for a son to kill Indra"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्याः शरीरविवरं प्रविवेश पुरंदरः।  
+तस्याः शरीरविवरं प्रविवेश पुरन्दरः।  
 गर्भं च सप्तधा राम चिच्छेद परमात्मवान्॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्याः शरीरविवरं प्रविवेश पुरंदरः।  
+तस्याः शरीरविवरं प्रविवेश पुरन्दरः।  
 गर्भं च सप्तधा राम चिच्छेद परमात्मवान्॥ १८॥
 </details>
 
@@ -398,3 +395,4 @@ title_english = "046 Lady diti seeks for a son to kill Indra"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षट्चत्वारिंशः सर्गः॥ ४६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें छियालीसवाँ सर्ग पूरा हुआ॥ ४६॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "088 Bharata approaches the foot of Angudi tree"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-088-Bharatha_Prathignaa.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-088-Bharatha_Prathignaa.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -68,13 +65,13 @@ title_english = "088 Bharata approaches the foot of Angudi tree"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अजिनोत्तरसंस्तीर्णे वरास्तरणसंचये।  
+अजिनोत्तरसंस्तीर्णे वरास्तरणसञ्चये।  
 शयित्वा पुरुषव्याघ्रः कथं शेते महीतले॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अजिनोत्तरसंस्तीर्णे वरास्तरणसंचये।  
+अजिनोत्तरसंस्तीर्णे वरास्तरणसञ्चये।  
 शयित्वा पुरुषव्याघ्रः कथं शेते महीतले॥ ४॥
 </details>
 
@@ -87,8 +84,8 @@ title_english = "088 Bharata approaches the foot of Angudi tree"
 
 प्रासादाग्रविमानेषु वलभीषु च सर्वदा।  
 हैमराजतभौमेषु वरास्तरणशालिषु॥ ५॥  
-पुष्पसंचयचित्रेषु चन्दनागुरुगन्धिषु।  
-पाण्डुराभ्रप्रकाशेषु शुकसंघरुतेषु च॥ ६॥  
+पुष्पसञ्चयचित्रेषु चन्दनागुरुगन्धिषु।  
+पाण्डुराभ्रप्रकाशेषु शुकसङ्घरुतेषु च॥ ६॥  
 प्रासादवरवर्येषु शीतवत्सु सुगन्धिषु।  
 उषित्वा मेरुकल्पेषु कृतकाञ्चनभित्तिषु॥ ७॥
 </details>
@@ -97,8 +94,8 @@ title_english = "088 Bharata approaches the foot of Angudi tree"
 
 प्रासादाग्रविमानेषु वलभीषु च सर्वदा।  
 हैमराजतभौमेषु वरास्तरणशालिषु॥ ५॥  
-पुष्पसंचयचित्रेषु चन्दनागुरुगन्धिषु।  
-पाण्डुराभ्रप्रकाशेषु शुकसंघरुतेषु च॥ ६॥  
+पुष्पसञ्चयचित्रेषु चन्दनागुरुगन्धिषु।  
+पाण्डुराभ्रप्रकाशेषु शुकसङ्घरुतेषु च॥ ६॥  
 प्रासादवरवर्येषु शीतवत्सु सुगन्धिषु।  
 उषित्वा मेरुकल्पेषु कृतकाञ्चनभित्तिषु॥ ७॥
 </details>
@@ -113,7 +110,7 @@ title_english = "088 Bharata approaches the foot of Angudi tree"
 गीतवादित्रनिर्घोषैर्वराभरणनिःस्वनैः।  
 मृदङ्गवरशब्दैश्च सततं प्रतिबोधितः॥ ८॥  
 बन्दिभिर्वन्दितः काले बहुभिः सूतमागधैः।  
-गाथाभिरनुरूपाभिः स्तुतिभिश्च परंतपः॥ ९॥
+गाथाभिरनुरूपाभिः स्तुतिभिश्च परन्तपः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -121,7 +118,7 @@ title_english = "088 Bharata approaches the foot of Angudi tree"
 गीतवादित्रनिर्घोषैर्वराभरणनिःस्वनैः।  
 मृदङ्गवरशब्दैश्च सततं प्रतिबोधितः॥ ८॥  
 बन्दिभिर्वन्दितः काले बहुभिः सूतमागधैः।  
-गाथाभिरनुरूपाभिः स्तुतिभिश्च परंतपः॥ ९॥
+गाथाभिरनुरूपाभिः स्तुतिभिश्च परन्तपः॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -148,13 +145,13 @@ title_english = "088 Bharata approaches the foot of Angudi tree"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न नूनं दैवतं किंचित् कालेन बलवत्तरम्।  
+न नूनं दैवतं किञ्चित् कालेन बलवत्तरम्।  
 यत्र दाशरथी रामो भूमावेवमशेत सः॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न नूनं दैवतं किंचित् कालेन बलवत्तरम्।  
+न नूनं दैवतं किञ्चित् कालेन बलवत्तरम्।  
 यत्र दाशरथी रामो भूमावेवमशेत सः॥ ११॥
 </details>
 
@@ -339,13 +336,13 @@ title_english = "088 Bharata approaches the foot of Angudi tree"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न च प्रार्थयते कश्चिन्मनसापि वसुंधराम्।  
+न च प्रार्थयते कश्चिन्मनसापि वसुन्धराम्।  
 वने निवसतस्तस्य बाहुवीर्याभिरक्षिताम्॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न च प्रार्थयते कश्चिन्मनसापि वसुंधराम्।  
+न च प्रार्थयते कश्चिन्मनसापि वसुन्धराम्।  
 वने निवसतस्तस्य बाहुवीर्याभिरक्षिताम्॥ २३॥
 </details>
 
@@ -469,3 +466,4 @@ title_english = "088 Bharata approaches the foot of Angudi tree"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डेऽष्टाशीतितमः सर्गः॥ ८८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें अट्ठासीवाँ सर्ग पूरा हुआ॥ ८८॥
 </details>
+

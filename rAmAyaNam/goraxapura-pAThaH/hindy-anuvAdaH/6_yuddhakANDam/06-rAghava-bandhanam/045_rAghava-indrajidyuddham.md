@@ -4,11 +4,8 @@ title_english = "045 Two scions of Raghu dynasty fall on the ground"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-045-Two_scions_of_Raghu_dynasty_fall_on_the_ground_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-045-Two_scions_of_Raghu_dynasty_fall_on_the_ground_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -37,7 +34,7 @@ title_english = "045 Two scions of Raghu dynasty fall on the ground"
 द्वौ सुषेणस्य दायादौ नीलं च प्लवगाधिपम्।  
 अङ्गदं वालिपुत्रं च शरभं च तरस्विनम्॥ २॥  
 द्विविदं च हनूमन्तं सानुप्रस्थं महाबलम्।  
-ऋषभं चर्षभस्कन्धमादिदेश परंतपः॥ ३॥
+ऋषभं चर्षभस्कन्धमादिदेश परन्तपः॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -45,7 +42,7 @@ title_english = "045 Two scions of Raghu dynasty fall on the ground"
 द्वौ सुषेणस्य दायादौ नीलं च प्लवगाधिपम्।  
 अङ्गदं वालिपुत्रं च शरभं च तरस्विनम्॥ २॥  
 द्विविदं च हनूमन्तं सानुप्रस्थं महाबलम्।  
-ऋषभं चर्षभस्कन्धमादिदेश परंतपः॥ ३॥
+ऋषभं चर्षभस्कन्धमादिदेश परन्तपः॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -107,13 +104,13 @@ title_english = "045 Two scions of Raghu dynasty fall on the ground"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामलक्ष्मणयोरेव सर्वदेहभिदः शरान्।  
-भृशमावेशयामास रावणिः समितिंजयः॥ ७॥
+भृशमावेशयामास रावणिः समितिञ्जयः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रामलक्ष्मणयोरेव सर्वदेहभिदः शरान्।  
-भृशमावेशयामास रावणिः समितिंजयः॥ ७॥
+भृशमावेशयामास रावणिः समितिञ्जयः॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -453,13 +450,13 @@ title_english = "045 Two scions of Raghu dynasty fall on the ground"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हरयश्चापि तं दृष्ट्वा संतापं परमं गताः।  
+हरयश्चापि तं दृष्ट्वा सन्तापं परमं गताः।  
 शोकार्ताश्चुक्रुशुर्घोरमश्रुपूरितलोचनाः॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-हरयश्चापि तं दृष्ट्वा संतापं परमं गताः।  
+हरयश्चापि तं दृष्ट्वा सन्तापं परमं गताः।  
 शोकार्ताश्चुक्रुशुर्घोरमश्रुपूरितलोचनाः॥ २७॥
 </details>
 
@@ -494,3 +491,4 @@ title_english = "045 Two scions of Raghu dynasty fall on the ground"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे पञ्चचत्वारिंशः सर्गः॥ ४५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें पैंतालीसवाँ सर्ग पूरा हुआ॥ ४५॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "067 Brahmins urge Vasishta to select a youth to be the king"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-067-Arajaka_Desha_Varnanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-067-Arajaka_Desha_Varnanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -106,13 +103,13 @@ title_english = "067 Brahmins urge Vasishta to select a youth to be the king"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उभौ भरतशत्रुघ्नौ केकयेषु परंतपौ।  
+उभौ भरतशत्रुघ्नौ केकयेषु परन्तपौ।  
 पुरे राजगृहे रम्ये मातामहनिवेशने॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उभौ भरतशत्रुघ्नौ केकयेषु परंतपौ।  
+उभौ भरतशत्रुघ्नौ केकयेषु परन्तपौ।  
 पुरे राजगृहे रम्ये मातामहनिवेशने॥ ७॥
 </details>
 
@@ -344,13 +341,13 @@ title_english = "067 Brahmins urge Vasishta to select a youth to be the king"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाराजके जनपदे शरान् संततमस्यताम्।  
+नाराजके जनपदे शरान् सन्ततमस्यताम्।  
 श्रूयते तलनिर्घोष इष्वस्त्राणामुपासने॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नाराजके जनपदे शरान् संततमस्यताम्।  
+नाराजके जनपदे शरान् सन्ततमस्यताम्।  
 श्रूयते तलनिर्घोष इष्वस्त्राणामुपासने॥ २१॥
 </details>
 
@@ -599,13 +596,13 @@ title_english = "067 Brahmins urge Vasishta to select a youth to be the king"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहो तम इवेदं स्यान्न प्रज्ञायेत किंचन।  
+अहो तम इवेदं स्यान्न प्रज्ञायेत किञ्चन।  
 राजा चेन्न भवेल्लोके विभजन् साध्वसाधुनी॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अहो तम इवेदं स्यान्न प्रज्ञायेत किंचन।  
+अहो तम इवेदं स्यान्न प्रज्ञायेत किञ्चन।  
 राजा चेन्न भवेल्लोके विभजन् साध्वसाधुनी॥ ३६॥
 </details>
 
@@ -657,3 +654,4 @@ title_english = "067 Brahmins urge Vasishta to select a youth to be the king"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्तषष्टितमः सर्गः॥ ६७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें सरसठवाँ सर्ग पूरा हुआ॥ ६७॥
 </details>
+

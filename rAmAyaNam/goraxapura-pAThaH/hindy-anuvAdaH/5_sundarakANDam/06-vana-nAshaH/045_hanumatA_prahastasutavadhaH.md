@@ -4,11 +4,8 @@ title_english = "045 Hanuma kills Prahasta s seven sons"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-044-Ravana_sends_Jambumali.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-044-Ravana_sends_Jambumali.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -72,13 +69,13 @@ title_english = "045 Hanuma kills Prahasta s seven sons"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जनन्यस्तास्ततस्तेषां विदित्वा किंकरान् हतान्।  
+जनन्यस्तास्ततस्तेषां विदित्वा किङ्करान् हतान्।  
 बभूवुः शोकसम्भ्रान्ताः सबान्धवसुहृज्जनाः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-जनन्यस्तास्ततस्तेषां विदित्वा किंकरान् हतान्।  
+जनन्यस्तास्ततस्तेषां विदित्वा किङ्करान् हतान्।  
 बभूवुः शोकसम्भ्रान्ताः सबान्धवसुहृज्जनाः॥ ५॥
 </details>
 
@@ -89,13 +86,13 @@ title_english = "045 Hanuma kills Prahasta s seven sons"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते परस्परसंघर्षात् तप्तकाञ्चनभूषणाः।  
+ते परस्परसङ्घर्षात् तप्तकाञ्चनभूषणाः।  
 अभिपेतुर्हनूमन्तं तोरणस्थमवस्थितम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते परस्परसंघर्षात् तप्तकाञ्चनभूषणाः।  
+ते परस्परसङ्घर्षात् तप्तकाञ्चनभूषणाः।  
 अभिपेतुर्हनूमन्तं तोरणस्थमवस्थितम्॥ ६॥
 </details>
 
@@ -191,13 +188,13 @@ title_english = "045 Hanuma kills Prahasta s seven sons"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तलेनाभिहनत् कांश्चित् पादैः कांश्चित् परंतपः।  
+तलेनाभिहनत् कांश्चित् पादैः कांश्चित् परन्तपः।  
 मुष्टिभिश्चाहनत् कांश्चिन्नखैः कांश्चिद् व्यदारयत्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तलेनाभिहनत् कांश्चित् पादैः कांश्चित् परंतपः।  
+तलेनाभिहनत् कांश्चित् पादैः कांश्चित् परन्तपः।  
 मुष्टिभिश्चाहनत् कांश्चिन्नखैः कांश्चिद् व्यदारयत्॥ १२॥
 </details>
 
@@ -300,3 +297,4 @@ title_english = "045 Hanuma kills Prahasta s seven sons"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे पञ्चचत्वारिंशः सर्गः॥ ४५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें पैंतालीसवाँ सर्ग पूरा हुआ॥ ४५॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "040 Ravana rebuts Maareecha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-040-RavanaKrutham_Maarivha_Nirbhartha_Sanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-040-RavanaKrutham_Maarivha_Nirbhartha_Sanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -88,7 +85,7 @@ title_english = "040 Ravana rebuts Maareecha"
 यस्त्यक्त्वा सुहृदो राज्यं मातरं पितरं तथा।  
 स्त्रीवाक्यं प्राकृतं श्रुत्वा वनमेकपदे गतः॥ ५॥  
 अवश्यं तु मया तस्य संयुगे खरघातिनः।  
-प्राणैः प्रियतरा सीता हर्तव्या तव संनिधौ॥ ६॥
+प्राणैः प्रियतरा सीता हर्तव्या तव सन्निधौ॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -96,7 +93,7 @@ title_english = "040 Ravana rebuts Maareecha"
 यस्त्यक्त्वा सुहृदो राज्यं मातरं पितरं तथा।  
 स्त्रीवाक्यं प्राकृतं श्रुत्वा वनमेकपदे गतः॥ ५॥  
 अवश्यं तु मया तस्य संयुगे खरघातिनः।  
-प्राणैः प्रियतरा सीता हर्तव्या तव संनिधौ॥ ६॥
+प्राणैः प्रियतरा सीता हर्तव्या तव सन्निधौ॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -433,3 +430,4 @@ title_english = "040 Ravana rebuts Maareecha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे चत्वारिंशः सर्गः॥ ४०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें चालीसवाँ सर्ग पूरा हुआ॥ ४०॥
 </details>
+

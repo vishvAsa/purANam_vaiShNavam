@@ -4,11 +4,8 @@ title_english = "022 Vali s death time advises"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-022-Vali_Maranam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-022-Vali_Maranam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -239,13 +236,13 @@ title_english = "022 Vali s death time advises"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदेषा साध्विति ब्रूयात् कार्यं तन्मुक्तसंशयम्।  
-नहि तारामतं किंचिदन्यथा परिवर्तते॥ १३॥
+नहि तारामतं किञ्चिदन्यथा परिवर्तते॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदेषा साध्विति ब्रूयात् कार्यं तन्मुक्तसंशयम्।  
-नहि तारामतं किंचिदन्यथा परिवर्तते॥ १३॥
+नहि तारामतं किञ्चिदन्यथा परिवर्तते॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -374,13 +371,13 @@ title_english = "022 Vali s death time advises"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नास्यामित्रैर्गतं गच्छेर्मा शत्रुभिररिंदम।  
+नास्यामित्रैर्गतं गच्छेर्मा शत्रुभिररिन्दम।  
 भर्तुरर्थपरो दान्तः सुग्रीववशगो भव॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नास्यामित्रैर्गतं गच्छेर्मा शत्रुभिररिंदम।  
+नास्यामित्रैर्गतं गच्छेर्मा शत्रुभिररिन्दम।  
 भर्तुरर्थपरो दान्तः सुग्रीववशगो भव॥ २२॥
 </details>
 
@@ -462,7 +459,6 @@ title_english = "022 Vali s death time advises"
 1 of the mightiest characters of the rAmAyaNa was the ape vAlin. Among his great acts were the slaying of the dAnava-s dundubhi & mAyAvin &mighty gandharva golabha after a continuous 16 year battle. An account this was recited by the apes in the funerary elegy to their great lord
 </details>
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हते प्लवगशार्दूले  
@@ -513,7 +509,7 @@ title_english = "022 Vali s death time advises"
 गोलभो विनिपातितः।  
 तं हत्वा दुर्विनीतं तु  
 वाली दंष्ट्राकरालवान्।  
-सर्वाभयंकरोऽस्माकं  
+सर्वाभयङ्करोऽस्माकं  
 कथम् एष निपातितः॥ ३०॥
 </details>
 
@@ -521,7 +517,7 @@ title_english = "022 Vali s death time advises"
 
 ततः षोडशमे वर्षे गोलभो विनिपातितः।  
 तं हत्वा दुर्विनीतं तु वाली दंष्ट्राकरालवान्।  
-सर्वाभयंकरोऽस्माकं कथमेष निपातितः॥ ३०॥
+सर्वाभयङ्करोऽस्माकं कथमेष निपातितः॥ ३०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -576,3 +572,4 @@ title_english = "022 Vali s death time advises"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे द्वाविंशः सर्गः॥ २२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें बाईसवाँ सर्ग पूरा हुआ॥ २२॥
 </details>
+

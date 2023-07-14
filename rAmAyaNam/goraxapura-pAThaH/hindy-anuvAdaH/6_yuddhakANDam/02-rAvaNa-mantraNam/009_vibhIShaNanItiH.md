@@ -4,11 +4,8 @@ title_english = "009 Vibhishana speak words of morality"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-009-Vibhishana_speak_words_of_morality.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-009-Vibhishana_speak_words_of_morality.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -138,7 +135,7 @@ title_english = "009 Vibhishana speak words of morality"
 समुद्रं लङ्घयित्वा तु घोरं नदनदीपतिम्।  
 गतिं हनूमतो लोके को विद्यात् तर्कयेत वा॥ ११॥  
 बलान्यपरिमेयानि वीर्याणि च निशाचराः।  
-परेषां सहसावज्ञा न कर्तव्या कथंचन॥ १२॥
+परेषां सहसावज्ञा न कर्तव्या कथञ्चन॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -146,7 +143,7 @@ title_english = "009 Vibhishana speak words of morality"
 समुद्रं लङ्घयित्वा तु घोरं नदनदीपतिम्।  
 गतिं हनूमतो लोके को विद्यात् तर्कयेत वा॥ ११॥  
 बलान्यपरिमेयानि वीर्याणि च निशाचराः।  
-परेषां सहसावज्ञा न कर्तव्या कथंचन॥ १२॥
+परेषां सहसावज्ञा न कर्तव्या कथञ्चन॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -292,7 +289,7 @@ title_english = "009 Vibhishana speak words of morality"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पुरा शरत्सूर्यमरीचिसंनिभान्  
+पुरा शरत्सूर्यमरीचिसन्निभान्  
 नवाग्रपुङ्खान् सुदृढान् नृपात्मजः।  
 सृजत्यमोघान् विशिखान् वधाय ते  
 प्रदीयतां दाशरथाय मैथिली॥ २१॥
@@ -300,7 +297,7 @@ title_english = "009 Vibhishana speak words of morality"
 
 <details><summary>मूलम्</summary>
 
-पुरा शरत्सूर्यमरीचिसंनिभान्  
+पुरा शरत्सूर्यमरीचिसन्निभान्  
 नवाग्रपुङ्खान् सुदृढान् नृपात्मजः।  
 सृजत्यमोघान् विशिखान् वधाय ते  
 प्रदीयतां दाशरथाय मैथिली॥ २१॥
@@ -354,3 +351,4 @@ title_english = "009 Vibhishana speak words of morality"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे नवमः सर्गः॥ ९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें नवाँ सर्ग पूरा हुआ॥ ९॥
 </details>
+

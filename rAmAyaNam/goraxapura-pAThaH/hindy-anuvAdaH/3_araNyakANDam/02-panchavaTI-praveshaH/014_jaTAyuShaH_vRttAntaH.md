@@ -4,11 +4,8 @@ title_english = "014 Sri Rama s Contact with Jatayu"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-014-Jatayusho_Vruthanthaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-014-Jatayusho_Vruthanthaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -245,14 +242,14 @@ title_english = "014 Sri Rama s Contact with Jatayu"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अदित्यां जज्ञिरे देवास्त्रयस्त्रिंशदरिंदम॥ १४॥  
-आदित्या वसवो रुद्रा अश्विनौ च परंतप।
+अदित्यां जज्ञिरे देवास्त्रयस्त्रिंशदरिन्दम॥ १४॥  
+आदित्या वसवो रुद्रा अश्विनौ च परन्तप।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अदित्यां जज्ञिरे देवास्त्रयस्त्रिंशदरिंदम॥ १४॥  
-आदित्या वसवो रुद्रा अश्विनौ च परंतप।
+अदित्यां जज्ञिरे देवास्त्रयस्त्रिंशदरिन्दम॥ १४॥  
+आदित्या वसवो रुद्रा अश्विनौ च परन्तप।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -279,13 +276,13 @@ title_english = "014 Sri Rama s Contact with Jatayu"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दनुस्त्वजनयत् पुत्रमश्वग्रीवमरिंदम॥ १६॥  
+दनुस्त्वजनयत् पुत्रमश्वग्रीवमरिन्दम॥ १६॥  
 नरकं कालकं चैव कालकापि व्यजायत।
 </details>
 
 <details><summary>मूलम्</summary>
 
-दनुस्त्वजनयत् पुत्रमश्वग्रीवमरिंदम॥ १६॥  
+दनुस्त्वजनयत् पुत्रमश्वग्रीवमरिन्दम॥ १६॥  
 नरकं कालकं चैव कालकापि व्यजायत।
 </details>
 
@@ -349,7 +346,7 @@ title_english = "014 Sri Rama s Contact with Jatayu"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दश क्रोधवशा राम विजज्ञेऽप्यात्मसंभवाः।  
+दश क्रोधवशा राम विजज्ञेऽप्यात्मसम्भवाः।  
 मृगीं च मृगमन्दां च हरीं भद्रमदामपि॥ २१॥  
 मातङ्गीमथ शार्दूलीं श्वेतां च सुरभीं तथा।  
 सर्वलक्षणसम्पन्नां सुरसां कद्रुकामपि॥ २२॥
@@ -357,7 +354,7 @@ title_english = "014 Sri Rama s Contact with Jatayu"
 
 <details><summary>मूलम्</summary>
 
-दश क्रोधवशा राम विजज्ञेऽप्यात्मसंभवाः।  
+दश क्रोधवशा राम विजज्ञेऽप्यात्मसम्भवाः।  
 मृगीं च मृगमन्दां च हरीं भद्रमदामपि॥ २१॥  
 मातङ्गीमथ शार्दूलीं श्वेतां च सुरभीं तथा।  
 सर्वलक्षणसम्पन्नां सुरसां कद्रुकामपि॥ २२॥
@@ -541,13 +538,13 @@ title_english = "014 Sri Rama s Contact with Jatayu"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माज्जातोऽहमरुणात् सम्पातिश्च ममाग्रजः।  
-जटायुरिति मां विद्धि श्येनीपुत्रमरिंदम॥ ३३॥
+जटायुरिति मां विद्धि श्येनीपुत्रमरिन्दम॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्माज्जातोऽहमरुणात् सम्पातिश्च ममाग्रजः।  
-जटायुरिति मां विद्धि श्येनीपुत्रमरिंदम॥ ३३॥
+जटायुरिति मां विद्धि श्येनीपुत्रमरिन्दम॥ ३३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -577,17 +574,17 @@ title_english = "014 Sri Rama s Contact with Jatayu"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटायुषं तु प्रतिपूज्य राघवो  
-मुदा परिष्वज्य च संनतोऽभवत् ।  
+मुदा परिष्वज्य च सन्नतोऽभवत् ।  
 पितुर्हि शुश्राव सखित्वमात्मवा-  
-ञ्जटायुषा संकथितं पुनः पुनः॥ ३५॥
+ञ्जटायुषा सङ्कथितं पुनः पुनः॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 जटायुषं तु प्रतिपूज्य राघवो  
-मुदा परिष्वज्य च संनतोऽभवत् ।  
+मुदा परिष्वज्य च सन्नतोऽभवत् ।  
 पितुर्हि शुश्राव सखित्वमात्मवा-  
-ञ्जटायुषा संकथितं पुनः पुनः॥ ३५॥
+ञ्जटायुषा सङ्कथितं पुनः पुनः॥ ३५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -621,3 +618,4 @@ title_english = "014 Sri Rama s Contact with Jatayu"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे चतुर्दशः सर्गः॥ १४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें चौदहवाँ सर्ग पूरा हुआ॥ १४॥
 </details>
+

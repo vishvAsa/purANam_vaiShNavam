@@ -4,11 +4,8 @@ title_english = "021 Hanuma consoles Tara"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-021-Hanumatha_Thara_Santvanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-021-Hanumatha_Thara_Santvanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -153,13 +150,13 @@ title_english = "021 Hanuma consoles Tara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ताविमौ शोकसंतप्तौ शनैः प्रेरय भामिनि।  
+ताविमौ शोकसन्तप्तौ शनैः प्रेरय भामिनि।  
 त्वया परिगृहीतोऽयमङ्गदः शास्तु मेदिनीम्॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ताविमौ शोकसंतप्तौ शनैः प्रेरय भामिनि।  
+ताविमौ शोकसन्तप्तौ शनैः प्रेरय भामिनि।  
 त्वया परिगृहीतोऽयमङ्गदः शास्तु मेदिनीम्॥ ९॥
 </details>
 
@@ -170,13 +167,13 @@ title_english = "021 Hanuma consoles Tara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संततिश्च यथा दृष्टा कृत्यं यच्चापि साम्प्रतम्।  
+सन्ततिश्च यथा दृष्टा कृत्यं यच्चापि साम्प्रतम्।  
 राज्ञस्तत् क्रियतां सर्वमेष कालस्य निश्चयः॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संततिश्च यथा दृष्टा कृत्यं यच्चापि साम्प्रतम्।  
+सन्ततिश्च यथा दृष्टा कृत्यं यच्चापि साम्प्रतम्।  
 राज्ञस्तत् क्रियतां सर्वमेष कालस्य निश्चयः॥ १०॥
 </details>
 
@@ -296,3 +293,4 @@ title_english = "021 Hanuma consoles Tara"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे एकविंशः सर्गः॥ २१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें इक्कीसवाँ सर्ग पूरा हुआ॥ २१॥
 </details>
+

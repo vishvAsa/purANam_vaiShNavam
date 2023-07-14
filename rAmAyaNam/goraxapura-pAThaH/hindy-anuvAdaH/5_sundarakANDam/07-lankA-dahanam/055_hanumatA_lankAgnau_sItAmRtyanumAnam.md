@@ -4,11 +4,8 @@ title_english = "055 Hanuma doubts whether Seetha dies in the fire"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-054-Hanuma_makes_up_his_mind_to_set_fire_the_city of Lanka.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-054-Hanuma_makes_up_his_mind_to_set_fire_the_city of Lanka.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "055 Hanuma doubts whether Seetha dies in the fire"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संदीप्यमानां वित्रस्तां त्रस्तरक्षोगणां पुरीम्।  
+सन्दीप्यमानां वित्रस्तां त्रस्तरक्षोगणां पुरीम्।  
 अवेक्ष्य हनुमाल्ँ लङ्कां चिन्तयामास वानरः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संदीप्यमानां वित्रस्तां त्रस्तरक्षोगणां पुरीम्।  
+सन्दीप्यमानां वित्रस्तां त्रस्तरक्षोगणां पुरीम्।  
 अवेक्ष्य हनुमाल्ँ लङ्कां चिन्तयामास वानरः॥ १॥
 </details>
 
@@ -205,13 +202,13 @@ title_english = "055 Hanuma doubts whether Seetha dies in the fire"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदि तद्विहतं कार्यं मया प्रज्ञाविपर्ययात्।  
-इहैव प्राणसंन्यासो ममापि ह्यद्य रोचते॥ १२॥
+इहैव प्राणसन्न्यासो ममापि ह्यद्य रोचते॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदि तद्विहतं कार्यं मया प्रज्ञाविपर्ययात्।  
-इहैव प्राणसंन्यासो ममापि ह्यद्य रोचते॥ १२॥
+इहैव प्राणसन्न्यासो ममापि ह्यद्य रोचते॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -324,13 +321,13 @@ title_english = "055 Hanuma doubts whether Seetha dies in the fire"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इक्ष्वाकुवंशे धर्मिष्ठे गते नाशमसंशयम्।  
-भविष्यन्ति प्रजाः सर्वाः शोकसंतापपीडिताः॥ १९॥
+भविष्यन्ति प्रजाः सर्वाः शोकसन्तापपीडिताः॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इक्ष्वाकुवंशे धर्मिष्ठे गते नाशमसंशयम्।  
-भविष्यन्ति प्रजाः सर्वाः शोकसंतापपीडिताः॥ १९॥
+भविष्यन्ति प्रजाः सर्वाः शोकसन्तापपीडिताः॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -340,13 +337,13 @@ title_english = "055 Hanuma doubts whether Seetha dies in the fire"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदहं भाग्यरहितो लुप्तधर्मार्थसंग्रहः।  
+तदहं भाग्यरहितो लुप्तधर्मार्थसङ्ग्रहः।  
 रोषदोषपरीतात्मा व्यक्तं लोकविनाशनः॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदहं भाग्यरहितो लुप्तधर्मार्थसंग्रहः।  
+तदहं भाग्यरहितो लुप्तधर्मार्थसङ्ग्रहः।  
 रोषदोषपरीतात्मा व्यक्तं लोकविनाशनः॥ २०॥
 </details>
 
@@ -606,3 +603,4 @@ title_english = "055 Hanuma doubts whether Seetha dies in the fire"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे पञ्चपञ्चाशः सर्गः॥ ५५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें पचपनवाँ सर्ग पूरा हुआ॥ ५५॥
 </details>
+

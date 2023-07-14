@@ -4,11 +4,8 @@ title_english = "056 vashiSTa nullifies Vishvamitra s missiles"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-056-Vasista_Vishvamitra_Sangarshaha_.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-056-Vasista_Vishvamitra_Sangarshaha_.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -120,7 +117,7 @@ title_english = "056 vashiSTa nullifies Vishvamitra s missiles"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मानवं मोहनं चैव गान्धर्वं स्वापनं तथा।  
-जृम्भणं मादनं चैव संतापनविलापने॥ ७॥  
+जृम्भणं मादनं चैव सन्तापनविलापने॥ ७॥  
 शोषणं दारणं चैव वज्रमस्त्रं सुदुर्जयम्।  
 ब्रह्मपाशं कालपाशं वारुणं पाशमेव च॥ ८॥  
 पिनाकमस्त्रं दयितं शुष्कार्द्रे अशनी तथा।  
@@ -136,7 +133,7 @@ title_english = "056 vashiSTa nullifies Vishvamitra s missiles"
 <details><summary>मूलम्</summary>
 
 मानवं मोहनं चैव गान्धर्वं स्वापनं तथा।  
-जृम्भणं मादनं चैव संतापनविलापने॥ ७॥  
+जृम्भणं मादनं चैव सन्तापनविलापने॥ ७॥  
 शोषणं दारणं चैव वज्रमस्त्रं सुदुर्जयम्।  
 ब्रह्मपाशं कालपाशं वारुणं पाशमेव च॥ ८॥  
 पिनाकमस्त्रं दयितं शुष्कार्द्रे अशनी तथा।  
@@ -176,7 +173,7 @@ title_english = "056 vashiSTa nullifies Vishvamitra s missiles"
 तेषु शान्तेषु ब्रह्मास्त्रं क्षिप्तवान् गाधिनन्दनः।  
 तदस्त्रमुद्यतं दृष्ट्वा देवाः साग्निपुरोगमाः॥ १४॥  
 देवर्षयश्च सम्भ्रान्ता गन्धर्वाः समहोरगाः।  
-त्रैलोक्यमासीत् संत्रस्तं ब्रह्मास्त्रे समुदीरिते॥ १५॥
+त्रैलोक्यमासीत् सन्त्रस्तं ब्रह्मास्त्रे समुदीरिते॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -184,7 +181,7 @@ title_english = "056 vashiSTa nullifies Vishvamitra s missiles"
 तेषु शान्तेषु ब्रह्मास्त्रं क्षिप्तवान् गाधिनन्दनः।  
 तदस्त्रमुद्यतं दृष्ट्वा देवाः साग्निपुरोगमाः॥ १४॥  
 देवर्षयश्च सम्भ्रान्ता गन्धर्वाः समहोरगाः।  
-त्रैलोक्यमासीत् संत्रस्तं ब्रह्मास्त्रे समुदीरिते॥ १५॥
+त्रैलोक्यमासीत् सन्त्रस्तं ब्रह्मास्त्रे समुदीरिते॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -350,3 +347,4 @@ title_english = "056 vashiSTa nullifies Vishvamitra s missiles"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षट्पञ्चाशः सर्गः॥ ५६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें छप्पनवाँ सर्ग पूरा हुआ॥ ५६॥
 </details>
+

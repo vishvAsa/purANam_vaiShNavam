@@ -4,11 +4,8 @@ title_english = "007 Hanuma sees Pushpaka in Ravana s inner city"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-007-Hanuma_sees_Pushpaka_in_Ravana_s_inner_city.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-007-Hanuma_sees_Pushpaka_in_Ravana_s_inner_city.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -83,7 +80,7 @@ title_english = "007 Hanuma sees Pushpaka in Ravana s inner city"
 तानि प्रयत्नाभिसमाहितानि  
 मयेन साक्षादिव निर्मितानि।  
 महीतले सर्वगुणोत्तराणि  
-ददर्श लंकाधिपतेर्गृहाणि॥ ४॥
+ददर्श लङ्काधिपतेर्गृहाणि॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -91,7 +88,7 @@ title_english = "007 Hanuma sees Pushpaka in Ravana s inner city"
 तानि प्रयत्नाभिसमाहितानि  
 मयेन साक्षादिव निर्मितानि।  
 महीतले सर्वगुणोत्तराणि  
-ददर्श लंकाधिपतेर्गृहाणि॥ ४॥
+ददर्श लङ्काधिपतेर्गृहाणि॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -382,3 +379,4 @@ title_english = "007 Hanuma sees Pushpaka in Ravana s inner city"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे सप्तमः सर्गः॥ ७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें सातवाँ सर्ग पूरा हुआ॥ ७॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-097-Lakshmana_Pari_Santvanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-097-Lakshmana_Pari_Santvanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -102,13 +99,13 @@ title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भ्रातॄणां संग्रहार्थं च सुखार्थं चापि लक्ष्मण।  
+भ्रातॄणां सङ्ग्रहार्थं च सुखार्थं चापि लक्ष्मण।  
 राज्यमप्यहमिच्छामि सत्येनायुधमालभे॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-भ्रातॄणां संग्रहार्थं च सुखार्थं चापि लक्ष्मण।  
+भ्रातॄणां सङ्ग्रहार्थं च सुखार्थं चापि लक्ष्मण।  
 राज्यमप्यहमिच्छामि सत्येनायुधमालभे॥ ६॥
 </details>
 
@@ -137,13 +134,13 @@ title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद् विना भरतं त्वां च शत्रुघ्नं वापि मानद।  
-भवेन्मम सुखं किंचिद् भस्म तत् कुरुतां शिखी॥ ८॥
+भवेन्मम सुखं किञ्चिद् भस्म तत् कुरुतां शिखी॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यद् विना भरतं त्वां च शत्रुघ्नं वापि मानद।  
-भवेन्मम सुखं किंचिद् भस्म तत् कुरुतां शिखी॥ ८॥
+भवेन्मम सुखं किञ्चिद् भस्म तत् कुरुतां शिखी॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -196,13 +193,13 @@ title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्राप्तकालं यथैषोऽस्मान् भरतो द्रष्टुमर्हति।  
-अस्मासु मनसाप्येष नाहितं किंचिदाचरेत्॥ १३॥
+अस्मासु मनसाप्येष नाहितं किञ्चिदाचरेत्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्राप्तकालं यथैषोऽस्मान् भरतो द्रष्टुमर्हति।  
-अस्मासु मनसाप्येष नाहितं किंचिदाचरेत्॥ १३॥
+अस्मासु मनसाप्येष नाहितं किञ्चिदाचरेत्॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -246,13 +243,13 @@ title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथं नु पुत्राः पितरं हन्युः कस्यांचिदापदि।  
+कथं नु पुत्राः पितरं हन्युः कस्याञ्चिदापदि।  
 भ्राता वा भ्रातरं हन्यात् सौमित्रे प्राणमात्मनः॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथं नु पुत्राः पितरं हन्युः कस्यांचिदापदि।  
+कथं नु पुत्राः पितरं हन्युः कस्याञ्चिदापदि।  
 भ्राता वा भ्रातरं हन्यात् सौमित्रे प्राणमात्मनः॥ १६॥
 </details>
 
@@ -400,13 +397,13 @@ title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स एष सुमहाकायः कम्पते वाहिनीमुखे।  
-नागः शत्रुंजयो नाम वृद्धस्तातस्य धीमतः॥ २५॥
+नागः शत्रुञ्जयो नाम वृद्धस्तातस्य धीमतः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स एष सुमहाकायः कम्पते वाहिनीमुखे।  
-नागः शत्रुंजयो नाम वृद्धस्तातस्य धीमतः॥ २५॥
+नागः शत्रुञ्जयो नाम वृद्धस्तातस्य धीमतः॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -435,7 +432,7 @@ title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 
 वृक्षाग्रादवरोह त्वं कुरु लक्ष्मण मद्वचः।  
 इतीव रामो धर्मात्मा सौमित्रिं तमुवाच ह॥ २७॥  
-अवतीर्य तु सालाग्रात् तस्मात् स समितिंजयः।  
+अवतीर्य तु सालाग्रात् तस्मात् स समितिञ्जयः।  
 लक्ष्मणः प्राञ्जलिर्भूत्वा तस्थौ रामस्य पार्श्वतः॥ २८॥
 </details>
 
@@ -443,7 +440,7 @@ title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 
 वृक्षाग्रादवरोह त्वं कुरु लक्ष्मण मद्वचः।  
 इतीव रामो धर्मात्मा सौमित्रिं तमुवाच ह॥ २७॥  
-अवतीर्य तु सालाग्रात् तस्मात् स समितिंजयः।  
+अवतीर्य तु सालाग्रात् तस्मात् स समितिञ्जयः।  
 लक्ष्मणः प्राञ्जलिर्भूत्वा तस्थौ रामस्य पार्श्वतः॥ २८॥
 </details>
 
@@ -454,13 +451,13 @@ title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भरतेनाथ संदिष्टा सम्मर्दो न भवेदिति।  
+भरतेनाथ सन्दिष्टा सम्मर्दो न भवेदिति।  
 समन्तात् तस्य शैलस्य सेना वासमकल्पयत्॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-भरतेनाथ संदिष्टा सम्मर्दो न भवेदिति।  
+भरतेनाथ सन्दिष्टा सम्मर्दो न भवेदिति।  
 समन्तात् तस्य शैलस्य सेना वासमकल्पयत्॥ २९॥
 </details>
 
@@ -512,3 +509,4 @@ title_english = "097 Rama pacifies Lakshmana who is angry with Bharata"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्तनवतितमः सर्गः॥ ९७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें सत्तानबेवाँ सर्ग पूरा हुआ॥ ९७॥
 </details>
+

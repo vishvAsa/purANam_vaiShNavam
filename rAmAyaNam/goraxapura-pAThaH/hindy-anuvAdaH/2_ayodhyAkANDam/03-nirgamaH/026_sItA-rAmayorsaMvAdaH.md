@@ -4,11 +4,8 @@ title_english = "026 Rama lets Seetha know of King s wish"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-026-Sita_Rama_Samvadaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-026-Sita_Rama_Samvadaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -90,13 +87,13 @@ title_english = "026 Rama lets Seetha know of King s wish"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **प्रविवेशाथ** रामस्तु स्ववेश्म सुविभूषितम्।  
-प्रहृष्टजनसम्पूर्णं ह्रिया किंचिदवाङ्मुखः॥ ५॥
+प्रहृष्टजनसम्पूर्णं ह्रिया किञ्चिदवाङ्मुखः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रविवेशाथ रामस्तु स्ववेश्म सुविभूषितम्।  
-प्रहृष्टजनसम्पूर्णं ह्रिया किंचिदवाङ्मुखः॥ ५॥
+प्रहृष्टजनसम्पूर्णं ह्रिया किञ्चिदवाङ्मुखः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -107,13 +104,13 @@ title_english = "026 Rama lets Seetha know of King s wish"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ सीता समुत्पत्य वेपमाना च तं पतिम्।  
-**अपश्यच्** छोकसंतप्तं चिन्ताव्याकुलितेन्द्रियम्॥ ६॥
+**अपश्यच्** छोकसन्तप्तं चिन्ताव्याकुलितेन्द्रियम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथ सीता समुत्पत्य वेपमाना च तं पतिम्।  
-अपश्यच्छोकसंतप्तं चिन्ताव्याकुलितेन्द्रियम्॥ ६॥
+अपश्यच्छोकसन्तप्तं चिन्ताव्याकुलितेन्द्रियम्॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -141,13 +138,13 @@ title_english = "026 Rama lets Seetha know of King s wish"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विवर्णवदनं दृष्ट्वा तं प्रस्विन्नममर्षणम्।  
-आह दुःखाभिसंतप्ता किमिदानीमिदं प्रभो॥ ८॥
+आह दुःखाभिसन्तप्ता किमिदानीमिदं प्रभो॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 विवर्णवदनं दृष्ट्वा तं प्रस्विन्नममर्षणम्।  
-आह दुःखाभिसंतप्ता किमिदानीमिदं प्रभो॥ ८॥
+आह दुःखाभिसन्तप्ता किमिदानीमिदं प्रभो॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -530,13 +527,13 @@ title_english = "026 Rama lets Seetha know of King s wish"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-माता च मम कौसल्या वृद्धा संतापकर्शिता।  
+माता च मम कौसल्या वृद्धा सन्तापकर्शिता।  
 धर्ममेवाग्रतः कृत्वा त्वत्तः सम्मानमर्हति॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-माता च मम कौसल्या वृद्धा संतापकर्शिता।  
+माता च मम कौसल्या वृद्धा सन्तापकर्शिता।  
 धर्ममेवाग्रतः कृत्वा त्वत्तः सम्मानमर्हति॥ ३१॥
 </details>
 
@@ -673,3 +670,4 @@ title_english = "026 Rama lets Seetha know of King s wish"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे षड‍‍्विंशः सर्गः॥ २६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें छब्बीसवाँ सर्ग पूरा हुआ॥ २६॥
 </details>
+

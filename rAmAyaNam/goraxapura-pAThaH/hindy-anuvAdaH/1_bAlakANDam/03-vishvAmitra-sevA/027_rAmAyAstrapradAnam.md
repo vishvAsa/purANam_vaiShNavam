@@ -4,11 +4,8 @@ title_english = "027 vishvAmitra endows rAma with supernatural missiles"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-027-Ramaayastra_Pradhaanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-027-Ramaayastra_Pradhaanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -231,7 +228,7 @@ title_english = "027 vishvAmitra endows rAma with supernatural missiles"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वर्षणं शोषणं चैव संतापनविलापने॥ १५॥  
+वर्षणं शोषणं चैव सन्तापनविलापने॥ १५॥  
 मादनं चैव दुर्धर्षं कन्दर्पदयितं तथा।  
 गान्धर्वमस्त्रं दयितं मानवं नाम नामतः॥ १६॥  
 पैशाचमस्त्रं दयितं मोहनं नाम नामतः।  
@@ -240,7 +237,7 @@ title_english = "027 vishvAmitra endows rAma with supernatural missiles"
 
 <details><summary>मूलम्</summary>
 
-वर्षणं शोषणं चैव संतापनविलापने॥ १५॥  
+वर्षणं शोषणं चैव सन्तापनविलापने॥ १५॥  
 मादनं चैव दुर्धर्षं कन्दर्पदयितं तथा।  
 गान्धर्वमस्त्रं दयितं मानवं नाम नामतः॥ १६॥  
 पैशाचमस्त्रं दयितं मोहनं नाम नामतः।  
@@ -326,13 +323,13 @@ title_english = "027 vishvAmitra endows rAma with supernatural missiles"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वसंग्रहणं येषां दैवतैरपि दुर्लभम्।  
+सर्वसङ्ग्रहणं येषां दैवतैरपि दुर्लभम्।  
 तान्यस्त्राणि तदा विप्रो राघवाय न्यवेदयत्॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सर्वसंग्रहणं येषां दैवतैरपि दुर्लभम्।  
+सर्वसङ्ग्रहणं येषां दैवतैरपि दुर्लभम्।  
 तान्यस्त्राणि तदा विप्रो राघवाय न्यवेदयत्॥ २३॥
 </details>
 
@@ -346,7 +343,7 @@ title_english = "027 vishvAmitra endows rAma with supernatural missiles"
 जपतस्तु मुनेस्तस्य विश्वामित्रस्य धीमतः।  
 उपतस्थुर्महार्हाणि सर्वाण्यस्त्राणि राघवम्॥ २४॥  
 ऊचुश्च मुदिता रामं सर्वे प्राञ्जलयस्तदा।  
-इमे च परमोदार किंकरास्तव राघव॥ २५॥  
+इमे च परमोदार किङ्करास्तव राघव॥ २५॥  
 यद्यदिच्छसि भद्रं ते तत्सर्वं करवाम वै।
 </details>
 
@@ -355,7 +352,7 @@ title_english = "027 vishvAmitra endows rAma with supernatural missiles"
 जपतस्तु मुनेस्तस्य विश्वामित्रस्य धीमतः।  
 उपतस्थुर्महार्हाणि सर्वाण्यस्त्राणि राघवम्॥ २४॥  
 ऊचुश्च मुदिता रामं सर्वे प्राञ्जलयस्तदा।  
-इमे च परमोदार किंकरास्तव राघव॥ २५॥  
+इमे च परमोदार किङ्करास्तव राघव॥ २५॥  
 यद्यदिच्छसि भद्रं ते तत्सर्वं करवाम वै।
 </details>
 
@@ -405,3 +402,4 @@ title_english = "027 vishvAmitra endows rAma with supernatural missiles"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तविंशः सर्गः॥ २७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें सत्ताईसवाँ सर्ग पूरा हुआ॥ २७॥
 </details>
+

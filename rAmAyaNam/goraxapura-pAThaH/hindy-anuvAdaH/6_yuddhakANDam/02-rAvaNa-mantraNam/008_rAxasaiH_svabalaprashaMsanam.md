@@ -4,11 +4,8 @@ title_english = "008 All demons eulogising their strengths"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-008-All_demons_eulogising_their_strengths.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-008-All_demons_eulogising_their_strengths.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -86,13 +83,13 @@ title_english = "008 All demons eulogising their strengths"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षां चैव विधास्यामि वानराद् रजनीचर।  
-नागमिष्यति ते दुःखं किंचिदात्मापराधजम्॥ ५॥
+नागमिष्यति ते दुःखं किञ्चिदात्मापराधजम्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रक्षां चैव विधास्यामि वानराद् रजनीचर।  
-नागमिष्यति ते दुःखं किंचिदात्मापराधजम्॥ ५॥
+नागमिष्यति ते दुःखं किञ्चिदात्मापराधजम्॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -102,13 +99,13 @@ title_english = "008 All demons eulogising their strengths"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अब्रवीत् तु सुसंक्रुद्धो दुर्मुखो नाम राक्षसः।  
+अब्रवीत् तु सुसङ्क्रुद्धो दुर्मुखो नाम राक्षसः।  
 इदं न क्षमणीयं हि सर्वेषां नः प्रधर्षणम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अब्रवीत् तु सुसंक्रुद्धो दुर्मुखो नाम राक्षसः।  
+अब्रवीत् तु सुसङ्क्रुद्धो दुर्मुखो नाम राक्षसः।  
 इदं न क्षमणीयं हि सर्वेषां नः प्रधर्षणम्॥ ६॥
 </details>
 
@@ -153,13 +150,13 @@ title_english = "008 All demons eulogising their strengths"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततोऽब्रवीत् सुसंक्रुद्धो वज्रदंष्ट्रो महाबलः।  
+ततोऽब्रवीत् सुसङ्क्रुद्धो वज्रदंष्ट्रो महाबलः।  
 प्रगृह्य परिघं घोरं मांसशोणितरूषितम्॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततोऽब्रवीत् सुसंक्रुद्धो वज्रदंष्ट्रो महाबलः।  
+ततोऽब्रवीत् सुसङ्क्रुद्धो वज्रदंष्ट्रो महाबलः।  
 प्रगृह्य परिघं घोरं मांसशोणितरूषितम्॥ ९॥
 </details>
 
@@ -223,7 +220,7 @@ title_english = "008 All demons eulogising their strengths"
 
 कामरूपधराः शूराः सुभीमा भीमदर्शनाः।  
 राक्षसा वा सहस्राणि राक्षसाधिप निश्चिताः॥ १३॥  
-काकुत्स्थमुपसंगम्य बिभ्रतो मानुषं वपुः।  
+काकुत्स्थमुपसङ्गम्य बिभ्रतो मानुषं वपुः।  
 सर्वे ह्यसम्भ्रमा भूत्वा ब्रुवन्तु रघुसत्तमम्॥ १४॥  
 प्रेषिता भरतेनैव भ्रात्रा तव यवीयसा।  
 स हि सेनां समुत्थाप्य क्षिप्रमेवोपयास्यति॥ १५॥
@@ -233,7 +230,7 @@ title_english = "008 All demons eulogising their strengths"
 
 कामरूपधराः शूराः सुभीमा भीमदर्शनाः।  
 राक्षसा वा सहस्राणि राक्षसाधिप निश्चिताः॥ १३॥  
-काकुत्स्थमुपसंगम्य बिभ्रतो मानुषं वपुः।  
+काकुत्स्थमुपसङ्गम्य बिभ्रतो मानुषं वपुः।  
 सर्वे ह्यसम्भ्रमा भूत्वा ब्रुवन्तु रघुसत्तमम्॥ १४॥  
 प्रेषिता भरतेनैव भ्रात्रा तव यवीयसा।  
 स हि सेनां समुत्थाप्य क्षिप्रमेवोपयास्यति॥ १५॥
@@ -314,14 +311,14 @@ title_english = "008 All demons eulogising their strengths"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वे भवन्तस्तिष्ठन्तु महाराजेन संगताः।  
+सर्वे भवन्तस्तिष्ठन्तु महाराजेन सङ्गताः।  
 अहमेको हनिष्यामि राघवं सहलक्ष्मणम्॥ २०॥  
 सुग्रीवं सहनूमन्तं सर्वांश्चैवात्र वानरान्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-सर्वे भवन्तस्तिष्ठन्तु महाराजेन संगताः।  
+सर्वे भवन्तस्तिष्ठन्तु महाराजेन सङ्गताः।  
 अहमेको हनिष्यामि राघवं सहलक्ष्मणम्॥ २०॥  
 सुग्रीवं सहनूमन्तं सर्वांश्चैवात्र वानरान्।
 </details>
@@ -389,3 +386,4 @@ title_english = "008 All demons eulogising their strengths"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽष्टमः सर्गः॥ ८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें आठवाँ सर्ग पूरा हुआ॥ ८॥
 </details>
+

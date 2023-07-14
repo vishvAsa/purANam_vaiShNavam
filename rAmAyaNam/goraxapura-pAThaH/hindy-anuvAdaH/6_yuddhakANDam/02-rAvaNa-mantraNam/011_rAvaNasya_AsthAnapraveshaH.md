@@ -4,11 +4,8 @@ title_english = "011 Ravana goes again to the assembly hall"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-011-Ravana_goes_again_to_the_assembly_hall.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-011-Ravana_goes_again_to_the_assembly_hall.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -140,14 +137,14 @@ title_english = "011 Ravana goes again to the assembly hall"
 
 गदापरिघहस्ताश्च शक्तितोमरपाणयः।  
 परश्वधधराश्चान्ये तथान्ये शूलपाणयः।  
-ततस्तूर्यसहस्राणं संजज्ञे निःस्वनो महान्॥ ८॥
+ततस्तूर्यसहस्राणं सञ्जज्ञे निःस्वनो महान्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गदापरिघहस्ताश्च शक्तितोमरपाणयः।  
 परश्वधधराश्चान्ये तथान्ये शूलपाणयः।  
-ततस्तूर्यसहस्राणं संजज्ञे निःस्वनो महान्॥ ८॥
+ततस्तूर्यसहस्राणं सञ्जज्ञे निःस्वनो महान्॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -227,13 +224,13 @@ title_english = "011 Ravana goes again to the assembly hall"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राक्षसैः स्तूयमानः सञ्जयाशीर्भिररिंदमः॥ १३॥  
+राक्षसैः स्तूयमानः सञ्जयाशीर्भिररिन्दमः॥ १३॥  
 आससाद महातेजाः सभां विरचितां तदा।
 </details>
 
 <details><summary>मूलम्</summary>
 
-राक्षसैः स्तूयमानः सञ्जयाशीर्भिररिंदमः॥ १३॥  
+राक्षसैः स्तूयमानः सञ्जयाशीर्भिररिन्दमः॥ १३॥  
 आससाद महातेजाः सभां विरचितां तदा।
 </details>
 
@@ -534,3 +531,4 @@ title_english = "011 Ravana goes again to the assembly hall"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकादशः सर्गः॥ ११॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें ग्यारहवाँ सर्ग पूरा हुआ॥ ११॥
 </details>
+

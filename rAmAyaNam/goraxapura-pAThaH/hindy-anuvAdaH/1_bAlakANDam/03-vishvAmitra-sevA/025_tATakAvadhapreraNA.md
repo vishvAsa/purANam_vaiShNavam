@@ -4,11 +4,8 @@ title_english = "025 The legend of deomoness tATaka contd"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-025-ThaataKaavadha_Preranaa.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-025-ThaataKaavadha_Preranaa.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "025 The legend of deomoness tATaka contd"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अल्पवीर्या यदा यक्षी श्रूयते मुनिपुंगव।  
+अल्पवीर्या यदा यक्षी श्रूयते मुनिपुङ्गव।  
 कथं नागसहस्रस्य धारयत्यबला बलम्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अल्पवीर्या यदा यक्षी श्रूयते मुनिपुंगव।  
+अल्पवीर्या यदा यक्षी श्रूयते मुनिपुङ्गव।  
 कथं नागसहस्रस्य धारयत्यबला बलम्॥ २॥
 </details>
 
@@ -52,7 +49,7 @@ title_english = "025 The legend of deomoness tATaka contd"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तं वचनं श्रुत्वा राघवस्यामितौजसः।  
-हर्षयन् श्लक्ष्णया वाचा सलक्ष्मणमरिंदमम्॥ ३॥  
+हर्षयन् श्लक्ष्णया वाचा सलक्ष्मणमरिन्दमम्॥ ३॥  
 विश्वामित्रोऽब्रवीद् वाक्यं शृणु येन बलोत्कटा।  
 वरदानकृतं वीर्यं धारयत्यबला बलम्॥ ४॥
 </details>
@@ -60,7 +57,7 @@ title_english = "025 The legend of deomoness tATaka contd"
 <details><summary>मूलम्</summary>
 
 इत्युक्तं वचनं श्रुत्वा राघवस्यामितौजसः।  
-हर्षयन् श्लक्ष्णया वाचा सलक्ष्मणमरिंदमम्॥ ३॥  
+हर्षयन् श्लक्ष्णया वाचा सलक्ष्मणमरिन्दमम्॥ ३॥  
 विश्वामित्रोऽब्रवीद् वाक्यं शृणु येन बलोत्कटा।  
 वरदानकृतं वीर्यं धारयत्यबला बलम्॥ ४॥
 </details>
@@ -370,3 +367,4 @@ title_english = "025 The legend of deomoness tATaka contd"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे पञ्चविंशः सर्गः॥ २५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें पचीसवाँ सर्ग पूरा हुआ॥ २५॥
 </details>
+

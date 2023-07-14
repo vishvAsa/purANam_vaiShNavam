@@ -4,11 +4,8 @@ title_english = "092 Bharata approaches Bharadwaja"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-092-Bharatha_Prasthanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-092-Bharatha_Prasthanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -102,13 +99,13 @@ title_english = "092 Bharata approaches Bharadwaja"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अपेतक्लमसंतापाः सुभिक्षाः सुप्रतिश्रयाः।  
+अपेतक्लमसन्तापाः सुभिक्षाः सुप्रतिश्रयाः।  
 अपि प्रेष्यानुपादाय सर्वे स्म सुसुखोषिताः॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अपेतक्लमसंतापाः सुभिक्षाः सुप्रतिश्रयाः।  
+अपेतक्लमसन्तापाः सुभिक्षाः सुप्रतिश्रयाः।  
 अपि प्रेष्यानुपादाय सर्वे स्म सुसुखोषिताः॥ ६॥
 </details>
 
@@ -193,7 +190,7 @@ title_english = "092 Bharata approaches Bharadwaja"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्तरं पार्श्वमासाद्य तस्य मन्दाकिनी नदी।  
-पुष्पितद्रुमसंछन्ना रम्यपुष्पितकानना॥ ११॥  
+पुष्पितद्रुमसञ्छन्ना रम्यपुष्पितकानना॥ ११॥  
 अनन्तरं तत्सरितश्चित्रकूटं च पर्वतम्।  
 तयोः पर्णकुटीं तात तत्र तौ वसतो ध्रुवम्॥ १२॥
 </details>
@@ -201,7 +198,7 @@ title_english = "092 Bharata approaches Bharadwaja"
 <details><summary>मूलम्</summary>
 
 उत्तरं पार्श्वमासाद्य तस्य मन्दाकिनी नदी।  
-पुष्पितद्रुमसंछन्ना रम्यपुष्पितकानना॥ ११॥  
+पुष्पितद्रुमसञ्छन्ना रम्यपुष्पितकानना॥ ११॥  
 अनन्तरं तत्सरितश्चित्रकूटं च पर्वतम्।  
 तयोः पर्णकुटीं तात तत्र तौ वसतो ध्रुवम्॥ १२॥
 </details>
@@ -527,13 +524,13 @@ title_english = "092 Bharata approaches Bharadwaja"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ यानप्रवेकैस्तु कौसल्याप्रमुखाः स्त्रियः।  
-रामदर्शनकांक्षिण्यः प्रययुर्मुदितास्तदा॥ ३६॥
+रामदर्शनकाङ्क्षिण्यः प्रययुर्मुदितास्तदा॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथ यानप्रवेकैस्तु कौसल्याप्रमुखाः स्त्रियः।  
-रामदर्शनकांक्षिण्यः प्रययुर्मुदितास्तदा॥ ३६॥
+रामदर्शनकाङ्क्षिण्यः प्रययुर्मुदितास्तदा॥ ३६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -595,7 +592,7 @@ title_english = "092 Bharata approaches Bharadwaja"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा सम्प्रहृष्टद्विपवाजियूथा  
-वित्रासयन्ती मृगपक्षिसंघान्।  
+वित्रासयन्ती मृगपक्षिसङ्घान्।  
 महद्वनं तत् प्रविगाहमाना  
 रराज सेना भरतस्य तत्र॥ ४०॥
 </details>
@@ -603,7 +600,7 @@ title_english = "092 Bharata approaches Bharadwaja"
 <details><summary>मूलम्</summary>
 
 सा सम्प्रहृष्टद्विपवाजियूथा  
-वित्रासयन्ती मृगपक्षिसंघान्।  
+वित्रासयन्ती मृगपक्षिसङ्घान्।  
 महद्वनं तत् प्रविगाहमाना  
 रराज सेना भरतस्य तत्र॥ ४०॥
 </details>
@@ -618,3 +615,4 @@ title_english = "092 Bharata approaches Bharadwaja"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे द्विनवतितमः सर्गः॥ ९२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें बानबेवाँ सर्ग पूरा हुआ॥ ९२॥
 </details>
+

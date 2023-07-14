@@ -4,11 +4,8 @@ title_english = "049 Seetha s abduction takes place now"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-049-Sitaa_Apaharnam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-049-Sitaa_Apaharnam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -120,13 +117,13 @@ title_english = "049 Seetha s abduction takes place now"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संरक्तनयनः श्रीमांस्तप्तकाञ्चनभूषणः।  
-क्रोधेन महताविष्टो नीलजीमूतसंनिभः॥ ७॥
+क्रोधेन महताविष्टो नीलजीमूतसन्निभः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 संरक्तनयनः श्रीमांस्तप्तकाञ्चनभूषणः।  
-क्रोधेन महताविष्टो नीलजीमूतसंनिभः॥ ७॥
+क्रोधेन महताविष्टो नीलजीमूतसन्निभः॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -299,13 +296,13 @@ title_english = "049 Seetha s abduction takes place now"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा गिरिशृङ्गाभं तीक्ष्णदंष्ट्रं महाभुजम्।  
-प्राद्रवन् मृत्युसंकाशं भयार्ता वनदेवताः॥ १८॥
+प्राद्रवन् मृत्युसङ्काशं भयार्ता वनदेवताः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तं दृष्ट्वा गिरिशृङ्गाभं तीक्ष्णदंष्ट्रं महाभुजम्।  
-प्राद्रवन् मृत्युसंकाशं भयार्ता वनदेवताः॥ १८॥
+प्राद्रवन् मृत्युसङ्काशं भयार्ता वनदेवताः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -333,13 +330,13 @@ title_english = "049 Seetha s abduction takes place now"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तां परुषैर्वाक्यैरभितर्ज्य महास्वनः।  
-अंकेनादाय वैदेहीं रथमारोपयत् तदा॥ २०॥
+अङ्केनादाय वैदेहीं रथमारोपयत् तदा॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततस्तां परुषैर्वाक्यैरभितर्ज्य महास्वनः।  
-अंकेनादाय वैदेहीं रथमारोपयत् तदा॥ २०॥
+अङ्केनादाय वैदेहीं रथमारोपयत् तदा॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -434,13 +431,13 @@ title_english = "049 Seetha s abduction takes place now"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ननु नामाविनीतानां विनेतासि परंतप।  
+ननु नामाविनीतानां विनेतासि परन्तप।  
 कथमेवंविधं पापं न त्वं शाधि हि रावणम्॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ननु नामाविनीतानां विनेतासि परंतप।  
+ननु नामाविनीतानां विनेतासि परन्तप।  
 कथमेवंविधं पापं न त्वं शाधि हि रावणम्॥ २६॥
 </details>
 
@@ -519,13 +516,13 @@ title_english = "049 Seetha s abduction takes place now"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हंससारससंघुष्टां वन्दे गोदावरीं नदीम्।  
+हंससारससङ्घुष्टां वन्दे गोदावरीं नदीम्।  
 क्षिप्रं रामाय शंस त्वं सीतां हरति रावणः॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-हंससारससंघुष्टां वन्दे गोदावरीं नदीम्।  
+हंससारससङ्घुष्टां वन्दे गोदावरीं नदीम्।  
 क्षिप्रं रामाय शंस त्वं सीतां हरति रावणः॥ ३१॥
 </details>
 
@@ -608,13 +605,13 @@ title_english = "049 Seetha s abduction takes place now"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सा तमुद्वीक्ष्य सुश्रोणी रावणस्य वशंगता।  
+सा तमुद्वीक्ष्य सुश्रोणी रावणस्य वशङ्गता।  
 समाक्रन्दद् भयपरा दुःखोपहतया गिरा॥ ३७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सा तमुद्वीक्ष्य सुश्रोणी रावणस्य वशंगता।  
+सा तमुद्वीक्ष्य सुश्रोणी रावणस्य वशङ्गता।  
 समाक्रन्दद् भयपरा दुःखोपहतया गिरा॥ ३७॥
 </details>
 
@@ -679,3 +676,4 @@ title_english = "049 Seetha s abduction takes place now"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे एकोनपञ्चाशः सर्गः॥ ४९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें उनचासवाँ सर्ग पूरा हुआ॥ ४९॥
 </details>
+

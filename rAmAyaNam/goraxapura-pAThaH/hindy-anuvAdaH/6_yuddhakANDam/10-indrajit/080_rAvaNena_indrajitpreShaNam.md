@@ -4,11 +4,8 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-080-Ravana_instructs_Indrajit_to_enter_the_battle_field._0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-080-Ravana_instructs_Indrajit_to_enter_the_battle_field._0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मकराक्षं हतं श्रुत्वा रावणः समितिंजयः।  
+मकराक्षं हतं श्रुत्वा रावणः समितिञ्जयः।  
 रोषेण महताविष्टो दन्तान् कटकटाय्य च॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मकराक्षं हतं श्रुत्वा रावणः समितिंजयः।  
+मकराक्षं हतं श्रुत्वा रावणः समितिञ्जयः।  
 रोषेण महताविष्टो दन्तान् कटकटाय्य च॥ १॥
 </details>
 
@@ -35,13 +32,13 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कुपितश्च तदा तत्र किं कार्यमिति चिन्तयन्।  
-आदिदेशाथ संक्रुद्धो रणायेन्द्रजितं सुतम्॥ २॥
+आदिदेशाथ सङ्क्रुद्धो रणायेन्द्रजितं सुतम्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कुपितश्च तदा तत्र किं कार्यमिति चिन्तयन्।  
-आदिदेशाथ संक्रुद्धो रणायेन्द्रजितं सुतम्॥ २॥
+आदिदेशाथ सङ्क्रुद्धो रणायेन्द्रजितं सुतम्॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -170,13 +167,13 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रदक्षिणावर्तशिखस्तप्तहाटकसंनिभः।  
+प्रदक्षिणावर्तशिखस्तप्तहाटकसन्निभः।  
 हविस्तत् प्रतिजग्राह पावकः स्वयमुत्थितः॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्रदक्षिणावर्तशिखस्तप्तहाटकसंनिभः।  
+प्रदक्षिणावर्तशिखस्तप्तहाटकसन्निभः।  
 हविस्तत् प्रतिजग्राह पावकः स्वयमुत्थितः॥ १०॥
 </details>
 
@@ -222,13 +219,13 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जाज्वल्यमानो वपुषा तपनीयपरिच्छदः।  
-मृगैश्चन्द्रार्धचन्द्रैश्च स रथः समलंकृतः॥ १३॥
+मृगैश्चन्द्रार्धचन्द्रैश्च स रथः समलङ्कृतः॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 जाज्वल्यमानो वपुषा तपनीयपरिच्छदः।  
-मृगैश्चन्द्रार्धचन्द्रैश्च स रथः समलंकृतः॥ १३॥
+मृगैश्चन्द्रार्धचन्द्रैश्च स रथः समलङ्कृतः॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -238,14 +235,14 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जाम्बूनदमहाकम्बुर्दीप्तपावकसंनिभः।  
-बभूवेन्द्रजितः केतुर्वैदूर्यसमलंकृतः॥ १४॥
+जाम्बूनदमहाकम्बुर्दीप्तपावकसन्निभः।  
+बभूवेन्द्रजितः केतुर्वैदूर्यसमलङ्कृतः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-जाम्बूनदमहाकम्बुर्दीप्तपावकसंनिभः।  
-बभूवेन्द्रजितः केतुर्वैदूर्यसमलंकृतः॥ १४॥
+जाम्बूनदमहाकम्बुर्दीप्तपावकसन्निभः।  
+बभूवेन्द्रजितः केतुर्वैदूर्यसमलङ्कृतः॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -272,13 +269,13 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सोऽभिनिर्याय नगरादिन्द्रजित् समितिंजयः।  
+सोऽभिनिर्याय नगरादिन्द्रजित् समितिञ्जयः।  
 हुत्वाग्निं राक्षसैर्मन्त्रैरन्तर्धानगतोऽब्रवीत्॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सोऽभिनिर्याय नगरादिन्द्रजित् समितिंजयः।  
+सोऽभिनिर्याय नगरादिन्द्रजित् समितिञ्जयः।  
 हुत्वाग्निं राक्षसैर्मन्त्रैरन्तर्धानगतोऽब्रवीत्॥ १६॥
 </details>
 
@@ -323,13 +320,13 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आपपाताथ संक्रुद्धो दशग्रीवेण चोदितः।  
+आपपाताथ सङ्क्रुद्धो दशग्रीवेण चोदितः।  
 तीक्ष्णकार्मुकनाराचैस्तीक्ष्णस्त्विन्द्ररिपू रणे॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-आपपाताथ संक्रुद्धो दशग्रीवेण चोदितः।  
+आपपाताथ सङ्क्रुद्धो दशग्रीवेण चोदितः।  
 तीक्ष्णकार्मुकनाराचैस्तीक्ष्णस्त्विन्द्ररिपू रणे॥ १९॥
 </details>
 
@@ -357,14 +354,14 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इमौ ताविति संचिन्त्य सज्यं कृत्वा च कार्मुकम्।  
-संततानेषुधाराभिः पर्जन्य इव वृष्टिमान्॥ २१॥
+इमौ ताविति सञ्चिन्त्य सज्यं कृत्वा च कार्मुकम्।  
+सन्ततानेषुधाराभिः पर्जन्य इव वृष्टिमान्॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इमौ ताविति संचिन्त्य सज्यं कृत्वा च कार्मुकम्।  
-संततानेषुधाराभिः पर्जन्य इव वृष्टिमान्॥ २१॥
+इमौ ताविति सञ्चिन्त्य सज्यं कृत्वा च कार्मुकम्।  
+सन्ततानेषुधाराभिः पर्जन्य इव वृष्टिमान्॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -409,13 +406,13 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रच्छादयन्तौ गगनं शरजालैर्महाबलौ।  
-तमस्त्रैः सूर्यसंकाशैर्नैव पस्पर्शतुः शरैः॥ २४॥
+तमस्त्रैः सूर्यसङ्काशैर्नैव पस्पर्शतुः शरैः॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रच्छादयन्तौ गगनं शरजालैर्महाबलौ।  
-तमस्त्रैः सूर्यसंकाशैर्नैव पस्पर्शतुः शरैः॥ २४॥
+तमस्त्रैः सूर्यसङ्काशैर्नैव पस्पर्शतुः शरैः॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -476,13 +473,13 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स रामं सूर्यसंकाशैः शरैर्दत्तवरैर्भृशम्।  
+स रामं सूर्यसङ्काशैः शरैर्दत्तवरैर्भृशम्।  
 विव्याध समरे क्रुद्धः सर्वगात्रेषु रावणिः॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स रामं सूर्यसंकाशैः शरैर्दत्तवरैर्भृशम्।  
+स रामं सूर्यसङ्काशैः शरैर्दत्तवरैर्भृशम्।  
 विव्याध समरे क्रुद्धः सर्वगात्रेषु रावणिः॥ २८॥
 </details>
 
@@ -596,13 +593,13 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नास्य वेगगतिं कश्चिन्न च रूपं धनुः शरान्।  
-न चास्य विदितं किंचित् सूर्यस्येवाभ्रसम्प्लवे॥ ३५॥
+न चास्य विदितं किञ्चित् सूर्यस्येवाभ्रसम्प्लवे॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नास्य वेगगतिं कश्चिन्न च रूपं धनुः शरान्।  
-न चास्य विदितं किंचित् सूर्यस्येवाभ्रसम्प्लवे॥ ३५॥
+न चास्य विदितं किञ्चित् सूर्यस्येवाभ्रसम्प्लवे॥ ३५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -746,3 +743,4 @@ title_english = "080 Ravana instructs Indrajit to enter the battle field"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽशीतितमः सर्गः॥ ८०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें अस्सीवाँ सर्ग पूरा हुआ॥ ८०॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-042-Female-demons_enquires_Seetha_about_Hanuma.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-042-Female-demons_enquires_Seetha_about_Hanuma.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -85,13 +82,13 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततस्तु गिरिसंकाशमतिकायं महाबलम्।  
+ततस्तु गिरिसङ्काशमतिकायं महाबलम्।  
 राक्षस्यो वानरं दृष्ट्वा पप्रच्छुर्जनकात्मजाम्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततस्तु गिरिसंकाशमतिकायं महाबलम्।  
+ततस्तु गिरिसङ्काशमतिकायं महाबलम्।  
 राक्षस्यो वानरं दृष्ट्वा पप्रच्छुर्जनकात्मजाम्॥ ५॥
 </details>
 
@@ -102,7 +99,7 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कोऽयं कस्य कुतो वायं किंनिमित्तमिहागतः।  
+कोऽयं कस्य कुतो वायं किन्निमित्तमिहागतः।  
 कथं त्वया सहानेन संवादः कृत इत्युत॥ ६॥  
 आचक्ष्व नो विशालाक्षि मा भूत्ते सुभगे भयम्।  
 संवादमसितापाङ्गि त्वया किं कृतवानयम्॥ ७॥
@@ -110,7 +107,7 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 
 <details><summary>मूलम्</summary>
 
-कोऽयं कस्य कुतो वायं किंनिमित्तमिहागतः।  
+कोऽयं कस्य कुतो वायं किन्निमित्तमिहागतः।  
 कथं त्वया सहानेन संवादः कृत इत्युत॥ ६॥  
 आचक्ष्व नो विशालाक्षि मा भूत्ते सुभगे भयम्।  
 संवादमसितापाङ्गि त्वया किं कृतवानयम्॥ ७॥
@@ -395,13 +392,13 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आत्मनः सदृशान् वीरान् किंकरान्नाम राक्षसान्।  
+आत्मनः सदृशान् वीरान् किङ्करान्नाम राक्षसान्।  
 व्यादिदेश महातेजा निग्रहार्थं हनूमतः॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-आत्मनः सदृशान् वीरान् किंकरान्नाम राक्षसान्।  
+आत्मनः सदृशान् वीरान् किङ्करान्नाम राक्षसान्।  
 व्यादिदेश महातेजा निग्रहार्थं हनूमतः॥ २४॥
 </details>
 
@@ -412,13 +409,13 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषामशीतिसाहस्रं किंकराणां तरस्विनाम्।  
+तेषामशीतिसाहस्रं किङ्कराणां तरस्विनाम्।  
 निर्ययुर्भवनात् तस्मात् कूटमुद‍्गरपाणयः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तेषामशीतिसाहस्रं किंकराणां तरस्विनाम्।  
+तेषामशीतिसाहस्रं किङ्कराणां तरस्विनाम्।  
 निर्ययुर्भवनात् तस्मात् कूटमुद‍्गरपाणयः॥ २५॥
 </details>
 
@@ -447,13 +444,13 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते कपिं तं समासाद्य तोरणस्थमवस्थितम्।  
-अभिपेतुर्महावेगाः पतंगा इव पावकम्॥ २७॥
+अभिपेतुर्महावेगाः पतङ्गा इव पावकम्॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ते कपिं तं समासाद्य तोरणस्थमवस्थितम्।  
-अभिपेतुर्महावेगाः पतंगा इव पावकम्॥ २७॥
+अभिपेतुर्महावेगाः पतङ्गा इव पावकम्॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -464,13 +461,13 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते गदाभिर्विचित्राभिः परिघैः काञ्चनाङ्गदैः।  
-आजग्मुर्वानरश्रेष्ठं शरैरादित्यसंनिभैः॥ २८॥
+आजग्मुर्वानरश्रेष्ठं शरैरादित्यसन्निभैः॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ते गदाभिर्विचित्राभिः परिघैः काञ्चनाङ्गदैः।  
-आजग्मुर्वानरश्रेष्ठं शरैरादित्यसंनिभैः॥ २८॥
+आजग्मुर्वानरश्रेष्ठं शरैरादित्यसन्निभैः॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -497,13 +494,13 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हनूमानपि तेजस्वी श्रीमान् पर्वतसंनिभः।  
+हनूमानपि तेजस्वी श्रीमान् पर्वतसन्निभः।  
 क्षितावाविद्ध्य लाङ्गूलं ननाद च महाध्वनिम्॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-हनूमानपि तेजस्वी श्रीमान् पर्वतसंनिभः।  
+हनूमानपि तेजस्वी श्रीमान् पर्वतसन्निभः।  
 क्षितावाविद्ध्य लाङ्गूलं ननाद च महाध्वनिम्॥ ३०॥
 </details>
 
@@ -577,14 +574,14 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य संनादशब्देन तेऽभवन् भयशङ्किताः।  
-ददृशुश्च हनूमन्तं संध्यामेघमिवोन्नतम्॥ ३७॥
+तस्य सन्नादशब्देन तेऽभवन् भयशङ्किताः।  
+ददृशुश्च हनूमन्तं सन्ध्यामेघमिवोन्नतम्॥ ३७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्य संनादशब्देन तेऽभवन् भयशङ्किताः।  
-ददृशुश्च हनूमन्तं संध्यामेघमिवोन्नतम्॥ ३७॥
+तस्य सन्नादशब्देन तेऽभवन् भयशङ्किताः।  
+ददृशुश्च हनूमन्तं सन्ध्यामेघमिवोन्नतम्॥ ३७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -594,13 +591,13 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वामिसंदेशनिःशङ्कास्ततस्ते राक्षसाः कपिम्।  
+स्वामिसन्देशनिःशङ्कास्ततस्ते राक्षसाः कपिम्।  
 चित्रैः प्रहरणैर्भीमैरभिपेतुस्ततस्ततः॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स्वामिसंदेशनिःशङ्कास्ततस्ते राक्षसाः कपिम्।  
+स्वामिसन्देशनिःशङ्कास्ततस्ते राक्षसाः कपिम्।  
 चित्रैः प्रहरणैर्भीमैरभिपेतुस्ततस्ततः॥ ३८॥
 </details>
 
@@ -662,13 +659,13 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स हत्वा राक्षसान् वीरः किंकरान् मारुतात्मजः।  
+स हत्वा राक्षसान् वीरः किङ्करान् मारुतात्मजः।  
 युद्धाकाङ्क्षी महावीरस्तोरणं समवस्थितः॥ ४२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स हत्वा राक्षसान् वीरः किंकरान् मारुतात्मजः।  
+स हत्वा राक्षसान् वीरः किङ्करान् मारुतात्मजः।  
 युद्धाकाङ्क्षी महावीरस्तोरणं समवस्थितः॥ ४२॥
 </details>
 
@@ -680,13 +677,13 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तस्माद् भयान्मुक्ताः कतिचित्तत्र राक्षसाः।  
-निहतान् किंकरान् सर्वान् रावणाय न्यवेदयन्॥ ४३॥
+निहतान् किङ्करान् सर्वान् रावणाय न्यवेदयन्॥ ४३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततस्तस्माद् भयान्मुक्ताः कतिचित्तत्र राक्षसाः।  
-निहतान् किंकरान् सर्वान् रावणाय न्यवेदयन्॥ ४३॥
+निहतान् किङ्करान् सर्वान् रावणाय न्यवेदयन्॥ ४३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -720,3 +717,4 @@ title_english = "042 Female demons enquires Seetha about Hanuma"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे द्विचत्वारिंशः सर्गः॥ ४२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें बयालीसवाँ सर्ग पूरा हुआ॥ ४२॥
 </details>
+

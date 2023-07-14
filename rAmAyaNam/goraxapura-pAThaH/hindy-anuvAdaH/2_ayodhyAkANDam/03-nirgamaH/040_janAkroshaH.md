@@ -4,11 +4,8 @@ title_english = "040 Rama s departure from Ayodhya"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-040-Jana_Kroshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-040-Jana_Kroshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "040 Rama s departure from Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ रामश्च सीता च लक्ष्मणश्च कृताञ्जलिः।  
-उपसंगृह्य राजानं चक्रुर्दीनाः प्रदक्षिणम्॥ १॥
+उपसङ्गृह्य राजानं चक्रुर्दीनाः प्रदक्षिणम्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथ रामश्च सीता च लक्ष्मणश्च कृताञ्जलिः।  
-उपसंगृह्य राजानं चक्रुर्दीनाः प्रदक्षिणम्॥ १॥
+उपसङ्गृह्य राजानं चक्रुर्दीनाः प्रदक्षिणम्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -221,14 +218,14 @@ title_english = "040 Rama s departure from Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं रथं सूर्यसंकाशं सीता हृष्टेन चेतसा।  
-आरुरोह वरारोहा कृत्वालंकारमात्मनः॥ १३॥
+तं रथं सूर्यसङ्काशं सीता हृष्टेन चेतसा।  
+आरुरोह वरारोहा कृत्वालङ्कारमात्मनः॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तं रथं सूर्यसंकाशं सीता हृष्टेन चेतसा।  
-आरुरोह वरारोहा कृत्वालंकारमात्मनः॥ १३॥
+तं रथं सूर्यसङ्काशं सीता हृष्टेन चेतसा।  
+आरुरोह वरारोहा कृत्वालङ्कारमात्मनः॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -238,13 +235,13 @@ title_english = "040 Rama s departure from Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वनवासं हि संख्याय वासांस्याभरणानि च।  
+वनवासं हि सङ्ख्याय वासांस्याभरणानि च।  
 भर्तारमनुगच्छन्त्यै सीतायै श्वशुरो ददौ॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वनवासं हि संख्याय वासांस्याभरणानि च।  
+वनवासं हि सङ्ख्याय वासांस्याभरणानि च।  
 भर्तारमनुगच्छन्त्यै सीतायै श्वशुरो ददौ॥ १४॥
 </details>
 
@@ -272,13 +269,13 @@ title_english = "040 Rama s departure from Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथो ज्वलनसंकाशं चामीकरविभूषितम्।  
+अथो ज्वलनसङ्काशं चामीकरविभूषितम्।  
 तमारुरुहतुस्तूर्णं भ्रातरौ रामलक्ष्मणौ॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथो ज्वलनसंकाशं चामीकरविभूषितम्।  
+अथो ज्वलनसङ्काशं चामीकरविभूषितम्।  
 तमारुरुहतुस्तूर्णं भ्रातरौ रामलक्ष्मणौ॥ १६॥
 </details>
 
@@ -323,13 +320,13 @@ title_english = "040 Rama s departure from Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तत् समाकुलसम्भ्रान्तं मत्तसंकुपितद्विपम्।  
+तत् समाकुलसम्भ्रान्तं मत्तसङ्कुपितद्विपम्।  
 हयसिञ्जितनिर्घोषं पुरमासीन्महास्वनम्॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तत् समाकुलसम्भ्रान्तं मत्तसंकुपितद्विपम्।  
+तत् समाकुलसम्भ्रान्तं मत्तसङ्कुपितद्विपम्।  
 हयसिञ्जितनिर्घोषं पुरमासीन्महास्वनम्॥ १९॥
 </details>
 
@@ -426,13 +423,13 @@ title_english = "040 Rama s departure from Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अहो लक्ष्मण सिद्धार्थः सततं प्रियवादिनम्।  
-भ्रातरं देवसंकाशं यस्त्वं परिचरिष्यसि॥ २५॥
+भ्रातरं देवसङ्काशं यस्त्वं परिचरिष्यसि॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अहो लक्ष्मण सिद्धार्थः सततं प्रियवादिनम्।  
-भ्रातरं देवसंकाशं यस्त्वं परिचरिष्यसि॥ २५॥
+भ्रातरं देवसङ्काशं यस्त्वं परिचरिष्यसि॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -528,13 +525,13 @@ title_english = "040 Rama s departure from Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स च श्रीमानचिन्त्यात्मा रामो दशरथात्मजः।  
-सूतं संचोदयामास त्वरितं वाह्यतामिति॥ ३१॥
+सूतं सञ्चोदयामास त्वरितं वाह्यतामिति॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स च श्रीमानचिन्त्यात्मा रामो दशरथात्मजः।  
-सूतं संचोदयामास त्वरितं वाह्यतामिति॥ ३१॥
+सूतं सञ्चोदयामास त्वरितं वाह्यतामिति॥ ३१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -596,13 +593,13 @@ title_english = "040 Rama s departure from Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुस्राव नयनैः स्त्रीणामस्रमायाससम्भवम्।  
-मीनसंक्षोभचलितैः सलिलं पङ्कजैरिव॥ ३५॥
+मीनसङ्क्षोभचलितैः सलिलं पङ्कजैरिव॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सुस्राव नयनैः स्त्रीणामस्रमायाससम्भवम्।  
-मीनसंक्षोभचलितैः सलिलं पङ्कजैरिव॥ ३५॥
+मीनसङ्क्षोभचलितैः सलिलं पङ्कजैरिव॥ ३५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -698,13 +695,13 @@ title_english = "040 Rama s departure from Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पदातिनौ च यानार्हावदुःखार्हौ सुखोचितौ।  
-दृष्ट्वा संचोदयामास शीघ्रं याहीति सारथिम्॥ ४१॥
+दृष्ट्वा सञ्चोदयामास शीघ्रं याहीति सारथिम्॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पदातिनौ च यानार्हावदुःखार्हौ सुखोचितौ।  
-दृष्ट्वा संचोदयामास शीघ्रं याहीति सारथिम्॥ ४१॥
+दृष्ट्वा सञ्चोदयामास शीघ्रं याहीति सारथिम्॥ ४१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -878,3 +875,4 @@ title_english = "040 Rama s departure from Ayodhya"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे चत्वारिंशः सर्गः॥ ४०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें चालीसवाँ सर्ग पूरा हुआ॥ ४०॥
 </details>
+

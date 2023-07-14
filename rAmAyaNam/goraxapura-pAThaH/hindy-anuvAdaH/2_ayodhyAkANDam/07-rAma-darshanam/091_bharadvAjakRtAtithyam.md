@@ -4,11 +4,8 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-091-Bharadwajakrutha_Maathidyam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-091-Bharadwajakrutha_Maathidyam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -476,13 +473,13 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मिन्नेवंगते शब्दे दिव्ये श्रोत्रसुखे नृणाम्।  
+तस्मिन्नेवङ्गते शब्दे दिव्ये श्रोत्रसुखे नृणाम्।  
 ददर्श भारतं सैन्यं विधानं विश्वकर्मणः॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मिन्नेवंगते शब्दे दिव्ये श्रोत्रसुखे नृणाम्।  
+तस्मिन्नेवङ्गते शब्दे दिव्ये श्रोत्रसुखे नृणाम्।  
 ददर्श भारतं सैन्यं विधानं विश्वकर्मणः॥ २८॥
 </details>
 
@@ -494,13 +491,13 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूव हि समा भूमिः समन्तात् पञ्चयोजनम्।  
-शाद्वलैर्बहुभिश्छन्ना नीलवैदूर्यसंनिभैः॥ २९॥
+शाद्वलैर्बहुभिश्छन्ना नीलवैदूर्यसन्निभैः॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बभूव हि समा भूमिः समन्तात् पञ्चयोजनम्।  
-शाद्वलैर्बहुभिश्छन्ना नीलवैदूर्यसंनिभैः॥ २९॥
+शाद्वलैर्बहुभिश्छन्ना नीलवैदूर्यसन्निभैः॥ २९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1115,7 +1112,7 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आजैश्चापि च वाराहैर्निष्ठानवरसंचयैः।  
+आजैश्चापि च वाराहैर्निष्ठानवरसञ्चयैः।  
 फलनिर्यूहसंसिद्धैः सूपैर्गन्धरसान्वितैः॥ ६७॥  
 पुष्पध्वजवतीः पूर्णाः शुक्लस्यान्नस्य चाभितः।  
 ददृशुर्विस्मितास्तत्र नरा लौहीः सहस्रशः॥ ६८॥
@@ -1123,7 +1120,7 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 
 <details><summary>मूलम्</summary>
 
-आजैश्चापि च वाराहैर्निष्ठानवरसंचयैः।  
+आजैश्चापि च वाराहैर्निष्ठानवरसञ्चयैः।  
 फलनिर्यूहसंसिद्धैः सूपैर्गन्धरसान्वितैः॥ ६७॥  
 पुष्पध्वजवतीः पूर्णाः शुक्लस्यान्नस्य चाभितः।  
 ददृशुर्विस्मितास्तत्र नरा लौहीः सहस्रशः॥ ६८॥
@@ -1190,7 +1187,7 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 स्थाल्यः कुम्भ्यः करम्भ्यश्च दधिपूर्णाः सुसंस्कृताः।  
 यौवनस्थस्य गौरस्य कपित्थस्य सुगन्धिनः॥ ७२॥  
 ह्रदाः पूर्णा रसालस्य दध्नः श्वेतस्य चापरे।  
-बभूवुः पायसस्यान्ये शर्कराणां च संचयाः॥ ७३॥
+बभूवुः पायसस्यान्ये शर्कराणां च सञ्चयाः॥ ७३॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1198,7 +1195,7 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 स्थाल्यः कुम्भ्यः करम्भ्यश्च दधिपूर्णाः सुसंस्कृताः।  
 यौवनस्थस्य गौरस्य कपित्थस्य सुगन्धिनः॥ ७२॥  
 ह्रदाः पूर्णा रसालस्य दध्नः श्वेतस्य चापरे।  
-बभूवुः पायसस्यान्ये शर्कराणां च संचयाः॥ ७३॥
+बभूवुः पायसस्यान्ये शर्कराणां च सञ्चयाः॥ ७३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1225,13 +1222,13 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शुक्लानंशुमतश्चापि दन्तधावनसंचयान्।  
+शुक्लानंशुमतश्चापि दन्तधावनसञ्चयान्।  
 शुक्लांश्चन्दनकल्कांश्च समुद्रेष्ववतिष्ठतः॥ ७५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-शुक्लानंशुमतश्चापि दन्तधावनसंचयान्।  
+शुक्लानंशुमतश्चापि दन्तधावनसञ्चयान्।  
 शुक्लांश्चन्दनकल्कांश्च समुद्रेष्ववतिष्ठतः॥ ७५॥
 </details>
 
@@ -1242,13 +1239,13 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दर्पणान् परिमृष्टांश्च वाससां चापि संचयान्।  
+दर्पणान् परिमृष्टांश्च वाससां चापि सञ्चयान्।  
 पादुकोपानहं चैव युग्मान्यत्र सहस्रशः॥ ७६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-दर्पणान् परिमृष्टांश्च वाससां चापि संचयान्।  
+दर्पणान् परिमृष्टांश्च वाससां चापि सञ्चयान्।  
 पादुकोपानहं चैव युग्मान्यत्र सहस्रशः॥ ७६॥
 </details>
 
@@ -1295,13 +1292,13 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नीलवैदूर्यवर्णांश्च मृदून् यवससंचयान्।  
+नीलवैदूर्यवर्णांश्च मृदून् यवससञ्चयान्।  
 निर्वापार्थं पशूनां ते ददृशुस्तत्र सर्वशः॥ ७९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नीलवैदूर्यवर्णांश्च मृदून् यवससंचयान्।  
+नीलवैदूर्यवर्णांश्च मृदून् यवससञ्चयान्।  
 निर्वापार्थं पशूनां ते ददृशुस्तत्र सर्वशः॥ ७९॥
 </details>
 
@@ -1387,3 +1384,4 @@ title_english = "091 Bharadwaja arranges a befitting hospitality to Bharata"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकनवतितमः सर्गः॥ ९१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें इक्यानबेवाँ सर्ग पूरा हुआ॥ ९१॥
 </details>
+

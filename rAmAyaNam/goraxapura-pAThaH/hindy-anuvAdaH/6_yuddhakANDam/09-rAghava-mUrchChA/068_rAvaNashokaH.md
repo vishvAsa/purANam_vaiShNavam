@@ -4,11 +4,8 @@ title_english = "068 Ravana s grief over the deaths"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-068-Ravana_s_grief_over_the_deaths__0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-068-Ravana_s_grief_over_the_deaths__0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "068 Ravana s grief over the deaths"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राजन् स कालसंकाशः संयुक्तः कालकर्मणा।  
+राजन् स कालसङ्काशः संयुक्तः कालकर्मणा।  
 विद्राव्य वानरीं सेनां भक्षयित्वा च वानरान्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-राजन् स कालसंकाशः संयुक्तः कालकर्मणा।  
+राजन् स कालसङ्काशः संयुक्तः कालकर्मणा।  
 विद्राव्य वानरीं सेनां भक्षयित्वा च वानरान्॥ २॥
 </details>
 
@@ -76,14 +73,14 @@ title_english = "068 Ravana s grief over the deaths"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-श्रुत्वा विनिहतं संख्ये कुम्भकर्णं महाबलम्।  
-रावणः शोकसंतप्तो मुमोह च पपात च॥ ६॥
+श्रुत्वा विनिहतं सङ्ख्ये कुम्भकर्णं महाबलम्।  
+रावणः शोकसन्तप्तो मुमोह च पपात च॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-श्रुत्वा विनिहतं संख्ये कुम्भकर्णं महाबलम्।  
-रावणः शोकसंतप्तो मुमोह च पपात च॥ ६॥
+श्रुत्वा विनिहतं सङ्ख्ये कुम्भकर्णं महाबलम्।  
+रावणः शोकसन्तप्तो मुमोह च पपात च॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -127,13 +124,13 @@ title_english = "068 Ravana s grief over the deaths"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः कृच्छ्रात् समासाद्य संज्ञां राक्षसपुङ्गवः।  
+ततः कृच्छ्रात् समासाद्य सञ्ज्ञां राक्षसपुङ्गवः।  
 कुम्भकर्णवधाद् दीनो विललापाकुलेन्द्रियः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः कृच्छ्रात् समासाद्य संज्ञां राक्षसपुङ्गवः।  
+ततः कृच्छ्रात् समासाद्य सञ्ज्ञां राक्षसपुङ्गवः।  
 कुम्भकर्णवधाद् दीनो विललापाकुलेन्द्रियः॥ ९॥
 </details>
 
@@ -162,13 +159,13 @@ title_english = "068 Ravana s grief over the deaths"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मम शल्यमनुद‍्धृत्य बान्धवानां महाबल।  
-शत्रुसैन्यं प्रताप्यैकः क्व मां संत्यज्य गच्छसि॥ ११॥
+शत्रुसैन्यं प्रताप्यैकः क्व मां सन्त्यज्य गच्छसि॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मम शल्यमनुद‍्धृत्य बान्धवानां महाबल।  
-शत्रुसैन्यं प्रताप्यैकः क्व मां संत्यज्य गच्छसि॥ ११॥
+शत्रुसैन्यं प्रताप्यैकः क्व मां सन्त्यज्य गच्छसि॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -246,13 +243,13 @@ title_english = "068 Ravana s grief over the deaths"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ध्रुवमद्यैव संहृष्टा लब्धलक्षाः प्लवंगमाः।  
+ध्रुवमद्यैव संहृष्टा लब्धलक्षाः प्लवङ्गमाः।  
 आरोक्ष्यन्तीह दुर्गाणि लङ्काद्वाराणि सर्वशः॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ध्रुवमद्यैव संहृष्टा लब्धलक्षाः प्लवंगमाः।  
+ध्रुवमद्यैव संहृष्टा लब्धलक्षाः प्लवङ्गमाः।  
 आरोक्ष्यन्तीह दुर्गाणि लङ्काद्वाराणि सर्वशः॥ १६॥
 </details>
 
@@ -406,3 +403,4 @@ title_english = "068 Ravana s grief over the deaths"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽष्टषष्टितमः सर्गः॥ ६८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें अड़सठवाँ सर्ग पूरा हुआ॥ ६८॥
 </details>
+

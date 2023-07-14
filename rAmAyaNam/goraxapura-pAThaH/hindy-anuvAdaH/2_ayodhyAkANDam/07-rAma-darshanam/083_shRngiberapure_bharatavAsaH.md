@@ -4,11 +4,8 @@ title_english = "083 Bharata goes to see Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-083-Shrungi_Berapure_Bharathaa_Vasaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-083-Shrungi_Berapure_Bharathaa_Vasaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -103,13 +100,13 @@ title_english = "083 Bharata goes to see Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कैकेयी च सुमित्रा च कौसल्या च यशस्विनी।  
-रामानयनसंतुष्टा ययुर्यानेन भास्वता॥ ६॥
+रामानयनसन्तुष्टा ययुर्यानेन भास्वता॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कैकेयी च सुमित्रा च कौसल्या च यशस्विनी।  
-रामानयनसंतुष्टा ययुर्यानेन भास्वता॥ ६॥
+रामानयनसन्तुष्टा ययुर्यानेन भास्वता॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -119,13 +116,13 @@ title_english = "083 Bharata goes to see Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रयाताश्चार्यसंघाता रामं द्रष्टुं सलक्ष्मणम्।  
+प्रयाताश्चार्यसङ्घाता रामं द्रष्टुं सलक्ष्मणम्।  
 तस्यैव च कथाश्चित्राः कुर्वाणा हृष्टमानसाः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-प्रयाताश्चार्यसंघाता रामं द्रष्टुं सलक्ष्मणम्।  
+प्रयाताश्चार्यसङ्घाता रामं द्रष्टुं सलक्ष्मणम्।  
 तस्यैव च कथाश्चित्राः कुर्वाणा हृष्टमानसाः॥ ७॥
 </details>
 
@@ -305,13 +302,13 @@ title_english = "083 Bharata goes to see Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपेत्य तीरं गङ्गायाश्चक्रवाकैरलंकृतम्।  
+उपेत्य तीरं गङ्गायाश्चक्रवाकैरलङ्कृतम्।  
 व्यवतिष्ठत सा सेना भरतस्यानुयायिनी॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपेत्य तीरं गङ्गायाश्चक्रवाकैरलंकृतम्।  
+उपेत्य तीरं गङ्गायाश्चक्रवाकैरलङ्कृतम्।  
 व्यवतिष्ठत सा सेना भरतस्यानुयायिनी॥ २१॥
 </details>
 
@@ -414,3 +411,4 @@ title_english = "083 Bharata goes to see Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्र्यशीतितमः सर्गः॥ ८३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें तिरासीवाँ सर्ग पूरा हुआ॥ ८३॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "079 The king makers request Bharata to take over Ayodhya kingdo
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-079-Bharatham_Prathi_Mantri_Mantrana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-079-Bharatham_Prathi_Mantri_Mantrana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -37,7 +34,7 @@ title_english = "079 The king makers request Bharata to take over Ayodhya kingdo
 गतो दशरथः स्वर्गं यो नो गुरुतरो गुरुः।  
 रामं प्रव्राज्य वै ज्येष्ठं लक्ष्मणं च महाबलम्॥ २॥  
 त्वमद्य भव नो राजा राजपुत्रो महायशः।  
-संगत्या नापराध्नोति राज्यमेतदनायकम्॥ ३॥
+सङ्गत्या नापराध्नोति राज्यमेतदनायकम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -45,7 +42,7 @@ title_english = "079 The king makers request Bharata to take over Ayodhya kingdo
 गतो दशरथः स्वर्गं यो नो गुरुतरो गुरुः।  
 रामं प्रव्राज्य वै ज्येष्ठं लक्ष्मणं च महाबलम्॥ २॥  
 त्वमद्य भव नो राजा राजपुत्रो महायशः।  
-संगत्या नापराध्नोति राज्यमेतदनायकम्॥ ३॥
+सङ्गत्या नापराध्नोति राज्यमेतदनायकम्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -291,3 +288,4 @@ title_english = "079 The king makers request Bharata to take over Ayodhya kingdo
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकोनाशीतितमः सर्गः॥ ७९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें उन्नासीवाँ सर्ग पूरा हुआ॥ ७९॥
 </details>
+

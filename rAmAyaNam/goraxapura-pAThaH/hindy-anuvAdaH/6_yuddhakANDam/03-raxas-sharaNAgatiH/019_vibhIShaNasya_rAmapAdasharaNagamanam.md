@@ -4,11 +4,8 @@ title_english = "019 Vibhishana seeks refuge at the feet of Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-019-Vibhishana_seeks_refuge_at_the_feet_of_Rama.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-019-Vibhishana_seeks_refuge_at_the_feet_of_Rama.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "019 Vibhishana seeks refuge at the feet of Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राघवेणाभये दत्ते संनतो रावणानुजः।  
+राघवेणाभये दत्ते सन्नतो रावणानुजः।  
 विभीषणो महाप्राज्ञो भूमिं समवलोकयत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-राघवेणाभये दत्ते संनतो रावणानुजः।  
+राघवेणाभये दत्ते सन्नतो रावणानुजः।  
 विभीषणो महाप्राज्ञो भूमिं समवलोकयत्॥ १॥
 </details>
 
@@ -208,13 +205,13 @@ title_english = "019 Vibhishana seeks refuge at the feet of Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संग्रामे सुमहद‍्व्यूहे तर्पयित्वा हुताशनम्।  
+सङ्ग्रामे सुमहद‍्व्यूहे तर्पयित्वा हुताशनम्।  
 अन्तर्धानगतः श्रीमानिन्द्रजिद्धन्ति राघव॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संग्रामे सुमहद‍्व्यूहे तर्पयित्वा हुताशनम्।  
+सङ्ग्रामे सुमहद‍्व्यूहे तर्पयित्वा हुताशनम्।  
 अन्तर्धानगतः श्रीमानिन्द्रजिद्धन्ति राघव॥ १३॥
 </details>
 
@@ -331,13 +328,13 @@ title_english = "019 Vibhishana seeks refuge at the feet of Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहत्वा रावणं संख्ये सपुत्रजनबान्धवम्।  
+अहत्वा रावणं सङ्ख्ये सपुत्रजनबान्धवम्।  
 अयोध्यां न प्रवेक्ष्यामि त्रिभिस्तैर्भ्रातृभिः शपे॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अहत्वा रावणं संख्ये सपुत्रजनबान्धवम्।  
+अहत्वा रावणं सङ्ख्ये सपुत्रजनबान्धवम्।  
 अयोध्यां न प्रवेक्ष्यामि त्रिभिस्तैर्भ्रातृभिः शपे॥ २१॥
 </details>
 
@@ -669,3 +666,4 @@ title_english = "019 Vibhishana seeks refuge at the feet of Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकोनविंशः सर्गः॥ १९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें उन्नीसवाँ सर्ग पूरा हुआ॥ १९॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "077 Happy days after marriages"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-077-Dasharathaadi_Naamayodhyagamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-077-Dasharathaadi_Naamayodhyagamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,13 +48,13 @@ title_english = "077 Happy days after marriages"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जामदग्न्यो गतो रामः प्रयातु चतुरंगिणी।  
+जामदग्न्यो गतो रामः प्रयातु चतुरङ्गिणी।  
 अयोध्याभिमुखी सेना त्वया नाथेन पालिता॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-जामदग्न्यो गतो रामः प्रयातु चतुरंगिणी।  
+जामदग्न्यो गतो रामः प्रयातु चतुरङ्गिणी।  
 अयोध्याभिमुखी सेना त्वया नाथेन पालिता॥ ३॥
 </details>
 
@@ -108,7 +105,7 @@ title_english = "077 Happy days after marriages"
 
 सिक्तराजपथारम्यां प्रकीर्णकुसुमोत्कराम्।  
 राजप्रवेशसुमुखैः पौरैर्मङ्गलपाणिभिः॥ ७॥  
-सम्पूर्णां प्राविशद् राजा जनौघैः समलंकृताम्।  
+सम्पूर्णां प्राविशद् राजा जनौघैः समलङ्कृताम्।  
 पौरैः प्रत्युद‍्गतो दूरं द्विजैश्च पुरवासिभिः॥ ८॥
 </details>
 
@@ -116,7 +113,7 @@ title_english = "077 Happy days after marriages"
 
 सिक्तराजपथारम्यां प्रकीर्णकुसुमोत्कराम्।  
 राजप्रवेशसुमुखैः पौरैर्मङ्गलपाणिभिः॥ ७॥  
-सम्पूर्णां प्राविशद् राजा जनौघैः समलंकृताम्।  
+सम्पूर्णां प्राविशद् राजा जनौघैः समलङ्कृताम्।  
 पौरैः प्रत्युद‍्गतो दूरं द्विजैश्च पुरवासिभिः॥ ८॥
 </details>
 
@@ -165,14 +162,14 @@ title_english = "077 Happy days after marriages"
 
 ततः सीतां महाभागामूर्मिलां च यशस्विनीम्॥ ११॥  
 कुशध्वजसुते चोभे जगृहुर्नृपयोषितः।  
-मंगलालापनैर्होमैः शोभिताः क्षौमवाससः॥ १२॥
+मङ्गलालापनैर्होमैः शोभिताः क्षौमवाससः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः सीतां महाभागामूर्मिलां च यशस्विनीम्॥ ११॥  
 कुशध्वजसुते चोभे जगृहुर्नृपयोषितः।  
-मंगलालापनैर्होमैः शोभिताः क्षौमवाससः॥ १२॥
+मङ्गलालापनैर्होमैः शोभिताः क्षौमवाससः॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -291,13 +288,13 @@ title_english = "077 Happy days after marriages"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गते च भरते रामो लक्ष्मणश्च महाबलः॥ २०॥  
-पितरं देवसंकाशं पूजयामासतुस्तदा।
+पितरं देवसङ्काशं पूजयामासतुस्तदा।
 </details>
 
 <details><summary>मूलम्</summary>
 
 गते च भरते रामो लक्ष्मणश्च महाबलः॥ २०॥  
-पितरं देवसंकाशं पूजयामासतुस्तदा।
+पितरं देवसङ्काशं पूजयामासतुस्तदा।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -359,13 +356,13 @@ title_english = "077 Happy days after marriages"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषामतियशा लोके रामः सत्यपराक्रमः॥ २४॥  
-स्वयंभूरिव भूतानां बभूव गुणवत्तरः।
+स्वयम्भूरिव भूतानां बभूव गुणवत्तरः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 तेषामतियशा लोके रामः सत्यपराक्रमः॥ २४॥  
-स्वयंभूरिव भूतानां बभूव गुणवत्तरः।
+स्वयम्भूरिव भूतानां बभूव गुणवत्तरः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>

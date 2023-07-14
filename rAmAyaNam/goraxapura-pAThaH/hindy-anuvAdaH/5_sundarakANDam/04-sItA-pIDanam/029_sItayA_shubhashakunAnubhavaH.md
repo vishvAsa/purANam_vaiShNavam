@@ -4,11 +4,8 @@ title_english = "029 Seetha experiences some good omens"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-029-Seetha_experiences_some_good_omens.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-029-Seetha_experiences_some_good_omens.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -104,7 +101,7 @@ title_english = "029 Seetha experiences some good omens"
 शुभं पुनर्हेमसमानवर्ण-  
 मीषद्रजोध्वस्तमिवातुलाक्ष्याः।  
 वासः स्थितायाः शिखराग्रदन्त्याः  
-किंचित् परिस्रंसत चारुगात्र्याः॥ ५॥
+किञ्चित् परिस्रंसत चारुगात्र्याः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -112,7 +109,7 @@ title_english = "029 Seetha experiences some good omens"
 शुभं पुनर्हेमसमानवर्ण-  
 मीषद्रजोध्वस्तमिवातुलाक्ष्याः।  
 वासः स्थितायाः शिखराग्रदन्त्याः  
-किंचित् परिस्रंसत चारुगात्र्याः॥ ५॥
+किञ्चित् परिस्रंसत चारुगात्र्याः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -123,17 +120,17 @@ title_english = "029 Seetha experiences some good omens"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतैर्निमित्तैरपरैश्च सुभ्रूः  
-संचोदिता प्रागपि साधुसिद्धैः।  
+सञ्चोदिता प्रागपि साधुसिद्धैः।  
 वातातपक्लान्तमिव प्रणष्टं  
-वर्षेण बीजं प्रतिसंजहर्ष॥ ६॥
+वर्षेण बीजं प्रतिसञ्जहर्ष॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एतैर्निमित्तैरपरैश्च सुभ्रूः  
-संचोदिता प्रागपि साधुसिद्धैः।  
+सञ्चोदिता प्रागपि साधुसिद्धैः।  
 वातातपक्लान्तमिव प्रणष्टं  
-वर्षेण बीजं प्रतिसंजहर्ष॥ ६॥
+वर्षेण बीजं प्रतिसञ्जहर्ष॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -188,3 +185,4 @@ title_english = "029 Seetha experiences some good omens"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे एकोनत्रिंशः सर्गः॥ २९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें उनतीसवाँ सर्ग पूरा हुआ॥ २९॥
 </details>
+

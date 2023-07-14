@@ -4,11 +4,8 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-065-Kumbhakarna_rebukes_Mahodara___0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-065-Kumbhakarna_rebukes_Mahodara___0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -205,13 +202,13 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शयानः शत्रुनाशार्थं भवान् सम्बोधितो मया।  
-अयं हि कालः सुमहान् राक्षसानामरिंदम॥ १२॥
+अयं हि कालः सुमहान् राक्षसानामरिन्दम॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 शयानः शत्रुनाशार्थं भवान् सम्बोधितो मया।  
-अयं हि कालः सुमहान् राक्षसानामरिंदम॥ १२॥
+अयं हि कालः सुमहान् राक्षसानामरिन्दम॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -221,13 +218,13 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संगच्छ शूलमादाय पाशहस्त इवान्तकः।  
+सङ्गच्छ शूलमादाय पाशहस्त इवान्तकः।  
 वानरान् राजपुत्रौ च भक्षयादित्यतेजसौ॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संगच्छ शूलमादाय पाशहस्त इवान्तकः।  
+सङ्गच्छ शूलमादाय पाशहस्त इवान्तकः।  
 वानरान् राजपुत्रौ च भक्षयादित्यतेजसौ॥ १३॥
 </details>
 
@@ -419,13 +416,13 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदान्यङ्गुलीवेष्टान् वराण्याभरणानि च।  
-हारं च शशिसंकाशमाबबन्ध महात्मनः॥ २६॥
+हारं च शशिसङ्काशमाबबन्ध महात्मनः॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अङ्गदान्यङ्गुलीवेष्टान् वराण्याभरणानि च।  
-हारं च शशिसंकाशमाबबन्ध महात्मनः॥ २६॥
+हारं च शशिसङ्काशमाबबन्ध महात्मनः॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -489,7 +486,7 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 स काञ्चनं भारसहं निवातं  
 विद्युत्प्रभं दीप्तमिवात्मभासा।  
 आबध्यमानः कवचं रराज  
-संध्याभ्रसंवीत इवाद्रिराजः॥ ३०॥
+सन्ध्याभ्रसंवीत इवाद्रिराजः॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -497,7 +494,7 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 स काञ्चनं भारसहं निवातं  
 विद्युत्प्रभं दीप्तमिवात्मभासा।  
 आबध्यमानः कवचं रराज  
-संध्याभ्रसंवीत इवाद्रिराजः॥ ३०॥
+सन्ध्याभ्रसंवीत इवाद्रिराजः॥ ३०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -558,13 +555,13 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं गजैश्च तुरंगैश्च स्यन्दनैश्चाम्बुदस्वनैः।  
+तं गजैश्च तुरङ्गैश्च स्यन्दनैश्चाम्बुदस्वनैः।  
 अनुजग्मुर्महात्मानो रथिनो रथिनां वरम्॥ ३४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तं गजैश्च तुरंगैश्च स्यन्दनैश्चाम्बुदस्वनैः।  
+तं गजैश्च तुरङ्गैश्च स्यन्दनैश्चाम्बुदस्वनैः।  
 अनुजग्मुर्महात्मानो रथिनो रथिनां वरम्॥ ३४॥
 </details>
 
@@ -674,13 +671,13 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुःशतपरीणाहः स षट्शतसमुच्छ्रितः।  
-रौद्रः शकटचक्राक्षो महापर्वतसंनिभः॥ ४१॥
+रौद्रः शकटचक्राक्षो महापर्वतसन्निभः॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 धनुःशतपरीणाहः स षट्शतसमुच्छ्रितः।  
-रौद्रः शकटचक्राक्षो महापर्वतसंनिभः॥ ४१॥
+रौद्रः शकटचक्राक्षो महापर्वतसन्निभः॥ ४१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -690,13 +687,13 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संनिपत्य च रक्षांसि दग्धशैलोपमो महान्।  
+सन्निपत्य च रक्षांसि दग्धशैलोपमो महान्।  
 कुम्भकर्णो महावक्त्रः प्रहसन्निदमब्रवीत्॥ ४२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संनिपत्य च रक्षांसि दग्धशैलोपमो महान्।  
+सन्निपत्य च रक्षांसि दग्धशैलोपमो महान्।  
 कुम्भकर्णो महावक्त्रः प्रहसन्निदमब्रवीत्॥ ४२॥
 </details>
 
@@ -708,13 +705,13 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अद्य वानरमुख्यानां तानि यूथानि भागशः।  
-निर्दहिष्यामि संक्रुद्धः पतङ्गानिव पावकः॥ ४३॥
+निर्दहिष्यामि सङ्क्रुद्धः पतङ्गानिव पावकः॥ ४३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अद्य वानरमुख्यानां तानि यूथानि भागशः।  
-निर्दहिष्यामि संक्रुद्धः पतङ्गानिव पावकः॥ ४३॥
+निर्दहिष्यामि सङ्क्रुद्धः पतङ्गानिव पावकः॥ ४३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -810,13 +807,13 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 घोररूपाः शिवा नेदुः सज्वालकवलैर्मुखैः।  
-मण्डलान्यपसव्यानि बबन्धुश्च विहंगमाः॥ ४९॥
+मण्डलान्यपसव्यानि बबन्धुश्च विहङ्गमाः॥ ४९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 घोररूपाः शिवा नेदुः सज्वालकवलैर्मुखैः।  
-मण्डलान्यपसव्यानि बबन्धुश्च विहंगमाः॥ ४९॥
+मण्डलान्यपसव्यानि बबन्धुश्च विहङ्गमाः॥ ४९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -877,13 +874,13 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स लङ्घयित्वा प्राकारं पद‍्भ्यां पर्वतसंनिभः।  
+स लङ्घयित्वा प्राकारं पद‍्भ्यां पर्वतसन्निभः।  
 ददर्शाभ्रघनप्रख्यं वानरानीकमद्भुतम्॥ ५३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स लङ्घयित्वा प्राकारं पद‍्भ्यां पर्वतसंनिभः।  
+स लङ्घयित्वा प्राकारं पद‍्भ्यां पर्वतसन्निभः।  
 ददर्शाभ्रघनप्रख्यं वानरानीकमद्भुतम्॥ ५३॥
 </details>
 
@@ -956,7 +953,7 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 विपुलपरिघवान् स कुम्भकर्णो  
 रिपुनिधनाय विनिःसृतो महात्मा।  
 कपिगणभयमाददत् सुभीमं  
-प्रभुरिव किंकरदण्डवान् युगान्ते॥ ५७॥
+प्रभुरिव किङ्करदण्डवान् युगान्ते॥ ५७॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -964,7 +961,7 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 विपुलपरिघवान् स कुम्भकर्णो  
 रिपुनिधनाय विनिःसृतो महात्मा।  
 कपिगणभयमाददत् सुभीमं  
-प्रभुरिव किंकरदण्डवान् युगान्ते॥ ५७॥
+प्रभुरिव किङ्करदण्डवान् युगान्ते॥ ५७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -977,3 +974,4 @@ title_english = "065 Kumbhakarna rebukes Mahodara"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे पञ्चषष्टितमः सर्गः॥ ६५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें पैंसठवाँ सर्ग पूरा हुआ॥ ६५॥
 </details>
+

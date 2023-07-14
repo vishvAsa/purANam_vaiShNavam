@@ -4,11 +4,8 @@ title_english = "016 Lakshmana s description of vasanta season"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-016-Hemantharthu_Varnanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-016-Hemantharthu_Varnanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -69,13 +66,13 @@ title_english = "016 Lakshmana s description of vasanta season"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं स कालः सम्प्राप्तः प्रियो यस्ते प्रियंवद।  
-अलंकृत इवाभाति येन संवत्सरः शुभः॥ ४॥
+अलङ्कृत इवाभाति येन संवत्सरः शुभः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अयं स कालः सम्प्राप्तः प्रियो यस्ते प्रियंवद।  
-अलंकृत इवाभाति येन संवत्सरः शुभः॥ ४॥
+अलङ्कृत इवाभाति येन संवत्सरः शुभः॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -170,13 +167,13 @@ title_english = "016 Lakshmana s description of vasanta season"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अत्यन्तसुखसंचारा मध्याह्ने स्पर्शतः सुखाः।  
+अत्यन्तसुखसञ्चारा मध्याह्ने स्पर्शतः सुखाः।  
 दिवसाः सुभगादित्याश्छायासलिलदुर्भगाः॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अत्यन्तसुखसंचारा मध्याह्ने स्पर्शतः सुखाः।  
+अत्यन्तसुखसञ्चारा मध्याह्ने स्पर्शतः सुखाः।  
 दिवसाः सुभगादित्याश्छायासलिलदुर्भगाः॥ १०॥
 </details>
 
@@ -221,13 +218,13 @@ title_english = "016 Lakshmana s description of vasanta season"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रविसंक्रान्तसौभाग्यस्तुषारारुणमण्डलः।  
+रविसङ्क्रान्तसौभाग्यस्तुषारारुणमण्डलः।  
 निःश्वासान्ध इवादर्शश्चन्द्रमा न प्रकाशते॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-रविसंक्रान्तसौभाग्यस्तुषारारुणमण्डलः।  
+रविसङ्क्रान्तसौभाग्यस्तुषारारुणमण्डलः।  
 निःश्वासान्ध इवादर्शश्चन्द्रमा न प्रकाशते॥ १३॥
 </details>
 
@@ -290,13 +287,13 @@ title_english = "016 Lakshmana s description of vasanta season"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खर्जूरपुष्पाकृतिभिः शिरोभिः पूर्णतण्डुलैः।  
-शोभन्ते किंचिदालम्बाः शालयः कनकप्रभाः॥ १७॥
+शोभन्ते किञ्चिदालम्बाः शालयः कनकप्रभाः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 खर्जूरपुष्पाकृतिभिः शिरोभिः पूर्णतण्डुलैः।  
-शोभन्ते किंचिदालम्बाः शालयः कनकप्रभाः॥ १७॥
+शोभन्ते किञ्चिदालम्बाः शालयः कनकप्रभाः॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -324,13 +321,13 @@ title_english = "016 Lakshmana s description of vasanta season"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आग्राह्यवीर्यः पूर्वाह्णे मध्याह्ने स्पर्शतः सुखः।  
-संरक्तः किंचिदापाण्डुरातपः शोभते क्षितौ॥ १९॥
+संरक्तः किञ्चिदापाण्डुरातपः शोभते क्षितौ॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 आग्राह्यवीर्यः पूर्वाह्णे मध्याह्ने स्पर्शतः सुखः।  
-संरक्तः किंचिदापाण्डुरातपः शोभते क्षितौ॥ १९॥
+संरक्तः किञ्चिदापाण्डुरातपः शोभते क्षितौ॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -340,13 +337,13 @@ title_english = "016 Lakshmana s description of vasanta season"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अवश्यायनिपातेन किंचित्प्रक्लिन्नशाद्वला।  
+अवश्यायनिपातेन किञ्चित्प्रक्लिन्नशाद्वला।  
 वनानां शोभते भूमिर्निविष्टतरुणातपा॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अवश्यायनिपातेन किंचित्प्रक्लिन्नशाद्वला।  
+अवश्यायनिपातेन किञ्चित्प्रक्लिन्नशाद्वला।  
 वनानां शोभते भूमिर्निविष्टतरुणातपा॥ २०॥
 </details>
 
@@ -408,13 +405,13 @@ title_english = "016 Lakshmana s description of vasanta season"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-बाष्पसंछन्नसलिला रुतविज्ञेयसारसाः।  
+बाष्पसञ्छन्नसलिला रुतविज्ञेयसारसाः।  
 हिमार्द्रवालुकैस्तीरैः सरितो भान्ति साम्प्रतम्॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-बाष्पसंछन्नसलिला रुतविज्ञेयसारसाः।  
+बाष्पसञ्छन्नसलिला रुतविज्ञेयसारसाः।  
 हिमार्द्रवालुकैस्तीरैः सरितो भान्ति साम्प्रतम्॥ २४॥
 </details>
 
@@ -529,16 +526,16 @@ title_english = "016 Lakshmana s description of vasanta season"
 
 पद्मपत्रेक्षणः श्यामः श्रीमान् निरुदरो महान्।  
 धर्मज्ञः सत्यवादी च ह्रीनिषेवी जितेन्द्रियः॥ ३१॥  
-प्रियाभिभाषी मधुरो दीर्घबाहुररिंदमः।  
-संत्यज्य विविधान् सौख्यानार्यं सर्वात्मनाश्रितः॥ ३२॥
+प्रियाभिभाषी मधुरो दीर्घबाहुररिन्दमः।  
+सन्त्यज्य विविधान् सौख्यानार्यं सर्वात्मनाश्रितः॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पद्मपत्रेक्षणः श्यामः श्रीमान् निरुदरो महान्।  
 धर्मज्ञः सत्यवादी च ह्रीनिषेवी जितेन्द्रियः॥ ३१॥  
-प्रियाभिभाषी मधुरो दीर्घबाहुररिंदमः।  
-संत्यज्य विविधान् सौख्यानार्यं सर्वात्मनाश्रितः॥ ३२॥
+प्रियाभिभाषी मधुरो दीर्घबाहुररिन्दमः।  
+सन्त्यज्य विविधान् सौख्यानार्यं सर्वात्मनाश्रितः॥ ३२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -634,13 +631,13 @@ title_english = "016 Lakshmana s description of vasanta season"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निश्चितैव हि मे बुद्धिर्वनवासे दृढव्रता।  
-भरतस्नेहसंतप्ता बालिशीक्रियते पुनः॥ ३८॥
+भरतस्नेहसन्तप्ता बालिशीक्रियते पुनः॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 निश्चितैव हि मे बुद्धिर्वनवासे दृढव्रता।  
-भरतस्नेहसंतप्ता बालिशीक्रियते पुनः॥ ३८॥
+भरतस्नेहसन्तप्ता बालिशीक्रियते पुनः॥ ३८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -742,3 +739,4 @@ title_english = "016 Lakshmana s description of vasanta season"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे षोडशः सर्गः॥ १६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें सोलहवाँ सर्ग पूरा हुआ॥ १६॥
 </details>
+

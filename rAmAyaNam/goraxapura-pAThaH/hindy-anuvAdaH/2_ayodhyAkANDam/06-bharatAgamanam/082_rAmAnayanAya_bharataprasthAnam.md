@@ -4,11 +4,8 @@ title_english = "082 Bharata refuses to rob the throne from Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-082-Ramanayanaaya_Bharatha_Prasthanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-082-Ramanayanaaya_Bharatha_Prasthanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -141,13 +138,13 @@ title_english = "082 Bharata refuses to rob the throne from Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा भरतो वाक्यं शोकेनाभिपरिप्लुतः।  
-जगाम मनसा रामं धर्मज्ञो धर्मकांक्षया॥ ९॥
+जगाम मनसा रामं धर्मज्ञो धर्मकाङ्क्षया॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तच्छ्रुत्वा भरतो वाक्यं शोकेनाभिपरिप्लुतः।  
-जगाम मनसा रामं धर्मज्ञो धर्मकांक्षया॥ ९॥
+जगाम मनसा रामं धर्मज्ञो धर्मकाङ्क्षया॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -379,13 +376,13 @@ title_english = "082 Bharata refuses to rob the throne from Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तः सुमन्त्रस्तु भरतेन महात्मना।  
-प्रहृष्टः सोऽदिशत् सर्वं यथासंदिष्टमिष्टवत्॥ २३॥
+प्रहृष्टः सोऽदिशत् सर्वं यथासन्दिष्टमिष्टवत्॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्तः सुमन्त्रस्तु भरतेन महात्मना।  
-प्रहृष्टः सोऽदिशत् सर्वं यथासंदिष्टमिष्टवत्॥ २३॥
+प्रहृष्टः सोऽदिशत् सर्वं यथासन्दिष्टमिष्टवत्॥ २३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -446,13 +443,13 @@ title_english = "082 Bharata refuses to rob the throne from Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सज्जं तु तद् बलं दृष्ट्वा भरतो गुरुसंनिधौ।  
+सज्जं तु तद् बलं दृष्ट्वा भरतो गुरुसन्निधौ।  
 रथं मे त्वरयस्वेति सुमन्त्रं पार्श्वतोऽब्रवीत्॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सज्जं तु तद् बलं दृष्ट्वा भरतो गुरुसंनिधौ।  
+सज्जं तु तद् बलं दृष्ट्वा भरतो गुरुसन्निधौ।  
 रथं मे त्वरयस्वेति सुमन्त्रं पार्श्वतोऽब्रवीत्॥ २७॥
 </details>
 
@@ -567,3 +564,4 @@ title_english = "082 Bharata refuses to rob the throne from Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे द्व्यशीतितमः सर्गः॥ ८२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें बयासीवाँ सर्ग पूरा हुआ॥ ८२॥
 </details>
+

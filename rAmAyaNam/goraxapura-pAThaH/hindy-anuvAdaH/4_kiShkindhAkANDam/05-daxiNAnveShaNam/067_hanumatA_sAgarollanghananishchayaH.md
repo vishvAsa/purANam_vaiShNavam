@@ -4,11 +4,8 @@ title_english = "067 Hanuma asserts his capabilities to leap the ocean"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-067-Hanuma_asserts_his_capabilities_to_leap_the_ocean.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-067-Hanuma_asserts_his_capabilities_to_leap_the_ocean.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -566,7 +563,7 @@ title_english = "067 Hanuma asserts his capabilities to leap the ocean"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतानीह नगस्यास्य शिलासंकटशालिनः॥ ३६॥  
+एतानीह नगस्यास्य शिलासङ्कटशालिनः॥ ३६॥  
 शिखराणि महेन्द्रस्य स्थिराणि च महान्ति च।  
 येषु वेगं गमिष्यामि महेन्द्रशिखरेष्वहम्॥ ३७॥  
 नानाद्रुमविकीर्णेषु धातुनिष्पन्दशोभिषु।
@@ -574,7 +571,7 @@ title_english = "067 Hanuma asserts his capabilities to leap the ocean"
 
 <details><summary>मूलम्</summary>
 
-एतानीह नगस्यास्य शिलासंकटशालिनः॥ ३६॥  
+एतानीह नगस्यास्य शिलासङ्कटशालिनः॥ ३६॥  
 शिखराणि महेन्द्रस्य स्थिराणि च महान्ति च।  
 येषु वेगं गमिष्यामि महेन्द्रशिखरेष्वहम्॥ ३७॥  
 नानाद्रुमविकीर्णेषु धातुनिष्पन्दशोभिषु।
@@ -639,13 +636,13 @@ title_english = "067 Hanuma asserts his capabilities to leap the ocean"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सिंहशार्दूलसहितं मत्तमातङ्गसेवितम्।  
-मत्तद्विजगणोद‍्घुष्टं सलिलोत्पीडसंकुलम्॥ ४१॥
+मत्तद्विजगणोद‍्घुष्टं सलिलोत्पीडसङ्कुलम्॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सिंहशार्दूलसहितं मत्तमातङ्गसेवितम्।  
-मत्तद्विजगणोद‍्घुष्टं सलिलोत्पीडसंकुलम्॥ ४१॥
+मत्तद्विजगणोद‍्घुष्टं सलिलोत्पीडसङ्कुलम्॥ ४१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -707,16 +704,16 @@ title_english = "067 Hanuma asserts his capabilities to leap the ocean"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नानागन्धर्वमिथुनैः पानसंसर्गकर्कशैः।  
-उत्पतद्भिर्विहंगैश्च विद्याधरगणैरपि॥ ४५॥  
-त्यज्यमानमहासानुः संनिलीनमहोरगः।  
+उत्पतद्भिर्विहङ्गैश्च विद्याधरगणैरपि॥ ४५॥  
+त्यज्यमानमहासानुः सन्निलीनमहोरगः।  
 शैलशृङ्गशिलोत्पातस्तदाभूत् स महागिरिः॥ ४६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नानागन्धर्वमिथुनैः पानसंसर्गकर्कशैः।  
-उत्पतद्भिर्विहंगैश्च विद्याधरगणैरपि॥ ४५॥  
-त्यज्यमानमहासानुः संनिलीनमहोरगः।  
+उत्पतद्भिर्विहङ्गैश्च विद्याधरगणैरपि॥ ४५॥  
+त्यज्यमानमहासानुः सन्निलीनमहोरगः।  
 शैलशृङ्गशिलोत्पातस्तदाभूत् स महागिरिः॥ ४६॥
 </details>
 

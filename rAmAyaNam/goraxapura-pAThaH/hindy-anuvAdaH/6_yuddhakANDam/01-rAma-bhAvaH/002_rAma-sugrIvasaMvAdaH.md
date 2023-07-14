@@ -4,11 +4,8 @@ title_english = "002 Sugreeva comforts Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-002-Sugreeva_comforts_Rama.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-002-Sugreeva_comforts_Rama.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "002 Sugreeva comforts Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं त्वया तप्यते वीर यथान्यः प्राकृतस्तथा।  
-मैवं भूस्त्यज संतापं कृतघ्न इव सौहृदम्॥ २॥
+मैवं भूस्त्यज सन्तापं कृतघ्न इव सौहृदम्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 किं त्वया तप्यते वीर यथान्यः प्राकृतस्तथा।  
-मैवं भूस्त्यज संतापं कृतघ्न इव सौहृदम्॥ २॥
+मैवं भूस्त्यज सन्तापं कृतघ्न इव सौहृदम्॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -51,13 +48,13 @@ title_english = "002 Sugreeva comforts Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संतापस्य च ते स्थानं नहि पश्यामि राघव।  
+सन्तापस्य च ते स्थानं नहि पश्यामि राघव।  
 प्रवृत्तावुपलब्धायां ज्ञाते च निलये रिपोः॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संतापस्य च ते स्थानं नहि पश्यामि राघव।  
+सन्तापस्य च ते स्थानं नहि पश्यामि राघव।  
 प्रवृत्तावुपलब्धायां ज्ञाते च निलये रिपोः॥ ३॥
 </details>
 
@@ -243,13 +240,13 @@ title_english = "002 Sugreeva comforts Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत् तु कार्यं मनुष्येण शौटीर्यमवलम्ब्यताम्।  
-तदलंकरणायैव कर्तुर्भवति सत्वरम्॥ १४॥
+तदलङ्करणायैव कर्तुर्भवति सत्वरम्॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यत् तु कार्यं मनुष्येण शौटीर्यमवलम्ब्यताम्।  
-तदलंकरणायैव कर्तुर्भवति सत्वरम्॥ १४॥
+तदलङ्करणायैव कर्तुर्भवति सत्वरम्॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -295,13 +292,13 @@ title_english = "002 Sugreeva comforts Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नहि पश्याम्यहं कंचित् त्रिषु लोकेषु राघव।  
+नहि पश्याम्यहं कञ्चित् त्रिषु लोकेषु राघव।  
 गृहीतधनुषो यस्ते तिष्ठेदभिमुखो रणे॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नहि पश्याम्यहं कंचित् त्रिषु लोकेषु राघव।  
+नहि पश्याम्यहं कञ्चित् त्रिषु लोकेषु राघव।  
 गृहीतधनुषो यस्ते तिष्ठेदभिमुखो रणे॥ १७॥
 </details>
 
@@ -397,13 +394,13 @@ title_english = "002 Sugreeva comforts Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथंचित् परिपश्यामि लङ्घितं वरुणालयम्।  
+कथञ्चित् परिपश्यामि लङ्घितं वरुणालयम्।  
 हतमित्येव तं मन्ये युद्धे शत्रुनिबर्हण॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथंचित् परिपश्यामि लङ्घितं वरुणालयम्।  
+कथञ्चित् परिपश्यामि लङ्घितं वरुणालयम्।  
 हतमित्येव तं मन्ये युद्धे शत्रुनिबर्हण॥ २३॥
 </details>
 
@@ -434,3 +431,4 @@ title_english = "002 Sugreeva comforts Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्वितीयः सर्गः॥ २॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें दूसरा सर्ग पूरा हुआ॥ २॥
 </details>
+

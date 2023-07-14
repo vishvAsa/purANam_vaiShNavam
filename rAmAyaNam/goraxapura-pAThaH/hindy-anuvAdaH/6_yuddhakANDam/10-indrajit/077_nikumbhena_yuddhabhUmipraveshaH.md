@@ -4,11 +4,8 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-077-Kumbha_s_brother,_Nikumbha_faces_the_battle_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-077-Kumbha_s_brother,_Nikumbha_faces_the_battle_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः स्रग्दामसंनद्धं दत्तपञ्चाङ्गुलं शुभम्।  
+ततः स्रग्दामसन्नद्धं दत्तपञ्चाङ्गुलं शुभम्।  
 आददे परिघं धीरो महेन्द्रशिखरोपमम्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः स्रग्दामसंनद्धं दत्तपञ्चाङ्गुलं शुभम्।  
+ततः स्रग्दामसन्नद्धं दत्तपञ्चाङ्गुलं शुभम्।  
 आददे परिघं धीरो महेन्द्रशिखरोपमम्॥ २॥
 </details>
 
@@ -142,13 +139,13 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-दुरासदश्च संजज्ञे परिघाभरणप्रभः।  
+दुरासदश्च सञ्जज्ञे परिघाभरणप्रभः।  
 क्रोधेन्धनो निकुम्भाग्निर्युगान्ताग्निरिवोत्थितः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-दुरासदश्च संजज्ञे परिघाभरणप्रभः।  
+दुरासदश्च सञ्जज्ञे परिघाभरणप्रभः।  
 क्रोधेन्धनो निकुम्भाग्निर्युगान्ताग्निरिवोत्थितः॥ ९॥
 </details>
 
@@ -262,13 +259,13 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र पुस्फोट वर्मास्य प्रसुस्राव च शोणितम्।  
-मुष्टिना तेन संजज्ञे मेघे विद्युदिवोत्थिता॥ १६॥
+मुष्टिना तेन सञ्जज्ञे मेघे विद्युदिवोत्थिता॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तत्र पुस्फोट वर्मास्य प्रसुस्राव च शोणितम्।  
-मुष्टिना तेन संजज्ञे मेघे विद्युदिवोत्थिता॥ १६॥
+मुष्टिना तेन सञ्जज्ञे मेघे विद्युदिवोत्थिता॥ १६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -295,13 +292,13 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चुक्रुशुश्च तदा संख्ये भीमं लङ्कानिवासिनः।  
+चुक्रुशुश्च तदा सङ्ख्ये भीमं लङ्कानिवासिनः।  
 निकुम्भेनोद्यतं दृष्ट्वा हनूमन्तं महाबलम्॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-चुक्रुशुश्च तदा संख्ये भीमं लङ्कानिवासिनः।  
+चुक्रुशुश्च तदा सङ्ख्ये भीमं लङ्कानिवासिनः।  
 निकुम्भेनोद्यतं दृष्ट्वा हनूमन्तं महाबलम्॥ १८॥
 </details>
 
@@ -389,7 +386,7 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यपेते तु जीवे निकुम्भस्य हृष्टा  
-विनेदुः प्लवंगा दिशः सस्वनुश्च।  
+विनेदुः प्लवङ्गा दिशः सस्वनुश्च।  
 चचालेव चोर्वी पपातेव सा द्यौ-  
 र्बलं राक्षसानां भयं चाविवेश॥ २४॥
 </details>
@@ -397,7 +394,7 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 <details><summary>मूलम्</summary>
 
 व्यपेते तु जीवे निकुम्भस्य हृष्टा  
-विनेदुः प्लवंगा दिशः सस्वनुश्च।  
+विनेदुः प्लवङ्गा दिशः सस्वनुश्च।  
 चचालेव चोर्वी पपातेव सा द्यौ-  
 र्बलं राक्षसानां भयं चाविवेश॥ २४॥
 </details>
@@ -412,3 +409,4 @@ title_english = "077 Kumbha s brother Nikumbha faces the battle"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे सप्तसप्ततितमः सर्गः॥ ७७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें सतहत्तरवाँ सर्ग पूरा हुआ॥ ७७॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "007 Hermitage of Sage Suteekshna"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-007-Rama_-_Sutheekshnana_Samvadaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-007-Rama_-_Sutheekshnana_Samvadaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "007 Hermitage of Sage Suteekshna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रामस्तु सहितो भ्रात्रा सीतया च परंतपः।  
+रामस्तु सहितो भ्रात्रा सीतया च परन्तपः।  
 सुतीक्ष्णस्याश्रमपदं जगाम सह तैर्द्विजैः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-रामस्तु सहितो भ्रात्रा सीतया च परंतपः।  
+रामस्तु सहितो भ्रात्रा सीतया च परन्तपः।  
 सुतीक्ष्णस्याश्रमपदं जगाम सह तैर्द्विजैः॥ १॥
 </details>
 
@@ -290,13 +287,13 @@ title_english = "007 Hermitage of Sage Suteekshna"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयमेवाश्रमो राम गुणवान् रम्यतामिति।  
-ऋषिसंघानुचरितः सदा मूलफलैर्युतः॥ १७॥
+ऋषिसङ्घानुचरितः सदा मूलफलैर्युतः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अयमेवाश्रमो राम गुणवान् रम्यतामिति।  
-ऋषिसंघानुचरितः सदा मूलफलैर्युतः॥ १७॥
+ऋषिसङ्घानुचरितः सदा मूलफलैर्युतः॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -306,13 +303,13 @@ title_english = "007 Hermitage of Sage Suteekshna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इममाश्रममागम्य मृगसंघा महीयसः।  
+इममाश्रममागम्य मृगसङ्घा महीयसः।  
 अहत्वा प्रतिगच्छन्ति लोभयित्वाकुतोभयाः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इममाश्रममागम्य मृगसंघा महीयसः।  
+इममाश्रममागम्य मृगसङ्घा महीयसः।  
 अहत्वा प्रतिगच्छन्ति लोभयित्वाकुतोभयाः॥ १८॥
 </details>
 
@@ -342,14 +339,14 @@ title_english = "007 Hermitage of Sage Suteekshna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तानहं सुमहाभाग मृगसंघान् समागतान्॥ २०॥  
+तानहं सुमहाभाग मृगसङ्घान् समागतान्॥ २०॥  
 हन्यां निशितधारेण शरेणानतपर्वणा।  
 भवांस्तत्राभिषज्येत किं स्यात् कृच्छ्रतरं ततः॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तानहं सुमहाभाग मृगसंघान् समागतान्॥ २०॥  
+तानहं सुमहाभाग मृगसङ्घान् समागतान्॥ २०॥  
 हन्यां निशितधारेण शरेणानतपर्वणा।  
 भवांस्तत्राभिषज्येत किं स्यात् कृच्छ्रतरं ततः॥ २१॥
 </details>
@@ -362,13 +359,13 @@ title_english = "007 Hermitage of Sage Suteekshna"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नाश्रमे वासं चिरं तु न समर्थये।  
-तमेवमुक्त्वोपरमं रामः संध्यामुपागमत्॥ २२॥
+तमेवमुक्त्वोपरमं रामः सन्ध्यामुपागमत्॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एतस्मिन्नाश्रमे वासं चिरं तु न समर्थये।  
-तमेवमुक्त्वोपरमं रामः संध्यामुपागमत्॥ २२॥
+तमेवमुक्त्वोपरमं रामः सन्ध्यामुपागमत्॥ २२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -378,13 +375,13 @@ title_english = "007 Hermitage of Sage Suteekshna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्वास्य पश्चिमां संध्यां तत्र वासमकल्पयत् ।  
+अन्वास्य पश्चिमां सन्ध्यां तत्र वासमकल्पयत् ।  
 सुतीक्ष्णस्याश्रमे रम्ये सीतया लक्ष्मणेन च॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अन्वास्य पश्चिमां संध्यां तत्र वासमकल्पयत् ।  
+अन्वास्य पश्चिमां सन्ध्यां तत्र वासमकल्पयत् ।  
 सुतीक्ष्णस्याश्रमे रम्ये सीतया लक्ष्मणेन च॥ २३॥
 </details>
 
@@ -398,7 +395,7 @@ title_english = "007 Hermitage of Sage Suteekshna"
 ततः शुभं तापसयोग्यमन्नं  
 स्वयं सुतीक्ष्णः पुरुषर्षभाभ्याम्।  
 ताभ्यां सुसत्कृत्य ददौ महात्मा  
-संध्यानिवृत्तौ रजनीं समीक्ष्य॥ २४॥
+सन्ध्यानिवृत्तौ रजनीं समीक्ष्य॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -406,7 +403,7 @@ title_english = "007 Hermitage of Sage Suteekshna"
 ततः शुभं तापसयोग्यमन्नं  
 स्वयं सुतीक्ष्णः पुरुषर्षभाभ्याम्।  
 ताभ्यां सुसत्कृत्य ददौ महात्मा  
-संध्यानिवृत्तौ रजनीं समीक्ष्य॥ २४॥
+सन्ध्यानिवृत्तौ रजनीं समीक्ष्य॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -419,3 +416,4 @@ title_english = "007 Hermitage of Sage Suteekshna"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे सप्तमः सर्गः॥ ७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें सातवाँ सर्ग पूरा हुआ॥ ७॥
 </details>
+

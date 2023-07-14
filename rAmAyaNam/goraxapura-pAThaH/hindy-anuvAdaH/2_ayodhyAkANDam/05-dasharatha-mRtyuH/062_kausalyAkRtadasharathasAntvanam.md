@@ -4,11 +4,8 @@ title_english = "062 King Dasaratha loses consciousness"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-062-Kousalya_Krutha_Dashratha_Santhvanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-062-Kousalya_Krutha_Dashratha_Santhvanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "062 King Dasaratha loses consciousness"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चिन्तयित्वा स च नृपो मोहव्याकुलितेन्द्रियः।  
-अथ दीर्घेण कालेन संज्ञामाप परंतपः॥ २॥
+अथ दीर्घेण कालेन सञ्ज्ञामाप परन्तपः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 चिन्तयित्वा स च नृपो मोहव्याकुलितेन्द्रियः।  
-अथ दीर्घेण कालेन संज्ञामाप परंतपः॥ २॥
+अथ दीर्घेण कालेन सञ्ज्ञामाप परन्तपः॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -51,13 +48,13 @@ title_english = "062 King Dasaratha loses consciousness"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स संज्ञामुपलभ्यैव दीर्घमुष्णं च निःश्वसन्।  
+स सञ्ज्ञामुपलभ्यैव दीर्घमुष्णं च निःश्वसन्।  
 कौसल्यां पार्श्वतो दृष्ट्वा ततश्चिन्तामुपागमत्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स संज्ञामुपलभ्यैव दीर्घमुष्णं च निःश्वसन्।  
+स सञ्ज्ञामुपलभ्यैव दीर्घमुष्णं च निःश्वसन्।  
 कौसल्यां पार्श्वतो दृष्ट्वा ततश्चिन्तामुपागमत्॥ ३॥
 </details>
 
@@ -347,3 +344,4 @@ title_english = "062 King Dasaratha loses consciousness"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे द्विषष्टितमः सर्गः॥ ६२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें बासठवाँ सर्ग पूरा हुआ॥ ६२॥
 </details>
+

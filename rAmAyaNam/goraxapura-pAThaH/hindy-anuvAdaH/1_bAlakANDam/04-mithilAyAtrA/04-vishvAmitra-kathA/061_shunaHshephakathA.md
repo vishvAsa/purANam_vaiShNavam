@@ -4,11 +4,8 @@ title_english = "061 Legend of shunashshepa"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-061-Shunaha_Shesha_Katha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-061-Shunaha_Shesha_Katha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -173,7 +170,7 @@ title_english = "061 Legend of shunashshepa"
 देशाञ्जनपदांस्तांस्तान् नगराणि वनानि च।  
 आश्रमाणि च पुण्यानि मार्गमाणो महीपतिः॥ १०॥  
 स पुत्रसहितं तात सभार्यं रघुनन्दन।  
-भृगुतुंगे समासीनमृचीकं संददर्श ह॥ ११॥
+भृगुतुङ्गे समासीनमृचीकं सन्ददर्श ह॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -181,7 +178,7 @@ title_english = "061 Legend of shunashshepa"
 देशाञ्जनपदांस्तांस्तान् नगराणि वनानि च।  
 आश्रमाणि च पुण्यानि मार्गमाणो महीपतिः॥ १०॥  
 स पुत्रसहितं तात सभार्यं रघुनन्दन।  
-भृगुतुंगे समासीनमृचीकं संददर्श ह॥ ११॥
+भृगुतुङ्गे समासीनमृचीकं सन्ददर्श ह॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -245,13 +242,13 @@ title_english = "061 Legend of shunashshepa"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो महातेजा ऋचीकस्त्वब्रवीद् वचः॥ १५॥  
-नाहं ज्येष्ठं नरश्रेष्ठ विक्रीणीयां कथंचन।
+नाहं ज्येष्ठं नरश्रेष्ठ विक्रीणीयां कथञ्चन।
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्तो महातेजा ऋचीकस्त्वब्रवीद् वचः॥ १५॥  
-नाहं ज्येष्ठं नरश्रेष्ठ विक्रीणीयां कथंचन।
+नाहं ज्येष्ठं नरश्रेष्ठ विक्रीणीयां कथञ्चन।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -389,3 +386,4 @@ title_english = "061 Legend of shunashshepa"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे एकषष्टितमः सर्गः॥ ६१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें एकसठवाँ सर्ग पूरा हुआ॥ ६१॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "035 Ravana proceeds to Mareecha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-035-Maaricham_Prathi_Punaha_Ravana_Agamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-035-Maaricham_Prathi_Punaha_Ravana_Agamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -56,13 +53,13 @@ title_english = "035 Ravana proceeds to Mareecha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यानशालां ततो गत्वा प्रच्छन्नं राक्षसाधिपः।  
-सूतं संचोदयामास रथः संयुज्यतामिति॥ ४॥
+सूतं सञ्चोदयामास रथः संयुज्यतामिति॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यानशालां ततो गत्वा प्रच्छन्नं राक्षसाधिपः।  
-सूतं संचोदयामास रथः संयुज्यतामिति॥ ४॥
+सूतं सञ्चोदयामास रथः संयुज्यतामिति॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -124,7 +121,7 @@ title_english = "035 Ravana proceeds to Mareecha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स श्वेतवालव्यजनः श्वेतच्छत्रो दशाननः।  
-स्निग्धवैदूर्यसंकाशस्तप्तकाञ्चनभूषणः॥ ८॥  
+स्निग्धवैदूर्यसङ्काशस्तप्तकाञ्चनभूषणः॥ ८॥  
 दशग्रीवो विंशतिभुजो दर्शनीयपरिच्छदः।  
 त्रिदशारिर्मुनीन्द्रघ्नो दशशीर्ष इवाद्रिराट्॥ ९॥
 </details>
@@ -132,7 +129,7 @@ title_english = "035 Ravana proceeds to Mareecha"
 <details><summary>मूलम्</summary>
 
 स श्वेतवालव्यजनः श्वेतच्छत्रो दशाननः।  
-स्निग्धवैदूर्यसंकाशस्तप्तकाञ्चनभूषणः॥ ८॥  
+स्निग्धवैदूर्यसङ्काशस्तप्तकाञ्चनभूषणः॥ ८॥  
 दशग्रीवो विंशतिभुजो दर्शनीयपरिच्छदः।  
 त्रिदशारिर्मुनीन्द्रघ्नो दशशीर्ष इवाद्रिराट्॥ ९॥
 </details>
@@ -164,7 +161,7 @@ title_english = "035 Ravana proceeds to Mareecha"
 सशैलसागरानूपं वीर्यवानवलोकयन्।  
 नानापुष्पफलैर्वृक्षैरनुकीर्णं सहस्रशः॥ ११॥  
 शीतमङ्गलतोयाभिः पद्मिनीभिः समन्ततः।  
-विशालैराश्रमपदैर्वेदिमद्भिरलंकृतम्॥ १२॥
+विशालैराश्रमपदैर्वेदिमद्भिरलङ्कृतम्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -172,7 +169,7 @@ title_english = "035 Ravana proceeds to Mareecha"
 सशैलसागरानूपं वीर्यवानवलोकयन्।  
 नानापुष्पफलैर्वृक्षैरनुकीर्णं सहस्रशः॥ ११॥  
 शीतमङ्गलतोयाभिः पद्मिनीभिः समन्ततः।  
-विशालैराश्रमपदैर्वेदिमद्भिरलंकृतम्॥ १२॥
+विशालैराश्रमपदैर्वेदिमद्भिरलङ्कृतम्॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -200,13 +197,13 @@ title_english = "035 Ravana proceeds to Mareecha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अत्यन्तनियताहारैः शोभितं परमर्षिभिः।  
-नागैः सुपर्णैर्गन्धर्वैः किंनरैश्च सहस्रशः॥ १४॥
+नागैः सुपर्णैर्गन्धर्वैः किन्नरैश्च सहस्रशः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अत्यन्तनियताहारैः शोभितं परमर्षिभिः।  
-नागैः सुपर्णैर्गन्धर्वैः किंनरैश्च सहस्रशः॥ १४॥
+नागैः सुपर्णैर्गन्धर्वैः किन्नरैश्च सहस्रशः॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -409,13 +406,13 @@ title_english = "035 Ravana proceeds to Mareecha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र वैखानसा माषा वालखिल्या मरीचिपाः॥ ३०॥  
-आजा बभूवुर्धूम्राश्च संगताः परमर्षयः।
+आजा बभूवुर्धूम्राश्च सङ्गताः परमर्षयः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 तत्र वैखानसा माषा वालखिल्या मरीचिपाः॥ ३०॥  
-आजा बभूवुर्धूम्राश्च संगताः परमर्षयः।
+आजा बभूवुर्धूम्राश्च सङ्गताः परमर्षयः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -604,3 +601,4 @@ title_english = "035 Ravana proceeds to Mareecha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे पञ्चत्रिंशः सर्गः॥ ३५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें पैंतीसवाँ सर्ग पूरा हुआ॥ ३५॥
 </details>
+

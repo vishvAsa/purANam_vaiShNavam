@@ -4,11 +4,8 @@ title_english = "014 Vibhishana informs about the power of Rama s arrow"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-014-Vibhishana_informs_about_the_power_of_Rama_s_arrow.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-014-Vibhishana_informs_about_the_power_of_Rama_s_arrow.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -81,7 +78,7 @@ title_english = "014 Vibhishana informs about the power of Rama s arrow"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यावन्न गृह्णन्ति शिरांसि बाणा  
-रामेरिता राक्षसपुंगवानाम्।  
+रामेरिता राक्षसपुङ्गवानाम्।  
 वज्रोपमा वायुसमानवेगाः  
 प्रदीयतां दाशरथाय मैथिली॥ ४॥
 </details>
@@ -89,7 +86,7 @@ title_english = "014 Vibhishana informs about the power of Rama s arrow"
 <details><summary>मूलम्</summary>
 
 यावन्न गृह्णन्ति शिरांसि बाणा  
-रामेरिता राक्षसपुंगवानाम्।  
+रामेरिता राक्षसपुङ्गवानाम्।  
 वज्रोपमा वायुसमानवेगाः  
 प्रदीयतां दाशरथाय मैथिली॥ ४॥
 </details>
@@ -165,7 +162,7 @@ title_english = "014 Vibhishana informs about the power of Rama s arrow"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न यक्षगन्धर्वमहोरगेभ्यो  
-भयं न संख्ये पतगोरगेभ्यः।  
+भयं न सङ्ख्ये पतगोरगेभ्यः।  
 कथं नु रामाद् भविता भयं नो  
 नरेन्द्रपुत्रात् समरे कदाचित्॥ ८॥
 </details>
@@ -173,7 +170,7 @@ title_english = "014 Vibhishana informs about the power of Rama s arrow"
 <details><summary>मूलम्</summary>
 
 न यक्षगन्धर्वमहोरगेभ्यो  
-भयं न संख्ये पतगोरगेभ्यः।  
+भयं न सङ्ख्ये पतगोरगेभ्यः।  
 कथं नु रामाद् भविता भयं नो  
 नरेन्द्रपुत्रात् समरे कदाचित्॥ ८॥
 </details>
@@ -490,3 +487,4 @@ title_english = "014 Vibhishana informs about the power of Rama s arrow"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चतुर्दशः सर्गः॥ १४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें चौदहवाँ सर्ग पूरा हुआ॥ १४॥
 </details>
+

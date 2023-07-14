@@ -4,11 +4,8 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-088-A_fierce_battle_starts_between_Lakshmana_and_Indrajit_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-088-A_fierce_battle_starts_between_Lakshmana_and_Indrajit_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उद्यतायुधनिस्त्रिंशो रथे सुसमलंकृते।  
+उद्यतायुधनिस्त्रिंशो रथे सुसमलङ्कृते।  
 कालाश्वयुक्ते महति स्थितः कालान्तकोपमः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उद्यतायुधनिस्त्रिंशो रथे सुसमलंकृते।  
+उद्यतायुधनिस्त्रिंशो रथे सुसमलङ्कृते।  
 कालाश्वयुक्ते महति स्थितः कालान्तकोपमः॥ २॥
 </details>
 
@@ -68,15 +65,15 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं ददर्श महेष्वासो रथस्थः समलंकृतः।  
-अलंकृतममित्रघ्नो रावणस्यात्मजो बली॥ ४॥  
+तं ददर्श महेष्वासो रथस्थः समलङ्कृतः।  
+अलङ्कृतममित्रघ्नो रावणस्यात्मजो बली॥ ४॥  
 हनूमत्पृष्ठमारूढमुदयस्थरविप्रभम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तं ददर्श महेष्वासो रथस्थः समलंकृतः।  
-अलंकृतममित्रघ्नो रावणस्यात्मजो बली॥ ४॥  
+तं ददर्श महेष्वासो रथस्थः समलङ्कृतः।  
+अलङ्कृतममित्रघ्नो रावणस्यात्मजो बली॥ ४॥  
 हनूमत्पृष्ठमारूढमुदयस्थरविप्रभम्।
 </details>
 
@@ -160,7 +157,7 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रात्रियुद्धे तदा पूर्वं वज्राशनिसमैः शरैः।  
-शायितौ तौ मया भूयो विसंज्ञौ सपुरःसरौ॥ १०॥  
+शायितौ तौ मया भूयो विसञ्ज्ञौ सपुरःसरौ॥ १०॥  
 स्मृतिर्न तेऽस्ति वा मन्ये व्यक्तं यातो यमक्षयम्।  
 आशीविषसमं क्रुद्धं यन्मां योद्धुमुपस्थितः॥ ११॥
 </details>
@@ -168,7 +165,7 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 <details><summary>मूलम्</summary>
 
 रात्रियुद्धे तदा पूर्वं वज्राशनिसमैः शरैः।  
-शायितौ तौ मया भूयो विसंज्ञौ सपुरःसरौ॥ १०॥  
+शायितौ तौ मया भूयो विसञ्ज्ञौ सपुरःसरौ॥ १०॥  
 स्मृतिर्न तेऽस्ति वा मन्ये व्यक्तं यातो यमक्षयम्।  
 आशीविषसमं क्रुद्धं यन्मां योद्धुमुपस्थितः॥ ११॥
 </details>
@@ -266,13 +263,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तो धनुर्भीमं परामृश्य महाबलः।  
-ससर्ज निशितान् बाणानिन्द्रजित् समितिंजयः॥ १७॥
+ससर्ज निशितान् बाणानिन्द्रजित् समितिञ्जयः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्तो धनुर्भीमं परामृश्य महाबलः।  
-ससर्ज निशितान् बाणानिन्द्रजित् समितिंजयः॥ १७॥
+ससर्ज निशितान् बाणानिन्द्रजित् समितिञ्जयः॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -418,13 +415,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इति ब्रुवाणं संक्रुद्धः परुषं रावणात्मजम्।  
+इति ब्रुवाणं सङ्क्रुद्धः परुषं रावणात्मजम्।  
 हेतुमद् वाक्यमर्थज्ञो लक्ष्मणः प्रत्युवाच ह॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इति ब्रुवाणं संक्रुद्धः परुषं रावणात्मजम्।  
+इति ब्रुवाणं सङ्क्रुद्धः परुषं रावणात्मजम्।  
 हेतुमद् वाक्यमर्थज्ञो लक्ष्मणः प्रत्युवाच ह॥ २६॥
 </details>
 
@@ -469,13 +466,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनुक्त्वा परुषं वाक्यं किंचिदप्यनवक्षिपन्।  
+अनुक्त्वा परुषं वाक्यं किञ्चिदप्यनवक्षिपन्।  
 अविकत्थन् वधिष्यामि त्वां पश्य पुरुषादन॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अनुक्त्वा परुषं वाक्यं किंचिदप्यनवक्षिपन्।  
+अनुक्त्वा परुषं वाक्यं किञ्चिदप्यनवक्षिपन्।  
 अविकत्थन् वधिष्यामि त्वां पश्य पुरुषादन॥ २९॥
 </details>
 
@@ -607,13 +604,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः शरान् दाशरथिः संधायामित्रकर्षणः।  
+ततः शरान् दाशरथिः सन्धायामित्रकर्षणः।  
 ससर्ज राक्षसेन्द्राय क्रुद्धः सर्प इव श्वसन्॥ ३७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः शरान् दाशरथिः संधायामित्रकर्षणः।  
+ततः शरान् दाशरथिः सन्धायामित्रकर्षणः।  
 ससर्ज राक्षसेन्द्राय क्रुद्धः सर्प इव श्वसन्॥ ३७॥
 </details>
 
@@ -675,13 +672,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः संधाय सौमित्रिः शरानाशीविषोपमान्।  
+ततः सन्धाय सौमित्रिः शरानाशीविषोपमान्।  
 मुमोच विशिखांस्तस्मिन् सर्पानिव विषोल्बणान्॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः संधाय सौमित्रिः शरानाशीविषोपमान्।  
+ततः सन्धाय सौमित्रिः शरानाशीविषोपमान्।  
 मुमोच विशिखांस्तस्मिन् सर्पानिव विषोल्बणान्॥ ४१॥
 </details>
 
@@ -693,13 +690,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शक्राशनिसमस्पर्शैर्लक्ष्मणेनाहतः शरैः।  
-मुहूर्तमभवन्मूढः सर्वसंक्षुभितेन्द्रियः॥ ४२॥
+मुहूर्तमभवन्मूढः सर्वसङ्क्षुभितेन्द्रियः॥ ४२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 शक्राशनिसमस्पर्शैर्लक्ष्मणेनाहतः शरैः।  
-मुहूर्तमभवन्मूढः सर्वसंक्षुभितेन्द्रियः॥ ४२॥
+मुहूर्तमभवन्मूढः सर्वसङ्क्षुभितेन्द्रियः॥ ४२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -709,14 +706,14 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपलभ्य मुहूर्तेन संज्ञां प्रत्यागतेन्द्रियः।  
+उपलभ्य मुहूर्तेन सञ्ज्ञां प्रत्यागतेन्द्रियः।  
 ददर्शावस्थितं वीरमाजौ दशरथात्मजम्।  
 सोऽभिचक्राम सौमित्रिं रोषात् संरक्तलोचनः॥ ४३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-उपलभ्य मुहूर्तेन संज्ञां प्रत्यागतेन्द्रियः।  
+उपलभ्य मुहूर्तेन सञ्ज्ञां प्रत्यागतेन्द्रियः।  
 ददर्शावस्थितं वीरमाजौ दशरथात्मजम्।  
 सोऽभिचक्राम सौमित्रिं रोषात् संरक्तलोचनः॥ ४३॥
 </details>
@@ -748,13 +745,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 युवां खलु महायुद्धे वज्राशनिसमैः शरैः।  
-शायितौ प्रथमं भूमौ विसंज्ञौ सपुरःसरौ॥ ४५॥
+शायितौ प्रथमं भूमौ विसञ्ज्ञौ सपुरःसरौ॥ ४५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 युवां खलु महायुद्धे वज्राशनिसमैः शरैः।  
-शायितौ प्रथमं भूमौ विसंज्ञौ सपुरःसरौ॥ ४५॥
+शायितौ प्रथमं भूमौ विसञ्ज्ञौ सपुरःसरौ॥ ४५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -833,13 +830,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तद् दृष्ट्वेन्द्रजिता कर्म कृतं रामानुजस्तदा।  
-अचिन्तयित्वा प्रहसन्नैतत् किंचिदिति ब्रुवन्॥ ५०॥
+अचिन्तयित्वा प्रहसन्नैतत् किञ्चिदिति ब्रुवन्॥ ५०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तद् दृष्ट्वेन्द्रजिता कर्म कृतं रामानुजस्तदा।  
-अचिन्तयित्वा प्रहसन्नैतत् किंचिदिति ब्रुवन्॥ ५०॥
+अचिन्तयित्वा प्रहसन्नैतत् किञ्चिदिति ब्रुवन्॥ ५०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -849,13 +846,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मुमोच च शरान् घोरान् संगृह्य नरपुंगवः।  
+मुमोच च शरान् घोरान् सङ्गृह्य नरपुङ्गवः।  
 अभीतवदनः क्रुद्धो रावणिं लक्ष्मणो युधि॥ ५१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मुमोच च शरान् घोरान् संगृह्य नरपुंगवः।  
+मुमोच च शरान् घोरान् सङ्गृह्य नरपुङ्गवः।  
 अभीतवदनः क्रुद्धो रावणिं लक्ष्मणो युधि॥ ५१॥
 </details>
 
@@ -934,13 +931,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः शरसहस्रेण संक्रुद्धो रावणात्मजः।  
+ततः शरसहस्रेण सङ्क्रुद्धो रावणात्मजः।  
 बिभेद समरे वीरो लक्ष्मणं भीमविक्रमः॥ ५६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः शरसहस्रेण संक्रुद्धो रावणात्मजः।  
+ततः शरसहस्रेण सङ्क्रुद्धो रावणात्मजः।  
 बिभेद समरे वीरो लक्ष्मणं भीमविक्रमः॥ ५६॥
 </details>
 
@@ -952,13 +949,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यशीर्यत महद्दिव्यं कवचं लक्ष्मणस्य तु।  
-कृतप्रतिकृतान्योन्यं बभूवतुररिंदमौ॥ ५७॥
+कृतप्रतिकृतान्योन्यं बभूवतुररिन्दमौ॥ ५७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्यशीर्यत महद्दिव्यं कवचं लक्ष्मणस्य तु।  
-कृतप्रतिकृतान्योन्यं बभूवतुररिंदमौ॥ ५७॥
+कृतप्रतिकृतान्योन्यं बभूवतुररिन्दमौ॥ ५७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -969,13 +966,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभीक्ष्णं निःश्वसन्तौ तौ युध्येतां तुमुलं युधि।  
-शरसंकृत्तसर्वाङ्गौ सर्वतो रुधिरोक्षितौ॥ ५८॥
+शरसङ्कृत्तसर्वाङ्गौ सर्वतो रुधिरोक्षितौ॥ ५८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अभीक्ष्णं निःश्वसन्तौ तौ युध्येतां तुमुलं युधि।  
-शरसंकृत्तसर्वाङ्गौ सर्वतो रुधिरोक्षितौ॥ ५८॥
+शरसङ्कृत्तसर्वाङ्गौ सर्वतो रुधिरोक्षितौ॥ ५८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1123,13 +1120,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुवर्णपुंखैर्नाराचैर्बलवन्तौ कृतव्रणौ।  
+सुवर्णपुङ्खैर्नाराचैर्बलवन्तौ कृतव्रणौ।  
 प्रसुस्रुवाते रुधिरं कीर्तिमन्तौ जये धृतौ॥ ६७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सुवर्णपुंखैर्नाराचैर्बलवन्तौ कृतव्रणौ।  
+सुवर्णपुङ्खैर्नाराचैर्बलवन्तौ कृतव्रणौ।  
 प्रसुस्रुवाते रुधिरं कीर्तिमन्तौ जये धृतौ॥ ६७॥
 </details>
 
@@ -1140,13 +1137,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते गात्रयोर्निपतिता रुक्मपुंखाः शरा युधि।  
+ते गात्रयोर्निपतिता रुक्मपुङ्खाः शरा युधि।  
 असृग्दिग्धा विनिष्पेतुर्विविशुर्धरणीतलम्॥ ६८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते गात्रयोर्निपतिता रुक्मपुंखाः शरा युधि।  
+ते गात्रयोर्निपतिता रुक्मपुङ्खाः शरा युधि।  
 असृग्दिग्धा विनिष्पेतुर्विविशुर्धरणीतलम्॥ ६८॥
 </details>
 
@@ -1157,13 +1154,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अन्ये सुनिशितैः शस्त्रैराकाशे संजघट्टिरे।  
+अन्ये सुनिशितैः शस्त्रैराकाशे सञ्जघट्टिरे।  
 बभञ्जुश्चिच्छिदुश्चैव तयोर्बाणाः सहस्रशः॥ ६९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अन्ये सुनिशितैः शस्त्रैराकाशे संजघट्टिरे।  
+अन्ये सुनिशितैः शस्त्रैराकाशे सञ्जघट्टिरे।  
 बभञ्जुश्चिच्छिदुश्चैव तयोर्बाणाः सहस्रशः॥ ६९॥
 </details>
 
@@ -1208,13 +1205,13 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चक्रतुस्तुमुलं घोरं संनिपातं मुहुर्मुहुः।  
+चक्रतुस्तुमुलं घोरं सन्निपातं मुहुर्मुहुः।  
 इन्द्रजिल्लक्ष्मणश्चैव परस्परजयैषिणौ॥ ७२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-चक्रतुस्तुमुलं घोरं संनिपातं मुहुर्मुहुः।  
+चक्रतुस्तुमुलं घोरं सन्निपातं मुहुर्मुहुः।  
 इन्द्रजिल्लक्ष्मणश्चैव परस्परजयैषिणौ॥ ७२॥
 </details>
 
@@ -1317,3 +1314,4 @@ title_english = "088 A fierce battle starts between Lakshmana and Indrajit"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽष्टाशीतितमः सर्गः॥ ८८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें अट्ठासीवाँ सर्ग पूरा हुआ॥ ८८॥
 </details>
+

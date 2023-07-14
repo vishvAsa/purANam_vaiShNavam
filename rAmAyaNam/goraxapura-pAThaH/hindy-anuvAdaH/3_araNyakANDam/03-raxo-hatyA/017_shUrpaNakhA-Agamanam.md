@@ -4,11 +4,8 @@ title_english = "017 Surpanakha s entry into legend"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-017-Shoorpanakha_Aagamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-017-Shoorpanakha_Aagamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -111,14 +108,14 @@ title_english = "017 Surpanakha s entry into legend"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुकुमारं महासत्त्वं पार्थिवव्यञ्जनान्वितम्।  
-राममिन्दीवरश्यामं कंदर्पसदृशप्रभम्॥ ८॥  
+राममिन्दीवरश्यामं कन्दर्पसदृशप्रभम्॥ ८॥  
 बभूवेन्द्रोपमं दृष्ट्वा राक्षसी काममोहिता।
 </details>
 
 <details><summary>मूलम्</summary>
 
 सुकुमारं महासत्त्वं पार्थिवव्यञ्जनान्वितम्।  
-राममिन्दीवरश्यामं कंदर्पसदृशप्रभम्॥ ८॥  
+राममिन्दीवरश्यामं कन्दर्पसदृशप्रभम्॥ ८॥  
 बभूवेन्द्रोपमं दृष्ट्वा राक्षसी काममोहिता।
 </details>
 
@@ -186,13 +183,13 @@ title_english = "017 Surpanakha s entry into legend"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमुक्तस्तु राक्षस्या शूर्पणख्या परंतपः।  
+एवमुक्तस्तु राक्षस्या शूर्पणख्या परन्तपः।  
 ऋजुबुद्धितया सर्वमाख्यातुमुपचक्रमे॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तु राक्षस्या शूर्पणख्या परंतपः।  
+एवमुक्तस्तु राक्षस्या शूर्पणख्या परन्तपः।  
 ऋजुबुद्धितया सर्वमाख्यातुमुपचक्रमे॥ १४॥
 </details>
 
@@ -238,13 +235,13 @@ title_english = "017 Surpanakha s entry into legend"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियोगात् तु नरेन्द्रस्य पितुर्मातुश्च यन्त्रितः।  
-धर्मार्थं धर्मकांक्षी च वनं वस्तुमिहागतः॥ १७॥
+धर्मार्थं धर्मकाङ्क्षी च वनं वस्तुमिहागतः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नियोगात् तु नरेन्द्रस्य पितुर्मातुश्च यन्त्रितः।  
-धर्मार्थं धर्मकांक्षी च वनं वस्तुमिहागतः॥ १७॥
+धर्मार्थं धर्मकाङ्क्षी च वनं वस्तुमिहागतः॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -256,14 +253,14 @@ title_english = "017 Surpanakha s entry into legend"
 
 त्वां तु वेदितुमिच्छामि कस्य त्वं कासि कस्य वा।  
 त्वं हि तावन्मनोज्ञाङ्गी राक्षसी प्रतिभासि मे॥ १८॥  
-इह वा किंनिमित्तं त्वमागता ब्रूहि तत्त्वतः।
+इह वा किन्निमित्तं त्वमागता ब्रूहि तत्त्वतः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्वां तु वेदितुमिच्छामि कस्य त्वं कासि कस्य वा।  
 त्वं हि तावन्मनोज्ञाङ्गी राक्षसी प्रतिभासि मे॥ १८॥  
-इह वा किंनिमित्तं त्वमागता ब्रूहि तत्त्वतः।
+इह वा किन्निमित्तं त्वमागता ब्रूहि तत्त्वतः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -292,13 +289,13 @@ title_english = "017 Surpanakha s entry into legend"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अरण्यं विचरामीदमेका सर्वभयंकरा।  
+अरण्यं विचरामीदमेका सर्वभयङ्करा।  
 रावणो नाम मे भ्राता यदि ते श्रोत्रमागतः॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अरण्यं विचरामीदमेका सर्वभयंकरा।  
+अरण्यं विचरामीदमेका सर्वभयङ्करा।  
 रावणो नाम मे भ्राता यदि ते श्रोत्रमागतः॥ २१॥
 </details>
 
@@ -448,3 +445,4 @@ title_english = "017 Surpanakha s entry into legend"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे सप्तदशः सर्गः॥ १७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें सत्रहवाँ सर्ग पूरा हुआ॥ १७॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "023 Tara s lament for death of Vali"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-023-Tharayaha_Shokaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-023-Tharayaha_Shokaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -461,13 +458,13 @@ title_english = "023 Tara s lament for death of Vali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इष्ट्वा संग्रामयज्ञेन रामप्रहरणाम्भसा।  
+इष्ट्वा सङ्ग्रामयज्ञेन रामप्रहरणाम्भसा।  
 तस्मन्नवभृथे स्नातः कथं पत्न्या मया विना॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इष्ट्वा संग्रामयज्ञेन रामप्रहरणाम्भसा।  
+इष्ट्वा सङ्ग्रामयज्ञेन रामप्रहरणाम्भसा।  
 तस्मन्नवभृथे स्नातः कथं पत्न्या मया विना॥ २७॥
 </details>
 
@@ -536,3 +533,4 @@ title_english = "023 Tara s lament for death of Vali"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे त्रयोविंशः सर्गः॥ २३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें तेईसवाँ सर्ग पूरा हुआ॥ २३॥
 </details>
+

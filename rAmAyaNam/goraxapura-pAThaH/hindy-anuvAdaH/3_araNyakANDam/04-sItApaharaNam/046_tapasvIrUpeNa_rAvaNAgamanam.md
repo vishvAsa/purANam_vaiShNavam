@@ -4,11 +4,8 @@ title_english = "046 Ravana praises Seetha s beauty"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-046-Thapasvi_Roopena_Ravana_Agamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-046-Thapasvi_Roopena_Ravana_Agamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "046 Ravana praises Seetha s beauty"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तया परुषमुक्तस्तु कुपितो राघवानुजः।  
-स विकांक्षन् भृशं रामं प्रतस्थे नचिरादिव॥ १॥
+स विकाङ्क्षन् भृशं रामं प्रतस्थे नचिरादिव॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तया परुषमुक्तस्तु कुपितो राघवानुजः।  
-स विकांक्षन् भृशं रामं प्रतस्थे नचिरादिव॥ १॥
+स विकाङ्क्षन् भृशं रामं प्रतस्थे नचिरादिव॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -85,14 +82,14 @@ title_english = "046 Ravana praises Seetha s beauty"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रहितां सूर्यचन्द्राभ्यां संध्यामिव महत्तमः।  
+रहितां सूर्यचन्द्राभ्यां सन्ध्यामिव महत्तमः।  
 तामपश्यत् ततो बालां राजपुत्रीं यशस्विनीम्॥ ५॥  
 रोहिणीं शशिना हीनां ग्रहवद् भृशदारुणः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-रहितां सूर्यचन्द्राभ्यां संध्यामिव महत्तमः।  
+रहितां सूर्यचन्द्राभ्यां सन्ध्यामिव महत्तमः।  
 तामपश्यत् ततो बालां राजपुत्रीं यशस्विनीम्॥ ५॥  
 रोहिणीं शशिना हीनां ग्रहवद् भृशदारुणः।
 </details>
@@ -105,7 +102,7 @@ title_english = "046 Ravana praises Seetha s beauty"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुग्रं पापकर्माणं जनस्थानगता द्रुमाः॥ ६॥  
-संदृश्य न प्रकम्पन्ते न प्रवाति च मारुतः।  
+सन्दृश्य न प्रकम्पन्ते न प्रवाति च मारुतः।  
 शीघ्रस्रोताश्च तं दृष्ट्वा वीक्षन्तं रक्तलोचनम्॥ ७॥  
 स्तिमितं गन्तुमारेभे भयाद् गोदावरी नदी।
 </details>
@@ -113,7 +110,7 @@ title_english = "046 Ravana praises Seetha s beauty"
 <details><summary>मूलम्</summary>
 
 तमुग्रं पापकर्माणं जनस्थानगता द्रुमाः॥ ६॥  
-संदृश्य न प्रकम्पन्ते न प्रवाति च मारुतः।  
+सन्दृश्य न प्रकम्पन्ते न प्रवाति च मारुतः।  
 शीघ्रस्रोताश्च तं दृष्ट्वा वीक्षन्तं रक्तलोचनम्॥ ७॥  
 स्तिमितं गन्तुमारेभे भयाद् गोदावरी नदी।
 </details>
@@ -336,13 +333,13 @@ title_english = "046 Ravana praises Seetha s beauty"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 करान्तमितमध्यासि सुकेशे संहतस्तनि।  
-नैव देवी न गन्धर्वी न यक्षी न च किंनरी॥ २२॥
+नैव देवी न गन्धर्वी न यक्षी न च किन्नरी॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 करान्तमितमध्यासि सुकेशे संहतस्तनि।  
-नैव देवी न गन्धर्वी न यक्षी न च किंनरी॥ २२॥
+नैव देवी न गन्धर्वी न यक्षी न च किन्नरी॥ २२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -617,3 +614,4 @@ title_english = "046 Ravana praises Seetha s beauty"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे षट्चत्वारिंशः सर्गः॥ ४६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें छियालीसवाँ सर्ग पूरा हुआ॥ ४६॥
 </details>
+

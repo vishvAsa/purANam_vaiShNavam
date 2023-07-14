@@ -4,11 +4,8 @@ title_english = "007 Friendly discourse"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-007-Rama_Sugreevayoho_Sahayya_Prathigna_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-007-Rama_Sugreevayoho_Sahayya_Prathigna_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -51,13 +48,13 @@ title_english = "007 Friendly discourse"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सत्यं तु प्रतिजानामि त्यज शोकमरिंदम।  
+सत्यं तु प्रतिजानामि त्यज शोकमरिन्दम।  
 करिष्यामि तथा यत्नं यथा प्राप्स्यसि मैथिलीम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सत्यं तु प्रतिजानामि त्यज शोकमरिंदम।  
+सत्यं तु प्रतिजानामि त्यज शोकमरिन्दम।  
 करिष्यामि तथा यत्नं यथा प्राप्स्यसि मैथिलीम्॥ ३॥
 </details>
 
@@ -449,3 +446,4 @@ title_english = "007 Friendly discourse"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे सप्तमः सर्गः॥ ७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें सातवाँ सर्ग पूरा हुआ॥ ७॥
 </details>
+

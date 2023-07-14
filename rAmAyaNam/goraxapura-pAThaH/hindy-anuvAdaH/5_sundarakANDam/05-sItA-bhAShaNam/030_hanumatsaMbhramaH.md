@@ -4,11 +4,8 @@ title_english = "030 Hanuma falls in dilemma"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-030-Hanuma_falls_in_dilemma.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-030-Hanuma_falls_in_dilemma.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -90,13 +87,13 @@ title_english = "030 Hanuma falls in dilemma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा तस्याप्रमेयस्य सर्वसत्त्वदयावतः।  
-समाश्वासयितुं भार्यां पतिदर्शनकांक्षिणीम्॥ ६॥
+समाश्वासयितुं भार्यां पतिदर्शनकाङ्क्षिणीम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यथा तस्याप्रमेयस्य सर्वसत्त्वदयावतः।  
-समाश्वासयितुं भार्यां पतिदर्शनकांक्षिणीम्॥ ६॥
+समाश्वासयितुं भार्यां पतिदर्शनकाङ्क्षिणीम्॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -192,13 +189,13 @@ title_english = "030 Hanuma falls in dilemma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनेन रात्रिशेषेण यदि नाश्वास्यते मया।  
-सर्वथा नास्ति संदेहः परित्यक्ष्यति जीवितम्॥ १२॥
+सर्वथा नास्ति सन्देहः परित्यक्ष्यति जीवितम्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अनेन रात्रिशेषेण यदि नाश्वास्यते मया।  
-सर्वथा नास्ति संदेहः परित्यक्ष्यति जीवितम्॥ १२॥
+सर्वथा नास्ति सन्देहः परित्यक्ष्यति जीवितम्॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -225,13 +222,13 @@ title_english = "030 Hanuma falls in dilemma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सीतासंदेशरहितं मामितस्त्वरया गतम्।  
+सीतासन्देशरहितं मामितस्त्वरया गतम्।  
 निर्दहेदपि काकुत्स्थः क्रोधतीव्रेण चक्षुषा॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सीतासंदेशरहितं मामितस्त्वरया गतम्।  
+सीतासन्देशरहितं मामितस्त्वरया गतम्।  
 निर्दहेदपि काकुत्स्थः क्रोधतीव्रेण चक्षुषा॥ १४॥
 </details>
 
@@ -260,13 +257,13 @@ title_english = "030 Hanuma falls in dilemma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अन्तरं त्वहमासाद्य राक्षसीनामवस्थितः।  
-शनैराश्वासयाम्यद्य संतापबहुलामिमाम्॥ १६॥
+शनैराश्वासयाम्यद्य सन्तापबहुलामिमाम्॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अन्तरं त्वहमासाद्य राक्षसीनामवस्थितः।  
-शनैराश्वासयाम्यद्य संतापबहुलामिमाम्॥ १६॥
+शनैराश्वासयाम्यद्य सन्तापबहुलामिमाम्॥ १६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -661,7 +658,7 @@ title_english = "030 Hanuma falls in dilemma"
 न विनश्येत् कथं कार्यं वैक्लव्यं न कथं मम।  
 लङ्घनं च समुद्रस्य कथं नु न वृथा भवेत्॥ ३९॥  
 कथं नु खलु वाक्यं मे शृणुयान्नोद्विजेत च।  
-इति संचिन्त्य हनुमांश्चकार मतिमान् मतिम्॥ ४०॥
+इति सञ्चिन्त्य हनुमांश्चकार मतिमान् मतिम्॥ ४०॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -669,7 +666,7 @@ title_english = "030 Hanuma falls in dilemma"
 न विनश्येत् कथं कार्यं वैक्लव्यं न कथं मम।  
 लङ्घनं च समुद्रस्य कथं नु न वृथा भवेत्॥ ३९॥  
 कथं नु खलु वाक्यं मे शृणुयान्नोद्विजेत च।  
-इति संचिन्त्य हनुमांश्चकार मतिमान् मतिम्॥ ४०॥
+इति सञ्चिन्त्य हनुमांश्चकार मतिमान् मतिम्॥ ४०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -754,3 +751,4 @@ title_english = "030 Hanuma falls in dilemma"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे त्रिंशः सर्गः॥ ३०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें तीसवाँ सर्ग पूरा हुआ॥ ३०॥
 </details>
+

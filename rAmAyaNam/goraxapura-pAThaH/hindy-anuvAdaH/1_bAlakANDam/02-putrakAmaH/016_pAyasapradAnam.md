@@ -4,11 +4,8 @@ title_english = "016 yajna purusha presents divine dessert as fruit of ritual"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-016-Payasa_Pradhaanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-016-Payasa_Pradhaanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -68,13 +65,13 @@ title_english = "016 yajna purusha presents divine dessert as fruit of ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स हि तेपे तपस्तीव्रं दीर्घकालमरिंदमः।  
+स हि तेपे तपस्तीव्रं दीर्घकालमरिन्दमः।  
 येन तुष्टोऽभवद् ब्रह्मा लोककृल्लोकपूर्वजः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स हि तेपे तपस्तीव्रं दीर्घकालमरिंदमः।  
+स हि तेपे तपस्तीव्रं दीर्घकालमरिन्दमः।  
 येन तुष्टोऽभवद् ब्रह्मा लोककृल्लोकपूर्वजः॥ ४॥
 </details>
 
@@ -85,13 +82,13 @@ title_english = "016 yajna purusha presents divine dessert as fruit of ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संतुष्टः प्रददौ तस्मै राक्षसाय वरं प्रभुः।  
+सन्तुष्टः प्रददौ तस्मै राक्षसाय वरं प्रभुः।  
 नानाविधेभ्यो भूतेभ्यो भयं नान्यत्र मानुषात्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संतुष्टः प्रददौ तस्मै राक्षसाय वरं प्रभुः।  
+सन्तुष्टः प्रददौ तस्मै राक्षसाय वरं प्रभुः।  
 नानाविधेभ्यो भूतेभ्यो भयं नान्यत्र मानुषात्॥ ५॥
 </details>
 
@@ -120,13 +117,13 @@ title_english = "016 yajna purusha presents divine dessert as fruit of ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उत्सादयति लोकांस्त्रीन् स्त्रियश्चाप्युपकर्षति।  
-तस्मात् तस्य वधो दृष्टो मानुषेभ्यः परंतप॥ ७॥
+तस्मात् तस्य वधो दृष्टो मानुषेभ्यः परन्तप॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 उत्सादयति लोकांस्त्रीन् स्त्रियश्चाप्युपकर्षति।  
-तस्मात् तस्य वधो दृष्टो मानुषेभ्यः परंतप॥ ७॥
+तस्मात् तस्य वधो दृष्टो मानुषेभ्यः परन्तप॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -222,13 +219,13 @@ title_english = "016 yajna purusha presents divine dessert as fruit of ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुभलक्षणसम्पन्नं दिव्याभरणभूषितम्।  
-शैलशृंगसमुत्सेधं दृप्तशार्दूलविक्रमम्॥ १३॥
+शैलशृङ्गसमुत्सेधं दृप्तशार्दूलविक्रमम्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 शुभलक्षणसम्पन्नं दिव्याभरणभूषितम्।  
-शैलशृंगसमुत्सेधं दृप्तशार्दूलविक्रमम्॥ १३॥
+शैलशृङ्गसमुत्सेधं दृप्तशार्दूलविक्रमम्॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -387,13 +384,13 @@ title_english = "016 yajna purusha presents divine dessert as fruit of ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हर्षरश्मिभिरुद्द्योतं तस्यान्तःपुरमाबभौ।  
-शारदस्याभिरामस्य चन्द्रस्येव नभोंऽशुभिः॥ २५॥
+शारदस्याभिरामस्य चन्द्रस्येव नभोऽंशुभिः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 हर्षरश्मिभिरुद्द्योतं तस्यान्तःपुरमाबभौ।  
-शारदस्याभिरामस्य चन्द्रस्येव नभोंऽशुभिः॥ २५॥
+शारदस्याभिरामस्य चन्द्रस्येव नभोऽंशुभिः॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -520,3 +517,4 @@ title_english = "016 yajna purusha presents divine dessert as fruit of ritual"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे षोडशः सर्गः॥ १६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें सोलहवाँ सर्ग पूरा हुआ॥ १६॥
 </details>
+

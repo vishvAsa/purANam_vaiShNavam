@@ -4,11 +4,8 @@ title_english = "084 Guha welcomes Bharata with drink of honey and meat"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-084-Guha_Bharatha_Samvadaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-084-Guha_Bharatha_Samvadaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -103,13 +100,13 @@ title_english = "084 Guha welcomes Bharata with drink of honey and meat"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भर्ता चैव सखा चैव रामो दाशरथिर्मम।  
-तस्यार्थकामाः संनद्धा गङ्गानूपेऽत्र तिष्ठत॥ ६॥
+तस्यार्थकामाः सन्नद्धा गङ्गानूपेऽत्र तिष्ठत॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 भर्ता चैव सखा चैव रामो दाशरथिर्मम।  
-तस्यार्थकामाः संनद्धा गङ्गानूपेऽत्र तिष्ठत॥ ६॥
+तस्यार्थकामाः सन्नद्धा गङ्गानूपेऽत्र तिष्ठत॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -137,13 +134,13 @@ title_english = "084 Guha welcomes Bharata with drink of honey and meat"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नावां शतानां पञ्चानां कैवर्तानां शतं शतम्।  
-संनद्धानां तथा यूनां तिष्ठन्त्वत्यभ्यचोदयत्॥ ८॥
+सन्नद्धानां तथा यूनां तिष्ठन्त्वत्यभ्यचोदयत्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नावां शतानां पञ्चानां कैवर्तानां शतं शतम्।  
-संनद्धानां तथा यूनां तिष्ठन्त्वत्यभ्यचोदयत्॥ ८॥
+सन्नद्धानां तथा यूनां तिष्ठन्त्वत्यभ्यचोदयत्॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -318,3 +315,4 @@ title_english = "084 Guha welcomes Bharata with drink of honey and meat"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे चतुरशीतितमः सर्गः॥ ८४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें चौरासीवाँ सर्ग पूरा हुआ॥ ८४॥
 </details>
+

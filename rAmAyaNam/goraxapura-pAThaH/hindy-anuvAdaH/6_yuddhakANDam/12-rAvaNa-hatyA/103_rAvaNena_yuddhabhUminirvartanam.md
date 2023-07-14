@@ -3,11 +3,8 @@ title = "१०३ रावणेन युद्धभूमिनिर्व
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-103-Ravana_s_charioteer_carries_away_Ravana_in_the_chariot_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-103-Ravana_s_charioteer_carries_away_Ravana_in_the_chariot_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,13 +31,13 @@ title = "१०३ रावणेन युद्धभूमिनिर्व
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स दीप्तनयनोऽमर्षाच्चापमुद्यम्य वीर्यवान्।  
-अभ्यर्दयत् सुसंक्रुद्धो राघवं परमाहवे॥ २॥
+अभ्यर्दयत् सुसङ्क्रुद्धो राघवं परमाहवे॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स दीप्तनयनोऽमर्षाच्चापमुद्यम्य वीर्यवान्।  
-अभ्यर्दयत् सुसंक्रुद्धो राघवं परमाहवे॥ २॥
+अभ्यर्दयत् सुसङ्क्रुद्धो राघवं परमाहवे॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -305,13 +302,13 @@ title = "१०३ रावणेन युद्धभूमिनिर्व
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदि मत्संनिधौ सीता धर्षिता स्यात् त्वया बलात्।  
+यदि मत्सन्निधौ सीता धर्षिता स्यात् त्वया बलात्।  
 भ्रातरं तु खरं पश्येस्तदा मत्सायकैर्हतः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदि मत्संनिधौ सीता धर्षिता स्यात् त्वया बलात्।  
+यदि मत्सन्निधौ सीता धर्षिता स्यात् त्वया बलात्।  
 भ्रातरं तु खरं पश्येस्तदा मत्सायकैर्हतः॥ १८॥
 </details>
 
@@ -408,13 +405,13 @@ title = "१०३ रावणेन युद्धभूमिनिर्व
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बभूव द्विगुणं वीर्यं बलं हर्षश्च संयुगे।  
-रामस्यास्त्रबलं चैव शत्रोर्निधनकांक्षिणः॥ २४॥
+रामस्यास्त्रबलं चैव शत्रोर्निधनकाङ्क्षिणः॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बभूव द्विगुणं वीर्यं बलं हर्षश्च संयुगे।  
-रामस्यास्त्रबलं चैव शत्रोर्निधनकांक्षिणः॥ २४॥
+रामस्यास्त्रबलं चैव शत्रोर्निधनकाङ्क्षिणः॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -524,3 +521,4 @@ title = "१०३ रावणेन युद्धभूमिनिर्व
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्र्यधिकशततमः सर्गः॥ १०३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें एक सौ तीनवाँ सर्ग पूरा हुआ॥ १०३॥
 </details>
+

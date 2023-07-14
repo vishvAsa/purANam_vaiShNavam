@@ -4,11 +4,8 @@ title_english = "049 Rama crossed three rivers"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-049-Gomathyadi_Naditharanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-049-Gomathyadi_Naditharanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "049 Rama crossed three rivers"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तथैव गच्छतस्तस्य व्यपायाद् रजनी शिवा।  
-उपास्य तु शिवां संध्यां विषयानत्यगाहत॥ २॥
+उपास्य तु शिवां सन्ध्यां विषयानत्यगाहत॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तथैव गच्छतस्तस्य व्यपायाद् रजनी शिवा।  
-उपास्य तु शिवां संध्यां विषयानत्यगाहत॥ २॥
+उपास्य तु शिवां सन्ध्यां विषयानत्यगाहत॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -256,13 +253,13 @@ title_english = "049 Rama crossed three rivers"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कदाहं पुनरागम्य सरय्वाः पुष्पिते वने।  
-मृगयां पर्यटिष्यामि मात्रा पित्रा च संगतः॥ १५॥
+मृगयां पर्यटिष्यामि मात्रा पित्रा च सङ्गतः॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कदाहं पुनरागम्य सरय्वाः पुष्पिते वने।  
-मृगयां पर्यटिष्यामि मात्रा पित्रा च संगतः॥ १५॥
+मृगयां पर्यटिष्यामि मात्रा पित्रा च सङ्गतः॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -272,13 +269,13 @@ title_english = "049 Rama crossed three rivers"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नात्यर्थमभिकांक्षामि मृगयां सरयूवने।  
+नात्यर्थमभिकाङ्क्षामि मृगयां सरयूवने।  
 रतिर्ह्येषातुला लोके राजर्षिगणसम्मता॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नात्यर्थमभिकांक्षामि मृगयां सरयूवने।  
+नात्यर्थमभिकाङ्क्षामि मृगयां सरयूवने।  
 रतिर्ह्येषातुला लोके राजर्षिगणसम्मता॥ १६॥
 </details>
 
@@ -290,13 +287,13 @@ title_english = "049 Rama crossed three rivers"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजर्षीणां हि लोकेऽस्मिन् रत्यर्थं मृगया वने।  
-काले कृतां तां मनुजैर्धन्विनामभिकांक्षिताम्॥ १७॥
+काले कृतां तां मनुजैर्धन्विनामभिकाङ्क्षिताम्॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 राजर्षीणां हि लोकेऽस्मिन् रत्यर्थं मृगया वने।  
-काले कृतां तां मनुजैर्धन्विनामभिकांक्षिताम्॥ १७॥
+काले कृतां तां मनुजैर्धन्विनामभिकाङ्क्षिताम्॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -326,3 +323,4 @@ title_english = "049 Rama crossed three rivers"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे एकोनपञ्चाशः सर्गः॥ ४९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें उनचासवाँ सर्ग पूरा हुआ॥ ४९॥
 </details>
+

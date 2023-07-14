@@ -4,11 +4,8 @@ title_english = "003 Rama requests Hanuma to describe Lanka in detail"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-003-Rama_requests_Hanuma_to_describe_Lanka_in_detail.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-003-Rama_requests_Hanuma_to_describe_Lanka_in_detail.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -238,13 +235,13 @@ title_english = "003 Rama requests Hanuma to describe Lanka in detail"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-द्वारेषु तासां चत्वारः संक्रमाः परमायताः।  
+द्वारेषु तासां चत्वारः सङ्क्रमाः परमायताः।  
 यन्त्रैरुपेता बहुभिर्महद्भिर्गृहपङ्क्तिभिः॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-द्वारेषु तासां चत्वारः संक्रमाः परमायताः।  
+द्वारेषु तासां चत्वारः सङ्क्रमाः परमायताः।  
 यन्त्रैरुपेता बहुभिर्महद्भिर्गृहपङ्क्तिभिः॥ १६॥
 </details>
 
@@ -260,13 +257,13 @@ title_english = "003 Rama requests Hanuma to describe Lanka in detail"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्रायन्ते संक्रमास्तत्र परसैन्यागते सति।  
+त्रायन्ते सङ्क्रमास्तत्र परसैन्यागते सति।  
 यन्त्रैस्तैरवकीर्यन्ते परिखासु समन्ततः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्रायन्ते संक्रमास्तत्र परसैन्यागते सति।  
+त्रायन्ते सङ्क्रमास्तत्र परसैन्यागते सति।  
 यन्त्रैस्तैरवकीर्यन्ते परिखासु समन्ततः॥ १७॥
 </details>
 
@@ -277,13 +274,13 @@ title_english = "003 Rama requests Hanuma to describe Lanka in detail"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एकस्त्वकम्प्यो बलवान् संक्रमः सुमहादृढः।  
+एकस्त्वकम्प्यो बलवान् सङ्क्रमः सुमहादृढः।  
 काञ्चनैर्बहुभिः स्तम्भैर्वेदिकाभिश्च शोभितः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एकस्त्वकम्प्यो बलवान् संक्रमः सुमहादृढः।  
+एकस्त्वकम्प्यो बलवान् सङ्क्रमः सुमहादृढः।  
 काञ्चनैर्बहुभिः स्तम्भैर्वेदिकाभिश्च शोभितः॥ १८॥
 </details>
 
@@ -464,14 +461,14 @@ title_english = "003 Rama requests Hanuma to describe Lanka in detail"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते मया संक्रमा भग्नाः परिखाश्चावपूरिताः।  
+ते मया सङ्क्रमा भग्नाः परिखाश्चावपूरिताः।  
 दग्धा च नगरी लङ्का प्राकाराश्चावसादिताः।  
 बलैकदेशः क्षपितो राक्षसानां महात्मनाम्॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते मया संक्रमा भग्नाः परिखाश्चावपूरिताः।  
+ते मया सङ्क्रमा भग्नाः परिखाश्चावपूरिताः।  
 दग्धा च नगरी लङ्का प्राकाराश्चावसादिताः।  
 बलैकदेशः क्षपितो राक्षसानां महात्मनाम्॥ २९॥
 </details>
@@ -536,13 +533,13 @@ title_english = "003 Rama requests Hanuma to describe Lanka in detail"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमाज्ञापय क्षिप्रं बलानां सर्वसंग्रहम्।  
+एवमाज्ञापय क्षिप्रं बलानां सर्वसङ्ग्रहम्।  
 मुहूर्तेन तु युक्तेन प्रस्थानमभिरोचय॥ ३३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवमाज्ञापय क्षिप्रं बलानां सर्वसंग्रहम्।  
+एवमाज्ञापय क्षिप्रं बलानां सर्वसङ्ग्रहम्।  
 मुहूर्तेन तु युक्तेन प्रस्थानमभिरोचय॥ ३३॥
 </details>
 
@@ -556,3 +553,4 @@ title_english = "003 Rama requests Hanuma to describe Lanka in detail"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे तृतीयः सर्गः॥ ३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें तीसरा सर्ग पूरा हुआ॥ ३॥
 </details>
+

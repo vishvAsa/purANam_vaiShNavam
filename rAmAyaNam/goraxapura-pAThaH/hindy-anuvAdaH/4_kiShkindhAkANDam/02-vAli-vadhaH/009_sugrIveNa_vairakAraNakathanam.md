@@ -4,11 +4,8 @@ title_english = "009 The strength of Vali"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-009-Sugreevena_Vairakarana_Kathanam_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-009-Sugreevena_Vairakarana_Kathanam_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -154,13 +151,13 @@ title_english = "009 The strength of Vali"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु मे भ्रातरं दृष्ट्वा मां च दूरादवस्थितम्।  
-असुरो जातसंत्रासः प्रदुद्राव तदा भृशम्॥ ९॥
+असुरो जातसन्त्रासः प्रदुद्राव तदा भृशम्॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स तु मे भ्रातरं दृष्ट्वा मां च दूरादवस्थितम्।  
-असुरो जातसंत्रासः प्रदुद्राव तदा भृशम्॥ ९॥
+असुरो जातसन्त्रासः प्रदुद्राव तदा भृशम्॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -170,13 +167,13 @@ title_english = "009 The strength of Vali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्मिन् द्रवति संत्रस्ते ह्यावां द्रुततरं गतौ।  
+तस्मिन् द्रवति सन्त्रस्ते ह्यावां द्रुततरं गतौ।  
 प्रकाशोऽपि कृतो मार्गश्चन्द्रेणोद‍्गच्छता तदा॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्मिन् द्रवति संत्रस्ते ह्यावां द्रुततरं गतौ।  
+तस्मिन् द्रवति सन्त्रस्ते ह्यावां द्रुततरं गतौ।  
 प्रकाशोऽपि कृतो मार्गश्चन्द्रेणोद‍्गच्छता तदा॥ १०॥
 </details>
 
@@ -238,13 +235,13 @@ title_english = "009 The strength of Vali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मया त्वेतद् वचः श्रुत्वा याचितः स परंतपः।  
+मया त्वेतद् वचः श्रुत्वा याचितः स परन्तपः।  
 शापयित्वा च मां पद‍्भ्यां प्रविवेश बिलं ततः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मया त्वेतद् वचः श्रुत्वा याचितः स परंतपः।  
+मया त्वेतद् वचः श्रुत्वा याचितः स परन्तपः।  
 शापयित्वा च मां पद‍्भ्यां प्रविवेश बिलं ततः॥ १४॥
 </details>
 
@@ -307,13 +304,13 @@ title_english = "009 The strength of Vali"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नर्दतामसुराणां च ध्वनिर्मे श्रोत्रमागतः।  
-न रतस्य च संग्रामे क्रोशतोऽपि स्वनो गुरोः॥ १८॥
+न रतस्य च सङ्ग्रामे क्रोशतोऽपि स्वनो गुरोः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नर्दतामसुराणां च ध्वनिर्मे श्रोत्रमागतः।  
-न रतस्य च संग्रामे क्रोशतोऽपि स्वनो गुरोः॥ १८॥
+न रतस्य च सङ्ग्रामे क्रोशतोऽपि स्वनो गुरोः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -423,3 +420,4 @@ title_english = "009 The strength of Vali"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे नवमः सर्गः॥ ९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें नवाँ सर्ग पूरा हुआ॥ ९॥
 </details>
+

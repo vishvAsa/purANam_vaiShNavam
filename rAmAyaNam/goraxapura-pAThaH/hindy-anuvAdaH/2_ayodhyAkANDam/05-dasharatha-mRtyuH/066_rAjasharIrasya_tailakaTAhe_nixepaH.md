@@ -4,11 +4,8 @@ title_english = "066 Kausalya reproaches Kaikeyi"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-066-Raja_Sharirasya_Thailakata_Hanikshepaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-066-Raja_Sharirasya_Thailakata_Hanikshepaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -89,13 +86,13 @@ title_english = "066 Kausalya reproaches Kaikeyi"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न लुब्धो बुध्यते दोषान् किंपाकमिव भक्षयन्।  
+न लुब्धो बुध्यते दोषान् किम्पाकमिव भक्षयन्।  
 कुब्जानिमित्तं कैकेय्या राघवाणां कुलं हतम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न लुब्धो बुध्यते दोषान् किंपाकमिव भक्षयन्।  
+न लुब्धो बुध्यते दोषान् किम्पाकमिव भक्षयन्।  
 कुब्जानिमित्तं कैकेय्या राघवाणां कुलं हतम्॥ ६॥
 </details>
 
@@ -158,13 +155,13 @@ title_english = "066 Kausalya reproaches Kaikeyi"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नदतां भीमघोषाणां निशासु मृगपक्षिणाम्।  
-निशम्यमाना संत्रस्ता राघवं संश्रयिष्यति॥ १०॥
+निशम्यमाना सन्त्रस्ता राघवं संश्रयिष्यति॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नदतां भीमघोषाणां निशासु मृगपक्षिणाम्।  
-निशम्यमाना संत्रस्ता राघवं संश्रयिष्यति॥ १०॥
+निशम्यमाना सन्त्रस्ता राघवं संश्रयिष्यति॥ १०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -242,13 +239,13 @@ title_english = "066 Kausalya reproaches Kaikeyi"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तु संकालनं राज्ञो विना पुत्रेण मन्त्रिणः।  
+न तु सङ्कालनं राज्ञो विना पुत्रेण मन्त्रिणः।  
 सर्वज्ञाः कर्तुमीषुस्ते ततो रक्षन्ति भूमिपम्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न तु संकालनं राज्ञो विना पुत्रेण मन्त्रिणः।  
+न तु सङ्कालनं राज्ञो विना पुत्रेण मन्त्रिणः।  
 सर्वज्ञाः कर्तुमीषुस्ते ततो रक्षन्ति भूमिपम्॥ १५॥
 </details>
 
@@ -277,13 +274,13 @@ title_english = "066 Kausalya reproaches Kaikeyi"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहूनुच्छ्रित्य कृपणा नेत्रप्रस्रवणैर्मुखैः।  
-रुदत्यः शोकसंतप्ताः कृपणं पर्यदेवयन्॥ १७॥
+रुदत्यः शोकसन्तप्ताः कृपणं पर्यदेवयन्॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 बाहूनुच्छ्रित्य कृपणा नेत्रप्रस्रवणैर्मुखैः।  
-रुदत्यः शोकसंतप्ताः कृपणं पर्यदेवयन्॥ १७॥
+रुदत्यः शोकसन्तप्ताः कृपणं पर्यदेवयन्॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -294,13 +291,13 @@ title_english = "066 Kausalya reproaches Kaikeyi"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हा महाराज रामेण सततं प्रियवादिना।  
-विहीनाः सत्यसंधेन किमर्थं विजहासि नः॥ १८॥
+विहीनाः सत्यसन्धेन किमर्थं विजहासि नः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 हा महाराज रामेण सततं प्रियवादिना।  
-विहीनाः सत्यसंधेन किमर्थं विजहासि नः॥ १८॥
+विहीनाः सत्यसन्धेन किमर्थं विजहासि नः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -362,13 +359,13 @@ title_english = "066 Kausalya reproaches Kaikeyi"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यया च राजा रामश्च लक्ष्मणश्च महाबलः।  
-सीतया सह संत्यक्ताः सा कमन्यं न हास्यति॥ २२॥
+सीतया सह सन्त्यक्ताः सा कमन्यं न हास्यति॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यया च राजा रामश्च लक्ष्मणश्च महाबलः।  
-सीतया सह संत्यक्ताः सा कमन्यं न हास्यति॥ २२॥
+सीतया सह सन्त्यक्ताः सा कमन्यं न हास्यति॥ २२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -492,17 +489,17 @@ title_english = "066 Kausalya reproaches Kaikeyi"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नराश्च नार्यश्च समेत्य संघशो  
+नराश्च नार्यश्च समेत्य सङ्घशो  
 विगर्हमाणा भरतस्य मातरम्।  
-तदा नगर्यां नरदेवसंक्षये  
+तदा नगर्यां नरदेवसङ्क्षये  
 बभूवुरार्ता न च शर्म लेभिरे॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नराश्च नार्यश्च समेत्य संघशो  
+नराश्च नार्यश्च समेत्य सङ्घशो  
 विगर्हमाणा भरतस्य मातरम्।  
-तदा नगर्यां नरदेवसंक्षये  
+तदा नगर्यां नरदेवसङ्क्षये  
 बभूवुरार्ता न च शर्म लेभिरे॥ २९॥
 </details>
 
@@ -516,3 +513,4 @@ title_english = "066 Kausalya reproaches Kaikeyi"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे षट्षष्टितमः सर्गः॥ ६६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें छाछठवाँ सर्ग पूरा हुआ॥ ६६॥
 </details>
+

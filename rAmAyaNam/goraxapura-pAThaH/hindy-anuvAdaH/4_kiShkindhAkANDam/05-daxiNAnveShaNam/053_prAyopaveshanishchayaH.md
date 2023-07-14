@@ -4,11 +4,8 @@ title_english = "053 Angada proposes fast unto death"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-053-Prayo_Upavesha_Nishchayaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-053-Prayo_Upavesha_Nishchayaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -86,13 +83,13 @@ title_english = "053 Angada proposes fast unto death"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते वसन्तमनुप्राप्तं प्रतिवेद्य परस्परम्।  
-नष्टसंदेशकालार्था निपेतुर्धरणीतले॥ ५॥
+नष्टसन्देशकालार्था निपेतुर्धरणीतले॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ते वसन्तमनुप्राप्तं प्रतिवेद्य परस्परम्।  
-नष्टसंदेशकालार्था निपेतुर्धरणीतले॥ ५॥
+नष्टसन्देशकालार्था निपेतुर्धरणीतले॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -125,7 +122,7 @@ title_english = "053 Angada proposes fast unto death"
 
 शासनात् कपिराजस्य वयं सर्वे विनिर्गताः।  
 मासः पूर्णो बिलस्थानां हरयः किं न बुध्यत॥ ८॥  
-वयमाश्वयुजे मासि कालसंख्याव्यवस्थिताः।  
+वयमाश्वयुजे मासि कालसङ्ख्याव्यवस्थिताः।  
 प्रस्थिताः सोऽपि चातीतः किमतः कार्यमुत्तरम्॥ ९॥
 </details>
 
@@ -133,7 +130,7 @@ title_english = "053 Angada proposes fast unto death"
 
 शासनात् कपिराजस्य वयं सर्वे विनिर्गताः।  
 मासः पूर्णो बिलस्थानां हरयः किं न बुध्यत॥ ८॥  
-वयमाश्वयुजे मासि कालसंख्याव्यवस्थिताः।  
+वयमाश्वयुजे मासि कालसङ्ख्याव्यवस्थिताः।  
 प्रस्थिताः सोऽपि चातीतः किमतः कार्यमुत्तरम्॥ ९॥
 </details>
 
@@ -164,7 +161,7 @@ title_english = "053 Angada proposes fast unto death"
 कर्मस्वप्रतिमाः सर्वे दिक्षु विश्रुतपौरुषाः।  
 मां पुरस्कृत्य निर्याताः पिङ्गाक्षप्रतिचोदिताः॥ ११॥  
 इदानीमकृतार्थानां मर्तव्यं नात्र संशयः।  
-हरिराजस्य संदेशमकृत्वा कः सुखी भवेत्॥ १२॥
+हरिराजस्य सन्देशमकृत्वा कः सुखी भवेत्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -172,7 +169,7 @@ title_english = "053 Angada proposes fast unto death"
 कर्मस्वप्रतिमाः सर्वे दिक्षु विश्रुतपौरुषाः।  
 मां पुरस्कृत्य निर्याताः पिङ्गाक्षप्रतिचोदिताः॥ ११॥  
 इदानीमकृतार्थानां मर्तव्यं नात्र संशयः।  
-हरिराजस्य संदेशमकृत्वा कः सुखी भवेत्॥ १२॥
+हरिराजस्य सन्देशमकृत्वा कः सुखी भवेत्॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -398,7 +395,7 @@ title_english = "053 Angada proposes fast unto death"
 
 इदं हि मायाविहितं सुदुर्गमं  
 प्रभूतपुष्पोदकभोज्यपेयम्।  
-इहास्ति नो नैव भयं पुरंदरा-  
+इहास्ति नो नैव भयं पुरन्दरा-  
 न्न राघवाद् वानरराजतोऽपि वा॥ २६॥
 </details>
 
@@ -406,7 +403,7 @@ title_english = "053 Angada proposes fast unto death"
 
 इदं हि मायाविहितं सुदुर्गमं  
 प्रभूतपुष्पोदकभोज्यपेयम्।  
-इहास्ति नो नैव भयं पुरंदरा-  
+इहास्ति नो नैव भयं पुरन्दरा-  
 न्न राघवाद् वानरराजतोऽपि वा॥ २६॥
 </details>
 
@@ -441,3 +438,4 @@ title_english = "053 Angada proposes fast unto death"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे त्रिपञ्चाशः सर्गः॥ ५३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें तिरपनवाँ सर्ग पूरा हुआ॥ ५३॥
 </details>
+

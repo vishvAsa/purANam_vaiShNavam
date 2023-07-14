@@ -4,11 +4,8 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-035-Seetha_asks_Sarama_about_Ravana_s_decision__0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-035-Seetha_asks_Sarama_about_Ravana_s_decision__0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेन शङ्खविमिश्रेण भेरीशब्देन नादिना।  
-उपयाति महाबाहू रामः परपुरंजयः॥ १॥
+उपयाति महाबाहू रामः परपुरञ्जयः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तेन शङ्खविमिश्रेण भेरीशब्देन नादिना।  
-उपयाति महाबाहू रामः परपुरंजयः॥ १॥
+उपयाति महाबाहू रामः परपुरञ्जयः॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -52,15 +49,15 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ तान् सचिवांस्तत्र सर्वानाभाष्य रावणः।  
-सभां संनादयन् सर्वामित्युवाच महाबलः॥ ३॥  
-जगत्संतापनः क्रूरोऽगर्हयन् राक्षसेश्वरः।
+सभां सन्नादयन् सर्वामित्युवाच महाबलः॥ ३॥  
+जगत्सन्तापनः क्रूरोऽगर्हयन् राक्षसेश्वरः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथ तान् सचिवांस्तत्र सर्वानाभाष्य रावणः।  
-सभां संनादयन् सर्वामित्युवाच महाबलः॥ ३॥  
-जगत्संतापनः क्रूरोऽगर्हयन् राक्षसेश्वरः।
+सभां सन्नादयन् सर्वामित्युवाच महाबलः॥ ३॥  
+जगत्सन्तापनः क्रूरोऽगर्हयन् राक्षसेश्वरः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -125,13 +122,13 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संदधानो हि कालेन विगृह्णंश्चारिभिः सह।  
+सन्दधानो हि कालेन विगृह्णंश्चारिभिः सह।  
 स्वपक्षे वर्धनं कुर्वन्महदैश्वर्यमश्नुते॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संदधानो हि कालेन विगृह्णंश्चारिभिः सह।  
+सन्दधानो हि कालेन विगृह्णंश्चारिभिः सह।  
 स्वपक्षे वर्धनं कुर्वन्महदैश्वर्यमश्नुते॥ ८॥
 </details>
 
@@ -142,13 +139,13 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हीयमानेन कर्तव्यो राज्ञा संधिः समेन च।  
+हीयमानेन कर्तव्यो राज्ञा सन्धिः समेन च।  
 न शत्रुमवमन्येत ज्यायान् कुर्वीत विग्रहम्॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-हीयमानेन कर्तव्यो राज्ञा संधिः समेन च।  
+हीयमानेन कर्तव्यो राज्ञा सन्धिः समेन च।  
 न शत्रुमवमन्येत ज्यायान् कुर्वीत विग्रहम्॥ ९॥
 </details>
 
@@ -159,13 +156,13 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तन्मह्यं रोचते संधिः सह रामेण रावण।  
+तन्मह्यं रोचते सन्धिः सह रामेण रावण।  
 यदर्थमभियुक्तोऽसि सीता तस्मै प्रदीयताम्॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तन्मह्यं रोचते संधिः सह रामेण रावण।  
+तन्मह्यं रोचते सन्धिः सह रामेण रावण।  
 यदर्थमभियुक्तोऽसि सीता तस्मै प्रदीयताम्॥ १०॥
 </details>
 
@@ -177,13 +174,13 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य देवर्षयः सर्वे गन्धर्वाश्च जयैषिणः।  
-विरोधं मा गमस्तेन संधिस्ते तेन रोचताम्॥ ११॥
+विरोधं मा गमस्तेन सन्धिस्ते तेन रोचताम्॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्य देवर्षयः सर्वे गन्धर्वाश्च जयैषिणः।  
-विरोधं मा गमस्तेन संधिस्ते तेन रोचताम्॥ ११॥
+विरोधं मा गमस्तेन सन्धिस्ते तेन रोचताम्॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -278,13 +275,13 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विषयेषु प्रसक्तेन यत्किंचित्कारिणा त्वया।  
+विषयेषु प्रसक्तेन यत्किञ्चित्कारिणा त्वया।  
 ऋषीणामग्निकल्पानामुद्वेगो जनितो महान्॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-विषयेषु प्रसक्तेन यत्किंचित्कारिणा त्वया।  
+विषयेषु प्रसक्तेन यत्किञ्चित्कारिणा त्वया।  
 ऋषीणामग्निकल्पानामुद्वेगो जनितो महान्॥ १७॥
 </details>
 
@@ -364,13 +361,13 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तेषु तेषु च देशेषु पुण्येष्वेव दृढव्रतैः।  
-चर्यमाणं तपस्तीव्रं संतापयति राक्षसान्॥ २२॥
+चर्यमाणं तपस्तीव्रं सन्तापयति राक्षसान्॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तेषु तेषु च देशेषु पुण्येष्वेव दृढव्रतैः।  
-चर्यमाणं तपस्तीव्रं संतापयति राक्षसान्॥ २२॥
+चर्यमाणं तपस्तीव्रं सन्तापयति राक्षसान्॥ २२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -416,13 +413,13 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-खराभिस्तनिता घोरा मेघाः प्रतिभयंकराः।  
+खराभिस्तनिता घोरा मेघाः प्रतिभयङ्कराः।  
 शोणितेनाभिवर्षन्ति लङ्कामुष्णेन सर्वतः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-खराभिस्तनिता घोरा मेघाः प्रतिभयंकराः।  
+खराभिस्तनिता घोरा मेघाः प्रतिभयङ्कराः।  
 शोणितेनाभिवर्षन्ति लङ्कामुष्णेन सर्वतः॥ २५॥
 </details>
 
@@ -502,13 +499,13 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मार्जारा द्वीपिभिः सार्धं सूकराः शुनकैः सह।  
-किंनरा राक्षसैश्चापि समेयुर्मानुषैः सह॥ ३०॥
+किन्नरा राक्षसैश्चापि समेयुर्मानुषैः सह॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मार्जारा द्वीपिभिः सार्धं सूकराः शुनकैः सह।  
-किंनरा राक्षसैश्चापि समेयुर्मानुषैः सह॥ ३०॥
+किन्नरा राक्षसैश्चापि समेयुर्मानुषैः सह॥ ३०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -575,7 +572,7 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 विष्णुं मन्यामहे रामं मानुषं रूपमास्थितम्।  
 नहि मानुषमात्रोऽसौ राघवो दृढविक्रमः॥ ३५॥  
 येन बद्धः समुद्रे च सेतुः स परमाद्भुतः।  
-कुरुष्व नरराजेन संधिं रामेण रावण।  
+कुरुष्व नरराजेन सन्धिं रामेण रावण।  
 ज्ञात्वावधार्य कर्माणि क्रियतामायतिक्षमम्॥ ३६॥
 </details>
 
@@ -585,7 +582,7 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 विष्णुं मन्यामहे रामं मानुषं रूपमास्थितम्।  
 नहि मानुषमात्रोऽसौ राघवो दृढविक्रमः॥ ३५॥  
 येन बद्धः समुद्रे च सेतुः स परमाद्भुतः।  
-कुरुष्व नरराजेन संधिं रामेण रावण।  
+कुरुष्व नरराजेन सन्धिं रामेण रावण।  
 ज्ञात्वावधार्य कर्माणि क्रियतामायतिक्षमम्॥ ३६॥
 </details>
 
@@ -620,3 +617,4 @@ title_english = "035 Seetha asks Sarama about Ravana s decision"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे पञ्चत्रिंशः सर्गः॥ ३५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें पैंतीसवाँ सर्ग पूरा हुआ॥ ३५॥
 </details>
+

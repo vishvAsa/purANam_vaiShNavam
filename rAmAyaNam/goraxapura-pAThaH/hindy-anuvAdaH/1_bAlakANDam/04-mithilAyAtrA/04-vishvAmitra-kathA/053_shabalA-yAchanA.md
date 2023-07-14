@@ -4,11 +4,8 @@ title_english = "053 vishvamitra tries to gain kaamadhenu"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-053-_Shabala_Yachana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-053-_Shabala_Yachana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -85,13 +82,13 @@ title_english = "053 vishvamitra tries to gain kaamadhenu"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सर्वमासीत् सुसंतुष्टं हृष्टपुष्टजनायुतम्।  
+सर्वमासीत् सुसन्तुष्टं हृष्टपुष्टजनायुतम्।  
 विश्वामित्रबलं राम वसिष्ठेन सुतर्पितम्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सर्वमासीत् सुसंतुष्टं हृष्टपुष्टजनायुतम्।  
+सर्वमासीत् सुसन्तुष्टं हृष्टपुष्टजनायुतम्।  
 विश्वामित्रबलं राम वसिष्ठेन सुतर्पितम्॥ ५॥
 </details>
 
@@ -172,13 +169,13 @@ title_english = "053 vishvamitra tries to gain kaamadhenu"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवमुक्तस्तु भगवान् वसिष्ठो मुनिपुंगवः॥ १०॥  
+एवमुक्तस्तु भगवान् वसिष्ठो मुनिपुङ्गवः॥ १०॥  
 विश्वामित्रेण धर्मात्मा प्रत्युवाच महीपतिम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवमुक्तस्तु भगवान् वसिष्ठो मुनिपुंगवः॥ १०॥  
+एवमुक्तस्तु भगवान् वसिष्ठो मुनिपुङ्गवः॥ १०॥  
 विश्वामित्रेण धर्मात्मा प्रत्युवाच महीपतिम्।
 </details>
 
@@ -191,14 +188,14 @@ title_english = "053 vishvamitra tries to gain kaamadhenu"
 
 नाहं शतसहस्रेण नापि कोटिशतैर्गवाम्॥ ११॥  
 राजन् दास्यामि शबलां राशिभी रजतस्य वा।  
-न परित्यागमर्हेयं मत्सकाशादरिंदम॥ १२॥
+न परित्यागमर्हेयं मत्सकाशादरिन्दम॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नाहं शतसहस्रेण नापि कोटिशतैर्गवाम्॥ ११॥  
 राजन् दास्यामि शबलां राशिभी रजतस्य वा।  
-न परित्यागमर्हेयं मत्सकाशादरिंदम॥ १२॥
+न परित्यागमर्हेयं मत्सकाशादरिन्दम॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -296,7 +293,7 @@ title_english = "053 vishvamitra tries to gain kaamadhenu"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हैरण्यानां रथानां च श्वेताश्वानां चतुर्युजाम्॥ १८॥  
-ददामि ते शतान्यष्टौ किंकिणीकविभूषितान्।  
+ददामि ते शतान्यष्टौ किङ्किणीकविभूषितान्।  
 हयानां देशजातानां कुलजानां महौजसाम्।  
 सहस्रमेकं दश च ददामि तव सुव्रत॥ १९॥  
 नानावर्णविभक्तानां वयःस्थानां तथैव च।  
@@ -306,7 +303,7 @@ title_english = "053 vishvamitra tries to gain kaamadhenu"
 <details><summary>मूलम्</summary>
 
 हैरण्यानां रथानां च श्वेताश्वानां चतुर्युजाम्॥ १८॥  
-ददामि ते शतान्यष्टौ किंकिणीकविभूषितान्।  
+ददामि ते शतान्यष्टौ किङ्किणीकविभूषितान्।  
 हयानां देशजातानां कुलजानां महौजसाम्।  
 सहस्रमेकं दश च ददामि तव सुव्रत॥ १९॥  
 नानावर्णविभक्तानां वयःस्थानां तथैव च।  
@@ -338,13 +335,13 @@ title_english = "053 vishvamitra tries to gain kaamadhenu"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्तस्तु भगवान् विश्वामित्रेण धीमता।  
-न दास्यामीति शबलां प्राह राजन् कथंचन॥ २२॥
+न दास्यामीति शबलां प्राह राजन् कथञ्चन॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्तस्तु भगवान् विश्वामित्रेण धीमता।  
-न दास्यामीति शबलां प्राह राजन् कथंचन॥ २२॥
+न दास्यामीति शबलां प्राह राजन् कथञ्चन॥ २२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -408,3 +405,4 @@ title_english = "053 vishvamitra tries to gain kaamadhenu"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे त्रिपञ्चाशः सर्गः॥ ५३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें तिरपनवाँ सर्ग पूरा हुआ॥ ५३॥
 </details>
+

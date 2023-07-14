@@ -4,11 +4,8 @@ title_english = "003 Hanuma meets Sri Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-003-Hanumatha_Sugreeva_Vruththantha_Kathanam_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-003-Hanumatha_Sugreeva_Vruththantha_Kathanam_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -169,13 +166,13 @@ title_english = "003 Hanuma meets Sri Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-यदृच्छयेव सम्प्राप्तौ चन्द्रसूर्यौ वसुंधराम्।  
+यदृच्छयेव सम्प्राप्तौ चन्द्रसूर्यौ वसुन्धराम्।  
 विशालवक्षसौ वीरौ मानुषौ देवरूपिणौ॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-यदृच्छयेव सम्प्राप्तौ चन्द्रसूर्यौ वसुंधराम्।  
+यदृच्छयेव सम्प्राप्तौ चन्द्रसूर्यौ वसुन्धराम्।  
 विशालवक्षसौ वीरौ मानुषौ देवरूपिणौ॥ १३॥
 </details>
 
@@ -318,13 +315,13 @@ title_english = "003 Hanuma meets Sri Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु हनुमांस्तौ वीरौ रामलक्ष्मणौ।  
-वाक्यज्ञो वाक्यकुशलः पुनर्नोवाच किंचन॥ २४॥
+वाक्यज्ञो वाक्यकुशलः पुनर्नोवाच किञ्चन॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्त्वा तु हनुमांस्तौ वीरौ रामलक्ष्मणौ।  
-वाक्यज्ञो वाक्यकुशलः पुनर्नोवाच किंचन॥ २४॥
+वाक्यज्ञो वाक्यकुशलः पुनर्नोवाच किञ्चन॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -352,13 +349,13 @@ title_english = "003 Hanuma meets Sri Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सचिवोऽयं कपीन्द्रस्य सुग्रीवस्य महात्मनः।  
-तमेव कांक्षमाणस्य ममान्तिकमिहागतः॥ २६॥
+तमेव काङ्क्षमाणस्य ममान्तिकमिहागतः॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सचिवोऽयं कपीन्द्रस्य सुग्रीवस्य महात्मनः।  
-तमेव कांक्षमाणस्य ममान्तिकमिहागतः॥ २६॥
+तमेव काङ्क्षमाणस्य ममान्तिकमिहागतः॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -369,13 +366,13 @@ title_english = "003 Hanuma meets Sri Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमभ्यभाष सौमित्रे सुग्रीवसचिवं कपिम्।  
-वाक्यज्ञं मधुरैर्वाक्यैः स्नेहयुक्तमरिंदमम्॥ २७॥
+वाक्यज्ञं मधुरैर्वाक्यैः स्नेहयुक्तमरिन्दमम्॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तमभ्यभाष सौमित्रे सुग्रीवसचिवं कपिम्।  
-वाक्यज्ञं मधुरैर्वाक्यैः स्नेहयुक्तमरिंदमम्॥ २७॥
+वाक्यज्ञं मधुरैर्वाक्यैः स्नेहयुक्तमरिन्दमम्॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -403,13 +400,13 @@ title_english = "003 Hanuma meets Sri Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं व्याकरणं कृत्स्नमनेन बहुधा श्रुतम्।  
-बहु व्याहरतानेन न किंचिदपशब्दितम्॥ २९॥
+बहु व्याहरतानेन न किञ्चिदपशब्दितम्॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नूनं व्याकरणं कृत्स्नमनेन बहुधा श्रुतम्।  
-बहु व्याहरतानेन न किंचिदपशब्दितम्॥ २९॥
+बहु व्याहरतानेन न किञ्चिदपशब्दितम्॥ २९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -436,13 +433,13 @@ title_english = "003 Hanuma meets Sri Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अविस्तरमसंदिग्धमविलम्बितमव्यथम्।  
+अविस्तरमसन्दिग्धमविलम्बितमव्यथम्।  
 उरःस्थं कण्ठगं वाक्यं वर्तते मध्यमस्वरम्॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अविस्तरमसंदिग्धमविलम्बितमव्यथम्।  
+अविस्तरमसन्दिग्धमविलम्बितमव्यथम्।  
 उरःस्थं कण्ठगं वाक्यं वर्तते मध्यमस्वरम्॥ ३१॥
 </details>
 
@@ -509,13 +506,13 @@ title_english = "003 Hanuma meets Sri Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवंगुणगणैर्युक्ता यस्य स्युः कार्यसाधकाः।  
+एवङ्गुणगणैर्युक्ता यस्य स्युः कार्यसाधकाः।  
 तस्य सिद्ध्यन्ति सर्वेऽर्था दूतवाक्यप्रचोदिताः॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवंगुणगणैर्युक्ता यस्य स्युः कार्यसाधकाः।  
+एवङ्गुणगणैर्युक्ता यस्य स्युः कार्यसाधकाः।  
 तस्य सिद्ध्यन्ति सर्वेऽर्था दूतवाक्यप्रचोदिताः॥ ३५॥
 </details>
 
@@ -601,3 +598,4 @@ title_english = "003 Hanuma meets Sri Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे तृतीयः सर्गः॥ ३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें तीसरा सर्ग पूरा हुआ॥ ३॥
 </details>
+

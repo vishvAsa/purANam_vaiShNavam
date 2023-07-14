@@ -4,11 +4,8 @@ title_english = "105 Bharata requests Rama to accept the kingdom"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-105-Ramam_Prathi_Bharathasya_Pradhanaa.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-105-Ramam_Prathi_Bharathasya_Pradhanaa.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -38,13 +35,13 @@ title_english = "105 Bharata requests Rama to accept the kingdom"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तूष्णीं ते समुपासीना न कश्चित् किंचिदब्रवीत्।  
+तूष्णीं ते समुपासीना न कश्चित् किञ्चिदब्रवीत्।  
 भरतस्तु सुहृन्मध्ये रामं वचनमब्रवीत्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तूष्णीं ते समुपासीना न कश्चित् किंचिदब्रवीत्।  
+तूष्णीं ते समुपासीना न कश्चित् किञ्चिदब्रवीत्।  
 भरतस्तु सुहृन्मध्ये रामं वचनमब्रवीत्॥ ३॥
 </details>
 
@@ -149,13 +146,13 @@ title_english = "105 Bharata requests Rama to accept the kingdom"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 श्रेणयस्त्वां महाराज पश्यन्त्वग्र‍‍्याश्च सर्वशः।  
-प्रतपन्तमिवादित्यं राज्यस्थितमरिंदमम्॥ ११॥
+प्रतपन्तमिवादित्यं राज्यस्थितमरिन्दमम्॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 श्रेणयस्त्वां महाराज पश्यन्त्वग्र‍‍्याश्च सर्वशः।  
-प्रतपन्तमिवादित्यं राज्यस्थितमरिंदमम्॥ ११॥
+प्रतपन्तमिवादित्यं राज्यस्थितमरिन्दमम्॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -268,13 +265,13 @@ title_english = "105 Bharata requests Rama to accept the kingdom"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथाऽऽगारं दृढस्थूणं जीर्णं भूत्वोपसीदति।  
-तथावसीदन्ति नरा जरामृत्युवशंगताः॥ १८॥
+तथावसीदन्ति नरा जरामृत्युवशङ्गताः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यथाऽऽगारं दृढस्थूणं जीर्णं भूत्वोपसीदति।  
-तथावसीदन्ति नरा जरामृत्युवशंगताः॥ १८॥
+तथावसीदन्ति नरा जरामृत्युवशङ्गताः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -387,13 +384,13 @@ title_english = "105 Bharata requests Rama to accept the kingdom"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 हृष्यन्त्यृतुमुखं दृष्ट्वा नवं नवमिवागतम्।  
-ऋतूनां परिवर्तेन प्राणिनां प्राणसंक्षयः॥ २५॥
+ऋतूनां परिवर्तेन प्राणिनां प्राणसङ्क्षयः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 हृष्यन्त्यृतुमुखं दृष्ट्वा नवं नवमिवागतम्।  
-ऋतूनां परिवर्तेन प्राणिनां प्राणसंक्षयः॥ २५॥
+ऋतूनां परिवर्तेन प्राणिनां प्राणसङ्क्षयः॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -404,7 +401,7 @@ title_english = "105 Bharata requests Rama to accept the kingdom"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा काष्ठं च काष्ठं च समेयातां महार्णवे।  
-समेत्य तु व्यपेयातां कालमासाद्य कंचन॥ २६॥  
+समेत्य तु व्यपेयातां कालमासाद्य कञ्चन॥ २६॥  
 एवं भार्याश्च पुत्राश्च ज्ञातयश्च वसूनि च।  
 समेत्य व्यवधावन्ति ध्रुवो ह्येषां विनाभवः॥ २७॥
 </details>
@@ -412,7 +409,7 @@ title_english = "105 Bharata requests Rama to accept the kingdom"
 <details><summary>मूलम्</summary>
 
 यथा काष्ठं च काष्ठं च समेयातां महार्णवे।  
-समेत्य तु व्यपेयातां कालमासाद्य कंचन॥ २६॥  
+समेत्य तु व्यपेयातां कालमासाद्य कञ्चन॥ २६॥  
 एवं भार्याश्च पुत्राश्च ज्ञातयश्च वसूनि च।  
 समेत्य व्यवधावन्ति ध्रुवो ह्येषां विनाभवः॥ २७॥
 </details>
@@ -649,13 +646,13 @@ title_english = "105 Bharata requests Rama to accept the kingdom"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न मया शासनं तस्य त्यक्तुं न्याय्यमरिंदम।  
+न मया शासनं तस्य त्यक्तुं न्याय्यमरिन्दम।  
 स त्वयापि सदा मान्यः स वै बन्धुः स नः पिता॥ ४२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न मया शासनं तस्य त्यक्तुं न्याय्यमरिंदम।  
+न मया शासनं तस्य त्यक्तुं न्याय्यमरिन्दम।  
 स त्वयापि सदा मान्यः स वै बन्धुः स नः पिता॥ ४२॥
 </details>
 
@@ -741,3 +738,4 @@ title_english = "105 Bharata requests Rama to accept the kingdom"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे पञ्चाधिकशततमः सर्गः॥ १०५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ पाँचवाँ सर्ग पूरा हुआ॥ १०५॥
 </details>
+

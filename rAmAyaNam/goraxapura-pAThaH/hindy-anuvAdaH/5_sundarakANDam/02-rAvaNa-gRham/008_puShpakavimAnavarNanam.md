@@ -4,11 +4,8 @@ title_english = "008 Description of the Pushpaka"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-008-Description_of_the_Pushpaka.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-008-Description_of_the_Pushpaka.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -59,18 +56,18 @@ title_english = "008 Description of the Pushpaka"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न तत्र किंचिन्न कृतं प्रयत्नतो  
-न तत्र किंचिन्न महार्घरत्नवत्।  
+न तत्र किञ्चिन्न कृतं प्रयत्नतो  
+न तत्र किञ्चिन्न महार्घरत्नवत्।  
 न ते विशेषा नियताः सुरेष्वपि  
-न तत्र किंचिन्न महाविशेषवत्॥ ३॥
+न तत्र किञ्चिन्न महाविशेषवत्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न तत्र किंचिन्न कृतं प्रयत्नतो  
-न तत्र किंचिन्न महार्घरत्नवत्।  
+न तत्र किञ्चिन्न कृतं प्रयत्नतो  
+न तत्र किञ्चिन्न महार्घरत्नवत्।  
 न ते विशेषा नियताः सुरेष्वपि  
-न तत्र किंचिन्न महाविशेषवत्॥ ३॥
+न तत्र किञ्चिन्न महाविशेषवत्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -175,3 +172,4 @@ title_english = "008 Description of the Pushpaka"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डेऽष्टमः सर्गः॥ ८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें आठवाँ सर्ग पूरा हुआ॥ ८॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "059 Rama reprimands Lakshmana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-059-Lakshmana_Nindaa.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-059-Lakshmana_Nindaa.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -204,13 +201,13 @@ title_english = "059 Rama reprimands Lakshmana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किंनिमित्तं तु केनापि भ्रातुरालम्ब्य मे स्वरम्।  
+किन्निमित्तं तु केनापि भ्रातुरालम्ब्य मे स्वरम्।  
 विस्वरं व्याहृतं वाक्यं लक्ष्मण त्राहि मामिति॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-किंनिमित्तं तु केनापि भ्रातुरालम्ब्य मे स्वरम्।  
+किन्निमित्तं तु केनापि भ्रातुरालम्ब्य मे स्वरम्।  
 विस्वरं व्याहृतं वाक्यं लक्ष्मण त्राहि मामिति॥ १२॥
 </details>
 
@@ -293,13 +290,13 @@ title_english = "059 Rama reprimands Lakshmana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संकेताद् भरतेन त्वं रामं समनुगच्छसि।  
+सङ्केताद् भरतेन त्वं रामं समनुगच्छसि।  
 क्रोशन्तं हि यथात्यर्थं नैनमभ्यवपद्यसे॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संकेताद् भरतेन त्वं रामं समनुगच्छसि।  
+सङ्केताद् भरतेन त्वं रामं समनुगच्छसि।  
 क्रोशन्तं हि यथात्यर्थं नैनमभ्यवपद्यसे॥ १८॥
 </details>
 
@@ -344,13 +341,13 @@ title_english = "059 Rama reprimands Lakshmana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं ब्रुवाणं सौमित्रिं रामः संतापमोहितः।  
+एवं ब्रुवाणं सौमित्रिं रामः सन्तापमोहितः।  
 अब्रवीद् दुष्कृतं सौम्य तां विना त्वमिहागतः॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवं ब्रुवाणं सौमित्रिं रामः संतापमोहितः।  
+एवं ब्रुवाणं सौमित्रिं रामः सन्तापमोहितः।  
 अब्रवीद् दुष्कृतं सौम्य तां विना त्वमिहागतः॥ २१॥
 </details>
 
@@ -474,3 +471,4 @@ title_english = "059 Rama reprimands Lakshmana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे एकोनषष्टितमः सर्गः॥ ५९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें उनसठवाँ सर्ग पूरा हुआ॥ ५९॥
 </details>
+

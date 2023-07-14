@@ -4,11 +4,8 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-014-Ashva_Medhayajanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-014-Ashva_Medhayajanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अथ संवत्सरे पूर्णे तस्मिन् प्राप्ते तुरंगमे।  
+अथ संवत्सरे पूर्णे तस्मिन् प्राप्ते तुरङ्गमे।  
 सरय्वाश्चोत्तरे तीरे राज्ञो यज्ञोऽभ्यवर्तत॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अथ संवत्सरे पूर्णे तस्मिन् प्राप्ते तुरंगमे।  
+अथ संवत्सरे पूर्णे तस्मिन् प्राप्ते तुरङ्गमे।  
 सरय्वाश्चोत्तरे तीरे राज्ञो यज्ञोऽभ्यवर्तत॥ १॥
 </details>
 
@@ -34,13 +31,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऋष्यशृंगं पुरस्कृत्य कर्म चक्रुर्द्विजर्षभाः।  
+ऋष्यशृङ्गं पुरस्कृत्य कर्म चक्रुर्द्विजर्षभाः।  
 अश्वमेधे महायज्ञे राज्ञोऽस्य सुमहात्मनः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऋष्यशृंगं पुरस्कृत्य कर्म चक्रुर्द्विजर्षभाः।  
+ऋष्यशृङ्गं पुरस्कृत्य कर्म चक्रुर्द्विजर्षभाः।  
 अश्वमेधे महायज्ञे राज्ञोऽस्य सुमहात्मनः॥ २॥
 </details>
 
@@ -86,13 +83,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभिपूज्य तदा हृष्टाः सर्वे चक्रुर्यथाविधि।  
-प्रातःसवनपूर्वाणि कर्माणि मुनिपुंगवाः॥ ५॥
+प्रातःसवनपूर्वाणि कर्माणि मुनिपुङ्गवाः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अभिपूज्य तदा हृष्टाः सर्वे चक्रुर्यथाविधि।  
-प्रातःसवनपूर्वाणि कर्माणि मुनिपुंगवाः॥ ५॥
+प्रातःसवनपूर्वाणि कर्माणि मुनिपुङ्गवाः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -125,13 +122,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तृतीयसवनं चैव राज्ञोऽस्य सुमहात्मनः।  
-चक्रुस्ते शास्त्रतो दृष्ट्वा यथा ब्राह्मणपुंगवाः॥ ७॥
+चक्रुस्ते शास्त्रतो दृष्ट्वा यथा ब्राह्मणपुङ्गवाः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तृतीयसवनं चैव राज्ञोऽस्य सुमहात्मनः।  
-चक्रुस्ते शास्त्रतो दृष्ट्वा यथा ब्राह्मणपुंगवाः॥ ७॥
+चक्रुस्ते शास्त्रतो दृष्ट्वा यथा ब्राह्मणपुङ्गवाः॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -142,13 +139,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आह्वयाञ्चक्रिरे तत्र शक्रादीन् विबुधोत्तमान्।  
-ऋष्यशृंगादयो मन्त्रैः शिक्षाक्षरसमन्वितैः॥ ८॥
+ऋष्यशृङ्गादयो मन्त्रैः शिक्षाक्षरसमन्वितैः॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 आह्वयाञ्चक्रिरे तत्र शक्रादीन् विबुधोत्तमान्।  
-ऋष्यशृंगादयो मन्त्रैः शिक्षाक्षरसमन्वितैः॥ ८॥
+ऋष्यशृङ्गादयो मन्त्रैः शिक्षाक्षरसमन्वितैः॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -175,13 +172,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न चाहुतमभूत् तत्र स्खलितं वा न किंचन।  
+न चाहुतमभूत् तत्र स्खलितं वा न किञ्चन।  
 दृश्यते ब्रह्मवत् सर्वं क्षेमयुक्तं हि चक्रिरे॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न चाहुतमभूत् तत्र स्खलितं वा न किंचन।  
+न चाहुतमभूत् तत्र स्खलितं वा न किञ्चन।  
 दृश्यते ब्रह्मवत् सर्वं क्षेमयुक्तं हि चक्रिरे॥ १०॥
 </details>
 
@@ -244,13 +241,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दीयतां दीयतामन्नं वासांसि विविधानि च।  
-इति संचोदितास्तत्र तथा चक्रुरनेकशः॥ १४॥
+इति सञ्चोदितास्तत्र तथा चक्रुरनेकशः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दीयतां दीयतामन्नं वासांसि विविधानि च।  
-इति संचोदितास्तत्र तथा चक्रुरनेकशः॥ १४॥
+इति सञ्चोदितास्तत्र तथा चक्रुरनेकशः॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -311,13 +308,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स्वलंकृताश्च पुरुषा ब्राह्मणान् पर्यवेषयन्।  
+स्वलङ्कृताश्च पुरुषा ब्राह्मणान् पर्यवेषयन्।  
 उपासन्ते च तानन्ये सुमृष्टमणिकुण्डलाः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स्वलंकृताश्च पुरुषा ब्राह्मणान् पर्यवेषयन्।  
+स्वलङ्कृताश्च पुरुषा ब्राह्मणान् पर्यवेषयन्।  
 उपासन्ते च तानन्ये सुमृष्टमणिकुण्डलाः॥ १८॥
 </details>
 
@@ -362,13 +359,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नाषडंगविदत्रासीन्नाव्रतो नाबहुश्रुतः।  
+नाषडङ्गविदत्रासीन्नाव्रतो नाबहुश्रुतः।  
 सदस्यास्तस्य वै राज्ञो नावादकुशलो द्विजः॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नाषडंगविदत्रासीन्नाव्रतो नाबहुश्रुतः।  
+नाषडङ्गविदत्रासीन्नाव्रतो नाबहुश्रुतः।  
 सदस्यास्तस्य वै राज्ञो नावादकुशलो द्विजः॥ २१॥
 </details>
 
@@ -414,13 +411,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कारिताः सर्व एवैते शास्त्रज्ञैर्यज्ञकोविदैः।  
-शोभार्थं तस्य यज्ञस्य काञ्चनालंकृता भवन्॥ २४॥
+शोभार्थं तस्य यज्ञस्य काञ्चनालङ्कृता भवन्॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 कारिताः सर्व एवैते शास्त्रज्ञैर्यज्ञकोविदैः।  
-शोभार्थं तस्य यज्ञस्य काञ्चनालंकृता भवन्॥ २४॥
+शोभार्थं तस्य यज्ञस्य काञ्चनालङ्कृता भवन्॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -431,13 +428,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकविंशतियूपास्ते एकविंशत्यरत्नयः।  
-वासोभिरेकविंशद्भिरेकैकं समलंकृताः॥ २५॥
+वासोभिरेकविंशद्भिरेकैकं समलङ्कृताः॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एकविंशतियूपास्ते एकविंशत्यरत्नयः।  
-वासोभिरेकविंशद्भिरेकैकं समलंकृताः॥ २५॥
+वासोभिरेकविंशद्भिरेकैकं समलङ्कृताः॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -503,13 +500,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स चित्यो राजसिंहस्य संचितः कुशलैर्द्विजैः।  
+स चित्यो राजसिंहस्य सञ्चितः कुशलैर्द्विजैः।  
 गरुडो रुक्मपक्षो वै त्रिगुणोऽष्टादशात्मकः॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स चित्यो राजसिंहस्य संचितः कुशलैर्द्विजैः।  
+स चित्यो राजसिंहस्य सञ्चितः कुशलैर्द्विजैः।  
 गरुडो रुक्मपक्षो वै त्रिगुणोऽष्टादशात्मकः॥ २९॥
 </details>
 
@@ -661,13 +658,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हयस्य यानि चांगानि तानि सर्वाणि ब्राह्मणाः।  
+हयस्य यानि चाङ्गानि तानि सर्वाणि ब्राह्मणाः।  
 अग्नौ प्रास्यन्ति विधिवत् समस्ताः षोडशर्त्विजः॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-हयस्य यानि चांगानि तानि सर्वाणि ब्राह्मणाः।  
+हयस्य यानि चाङ्गानि तानि सर्वाणि ब्राह्मणाः।  
 अग्नौ प्रास्यन्ति विधिवत् समस्ताः षोडशर्त्विजः॥ ३८॥
 </details>
 
@@ -695,17 +692,17 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्र्यहोऽश्वमेधः संख्यातः कल्पसूत्रेण ब्राह्मणैः।  
+त्र्यहोऽश्वमेधः सङ्ख्यातः कल्पसूत्रेण ब्राह्मणैः।  
 चतुष्टोममहस्तस्य प्रथमं परिकल्पितम्॥ ४०॥  
-उक्थ्यं द्वितीयं संख्यातमतिरात्रं तथोत्तरम्।  
+उक्थ्यं द्वितीयं सङ्ख्यातमतिरात्रं तथोत्तरम्।  
 कारितास्तत्र बहवो विहिताः शास्त्रदर्शनात्॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्र्यहोऽश्वमेधः संख्यातः कल्पसूत्रेण ब्राह्मणैः।  
+त्र्यहोऽश्वमेधः सङ्ख्यातः कल्पसूत्रेण ब्राह्मणैः।  
 चतुष्टोममहस्तस्य प्रथमं परिकल्पितम्॥ ४०॥  
-उक्थ्यं द्वितीयं संख्यातमतिरात्रं तथोत्तरम्।  
+उक्थ्यं द्वितीयं सङ्ख्यातमतिरात्रं तथोत्तरम्।  
 कारितास्तत्र बहवो विहिताः शास्त्रदर्शनात्॥ ४१॥
 </details>
 
@@ -751,13 +748,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्‍गात्रे तु तथोदीचीं दक्षिणैषा विनिर्मिता।  
-अश्वमेधे महायज्ञे स्वयंभूविहिते पुरा॥ ४४॥
+अश्वमेधे महायज्ञे स्वयम्भूविहिते पुरा॥ ४४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 उद्‍गात्रे तु तथोदीचीं दक्षिणैषा विनिर्मिता।  
-अश्वमेधे महायज्ञे स्वयंभूविहिते पुरा॥ ४४॥
+अश्वमेधे महायज्ञे स्वयम्भूविहिते पुरा॥ ४४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -877,13 +874,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋत्विजस्तु ततः सर्वे प्रददुः सहिता वसु॥ ५१॥  
-ऋष्यशृंगाय मुनये वसिष्ठाय च धीमते।
+ऋष्यशृङ्गाय मुनये वसिष्ठाय च धीमते।
 </details>
 
 <details><summary>मूलम्</summary>
 
 ऋत्विजस्तु ततः सर्वे प्रददुः सहिता वसु॥ ५१॥  
-ऋष्यशृंगाय मुनये वसिष्ठाय च धीमते।
+ऋष्यशृङ्गाय मुनये वसिष्ठाय च धीमते।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -911,13 +908,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः प्रसर्पकेभ्यस्तु हिरण्यं सुसमाहितः॥ ५३॥  
-जाम्बूनदं कोटिसंख्यं ब्राह्मणेभ्यो ददौ तदा।
+जाम्बूनदं कोटिसङ्ख्यं ब्राह्मणेभ्यो ददौ तदा।
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः प्रसर्पकेभ्यस्तु हिरण्यं सुसमाहितः॥ ५३॥  
-जाम्बूनदं कोटिसंख्यं ब्राह्मणेभ्यो ददौ तदा।
+जाम्बूनदं कोटिसङ्ख्यं ब्राह्मणेभ्यो ददौ तदा।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -995,13 +992,13 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततोऽब्रवीदृष्यशृंगं राजा दशरथस्तदा॥ ५८॥  
+ततोऽब्रवीदृष्यशृङ्गं राजा दशरथस्तदा॥ ५८॥  
 कुलस्य वर्धनं तत् तु कर्तुमर्हसि सुव्रत।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततोऽब्रवीदृष्यशृंगं राजा दशरथस्तदा॥ ५८॥  
+ततोऽब्रवीदृष्यशृङ्गं राजा दशरथस्तदा॥ ५८॥  
 कुलस्य वर्धनं तत् तु कर्तुमर्हसि सुव्रत।
 </details>
 
@@ -1032,7 +1029,7 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 स तस्य वाक्यं मधुरं निशम्य  
 प्रणम्य तस्मै प्रयतो नृपेन्द्रः।  
 जगाम हर्षं परमं महात्मा  
-तमृष्यशृंगं पुनरप्युवाच॥ ६०॥
+तमृष्यशृङ्गं पुनरप्युवाच॥ ६०॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -1040,7 +1037,7 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 स तस्य वाक्यं मधुरं निशम्य  
 प्रणम्य तस्मै प्रयतो नृपेन्द्रः।  
 जगाम हर्षं परमं महात्मा  
-तमृष्यशृंगं पुनरप्युवाच॥ ६०॥
+तमृष्यशृङ्गं पुनरप्युवाच॥ ६०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1053,3 +1050,4 @@ title_english = "014 ashvamedha commenced as preamble to putrakAmeShTi ritual"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुर्दशः सर्गः॥ १४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें चौदहवाँ सर्ग पूरा हुआ॥ १४॥
 </details>
+

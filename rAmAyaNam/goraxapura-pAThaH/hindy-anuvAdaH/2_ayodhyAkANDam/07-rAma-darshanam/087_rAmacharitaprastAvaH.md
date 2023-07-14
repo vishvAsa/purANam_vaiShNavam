@@ -4,11 +4,8 @@ title_english = "087 Guha reports further details of Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-087-Rama_Charitha_Prasthavaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-087-Rama_Charitha_Prasthavaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -73,13 +70,13 @@ title_english = "087 Guha reports further details of Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदवस्थं तु भरतं शत्रुघ्नोऽनन्तरस्थितः।  
-परिष्वज्य रुरोदोच्चैर्विसंज्ञः शोककर्शितः॥ ५॥
+परिष्वज्य रुरोदोच्चैर्विसञ्ज्ञः शोककर्शितः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तदवस्थं तु भरतं शत्रुघ्नोऽनन्तरस्थितः।  
-परिष्वज्य रुरोदोच्चैर्विसंज्ञः शोककर्शितः॥ ५॥
+परिष्वज्य रुरोदोच्चैर्विसञ्ज्ञः शोककर्शितः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -174,13 +171,13 @@ title_english = "087 Guha reports further details of Rama"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कच्चिन्न लक्ष्मणे पुत्र श्रुतं ते किंचिदप्रियम्।  
+कच्चिन्न लक्ष्मणे पुत्र श्रुतं ते किञ्चिदप्रियम्।  
 पुत्रे वा ह्येकपुत्रायाः सहभार्ये वनं गते॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कच्चिन्न लक्ष्मणे पुत्र श्रुतं ते किंचिदप्रियम्।  
+कच्चिन्न लक्ष्मणे पुत्र श्रुतं ते किञ्चिदप्रियम्।  
 पुत्रे वा ह्येकपुत्रायाः सहभार्ये वनं गते॥ ११॥
 </details>
 
@@ -311,13 +308,13 @@ title_english = "087 Guha reports further details of Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु जलशेषेण लक्ष्मणोऽप्यकरोत् तदा।  
-वाग्यतास्ते त्रयः संध्यां समुपासन्त संहिताः॥ १९॥
+वाग्यतास्ते त्रयः सन्ध्यां समुपासन्त संहिताः॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततस्तु जलशेषेण लक्ष्मणोऽप्यकरोत् तदा।  
-वाग्यतास्ते त्रयः संध्यां समुपासन्त संहिताः॥ १९॥
+वाग्यतास्ते त्रयः सन्ध्यां समुपासन्त संहिताः॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -379,7 +376,7 @@ title_english = "087 Guha reports further details of Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नियम्य पृष्ठे तु तलाङ्गुलित्रवान्  
-शरैः सुपूर्णाविषुधी परंतपः।  
+शरैः सुपूर्णाविषुधी परन्तपः।  
 महद्धनुः सज्जमुपोह्य लक्ष्मणो  
 निशामतिष्ठत् परितोऽस्य केवलम्॥ २३॥
 </details>
@@ -387,7 +384,7 @@ title_english = "087 Guha reports further details of Rama"
 <details><summary>मूलम्</summary>
 
 नियम्य पृष्ठे तु तलाङ्गुलित्रवान्  
-शरैः सुपूर्णाविषुधी परंतपः।  
+शरैः सुपूर्णाविषुधी परन्तपः।  
 महद्धनुः सज्जमुपोह्य लक्ष्मणो  
 निशामतिष्ठत् परितोऽस्य केवलम्॥ २३॥
 </details>
@@ -423,3 +420,4 @@ title_english = "087 Guha reports further details of Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्ताशीतितमः सर्गः॥ ८७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें सतासीवाँ सर्ग पूरा हुआ॥ ८७॥
 </details>
+

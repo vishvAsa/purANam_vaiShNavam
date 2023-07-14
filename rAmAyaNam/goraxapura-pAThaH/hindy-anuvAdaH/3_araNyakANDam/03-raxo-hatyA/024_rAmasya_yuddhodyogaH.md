@@ -4,11 +4,8 @@ title_english = "024 Rama s readiness to war with Khara"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-024-Ramasya_Yudhdhodhyogaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-024-Ramasya_Yudhdhodhyogaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -136,13 +133,13 @@ title_english = "024 Rama s readiness to war with Khara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संनिकर्षे तु नः शूर जयं शत्रोः पराजयम्।  
+सन्निकर्षे तु नः शूर जयं शत्रोः पराजयम्।  
 सुप्रभं च प्रसन्नं च तव वक्त्रं हि लक्ष्यते॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संनिकर्षे तु नः शूर जयं शत्रोः पराजयम्।  
+सन्निकर्षे तु नः शूर जयं शत्रोः पराजयम्।  
 सुप्रभं च प्रसन्नं च तव वक्त्रं हि लक्ष्यते॥ ८॥
 </details>
 
@@ -205,13 +202,13 @@ title_english = "024 Rama s readiness to war with Khara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्माद् गृहीत्वा वैदेहीं शरपाणिर्धनुर्धरः।  
-गुहामाश्रय शैलस्य दुर्गां पादपसंकुलाम्॥ १२॥
+गुहामाश्रय शैलस्य दुर्गां पादपसङ्कुलाम्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्माद् गृहीत्वा वैदेहीं शरपाणिर्धनुर्धरः।  
-गुहामाश्रय शैलस्य दुर्गां पादपसंकुलाम्॥ १२॥
+गुहामाश्रय शैलस्य दुर्गां पादपसङ्कुलाम्॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -324,13 +321,13 @@ title_english = "024 Rama s readiness to war with Khara"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततो देवाः सगन्धर्वाः सिद्धाश्च सह चारणैः।  
-समेयुश्च महात्मानो युद्धदर्शनकांक्षया॥ १९॥
+समेयुश्च महात्मानो युद्धदर्शनकाङ्क्षया॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततो देवाः सगन्धर्वाः सिद्धाश्च सह चारणैः।  
-समेयुश्च महात्मानो युद्धदर्शनकांक्षया॥ १९॥
+समेयुश्च महात्मानो युद्धदर्शनकाङ्क्षया॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -344,7 +341,7 @@ title_english = "024 Rama s readiness to war with Khara"
 समेत्य चोचुः सहितास्तेऽन्योन्यं पुण्यकर्मणः॥ २०॥  
 स्वस्ति गोब्राह्मणानां च लोकानां चेति संस्थिताः।  
 जयतां राघवो युद्धे पौलस्त्यान् रजनीचरान्॥ २१॥  
-चक्रहस्तो यथा युद्धे सर्वानसुरपुंगवान्।
+चक्रहस्तो यथा युद्धे सर्वानसुरपुङ्गवान्।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -353,7 +350,7 @@ title_english = "024 Rama s readiness to war with Khara"
 समेत्य चोचुः सहितास्तेऽन्योन्यं पुण्यकर्मणः॥ २०॥  
 स्वस्ति गोब्राह्मणानां च लोकानां चेति संस्थिताः।  
 जयतां राघवो युद्धे पौलस्त्यान् रजनीचरान्॥ २१॥  
-चक्रहस्तो यथा युद्धे सर्वानसुरपुंगवान्।
+चक्रहस्तो यथा युद्धे सर्वानसुरपुङ्गवान्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -399,13 +396,13 @@ title_english = "024 Rama s readiness to war with Khara"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-आविष्टं तेजसा रामं संग्रामशिरसि स्थितम्।  
+आविष्टं तेजसा रामं सङ्ग्रामशिरसि स्थितम्।  
 दृष्ट्वा सर्वाणि भूतानि भयाद् विव्यथिरे तदा॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-आविष्टं तेजसा रामं संग्रामशिरसि स्थितम्।  
+आविष्टं तेजसा रामं सङ्ग्रामशिरसि स्थितम्।  
 दृष्ट्वा सर्वाणि भूतानि भयाद् विव्यथिरे तदा॥ २५॥
 </details>
 
@@ -586,3 +583,4 @@ title_english = "024 Rama s readiness to war with Khara"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे चतुर्विंशः सर्गः॥ २४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें चौबीसवाँ सर्ग पूरा हुआ॥ २४॥
 </details>
+

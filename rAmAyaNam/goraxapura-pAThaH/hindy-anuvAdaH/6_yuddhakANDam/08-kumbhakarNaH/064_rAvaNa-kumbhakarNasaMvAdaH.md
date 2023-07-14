@@ -4,11 +4,8 @@ title_english = "064 He advises Kumbhakarna"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-064-He_advises_Kumbhakarna_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-064-He_advises_Kumbhakarna_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -153,13 +150,13 @@ title_english = "064 He advises Kumbhakarna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ऐहलौकिकपारक्यं कर्म पुंभिर्निषेव्यते।  
+ऐहलौकिकपारक्यं कर्म पुम्भिर्निषेव्यते।  
 कर्माण्यपि तु कल्याणि लभते काममास्थितः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ऐहलौकिकपारक्यं कर्म पुंभिर्निषेव्यते।  
+ऐहलौकिकपारक्यं कर्म पुम्भिर्निषेव्यते।  
 कर्माण्यपि तु कल्याणि लभते काममास्थितः॥ ९॥
 </details>
 
@@ -243,13 +240,13 @@ title_english = "064 He advises Kumbhakarna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं सिंहमिव संक्रुद्धं रामं दशरथात्मजम्।  
+तं सिंहमिव सङ्क्रुद्धं रामं दशरथात्मजम्।  
 सर्पं सुप्तमहो बुद्‍ध्वा प्रबोधयितुमिच्छसि॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तं सिंहमिव संक्रुद्धं रामं दशरथात्मजम्।  
+तं सिंहमिव सङ्क्रुद्धं रामं दशरथात्मजम्।  
 सर्पं सुप्तमहो बुद्‍ध्वा प्रबोधयितुमिच्छसि॥ १४॥
 </details>
 
@@ -468,7 +465,7 @@ title_english = "064 He advises Kumbhakarna"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रीतो नाम ततो भूत्वा भृत्यानां त्वमरिंदम।  
+प्रीतो नाम ततो भूत्वा भृत्यानां त्वमरिन्दम।  
 भोगांश्च परिवारांश्च कामान् वसु च दापय॥ २८॥  
 ततो माल्यानि वासांसि वीराणामनुलेपनम्।  
 पेयं च बहु योधेभ्यः स्वयं च मुदितः पिब॥ २९॥
@@ -476,7 +473,7 @@ title_english = "064 He advises Kumbhakarna"
 
 <details><summary>मूलम्</summary>
 
-प्रीतो नाम ततो भूत्वा भृत्यानां त्वमरिंदम।  
+प्रीतो नाम ततो भूत्वा भृत्यानां त्वमरिन्दम।  
 भोगांश्च परिवारांश्च कामान् वसु च दापय॥ २८॥  
 ततो माल्यानि वासांसि वीराणामनुलेपनम्।  
 पेयं च बहु योधेभ्यः स्वयं च मुदितः पिब॥ २९॥
@@ -606,3 +603,4 @@ title_english = "064 He advises Kumbhakarna"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे चतुःषष्टितमः सर्गः॥ ६४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें चौंसठवाँ सर्ग पूरा हुआ॥ ६४॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "034 Legend of vishvamitra s ancestry"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-034-Vishvamitra_Vamsha_Varnavam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-034-Vishvamitra_Vamsha_Varnavam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -272,13 +269,13 @@ title_english = "034 Legend of vishvamitra s ancestry"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शनैर्विसृज्यते संध्या नभो नेत्रैरिवावृतम्।  
+शनैर्विसृज्यते सन्ध्या नभो नेत्रैरिवावृतम्।  
 नक्षत्रतारागहनं ज्योतिर्भिरवभासते॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-शनैर्विसृज्यते संध्या नभो नेत्रैरिवावृतम्।  
+शनैर्विसृज्यते सन्ध्या नभो नेत्रैरिवावृतम्।  
 नक्षत्रतारागहनं ज्योतिर्भिरवभासते॥ १६॥
 </details>
 
@@ -380,13 +377,13 @@ title_english = "034 Legend of vishvamitra s ancestry"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मुदितैर्मुनिशार्दूलैः प्रशस्तः कुशिकात्मजः।  
-निद्रामुपागमच्छ्रीमानस्तंगत इवांशुमान्॥ २२॥
+निद्रामुपागमच्छ्रीमानस्तङ्गत इवांशुमान्॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मुदितैर्मुनिशार्दूलैः प्रशस्तः कुशिकात्मजः।  
-निद्रामुपागमच्छ्रीमानस्तंगत इवांशुमान्॥ २२॥
+निद्रामुपागमच्छ्रीमानस्तङ्गत इवांशुमान्॥ २२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -396,13 +393,13 @@ title_english = "034 Legend of vishvamitra s ancestry"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रामोऽपि सहसौमित्रिः किंचिदागतविस्मयः।  
+रामोऽपि सहसौमित्रिः किञ्चिदागतविस्मयः।  
 प्रशस्य मुनिशार्दूलं निद्रां समुपसेवते॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-रामोऽपि सहसौमित्रिः किंचिदागतविस्मयः।  
+रामोऽपि सहसौमित्रिः किञ्चिदागतविस्मयः।  
 प्रशस्य मुनिशार्दूलं निद्रां समुपसेवते॥ २३॥
 </details>
 
@@ -416,3 +413,4 @@ title_english = "034 Legend of vishvamitra s ancestry"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे चतुस्त्रिंशः सर्गः॥ ३४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें चौंतीसवाँ सर्ग पूरा हुआ॥ ३४॥
 </details>
+

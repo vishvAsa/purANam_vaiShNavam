@@ -4,11 +4,8 @@ title_english = "049 Angada encourages all of the monkeys"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-049-Lodhra_Saptha_Parna_Vanaanveshana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-049-Lodhra_Saptha_Parna_Vanaanveshana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -226,13 +223,13 @@ title_english = "049 Angada encourages all of the monkeys"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथोद्दिष्टानि सर्वाणि सुग्रीवेण महात्मना।  
-विचिन्वन्तु वनं सर्वे गिरिदुर्गाणि संगताः॥ १४॥
+विचिन्वन्तु वनं सर्वे गिरिदुर्गाणि सङ्गताः॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यथोद्दिष्टानि सर्वाणि सुग्रीवेण महात्मना।  
-विचिन्वन्तु वनं सर्वे गिरिदुर्गाणि संगताः॥ १४॥
+विचिन्वन्तु वनं सर्वे गिरिदुर्गाणि सङ्गताः॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -243,13 +240,13 @@ title_english = "049 Angada encourages all of the monkeys"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समुत्थाय पुनर्वानरास्ते महाबलाः।  
-विन्ध्यकाननसंकीर्णां विचेरुर्दक्षिणां दिशम्॥ १५॥
+विन्ध्यकाननसङ्कीर्णां विचेरुर्दक्षिणां दिशम्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः समुत्थाय पुनर्वानरास्ते महाबलाः।  
-विन्ध्यकाननसंकीर्णां विचेरुर्दक्षिणां दिशम्॥ १५॥
+विन्ध्यकाननसङ्कीर्णां विचेरुर्दक्षिणां दिशम्॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -277,13 +274,13 @@ title_english = "049 Angada encourages all of the monkeys"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तत्र लोध्रवनं रम्यं सप्तपर्णवनानि च।  
-विचिन्वन्तो हरिवराः सीतादर्शनकांक्षिणः॥ १७॥
+विचिन्वन्तो हरिवराः सीतादर्शनकाङ्क्षिणः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तत्र लोध्रवनं रम्यं सप्तपर्णवनानि च।  
-विचिन्वन्तो हरिवराः सीतादर्शनकांक्षिणः॥ १७॥
+विचिन्वन्तो हरिवराः सीतादर्शनकाङ्क्षिणः॥ १७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -344,13 +341,13 @@ title_english = "049 Angada encourages all of the monkeys"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ते मुहूर्तं समाश्वस्ताः किंचिद्भग्नपरिश्रमाः।  
+ते मुहूर्तं समाश्वस्ताः किञ्चिद्भग्नपरिश्रमाः।  
 पुनरेवोद्यताः कृत्स्नां मार्गितुं दक्षिणां दिशम्॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ते मुहूर्तं समाश्वस्ताः किंचिद्भग्नपरिश्रमाः।  
+ते मुहूर्तं समाश्वस्ताः किञ्चिद्भग्नपरिश्रमाः।  
 पुनरेवोद्यताः कृत्स्नां मार्गितुं दक्षिणां दिशम्॥ २१॥
 </details>
 
@@ -381,3 +378,4 @@ title_english = "049 Angada encourages all of the monkeys"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे एकोनपञ्चाशः सर्गः॥ ४९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें उनचासवाँ सर्ग पूरा हुआ॥ ४९॥
 </details>
+

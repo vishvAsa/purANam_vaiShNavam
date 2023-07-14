@@ -4,11 +4,8 @@ title_english = "044 Rama gives ring to Hanuma"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-044-Hanumathe_Ramena_Mudrikaa_Pradanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-044-Hanumathe_Ramena_Mudrikaa_Pradanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "044 Rama gives ring to Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न भूमौ नान्तरिक्षे वा नाम्बरे नामरालये।  
-नाप्सु वा गतिसङ्गं ते पश्यामि हरिपुंगव॥ ३॥
+नाप्सु वा गतिसङ्गं ते पश्यामि हरिपुङ्गव॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 न भूमौ नान्तरिक्षे वा नाम्बरे नामरालये।  
-नाप्सु वा गतिसङ्गं ते पश्यामि हरिपुंगव॥ ३॥
+नाप्सु वा गतिसङ्गं ते पश्यामि हरिपुङ्गव॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -205,13 +202,13 @@ title_english = "044 Rama gives ring to Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ददौ तस्य ततः प्रीतः स्वनामाङ्कोपशोभितम्।  
-अङ्गुलीयमभिज्ञानं राजपुत्र्याः परंतपः॥ १२॥
+अङ्गुलीयमभिज्ञानं राजपुत्र्याः परन्तपः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ददौ तस्य ततः प्रीतः स्वनामाङ्कोपशोभितम्।  
-अङ्गुलीयमभिज्ञानं राजपुत्र्याः परंतपः॥ १२॥
+अङ्गुलीयमभिज्ञानं राजपुत्र्याः परन्तपः॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -239,13 +236,13 @@ title_english = "044 Rama gives ring to Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 व्यवसायश्च ते वीर सत्त्वयुक्तश्च विक्रमः।  
-सुग्रीवस्य च संदेशः सिद्धिं कथयतीव मे॥ १४॥
+सुग्रीवस्य च सन्देशः सिद्धिं कथयतीव मे॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 व्यवसायश्च ते वीर सत्त्वयुक्तश्च विक्रमः।  
-सुग्रीवस्य च संदेशः सिद्धिं कथयतीव मे॥ १४॥
+सुग्रीवस्य च सन्देशः सिद्धिं कथयतीव मे॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -317,3 +314,4 @@ title_english = "044 Rama gives ring to Hanuma"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे चतुश्चत्वारिंशः सर्गः॥ ४४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें चौवालीसवाँ सर्ग पूरा हुआ॥ ४४॥
 </details>
+

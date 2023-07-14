@@ -4,11 +4,8 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-027-Sitayaaha_Vanagamana_Nishchayaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-027-Sitayaaha_Vanagamana_Nishchayaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्ता तु वैदेही प्रियार्हा प्रियवादिनी।  
-प्रणयादेव संक्रुद्धा भर्तारमिदमब्रवीत्॥ १॥
+प्रणयादेव सङ्क्रुद्धा भर्तारमिदमब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्ता तु वैदेही प्रियार्हा प्रियवादिनी।  
-प्रणयादेव संक्रुद्धा भर्तारमिदमब्रवीत्॥ १॥
+प्रणयादेव सङ्क्रुद्धा भर्तारमिदमब्रवीत्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -318,13 +315,13 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 हंसकारण्डवाकीर्णाः  
 पद्मिनीः साधुपुष्पिताः॥ १८॥  
 इच्छेयं सुखिनी द्रष्टुं  
-त्वया वीरेण संगता।
+त्वया वीरेण सङ्गता।
 </details>
 
 <details><summary>मूलम्</summary>
 
 हंसकारण्डवाकीर्णाः पद्मिनीः साधुपुष्पिताः॥ १८॥  
-इच्छेयं सुखिनी द्रष्टुं त्वया वीरेण संगता।
+इच्छेयं सुखिनी द्रष्टुं त्वया वीरेण सङ्गता।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -429,7 +426,7 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 
 तथा ब्रुवाणामपि धर्मवत्सलां  
 **न** च स्म सीतां नृवरो **निनीषति**।  
-उवाच चैनां बहु संनिवर्तने  
+उवाच चैनां बहु सन्निवर्तने  
 वने निवासस्य च दुःखितां प्रति॥ २४॥
 </details>
 
@@ -437,7 +434,7 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 
 तथा ब्रुवाणामपि धर्मवत्सलां  
 न च स्म सीतां नृवरो निनीषति।  
-उवाच चैनां बहु संनिवर्तने  
+उवाच चैनां बहु सन्निवर्तने  
 वने निवासस्य च दुःखितां प्रति॥ २४॥
 </details>
 
@@ -451,3 +448,4 @@ title_english = "027 Seetha s wish to go to forest along with Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्तविंशः सर्गः॥ २७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें सत्ताईसवाँ सर्ग पूरा हुआ॥ २७॥
 </details>
+

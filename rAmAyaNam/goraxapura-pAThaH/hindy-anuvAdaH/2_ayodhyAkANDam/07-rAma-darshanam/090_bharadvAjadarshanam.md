@@ -4,11 +4,8 @@ title_english = "090 Bharata proceeds to see Bharadwaja"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-090-Bharadwaja_Darshanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-090-Bharadwaja_Darshanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -38,13 +35,13 @@ title_english = "090 Bharata proceeds to see Bharadwaja"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः संदर्शने तस्य भरद्वाजस्य राघवः।  
+ततः सन्दर्शने तस्य भरद्वाजस्य राघवः।  
 मन्त्रिणस्तानवस्थाप्य जगामानुपुरोहितम्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः संदर्शने तस्य भरद्वाजस्य राघवः।  
+ततः सन्दर्शने तस्य भरद्वाजस्य राघवः।  
 मन्त्रिणस्तानवस्थाप्य जगामानुपुरोहितम्॥ ३॥
 </details>
 
@@ -56,13 +53,13 @@ title_english = "090 Bharata proceeds to see Bharadwaja"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वसिष्ठमथ दृष्ट्वैव भरद्वाजो महातपाः।  
-संचचालासनात् तूर्णं शिष्यानर्घ्यमिति ब्रुवन्॥ ४॥
+सञ्चचालासनात् तूर्णं शिष्यानर्घ्यमिति ब्रुवन्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 वसिष्ठमथ दृष्ट्वैव भरद्वाजो महातपाः।  
-संचचालासनात् तूर्णं शिष्यानर्घ्यमिति ब्रुवन्॥ ४॥
+सञ्चचालासनात् तूर्णं शिष्यानर्घ्यमिति ब्रुवन्॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -267,13 +264,13 @@ title_english = "090 Bharata proceeds to see Bharadwaja"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तं मामेवंगतं मत्वा प्रसादं कर्तुमर्हसि।  
+तं मामेवङ्गतं मत्वा प्रसादं कर्तुमर्हसि।  
 शंस मे भगवन् रामः क्व सम्प्रति महीपतिः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तं मामेवंगतं मत्वा प्रसादं कर्तुमर्हसि।  
+तं मामेवङ्गतं मत्वा प्रसादं कर्तुमर्हसि।  
 शंस मे भगवन् रामः क्व सम्प्रति महीपतिः॥ १८॥
 </details>
 
@@ -393,3 +390,4 @@ title_english = "090 Bharata proceeds to see Bharadwaja"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे नवतितमः सर्गः॥ ९०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें नब्बेवाँ सर्ग पूरा हुआ॥ ९०॥
 </details>
+

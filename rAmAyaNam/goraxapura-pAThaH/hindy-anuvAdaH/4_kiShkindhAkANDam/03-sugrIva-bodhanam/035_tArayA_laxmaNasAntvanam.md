@@ -4,11 +4,8 @@ title_english = "035 Tara appeases Lakshmana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-035-Tharaya_Lakshmana_Santhvanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-035-Tharaya_Lakshmana_Santhvanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -86,13 +83,13 @@ title_english = "035 Tara appeases Lakshmana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रामप्रसादात् कीर्तिं च कपिराज्यं च शाश्वतम्।  
-प्राप्तवानिह सुग्रीवो रुमां मां च परंतप॥ ५॥
+प्राप्तवानिह सुग्रीवो रुमां मां च परन्तप॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रामप्रसादात् कीर्तिं च कपिराज्यं च शाश्वतम्।  
-प्राप्तवानिह सुग्रीवो रुमां मां च परंतप॥ ५॥
+प्राप्तवानिह सुग्रीवो रुमां मां च परन्तप॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -385,14 +382,14 @@ title_english = "035 Tara appeases Lakshmana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ऋक्षकोटिसहस्राणि गोलाङ्गूलशतानि च।  
-अद्य त्वामुपयास्यन्ति जहि कोपमरिंदम।  
+अद्य त्वामुपयास्यन्ति जहि कोपमरिन्दम।  
 कोट्योऽनेकास्तु काकुत्स्थ कपीनां दीप्ततेजसाम्॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ऋक्षकोटिसहस्राणि गोलाङ्गूलशतानि च।  
-अद्य त्वामुपयास्यन्ति जहि कोपमरिंदम।  
+अद्य त्वामुपयास्यन्ति जहि कोपमरिन्दम।  
 कोट्योऽनेकास्तु काकुत्स्थ कपीनां दीप्ततेजसाम्॥ २२॥
 </details>
 
@@ -427,3 +424,4 @@ title_english = "035 Tara appeases Lakshmana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे पञ्चत्रिंशः सर्गः॥ ३५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें पैंतीसवाँ सर्ग पूरा हुआ॥ ३५॥
 </details>
+

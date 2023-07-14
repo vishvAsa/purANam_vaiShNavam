@@ -4,11 +4,8 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-031-Rama_enters_Lanka_at_Suvela_Mountain_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-031-Rama_enters_Lanka_at_Suvela_Mountain_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -20,7 +17,7 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 ततस्तमक्षोभ्यबलं लङ्कायां नृपतेश्चराः।  
 सुवेले राघवं शैले निविष्टं प्रत्यवेदयन्॥ १॥  
 चाराणां रावणः श्रुत्वा प्राप्तं रामं महाबलम्।  
-जातोद्वेगोऽभवत् किंचित् सचिवानिदमब्रवीत्॥ २॥
+जातोद्वेगोऽभवत् किञ्चित् सचिवानिदमब्रवीत्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -28,7 +25,7 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 ततस्तमक्षोभ्यबलं लङ्कायां नृपतेश्चराः।  
 सुवेले राघवं शैले निविष्टं प्रत्यवेदयन्॥ १॥  
 चाराणां रावणः श्रुत्वा प्राप्तं रामं महाबलम्।  
-जातोद्वेगोऽभवत् किंचित् सचिवानिदमब्रवीत्॥ २॥
+जातोद्वेगोऽभवत् किञ्चित् सचिवानिदमब्रवीत्॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -286,13 +283,13 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संनिविष्टः समुद्रस्य पीड्य तीरमथोत्तरम्।  
+सन्निविष्टः समुद्रस्य पीड्य तीरमथोत्तरम्।  
 बलेन महता रामो व्रजत्यस्तं दिवाकरे॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संनिविष्टः समुद्रस्य पीड्य तीरमथोत्तरम्।  
+सन्निविष्टः समुद्रस्य पीड्य तीरमथोत्तरम्।  
 बलेन महता रामो व्रजत्यस्तं दिवाकरे॥ १९॥
 </details>
 
@@ -584,13 +581,13 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राक्षसं क्रूरकर्माणं विद्युज्जिह्वं समानय।  
-येन तद्राघवशिरः संग्रामात् स्वयमाहृतम्॥ ३८॥
+येन तद्राघवशिरः सङ्ग्रामात् स्वयमाहृतम्॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 राक्षसं क्रूरकर्माणं विद्युज्जिह्वं समानय।  
-येन तद्राघवशिरः संग्रामात् स्वयमाहृतम्॥ ३८॥
+येन तद्राघवशिरः सङ्ग्रामात् स्वयमाहृतम्॥ ३८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -713,3 +710,4 @@ title_english = "031 Rama enters Lanka at Suvela Mountain"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकत्रिंशः सर्गः॥ ३१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें इकतीसवाँ सर्ग पूरा हुआ॥ ३१॥
 </details>
+

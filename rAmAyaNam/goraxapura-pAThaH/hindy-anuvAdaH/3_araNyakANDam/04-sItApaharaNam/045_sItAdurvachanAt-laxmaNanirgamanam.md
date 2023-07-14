@@ -4,11 +4,8 @@ title_english = "045 Seetha rebukes Lakshmana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-045-Sitaa_Durvachanath_Lakshamana_Nirgamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-045-Sitaa_Durvachanath_Lakshamana_Nirgamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -189,7 +186,7 @@ title_english = "045 Seetha rebukes Lakshmana"
 न त्वामस्मिन् वने हातुमुत्सहे राघवं विना।  
 अनिवार्यं बलं तस्य बलैर्बलवतामपि॥ १४॥  
 त्रिभिर्लोकैः समुदितैः सेश्वरैः सामरैरपि।  
-हृदयं निर्वृतं तेऽस्तु संतापस्त्यज्यतां तव॥ १५॥
+हृदयं निर्वृतं तेऽस्तु सन्तापस्त्यज्यतां तव॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -197,7 +194,7 @@ title_english = "045 Seetha rebukes Lakshmana"
 न त्वामस्मिन् वने हातुमुत्सहे राघवं विना।  
 अनिवार्यं बलं तस्य बलैर्बलवतामपि॥ १४॥  
 त्रिभिर्लोकैः समुदितैः सेश्वरैः सामरैरपि।  
-हृदयं निर्वृतं तेऽस्तु संतापस्त्यज्यतां तव॥ १५॥
+हृदयं निर्वृतं तेऽस्तु सन्तापस्त्यज्यतां तव॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -421,14 +418,14 @@ title_english = "045 Seetha rebukes Lakshmana"
 
 विमुक्तधर्माश्चपलास्तीक्ष्णा भेदकराः स्त्रियः।  
 न सहे हीदृशं वाक्यं वैदेहि जनकात्मजे॥ ३०॥  
-श्रोत्रयोरुभयोर्मध्ये तप्तनाराचसंनिभम्।
+श्रोत्रयोरुभयोर्मध्ये तप्तनाराचसन्निभम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 विमुक्तधर्माश्चपलास्तीक्ष्णा भेदकराः स्त्रियः।  
 न सहे हीदृशं वाक्यं वैदेहि जनकात्मजे॥ ३०॥  
-श्रोत्रयोरुभयोर्मध्ये तप्तनाराचसंनिभम्।
+श्रोत्रयोरुभयोर्मध्ये तप्तनाराचसन्निभम्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -538,7 +535,7 @@ title_english = "045 Seetha rebukes Lakshmana"
 तामार्तरूपां विमना रुदन्तीं  
 सौमित्रिरालोक्य विशालनेत्राम्।  
 आश्वासयामास न चैव भर्तु-  
-स्तं भ्रातरं किंचिदुवाच सीता॥ ३९॥
+स्तं भ्रातरं किञ्चिदुवाच सीता॥ ३९॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -546,7 +543,7 @@ title_english = "045 Seetha rebukes Lakshmana"
 तामार्तरूपां विमना रुदन्तीं  
 सौमित्रिरालोक्य विशालनेत्राम्।  
 आश्वासयामास न चैव भर्तु-  
-स्तं भ्रातरं किंचिदुवाच सीता॥ ३९॥
+स्तं भ्रातरं किञ्चिदुवाच सीता॥ ३९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -557,7 +554,7 @@ title_english = "045 Seetha rebukes Lakshmana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तु सीतामभिवाद्य लक्ष्मणः  
-कृताञ्जलिः किंचिदभिप्रणम्य।  
+कृताञ्जलिः किञ्चिदभिप्रणम्य।  
 अवेक्षमाणो बहुशः स मैथिलीं  
 जगाम रामस्य समीपमात्मवान्॥ ४०॥
 </details>
@@ -565,7 +562,7 @@ title_english = "045 Seetha rebukes Lakshmana"
 <details><summary>मूलम्</summary>
 
 ततस्तु सीतामभिवाद्य लक्ष्मणः  
-कृताञ्जलिः किंचिदभिप्रणम्य।  
+कृताञ्जलिः किञ्चिदभिप्रणम्य।  
 अवेक्षमाणो बहुशः स मैथिलीं  
 जगाम रामस्य समीपमात्मवान्॥ ४०॥
 </details>
@@ -580,3 +577,4 @@ title_english = "045 Seetha rebukes Lakshmana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे पञ्चचत्वारिंशः सर्गः॥ ४५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें पैंतालीसवाँ सर्ग पूरा हुआ॥ ४५॥
 </details>
+

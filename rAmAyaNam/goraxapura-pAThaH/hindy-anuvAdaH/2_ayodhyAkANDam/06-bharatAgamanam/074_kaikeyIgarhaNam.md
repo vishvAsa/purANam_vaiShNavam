@@ -4,11 +4,8 @@ title_english = "074 Bharata then promises that he would bring Rama back"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-074-Kaikeyee_Garhanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-074-Kaikeyee_Garhanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -310,13 +307,13 @@ title_english = "074 Bharata then promises that he would bring Rama back"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तां दृष्ट्वा शोकसंतप्तां वज्रपाणिर्यशस्विनीम्।  
+तां दृष्ट्वा शोकसन्तप्तां वज्रपाणिर्यशस्विनीम्।  
 इन्द्रः प्राञ्जलिरुद्विग्नः सुरराजोऽब्रवीद् वचः॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तां दृष्ट्वा शोकसंतप्तां वज्रपाणिर्यशस्विनीम्।  
+तां दृष्ट्वा शोकसन्तप्तां वज्रपाणिर्यशस्विनीम्।  
 इन्द्रः प्राञ्जलिरुद्विग्नः सुरराजोऽब्रवीद् वचः॥ १९॥
 </details>
 
@@ -361,13 +358,13 @@ title_english = "074 Bharata then promises that he would bring Rama back"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शान्तं पापं न वः किंचित् कुतश्चिदमराधिप।  
+शान्तं पापं न वः किञ्चित् कुतश्चिदमराधिप।  
 अहं तु मग्नौ शोचामि स्व पुत्रौ विषमे स्थितौ॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-शान्तं पापं न वः किंचित् कुतश्चिदमराधिप।  
+शान्तं पापं न वः किञ्चित् कुतश्चिदमराधिप।  
 अहं तु मग्नौ शोचामि स्व पुत्रौ विषमे स्थितौ॥ २२॥
 </details>
 
@@ -518,13 +515,13 @@ title_english = "074 Bharata then promises that he would bring Rama back"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नह्यहं पापसंकल्पे पापे पापं त्वया कृतम्।  
+नह्यहं पापसङ्कल्पे पापे पापं त्वया कृतम्।  
 शक्तो धारयितुं पौरैरश्रुकण्ठैर्निरीक्षितः॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नह्यहं पापसंकल्पे पापे पापं त्वया कृतम्।  
+नह्यहं पापसङ्कल्पे पापे पापं त्वया कृतम्।  
 शक्तो धारयितुं पौरैरश्रुकण्ठैर्निरीक्षितः॥ ३२॥
 </details>
 
@@ -570,13 +567,13 @@ title_english = "074 Bharata then promises that he would bring Rama back"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इति नाग इवारण्ये तोमराङ्कुशतोदितः।  
-पपात भुवि संक्रुद्धो निःश्वसन्निव पन्नगः॥ ३५॥
+पपात भुवि सङ्क्रुद्धो निःश्वसन्निव पन्नगः॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इति नाग इवारण्ये तोमराङ्कुशतोदितः।  
-पपात भुवि संक्रुद्धो निःश्वसन्निव पन्नगः॥ ३५॥
+पपात भुवि सङ्क्रुद्धो निःश्वसन्निव पन्नगः॥ ३५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -587,7 +584,7 @@ title_english = "074 Bharata then promises that he would bring Rama back"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 संरक्तनेत्रः शिथिलाम्बरस्तथा  
-विधूतसर्वाभरणः परंतपः।  
+विधूतसर्वाभरणः परन्तपः।  
 बभूव भूमौ पतितो नृपात्मजः  
 शचीपतेः केतुरिवोत्सवक्षये॥ ३६॥
 </details>
@@ -595,7 +592,7 @@ title_english = "074 Bharata then promises that he would bring Rama back"
 <details><summary>मूलम्</summary>
 
 संरक्तनेत्रः शिथिलाम्बरस्तथा  
-विधूतसर्वाभरणः परंतपः।  
+विधूतसर्वाभरणः परन्तपः।  
 बभूव भूमौ पतितो नृपात्मजः  
 शचीपतेः केतुरिवोत्सवक्षये॥ ३६॥
 </details>
@@ -610,3 +607,4 @@ title_english = "074 Bharata then promises that he would bring Rama back"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे चतुःसप्ततितमः सर्गः॥ ७४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें चौहत्तरवाँ सर्ग पूरा हुआ॥ ७४॥
 </details>
+

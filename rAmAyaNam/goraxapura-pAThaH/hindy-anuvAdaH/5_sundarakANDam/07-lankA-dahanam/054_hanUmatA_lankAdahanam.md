@@ -4,11 +4,8 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-053-Later_Ravana_orders_to_set_fire_to_his_tail.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-053-Later_Ravana_orders_to_set_fire_to_his_tail.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किं नु खल्ववशिष्टं मे कर्तव्यमिह साम्प्रतम्।  
-यदेषां रक्षसां भूयः संतापजननं भवेत्॥ २॥
+यदेषां रक्षसां भूयः सन्तापजननं भवेत्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 किं नु खल्ववशिष्टं मे कर्तव्यमिह साम्प्रतम्।  
-यदेषां रक्षसां भूयः संतापजननं भवेत्॥ २॥
+यदेषां रक्षसां भूयः सन्तापजननं भवेत्॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -86,13 +83,13 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यो ह्ययं मम लाङ्गूले दीप्यते हव्यवाहनः।  
-अस्य संतर्पणं न्याय्यं कर्तुमेभिर्गृहोत्तमैः॥ ५॥
+अस्य सन्तर्पणं न्याय्यं कर्तुमेभिर्गृहोत्तमैः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यो ह्ययं मम लाङ्गूले दीप्यते हव्यवाहनः।  
-अस्य संतर्पणं न्याय्यं कर्तुमेभिर्गृहोत्तमैः॥ ५॥
+अस्य सन्तर्पणं न्याय्यं कर्तुमेभिर्गृहोत्तमैः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -120,13 +117,13 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहाद् गृहं राक्षसानामुद्यानानि च वानरः।  
-वीक्षमाणो ह्यसंत्रस्तः प्रासादांश्च चचार सः॥ ७॥
+वीक्षमाणो ह्यसन्त्रस्तः प्रासादांश्च चचार सः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गृहाद् गृहं राक्षसानामुद्यानानि च वानरः।  
-वीक्षमाणो ह्यसंत्रस्तः प्रासादांश्च चचार सः॥ ७॥
+वीक्षमाणो ह्यसन्त्रस्तः प्रासादांश्च चचार सः॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -272,7 +269,7 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्तस्मिन् गृहे मुख्ये नानारत्नविभूषिते।  
-मेरुमन्दरसंकाशे नानामङ्गलशोभिते॥ १९॥  
+मेरुमन्दरसङ्काशे नानामङ्गलशोभिते॥ १९॥  
 प्रदीप्तमग्निमुत्सृज्य लाङ्गूलाग्रे प्रतिष्ठितम्।  
 ननाद हनुमान् वीरो युगान्तजलदो यथा॥ २०॥
 </details>
@@ -280,7 +277,7 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 <details><summary>मूलम्</summary>
 
 ततस्तस्मिन् गृहे मुख्ये नानारत्नविभूषिते।  
-मेरुमन्दरसंकाशे नानामङ्गलशोभिते॥ १९॥  
+मेरुमन्दरसङ्काशे नानामङ्गलशोभिते॥ १९॥  
 प्रदीप्तमग्निमुत्सृज्य लाङ्गूलाग्रे प्रतिष्ठितम्।  
 ननाद हनुमान् वीरो युगान्तजलदो यथा॥ २०॥
 </details>
@@ -330,15 +327,15 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भवनानीव सिद्धानामम्बरात् पुण्यसंक्षये।  
-संजज्ञे तुमुलः शब्दो राक्षसानां प्रधावताम्॥ २४॥  
+भवनानीव सिद्धानामम्बरात् पुण्यसङ्क्षये।  
+सञ्जज्ञे तुमुलः शब्दो राक्षसानां प्रधावताम्॥ २४॥  
 स्वे स्वे गृहपरित्राणे भग्नोत्साहोज्झितश्रियाम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-भवनानीव सिद्धानामम्बरात् पुण्यसंक्षये।  
-संजज्ञे तुमुलः शब्दो राक्षसानां प्रधावताम्॥ २४॥  
+भवनानीव सिद्धानामम्बरात् पुण्यसङ्क्षये।  
+सञ्जज्ञे तुमुलः शब्दो राक्षसानां प्रधावताम्॥ २४॥  
 स्वे स्वे गृहपरित्राणे भग्नोत्साहोज्झितश्रियाम्।
 </details>
 
@@ -350,13 +347,13 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनमेषोऽग्निरायातः कपिरूपेण हा इति॥ २५॥  
-क्रन्दन्त्यः सहसा पेतुः स्तनंधयधराः स्त्रियः।
+क्रन्दन्त्यः सहसा पेतुः स्तनन्धयधराः स्त्रियः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 नूनमेषोऽग्निरायातः कपिरूपेण हा इति॥ २५॥  
-क्रन्दन्त्यः सहसा पेतुः स्तनंधयधराः स्त्रियः।
+क्रन्दन्त्यः सहसा पेतुः स्तनन्धयधराः स्त्रियः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -401,14 +398,14 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नाग्निस्तृप्यति काष्ठानां तृणानां च यथा तथा॥ २८॥  
-हनूमान् राक्षसेन्द्राणां वधे किंचिन्न तृप्यति।  
+हनूमान् राक्षसेन्द्राणां वधे किञ्चिन्न तृप्यति।  
 न हनूमद्विशस्तानां राक्षसानां वसुन्धरा॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नाग्निस्तृप्यति काष्ठानां तृणानां च यथा तथा॥ २८॥  
-हनूमान् राक्षसेन्द्राणां वधे किंचिन्न तृप्यति।  
+हनूमान् राक्षसेन्द्राणां वधे किञ्चिन्न तृप्यति।  
 न हनूमद्विशस्तानां राक्षसानां वसुन्धरा॥ २९॥
 </details>
 
@@ -631,7 +628,7 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 ससम्भ्रमं त्रस्तविषण्णराक्षसां  
 समुज्ज्वलज्ज्वालहुताशनाङ्किताम्।  
 ददर्श लङ्कां हनुमान् महामनाः  
-स्वयंभुरोषोपहतामिवावनिम्॥ ४२॥
+स्वयम्भुरोषोपहतामिवावनिम्॥ ४२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -639,7 +636,7 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 ससम्भ्रमं त्रस्तविषण्णराक्षसां  
 समुज्ज्वलज्ज्वालहुताशनाङ्किताम्।  
 ददर्श लङ्कां हनुमान् महामनाः  
-स्वयंभुरोषोपहतामिवावनिम्॥ ४२॥
+स्वयम्भुरोषोपहतामिवावनिम्॥ ४२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -649,7 +646,7 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-भङ्‍क्त्वा वनं पादपरत्नसंकुलं  
+भङ्‍क्त्वा वनं पादपरत्नसङ्कुलं  
 हत्वा तु रक्षांसि महान्ति संयुगे।  
 दग्ध्वा पुरीं तां गृहरत्नमालिनीं  
 तस्थौ हनूमान् पवनात्मजः कपिः॥ ४३॥
@@ -657,7 +654,7 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 
 <details><summary>मूलम्</summary>
 
-भङ्‍क्त्वा वनं पादपरत्नसंकुलं  
+भङ्‍क्त्वा वनं पादपरत्नसङ्कुलं  
 हत्वा तु रक्षांसि महान्ति संयुगे।  
 दग्ध्वा पुरीं तां गृहरत्नमालिनीं  
 तस्थौ हनूमान् पवनात्मजः कपिः॥ ४३॥
@@ -806,13 +803,13 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं दृष्ट्वा वानरश्रेष्ठं हनूमन्तं महाकपिम्।  
-कालाग्निरिति संचिन्त्य सर्वभूतानि तत्रसुः॥ ५१॥
+कालाग्निरिति सञ्चिन्त्य सर्वभूतानि तत्रसुः॥ ५१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तं दृष्ट्वा वानरश्रेष्ठं हनूमन्तं महाकपिम्।  
-कालाग्निरिति संचिन्त्य सर्वभूतानि तत्रसुः॥ ५१॥
+कालाग्निरिति सञ्चिन्त्य सर्वभूतानि तत्रसुः॥ ५१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -825,3 +822,4 @@ title_english = "054 Hanuma makes up his mind to set fire the city of Lanka"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे चतुःपञ्चाशः सर्गः॥ ५४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें चौवनवाँ सर्ग पूरा हुआ॥ ५४॥
 </details>
+

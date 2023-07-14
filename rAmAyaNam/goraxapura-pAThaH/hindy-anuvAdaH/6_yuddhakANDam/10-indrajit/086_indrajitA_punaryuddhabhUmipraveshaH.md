@@ -4,11 +4,8 @@ title_english = "086 Indrajit enters the battle filed again"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-086-Indrajit_enters_the_battle-filed_again_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-086-Indrajit_enters_the_battle-filed_again_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -140,13 +137,13 @@ title_english = "086 Indrajit enters the battle filed again"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स सम्प्रहारस्तुमुलः संजज्ञे कपिरक्षसाम्।  
+स सम्प्रहारस्तुमुलः सञ्जज्ञे कपिरक्षसाम्।  
 शब्देन महता लङ्कां नादयन् वै समन्ततः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स सम्प्रहारस्तुमुलः संजज्ञे कपिरक्षसाम्।  
+स सम्प्रहारस्तुमुलः सञ्जज्ञे कपिरक्षसाम्।  
 शब्देन महता लङ्कां नादयन् वै समन्ततः॥ ९॥
 </details>
 
@@ -294,13 +291,13 @@ title_english = "086 Indrajit enters the battle filed again"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिंस्तु काले हनुमानरुजत् स दुरासदम्।  
-धरणीधरसंकाशो महावृक्षमरिंदमः॥ १८॥
+धरणीधरसङ्काशो महावृक्षमरिन्दमः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्मिंस्तु काले हनुमानरुजत् स दुरासदम्।  
-धरणीधरसंकाशो महावृक्षमरिंदमः॥ १८॥
+धरणीधरसङ्काशो महावृक्षमरिन्दमः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -311,13 +308,13 @@ title_english = "086 Indrajit enters the battle filed again"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स राक्षसानां तत् सैन्यं कालाग्निरिव निर्दहन्।  
-चकार बहुभिर्वृक्षैर्निःसंज्ञं युधि वानरः॥ १९॥
+चकार बहुभिर्वृक्षैर्निःसञ्ज्ञं युधि वानरः॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स राक्षसानां तत् सैन्यं कालाग्निरिव निर्दहन्।  
-चकार बहुभिर्वृक्षैर्निःसंज्ञं युधि वानरः॥ १९॥
+चकार बहुभिर्वृक्षैर्निःसञ्ज्ञं युधि वानरः॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -364,9 +361,9 @@ title_english = "086 Indrajit enters the battle filed again"
 परिघैश्च गदाभिश्च कुन्तैश्च शुभदर्शनैः।  
 शतशश्च शतघ्नीभिरायसैरपि मुद‍्गरैः॥ २२॥  
 घोरैः परशुभिश्चैव भिन्दिपालैश्च राक्षसाः।  
-मुष्टिभिर्वज्रकल्पैश्च तलैरशनिसंनिभैः॥ २३॥  
+मुष्टिभिर्वज्रकल्पैश्च तलैरशनिसन्निभैः॥ २३॥  
 अभिजघ्नुः समासाद्य समन्तात् पर्वतोपमम्।  
-तेषामपि च संक्रुद्धश्चकार कदनं महत्॥ २४॥
+तेषामपि च सङ्क्रुद्धश्चकार कदनं महत्॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -374,9 +371,9 @@ title_english = "086 Indrajit enters the battle filed again"
 परिघैश्च गदाभिश्च कुन्तैश्च शुभदर्शनैः।  
 शतशश्च शतघ्नीभिरायसैरपि मुद‍्गरैः॥ २२॥  
 घोरैः परशुभिश्चैव भिन्दिपालैश्च राक्षसाः।  
-मुष्टिभिर्वज्रकल्पैश्च तलैरशनिसंनिभैः॥ २३॥  
+मुष्टिभिर्वज्रकल्पैश्च तलैरशनिसन्निभैः॥ २३॥  
 अभिजघ्नुः समासाद्य समन्तात् पर्वतोपमम्।  
-तेषामपि च संक्रुद्धश्चकार कदनं महत्॥ २४॥
+तेषामपि च सङ्क्रुद्धश्चकार कदनं महत्॥ २४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -387,13 +384,13 @@ title_english = "086 Indrajit enters the battle filed again"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स ददर्श कपिश्रेष्ठमचलोपममिन्द्रजित्।  
-सूदमानमसंत्रस्तममित्रान् पवनात्मजम्॥ २५॥
+सूदमानमसन्त्रस्तममित्रान् पवनात्मजम्॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स ददर्श कपिश्रेष्ठमचलोपममिन्द्रजित्।  
-सूदमानमसंत्रस्तममित्रान् पवनात्मजम्॥ २५॥
+सूदमानमसन्त्रस्तममित्रान् पवनात्मजम्॥ २५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -545,7 +542,7 @@ title_english = "086 Indrajit enters the battle filed again"
 
 इत्येवमुक्तस्तु तदा महात्मा  
 विभीषणेनारिविभीषणेन।  
-ददर्श तं पर्वतसंनिकाशं  
+ददर्श तं पर्वतसन्निकाशं  
 रथस्थितं भीमबलं दुरासदम्॥ ३५॥
 </details>
 
@@ -553,7 +550,7 @@ title_english = "086 Indrajit enters the battle filed again"
 
 इत्येवमुक्तस्तु तदा महात्मा  
 विभीषणेनारिविभीषणेन।  
-ददर्श तं पर्वतसंनिकाशं  
+ददर्श तं पर्वतसन्निकाशं  
 रथस्थितं भीमबलं दुरासदम्॥ ३५॥
 </details>
 
@@ -567,3 +564,4 @@ title_english = "086 Indrajit enters the battle filed again"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे षडशीतितमः सर्गः॥ ८६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें छियासीवाँ सर्ग पूरा हुआ॥ ८६॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "112 The sages requests Bharata to accept Rama s words"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-112-Padukaa_Pradaanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-112-Padukaa_Pradaanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "112 The sages requests Bharata to accept Rama s words"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमप्रतिमतेजोभ्यां भ्रातृभ्यां रोमहर्षणम्।  
-विस्मिताः संगमं प्रेक्ष्य समुपेता महर्षयः॥ १॥
+विस्मिताः सङ्गमं प्रेक्ष्य समुपेता महर्षयः॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तमप्रतिमतेजोभ्यां भ्रातृभ्यां रोमहर्षणम्।  
-विस्मिताः संगमं प्रेक्ष्य समुपेता महर्षयः॥ १॥
+विस्मिताः सङ्गमं प्रेक्ष्य समुपेता महर्षयः॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -69,13 +66,13 @@ title_english = "112 The sages requests Bharata to accept Rama s words"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततस्त्वृषिगणाः क्षिप्रं दशग्रीववधैषिणः।  
-भरतं राजशार्दूलमित्यूचुः संगता वचः॥ ४॥
+भरतं राजशार्दूलमित्यूचुः सङ्गता वचः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततस्त्वृषिगणाः क्षिप्रं दशग्रीववधैषिणः।  
-भरतं राजशार्दूलमित्यूचुः संगता वचः॥ ४॥
+भरतं राजशार्दूलमित्यूचुः सङ्गता वचः॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -170,13 +167,13 @@ title_english = "112 The sages requests Bharata to accept Rama s words"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-राम धर्ममिमं प्रेक्ष्य कुलधर्मानुसंततम्।  
+राम धर्ममिमं प्रेक्ष्य कुलधर्मानुसन्ततम्।  
 कर्तुमर्हसि काकुत्स्थ मम मातुश्च याचनाम्॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-राम धर्ममिमं प्रेक्ष्य कुलधर्मानुसंततम्।  
+राम धर्ममिमं प्रेक्ष्य कुलधर्मानुसन्ततम्।  
 कर्तुमर्हसि काकुत्स्थ मम मातुश्च याचनाम्॥ १०॥
 </details>
 
@@ -341,13 +338,13 @@ title_english = "112 The sages requests Bharata to accept Rama s words"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं ब्रुवाणं भरतः कौसल्यासुतमब्रवीत्।  
-तेजसाऽऽदित्यसंकाशं प्रतिपच्चन्द्रदर्शनम्॥ २०॥
+तेजसाऽऽदित्यसङ्काशं प्रतिपच्चन्द्रदर्शनम्॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवं ब्रुवाणं भरतः कौसल्यासुतमब्रवीत्।  
-तेजसाऽऽदित्यसंकाशं प्रतिपच्चन्द्रदर्शनम्॥ २०॥
+तेजसाऽऽदित्यसङ्काशं प्रतिपच्चन्द्रदर्शनम्॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -394,8 +391,8 @@ title_english = "112 The sages requests Bharata to accept Rama s words"
 स पादुके सम्प्रणम्य रामं वचनमब्रवीत्।  
 चतुर्दश हि वर्षाणि जटाचीरधरो ह्यहम्॥ २३॥  
 फलमूलाशनो वीर भवेयं रघुनन्दन।  
-तवागमनमाकांक्षन् वसन् वै नगराद् बहिः॥ २४॥  
-तव पादुकयोर्न्यस्य राज्यतन्त्रं परंतप।
+तवागमनमाकाङ्क्षन् वसन् वै नगराद् बहिः॥ २४॥  
+तव पादुकयोर्न्यस्य राज्यतन्त्रं परन्तप।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -403,8 +400,8 @@ title_english = "112 The sages requests Bharata to accept Rama s words"
 स पादुके सम्प्रणम्य रामं वचनमब्रवीत्।  
 चतुर्दश हि वर्षाणि जटाचीरधरो ह्यहम्॥ २३॥  
 फलमूलाशनो वीर भवेयं रघुनन्दन।  
-तवागमनमाकांक्षन् वसन् वै नगराद् बहिः॥ २४॥  
-तव पादुकयोर्न्यस्य राज्यतन्त्रं परंतप।
+तवागमनमाकाङ्क्षन् वसन् वै नगराद् बहिः॥ २४॥  
+तव पादुकयोर्न्यस्य राज्यतन्त्रं परन्तप।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -467,7 +464,7 @@ title_english = "112 The sages requests Bharata to accept Rama s words"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स पादुके ते भरतः स्वलंकृते  
+स पादुके ते भरतः स्वलङ्कृते  
 महोज्ज्वले सम्परिगृह्य धर्मवित् ।  
 प्रदक्षिणं चैव चकार राघवं  
 चकार चैवोत्तमनागमूर्धनि॥ २९॥
@@ -475,7 +472,7 @@ title_english = "112 The sages requests Bharata to accept Rama s words"
 
 <details><summary>मूलम्</summary>
 
-स पादुके ते भरतः स्वलंकृते  
+स पादुके ते भरतः स्वलङ्कृते  
 महोज्ज्वले सम्परिगृह्य धर्मवित् ।  
 प्रदक्षिणं चैव चकार राघवं  
 चकार चैवोत्तमनागमूर्धनि॥ २९॥
@@ -533,3 +530,4 @@ title_english = "112 The sages requests Bharata to accept Rama s words"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे द्वादशाधिकशततमः सर्गः॥ ११२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ बारहवाँ सर्ग पूरा हुआ॥ ११२॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "047 The debate of Seetha and Ravana is started"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-047-Ravanena_Swaishwarya_Kathanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-047-Ravanena_Swaishwarya_Kathanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -121,14 +118,14 @@ title_english = "047 The debate of Seetha and Ravana is started"
 
 परिगृह्य तु कैकेयी श्वशुरं सुकृतेन मे।  
 मम प्रव्राजनं भर्तुर्भरतस्याभिषेचनम्॥ ७॥  
-द्वावयाचत भर्तारं सत्यसंधं नृपोत्तमम्।
+द्वावयाचत भर्तारं सत्यसन्धं नृपोत्तमम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 परिगृह्य तु कैकेयी श्वशुरं सुकृतेन मे।  
 मम प्रव्राजनं भर्तुर्भरतस्याभिषेचनम्॥ ७॥  
-द्वावयाचत भर्तारं सत्यसंधं नृपोत्तमम्।
+द्वावयाचत भर्तारं सत्यसन्धं नृपोत्तमम्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -527,13 +524,13 @@ title_english = "047 The debate of Seetha and Ravana is started"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वलक्षणसम्पन्नं न्यग्रोधपरिमण्डलम्।  
-सत्यसंधं महाभागमहं राममनुव्रता॥ ३४॥
+सत्यसन्धं महाभागमहं राममनुव्रता॥ ३४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सर्वलक्षणसम्पन्नं न्यग्रोधपरिमण्डलम्।  
-सत्यसंधं महाभागमहं राममनुव्रता॥ ३४॥
+सत्यसन्धं महाभागमहं राममनुव्रता॥ ३४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -544,13 +541,13 @@ title_english = "047 The debate of Seetha and Ravana is started"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 महाबाहुं महोरस्कं सिंहविक्रान्तगामिनम्।  
-नृसिंहं सिंहसंकाशमहं राममनुव्रता॥ ३५॥
+नृसिंहं सिंहसङ्काशमहं राममनुव्रता॥ ३५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 महाबाहुं महोरस्कं सिंहविक्रान्तगामिनम्।  
-नृसिंहं सिंहसंकाशमहं राममनुव्रता॥ ३५॥
+नृसिंहं सिंहसङ्काशमहं राममनुव्रता॥ ३५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -818,3 +815,4 @@ title_english = "047 The debate of Seetha and Ravana is started"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे सप्तचत्वारिंशः सर्गः॥ ४७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें सैंतालीसवाँ सर्ग पूरा हुआ॥ ४७॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "018 Rama s elucidation of dharma to vali"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-018-Ramena_Valivadha_Samardhanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-018-Ramena_Valivadha_Samardhanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -128,13 +125,13 @@ title_english = "018 Rama s elucidation of dharma to vali"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्य धर्मकृतादेशा वयमन्ये च पार्थिवाः।  
-चरामो वसुधां कृत्स्नां धर्मसंतानमिच्छवः॥ ९॥
+चरामो वसुधां कृत्स्नां धर्मसन्तानमिच्छवः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्य धर्मकृतादेशा वयमन्ये च पार्थिवाः।  
-चरामो वसुधां कृत्स्नां धर्मसंतानमिच्छवः॥ ९॥
+चरामो वसुधां कृत्स्नां धर्मसन्तानमिच्छवः॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -178,13 +175,13 @@ title_english = "018 Rama s elucidation of dharma to vali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वं तु संक्लिष्टधर्मश्च कर्मणा च विगर्हितः।  
+त्वं तु सङ्क्लिष्टधर्मश्च कर्मणा च विगर्हितः।  
 कामतन्त्रप्रधानश्च न स्थितो राजवर्त्मनि॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्वं तु संक्लिष्टधर्मश्च कर्मणा च विगर्हितः।  
+त्वं तु सङ्क्लिष्टधर्मश्च कर्मणा च विगर्हितः।  
 कामतन्त्रप्रधानश्च न स्थितो राजवर्त्मनि॥ १२॥
 </details>
 
@@ -420,7 +417,7 @@ title_english = "018 Rama s elucidation of dharma to vali"
 
 सुग्रीवेण च मे सख्यं लक्ष्मणेन यथा तथा।  
 दारराज्यनिमित्तं च निःश्रेयस्करः स मे॥ २६॥  
-प्रतिज्ञा च मया दत्ता तदा वानरसंनिधौ।  
+प्रतिज्ञा च मया दत्ता तदा वानरसन्निधौ।  
 प्रतिज्ञा च कथं शक्या मद्विधेनानवेक्षितुम्॥ २७॥
 </details>
 
@@ -428,7 +425,7 @@ title_english = "018 Rama s elucidation of dharma to vali"
 
 सुग्रीवेण च मे सख्यं लक्ष्मणेन यथा तथा।  
 दारराज्यनिमित्तं च निःश्रेयस्करः स मे॥ २६॥  
-प्रतिज्ञा च मया दत्ता तदा वानरसंनिधौ।  
+प्रतिज्ञा च मया दत्ता तदा वानरसन्निधौ।  
 प्रतिज्ञा च कथं शक्या मद्विधेनानवेक्षितुम्॥ २७॥
 </details>
 
@@ -578,13 +575,13 @@ title_english = "018 Rama s elucidation of dharma to vali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शृणु चाप्यपरं भूयः कारणं हरिपुंगव।  
+शृणु चाप्यपरं भूयः कारणं हरिपुङ्गव।  
 तच्छ्रुत्वा हि महद् वीर न मन्युं कर्तुमर्हसि॥ ३६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-शृणु चाप्यपरं भूयः कारणं हरिपुंगव।  
+शृणु चाप्यपरं भूयः कारणं हरिपुङ्गव।  
 तच्छ्रुत्वा हि महद् वीर न मन्युं कर्तुमर्हसि॥ ३६॥
 </details>
 
@@ -595,7 +592,7 @@ title_english = "018 Rama s elucidation of dharma to vali"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न मे तत्र मनस्तापो न मन्युर्हरिपुंगव।  
+न मे तत्र मनस्तापो न मन्युर्हरिपुङ्गव।  
 वागुराभिश्च पाशैश्च कूटैश्च विविधैर्नराः॥ ३७॥  
 प्रतिच्छन्नाश्च दृश्याश्च गृह्णन्ति सुबहून् मृगान्।  
 प्रधावितान् वा वित्रस्तान् विस्रब्धानतिविष्ठितान्॥ ३८॥
@@ -603,7 +600,7 @@ title_english = "018 Rama s elucidation of dharma to vali"
 
 <details><summary>मूलम्</summary>
 
-न मे तत्र मनस्तापो न मन्युर्हरिपुंगव।  
+न मे तत्र मनस्तापो न मन्युर्हरिपुङ्गव।  
 वागुराभिश्च पाशैश्च कूटैश्च विविधैर्नराः॥ ३७॥  
 प्रतिच्छन्नाश्च दृश्याश्च गृह्णन्ति सुबहून् मृगान्।  
 प्रधावितान् वा वित्रस्तान् विस्रब्धानतिविष्ठितान्॥ ३८॥
@@ -645,7 +642,6 @@ title_english = "018 Rama s elucidation of dharma to vali"
 
 One of the aikShvAkava's justifications for killing vAlin. In the process, he mentions that hunting was practiced specifically by v2 R^iShi-s. Does this imply that only v2 R^iShi-s had the sanction to hunt? May be, though earlier vaidika texts indicate v1 R^iShi-s like gaurivIti shAktya of the vasiShTha clan hunted to obtain meat for the pashu-puroDhASha-s.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -924,13 +920,13 @@ One of the aikShvAkava's justifications for killing vAlin. In the process, he me
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्वत्तोऽहं वधमाकांक्षन् वार्यमाणोऽपि तारया॥ ५७॥  
+त्वत्तोऽहं वधमाकाङ्क्षन् वार्यमाणोऽपि तारया॥ ५७॥  
 सुग्रीवेण सह भ्रात्रा द्वन्द्वयुद्धमुपागतः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्वत्तोऽहं वधमाकांक्षन् वार्यमाणोऽपि तारया॥ ५७॥  
+त्वत्तोऽहं वधमाकाङ्क्षन् वार्यमाणोऽपि तारया॥ ५७॥  
 सुग्रीवेण सह भ्रात्रा द्वन्द्वयुद्धमुपागतः।
 </details>
 
@@ -944,7 +940,7 @@ One of the aikShvAkava's justifications for killing vAlin. In the process, he me
 इत्युक्त्वा वानरो रामं विरराम हरीश्वरः॥ ५८॥  
 स तमाश्वासयद् रामो वालिनं व्यक्तदर्शनम्।  
 साधुसम्मतया वाचा धर्मतत्त्वार्थयुक्तया॥ ५९॥  
-न संतापस्त्वया कार्य एतदर्थं प्लवङ्गम।  
+न सन्तापस्त्वया कार्य एतदर्थं प्लवङ्गम।  
 न वयं भवता चिन्त्या नाप्यात्मा हरिसत्तम।  
 वयं भवद्विशेषेण धर्मतः कृतनिश्चयाः॥ ६०॥
 </details>
@@ -954,7 +950,7 @@ One of the aikShvAkava's justifications for killing vAlin. In the process, he me
 इत्युक्त्वा वानरो रामं विरराम हरीश्वरः॥ ५८॥  
 स तमाश्वासयद् रामो वालिनं व्यक्तदर्शनम्।  
 साधुसम्मतया वाचा धर्मतत्त्वार्थयुक्तया॥ ५९॥  
-न संतापस्त्वया कार्य एतदर्थं प्लवङ्गम।  
+न सन्तापस्त्वया कार्य एतदर्थं प्लवङ्गम।  
 न वयं भवता चिन्त्या नाप्यात्मा हरिसत्तम।  
 वयं भवद्विशेषेण धर्मतः कृतनिश्चयाः॥ ६०॥
 </details>
@@ -1079,3 +1075,4 @@ One of the aikShvAkava's justifications for killing vAlin. In the process, he me
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डेऽष्टादशः सर्गः॥ १८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें अठारहवाँ सर्ग पूरा हुआ॥ १८॥
 </details>
+

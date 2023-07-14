@@ -4,11 +4,8 @@ title_english = "096 Rama hears a gigantic clamour of an army"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-096-Bharatham_Prathi_Lakshmana_Vikalpaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-096-Bharatham_Prathi_Lakshmana_Vikalpaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -139,7 +136,7 @@ title_english = "096 Rama hears a gigantic clamour of an army"
 गजयूथानि वारण्ये महिषा वा महावने।  
 वित्रासिता मृगाः सिंहैः सहसा प्रद्रुता दिशः॥ ८॥  
 राजा वा राजपुत्रो वा मृगयामटते वने।  
-अन्यद्वा श्वापदं किंचित् सौमित्रे ज्ञातुमर्हसि॥ ९॥
+अन्यद्वा श्वापदं किञ्चित् सौमित्रे ज्ञातुमर्हसि॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -147,7 +144,7 @@ title_english = "096 Rama hears a gigantic clamour of an army"
 गजयूथानि वारण्ये महिषा वा महावने।  
 वित्रासिता मृगाः सिंहैः सहसा प्रद्रुता दिशः॥ ८॥  
 राजा वा राजपुत्रो वा मृगयामटते वने।  
-अन्यद्वा श्वापदं किंचित् सौमित्रे ज्ञातुमर्हसि॥ ९॥
+अन्यद्वा श्वापदं किञ्चित् सौमित्रे ज्ञातुमर्हसि॥ ९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -174,13 +171,13 @@ title_english = "096 Rama hears a gigantic clamour of an army"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स लक्ष्मणः संत्वरितः सालमारुह्य पुष्पितम्।  
+स लक्ष्मणः सन्त्वरितः सालमारुह्य पुष्पितम्।  
 प्रेक्षमाणो दिशः सर्वाः पूर्वां दिशमवैक्षत॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स लक्ष्मणः संत्वरितः सालमारुह्य पुष्पितम्।  
+स लक्ष्मणः सन्त्वरितः सालमारुह्य पुष्पितम्।  
 प्रेक्षमाणो दिशः सर्वाः पूर्वां दिशमवैक्षत॥ ११॥
 </details>
 
@@ -328,13 +325,13 @@ title_english = "096 Rama hears a gigantic clamour of an army"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीतधनुषावावां गिरिं वीर श्रयावहे।  
-अथवेहैव तिष्ठावः संनद्धावुद्यतायुधौ॥ २०॥
+अथवेहैव तिष्ठावः सन्नद्धावुद्यतायुधौ॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गृहीतधनुषावावां गिरिं वीर श्रयावहे।  
-अथवेहैव तिष्ठावः संनद्धावुद्यतायुधौ॥ २०॥
+अथवेहैव तिष्ठावः सन्नद्धावुद्यतायुधौ॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -399,15 +396,15 @@ title_english = "096 Rama hears a gigantic clamour of an army"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एतस्मिन् निहते कृत्स्नामनुशाधि वसुंधराम्।  
-अद्य पुत्रं हतं संख्ये कैकेयी राज्यकामुका॥ २५॥  
+एतस्मिन् निहते कृत्स्नामनुशाधि वसुन्धराम्।  
+अद्य पुत्रं हतं सङ्ख्ये कैकेयी राज्यकामुका॥ २५॥  
 मया पश्येत् सुदुःखार्ता हस्तिभिन्नमिव द्रुमम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-एतस्मिन् निहते कृत्स्नामनुशाधि वसुंधराम्।  
-अद्य पुत्रं हतं संख्ये कैकेयी राज्यकामुका॥ २५॥  
+एतस्मिन् निहते कृत्स्नामनुशाधि वसुन्धराम्।  
+अद्य पुत्रं हतं सङ्ख्ये कैकेयी राज्यकामुका॥ २५॥  
 मया पश्येत् सुदुःखार्ता हस्तिभिन्नमिव द्रुमम्।
 </details>
 
@@ -506,3 +503,4 @@ title_english = "096 Rama hears a gigantic clamour of an army"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे षण्णवतितमः सर्ग॥ ९६॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें छियानबेवाँ सर्ग पूरा हुआ॥ ९६॥
 </details>
+

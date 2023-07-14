@@ -4,11 +4,8 @@ title_english = "007 Estimable nature of king dasharatha s ministers"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-007-Mantriguna_Gouravam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-007-Mantriguna_Gouravam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -101,13 +98,13 @@ title_english = "007 Estimable nature of king dasharatha s ministers"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेषामविदितं किंचित् स्वेषु नास्ति परेषु वा।  
+तेषामविदितं किञ्चित् स्वेषु नास्ति परेषु वा।  
 क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम्॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तेषामविदितं किंचित् स्वेषु नास्ति परेषु वा।  
+तेषामविदितं किञ्चित् स्वेषु नास्ति परेषु वा।  
 क्रियमाणं कृतं वापि चारेणापि चिकीर्षितम्॥ ९॥
 </details>
 
@@ -135,13 +132,13 @@ title_english = "007 Estimable nature of king dasharatha s ministers"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कोशसंग्रहणे युक्ता बलस्य च परिग्रहे।  
+कोशसङ्ग्रहणे युक्ता बलस्य च परिग्रहे।  
 अहितं चापि पुरुषं न हिंस्युरविदूषकम्॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-कोशसंग्रहणे युक्ता बलस्य च परिग्रहे।  
+कोशसङ्ग्रहणे युक्ता बलस्य च परिग्रहे।  
 अहितं चापि पुरुषं न हिंस्युरविदूषकम्॥ ११॥
 </details>
 
@@ -242,13 +239,13 @@ title_english = "007 Estimable nature of king dasharatha s ministers"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अभितो गुणवन्तश्च न चासन् गुणवर्जिताः।  
-संधिविग्रहतत्त्वज्ञाः प्रकृत्या सम्पदान्विताः॥ १८॥
+सन्धिविग्रहतत्त्वज्ञाः प्रकृत्या सम्पदान्विताः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अभितो गुणवन्तश्च न चासन् गुणवर्जिताः।  
-संधिविग्रहतत्त्वज्ञाः प्रकृत्या सम्पदान्विताः॥ १८॥
+सन्धिविग्रहतत्त्वज्ञाः प्रकृत्या सम्पदान्विताः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -309,13 +306,13 @@ title_english = "007 Estimable nature of king dasharatha s ministers"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसंगरः+++(=सत्यसन्धिः)+++।  
+विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसङ्गरः+++(=सत्यसन्धिः)+++।  
 स तत्र पुरुषव्याघ्रः शशास पृथिवीमिमाम्॥ २२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसंगरः।  
+विश्रुतस्त्रिषु लोकेषु वदान्यः सत्यसङ्गरः।  
 स तत्र पुरुषव्याघ्रः शशास पृथिवीमिमाम्॥ २२॥
 </details>
 
@@ -369,3 +366,4 @@ title_english = "007 Estimable nature of king dasharatha s ministers"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे सप्तमः सर्गः॥ ७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें सातवाँ सर्ग पूरा हुआ॥ ७॥
 </details>
+

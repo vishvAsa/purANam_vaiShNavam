@@ -4,11 +4,8 @@ title_english = "051 The combat of Jataayu and Ravana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-051-Jataayu_Ravana_Yudhdham.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-051-Jataayu_Ravana_Yudhdham.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -125,13 +122,13 @@ title_english = "051 The combat of Jataayu and Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ क्रोधाद् दशग्रीवो जग्राह दश मार्गणान्।  
-मृत्युदण्डनिभान् घोरान् शत्रोर्निधनकांक्षया॥ ७॥
+मृत्युदण्डनिभान् घोरान् शत्रोर्निधनकाङ्क्षया॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथ क्रोधाद् दशग्रीवो जग्राह दश मार्गणान्।  
-मृत्युदण्डनिभान् घोरान् शत्रोर्निधनकांक्षया॥ ७॥
+मृत्युदण्डनिभान् घोरान् शत्रोर्निधनकाङ्क्षया॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -529,13 +526,13 @@ title_english = "051 The combat of Jataayu and Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पापानुबन्धो वै यस्य कर्मणः को नु तत् पुमान्।  
-कुर्वीत लोकाधिपतिः स्वयंभूर्भगवानपि॥ ३२॥
+कुर्वीत लोकाधिपतिः स्वयम्भूर्भगवानपि॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पापानुबन्धो वै यस्य कर्मणः को नु तत् पुमान्।  
-कुर्वीत लोकाधिपतिः स्वयंभूर्भगवानपि॥ ३२॥
+कुर्वीत लोकाधिपतिः स्वयम्भूर्भगवानपि॥ ३२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -618,13 +615,13 @@ title_english = "051 The combat of Jataayu and Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जटायुस्तमतिक्रम्य तुण्डेनास्य खगाधिपः।  
-वामबाहून् दश तदा व्यपाहरदरिंदमः॥ ३८॥
+वामबाहून् दश तदा व्यपाहरदरिन्दमः॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 जटायुस्तमतिक्रम्य तुण्डेनास्य खगाधिपः।  
-वामबाहून् दश तदा व्यपाहरदरिंदमः॥ ३८॥
+वामबाहून् दश तदा व्यपाहरदरिन्दमः॥ ३८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -634,13 +631,13 @@ title_english = "051 The combat of Jataayu and Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संछिन्नबाहोः सद्यो वै बाहवः सहसाभवन्।  
+सञ्छिन्नबाहोः सद्यो वै बाहवः सहसाभवन्।  
 विषज्वालावलीयुक्ता वल्मीकादिव पन्नगाः॥ ३९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संछिन्नबाहोः सद्यो वै बाहवः सहसाभवन्।  
+सञ्छिन्नबाहोः सद्यो वै बाहवः सहसाभवन्।  
 विषज्वालावलीयुक्ता वल्मीकादिव पन्नगाः॥ ३९॥
 </details>
 
@@ -668,13 +665,13 @@ title_english = "051 The combat of Jataayu and Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो मुहूर्तं संग्रामो बभूवातुलवीर्ययोः।  
+ततो मुहूर्तं सङ्ग्रामो बभूवातुलवीर्ययोः।  
 राक्षसानां च मुख्यस्य पक्षिणां प्रवरस्य च॥ ४१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततो मुहूर्तं संग्रामो बभूवातुलवीर्ययोः।  
+ततो मुहूर्तं सङ्ग्रामो बभूवातुलवीर्ययोः।  
 राक्षसानां च मुख्यस्य पक्षिणां प्रवरस्य च॥ ४१॥
 </details>
 
@@ -759,7 +756,7 @@ title_english = "051 The combat of Jataayu and Ravana"
 
 ततस्तु तं पत्ररथं महीतले  
 निपातितं रावणवेगमर्दितम्।  
-पुनश्च संगृह्य शशिप्रभानना  
+पुनश्च सङ्गृह्य शशिप्रभानना  
 रुरोद सीता जनकात्मजा तदा॥ ४६॥
 </details>
 
@@ -767,7 +764,7 @@ title_english = "051 The combat of Jataayu and Ravana"
 
 ततस्तु तं पत्ररथं महीतले  
 निपातितं रावणवेगमर्दितम्।  
-पुनश्च संगृह्य शशिप्रभानना  
+पुनश्च सङ्गृह्य शशिप्रभानना  
 रुरोद सीता जनकात्मजा तदा॥ ४६॥
 </details>
 
@@ -781,3 +778,4 @@ title_english = "051 The combat of Jataayu and Ravana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे एकपञ्चाशः सर्गः॥ ५१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें इक्यावनवाँ सर्ग पूरा हुआ॥ ५१॥
 </details>
+

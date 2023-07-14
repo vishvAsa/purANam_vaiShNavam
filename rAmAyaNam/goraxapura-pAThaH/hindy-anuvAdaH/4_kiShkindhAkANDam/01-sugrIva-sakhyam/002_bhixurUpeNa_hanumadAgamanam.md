@@ -4,11 +4,8 @@ title_english = "002 The fearless Hanuma"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-002-Bhikshu_Rupena_Hanumad_Aagamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-002-Bhikshu_Rupena_Hanumad_Aagamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "002 The fearless Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उद्विग्नहृदयः सर्वा दिशः समवलोकयन्।  
-न व्यतिष्ठत कस्मिंश्चिद् देशे वानरपुंगवः॥ २॥
+न व्यतिष्ठत कस्मिंश्चिद् देशे वानरपुङ्गवः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 उद्विग्नहृदयः सर्वा दिशः समवलोकयन्।  
-न व्यतिष्ठत कस्मिंश्चिद् देशे वानरपुंगवः॥ २॥
+न व्यतिष्ठत कस्मिंश्चिद् देशे वानरपुङ्गवः॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -192,13 +189,13 @@ title_english = "002 The fearless Hanuma"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सुग्रीवसचिवाः पर्वतेन्द्रे समाहिताः।  
-संगम्य कपिमुख्येन सर्वे प्राञ्जलयः स्थिताः॥ १२॥
+सङ्गम्य कपिमुख्येन सर्वे प्राञ्जलयः स्थिताः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः सुग्रीवसचिवाः पर्वतेन्द्रे समाहिताः।  
-संगम्य कपिमुख्येन सर्वे प्राञ्जलयः स्थिताः॥ १२॥
+सङ्गम्य कपिमुख्येन सर्वे प्राञ्जलयः स्थिताः॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -208,13 +205,13 @@ title_english = "002 The fearless Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततस्तु भयसंत्रस्तं वालिकिल्बिषशङ्कितम्।  
+ततस्तु भयसन्त्रस्तं वालिकिल्बिषशङ्कितम्।  
 उवाच हनुमान् वाक्यं सुग्रीवं वाक्यकोविदः॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततस्तु भयसंत्रस्तं वालिकिल्बिषशङ्कितम्।  
+ततस्तु भयसन्त्रस्तं वालिकिल्बिषशङ्कितम्।  
 उवाच हनुमान् वाक्यं सुग्रीवं वाक्यकोविदः॥ १३॥
 </details>
 
@@ -395,13 +392,13 @@ title_english = "002 The fearless Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तौ त्वया प्राकृतेनेव गत्वा ज्ञेयौ प्लवंगम।  
+तौ त्वया प्राकृतेनेव गत्वा ज्ञेयौ प्लवङ्गम।  
 इङ्गितानां प्रकारैश्च रूपव्याभाषणेन च॥ २४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तौ त्वया प्राकृतेनेव गत्वा ज्ञेयौ प्लवंगम।  
+तौ त्वया प्राकृतेनेव गत्वा ज्ञेयौ प्लवङ्गम।  
 इङ्गितानां प्रकारैश्च रूपव्याभाषणेन च॥ २४॥
 </details>
 
@@ -463,13 +460,13 @@ title_english = "002 The fearless Hanuma"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्येवं कपिराजेन संदिष्टो मारुतात्मजः।  
+इत्येवं कपिराजेन सन्दिष्टो मारुतात्मजः।  
 चकार गमने बुद्धिं यत्र तौ रामलक्ष्मणौ॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इत्येवं कपिराजेन संदिष्टो मारुतात्मजः।  
+इत्येवं कपिराजेन सन्दिष्टो मारुतात्मजः।  
 चकार गमने बुद्धिं यत्र तौ रामलक्ष्मणौ॥ २८॥
 </details>
 
@@ -504,3 +501,4 @@ title_english = "002 The fearless Hanuma"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे द्वितीयः सर्गः॥ २॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें दूसरा सर्ग पूरा हुआ॥ २॥
 </details>
+

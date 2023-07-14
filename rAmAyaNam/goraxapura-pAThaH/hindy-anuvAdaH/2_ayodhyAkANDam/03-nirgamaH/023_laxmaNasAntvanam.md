@@ -4,11 +4,8 @@ title_english = "023 Lakshmana s angry words"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-023-Lakshmana_Santhvanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-023-Lakshmana_Santhvanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -728,7 +725,7 @@ title_english = "023 Lakshmana s angry words"
 **ब्रवीहि** कोऽद्यैव मया **वियुज्यतां**  
 तवासुहृत् प्राण-यशः--सुहृज्-जनैः।  
 यथा तवेयं वसुधा **वशा भवेत्**  
-तथैव **मां शाधि** तवास्मि किंकरः॥ ४०॥
+तथैव **मां शाधि** तवास्मि किङ्करः॥ ४०॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -736,7 +733,7 @@ title_english = "023 Lakshmana s angry words"
 ब्रवीहि कोऽद्यैव मया वियुज्यतां  
 तवासुहृत् प्राणयशःसुहृज्जनैः।  
 यथा तवेयं वसुधा वशा भवेत्  
-तथैव मां शाधि तवास्मि किंकरः॥ ४०॥
+तथैव मां शाधि तवास्मि किङ्करः॥ ४०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -770,3 +767,4 @@ title_english = "023 Lakshmana s angry words"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्रयोविंशः सर्गः॥ २३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें तेईसवाँ सर्ग पूरा हुआ॥ २३॥
 </details>
+

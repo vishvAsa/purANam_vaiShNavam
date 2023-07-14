@@ -4,11 +4,8 @@ title_english = "012 Hanuma s depression"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-012-Hanuma_s_depression.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-012-Hanuma_s_depression.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -139,13 +136,13 @@ title_english = "012 Hanuma s depression"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं नु मां वानराः सर्वे गतं वक्ष्यन्ति संगताः।  
+किं नु मां वानराः सर्वे गतं वक्ष्यन्ति सङ्गताः।  
 गत्वा तत्र त्वया वीर किं कृतं तद् वदस्व नः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-किं नु मां वानराः सर्वे गतं वक्ष्यन्ति संगताः।  
+किं नु मां वानराः सर्वे गतं वक्ष्यन्ति सङ्गताः।  
 गत्वा तत्र त्वया वीर किं कृतं तद् वदस्व नः॥ ७॥
 </details>
 
@@ -173,13 +170,13 @@ title_english = "012 Hanuma s depression"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-किं वा वक्ष्यति वृद्धश्च जाम्बवानंगदश्च सः।  
+किं वा वक्ष्यति वृद्धश्च जाम्बवानङ्गदश्च सः।  
 गतं पारं समुद्रस्य वानराश्च समागताः॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-किं वा वक्ष्यति वृद्धश्च जाम्बवानंगदश्च सः।  
+किं वा वक्ष्यति वृद्धश्च जाम्बवानङ्गदश्च सः।  
 गतं पारं समुद्रस्य वानराश्च समागताः॥ ९॥
 </details>
 
@@ -244,7 +241,7 @@ title_english = "012 Hanuma s depression"
 आपानशाला विचितास्तथा पुष्पगृहाणि च।  
 चित्रशालाश्च विचिता भूयः क्रीडागृहाणि च॥ १३॥  
 निष्कुटान्तररथ्याश्च विमानानि च सर्वशः।  
-इति संचिन्त्य भूयोऽपि विचेतुमुपचक्रमे॥ १४॥
+इति सञ्चिन्त्य भूयोऽपि विचेतुमुपचक्रमे॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -252,7 +249,7 @@ title_english = "012 Hanuma s depression"
 आपानशाला विचितास्तथा पुष्पगृहाणि च।  
 चित्रशालाश्च विचिता भूयः क्रीडागृहाणि च॥ १३॥  
 निष्कुटान्तररथ्याश्च विमानानि च सर्वशः।  
-इति संचिन्त्य भूयोऽपि विचेतुमुपचक्रमे॥ १४॥
+इति सञ्चिन्त्य भूयोऽपि विचेतुमुपचक्रमे॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -297,14 +294,14 @@ title_english = "012 Hanuma s depression"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सर्वमप्यवकाशं स विचचार महाकपिः।  
-चतुरंगुलमात्रोऽपि नावकाशः स विद्यते।  
+चतुरङ्गुलमात्रोऽपि नावकाशः स विद्यते।  
 रावणान्तःपुरे तस्मिन् यं कपिर्न जगाम सः॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सर्वमप्यवकाशं स विचचार महाकपिः।  
-चतुरंगुलमात्रोऽपि नावकाशः स विद्यते।  
+चतुरङ्गुलमात्रोऽपि नावकाशः स विद्यते।  
 रावणान्तःपुरे तस्मिन् यं कपिर्न जगाम सः॥ १७॥
 </details>
 
@@ -454,3 +451,4 @@ title_english = "012 Hanuma s depression"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे द्वादशः सर्गः॥ १२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें बारहवाँ सर्ग पूरा हुआ॥ १२॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "053 Ravana sends Vajradamstra"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-053-Ravana_sends_Vajradamstra_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-053-Ravana_sends_Vajradamstra_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -86,13 +83,13 @@ title_english = "053 Ravana sends Vajradamstra"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नागैरश्वैः खरैरुष्ट्रैः संयुक्तः सुसमाहितः।  
-पताकाध्वजचित्रैश्च बहुभिः समलंकृतः॥ ५॥
+पताकाध्वजचित्रैश्च बहुभिः समलङ्कृतः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 नागैरश्वैः खरैरुष्ट्रैः संयुक्तः सुसमाहितः।  
-पताकाध्वजचित्रैश्च बहुभिः समलंकृतः॥ ५॥
+पताकाध्वजचित्रैश्च बहुभिः समलङ्कृतः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -119,13 +116,13 @@ title_english = "053 Ravana sends Vajradamstra"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-पताकालंकृतं दीप्तं तप्तकाञ्चनभूषितम्।  
+पताकालङ्कृतं दीप्तं तप्तकाञ्चनभूषितम्।  
 रथं प्रदक्षिणं कृत्वा समारोहच्चमूपतिः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-पताकालंकृतं दीप्तं तप्तकाञ्चनभूषितम्।  
+पताकालङ्कृतं दीप्तं तप्तकाञ्चनभूषितम्।  
 रथं प्रदक्षिणं कृत्वा समारोहच्चमूपतिः॥ ७॥
 </details>
 
@@ -378,7 +375,7 @@ title_english = "053 Ravana sends Vajradamstra"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-केचिदस्त्राणि संत्यज्य बाहुयुद्धमकुर्वत॥ २३॥  
+केचिदस्त्राणि सन्त्यज्य बाहुयुद्धमकुर्वत॥ २३॥  
 तलैश्च चरणैश्चापि मुष्टिभिश्च द्रुमैरपि।  
 जानुभिश्च हताः केचिद् भग्नदेहाश्च राक्षसाः।  
 शिलाभिश्चूर्णिताः केचिद् वानरैर्युद्धदुर्मदैः॥ २४॥
@@ -386,7 +383,7 @@ title_english = "053 Ravana sends Vajradamstra"
 
 <details><summary>मूलम्</summary>
 
-केचिदस्त्राणि संत्यज्य बाहुयुद्धमकुर्वत॥ २३॥  
+केचिदस्त्राणि सन्त्यज्य बाहुयुद्धमकुर्वत॥ २३॥  
 तलैश्च चरणैश्चापि मुष्टिभिश्च द्रुमैरपि।  
 जानुभिश्च हताः केचिद् भग्नदेहाश्च राक्षसाः।  
 शिलाभिश्चूर्णिताः केचिद् वानरैर्युद्धदुर्मदैः॥ २४॥
@@ -487,13 +484,13 @@ title_english = "053 Ravana sends Vajradamstra"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रथैश्चित्रैर्ध्वजैरश्वैः शरीरैर्हरिरक्षसाम्॥ ३०॥  
-रुधिरौघेण संछन्ना भूमिर्भयकरी तदा।
+रुधिरौघेण सञ्छन्ना भूमिर्भयकरी तदा।
 </details>
 
 <details><summary>मूलम्</summary>
 
 रथैश्चित्रैर्ध्वजैरश्वैः शरीरैर्हरिरक्षसाम्॥ ३०॥  
-रुधिरौघेण संछन्ना भूमिर्भयकरी तदा।
+रुधिरौघेण सञ्छन्ना भूमिर्भयकरी तदा।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -503,13 +500,13 @@ title_english = "053 Ravana sends Vajradamstra"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-हारकेयूरवस्त्रैश्च शस्त्रैश्च समलंकृता॥ ३१॥  
+हारकेयूरवस्त्रैश्च शस्त्रैश्च समलङ्कृता॥ ३१॥  
 भूमिर्भाति रणे तत्र शारदीव यथा निशा।
 </details>
 
 <details><summary>मूलम्</summary>
 
-हारकेयूरवस्त्रैश्च शस्त्रैश्च समलंकृता॥ ३१॥  
+हारकेयूरवस्त्रैश्च शस्त्रैश्च समलङ्कृता॥ ३१॥  
 भूमिर्भाति रणे तत्र शारदीव यथा निशा।
 </details>
 
@@ -540,3 +537,4 @@ title_english = "053 Ravana sends Vajradamstra"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्रिपञ्चाशः सर्गः॥ ५३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें तिरपनवाँ सर्ग पूरा हुआ॥ ५३॥
 </details>
+

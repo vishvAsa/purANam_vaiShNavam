@@ -4,11 +4,8 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-085-Rama_sends_Lakshmana_to_kill_Indrajit_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-085-Rama_sends_Lakshmana_to_kill_Indrajit_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -34,14 +31,14 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो धैर्यमवष्टभ्य रामः परपुरंजयः।  
-विभीषणमुपासीनमुवाच कपिसंनिधौ॥ २॥
+ततो धैर्यमवष्टभ्य रामः परपुरञ्जयः।  
+विभीषणमुपासीनमुवाच कपिसन्निधौ॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततो धैर्यमवष्टभ्य रामः परपुरंजयः।  
-विभीषणमुपासीनमुवाच कपिसंनिधौ॥ २॥
+ततो धैर्यमवष्टभ्य रामः परपुरञ्जयः।  
+विभीषणमुपासीनमुवाच कपिसन्निधौ॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -120,13 +117,13 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भूयस्तु मम विज्ञाप्यं तच्छृणुष्व महाप्रभो।  
-त्वय्यकारणसंतप्ते संतप्तहृदया वयम्॥ ७॥
+त्वय्यकारणसन्तप्ते सन्तप्तहृदया वयम्॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 भूयस्तु मम विज्ञाप्यं तच्छृणुष्व महाप्रभो।  
-त्वय्यकारणसंतप्ते संतप्तहृदया वयम्॥ ७॥
+त्वय्यकारणसन्तप्ते सन्तप्तहृदया वयम्॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -136,13 +133,13 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-त्यज राजन्निमं शोकं मिथ्या संतापमागतम्।  
+त्यज राजन्निमं शोकं मिथ्या सन्तापमागतम्।  
 यदियं त्यज्यतां चिन्ता शत्रुहर्षविवर्धिनी॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-त्यज राजन्निमं शोकं मिथ्या संतापमागतम्।  
+त्यज राजन्निमं शोकं मिथ्या सन्तापमागतम्।  
 यदियं त्यज्यतां चिन्ता शत्रुहर्षविवर्धिनी॥ ८॥
 </details>
 
@@ -190,13 +187,13 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धनुर्मण्डलनिर्मुक्तैराशीविषविषोपमैः॥ ११॥  
-शरैर्हन्तुं महेष्वासो रावणिं समितिंजयः।
+शरैर्हन्तुं महेष्वासो रावणिं समितिञ्जयः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 धनुर्मण्डलनिर्मुक्तैराशीविषविषोपमैः॥ ११॥  
-शरैर्हन्तुं महेष्वासो रावणिं समितिंजयः।
+शरैर्हन्तुं महेष्वासो रावणिं समितिञ्जयः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -206,13 +203,13 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तेन वीरेण तपसा वरदानात् स्वयंभुवः।  
+तेन वीरेण तपसा वरदानात् स्वयम्भुवः।  
 अस्त्रं ब्रह्मशिरः प्राप्तं कामगाश्च तुरङ्गमाः॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तेन वीरेण तपसा वरदानात् स्वयंभुवः।  
+तेन वीरेण तपसा वरदानात् स्वयम्भुवः।  
 अस्त्रं ब्रह्मशिरः प्राप्तं कामगाश्च तुरङ्गमाः॥ १२॥
 </details>
 
@@ -261,13 +258,13 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वधायेन्द्रजितो राम संदिशस्व महाबलम्।  
+वधायेन्द्रजितो राम सन्दिशस्व महाबलम्।  
 हते तस्मिन् हतं विद्धि रावणं ससुहृद‍्गणम्॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वधायेन्द्रजितो राम संदिशस्व महाबलम्।  
+वधायेन्द्रजितो राम सन्दिशस्व महाबलम्।  
 हते तस्मिन् हतं विद्धि रावणं ससुहृद‍्गणम्॥ १६॥
 </details>
 
@@ -296,13 +293,13 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स हि ब्रह्मास्त्रवित् प्राज्ञो महामायो महाबलः।  
-करोत्यसंज्ञान् संग्रामे देवान् सवरुणानपि॥ १८॥
+करोत्यसञ्ज्ञान् सङ्ग्रामे देवान् सवरुणानपि॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स हि ब्रह्मास्त्रवित् प्राज्ञो महामायो महाबलः।  
-करोत्यसंज्ञान् संग्रामे देवान् सवरुणानपि॥ १८॥
+करोत्यसञ्ज्ञान् सङ्ग्रामे देवान् सवरुणानपि॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -388,13 +385,13 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संनद्धः कवची खड्गी सशरी वामचापभृत्।  
+सन्नद्धः कवची खड्गी सशरी वामचापभृत्।  
 रामपादावुपस्पृश्य हृष्टः सौमित्रिरब्रवीत्॥ २५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संनद्धः कवची खड्गी सशरी वामचापभृत्।  
+सन्नद्धः कवची खड्गी सशरी वामचापभृत्।  
 रामपादावुपस्पृश्य हृष्टः सौमित्रिरब्रवीत्॥ २५॥
 </details>
 
@@ -440,13 +437,13 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवमुक्त्वा तु वचनं द्युतिमान् भ्रातुरग्रतः।  
-स रावणिवधाकांक्षी लक्ष्मणस्त्वरितं ययौ॥ २८॥
+स रावणिवधाकाङ्क्षी लक्ष्मणस्त्वरितं ययौ॥ २८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एवमुक्त्वा तु वचनं द्युतिमान् भ्रातुरग्रतः।  
-स रावणिवधाकांक्षी लक्ष्मणस्त्वरितं ययौ॥ २८॥
+स रावणिवधाकाङ्क्षी लक्ष्मणस्त्वरितं ययौ॥ २८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -541,13 +538,13 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स सम्प्राप्य धनुष्पाणिर्मायायोगमरिंदमः।  
+स सम्प्राप्य धनुष्पाणिर्मायायोगमरिन्दमः।  
 तस्थौ ब्रह्मविधानेन विजेतुं रघुनन्दनः॥ ३४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-स सम्प्राप्य धनुष्पाणिर्मायायोगमरिंदमः।  
+स सम्प्राप्य धनुष्पाणिर्मायायोगमरिन्दमः।  
 तस्थौ ब्रह्मविधानेन विजेतुं रघुनन्दनः॥ ३४॥
 </details>
 
@@ -599,3 +596,4 @@ title_english = "085 Rama sends Lakshmana to kill Indrajit"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे पञ्चाशीतितमः सर्गः॥ ८५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें पचासीवाँ सर्ग पूरा हुआ॥ ८५॥
 </details>
+

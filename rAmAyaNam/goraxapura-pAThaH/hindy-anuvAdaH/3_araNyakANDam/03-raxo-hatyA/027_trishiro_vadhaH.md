@@ -4,11 +4,8 @@ title_english = "027 Elimination of Trishira"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-027-Thrishiro_Vadhaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-027-Thrishiro_Vadhaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "027 Elimination of Trishira"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 खरं तु रामाभिमुखं प्रयान्तं वाहिनीपतिः।  
-राक्षसस्त्रिशिरा नाम संनिपत्येदमब्रवीत्॥ १॥
+राक्षसस्त्रिशिरा नाम सन्निपत्येदमब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 खरं तु रामाभिमुखं प्रयान्तं वाहिनीपतिः।  
-राक्षसस्त्रिशिरा नाम संनिपत्येदमब्रवीत्॥ १॥
+राक्षसस्त्रिशिरा नाम सन्निपत्येदमब्रवीत्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -240,14 +237,14 @@ title_english = "027 Elimination of Trishira"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-चतुर्भिस्तुरगानस्य शरैः संनतपर्वभिः॥ १४॥  
+चतुर्भिस्तुरगानस्य शरैः सन्नतपर्वभिः॥ १४॥  
 न्यपातयत तेजस्वी चतुरस्तस्य वाजिनः।  
 अष्टभिः सायकैः सूतं रथोपस्थे न्यपातयत्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-चतुर्भिस्तुरगानस्य शरैः संनतपर्वभिः॥ १४॥  
+चतुर्भिस्तुरगानस्य शरैः सन्नतपर्वभिः॥ १४॥  
 न्यपातयत तेजस्वी चतुरस्तस्य वाजिनः।  
 अष्टभिः सायकैः सूतं रथोपस्थे न्यपातयत्॥ १५॥
 </details>
@@ -349,3 +346,4 @@ title_english = "027 Elimination of Trishira"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे सप्तविंशः सर्गः॥ २७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें सत्ताईसवाँ सर्ग पूरा हुआ॥ २७॥
 </details>
+

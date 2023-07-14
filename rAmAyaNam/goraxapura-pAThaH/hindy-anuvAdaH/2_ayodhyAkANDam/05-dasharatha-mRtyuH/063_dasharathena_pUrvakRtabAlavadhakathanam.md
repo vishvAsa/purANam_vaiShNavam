@@ -4,11 +4,8 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-063-Dashrathena_Poorvakrutha_Balavadha_Kathanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-063-Dashrathena_Poorvakrutha_Balavadha_Kathanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -204,13 +201,13 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तदिदं मेऽनुसम्प्राप्तं देवि दुःखं स्वयंकृतम्।  
+तदिदं मेऽनुसम्प्राप्तं देवि दुःखं स्वयङ्कृतम्।  
 सम्मोहादिह बालेन यथा स्याद् भक्षितं विषम्॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तदिदं मेऽनुसम्प्राप्तं देवि दुःखं स्वयंकृतम्।  
+तदिदं मेऽनुसम्प्राप्तं देवि दुःखं स्वयङ्कृतम्।  
 सम्मोहादिह बालेन यथा स्याद् भक्षितं विषम्॥ १२॥
 </details>
 
@@ -324,13 +321,13 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पाण्डुरारुणवर्णानि स्रोतांसि विमलान्यपि।  
-सुस्रुवुर्गिरिधातुभ्यः सभस्मानि भुजंगवत्॥ १९॥
+सुस्रुवुर्गिरिधातुभ्यः सभस्मानि भुजङ्गवत्॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पाण्डुरारुणवर्णानि स्रोतांसि विमलान्यपि।  
-सुस्रुवुर्गिरिधातुभ्यः सभस्मानि भुजंगवत्॥ १९॥
+सुस्रुवुर्गिरिधातुभ्यः सभस्मानि भुजङ्गवत्॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -341,13 +338,13 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन्नतिसुखे काले धनुष्मानिषुमान् रथी।  
-व्यायामकृतसंकल्पः सरयूमन्वगां नदीम्॥ २०॥
+व्यायामकृतसङ्कल्पः सरयूमन्वगां नदीम्॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्मिन्नतिसुखे काले धनुष्मानिषुमान् रथी।  
-व्यायामकृतसंकल्पः सरयूमन्वगां नदीम्॥ २०॥
+व्यायामकृतसङ्कल्पः सरयूमन्वगां नदीम्॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -358,13 +355,13 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निपाने महिषं रात्रौ गजं वाभ्यागतं मृगम्।  
-अन्यद् वा श्वापदं किंचिज्जिघांसुरजितेन्द्रियः॥ २१॥
+अन्यद् वा श्वापदं किञ्चिज्जिघांसुरजितेन्द्रियः॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 निपाने महिषं रात्रौ गजं वाभ्यागतं मृगम्।  
-अन्यद् वा श्वापदं किंचिज्जिघांसुरजितेन्द्रियः॥ २१॥
+अन्यद् वा श्वापदं किञ्चिज्जिघांसुरजितेन्द्रियः॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -498,13 +495,13 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तां गिरं करुणं श्रुत्वा मम धर्मानुकांक्षिणः॥ ३३॥  
+तां गिरं करुणं श्रुत्वा मम धर्मानुकाङ्क्षिणः॥ ३३॥  
 कराभ्यां सशरं चापं व्यथितस्यापतद् भुवि।
 </details>
 
 <details><summary>मूलम्</summary>
 
-तां गिरं करुणं श्रुत्वा मम धर्मानुकांक्षिणः॥ ३३॥  
+तां गिरं करुणं श्रुत्वा मम धर्मानुकाङ्क्षिणः॥ ३३॥  
 कराभ्यां सशरं चापं व्यथितस्यापतद् भुवि।
 </details>
 
@@ -592,13 +589,13 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तौ नूनं दुर्बलावन्धौ मत्प्रतीक्षौ पिपासितौ॥ ४०॥  
-चिरमाशां कृतां कष्टां तृष्णां संधारयिष्यतः।
+चिरमाशां कृतां कष्टां तृष्णां सन्धारयिष्यतः।
 </details>
 
 <details><summary>मूलम्</summary>
 
 तौ नूनं दुर्बलावन्धौ मत्प्रतीक्षौ पिपासितौ॥ ४०॥  
-चिरमाशां कृतां कष्टां तृष्णां संधारयिष्यतः।
+चिरमाशां कृतां कष्टां तृष्णां सन्धारयिष्यतः।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -660,13 +657,13 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इयमेकपदी राजन् यतो मे पितुराश्रमः॥ ४४॥  
-तं प्रसादय गत्वा त्वं न त्वा संकुपितः शपेत्।
+तं प्रसादय गत्वा त्वं न त्वा सङ्कुपितः शपेत्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 इयमेकपदी राजन् यतो मे पितुराश्रमः॥ ४४॥  
-तं प्रसादय गत्वा त्वं न त्वा संकुपितः शपेत्।
+तं प्रसादय गत्वा त्वं न त्वा सङ्कुपितः शपेत्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -754,7 +751,7 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 इतीव वदतः कृच्छ्राद् बाणाभिहतमर्मणः॥ ५१॥  
 विघूर्णतो विचेष्टस्य वेपमानस्य भूतले।  
 तस्य त्वाताम्यमानस्य तं बाणमहमुद्धरम्।  
-स मामुद्वीक्ष्य संत्रस्तो जहौ प्राणांस्तपोधनः॥ ५२॥
+स मामुद्वीक्ष्य सन्त्रस्तो जहौ प्राणांस्तपोधनः॥ ५२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -763,7 +760,7 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 इतीव वदतः कृच्छ्राद् बाणाभिहतमर्मणः॥ ५१॥  
 विघूर्णतो विचेष्टस्य वेपमानस्य भूतले।  
 तस्य त्वाताम्यमानस्य तं बाणमहमुद्धरम्।  
-स मामुद्वीक्ष्य संत्रस्तो जहौ प्राणांस्तपोधनः॥ ५२॥
+स मामुद्वीक्ष्य सन्त्रस्तो जहौ प्राणांस्तपोधनः॥ ५२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -774,7 +771,7 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जलार्द्रगात्रं तु विलप्य कृच्छ्रं  
-मर्मव्रणं संततमुच्छ्वसन्तम्।  
+मर्मव्रणं सन्ततमुच्छ्वसन्तम्।  
 ततः सरय्वां तमहं शयानं  
 समीक्ष्य भद्रे सुभृशं विषण्णः॥ ५३॥
 </details>
@@ -782,7 +779,7 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 <details><summary>मूलम्</summary>
 
 जलार्द्रगात्रं तु विलप्य कृच्छ्रं  
-मर्मव्रणं संततमुच्छ्वसन्तम्।  
+मर्मव्रणं सन्ततमुच्छ्वसन्तम्।  
 ततः सरय्वां तमहं शयानं  
 समीक्ष्य भद्रे सुभृशं विषण्णः॥ ५३॥
 </details>
@@ -797,3 +794,4 @@ title_english = "063 Dasaratha narrates his sin to Kausalya"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे त्रिषष्टितमः सर्गः॥ ६३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें तिरसठवाँ सर्ग पूरा हुआ॥ ६३॥
 </details>
+

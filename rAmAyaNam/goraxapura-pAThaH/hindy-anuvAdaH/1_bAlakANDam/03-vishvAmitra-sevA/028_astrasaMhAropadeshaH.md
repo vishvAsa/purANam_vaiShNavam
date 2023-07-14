@@ -4,11 +4,8 @@ title_english = "028 vishvAmitra teaches rAma about annulment of missiles"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-028-Asthra_Samharo_Padeshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-028-Asthra_Samharo_Padeshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "028 vishvAmitra teaches rAma about annulment of missiles"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गृहीतास्त्रोऽस्मि भगवन् दुराधर्षः सुरैरपि।  
-अस्त्राणां त्वहमिच्छामि संहारान् मुनिपुंगव॥ २॥
+अस्त्राणां त्वहमिच्छामि संहारान् मुनिपुङ्गव॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गृहीतास्त्रोऽस्मि भगवन् दुराधर्षः सुरैरपि।  
-अस्त्राणां त्वहमिच्छामि संहारान् मुनिपुंगव॥ २॥
+अस्त्राणां त्वहमिच्छामि संहारान् मुनिपुङ्गव॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -74,7 +71,7 @@ title_english = "028 vishvAmitra teaches rAma about annulment of missiles"
 दशाक्षशतवक्त्रौ च दशशीर्षशतोदरौ॥ ५॥  
 पद्मनाभमहानाभौ दुन्दुनाभस्वनाभकौ।  
 ज्योतिषं शकुनं चैव नैरास्यविमलावुभौ॥ ६॥  
-यौगंधरविनिद्रौ च दैत्यप्रमथनौ तथा।  
+यौगन्धरविनिद्रौ च दैत्यप्रमथनौ तथा।  
 शुचिबाहुर्महाबाहुर्निष्कलिर्विरुचस्तथा।  
 सार्चिमाली धृतिर्माली वृत्तिमान् रुचिरस्तथा॥ ७॥  
 पित्र्यः सौमनसश्चैव विधूतमकरावुभौ।  
@@ -93,7 +90,7 @@ title_english = "028 vishvAmitra teaches rAma about annulment of missiles"
 दशाक्षशतवक्त्रौ च दशशीर्षशतोदरौ॥ ५॥  
 पद्मनाभमहानाभौ दुन्दुनाभस्वनाभकौ।  
 ज्योतिषं शकुनं चैव नैरास्यविमलावुभौ॥ ६॥  
-यौगंधरविनिद्रौ च दैत्यप्रमथनौ तथा।  
+यौगन्धरविनिद्रौ च दैत्यप्रमथनौ तथा।  
 शुचिबाहुर्महाबाहुर्निष्कलिर्विरुचस्तथा।  
 सार्चिमाली धृतिर्माली वृत्तिमान् रुचिरस्तथा॥ ७॥  
 पित्र्यः सौमनसश्चैव विधूतमकरावुभौ।  
@@ -128,13 +125,13 @@ title_english = "028 vishvAmitra teaches rAma about annulment of missiles"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-केचिदंगारसदृशाः केचिद् धूमोपमास्तथा।  
+केचिदङ्गारसदृशाः केचिद् धूमोपमास्तथा।  
 चन्द्रार्कसदृशाः केचित् प्रह्वाञ्जलिपुटास्तथा॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-केचिदंगारसदृशाः केचिद् धूमोपमास्तथा।  
+केचिदङ्गारसदृशाः केचिद् धूमोपमास्तथा।  
 चन्द्रार्कसदृशाः केचित् प्रह्वाञ्जलिपुटास्तथा॥ १२॥
 </details>
 
@@ -198,7 +195,7 @@ title_english = "028 vishvAmitra teaches rAma about annulment of missiles"
 
 स च तान् राघवो ज्ञात्वा विश्वामित्रं महामुनिम्।  
 गच्छन्नेवाथ मधुरं श्लक्ष्णं वचनमब्रवीत्॥ १६॥  
-किमेतन्मेघसंकाशं पर्वतस्याविदूरतः।  
+किमेतन्मेघसङ्काशं पर्वतस्याविदूरतः।  
 वृक्षखण्डमितो भाति परं कौतूहलं हि मे॥ १७॥
 </details>
 
@@ -206,7 +203,7 @@ title_english = "028 vishvAmitra teaches rAma about annulment of missiles"
 
 स च तान् राघवो ज्ञात्वा विश्वामित्रं महामुनिम्।  
 गच्छन्नेवाथ मधुरं श्लक्ष्णं वचनमब्रवीत्॥ १६॥  
-किमेतन्मेघसंकाशं पर्वतस्याविदूरतः।  
+किमेतन्मेघसङ्काशं पर्वतस्याविदूरतः।  
 वृक्षखण्डमितो भाति परं कौतूहलं हि मे॥ १७॥
 </details>
 
@@ -218,13 +215,13 @@ title_english = "028 vishvAmitra teaches rAma about annulment of missiles"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दर्शनीयं मृगाकीर्णं मनोहरमतीव च।  
-नानाप्रकारैः शकुनैर्वल्गुभाषैरलंकृतम्॥ १८॥
+नानाप्रकारैः शकुनैर्वल्गुभाषैरलङ्कृतम्॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 दर्शनीयं मृगाकीर्णं मनोहरमतीव च।  
-नानाप्रकारैः शकुनैर्वल्गुभाषैरलंकृतम्॥ १८॥
+नानाप्रकारैः शकुनैर्वल्गुभाषैरलङ्कृतम्॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -279,3 +276,4 @@ title_english = "028 vishvAmitra teaches rAma about annulment of missiles"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डेऽष्टाविंशः सर्गः॥ २८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें अट्ठाईसवाँ सर्ग पूरा हुआ॥ २८॥
 </details>
+

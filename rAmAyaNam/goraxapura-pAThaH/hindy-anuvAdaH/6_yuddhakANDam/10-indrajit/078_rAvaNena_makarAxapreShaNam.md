@@ -4,11 +4,8 @@ title_english = "078 Ravana orders Makaraksha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-078-Ravana_orders_Makaraksha_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-078-Ravana_orders_Makaraksha_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -124,13 +121,13 @@ title_english = "078 Ravana orders Makaraksha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रदक्षिणं रथं कृत्वा समारुह्य निशाचरः।  
-सूतं संचोदयामास शीघ्रं वै रथमावह॥ ८॥
+सूतं सञ्चोदयामास शीघ्रं वै रथमावह॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रदक्षिणं रथं कृत्वा समारुह्य निशाचरः।  
-सूतं संचोदयामास शीघ्रं वै रथमावह॥ ८॥
+सूतं सञ्चोदयामास शीघ्रं वै रथमावह॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -226,7 +223,7 @@ title_english = "078 Ravana orders Makaraksha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ते कामरूपिणः क्रूरा दंष्ट्रिणः पिङ्गलेक्षणाः।  
-मातंगा इव नर्दन्तो ध्वस्तकेशा भयावहाः॥ १४॥  
+मातङ्गा इव नर्दन्तो ध्वस्तकेशा भयावहाः॥ १४॥  
 परिवार्य महाकाया महाकायं खरात्मजम्।  
 अभिजग्मुस्ततो हृष्टाश्चालयन्तो वसुन्धराम्॥ १५॥
 </details>
@@ -234,7 +231,7 @@ title_english = "078 Ravana orders Makaraksha"
 <details><summary>मूलम्</summary>
 
 ते कामरूपिणः क्रूरा दंष्ट्रिणः पिङ्गलेक्षणाः।  
-मातंगा इव नर्दन्तो ध्वस्तकेशा भयावहाः॥ १४॥  
+मातङ्गा इव नर्दन्तो ध्वस्तकेशा भयावहाः॥ १४॥  
 परिवार्य महाकाया महाकायं खरात्मजम्।  
 अभिजग्मुस्ततो हृष्टाश्चालयन्तो वसुन्धराम्॥ १५॥
 </details>
@@ -355,3 +352,4 @@ title_english = "078 Ravana orders Makaraksha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डेऽष्टसप्ततितमः सर्गः॥ ७८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें अठहत्तरवाँ सर्ग पूरा हुआ॥ ७८॥
 </details>
+

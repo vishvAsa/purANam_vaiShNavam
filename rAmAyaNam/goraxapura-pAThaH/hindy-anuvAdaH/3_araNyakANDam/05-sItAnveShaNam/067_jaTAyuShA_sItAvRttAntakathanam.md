@@ -4,11 +4,8 @@ title_english = "067 Rama spots wing clipped Jataayu"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-067-Jataayuvaa_Sitaa_Vruthantha_Kathanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-067-Jataayuvaa_Sitaa_Vruthantha_Kathanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -103,13 +100,13 @@ title_english = "067 Rama spots wing clipped Jataayu"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गुहाश्च विविधा घोरा नानामृगगणाकुलाः।  
-आवासाः किंनराणां च गन्धर्वभवनानि च॥ ६॥
+आवासाः किन्नराणां च गन्धर्वभवनानि च॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गुहाश्च विविधा घोरा नानामृगगणाकुलाः।  
-आवासाः किंनराणां च गन्धर्वभवनानि च॥ ६॥
+आवासाः किन्नराणां च गन्धर्वभवनानि च॥ ६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -139,13 +136,13 @@ title_english = "067 Rama spots wing clipped Jataayu"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तस्तद् वनं सर्वं विचचार सलक्ष्मणः॥ ८॥  
-क्रुद्धो रामः शरं घोरं संधाय धनुषि क्षुरम्।
+क्रुद्धो रामः शरं घोरं सन्धाय धनुषि क्षुरम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
 इत्युक्तस्तद् वनं सर्वं विचचार सलक्ष्मणः॥ ८॥  
-क्रुद्धो रामः शरं घोरं संधाय धनुषि क्षुरम्।
+क्रुद्धो रामः शरं घोरं सन्धाय धनुषि क्षुरम्।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -208,13 +205,13 @@ title_english = "067 Rama spots wing clipped Jataayu"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-इत्युक्त्वाभ्यपतद् द्रष्टुं संधाय धनुषि क्षुरम्।  
+इत्युक्त्वाभ्यपतद् द्रष्टुं सन्धाय धनुषि क्षुरम्।  
 क्रुद्धो रामः समुद्रान्तां चालयन्निव मेदिनीम्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-इत्युक्त्वाभ्यपतद् द्रष्टुं संधाय धनुषि क्षुरम्।  
+इत्युक्त्वाभ्यपतद् द्रष्टुं सन्धाय धनुषि क्षुरम्।  
 क्रुद्धो रामः समुद्रान्तां चालयन्निव मेदिनीम्॥ १३॥
 </details>
 
@@ -294,13 +291,13 @@ title_english = "067 Rama spots wing clipped Jataayu"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतदस्य धनुर्भग्नमेते चास्य शरास्तथा।  
-अयमस्य रणे राम भग्नः सांग्रामिको रथः॥ १८॥
+अयमस्य रणे राम भग्नः साङ्ग्रामिको रथः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एतदस्य धनुर्भग्नमेते चास्य शरास्तथा।  
-अयमस्य रणे राम भग्नः सांग्रामिको रथः॥ १८॥
+अयमस्य रणे राम भग्नः साङ्ग्रामिको रथः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -478,3 +475,4 @@ title_english = "067 Rama spots wing clipped Jataayu"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे सप्तषष्टितमः सर्गः॥ ६७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें सरसठवाँ सर्ग पूरा हुआ॥ ६७॥
 </details>
+

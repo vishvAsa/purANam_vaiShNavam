@@ -4,11 +4,8 @@ title_english = "002 Confrontation with Viraadha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-002-Viradhena_Sita_Apaharanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_3/Kanda_3_ARK-002-Viradhena_Sita_Apaharanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -126,14 +123,14 @@ title_english = "002 Confrontation with Viraadha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स रामं लक्ष्मणं चैव सीतां दृष्ट्वा च मैथिलीम्।  
-अभ्यधावत् सुसंक्रुद्धः प्रजाः काल इवान्तकः॥ ८॥  
+अभ्यधावत् सुसङ्क्रुद्धः प्रजाः काल इवान्तकः॥ ८॥  
 स कृत्वा भैरवं नादं चालयन्निव मेदिनीम्॥ ९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स रामं लक्ष्मणं चैव सीतां दृष्ट्वा च मैथिलीम्।  
-अभ्यधावत् सुसंक्रुद्धः प्रजाः काल इवान्तकः॥ ८॥  
+अभ्यधावत् सुसङ्क्रुद्धः प्रजाः काल इवान्तकः॥ ८॥  
 स कृत्वा भैरवं नादं चालयन्निव मेदिनीम्॥ ९॥
 </details>
 
@@ -414,3 +411,4 @@ title_english = "002 Confrontation with Viraadha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽरण्यकाण्डे द्वितीयः सर्गः॥ २॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अरण्यकाण्डमें दूसरा सर्ग पूरा हुआ॥ २॥
 </details>
+

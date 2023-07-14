@@ -4,11 +4,8 @@ title_english = "013 Mahaparsva s advise to Ravana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-013-Mahaparsva_s_advise_to_Ravana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-013-Mahaparsva_s_advise_to_Ravana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "013 Mahaparsva s advise to Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रावणं क्रुद्धमाज्ञाय महापार्श्वो महाबलः।  
-मुहूर्तमनुसंचिन्त्य प्राञ्जलिर्वाक्यमब्रवीत्॥ १॥
+मुहूर्तमनुसञ्चिन्त्य प्राञ्जलिर्वाक्यमब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रावणं क्रुद्धमाज्ञाय महापार्श्वो महाबलः।  
-मुहूर्तमनुसंचिन्त्य प्राञ्जलिर्वाक्यमब्रवीत्॥ १॥
+मुहूर्तमनुसञ्चिन्त्य प्राञ्जलिर्वाक्यमब्रवीत्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -170,13 +167,13 @@ title_english = "013 Mahaparsva s advise to Ravana"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-महापार्श्व निबोध त्वं रहस्यं किंचिदात्मनः।  
+महापार्श्व निबोध त्वं रहस्यं किञ्चिदात्मनः।  
 चिरवृत्तं तदाख्यास्ये यदवाप्तं पुरा मया॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-महापार्श्व निबोध त्वं रहस्यं किंचिदात्मनः।  
+महापार्श्व निबोध त्वं रहस्यं किञ्चिदात्मनः।  
 चिरवृत्तं तदाख्यास्ये यदवाप्तं पुरा मया॥ १०॥
 </details>
 
@@ -222,13 +219,13 @@ title_english = "013 Mahaparsva s advise to Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्च तस्य तथा मन्ये ज्ञातमासीन्महात्मनः।  
-अथ संकुपितो वेधा मामिदं वाक्यमब्रवीत्॥ १३॥
+अथ सङ्कुपितो वेधा मामिदं वाक्यमब्रवीत्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तच्च तस्य तथा मन्ये ज्ञातमासीन्महात्मनः।  
-अथ संकुपितो वेधा मामिदं वाक्यमब्रवीत्॥ १३॥
+अथ सङ्कुपितो वेधा मामिदं वाक्यमब्रवीत्॥ १३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -307,13 +304,13 @@ title_english = "013 Mahaparsva s advise to Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न मत्तो निर्गतान् बाणान् द्विजिह्वान् पन्नगानिव।  
-रामः पश्यति संग्रामे तेन मामभिगच्छति॥ १८॥
+रामः पश्यति सङ्ग्रामे तेन मामभिगच्छति॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 न मत्तो निर्गतान् बाणान् द्विजिह्वान् पन्नगानिव।  
-रामः पश्यति संग्रामे तेन मामभिगच्छति॥ १८॥
+रामः पश्यति सङ्ग्रामे तेन मामभिगच्छति॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -381,3 +378,4 @@ title_english = "013 Mahaparsva s advise to Ravana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे त्रयोदशः सर्गः॥ १३॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें तेरहवाँ सर्ग पूरा हुआ॥ १३॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "017 Rama s arrival at royal court"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-017-Rama_Gamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-017-Rama_Gamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -23,7 +20,7 @@ title_english = "017 Rama s arrival at royal court"
 महार्हागुरुधूपितम्॥ १॥  
 **अपश्यन्** नगरं  
 श्रीमान् नानाजनसमन्वितम्।  
-स गृहैरभ्रसंकाशैः  
+स गृहैरभ्रसङ्काशैः  
 पाण्डुरैरुपशोभितम्॥ २॥  
 राजमार्गं **ययौ** रामो  
 मध्येनागुरुधूपितम्।
@@ -34,7 +31,7 @@ title_english = "017 Rama s arrival at royal court"
 स रामो रथमास्थाय सम्प्रहृष्टसुहृज्जनः।  
 पताकाध्वजसम्पन्नं महार्हागुरुधूपितम्॥ १॥  
 अपश्यन्नगरं श्रीमान् नानाजनसमन्वितम्।  
-स गृहैरभ्रसंकाशैः पाण्डुरैरुपशोभितम्॥ २॥  
+स गृहैरभ्रसङ्काशैः पाण्डुरैरुपशोभितम्॥ २॥  
 राजमार्गं ययौ रामो मध्येनागुरुधूपितम्।
 </details>
 
@@ -46,7 +43,7 @@ title_english = "017 Rama s arrival at royal court"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 चन्दनानां च मुख्यानाम्  
-अगुरूणां च संचयैः॥ ३॥  
+अगुरूणां च सञ्चयैः॥ ३॥  
 उत्तमानां च गन्धानां  
 क्षौमकौशाम्बरस्य च।  
 अविद्धाभिश् च मुक्ताभिर्  
@@ -65,7 +62,7 @@ title_english = "017 Rama s arrival at royal court"
 
 <details><summary>मूलम्</summary>
 
-चन्दनानां च मुख्यानामगुरूणां च संचयैः॥ ३॥  
+चन्दनानां च मुख्यानामगुरूणां च सञ्चयैः॥ ३॥  
 उत्तमानां च गन्धानां क्षौमकौशाम्बरस्य च।  
 अविद्धाभिश्च मुक्ताभिरुत्तमैः स्फाटिकैरपि॥ ४॥  
 शोभमानमसम्बाधं तं राजपथमुत्तमम्।  
@@ -158,13 +155,13 @@ title_english = "017 Rama s arrival at royal court"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो हि नः प्रियतरं नान्यत् किंचिद् भविष्यति।  
+ततो हि नः प्रियतरं नान्यत् किञ्चिद् भविष्यति।  
 यथाभिषेको रामस्य राज्येनामिततेजसः॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततो हि नः प्रियतरं नान्यत् किंचिद् भविष्यति।  
+ततो हि नः प्रियतरं नान्यत् किञ्चिद् भविष्यति।  
 यथाभिषेको रामस्य राज्येनामिततेजसः॥ ११॥
 </details>
 
@@ -305,13 +302,13 @@ title_english = "017 Rama s arrival at royal court"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स सर्वाः समतिक्रम्य कक्ष्या दशरथात्मजः।  
-संनिवर्त्य जनं सर्वं शुद्धान्तःपुरम् **अत्यगात्**॥ २१॥
+सन्निवर्त्य जनं सर्वं शुद्धान्तःपुरम् **अत्यगात्**॥ २१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स सर्वाः समतिक्रम्य कक्ष्या दशरथात्मजः।  
-संनिवर्त्य जनं सर्वं शुद्धान्तःपुरमत्यगात्॥ २१॥
+सन्निवर्त्य जनं सर्वं शुद्धान्तःपुरमत्यगात्॥ २१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -345,3 +342,4 @@ title_english = "017 Rama s arrival at royal court"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्तदशः सर्गः॥ १७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें सत्रहवाँ सर्ग पूरा हुआ॥ १७॥
 </details>
+

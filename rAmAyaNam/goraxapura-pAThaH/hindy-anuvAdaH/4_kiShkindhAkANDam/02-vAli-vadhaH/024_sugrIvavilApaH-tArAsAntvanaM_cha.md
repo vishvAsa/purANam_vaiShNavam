@@ -4,11 +4,8 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-024-Sugreeva_Vilapaha_Thara_Santvanam_Cha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-024-Sugreeva_Vilapaha_Thara_Santvanam_Cha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -342,7 +339,7 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोदर्यघातापरगात्रवालः  
-संतापहस्ताक्षिशिरोविषाणः।  
+सन्तापहस्ताक्षिशिरोविषाणः।  
 एनोमयो मामभिहन्ति हस्ती  
 दृप्तो नदीकूलमिव प्रवृद्धः॥ १७॥
 </details>
@@ -350,7 +347,7 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 <details><summary>मूलम्</summary>
 
 सोदर्यघातापरगात्रवालः  
-संतापहस्ताक्षिशिरोविषाणः।  
+सन्तापहस्ताक्षिशिरोविषाणः।  
 एनोमयो मामभिहन्ति हस्ती  
 दृप्तो नदीकूलमिव प्रवृद्धः॥ १७॥
 </details>
@@ -407,7 +404,7 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 सुतः सुलभ्यः सुजनः सुवश्यः  
 कुतस्तु पुत्रः सदृशोऽङ्गदेन।  
 न चापि विद्येत स वीर देशो  
-यस्मिन् भवेत् सोदरसंनिकर्षः॥ २०॥
+यस्मिन् भवेत् सोदरसन्निकर्षः॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -415,7 +412,7 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 सुतः सुलभ्यः सुजनः सुवश्यः  
 कुतस्तु पुत्रः सदृशोऽङ्गदेन।  
 न चापि विद्येत स वीर देशो  
-यस्मिन् भवेत् सोदरसंनिकर्षः॥ २०॥
+यस्मिन् भवेत् सोदरसन्निकर्षः॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -490,7 +487,7 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 
 इत्येवमार्तस्य रघुप्रवीरः  
 श्रुत्वा वचो वालिजघन्यजस्य।  
-संजातबाष्पः परवीरहन्ता  
+सञ्जातबाष्पः परवीरहन्ता  
 रामो मुहूर्तं विमना बभूव॥ २४॥
 </details>
 
@@ -498,7 +495,7 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 
 इत्येवमार्तस्य रघुप्रवीरः  
 श्रुत्वा वचो वालिजघन्यजस्य।  
-संजातबाष्पः परवीरहन्ता  
+सञ्जातबाष्पः परवीरहन्ता  
 रामो मुहूर्तं विमना बभूव॥ २४॥
 </details>
 
@@ -825,9 +822,9 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आर्तामनाथामपनीयमाना-  
-मेवंगतां नार्हसि मामहन्तुम्।  
+मेवङ्गतां नार्हसि मामहन्तुम्।  
 अहं हि मातङ्गविलासगामिना  
-प्लवंगमानामृषभेण धीमता।  
+प्लवङ्गमानामृषभेण धीमता।  
 विना वरार्होत्तमहेममालिना  
 चिरं न शक्ष्यामि नरेन्द्र जीवितुम्॥ ४०॥
 </details>
@@ -835,9 +832,9 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 <details><summary>मूलम्</summary>
 
 आर्तामनाथामपनीयमाना-  
-मेवंगतां नार्हसि मामहन्तुम्।  
+मेवङ्गतां नार्हसि मामहन्तुम्।  
 अहं हि मातङ्गविलासगामिना  
-प्लवंगमानामृषभेण धीमता।  
+प्लवङ्गमानामृषभेण धीमता।  
 विना वरार्होत्तमहेममालिना  
 चिरं न शक्ष्यामि नरेन्द्र जीवितुम्॥ ४०॥
 </details>
@@ -913,7 +910,7 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आश्वासिता तेन महात्मना तु  
-प्रभावयुक्तेन परंतपेन।  
+प्रभावयुक्तेन परन्तपेन।  
 सा वीरपत्नी ध्वनता मुखेन  
 सुवेषरूपा विरराम तारा॥ ४४॥
 </details>
@@ -921,7 +918,7 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 <details><summary>मूलम्</summary>
 
 आश्वासिता तेन महात्मना तु  
-प्रभावयुक्तेन परंतपेन।  
+प्रभावयुक्तेन परन्तपेन।  
 सा वीरपत्नी ध्वनता मुखेन  
 सुवेषरूपा विरराम तारा॥ ४४॥
 </details>
@@ -936,3 +933,4 @@ title_english = "024 Tara Sugreeva s resolve to die with Valii"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे चतुर्विंशः सर्गः॥ २४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें चौबीसवाँ सर्ग पूरा हुआ॥ २४॥
 </details>
+

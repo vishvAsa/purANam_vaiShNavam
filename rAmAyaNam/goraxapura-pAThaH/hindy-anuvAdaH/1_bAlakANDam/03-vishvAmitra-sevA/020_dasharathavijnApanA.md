@@ -4,11 +4,8 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-020-Dhasharatha_Vignaapana.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_1/Kanda_1_BK-020-Dhasharatha_Vignaapana.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -18,13 +15,13 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तच्छ्रुत्वा राजशार्दूलो विश्वामित्रस्य भाषितम्।  
-मुहूर्तमिव निःसंज्ञः संज्ञावानिदमब्रवीत्॥ १॥
+मुहूर्तमिव निःसञ्ज्ञः सञ्ज्ञावानिदमब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तच्छ्रुत्वा राजशार्दूलो विश्वामित्रस्य भाषितम्।  
-मुहूर्तमिव निःसंज्ञः संज्ञावानिदमब्रवीत्॥ १॥
+मुहूर्तमिव निःसञ्ज्ञः सञ्ज्ञावानिदमब्रवीत्॥ १॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -140,7 +137,7 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 विप्रयुक्तो हि रामेण मुहूर्तमपि नोत्सहे॥ ८॥  
 जीवितुं मुनिशार्दूलं न रामं नेतुमर्हसि।  
 यदि वा राघवं ब्रह्मन् नेतुमिच्छसि सुव्रत॥ ९॥  
-चतुरंगसमायुक्तं मया सह च तं नय।
+चतुरङ्गसमायुक्तं मया सह च तं नय।
 </details>
 
 <details><summary>मूलम्</summary>
@@ -149,7 +146,7 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 विप्रयुक्तो हि रामेण मुहूर्तमपि नोत्सहे॥ ८॥  
 जीवितुं मुनिशार्दूलं न रामं नेतुमर्हसि।  
 यदि वा राघवं ब्रह्मन् नेतुमिच्छसि सुव्रत॥ ९॥  
-चतुरंगसमायुक्तं मया सह च तं नय।
+चतुरङ्गसमायुक्तं मया सह च तं नय।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -194,14 +191,14 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 किंवीर्या राक्षसास्ते च कस्य पुत्राश्च के च ते॥ १२॥  
-कथं प्रमाणाः के चैतान् रक्षन्ति मुनिपुंगव।  
+कथं प्रमाणाः के चैतान् रक्षन्ति मुनिपुङ्गव।  
 कथं च प्रतिकर्तव्यं तेषां रामेण रक्षसाम्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 किंवीर्या राक्षसास्ते च कस्य पुत्राश्च के च ते॥ १२॥  
-कथं प्रमाणाः के चैतान् रक्षन्ति मुनिपुंगव।  
+कथं प्रमाणाः के चैतान् रक्षन्ति मुनिपुङ्गव।  
 कथं च प्रतिकर्तव्यं तेषां रामेण रक्षसाम्॥ १३॥
 </details>
 
@@ -257,14 +254,14 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा न खलु यज्ञस्य विघ्नकर्ता महाबलः॥ १८॥  
-तेन संचोदितौ तौ तु राक्षसौ च महाबलौ।  
+तेन सञ्चोदितौ तौ तु राक्षसौ च महाबलौ।  
 मारीचश्च सुबाहुश्च यज्ञविघ्नं करिष्यतः॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यदा न खलु यज्ञस्य विघ्नकर्ता महाबलः॥ १८॥  
-तेन संचोदितौ तौ तु राक्षसौ च महाबलौ।  
+तेन सञ्चोदितौ तौ तु राक्षसौ च महाबलौ।  
 मारीचश्च सुबाहुश्च यज्ञविघ्नं करिष्यतः॥ १९॥
 </details>
 
@@ -276,13 +273,13 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्युक्तो मुनिना तेन राजोवाच मुनिं तदा।  
-नहि शक्तोऽस्मि संग्रामे स्थातुं तस्य दुरात्मनः॥ २०॥
+नहि शक्तोऽस्मि सङ्ग्रामे स्थातुं तस्य दुरात्मनः॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 इत्युक्तो मुनिना तेन राजोवाच मुनिं तदा।  
-नहि शक्तोऽस्मि संग्रामे स्थातुं तस्य दुरात्मनः॥ २०॥
+नहि शक्तोऽस्मि सङ्ग्रामे स्थातुं तस्य दुरात्मनः॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -345,13 +342,13 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-कथमप्यमरप्रख्यं संग्रामाणामकोविदम्॥ २४॥  
+कथमप्यमरप्रख्यं सङ्ग्रामाणामकोविदम्॥ २४॥  
 बालं मे तनयं ब्रह्मन् नैव दास्यामि पुत्रकम्।
 </details>
 
 <details><summary>मूलम्</summary>
 
-कथमप्यमरप्रख्यं संग्रामाणामकोविदम्॥ २४॥  
+कथमप्यमरप्रख्यं सङ्ग्रामाणामकोविदम्॥ २४॥  
 बालं मे तनयं ब्रह्मन् नैव दास्यामि पुत्रकम्।
 </details>
 
@@ -422,3 +419,4 @@ title_english = "020 dasharatha s dissent to spare rAma s servicees"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये बालकाण्डे विंशः सर्गः॥ २०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके बालकाण्डमें बीसवाँ सर्ग पूरा हुआ॥ २०॥
 </details>
+

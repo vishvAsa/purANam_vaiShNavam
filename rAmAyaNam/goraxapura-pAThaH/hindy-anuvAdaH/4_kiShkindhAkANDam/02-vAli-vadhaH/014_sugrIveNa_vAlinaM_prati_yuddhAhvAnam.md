@@ -4,11 +4,8 @@ title_english = "014 The second challenge"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-014-Valinam_Prathi_Yudhdha_Ahvanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-014-Valinam_Prathi_Yudhdha_Ahvanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -215,15 +212,15 @@ title_english = "014 The second challenge"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अनृतं नोक्तपूर्वं मे चिरं कृच्छ्रेऽपि तिष्ठता॥ १४॥  
-धर्मलोभपरीतेन न च वक्ष्ये कथंचन।  
-सफलां च करिष्यामि प्रतिज्ञां जहि संभ्रमम्॥ १५॥
+धर्मलोभपरीतेन न च वक्ष्ये कथञ्चन।  
+सफलां च करिष्यामि प्रतिज्ञां जहि सम्भ्रमम्॥ १५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अनृतं नोक्तपूर्वं मे चिरं कृच्छ्रेऽपि तिष्ठता॥ १४॥  
-धर्मलोभपरीतेन न च वक्ष्ये कथंचन।  
-सफलां च करिष्यामि प्रतिज्ञां जहि संभ्रमम्॥ १५॥
+धर्मलोभपरीतेन न च वक्ष्ये कथञ्चन।  
+सफलां च करिष्यामि प्रतिज्ञां जहि सम्भ्रमम्॥ १५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -361,3 +358,4 @@ title_english = "014 The second challenge"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे चतुर्दशः सर्गः॥ १४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें चौदहवाँ सर्ग पूरा हुआ॥ १४॥
 </details>
+

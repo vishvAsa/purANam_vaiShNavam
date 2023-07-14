@@ -4,11 +4,8 @@ title_english = "077 Bharata and Shatrughna grieve on cremation ground"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-077-Bharatha_Shatrugna_Vilapaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-077-Bharatha_Shatrugna_Vilapaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -177,13 +174,13 @@ title_english = "077 Bharata and Shatrughna grieve on cremation ground"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शत्रुघ्नश्चापि भरतं दृष्ट्वा शोकपरिप्लुतम्।  
-विसंज्ञो न्यपतद् भूमौ भूमिपालमनुस्मरन्॥ ११॥
+विसञ्ज्ञो न्यपतद् भूमौ भूमिपालमनुस्मरन्॥ ११॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 शत्रुघ्नश्चापि भरतं दृष्ट्वा शोकपरिप्लुतम्।  
-विसंज्ञो न्यपतद् भूमौ भूमिपालमनुस्मरन्॥ ११॥
+विसञ्ज्ञो न्यपतद् भूमौ भूमिपालमनुस्मरन्॥ ११॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -210,13 +207,13 @@ title_english = "077 Bharata and Shatrughna grieve on cremation ground"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मन्थराप्रभवस्तीव्र कैकेयीग्राहसंकुलः।  
+मन्थराप्रभवस्तीव्र कैकेयीग्राहसङ्कुलः।  
 वरदानमयोऽक्षोभ्योऽमज्जयच्छोकसागरः॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मन्थराप्रभवस्तीव्र कैकेयीग्राहसंकुलः।  
+मन्थराप्रभवस्तीव्र कैकेयीग्राहसङ्कुलः।  
 वरदानमयोऽक्षोभ्योऽमज्जयच्छोकसागरः॥ १३॥
 </details>
 
@@ -451,3 +448,4 @@ title_english = "077 Bharata and Shatrughna grieve on cremation ground"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्तसप्ततितमः सर्गः॥ ७७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें सतहत्तरवाँ सर्ग पूरा हुआ॥ ७७॥
 </details>
+

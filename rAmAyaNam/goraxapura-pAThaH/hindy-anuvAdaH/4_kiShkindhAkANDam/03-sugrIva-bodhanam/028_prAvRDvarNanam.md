@@ -4,11 +4,8 @@ title_english = "028 Eulogy on Rainy Season"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-028-Pravrud_Varnanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-028-Pravrud_Varnanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "028 Eulogy on Rainy Season"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयं स कालः सम्प्राप्तः समयोऽद्य जलागमः।  
-सम्पश्य त्वं नभो मेघैः संवृतं गिरिसंनिभैः॥ २॥
+सम्पश्य त्वं नभो मेघैः संवृतं गिरिसन्निभैः॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अयं स कालः सम्प्राप्तः समयोऽद्य जलागमः।  
-सम्पश्य त्वं नभो मेघैः संवृतं गिरिसंनिभैः॥ २॥
+सम्पश्य त्वं नभो मेघैः संवृतं गिरिसन्निभैः॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -62,7 +59,6 @@ title_english = "028 Eulogy on Rainy Season"
 Bearing for 9 months the embryo fertilized by the sun's rays, having drunk the juice of the seas, the heaven births the elixir [of life]
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 नवमासधृतं गर्भं भास्करस्य गभस्तिभिः।  
@@ -76,14 +72,14 @@ Bearing for 9 months the embryo fertilized by the sun's rays, having drunk the j
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-शक्यमम्बरमारुह्य मेघसोपानपंक्तिभिः।  
-कुटजार्जुनमालाभिरलंकर्तुं दिवाकरः॥ ४॥
+शक्यमम्बरमारुह्य मेघसोपानपङ्क्तिभिः।  
+कुटजार्जुनमालाभिरलङ्कर्तुं दिवाकरः॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-शक्यमम्बरमारुह्य मेघसोपानपंक्तिभिः।  
-कुटजार्जुनमालाभिरलंकर्तुं दिवाकरः॥ ४॥
+शक्यमम्बरमारुह्य मेघसोपानपङ्क्तिभिः।  
+कुटजार्जुनमालाभिरलङ्कर्तुं दिवाकरः॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -93,13 +89,13 @@ Bearing for 9 months the embryo fertilized by the sun's rays, having drunk the j
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-संध्यारागोत्थितैस्ताम्रैरन्तेष्वपि च पाण्डुभिः।  
+सन्ध्यारागोत्थितैस्ताम्रैरन्तेष्वपि च पाण्डुभिः।  
 स्निग्धैरभ्रपटच्छेदैर्बद्धव्रणमिवाम्बरम्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-संध्यारागोत्थितैस्ताम्रैरन्तेष्वपि च पाण्डुभिः।  
+सन्ध्यारागोत्थितैस्ताम्रैरन्तेष्वपि च पाण्डुभिः।  
 स्निग्धैरभ्रपटच्छेदैर्बद्धव्रणमिवाम्बरम्॥ ५॥
 </details>
 
@@ -110,13 +106,13 @@ Bearing for 9 months the embryo fertilized by the sun's rays, having drunk the j
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-मन्दमारुतिनिःश्वासं संध्याचन्दनरञ्जितम्।  
+मन्दमारुतिनिःश्वासं सन्ध्याचन्दनरञ्जितम्।  
 आपाण्डुजलदं भाति कामातुरमिवाम्बरम्॥ ६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-मन्दमारुतिनिःश्वासं संध्याचन्दनरञ्जितम्।  
+मन्दमारुतिनिःश्वासं सन्ध्याचन्दनरञ्जितम्।  
 आपाण्डुजलदं भाति कामातुरमिवाम्बरम्॥ ६॥
 </details>
 
@@ -128,13 +124,13 @@ Bearing for 9 months the embryo fertilized by the sun's rays, having drunk the j
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एषा घर्मपरिक्लिष्टा नववारिपरिप्लुता।  
-सीतेव शोकसंतप्ता मही बाष्पं विमुञ्चति॥ ७॥
+सीतेव शोकसन्तप्ता मही बाष्पं विमुञ्चति॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एषा घर्मपरिक्लिष्टा नववारिपरिप्लुता।  
-सीतेव शोकसंतप्ता मही बाष्पं विमुञ्चति॥ ७॥
+सीतेव शोकसन्तप्ता मही बाष्पं विमुञ्चति॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -188,7 +184,6 @@ Bearing for 9 months the embryo fertilized by the sun's rays, having drunk the j
 
 Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainfed] streams, with caves [resounding] with the winds, the mountains are like students.
 </details>
-
 
 <details><summary>मूलम्</summary>
 
@@ -256,14 +251,14 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 
 क्वचिद् बाष्पाभिसंरुद्धान् वर्षागमसमुत्सुकान्।  
 कुटजान् पश्य सौमित्रे पुष्पितान् गिरिसानुषु।  
-मम शोकाभिभूतस्य कामसंदीपनान् स्थितान्॥ १४॥
+मम शोकाभिभूतस्य कामसन्दीपनान् स्थितान्॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 क्वचिद् बाष्पाभिसंरुद्धान् वर्षागमसमुत्सुकान्।  
 कुटजान् पश्य सौमित्रे पुष्पितान् गिरिसानुषु।  
-मम शोकाभिभूतस्य कामसंदीपनान् स्थितान्॥ १४॥
+मम शोकाभिभूतस्य कामसन्दीपनान् स्थितान्॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -317,7 +312,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 
 क्वचित् प्रकाशं क्वचिदप्रकाशं  
 नभः प्रकीर्णाम्बुधरं विभाति।  
-क्वचित्  क्वचित् पर्वतसंनिरुद्धं  
+क्वचित् क्वचित् पर्वतसन्निरुद्धं  
 रूपं यथा शान्तमहार्णवस्य॥ १७॥
 </details>
 
@@ -325,7 +320,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 
 क्वचित् प्रकाशं क्वचिदप्रकाशं  
 नभः प्रकीर्णाम्बुधरं विभाति।  
-क्वचित्  क्वचित् पर्वतसंनिरुद्धं  
+क्वचित् क्वचित् पर्वतसन्निरुद्धं  
 रूपं यथा शान्तमहार्णवस्य॥ १७॥
 </details>
 
@@ -357,7 +352,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रसाकुलं षट्पदसंनिकाशं  
+रसाकुलं षट्पदसन्निकाशं  
 प्रभुज्यते जम्बुफलं प्रकामम्।  
 अनेकवर्णं पवनावधूतं  
 भूमौ पतत्याम्रफलं विपक्वम्॥ १९॥
@@ -365,7 +360,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 
 <details><summary>मूलम्</summary>
 
-रसाकुलं षट्पदसंनिकाशं  
+रसाकुलं षट्पदसन्निकाशं  
 प्रभुज्यते जम्बुफलं प्रकामम्।  
 अनेकवर्णं पवनावधूतं  
 भूमौ पतत्याम्रफलं विपक्वम्॥ १९॥
@@ -379,7 +374,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 विद्युत्पताकाः सबलाकमालाः  
-शैलेन्द्रकूटाकृतिसंनिकाशाः।  
+शैलेन्द्रकूटाकृतिसन्निकाशाः।  
 गर्जन्ति मेघाः समुदीर्णनादा  
 मत्ता गजेन्द्रा इव संयुगस्थाः॥ २०॥
 </details>
@@ -387,7 +382,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 <details><summary>मूलम्</summary>
 
 विद्युत्पताकाः सबलाकमालाः  
-शैलेन्द्रकूटाकृतिसंनिकाशाः।  
+शैलेन्द्रकूटाकृतिसन्निकाशाः।  
 गर्जन्ति मेघाः समुदीर्णनादा  
 मत्ता गजेन्द्रा इव संयुगस्थाः॥ २०॥
 </details>
@@ -442,7 +437,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मेघाभिकामा परिसम्पतन्ती  
-सम्मोदिता भाति बलाकपंक्तिः।  
+सम्मोदिता भाति बलाकपङ्क्तिः।  
 वातावधूता वरपौण्डरीकी  
 लम्बेव माला रुचिराम्बरस्य॥ २३॥
 </details>
@@ -450,7 +445,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 <details><summary>मूलम्</summary>
 
 मेघाभिकामा परिसम्पतन्ती  
-सम्मोदिता भाति बलाकपंक्तिः।  
+सम्मोदिता भाति बलाकपङ्क्तिः।  
 वातावधूता वरपौण्डरीकी  
 लम्बेव माला रुचिराम्बरस्य॥ २३॥
 </details>
@@ -528,7 +523,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 वहन्ति वर्षन्ति नदन्ति भान्ति  
 ध्यायन्ति नृत्यन्ति समाश्वसन्ति।  
 नद्यो घना मत्तगजा वनान्ताः  
-प्रियाविहीनाः शिखिनः प्लवंगमाः॥ २७॥
+प्रियाविहीनाः शिखिनः प्लवङ्गमाः॥ २७॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -536,7 +531,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 वहन्ति वर्षन्ति नदन्ति भान्ति  
 ध्यायन्ति नृत्यन्ति समाश्वसन्ति।  
 नद्यो घना मत्तगजा वनान्ताः  
-प्रियाविहीनाः शिखिनः प्लवंगमाः॥ २७॥
+प्रियाविहीनाः शिखिनः प्लवङ्गमाः॥ २७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -588,7 +583,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अङ्गारचूर्णोत्करसंनिकाशैः  
+अङ्गारचूर्णोत्करसन्निकाशैः  
 फलैः सुपर्याप्तरसैः समृद्धैः।  
 जम्बूद्रुमाणां प्रविभान्ति शाखा  
 निपीयमाना इव षट्पदौघैः॥ ३०॥
@@ -596,7 +591,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 
 <details><summary>मूलम्</summary>
 
-अङ्गारचूर्णोत्करसंनिकाशैः  
+अङ्गारचूर्णोत्करसन्निकाशैः  
 फलैः सुपर्याप्तरसैः समृद्धैः।  
 जम्बूद्रुमाणां प्रविभान्ति शाखा  
 निपीयमाना इव षट्पदौघैः॥ ३०॥
@@ -609,7 +604,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तडित्पताकाभिरलंकृताना-  
+तडित्पताकाभिरलङ्कृताना-  
 मुदीर्णगम्भीरमहारवाणाम्।  
 विभान्ति रूपाणि बलाहकानां  
 रणोत्सुकानामिव वारणानाम्॥ ३१॥
@@ -617,7 +612,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 
 <details><summary>मूलम्</summary>
 
-तडित्पताकाभिरलंकृताना-  
+तडित्पताकाभिरलङ्कृताना-  
 मुदीर्णगम्भीरमहारवाणाम्।  
 विभान्ति रूपाणि बलाहकानां  
 रणोत्सुकानामिव वारणानाम्॥ ३१॥
@@ -633,7 +628,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 मार्गानुगः शैलवनानुसारी  
 सम्प्रस्थितो मेघरवं निशम्य।  
 युद्धाभिकामः प्रतिनादशङ्की  
-मत्तो गजेन्द्रः प्रतिसंनिवृत्तः॥ ३२॥
+मत्तो गजेन्द्रः प्रतिसन्निवृत्तः॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -641,7 +636,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 मार्गानुगः शैलवनानुसारी  
 सम्प्रस्थितो मेघरवं निशम्य।  
 युद्धाभिकामः प्रतिनादशङ्की  
-मत्तो गजेन्द्रः प्रतिसंनिवृत्तः॥ ३२॥
+मत्तो गजेन्द्रः प्रतिसन्निवृत्तः॥ ३२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -695,7 +690,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 
 मुक्तासमाभं सलिलं पतद् वै  
 सुनिर्मलं पत्रपुटेषु लग्नम्।  
-हृष्टा विवर्णच्छदना विहंगाः  
+हृष्टा विवर्णच्छदना विहङ्गाः  
 सुरेन्द्रदत्तं तृषिताः पिबन्ति॥ ३५॥
 </details>
 
@@ -703,7 +698,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 
 मुक्तासमाभं सलिलं पतद् वै  
 सुनिर्मलं पत्रपुटेषु लग्नम्।  
-हृष्टा विवर्णच्छदना विहंगाः  
+हृष्टा विवर्णच्छदना विहङ्गाः  
 सुरेन्द्रदत्तं तृषिताः पिबन्ति॥ ३५॥
 </details>
 
@@ -717,7 +712,7 @@ Wearing the black-antelope skin of [monsoon] clouds, the ritual thread of [rainf
 षट्-पाद-तन्त्री-मधुराभिधानं  
 +++(मण्डूक→)+++प्लवं-गमोदीरित-कण्ठ-तालम्।  
 आविष्कृतं मेघ-मृदङ्ग-नादैर्  
-वनेषु संगीतम् इव प्रवृत्तम्॥ ३६॥+++(4)+++
+वनेषु सङ्गीतम् इव प्रवृत्तम्॥ ३६॥+++(4)+++
 </details>
 
 <details><summary>मानसतरङ्गिणीकृत्</summary>
@@ -728,13 +723,12 @@ revealed through the मृदङ्ग of the clouds,
 It is as if an orchestra has commenced in the forest.
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 षट्पादतन्त्रीमधुराभिधानं  
-प्लवंगमोदीरितकण्ठतालम्।  
+प्लवङ्गमोदीरितकण्ठतालम्।  
 आविष्कृतं मेघमृदङ्गनादै-  
-र्वनेषु संगीतमिव प्रवृत्तम्॥ ३६॥
+र्वनेषु सङ्गीतमिव प्रवृत्तम्॥ ३६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -747,7 +741,7 @@ It is as if an orchestra has commenced in the forest.
 क्वचित् प्रनृत्तैः क्वचिदुन्नदद्भिः  
 क्वचिच्च वृक्षाग्रनिषण्णकायैः।  
 व्यालम्बबर्हाभरणैर्मयूरै-  
-र्वनेषु संगीतमिव प्रवृत्तम्॥ ३७॥
+र्वनेषु सङ्गीतमिव प्रवृत्तम्॥ ३७॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -755,7 +749,7 @@ It is as if an orchestra has commenced in the forest.
 क्वचित् प्रनृत्तैः क्वचिदुन्नदद्भिः  
 क्वचिच्च वृक्षाग्रनिषण्णकायैः।  
 व्यालम्बबर्हाभरणैर्मयूरै-  
-र्वनेषु संगीतमिव प्रवृत्तम्॥ ३७॥
+र्वनेषु सङ्गीतमिव प्रवृत्तम्॥ ३७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -766,7 +760,7 @@ It is as if an orchestra has commenced in the forest.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स्वनैर् घनानां प्लवगाः+++(=मण्डूकाः)+++ प्रबुद्धा,  
-विहाय निद्रां चिर-संनिरुद्धाम्।  
+विहाय निद्रां चिर-सन्निरुद्धाम्।  
 अनेक-रूपाकृति-वर्ण-नादा  
 नवाम्बु-धाराभिहता नदन्ति॥ ३८॥
 </details>
@@ -783,12 +777,10 @@ of many sizes, shapes, colors & calls, struck by the fresh [monsoonal] streams t
 Thus, we can see vAlmIki himself uses frog similes/metaphors. The second triShTubh hearkens to the long hibernation also mentioned by vasiShTha maitrAvaruNi in the shruti (aMvatsaraM shashayAnA |). 
 </details>
 
-
-
 <details><summary>मूलम्</summary>
 
 स्वनैर्घनानां प्लवगाः प्रबुद्धा  
-विहाय निद्रां चिरसंनिरुद्धाम्।  
+विहाय निद्रां चिरसन्निरुद्धाम्।  
 अनेकरूपाकृतिवर्णनादा  
 नवाम्बुधाराभिहता नदन्ति॥ ३८॥
 </details>
@@ -842,7 +834,7 @@ Thus, we can see vAlmIki himself uses frog similes/metaphors. The second triShTu
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-प्रमत्तसंनादितबर्हिणानि  
+प्रमत्तसन्नादितबर्हिणानि  
 सशक्रगोपाकुलशाद्वलानि।  
 चरन्ति नीपार्जुनवासितानि  
 गजाः सुरम्याणि वनान्तराणि॥ ४१॥
@@ -850,7 +842,7 @@ Thus, we can see vAlmIki himself uses frog similes/metaphors. The second triShTu
 
 <details><summary>मूलम्</summary>
 
-प्रमत्तसंनादितबर्हिणानि  
+प्रमत्तसन्नादितबर्हिणानि  
 सशक्रगोपाकुलशाद्वलानि।  
 चरन्ति नीपार्जुनवासितानि  
 गजाः सुरम्याणि वनान्तराणि॥ ४१॥
@@ -1012,7 +1004,7 @@ Thus, we can see vAlmIki himself uses frog similes/metaphors. The second triShTu
 
 शैलोपलप्रस्खलमानवेगाः  
 शैलोत्तमानां विपुलाः प्रपाताः।  
-गुहासु संनादितबर्हिणासु  
+गुहासु सन्नादितबर्हिणासु  
 हारा विकीर्यन्त इवावभान्ति॥ ४९॥
 </details>
 
@@ -1020,7 +1012,7 @@ Thus, we can see vAlmIki himself uses frog similes/metaphors. The second triShTu
 
 शैलोपलप्रस्खलमानवेगाः  
 शैलोत्तमानां विपुलाः प्रपाताः।  
-गुहासु संनादितबर्हिणासु  
+गुहासु सन्नादितबर्हिणासु  
 हारा विकीर्यन्त इवावभान्ति॥ ४९॥
 </details>
 
@@ -1125,7 +1117,6 @@ At this time of study the sAman songs are presented.
 यदा दक्षिणायनारम्भः, वर्षाकालः, वेदाध्ययनोपाकर्म च पुरा ऽसीद् युगपत्, प्रौष्ठपदासु तु तन्नासीत् ३५०० BCE तः परम् …
 </details>
 
-
 <details><summary>मूलम्</summary>
 
 मासि प्रौष्ठपदे ब्रह्म ब्राह्मणानां विवक्षताम्।  
@@ -1139,13 +1130,13 @@ At this time of study the sAman songs are presented.
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निवृत्तकर्मायतनो नूनं संचितसंचयः।  
+निवृत्तकर्मायतनो नूनं सञ्चितसञ्चयः।  
 आषाढीमभ्युपगतो भरतः कोसलाधिपः॥ ५५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-निवृत्तकर्मायतनो नूनं संचितसंचयः।  
+निवृत्तकर्मायतनो नूनं सञ्चितसञ्चयः।  
 आषाढीमभ्युपगतो भरतः कोसलाधिपः॥ ५५॥
 </details>
 
@@ -1225,13 +1216,13 @@ At this time of study the sAman songs are presented.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अयात्रां चैव दृष्ट्वेमां मार्गांश्च भृशदुर्गमान्।  
-प्रणते चैव सुग्रीवे न मया किंचिदीरितम्॥ ६०॥
+प्रणते चैव सुग्रीवे न मया किञ्चिदीरितम्॥ ६०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अयात्रां चैव दृष्ट्वेमां मार्गांश्च भृशदुर्गमान्।  
-प्रणते चैव सुग्रीवे न मया किंचिदीरितम्॥ ६०॥
+प्रणते चैव सुग्रीवे न मया किञ्चिदीरितम्॥ ६०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1276,13 +1267,13 @@ At this time of study the sAman songs are presented.
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मात् कालप्रतीक्षोऽहं स्थितोऽस्मि शुभलक्षण।  
-सुग्रीवस्य नदीनां च प्रसादमभिकांक्षयन्॥ ६३॥
+सुग्रीवस्य नदीनां च प्रसादमभिकाङ्क्षयन्॥ ६३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 तस्मात् कालप्रतीक्षोऽहं स्थितोऽस्मि शुभलक्षण।  
-सुग्रीवस्य नदीनां च प्रसादमभिकांक्षयन्॥ ६३॥
+सुग्रीवस्य नदीनां च प्रसादमभिकाङ्क्षयन्॥ ६३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1354,3 +1345,4 @@ At this time of study the sAman songs are presented.
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डेऽष्टाविंशः सर्गः॥ २८॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें अट्ठाईसवाँ सर्ग पूरा हुआ॥ २८॥
 </details>
+

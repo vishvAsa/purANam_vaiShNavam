@@ -4,11 +4,8 @@ title_english = "024 Rama obtains Kausalya s permission"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-024-Ramasya_Kousalyopadeshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-024-Ramasya_Kousalyopadeshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -374,14 +371,14 @@ title_english = "024 Rama obtains Kausalya s permission"
 
 यथा मयि तु निष्क्रान्ते  
 पुत्र-शोकेन पार्थिवः॥२३॥  
-श्रमं नावाप्नुयात् किंचिद्  
+श्रमं नावाप्नुयात् किञ्चिद्  
 अप्रमत्ता तथा कुरु।
 </details>
 
 <details><summary>मूलम्</summary>
 
 यथा मयि तु निष्क्रान्ते पुत्रशोकेन पार्थिवः॥२३॥  
-श्रमं नावाप्नुयात् किंचिदप्रमत्ता तथा कुरु।
+श्रमं नावाप्नुयात् किञ्चिदप्रमत्ता तथा कुरु।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -476,13 +473,13 @@ title_english = "024 Rama obtains Kausalya s permission"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-एवं **कालं प्रतीक्षस्व** ममागमनकांक्षिणी॥ २९॥  
+एवं **कालं प्रतीक्षस्व** ममागमनकाङ्क्षिणी॥ २९॥  
 नियता नियताहारा भर्तृशुश्रूषणे रता।
 </details>
 
 <details><summary>मूलम्</summary>
 
-एवं कालं प्रतीक्षस्व ममागमनकांक्षिणी॥ २९॥  
+एवं कालं प्रतीक्षस्व ममागमनकाङ्क्षिणी॥ २९॥  
 नियता नियताहारा भर्तृशुश्रूषणे रता।
 </details>
 
@@ -581,13 +578,13 @@ title_english = "024 Rama obtains Kausalya s permission"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृतान्तस्य गतिः पुत्र दुर्विभाव्या सदा भुवि।  
-यस्त्वां संचोदयति मे वच आविध्य राघव॥ ३५॥+++(5)+++
+यस्त्वां सञ्चोदयति मे वच आविध्य राघव॥ ३५॥+++(5)+++
 </details>
 
 <details><summary>मूलम्</summary>
 
 कृतान्तस्य गतिः पुत्र दुर्विभाव्या सदा भुवि।  
-यस्त्वां संचोदयति मे वच आविध्य राघव॥ ३५॥
+यस्त्वां सञ्चोदयति मे वच आविध्य राघव॥ ३५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -636,7 +633,7 @@ title_english = "024 Rama obtains Kausalya s permission"
 तथा हि रामं वनवासनिश्चितं  
 ददर्श देवी परमेण चेतसा।  
 उवाच रामं शुभलक्षणं वचो  
-बभूव च स्वस्त्ययनाभिकांक्षिणी॥ ३८॥
+बभूव च स्वस्त्ययनाभिकाङ्क्षिणी॥ ३८॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -644,7 +641,7 @@ title_english = "024 Rama obtains Kausalya s permission"
 तथा हि रामं वनवास-निश्चितं  
 **ददर्श** देवी परमेण चेतसा।  
 **उवाच** रामं शुभलक्षणं वचो  
-**बभूव** च स्वस्त्ययनाभिकांक्षिणी॥ ३८॥
+**बभूव** च स्वस्त्ययनाभिकाङ्क्षिणी॥ ३८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -657,3 +654,4 @@ title_english = "024 Rama obtains Kausalya s permission"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे चतुर्विंशः सर्गः॥ २४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें चौबीसवाँ सर्ग पूरा हुआ॥ २४॥
 </details>
+

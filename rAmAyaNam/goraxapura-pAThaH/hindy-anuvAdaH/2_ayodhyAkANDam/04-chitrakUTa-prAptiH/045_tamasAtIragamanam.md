@@ -4,11 +4,8 @@ title_english = "045 Rama requests the citizens to return to Ayodhya"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-045-Thamasa_Theera_Gamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-045-Thamasa_Theera_Gamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -35,13 +32,13 @@ title_english = "045 Rama requests the citizens to return to Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 निवर्तितेऽतीव बलात् सुहृद्धर्मेण राजनि।  
-नैव ते संन्यवर्तन्त रामस्यानुगता रथम्॥ २॥
+नैव ते सन्न्यवर्तन्त रामस्यानुगता रथम्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 निवर्तितेऽतीव बलात् सुहृद्धर्मेण राजनि।  
-नैव ते संन्यवर्तन्त रामस्यानुगता रथम्॥ २॥
+नैव ते सन्न्यवर्तन्त रामस्यानुगता रथम्॥ २॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -170,13 +167,13 @@ title_english = "045 Rama requests the citizens to return to Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न संतप्येद् यथा चासौ वनवासं गते मयि।  
+न सन्तप्येद् यथा चासौ वनवासं गते मयि।  
 महाराजस्तथा कार्यो मम प्रियचिकीर्षया॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-न संतप्येद् यथा चासौ वनवासं गते मयि।  
+न सन्तप्येद् यथा चासौ वनवासं गते मयि।  
 महाराजस्तथा कार्यो मम प्रियचिकीर्षया॥ १०॥
 </details>
 
@@ -238,13 +235,13 @@ title_english = "045 Rama requests the citizens to return to Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वहन्तो जवना रामं भो भो जात्यास्तुरंगमाः।  
+वहन्तो जवना रामं भो भो जात्यास्तुरङ्गमाः।  
 निवर्तध्वं न गन्तव्यं हिता भवत भर्तरि॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-वहन्तो जवना रामं भो भो जात्यास्तुरंगमाः।  
+वहन्तो जवना रामं भो भो जात्यास्तुरङ्गमाः।  
 निवर्तध्वं न गन्तव्यं हिता भवत भर्तरि॥ १४॥
 </details>
 
@@ -307,13 +304,13 @@ title_english = "045 Rama requests the citizens to return to Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पद‍्भ्यामेव जगामाथ ससीतः सहलक्ष्मणः।  
-संनिकृष्टपदन्यासो रामो वनपरायणः॥ १८॥
+सन्निकृष्टपदन्यासो रामो वनपरायणः॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 पद‍्भ्यामेव जगामाथ ससीतः सहलक्ष्मणः।  
-संनिकृष्टपदन्यासो रामो वनपरायणः॥ १८॥
+सन्निकृष्टपदन्यासो रामो वनपरायणः॥ १८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -341,13 +338,13 @@ title_english = "045 Rama requests the citizens to return to Ayodhya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गच्छन्तमेव तं दृष्ट्वा रामं सम्भ्रान्तमानसाः।  
-ऊचुः परमसंतप्ता रामं वाक्यमिदं द्विजाः॥ २०॥
+ऊचुः परमसन्तप्ता रामं वाक्यमिदं द्विजाः॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गच्छन्तमेव तं दृष्ट्वा रामं सम्भ्रान्तमानसाः।  
-ऊचुः परमसंतप्ता रामं वाक्यमिदं द्विजाः॥ २०॥
+ऊचुः परमसन्तप्ता रामं वाक्यमिदं द्विजाः॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -391,13 +388,13 @@ title_english = "045 Rama requests the citizens to return to Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अनवाप्तातपत्रस्य रश्मिसंतापितस्य ते।  
+अनवाप्तातपत्रस्य रश्मिसन्तापितस्य ते।  
 एभिश्छायां करिष्यामः स्वैश्छत्रैर्वाजपेयकैः॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अनवाप्तातपत्रस्य रश्मिसंतापितस्य ते।  
+अनवाप्तातपत्रस्य रश्मिसन्तापितस्य ते।  
 एभिश्छायां करिष्यामः स्वैश्छत्रैर्वाजपेयकैः॥ २३॥
 </details>
 
@@ -527,13 +524,13 @@ title_english = "045 Rama requests the citizens to return to Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-निश्चेष्टाहारसंचारा वृक्षैकस्थाननिश्चिताः।  
+निश्चेष्टाहारसञ्चारा वृक्षैकस्थाननिश्चिताः।  
 पक्षिणोऽपि प्रयाचन्ते सर्वभूतानुकम्पिनम्॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-निश्चेष्टाहारसंचारा वृक्षैकस्थाननिश्चिताः।  
+निश्चेष्टाहारसञ्चारा वृक्षैकस्थाननिश्चिताः।  
 पक्षिणोऽपि प्रयाचन्ते सर्वभूतानुकम्पिनम्॥ ३१॥
 </details>
 
@@ -585,3 +582,4 @@ title_english = "045 Rama requests the citizens to return to Ayodhya"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे पञ्चचत्वारिंशः सर्गः॥ ४५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें पैंतालीसवाँ सर्ग पूरा हुआ॥ ४५॥
 </details>
+

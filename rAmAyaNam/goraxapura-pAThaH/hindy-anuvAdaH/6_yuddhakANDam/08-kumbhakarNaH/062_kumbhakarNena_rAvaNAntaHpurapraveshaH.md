@@ -4,11 +4,8 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-062-Kumbhakarna_enters_the_abode_of_Ravana_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-062-Kumbhakarna_enters_the_abode_of_Ravana_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -71,7 +68,7 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 स तत्तदा सूर्य इवाभ्रजालं  
 प्रविश्य रक्षोधिपतेर्निवेशनम्।  
 ददर्श दूरेऽग्रजमासनस्थं  
-स्वयंभुवं शक्र इवासनस्थम्॥ ४॥
+स्वयम्भुवं शक्र इवासनस्थम्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -79,7 +76,7 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 स तत्तदा सूर्य इवाभ्रजालं  
 प्रविश्य रक्षोधिपतेर्निवेशनम्।  
 ददर्श दूरेऽग्रजमासनस्थं  
-स्वयंभुवं शक्र इवासनस्थम्॥ ४॥
+स्वयम्भुवं शक्र इवासनस्थम्॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -124,13 +121,13 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथ दृष्ट्वा दशग्रीवः कुम्भकर्णमुपस्थितम्।  
-तूर्णमुत्थाय संहृष्टः संनिकर्षमुपानयत्॥ ७॥
+तूर्णमुत्थाय संहृष्टः सन्निकर्षमुपानयत्॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अथ दृष्ट्वा दशग्रीवः कुम्भकर्णमुपस्थितम्।  
-तूर्णमुत्थाय संहृष्टः संनिकर्षमुपानयत्॥ ७॥
+तूर्णमुत्थाय संहृष्टः सन्निकर्षमुपानयत्॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -279,14 +276,14 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ये राक्षसा मुख्यतमा हतास्ते वानरैर्युधि॥ १६॥  
-वानराणां क्षयं युद्धे न पश्यामि कथंचन।  
+वानराणां क्षयं युद्धे न पश्यामि कथञ्चन।  
 न चापि वानरा युद्धे जितपूर्वाः कदाचन॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ये राक्षसा मुख्यतमा हतास्ते वानरैर्युधि॥ १६॥  
-वानराणां क्षयं युद्धे न पश्यामि कथंचन।  
+वानराणां क्षयं युद्धे न पश्यामि कथञ्चन।  
 न चापि वानरा युद्धे जितपूर्वाः कदाचन॥ १७॥
 </details>
 
@@ -332,13 +329,13 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भ्रातुरर्थे महाबाहो कुरु कर्म सुदुष्करम्।  
-मयैवं नोक्तपूर्वो हि भ्राता कश्चित् परंतप॥ २०॥
+मयैवं नोक्तपूर्वो हि भ्राता कश्चित् परन्तप॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 भ्रातुरर्थे महाबाहो कुरु कर्म सुदुष्करम्।  
-मयैवं नोक्तपूर्वो हि भ्राता कश्चित् परंतप॥ २०॥
+मयैवं नोक्तपूर्वो हि भ्राता कश्चित् परन्तप॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -408,3 +405,4 @@ title_english = "062 Kumbhakarna enters the abode of Ravana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे द्विषष्टितमः सर्गः॥ ६२॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें बासठवाँ सर्ग पूरा हुआ॥ ६२॥
 </details>
+

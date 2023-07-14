@@ -4,11 +4,8 @@ title_english = "054 The hermitage of Bharadwaja"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-054-Bharadvaja_Shramagamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-054-Bharadvaja_Shramagamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -86,13 +83,13 @@ title_english = "054 The hermitage of Bharadwaja"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 प्रयागमभितः पश्य सौमित्रे धूममुत्तमम्।  
-अग्नेर्भगवतः केतुं मन्ये संनिहितो मुनिः॥ ५॥
+अग्नेर्भगवतः केतुं मन्ये सन्निहितो मुनिः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 प्रयागमभितः पश्य सौमित्रे धूममुत्तमम्।  
-अग्नेर्भगवतः केतुं मन्ये संनिहितो मुनिः॥ ५॥
+अग्नेर्भगवतः केतुं मन्ये सन्निहितो मुनिः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -137,13 +134,13 @@ title_english = "054 The hermitage of Bharadwaja"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 धन्विनौ तौ सुखं गत्वा लम्बमाने दिवाकरे।  
-गङ्गायमुनयोः संधौ प्रापतुर्निलयं मुनेः॥ ८॥
+गङ्गायमुनयोः सन्धौ प्रापतुर्निलयं मुनेः॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 धन्विनौ तौ सुखं गत्वा लम्बमाने दिवाकरे।  
-गङ्गायमुनयोः संधौ प्रापतुर्निलयं मुनेः॥ ८॥
+गङ्गायमुनयोः सन्धौ प्रापतुर्निलयं मुनेः॥ ८॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -170,13 +167,13 @@ title_english = "054 The hermitage of Bharadwaja"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततस्त्वाश्रममासाद्य मुनेर्दर्शनकांक्षिणौ।  
+ततस्त्वाश्रममासाद्य मुनेर्दर्शनकाङ्क्षिणौ।  
 सीतयानुगतौ वीरौ दूरादेवावतस्थतुः॥ १०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततस्त्वाश्रममासाद्य मुनेर्दर्शनकांक्षिणौ।  
+ततस्त्वाश्रममासाद्य मुनेर्दर्शनकाङ्क्षिणौ।  
 सीतयानुगतौ वीरौ दूरादेवावतस्थतुः॥ १०॥
 </details>
 
@@ -447,13 +444,13 @@ title_english = "054 The hermitage of Bharadwaja"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गोलाङ्गूलानुचरितो वानरर्क्षनिषेवितः।  
-चित्रकूट इति ख्यातो गन्धमादनसंनिभः॥ २९॥
+चित्रकूट इति ख्यातो गन्धमादनसन्निभः॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गोलाङ्गूलानुचरितो वानरर्क्षनिषेवितः।  
-चित्रकूट इति ख्यातो गन्धमादनसंनिभः॥ २९॥
+चित्रकूट इति ख्यातो गन्धमादनसन्निभः॥ २९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -684,3 +681,4 @@ title_english = "054 The hermitage of Bharadwaja"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे चतुःपञ्चाशः सर्गः॥ ५४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें चौवनवाँ सर्ग पूरा हुआ॥ ५४॥
 </details>
+

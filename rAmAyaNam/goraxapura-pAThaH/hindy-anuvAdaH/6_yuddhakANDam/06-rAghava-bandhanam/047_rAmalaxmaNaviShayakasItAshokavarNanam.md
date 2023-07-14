@@ -4,11 +4,8 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-047-Seetha_s_anguish_about_Rama_and_Lakshmana_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-047-Seetha_s_anguish_about_Rama_and_Lakshmana_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -298,13 +295,13 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः सीता ददर्शोभौ शयानौ शरतल्पगौ।  
-लक्ष्मणं चैव रामं च विसंज्ञौ शरपीडितौ॥ १९॥
+लक्ष्मणं चैव रामं च विसञ्ज्ञौ शरपीडितौ॥ १९॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 ततः सीता ददर्शोभौ शयानौ शरतल्पगौ।  
-लक्ष्मणं चैव रामं च विसंज्ञौ शरपीडितौ॥ १९॥
+लक्ष्मणं चैव रामं च विसञ्ज्ञौ शरपीडितौ॥ १९॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -393,3 +390,4 @@ title_english = "047 Seetha s anguish about Rama and Lakshmana"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे सप्तचत्वारिंशः सर्गः॥ ४७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें सैंतालीसवाँ सर्ग पूरा हुआ॥ ४७॥
 </details>
+

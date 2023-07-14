@@ -4,11 +4,8 @@ title_english = "055 Monkeys decide to fast unto death"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-055-Monkeys_decide_to_fast_unto_death.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_4/Kanda_4_KSK-055-Monkeys_decide_to_fast_unto_death.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -342,16 +339,16 @@ title_english = "055 Monkeys decide to fast unto death"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स संविशद्भिर्बहुभिर्महीधरो  
-महाद्रिकूटप्रतिमैः प्लवंगमैः।  
-बभूव संनादितनिर्दरान्तरो  
+महाद्रिकूटप्रतिमैः प्लवङ्गमैः।  
+बभूव सन्नादितनिर्दरान्तरो  
 भृशं नदद्भिर्जलदैरिवाम्बरम्॥ २३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 स संविशद्भिर्बहुभिर्महीधरो  
-महाद्रिकूटप्रतिमैः प्लवंगमैः।  
-बभूव संनादितनिर्दरान्तरो  
+महाद्रिकूटप्रतिमैः प्लवङ्गमैः।  
+बभूव सन्नादितनिर्दरान्तरो  
 भृशं नदद्भिर्जलदैरिवाम्बरम्॥ २३॥
 </details>
 
@@ -365,3 +362,4 @@ title_english = "055 Monkeys decide to fast unto death"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये किष्किन्धाकाण्डे पञ्चपञ्चाशः सर्गः॥ ५५॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके किष्किन्धाकाण्डमें पचपनवाँ सर्ग पूरा हुआ॥ ५५॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "049 Vibhishana approaches Rama"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-049-Vibhishana_approaches_Rama_0.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-049-Vibhishana_approaches_Rama_0.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "049 Vibhishana approaches Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतस्मिन्नन्तरे रामः प्रत्यबुध्यत वीर्यवान्।  
-स्थिरत्वात् सत्त्वयोगाच्च शरैः संदानितोऽपि सन्॥ ३॥
+स्थिरत्वात् सत्त्वयोगाच्च शरैः सन्दानितोऽपि सन्॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 एतस्मिन्नन्तरे रामः प्रत्यबुध्यत वीर्यवान्।  
-स्थिरत्वात् सत्त्वयोगाच्च शरैः संदानितोऽपि सन्॥ ३॥
+स्थिरत्वात् सत्त्वयोगाच्च शरैः सन्दानितोऽपि सन्॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -430,13 +427,13 @@ title_english = "049 Vibhishana approaches Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अङ्गदेन कृतं कर्म मैन्देन द्विविदेन च।  
-युद्धं केसरिणा संख्ये घोरं सम्पातिना कृतम्॥ २६॥
+युद्धं केसरिणा सङ्ख्ये घोरं सम्पातिना कृतम्॥ २६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अङ्गदेन कृतं कर्म मैन्देन द्विविदेन च।  
-युद्धं केसरिणा संख्ये घोरं सम्पातिना कृतम्॥ २६॥
+युद्धं केसरिणा सङ्ख्ये घोरं सम्पातिना कृतम्॥ २६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -487,13 +484,13 @@ title_english = "049 Vibhishana approaches Rama"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 शुश्रुवुस्तस्य ये सर्वे वानराः परिदेवितम्॥ ३०॥  
-वर्तयांचक्रिरेऽश्रूणि नेत्रैः कृष्णेतरेक्षणाः॥ ३१॥
+वर्तयाञ्चक्रिरेऽश्रूणि नेत्रैः कृष्णेतरेक्षणाः॥ ३१॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 शुश्रुवुस्तस्य ये सर्वे वानराः परिदेवितम्॥ ३०॥  
-वर्तयांचक्रिरेऽश्रूणि नेत्रैः कृष्णेतरेक्षणाः॥ ३१॥
+वर्तयाञ्चक्रिरेऽश्रूणि नेत्रैः कृष्णेतरेक्षणाः॥ ३१॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -540,3 +537,4 @@ title_english = "049 Vibhishana approaches Rama"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे एकोनपञ्चाशः सर्ग॥ ४९॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें उनचासवाँ सर्ग पूरा हुआ॥ ४९॥
 </details>
+

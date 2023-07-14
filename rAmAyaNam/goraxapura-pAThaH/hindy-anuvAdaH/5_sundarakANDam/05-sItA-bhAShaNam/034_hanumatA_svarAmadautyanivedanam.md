@@ -4,11 +4,8 @@ title_english = "034 Hanuma reveals himself to be a messenger of"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-034-Hanuma_reveals_himself_to_be_a_messenger_of.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-034-Hanuma_reveals_himself_to_be_a_messenger_of.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -17,13 +14,13 @@ title_english = "034 Hanuma reveals himself to be a messenger of"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्यास्तद् वचनं श्रुत्वा हनूमान् हरिपुंगवः।  
+तस्यास्तद् वचनं श्रुत्वा हनूमान् हरिपुङ्गवः।  
 दुःखाद् दुःखाभिभूतायाः सान्त्वमुत्तरमब्रवीत्॥ १॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्यास्तद् वचनं श्रुत्वा हनूमान् हरिपुंगवः।  
+तस्यास्तद् वचनं श्रुत्वा हनूमान् हरिपुङ्गवः।  
 दुःखाद् दुःखाभिभूतायाः सान्त्वमुत्तरमब्रवीत्॥ १॥
 </details>
 
@@ -34,13 +31,13 @@ title_english = "034 Hanuma reveals himself to be a messenger of"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहं रामस्य संदेशाद् देवि दूतस्तवागतः।  
+अहं रामस्य सन्देशाद् देवि दूतस्तवागतः।  
 वैदेहि कुशली रामः स त्वां कौशलमब्रवीत्॥ २॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अहं रामस्य संदेशाद् देवि दूतस्तवागतः।  
+अहं रामस्य सन्देशाद् देवि दूतस्तवागतः।  
 वैदेहि कुशली रामः स त्वां कौशलमब्रवीत्॥ २॥
 </details>
 
@@ -69,13 +66,13 @@ title_english = "034 Hanuma reveals himself to be a messenger of"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 लक्ष्मणश्च महातेजा भर्तुस्तेऽनुचरः प्रियः।  
-कृतवाञ्छोकसंतप्तः शिरसा तेऽभिवादनम्॥ ४॥
+कृतवाञ्छोकसन्तप्तः शिरसा तेऽभिवादनम्॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 लक्ष्मणश्च महातेजा भर्तुस्तेऽनुचरः प्रियः।  
-कृतवाञ्छोकसंतप्तः शिरसा तेऽभिवादनम्॥ ४॥
+कृतवाञ्छोकसन्तप्तः शिरसा तेऽभिवादनम्॥ ४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -86,13 +83,13 @@ title_english = "034 Hanuma reveals himself to be a messenger of"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तयोः कुशलं देवी निशम्य नरसिंहयोः।  
-प्रतिसंहृष्टसर्वांगी हनूमन्तमथाब्रवीत्॥ ५॥
+प्रतिसंहृष्टसर्वाङ्गी हनूमन्तमथाब्रवीत्॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 सा तयोः कुशलं देवी निशम्य नरसिंहयोः।  
-प्रतिसंहृष्टसर्वांगी हनूमन्तमथाब्रवीत्॥ ५॥
+प्रतिसंहृष्टसर्वाङ्गी हनूमन्तमथाब्रवीत्॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -205,13 +202,13 @@ title_english = "034 Hanuma reveals himself to be a messenger of"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अवन्दत महाबाहुस्ततस्तां जनकात्मजाम्।  
-सा चैनं भयसंत्रस्ता भूयो नैनमुदैक्षत॥ १२॥
+सा चैनं भयसन्त्रस्ता भूयो नैनमुदैक्षत॥ १२॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 अवन्दत महाबाहुस्ततस्तां जनकात्मजाम्।  
-सा चैनं भयसंत्रस्ता भूयो नैनमुदैक्षत॥ १२॥
+सा चैनं भयसन्त्रस्ता भूयो नैनमुदैक्षत॥ १२॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -239,13 +236,13 @@ title_english = "034 Hanuma reveals himself to be a messenger of"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 मायां प्रविष्टो मायावी यदि त्वं रावणः स्वयम्।  
-उत्पादयसि मे भूयः संतापं तन्न शोभनम्॥ १४॥
+उत्पादयसि मे भूयः सन्तापं तन्न शोभनम्॥ १४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 मायां प्रविष्टो मायावी यदि त्वं रावणः स्वयम्।  
-उत्पादयसि मे भूयः संतापं तन्न शोभनम्॥ १४॥
+उत्पादयसि मे भूयः सन्तापं तन्न शोभनम्॥ १४॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -273,13 +270,13 @@ title_english = "034 Hanuma reveals himself to be a messenger of"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उपवासकृशां दीनां कामरूप निशाचर।  
-संतापयसि मां भूयः संतापं तन्न शोभनम्॥ १६॥
+सन्तापयसि मां भूयः सन्तापं तन्न शोभनम्॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 उपवासकृशां दीनां कामरूप निशाचर।  
-संतापयसि मां भूयः संतापं तन्न शोभनम्॥ १६॥
+सन्तापयसि मां भूयः सन्तापं तन्न शोभनम्॥ १६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -497,13 +494,13 @@ title_english = "034 Hanuma reveals himself to be a messenger of"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-रूपवान् सुभगः श्रीमान् कंदर्प इव मूर्तिमान्।  
+रूपवान् सुभगः श्रीमान् कन्दर्प इव मूर्तिमान्।  
 स्थानक्रोधे प्रहर्ता च श्रेष्ठो लोके महारथः॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-रूपवान् सुभगः श्रीमान् कंदर्प इव मूर्तिमान्।  
+रूपवान् सुभगः श्रीमान् कन्दर्प इव मूर्तिमान्।  
 स्थानक्रोधे प्रहर्ता च श्रेष्ठो लोके महारथः॥ ३०॥
 </details>
 
@@ -533,13 +530,13 @@ title_english = "034 Hanuma reveals himself to be a messenger of"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अचिराद् रावणं संख्ये यो वधिष्यति वीर्यवान्॥ ३२॥  
+अचिराद् रावणं सङ्ख्ये यो वधिष्यति वीर्यवान्॥ ३२॥  
 क्रोधप्रमुक्तैरिषुभिर्ज्वलद्भिरिव पावकैः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-अचिराद् रावणं संख्ये यो वधिष्यति वीर्यवान्॥ ३२॥  
+अचिराद् रावणं सङ्ख्ये यो वधिष्यति वीर्यवान्॥ ३२॥  
 क्रोधप्रमुक्तैरिषुभिर्ज्वलद्भिरिव पावकैः।
 </details>
 
@@ -676,3 +673,4 @@ title_english = "034 Hanuma reveals himself to be a messenger of"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे चतुस्त्रिंशः सर्गः॥ ३४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें चौंतीसवाँ सर्ग पूरा हुआ॥ ३४॥
 </details>
+

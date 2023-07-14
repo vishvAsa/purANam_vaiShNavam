@@ -4,11 +4,8 @@ title_english = "047 The people of Ayodhya begin to rebuke themselves"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-047-Pouranam_Prathya_Gamanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-047-Pouranam_Prathya_Gamanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -221,13 +218,13 @@ title_english = "047 The people of Ayodhya begin to rebuke themselves"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततो मार्गानुसारेण गत्वा किंचित् ततः क्षणम्।  
+ततो मार्गानुसारेण गत्वा किञ्चित् ततः क्षणम्।  
 मार्गनाशाद् विषादेन महता समभिप्लुताः॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततो मार्गानुसारेण गत्वा किंचित् ततः क्षणम्।  
+ततो मार्गानुसारेण गत्वा किञ्चित् ततः क्षणम्।  
 मार्गनाशाद् विषादेन महता समभिप्लुताः॥ १३॥
 </details>
 
@@ -347,3 +344,4 @@ title_english = "047 The people of Ayodhya begin to rebuke themselves"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे सप्तचत्वारिंशः सर्गः॥ ४७॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें सैंतालीसवाँ सर्ग पूरा हुआ॥ ४७॥
 </details>
+

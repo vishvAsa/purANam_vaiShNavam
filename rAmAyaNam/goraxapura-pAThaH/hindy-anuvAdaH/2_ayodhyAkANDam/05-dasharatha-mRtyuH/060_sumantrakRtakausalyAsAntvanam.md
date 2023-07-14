@@ -4,11 +4,8 @@ title_english = "060 Sumantra was unable to console Kausalya"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-060-Sumanthra_Krutha_Kousalya_Santvanam.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-060-Sumanthra_Krutha_Kousalya_Santvanam.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -86,13 +83,13 @@ title_english = "060 Sumantra was unable to console Kausalya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्यज शोकं च मोहं च सम्भ्रमं दुःखजं तथा।  
-व्यवधूय च संतापं वने वत्स्यति राघवः॥ ५॥
+व्यवधूय च सन्तापं वने वत्स्यति राघवः॥ ५॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 त्यज शोकं च मोहं च सम्भ्रमं दुःखजं तथा।  
-व्यवधूय च संतापं वने वत्स्यति राघवः॥ ५॥
+व्यवधूय च सन्तापं वने वत्स्यति राघवः॥ ५॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -136,13 +133,13 @@ title_english = "060 Sumantra was unable to console Kausalya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-नास्या दैन्यं कृतं किंचित् सुसूक्ष्ममपि लक्ष्यते।  
+नास्या दैन्यं कृतं किञ्चित् सुसूक्ष्ममपि लक्ष्यते।  
 उचितेव प्रवासानां वैदेही प्रतिभाति मे॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-नास्या दैन्यं कृतं किंचित् सुसूक्ष्ममपि लक्ष्यते।  
+नास्या दैन्यं कृतं किञ्चित् सुसूक्ष्ममपि लक्ष्यते।  
 उचितेव प्रवासानां वैदेही प्रतिभाति मे॥ ८॥
 </details>
 
@@ -341,13 +338,13 @@ title_english = "060 Sumantra was unable to console Kausalya"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 गजं वा वीक्ष्य सिंहं वा व्याघ्रं वा वनमाश्रिता।  
-नाहारयति संत्रासं बाहू रामस्य संश्रिता॥ २०॥
+नाहारयति सन्त्रासं बाहू रामस्य संश्रिता॥ २०॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 गजं वा वीक्ष्य सिंहं वा व्याघ्रं वा वनमाश्रिता।  
-नाहारयति संत्रासं बाहू रामस्य संश्रिता॥ २०॥
+नाहारयति सन्त्रासं बाहू रामस्य संश्रिता॥ २०॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -419,3 +416,4 @@ title_english = "060 Sumantra was unable to console Kausalya"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे षष्टितमः सर्गः॥ ६०॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें साठवाँ सर्ग पूरा हुआ॥ ६०॥
 </details>
+

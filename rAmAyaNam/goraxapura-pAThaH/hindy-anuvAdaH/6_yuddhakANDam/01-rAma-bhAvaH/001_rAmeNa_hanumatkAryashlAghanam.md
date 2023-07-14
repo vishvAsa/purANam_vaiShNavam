@@ -4,11 +4,8 @@ title_english = "001 Rama appreciates Hanuma and embraces him"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-001-Rama_appreciates_Hanuma_and_embraces_him.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-001-Rama_appreciates_Hanuma_and_embraces_him.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -345,3 +342,4 @@ title_english = "001 Rama appreciates Hanuma and embraces him"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये युद्धकाण्डे प्रथमः सर्गः॥ १॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके युद्धकाण्डमें पहला सर्ग पूरा हुआ॥ १॥
 </details>
+

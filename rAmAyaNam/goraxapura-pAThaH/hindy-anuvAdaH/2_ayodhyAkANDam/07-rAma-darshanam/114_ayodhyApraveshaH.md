@@ -4,11 +4,8 @@ title_english = "114 Bharata enters Ayodhya city"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-114-Ayodhyaa_Praveshaha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_2/Kanda_2_AYK-114-Ayodhyaa_Praveshaha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -68,13 +65,13 @@ title_english = "114 Bharata enters Ayodhya city"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अल्पोष्णक्षुब्धसलिलां घर्मतप्तविहंगमाम्।  
+अल्पोष्णक्षुब्धसलिलां घर्मतप्तविहङ्गमाम्।  
 लीनमीनझषग्राहां कृशां गिरिनदीमिव॥ ४॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-अल्पोष्णक्षुब्धसलिलां घर्मतप्तविहंगमाम्।  
+अल्पोष्णक्षुब्धसलिलां घर्मतप्तविहङ्गमाम्।  
 लीनमीनझषग्राहां कृशां गिरिनदीमिव॥ ४॥
 </details>
 
@@ -221,13 +218,13 @@ title_english = "114 Bharata enters Ayodhya city"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सम्मूढनिगमां सर्वां संक्षिप्तविपणापणाम्।  
+सम्मूढनिगमां सर्वां सङ्क्षिप्तविपणापणाम्।  
 प्रच्छन्नशशिनक्षत्रां द्यामिवाम्बुधरैर्युताम्॥ १३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-सम्मूढनिगमां सर्वां संक्षिप्तविपणापणाम्।  
+सम्मूढनिगमां सर्वां सङ्क्षिप्तविपणापणाम्।  
 प्रच्छन्नशशिनक्षत्रां द्यामिवाम्बुधरैर्युताम्॥ १३॥
 </details>
 
@@ -376,7 +373,7 @@ title_english = "114 Bharata enters Ayodhya city"
 
 नेदानीं श्रूयते पुर्यामस्यां रामे विवासिते।  
 चन्दनागुरुगन्धांश्च महार्हाश्च वनस्रजः॥ २२॥  
-गते रामे हि तरुणाः संतप्ता नोपभुञ्जते।  
+गते रामे हि तरुणाः सन्तप्ता नोपभुञ्जते।  
 बहिर्यात्रां न गच्छन्ति चित्रमाल्यधरा नराः॥ २३॥
 </details>
 
@@ -384,7 +381,7 @@ title_english = "114 Bharata enters Ayodhya city"
 
 नेदानीं श्रूयते पुर्यामस्यां रामे विवासिते।  
 चन्दनागुरुगन्धांश्च महार्हाश्च वनस्रजः॥ २२॥  
-गते रामे हि तरुणाः संतप्ता नोपभुञ्जते।  
+गते रामे हि तरुणाः सन्तप्ता नोपभुञ्जते।  
 बहिर्यात्रां न गच्छन्ति चित्रमाल्यधरा नराः॥ २३॥
 </details>
 
@@ -491,3 +488,4 @@ title_english = "114 Bharata enters Ayodhya city"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्येऽयोध्याकाण्डे चतुर्दशाधिकशततमः सर्गः॥ ११४॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके अयोध्याकाण्डमें एक सौ चौदहवाँ सर्ग पूरा हुआ॥ ११४॥
 </details>
+

@@ -4,11 +4,8 @@ title_english = "031 Hanuma began to narrate story of to Seetha"
 
 +++
 <details open><summary>वाचनम्</summary>
-
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-031-Hanuma_began_to_narrate_story_of_to_Seetha.mp3"></div>
+<div caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" class="audioEmbed" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_5/Kanda_5_SK-031-Hanuma_began_to_narrate_story_of_to_Seetha.mp3"></div>
 </details>
-
-
 
 <details><summary>भागसूचना</summary>
 
@@ -52,13 +49,13 @@ title_english = "031 Hanuma began to narrate story of to Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 राजर्षीणां गुणश्रेष्ठस्तपसा चर्षिभिः समः।  
-चक्रवर्तिकुले जातः पुरंदरसमो बले॥ ३॥
+चक्रवर्तिकुले जातः पुरन्दरसमो बले॥ ३॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 राजर्षीणां गुणश्रेष्ठस्तपसा चर्षिभिः समः।  
-चक्रवर्तिकुले जातः पुरंदरसमो बले॥ ३॥
+चक्रवर्तिकुले जातः पुरन्दरसमो बले॥ ३॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -107,13 +104,13 @@ title_english = "031 Hanuma began to narrate story of to Seetha"
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रक्षिता स्वस्य वृत्तस्य स्वजनस्यापि रक्षिता।  
-रक्षिता जीवलोकस्य धर्मस्य च परंतपः॥ ७॥
+रक्षिता जीवलोकस्य धर्मस्य च परन्तपः॥ ७॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 रक्षिता स्वस्य वृत्तस्य स्वजनस्यापि रक्षिता।  
-रक्षिता जीवलोकस्य धर्मस्य च परंतपः॥ ७॥
+रक्षिता जीवलोकस्य धर्मस्य च परन्तपः॥ ७॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -123,13 +120,13 @@ title_english = "031 Hanuma began to narrate story of to Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-तस्य सत्याभिसंधस्य वृद्धस्य वचनात् पितुः।  
+तस्य सत्याभिसन्धस्य वृद्धस्य वचनात् पितुः।  
 सभार्यः सह च भ्रात्रा वीरः प्रव्रजितो वनम्॥ ८॥
 </details>
 
 <details><summary>मूलम्</summary>
 
-तस्य सत्याभिसंधस्य वृद्धस्य वचनात् पितुः।  
+तस्य सत्याभिसन्धस्य वृद्धस्य वचनात् पितुः।  
 सभार्यः सह च भ्रात्रा वीरः प्रव्रजितो वनम्॥ ८॥
 </details>
 
@@ -193,13 +190,13 @@ title_english = "031 Hanuma began to narrate story of to Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-ततः स वालिनं हत्वा रामः परपुरंजयः॥ १२॥  
+ततः स वालिनं हत्वा रामः परपुरञ्जयः॥ १२॥  
 आयच्छत् कपिराज्यं तु सुग्रीवाय महात्मने।
 </details>
 
 <details><summary>मूलम्</summary>
 
-ततः स वालिनं हत्वा रामः परपुरंजयः॥ १२॥  
+ततः स वालिनं हत्वा रामः परपुरञ्जयः॥ १२॥  
 आयच्छत् कपिराज्यं तु सुग्रीवाय महात्मने।
 </details>
 
@@ -210,13 +207,13 @@ title_english = "031 Hanuma began to narrate story of to Seetha"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-सुग्रीवेणाभिसंदिष्टा हरयः कामरूपिणः॥ १३॥  
+सुग्रीवेणाभिसन्दिष्टा हरयः कामरूपिणः॥ १३॥  
 दिक्षु सर्वासु तां देवीं विचिन्वन्तः सहस्रशः।
 </details>
 
 <details><summary>मूलम्</summary>
 
-सुग्रीवेणाभिसंदिष्टा हरयः कामरूपिणः॥ १३॥  
+सुग्रीवेणाभिसन्दिष्टा हरयः कामरूपिणः॥ १३॥  
 दिक्षु सर्वासु तां देवीं विचिन्वन्तः सहस्रशः।
 </details>
 
@@ -246,14 +243,14 @@ title_english = "031 Hanuma began to narrate story of to Seetha"
 
 यथारूपां यथावर्णां यथालक्ष्मवतीं च ताम्॥ १५॥  
 अश्रौषं राघवस्याहं सेयमासादिता मया।  
-विररामैवमुक्त्वा स वाचं वानरपुंगवः॥ १६॥
+विररामैवमुक्त्वा स वाचं वानरपुङ्गवः॥ १६॥
 </details>
 
 <details><summary>मूलम्</summary>
 
 यथारूपां यथावर्णां यथालक्ष्मवतीं च ताम्॥ १५॥  
 अश्रौषं राघवस्याहं सेयमासादिता मया।  
-विररामैवमुक्त्वा स वाचं वानरपुंगवः॥ १६॥
+विररामैवमुक्त्वा स वाचं वानरपुङ्गवः॥ १६॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -305,7 +302,7 @@ title_english = "031 Hanuma began to narrate story of to Seetha"
 
 सा तिर्यगूर्ध्वं च तथा ह्यधस्ता-  
 न्निरीक्षमाणा तमचिन्त्यबुद्धिम्।  
-ददर्श पिंगाधिपतेरमात्यं  
+ददर्श पिङ्गाधिपतेरमात्यं  
 वातात्मजं सूर्यमिवोदयस्थम्॥ १९॥
 </details>
 
@@ -313,7 +310,7 @@ title_english = "031 Hanuma began to narrate story of to Seetha"
 
 सा तिर्यगूर्ध्वं च तथा ह्यधस्ता-  
 न्निरीक्षमाणा तमचिन्त्यबुद्धिम्।  
-ददर्श पिंगाधिपतेरमात्यं  
+ददर्श पिङ्गाधिपतेरमात्यं  
 वातात्मजं सूर्यमिवोदयस्थम्॥ १९॥
 </details>
 
@@ -327,3 +324,4 @@ title_english = "031 Hanuma began to narrate story of to Seetha"
 इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये सुन्दरकाण्डे एकत्रिंशः सर्गः॥ ३१॥  
 इस प्रकार श्रीवाल्मीकिनिर्मित आर्षरामायण आदिकाव्यके सुन्दरकाण्डमें इकतीसवाँ सर्ग पूरा हुआ॥ ३१॥
 </details>
+
