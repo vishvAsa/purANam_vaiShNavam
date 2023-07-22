@@ -89,5 +89,17 @@ Now if you want to historicize it you have to be tethered to biological realitie
 ### A mirror of shruti
 That is my intention of itihAsa-s read in the divine sense as a mirror of the shruti. In that type of reading rishyashR^i~Nga is like the udgAtR^i coming from the forest reciting the shakvarI sAman to generate rain. that’s for romapAda. In the same way like the udgAtR^i in the somayAga he brings indra (and other deva-s) to the ikShkvAku-s in the rAmAyaNa; laksh being viShNu, bharata being probably bhaga and shatrughna being aryaman
 
+What is the shruti cognate of rAma piercing the 7 trees?
+
+>  (KYV-TŚ) the story of Indra piercing 7 mountains to kill a boar-asura.
+
+There is an RV reflex too.
+
+> विश्वेत्ता विष्णु॒राभ॑रदुरुक्र॒मस्त्वेषि॑तः ।  
+श॒तं म॑हि॒षान्क्षी॑रपा॒कमो॑द॒नं व॑रा॒हमिन्द्र॑ एमु॒षम् ॥
+
+dyutAna mAruta - mArutiH?
+
+
 ## Conclusion
 What I will not go into is all the meta-information. So when we opt for a historicized reading then this role of rishyashR^i~Nga falls out as I’ve stated.
