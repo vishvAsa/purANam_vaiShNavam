@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏತಚ್ಛ್ರುತ್ವಾ ರಹಃ ಸೂತೋ ರಾಜಾನಮಿದಮಬ್ರವೀತ್ ।  
 ಶ್ರೂಯತಾಂ ತತ್ಪುರಾವೃತ್ತಂ ಪುರಾಣೇ ಚ ಮಯಾ ಶ್ರುತಮ್ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 2½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಋತ್ವಿಗ್ಭಿರುಪದಿಷ್ಟೋಽಯಂ ಪುರಾವೃತ್ತೋಮಯಾಶ್ರುತಃ ।  
 ಸನತ್ಕುಮಾರೋ ಭಗವಾನ್ಪೂರ್ವಂ ಕಥಿತವಾನ್ಕಥಾಮ್ ॥  
@@ -48,7 +48,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಾಶ್ಯಪಸ್ಯತು ಪುತ್ರೋಽಸ್ತಿ ವಿಭಾಂಡಕ ಇತಿಶ್ರುತಃ ॥
 </details>
@@ -56,7 +56,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಋಶ್ಯಶೃಙ್ಗ ಇತಿ ಖ್ಯಾತಸ್ತಸ್ಯ ಪುತ್ರೋ ಭವಿಷ್ಯತಿ ।  
 ಸ ವನೇ ನಿತ್ಯಸಂವೃದ್ಧೋ ಮುನಿರ್ವನಚರಃ ಸದಾ ॥
@@ -70,7 +70,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 5½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಾನ್ಯಂ ಜಾನಾತಿ ವಿಪ್ರೇಂದ್ರೋ ನಿತ್ಯಂ ಪಿತ್ರನುವರ್ತನಾತ್ ।  
 ದ್ವೈವಿಧ್ಯಂ ಬ್ರಹ್ಮಚರ್ಯಸ್ಯ ಭವಿಷ್ಯತಿ ಮಹಾತ್ಮನಃ ॥  
@@ -85,7 +85,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 6½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಯೈವಂ ವರ್ತಮಾನಸ್ಯ ಕಾಲಃ ಸಮಭಿವರ್ತತ ॥  
 ಅಗ್ನಿಂ ಶುಶ್ರೂಷಮಾಣಸ್ಯ ಪಿತರಂ ಚ ಯಶಸ್ವಿನಮ್ ।
@@ -99,7 +99,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏತಸ್ಮಿನ್ನೇವ ಕಾಲೇ ತು ರೋಮಪಾದಃಪ್ರತಾಪವಾನ್ ॥
 </details>
@@ -107,7 +107,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 8½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಂಗೇಷು ಪ್ರಥಿತೋ ರಾಜಾ ಭವಿಷ್ಯತಿ ಮಹಾಬಲಃ ।  
 ತಸ್ಯ ವ್ಯತಿಕ್ರಮಾದ್ರಾಜ್ಞೋ ಭವಿಷ್ಯತಿ ಸುದಾರುಣಾ ॥  
@@ -122,7 +122,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅನಾವೃಷ್ಟ್ಯಾಂ ತು ವೃತ್ತಾಯಾಂ ರಾಜಾ ದುಃಖಸಮನ್ವಿತಃ ॥
 </details>
@@ -130,7 +130,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 10½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಬ್ರಾಹ್ಮಣಾನ್ ಶ್ರುತಸಂವೃದ್ಧಾನ್ ಸಮಾನೀಯ ಪ್ರವಕ್ಷ್ಯತಿ ।  
 ಭವಂತಃ ಶ್ರುತಕರ್ಮಾಣೋ ಲೋಕಚಾರಿತ್ರವೇದಿನಃ ॥  
@@ -145,7 +145,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ 11½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇತ್ಯುಕ್ತಾಸ್ತೇ ತತೋ ರಾಜ್ಞಾ ಸರ್ವೇ ಬ್ರಾಹ್ಮಣಸತ್ತಮಾಃ ॥  
 ವಕ್ಷ್ಯಂತಿ ತೇ ಮಹೀಪಾಲಂ ಬ್ರಾಹ್ಮಣಾ ವೇದಪಾರಗಾಃ ।
@@ -159,7 +159,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿಭಾಂಡಕ ಸುತಂ ರಾಜನ್ ಸರ್ವೋಪಾಯೈರಿಹಾನಯ ॥
 </details>
@@ -167,7 +167,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಆನಾಯ್ಯ ತು ಮಹೀಪಾಲ ಋಷ್ಯಶೃಙ್ಗಂ ಸುಸತ್ಕೃತಮ್ ।  
 ವಿಭಾಂಡಕಸುತಂ ರಾಜನ್ ಬ್ರಾಹ್ಮಣಂ ವೇದಪಾರಗಮ್ ॥  
@@ -182,7 +182,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತೇಷಾಂ ತು ವಚನಂ ಶ್ರುತ್ವಾ ರಾಜಾ ಚಿಂತಾ ಪ್ರಪತ್ಸ್ಯತೇ ।  
 ಕೇನೋಪಾಯೇನ ವೈ ಶಕ್ಯಮಿಹಾನೇತುಂ ಸ ವೀರ್ಯವಾನ್ ॥
@@ -196,7 +196,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತೋ ರಾಜಾ ವಿನಿಶ್ಚಿತ್ಯ ಸಹ ಮಂತ್ರಿಭಿರಾತ್ಮವಾನ್ ।  
 ಪುರೋಹಿತಮಮಾತ್ಯಾಂಶ್ಚ ಪ್ರೇಷಯಿಷ್ಯತಿ ಸತ್ಕೃತಾನ್ ॥
@@ -210,7 +210,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತೇ ತು ರಾಜ್ಞೋ ವಚಃ ಶ್ರುತ್ವಾ ವ್ಯಥಿತಾ ವಿನತಾನನಾಃ ।  
 ನ ಗಚ್ಛೇಮ ಋಷೇರ್ಭೀತಾ ಅನುನೇಷ್ಯಂತಿ ತಂ ನೃಪಮ್ ॥
@@ -224,7 +224,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಕ್ಷ್ಯಂತಿ ಚಿಂತಯಿತ್ವಾ ತೇ ತಸ್ಯೋಪಾಯಾಂಶ್ಚ ತಾನ್ ಕ್ಷಮಾನ್ ।  
 ಆನೇಷ್ಯಾಮೋ ವಯಂ ವಿಪ್ರಂ ನ ಚ ದೋಷೋ ಭವಿಷ್ಯತಿ ॥
@@ -238,7 +238,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏವಮಂಗಾಧಿಪೇನೈವ ಗಣಿಕಾಭಿರ್ ಋಷೇಃ ಸುತಃ ।  
 ಆನೀತೋಽವರ್ಷಯದ್ದೇವಃ ಶಾಂತಾಚಾಸ್ಮೈ ಪ್ರದೀಯತೇ ॥
@@ -252,7 +252,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಋಷ್ಯಶೃಂಗಸ್ತುಜಾಮಾತಾ ಪುತ್ರಾಂಸ್ತವ ವಿಧಾಸ್ಯತಿ ।  
 ಸನತ್ಕುಮಾರಕಥಿತಮೇತಾವದ್ ವ್ಯಾಹೃತಂ ಮಯಾ ॥
@@ -266,7 +266,7 @@ unicode_script = "kannada"
 ###### 20
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಥ ಹೃಷ್ಟೋ ದಶರಥಃ ಸುಮನ್ತ್ರಂ ಪ್ರತ್ಯಭಾಷತ ।  
 ಯಥರ್ಷಶೃಂಗಸ್ತ್ವಾನೀತೋ ಯೇನೋಪಾಯೇನ ಸೋಚ್ಯತಾಮ್ ॥

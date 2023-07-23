@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏವಮುಕ್ತೋವಸಿಷ್ಠೇನ ವಿಶ್ವಾಮಿತ್ರೋ ಮಹಾಬಲಃ ।  
 ಆಗ್ನೇಯಮಸ್ತ್ರಮುದ್ದಿಷ್ಯ ತಿಷ್ಠ ತಿಷ್ಠೇತಿ ಚಾಬ್ರವೀತ್ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಬ್ರಹ್ಮದಂಡಂ ಸಮುದ್ಯಮ್ಯ ಕಾಲದಂಡಮಿವಾಪರಮ್ ।  
 ವಸಿಷ್ಠೋ ಭಗವಾನ್ ಕ್ರೋಧಾದಿದಂ ವಚನಮಬ್ರವೀತ್ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕ್ಷತ್ರಬಂಧೋ ಸ್ಥಿತೋಽಸ್ಮ್ಯೇಷ ಯದ್ಬಲಂ ತದ್ವಿದರ್ಶಯ ।  
 ನಾಶಯಾಮ್ಯದ್ಯ ತೇ ದರ್ಪಂ ಶಸ್ತ್ರಸ್ಯ ತವ ಗಾಧಿಜ ॥
@@ -61,7 +61,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕ್ವ ಚ ತೇ ಕ್ಷತ್ರಿಯಬಲಂ ಕ್ವ ಚ ಬ್ರಹ್ಮಬಲಂಮಹತ್ ।  
 ಪಶ್ಯ ಬ್ರಹ್ಮಬಲಂ ದಿವ್ಯಂ ಮಮ ಕ್ಷತ್ರಿಯಪಾಂಸನ ॥
@@ -75,7 +75,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಯಾಸ್ತ್ರಂ ಗಾಧಿಪುತ್ರಸ್ಯ ಘೋರಮಾಗ್ನೇಯಮುತ್ತಮಮ್ ।  
 ಬ್ರಹ್ಮದಂಡೇನ ತಚ್ಛಾಂತಮಗ್ನೇರ್ವೇಗ ಇವಾಂಭಸಾ ॥
@@ -89,7 +89,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಾರುಣಂ ಚೈವ ರೌದ್ರಂ ಚ ಐಂದ್ರಂ ಪಾಶುಪತಂ ತಥಾ ।  
 ಐಷೀಕಂ ಚಾಪಿ ಚಿಕ್ಷೇಪ ಕುಪಿತೋ ಗಾಧಿನಂದನಃ ॥
@@ -103,7 +103,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮಾನವಂ ಮೋಹನಂ ಚೈವ ಗಾಂಧರ್ವಂ ಸ್ವಾಪನಂ ತಥಾ ।  
 ಜೃಂಭಣಂ ಮಾದನಂ ಚೈವ ಸಂತಾಪನವಿಲಾಪನೇ ॥
@@ -112,7 +112,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶೋಷಣಂ ದಾರಣಂ ಚೈವ ವಜ್ರಮಸ್ತ್ರಂ ಸುದುರ್ಜಯಮ್ ।  
 ಬ್ರಹ್ಮಪಾಶಂ ಕಾಲಪಾಶಂವಾರುಣಂ ಪಾಶಮೇವ ಚ ॥
@@ -121,7 +121,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪಿನಾಕಮಸಂ ದಯಿತಂ ಶುಷ್ಕಾರ್ದ್ರೇ ಅಶಿನೀ ತಥಾ ।  
 ದಂಡಾಸ್ತ್ರಮಥ ಪೈಶಾಚಂ ಕ್ರೌಂಚಮಸ್ತ್ರಂ ತಥೈವ ಚ ॥
@@ -130,7 +130,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಧರ್ಮಚಕ್ರಂ ಕಾಲಚಕ್ರಂ ವಿಷ್ಣುಚಕ್ರಂ ತಥೈವ ಚ ।  
 ವಾಯವ್ಯಂ ಮಥನಂ ಚೈವ ಅಸ್ತ್ರಂ ಹಯಶಿರಸ್ತಥಾ ॥
@@ -139,7 +139,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶಕ್ತಿದ್ವಯಂ ಚ ಚಿಕ್ಷೇಪ ಕಂಕಾಲಂ ಮುಸಲಂ ತಥಾ ।  
 ವೈದ್ಯಾಧರಂ ಮಹಾಸ್ತ್ರಂ ಚ ಕಾಲಾಸ್ತ್ರಮಥ ದಾರುಣಮ್ ॥
@@ -148,7 +148,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತ್ರಿಶೂಲಮಸ್ತ್ರಂ ಘೋರಂ ಚ ಕಾಪಾಲಮಥಕಂಕಣಮ್ ।  
 ಏತಾನ್ಯಸ್ತ್ರಾಣಿ ಚಿಕ್ಷೇಪ ಸರ್ವಾಣಿ ರಘುನಂದನ ॥
@@ -162,7 +162,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಸಿಷ್ಠೇ ಜಪತಾಂ ಶ್ರೇಷ್ಠೇ ತದದ್ಭುತಮಿವಾಭವತ್ ।  
 ತಾನಿ ಸರ್ವಾಣಿ ದಂಡೇನ ಗ್ರಸತೇ ಬ್ರಹ್ಮಣಃ ಸುತಃ ॥
@@ -176,7 +176,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತೇಷುಶಾಂತೇಷು ಬ್ರಹ್ಮಾಸ್ತ್ರಂ ಕ್ಷಿಪ್ತವಾನ್ಗಾಧಿನಂದನಃ ।  
 ತದಸ್ತ್ರಮುದ್ಯತಂ ದೃಷ್ಟ್ವಾ ದೇವಾಃ ಸಾಗ್ನಿಪುರೋಗಮಾಃ ॥
@@ -185,7 +185,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ದೇವರ್ಷಯಶ್ಚ ಸಂಭ್ರಾಂತಾ ಗಂಧರ್ವಾಃ ಸಮಹೋರಗಾಃ ।  
 ತ್ರೈಲೋಕ್ಯಮಾಸೀತ್ಸಂತ್ರಸ್ತಂಬ್ರಹ್ಮಾಸ್ತ್ರೇ ಸಮುದೀರಿತೇ ॥
@@ -199,7 +199,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತದಪ್ಯಸ್ತ್ರಂ ಮಹಾಘೋರಂ ಬ್ರಾಹ್ಮಂ ಬ್ರಾಹ್ಮೇಣ ತೇಜಸಾ ।  
 ವಸಿಷ್ಠೋಗ್ರಸತೇ ಸರ್ವಂ ಬ್ರಹ್ಮದಂಡೇನ ರಾಘವ ॥
@@ -213,7 +213,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಬ್ರಹ್ಮಾಸ್ತ್ರಂ ಗ್ರಸಮಾನಸ್ಯ ವಸಿಷ್ಠಸ್ಯ ಮಹಾತ್ಮನಃ ।  
 ತ್ರೈಲೋಕ್ಯಮೋಹನಂ ರೌದ್ರಂ ರೂಪಮಾಸೀತ್ಸುದಾರುಣಮ್ ॥
@@ -227,7 +227,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರೋಮಕೂಪೇಷು ಸರ್ವೇಷು ವಸಿಷ್ಠಸ್ಯ ಮಹಾತ್ಮನಃ ।  
 ಮರೀಚ್ಯ ಇವ ನಿಷ್ಪೇತುರಗ್ನೇರ್ಧೂಮಾಕುಲಾರ್ಚಿಷಃ ॥
@@ -241,7 +241,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪ್ರಾಜ್ವಲದ್ ಬ್ರಹ್ಮದಂಡಶ್ಚ ವಸಿಷ್ಠಸ್ಯ ಕರೋದ್ಯತಃ ।  
 ವಿಧೂಮ ಇವ ಕಾಲಾಗ್ನೇರ್ಯಮದಂಡ ಇವಾಪರಃ ॥
@@ -255,7 +255,7 @@ unicode_script = "kannada"
 ###### 20
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತೋಽಸ್ತುವನ್ ಮುನಿಗಣಾ ವಸಿಷ್ಠಂ ಜಪತಾಂ ವರಮ್ ।  
 ಅಮೋಘಂ ತೇ ಬಲಂ ಬ್ರಹ್ಮಂಸ್ತೇಜೋ ಧಾರಯ ತೇಜಸಾ ॥
@@ -269,7 +269,7 @@ unicode_script = "kannada"
 ###### 21
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಿಗೃಹೀತಸ್ತ್ವಯಾ ಬ್ರಹ್ಮನ್ ವಿಶ್ವಾಮಿತ್ರೋ ಮಹಾಬಲಃ ।  
 ಅಮೋಘಂ ತೇ ಬಲಂ ಶ್ರೇಷ್ಠ ಲೋಕಾಃ ಸಂತು ಗತವ್ಯಥಾಃ ॥
@@ -283,7 +283,7 @@ unicode_script = "kannada"
 ###### 22
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏವಮುಕ್ತೋ ಮಹಾತೇಜಾಃ ಶಮಂ ಚಕ್ರೇ ಮಹಾಬಲಃ ।  
 ವಿಶ್ವಾಮಿತ್ರೋ ವಿನಿಕೃತೋ ವಿನಿಃಶ್ವಸ್ಯೇದಮಬ್ರವೀತ್ ॥
@@ -297,7 +297,7 @@ unicode_script = "kannada"
 ###### 23
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಧಿಗ್ಬಲಂ ಕ್ಷತ್ರಿಯಬಲಂ ಬ್ರಹ್ಮತೇಜೋಬಲಂ ಬಲಮ್ ।  
 ಏಕೇನ ಬ್ರಹ್ಮದಂಡೇನ ಸರ್ವಾಸ್ತ್ರಾಣಿ ಹತಾನಿ ಮೇ ॥
@@ -311,7 +311,7 @@ unicode_script = "kannada"
 ###### 24
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತದೇತ್ ಪ್ರಸಮೀಕ್ಷ್ಯಾಹಂ ಪ್ರಸನ್ನೇಂದ್ರಿಯಮಾನಸಃ ।  
 ತಪೋ ಮಹತ್ ಸಮಾಸ್ಥಾಸ್ಯೇ ಯದ್ವೈ ಬ್ರಹ್ಮತ್ವಕಾರಣಮ್ ॥

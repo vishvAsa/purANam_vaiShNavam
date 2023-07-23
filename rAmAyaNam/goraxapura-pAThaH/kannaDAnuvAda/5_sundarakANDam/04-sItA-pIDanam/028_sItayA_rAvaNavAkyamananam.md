@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾ ರಾಕ್ಷಸೇಂದ್ರಸ್ಯ ವಚೋ ನಿಶಮ್ಯ  
 ತದ್ರಾವಣಸ್ಯಾಪ್ರಿಯಮಪ್ರಿಯಾರ್ತಾ ।  
@@ -35,7 +35,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾ ರಾಕ್ಷಸೀಮಧ್ಯಗತಾ ಚ ಭೀರು-  
 ರ್ವಾಗ್ಭಿರ್ಭೃಶಂ ರಾವಣತರ್ಜಿತಾ ಚ ।  
@@ -51,7 +51,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸತ್ಯಂ ಬತೇದಂ ಪ್ರವದಂತಿ ಲೋಕೇ  
 ನಾಕಾಲಮೃತ್ಯುರ್ಭವತೀತಿ ಸಂತಃ ।  
@@ -67,7 +67,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸುಖಾದ್ವಿಹೀನಂ ಬಹುದುಃಖಪೂರ್ಣ  
 ಮಿದಂ ತು ನೂನಂ ಹೃದಯಂ ಸ್ಥಿರಂ ಮೇ ।  
@@ -83,7 +83,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನೈವಾಸ್ತಿ ದೋಷೋ ಮಮ ನೂನಮತ್ರ  
 ವಧ್ಯಾಹಮಸ್ಯಾಪ್ರಿಯದರ್ಶನಸ್ಯ ।  
@@ -99,7 +99,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನೂನಂ ಮಮಾಂಗಾನ್ಯಚಿರಾದನಾರ್ಯಃ  
 ಶಸ್ತ್ರೈಃ ಶಿತೈಶ್ಛೇತ್ಸ್ಯತಿ ರಾಕ್ಷಸೇಂದ್ರಃ ।  
@@ -115,7 +115,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ದುಃಖಂ ಬತೇದಂ ಮಮ ದುಃಖಿತಾಯಾ  
 ಮಾಸೌ ಚಿರಾಯಾಧಿಗಮಿಷ್ಯತೋ ದ್ವೌ ।  
@@ -131,7 +131,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಹಾ ರಾಮ ಹಾ ಲಕ್ಷ್ಮಣ ಹಾ ಸುಮಿತ್ರೇ  
 ಹಾ ರಾಮಮಾತಃ ಸಹ ಮೇ ಜನನ್ಯಾ ।  
@@ -147,7 +147,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತರಸ್ವಿನೌ ಧಾರಯತಾ ಮೃಗಸ್ಯ  
 ಸತ್ತ್ವೇನ ರೂಪಂ ಮನುಜೇಂದ್ರಪುತ್ರೌ ।  
@@ -163,7 +163,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನೂನಂ ಸ ಕಾಲೋ ಮೃಗರೂಪಧಾರೀ  
 ಮಾಮಲ್ಪಭಾಗ್ಯಾಂ ಲುಲುಭೇ ತದಾನೀಮ್ ।  
@@ -179,7 +179,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಹಾ ರಾಮ ಸತ್ಯವ್ರತ ದೀರ್ಘಬಾಹೋ  
 ಹಾ ಪೂರ್ಣಚಂದ್ರ ಪ್ರತಿಮಾನವಕ್ತ್ರ ।  
@@ -195,7 +195,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅನನ್ಯ ದೇವತ್ವಮಿಯಂ ಕ್ಷಮಾ ಚ  
 ಭೂಮೌ ಚ ಶಯ್ಯಾ ನಿಯಮಶ್ಚ ಧರ್ಮೇ ।  
@@ -211,7 +211,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮೋಘೋ ಹಿ ಧರ್ಮಶ್ಚರಿತೋ ಮಯಾಯಂ  
 ತಥೈಕಪತ್ನೀತ್ವಮಿದಂ ನಿರರ್ಥಮ್ ।  
@@ -227,7 +227,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪಿತುರ್ನಿದೇಶಂ ನಿಯಮೇನ ಕೃತ್ವಾ  
 ವನಾನ್ನಿವೃತ್ತಶ್ಚರಿತವ್ರತಶ್ಚ ।  
@@ -243,7 +243,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಹಂ ತು ರಾಮ ತ್ವಯಿ ಜಾತಕಾಮಾ  
 ಚಿರಂ ವಿನಾಶಾಯ ನಿಬದ್ಧಭಾವಾ ।  
@@ -259,7 +259,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾ ಜೀವಿತಂ ಕ್ಷಿಪ್ರಮಹಂ ತ್ಯಜೇಯಂ  
 ವಿಷೇಣ ಶಸ್ತ್ರೇಣ ಶಿತೇನ ವಾಪಿ ।  
@@ -275,7 +275,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇತೀವ ದೇವೀ ಬಹುಧಾ ವಿಲಪ್ಯ  
 ಸರ್ವಾತ್ಮನಾ ರಾಮಮನುಸ್ಮರಂತೀ ।  
@@ -291,7 +291,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶೋಕಾಭಿತಪ್ತಾ ಬಹುಧಾ ವಿಚಿಂತ್ಯ  
 ಸೀತಾಥ ವೇಣ್ಯುದ್ಗ್ರಥನಂ ಗೃಹೀತ್ವಾ ।  
@@ -307,7 +307,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಉಪಸ್ಥಿತಾ ಸಾ ಮೃದುಸರ್ವಗಾತ್ರೀ  
 ಶಾಖಾಂ ಗೃಹೀತ್ವಾಥ ನಗಸ್ಯ ತಸ್ಯ ।  
@@ -318,7 +318,7 @@ unicode_script = "kannada"
 ###### 20
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶೋಕಾನಿಮಿತ್ತಾನಿ ತಥಾ ಬಹೂನಿ  
 ಧೈರ್ಯಾರ್ಜಿತಾನಿ ಪ್ರವರಾಣಿ ಲೋಕೇ ।  
@@ -331,7 +331,7 @@ unicode_script = "kannada"
 ಸುಕುಮಾರಿಯಾದ ಸೀತಾದೇವಿಯು ಆ ಮರದ ರೆಂಬೆಯನ್ನು ಹಿಡಿದುಕೊಂಡು ನಿಂತಿದ್ದಳು. ಅವಳು ಶ್ರೀರಾಮನನ್ನು, ಲಕ್ಷ್ಮಣನನ್ನು, ತನ್ನ ವಂಶವನ್ನು ಸ್ಮರಿಸಿಕೊಂಡಳು. ಆಗ ಶುಭಾಂಗಿಯಾದ ಅವಳಿಗೆ ಶೋಕವು ತೊಲಗುವಂತಹ, ಧೈರ್ಯವನ್ನು ತುಂಬುವಂತಹ, ಸತ್ಫಲದಾಯಕವಾದ, ಲೋಕ ಪ್ರಸಿದ್ಧವಾದ ಶ್ರೀರಾಮನ ಆಗಮನವನ್ನು ಸೂಚಿಸುವಂತಹ ಹಿಂದೆ ಕಂಡುಬಂದು ಅನೇಕ ಶುಭಶಕುನಗಳು ಪುನಃ ಕಾಣಿಸಿಕೊಂಡವು.॥19-20॥
 </details>
 
-<details><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
+<details open><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
 
 ಇತ್ಯಾರ್ಷೇ ಶ್ರೀಮದ್ರಾಮಾಯಣೇ ವಾಲ್ಮೀಕೀಯೇ ಆದಿಕಾವ್ಯೇ ಸುಂದರಕಾಂಡೇ ಅಷ್ಟಾವಿಂಶಃ ಸರ್ಗಃ ॥ 28 ॥
 </details>

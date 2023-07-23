@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಂದಿಷ್ಟೋ ರಾಕ್ಷಸೇಂದ್ರೇಣ ಪ್ರಹಸ್ತಸ್ಯ ಸುತೋ ಬಲೀ ।  
 ಜಂಬುಮಾಲೀ ಮಹಾದಂಷ್ಟ್ರೋ ನಿರ್ಜಗಾಮ ಧನುರ್ಧರಃ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರಕ್ತಮಾಲ್ಯಾಂಬರಧರಃ ಸ್ರಗ್ವೀ ರುಚಿರಕುಂಡಲಃ ।  
 ಮಹಾನ್ ವಿವೃತ್ತನಯನಶ್ಚಂಡಃ ಸಮರದುರ್ಜಯಃ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಧನುಃ ಶಕ್ರಧನುಃಪ್ರಖ್ಯಂ ಮಹದ್ರುಚಿರಸಾಯಕಮ್ ।  
 ವಿಸ್ಫಾರಯಾನೋ ವೇಗೇನ ವಜ್ರಾಶನಿಸಮಸ್ವನಮ್ ॥
@@ -56,7 +56,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಯ ವಿಸ್ಫಾರಘೋಷೇಣ ಧನುಷೋ ಮಹತಾ ದಿಶಃ ।  
 ಪ್ರದಿಶಶ್ಚ ನಭಶ್ಚೆವ ಸಹಸಾ ಸಮಪೂರ್ಯತ ॥
@@ -70,7 +70,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರಥೇನ ಖರಯುಕ್ತೇನ ತಮಾಗತಮುದೀಕ್ಷ್ಯ ಸಃ ।  
 ಹನುಮಾನ್ ವೇಗಸಂಪನ್ನೋ ಜಹರ್ಷ ಚ ನನಾದ ಚ ॥
@@ -84,7 +84,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಂ ತೋರಣವಿಟಂಕಸ್ಥಂ ಹನುಮಂತಂ ಮಹಾಕಪಿಮ್ ।  
 ಜಂಬುಮಾಲೀ ಮಹಾಬಾಹುರ್ವಿವ್ಯಾಧ ನಿಶಿತೈಃ ಶರೈಃ ॥
@@ -98,7 +98,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅರ್ಧಚಂದ್ರೇಣ ವದನೇ ಶಿರಸ್ಯೇಕೇನ ಕರ್ಣಿನಾ ।  
 ಬಾಹ್ವೋರ್ವಿವ್ಯಾಧ ನಾರಾಚೈರ್ದಶಭಿಸ್ತಂ ಕಪೀಶ್ವರಮ್ ॥
@@ -112,7 +112,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಯ ತಚ್ಛುಶುಭೇ ತಾಮ್ರಂ ಶರೇಣಾಭಿಹತಂ ಮುಖಮ್ ।  
 ಶರದೀವಾಂಬುಜಂಫುಲ್ಲಂ ವಿದ್ಧಂ ಭಾಸ್ಕರರಶ್ಮಿನಾ ॥
@@ -126,7 +126,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತ್ತಸ್ಯ ರಕ್ತಂ ರಕ್ತೇನ ರಂಜಿತಂ ಶುಶುಭೇ ಮುಖಮ್ ।  
 ಯಥಾಕಾಶೇ ಮಹಾಪದ್ಮಂ ಸಿಕ್ತಂ ಚಂದನಬಿಂದುಭಿಃ ॥
@@ -140,7 +140,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಚುಕೋಪ ಬಾಣಾಭಿಹತೋ ರಾಕ್ಷಸಸ್ಯ ಮಹಾಕಪಿಃ ।  
 ತತಃ ಪಾರ್ಶ್ವೇತಿವಿಪುಲಾಂ ದದರ್ಶ ಮಹತೀಂ ಶಿಲಾಮ್ ॥
@@ -154,7 +154,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತರಸಾ ತಾಂ ಸಮುತ್ಪಾಟ್ಯ ಚಿಕ್ಷೇಪ ಬಲವದ್ಬಲೀ ।  
 ತಾಂ ಶರೈರ್ದಶಭಿಃ ಕ್ರುದ್ಧಸ್ತಾಡಯಾಮಾಸ ರಾಕ್ಷಸಃ ॥
@@ -168,7 +168,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿಪನ್ನಂ ಕರ್ಮ ತದ್ದೃಷ್ಟ್ವಾ ಹನುಮಾಂಶ್ಚಂಡವಿಕ್ರಮಃ ।  
 ಸಾಲಂ ವಿಪುಲಮುತ್ಪಾಟ್ಯ ಭ್ರಾಮಯಾಮಾಸ ವೀರ್ಯವಾನ್ ॥
@@ -182,7 +182,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಭ್ರಾಮಯಂತಂ ಕಪಿಂ ದೃಷ್ಟ್ವಾ ಸಾಲವೃಕ್ಷಂ ಮಹಾಬಲಮ್ ।  
 ಚಿಕ್ಷೇಪ ಸುಬಹೂನ್ ಬಾಣಾನ್ ಜಂಬುಮಾಲೀ ಮಹಾಬಲಃ ॥
@@ -196,7 +196,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾಲಂ ಚತುರ್ಭಿಶ್ಚಿಚ್ಛೇದ ವಾನರಂ ಪಂಚಭಿರ್ಭುಜೇ ।  
 ಶಿರಸ್ಯೇಕೇನ ಬಾಣೇನ ದಶಭಿಸ್ತು ಸ್ತನಾಂತರೇ ॥
@@ -210,7 +210,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ಶರೈಃ ಪೂರಿತತನುಃ ಕ್ರೋಧೇನ ಮಹತಾ ವೃತಃ ।  
 ತಮೇವ ಪರಿಘಂ ಗೃಹ್ಯ ಭ್ರಾಮಯಾಮಾಸ ವೇಗತಃ ॥
@@ -224,7 +224,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅತಿವೇಗೋತಿವೇಗೇನ ಭ್ರಾಮಯಿತ್ವಾ ಬಲೋತ್ಕಟಃ ।  
 ಪರಿಘಂ ಪಾತಯಾಮಾಸ ಜಂಬುಮಾಲೇರ್ಮಹೋರಸಿ ॥
@@ -238,7 +238,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಯ ಚೈವ ಶಿರೋ ನಾಸ್ತಿ ನ ಬಾಹೂ ನ ಚ ಜಾನುನೀ ।  
 ನ ಧನುರ್ನರಥೋ ನಾಶ್ವಾಸ್ತತ್ರಾದೃಶ್ಯಂತ ನೇಷವಃ ॥
@@ -252,7 +252,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ಹತಸ್ತರಸಾ ತೇನ ಜಂಬುಮಾಲೀ ಮಹಾಬಲಃ ।  
 ಪಪಾತ ನಿಹತೋ ಭೂವೌ ಚೂರ್ಣಿತಾಂಗವಿಭೂಷಣಃ ॥
@@ -266,7 +266,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಜಂಬುಮಾಲಿಂ ಚ ನಿಹತಂ ಕಿಂಕರಾಂಶ್ಚ ಮಹಾಬಲಾನ್ ।  
 ಚುಕ್ರೋಧ ರಾವಣಃ ಶ್ರುತ್ವಾ ಕೋಪಸಂರಕ್ತ ಲೋಚನಃ ॥
@@ -275,7 +275,7 @@ unicode_script = "kannada"
 ###### 20
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ರೋಷಸಂವರ್ತಿತತಾಮ್ರಲೋಚನಃ  
 ಪ್ರಹಸ್ತ ಪುತ್ರೇ ನಿಹತೇ ಮಹಾಬಲೇ ।  
@@ -288,7 +288,7 @@ unicode_script = "kannada"
 ಮಹಾಬಲಶಾಲಿಗಳಾದ ಎಂಭತ್ತು ಸಾವಿರ ಕಿಂಕರರೂ, ಜಂಬುಮಾಲಿಯೂ ಹತರಾದರೆಂದು ಕೇಳಿದ ರಾಕ್ಷಸರಾಜನಾದ ರಾವಣನು ಬಹಳ ಕೋಪಗೊಂಡು ಕಣ್ಣುಗಳು ಕೆಂಪಾಗಿ ತಿರುಗತೊಡಗಿದವು. ಮಹಾಬಲಶಾಲಿಯಾದ ಪ್ರಸಹಸ್ತ ಪುತ್ರ ಜಂಬುಮಾಲಿಯು ರಣಭೂಮಿಯಲ್ಲಿ ಬಲಿಯಾದುದನ್ನು ತಿಳಿದು, ರೋಷದಿಂದ, ಅತುಲ ಬಲ ಪರಾಕ್ರಮಿಗಳಾದ ಅಮಾತ್ಯಪುತ್ರರನ್ನು ಹನುಮಂತನೊಡನೆ ಯುದ್ಧಮಾಡಲು ಕಳುಹಿಸಿದನು.॥19-20॥
 </details>
 
-<details><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
+<details open><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
 
 ಇತ್ಯಾರ್ಷೇ ಶ್ರೀಮದ್ರಾಮಾಯಣೇ ವಾಲ್ಮೀಕೀಯೇ ಆದಿಕಾವ್ಯೇ ಸುಂದರಕಾಂಡೇ ಚತುಶ್ಚತ್ವಾರಿಂಶಃ ಸರ್ಗಃ ॥ 44 ॥
 </details>

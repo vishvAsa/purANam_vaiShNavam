@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪ್ರಭಾತಾಯಾಂ ತು ಶರ್ವಯಾಂ ಪೌರಾಸ್ತೇ ರಾಘವಂ ವಿನಾ ।  
 ಶೋಕೋಪಹತನಿಶ್ಚೇಷ್ಟಾ ಬಭೂವುರ್ಹತಚೇತಸಃ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶೋಕಜಾಶ್ರುಪರಿದ್ಯೂನಾ ವೀಕ್ಷಮಾಣಾ ಸ್ತತಸ್ತತಃ ।  
 ಆಲೋಕಮಪಿ ರಾಮಸ್ಯ ನ ಪಶ್ಯಂತಿ ಸ್ಮ ದುಃಖಿತಾಃ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತೇ ವಿಷಾದಾರ್ತವದನಾ ರಹಿತಾಸ್ತೇನ ಧೀಮತಾ ।  
 ಕೃಪಣಾಃ ಕರುಣಾ ವಾಚೋವದಂತಿ ಸ್ಮ ಮನೀಷಿಣಃ ॥
@@ -61,7 +61,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಧಿಗಸ್ತು ಖಲುನಿದ್ರಾಂ ತಾಂ ಯಯಾಪಹತಚೇತಸಃ ।  
 ನಾದ್ಯ ಪಶ್ಯಾಮಹೇ ರಾಮಂ ಪೃಥೂರಸ್ಕಂ ಮಹಾಭುಜಮ್ ॥
@@ -75,7 +75,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಥಂ ರಾಮೋಮಹಾಬಾಹುಃ ಸ ತಥಾವಿತಥಕ್ರಿಯಃ ।  
 ಭಕ್ತಂ ಜನಮಭಿತ್ಯಜ್ಯ ಪ್ರವಾಸಂ ತಾಪಸೋ ಗತಃ ॥
@@ -89,7 +89,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯೋ ನಃ ಸದಾ ಪಾಲಯತಿ ಪಿತಾ ಪುತ್ರಾನಿವೌರಸಾನ್ ।  
 ಕಥಂ ರಘೂಣಾಂ ಸ ಶ್ರೇಷ್ಠಸ್ತ್ಯಕ್ತ್ವಾ ನೋ ವಿಪಿನಂ ಗತಃ ॥
@@ -103,7 +103,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇಹೈವ ನಿಧನಂ ಯಾಮ ಮಹಾಪ್ರಸ್ಥಾನಮೇವ ವಾ ।  
 ರಾಮೇಣ ರಹಿತಾನಾಂ ನೋ ಕಿಮರ್ಥಂ ಜೀವಿತಂ ಹಿತಮ್ ॥
@@ -117,7 +117,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಂತಿ ಶುಷ್ಕಾಣಿ ಕಾಷ್ಠಾನಿ ಪ್ರಭೂತಾನಿ ಮಹಾಂತಿ ಚ ।  
 ತೈಃ ಪ್ರಜ್ವಾಲ್ಯ ಚಿತಾಂ ಸರ್ವೇ ಪ್ರವಿಶಾಮೋಽಥವಾ ವಯಮ್ ॥
@@ -131,7 +131,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಿಂ ವಕ್ಷ್ಯಾಮೋ ಮಹಾಬಾಹುರನಸೂಯಃ ಪ್ರಿಯಂವದಃ  
 ನೀತಃ ಸ ರಾಘವೋಽಸ್ಮಾಭಿರಿತಿ ವಕ್ತುಂ ಕಥಂ ಕ್ಷಮಮ್ ॥
@@ -145,7 +145,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾ ನೂನಂ ನಗರೀ ದೀನಾ ದೃಷ್ಟ್ವಾಸ್ಮಾನ್ ರಾಘವಂ ವಿನಾ ।  
 ಭವಿಷ್ಯತಿ ನಿರಾನಂದಾ ಸಸ್ತ್ರೀಬಾಲವಯೋಽಧಿಕಾ ॥
@@ -159,7 +159,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಿರ್ಯಾತಾಸ್ತೇನ ವೀರೇಣಸಹ ನಿತ್ಯಂ ಮಹಾತ್ಮನಾ ।  
 ವಿಹೀನಾಸ್ತೇನ ಚ ಪುನಃ ಕಥಂ ದ್ರಕ್ಷ್ಯಾಮ ತಾಂ ಪುರೀಮ್ ॥
@@ -173,7 +173,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇತೀವ ಬಹುಧಾ ವಾಚೋ ಬಾಹುಮುದ್ಯಮ್ಯ ತೇ ಜನಾಃ ।  
 ವಿಲಪಂತಿ ಸ್ಮ ದುಃಖಾರ್ತಾ ಹೃತವತ್ಸಾ ಇವಾಗ್ರ್ಯಗಾಃ ॥
@@ -187,7 +187,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತೋ ಮಾರ್ಗಾನುಸಾರೇಣ ಗತ್ವಾ ಕಿಂಚಿತ್ತತಃ ಕ್ಷಣಮ್ ।  
 ಮಾರ್ಗನಾಶಾದ್ ವಿಷಾದೇನ ಮಹತಾ ಸಮಭಿಪ್ಲುತಾಃ ॥
@@ -201,7 +201,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರಥಮಾರ್ಗಮನುಸಾರೇಣ ನ್ಯವರ್ತಂತ ಮನಸ್ವಿನಃ ।  
 ಕಿಮಿದಂ ಕಿಂಕರಿಷ್ಯಾಮೋ ದೈವೇನೋಪಹತಾ ಇತಿ ॥
@@ -215,7 +215,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತದಾ ಯಥಾಗತೇನೈವ ಮಾರ್ಗೇಣ ಕ್ಲಾಂತಚೇತಸಃ ।  
 ಅಯೋಧ್ಯಾಮಗಮನ್ಸರ್ವೇ ಪುರೀಂ ವ್ಯಥಿತಸಜ್ಜನಾಮ್ ॥
@@ -229,7 +229,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಆಲೋಕ್ಯ ನಗರೀಂ ತಾಂ ಚ ಕ್ಷಯವ್ಯಾಕುಲಮಾನಸಾಃ ।  
 ಆವರ್ತಯಂತ ತೇಽಶ್ರೂಣಿ ನಯನೈಃ ಶೋಕಪೀಡಿತೈಃ ॥
@@ -243,7 +243,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏಷಾ ರಾಮೇಣ ನಗರೀ ರಹಿತಾ ನಾತಿಶೋಭತೇ ।  
 ಆಪಗಾ ಗರುಡೇನೇವ ಹ್ರದಾದುದ್ಧೃತಪನ್ನಗಾ ॥
@@ -257,7 +257,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಚಂದ್ರಹೀನಮಿವಾಕಾಶಂ ತೋಯಹೀನಮಿವಾರ್ಣವಮ್ ।  
 ಅಪಶನ್ನಿಹತಾನಂದಂ ನಗರಂ ತೇ ವಿಚೇತಸಃ ॥
@@ -271,7 +271,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತೇ ತಾನಿ ವೇಶ್ಮಾನಿ ಮಹಾಧನಾನಿ  
 ದುಃಖೇನ ದುಃಖೋಪಹತಾ ವಿಶಂತಃ ।  

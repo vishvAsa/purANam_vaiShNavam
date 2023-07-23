@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪ್ರಭಾತಾಯಾಂ ತು ಶರ್ವರ್ಯಾಂ ವಿಶ್ವಾಮಿತ್ರೋ ಮಹಾಮುನಿಃ ।  
 ಅಭ್ಯಭಾಷತ ಕಾಕುತ್ಸ್ಥೌ ಶಯಾನೌ ಪರ್ಣಸಂಸ್ತರೇ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕೌಸಲ್ಯಾಸುಪ್ರಜಾ ರಾಮ ಪೂರ್ವಾ ಸಂಧ್ಯಾ ಪ್ರವರ್ತತೇ ।  
 ಉತ್ತಿಷ್ಠ ನರಶಾರ್ದೂಲ ಕರ್ತವ್ಯಂ ದೈವಮಾಹ್ನಿಕಮ್ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಯರ್ಷೇಃ ಪರಮೋದಾರಂ ವಚಃ ಶ್ರುತ್ವಾ ನರೋತ್ತಮೌ ।  
 ಸ್ನಾತ್ವಾ ಕೃತೋದಕೌ ವೀರೌ ಜೇಪತುಃ ಪರಮಂ ಜಪಮ್ ॥
@@ -61,7 +61,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕೃತಾಹ್ನಿಕೌ ಮಹಾವೀರ್ಯೌ ವಿಶ್ವಾಮಿತ್ರಂ ತಪೋಧನಮ್ ।  
 ಅಭಿವಾದ್ಯಾತಿಸಂಹೃಷ್ಟೌ ಗಮನಾಯಾಭಿತಸ್ಥತುಃ ॥
@@ -75,7 +75,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತೌ ಪ್ರಯಾಂತೌ ಮಹಾವೀರ್ಯೌ ದಿವ್ಯಾಂ ತ್ರಿಪಥಗಾಂ ನದೀಮ್ ।  
 ದದೃಶಾತೇ ತತಸ್ತತ್ರ ಸರಯ್ವಾಃ ಸಂಗಮೇ ಶುಭೇ ॥
@@ -89,7 +89,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತ್ರಾಶ್ರಮಪದಂ ಪುಣ್ಯಮೃಷೀಣಾಂ ಭಾವಿತಾತ್ಮನಾಮ್ ।  
 ಬಹುವರ್ಷಸಹಸ್ರಾಣಿ ತಪ್ಯತಾಂ ಪರಮಂ ತಪಃ ॥
@@ -103,7 +103,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಂ ದೃಷ್ಟ್ವಾಪರಮಪ್ರೀತೌ ರಾಘವೌ ಪುಣ್ಯಮಾಶ್ರಮಮ್ ।  
 ಊಚತುಸ್ತಂ ಮಹಾತ್ಮಾನಂ ವಿಶ್ವಾಮಿತ್ರಮಿದಂ ವಚಃ ॥
@@ -117,7 +117,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಸ್ಯಾಯಮಾಶ್ರಮಃ ಪುಣ್ಯಃ ಕೋ ನ್ವಸ್ಮಿನ್ವಸತೇ ಪುಮಾನ್ ।  
 ಭಗವನ್ ಶ್ರೋತುಮಿಚ್ಛಾವಃ ಪರಂ ಕೌತೂಹಲಂ ಹಿ ನೌ ॥
@@ -131,7 +131,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಯೋಸ್ತದ್ವಚನಂ ಶ್ರುತ್ವಾ ಪ್ರಹಸ್ಯ ಮುನಿಪುಂಗವಃ ।  
 ಅಬ್ರವೀಚ್ಛ್ರೂಯತಾಂ ರಾಮ ಯಸ್ಯಾಯಂ ಪೂರ್ವ ಆಶ್ರಮಃ ॥
@@ -145,7 +145,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಂದರ್ಪೋ ಮೂರ್ತಿಮಾನಾಸೀತ್ ಕಾಮ ಇತ್ಯುಚ್ಯತೇ ಬುಧೈಃ ।  
 ತಪಸ್ಯಂತಮಿಹ ಸ್ಥಾಣುಂ ನಿಯಮೇನ ಸಮಾಹಿತಮ್ ॥
@@ -159,7 +159,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕೃತೋದ್ವಾಹಂ ತು ದೇವೇಶಂ ಗಚ್ಛನ್ತಂ ಸಮರುದ್ಗಣಮ್ ।  
 ಧರ್ಷಯಾಮಾಸ ದುರ್ಮೇಧಾ ಹುಂಕೃತಶ್ಚ ಮಹಾತ್ಮನಾ ॥
@@ -173,7 +173,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅವಧ್ಯಾತಶ್ಚ ರುದ್ರೇಣ ಚಕ್ಷುಷಾ ರಘುನಂದನಃ ।  
 ವ್ಯಶೀರ್ಯಂತ ಶರೀರಾತ್ ಸ್ವಾತ್ ಸರ್ವಗಾತ್ರಾಣಿ ದುರ್ಮತೇ ॥
@@ -187,7 +187,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತ್ರ ಗಾತ್ರಂ ಹತಂ ತಸ್ಯ ನಿರ್ದಗ್ಧಸ್ಯ ಮಹಾತ್ಮನಃ ।  
 ಅಶರೀರಃ ಕೃತಃ ಕಾಮಃ ಕ್ರೋಧಾದ್ದೇವೇಶ್ವರೇಣ ಹ ॥
@@ -201,7 +201,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅನಂಗ ಇತಿ ವಿಖ್ಯಾತಸ್ತದಾಪ್ರಭೃತಿ ರಾಘವ ।  
 ಸ ಚಾಂಗವಿಷಯಃ ಶ್ರೀಮಾನ್ಯತ್ರಾಂಗಂ ಸಮುಮೋಚ ಹ ॥
@@ -215,7 +215,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಯಾಯಮಾಶ್ರಮಃ ಪುಣ್ಯಸ್ತಸ್ಯೇಮೇ ಮುನಯಃ ಪುರಾ ।  
 ಶಿಷ್ಯಾ ಧರ್ಮಪರಾ ವೀರ ತೇಷಾಂ ಪಾಪಂ ನ ವಿದ್ಯತೇ ॥
@@ -229,7 +229,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇಹಾದ್ಯ ರಜನೀಂ ರಾಮ ವಸೇಮ ಶುಭದರ್ಶನ ।  
 ಪುಣ್ಯಯೋಃ ಸರಿತೋರ್ಮಧ್ಯೇ ಶ್ವಸ್ತರಿಷ್ಯಾಮಹೇ ವಯಮ್ ॥
@@ -243,7 +243,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 17½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಭಿಗಚ್ಛಾಮಹೇ ಸರ್ವೇ ಶುಚಯಃ ಪುಣ್ಯಮಾಶ್ರಮಮ್ ।  
 ಇಹ ವಾಸಃ ಪರೋಽಸ್ಮಾಕಂ ಸುಖಂ ವತ್ಸ್ಯಾಮಹೇ ನಿಶಾಮ್ ॥  
@@ -258,7 +258,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 18½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತೇಷಾಂ ಸಂವದತಾಂ ತತ್ರ ತಪೋದೀರ್ಘೇಣ ಚಕ್ಷುಷಾ ॥  
 ವಿಜ್ಞಾಯ ಪರಮಪ್ರೀತಾ ಮುನಯೋ ಹರ್ಷಮಾಗಮನ್ ।
@@ -272,7 +272,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 19½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅರ್ಘ್ಯಂ ಪಾದ್ಯಂ ತಥಾಽಽತಿಥ್ಯಂ ನಿವೇದ್ಯ ಕುಶಿಕಾತ್ಮಜೇ ॥  
 ರಾಮಲಕ್ಷ್ಮಣಯೋಃ ಪಶ್ಚಾದಕುರ್ವನ್ನತಿಥಿಕ್ರಿಯಾಮ್ ।
@@ -286,7 +286,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 20½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸತ್ಕಾರಂ ಸಮನುಪ್ರಾಪ್ಯ ಕಥಾಭಿರಭಿರಂಜಯನ್ ॥  
 ಯಥಾರ್ಹಮಜಪನ್ ಸಂಧ್ಯಾಮೃಷಯಸ್ತೇ ಸಮಾಹಿತಾಃ ।
@@ -300,7 +300,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 21½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತ್ರ ವಾಸಿಭಿರಾನೀತಾ ಮುನಿಭಿಃ ಸುವ್ರತೈಃ ಸಹ ॥  
 ನ್ಯವಸನ್ ಸುಸುಖಂ ತತ್ರ ಕಾಮಾಶ್ರಮಪದೇ ತಥಾ ।
@@ -314,7 +314,7 @@ unicode_script = "kannada"
 ###### 22
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಥಾಭಿರಭಿರಾಮಾಭಿರಭಿರಾಮೌ ನೃಪಾತ್ಮಜೌ ।  
 ರಮಯಾಮಾಸ ಧರ್ಮಾತ್ಮಾ ಕೌಶಿಕೋ ಮುನಿಪುಂಗವಃ ॥

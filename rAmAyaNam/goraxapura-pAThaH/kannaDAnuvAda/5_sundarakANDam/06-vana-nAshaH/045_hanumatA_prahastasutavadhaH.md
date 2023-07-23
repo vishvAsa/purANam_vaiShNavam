@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತಸ್ತೇ ರಾಕ್ಷಸೇಂದ್ರೇಣ ಚೋದಿತಾ ಮಂತ್ರಿಣಾಂ ಸುತಾಃ ।  
 ನಿರ್ಯಯುರ್ಭವನಾತ್ತಸ್ಮಾತ್ ಸಪ್ತ ಸಪ್ತಾರ್ಚಿವರ್ಚಸಃ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮಹಾಬಲಪರೀವಾರಾ ಧನುಷ್ಮಂತೋ ಮಹಾಬಲಾಃ ।  
 ಕೃತಾಸ್ತ್ರಾಸ್ತ್ರವಿದಾಂ ಶ್ರೇಷ್ಠಾಃ ಪರಸ್ಪರಜಯೈಷಿಣಃ ॥
@@ -42,7 +42,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಹೇಮಜಾಲಪರಿಕ್ಷಿಪ್ತೈಃ ಧ್ವಜವದ್ಭಿಃ ಪತಾಕಿಭಿಃ ।  
 ತೋಯದಸ್ವನನಿರ್ಘೋಷೈಃ ವಾಜಿಯುಕ್ತೈರ್ಮಹಾರಥೈಃ ॥
@@ -51,7 +51,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಪ್ತಕಾಂಚನಚಿತ್ರಾಣಿ ಚಾಪಾನ್ಯಮಿತವಿಕ್ರಮಾಃ ।  
 ವಿಸ್ಪಾರಯಂತಃ ಸಂಹೃಷ್ಟಾಸ್ತಟಿದ್ವಂತ ಇವಾಂಬುದಾಃ ॥
@@ -65,7 +65,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಜನನ್ಯಸ್ತು ತತಸ್ತೇಷಾಂ ವಿದಿತ್ವಾ ಕಿಂಕರಾನ್ ಹತಾನ್ ।  
 ಬಭೂವುಃ ಶೋಕಸಂಭ್ರಾಂತಾಃ ಸಬಾಂಧವಸುಹೃಜ್ಜನಾಃ ॥
@@ -79,7 +79,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತೇ ಪರಸ್ಪರಸಂಘರ್ಷಾತ್ತಪ್ತಕಾಂಚನಭೂಷಣಾಃ ।  
 ಅಭಿಪೇತುರ್ಹನೂಮಂತಂ ತೋರಣಸ್ಥಮವಸ್ಥಿತಮ್ ॥
@@ -93,7 +93,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸೃಜಂತೋ ಬಾಣವೃಷ್ಟಿಂ ತೇ ರಥಗರ್ಜಿತನಿಃಸ್ವನಾಃ ।  
 ವೃಷ್ಟಿಮಂತ ಇವಾಂಭೋದಾ ವಿಚೇರುರ್ನೈರ್ಋತಾಂಬುದಾಃ ॥
@@ -107,7 +107,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅವಕೀರ್ಣಸ್ತತಸ್ತಾಭಿರ್ಹನುಮಾನ್ ಶರವೃಷ್ಟಿಭಿಃ ।  
 ಅಭವತ್ ಸಂವೃತಾಕಾರಃ ಶೈಲರಾಡಿವ ವೃಷ್ಟಿಭಿಃ ॥
@@ -121,7 +121,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ಶರಾನ್ ಮೋಘಯಾಮಾಸ ತೇಷಾಮಾಶುಚರಃ ಕಪಿಃ ।  
 ರಥವೇಗಂ ಚ ವೀರಾಣಾಂ ವಿಚರನ್ ವಿಮಲೇಂಬರೇ ॥
@@ -135,7 +135,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ತೈಃ ಕ್ರೀಡನ್ ಧನುಷ್ಮ ದ್ಭಿರ್ವ್ಯೋಮ್ನಿ ವೀರಃ ಪ್ರಕಾಶತೇ ।  
 ಧನುಷ್ಮದ್ಭಿರ್ಯಥಾ ಮೇಘೈರ್ಮಾರುತಃ ಪ್ರಭುರಂಬರೇ ॥
@@ -149,7 +149,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ಕೃತ್ವಾ ನಿನದಂ ಘೋರಂ ತ್ರಾಸಯಂಸ್ತಾಂ ಮಹಾಚಮೂಮ್ ।  
 ಚಕಾರ ಹನುಮಾನ್ ವೇಗಂ ತೇಷು ರಕ್ಷಃಸು ವೀರ್ಯವಾನ್ ॥
@@ -163,7 +163,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಲೇನಾಭ್ಯಹನತ್ ಕಾಂಶ್ಚಿತ್ ಪದ್ಭ್ಯಾಂ ಕಾಂಶ್ಚಿತ್ ಪರಂತಪಃ ।  
 ಮುಷ್ಟಿನಾಭ್ಯಹನತ್ ಕಾಂಶ್ಚಿನ್ನ ಖೈಃ ಕಾಂಶ್ಚಿದ್ವ್ಯದಾರಯತ್ ॥
@@ -172,7 +172,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪ್ರಮಮಾಥೋರಸಾ ಕಾಂಶ್ಚಿದೂರುಭ್ಯಾಮಪರಾನ್ ಕಪಿಃ ।  
 ಕೇಚಿತ್ತಸ್ಯ ನಿನಾದೇನ ತತ್ರೈವ ಪತಿತಾ ಭುವಿ ॥
@@ -186,7 +186,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತಸ್ತೇಷ್ವವಸನ್ನೇಷು ಭೂಮೌ ನಿಪತಿತೇಷು ಚ ।  
 ತತ್ ಸೈನ್ಯಮಗಮತ್ ಸರ್ವಂ ದಿಶೋ ದಶ ಭಯಾರ್ದಿತಮ್ ॥
@@ -200,7 +200,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿನೇದುರ್ವಿಸ್ವರಂ ನಾಗಾ ವಿಪೇತುರ್ಭುವಿ ವಾಜಿನಃ ।  
 ಭಗ್ನನೀಡಧ್ವಜಚ್ಛತ್ರೈರ್ಭೂಶ್ಚ ಕೀರ್ಣಾಭವದ್ರಥೈಃ ॥
@@ -214,7 +214,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ್ರವತಾ ರುಧಿರೇಣಾಥ ಸ್ರವಂತ್ಯೋ ದರ್ಶಿತಾಃ ಪಥಿ ।  
 ವಿವಿಧೈಶ್ಚ ಸ್ವನೈರ್ಲಂಕಾ ನನಾದ ವಿಕೃತಂ ತದಾ ॥
@@ -228,7 +228,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ತಾನ್ ಪ್ರವೃದ್ಧಾನ್ ವಿನಿಹತ್ಯ ರಾಕ್ಷಸಾನ್  
 ಮಹಾಬಲಶ್ಚಂಡಪರಾಕ್ರಮಃ ಕಪಿಃ ।  
@@ -241,7 +241,7 @@ unicode_script = "kannada"
 ಮಹಾಬಲಸಂಪನ್ನನಾದ, ಚಂಡಪರಾಕ್ರಮಶಾಲಿಯಾದ ಹನುಮಂತನು ಎಲ್ಲರಾಕ್ಷಸರನ್ನು ಸಂಹರಿಸಿ, ಇನ್ನು ಇತರ ರಾಕ್ಷಸರೊಡನೆ ಯುದ್ಧಮಾಡಬೇಕೆನ್ನುವ ಅಪೇಕ್ಷೆಯಿಂದ ಪುನಃ ಹೊರಬಾಗಿಲಿನ ಮೇಲೇರಿ, ರಾಕ್ಷಸರನ್ನು ಎದುರು ನೋಡುತ್ತಾ ಕುಳಿತನು.॥17॥
 </details>
 
-<details><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
+<details open><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
 
 ಇತ್ಯಾರ್ಷೇ ಶ್ರೀಮದ್ರಾಮಾಯಣೇ ವಾಲ್ಮೀಕೀಯೇ ಆದಿಕಾವ್ಯೇ ಸುಂದರಕಾಂಡೇ ಪಂಚಚತ್ವಾರಿಂಶಃ ಸರ್ಗಃ ॥ 45 ॥
 </details>

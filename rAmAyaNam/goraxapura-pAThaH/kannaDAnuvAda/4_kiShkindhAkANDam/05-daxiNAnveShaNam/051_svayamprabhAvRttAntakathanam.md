@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇತ್ಯುಕ್ತ್ವಾ ಹನುಮಾಂಸ್ತತ್ರ ಪುನಃ ಕೃಷ್ಣಾಜಿನಾಂಬರಾಮ್ ।  
 ಅಬ್ರವೀತ್ತಾಂ ಮಹಾಭಾಗಾಂ ತಾಪಸೀಂ ಧರ್ಮಚಾರಿಣೀಮ್ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇದಂ ಪ್ರವಿಷ್ಟಾಃ ಸಹಸಾ ಬಿಲಂ ತಿಮಿರಸಂವೃತಮ್ ।  
 ಕ್ಷುತ್ಪಿಪಾಸಾ ಪರಿಶ್ರಾಂತಾಃ ಪರಿಖಿನ್ನಾಶ್ಚ ಸರ್ವಶಃ ॥
@@ -42,7 +42,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮಹದ್ಧರಣ್ಯಾ ವಿವರಂ ಪ್ರವಿಷ್ಟಾಃ ಸ್ಮ ಪಿಪಾಸಿತಾಃ ।  
 ಇಮಾಂಸ್ತ್ವೇವಂ ವಿಧಾನ್ಭಾವಾನ್ವಿವಿಧಾನದ್ಭುತೋಪಮಾನ್ ॥
@@ -51,7 +51,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ದೃಷ್ಟ್ವಾ ವಯಂ ಪ್ರವ್ಯಥಿತಾಃ ಸಂಭ್ರಾಂತಾ ನಷ್ಟಚೇತಸಃ ।  
 ಕಸ್ಯೈತೇ ಕಾಂಚನಾ ವೃಕ್ಷಾಸ್ತರುಣಾದಿತ್ಯ ಸಂನಿಭಾಃ ॥
@@ -65,7 +65,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶುಚೀನ್ಯಭ್ಯವಹಾರಾಣಿ ಮೂಲಾನಿ ಚ ಫಲಾನಿ ಚ ।  
 ಕಾಂಚನಾನಿ ವಿಮಾನಾನಿ ರಾಜತಾನಿ ಗೃಹಾಣಿ ಚ ॥
@@ -74,7 +74,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 6½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಪನೀಯ ಗವಾಕ್ಷಾಣಿ ಮಣಿಜಾಲಾವೃತಾನಿ ಚ ।  
 ಪುಷ್ಪಿತಾಃ ಫಲವಂತಶ್ಚ ಪುಣ್ಯಾಃ ಸುರಭಿಗಂಧಯಃ ॥  
@@ -89,7 +89,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಾಂಚನಾನಿ ಚ ಪದ್ಮಾನಿ ಜಾತಾನಿ ವಿಮಲೇ ಜಲೇ ॥
 </details>
@@ -97,7 +97,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 8½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಥಂ ಮತ್ಸ್ಯಾಶ್ಚ ಸೌವರ್ಣಾದೃಶ್ಯಂತೇ ಸಹ ಕಚ್ಛಪೈಃ ।  
 ಆತ್ಮನಸ್ತ್ವನುಭಾವಾದ್ ವಾ ಕಸ್ಯ ವೈತತ್ತಪೋಬಲಮ್ ॥  
@@ -112,7 +112,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 9½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏವಮುಕ್ತಾ ಹನುಮತಾ ತಾಪಸೀ ಧರ್ಮಚಾರಿಣೀ ॥  
 ಪ್ರತ್ಯುವಾಚ ಹನೂಮಂತಂ ಸರ್ವಭೂತಹಿತೇ ರತಾ ।
@@ -126,7 +126,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 10½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮಯೋ ನಾಮ ಮಹಾತೇಜಾ ಮಾಯಾವೀ ದಾನವರ್ಷಭಃ ॥  
 ತೇನೇದಂ ನಿರ್ಮಿತಂ ಸರ್ವಂ ಮಾಯಯಾ ಕಾಂಚನಂ ವನಮ್ ।
@@ -140,7 +140,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 11½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪುರಾ ದಾನವಮುಖ್ಯಾನಾಂ ವಿಶ್ವಕರ್ಮಾ ಬಭೂವ ಹ ॥  
 ಯೇನೇದಂ ಕಾಂಚನಂ ದಿವ್ಯಂ ನಿರ್ಮಿತಂ ಭವನೋತ್ತಮಮ್ ।
@@ -154,7 +154,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 12½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ತು ವರ್ಷಸಹಸ್ರಾಣಿ ತಪಸ್ತಪ್ತ್ವಾ ಮಹತ್ವವನೇ ॥  
 ಪಿತಾಮಹಾದ್ವರಂ ಲೇಭೇ ಸರ್ವಮೌಶನಸಂ ಧನಮ್ ।
@@ -168,7 +168,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 13½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿಧಾಯ ಸರ್ವಂ ಬಲವಾನ್ಸರ್ವಕಾಮೇಶ್ವರಸ್ತದಾ ॥  
 ಉವಾಸ ಸುಖಿತಃ ಕಾಲಂ ಕಂಚಿದಸ್ಮಿನ್ಮಹಾವನೇ ।
@@ -182,7 +182,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 14½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಮಪ್ಸರಸಿ ಹೇಮಾಯಾಂ ಸಕ್ತಂ ದಾನವಪುಂಗವಮ್ ॥  
 ವಿಕ್ರಮ್ಯೈವಾಶನಿಂ ಗೃಹ್ಯ ಜಘಾನೇಶಃ ಪುರಂದರಃ ।
@@ -196,7 +196,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 15½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇದಂ ಚ ಬ್ರಹ್ಮಣಾ ದತ್ತಂ ಹೇಮಾಯೈ ವನಮುತ್ತಮಮ್ ॥  
 ಶಾಶ್ವತಾಃ ಕಾಮಭೋಗಾಶ್ಚ ಗೃಹಂ ಚೇದಂ ಹಿರಣ್ಮಯಮ್ ।
@@ -210,7 +210,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 16½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ದುಹಿತಾ ಮೇರುಸಾವರ್ಣೇರಹಂ ತಸ್ಯಾಃ ಸ್ವಯಂಪ್ರಭಾ ॥  
 ಇದಂ ರಕ್ಷಾಮಿ ಭವನಂ ಹೇಮಾಯಾ ವಾನರೋತ್ತಮ ।
@@ -224,7 +224,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 17½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮಮ ಪ್ರಿಯಸಖೀ ಹೇಮಾ ನೃತ್ತಗೀತವಿಶಾರದಾ ॥  
 ತಯಾ ದತ್ತವರಾ ಚಾಸ್ಮಿ ರಕ್ಷಾಮಿ ಭವಂ ಮಹತ್ ।
@@ -238,7 +238,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 18½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಿಂ ಕಾರ್ಯಂ ಕಸ್ಯ ವಾ ಹೇತೋಃ ಕಾಂತಾರಾಣಿ ಪ್ರಪದ್ಯಥ ॥  
 ಕಥಂ ಚೇದಂ ವನಂ ದುರ್ಗಂ ಯುಷ್ಮಾಭಿರುಪಲಕ್ಷಿತಮ್ ।
@@ -252,7 +252,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶುಚೀನ್ಯಭ್ಯವಹಾರಾಣಿ ಮೂಲಾನಿ ಚ ಫಲಾನಿ ಚ ।  
 ಭುಕ್ತ್ವಾ ಪೀತ್ವಾ ಚ ಪಾನೀಯಂ ಸರ್ವಂ ಮೇವಕ್ತುಮರ್ಹಸಿ ॥

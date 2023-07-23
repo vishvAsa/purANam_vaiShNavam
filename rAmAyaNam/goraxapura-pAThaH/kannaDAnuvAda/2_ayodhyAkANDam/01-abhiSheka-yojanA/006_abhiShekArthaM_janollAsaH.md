@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಗತೇ ಪುರೋಹಿತೇ ರಾಮಃ ಸ್ನಾತೋ ನಿಯತಮಾನಸಃ ।  
 ಸಹ ಪತ್ನ್ಯಾ ವಿಶಾಲಾಕ್ಷ್ಯಾ ನಾರಾಯಣಮುಪಾಗಮತ್ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪ್ರಗೃಹ್ಯ ಶಿರಸಾ ಪಾತ್ರೀಂ ಹವಿಷೋ ವಿಧಿವತ್ ತತಃ ।  
 ಮಹತೇ ದೈವತಾಯಾಜ್ಯಂಜುಹಾವ ಜ್ವಲಿತಾನಲೇ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶೇಷಂ ಚ ಹವಿಷಸ್ತಸ್ಯ ಪ್ರಾಶ್ಯಾಶಾಸ್ಯಾತ್ಮನಃ ಪ್ರಿಯಮ್ ।  
 ಧ್ಯಾಯನ್ನಾರಾಯಣಂ ದೇವಂ ಸ್ವಾಸ್ತೀರ್ಣೇ ಕುಶಸಂಸ್ತರೇ ॥
@@ -56,7 +56,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಾಗ್ಯತಃ ಸಹ ವೈದೇಹ್ಯಾ ಭೂತ್ವಾ ನಿಯತಮಾನಸಃ ।  
 ಶ್ರೀಮತ್ಯಾಯತನೇ ವಿಷ್ಣೋಃ ಶಿಶ್ಯೇ ನರವರಾತ್ಮಜಃ ॥
@@ -70,7 +70,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏಕಯಾಮಾವಶಿಷ್ಟಾಯಾಂ ರಾತ್ರ್ಯಾಂ ಪ್ರತಿವಿಬುಧ್ಯ ಸಃ ।  
 ಅಲಂಕಾರವಿಧಿಂ ಸಮ್ಯಕ್ ಕಾರಯಾಮಾಸ ವೇಶ್ಮನಃ ॥
@@ -84,7 +84,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತ್ರ ಶೃಣ್ವನ್ ಸುಖಾ ವಾಚಃ ಸೂತಮಾಗಧವಂದಿನಾಮ್ ।  
 ಪೂರ್ವಾಂ ಸಂಧ್ಯಾಮುಪಾಸೀನೋ ಜಜಾಪ ಸುಸಮಾಹಿತಃ ॥
@@ -98,7 +98,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತುಷ್ಟಾವ ಪ್ರಣತಶ್ಚೈವ ಶಿರಸಾ ಮಧುಸೂದನಮ್ ।  
 ವಿಮಲಕ್ಷೌಮಸಂವೀತೋ ವಾಚಯಾಮಾಸ ಸ ದ್ವಿಜಾನ್ ॥
@@ -112,7 +112,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತೇಷಾಂ ಪುಣ್ಯಾಹಘೋಷೋಽಥ ಗಂಭೀರಮಧುರಸ್ತದಾ ।  
 ಅಯೋಧ್ಯಾಂ ಪೂರಯಾಮಾಸ ತೂರ್ಯ ಘೋಷಾನುನಾದಿತಃ ॥
@@ -126,7 +126,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕೃತೋಪವಾಸಂ ತು ತದಾ ವೈದೇಹ್ಯಾ ಸಹ ರಾಘವಮ್ ।  
 ಅಯೋಧ್ಯಾನಿಲಯಃ ಶ್ರುತ್ವಾ ಸರ್ವಃ ಪ್ರಮುದಿತೋ ಜನಃ ॥
@@ -140,7 +140,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತಃ ಪೌರಜನಃ ಸರ್ವಃ ಶ್ರುತ್ವಾ ರಾಮಾಭಿಷೇಚನಮ್ ।  
 ಪ್ರಭಾತಾಂ ರಜನೀಂ ದೃಷ್ಟ್ವಾ ಚಕ್ರೇ ಶೋಭಯಿತುಂ ಪುರೀಮ್ ॥
@@ -154,7 +154,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಿತಾಭ್ರಶಿಖರಾಭೇಷು ದೇವತಾಯತನೇಷು ಚ ।  
 ಚತುಷ್ಟಥೇಷು ರಥ್ಯಾಸು ಚೈತ್ಯೇಷ್ವಟ್ಟಾಲಕೇಷು ಚ ॥
@@ -163,7 +163,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಾನಾ ಪಣ್ಯಸಮೃದ್ಧೇಷು ವಣಿಜಾಮಾಪಣೇಷು ಚ  
 ಕುಟುಂಬಿನಾಂ ಸಮೃದ್ಧೇಷು ಶ್ರೀಮತ್ಸು ಭವನೇಷು ಚ ॥
@@ -172,7 +172,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಭಾಸು ಚೈವ ಸರ್ವಾಸು ವೃಕ್ಷೇಷ್ವಾಲಕ್ಷಿತೇಷು ಚ ।  
 ಧ್ವಜಾಃ ಸಮುಚ್ಛ್ರಿತಾಃ ಸಾಧು ಪತಾಕಾಶ್ಚಾಭವಂಸ್ತಥಾ ॥
@@ -186,7 +186,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಟನರ್ತಕಸಂಘಾನಾಂ ಗಾಯಕಾನಾಂ ಚ ಗಾಯತಾಮ್ ।  
 ಮನಃ ಕರ್ಣಸುಖಾ ವಾಚಃ ಶುಶ್ರಾವ ಜನತಾ ತತಃ ॥
@@ -200,7 +200,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರಾಮಾಭಿಷೇಕಯುಕ್ತಾಶ್ಚ ಕಥಾಶ್ಚಕ್ರುರ್ಮಿಥೋ ಜನಾಃ ।  
 ರಾಮಾಭಿಷೇಕೇ ಸಂಪ್ರಾಪ್ತೇಚತ್ವರೇಷು ಗೃಹೇಷು ಚ ॥
@@ -214,7 +214,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಬಾಲಾ ಅಪಿ ಕ್ರೀಡಮಾನಾ ಗೃಹದ್ವಾರೇಷು ಸಂಘಶಃ ।  
 ರಾಮಾಭಿಷವಸಂಯುಕ್ತಾಶ್ಚಕ್ರುರೇವ ಕಥಾ ಮಿಥಃ ॥
@@ -228,7 +228,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕೃತಪುಷ್ಪೋಪಹಾರಶ್ಚ ಧೂಪಗಂಧಾಧಿವಾಸಿತಃ ।  
 ರಾಜಮಾರ್ಗಃ ಕೃತಃ ಶ್ರೀಮಾನ್ ಪೌರೈರಾಮಾಭಿಷೇಚನೇ ॥
@@ -242,7 +242,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪ್ರಕಾಶಕರಣಾರ್ಥಂ ಚ ನಿಶಾಗಮನಶಂಕಯಾ ।  
 ದೀಪವೃಕ್ಷಾಂಸ್ತಥಾ ಚಕ್ರುರನುರಥ್ಯಾಸು ಸರ್ವಶಃ ॥
@@ -256,7 +256,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಲಂಕಾರಂ ಪುರಸ್ಯೈವಂ ಕೃತ್ವಾ ತತ್ಪುರವಾಸಿನಃ ।  
 ಆಕಾಂಕ್ಷಮಾಣಾ ರಾಮಸ್ಯಯೌವರಾಜ್ಯಾಭಿಷೇಚನಮ್ ॥
@@ -265,7 +265,7 @@ unicode_script = "kannada"
 ###### 20
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಮೇತ್ಯ ಸಂಘಶಃ ಸರ್ವೇ ಚತ್ವರೇಷು ಸಭಾಸು ಚ ।  
 ಕಥಯಂತೋ ಮಿಥಸ್ತತ್ರ ಪ್ರಶಶಂಸುರ್ಜನಾಧಿಪಮ್ ॥
@@ -279,7 +279,7 @@ unicode_script = "kannada"
 ###### 21
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಹೋಮಹಾತ್ಮಾ ರಾಜಾಯಮಿಕ್ಷ್ವಾಕುಕುಲನಂದನಃ ।  
 ಜ್ಞಾತ್ವಾ ವೃದ್ಧ ಂ ಸ್ವಮಾತ್ಮಾನಾಂ ರಾಮಂ ರಾಜ್ಯೇಽಭಿಷೇಕ್ಷ್ಯತಿ ॥
@@ -293,7 +293,7 @@ unicode_script = "kannada"
 ###### 22
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸರ್ವೇ ಹ್ಯನುಗೃಹೀತಾಃ ಸ್ಮ ಯನ್ನೋ ರಾಮೋ ಮಹೀಪತಿಃ ।  
 ಚಿರಾಯ ಭವಿತಾ ಗೋಪ್ತಾ ದೃಷ್ಟಲೋಕಪರಾವರಃ ॥
@@ -307,7 +307,7 @@ unicode_script = "kannada"
 ###### 23
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅನುದ್ಧತಮನಾ ವಿದ್ವಾನ್ ಧರ್ಮಾತ್ಮಾ ಭ್ರಾತೃವತ್ಸಲಃ ।  
 ಯಥಾ ಚ ಭ್ರಾತೃಷು ಸ್ನಿಗ್ಧಸ್ತಥಾಸ್ಮಾಸ್ವಪಿ ರಾಘವಃ ॥
@@ -321,7 +321,7 @@ unicode_script = "kannada"
 ###### 24
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಚಿರಂ ಜೀವತು ಧರ್ಮಾತ್ಮಾ ರಾಜಾ ದಶರಥೋನಘಃ ।  
 ಯತ್ಪ್ರಸಾದೇನಾಭಿಷಿಕ್ತಂ ರಾಮಂ ದ್ರಕ್ಷ್ಯಾಮಹೇ ವಯಮ್ ॥
@@ -335,7 +335,7 @@ unicode_script = "kannada"
 ###### 25
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏವಂ ವಿಧಂ ಕಥಯತಾಂ ಪೌರಾಣಾಂಶುಶ್ರುವುಃ ಪರೇ ।  
 ದಿಗ್ಭ್ಯೋ ವಿಶ್ರುತ ವೃತ್ತಾಂತಾಃ ಪ್ರಾಪ್ತಾ ಜಾನಪದಾ ಜನಾಃ ॥
@@ -349,7 +349,7 @@ unicode_script = "kannada"
 ###### 26
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತೇ ತು ದಿಗ್ಭ್ಯಃ ಪುರೀಂ ಪ್ರಾಪ್ತಾ ದ್ರಷ್ಟುಂರಾಮಾಭಿಷೇಚನಮ್ ।  
 ರಾಮಸ್ಯ ಪೂರಯಾಮಾಸುಃ ಪುರೀಂ ಜಾನಪದಾಜನಾಃ ॥
@@ -363,7 +363,7 @@ unicode_script = "kannada"
 ###### 27
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಜನೌಘೈಸ್ತೈರ್ವಿಸರ್ಪದ್ಭಿಃ ಶುಶ್ರುವೇ ತತ್ರ ನಿಃಸ್ವನಃ ।  
 ಪರ್ವಸೂದೀರ್ಣವೇಗಸ್ಯ ಸಾಗರಸ್ಯೇವ ನಿಃಸ್ವನಃ ॥
@@ -377,7 +377,7 @@ unicode_script = "kannada"
 ###### 28
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತಸ್ತದಿಂದ್ರಕ್ಷಯಸಂನಿಭಂ ಪುರಂ  
 ದಿದೃಕ್ಷುಭಿರ್ಜಾನಪದೈರುಪಾಹಿತೈಃ ।  

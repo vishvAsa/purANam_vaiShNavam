@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸೀತಾಮಪಶ್ಯನ್ಧರ್ಮಾತ್ಮಾ ಶೋಕೋಪಹತಚೇತನಃ ।  
 ವಿಲಲಾಪ ಮಹಾಬಾಹೂ ರಾಮಃ ಕಮಲಲೋಚನಃ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪಶ್ಯನ್ನಿವ ಚ ತಾಂ ಸೀತಾಮಪಶ್ಯನ್ಮನ್ಮಥಾರ್ದಿತಃ ।  
 ಉವಾಚ ರಾಘವೋ ವಾಕ್ಯಂ ವಿಲಾಪಾಶ್ರಯದುರ್ವಚಮ್ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತ್ವಮಶೋಕಸ್ಯ ಶಾಖಾಭಿಃ ಪುಷ್ಪಪ್ರಿಯತರಾ ಪ್ರಿಯೇ ।  
 ಆವೃಣೋಷಿ ಶರೀರಂ ತೇ ಮಮ ಶೋಕವಿವರ್ಧನೀ ॥
@@ -61,7 +61,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕದಲೀಕಾಂಡಸದೃಶೌ ಕದಲ್ಯಾ ಸಂವೃತಾವುಭೌ ।  
 ಊರೂ ಪಶ್ಯಾಮಿ ತೇ ದೇವಿ ನಾಸಿ ಶಕ್ತಾ ನಿಗೂಹಿತುಮ್ ॥
@@ -75,7 +75,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕರ್ಣಿಕಾರವನಂ ಭದ್ರೇ ಹಸಂತೀ ದೇವಿ ಸೇವಸೇ ।  
 ಅಲಂ ತೇ ಪರಿಹಾಸೇನ ಮಮ ಬಾಧಾವಹೇನ ವೈ ॥
@@ -89,7 +89,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 6½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿಶೇಷೇಣಾಶ್ರಮಸ್ಥಾನೇ ಹಾಸೋಽಯಂ ನ ಪ್ರಶಸ್ಯತೇ ।  
 ಅವಗಚ್ಛಾಮಿ ತೇ ಶೀಲಂ ಪರಿಹಾಸಪ್ರಿಯಂ ಪ್ರಿಯೇ ॥  
@@ -104,7 +104,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 7½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸುವ್ಯಕ್ತಂ ರಾಕ್ಷಸೈಃ ಸೀತಾ ಭಕ್ಷಿತಾ ವಾ ಹೃತಾಪಿ ವಾ ॥  
 ನ ಹಿ ಸಾ ವಿಲಪಂತಂ ಮಾಮುಪಸಂಪ್ರೈತಿ ಲಕ್ಷ್ಮಣ ।
@@ -118,7 +118,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 8½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏತಾನಿ ಮೃಗಯೂಥಾನಿ ಸಾಶ್ರುನೇತ್ರಾಣಿ ಲಕ್ಷ್ಮಣ ॥  
 ಶಂಸಂತೀವ ಹಿ ಮೇ ದೇವೀಂ ಭಕ್ಷಿತಾಂ ರಜನೀಚರೈಃ ।
@@ -132,7 +132,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 9½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಹಾ ಮಯಾರ್ಯೇ ಕ್ವ ಯಾತಾಸಿ ಹಾ ಸಾಧ್ವಿ ವರವರ್ಣಿನಿ ॥  
 ಹಾ ಸಕಮಾದ್ಯಕೈಕೇಯೀ ದೇವಿ ಮೇಽದ್ಯ ಭವಿಷ್ಯತಿ ।
@@ -146,7 +146,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 10½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸೀತಯಾ ಸಹ ನಿರ್ಯಾತೋ ವಿನಾ ಸೀತಾಮುಪಾಗತಃ ॥  
 ಕಥಂ ನಾಮ ಪ್ರವೇಕ್ಷ್ಯಾಮಿ ಶೂನ್ಯಮಂತಃಪುರಂ ಮಮ ।
@@ -160,7 +160,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 11½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಿರ್ವೀರ್ಯ ಇತಿ ಲೋಕೋ ಮಾಂ ನಿರ್ದಯಶ್ಚೇತಿ ವಕ್ಷ್ಯತಿ ॥  
 ಕಾತರತ್ವಂ ಪ್ರಕಾಶಂ ಹಿ ಸೀತಾಪನಯನೇನ ಮೇ ।
@@ -174,7 +174,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 12½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಿವೃತ್ತವನವಾಸಶ್ಚ ಜನಕಂ ಮಿಥಿಲಾಧಿಪಮ್ ॥  
 ಕುಶಲಂ ಪರಿಪೃಚ್ಛಂತಂ ಕಥಂ ಶಕ್ಷ್ಯೇ ನಿರೀಕ್ಷಿತುಮ್ ।
@@ -188,7 +188,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 13½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿದೇಹರಾಜೋ ನೂನಂ ಮಾಂ ದೃಷ್ಟ್ವಾ ವಿರಹಿತಂತಯಾ ॥  
 ಸುತಾವಿನಾಶಸಂತಪ್ತೋ ಮೋಹಸ್ಯ ವಶಮೇಷ್ಯತಿ ।
@@ -202,7 +202,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 14½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಥವಾ ನ ಗಮಿಷ್ಯಾಮಿಪುರೀಂ  ಭರತಪಾಲಿತಾಮ್ ॥  
 ಸ್ವರ್ಗೋಽಪಿ ಹಿತಯಾ ಹೀನಃ ಶೂನ್ಯ ಏವ ಮತೋ ಮಮ ।
@@ -216,7 +216,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 15½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತನ್ಮಾಮುತ್ಸೃಜ್ಯ ಹಿ ವನೇ ಗಚ್ಛಾಯೋಧ್ಯಾಪುರೀಂ ಶುಭಾಮ್ ॥  
 ನ ತ್ವಹಂ ತಾಂ ವಿನಾ ಸೀತಾಂ ಜೀವೇಯಂ ಹಿ ಕಥಂಚನ ।
@@ -230,7 +230,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 16½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಗಾಢಮಾಶ್ಲಿಷ್ಯ ಭರತೋ ವಾಚ್ಯೋ ಮದ್ವಚನಾತ್ತ್ವಯಾ ॥  
 ಅನುಜ್ಞಾತೋಽಸಿ ರಾಮೇಣ ಪಾಲಯೇತಿ ವಸುಂಧರಾಮ್ ।
@@ -244,7 +244,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಂಬಾ ಚ ಮಮ ಕೈಕೇಯೀ ಸುಮಿತ್ರಾ ಚ ತ್ವಯಾ ವಿಭೋ ॥
 </details>
@@ -252,7 +252,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕೌಸಲ್ಯಾ ಚ ಯಥಾನ್ಯಾಯಮಭಿವಾದ್ಯಾ ಮಮಾಜ್ಞಯಾ ।  
 ರಕ್ಷಣೀಯಾ ಪ್ರಯತ್ನೇನ  ಭವತಾ ಸೂಕ್ತಚಾರಿಣಾ ॥
@@ -266,7 +266,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸೀತಾಯಾಶ್ಚ ವಿನಾಶೋಽಯಂ ಮಮ ಚಾಮಿತ್ರಸೂದನ ।  
 ವಿಸ್ತರೇಣ ಜನನ್ಯಾ ಮೇ ವಿನಿವೇದ್ಯಸ್ತ್ವಯಾ ಭವೇತ್ ॥
@@ -280,7 +280,7 @@ unicode_script = "kannada"
 ###### 20
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇತಿ ವಿಲಪತಿ ರಾಘವೇ ತು ದೀನೇ  
 ವನಮುಪಗಮ್ಯತಯಾ ವಿನಾ ಸುಕೇಶ್ಯಾ ।  

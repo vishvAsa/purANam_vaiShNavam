@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಥಾಗತಾಂ ತಾಂ ವ್ಯಥಿತಾಮನಿಂದಿತಾಂ  
 ವ್ಯಪೇತಹರ್ಷಾಂ ಪರಿದೀನಮಾನಸಾಮ್ ।  
@@ -35,7 +35,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಯಾಃ ಶುಭಂ ವಾಮಮರಾಳಪಕ್ಷ್ಮ-  
 ರಾಜೀವೃತಂ ಕೃಷ್ಣವಿಶಾಲಶುಕ್ಲಮ್ ।  
@@ -51,7 +51,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಭುಜಶ್ಚ ಚಾರ್ವಂಚಿತಪೀನವೃತ್ತಃ  
 ಪರಾರ್ಧ್ಯಕಾಲಾಗರುಚಂದನಾರ್ಹಃ ।  
@@ -67,7 +67,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಗಜೇಂದ್ರಹಸ್ತಪ್ರತಿಮಶ್ಚ ಪೀನ-  
 ಸ್ತಯೋರ್ದ್ವಯೋಃ ಸಂಹತಯೋಃ ಸುಜಾತಃ ।  
@@ -83,7 +83,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶುಭಂ ಪುನರ್ಹೇಮಸಮಾನವರ್ಣ-  
 ಮೀಷದ್ರಜೋಧ್ವಸ್ತಮಿವಾಮಲಾಕ್ಷ್ಯಾಃ ।  
@@ -99,7 +99,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏತೈರ್ನಿಮಿತ್ತೈರಪರೈಶ್ಚ ಸುಭ್ರೂಃ  
 ಸಂಬೋಧಿತಾ ಪ್ರಾಗಪಿ ಸಾಧು ಸಿದ್ಧೈಃ ।  
@@ -115,7 +115,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಯಾಃ ಪುನರ್ಬಿಂಬಫಲಾಧರೋಷ್ಠಂ  
 ಸ್ವಕ್ಷಿಭ್ರು ಕೇಶಾಂತಮರಾಲಪಕ್ಷ್ಮ ।  
@@ -131,7 +131,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾ ವೀತಶೋಕಾ ವ್ಯಪನೀತತಂದ್ರೀ  
 ಶಾಂತಜ್ವರಾ ಹರ್ಷವಿವೃದ್ಧಸತ್ತ್ವಾ ।  
@@ -144,7 +144,7 @@ unicode_script = "kannada"
 ಪೂಜ್ಯಳಾದ ಸೀತಾದೇವಿಯ ಶೋಕವು ದೂರವಾಯಿತು. ಆಂದೊಳನ ತೊಲಗಿಹೋಯಿತು. ಮನಸ್ಸಿನ ಸಂತಾಪವನ್ನು ದೂರಗೊಳಿಸಿ ಶಾಂತಳಾದಳು. ಆಕೆಯ ಚಿತ್ತವೃತ್ತಿಯು ಹರ್ಷದಿಂದ ವಿಕಾಸಗೊಂಡಿತು. ಶುಕ್ಲಪಕ್ಷದಲ್ಲಿ ಉದಯಿಸಿದ ಚಂದ್ರನಿಂದ ರಾತ್ರಿಯು ಶೋಭಾಯಮಾನವಾಗಿರುವಂತೆ ಹರ್ಷಗೊಂಡ ಮುಖದಿಂದ ವೈದೇಹಿಯು ಕಂಗೊಳಿಸಿದಳು.॥8॥
 </details>
 
-<details><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
+<details open><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
 
 ಇತ್ಯಾರ್ಷೇ ಶ್ರೀಮದ್ರಾಮಾಯಣೇ ವಾಲ್ಮೀಕೀಯೇ ಆದಿಕಾವ್ಯೇ ಸುಂದರಕಾಂಡೇ ಏಕೋನತ್ರಿಂಶಃ ಸರ್ಗಃ ॥ 29 ॥
 </details>

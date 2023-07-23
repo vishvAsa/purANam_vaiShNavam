@@ -18,7 +18,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಾಂ ತು ಪಾರ್ಶ್ವೇ ಸ್ಥಿತಾಂ ಪ್ರಹ್ವಾಂ ರಾಮಃ ಸಂಪ್ರೇಕ್ಷ್ಯ ಮೈಥಿಲೀಮ್ ।  
 ಹೃದಯಾಂತರ್ಗತಂ ಭಾವಂ ವ್ಯಾಹರ್ತುಮುಪಚಕ್ರಮೇ ॥
@@ -32,7 +32,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏಷಾಸಿ ನಿರ್ಜಿತಾ ಭದ್ರೇ ಶತ್ರುಂ ಜಿತ್ವಾ ರಣಾಜಿರೇ ।  
 ಪೌರುಷಾದ್ಯದನುಷ್ಠೇಯಂ ಮಯೈತದುಪಪಾದಿತಮ್ ॥
@@ -46,7 +46,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಗತೋಽಸ್ಮ್ಯಂತಮಮರ್ಷಸ್ಯ ಧರ್ಷಣಾ ಸಂಪ್ರಮಾರ್ಜಿತಾ ।  
 ಅವಮಾನಶ್ಚ ಶತ್ರುಶ್ಚ ಯುಗಪನ್ನಿಹತೌ ಮಯಾ ॥
@@ -60,7 +60,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅದ್ಯ ಮೇ ಪೌರುಷಂ ದೃಷ್ಟಮದ್ಯ ಮೇ ಸಫಲಃ ಶ್ರಮಃ ।  
 ಅದ್ಯ ತೀರ್ಣಪ್ರತಿಜ್ಞೋಽಹಂ ಪ್ರಭವಾಮ್ಯದ್ಯಚಾತ್ಮನಃ ॥
@@ -74,7 +74,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯಾ ತ್ವಂ ವಿರಹಿತಾ ನೀತಾ ಚಲಚಿತ್ತೇನ ರಕ್ಷಸಾ ।  
 ದೈವಸಂಪಾದಿತೋ ದೋಷೋ ಮಾನುಷೇಣ ಮಯಾ ಜಿತಃ ॥
@@ -88,7 +88,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಂಪ್ರಾಪ್ತಮವಮಾನಂ ಯಸ್ತೇಜಸಾ ನ ಪ್ರಮಾರ್ಜತಿ ।  
 ಕಸ್ತಸ್ಯ ಪೌರುಷೇಣಾರ್ಥೋ ಮಹತಾಪ್ಯಲ್ಪತೇಜಸಃ ॥
@@ -102,7 +102,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಲಂಘನಂ ಚ ಸಮುದ್ರಸ್ಯ ಲಂಕಾಯಾಶ್ಚಾಪಿ ಮರ್ದನಮ್ ।  
 ಸಫಲಂ ತಸ್ಯ ಚ ಶ್ಲಾಘ್ಯಮದ್ಯ ಕರ್ಮ ಹನೂಮತಃ ॥
@@ -116,7 +116,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯುದ್ಧೇ ವಿಕ್ರಮತಶ್ಚೈವ ಹಿತಂ ಮಂತ್ರಯತಸ್ತಥಾ ।  
 ಸುಗ್ರೀವಸ್ಯ ಸಸೈನ್ಯಸ್ಯ ಸಫಲೋಽದ್ಯ ಪರಿಶ್ರಮಃ ॥
@@ -130,7 +130,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿಭೀಷಣಸ್ಯ ಚ ತಥಾ ಸಫಲೋಽದ್ಯ ಪರಿಶ್ರಮಃ ।  
 ವಿಗುಣಂ ಭ್ರಾತರಂ ತ್ಯಕ್ತ್ವಾ ಯೋ ಮಾಂ ಸ್ವಯಮುಪಸ್ಥಿತಃ ॥
@@ -144,7 +144,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇತ್ಯೇವಂ ವದತಃ ಶ್ರುತ್ವಾ ಸೀತಾರಾಮಸ್ಯ ತದ್ವಚಃ ।  
 ಮೃಗೀವೋತ್ಫುಲ್ಲನಯನಾ  ಬಭೂವಾಶ್ರುಪರಿಪ್ಲುತಾ ॥
@@ -158,7 +158,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪಶ್ಯತಸ್ತಾಂ ತು ರಾಮಸ್ಯ ಸಮೀಪೇಹೃದಯಪ್ರಿಯಾಮ್ ।  
 ಜನವಾದಭಯಾದ್ರಾಜ್ಞೋ ಬಭೂವ ಹೃದಯಂ ದ್ವಿಧಾ ॥
@@ -172,7 +172,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸೀತಾಮುತ್ಪಲ ಪತ್ರಾಕ್ಷೀಂ ನೀಲಕುಂಚಿತ ಮೂರ್ಧಜಾಮ್ ।  
 ಅವದದ್ವೈ ವರಾರೋಹಾಂ ಮಧ್ಯೇ ವಾನರರಕ್ಷಸಾಮ್ ॥
@@ -186,7 +186,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯತ್ಕರ್ತವ್ಯಂ ಮನುಷ್ಯೇಣ ಧರ್ಷಣಾಂ ಪ್ರತಿಮಾರ್ಜತಾ ।  
 ತತ್ಕೃತಂ ರಾವಣಂ ಹತ್ವಾ ಮಯೇದಂ ಮಾನಕಾಂಕ್ಷಿಣಾ ॥
@@ -200,7 +200,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಿರ್ಜಿತಾ ಜೀವಲೋಕಸ್ಯ ತಪಸಾ ಭಾವಿತಾತ್ಮನಾ ।  
 ಅಗಸ್ತ್ಯೇನ ದುರಾಧರ್ಷಾ ಮುನಿನಾ ದಕ್ಷಿಣೇವ ದಿಕ್ ॥
@@ -214,7 +214,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿದಿತಶ್ಚಾಸ್ತು ಭದ್ರಂ ತೇ ಯೋಽಯಂ ರಣಪರಿಶ್ರಮಃ ।  
 ಸುತೀರ್ಣಃ ಸುಹೃದಾಂ ವೀರ್ಯಾನ್ನ ತ್ವದರ್ಥಂ ಮಯಾ ಕೃತಃ ॥
@@ -228,7 +228,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರಕ್ಷತಾ ತು ಮಯಾ ವೃತ್ತಮಪವಾದಂ ಚ ಸರ್ವತಃ ।  
 ಪ್ರಖ್ಯಾತಸ್ಯಾತ್ಮವಂಶಸ್ಯ ನ್ಯಂಗಂ ಚ ಪರಿಮಾರ್ಜತಾ ॥
@@ -242,7 +242,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪ್ರಾಪ್ತಚಾರಿತ್ರ ಸಂದೇಹಾ ಮಮ ಪ್ರತಿಮುಖೇ ಸ್ಥಿತಾ ।  
 ದೀಪೋ ನೇತ್ರಾತುರಸ್ಯೇವ ಪ್ರತಿಕೂಲಾಸಿ ಮೇ ದೃಢಾ ॥
@@ -256,7 +256,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತದ್ಗಚ್ಛ ತ್ವಾನುಜಾನೇಽದ್ಯ ಯಥೇಷ್ಟಂ ಜನಕಾತ್ಮಜೇ ।  
 ಏತಾ ದಶ ದಿಶೋ ಭದ್ರೇ ಕಾರ್ಯಮಸ್ತಿ ನ ಮೇ ತ್ವಯಾ ॥
@@ -270,7 +270,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಃ ಪುಮಾಂಸ್ತು ಕುಲೇ ಜಾತಃ ಸ್ತ್ರಿಯಂ ಪರಗೃಹೋಷಿತಾಮ್ ।  
 ತೇಜಸ್ವೀ ಪುನರಾದದ್ಯಾತ್ ಸುಹೃಲ್ಲೋಭೇನ ಚೇತಸಾ ॥
@@ -284,7 +284,7 @@ unicode_script = "kannada"
 ###### 20
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರಾವಣಾಂಕ ಪರಿಕ್ಲಿಷ್ಟಾಂ ದೃಷ್ಟಾಂ ದುಷ್ಟೇನ ಚಕ್ಷುಷಾ ।  
 ಕಥಂ ತ್ವಾಂ ಪುನರಾದದ್ಯಾಂ ಕುಲಂ ವ್ಯಪದಿಶನ್ಮಹತ್ ॥
@@ -298,7 +298,7 @@ unicode_script = "kannada"
 ###### 21
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯದರ್ಥಂ ನಿರ್ಜಿತಾ ಮೇ ತ್ವಂ ಸೋಽಯಮಾಸಾದಿತೋ ಮಯಾ ।  
 ನಾಸ್ತಿ ಮೇ ತ್ವಯ್ಯಭಿಷ್ವಂಗೋ ಯಥೇಷ್ಟಂ ಗಮ್ಯತಾಮಿತಿ ॥
@@ -312,7 +312,7 @@ unicode_script = "kannada"
 ###### 22
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತದದ್ಯ ವ್ಯಾಹೃತಂ ಭದ್ರೇ ಮಯೈತತ್ ಕೃತಬುದ್ಧಿನಾ ।  
 ಲಕ್ಷ್ಮಣೇವಾಥ ಭರತೇ ಕುರು ಬುದ್ಧಿಂ ಯಥಾಸುಖಮ್ ॥
@@ -326,7 +326,7 @@ unicode_script = "kannada"
 ###### 23
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶತ್ರುಘ್ನೇ ವಾಥ ಸುಗ್ರೀವೇ ರಾಕ್ಷಸೇಂದ್ರೇ ವಿಭೀಷಣೇ ।  
 ನಿವೇಶಯ ಮನಃ ಸೀತೇ ಯಥಾ ವಾ ಸುಖಮಾತ್ಮನಾ ॥
@@ -340,7 +340,7 @@ unicode_script = "kannada"
 ###### 24
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಹಿ ತ್ವಾಂ ರಾವಣೋ ದೃಷ್ಟ್ವಾ ದಿವ್ಯರೂಪಾಂ ಮನೋರಮಾಮ್ ।  
 ಮರ್ಷಯೇತ ಚಿರಂ ಸೀತೇ ಸ್ವಗೃಹೇ ಪರ್ಯವಸ್ಥಿತಾಮ್ ॥
@@ -354,7 +354,7 @@ unicode_script = "kannada"
 ###### 25
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತಃ ಪ್ರಿಯಾರ್ಹಶ್ರವಣಾ ತದಪ್ರಿಯಂ  
 ಪ್ರಿಯಾದುಪಶ್ರುತ್ಯಚಿರಸ್ಯಮಾನಿನೀ ।  

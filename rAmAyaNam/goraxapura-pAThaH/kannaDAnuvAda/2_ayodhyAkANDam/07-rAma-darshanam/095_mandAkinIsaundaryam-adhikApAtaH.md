@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಥ ಶೈಲಾದ್ವಿನಿಷ್ಕ್ರಮ್ಯ ಮೈಥಿಲೀಂ ಕೋಸಲೇಶ್ವರಃ ।  
 ಅದರ್ಶಯಚ್ಛುಭಜಲಾಂ ರಮ್ಯಾಂ ಮಂದಾಕಿನೀಂ ನದೀಮ್ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಬ್ರವೀಚ್ಚ ವರಾರೋಹಾಂ ಚಂದ್ರಚಾರುನಿಭಾನನಾಮ್ ।  
 ವಿದೇಹರಾಜಸ್ಯ ಸುತಾಂ ರಾಮೋರಾಜೀವಲೋಚನಃ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿಚಿತ್ರಪುಲಿನಾಂ ರಮ್ಯಾಂ ಹಂಸಸಾರಸಸೇವಿತಾಮ್ ।  
 ಕುಸುಮೈರುಪಸಂಪನ್ನಾಂ ಪಶ್ಯ ಮಂದಾಕಿನೀಂ ನದೀಮ್ ॥
@@ -61,7 +61,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಾನಾವಿಧೈಸ್ತೀರರುಹೈರ್ವೃತಾಂ ಪುಷ್ಪಫಲದ್ರುಮೈಃ ।  
 ರಾಜಂತೀಂ ರಾಜರಾಜಸ್ಯ ನಲಿನೀಮಿವ ಸರ್ವತಃ ॥
@@ -75,7 +75,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮೃಗಯೂಥನಿಪೀತಾನಿ ಕಲುಷಾಂಭಾಂಸಿ ಸಾಂಪ್ರತಮ್ ।  
 ತೀರ್ಥಾನಿ ರಮಣೀಯಾನಿ ರತಿಂ ಸಂಜನಯಂತಿ ಮೇ ॥
@@ -89,7 +89,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಜಟಾಜಿನಧರಾಃ ಕಾಲೇ ವಲ್ಕಲೋತ್ತರವಾಸಸಃ ।  
 ಋಷಯಸ್ತ್ವವಗಾಹಂತೇ ನದೀಂ ಮಂದಾಕಿನೀಂ ಪ್ರಿಯೇ ॥
@@ -103,7 +103,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಆದಿತ್ಯಮುಪತಿಷ್ಠಂತೇ ನಿಯಮಾದೂರ್ಧ್ವಬಾಹವಃ ।  
 ಏತೇ ಪರೇ ವಿಶಾಲಾಕ್ಷಿ ಮುನಯಃ ಸಂಶಿತವ್ರತಾಃ ॥
@@ -117,7 +117,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮಾರುತೋದ್ಭೂತಶಿಖರೈಃ ಪ್ರನೃತ್ತ ಇವ ಪರ್ವತಃ ।  
 ಪಾದಪೈಃ ಪುಷ್ಪಪತ್ರಾಣಿ ಸೃಜದ್ಭಿರಭಿತೋ ನದೀಮ್ ॥
@@ -131,7 +131,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕ್ವಚಿನ್ಮಣಿನಿಕಾಶೋದಾಂ ಕ್ವಚಿತ್ ಪುಲಿನಶಾಲಿನೀಮ್ ।  
 ಕ್ವಚಿತ್ಸಿದ್ಧಜನಾಕೀರ್ಣಾಂ ಪಶ್ಯ ಮಂದಾಕಿನೀಂನದೀಮ್ ॥
@@ -145,7 +145,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಿರ್ಧೂತಾನ್ ವಾಯುನಾ ಪಶ್ಯವಿತತಾನ್ ಪುಷ್ಪಸಂಚಯಾನ್ ।  
 ಪೋಪ್ಲೂಯಮಾನಾನಪರಾನ್ಪಶ್ಯ ತ್ವಂ ತನುಮಧ್ಯಮೇ ॥
@@ -159,7 +159,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪಶ್ಯೈತದ್ ವಲ್ಗುವಚಸೋ ರಥಾಂಗಾಹ್ವಯನಾ ದ್ವಿಜಾಃ ।  
 ಅಧಿರೋಹಂತಿ ಕಲ್ಯಾಣಿನಿಷ್ಕೂಜಂತಃ ಶುಭಾ ಗಿರಃ ॥
@@ -173,7 +173,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ದರ್ಶನಂ ಚಿತ್ರಕೂಟಸ್ಯ ಮಂದಾಕಿನ್ಯಾಶ್ಚ ಶೋಭನೇ ।  
 ಅಧಿಕಂ ಪುರವಾಸಾಚ್ಚ ಮನ್ಯೇ ತವ ಚ ದರ್ಶನಾತ್ ॥
@@ -187,7 +187,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿಧೂತಕಲ್ಮಷೈಃ ಸಿದ್ಧೈಸ್ತಪೋದಮಶಮಾನ್ವಿತೈಃ ।  
 ನಿತ್ಯವಿಕ್ಷೋಭಿತಜಲಾಂ ವಿಗಾಹಸ್ವ ಮಯಾ ಸಹ ॥
@@ -201,7 +201,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಖೀವಚ್ಚ ವಿಗಾಹಸ್ವ ಸೀತೇ ಮಂದಾಕಿನೀಂ ನದೀಮ್ ।  
 ಕಮಲಾನ್ಯವಮಜ್ಜಂತೀ ಪುಷ್ಕರಾಣಿ ಚ ಭಾಮಿನಿ ॥
@@ -215,7 +215,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತ್ವಂ ಪೌರಜನವದ್ ವ್ಯಾಲಾನಯೋಧ್ಯಾಮಿವ ಪರ್ವತಮ್ ।  
 ಮನ್ಯಸ್ವ ವನಿತೇ ನಿತ್ಯಂ ಸರಯೂವದಿಮಾಂ ನದೀಮ್ ॥
@@ -229,7 +229,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಲಕ್ಷ್ಮಣಶ್ಚೈವ ಧರ್ಮಾತ್ಮಾ ಮನ್ನಿದೇಶೇ ವ್ಯವಸ್ಥಿತಃ ।  
 ತ್ವಂ ಚಾನುಕೂಲಾ ವೈದೇಹಿ ಪ್ರೀತಿಂ ಜನಯತೀ ಮಮ ॥
@@ -243,7 +243,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಉಪಸ್ಪೃಶಂಸ್ತ್ರಿಷವಣಂ ಮಧುಮೂಲಲಾಶನಃ ।  
 ನಾಯೋಧ್ಯಾಯೈ ನ ರಾಜ್ಯಾಯ ಸ್ಪೃಹಯೇಚ ತ್ವಯಾ ಸಹ ॥
@@ -257,7 +257,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇಮಾಂ ಹಿ ರಮ್ಯಾಂ ಗಜಯೂಥಲೋಡಿತಾಂ  
 ನಿಪೀತತೋಯಾಂ ಗಜಸಿಂಹವಾನರೈಃ ।  
@@ -273,7 +273,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇತೀವ ರಾಮೋ ಬಹುಸಂಗತಂ ವಚಃ  
 ಪ್ರಿಯಾಸಹಾಯಃ ಸರಿತಂ ಪ್ರತಿ ಬ್ರುವನ್ ।  

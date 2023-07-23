@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮಹಾಮಾತ್ರವಚಃ ಶ್ರುತ್ವಾ ರಾಮೋ ದಶರಥಂ ತದಾ ।  
 ಅಭ್ಯಭಾಷತ ವಾಕ್ಯಂ ತು ವಿನಯಜ್ಞೋ ವಿನೀತವತ್ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತ್ಯಕ್ತಭೋಗಸ್ಯ ಮೇ ರಾಜನ್ ವನೇ ವನ್ಯೇನ ಜೀವತಃ ।  
 ಕಿಂ ಕಾರ್ಯಮನುಯಾತ್ರೇಣ ತ್ಯಕ್ತಸಂಗಸ್ಯ ಸರ್ವತಃ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯೋ ಹಿ ದತ್ತ್ವಾ ದ್ವಿಪಶ್ರೇಷ್ಠಂ ಕಕ್ಷ್ಯಾಯಾಂ ಕುರುತೇ ಮನಃ ।  
 ರಜ್ಜುಸ್ನೇಹೇನ ಕಿಂ ತಸ್ಯ ತ್ಯಜತಃ ಕುಂಜರೋತ್ತಮಮ್ ॥
@@ -61,7 +61,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಥಾ ಮಮ ಸತಾಂ ಶ್ರೇಷ್ಠ ಕಿಂ ಧ್ವಜಿನ್ಯಾ ಜಗತ್ಪತೇ ।  
 ಸರ್ವಾಣ್ಯೇವಾನುಜಾನಾಮಿ ಚೀರಾಣ್ಯೇವಾನಯಂತು ಮೇ ॥
@@ -75,7 +75,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಖನಿತ್ರಪಿಟಕೇ ಚೋಭೇ ಸಮಾನಯತ ಗಚ್ಛತ ।  
 ಚತುರ್ದಶ ವನೇ ವಾಸಂ ವರ್ಷಾಣಿ ವಸತೋ ಮಮ ॥
@@ -89,7 +89,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಥ ಚೀರಾಣಿ ಕೈಕೇಯೀ ಸ್ವಯಮಾಹೃತ್ಯ ರಾಘವಮ್ ।  
 ಉವಾಚ ಪರಿಧತ್ಸ್ವೇತಿ ಜನೌಘೇ ನಿರಪತ್ರಪಾ ॥
@@ -103,7 +103,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ಚೀರೇ ಪುರುಷವ್ಯಾಘ್ರಃ ಕೈಕೇಯ್ಯಾಃ ಪ್ರತಿಗೃಹ್ಯ ತೇ ।  
 ಸೂಕ್ಷ್ಮವಸ್ತ್ರಮವಕ್ಷಿಪ್ಯ ಮುನಿವಸ್ತ್ರಾಣ್ಯವಸ್ತ ಹ ॥
@@ -117,7 +117,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಲಕ್ಷ್ಮಣಶ್ಚಾಪಿ ತತ್ರೈವ ವಿಹಾಯ ವಸನೇ ಶುಭೇ ।  
 ತಾಪಸಾಚ್ಛಾದನೇ ಚೈವ ಜಗ್ರಾಹ ಪಿತುರಗ್ರತಃ ॥
@@ -131,7 +131,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಥಾತ್ಮ ಪರಿಧಾನಾರ್ಥಂ ಸೀತಾ ಕೌಶೇಯವಾಸಿನೀ ।  
 ಸಂಪ್ರೇಕ್ಷ್ಯ ಚೀರಂ ಸಂತ್ರಸ್ತಾ ಪೃಷತೀ ವಾಗುರಾಮಿವ ॥
@@ -140,7 +140,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾ ವ್ಯಪತ್ರಪಮಾಣೇವ ಪ್ರಗೃಹ್ಯ ಚ ಸುದುರ್ಮನಾಃ ।  
 ಕೈಕೇಯ್ಯಾಃ ಕುಶಚೀರೇ ತೇ ಜಾನಕೀ ಶುಭಲಕ್ಷಣಾ ॥
@@ -149,7 +149,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಶ್ರುಸಂಪೂರ್ಣನೇತ್ರಾ ಚ ಧರ್ಮಜ್ಞಾ ಧರ್ಮದರ್ಶಿನೀ ।  
 ಗಂಧರ್ವರಾಜಪ್ರತಿಮಂ ಭರ್ತಾರಮಿದಮಬ್ರವೀತ್ ॥
@@ -158,7 +158,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಥಂ ನು ಚೀರಂ ಬಘ್ನಂತಿ ಮುನಯೋ ವನವಾಸಿನಃ ।  
 ಇತಿ ಹ್ಯಕುಶಲಾ ಸೀತಾ ಸಾ ಮುಮೋಹ ಮುಹುರ್ಮುಹುಃ ॥
@@ -172,7 +172,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕೃತ್ವಾ ಕಂಠೇ ಸ್ಮ ಸಾ ಚೀರಮೇಕಮಾದಾಯ ಪಾಣಿನಾ ।  
 ತಸ್ಥೌ ಹ್ಯಕುಶಲಾ ತತ್ರ ವ್ರೀಡಿತಾ ಜನಕಾತ್ಮಜಾ ॥
@@ -186,7 +186,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಯಾಸ್ತತ್ಕ್ಷಿಪ್ರಮಾಗತ್ಯ ರಾಮೋ ಧರ್ಮಭೃತಾಂ ವರಃ ।  
 ಚೀರಂ ಬಬಂಧ ಸೀತಾಯಾಃ ಕೌಶೇಯಸ್ಯೋಪರಿ ಸ್ವಯಮ್ ॥
@@ -200,7 +200,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರಾಮಂ ಪ್ರೇಕ್ಷ್ಯತು ಸೀತಾಯಾ ಬಧ್ನಂತಂ ಚೀರಮುತ್ತಮಮ್ ।  
 ಅಂತಃಪುರಚರಾ ನಾರ್ಯೋ ಮುಮುಚುರ್ವಾರಿ ನೇತ್ರಜಮ್ ॥
@@ -214,7 +214,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಊಚುಶ್ಚ ಪರಮಾಯತ್ತಾ ರಾಮಂ ಜ್ವಲಿತತೇಜಸಮ್ ।  
 ವತ್ಸ ನೈವಂ ನಿಯುಕ್ತೇಯಂ ವನವಾಸೇ ಮನಸ್ವಿನೀ ॥
@@ -228,7 +228,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪಿತುರ್ವಾಕ್ಯಾನುರೋಧೇನ ಗತಸ್ಯ ವಿಜನಂ ವನಮ್ ।  
 ತಾವದ್ದರ್ಶನಮಸ್ಯಾ ನಃ ಸಫಲಂ ಭವತು ಪ್ರಭೋ ॥
@@ -242,7 +242,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಲಕ್ಷ್ಮಣೇನ ಸಹಾಯೇನ ವನಂ ಗಚ್ಛಸ್ವ ಪುತ್ರಕ ।  
 ನೇಯಮರ್ಹತಿ ಕಲ್ಯಾಣಿ ವಸ್ತುಂ ತಾಪಸವದ್ ವನೇ ॥
@@ -256,7 +256,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕುರು ನೋ ಯಾಚನಾಂ ಪುತ್ರ ಸೀತಾ ತಿಷ್ಠತು ಭಾಮಿನೀ ।  
 ಧರ್ಮನಿತ್ಯಃ ಸ್ವಯಂ ಸ್ಥಾತುಂ ನ ಹೀದಾನೀಂ ತ್ವಮಿಚ್ಛಸಿ ॥
@@ -270,7 +270,7 @@ unicode_script = "kannada"
 ###### 20
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಾಸಾಮೇವಂ ವಿಧಾ ವಾಚಃ ಶೃಣ್ವನ್ದಶರಥಾತ್ಮಜಃ ।  
 ಬಬಂಧೈವ ತಥಾ ಚೀರಂ ಸೀತಯಾ ತುಲ್ಯಶೀಲಯಾ ॥
@@ -279,7 +279,7 @@ unicode_script = "kannada"
 ###### 21
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಚೀರೇ ಗೃಹೀತೇ ತು ತಯಾ ಸಬಾಷ್ಪೋ ನೃಪತೇರ್ಗುರುಃ ।  
 ನಿವಾರ್ಯ ಸೀತಾಂ ಕೈಕೇಯೀಂ ವಸಿಷ್ಠೋ ವಾಕ್ಯಮಬ್ರವೀತ್ ॥
@@ -293,7 +293,7 @@ unicode_script = "kannada"
 ###### 22
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅತಿಪ್ರವೃತ್ತೇ ಧರ್ಮೇಧೇ ಕೈಕೇಯಿ ಕುಲಪಾಂಸನಿ ।  
 ವಂಚಯಿತ್ವಾ ತು ರಾಜಾನಂ ನ ಪ್ರಮಾಣೇಽವತಿಷ್ಠಸೀ ॥
@@ -307,7 +307,7 @@ unicode_script = "kannada"
 ###### 23
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನ ಗಂತವ್ಯಂ ವನಂ ದೇವ್ಯಾ ಸೀತಯಾ ಶೀಲವರ್ಜಿತೇ ।  
 ಅನುಷ್ಠಾಸ್ಯತಿ ರಾಮಸ್ಯ ಸೀತಾ ಪ್ರಕೃತಮಾಸನಮ್ ॥
@@ -321,7 +321,7 @@ unicode_script = "kannada"
 ###### 24
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಆತ್ಮಾ ಹಿ ದಾರಾಃ ಸರ್ವೇಷಾಂ ದಾರಸಂಗ್ರಹವರ್ತಿನಾಮ್ ।  
 ಆತ್ಮೇಯಮಿತಿ ರಾಮಸ್ಯ ಪಾಲಯಿಷ್ಯತಿ ಮೇದಿನೀಮ್ ॥
@@ -335,7 +335,7 @@ unicode_script = "kannada"
 ###### 25
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಥ ಯಾಸ್ಯತಿ ವೈದೇಹೀ ವನಂ ರಾಮೇಣ ಸಂಗತಾ ।  
 ವಯಮತ್ರಾನುಯಾಸ್ಯಾಮಃ ಪುರಂ ಚೇದಂ ಗಮಿಷ್ಯತಿ ॥
@@ -344,7 +344,7 @@ unicode_script = "kannada"
 ###### 26
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಂತಪಾಲಾಶ್ಚ ಯಾಸ್ಯಂತಿ ಸದಾರೋ ಯತ್ರ ರಾಘವಃ ।  
 ಸಹೋಪಜೀವ್ಯಂ ರಾಷ್ಟ್ರಂ ಚ ಪುರಂ ಚ ಸಪರಿಚ್ಛದಮ್ ॥
@@ -358,7 +358,7 @@ unicode_script = "kannada"
 ###### 27
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಭರತಶ್ಚ ಸಶತ್ರುಘ್ನಶ್ಚೀರವಸಾ ವನೇಚರಃ  
 ವನೇ ವಸಂತಂಕಾಕುತ್ಸ್ಥಮನುವತ್ಸ್ಯತಿ ಪೂರ್ವಜಮ್ ॥
@@ -372,7 +372,7 @@ unicode_script = "kannada"
 ###### 28
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತಃ ಶೂನ್ಯಾಂ ಗತಜನಾಂ ವಸುಧಾಂ ಪಾದಪೈಃ ಸಹ ।  
 ತ್ವಮೇಕಾಶಾಧಿ ದುವೃತ್ತಾ ಪ್ರಜಾನಾಮಹಿತೇ ಸ್ಥಿತಾ ॥
@@ -386,7 +386,7 @@ unicode_script = "kannada"
 ###### 29
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನ ಹಿ ತದ್ಭವಿತಾ ರಾಷ್ಟ್ರಂ ಯತ್ರರಾಮೋ ನ ಭೂಪತಿಃ ।  
 ತದ್ವನಂ ಭವಿತಾರಾಷ್ಟ್ರಂ ಯತ್ರ ರಾಮೋ ನಿವತ್ಸ್ಯತಿ ॥
@@ -400,7 +400,7 @@ unicode_script = "kannada"
 ###### 30
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನ ಹ್ಯದತ್ತಾಂ ಮಹೀಂ ಪಿತ್ರಾ ಭರತಃ ಶಾಸ್ತುಮಿಚ್ಛತಿ ।  
 ತ್ವಯಿ ವಾ ಪುತ್ರವದ್ವಸ್ತುಂ ಯದಿ ಜಾತೋ ಮಹೀಪತೇಃ ॥
@@ -414,7 +414,7 @@ unicode_script = "kannada"
 ###### 31
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯದ್ಯಪಿ ತ್ವಂ ಕ್ಷಿತಿತಲಾದ್ ಗಗನಂ ಚೋತ್ಪತಿಷ್ಯಸಿ ।  
 ಪಿತೃವಂಶಚರಿತ್ರಜ್ಞಃ ಸೋಽನ್ಯಥಾ ನ ಕರಿಷ್ಯತಿ ॥
@@ -428,7 +428,7 @@ unicode_script = "kannada"
 ###### 32
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತ್ತ್ವಯಾ ಪುತ್ರಗರ್ಧಿನ್ಯಾ ಪುತ್ರಸ್ಯ ಕೃತಮಪ್ರಿಯಮ್ ।  
 ಲೋಕೇ ನಹಿ ಸ ವಿದ್ಯೇತ ಯೋ ನ ರಾಮಮನುವ್ರತಃ ॥
@@ -442,7 +442,7 @@ unicode_script = "kannada"
 ###### 33
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ದ್ರಕ್ಷ್ಯಸ್ಯದ್ಯೈವ ಕೈಕೇಯೀ ಪಶುವ್ಯಾಲಮೃಗದ್ವಿಜಾನ್ ।  
 ಗಚ್ಛತಃ ಸಹ ರಾಮೇಣ ಪಾದಪಾಂಶ್ಚ ತದುನ್ಮಖಾನ್ ॥
@@ -456,7 +456,7 @@ unicode_script = "kannada"
 ###### 34
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಥೋತ್ತಮಾನ್ಯಾಭರಣಾನಿ ದೇವಿ  
 ದೇಹಿ ಸ್ನುಷಾಯೈ ವ್ಯಪನೀಯ ಚೀರಮ್ ।  
@@ -472,7 +472,7 @@ unicode_script = "kannada"
 ###### 35
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏಕಸ್ಯ ರಾಮಸ್ಯ ವನೇ ನಿವಾಸ-  
 ಸ್ತ್ವಯಾ ವೃತಃ ಕೇಕಯ ರಾಜಪುತ್ರಿ ।  
@@ -488,7 +488,7 @@ unicode_script = "kannada"
 ###### 36
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯಾನೈಶ್ಚ ಮುಖ್ಯೈಃ ಪರಿಚಾರಕೈಶ್ಚ  
 ಸುಸಂವೃತಾ ಗಚ್ಛತು ರಾಜಪುತ್ರೀ ।  
@@ -504,7 +504,7 @@ unicode_script = "kannada"
 ###### 37
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಮಿಂಸ್ತಥಾ ಜಲ್ಪತಿ ವಿಪ್ರಮುಖ್ಯೇ  
 ಗುರೌ ನೃಪಸ್ಯಾಪ್ರತಿಮಪ್ರಭಾವೇ ।  

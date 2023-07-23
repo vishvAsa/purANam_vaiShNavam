@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ಏವಂ ಬ್ರುವತೀಂ ಸೀತಾಂ ಧರ್ಮಜ್ಞಾಂ ಧರ್ಮವತ್ಸಲಃ ।  
 ನ ನೇತುಂ ಕುರುತೇ ಬುದ್ಧಿಂ ವನೇ ದುಃಖಾನಿ ಚಿಂತಯನ್ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾಂತ್ವಯಿತ್ವಾ ತತಸ್ತಾಂ ತು ಬಾಷ್ಪದೂಷಿತಲೋಚನಾಮ್ ।  
 ನಿವರ್ತನಾರ್ಥೇ ಧರ್ಮಾತ್ಮಾ ವಾಕ್ಯಮೇತದುವಾಚ ಹ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸೀತೇ ಮಹಾಕುಲೀನಾಸಿ ಧರ್ಮೇ ಚ ನಿರತಾ ಸದಾ ।  
 ಇಹಾಚರಸ್ವ ಧರ್ಮಂ ತ್ವಂ ಯಥಾ ಮೇ ಮನಸಃ ಸುಖಮ್ ॥
@@ -61,7 +61,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸೀತೇ ಯಥಾ ತ್ವಾಂ ವಕ್ಷ್ಯಾಮಿ ತಥಾ ಕಾರ್ಯಂ ತ್ವಯಾಬಲೇ ।  
 ವನೇ ದೋಷಾ ಹಿ ಬಹವೋ ವಸತಸ್ತಾನ್ನಿಬೋಧ ಮೇ ॥
@@ -75,7 +75,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸೀತೇ ವಿಮುಚ್ಯತಾಮೇಷಾ ವನವಾಸಕೃತಾ ಮತಿಃ ।  
 ಬಹುದೋಷಂ ಹಿ ಕಾಂತಾರಂ ವನಮಿತ್ಯಭಿಧೀಯತೇ ॥
@@ -89,7 +89,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಹಿತಬುದ್ಧ್ಯಾಖಲುವಚೋ ಮಯೈತದಭಿಧೀಯತೇ ।  
 ಸದಾ ಸುಖಂ ನ ಜಾನಾಮಿ ದುಃಖಮೇವ ಸದಾ ವನಮ್ ॥
@@ -103,7 +103,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಗಿರಿನಿರ್ಝರಸಂಭೂತಾ ಗಿರಿನಿರ್ದರಿವಾಸಿನಾಮ್ ।  
 ಸಿಂಹಾನಾಂ ನಿನದಾ ದುಃಖಾಃ ಶ್ರೋತುಂ ದುಃಖಮತೋವನಮ್ ॥
@@ -117,7 +117,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕ್ರೀಡಮಾನಾಶ್ಚ ವಿಸ್ರಬ್ಧಾ ಮತ್ತಾಃ ಶೂನ್ಯೇ ತಥಾ ಮೃಗಾಃ ।  
 ದೃಷ್ಟ್ವಾ ಸಮಭಿವರ್ತಂತೇ ಸೀತೇ ದುಃಖಮತೋ ವನಮ್ ॥
@@ -131,7 +131,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಗ್ರಾಹಾಃ ಸರಿತಶ್ಚೈವ ಪಂಕವತ್ಯಸ್ತು ದುಸ್ತರಾಃ ।  
 ಮತ್ತೈರಪಿ ಗಜೈರ್ನಿತ್ಯಮತೋ ದುಃಖತರಂ ವನಮ್ ॥
@@ -145,7 +145,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಲತಾಕಂಟಕಸಂಕೀರ್ಣಾಃ ಕೃಕವಾಕೂಪನಾದಿತಾಃ ।  
 ನಿರಪಾಶ್ಚ ಸುದುಃಖಾಶ್ಚ ಮಾರ್ಗಾ ದುಃಖಮತೋವನಮ್ ॥
@@ -159,7 +159,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸುಪ್ಯತೇ ಪರ್ಣಶಯ್ಯಾಸುಸ್ವಯಂಭಗ್ನಾಸು ಭೂತಲೇ ।  
 ರಾತ್ರಿಷು ಶ್ರಮಖಿನ್ನೇನ ತಸ್ಮಾದ್ದುಃಖಮತೋ ವನಮ್ ॥
@@ -173,7 +173,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಹೋರಾತ್ರಂ ಚ ಸಂತೋಷಃ ಕರ್ತವ್ಯೋನಿಯತಾತ್ಮನಾ ।  
 ಫಲೈರ್ವೃಕ್ಷಾವಪತಿತೈಃ ಸೀತೇ ದುಃಖಮತೋ ವನಮ್ ॥
@@ -187,7 +187,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಉಪವಾಸಶ್ಚ ಕರ್ತವ್ಯೋ ಯಥಾಪ್ರಾಣೇನ ಮೈಥಿಲಿ ।  
 ಜಟಾಭಾರಶ್ಚ ಕರ್ತವ್ಯೋ ವಲ್ಕಲಾಂಬರಧಾರಣಮ್ ॥
@@ -201,7 +201,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ದೇವತಾನಾಂ ಪಿತೄಣಾಂ ಚ ಕರ್ತವ್ಯಂ ವಿಧಿಪೂರ್ವಕಮ್ ।  
 ಪ್ರಾಪ್ತಾನಾಮತಿಥೀನಾಂ ಚ ನಿತ್ಯಶಃ ಪ್ರತಿಪೂಜನಮ್ ॥
@@ -215,7 +215,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಾರ್ಯಸ್ತ್ರಿರಭಿಷೇಕಶ್ಚ ಕಾಲೇ ಕಾಲೇ ಚ ನಿತ್ಯಶಃ ।  
 ಚರತಾಂ ನಿಯಮೇನೈವ ತಸ್ಮಾದ್ದುಃಖತರಂ ವನಮ್ ॥
@@ -229,7 +229,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಉಪಹಾರಶ್ಚ ಕರ್ತವ್ಯಃ ಕುಸುಮೈಃ ಸ್ವಯಮಾಹೃತೈಃ ।  
 ಆರ್ಷೇಣ ವಿಧಿನಾ ವೇದ್ಯಾಂ ಸೀತೇ ದುಃಖಮತೋ ವನಮ್ ॥
@@ -243,7 +243,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯಥಾಲಬ್ಧೇನ ಕರ್ತವ್ಯಃ ಸಂತೋಷಸ್ತೇನ ಮೈಥಿಲಿ ।  
 ಯತಾಹಾರೈರ್ವನಚರೈಃ ಸೀತೇ ದುಃಖಮತೋ ವನಮ್ ॥
@@ -257,7 +257,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅತೀವ ವಾತಾಸ್ತಿಮಿರಂ ಬುಭುಕ್ಷಾ ಚಾತ್ರಿ ನಿತ್ಯಶಃ ।  
 ಭಯಾನಿ ಚ ಮಹಾಂತ್ಯತ್ರ ತತೋ ದುಃಖತರಂ ವನಮ್ ॥
@@ -271,7 +271,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸರೀಸೃಪಾಶ್ಚ ಬಹವೋ ಬಹುರೂಪಾಶ್ಚ ಭಾಮಿನಿ ।  
 ಚರಂತಿ ಪಥಿ ತೇದರ್ಪಾತ್ತತೋ ದುಃಖತರಂ ವನಮ್ ॥
@@ -285,7 +285,7 @@ unicode_script = "kannada"
 ###### 20
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನದೀನಿಲಯನಾಃ ಸರ್ಪಾ ನದೀಕುಟಿಲಗಾಮಿನಃ ।  
 ತಿಷ್ಠಂತ್ಯಾವೃತ್ಯ ಪಂಥಾನಮತೋ ದುಃಖತರಂ ವನಮ್ ॥
@@ -299,7 +299,7 @@ unicode_script = "kannada"
 ###### 21
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪತಂಗಾ ವೃಶ್ಚಿಕಾಃ ಕೀಟಾ ದಂಶಾಶ್ಚ ಮಶಕೈಃ ಸಹ ।  
 ಬಾಧಂತೇ ನಿತ್ಯಮಬಲೇ ಸರ್ವಂ ದುಃಖಮತೋವನಮ್ ॥
@@ -313,7 +313,7 @@ unicode_script = "kannada"
 ###### 22
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಧ್ರುಮಾಃ ಕಂಟಕಿನಶ್ಚೈವ ಕುಶಾಃ ಕಾಶಾಶ್ಚ ಭಾಮಿನಿ ।  
 ವನೇ ವ್ಯಾಕುಲ ಶಾಖಾಗ್ರಾಸ್ತೇನ ದುಃಖಮತೋ ವನಮ್ ॥
@@ -327,7 +327,7 @@ unicode_script = "kannada"
 ###### 23
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಾಯಕ್ಲೇಶಾಶ್ಚ ಬಹವೋ ಭಯಾನಿ ವಿವಿಧಾನಿ ಚ ।  
 ಅರಣ್ಯವಾಸೇ ವಸತೋ ದುಃಖಮೇವ ಸದಾ ವನಮ್ ॥
@@ -341,7 +341,7 @@ unicode_script = "kannada"
 ###### 24
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕ್ರೋಧಲೋಭೌ ವಿಮೋಕ್ತವ್ಯೌ ಕರ್ತವ್ಯಾ ತಪಸೇ ಮತಿಃ ।  
 ನ ಭೇತವ್ಯಂ ಚ ಭೇತವ್ಯೇ ದುಃಖಂ ನಿತ್ಯಮತೋ ವನಮ್ ॥
@@ -355,7 +355,7 @@ unicode_script = "kannada"
 ###### 25
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತದಲಂ ತೇ ವನಂ ಗತ್ವಾ ಕ್ಷೇಮಂ ನಹಿ ವನಂ ತವ ।  
 ವಿಮೃಶನ್ನಿ ಹ ಪಶ್ಯಾಮಿ ಬಹುದೋಷಕರಂ ವನಮ್ ॥
@@ -369,7 +369,7 @@ unicode_script = "kannada"
 ###### 26
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವನಂ ತು ನೇತುಂ ನ ಕೃತಾ ಮತಿರ್ಯದಾ  
 ಬಭೂವ ರಾಮೇಣ ತದಾ ಮಹಾತ್ಮನಾ ।  

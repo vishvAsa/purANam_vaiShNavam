@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತಃ ಶಾಖಾಂತರೇ ಲೀನಂ ದೃಷ್ಟ್ವಾ ಚಲಿತಮಾನಸಾ ।  
 ವೇಷ್ಟಿತಾರ್ಜುನವಸ್ತ್ರಂ ತಂ ವಿದ್ಯುತ್ಸಂಘಾತಪಿಂಗಲಮ್ ॥
@@ -28,7 +28,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾ ದದರ್ಶ ಕಪಿಂ ತತ್ರ ಪ್ರಶ್ರಿತಂ ಪ್ರಿಯವಾದಿನಮ್ ।  
 ಫುಲ್ಲಾಶೋಕೋತ್ಕರಾಭಾಸಂ ತಪ್ತಚಾಮೀಕರೇಕ್ಷಣಮ್ ॥
@@ -42,7 +42,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮೈಥಿಲೀ ಚಿಂತಯಾಮಾಸ ವಿಸ್ಮಯಂ ಪರಮಂ ಗತಾ ।  
 ಅಹೋ ಭೀಮಮಿದಂ ರೂಪಂ ವಾನರಸ್ಯ ದುರಾಸದಮ್ ॥
@@ -56,7 +56,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ದುರ್ನಿರೀಕ್ಷ್ಯಮಿತಿ ಜ್ಞಾತ್ವಾ ಪುನರೇವ ಮುಮೋಹ ಸಾ ।  
 ವಿಲಲಾಪ ಭೃಶಂ ಸೀತಾ ಕರುಣಂ ಭಯಮೋಹಿತಾ ॥
@@ -70,7 +70,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರಾಮ ರಾಮೇತಿ ದುಃಖಾರ್ತಾ ಲಕ್ಷ್ಮಣೇತಿ ಚ ಭಾಮಿನೀ ।  
 ರುರೋದ ಬಹುಧಾ ಸೀತಾ ಮಂದಂ ಮಂದಸ್ವರಾ ಸತೀ ॥
@@ -84,7 +84,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾ ತಂ ದೃಷ್ಟ್ವಾ ಹರಿಶ್ರೇಷ್ಠಂ ವಿನೀತವದುಪಸ್ಥಿತಮ್ ।  
 ಮೈಥಿಲೀ ಚಿಂತಯಾಮಾಸ ಸ್ವಪ್ನೋಯಽಮಿತಿ ಭಾಮಿನೀ ॥
@@ -98,7 +98,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾ ವೀಕ್ಷಮಾಣಾ ಪೃಥುಭುಗ್ನ ವಕ್ತ್ರಂ  
 ಶಾಖಾಮೃಗೇಂದ್ರಸ್ಯ ಯಥೋಕ್ತಕಾರಮ್ ।  
@@ -114,7 +114,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾ ತಂ ಸಮೀಕ್ಷ್ಯೈವ ಭೃಶಂ ವಿಸಂಜ್ಞಾ  
 ಗತಾಸುಕಲ್ಪೇವ ಬಭೂವ ಸೀತಾ ।  
@@ -130,7 +130,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ್ವಪ್ನೇ ಮಯಾಯಂ ವಿಕೃತೋಽದ್ಯ ದೃಷ್ಟಃ  
 ಶಾಖಾಮೃಗಃ ಶಾಸ್ತ್ರಗಣೈರ್ನಿಷಿದ್ಧಃ ।  
@@ -146,7 +146,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ್ವಪ್ನೋಽ ಹಿ ನಾಯಂ ನ ಹಿ ಮೇಽ ಸ್ತಿ ನಿದ್ರಾ  
 ಶೋಕೇನ ದುಃಖೇನ ಚ ಪೀಡಿತಾಯಾಃ ।  
@@ -162,7 +162,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರಾಮೇತಿ ರಾಮೇತಿ ಸದೈವ ಬುದ್ಧ್ಯಾ  
 ವಿಚಿಂತ್ಯ ವಾಚಾ ಬ್ರುವತೀ ತಮೇವ ।  
@@ -178,7 +178,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಹಂ ಹಿ ತಸ್ಯಾದ್ಯ ಮನೋಭವೇನ  
 ಸಂಪೀಡಿತಾ ತದ್ಗತಸರ್ವಭಾವಾ ।  
@@ -194,7 +194,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮನೋರಥಃ ಸ್ಯಾದಿತಿ ಚಿಂತಯಾಮಿ  
 ತಥಾಪಿ ಬುದ್ಧ್ಯಾ ಚ ವಿತರ್ಕಯಾಮಿ ।  
@@ -210,7 +210,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಮೋಽಸ್ತು ವಾಚಸ್ಪತಯೇ ಸವಜ್ರಿಣೇ  
 ಸ್ವಯಂಭುವೇ ಚೈವ ಹುತಾಶನಾಯ ಚ ।  
@@ -223,7 +223,7 @@ unicode_script = "kannada"
 ವಜ್ರಸಹಿತನಾದ ಇಂದ್ರನಿಗೆ ವಂದನೆ. ಬೃಹಸ್ಪತಿಗೆ ನಮಸ್ಕಾರಗಳು. ಬ್ರಹ್ಮದೇವರಿಗೆ ವಂದನೆಗಳು. ಅಗ್ನಿದೇವರಿಗೆ ಪ್ರಣಾಮಗಳು. ವನಚರನಾದ ಈ ಕಪೀಶ್ವರನು ಈಗ ಹೇಳಿದ ಮಾತುಗಳು ಸತ್ಯವಾಗಲೀ. ಸುಳ್ಳಾಗುವುದು ಬೇಡ. (ಈ ಸಂದೇಶ ವಾಹಕನಾದ ಕಪೀಶ್ವರನು ಶ್ರೀರಾಮನ ಪಕ್ಷದವನೇ ಆಗಿರಬೇಕು. ರಾವಣನ ಪಕ್ಷದವನಲ್ಲ.)॥14॥
 </details>
 
-<details><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
+<details open><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
 
 ಇತ್ಯಾರ್ಷೇ ಶ್ರೀಮದ್ರಾಮಾಯಣೇ ವಾಲ್ಮೀಕೀಯೇ ಆದಿಕಾವ್ಯೇ ಸುಂದರಕಾಂಡೇ ದ್ವಾತ್ರಿಂಶಃ ಸರ್ಗಃ ॥ 32 ॥
 </details>

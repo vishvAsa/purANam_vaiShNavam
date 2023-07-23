@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏವಮುಕ್ತೋ ಹನುಮತಾ ರಾಮೋ ದಶರಥಾತ್ಮಜಃ ।  
 ತಂ ಮಣಿಂ ಹೃದಯೇ ಕೃತ್ವಾ ಪ್ರರುರೋದ ಸಲಕ್ಷ್ಮಣಃ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಂ ತು ದೃಷ್ಟ್ವಾ ಮಣಿಶ್ರೇಷ್ಠಂ ರಾಘವಃ ಶೋಕಕರ್ಶಿತಃ ।  
 ನೇತ್ರಾಭ್ಯಾಮಶ್ರುಪೂರ್ಣಾಭ್ಯಾಂ ಸುಗ್ರೀವಮಿದಮಬ್ರವೀತ್ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯಥೈವ ಧೇನುಃ ಸ್ರವತಿ ಸ್ನೇಹಾದ್ವತ್ಸಸ್ಯ ವತ್ಸಲಾ ।  
 ತಥಾ ಮಮಾಪಿ ಹೃದಯಂ ಮಣಿರತ್ನಸ್ಯ ದರ್ಶನಾತ್ ॥
@@ -61,7 +61,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮಣಿರತ್ನಮಿದಂ ದತ್ತಂ ವೈದೇಹ್ಯಾಃ ಶ್ವಶುರೇಣ ಮೇ ।  
 ವಧೂಕಾಲೇ ಯಥಾಬದ್ಧಮಧಿಕಂ ಮೂರ್ಧ್ನಿ ಶೋಭತೇ ॥
@@ -75,7 +75,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಯಂ ಹಿ ಜಲಸಂಭೂತೋ ಮಣಿಃ ಸಜ್ಜನಪೂಜಿತಃ ।  
 ಯಜ್ಞೇ ಪರಮತುಷ್ಟೇನ ದತ್ತಃ ಶಕ್ರೇಣ ಧೀಮತಾ ॥
@@ -89,7 +89,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇಮಂ ದೃಷ್ಟ್ವಾ ಮಣಿಶ್ರೇಷ್ಠಂ ಯಥಾ ತಾತಸ್ಯ ದರ್ಶನಮ್ ।  
 ಅದ್ಯಾಸ್ಮ್ಯವಗತಃ ಸೌಮ್ಯ ವೈದೇಹಸ್ಯ ತಥಾ ವಿಭೋಃ ॥
@@ -103,7 +103,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಯಂ ಹಿ ಶೋಭತೇ ತಸ್ಯಾಃ ಪ್ರಿಯಾಯಾ ಮೂರ್ಧ್ನಿ ಮೇ ಮಣಿಃ ।  
 ಅಸ್ಯಾದ್ಯ ದರ್ಶನೇನಾಹಂ ಪ್ರಾಪ್ತಾಂ ತಾಮಿವ ಚಿಂತಯೇ ॥
@@ -117,7 +117,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಿಮಾಹ ಸೀತಾ ವೈದೇಹೀ ಬ್ರೂಹಿ ಸೌಮ್ಯ ಪುನಃ ಪುನಃ ।  
 ಪಿಪಾಸುಮಿವ ತೋಯೇನ ಸಿಂಚಂತೀ ವಾಕ್ಯವಾರಿಣಾ ॥
@@ -131,7 +131,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇತಸ್ತು ಕಿಂ ದುಃಖತರಂ ಯದಿಮಂ ವಾರಿಸಂಭವಮ್ ।  
 ಮಣಿಂ ಪಶ್ಯಾಮಿ ಸೌಮಿತ್ರೇ ವೈದೇಹೀಮಾಗತಂ ವಿನಾ ॥
@@ -145,7 +145,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಚಿರಂ ಜೀವತಿ ವೈದೇಹೀ ಯದಿ ಮಾಸಂ ಧರಿಷ್ಯತಿ ।  
 ನ ಜೀವೇಯಂ ಕ್ಷಣಮಪಿ ವಿನಾ ತಾಮಸಿತೇಕ್ಷಣಾಮ್ ॥
@@ -159,7 +159,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಯ ಮಾಮಪಿ ತಂ ದೇಶಂ ಯತ್ರ ದೃಷ್ಟಾ ಮಮ ಪ್ರಿಯಾ ।  
 ನ ತಿಷ್ಠೇಯಂ ಕ್ಷಣಮಪಿ ಪ್ರವೃತ್ತಿಮುಪಲಭ್ಯ ಚ ॥
@@ -173,7 +173,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಥಂ ಸಾ ಮಮ ಸುಶ್ರೋಣೀ ಭೀರುಭೀರುಃ ಸತೀ ಸದಾ ।  
 ಭಯಾವಹಾನಾಂ ಘೋರಾಣಾಂ ಮಧ್ಯೇ ತಿಷ್ಠತಿ ರಕ್ಷಸಾಮ್ ॥
@@ -187,7 +187,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶಾರದಸ್ತಿಮಿರೋನ್ಮುಕ್ತೋ ನೂನಂ ಚಂದ್ರ ಇವಾಂಬುದೈಃ ।  
 ಆವೃತಂ ವದನಂ ತಸ್ಯಾ ನ ವಿರಾಜತಿ ರಾಕ್ಷಸೈಃ ॥
@@ -201,7 +201,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಿಮಾಹ ಸೀತಾ ಹನುಮಂಸ್ತತ್ತ್ವತಃ ಕಥಯಾದ್ಯ ಮೇ ।  
 ಏತೇನ ಖಲು ಜೀವಿಷ್ಯೇ ಭೇಷಜೇನಾತುರೋ ಯಥಾ ॥
@@ -215,7 +215,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮಧುರಾ ಮಧುರಾಲಾಪಾ ಕಿಮಾಹ ಮಮ ಭಾಮಿನೀ ।  
 ಮದ್ವಿಹೀನಾ ವರಾರೋಹಾ ಹನುಮನ್ ಕಥಯಸ್ವ ಮೇ ।  
@@ -227,7 +227,7 @@ unicode_script = "kannada"
 ಎಲೈ ಹನುಮಂತಾ! ನನ್ನಿಂದ ಅಗಲಿರುವ ಸುಂದರ ಶರೀರವುಳ್ಳ, ಮಧುರ ಸ್ವಭಾವದವಳೂ, ಮಧುರವಾಗಿ ಮಾತಾಡುವವಳೂ ಆದ ನನ್ನ ಪ್ರಿಯೆಯು ಏನು ಹೇಳಿದಳು? ಅವೆಲ್ಲವನ್ನು ಅವಳ ಮಾತಿನಲ್ಲೇ ಹೇಳು. ಅತ್ಯಂತ ದುಃಖಕ್ಕೀಡಾಗಿರುವವಳು ಹೇಗೆ ಜೀವಿಸಿರುವಳೋ ಕಾಣೆ!॥15॥
 </details>
 
-<details><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
+<details open><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
 
 ಇತ್ಯಾರ್ಷೇ ಶ್ರೀಮದ್ರಾಮಾಯಣೇ ವಾಲ್ಮೀಕೀಯೇ ಆದಿಕಾವ್ಯೇ ಸುಂದರಕಾಂಡೇ ಷಟ್ಷಷ್ಠಿತಮಃ ಸರ್ಗಃ ॥ 66 ॥
 </details>

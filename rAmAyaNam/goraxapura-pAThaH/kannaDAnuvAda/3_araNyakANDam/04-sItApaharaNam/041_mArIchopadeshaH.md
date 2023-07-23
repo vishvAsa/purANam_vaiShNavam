@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಆಜ್ಞಪ್ತೋ ರಾವಣೇನೇತ್ಥಂ ಪ್ರತಿಕೂಲಂ ಚ ರಾಜವತ್ ।  
 ಅಬ್ರವೀತ್ ಪುರುಷಂ ವಾಕ್ಯಂ ನಿಃಶಂಕೋ ರಾಕ್ಷಸಾಧಿಪಮ್ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕೇನಾಯಮುಪದಿಷ್ಟಸ್ತೇ ವಿನಾಶಃ ಪಾಪಕರ್ಮಣಾ ।  
 ಸಪುತ್ರಸ್ಯ ಸರಾಜ್ಯಸ್ಯ ಸಾಮಾತ್ಯಸ್ಯ ನಿಶಾಚರ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಸ್ತ್ವಯಾ ಸುಖಿನಾ ರಾಜನ್ನಾಭಿನಂದತಿ ಪಾಪಕೃತ್ ।  
 ಕೇನೇದಮುಪದಿಷ್ಟಂ  ತೇ ಮೃತ್ಯುದ್ವಾರಮುಪಾಯತಃ ॥
@@ -61,7 +61,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶತ್ರವಸ್ತವ ಸುವ್ಯಕ್ತಂ ಹೀನವೀರ್ಯಾ ನಿಶಾಚರ ।  
 ಇಚ್ಛಂತಿ ತ್ವಾಂ ವಿನಶ್ಯಂತಮುಪರುದ್ಧಂ ಬಲೀಯಸಾ ॥
@@ -75,7 +75,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕೇನೇದಮುಪದಿಷ್ಟಂ ತೇ ಕ್ಷುದ್ರೇಣಾಹಿತಬುದ್ಧಿನಾ ।  
 ಯಸ್ತ್ವಾಮಿಚ್ಛತಿ ನಶ್ಯಂತಂ ಸ್ವಕೃತೇನ ನಿಶಾಚರ ॥
@@ -89,7 +89,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಧ್ಯಾಃ ಖಲು ನ ವಧ್ಯಂತೇ ಸಚಿವಾಸ್ತವ ರಾವಣ ।  
 ಯೇ ತ್ವಾಮುತ್ಪಥಮಾರೂಢಂ ನ ನಿಗೃಹ್ಣಂತಿ ಸರ್ವಶಃ ॥
@@ -103,7 +103,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಮಾತ್ಯೈಃ ಕಾಮವೃತ್ತೋ ಹಿ ರಾಜಾ ಕಾಪಥಮಾಶ್ರಿತಃ ।  
 ನಿಗ್ರಾಹ್ಯಃ ಸರ್ವಥಾ ಸದ್ಭಿಃಸ ನಿಗ್ರಾಹ್ಯೋ ನಗೃಹ್ಯಸೇ ॥
@@ -117,7 +117,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಧರ್ಮಮರ್ಥಂ ಚ ಕಾಮಂ ಚ ಯಶಶ್ಚ ಜಯತಾಂ ವರ ।  
 ಸ್ವಾಮಿಪ್ರಸಾದಾತ್ಸಚಿವಾಃ ಪ್ರಾಪ್ನುವಂತಿ ನಿಶಾಚರ ॥
@@ -131,7 +131,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿಪರ್ಯಯೇ ತು ತತ್ಸರ್ವಂ ವ್ಯರ್ಥಂ ಭವತಿ ರಾವಣ ।  
 ವ್ಯಸನಂ ಸ್ವಾಮಿವೈಗುಣ್ಯಾತ್ ಪ್ರಾಪ್ನುವಂತೀತರೇ ಜನಾಃ ॥
@@ -145,7 +145,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರಾಜಮೂಲೋ ಹಿ ಧರ್ಮಶ್ಚ ಯಶಶ್ಚ ಜಯತಾಂ ವರ ।  
 ತಸ್ಮಾತ್ಸರ್ವಾಸ್ವವಸ್ಥಾಸು ರಕ್ಷಿತವ್ಯಾ ನರಾಧಿಪಾಃ ॥
@@ -159,7 +159,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ರಾಜ್ಯಂಪಾಲಯಿತುಂ ಶಕ್ಯಂ ನ ತೀಕ್ಷ್ಣೇನ ನಿಶಾಚರ ।  
 ನ ಚಾತಿಪ್ರತಿಕೂಲೇನ ನಾವಿನೀತೇನ ರಾಕ್ಷಸ ॥
@@ -173,7 +173,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯೇ ತೀಕ್ಷ್ಣ ಮಂತ್ರಾಃ ಸಚಿವಾ ಭುಜ್ಯಂತೇ ಸಹ ತೇನ ವೈ ।  
 ವಿಷಮೇಷು ರಥಾಃ ಶೀಘ್ರಂ ಮಂದಸಾರಥಯೋ ಯಥಾ ॥
@@ -187,7 +187,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಬಹವಃ ಸಾಧವೋ ಲೋಕೇ ಯುಕ್ತ ಧರ್ಮಮನುಷ್ಠಿತಾಃ ।  
 ಪರೇಷಾಮಪರಾಧೇನ ವಿನಷ್ಟಾಃ ಸಪರಿಚ್ಛದಾಃ ॥
@@ -201,7 +201,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ್ವಾಮಿನಾ ಪ್ರತಿಕೂಲೇನ ಪ್ರಜಾಸ್ತೀಕ್ಷ್ಣೇನ ರಾವಣ ।  
 ರಕ್ಷ್ಯಮಾಣಾ ನ ವರ್ಧಂತೇ ಮೇಷಾ ಗೋಮಾಯುನಾ ಯಥಾ ॥
@@ -215,7 +215,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅವಶ್ಯಂ ವಿನಶಿಷ್ಯಂತಿ  ಸರ್ವೇ ರಾವಣ ರಾಕ್ಷಸಾಃ ।  
 ಯೇಷಾಂ ತ್ವಂ ಕರ್ಕಶೋ ರಾಜಾ ದುರ್ಬುದ್ಧಿ ರಜಿತೇಂದ್ರಿಯಃ ॥
@@ -229,7 +229,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತದಿದಂ ಕಾಕತಾಲೀಯಂ ಘೋರಮಾಸಾದಿತಂ ಮಯಾ ।  
 ಅತ್ರ ತ್ವಂ ಶೋಚನೀಯೋಽಸಿ ಸಸೈನ್ಯೋ ವಿನಶಿಷ್ಯಸಿ ॥
@@ -243,7 +243,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮಾಂ ನಿಹತ್ಯ ತು ರಾಮೋಽಸಾವಚಿರಾತ್ ತ್ವಾಂ ವಧಿಷ್ಯತಿ ।  
 ಅನೇನ ಕೃತಕೃತ್ಯೋಽಸ್ಮಿ ಮ್ರಿಯೇ ಯಪ್ಯರಿಣಾ ಹತಃ ॥
@@ -257,7 +257,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ದರ್ಶನಾದೇವ ರಾಮಸ್ಯ ಹತಂ ಮಾಮವಧಾರಯ ।  
 ಆತ್ಮಾನಂ ಚ ಹತಂ ವಿದ್ಧಿ ಹೃತ್ವಾ ಸೀತಾಂ ಸಬಾಂಧವಮ್ ॥
@@ -271,7 +271,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಆನಯಿಷ್ಯಸಿ ಚೇತ್ ಸೀತಾಮಾಶ್ರಮಾತ್ ಸಹಿತೋ ಮಯಾ ।  
 ನೈವ ತ್ವಮಪಿ ನಾಹಂ ವೈ ನೈವ ಲಂಕಾ ನ ರಾಕ್ಷಸಾಃ ॥
@@ -285,7 +285,7 @@ unicode_script = "kannada"
 ###### 20
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಿವಾರ್ಯಮಾಣಸ್ತು ಮಯಾ ಹಿತೈಷಿಣಾ  
 ನ ಮೃಷ್ಯಸೇ ವಾಕ್ಯಮಿದಂ ನಿಶಾಚರ ।  

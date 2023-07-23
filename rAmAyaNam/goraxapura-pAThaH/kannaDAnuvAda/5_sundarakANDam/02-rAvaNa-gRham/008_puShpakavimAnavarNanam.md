@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ತಸ್ಯ ಮಧ್ಯೇ ಭವನಸ್ಯ ಸಂಸ್ಥಿತಂ  
 ಮಹದ್ವಿಮಾನಂ ಬಹು ರತ್ನ ಚಿತ್ರಿತಮ್ ।  
@@ -35,7 +35,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತದಪ್ರಮೇಯಾಪ್ರತಿಕಾರಕೃತ್ರಿಮಂ  
 ಕೃತಂ ಸ್ವಯಂ ಸಾಧ್ವಿತಿ ವಿಶ್ವಕರ್ಮಣಾ ।  
@@ -51,7 +51,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನ ತತ್ರ ಕಿಂಚಿನ್ನ ಕೃತಂ ಪ್ರಯತ್ನತೋ  
 ನ ತತ್ರ ಕಿಂಚಿನ್ನ ಮಹಾರ್ಹರತ್ನವತ್ ।  
@@ -67,7 +67,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಪಃಸಮಾಧಾನ ಪರಾಕ್ರಮಾರ್ಜಿತಂ  
 ಮನಃಸಮಾಧಾನವಿಚಾರ ಚಾರಿಣಮ್ ।  
@@ -83,7 +83,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮನಃ ಸಮಾಧಾಯ ತು ಶೀಘ್ರಗಾಮಿನಂ  
 ದುರಾವರಂ ಮಾರುತತುಲ್ಯಗಾಮಿನಮ್ ।  
@@ -99,7 +99,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿಶೇಷಮಾಲಂಬ್ಯ ವಿಶೇಷಸಂಸ್ಥಿತಂ  
 ವಿಚಿತ್ರಕೂಟಂ ಬಹುಕೂಟಮಂಡಿಮ್ ।  
@@ -115,7 +115,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಹಂತಿ ಯಂ ಕುಂಡಲಶೋಭಿತಾನನಾ  
 ಮಹಾಶನಾ ವ್ಯೋಮಚರಾ ನಿಶಾಚರಾಃ ।  
@@ -132,7 +132,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಸಂತಪುಷ್ಪೋತ್ಕರಚಾರುದರ್ಶನಂ  
 ವಸಂತಮಾಸಾದಪಿ ಕಾಂತದರ್ಶನಮ್ ।  
@@ -145,7 +145,7 @@ unicode_script = "kannada"
 ವಸಂತ ಕಾಲದ ಪುಷ್ಪಗಳ ಸಮೂಹದಂತೆ ಬಹಳ ಸುಂದರವಾಗಿ ಕಾಣುತ್ತಿದ್ದ, ವಸಂತಮಾಸಕ್ಕಿಂತಲೂ ಹೆಚ್ಚು ಚೆಲುವಾಗಿದ್ದ, ಉತ್ತಮೋತ್ತಮವಾದ ಆ ಪುಷ್ಪಕವಿಮಾನವನ್ನು ವಾನರಶ್ರೇಷ್ಠನಾದ ಮಾರುತಿಯು ನೋಡಿದನು.॥8॥
 </details>
 
-<details><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
+<details open><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
 
 ಇತ್ಯಾರ್ಷೇ ಶ್ರೀಮದ್ರಾಮಾಯಣೇ ವಾಲ್ಮೀಕೀಯೇ ಆದಿಕಾವ್ಯೇ ಸುಂದರಕಾಂಡೇ ಅಷ್ಟಮಃ ಸರ್ಗಃ ॥ 8 ॥
 </details>

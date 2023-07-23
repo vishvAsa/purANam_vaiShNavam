@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶ್ರುತ್ವಾ ಹನುಮತೊ ವಾಕ್ಯಂ ಯಥಾವದಭಿಭಾಷಿತಮ್ ।  
 ರಾಮಃ ಪ್ರೀತಿಸಮಾಯುಕ್ತೋ ವಾಕ್ಯಮುತ್ತರಮಬ್ರವೀತ್ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕೃತಂ ಹನೂಮತಾ ಕಾರ್ಯಂ ಸುಮಹದ್ಭುವಿ ದುರ್ಲಭಮ್ ।  
 ಮನಸಾಪಿ ಯದನ್ಯೇನ ನ ಶಕ್ಯಂ ಧರಣೀತಲೇ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನ ಹಿ ತಂ ಪರಿಪಶ್ಯಾಮಿ ಯಸ್ತರೇತ ಮಹೋದಧಿಮ್ ।  
 ಅನ್ಯತ್ರ ಗರುಡಾದ್ವಾಯೋರನ್ಯತ್ರ ಚ ಹನೂಮತಃ ॥
@@ -61,7 +61,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 4½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ದೇವದಾನವಯಕ್ಷಾಣಾಂ  ಗಂಧರ್ವೋರಗರಕ್ಷಸಾಮ್ ।  
 ಅಪ್ರಧೃಷ್ಯಾಂ ಪುರೀಂ ಲಂಕಾಂ ರಾವಣೇನ ಸುರಕ್ಷಿತಾಮ್ ।  
@@ -76,7 +76,7 @@ unicode_script = "kannada"
 ## (ಶ್ಲೋಕ - 5½)
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕೋ ವಿಶೇತ್ಸುದುರಾಧರ್ಷಾಂ ರಾಕ್ಷಸೈಶ್ಚ ಸುರಕ್ಷಿತಾಮ್ ॥  
 ಯೋ ವೀರ್ಯಬಲಸಂಪನ್ನೋ ನ ಸಮಃ ಸ್ಯಾದ್ಧನೂಮತಃ ।
@@ -90,7 +90,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಭೃತ್ಯಕಾರ್ಯಂ ಹನುಮತಾ ಸುಗ್ರೀವಸ್ಯ ಕೃತಂ ಮಹತ್ ।  
 ಏವಂ ವಿಧಾಯ ಸ್ವಬಲಂ ಸದೃಶಂ ವಿಕ್ರಮಸ್ಯ ಚ ॥
@@ -104,7 +104,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯೋ ಹಿ ಭೃತ್ಯೋ ನಿಯುಕ್ತಃ ಸನ್ ಭರ್ತ್ರಾ ಕರ್ಮಣಿ ದುಷ್ಕರೇ ।  
 ಕುರ್ಯಾತ್ತದನುರಾಗೇಣ ತಮಾಹುಃ ಪುರುಷೋತ್ತಮಮ್ ॥
@@ -118,7 +118,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯೋ ನಿಯುಕ್ತಃ ಪರಂ ಕಾರ್ಯಂ ನ ಕುರ್ಯಾನ್ನೃಪತೇಃ ಪ್ರಿಯಮ್ ।  
 ಭೃತ್ಯೋ ಯುಕ್ತಃ ಸಮರ್ಥಶ್ಚ ತಮಾಹುರ್ಮಧ್ಯಮಂ ನರಮ್ ॥
@@ -132,7 +132,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಿಯುಕ್ತೋ ನೃಪತೇಃ ಕಾರ್ಯಂ ನ ಕುರ್ಯಾದ್ಯಃ ಸಮಾಹಿತಃ ।  
 ಭೃತ್ಯೋ ಯುಕ್ತಃ ಸಮರ್ಥಶ್ಚ ತಮಾಹುಃ  ಪುರುಷಾಧಮಮ್ ॥
@@ -146,7 +146,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತನ್ನಿಯೋಗೇ ನಿಯುಕ್ತೇನ ಕೃತಂ ಕೃತ್ಯಂ ಹನೂಮತಾ ।  
 ನ ಚಾತ್ಮಾ ಲಘುತಾಂ ನೀತಃ ಸುಗ್ರೀವಶ್ಚಾಪಿ ತೋಷಿತಃ ॥
@@ -160,7 +160,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಹಂ ಚ ರಘುವಂಶಶ್ಚ ಲಕ್ಷ್ಮಣಶ್ಚ ಮಹಾಬಲಃ ।  
 ವೈದೇಹ್ಯಾ ದರ್ಶನೇನಾದ್ಯ ಧರ್ಮತಃ ಪರಿರಕ್ಷಿತಾಃ ॥
@@ -174,7 +174,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇದಂ ತು ಮಮ ದೀನಸ್ಯ ಮನೋ ಭೂಯಃ ಪ್ರಕರ್ಷತಿ ।  
 ಯದಿಹಾಸ್ಯ ಪ್ರಿಯಾಖ್ಯಾತುರ್ನ ಕುರ್ಮಿ ಸದೃಶಂ ಪ್ರಿಯಮ್ ॥
@@ -188,7 +188,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏಷ ಸರ್ವಸ್ವಭೂತಸ್ತು ಪರಿಷ್ವಂಗೋ ಹನೂಮತಃ ।  
 ಮಯಾ ಕಾಲಮಿಮಂ ಪ್ರಾಪ್ಯದತ್ತಸ್ತಸ್ಯ ಮಹಾತ್ಮನಃ ॥
@@ -202,7 +202,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇತ್ಯುಕ್ತ್ವಾ ಪ್ರೀತಿಹೃಷ್ಟಾಂಗೋ ರಾಮಸ್ತಂ ಪರಿಷಸ್ವಜೇ ।  
 ಹನೂಮಂತಂ ಕೃತಾತ್ಮಾನಂ ಕೃತಕಾರ್ಯಮುಪಾಗತಮ್ ॥
@@ -216,7 +216,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಧ್ಯಾತ್ವಾ ಪುನರುವಾಚೇದಂ ವಚನಂ ರಘುಸತ್ತಮಃ ।  
 ಹರೀಣಾಮೀಶ್ವರಸ್ಯಾಪಿ ಸುಗ್ರೀವಸ್ಯೋಪಶೃಣ್ವತಃ ॥
@@ -230,7 +230,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸರ್ವಥಾ ಸುಕೃತಂ ತಾವತ್ ಸೀತಾಯಾಃ ಪರಿಮಾರ್ಗಣಮ್ ।  
 ಸಾಗರಂ ತು ಸಮಾಸಾದ್ಯ ಪುನರ್ನಷ್ಟಂ ಮನೋ ಮಮ ॥
@@ -244,7 +244,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಥಂ ನಾಮ ಸಮುದ್ರಸ್ಯ ದುಷ್ಪಾರಸ್ಯ ಮಹಾಂಭಸಃ ।  
 ಹರಯೋ ದಕ್ಷಿಣಂ ಪಾರಂ ಗಮಿಷ್ಯಂತಿ ಸಮಾಗತಾಃ ॥
@@ -258,7 +258,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯದ್ಯಪ್ಯೇಷು ತು ವೃತ್ತಾಂತೋ ವೈದೇಹ್ಯಾ ಗದಿತೋ ಮಮ ।  
 ಸಮುದ್ರಪಾರಗಮನೇ ಹರಿಣಾಂ ಕಿಮಿವೋತ್ತರಮ್ ॥
@@ -272,7 +272,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇತ್ಯುಕ್ತ್ವಾ ಶೋಕಸಂಭ್ರಾಂತೋ ರಾಮಃ ಶತ್ರುನಿಬರ್ಹಣಃ ।  
 ಹನೂಮಂತಂ ಮಹಾಬಾಹುಸ್ತತೋ ಧ್ಯಾನಮುಪಾಗಮತ್ ॥

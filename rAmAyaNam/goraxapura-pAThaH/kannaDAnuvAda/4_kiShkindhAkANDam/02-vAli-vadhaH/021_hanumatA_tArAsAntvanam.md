@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತೋ ನಿಪತಿತಾಂ ತಾರಾಂ ಚ್ಯುತಾಂ ತಾರಾಮಿವಾಂಬರಾತ್ ।  
 ಶನೈರಾಶ್ವಾಸಯಾಮಾಸ  ಹನೂಮಾನ್ ಹರಿಯೂಥಪಃ ॥
@@ -33,7 +33,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಗುಣದೋಷಕೃತಂ ಜಂತುಃ ಸ್ವಕರ್ಮಫಲಹೇತುಕಮ್ ।  
 ಅವ್ಯಗ್ರಸ್ಯದವಾಪ್ನೋತಿ ಸರ್ವಂ ಪ್ರೇತ್ಯ ಶುಭಾಶುಭಮ್ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಶೋಚ್ಯಾ ಶೋಚಸಿ ಕಂ ಶೋಚ್ಯಂ ದೀನಂ ದೀನಾನುಕಂಪಸೇ ।  
 ಕಸ್ಯ ಕೋ ವಾ ನು ಶೋಚ್ಯೋಽಸ್ತಿ ದೇಹೇಽಸ್ಮಿನ್ ಬುದ್ಬುದೋಪಮೇ ॥
@@ -61,7 +61,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಂಗದಸ್ತು ಕುಮಾರೋಽಯಂ ದ್ರಷ್ಟವ್ಯೋ ಜೀವಪುತ್ರಯಾ ।  
 ಆಯತ್ಯಾಂ ಚ ವಿಧೇಯಾನಿ ಸಮರ್ಥಾನ್ಯಸ್ಯ ಚಿಂತಯ ॥
@@ -75,7 +75,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಜಾನಾಸ್ಯನಿಯತಾಮೇವಂ ಭೂತಾನಾಮಾಗತಿಂ ಗತಿಮ್ ।  
 ತಸ್ಮಾಚ್ಛುಭಂ ಹಿ ಕರ್ತವ್ಯಂ ಪಂಡಿತೇನೇಹ ಲೌಕಿಕಮ್ ॥
@@ -89,7 +89,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯಸ್ಮಿನ್ ಹರಿಸಹಸ್ರಾಣಿ ಶತಾನಿ ನಿಯುತಾನಿ ಚ ।  
 ವರ್ತಯಂತಿ ಕೃತಾಶಾನಿ ಸೋಽಯಂ ದಿಷ್ಟಾಂತಮಾಗತಃ ॥
@@ -103,7 +103,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಯದಯಂ ನ್ಯಾಯದೃಷ್ಟಾರ್ಥಃ ಸಾಮದಾನ ಕ್ಷಮಾಪರಃ ।  
 ಗತೋ ಧರ್ಮಜಿತಾಂ ಭೂಮಿಂ ನೈನಂ ಶೋಚಿತುಮರ್ಹಸಿ ॥
@@ -117,7 +117,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸರ್ವೇ ಚ ಹರಿಶಾರ್ದೂಲಾಃ ಪುತ್ರಶ್ಚಾಯಂ ತವಾಂಗದಃ ।  
 ಹರ್ಯೃಕ್ಷಪತಿರಾಜ್ಯಂ ಚ ತ್ವತ್ಸನಾಥಮನಿಂದಿತೇ ॥
@@ -131,7 +131,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಾವಿಮೌ ಶೋಕಸಂತಪ್ತೌ ಶನೈಃ ಪ್ರೇರಯ ಭಾಮಿನಿ ।  
 ತ್ವಯಾ ಪರಿಗೃಹೀತೋಽಯಮಂಗದಃ ಶಾಸ್ತು ಮೇದಿನೀಮ್ ॥
@@ -145,7 +145,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಂತತಿಶ್ಚ ಯಥಾ ದೃಷ್ಟಾ ಕೃತ್ಯಂ ಯಚ್ಚಾಪಿ ಸಾಂಪ್ರತಮ್ ।  
 ರಾಜ್ಞಸ್ತತ್ಕ್ರಿಯತಾಂ ಸರ್ವಮೇಷ ಕಾಲಸ್ಯ ನಿಶ್ಚಯಃ ॥
@@ -159,7 +159,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಂಸ್ಕಾರ್ಯೋ ಹರಿರಾಜಸ್ತು ಅಂಗದಶ್ಚಾಭಿಷಿಚ್ಯತಾಮ್ ।  
 ಸಿಂಹಾಸನಗತಂ ಪುತ್ರಂ ಪಶ್ಯಂತೀ ಶಾಂತಿಮೇಷ್ಯಸಿ ॥
@@ -173,7 +173,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸಾ ತಸ್ಯ ವಚನಂ ಶ್ರುತ್ವಾ ಭರ್ತೃವ್ಯಸನಪೀಡಿತಾ ।  
 ಅಬ್ರವೀದುತ್ತರಂ ತಾರಾ ಹನುಮಂತಮವಸ್ಥಿತಮ್ ॥
@@ -187,7 +187,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಂಗದಪ್ರತಿರೂಪಾಣಾಂ ಪುತ್ರಾಣಾಮೇಕತಃ ಶತಮ್ ।  
 ಹತಸ್ಯಾಪ್ಯಸ್ಯ ವೀರಸ್ಯ ಗಾತ್ರಸಂಶ್ಲೇಷಣಂ ವರಮ್ ॥
@@ -201,7 +201,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನ ಚಾಹಂ ಹರಿರಾಜಸ್ಯ ಪ್ರಭವಾಮ್ಯಂಗದಸ್ಯ ವಾ ।  
 ಪಿತೃವ್ಯಸ್ತಸ್ಯ ಸುಗ್ರೀವಃ ಸರ್ವಕಾರ್ಯೇಷ್ವನಂತರಃ ॥
@@ -215,7 +215,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನ ಹ್ಯೇಷಾ ಬುದ್ಧಿರಾಸ್ಥೇಯಾ ಹನುಮನ್ನಂಗದಂ ಪ್ರತಿ ।  
 ಪಿತಾ ಹಿ ಬಂಧುಃ ಪುತ್ರಸ್ಯ ನ ಮಾತಾ ಹರಿಸತ್ತಮ ॥
@@ -229,7 +229,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನ ಹಿ ಮಮ ಹರಿರಾಜಸಂಶ್ರಯಾತ್  
 ಕ್ಷತ್ಕ್ಷಮತರಮಸ್ತಿ ಪರತ್ರ ಚೇಹ ವಾ ।  

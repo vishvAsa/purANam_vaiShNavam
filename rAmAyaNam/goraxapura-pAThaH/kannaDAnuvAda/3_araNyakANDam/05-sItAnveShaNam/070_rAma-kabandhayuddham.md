@@ -16,7 +16,7 @@ unicode_script = "kannada"
 ಶ್ರೀರಾಮ-ಲಕ್ಷ್ಮಣರು ಪರಸ್ಪರ ವಿಚಾರಮಾಡಿ ಕಬಂಧನ ಎರಡೂ ಭುಜಗಳನ್ನು ಕತ್ತರಿಸಿಬಿಡುವುದು, ಕಬಂಧನು ಅವರನ್ನು ಸ್ವಾಗತಿಸಿದುದು
 </details>
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 (ಶ್ಲೋಕ - 1)  
 ತೌ ತು ತತ್ರ ಸ್ಥಿತೌ ದೃಷ್ಟ್ವಾ ಭ್ರಾತರೌ ರಾಮಲಕ್ಷ್ಮಣೌ ।  
@@ -31,7 +31,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಿಷ್ಠತಃ ಕಿಂ ನು ಮಾಂ ದೃಷ್ಟ್ವಾ ಕ್ಷುಧಾರ್ತಂ ಕ್ಷತ್ರಿಯರ್ಷಭೌ ।  
 ಆಹಾರಾರ್ಥಂ ತು ಸಂದಿಷ್ಟೌ ದೈವೇನ ಹತಚೇತನೌ ॥
@@ -45,7 +45,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಚ್ಛ್ರುತ್ವಾ ಲಕ್ಷ್ಮಣೋ ವಾಕ್ಯಂ ಪ್ರಾಪ್ತಕಾಲಂ ಹಿತಂ ತದಾ ।  
 ಉವಾಚಾರ್ತಿಸಮಾಪನ್ನೋ ವಿಕ್ರಮೇ ಕೃತನಿಶ್ಚಯಃ ॥
@@ -59,7 +59,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತ್ವಾಂ ಚ ಮಾಂ ಚ ಪುರಾ ತೂರ್ಣಮಾದತ್ತೇ ರಾಕ್ಷಸಾಧಮಃ ।  
 ತಸ್ಮಾದಸಿಭ್ಯಾಮಸ್ಯಾಶು ಬಾಹೂ ಛಿಂದಾವಹೈ ಗುರೂ ॥
@@ -73,7 +73,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಭೀಷಣೋಽಯಂ ಮಹಾಕಾಯೋ ರಾಕ್ಷಸೋ ಭುಜವಿಕ್ರಮಃ ।  
 ಲೋಕಂ ಹ್ಯತಿಜಿತಂ ಕೃತ್ವಾ ಹ್ಯಾವಾಂ ಹಂತುಮಿಹೇಚ್ಛತಿ ॥
@@ -87,7 +87,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಿಶ್ಚೇಷ್ಪಾನಾಂ ವಧೋ ರಾಜನ್ಕುತ್ಸಿತೋ ಜಗತೀಪತೇಃ ।  
 ಕ್ರತುಮಧ್ಯೋಪನೀತಾನಾಂ ಪಶೂನಾಮಿವ ರಾಘವ ॥
@@ -101,7 +101,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏತತ್ಸಂಜಲ್ಪಿತಂ ಶ್ರುತ್ವಾ ತಯೋಃ ಕ್ರುದ್ಧಸ್ತು ರಾಕ್ಷಸಃ ।  
 ವಿದಾರ್ಯಾಸ್ಯಂ ತದಾ ರೌದ್ರಂ ತೌಭಕ್ಷಯಿತುಮಾರಭತ್ ॥
@@ -115,7 +115,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತತಸ್ತೌ ದೇಶಕಾಲಜ್ಞೌ ಖಡ್ಗಾಭ್ಯಾಮೇವ ರಾಘವೌ ।  
 ಅಚ್ಛಿಂದತಾಂ ಸುಸಂಹೃಷ್ಟೌ ಬಾಹೂ ತಸ್ಯಾಂಸದೇಶತಃ ॥
@@ -129,7 +129,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ದಕ್ಷಿಣೋ ದಕ್ಷಿಣಂ ಬಾಹುಮಸಕ್ತಮಸಿನಾ ತತಃ ।  
 ಚಿಚ್ಛೇದ ರಾಮೋ ವೇಗೇನ ಸವ್ಯಂ ವೀರಸ್ತು ಲಕ್ಷ್ಮಣಃ ॥
@@ -143,7 +143,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ಪಪಾತ ಮಹಾಬಾಹುಶ್ಛಿನ್ನಬಾಹುರ್ಮಹಾಸ್ವನಃ ।  
 ಖಂ ಚ ಗಾಂ ಚ ದಿಶಶ್ಚೈವ ನಾದಯನ್ಜಲದೋ ಯಥಾ ॥
@@ -157,7 +157,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ ನಿಕೃತ್ತೌ ಭುಜೌ ದೃಷ್ಟ್ವಾಶೋಣಿತೌಪರಿಪ್ಲುತಃ ।  
 ದೀನಃ ಪಪ್ರಚ್ಛ ತೌ ವೀರೌ ಕೌ ಯುವಾಮಿತಿ ದಾನವಃ ॥
@@ -171,7 +171,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಇತಿ ತಸ್ಯ ಬ್ರುವಾಣಸ್ಯ ಲಕ್ಷ್ಮಣಃ ಶುಭಲಕ್ಷಣಃ ।  
 ಶಶಂಸ ತಸ್ಯ ಕಾಕುತ್ಸ್ಥಂ ಕಬಂಧಸ್ಯ ಮಹಾಬಲಃ ॥
@@ -185,7 +185,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಯಮಿಕ್ಷ್ವಾಕುದಾಯಾದೋ ರಾಮೋ ನಾಮ ಜನೈಃ ಶ್ರುತಃ ।  
 ತಸ್ಮೈವಾವರಜಂ ವಿದ್ಧಿ ಭ್ರಾತರಂ ಮಾಂ ಚ ಲಕ್ಷ್ಮಣಮ್ ॥
@@ -199,7 +199,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಮಾತ್ರಾ ಪ್ರತಿಹತೇ ರಾಜ್ಯೇ ರಾಮಃ ಪ್ರವ್ರಾಜಿತೋ ವನಮ್ ।  
 ಮಯಾ ಸಹ ಚರತ್ಯೇಷ ಭಾರ್ಯಯಾ ಚ ಮಹದ್ವನಮ್ ॥
@@ -208,7 +208,7 @@ unicode_script = "kannada"
 ###### 15
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಸ್ಯ ದೇವಪ್ರಭಾವಸ್ಯ ವಸತೋ ವಿಜನೇ ವನೇ ।  
 ರಾಕ್ಷಸಾಪಹೃತಾ ಭಾರ್ಯಾ ಯಾಮಿಚ್ಛಂತಾ ವಿಹಾಗತೌ ॥
@@ -222,7 +222,7 @@ unicode_script = "kannada"
 ###### 16
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತ್ವಂ ತು ಕೋ ವಾ ಕಿಮರ್ಥಂ ವಾ ಕಬಂಧಸದೃಶೋ ವನೇ ।  
 ಆಸ್ಯೇನೋರಸಿದೀಪ್ತೇನ  ಭಗ್ನಜಂಘೋ ವಿಚೇಷ್ಟಸೇ ॥
@@ -236,7 +236,7 @@ unicode_script = "kannada"
 ###### 17
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಏವಮುಕ್ತಃ ಕಬಂಧಸ್ತು ಲಕ್ಷ್ಮಣೇನೋತ್ತರಂ ವಚಃ ।  
 ಉವಾಚ ವಚನಂ ಪ್ರೀತಸ್ತದಿಂದ್ರವಚನಂ ಸ್ಮರನ್ ॥
@@ -250,7 +250,7 @@ unicode_script = "kannada"
 ###### 18
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸ್ವಾಗತಂ ವಾಂ ನರವ್ಯಾಘ್ರೌ ದಿಷ್ಟ್ಯಾ ಪಶ್ಯಾಮಿ ವಾಮಹಮ್ ।  
 ದಿಷ್ಟ್ಯಾ ಚೇವೌ ನಿಕೃತ್ತೌ ಮೇ ಯುವಾಭ್ಯಾಂ ಬಾಹುಬಂಧನೌ ॥
@@ -264,7 +264,7 @@ unicode_script = "kannada"
 ###### 19
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿರೂಪಂ ಯಚ್ಚ ಮೇ ರೂಪಂ ಪ್ರಾಪ್ತಂ ಹ್ಯವಿನಯಾದ್ಯಥಾ ।  
 ತನ್ಮೇ ಶೃಣು ನರವ್ಯಾಘ್ರ  ತತ್ತ್ವತಃ  ಶಂಸತಸ್ತವ ॥

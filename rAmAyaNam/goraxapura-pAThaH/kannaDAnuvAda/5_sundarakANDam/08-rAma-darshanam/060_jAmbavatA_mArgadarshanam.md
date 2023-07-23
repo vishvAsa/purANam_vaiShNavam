@@ -19,7 +19,7 @@ unicode_script = "kannada"
 ###### 1
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಯ ತದ್ವಚನಂ ಶ್ರುತ್ವಾ ವಾಲಿಸೂನುರಭಾಷತ ।  
 ಅಯುಕ್ತಂ ತು ವಿನಾ ದೇವೀಂ ದೃಷ್ಟವದ್ಭಿಶ್ಚ ವಾನರಾಃ ॥
@@ -28,7 +28,7 @@ unicode_script = "kannada"
 ###### 2
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಸವಿಾಪಂ ಗಂತುಮಸ್ಮಾಭೀ ರಾಘವಸ್ಯ ಮಹಾತ್ಮನಃ ।  
 ವಾಯುಸೂನೋರ್ಬಲೇನೈನ ದಗ್ಧಾ ಲಂಕೇತಿ ನಃ ಶ್ರುತಮ್ ।  
@@ -38,7 +38,7 @@ unicode_script = "kannada"
 ###### 3
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಅಯುಕ್ತಮಿವ ಪಶ್ಯಾಮಿ ಭವದ್ಭಿಃ ಖ್ಯಾತವಿಕ್ರಮೈಃ ।  
 ನ ಹಿ ನಃ ಪ್ಲವನೇ ಕಶ್ಚಿನ್ನಾಪಿ ಕಶ್ಚಿತ್ ಪರಾಕ್ರಮೇ ॥
@@ -47,7 +47,7 @@ unicode_script = "kannada"
 ###### 4
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತುಲ್ಯಃ ಸಾಮರದೈತ್ಯೇಷು ಲೋಕೇಷು ಹರಿಸತ್ತಮಾಃ ।  
 ತೇಷ್ವೇವಂ ಹತವೀರೇಷು ರಾಕ್ಷಸೇಷು ಹನೂಮತಾ ॥
@@ -56,7 +56,7 @@ unicode_script = "kannada"
 ###### 5
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಿಮನ್ಯದತ್ರ ಕರ್ತವ್ಯಂ ಗೃಹಿತ್ವಾ ಯಾಮ ಜಾನಕೀಮ್ ।  
 ರಾಮಲಕ್ಷ್ಮಣಯೋರ್ಮಧ್ಯೇ ನ್ಯಸ್ಯಾಮ ಜನಕಾತ್ಮಜಾಮ್ ॥
@@ -70,7 +70,7 @@ unicode_script = "kannada"
 ###### 6
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಿಂ ವ್ಯಲೀಕೈಸ್ತು ತಾನ್ ಸರ್ವಾನ್ ವಾನರಾನ್ ವಾನರರ್ಷಭಾನ್ ।  
 ವಯಮೇವ ಹಿ ಗತ್ವಾ ತಾನ್ ಹತ್ವಾ ರಾಕ್ಷಸಪುಂಗವಾನ್ ।  
@@ -85,7 +85,7 @@ unicode_script = "kannada"
 ###### 7
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಮೇವಂ ಕೃತಸಂಕಲ್ಪಂ ಜಾಂಬವಾನ್ ಹರಿಸತ್ತಮಃ ।  
 ಉವಾಚ ಪರಮಪ್ರೀತೋ ವಾಕ್ಯಮರ್ಥವದರ್ಥವಿತ್ ॥
@@ -99,7 +99,7 @@ unicode_script = "kannada"
 ###### 8
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನೈಷಾ ಬುದ್ಧಿರ್ಮಹಾಬುದ್ಧೇ ಯದ್ಬ್ರವೀಷಿ ಮಹಾಕಪೇ ।  
 ವಿಚೇತುಂ ವಯಮಾಜ್ಞಪ್ತಾ ದಕ್ಷಿಣಾಂ ದಿಶಮುತ್ತಮಾಮ್ ॥
@@ -108,7 +108,7 @@ unicode_script = "kannada"
 ###### 9
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನಾನೇತುಂ ಕಪಿರಾಜೇನ ನೈವ ರಾಮೇಣ ಧೀಮತಾ ॥
 </details>
@@ -116,7 +116,7 @@ unicode_script = "kannada"
 ###### 10
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಕಥಂಚಿನ್ನಿರ್ಜಿತಾಂ ಸೀತಾಮಸ್ಮಾಭಿರ್ನಾಭಿರೋಚಯೇತ್ ।  
 ರಾಘವೋ ನೃಪಶಾರ್ದೂಲಃ ಕುಲಂ ವ್ಯಪದಿಶನ್ ಸ್ವಕಮ್ ॥
@@ -130,7 +130,7 @@ unicode_script = "kannada"
 ###### 11
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ಪ್ರತಿಜ್ಞಾಯು ಸ್ವಯಂ ರಾಜಾ ಸೀತಾವಿಜಯಮಗ್ರತಃ ।  
 ಸರ್ವೇಷಾಂ ಕಪಿಮುಖ್ಯಾನಾಂ ಕಥಂ ಮಿಥ್ಯಾ ಕರಿಷ್ಯತಿ ॥
@@ -139,7 +139,7 @@ unicode_script = "kannada"
 ###### 12
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ವಿಲಂ ಕರ್ಮ ಚ ಕೃತಂ ಭವೇತ್ತುಷ್ಟಿರ್ನ ತಸ್ಯ ಚ ।  
 ವೃಥಾ ಚ ದರ್ಶಿತಂ ವೀರ್ಯಂ ಭವೇದ್ವಾನರಪುಂಗವಾಃ ॥
@@ -153,7 +153,7 @@ unicode_script = "kannada"
 ###### 13
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ತಸ್ಮಾದ್ಗಚ್ಛಾಮ ವೈ ಸರ್ವೇ ಯತ್ರ ರಾಮಃ ಸಲಕ್ಷ್ಮಣಃ ।  
 ಸುಗ್ರೀವಶ್ಚ ಮಹಾತೇಜಾಃ ಕಾರ್ಯಸ್ಯಾಸ್ಯ ನಿವೇದನೇ ॥
@@ -167,7 +167,7 @@ unicode_script = "kannada"
 ###### 14
 
 
-<details><summary>ಮೂಲಮ್</summary>
+<details open><summary>ಮೂಲಮ್</summary>
 
 ನ ತಾವದೇಷಾ ಮತಿರಕ್ಷಮಾ ನೋ  
 ಯಥಾ ಭವಾನ್ ಪಶ್ಯತಿ ರಾಜಪುತ್ರ ।  
@@ -180,7 +180,7 @@ unicode_script = "kannada"
 ರಾಜಪುತ್ರ ಅಂಗದನೇ! ನಿನ್ನ ವಿಚಾರವು ನಿನ್ನ ದೃಷ್ಟಿಗೆ ಮತ್ತು ನಿನ್ನ ಪರಾಕ್ರಮಕ್ಕೆ ಇವೆಲ್ಲವೂ ಯೋಗ್ಯವೇ ಆಗಿದೆ. ಇದೆಲ್ಲವನ್ನು ನಾವು ಅನುಸರಿಸಬಾರದೆಂದೆನೂ ಇಲ್ಲ. ಆದರೆ ಶ್ರೀರಾಮನ ಅಭಿಪ್ರಾಯಕ್ಕನುಸಾರವಾಗಿ ನಾವು ಕಾರ್ಯಸಿದ್ಧಿಗಾಗಿ ಪ್ರಯತ್ನಿಸುವುದು ಯುಕ್ತವಾಗಿದೆ. ಅವನಿಗೆ ಸಂತೋಷವಾಗುವಂತೆ ನಡೆಯುವುದೇ ನಮಗೆಲ್ಲರಿಗೆ ಕರ್ತವ್ಯವಾಗಿದೆ.॥14॥
 </details>
 
-<details><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
+<details open><summary>ಮೂಲಮ್ (ಸಮಾಪ್ತಿಃ)</summary>
 
 ಇತ್ಯಾರ್ಷೇ ಶ್ರೀಮದ್ರಾಮಾಯಣೇ ವಾಲ್ಮೀಕೀಯೇ ಆದಿಕಾವ್ಯೇ ಸುಂದರಕಾಂಡೇ ಷಷ್ಠಿತಮಃ ಸರ್ಗಃ ॥ 60 ॥
 </details>
