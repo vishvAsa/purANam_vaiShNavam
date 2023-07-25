@@ -8,13 +8,6 @@ title = "05 क्लेशोऽधिकतरस्तेषामव्य�
 'Untainted, he attains supreme eality' (Mun. U., 3.1.3). Likewise He will declare the Supreme Brahman as being distinct from the freed self
 which is without modification and is denoted by the term 'Imperishable'
 (Aksara), and is described as unchanging (Kutastha). 'The Highest Person
-is other than this Imperishable' (15.16 - 17). But in the teaching in
-Aksara-vidya 'Now that higher science by which that Aksara is known'
+is other than this Imperishable' (15.16 - 17). But in the teaching in Aksara-vidya 'Now that higher science by which that Aksara is known'
 (Mun. U., 1.5) the entity that is designated by the term Aksara is
-Supreme Brahman Himself; for He is the source of all beings, etc.
-Greater is the difficulty of those whose minds are attached to the
-unmanifest. The path of the unmanifest is a psychosis of the mind with
-the unmanifest as its object. It is accomplished with difficulty by
-embodied beings, who have misconceived the body as the self. For,
-embodied beings mistake the body for the self. The superiority of those
-who adore the Supreme Being is now stated clearly:
+Supreme Brahman Himself; for He is the source of all beings, etc. Greater is the difficulty of those whose minds are attached to the unmanifest. The path of the unmanifest is a psychosis of the mind with the unmanifest as its object. It is accomplished with difficulty by embodied beings, who have misconceived the body as the self. For, embodied beings mistake the body for the self. The superiority of those who adore the Supreme Being is now stated clearly:

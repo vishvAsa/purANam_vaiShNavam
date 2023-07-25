@@ -8,9 +8,4 @@ pleasure and pain) due to the inevitable contact of sense-objects. He is
 'content', namely, satisfied with whatever chance may bring him for the sustenance of his body. He 'ever meditates,' i.e., is constantly intent
 on contemplating on the self as separate from the body. He is
 'self-restrained', namely, he controls the activities of his mind. He is
-of 'firm conviction' regarding the meanings taught in the science of the
-self. His 'mind and reason are dedicated to Me' i.e., his mind and
-reason are dedicated to Me in the form 'Bhagavan Vasudeva alone is
-propitiated by disinterested activities, and when duly propitiated, He
-wil bring about for me the direct vision of the self.' Such a devotee of
-mine, i.e., who works in this manner as a Karma Yogin, is dear to Me.
+of 'firm conviction' regarding the meanings taught in the science of the self. His 'mind and reason are dedicated to Me' i.e., his mind and reason are dedicated to Me in the form 'Bhagavan Vasudeva alone is propitiated by disinterested activities, and when duly propitiated, He wil bring about for me the direct vision of the self.' Such a devotee of mine, i.e., who works in this manner as a Karma Yogin, is dear to Me.
