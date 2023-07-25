@@ -23,7 +23,7 @@ free of sins, having auspicious attributes etc., and creating My own
 form similar to the configuration of gods, men etc., I incarnate in the
 form of gods etc. The Sruti teaches the same thing: 'Being unborn, He is
 born in various forms' (Tai. A., 3.12.7). The purport is that His birth
-is ite unlike that of ordinary beings. The dissimilarity consists in
+is quite unlike that of ordinary beings. The dissimilarity consists in
 that He is born out of His own will unlike ordinary beings whose birth
 is necessitated by their Karma. Thus constured, there is no
 contradiction also between what was taught earlier and what is taught
