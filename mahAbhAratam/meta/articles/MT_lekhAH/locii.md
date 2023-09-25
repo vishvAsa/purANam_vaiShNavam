@@ -42,5 +42,4 @@ The pulinda was another HG group (core "AASI (what ridiculous term!) type ancest
 
 The later invasive groups yavana-s, shaka-s, & more distant people hUNa & chIna-s, typically mentioned together appear to be a later layer of reference after the core was composed. 
 
-The dominance of northern groups
-yavana-s, shaka-s, darada-s, pahlava, tukhara-s as a totality as opposed to southern groups, like drAviDa-s, andhra-s etc favors a northern locale for even this late layer.
+The dominance of northern groups - yavana-s, shaka-s, darada-s, pahlava, tukhara-s as a totality as opposed to southern groups, like drAviDa-s, andhra-s etc favors a northern locale for even this late layer.
