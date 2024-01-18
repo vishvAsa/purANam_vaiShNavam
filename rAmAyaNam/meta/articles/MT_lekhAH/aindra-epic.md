@@ -2,7 +2,11 @@
 title = "ऐन्द्रता"
 +++
 
-The below comments by the revered mAnasatarangiNIkAra throw light on the connection between niyoga and ashvamedha – with particular reference to the birth of rAma. Also note ancillary remarks about how the epics can be interpreted as mirrors of the shruti; and how besides that, they must be read at many levels. And note the (very credible) theory that the current rAmAyaNa is a vaiShNava recasting of an aindra epic.
+<details><summary>विश्वास-टिप्पनी</summary>
+
+The below comments by mAnasatarangiNIkAra throw light on the connection between niyoga and ashvamedha – with particular reference to the birth of rAma. Also note ancillary remarks about how the epics can be interpreted as mirrors of the shruti; and how besides that, they must be read at many levels. And note the (very credible) theory that the current rAmAyaNa is a vaiShNava recasting of an aindra epic.
+</details>
+
 
 ## Employment of ashvamedha for fertility
 See it would need a long explanation to bring all the meta-points which I am not feeling inclined to now — it is something one could write a whole essay about but hardly my priority of things to write. but key points are it is clear from bAlakANDa
