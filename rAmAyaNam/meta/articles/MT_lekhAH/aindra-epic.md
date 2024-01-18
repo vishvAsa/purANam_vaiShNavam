@@ -2,6 +2,8 @@
 title = "ऐन्द्रता"
 +++
 
+Source: MT
+
 <details><summary>विश्वास-टिप्पनी</summary>
 
 The below comments by mAnasatarangiNIkAra throw light on the connection between niyoga and ashvamedha – with particular reference to the birth of rAma. Also note ancillary remarks about how the epics can be interpreted as mirrors of the shruti; and how besides that, they must be read at many levels. And note the (very credible) theory that the current rAmAyaNa is a vaiShNava recasting of an aindra epic.
