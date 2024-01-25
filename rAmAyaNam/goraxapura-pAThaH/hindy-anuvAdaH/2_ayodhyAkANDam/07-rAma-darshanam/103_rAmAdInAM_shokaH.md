@@ -688,8 +688,10 @@ title_english = "103 Rama fainted away after hearing the news of his father s de
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-विगर्हमाणः कैकेयीं मन्थरासहितामपि।  
-अभिगम्य जनो रामं बाष्पपूर्णमुखोऽभवत्॥ ४६॥
+**विगर्हमाणः** कैकेयीं  
+मन्थरा-सहिताम् अपि।  
+अभिगम्य जनो रामं  
+बाष्प-पूर्ण-मुखो **ऽभवत्**॥ ४६॥
 </details>
 
 <details><summary>मूलम्</summary>

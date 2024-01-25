@@ -451,8 +451,10 @@ title_english = "111 Vashishta urges Rama to grant the prayer of Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-उपाधिर्न मया कार्यो वनवासे जुगुप्सितः।  
-युक्तमुक्तं च कैकेय्या पित्रा मे सुकृतं कृतम्॥ २९॥
+**उपाधिर्** न मया कार्यो  
+वन-वासे **जुगुप्सितः**।  
+**युक्तम् उक्तं** च कैकेय्या  
+पित्रा मे **सुकृतं कृतम्**॥ २९॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -468,8 +470,10 @@ title_english = "111 Vashishta urges Rama to grant the prayer of Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-जानामि भरतं क्षान्तं गुरुसत्कारकारिणम्।  
-सर्वमेवात्र कल्याणं सत्यसन्धे महात्मनि॥ ३०॥
+जानामि भरतं क्षान्तं  
+गुरुसत्कार-कारिणम्।  
+सर्वम् एवात्र कल्याणं  
+सत्य-सन्धे महात्मनि॥ ३०॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -502,8 +506,10 @@ title_english = "111 Vashishta urges Rama to grant the prayer of Bharata"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-वृतो राजा हि कैकेय्या मया तद्वचनं कृतम्।  
-अनृतान्मोचयानेन पितरं तं महीपतिम्॥ ३२॥
+वृतो राजा हि कैकेय्या  
+मया तद्वचनं कृतम्।  
+अनृतान् मोचयानेन  
+पितरं तं महीपतिम्॥ ३२॥
 </details>
 
 <details><summary>मूलम्</summary>

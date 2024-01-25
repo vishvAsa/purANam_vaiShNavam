@@ -291,8 +291,10 @@ title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-अहमेको गमिष्यामि सीतया सह दण्डकान्।  
-अनाथाया हि नाथस्त्वं कौसल्याया भविष्यसि॥ १७॥
+अहम् एको गमिष्यामि  
+सीतया सह दण्डकान्।  
+अनाथाया हि नाथस् त्वं  
+कौसल्याया **भविष्यसि**॥ १७॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -308,8 +310,10 @@ title_english = "053 Rama tries to send Lakshmana back to Ayodhya"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-क्षुद्रकर्मा हि कैकेयी द्वेषादन्यायमाचरेत्।  
-परिदद्याद्धि धर्मज्ञ गरं ते मम मातरम्॥ १८॥
+क्षुद्रकर्मा हि कैकेयी  
+द्वेषाद् **अन्यायम् आचरेत्**।  
+**परिदद्याद्**+धि धर्मज्ञ  
+**गरं** ते मम मातरम्॥ १८॥
 </details>
 
 <details><summary>मूलम्</summary>
