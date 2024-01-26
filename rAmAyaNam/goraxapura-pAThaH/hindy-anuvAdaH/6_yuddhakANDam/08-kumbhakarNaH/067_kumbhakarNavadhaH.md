@@ -2957,10 +2957,18 @@ title_english = "067 Kumbhakarna was slain in battle"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स सायको राघवबाहुचोदितो  
-दिशःस्वभासा दश सम्प्रकाशयन्।  
-विधूमवैश्वानरभीमदर्शनो  
-जगाम शक्राशनिभीमविक्रमः॥ १६७॥
+स सायको राघव-बाहु-**चोदितो**  
+दिशः स्वभासा दश **सम्प्रकाशयन्**।  
+विधूम-वैश्वानर-**भीम-दर्शनो**  
+**जगाम** शक्राशनिभीम-विक्रमः॥ १६७॥
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+That missile impelled by the rAghava's arm,   
+illuminating the 10 quarters with its own blaze,  
+appearing like a flash of smokeless fire,  
+proceeded with energy equal to shakra's thunderbolt
 </details>
 
 <details><summary>मूलम्</summary>
@@ -2971,6 +2979,7 @@ title_english = "067 Kumbhakarna was slain in battle"
 जगाम शक्राशनिभीमविक्रमः॥ १६७॥
 </details>
 
+
 <details><summary>अनुवाद (हिन्दी)</summary>
 
 श्रीरघुनाथजीकी भुजाओंसे प्रेरित होकर वह बाण अपनी प्रभासे दसों दिशाओंको प्रकाशित करता हुआ इन्द्रके वज्रकी भाँति भयंकर वेगसे चला। वह धूमरहित अग्निके समान भयानक दिखायी देता था॥ १६७॥
@@ -2978,10 +2987,18 @@ title_english = "067 Kumbhakarna was slain in battle"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-स तन्महापर्वतकूटसन्निभं  
-सुवृत्तदंष्ट्रं चलचारुकुण्डलम्।  
-चकर्त रक्षोऽधिपतेः शिरस्तदा  
+स तन् महा-पर्वत-कूट-सन्निभं  
+सुवृत्त-दंष्ट्रं चल-चारु-कुण्डलम्।  
+**चकर्त** रक्षोऽधिपतेः शिरस् तदा  
 यथैव वृत्रस्य पुरा पुरन्दरः॥ १६८॥
+</details>
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+He then cut down the head of the rakSha-lord
+resembling the peak of a great mountain
+with curved fangs and dangling handsome earrings,
+as purandara had formerly cut off vR^itra's head
 </details>
 
 <details><summary>मूलम्</summary>
