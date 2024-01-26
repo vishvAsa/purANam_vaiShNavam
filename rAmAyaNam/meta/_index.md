@@ -24,5 +24,5 @@ In his article Govindarāja (Annals of the Bhandarkar Oriental Research Institut
 >
 > he has said that sargas 2 to 4 of the Bālakāṇda may have been composed by a disciple of Vālmīki in the name of Vālmīki (यद्वा सर्गत्रयमिदं केनचिद्वाल्मीकीशिष्येण रामायणनिवृत्त्यन्तरं निर्माय वैभवप्रकटनाय सङ्गमितम्, start of commentary of sarga 5) and he has categorically said that five sargas in Kiṣkindhākāṇḍa to be interpolations (ततस्तदमृतास्वादमित्यारभ्य पञ्च सर्गाः प्रक्षिप्ताः सर्वकोषेष्वदर्शनात्तान् विनापि कथासंघट्टनात्पूर्वोक्तार्थविरोधस्फोरकत्वाच्च, तथापि ते व्याख्यास्यन्ते). 
 
-## उत्तरकाण्डः
+### उत्तरकाण्डः
 - [YT summary - favoring vAlmIki composition](https://www.youtube.com/watch?v=pREAeOHZQMU).
