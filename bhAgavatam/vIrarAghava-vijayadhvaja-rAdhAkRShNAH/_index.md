@@ -1,4 +1,6 @@
 +++
 title = "+वीरराघव-विजयध्वज-राधाकृष्णाः"
 +++
-Source: [TW](https://archive.org/details/Bhagavata_Purana_With_Multiple_Commentaries_TTD_Critical_Edition/Srimad%20Bhagavata%20Mahapuranam%20Skandha%2001/page/164/mode/1up)
+Source: [TW](https://archive.org/details/bhagavatam-multi-commentary/)
+
+Source: [TW](https://archive.org/details/@hari_parshad_das?query=canto+11)
