@@ -2,7 +2,7 @@
 title = "श्रीस्तवः"
 
 +++
-<div class="js_include" url="/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/vyakti-shlokAdi/kUresha-shrIvatsAnka-mishraH/shrIvatsAnkamishrebhyaH.md" newLevelForH1="5" includeTitle="false"> 
+<div class="js_include" url="/rAmAnujIyam/vyakti-shlokAdi/kUresha-shrIvatsAnka-mishraH/shrIvatsAnkamishrebhyaH.md" newLevelForH1="5" includeTitle="false"> 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (श्रीवत्स-चिह्नमिश्रेभ्यो  
