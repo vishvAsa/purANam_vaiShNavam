@@ -2,6 +2,13 @@
 title = "मुकुन्द-माला"
 +++
 
+<details><summary>कर्तृत्वम् (द्रष्टुं नोद्यम्)</summary>
+
+No citation from it prior to the 14th century.  
+Unlikely to be the work of kulashekhara ALvAr. 
+</details>
+
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 (घुष्यते यस्य नगरे रङ्गयात्रा दिनेदिने ।  
