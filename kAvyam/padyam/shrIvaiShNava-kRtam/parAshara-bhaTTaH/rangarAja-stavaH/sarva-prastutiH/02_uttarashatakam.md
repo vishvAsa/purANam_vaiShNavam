@@ -80,8 +80,10 @@ title = "०२ उत्तरशतकम्"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-न सदसदुभयं वा नोभयस्माद्बहिर्वा जगदिति न किलैकां कोटिमाटीकते तत् ।  
-इति निरुपधि सर्वंसर्विकातो निषेधन् वरद ! सुगतपाशश्चोरलावं विलाव्यः ॥ ६ ॥
+न सद् अ-सद् उभयं वा नोभयस्माद् बहिर् वा  
+जगद् इति न किलैकां कोटिम् **आटीकते** तत् ।  
+इति निर्-उपधि सर्वं-सर्विकातो **निषेधन्**  
+वरद ! सुगत-पाशश् चोर-लावं **विलाव्यः** ॥ ६ ॥
 </details>
 
 <details><summary>मूलम्</summary>
@@ -89,6 +91,12 @@ title = "०२ उत्तरशतकम्"
 न सदसदुभयं वा नोभयस्माद्बहिर्वा जगदिति न किलैकां कोटिमाटीकते तत् ।  
 इति निरुपधि सर्वंसर्विकातो निषेधन् वरद ! सुगतपाशश्चोरलावं विलाव्यः ॥ ६ ॥
 </details>
+
+<details><summary>English - राजारामज-शङ्करः</summary>
+
+The world is not existent; nor is it non-existent; nor is it simultaneously both; nor is it beyond existence and non-existence. It also does not align with any of the (above 4) positions" - Thus, O Varada, he negates everything wholesale. He, Sugata, must be chopped to pieces like a thief.
+</details>
+
 
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
