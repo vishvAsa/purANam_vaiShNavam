@@ -1160,10 +1160,36 @@ The world is not existent; nor is it non-existent; nor is it simultaneously both
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "**उपादत्ते** सत्ता-स्थिति-नियमनाद्यैश् चिद्-अचितौ  
-स्वम् उद्दिश्य श्रीमान्" इति वदति वाग् औपनिषदी ।  
+स्वम् **उद्दिश्य** श्रीमान्" इति वदति वाग् औपनिषदी ।  
 उपायोपेयत्वे तद् इह तव तत्त्वं न तु गुणौ  
-अतस् त्वां श्रीरङ्गे-शय ! शरणम् अव्याजम् अभजम् ॥ ८७ ॥
+अतस् त्वां श्रीरङ्गे-शय ! शरणम् अ-व्याजम् **अभजम्** ॥ ८७ ॥+++(5)+++
 </details>
+
+<details><summary>राजगोपालः - English</summary>
+
+"The Upaniṣads state that  
+the Lord of Śrī creates, maintains, controls and does such other things  
+in regard to sentient and non-sentient things,  
+only for His own sake.  
+It is therefore, O, Lord of Śrīraṅga,  
+Thy nature to be the means of salvation (upāya ) for the jīva  
+and also the object of attainment.  
+Therefore I seek Thee as my upāya without any thought of my own interests."
+</details>
+
+<details><summary>Español</summary>
+
+"Los Upaniṣads **indican** que  
+El Señor de Śrī **crea, mantiene, controla** y **hace** otras cosas  
+con respecto a las cosas sensibles y no sensibles,  
+Solo por su propio bien.  
+Por lo tanto, O, Señor de śrīraṅga,  
+Tu naturaleza **es** el medio de **salvación** (upāya) para el jīva  
+y también el objeto de **logro**.  
+Por lo tanto, te **busco** como mi upāya  
+sin **pensar** en mis propios intereses ".
+</details>
+
 
 <details><summary>मूलम्</summary>
 
