@@ -4,7 +4,7 @@ title = "स्तुति-मुक्तक-सङ्ग्रहः"
 +++
 ॥ अनेकविषयमुक्तश्लोकाः ॥  
 
-## भगवान्
+## पराशर-भट्टः, भगवान्
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -80,6 +80,46 @@ So, when Parasara Bhattar sees the Lord’s idol wrapped with wet clothes during
 क्वाक्रोशः कस्य गीतादिषु मम विदितः कोऽत्र साक्षी सुधीः स्यात्  
 हन्त! त्वत्पक्षपाती स इति नृकलहे मृग्यमध्यस्थवत्त्वम् ॥ ५॥
 </details>
+
+
+<details open><summary>विश्वास-प्रस्तुतिः</summary>
+
+सत्-+++(पक्षे हंस→)+++पक्ष-पातात् +++(पक्षे जलम्→)+++भुवनाश्रयत्वात्   
+सन्-मानसावास+++(←पक्षे सरः)+++-निबन्धनत्वात् ।  
+पद्माश्रयत्वाच् च भवान् इदानीं  
+हंसो यथा राजति रङ्गराज ॥ 
+</details>
+
+<details><summary>प्रस्तुतयः (द्रष्टुं नोद्यम्)</summary>
+
+<div class="videoEmbed"  caption="Video" src="https://www.youtube.com/watch?v=FDtI1by6TPA"></div>
+
+</details>
+
+
+<details><summary>English</summary>
+
+Bhattar gives several reasons for Namperumal being like a swan.
+Both the vedas and azhwars praise his avatara of appearing as a swan. The veda in "हंसः शुचिषत्" "அன்னமாய் அன்றங்கு அருமறை பயந்தான், அரங்கமாநகர் அமர்ந்தான்" he came as a hamsa giving the vedas and is the same one reclining in Srirangam.
+
+
+1. सत्पक्षपातात्: The swan has 2 beautiful wings. (paksha=wings). Srirangeshwaran is partial towards good devotees.(pakshapAta - partial)
+2. भुवनाश्रयत्वात् The swan has its residence, the waters of a lake(भुवन water) .Rangarajan is the support of the entire world of sentient and insentient being(भुवन-world)
+3. सन्मानसावासनिबन्धनत्वात् swans typically reside in the beautiful Manasarovar lake in the Himalayas While ranganatha resides in the minds of pious devotees. (sanmAnasa-mind of pious)
+4. पद्माश्रयत्वाच्च: Swans generally reside near padma i.e lotuses in a lake. On the other hand Namperumal is the residence of padma i.e lakshmi devi as Nammazhwar tells என் திருமகள் சேர்மார்வனே!
+
+Therefore this charming display of Yours standing in the middle of all beings created by You(Ranganatha) makes us visualise you as a Swan Bhattar tells (भवानिदानीं हंसो यथा राजति रङ्गराज)
+</details>
+
+
+<details><summary>मूलम्</summary>
+
+सत्पक्षपातात् भुवनाश्रयत्वात् 
+सन्मानसावासनिबन्धनत्वात् । 
+पद्माश्रयत्वाच्च भवानिदानीं 
+हंसो यथा राजति रङ्गराज ॥ 
+</details>
+
 
 ## शौनकः
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
