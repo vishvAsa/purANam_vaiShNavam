@@ -3,7 +3,7 @@ title = "+श्रीनिवासः"
 
 +++
 
-
+Source: [TW](https://archive.org/details/shrI-vaiShNava-kAvyAni/panchastavI-shrInivAsAchAryaH/)
 
 श्रीपञ्चस्तवाख्यः 
 (ŚRI PAÑCASTAVĀKHYAḤ) 
