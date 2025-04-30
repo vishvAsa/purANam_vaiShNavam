@@ -1,5 +1,5 @@
 +++
-title = "गुण-रत्न-कोशः"
+title = "सर्व-प्रस्तुतिः"
 
 +++
 
@@ -1764,7 +1764,7 @@ whereas you protected the Rākṣasis while they were in the very act of offendi
 त्वं **लज्जसे** कथय को ऽयम् उदार-भावः ॥ ५८ ॥+++(4)+++
 </details>
 
-<details><summary>English</summary>
+<details><summary>राजगोपालः - English</summary>
 
 "How generous Thou art! O, Mother,  
 to the man who merely raises his hands folded in worship to Thee,  
@@ -1772,7 +1772,7 @@ Thou grantest wealth, the enjoyment of his disembodied self and even paramapada
 and yet Thou feelest ashamed that Thou hast not done anything adequate for him." 
 </details>
 
-<details><summary>Espanol</summary>
+<details><summary>राजगोपालः - Espanol</summary>
 
 > "¡Qué **generoso eres** tú, madre,  
 > al hombre que **simplemente levanta** las manos **dobladas** en la **adoración** a ti,  
