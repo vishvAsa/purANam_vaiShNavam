@@ -1165,6 +1165,22 @@ title = "सर्व-प्रस्तुतिः"
 क्षमादीन् वा **भोक्तुम् भवति** युवयोर् आत्मनि भिदा ॥ ३४ ॥+++(5)+++
 </details>
 
+<details><summary>राजगोपालः - English</summary>
+
+> "Youth and certain other qualities are common to Thee and Bhagavān;  
+however you have divided other qualities between you for your enjoyment and (that in this way) :-  
+Bhagavān has manly qualities like independence of others, control over enemies, firmness and the like  
+and Thou hast such feminine qualities as gentleness, existing only for the husband, compassion and forbearance"; 
+</details>
+
+<details><summary>Español</summary>
+
+> "Los jóvenes y ciertas otras cualidades **son** comunes para ti y Bhagavān;  
+Sin embargo, ha **dividido** otras cualidades entre usted para su **disfrute** y (que de esta manera):-  
+Bhagavān **tiene** cualidades varoniles como la independencia de los demás, control sobre enemigos, firmeza y similares  
+y **tienes** cualidades femeninas como la gentileza, existente solo para el esposo, la compasión y la tolerancia ";
+</details>
+
 <details><summary>मूलम्</summary>
 
 युवत्वादौ तुल्येऽप्यपरवशताशत्रुशमन-  
