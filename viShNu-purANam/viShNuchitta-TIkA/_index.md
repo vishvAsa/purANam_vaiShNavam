@@ -3,6 +3,7 @@ title = "+विष्णु-चित्तीयम्"
 unicode_script = "devanagari"
 +++
 
+TODO: परिष्कार्यम्। 
 
 <details open><summary>विश्वास-टिप्पनी</summary>
 
