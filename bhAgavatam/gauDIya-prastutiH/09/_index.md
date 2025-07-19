@@ -7,14 +7,15 @@ title = "+09"
 
 <details><summary>English</summary>
 
-This file evolved from a file containing the reading of the BBT (ba) for
-the mūla as well as Śrīdhara Svāmī's commentary. When we have edited
-this file we followed Jagadīśalāla Śāstrī (śa) and give the alternative
-reading of the BBT in a footnote.
+This file evolved from a file containing the reading of the BBT (ba) for the mūla as well as Śrīdhara Svāmī's commentary. When we have edited this file we followed Jagadīśalāla Śāstrī (śa) and give the alternative reading of the BBT in a footnote.
 
------------------------------------------------------------------------
+
+______
+
 **Abbreviation**    **Source**
-------------------- ---------------------------------------------------
+
+______
+ ---------------------------------------------------
 *śa*                Jagadīśalāla Śāstrī (ed.) *Bhāgavata Purāṇa with
               the Commentary of Śrīdhara Svāmīn*. Motīlāla
               Banārasīdāsa. Delhi. 1999
@@ -27,11 +28,17 @@ reading of the BBT in a footnote.
 
 *pa*                ed. Puridasa Mahasaya. Vrindavan. 1955
 
------------------------------------------------------------------------
 
---------------------------------------------------------------------------
+______
+
+
+
+______
+
 **Commentary**          **Source**
------------------------ --------------------------------------------------
+
+______
+ --------------------------------------------------
 śrīdharaḥ               Some alternative readings taken from *śa.\
                   *However, the original source text is *ba*
 
@@ -43,7 +50,9 @@ viśvanāthaḥ             unknown, occasionally from *śa.*
 
 caitanya-mata-mañjuṣā   *pa*
 
---------------------------------------------------------------------------
+
+______
+
 
 </details>
 
