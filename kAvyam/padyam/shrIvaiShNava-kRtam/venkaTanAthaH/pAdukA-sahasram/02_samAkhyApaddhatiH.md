@@ -3,7 +3,8 @@ title = "02 समाख्यापद्धतिः"
 
 +++
 
-{{< figure src="../images/shaThAriH.jpg" title="" class="thumbnail">}}
+![](../images/shaThAriH.jpg)
+{caption="" class="thumbnail"}
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
