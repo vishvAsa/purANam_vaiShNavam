@@ -14,7 +14,11 @@ Sri Vishnu Puraanam – Amsha 6 *Sri Krishnaya Parabrahmane Namaha **Sreemathe R
 
 
 
-***Amsha 6*** 
+
+_____
+Amsha 6
+_____
+ 
 
 
 
@@ -26,7 +30,17 @@ We just concluded *Amsha* 5, and are entering into the last *Amsha, Amsha* 6.
 
 
 
-**॥* *****अथ* *****षष्ठः* *****अंशः* *****॥* ***
+**॥* 
+_____
+**अथ* 
+_____
+**षष्ठः* 
+_____
+**अंशः* 
+_____
+**॥* 
+_____
+
 
 
 
@@ -34,8 +48,18 @@ Now, *Amsha* 6.
 
 
 
-**॥* *****अथ* *****प्रथमो* *****अध्यायः* *****॥ *   
-Characteristics of Kali yuga ***
+**॥* 
+_____
+**अथ* 
+_____
+**प्रथमो* 
+_____
+**अध्यायः* 
+_____
+**॥ *   
+Characteristics of Kali yuga 
+_____
+
 
 
 
