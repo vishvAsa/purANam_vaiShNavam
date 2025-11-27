@@ -1,0 +1,2547 @@
++++
+title = "En"
++++
+
+
+ft: 
+|| श्री यादवाभ्युदय महाकाव्यम् ॥ 
+प्रथमः सर्गः 
+वन्दे वृन्दावनचरं वल्लवीजनवल्लभम् । जयन्तीसंभव धाम वैजयन्तीविभूषणम् ॥ १ ॥ 
+I salute the luminary (1), who, born in 'Jayanthi' was wandering in Brindavana, being the beloved of the cowherdesses and adorned with the divine garland named "Vaijayanthi." 
+Note: (i) 
+is the object-word in this sloka. It means the 'luminary". That luminary is Sri Krishna here. This word is qualified by four adjecti- ves which are very appropriate. The 'luminary'- may be taken for the foot of Sri Krishna also, in which case the four adjectives qualify it even more appropriately. As per the first adjective, it is the foot of Sri Krishna which is more directly in- volved in wandering in Brindavana. 
+(ii) means luminary, i. e. Shedding lustre. The foot also is such, like Sri Krishna. Hence, the foot of Sri Krishna is referred to as ......"4 தொழு தெழென் மனனே' by Sri Nammalvar also, at the beginning of his Divyaprabandham. The second adjective also fits in more appropriately in this case, as the cowherdesses are specially fond of that tender foot as to place it very carefully on their breasts and feel very happy thereby. 
+2 
+The third adjective also refers to the foot as well as to Sri Krishna: with regard to the fourth adjective, the word Vaijayanthi-means arst or flag in this case. That Sri Krishna's foot is adorned with (*) along with other signs, such as Vajra. Ankusha and so on is very familiarly known to many. 
+वज 
+iii) Jayanthi (-means the sacred time which brings a (Victory) and 17-to all those who celebrate the birth of Sri Krishna at that time with devotion. 
+at is the name given to the time in which the 
+gre and the star 'Rohini'-come into contact with each other and that time is said to be most sacred. This adjective namely "a"-is placed as the third in this sloka, though it ought to be generally said first, i, e. even before the first and second, because it is after the birth alone that Sri Krishna wanders in Brindavana and becomes very dear to the heart of the cowherdesses and so on. But, the author follows this peculiar method here, to show that Sri Krishna's intention to wander in Brindavana and becoming the beloved of the Gopis was born first in His mind and His birth in Jayanthi followed that intention. So, this point is very note.worthy here. 
+(iv) The first adjective which speaks of His social- ly moving with low creatures in Brindavana―is a re- markable proof of the distinguished quality of ageq' -in Him. '-means fond affection towards one, mindless of his flaws. If we are aware of this re- markable Virtue in Him, we need not be afraid of our sins committed so far. "gazgaja#qziwnò fafara zerfa gra nadt ■ fantquifa" says the same Acharya with this 
+sense in 
+3 
+waa', 'aravi' is one of the forms of the or mercy of God. 
+The second adjective is "त्रीजनवलयं", बलवीजनं- means the cowherdesses, who are of low class. Sri Krishna who has Lakshmi as his constant and in- separable associate or consort is keeping such close company with the low class ladiesal so, out of intense affection for them, making no difference between the high and low classes which discloses His another loveable quality named sales, which means excele- ence of disposition, knowing which we need not fear to approach Him. 
+The third adjective is '' referring to the ww of such high and supreme Being in our midst. This reveals His another great virtue known as - which means easy acquisition. Know. ing this great Virtue in Him, we need not doubt as to how we can perceive Him with our naked eyes. 
+The fourth adjective namely a fai’- throws light on His fa, meaning Supreme Lord- ship. By knowing that we are under such Supreme Protector, we are assured of protection from all sorts of calamities. 
+(v) This is a benedictive verse or "a". It is in the form of salutation to Sri Krishna to whom the author is most devoted. 
+(vi) The life-sketch of Sri Krishna is the subject matter of this great work. This is beautifully filled with sentiments like """" and so on. It is shown in the first stanza itself. "T" sentiment is depicted by his affectionate movement with the cowherdesses. sentiment is contained in his 
+4 
+"बन्दी संभवश्व" which indicates "Victory" by brave acts. "अद्भुतरस'' is contained in his roaming about in 'Brindavana' and lifting up the Govardhana moun- tain, killing of demons etc. Even as a child of seven days, he killed 'Putana' and 'Shakata'. 
+यदेकैकगुणप्रान्ते श्रान्तां निगमवन्दिनः । 
+यथावत् वर्णने तस्य किमुतान्ये मितम्पचाः || २ || 
+Though the ‘Vedas', which are His panegyrists, are very earnestly engaged in finding out the extent of each of his Virtuous Qualities from time unknown, they are exhausted at the border alone. When such is the case with the Vedas, what is to be said of others, who are far inferior to them? 
+Note: The Vedas are here compared to bards whose duty is to proclaim or sing in praise the titles of a king. 
+शक्त्या शौरिकथास्वाद । स्थाने मन्दधियामपि । 
+अमृतं यदि लभ्येत किं न गृह्येत मानवैः ॥ ३ ॥ 
+[But still] It is right even for the most dull- headed, to enjoy the taste of Sri Krishna's story according to his ability. If nectar is available, how can men remain without drinking it? 
+Note: [ और Sri Krishna, a descendant of Soora, a Yadava king, father of Vasudeva and grand-father of Sri Krishna.] 
+वसुधा श्रोत्रजे तस्मिन् व्यासे च हृदयस्थिते । अन्येऽपि कवयः कामं षभूवुरनपत्रपा ॥ ४ ॥ 
+[Therefore] Even having in mind such celebrated sages like "Valmiki", and "Vyasa", others have rashly taken to write 'kavyas' 
+to write 'kavyas' without being 
+ashamed. 
+स कविः कथ्यते स्रष्टा रमते यत्र भारती । 
+रसभावगुणीभूतैरलङ्कारैगुणोदयैः ॥ ५ ॥ 
+The Composer, in whom 'Saraswathi', the God- dess of speech and learning, takes delight with spon- taneous flow of Sentiments like "" befitting the subject-matter, charming gestures, figures of speech and qualities like "g4" (He) alone is said to be a poet who can produce good Kavyas. 
+Note: [Rasa (1)- Sentiments like Sringara- which are nine in number. 
+Bhava (भाव) - Such as विभावत्र अनुभाव – These serve to develop and strengthen the prevailing senti.. ment] 
+तदात्वे नूतनं सर्वमायस्याश्च पुरातनम् । 
+न दोषायैतदुभयं न गुणाय च कल्पते ।। ६ ।। 
+Every book is new when it comes to exist. The same becomes old, as time passes on. Hence nothing is good or bad merely by its being new or old. 
+Note: [Here the poet's idea closely resembles. that of Kalidasa who says in Malavikagnimitra:- 
+" पुराणमित्येव न साधु सर्व न चापि काव्यं नवमित्यवद्यम् सन्त: परीक्ष्यान्यतरत् भजन्ते मूढः परमश्वबय नेमबुद्धिः ॥ 
+6 
+प्रवृधामनघे मार्गे प्रभाभ्यन्तीमपि कचित् । न वाचमवमन्यन्ते नर्तकी मिव मावुकाः ।। ७ ।। 
+The speech or language engaged in good "not मार्ग: (way), should not be disgraced even if there may be some errors therein, due to carelessness, as in the case of a dancing girl (with respect to) in her "and" kind of dance, by those who have the sense to appreciate excellence. 
+Note: [The word ' "म" is used to mean 'way', as also a kind of dance] 
+विहाय तदहं व्रीडां व्यासवेदार्णवामृतम् । 
+वक्ष्ये विबुधजीवातुं वसुदेवसुतोदयम् ॥ ८ ॥ 
+So, giving up shame, I will narrate the birth of the son of Vasudeva, which as the nectar of the ocean of 'Mahabharata' is food or the life-restoring medicine to the learned and gods. 
+क्रीडातूलिका स्वस्मिन् कृपारूषितथा स्वयम् । एको विश्वमिद चित्र विशुः श्रीमानजीजनत् ॥ ९ ॥ 
+The Almighty, with His inseparable consort named Lakshmi, produced in Him, the picture of the whole world, alone, voluntarily, with the brush of "कोड" (sport) smeared with mercy. 
+Note. [ तूकिका - Painter's brush कृपा पिता-dippod 
+in the paint of mercy]. 
+7 
+बगदाहादनो जज्ञे मनसस्तस्य चन्द्रमाः । परिपालयितव्येषु प्रसाद इव मूर्तिमान् ॥ १० ॥ 
+The Moon, the delighter of the worlds, was born in the mind of the Almighty, like His favour incar- nate, with respect to those who deserve to be protected. 
+यदपस्यसमुद्भूतः पुण्यकीर्तिः पुरूरवाः । 
+संतामाहितवद्दीनां विहारस्थेयतां ययौ ॥ ११ ॥ 
+Pururavas, of celebrated fame, was born of Budha, the son of the Moon. By his rejoicing with Urvashi (कवी) both here and in heaven, he proved to the consecrators of sacred fire, the surety of bliss in heaven (Having been a consecrator of sacred fir himself.) 
+समवर्धत तद्वंशः उपर्युपरि पर्वभिः । 
+यशोमुक्ताफलैर्यस्य दिशो दश विभूषिता ।। १२ ।। 
+His progeny grew up gradually like the bamboo which grows by knots. By his pearl-like glory, all the ten quarters shone very brightly. 
+Note: [:- 'Race, bamboo', पर्वभि:- 'knots, descendants'. A bamboo grows by knots and is supposed to contain pearls in it.] 
+बभ्रुव नहुषस्तस्मिन् ऐरावत इवाम्बुधौ । 
+यमिन्द्रविगमे देवाः पदे तस्य न्यवीविशन् ॥ १३ ॥ 
+In his race, Nahusha was born like "w" in the 'milk-ocean'. Gods appointed him to Indra's place. when the latter had gone away. 
+Note: [Nahusha was the son of 'Ayus' and grandson of 'Pururavas'. He was a very wise and powerful king. When Indra lay concealed under waters to expiate the sin of having killed Vritra, a Brahmin, Nahusha was asked to occupy his seat.] 
+नरेन्द्राः पृथिवीचक्रे नाम चिह्वैरलंकृताः । 
+जङ्गमास्तस्य वीरस्य जयस्तम्भा इवाभवन् ॥ १४ ॥ 
+All the kings on this earth were adorned with the symbol of the name of valiant Nahusha and glittered like his moving Victory-pillars. 
+Note: [araf-with badges having the engrav- ing of his name in them. It was customary in ancient times to erect in important centres triumphal posts, proclaiming the details of Victory.] 
+शक्तिरप्रतिघातस्य शात्रवैरपि तुष्टुवे । यथावत् साधकस्यैव यावदर्था सरस्वती ।। १५ ।। 
+His invincible power was praised even by his enemies, just as the statements of a speaker. (art) who comprehensively puts forth all necessary argu- ments to maintain his view, are praised by his 
+opposers. 
+बीशे रस इवोत्साहान हुषादभ्यजायत । ययातिर्नाम येनैन्द्रमर्धासनमधिष्ठितम् ।। १६ ।। 
+Yayati was born of Nahusha, just as "वो एस" (Heroic Sentiment) is born of “उत्साह" (Energy) and he occupied half the seat of Indra. 
+विशाल विपुलोसुङ्गे यद्वाहुशिखरान्तरे । 
+आसीद्वीर श्रिया सार्धं भूमिरर्धासने स्थिता ॥ १७ ॥ 
+‘Bhudevi' (Goddess of the earth) took her seat on his broad, stout and high shoulder, sharing half of it with his वीरलक्ष्मी (Heroic splendour ). 
+निदेशं तस्य राजानो न शेकुरतिवर्तितुम् । प्राप्तस्व पर निर्वाह प्रमाणमिव वादिनः ॥ १८ ॥ 
+Just as the Vedic rules are strictly followed by all the 'Vaidiks' being common authority to them, Yayati's orders also were being strictly followed by all the kings. 
+तटाकमिव तापातस्तमिन्द्रमिव निर्जराः । 
+मावा इव रसं भव्याः पार्थिवाः पर्युपासत ॥ १९ ॥ 
+Just as those tormented by the Sun run up to a tank, gods to Indra, and " स्थायीभावा” to their respec- tive sentiments, all the kings waited upon Yayati. 
+Note : [In poetic composition, the 'bhavas' or certain sentiments serve to develop the prevailing sentiments or rasas.] 
+10 
+zgafa aðì ad qzarofagjā: | agianganàtà faca¤âfâquà || 2° || 
+Famous Yadu was born of Yayati. Those born in his race had their equals in their own portraits only and not elsewhere. 
+देहीति वदतां प्रायः प्रसीदन् प्रत्युवाच सः । ललितध्वनिर्मिलक्ष्मीलीला कमलश्ट् दै ॥ २१ ॥ 
+- 
+His response to mendicants was the sweet humming of the bees in the Lotus held by Lakshmi for sport. 
+Note: [Lakshmi is represented as holding a lotus flower in her hand] 
+a a gofidata a fagyi qgqzya | 
+न हि शुद्धेति गृह्येत चतुर्थीचन्द्र चन्द्रिका ॥ २२ ॥ 
+He had no regard for the learning of a person devoid of good conduct. However, shining the Moon-light on “aiz¶zy*s¶¶f" may be, still it is pro- hibited by all. 
+Note: [It is said in the Shastras that any one who sees the Moon on the fourth day of the bright half of the month of 'kanya', will have a false blame imputed to him. So, people avoid seeing the Moon on that day ]13 
+ngai aidatura mfðarfagerfga: i अर्थिनः प्रथमे तस्य चरमान् पर्यपूरयन् ।। २३ ।। 
+Those who approached him first being posses- sed of desires, were paid far more richly than they asked for, so that they had no need to approach him again. Further, they themselves, were able to fulfil the desires of all others who were going to him after them. 
+शराणां शात्रवाणां च सन्धानेन महौजसः । 
+aeq fayangu fk: afanıwyya || 28 || 
+His arrows fixed once to the bow and shot. would never miss the mark. His enemies who once came to him seeking peace, never came to him again for the same purpose, as he behaved without deceit with them. So, neither of these, (namely his shoot- ing the arrow or the-peace-seeking of the enemies) took place twice. He was of such great valour. 
+Note: ['' has 2 meanings (i) hitting. at the mark, (ii) free from all fraud.] 
+geazozafqanot gaizå ggafång | 
+दक्षिणं लोकपालं तममन्यन्त दिवौकसः ॥ २५ ॥ 
+His punishments were just. He put an end to his enemies. He acted impartially towards all, So, the gods considered him an able ruler of the world like Yama, the protector of the southern quarters. 
+12 
+दक्षिण: 
+Note: r, anafix, plan are the names of Yama and also mean- 'destroyer', 'impartial,' and "able ruler'-respectively.] 
+44 
+यशः प्रसून सुरमियदु सन्तानपादपः । 
+aya faganted agarra: gana || 26 || 
+The tree of the dynasty of Yadu was like the "", (celestial tree) with fragrant flowers of fame and with its many branches like 'fr', '', and t. As the 'r' pleases the gods in heaven, this dynasty pleased the learned on earth. 
+Note:- [''-is one of the five trees of Indra's paradise, faga- (1) gods (2) wise men.] 
+वंशे समभवत् तस्य वसुदेवः क्षितीश्वरः । 
+aaa: nvnà dìsya faqınaquat: || 20 || 
+In Yadu's dynasty, King Vasudeva was born. He had been the father of the two sects of gods and demons in his previous birth as 'Kashyapa'. 
+आनकानाञ्च दिव्यानां दुन्दुभीनाश्च निस्वनैः । Acará 97176gu69915sadgegfng || 36 || 
+Vasudeva was also called as "Aanakadundubhi' because the celestial drums named Aanaka and Dundhubhi were sounded by gods with joy at the time of his birth. 
+Note: [The gods expressed their joy by sound. ing heavenly drums at the birth of Vasudeva-that he was going to be the father of the divine Krishna.] 
+18 
+तेन निर्मलसस्वेन विनिवृत्त रजस्तमाः । 
+जगती शान्तमोहेब धर्मोच्छासवती बभौ ।। २९ ।। 
+Being rid of ""राजस्" and " तमस्" Vasudeva had pure " सरबगुण" only in him. By this, the earth shone as if her swoon having ended, she recovered her breath due to Dharma growing vigorously. 
+स विश्णुरिव लोकानां तपनस्तेजसामिव । 
+समुद्र इव रत्नानां सतामेकाश्रयोऽभवत् ।। ३० ।। 
+Just like Vishnu for all the worlds, the Sun for the rays and the ocean for precious stones, Vasudeva was the chief abode for all good people. 
+प्रख्यातविभवे पत्न्यौ तस्य पूर्वे प्रजापतेः । 
+रोहिणीदेवकीरूपे मनुष्यत्वे बभूवतुः ॥ ३१ ॥ 
+Rohini and Devaki, both of reputed greatness, became his wives. The same had been his former wives also as 'Surabhi' and 'Aditi' in his previous birth as Kashyapa. 
+Note: [Vasudeva was in his previous birth Kashyapa prajapathi who killed the sacrificial cows. of Varuna, out of his love for his two beloved wives Surabhi and Aditi and was consequently cursed by Brahma to be born upon the earth with his two- wives.] 
+अक्षुद्रगतिशालिन्योस्तयोस्तयोरन्योन्यस क्तयोः । ऐकरस्यमभूत् पत्या गङ्गायमुनयोखि ॥ ३२ ॥ 
+214 
+Both the high-minded wives were in quite har- mony with one another. Both of them were in unanimity with the husband also, like Ganga and Yamuna mixing up with the ocean and having their water of the same nature as that of the ocean. 
+स ताभ्यामनुरूपाभ्यां समतुष्यत् समेयिवान् । saftatarya da anûger afkor: 11 33 11 
+Vasudeva was highly pleased by uniting both his wives who were very well suited to him. This is why he became the cause of the manifestation of Sri Vishnu with his bed named "Sesha". 
+अलिप्सत न साम्राज्यं सोऽर्थकामपरामुखः । यच्छा गतमैश्वर्यमानृण्यरूचिरन्वभूत् ॥ ३४ ॥ 
+He did not like kingship, as he was averse to wealth "()" and passion "(4)"; still he enjoy- ed them as they came of their own accord in order to clearthe three debts namely "षिऋण, देवऋण and पितृऋण". 
+Note: (1) Debts to Devas.(2) debts to ancestors. The former is cleared by performing sacrifices and the latter by giving birth to sons.. 
+Confazatıfım qımı syafaarafà: 
+देवकी वसुदेवश्च कंसः कारामयोजयत् ॥ ३५ ॥ 
+Kamsa heard from a certain "aufa" (Bodi- less voice) what was to befall him in future. So he put both Devaki and Vasudeva in prison. 
+15 
+स कालातिबल। कंसः कालनेमिरनेहसा । सर्वदैतेयसत्वानां समाहार इवोदितः ॥ ३६ ॥ 
+Kamsa was the same 'कालनेमि' who had been killed by Vishnu in the previous birth. He was much stronger than 'काल (बम)'. He was born being an aggregate of the entire strength of all the demons. 
+एतस्मिन्नन्तरे देवी मेरुमध्यमुपेयुषः । 
+प्रजापतिमुखान् देवान् प्राह सागरमेखला ॥ ३७ ॥ 
+Meanwhile, the goddess of the earth who has the ocean for her girdle spoke to the gods with Bramha at their head, when they had assembled in the centre of 'Meru' mountain. 
+Note: [Meru-a gold mountain the dwelling of the gods, supposed to exist in the middle of the earth.] 
+: 
+विदितं भवतां देवाः । विश्वरूपेण विष्णुना । 
+महीयान् धर्मशीलेषु भारो यस निवेशितः ॥ ३८ ॥ 
+Oh, gods! you know what heavy burden is kept on the righteous people by the omnipresent Sri Vishnu. 
+धर्मनिष्नैरधुना धर्मसेतु विभेदकैः । 
+असङ्ख्यैरभ्रुतैस्तुङ्गैः क्रम्ये राक्षसपर्वतैः ॥ ३९ ॥ 
+I am now being trodden down by innumerable demons, who are like high and wonderful moun- 
+16 
+tains. They are destroying the bridge of righteous- ness (धर्म) yielding to evil. (अधमं) 
+अत आलोचितजगद्धितैः सुरगणः स्त्रयम् । (अतः स्वयं सुरगणैरालोचित जगद्धितः १ ) 
+न पठामि न भिष्ये च यथाऽहं क्रियतां तथा ॥ ४० ॥ 
+Therefore, oh gods! you are thinkers of the welfare of the world. So please act as not to let me fall or break myself up. 
+इति ते भूतधारिण्या निसृष्टार्था दिवौकसः । अविदुस्तत्प्रियस्यैव तदारहरणं समम् ॥ ४१ ॥ 
+Being thus appealed to by the Earth, the gods understood that it was possible to her husband, Vishnu, alone to remove her burden. 
+पुरस्कस्य जगद्धात्रीं मनसोऽपि पुरस्सराः । दुरधिदधिशयं देवं दूरमेस्याभितुष्टुवुः ॥ ४२ ॥ 
+Then, putting the Earth in their front, they went quicker than the mind, to Sri Vishnu, who was sleeping in the distant milk-ocean and praised Him. 
+Note: [Sri Vishnu is supposed to be lying on Adisesha in the middle of the milk-ocean.] 
+त्रिवेदीमध्पदीप्ताय विधाम्ने पञ्च हेतवे । 
+वरदाय नमस्तुभ्यं बाह्यान्तरहविर्भुजे ॥ ४३ ॥ 
+You are shining amidst the three Vedas. You have three habitations (Sri Vaikunta, heart of the Sun, and milk ocean) and five weapons. You are: 
+17 
+bestower of gifts, You are the recipient of both inner and external offerings. We bow to you. 
+Note: ['faga-receiving offerings external as well as internal. The external offerings are those of sacrifices. Internal offering is called 'Prapatti' i. e. to offer our soul entirely to Sri Narayana's care, so that he may do with it, as he pleases] 
+अनन्याधीनमहिमा स्वाधीन पर वैभवः । 
+gurataftenszáj goarą ofeqift at 11 89 | 
+Your greatness is innate and not depending on any other, that of others depends on you. You undertake creation, protection and destruction of the world out of compassion. It is all simply a sport to you. We are bowing before you. Protect us. 
+anma garaâdefeagrî çaiyfu! | 
+aðìfa sgefanŝearîfa giozag || 84 11 
+You are a bright ocean of mercy. Your virtues like (knowledge) 'a', (power) 'f', (wealth) Qu'etc. are like clusters of precious stones therein. You play by means of 'g' and 'faw' ocean rises and falls. 
+2 
+स्वदेकव्यश्चिंतरादी स्वदन्येय्वनिदं परेः । fanârfanrá zai «: qkfosquefa || 13 || 
+18 
+You are undeterminable even to the Vedas which were manifested by you alone, at the beginning (of creation of the world) and are dealing with no other than you. So, who else can measure you ? 
+Note: ['f-At the beginning of each Kalpa, Narayana alone reproduces the Vedas in their old form and gives them to Brahma.] 
+अमितस्य महिम्नस्ते प्रयातुं पारमिच्छताम् । 
+faayı àgq1zq1ai zamży nfa: 1180 || 
+Like travellers of endless distance, halting whereaver the evening comes, the Vedas are travel- ling in vain from time unknown, to find out the extent of your immeasurable greatness. 
+Note: [anatayama-Travelling the whole day, stopping only when the sun sets and again resuming the journey early in the next morning.] 
+नम्यस्य नमतः क्षुद्रान् वरदस्य वरार्थिनः । yà: fazga: xâzı gú à fa quâà || 86 || 
+You are, yourselves, worthy of being bowed to, by all; still you bow to mean persons. You are yourselves bestower of gifts to others; but still you beg of others. Being the father of all, you choose your own sons as fathers for you. How can any one describe your acts? 
+azag yfamıìfafa qisqa qufiad: 1 
+पुंसामनन्यभावानां पुष्णासि रममद्भुतम् ॥ ४९ ॥ 
+19 
+Oh lord! like an actor, you too play putting on different forms like Matsya, Kurma etc and swell the wonderful joy of the spectators who think of none but you. 
+zumfecazqqhzafafaarepanfang | 
+सलिलं कर्मकन्दानां क्रीडेंव तव केवलम् ॥ ५० ॥ 
+All beings from Brahma down to the grass, are like plants which grow up from their respective roots namely (karma). As water is a general cause for the growth of plants, your sport of her is the general cause for the growth of the world. Just as the respective roots are responsible for the diversity of plants, the respective of the individuals alone is responsible for their diversity and not at all your sport or 'tel'. 
+Note: (So no partiality or cruelty can be attri- buted to God.) 
+निराधार निजस्थेम्नो निरुपाधिकशेषिणः । 
+frigfaerged faxantrafacı go1: || 48 || 
+Your firm existence is without support. You are lord ('') by nature and for no reason whatever. You rule over all by yourself and not under any- one's directions, so nothing is equal to or greater than your virtues. 
+20 
+Note: [Unlike trees and other objects in the world. The Supreme Lord does not require anything to support Himseli.] 
+अनाविल घियामन्तश्चिन्तामणिरित्र स्फुरन् । दिशस्यभिमतं सर्वमतिरस्कार्थदीधितिः ।। ५२ ।। 
+Your lustre cannot be hidden by any other, you shine like 'Chintamani' (celestial precious stone) in people's minds, which are pure and fulfill all their desires. 
+Note : 'Chintamani' is a fabulous gem supe posed to yield to its possessor all desires. 
+संसारमरुकान्तारे परिभ्रान्तस्य देहिनः । स्वद्भक्स्यमृतवाहिन्यामा दिष्टमवगाहनम् ॥ ५३ ॥ 
+He, who feels wearied by travelling in the impassable desert of "Samsara" is advised to enter into "Bhakti" ( Devotion) to you, which is like a stream of nectar. 
+दुरितोदन्वदावर्ते घूर्णमानस्य दुःख्यतः । 
+समग्रगुणसंपद्मः तारकस्त्वं लवो महान् ।। ५४ ।। 
+You are like a huge ship. Your auspicious quali- ties are like strong ropes fastened to the ship, by which you rescue the person who is miserable, by bis swinging round and round in the whirl-pool' in the ocean of his sins.21 
+अपरिच्छिध्यमानस्य देशकालादिभिस्तव । निदर्शनं त्वमेवैकस्स्वदन्यद्यूतिरेकतः ॥ ५५ ॥ 
+You are indiscernible by '' (place), s (Time) and '' (matter). Yourself alone are an example to you. All others are examples to the contrary. 
+Note: Every other thing in the world forms the negative instance of you. i.e they are, quite different from you, in as much as they are capable of being measured by time etc.] 
+अंकर्तुमखिलं कर्तुमन्यथा कर्तु मध्यलम् । 
+amerafat: sıà aftaða: a aas: 1144H 
+Time (1) which is only a small particle of your power, is itself, with the help of your 'will' (*), able to do or undo or do otherwise with respect to all things. 
+Note: During the interval betwen the destruc. tion and recreation of the universe, Narayana takes rest and no work is done. Secondly, in the begin- ning of each 'Kalpa', He bas to create everything once more. Thirdly, in the beginning of each Manvantara, He has to fill up many posts such as as that of Indra, with new persons ] 
+यन्मूलमखिलं कार्यं यदमूलमधीमहे । 
+लक्ष्य तदसि योगानां लक्ष्मीको तुमलक्षणम् ॥ ५७ ॥ 
+Vedas say that the whole world owes its exis- tence to you and you owe your existence to none. So 
+22 
+with 'Lakshmi' and 'Koustubha' 
+as distinctive marks, you are the objective of the different forms of 'भक्oियोग'. 
+Note: It is upon Narayana that Yogis concen- trate their minds by various ways stated in the yoga philosophy.] 
+faaĥaqaû aı afɑmoġ g¶evalg | usÒcafq glafg: afaqezatgug! || 46 || 
+To those who strive hard to get faa (Three ends of existence viz 'Dharma', Artha' and 'Kama') or salvation. your long surviving favour stands as safe surety, without decay, even in deluges. 
+Note: Just as creditors lend money for interest on the surety of some sort, so virtuous men do good deeds to obtain 'Dharma' 'Artha' 'Kama', and 'Moksha' and entirely depend upon your favour for the fruit]. 
+यदेकमक्षरं ब्रह्म सर्वाम्नायसमन्वितम् । 
+तारकं सर्वजन्तूनां तत् खं तव च वाचकम् ।। ५९ ।। 
+You are the single-lettered 'Brahman' named qua' which is connected with the entire Veda. It is the saviour of all beings and means you. 
+Note: It is stated in Vedas that the single sacred syllable' is Brahman. It is uttered as holy exclamation at the beginning and end of a reading fo the Vedas] 
+7 
+: 
+23 
+स्वदालम्वितहस्तानां भवादुन्मञ्जतां सताम् । 
+मजतः पापजातस्य नास्ति हस्ताबलम्बनम् ॥ ६० ॥ 
+The meritorious people rise up from the ocean of een by your support; no support is given to their sinking sins. 
+Note : [The idea of this verse is : - Those that are fortunate enough to obtain your favour, are alone made free from sin.] 
+अनन्यरक्षा वतिनं चातकत्र तचारिणः । 
+भवन्तमवलम्बन्ते निरालम्बनभावनम् ॥ ६१ ॥ 
+Since you have firmly made up your mind to protect those who have no other means of protec- tion, the destitutes stick to you for protection showing their helplessness, like the 'Chataka' bird, which looks up for food, with head lifted up. 
+Note: Virtuans men depend entirely upon Narayana for Moksha as Chataka birds on clouds.] 
+अनिंदपूर्व निद्राणामनस्तमय मानुषान् । 
+आपादयसि पुंसां स्वमपुनस्स्वापजागरम् ॥ ६२ ॥ 
+Being a never-setting sun, you shine in the hearts of those who are in sound slumber from time immemorial and cause eternal wakefulness to them. 
+Note : [In Sahstras, it is said that he who attains 'Moksha' will never return to samsara. ] 
+स्वदेकशरणानां त्वं शरणागतजीवनः । 
+विपदं नः क्षिप क्षिप्रं तमिस्रामिव भास्करः ॥ ६३ ॥ 
+You are the animator of fugitives. We have, taken refuge with you. Hence. remove quickly our distress as the sun removes darkness. 
+सति सूर्यसमुद्यन्तः प्रतिसूर्या इवासुराः । 
+जगद्बांघाय जायन्ते जहि तान् स्वेन तेजसा ॥ ६४ ॥ 
+Raising of anti-suns inspite of the existence of the sun, is a sign of destruction. Likewise number of demons have risen before you for the destruction of the world; destroy them by your own power. 
+सदैत्यहत्यामिच्छद्भिः सुरैरेवमभिष्टुतः । अनन्यदृश्यः सहसा दयया दर्शनं ददौ । ६५ ।। 
+Being desirous of the destruction of demons, the gods praised Vishnu thus. Sri Vishnu who is invisible to others, became kindly visible to them, all of a sudden. 
+ततस्तं दशुर्देवाः शेषपर्यङ्कमा स्थितम् । अधिरूढशरन्मेघमन्यादृशमिवाम्बुदम् || ६६ ।। 
+[How ?] The gods saw Vishnu seated on his bed of 'Adisesha' like a wonderful black cloud sitting upon a white cloud in Autumn. 
+परन्या सह निषेदुष्या पद्मलक्षणलक्ष्यया । 
+स्वेच्छयैव शरीरिण्या सूचितैश्वर्य संपदम् ।। ६७ ॥ 
+Sri Lakshmi who could be recognised by the symbolical Lotus in her hand was seated by His side as if she was His 'Will' embodied, indicating His abundance of wealth. 
+25 
+Note: [Shastras say that Lakshmi holds a playful lotus in Her hand. She is independent of karma unlike us and therefore she is at liberty to take any form.] 
+सुकमार सुख स्पर्शसुगन्धिभिरलंकृतम् । 
+स्वविग्रहगुणारामप्रसनैरिव भूषणैः ।। ६८ ।। 
+The delicate, soft, and fragrant ornaments He wore, appeared like flowers in the garden of His bodily virtues (to the gods ). 
+आरक्षित जगनेत्रैरन्योन्यपरिकर्मितैः । 
+अङ्गेर मिस सौन्दर्येरनु कल्पित भूषणम् ॥ ६९ ॥ 
+His limbs were giving pleasure to the eyes of alt the people, adorning each other. By their boundless charm, they made the ornaments which they wore, unessential. (That is, the beauty of the limbs far ex- celled that of their ornaments). 
+उत्तेजितजयोत्साहमायुधैरन घोद्यमैः । 
+शौर्यविक्रमशक्त्याद्यैः सहजैः स्वगुणैरिव ॥ ७० ॥ 
+By never-failing weapons which were like His natural Qualities, such as strength, exploit, and cleverness His spirit of Victory was highly animated. 
+श्वकान्ति जलधेरन्त सिद्धसंहननं स्वतः । 
+महिम्ना जातवैचित्र्यं महानीलमिवोदितम् ॥ ७१ ॥ 
+26 
+The brilliance of His self-formed body was like an ocean. His own body reflected therein, looked like a wonderful newly born sapphire, with different limbs by its own greatness. 
+Note: [His greatness consists in His being inde. pendent of karma. Unlike ours, His body is not made by any one. So the formation of His body is unusual] 
+श्रतिरूपेण वाहेन शेष कङ्कणशोभिना । 
+स्वाङ्घ्रिरमदिग्वेन दत्तसङ्ग्रामदोहलम् ।। ७२ ।। 
+He was seen with his vehicle Garuda, the in- carnation of the Vedas, stimulating His desire for war. Garuda shone with the bracelet of serpent and anointed with the fragrance of His feet. 
+cad@cq=gfa:cq=gàasta faàfgaq | 
+aftaaàm àary ofàgozzafalga: 11,03 || 
+j 
+'Vishvaksena' was seen controlling the crowd of devotees that went to Sri Vishnu by the mere shak- ing of his cane. Whatever he said, bending his body with devotion, was being promised by Vishnu with signs of His eye-brows. 
+अनपायं तमादिश्यमक्षयं तारकाधिपम् । अपारममृताम्भोधिममन्यन्त दिवौकसः ॥ ७४ ॥ 
+Gods considered Sri Vishnu to be a never set- ting Sun (by His lustre), the never-waning Moon 
+27. 
+(by His propitiation) and shoreless ocean of nectar (by His enjoyable disposition). 
+अमयोदारहस्ताग्रमनघस्वागत स्मितम् । 
+अवेक्ष्य विबुधा देवमलभन्त दृशोः फलम् ॥ ७५ ॥ 
+Beholding the God with His fingers bearing the famous mark of Protection from fear (अभयमुद्र) and with the pure welcome smile, the gods obtained the desired fruit of their eyes. 
+तस्मै विज्ञापयामासुर्विदितार्थाय नाकिनः । निहताशेषदेस्याय निदानं स्वागतेः पुनः ॥ ७६ ॥ 
+The gods respectfully communicated again, to the God, the destroyer of all demons, why they had gone to Him, though He had known it already by Himself. 
+व इमे क्षत्रिया भूत्वा क्षोभयन्ति क्षमामिमाम् । 
+तव तेनसि यैर्नाथ । दनुजैश्शलमायितम् ॥ ७७ ॥ 
+O Lord! the demons who played the part of moths in your heroic lustre are now born as ksha- triyas agitatating the earth. 
+चतुर्णां पुरुषार्थानां प्रसवो यत्समाश्रयात् । हव्यकव्य प्रसुरेश दीर्यते देश्यभारतः ॥ ७८ ॥ 
+i 
+The earth, living whereupon, the offerings to gods and faq's are to be mead and the four ends of life viz धर्म, अर्थ, काम and मोक्ष are also to be obtained 
+28 
+is being torn asunder by the heavy weight of the de- 
+mons. 
+जाता निखिल वेदानामुत्तमाङ्गोपधानतः । 
+स्वत्पादकमलादेषा त्वदेकाधीन धारणा ॥ ७९ ॥ 
+This earth was born of your Lotus-foot which is a pillow to the heads of Vedas. So her protection is solely dependent on you. 
+Note: [Upanishads are the most important part of the Vedas, as the head is of a body. ] 
+यदि न त्वरते नाथ ! भारव्यपनये भवान् । प्लावयिष्यन्त्युदन्वन्तः पृथिवीं पृथुवीचयः ॥ ८० ॥ 
+O Lord! if you do not hurry up to remove her burden, she will be washed away by huge waves of the oceans. 
+करुणाधीन चित्तेन कर्णधारवती त्वया । 
+माऽवसीदतु पृथ्वीयं महति नौरिवाभ्यसि ॥ ८१ ॥ 
+Having in you a kind hearted sailor, let not this earth be drooping like a big ship in water. 
+रचनारत्नरूपेण पयोधिरशना त्वया । प्रशान्तदनुजक्लेशा परिष्करणमर्हति ॥ ८२ ॥ 
+The ocean surrounding the earth is like her girdle; you sleeping therein shine like a big precious stone fixed in the centre of the girdle. This kind of your adorning the earth is proper, only after you put an end to her distress arising from the demons 
+29 
+कंसप्रभृतिभिः सेयं शल्यैरिव समुद्धृतैः । 
+चिरं भवतु ते पृथ्वी शेषमूर्ते शिखण्डकः ॥ ८३ ॥ 
+Being cleared of Kamsa and others, darts pulled out (from the heart) as it were, may this earth be for a long time 'your crest in the form of Adi- sesha. 
+Note: [The Sesha who is supposed to be bearing the earth on his head is only a form of Vishnu.] 
+प्रबोधसुभगैः स्मेरैः प्रसन्नैः शीनलैथ नः । 
+कटाक्षैः प्रावय क्षिप्रं रूपको दन्वदुर्मिभिः ॥ ८४ ॥ 
+Let your blooming propitious and cool side- long glances which are lovely by awakening and resemble the tides of the ocean of compassion, quickly flow on us. 
+स्वयि न्यस्तमाराणां नस्त्वमेतां चन्तुमर्हसि । विदिताशेषवेद्यस्य विज्ञापन विडम्बनाम् ।। ८५ ।। 
+We have laid down the burden of our protection at your feet. you know all things worth knowing. We are respectfully communicating that know you So please pardon this ridiculous act, 
+इत्थं वदति देवानां समाजे वेधसा सह । 
+वन्दे पृथिवी देवं विनतत्राणदीक्षितम् ॥ ८६ ॥ 
+When the assembly of the gods said thus along with Brahma, the Earth-Goddess bowed to the God 
+30 
+who observes a vow to protect those who bend down before Him. 
+तनुमध्या विशालाक्षी तन्वी पीनपयोधरा । 
+मायेव महती तस्य वनितारत्नरूपिणी ॥ ८७ ॥ 
+[Description of the Goddess]-She had slender waiste and broad eyes. She was slim with profuse breasts. She was His Maya, assuming the form of a high-class Lady, as it were.. 
+आवद्धमण्डले रलकामोदमोहितैः । 
+अयत्नलब्धां विभ्राणा मायूरच्छत्र सम्पदम् ॥ ८८ ॥ 
+The bees which were attracted by the fragrance of her forelocks had formed a circle over her head. with the splendour of an umbrella made of peacock feathers, got without any effort. 
+प्रियसंदर्शनानन्दजनितैरभुबिन्दुमिः । 
+न्यस्तमौक्तिक नेपथ्यैः परिष्कृतपयोधराः ॥ ८९ ॥ 
+At the sight of her lover, tears of joy came to her eyes. They dropped down on her breasts and shone like pearls adorning them. 
+प्रस्फुरन्तं प्रियस्यैव परिरम्भाभिलाषिणम् । दक्षिणादितरं बाहुं दक्षिणा बह्वमन्यत ॥ ९० ॥ 
+Her left arm was throbbing as if with a desire to embrace the lover. She esteemed it very highly. since she knew the good significance of it.81 
+Note: [Throbbing of the left part of the body is a good omen to women.] 
+विपदश्च जगादेषा विपश्चीमधुरस्वना । 
+विलक्षस्मित सम्भिनमोक्तिकाधर विद्रमा ॥ ९१ ॥ 
+She also told Him of the danger with a voice sweet as the tone of a lute and with corals of lips her mixed with pearls of her coy smile. 
+अथ तान् भव्यया वाचा भगवान् प्रत्यभाषत । प्रतिस्प्राप्तनिर्ह्रादपश्चजन्यामिनन्यया ।। ९२ ।। 
+Then, the God replied to them in auspicious words which were applauded by His re-sounding conch, named 'Panchajanya'. 
+Note : [The conch is called as 'panchajanya' - because it was made of one of the bones of Panchajana, an Asura in the ocean, who was killed by Vishnu ] 
+मा मैषुरसुरानीकात् मनन्तो मदुपाश्रयाः । मदाज्ञामनवज्ञातुः परिभृत्या न भूयते ॥ ९३ ॥ 
+[God's reply] - You, who have taken refuge with me, need not fear the army of demons. He who never transgresses my command will never have disgrace. 
+अवतार्थ वो भारमवतारो ममामराः । 
+अनादिनिधनं धर्ममक्षतं स्थापयिष्यति ॥ ९४ ॥ 
+32 
+Oh gods! my descent to the earth shall remove the burden from the earth and establish eternal 'Dharma' (righteousness) uninjured. 
+यावदिष्टभुजो यावदधिकारमवस्थिताः । 
+qknoqa zufa qqıfa fanai¶g: 11 94 11 
+Being rid of your distress and enjoying all the sacrificial offerings, maintain your respective posi tions excercising your authority to the fullest extent. 
+ganegòzımi zeru fazaifan: | 
+qaìsfa agat ang gaganiaanfaa 11 se || 
+Oh, Lords of heaven by my destroying the great demons, you will see the earth becoming light, as if cured of a disease. 
+đàqqnagià qnq1caa1fafa: 1 
+aafgefa Àfzai afaasġ aufâq: 11 90 || 
+[You too have a duty]-You too, must be born on the earth as great Kings to take part in the de- light of hunting the crowd of animals called Asuras. 
+Note. [मेदिन्al (earth) मेसा परि प्लु. Wetted with fat. The demons namely Madhu and Kaitabha, who are said to have been born from theears of Vishnu when He was asleep, were slain by Vishnu. Then the earth which was near, was covered with their fat. Hence the earth got the name 'aff'.] 
+1 
+33 
+इति ताननघादेशः समादिश्य जनार्दनः मवधीरितदुग्धाधिर्मघुरायां मनो दधे ॥ ९८ ॥ 
+God Janardana, whose order is never vain, ordered the gods thus, and rejecting the milky 
+ocean, fixed His mind upon Madhura. 
+आश्वास्य बागमृतवृष्टिभिरादितेयान 
+दैतेयभारनमिता पृथिवीं च देवीम् । प्रादुर्बुभूषुरनघो वसुदेवपरन्यां 
+पद्मापतिः प्रणिदधे समयं दयायाः ॥ ९९ ॥ 
+Having consoled, by the showers of the nectar of His speech, the Gods, as well as the Earth-Goddess bent by the burden of demons, and desiring to be born of the wife of Vasudeva, the auspicious con- sort of Sri Lakshmi thought of the occasions for showing His mercy. 
+साधूनां स्वपदसरोजपट्पदानां 
+धर्मस्य स्थितिमनवां विधातुकामः । 
+यगर्भे जगदखिलं स एव गर्मी 
+देवक्या: समजनि देवदेववन्द्यः ॥ १०० ॥ 
+Sri Vishnu, who deserves to be bowed to, by the God of Gods, and who bears the whole world in His belly, entered into Devaki's womb, to establish without flaws, the Dharma of the good people who are to His feet like bees to the lotus. 
+3 
+" कम् । 
+द्वितीयः सर्गः 
+[ श्रीकृष्णावतारवर्णनम् - Sri Krishna's incarnation described] 
+अथागमानामनघेन भूम्नां धर्मस्य पूर्णेन धनागमेन | दिवौकसां दर्शयता विभूर्ति देवी बभौ दोहदलक्षणेन ॥ १ ॥ 
+After the God Vishnu entered Devaki's womb, the Queen glittered with the symptoms of pregnancy which was a source of pleasant prosperity to the Vedas and Dharma, by full acquisition of wealth. It showed prosperity to the gods dwelling in heaven also. 
+शृङ्गारवीरावृतचित्ररूपं गर्भे विलोकैकनिधि वहन्त्याः । परावरक्रीडितकर्बुराणि द्वेषाऽभवन् दौहृदलक्षणानि ॥ २ ॥ 
+Devaki was carrying in her womb the treasure of all the three worlds and in which there was an assemblage of sentiments like 'Sringara' 'Veera' and 'Adbutha'. Due to identification with the god in the womb her signs of pregnancy were variegated by ordinary and extraordinary sports. 
+अशेष वेदैरषिगभ्यभृम्ना सिद्धन सिद्धेध निषेवितेन । 
+अमानुषी नूनमभूदयत्नात् कृष्णेन केनापि रसायनेन ॥ ३ ॥ 
+Though : human, Devaki became superhuman with no effort by the ever lasting divine juice named Sri Krishna. who is expounded by all the Vedas and is 
+35 
+adored by the divine Seers. (Otherwise how could she look so extraordinarily lustrous ? ) 
+शतदाबन्धुरया स्वकान्त्या सञ्चारिवाम्बुन दविम्ब रूपा । लय्यन्तसिद्धेन रसायनेन कालेन मेजे कलधौतलक्ष्मीस् ॥ ४ ॥ 
+Devaki looked like a walking gold image with her own beautiful lustre like lightning. By the divine "Rasayana" named Krishna, which is renowned in vedantha, she gradually obtained the splendour of silver. 
+मयूरपिच्छद्युतिभिर्मयूखैस्तर का न्तिरन्त स तस्त्रिधामनः । 
+श्यामा बहि: मूलसिता बभासे मगरपरत्नाकरपालिकेव ॥ ५ ॥ 
+In her womb, Sri Krishna shone with the lustre of peacock feather. By His rays, Devaki's lustre shone white in its lower part and blue in the upper part. Thus, it appeared like the welfare-giving row of the sprouts of precious stones. 
+काले बमासे वसुदेवपरन्याः कर्पूर लिप्ते व कपोलशोमा । शशिप्रभा सप्तमगमकान्तिः च्युतावशिष्टेव शनैरुदीर्णा ॥ ६ ॥ 
+While Krishna was growing in the womb, the bright cheeks of Vasudeva's wife shone as if they were smeared with camphor. Balarama was her seventh conception, who was shining like the moon. It appeared as though the remnants of his splendour after his departure from the womb, rose up slowly and made her cheeks like that. 
+36 
+नवेन्दुनिष्यन्द निमबकाशे वर्णः प्रतीके मधुद्रवाज्ञया । अन्तः स्थितेन प्रथमेन पुंसा प्रवर्तितं सच्च मिथावदातम् ॥ ७ ॥ 
+The colour of the limbs of the honey-oozing limbed Devaki, which was like the fresh flow of nectar, shone like the pure 'satwa' quality directed by the in lying Vishnu, the foremost of men. 
+करम्बिता किश्चिदिन प्रसृप्तैस्तेजो भिरन्तर्वसत्रिभाग्नः । मरीचिभिः स्वैरमषत् प्रजानां मङ्गरपरस्ना हर गलिके ॥ ८ ॥ 
+With her own brightness mixed with the splen- der proceeding a little from the in-lying Vishnu. Devaki shone like the basin of the sprouts of pre- cious stones, grown for the good of the people. 
+तस्याः सुधोल्लासजुषः कटाक्षाः संक्षुब्धदुग्धोदविसौम्य भासः । जगत्त्रयीसौध विलेपनाह विवेनिरे वर्णसुधामपूर्वाम् ॥ ९ ॥ 
+Her brightness was as charming as the agitated milk-ocean when it was churned by the Mandara mountain Her nectar-like side-glances prepared a peculiar white-wash of colour useful in plastering the palace of the three worlds. 
+रक्षाविधौ राक्षसदानवानां कारागृहे कंस नियोगमाजाम् । संपश्यमाना सकदीक्षिता वा संक्षोभयामास मनसि सेषा ॥ १० ॥ 
+The minds of the demons who were guarding the prison of the famous Devaki by Kamsa's order, became agitated in their minds, both when they once looked at her or she looked at them. 
+37 
+वक्ता पुरा येन वसुन्धरा सा स विश्वभोक्ता मम गर्भभूतः । इति ध्रुवं सूचनमाचरन्ती तत्तादृशं नाटितकं ततान ॥ ११ ॥ 
+She was gesticulating the acts of Vishnu in a fitting way, as if she desired to indicate that He by whom the earth was formerly enjoyed and the sacri- ficial oblations are eaten was certainly in her womb. [i. e. She was eating red mud as pregnant women generally do.] 
+समाचिसुक्षेत्र कृषीवलानां सन्तोषस स्योदय मेषकान्त्या । 
+चक्रास तस्याः स्तनचूचुकामा गर्मत्विषा गाढमिवानुलिप्ता ॥ १२ ॥ 
+"Samadhi" is the final state of "Yoga" that is the best field. The joy felt by the "Yogins" on that field is like a plant which gives joy to the farmers. The lustre of Sri Vishnu who was in her womb, was like that of the cloud. The tips of her nipples shone as if they were deeply anointed by that blue lustre. 
+Note : [The tips of nipples of women become black when they are pregnant.] 
+कस्तूरिकाका म्यरुचिस्तदीया रम्या बभौ चूचुकरस्नकान्तिः । 
+गर्मसन्दर्शन लोलुपानामन्त ईशाम अन कल्पनेव ॥ १३ ॥ 
+The lustre of the gem of her nipples was so lovely that it even excelled the lustre of musk. It was the anointing of collyrium to the possessors of inward glance, anxious to see the child in the womb, as it were. 
+38 
+परावराणां प्रभवस्य पुंसः प्रकाशकत्वं प्रतिपद्यमानाम् । अभावयन् भावितचेतसस्तां विद्यामयीं विश्वपितामहीश्च ॥ १४ ॥ 
+Since God is the cause of everything from the highest to the lowest, He is the father of all. Devaki was going to manifest Him like the Vedas. So, the pure-hearted ones, looked up on her as the store of learning and the grand-mother of the universe. लिलेख विश्वानि जगन्त्य मिला लीलाहृते चित्रपटे यथाईम् । ma: garai qaq: qdtur: qenızsı: xàg fafasayaz 1134/1 
+Devaki who was all-knowing, wrote fittingly all the worlds on the painting cloth brought for sport. The same certainly became the original (model) to creators by which they got fame in their duties. 
+Note: [It was like the model supplied by Vishnu to the early creators to show them how to create] Fanfani qefanızgını 3⁄4: dødt åtfagqsavzat | पुण्याशया पूर्व युगप्ररोह मियेष देवी भुवने विधातुम् ।। १६ ।। 
+". 
+The pure-hearted Queen who followed the path of the desireless, and who took to the policy of attaining salvation, desired to make the growth of "Kritayuga" in which Dharma stands on all the four legs, by predominance of 'aaga' like God, having identified herself with Him. 
+Note: [Pregnant women don't like to eat or do anything at a certain stage of pregnancy. This refers to that stage.] 
+39 
+अनाप्तपूर्वं किमपेक्षितं ते किं वोपदद्यामथवाऽधुनेति । वयस्ययामा वविदाऽनुयुक्ता न किश्चिदित्येव जगाद नाथा ॥ १७ ॥ 
+• 
+Her friend who knew her mind (was annoyed by her detached state) and asked her "What shall I get you from among those you have not yet obtained or which do you want now of those you. have already enjoyed ? " " Nothing" was her only reply to this, 
+अनादरे देवि सखीजनानां कथं न दद्येत दया तवेति । उपहरे संलपिता मनोरा लोकनरुतरमाचचक्षे ॥ १८ ॥ 
+Her 
+(Seeing her indifference towards them) friends asked her in private "O Queen! If you do not behave towards friends as before, how is it your kindness to friends is not afflicted?" To this, she replied by her pleasant looks only. 
+नशेत सा काममजातनिद्रा मातुं प्रवृत्तेव पदानि चक्रे । 
+अभ्यास्त लोकानवधीरयन्ती मद्रासनं भावितपारमेष्ठया ॥ १९ ॥ 
+She lay down very often without getting sleep like Vishnu on his "Yoganidra". She made her foot- steps as if she wanted to measure (the ground ) like:: Sri Vishnu. Refusing to think of the worlds, and meditating upon the actions of God she sat upon a comfortable seat. Though all these were due to. weakness, they seemed to be the same as those of Vishnu, who was in her womb. 
+परिक्रमप्रेक्षितभाषिता धैरन्या रास विभावनीयैः । 
+मदोपपन्ना मदलालमा वा जितश्रमा बेति जनैः शशदके ॥ २० ॥ 
+With her strange mode of walking, looking and speaking etc. which could be rightly understood by those who were quite intimate, she was suspected by other people to be proud or to be drowsy from intoxication or overcome by exhaustion. 
+qà 
+शेषे शयानां गरुडेन यान्तीं पद्मे निषण्णामधिरत्नपीठम् । gżnaĥufxaqftcgzat zainısfá mazar zeå || 28 11 
+Devaki dreamt as if she was lying upon, Adisesha," riding up on Garuda and seated upon the lotus, placed on a platform of precious stones and being praised by the "Kinnaras". 
+Note: [This shows as though 'Adisesha,' Garuda and 'Kinnaras' - wanted 
+to serve Sri Vishnu in Devaki's womb, along with Devaki and not separately.] 
+अन्तः स्थितं यस्य विभोग्शेषं जगन्निवासं दधती तमन्तः । acıenáì faxqqsugeatamifài aregggyá al 11 22 11 
+Devaki, containing in her womb, the all-pervad- ing One, in whom the whole universe lies, saw the universe within herself. She is one in the whole world How could He, who has everything in Him alone, could be within her? How could she see in her, the whole world, which is in him? How could she see her own self along with the whole world in Him, when He Himself is in her? Such a marvel is beyond our powers of reasoning.41 
+सुरासुराधीश्वरमौलिघातात् विशीर्णजाम्बूनदवेत्रशृङ्गम् । अलक्ष्य संतोषमलक्ष्य मन्यैरनी कने तारमवैचताऽऽरात् ॥ २३ ॥ 
+Devaki saw close by her, 'Sri Vishvaksena' the Commander-in-chief with the extremity of his gold cane broken to pieces by beating on the crests of the chiefs of gods and demons, disclosing his joy, invisi. ble to others. 
+त्रिलोकमङ्गस्य निघे स्त्रिवेद्या: संजीवनीं वाचमुदीरयन्ती । 
+नियोगयोग्यान् धनघप्रसादा नाकौकसां नामभिराजुहाव ॥ २४ ॥ 
+With words enlivering all the three Vedas, which are the store-house of the welfare of the three worlds, Devaki called her own attendants fit to be comman. ded by names of the gods such as Indra, Chandra and so on (imitating the god who was in her womb), thus showing spotless favour to her attendants. 
+यदृच्छया यादवधर्मपत्नी यामाह धर्मेषु परावरेषु । 
+अदृष्टपूर्वापश्यापि वाचा प्रतिश्रुता नूनमभावि तस्याः ॥ २५ ॥ 
+To whatever, Devaki, the wife of Vasudeva said by chance about worldly and spiritual matters, even the sayings of the Vedas of which neither the begining nor the end was found, were certainly mere 
+echoes. 
+क्रियापादित्सत विश्वगुप्त्या कृतापराधेऽपिकपामकार्षीत् । 
+मुनीन्द्रस्या मुखरीभवन्ति मुक्तिक्षयां वक्तुमियेष विद्याम् ॥ २६ ॥ 
+42 
+She desired to undertake the work of protect- ing the Universe (like Sri Vishnu.) She showed mercy even to the guilty (like Sri Narayana, the great sage in Badarikasrama). She being noisy, desired to say 'Mantras', useful for the attainment of salvation. 
+सतां चतुर्वर्गफलप्रसूतौ नारायणे गर्भगते नताङ्गी । अमगुरा मुनतिमाश्रयन्ती सर्वस्य साऽदित्सत सर्वमेका ॥ २७ ॥ 
+When Sri Narayana, the bestower of the fruit of the four ends of life, namely 'Dharma' 'Artha', 
+• Kama' and 'Moksha' – to the Virtuous, enter- ed her womb, she stooping with the weight of her body, attained the full height of nobility and desired that she alone should bestow everything upon all. 
+कृशोदरी कार्यमतीत्य काले केनापि घाम्ना कृतवृद्धियोगा । पराममिख्यां क्रमशः प्रपेदे ताराभिनन्द्या तनुरेन्दवीव ॥ २८ ॥ 
+The thin-bellied Devaki who was delightful to the pupil of the eyes of the lookers-on, like the Moon to the stars, left thinness with the increase of bulk caused by a certain Luminary and obtained gradually, great splendour like the disc of the Moon. 
+निगूढमन्तर्दधता निविष्टं पद्मापरिष्कारमणि प्रभूतम् । 
+मध्येन तस्याः प्रचितेन काले मज्जूषया रूप्यभुवा बभूवे ॥ २९ ॥ 
+43 
+Her waist, which had increased in bulk gradu- ally, and which contained inside the perfect adorning gem of Lakshmi kept secret, was like a silver casket for the gem. 
+शनैश्वानैस्तामुपचीयमानां दर्शान्तदीप्तामिव चन्द्रलेखाम् । अन्तःस्थकृष्णामवलोकयन्तः चक्रचकोरायितमात्मनेलैः ॥ ३० ॥ 
+Devaki who contained Sri Krishna within and was increasing in bulk gradually, was like the crescent moon with a deer in him shining after the new moon. People rejoiced seeing her, with eyes like Chataka birds (partridges) that feed on the Moon-beams. 
+मयि स्थिते विश्वगुरौ महीयान् मा भूत् वो भार इतीव मत्वा । सखीजनानामवलम्ब्य हस्तान् संचारलीलां शनकैश्व कार ।। ३१ ।। 
+I should not cause heavy burden to the earth, when the God, who is the priest and father of the universe, is within me as if thinking like this. Devaki made the sport of slowly walking, resting herself on the hands of her frinds. 
+मुकुन्दगर्भा मुकुरेषु देवी नापश्यदात्मानमवाप्त भूषा । नाथत्विषा नन्दकदर्पणेनादिक्षताssस्मानमदृश्यमन्यैः ॥ ३२ ॥ 
+at 
+The queen with Mukunda within, did not look herself in mirrors wearing jewels. ( On the d other hand,) she wanted to see herself in the mirror of Nandaka, (name of God's sword) which shone by the Lord, and wherein she was not visible to others. 
+44 
+स्वजः प्रभूता न शशाक वोढुं दुरे कथा रस्नविभूषणानाम् । भविष्यति क्षोणिभरापनोदें प्रत्यायनं प्राथमिकं तदासीत् ॥ ३३ ॥ 
+She could not wear many garlands. So, even the mention of wearing jewels of precious stones was far away. This was the first indication of the future removal of the burden of the earth. 
+दिवौकसो देवकवंशलक्ष्मीं विलोक्य तf लोकनिधानगर्भाम् । विभूतिमग्रेस रवेदवादाः व्याचख्युरस्या विविधप्रकाराम् ॥ ३४ ॥ 
+Seeing her, the fortune of the race of Devaka who was conceiving the store of the worlds, the gods expressed her many-sided greatness, reciting the Vedas. 
+पतिः ससश्वामपि तत्प्रभावाद दुःखशील। समये भवित्रीम् । सुखैकताना अवलोक्य देवीं स्वसंपदं सूचयतीति मेने ॥ ३५ ॥ 
+Though fully pregnant, the queen never felt pain by its greatness. Her mind was concentrated on happiness alone, even when the time of delivery was near. Seeing this, her husband thought that she was indicating his prosperity. 
+पितृस्वमासाद्य सुरासुराणां पितामहस्वं प्रतिपरस्थमानः । अनन्तगर्भामव डोक्य देवीसतुष्यदन्येषु गहाभिलाषः || ३६ || 
+As Kasyapa in his former birth, he had been the father of gods and demons. Now he was about to become their grand-father. So, with no desire for other things, he was pleased to see Deyaki, having Vishnu in the womb. 
+45 
+Note: [Is there anything better than Anantha to be had? ] 
+तपोपशान्ति जगतां दिशन्ती सन्ध्याऽपरा साधुजन प्रतीक्ष्या । तामीदृशीं विश्वपितुः प्रसूति संवेदयन्तीव समाजगाम ।। ३७ ।। 
+The evening twilight which gives coolness to the world after the heat of the Sun, which is longed for by the Virtuous, and which was, as it were, in- forming the world of the aforementioned birth of the Father of the universe arrived. 
+सुवर्णपीताम्बरवासिनी सा स्वधामसंछादितसूर्यदीति । उपासनीया जगतां बभासे सुरद्विषो मूर्तिरिव द्वितीया ॥ ३८ ॥ 
+The evening twilight which settles in the sky with colour, yellow like gold, hiding the brightness of the Sun by its own, and is worthy of worship to all the people, shone like the second fame of the enemy of Mura, which also looks yellow wearing garments shining like gold, hides the brightness of the sun by its own and is worthy of worship to all the worlds! प्रस कपातथरमाम्बुराशौ रक्तोरुविम्बौ रविरस्वशैलात् । दिनान्तनागेन दृढप्रणुन्नं मनशिला शृङ्गमिवावभासे ॥ ३९ ॥ 
+The red and large disc of the Sun who was about to fall into the western ocean, shone like the summit of red arsenic thrown with very great force from the sunset mountain by the elephant, named the evening. 
+46 
+निमज्जता वारिनिधौ सवित्रा को नाम जायेत करमहीता । रुदेति सम्भावनयैव नूनं दूरादुदक्षेपि कर प्रमुच्चैः ॥ ४० ॥ 
+The beams of the Sun, who was sinking in the 
+. 
+ocean, were thrown up like hands to a distance thinking surely that some one might hold them (to lift him up ). 
+स्फुरत्प्रमाके परमर्कबिश्वं ममज्ज सिन्धौ मकरन्दताम्रम् | 
+सन्ध्याकुमार्या गगनाम्बुराशेः क्रीडाहृतं क्षिप्तमिवारविन्दम् ।। ४१ ।। 
+The disc of the sun red as flower-juice with its shining filament-like rays, sank in the ocean like a lotus with its filaments shining with splendour brought gaily from the ocean of the sky and thrown into the ocean. 
+फणामणिप्रेक्ष्य खरांशु विश्वस्सन्ध्यासु वर्णी भवलोक्य भीतः । 
+तापाधिको वासरपमगेन्द्रः प्रायेण पातालबिलं विवेश ॥ ४२ ॥ 
+The great serpent of day with its disc of the sun shining like the hood-gem, and being too very hot (poisonous) entered the cavity of the nether world certainly out of fear at the sight of the female Garuda of Evening as it were. 
+प्रदोषरागारुणसूर्य लक्षात् दिशागजो दृप्त इवातिघोरः । 
+कालोपनीत मधुना समेतं मन्ये पयोधिः कालं न्यमुक्त ॥ ४३ ॥ 
+The ocean, which was like an intoxicated and fierce Quarter-elephant, swallowed, I think, under 
+47 
+the pretext of the evening red sun, the big mouthful of food dipped in honey brought to it by time (elephant driver). 
+Note : [ काल – Time, Elephant-driver ] 
+तदा तमः प्रोषितचन्द्रसूर्ये दोषामुखे दूषित सर्वनेत्रम् | वियोगिनां शोकमयस्य वराशागतो धूम इवान्वभावि ॥ ४४ ॥ 
+At that time, the darkness due to the absence of both the Sun and the Moon spread in all quarters, making the eyes of all powerless. It was like the smoke of the fire which was the embodiment of the sorrow of lovers separated from one another. 
+सतार पुष्पा घृतपल्लवश्रीः प्रच्छायनीरन्धतमः प्रताना | विश्वामिनन्द्या ववृधे तदानीं वैहायसी कापि वसन्तवन्या ।। ४५ ।। 
+Then grew a large aerial forest which, with a large extent of thick darkness as shady creepers, the stars as flowers and the scattered clouds as leaves was applauded by the world. 
+अलक्ष्यत श्यामलमन्तरिक्षं ताराभिरादर्शितमौक्तिकौघम् । निवस्यतो विश्वपतेखन्यां कालेन भृश्येन कृतं वितानम् ॥ ४६ ॥ 
+The black sky, showing a heap of pearls by stars therein appeared like a canopy arranged by the servant namely the time, for the Lord of the universe who was going to reside (on the earth). 
+48 
+अभृङ्गनादप्रतिपन्नमौना निमेषभाजो नियतं वनस्थाः । दूरं गते स्वामिनि पुष्करिण्यस्तत्प्राप्तिलाभाय तपो वितेतुः ॥ ४७ ॥ 
+When the sun, their husband, went far away, the lotus-plants performed penance to obtain him again, observing silence by the cessation of the noise of bees, with eyes namely lotuses shut and ever living in the forest of water. 
+निमीलिताना कमलोत्पलानां निष्पमसख्यैरिव चक्रवाकः । विमुक्तभोगैर्विदधे विषण्णैर्विबोधवेलावधिको विलापः । ४८ ।। 
+The ruddy geese-couples become separated from their mates at night. Being rid of sexual pleasures they keep crying until their re-union at sun-rise [It is here imagined]-as if they were doing so abandoning their enjoyments in sympathy for the shut-lotuses and lilies, feeling sorry for them who were their friends, as it were. 
+व मित्र नीलाम्वरसंवृताङ्गी श्यामा बभौ किश्चिदतीत्य सन्ध्याम् । प्राचीनशैले समयान्निगूढं समुद्यता चन्द्रमिवाभिसर्तुम् ॥ ४९ ॥ 
+After the evening had passed a little, the night shone like a young Lady, covering her body with the black dress of darkness, as if prepared to meet her lover, the Moon, hidden by previous arrangement of time in the appointed place of the eastern mountain. 
+49 
+निशाकरेण प्रतिपन्नमत्त्वा निक्षिप्तदेव पयोधितल्पे | जगत्समीक्ष्या जहती च का प्राचीदिशा पाण्डुग्तामयासीत् ॥५०॥ 
+The eastern quarter pregnant with the moon, seemed to lay herself down upon the bed of the Ocean, worth being seen by the world (on account of her brightness), giving up her thinness and obtaining whiteness. 
+aq:99ŝa fagsqalar oilam dafaqıfrazar I विधूयारम्भविशेषदृश्या प्राचीदिशाऽभासत देवकीव । ५१ # 
+The East, freed from the contact of darkness, shining white, applauded by Indra and distinctly visible at the commencement of the rise of the Moon shone like Devaki, devoid of 'Tamoguna', sin or sorrow (due to the presence of God in her womb), shining white, praised by Indra, and looking beautiful, just before the 'Avatara' of Sri Krishna. 
+Note: [-Tamoguna, Sin, sorrow nafag- Indra, Different groups of cowherds. Sri Krishna- who belonged to different 'gotras', first as son of Vasudeva, then of Nanda, again of Vasudeva. So Devaki was applauded not only by Indra but also by Gopas and Sri Krishna.] 
+अपत्यलाभं यदुवीरपत्न्याः महोदधौ मग्नसमुत्थितेन । तद्वंशमान्येन समीक्ष्य पूर्वे प्राप्तं प्रतीतेन पुरोधसेव ॥ ५२ ॥ 
+The Moon is most respectable to all of his race, as its founder. Vasudeva is the greatest man 
+4 
+50 
+among the Yadus. Seeing that his wife was going to obtain a son, the Moon plunged in the great ocean, rose up and arrived before (the delivery of Sri Krishna) as an interested priest. 
+लोपमे सन्तमसे निरस्ते सोमं सुधास्तोममित्रोद्वमन्ती । दुग्धोदवेलेव दुद्रोह लक्ष्म|माशा मनोज्ञाममरेन्द्र मान्या ॥ ५३ ॥ 
+When the prison-like dense darkness was gone, (by the sprouts of rays that appeared first) the direc- tion that was honoured by Indra, sent out the moon who was like nectar-mass, giving out light as the rising milk waves of the milk-ocean (at the time of its churning), which produced Lakshmi. 
+समरसमाक्रान्तिवशेन पूर्वे जज्ञे निमग्नैरिव भूतधाग्याम् । aatgquigezuagŝba+qarâfta Høg§: || 48 || 
+The tops of mountains first appeared to have been buried beneath the earth due to their being covered by darkness. Afterwards, being covered by the rays of the Moon, they appeared to have been raised up (by the hands of the Moon). 
+दिशस्तदानीमवनीधराणां सगैरिकैः पारदपटुलेपैः । 
+amfat ¬zzuat ayâ: qangarda ai: målâ: 11 44 || 
+Then, the quarters shone with the rays of the Moon, which being mixed with the red chalks of mountains were like a paste of quicksilver and which were like bright arrows of Cupid:51 
+समुन्नमन्ती कुटिलायतात्मा शशाङ्कले म्वोदय दृश्यकोटिः । वियोगितालवने प्रवीणा कामाद्यता काञ्चनशदकुलेव 
+॥ ५६ ॥ 
+The rising, curved, and long crescent of the Moon was like a gold weapon, clever in tearing the hearts of those who are separated and aimed at them by Cupid, with its pointing edge, visible at the time of rising. 
+सर्मासि दुर्वारबलस्सकालः प्रायो विलोप्तुं सहसा दिशाश्च । मनांसि कामच मनस्विनीनां प्रयुक्त शैत्याधिक मर्धचन्द्रम् ॥५७॥ 
+Time, with his unimpeded strength sent out the half-moon who is very cool, to drive out the dark- ness in all quarters in general. Cupid also with his unimpeded strength discharged his sharp crescent shaped weapon to tear quickly the hearts of proud 
+women. 
+Note : [ Cool. sharpness. ] 
+करेण सङ्कोचितपुष्करेण मदप्रतिच्छन्दकलङ्कभूमा । 
+क्षिप्त्वा तमश्शैवलमुन्ममज्ज मग्नो दिशानाग इवेन्दुरख्ये ।। ५८ ।। 
+The moon, with his beams shutting the lotuses and with big dark spot like rut, having been plunged in the ocean, rose up from it, having removed the moss-like darkness just like the quarter.elephant with the end of its trunk, shrunk. 
+Note : [st - Hand, Rays, Trunk, end of the trunk also] 
+1 
+52 
+मदोदयाताम्रकपोलमामा शक्रस्य काष्टा शशिना चकाशे | उद्देयुषा व्यञ्जयितुं त्रिलोकी नाथस्य सा नागिरिवाम्बुजेन ॥ ५९ ॥ 
+The quarter of Indra shone with the moon, who had risen to brighten the three worlds, like a young lady possessing the splendour of a red cheek due to the rise of lustful passion and also like the navel of the Supreme Lord with its lotus which manifests the three worlds (through Brahma) which gives rise to intoxicating juice and which is red also. 
+समीपतहसन्तमसाम्बुराशेर्बमार शङ्खाकृतिरिन्दुबिम्बः । पिचोपरागादिव पीतिमानं दोषाविलप्रोषितदृष्टिदत्तात् ॥ ६० ॥ 
+The conch-shaped disc of the Moon near the ocean of all-pervading darkness, took the yellow colour as if from union with bile brought about by the defective eyes of men who are sorrowful in the night, being absent from home. 
+Note : [ In दोषालिल दोष-defect, Night. ] 
+कृशोदरीलोचन कृष्णलक्ष्मा रात्र्या समिद्धोदयराग इन्दुः । कस्तूरिकाकुङ्कुमचित्रितारमा कर्पूरविन्यास इवान्वभावि ॥ ६१ ॥ 
+The Moon is like camphor. He shines with red- ness when rising. With this shining redness and with the spot, black like the eye of thin waisted women, he was taken for the "Tilaka" of the woman of Night with its shape variegated with camphor, musk and saffron. 
+53 
+प्रसादमन्तः करणस्य दाता प्रत्यक्षयन्विश्वमिदं प्रकाशैः । रामश्च रागं च विधूय चन्द्रः सम्मोदनं सश्वमिवोललास ॥ ६२ ॥ 
+The Moon gives delight to the mind. He makes the world visible with his brightness. Having freed himself from darkness and redness, he shone as the Satwa quality which gives delight to the mind, enables us to see the whole world and makes the virtuous people happy having freed itself from 'Tamoguna' and 'Rajoguna. ' 
+निशाकरो वारिनिविस्वनानां निष्पादकः कुन्दरु विश्वकाशे । उदैम्यतश्चक्रभृतो नियोगात्प्रादुर्भवन् प्रागिव पाञ्चजन्यः ॥ ६३ ॥ 
+The Moon, possessing the splendour of jasmine flower, causing the tumult of the ocean, was like the conch of Sri Vishnu, named 'Panchajanya', appearing before hand by the order of Sri Vishnu who was going to be born. 
+मृगेण निष्पणमृगाजिनश्रीः स्वपादविक्षेप मितान्तरिक्षः । सुरद्विषो वामनमूर्तिभाज: पर्यायतामन्त्रगमच्छशाङ्कः ॥ ६४ ॥ 
+The Moon, possessing the beauty of the deer- skin by the deer in him, and by spreading up his rays to measure the sky as it were, he bore the like- ness of the enemy of Mura, in the form of Vamana who possessed the beauty of the deer-skin by wear- ing it, and who measured the sky with His foot. 
+Note : Lare foot and rays.] 
+54 
+जिगाय शङ्खाश्रितशैवला मचारुद्युतेश्वन्द्रमसः कलङ्कः । उदीयमानस्य महोमिंयोगात्साच्युितं सागरसूलपङ्कम् ॥ ६५ ॥ . 
+The dark spot of the fair-beamed Moon, shone like the moss stuck up to a conch-shell. It subdued the mire of the bottom of the ocean, half removed by the contact of the big waves as the Moon was 
+rising. 
+उदेस्य तुङ्गादुदयाद्रिशृङ्गात्तमो गजानप्रकरेण निघ्नन् । 
+निशाकरस्तन्मदलेपलक्ष्मा सिताभिशुहिदशामयासीत् ।। ६६ ।। 
+The white-beamed Moon, who having come out of the high top of the rising mountain, killed the ' elephants of darkness with the paw of the tip of his beam and who had his dark spot, the smearing of ichor, as it were, obtained the state of a lion.. निशीथलक्ष्म्या इव पुण्डरीकं निर्देशसिन्धोरिव फेनचक्रम् । तारामणीनामित्र सूतिशुक्ति तमन्ववैक्षन्त विलास तन्त्राः ॥ ६७ ॥ 
+Persons of amorous pastime, guessed the Moon to be the lotus flower of the Lakshmi of mid-night splendour, a mass of foam of the ocean of enjoyment (happiness) and the oyster-shell giving birth to the pearls of stars. 
+उदारतारागण बुद्बुदौषचन्द्रेण सम्पन्नसुधा प्रसूतिः । अशेषदृश्यामधिगम्य लक्ष्मीमालोक दुग्धादभिराव मासे ।। ६८ ।। 
+: 
+The milky ocean of brightness with the large group of bubbles of stars and with the production 
+55 
+of nectar occasioned by the Moon. shone, having obtained the Lakshmi of splendour most charming of all, in the world. 
+प्रकाशय विश्वमिदं यथावच्चन्द्रोदयोद्दीपितसौभ्यतारः । 
+देवानी शीथो जगतः प्रभूतादासीदिवान्धस्य सुदृष्टिलाभः ॥ ६९ ॥ 
+The mid-night brightening this whole world well, was with its stars brilliant by the rising of the moon, the acquisition, as it were, of the power of sight by the blind world, through good fortune. विशोषितात्सागरवृद्धिहेतोर्विष्वमुखी विष्णुपदान्क्षरन्ती । तमोमय सूर्यसुतां निगीर्य ज्योत्स्नानदी शोणमपि व्यमुञ्चत् ॥ ७० ॥ 
+The Ganges of Moon-light, flowing for the purpose of increasing the ocean, from the cleared sky. with her faces on all sides, (like Sita, Alakananda, Chakshus, Bhadra in the case of the Ganges) gave up her red colour, having absorbed the daughter of the Sun (Yamuna) in the form of darkness. 
+Note : [After absorbing Yamuna, the Ganges mingles with the river 'Sona' (red river) on the way and leaves it near the sea.] 
+प्रियामुखस्तोयमधु प्रदिष्टं पीत्वा नवं प्रीत इवाम्बुराशिः । समेत्य चन्द्रद्युतिनर्तकी भिस्तरङ्गित ताण्डवमाततान ॥ ७१ ॥ 
+The ocean, having drunk the intoxicating liquor of (water) given by the mouths of wives ( rivers) and mingling like a drunkard, with the dancers of beams 
+56 
+of the Moon performed a harsh dance which was attended with huge billows. 
+कलङ्कचित्रीकृतमात्रमासे तमस्स मध्यासित सच्चकल्पम् । agozðarofaarâzzá fagram#xafa-za°zq || 02 || 
+The crescent of the Moon which being varie- gated in colour by the dark spot, was like the 'Satwaguna' black in the centre by the 'Tamoguna' shone like the half-seen sand-bank of the celestial river (Akasha Ganga) containing wet moss on it. 
+स्वमध्यमभ्यविशुद्धधामा श्यामा च सा देवकनन्दनी च । an: faqeqî anai 39019291=qda1gfaqızayaq || 03 || 
+The night and Devaki, the daughter of Devaka, both containing a bright luminary within them and both removing the darkness of the three worlds, resembled each other. 
+शाखावक शेषु कमप्रवेशैः चन्द्रा तपैराश्रित चारकस्यैः । Carafaeıfa anifa göý fará agımi-angi¶à¤ || 08 || 
+J 
+The moon-beams which went deep into branches, appeared to search the place occupied by darkness, as if with the object of removing that portion which was left from being removed. 
+It was just like the learned men who go deep into certain portions (sakhas) of the Vedas, seeming to search the place occupied by ignorance, as if 
+57 
+with the object of removing that portion which is not yet removed. 
+पराकृतध्यान्य निकाय है। पर्याप्ततारागण फेन पुत्रैः । यः प्रवाहैरिव चन्द्रपादैरशोभत चौरसमायुधस्य ॥ ७५ ॥ 
+The sky glittered with the beams of the Moon, which removed the mire of the mass of darkness, and which abounded with the foam-mass of the group of stars as with torrents of fame of Cupid. 
+ददानया दिवसरितां प्रसादं प्रसक्तहंसागमया स्वकान्त्या | अपाकृतध्वान्तघनप्रवृत्या शरन्विषा चन्द्रिकथा चकाशे ॥ ७६ ॥ 
+. 
+The Moon-light, giving clearness to the rivers of the quarters indicating with its splendour the arri val of Swans and driving away the clouds of dark- ness, shone like the splendour of the Autumn. 
+Note: [Here 'Hamsa' means Sri Krishna, in the case of Moon light and Swans in the case of the Autumn.] 
+कलावता कामविहारनाट्ये कालोचितं कल्पयतेव नर्म । 
+मोघमायापलित करण्यः प्रायो दिशां दीधितयः प्रयुक्ताः ॥ ७७ ॥ 
+The Moon who like a principal actor in the dramatic representation of love-sports, appeared to devise the sentiment of humour or mirth, suitable to the occasion as it were, sent his rays in great num- bers to all women of the quarters to make them wear, undetectably false white hairs. 
+58 
+कदम्बमालागिरघीतलास्यः कल्याणसम्भूतिरभू प्रजानाम् । प्रियोदयस्फीतरुचो रजन्यास्सन्तोष निश्वासनिभस्मीरः ॥ ७८ ॥ 
+The wind, from which the rows of Kadamba trees learnt dancing, and which was the source of joy to people, was like the joyful breath of night which grew in splendour by the rise of her lover, the Moon. 
+प्रायेण हंसैरवधूतसङ्गा चारुस्मिता सम्भृतभृङ्गनादा । सर्वोपभोग्य समये प्रतुतं कुमुद्वती कोकनदं जहास ॥ ७९ ॥ 
+} 
+The water-lily, giving up the union with the passionless swans, smiling beautifully and being filled with the humming sound of the bees, was laughing. as it were, at the lotus which was sleeping at a time, fit for enjoying pleasure by all. 
+Note: [The brightness of the rays is taken to be laughing here.] 
+कलङ्कलक्षेण समैक्षि काचित् कस्तूरिकापत्र विशेषकान्तिः । सुधांशुबिम्बव्यपदेशदृश्ये मुग्धे रजन्या मुखपुण्डरीके ॥ ८० ॥ 
+A marvellous splendour of the musk-painting under the pretext of the dark spot, was seen on the lovely lotus-like face of night, under the pretence of the disc of the Moon. 
+तलेवेपन्त महीरुहाण छायास्तदा मारुतकम्पितानाम् । शशाङ्कसिंहेन तमोगजानां लुनाकृतीनामिव गात्रखण्डा ! ॥ ८१ ॥ 
+The shadows on the ground under the trees shaken by the wind, quivered like the parts of limbs of the elephants of darkness, whose bodies were torn to pieces, as it were, by the lion, namely the Moon. 
+तमस्तरङ्गानवसादयन्त्या समेषी चन्द्रिकया महत्या । श्यामा बभौ सान्द्रनवोत्पलश्रीः सुरस्रवन्त्येव कलिन्दकन्या ॥ ८२ ॥ 
+The night, possessing the splendour of the dense. fresh lilies, and mixing with the wide Moon-light which overpowered the wave-like darkness, shone like the river Yamuna with the splendour of its. dense fresh lilies, uniting with the Ganges. 
+स्वविप्रयोगव्यसनारसुधांशुर्भृङ्गापदेशेन कुमुदतीमः । 
+प्रच्यावयामास विषं निपीतं सुधामिराप्लाव्य करस्थिताभिः ॥ ८३ ॥ 
+The Moon having bathed the lilies with nectar that was in his hand-like rays, caused the poison taken in by them, under the pretext of bees, on: account of the pang of separation from himself, to 
+come out. 
+चकाशिरे पत्रकलासमृद्धया व्योमोपमे वारिणि करवाणि । 
+कलङ्कदृश्य भ्रमराणि काले नाथेन साधर्भयमुपागतानि ॥ ८४ ॥ 
+94 
+Then the white lilies on the sky-like clear waters with the abundance of the digit-like petals and with the bees looking like the dark spot,-shone obtaining the likeness of their husband, the Moon, as it were. 
+60 
+Note: This implies the complete likeness of the souls with the Supreme to be enjoyed in salva- tion.] 
+सरिन्मुखोपाहृतमधुराशिः पीश्वेव तोयं मधु जातहर्षः । 
+चकार चन्द्रप्रतियातनानां करग्रहैः कामपि रासलीलाम् ॥ ८५ ॥ 
+The ocean, having drunk the intoxicating liquor of water brought by the mouths of (beloved) rivers and consequently, as if being excited, with mirth performed a very astonishing dance, by holding the hand-like rays of the reflected Moons. (As if he was indicating the : Rasakrida' to be performed by : Sri Krishna, later.) 
+प्रसाद माजोरुभयोरभूतानुभाव निर्धार्यमियो विशेषो । 
+-नमःस्थले श्रीवरुचिस्तारो सकैरवे तत्प्रतिमा च तोये ॥ ८६ ॥ 
+The Moon on the sky filled with stars, his re- flection on the water filled with lilies- were so similar that no difference could be cognised bet- ween the two. 
+नमस्तुषा गंशुमयूख योगात मिस्र या मोक्षमविन्दतेव । 
+तृष्यतस्तवविदो निशायामन्तर्मुखञ्चित्तमिवात्मयोगात् ॥ ८७ ॥ 
+The sky seemed to have obtained freedom from ignorance, namely darkness, by that contact of the. rays of the Moon, like the mind of the passionless and contemplative saint, directed in wards during night, by the contact of 'Brahman'.61 
+सहीदिता चन्द्रमसा बमासे ज्योत्स्नापयोघे रुपजातरागा । सदातने सञ्जननेऽपि शौरेः सहायिनी सागरसम्भवेव ॥ ८८ ॥ 
+The Moon-light rising from the ocean with the Moon, with its love namely red colour, engendered, shone like Maha Lakshmi giving company to Vishnu even in that Avatara as Krishna. 
+- 
+Note: – [Lakshmi also rises from the ocean, with love engendered. Her descent with Sri Vishnu in all His Avataras also is a well known fact. Hence, this comparison here.] 
+प्रबुद्धतारा कुमुद | ब्धि चन्द्रे निःशेषनिद्राणजने निशीथे । 
+स तादृशो देवपतेः प्रमूर्ति पुष्यन् बभौ पुण्यतमो मुहूर्तः ॥ ८९ ॥ 
+During midnight, when the stars, the lilies, the sea, and the Moon were all wakeful, and when all people were fast asleep, there shone a most sacred moment, giving birth to the Lord of Gods, (who is also most sacred.) 
+Note: [ (i) Wakefulness means, shining in tho case of stars and the Moon, blooming in the case of lilies, state of agitation in the case of the sea. 
+(ii) The moment is most sacred in the sense, it brings immense bliss to the observers of it. The Lord of Gods-is most sacred in the sense, he expels the sins in all persons who seek His protection and causes eternal bliss.] 
+भागेन पूर्वेण तमोमयेन प्रकाशपूर्णेन च पश्चिमेन । 
+यदा निशीथस्स सतां प्रसस्यै संसारमुक्त्योरिव सन्धिरासीत् ॥ ९० ॥ 
+62 
+At that moment of the incarnation of God, the midnight, with its former part made of darkness and with its latter part filled with light, gave pleasure to those who know God, like the interval between 'Samsara' and 'Moksha' the first part of which is attended with 'Tamoguna' and the latter with 'Satwaguna.' 
+Note: [The early days of the soul in this world are full of darkness- the result of "Tamas". This is the characteristic of 'Samsara'. But, when by several forces such as education etc. the darkness of igno- rance is gradually dispelled; the soul seeks after Truth-the results of aftiger. This is the charac- teristic of a philosophical life.] 
+प्रागेव जातेन सिवेन धाम्ना मध्योपलक्ष्येण च माधवेन । प्रकामपुण्या वसुदेवपन्या सम्पन्नसाम्येव निशा बमासे ॥ ९१ ॥ 
+The very sacred night with its already born luminary (the Moon) and with Sri Krishna visible in the middle of it, shone as if it obtained equality with the consort of Vasudeva. 
+सहप्रतिच्छन्दशशाङ्कभेदै हसरस्वतां ताण्ड विनस्तरङ्गाः । 
+अव शौरेरवतारवेला सन्तोषनिधना इव संप्रणेदुः ।। ९२ ।। 
+The waves of the ocean joining with different reflected Moons, danced and shouted as if overcome with joy, seeing the occasion of the 'Avatara' of Sri Krishna. 
+Note: [It is the characteristic of nature- that when a good man is born, every aspect of Nature 
+63 
+puts on a mild, soothing, peaceful and good appear. ance: What is to be said of the Avatar of the Being-- the quintessence of the whole of Nature?] 
+अवादितोदीरितवाद्यघोषं निशा मिराम्रेडित दिव्यगीतम् । सतामुपस्थापितसच्चलास्यं सङ्गीतमङ्गल्यमभूत्तदानीम् ॥ ९३ ॥ 
+At the moment of the Avatara of Sri Krishna, the sounds of musical instruments were produced without being played upon. The celestial songs were repeated by the quarters. The dancing of "Satwaguna' was made to approach the virtuous. Thus, there was an auspicious triple symphony. 
+Note: [ Combination of the three, namely song. dance and instruments is known as सङ्गीत.] प्रदीपितः कंमगृहेषु दीपेस्तापैय भावेषु तपोधनानाम् । अलभ्यत क्षिप्रमलब्ध मङ्गैर हेतु निर्वाणदशानुभूतिः ॥ ९४ ॥ 
+The luminous lights lit in the house of Kamsa, and the agony of sages, receiving no obstruction (hitherto), soon came to the state of dying out with out cause. 
+अजस्स्वजन्माईतपाऽनुमेने यामष्टमीं यादवभावमिच्छन् । 
+द्वितीयया भावितयोगनिद्रा साभूत्तदानीं प्रथमा तिथीनाम् ॥ ९५ ॥ 
+That Ashtami, namely, the eighth day of the dark half of a month, which Sri Vishnu, the birth • less one, thought fit for His birth as a yadava, became the first (best) of the days thence. The next 
+64 
+one, Navami', (the ninth in the same half ) on which the 'Maya' or 'Yoga Nidra' of Sri Vishnu was born, became the second. 
+अथ सितरुचिलग्ने सिद्रूपञ्च प्रहोचे 
+व्यजनयदनघानां वैजयन्त्यां जयन्त्याम् । अखिल बन पद्मक्लेशनिद्रा पनुच्ये 
+दिनकर मनवायं देवकीपूर्वसन्ध्या ॥ ९६ ॥ . 
+After the Moon-rise, on the day of 'Jayanthi' which is the banner of all the sacred days, during the moment known as Vrishabha Lagna, when the five planets namely the Moon, Mars, Mercury, Jupiter and Saturn were in the ascendant, the eastern Sandhya (twilight) of Devaki gave birth to a never- setting Sun, to put an end to the shutting (distress) of the lotus of all the worlds. 
+अवतरति मुकुन्दे सम्पदामेकचन्दे 
+सुरभितहरिदन्तां स्वादुमाध्वीक दिग्धाम् । अभजत वसुदेवस्थान मानन्द निघ्नै- 
+रमर मिथुन हस्तैराहितां पुष्पवृष्टिम् ॥ ९७ ॥ 
+When Sri Krishna, the sole root of all kinds of wealth, was born, god-couples who were over- come with joy, showered with their hands, fragrant flowers on the residence of Vasudeva, by which the regions of the quarters were all scented and which were wet with sweet juice. 
+॥ म् । 
+तृतीयः सर्गः 
+'मम्द गृह प्रावर्णिनम् Description of coming to Gokulal 
+अथ जगन्ति बभ्रुवुरना विलान्यतिमिरा हरितः प्रचकाशिरे । अमजदेव निशा दिवसश्रियं जननभाजिनि देवदिवाकरे ।। १ ।। 
+Then, when the Sun of Sri Krishna took his birth, the worlds became cheerful. The quarters shone without darkness. The night obtained the splendour of the day. 
+Note: [ अनादिलानि Clear minded, cheerful-minded.] 
+ननृतुरप्सरसो दिवि नन्दिताः किमपि गीतमगीयत किभरैः I श्रुतिसुखैः समतोषयत स्वनैरमरदुन्दुभिरानकदुन्दुभिम् ।। २ ।। 
+The celestial nymphs danced merrily. The kin- naras sang wonderful songs. The sounds of celestial drums pleased Vasudeva, being very sweet to hear. 
+दशसु तत्र दिशास्वशरीरिणी जयजयेति बभूव सरस्वती । अजितमेकमगोचरयत् स्वयं स्वरसवृत्तिरसा वसुरान्तकम् ॥ ३ ॥ 
+There was an incorporeal voice "Oh, God ! Victory to Youl" in all the ten quarters. This voice referred with its full meaning to Sri Krishna alone. the unconquered Destroyer of Asursas. 
+Note: [ 'जय'-means - God, as well as "victory." 
+5 
+66 
+अनतिवेलसमीरणचोदितैः शिशिरशीकरशी परिताम्बरैः । जलधरैरभितो दिवि दध्वने सुरगजैरिव सूचितमङ्गलै ॥ ४ ॥ 
+The clouds driven by the gentle wind made the sky look pleasant, with their cool tiny particles and thundered all about the sky like the celestial elephants, indicating the auspiciousness of the time. 
+Note : ( जनविवेल - not exceeding the due limits or boundary, not excessive not violent, hence gentie. ] 
+ववुरथो मरुतस्त्रिदशाङ्गनावदन सौरभसारमृतः शुभाः । मुदितनिर्जग्मुक्तमप्रसववृष्टिमधुद्रव मेदुरः ॥ ५ ॥ 
+Then, the auspicious winds blew with the essence of the odour proceeding from the mouth of celestial women, being wetted with the juice-flow proceeding from the flowers of 'kalpa vriksha', show- ered by gods with joy. 
+मधुरिपोरव तारमहोत्सवे मुमुदिरे मधुरापुरदेवताः । 
+यदभिगन्तरि भक्तजने वरं ददुरशेषमतन्द्रित वेतसः ॥ ६ ॥ 
+During the festive occasion of the birth of Sri Krishna, the deities of the city of Madhura felt joy and bestowed with untired minds, all gifts on the devotees who went to them. 
+अवदधानधियो मुनयस्तदा यदनधीतमधीतवद असा 
+निगमजातमशेष परेक्ष्य तभिरविशन्निव मुक्तिमयीं दशाम् ॥ ७ ॥ 
+The attentive-minded sages saw even the unstudied collection of the Vedas (becoming as if 
+67 
+they had been) studied and seemed to enjoy the state of 'Moksha'. 
+प्रसदनं शरदागमसंभवं नमसि मासि नदीभिरुपाददे । महितयोग विंदां मतिभिः समं प्रतिभिरध्यनुपप्लवनीतिभिः ॥ ८ ॥ 
+The rivers in that month of 'Sravana' became as clear as in the Autmn. The intellects of the exalted yogins also, attained clearness due to which the Vedas flashed with their right meanings in them, without prejudice to their morale. 
+Note : [अनुरल नीतिभि:--with the immutable princi ples of the moral philosophy, not being liable to any foreign attack.] 
+निखिल वेतनमान मनिःसृताः कलुषता। समुपेत्य किल क्षणात् । विविशुरम्भ इव स्वयमापगाः जलनिधेखि भोजपते मनः ॥ ९ ॥ 
+The turbidity of the minds of all living beings, joining together in a moment entered the mind of Kamsa, of their own accord, as rivers enter into the waters of the ocean. 
+मसुरवीरगृहाणि पृथग्विधैरशुभशंसि मिरानशिरे मुहु । ममरराजपुरेषु जजृम्भिरे शुभनिमित्ततानि पुनः पुनः ॥१०॥ 
+The houses of the heroic demons were often pervaded by omens forecasting evil, Hundreds of good omens appeared again and again in the cities of lord of the Gods. 
+Note: The hours of the birth of Sri Krishna witnessed signs of auspiciousness to the abode of the celestials and the ordinary human beings as well as signs in the abode of the demons that forbode evil to them.] 
+चरमतश्च ऋणादिव देवकीपतिरमुच्यत शृङ्खलतः स्थिशत् । निखिलबन्धनिवर्तकसंनिधौ विगलनं निगलस्य किमद्भुतम् ॥ ११ ॥ 
+Vasudeva was set free from fetters as from his last debt. What wonder is there if the fetters drop down in the presence of one who expels all ties? 
+Note: [The last debt here means the debt which one owes to his pithru's (faq's) thatbecomes cleared by the birth of a son only.] 
+उदितमात्मनि देवकसंभवा दनुजभेदनमङ्कगतं दधौ । 
+कमपि काश्चनभूभृदविश्यका हरिहयोपलशृङ्गमिवाद्भुतम् ।। १२ ।। 
+Devaki bore the child, Sri Krishna, the destroyer of demons born of herself, and sitting upon her lap, as awonderful sapphire-summit of extra-ordinary splendour, upon the highland of the gold mountain, Meru. 
+विधृतशङ्खरथाङ्गगदाम्बुजः शचलितः शुभया वनमालया । पितुरस्रत मुदं पृथुकस्तदा जलधिडिम्भनियो जननी धृतः 
+!! १३ ।। 
+Then the child, like a young sea wearing Conch, Chakra, Gada. Lotus and variegated by beautiful 'vanamala', caused great joy to the father, being borne by the mother. (The sea also wears conch- 
+69 
+shell, ruddy geese, the lotus flowers and the row of forests and is black in colour.] 
+Note: [ वनमाका - In the case of Sri Krishna, a garland of sylvan blossoms. which is thus described: माजानुरूंबिनी माला सर्वर्तुकुसुमोश्वला मध्ये स्थूल तुम्बा वनप्रालेति कीर्तिस पितरमब्ज वामनपायिन प्रियतमाङ्कगतं परिपश्यता । 
+स विरानकदुन्दुभिना महान् अवितथैः स्वगुणैरभितुष्टुवे ॥ १४ ॥ 
+Vasudeva saw the dangerless Father of Creators lying upon the lap of his beloved and praised this supreme Lord for His real qualities. 
+प्रणिपतामि भवन्तमनन्यधीरविल कारणमाश्रिततारणम् । 
+अनुगमादनिदम्प्रथमा गिरः किमपि यत्पदमेकमधीयते ॥ १५ ॥ 
+॥ 
+You are the origin of all and the protector of those who seek your protection. The sayings of the originless Vedas study consistently your wonderful form I bow to you with my mind directed to no one else. 
+Note: [ वितारणम् - redeemer of the devotees अनुगमात् — Those that have no origin or sources, as applied to the Vedas] 
+विषमकर्म विपाकपरम्परा विवशवृचिषु देहिषु दुस्तरम् । 
+करुणया तब देव कटाक्षिताः कतिचिदेव तरन्ति भवार्णवम् ॥ १६ ॥ 
+Oh, God! Only a few of those, who are born by the succession of results of their wrong actions cross the unfordable ocean of 'Samsara' by Your merciful glance 
+70 
+स्वदनु भावमहोदधिशीकरे श्वशपातिभिराहितशक्तयः । अवधिमेदवतीमुपभुञ्जते स्वपदसंपदमब्जभवादयः ॥ १७ ॥ 
+Brahma and others enjoy the fortune of their position with different durations, created by the self-falling water-particles of the great ocean of Your power. 
+श्रुतिकिरीटशुभाश्रयविग्रहः परमसत्त्वनिधिः प्रतिपद्यसे । जगदनुग्रह मारुतचोदितो विविधरूपतरङ्गविकल्पनाम् ॥ १८ 
+Your form is the excellent subject of the Upa- nishads. You are the store of great Satwa. Being driven by the wind of favour to the worlds. You assume the waves of various shapes. 
+त्वयि न देव यदायतते न तञ्जगति जङ्गममन्यथापि वा । इति महिनि तव प्रमिते परं विभजने विविधैः स्थितमागमैः ॥ १९ ॥ 
+There is nothing in the world. animate or inani- mate, which does not owe its existence to You. When your greatness has been measured thus, Shas- thras of various kinds are in the act of simply classifying it. 
+अखिललोक पितुस्तव पुत्रतामहमया चमनन्यमनोरथा । 
+वरद वाञ्छितदानधृतव्रते त्वयि तदेवमयश्नमपच्यत ।। २० । 
+Oh, bestower of boons! With no other desire. I begged You, the father of all worlds, to become my son. This request made to You who has a71 
+vow to give the desired things, has thus become ripened without effort. 
+अवनिमारनिराकरणार्थिनां क्रतुभुजामभिलषमवन्ध्ययन् । जितरिपुणि बहूनि दयानिधे विहरणानि विधातुमिहाईसि ॥ २१ ॥ 
+Gods have requested you to remove the burden of this earth, without making their desire in vain. Oh, store of mercy! It is worthy of you to make many sports conquering your enemies. 
+दनुजमोहनदोहलिना त्वया सहजलाञ्छन संवरणं भ्रमम् । 
+तदधुना शमयन् मम साध्वसं यत्र निकामधिगच्छ यथेप्सितम् ।। २२ । 
+It is proper to you who desire to elude the demons to hide your natural signs. So, putting an end to my fear, put on a concealment as you desire. इति सभीतमवेक्ष्य दयानिधिः स्मितमुख वसुदेवमभाषत । स्वमसि मे जनकः किमिहान्यथा किमपि तात मुधा कथितं स्वया !" 
+Seeing Vasudeva thus afraid. the store of mercy said with His smiling countenance, 'You are my father; such being the case, O Father I why did you say in vain something about myself, in an unnatural way ?” 
+इयममर्त्य पितुस्तव गेहिनी दिविषदां जननी मम चानघा । अभिमतं युवयोरनवग्रहं समयभावि मयैव समर्थ्यते ।। २४ ।। 
+This wife of you, the father of Gods, was their mother and also mine. (Since you are my parents 
+72 
+even from the previous birth) the desires of both of you, would be fulfilled by myself, with no interrup- tion, in it's own time. 
+यदि विभेषि भजामि मनुष्यतामथ च मां नय नन्दगृहं क्षणात् । दुहितरं च समानय तस्य तां गतमयो मव दूरगते मयि । २५ ।। 
+If you are afraid I take the human form (presen - tly). Then take me to Nanda's house in a mounent, bring over his daughter here. Give up fear, when I go to a distance. 
+अथ विशम्य नियोगमभङ्गुरं मधुजितो मधुराक्षरमन्थरम् । 
+हितमिंद प्रतिपद्य तमाददे गुरुतरं कृपया लघुतां गतम् ॥ २६ ॥ 
+Then, Vasudeva-having heard the sweet-lettered slowly-flowing words of Sri Krishna, which was of unfailing character, understood His command to be good, took Him up, who though very weighty, be- came light out of mercy. 
+तुहिन भानुदिवाकरलोचनं निगम निःश्वसितं स्वसुतस्य तत् । अनुवभूव मुहुर्मुहुरादरादनघमाननमानकदुन्दुभिः ।। २७ ।। 
+Vasudeva saw affectionately. again and again. the flawless face of his Son, which had the Sun and the Moon for its eyes and the Vedas for the breath. 
+श्रतिसुगन्धिसुतानन चन्द्रिकामुषितमोहतमा मुनिसंनिभः । अधिजगाम स तन्मयतां क्षणादनिमिषत्वमुत प्रतिसंदधे ॥ २८ ॥ 
+The darkness of his ignorance being stolen waay by the moon-light of his son's face which was 
+73 
+fragrant with Vedas, Vasudeva became like a sage and got for a moment the sameness of the son, or else, he attained the state of winkless eyes (or divi- nity) as in his former birth as Kasypa, which might have come to his memory. 
+Note: [The celestials alone are said to possess winkless eyes.] 
+जिगमिषुः स दिशो दश यादवः सकृदवैक्षत साध्वस विह्वलः । अनघवैभवमर्मकमुद्वहन् अमितगुप्तिनिरुद्धगतौ गृहे ॥ २९ ॥ 
+Vasudeva took up his child of unlimited splen- dour and desirous of moving from there looked once in all the ten quarters, being anxious with fear when his moving was obstructed in the house, by too many safe-guards. 
+· 
+विजघटे सहसैव कवाटिका व्रजमथ व्रजतो यदुभूभृतः । उपलकल्पमशेरत रक्षकाः सरणिम। दिदिशुर्गृहदेवताः ॥ ३० ॥ 
+When Vasudeva, the king of Yadus, was going to Gokula, the door suddenly opened itself. The guards were all lying down almost like stones. The domestic deities showed the way. 
+वरदसूनिव यामिकरक्षकान् मुषितमञ्जुगिरः शुकशारिकाः । यदुकुलेन्द्रपश्यदमीलितान् परिजनानपि चित्रगतानिव ॥ ३१ ॥ 
+Vasudeva, the gladdener of the race of Yadus like the moon, saw the watchmen on duty at night as if with life going out. The parrots and 'minas' seemed as if their sweet words were stolen away. 
+74 
+The servants though awake, seemed senseless as it they were only pictures. 
+' 
+उपयतो विशिखां सदनान्तरात् कुत्रलयामकुमारतनुत्विषा शतमखोपलमेचकया द्रुतं शमितसंतमसा हरितो बभ्रुः ।। ३२ ।। 
+When Vasudeva was going out along the street from inside the house, the all-pervading darkness in the quarters was soon removed by the brightness, dark-blue as sapphire, of the son's body shining like a lily. 
+श्रतिमयो विहगः परितः प्रभु व्यचरदाशु विधूत निशाचरः । अनुजगाम च भूधरपन्नगः स्फुटफणामणिदीपगणोद्वहः ॥ ३३ ॥ 
+Geruda, who is the Vedas incarnate, went round and round the Lord tossing about the demons. The Serpent who is bearing the earth followed Him, with a row of bright lights of the gems in his hoods. 
+दिनकरोपमदीधितिभितदा दनुजदेह विदारणदारुणैः । परिगतः किल पञ्चभिराशुधैर्यदुपतिः प्रजहावसहायताम् ॥ ३४ ॥ 
+Then, [like Garuda and the serpent] the five weapons (Conch, Chakra, Gada, Sword and Sharnga) also attended on the king of Yadus, surrounding him with Sun-like rays and looking fierce by tearing to pieces the body of the demons. 
+प्रगुणमिन्दु निवेदितपद्ध तिर्थ दुकुलेन्दुरथो यमुनानदीम् । परमपुरुषमक्षत पौरुषः पतगरराज वाशु वहन् ययौ ॥ ३५ २० 
+75 
+Then, the moon of the Yadu family (Vasudevaj. having his path shown straight by the moon, moved fast to the river Yamuna, with his uninterrupted exploit, bearing Vishnu upon him like Garuda, the Lord of birds. 
+Note : [That moon is favourable to moon, and Vasudeva, being a store of 'pourusha'--parama purusha is with bim - both are very apt.] 
+तनुतरङ्ग पृषत्कणशीतलः सुरभिकैर बसौहृदवासितः । अभिसमे तमसेवत मारुतो यमुनया प्रहितो यदुपुंङ्गवम् । ३६ । 
+The chief of the Yadus, who arrived there was served by the wind, rendered cool with the tiny particles of drops of small waves and fragrant by its contact with the odorous lilies being sent by Yamuna. 
+पवनकतिपल्लवपाणिका प्रहितपुष्पभरा पदवीमुखे । 
+उपजुहाव किल भ्रमरस्वनैर्यदुपतिं यमुनोपवनस्थली ॥ ३७ ॥ 
+The groves on the bank of the Yamuna river in front of their path, certainly invited the Lord of the Yadus with its hands of wind shaken tender leaves and with the humming noise of bees, having scat- tered flowers (on the way ). 
+निमिषितासितनीरजलोचना मुकुलिताब्जमुखी सवितुः सुता । ललितदीन रथाङ्गस्वना कुहक दैन्यमशोचदिव प्रभोः ॥ ३८ ॥ 
+Yamuna, the daughter of the Sun-god seemed to feel sorry at the Lord's pitiable condition of having 
+76 
+to play jugglery, (pretending fear of Kamsa) with her eyes of black lotus flowers and lotus-like mouth, both shut and with the gentle poor cry of the chakra- vaka pairs. 
+विकच कैरव तारकिताकति तनुमतीमिव शारदयामिनीम् । 
+स्वरितमम्बु निघेर भिसारिकां तरितुमैहत सत्यसमीहिता ॥ ३९ ॥ 
+Vasudeva of never-failing desires wanted to cross the river quickly which with its shape rendered starry by the open white lilies resembling the autumnal night embodied and which was, as it were, a lover of the ocean, moving quickly to meet him like a woman who goes to meet her lover or keeps an appointment made by him. 
+मत्रति किं नु भविष्यति वा किमित्यनवधारितशौरिविहारया । चकितयेव विरोचनकन्यया विधुतवीचिकरं किल विव्यथे ॥ ४० ॥ 
+Yamuna, the daughter of the Sun-god, not knowing the sport of Sri Krishna. (that his going to Nanda's house was only a sport and not fearing Kamsa), became actually agitated, tossing up her hands of waves as if fearing "what will happen now ? what will occur in the future" ? 
+घनतमः परिपाकमलीम सैगुरुभिरूमिंगणैरनुपप्लुतः । 
+अतिततार दिनाधिपतेः सुतामनघयोगमना इव संसृतिम् ।। ४१ ।। 
+Vasudeva not being endangered by the succes- sion of waves, which were like the perfect form of 
++ 
+77 
+dense darkness, crossed the river Yamuna, like one, whose mind is fixed in unimpeded yoga, crosses 'Samsara' without being endangered by the succes- sion of the sixbig waves of human infirmities (hunger. thirst, sorrow, ignorance, old age, death) rendered sinful by the strong 'Tamoguna' 
+यदुपतेर्यमुना त्वरितं यतः प्रतियतश्च समर्पितपद्धतिः । स्वयममर्त्यमदावलमज्जनी चरणलङ्घयजला समजायत ।। ४२ ।। 
+Yamuna, though so deep as to make even celes- tial elephants sink in her water, now became forda- ble by foot to Vasudeva, by herself quickly present- ing the way to him, while both going and returning. 
+अजनि पश्चिमतो भृशमुन्नता रविसुता पुरतः स्थलशेषिता । afrate पदं किमसौ हरेः प्रतिययौ यदि वा पितरं गिरिम् ॥ ४३ ॥ 
+The river became very high on her west with a space left in the east as if she rose to the sky or she returned to her father-mountain. 
+अकृतसंतुमनाकलितप्लव जननसिन्धुदृढप्लवमुद्वहन् । रविसुतामतिलक्ष्य रमापतिं सपदि घोषसमपिमुपानयत् ॥ ४४ ॥ 
+Having crossed Yamuna, with no bridge cons- tructed or no ship launched, Vasudeva carrying the strong boat of the ocean of 'Samsara', the consort of Lakshmi, came near to the village, Gokula, 
+अथ कथाच नकारणनिद्रया विवशसुप्तजनं व्रजमाविशत् । धनदपतन संपदि यत्र सा स्वसुतमग्रथमसूयत रोहिणी ।। ४५ ।। 
+78 
+Then he entered the village of Gokula with its people sleeping unconsciously by the Maya of God. which village was as wealthy as the city of Kubera and in which Rohini had brought forth her first son. 
+उपगते वसुदेवसुतेऽन्तिकं नरकवैरिणि नन्द छुम्बिनी । परणिसं मवपावकसंगमादभजताश्वर वेदिरिव भियम् ॥ ४६ ॥ 
+When Vasudeva's child, the enemy of Naraka approached Nanda's wife, she attained the bright- ness of the altar of a sacrifice by its contact with the fire born from Arani (a kind of wood used for kind- ling the sacred fire, by friction). 
+Note: [The demon Naraka was born of earth. He was the king of Praggjyotisha. There are two different accounts of him; (1) He carried off Aditi's ear-rings. But at the request of the god's he was slain in a duel by Sri Krishna and the jewels were recovered. 
+(2.) Assuming an elephant's form. he carrried off Viswakarman's daughter and outraged her. He also took off the fair wo men of Gandharvas, Gods men and nymphs and collected as many as 16000 damsels in his harem. It is related that these were at their request transferred by Sri Krishna to his own barem afrer he had slain Naraka.] 
+न्यधित नन्दवधूपविषे सुतं द्रुतपादित गोपकुमारिकाम् । 
+अथ निनाय च देवकनन्दनी शयन मानकदुन्दु मिराशु तान् ॥ ४७ ॥ 
+79 
+Vasudeva placed his son near the wife of Nanda, took up his daughter (Yoganidra) quickly and brought her soon to the bed of Devaki 
+अनवबुद्धजनार्दन कन्यका विनिमयस्त्वय भोजगणेश्वरः । हर्षादि तामभिहन्तुमपातयत् प्रतिजघान च सा चरणेन तम् ॥ ४८ ॥ 
+Then, Kamsa, the Lord of the Bhojas, not know ing the (mutual) exchange of Krishna and the girl hurled her upon a stone to kill her but she kicked him with the foot 
+नृपति।शु पदा निहतस्तया निपतितोदितकन्तु कवद्भवन् । 
+दवस मातशैलनिभः क्रुधा दर निमीलितदृष्टिरदूयत ॥ ४९ ॥ 
+Being immediately kicked, Kamsa acted like a ball falling and rising; burning with anger. like a mountain surrounded by fire he became perturbed in mind, with his eyes shut a little. 
+उदावत् दिवमुग्रधनस्वना युवतिरूप युगास्यय शर्वरी । 
+असुरघातिभिरष्टभिरायुधैरलघु मिश्रपलामिरिवाश्रिता ॥ ५० ॥ 
+The night of the time of deluge in the form of a woman, with eight big demon-killing-lightning-like weapons, sprang up to the sky with an intense thunder-like noise. 
+Note: [At the close of ayuga, when the destruc- tion of the whole universe is imminent, the universe will be enveloped in complete darkness.] 
+80 
+अथ च भोज नियन्तुरपन्त्रिता दनुजहन्तुरुदन्तमुदैरिश्त् । पटु गभीरमुदारमनाकुलं हितमविस्तरमर्घ्यमविलचम् ॥ ५१ ॥ 
+After flying up, she gave Kamsa. without res traint, an account of Sri Krishna, the destroyer of demons, with her voice heated, loud, harsh sound. ing, fearless, advising, brief, consistent and with no disorder of words. 
+अहमशेषसुरासुरमोहनी यवनिका मधुकैटभमर्दिनः । 
+प्रबलशुम्भ निशुम्भनिषूदने प्रणिहिता हतया तव किं मया ॥ ५२ ॥ 
+I am the veil of the God, who is destroyer of Madhu and Kaitabha. I delude gods and demons. I have been sent to destroy the powerful Shumbha and Nishumbba. What can you gain by killing me? 
+Note: [Madhu and Kaitabha are said to have sprung from the ears of Vishnu, while asleep and to have been slain by Vishnu, when they were about to devour Brahma. 
+Shumbha and Nishumbha were two demons said to have been slain by Durga-the Yoga-maya of Sri Vishnu.] 
+। 
+वसति नन्दगृहे विबुधद्विषां दमयिता वसुदेवसमुद्भवः । अयमसौ तव नाशयितेति सा दरमुदीर्य जगाम यथेप्सितम् ॥ ५३ ॥ 
+"The destroyer of the enemies of the Gods, born of Vasudeva is living in Nanda's house. He will kill you." Having consciously said thus she went away as she pleased.81 
+( विबुध - ( 1 ) gods (2) The wise] मधुहिरण्यनिमो मधुरापतिर्दिन हुताशनदीनदशां गतः । श्वसितजल्पितवेपित हुंकु तैररतिमाय तभीतिरसूचयत् ॥ ५४ ॥ 
+Kamsa, the king of Madhura, who was like Madhu and Hiranya, being with his long continued fear reduced to the pale state of the day-fire, showed his anguish by breathing, prattling, tremor and uttering "Hum". 
+जडमतिः स जनार्दनमायया विहसितस्त्रपया जनितव्यथः । अपकृतं वसुदेवममोचयत् दयितया सह दीनविलापया ॥ ५५ ॥ 
+The dull-witted Kamsa, having been laughed at by the Illusion of Sri Vishnu, grieved on account of shame and set at liberty, the wronged Vasudeva along with his beloved wife, who was crying pitiably किमपि चिन्तितमागतमन्यथा किमिदमित्यवशादुपजातथा । विषविदुषितयेव मनीषया मुहुरदूयत मोहविचेष्टितः ॥ ५६ ॥ 
+Being disturbed by confusion, he grieved within himself again and again with the self-arising thought, which as if polluted by poison, was as follows:- "Something has been thought of and it has resulted in a different way. What is this?” अविषये विपदामसुरान्तके पुनरियेष निकारपरम्पराम् । नियतिरेकमुखी दुरतिक्रमा कृतधिया किमुताऽऽविलचेतसा ।। ५७ ।। 
+He wanted to do series of evils to the destroyer of demons, who is beyond danger. Fate which 
+6 
+82 
+adopts a certain course is impossible to be trans- gressed, even by the wise. What is to be said of one of an agitated mind? 
+परिवभूव चुकोप विसिष्मिये परिजहास हरिं प्रजगर्ज च । परिणतेन भवान्तरवासनाऽऽग्रहगुणेन भजन् भवितव्यताम् ॥ ५८ ॥ 
+Undergoing fate by the ripened influence of anger, due to the impression left on his memory of his former birth, Kamsa dishonoured Sri Krishna, felt angry with Him, wondered at Him, laughed at Him, and cried aloud "Hari."- 
+Note : [ वासनाह-- The retention of the impression] कंचन धामनि कंस निवेदिते समयमानकदुन्दुभिरावसत् । स्मृतिगतेन सुतेन सजीविता दिनशतानि निनाय च देवकी ॥ ५९ ॥ 
+Vasudeva lived in fear, in a house shown by Kamsa. Devaki spent hundreds of days, keeping her life, by having her son in memory. 
+विगतकन्यया च यशोदया नियतिसंभृतनिर्भर निद्रया । 
+चिरसमागतजागरयाऽन्तिके हरिरपत्यमदृश्यत धन्यया ॥ ६० ॥ 
+When blessed Yasoda obtained wakefulness after, a long time, from sound sleep given to her by God, she saw near her, the child Sri Krishna, ber female child being lost (gone). 
+यदवबुद्ध निर। कुलनीतिभिर्मुनिगणैरधुनाऽपि विमृग्यते । तदिदमागम मौलिविभूषणं विधिवशादभवत् व्रजभूषणम् 
+॥ ६१ ॥ 
+83 
+This ornament of the Upanishads, who is even now sought after by multitudes of sages who have understood the established Nyayas became, fortu- nately, the ornament of the Village of Cowherds. 
+अन घवत्समना कुलधेनुकं प्रचुर दुग्धमचोरमयोद्भवम् । व्रजमनामय विश्वजनं विभुः कृतयुगास्पदकल्पमकल्पयत् 
+॥ ६२ ॥ 
+The Lord made the village of the cowherds, the place of Kritayuga, as the calves there were dis easeless, the cows were free from all worries, milk was abundant, there was no fear of thieves arising, and all the people were wealthy. 
+अजनि गोपगृहेषु मनोरमैरमित कान्तिभिरप्सरसां गणैः । यदनुभूतिरसेन समेष्यतः शरणयादव शैशवयौवने ॥ ६३ ॥ 
+Multitudes of charming nymphs of Sri 'Vishnu- loka' of boundless splendour, were born in the house of cowherds, with whose happiness of enjoyment, the childhood and youth of Sri Krishna, the protec- tor, would be connected. 
+सुरमही सुरतोषणमादरात् नवमुपादित नन्द उदारधीः । तरलगोपगणागमसंकुलं तनयजन्म महोत्सव मद्द्भुतम् ॥ ६४ ॥ 
+The generous-minded Nanda celebrated the great, astonishing festival of his son's birth, which was the first of its kind (as no son had been born to him till then) which delighted the gods and the Brabmins and which was disordered by the unsteady cowherds going hither and thither. 
+अधिचकार वदान्यमणेः श्रियं व्यधित कल्पतरोरनु कल्पताम् । उपजनयच्च सुतप्रसवोत्सवे महति मेघविकत्थनमोघताम् || ६५ ॥ 
+During the great festival of his son's birth. Nanda took away the splendour of the munificent celestial gem named " Chintamani", created a secon- dary importance to the celestial tree named "Kalpa Vriksha" and caused meaninglessness to the prais of the cloud. 
+निधिमनन्तमिव स्वयमुत्थितं निरवधिं निजभागमिवोदितम् । प्रजभुवः प्रतिलभ्य रमापतिं जहसुरेन्द्रमसारतरं पदम् ॥ ६६ ॥ 
+Obtaining the boundless and un-ending treasure of Sri Krishna, the husband of Sri Lakshmi, risen by Himself, the advent of thieir good fortune, as it were, the residents of Gokula laughed at the region of Indra as sapless. 
+पुत्रं प्रसूय तपसा पुरुषं पुराणं कालं चिरं विधिवशात् कृतविप्रकर्षो । शङ्काकलङ्कितधियावपि दम्पती तौ तद्वैभवस्मरणशान्तरुजावभूताम् || 
+The couple, Vasudeva and Devaki, who had brought forth the Ancient person as their son by means of penance, were unfortunately kept at a distance for a long time from Him. Though their minds were agitated with the fear of Kamsa, their sorrow was calmed by the thought of the son's glory. 
+नन्दसन्धनि नवेन्दुसंनिभौ वासमेस्य वसुदेवनन्दनौ । वृद्धिमापतुरनेहसा स्वयं स्वादुभोगजननीं सुपर्वणाम् ।। ६८ ।। 
+85 
+The sons of Vasudeva, Sri Rama and Krishna by name, appeared like the fresh moon having obtained residence in Nanda's house. They attained their growth in time which, by itself was the cause of sweet enjoyment to the Gods. 
+॥ म् ॥ 
+चतुर्थः सर्गः 
+[निधगोचारणम् - The undisturbed grazing of cows] 
+मनीषितं कैतव मानुषस्य श्रुत्वा मयक्रोधपरिप्लुतात्मा । कंपश्विरं प्राग्भवकालनेमिचिन्तार्णवे मग्न इवावतस्थे ॥ १ ॥ 
+Kamsa, who was Kalanemi in his previous birth, heard about the object of Sri Krishna, a man by deceit, and had his heart long sunk in fear and rage, as if plunged in the ocean of anxiety. 
+Note : [Kalanemi was a demon with 100 arms killed by Vishnu] 
+स दुर्दमान आसुरसश्व मेदान् नेता समाहूय नृशंसचेताः । प्रस्थापयामास परैरधृष्यं नन्दास्पदं नाथविहारगुप्तम् ॥ २ ॥ 
+The ruthless king, calling a certain irrepressible class of Asuras, sent them to the home of Nanda, which being easily protected by the Lord, was not not susceptible to attack. 
+86 
+कदाचिद्दन्तर्हितपूतनास्मा कंस प्रयुक्ता किल कापि माया । निद्रापराधीनजने निशीथे वजं यशोदा कृतिराविवेश ॥ ३ ॥ 
+Once an illusory being sent by Kamsa, hiding her Putana-form entered the Gokula, disguised as Yasoda, at midnight when the people were all under the charm of sleep. 
+Note : [ Putana is the name of a female demon, who while attempting to kill Sri Krishna when but an infant, by giving Him her poisoned breasts to suck was herself killed by Krishna who sucked up her vital airs] 
+स्तन्येन कृष्णः सह पूतनायाः प्राणान् पपौ लुप्पुनर्भवायाः । यदद्भुतं भावयतां जनानां स्वनंधयत्वं न पुनर्बभूव ॥ ४ ॥ 
+Sri Krishna drank in the life of Putana, along with her breast-milk by which never again she had birth. The people thinking of this wonder, never had to become suckling Children again 
+निशम्य तस्याः परुषं निनादं रूक्षं यशोदा रुदितं च सूनोः । ससंभ्रमावेगमुपेत्य भीता तमग्रहीद् दुर्ब्रहमागमानाम् ॥ ५ ॥ 
+Hearing her harsh wail and the loud cry of her son. Yasoda, being afraid rushed and took Him up who is beyond the reach of the Vedas. 
+नन्दय तोत्रेण मयेन सद्यः समेत्य पश्यन् अनर्थ कुमारम् । तेनैव सस्य त्रिजगन्नियन्तुः प्रायुक्त र परमार्थवेदी | ६ || 
+87. 
+Nanda, the possessor of true spiritual know- ledge, having approached with great fear and 'seeing his son after all uninjured, commended Him, the ruler of three worlds to the care of Himself (by uttering Mantras). 
+गोपाथ संभूय गुहोपमाक्षीं स्वघोषनिर्द्रादितविश्वघोषाम् । 
+गतासुमैचन्त निशाचरीं तां भीमाकृतिं भैमरथीमिवान्याम् ॥ ७ ॥ 
+The cowherds, gathering together, saw that dead fearful-shaped, cave-eyed demoness, who with cry had made the whole village echo like another her "Bhaimarathi night." 
+; 
+Note. [The 7th night of the 7th month of the 7th decade of a man's life which causes great fear of danger to life of the individual-is known as "Bhaimarathi night. Hence Bhimaratha shanthi is being usually observed in that period.] 
+परश्वस्तत्क्षणातितैस्तां विच्छिद्य विन्ध्याचलसानुकल्पाम् । मनःप्रवृत्या वहिराशु निन्युः क्रव्याद्वलिं प्राज्यमिव क्षिपन्तः ॥ ८ ॥ 
+I 
+Cutting her, who was like the summit of the Vindhya mountain, to pieces with axes, just shar- pened (as her body was so hard), took it out by carts, as if throwing a large amount of offerings to the filesh-eaters. 
+ग्रहादिदोषान् अवहन्तुकामा गोष्तुः सतां गोपतयः समेताः । सुवर्णसग्रथिताभिराम पश्चायुधीमाभरणं बबन्धुः ॥ ९ ॥ 
+88 
+Desirous of warding off the dangers arising from evil spirits, the cowherds gathering together, tied an ornament in the form of the five weapons, Jooking beautiful, strung together by a gold thread 
+Note: [Tying such an ornament to the child in an auspicious moment on the 5th day of its birth is said to be a preventive measure against all sorts of evils that may befall the child.] 
+रम्याणि रत्नानि रथाङ्गपाणेराकल्पतां नूनमवाप्नुवन्ति । तदङ्गसंस्पर्शरसात् प्रकामं रोमाञ्चितान्यशुगणैरभूवन् ॥ १० ॥ 
+The beautiful gems, becoming ornaments to Sri Krishna were with (their ) multitude of rays, thrilled with joy on account of the happiness of touching his body, with their hair standing erect, as it were. स शायितः क्षेमविदा जनन्या पर्यङ्किकायां प्ररुदन् कुमारः । चिक्षेप तु शकटं पदाभ्यां गाढाभिघातेन गिरीन्द्र प्रारम् ।। ११ ।। 
+Being made to lie down on the bed by the mother, who knew how to protect Him, the child threw up with a cry a high cart possessing the strength of a mountain, by strongly kicking with His legs. 
+Note: [A demon, Sakata by name in the form of a huge cart which he purposely assumed, was about to kill Krishna, when dashed to the ground by Krishna with His foot, fell down dead ] 
+विदारितस्तस्य पदाग्रयोगात् विकीर्यमाणो बहुधा पृथिव्याम् । शब्दायमानः शकटाख्यदैत्यः संक्षोभयामास जगन्त्यमीक्ष्णम् ॥ १२ ॥ 
+89 
+The demon called Shakata, became shattered to pieces by the contact of the tip of His foot and be- ing scattered in many ways on the ground, greatly agitated the worlds with a big noise. 
+यच्छयोत्क्षिप्तपदे कुमारे शैलोपलक्ष्ये शकटे निरस्ते । सरोजगर्भोपमसौकुमार्यै पस्पर्श तत्पादतलं यशोदा ॥ १३ ॥ 
+Seeing that the cart appearing like a mountain Was thrown up when her son therew up His leg by chance, Yasoda touched the sole of His foot, soft as the interior of a lotus (fearing that the foot might have been injured by kicking the cart) 
+अथाङ्गणे जानुपदाग्रहस्तैश्चक्रायुधे चक्रमणप्रवृत्ते । प्रायो धरिली परिषस्वजे तं सापत्रपा सान्द्ररजश्छलेन ॥ १४॥ 
+Then, Sri Krishna, beginning to move on His knees, toes and palms, surely the earth feeling shame, embraced Him under the pretext of the thick dust. 
+निर्व्याजमन्दस्मितदर्शनीयं नीराजिंत कुण्डलरत्नमासा | नन्दस्तदानीं न जगाम वृतिं मुग्वाक्षरं प्रेक्ष्य मुखं तदीयम् ॥ १५ ॥ 
+Nanda could never have enough of the sight of His child's face —- mouth with the charming lisp. and beautiful with natural and soft smiles and the splendour of the ear-ring-gems, like a waving of lights. 
+Note: [नोराजिवम् which has undergone the नीराजन ceremony i.e. waving lights before an idol as an act of adoration.] 
+90 
+विश्वानि विश्वाधिकशक्तिरेको नामानि रूपाणि च निर्मिमाणः । नामेकदेशग्रहणेऽपि मातुर्बभूव कृष्णो बहुमानपात्रम् ।। १६ ।। 
+Sri Krishna, who alone, with all-excelling power creates all shapes and names was the object of praise even for mentioning a part of His mother's name. तरङ्गितानुभवगन्धमादौ तस्यादूतं सलपिंत सखीभिः । वर्णस्वरादिव्यवसायभूम्ना शिक्षा विदां शिक्षणमग्रयमासीत् ॥ १७ ॥ 
+His wonderful talk with female friends, which even at its first utterance resembled the Vedas, wa with great correctness of letters and accents etc., as it were, the best teaching to those who knew the Siksha Science. 
+Note: [Siksha is one of the two auxiliaries to the Vedas-It is a science which teaches the proper pro nunciation of words and laws of Euphony.] 
+३ 
+तमीषदुस्थाय निलीनमारात् संप्रेक्ष्यदन्ता एकरचारुहासम् । 
+सनातनीं चष्टिमनन्यदृष्टिः सानन्दमालोकत नन्दपत्नी ॥ १८ ॥ .. 
+The wife of Nanda saw with joy and with attea- tion to nothing else, Him, who was the imperishable eye (to all the worlds) and who having stood up a little sat down near her (pretending to be tired) and had a beautiful smile on the beautiful sprouts of teeth. 
+पर्देस्विमिः क्रान्तजगत्त्रयं ते मन्याशया भावितवालभाषम् । करेण संग्रह कराम्बुजा संचाश्यासास शनैर्यशीदा ॥ १९ ॥91 
+The good-hearted Yasoda made Him, who having measured the three worlds, pretended to be a child, walk slowly, holding the tip of His lotus- like hand. 
+Note: [The allusion here is to the Vamana Avatar] स्खलद्गतिं द्वित्रपदप्रचारात् जानुक्रमे जातरुचि कुमारम् । इग्ने समावेश्य बलप्रभागे स्तन्यं मुदा पाययते स्म धन्या ॥ २० 
+The blessed Yasoda, having placed on her bent waist, her son, who, having got stumbled on walk ing two or three steps, took pleasure in moving with knees, made Him drink breast-milk, with joy. 
+Note: [चन Waist ]. 
+क्रमेण भूयोऽपि विहारका रक्षी नन्दस्य दारैरभिनन्द्यमानः । नित्यानुभूतं निगमान्तभृतैर्निजं पदाब्जं निदधे पृथिव्याम् ।। २१ ।। 
+Again also, the sport-liking Krishna, being applauded by Nanda's wife, gradually placed on the ground His feet, ever enjoyed by the Upanishads, like lotus by the bees. 
+स संचरन् साधुजनप्रतीपैर्मा भुज्यतां से मितीव मत्वा । चक्रादिमि: पादसरोज चिद्वैरामुद्रयामास महीमनन्यैः ।। २२ ।। 
+"Let not this earth be enjoyed by the enemies of the good people" - thinking thus as it were, Ho stamped the earth while walking with His foot, which bore the signs such as chakra. 
+92 
+आलम्ब्य मातुः करपल्लवाग्रं शनैः शनैः संचरतो मुरारे! | बभार चित्रामिव पत्ररेखां धन्या पदन्यासमयीं धरित्री ॥ २३ ॥ 
+When Sri Krishna walked slowly, holding the end of the sprout-like hand of His mother as sup- port, the blessed earth appeared to bear wonderful lines of painting in the form of foot-prints. 
+Note [परेखा - means drawing line or figures of painting on the face and body with fragrant and coloured substances, such as musk, saffron and sandal essence, as a mark of decoration.] 
+कर्म निघ्नो भुवनान्यजस्रं संकल्पलेशेन नियम्य दीव्यन् प्रचारितः प्रस्तुतपा जनन्या पदेपदे विश्रममाचकारक्षे ॥ २४ ॥ 
+He, who not being bound by 'Karma', sports always controlling the worlds with a slight will, wanted rest at each step, being led by His mother with oozing-breast. 
+सुरप्रसूनैः सुरभीकृतानामारोहणान्यगुणवेदिकानाम् । 
+तमारुरुक्षु तरलाङ्घ्रिपद्मं धातारमा रोहयदाशु धात्री ॥ २५ ॥ 
+The mother helped the Creator to get up, who with shaking lotus.like feet desired to ascend the steps of the raised grounds in the courtyard, fragrant with celestial flowers. 
+. खलेषु तस्याङ्गणपादपानां तालानुकूलेषु गतागतेषु । 
+ब्रजस्थिताः स्वर्गसदाममृण्वन् दुरोदितान् दुन्दुमितूर्यनादान् ॥ २६ ॥ 
+93 
+During His going and coming-, suitably their clapping of hands under the courtyard trees, the village people heard the sounds of Dundubhi and Turya of the gods beaten at a distance. 
+य एष लोकत्रय सूत्रधार । पर्याथपात्राणि चराचराणि । आनर्तयत्यदभुतचेष्टितोऽसौ ननर्त खेलं नवनीतकाङ्क्षी । २७ ॥ 
+He, whose deeds are wonderful and who being the Manager of the stage of the three worlds, had made the animates and inanimates, the actors dan- cing by turns, danced himself beautifully for the sake of butter. 
+Note: [The universe is here compared to the theatre, where all the objects, movable and immova- ble, took part and where Sri Krishna was Himself the stage-manager.] 
+गृहेषु दध्नो मथनप्रवृत्तौ पृषत्कणैरुत्पतिवैः प्रकीर्णः । 
+निदर्शयामास निजामवस्थां प्राचीं सुधाशीकरयोगचित्राम् ॥ २८ ॥ 
+He being sprinkled with small rising particles of co-agulated milk, when it was being churned in houses, showed His own former appearance (which was at the time of churning the milky ocean) varie- gated in colour, by contact with the particles of 
+nectar. 
+लस्यन् मुकुन्दो नवनीतचौर्यात् निगालो निसृतं शयानः । 
+निजानि निःशब्ददशां ययाचे बद्ध्वाञ्जलि बालविभूषणानि ॥ २९ ॥ 
+94 
+Becoming afraid of the cowherdesses, due to His having stolen butter, Sri Krishna, lay down quietely with bent body, begging with folded-hands, His child ornaments to be silent. 
+आरण्यकानां प्रभवः फलाना मरण्यजातानि फलान्यभीष्वन् । विसिधान्याञ्जलिना करेण व्याधात्मजा विश्वपतिः सिषेवे ।। ३० ।। 
+The Lord of the universe, the source of all fruits of different upasanas (worship) stated in the Upa- nishads, went with a desire for forest-fruits to a hunter's daughter (fruit- selling woman ), with hands full of dropping corns. 
+सुजात रेखात्मकशङ्खचक्रं ताम्रोदरं तस्य करारविन्दम् । 
+विलोकयन्स्याः फलविक्रयिण्यः विक्रेतुमात्मानमभूद्विशः ॥ ३१ ॥ 
+As the fruit-selling woman was seeing His red- centered lotus-like palm with the conch and chakra in the shape of well-formed lines, a question arose in her mind as to whether she should sell her own self to Him (to offer her own self to Him out of love, being enthralled by His extra-ordinary hand- someness.) 
+आपूरयत् स्वादुफलार्पणेन क्रीडा शिशोर्टस्तपुट किराती। रत्नैस्तदा कौस्तुभनिविशेषैरापूरितं तत्फलभाण्ड मासीत् ॥ ३२ ॥ 
+The Kirata woman filled his folded hands with sweet fruits. At the same time, her fruit-basket became filled with Kaustubha-like gems (as He was a child for mere sport.) 
+95 
+मुहुः प्रवृतं नवनीतचौर्ये वरसान् विमुश्चन्त मदोहकाले । उलूखले कुत्रचिदासपुण्ये बन्धुं सतां चधुमियेष माता ।। ३३ । 
+The mother wanted to tie up to a meritorious mortar, the Kirshna of the good, who was often trying to steal butter and setting the calves free, out of milking hours. 
+आनीतमग्रे निजबन्धनार्थे दामाखिलं संहितमध्य पूर्णम् । 
+निरीक्ष्य निर्विण्णभियो जनन्याः संकोचशक्त्या स ववभु बन्ध्यः ॥ 
+Seeing His mother feel dejected when she found all the string brought by her insufficient to bind Him. He became Himself, bindable by His power of dimunition. 
+बद्ध तथा भावयतां मुकुन्दमयत्न विच्छेदिनि कर्मबन्धे । तपस्विनी तस्क्रतुनीतिराद्या सव्रीडमारण्य कथासु तस्यौ ॥ ३५ ॥ 
+Since the tie of "karma" of those who think of the bonnd Krishna, as such. breaks itself easily, the poor old moral of "Tatkratu (aess) hid itself in the stories of the Upanishads, feeling shy, as it were. 
+Note: Craft-The old moral sacrifices-the belief that what a man has secured for himself in this world, he will secure in the next world also by means of sacrifices.] 
+उलूखले प्रग्रथितेन दाना निबद्धमात्र | बिललोलनेत्रम् | 
+सहासमैवन्त जनाः समन्तादालानित नागमिवानभिज्ञाः ॥ ३६ ॥ 
+Those who did not know that it was all mere pretence saw with laughter Sri Krishna bound to the mortar with a rope, with His eyes tremulous and filled with tears, like an elephant tied to a pole. 
+अनादराकष्टमुलूखलं तत् पावर्जुनौ शैलनिभौ बभञ्ज । बभूवतुर्ब्रह्मसुतस्य शापान्मुक्तौ मुनेर्यक्षवरौ तदा तौ ।। ३७ । 
+The two Arjuna trees which were broken by the mortar drawn athwart (by Sri Krishna became at once the two great yakshas who were formerly Nala Kubara and Manigriva, being now freed from the curse of Narada, the son of Brahma. 
+झापावधिं ब्रह्मसुतेन दत्तं संप्राप्य तौ शौरिसमागमेन । 
+देहेन दिव्येन विदीप्यमानौ स्तुस्वा हरिं धाम समीयतुः स्वम् ||३८|| 
+Having secured freedom from Narada's curse by coming in contact with Sri Krishna they shining in their celestial forms, praised Krishna and returned to their abode. 
+[Now begin the adventures in Brindavana.] 
+अदृष्टपूर्वे भुवि पूतनादेरुदन्तमुत्पात मुदीक्षमाणाः | 
+समेत्य गोपाः स च माधवेन बृन्दावनं सत्वरमभ्यगच्छन् ॥ ६९ ॥ 
+Freedom from the curse having been obtained by coming into contact with Sri Krishna, as had been told by Narada those two yakshas shining with divine forms, went to their own abode praising Sri 
+97 
+अदृष्टपूर्वे विपूतनादेवन्तरपा तमुदीक्षमाणाः । 
+समेत्य गोपाः सह माधवेन वृन्दावनं सत्वरमभ्यगच्छन् ॥ ३९ ॥ 
+Seeing the incidents of Putana and others never seen before on the earth, to be evil- forebodings, the cowherds joining with Sri Krishna bastened to Brindavana. 
+Note : [ डल्पतम् A portent, The many incidents that had taken place there were sufficient to con- vince the cowherds of the many evils inpending.] 
+येनोपचीनामधिपं पुरस्तादाह्लादहेतुं जगतामकार्षीत् । 
+तेनैव दष्यो मनसा वनं तत् कृष्णो गवां क्षेमसमृद्धिमिच्छन् ॥ ४० ॥ 
+With the same mind with which Sri Krishna bad made the Moon, the cause of delight to the worlds, He thought of the forest, desiring full welfare of the 
+COWS. 
+अनुग्रहान्धेरिव वीचिमेदैराप्याययामास शुभैरवाः । 
+जर्म पृथिव्या इव यौवनं तत् गोता सतां गोधनवशचन्द्रः ॥ ४१ ॥ 
+Sri Krishna, the protector of the virtuous and the delighter of the cowherd's-race, caused the forest shining like the earth in her youth, to luxuriate by His happy side-long looks, appearing like the succession of waves of the ocean of favour. 
+आसीभिषेव्या पृथिवी पशूनां पुण्ड्रेक्षुरम्याणि तृणान्यभूवन् । तस्मिमरण्ये तरुभिः प्रपेदे कल्पहुमाणामनुकल्पमावः ॥ ४२ ॥ 
+7 
+In that forest, the ground was fit for the habita- tion of cows. The grass was sweet as the best sort of sugarcane and the trees excelled even the 'Kalpa- druma', the celestial tree (being filled with sweet fruits and fragrant flowers.) 
+अष्टष्टपूर्वैरधिकां विशेषैर लक्ष्य बन्याममरेन्द्रमान्याम् । नन्दोपनन्द पुर्खेननन्दे नाकाधिरूढैरिव नाथभूम्ना ।। ४३ ।। 
+Seeing the forest made by the greatness of the Lord, abundant with fruits, flowers etc., as never before, and respectable even to Indra, Nanda, Upa- nanda and others rejoiced, as if they had ascended 
+Swargaloka'. 
+देस्यैस्तृणावर्तमुखे रपरनान्मुहु निरस्तैर्मुदितो मुकुन्दः । 
+अमुक्त रामेण सहाद्द्भुतं तत् पुष्यं वनं पुण्यजनेन्द्र पान्यम् ॥ ४४ ॥ 
+Feeling again and again very happy on easily driving away Trinavartha and other demons, Sri Krishna enjoyed with Sri Balarama, the wounderful sacred forest, respectable even to the Lord of the Yakshas. 
+सपक्ष कैलासनिमस्य गोपा वकस्य पश्चान् अभितो बबन्धुः । 
+वने तदन्यानपि घोरवृत्तीन् क्षेप्तुं प्रवृत्ता इव केतुमालाः ॥ ४५ ॥ 
+The cowherds tied all around the forest the feathers of Baka, (a demon killed by Sri Krishna), who appeared like Kailasa, with wings, which being thus tied, seemed like a row of comets appearing in order to drive away other venturesome creatures. 
+पुरस्कृतं मंगलगीतवाद्यैः पुंसः प्रसभ्ये जगतां प्रसूते। | 
+फयाऽपि तत्र स्पृहयान्व तिष्ठन् कन्यावतं किंचन गोषकन्याः ॥ .. 
+The cowherd Virgins observed a Virgin Ceremony attended with auspicious songs and beat- ings of the drum to win the favour of the Creator of the worlds, with a certain desire. 
+furqgzaraaguarat fafgrazideftätigioIĄ Į कूलादुपादाय दुकूलजालं कुन्दाधिरूढो मुमुदे मुकुन्दः ॥ ४७ ॥ 
+Sri Krishna rejoiced (by freely seeing them naked) having ascended a Kunda tree, taking a number of silk sarees from the bank, kept there by the cowherd-Virgins, when they entered the water to bathe in the early morning (as part of their vow. 
+us from Samsara by 
+Note: [Here their cloths-correspond to bodies, as seen in "areifa stoffa ...". God wants to liberate taking away our bodies-like taking away clothes. But we foolishly ask for the body alone, as the cow-herdesses asked for their clothes.] 
+a deccanufà fayaz giafkalai efcgmaig | अन्योन्यहस्तार्पणसंप्रवृत्तैस्तासां जहासाअलिमध्यपूर्वम् ॥ ४८ ॥ 
+Refusing to accept the one-hand salute of the girls, who begged for their silk clothes, (the Victori- ous) Krishna laughed when he saw them salute with hands, each joining her hand with that of the other which was never seen before. 
+100 
+स चारमचण्डातकमालभाजां क्षोपार्थिनीनां स्वयमर्थ्यमानैः । अनन्यहस्तार्पणसं प्रवृचैस्तासां जहासाञ्जखिभिस्तदीयैः ॥ ४९ ॥ 
+They were folding the lower part of their body below the waist in the form of a petti-coat and begged for their silk clothes, by saluting with both hands of their own, without joining with the hands of others (as before), at which Sri Krishna laughed (out of joy for His triumph.) 
+प्रसुप्तमुद्बोधयता परत्वं वीरश्रियो विभ्रममण्डनेन । 
+नीलादिनिर्वेश निधानधाम्ना नाथो बभासे नवयौवनेन ॥ ५० ॥ 
+The Lord shone with fresh youth, which was manifesting His hidden transcendental glory, which was the sportive ornament of the Goddess of heroes and which was the abode of enjoyment of Neela and others. 
+बिहारपर्वक्रमचारु शोरेः कल्यं वयः कामगृहीतियोग्यम् । मनोजिरास्वाद्यतमं प्रपेदे माधुर्यमिक्षोखि मध्यभागः ॥ ५१ ॥ 
+The youth of Sri Krishna, charming with sports increasing stage by stage, fit for taking hold of by Cupid and most delightful to minds, obtained sweet- ness like the central portion of the sugarcane. 
+Note : [Central part of the sugar-cane is taken to be the sweetest. ] 
+समाश्रितां विभ्रमसैन्य मेदः कान्त्या स्वया कल्पितचारुवप्राम् । 
+मस्त्रियः कृष्णमयीं व्यजानन् क्रीडार्गला क्षेमपुरीमपूर्वाम् ॥ ५२ ॥101 
+The women of the village took Sri Krishna to be a wonderful safe fortress, containing different armies of sports, having the fine high walls of His splendour and having the bolt of sport. 
+वंशस्वनो वत्सविहारपांसुः संभ्यागमस्तस्य च वन्यवेषः । मायाति कृष्णे व्रजसुन्दरीणामासीचतुः स्कन्धमनङ्गसैन्यम् ॥ ५३ ॥ 
+When Sri Krishna was returning (from the forest), the sound of the flute, the dust raised by the gambols of the calves, the evening twilight and His sylvan form, were to the cowherdesses as the army of Cupid with four regiments (namely, Elephants Chariots, horses and infantry) (stirring up their passion or love.) 
+अनुभवाणामवतंसभूतं बर्हावतंसेन विभूषयन्ती । 
+अदिव्यया चर्मदृशैव गोपी समाधिभाजाम मजत् समाधिम् ॥ ५४ ॥ 
+A cowherdess adorned Sri Krishna, the Head- ornament of the Vedas, with a peacock feather and attained with her physical eye, the same concentra- tion of mind as Yogins do with their divine vision. 
+Note : [ She stood admiring His increased splen- dour, due to the peacock feather, without winking the eye being so much absorbed in it.] 
+कलापिनां कल्पितमाल्यभावें । पत्रैस्तदा पत्रलदेहक (न्तिम् । 
+भवाच्य संचारितमालमाद्यं छायात्मतां प्रापुरिवास्य गावः ॥ ५५ ॥ 
+Sri Krishna shone like an ancient and moving Tamala tree. The splendour thickened by the peacock 
+102 
+feathers worn in garlands were like the leaves of the tree. Having such a Tamala tree, the cows followed Him like its shade. 
+वितन्वता मान्मथमिन्द्रजालं पिच्छेन वापिच्छनिमो बभासे । अनेकरत्नप्रभषेन, धाम्ना शारात्मना शैल इवेन्द्रनील । ॥ ५६ ॥ 
+Sri Krishna who resembled a Tamala tree in colour, shone with the peacock feather, producing à charm of love, like a sapphire-mountain with the many coloured splendour, proceeding from various gems. 
+स्पृशन्ती मुमुदे यशोदा मुम्बाङ्गनामोहनवांशिकेन । 
+मनीषिणां माङ्गलिकेन यूना मौलौ घृतां मण्डनबईमालाम् ॥ ५७ ॥ 
+Yasoda rejoiced often touching the adorning wreath of pea cock feathers worn on the head by the young boy, the bestower of welfare to the wise, who charmed the minds of beautiful maidens with his flute. 
+कथास्पदा कृष्णभुजान्तराले प्रालम्बबद्द बलिराम भासे । 
+विशुद्धहे मधुतिरधिकन्या श्यामायमानेव तदङ्गकान्तया ॥ ५८ ॥ 
+The necklace of pea cock feathers hanging on the breast of Sri Krishna, shone on account of its position, as if Lakshmi shining like pure gold was turning black, due to the splendour of His body. साचीकृतानि प्रणयत्रपाभ्यां व्यावृतराजीव निभानि शौरिः । सविलासानि ददर्श असां वक्वाणि वाचालविलोचनानि ॥ ५९ ॥ 
+103 
+Sri Krishna saw their (cowherdesses) faces with a graceful movement of eye-brows and with speaking eyes, which bent aside with love and shyness, shone like lotuses turned round. 
+निरंकुशस्नेहरसानुविद्वान् निष्पन्दमन्दालस निर्निमेषान् । वंशेन कृष्णः प्रतिसंबभाषे वाहिरान् वामदृशां कटाक्षान् ॥ ६० ॥ 
+Sri Krishna replied with His flute, the messa- ges of side-long looks of women, which were wet with the juice of unchecked love, steadfast, dull, returning from the object with shyness and without winking. 
+अशिक्षितं तुम्बुरुनारदा धैराभीरनाटयं नगमा स्वितेन । 
+जगेसलीलं जगदेकधाम्ना रागान्धिना रयतेव विश्वम् ॥ ६१ ॥ 
+Sri Krishna, the one Abode of all the worlds and the Ocean of love, sang sportively as if delighting the whole world, performing a new country-dance which was not learnt by Tumburu, Narada and others. 
+अपलापासैकतमाश्रितानां रागोदधौ कृष्णमुखेन्दुतुमे । 
+स्वाबलम्बो न बभूव वासामुत्वक्ष्मणा मुस्कलिका प्लुतानाम् ॥ ६२ ॥ 
+countenance 
+There was no support of hand in the middle of the ocean of love, agitated by the Moon of Krishna's to them, standing upon the sandy bottom of shyness, with eyes open upwards, the waves of longing for having Him as their husband rushing over them. 
+104 
+मयन्त्रितस्वैरगति। स तासां संभावितानां करपुष्करेण । प्रविभगण्डः प्रणयी चकाशे मध्ये वशानामिव वारणेन्द्रः ॥ ६३ ॥ 
+The Lover, Sri Krishna, whose motion was un- checked by Karma or anything shone with His cheeks full of sweat, in their midst, like a big elephant (with its temples covered with ichor) in a circle of female elephants. 
+विमोहने बल्लबगेहिनीनां न ब्रह्मचर्ये विभिदे तदीयस् । 
+संपत्स्यते बालकजीवनं तत् सत्येन येनैव सत समयम् ॥ ६४ ॥ 
+In spite of His enjoyment with the wives of cowherds His chastity did not become corrupt. That this chastity of His was the means of protec- ting the burnt child, namely Parikshit in the presence of the Virtuous (like Vyasa) is a proof for this. स्वसं भयं कृष्णमवेक्षमाणो बन्धुप्रसूतं च बलं व्रजेशः । निसर्गमैच्या नियतैकमावौ न्ययुक्त तो बरसकुलानि गोप्तुम् ॥ ६५ ॥ 
+Seeing Sri Krishna as his son and Balarama as the son of his relative and that they were friends by nature and had the same feelings and thought also Nandagopa ordered them to protect the herds of calves. 
+अनन्य तन्त्रः स्वयमेव देवान् पद्मासनादीन् प्रजनथ्य रक्षन् । स रहका सीरभृता सहाऽऽसीत् नेता गर्दा नन्दनियोगवर्ती ॥ 
+Being under the control of none and Himself being the creator and protector of Brahma and 
+105 
+others, the Lord now became the protector of cows along with Balarama under the control of Nanda. कथं व्रजेन्डर्करिखान् प्रदेशान् पयामसौ पलबकोमलाभ्याम् । इति स्तुतस्तन्यरसा यशोद | चिन्तार्णवे न प्लवमन्वविन्दत् ॥ ६७ ॥ 
+How will He be able to walk with His feet soft like sprouts, over gravely places in the forest? Thinking thus, Yasoda, with her milk-oozing breas! did not find a boat to get out of the ocean of anxiety. 
+विहार पित्रासितदुष्टस्वी मृगेन्द्रपोताविव भीरवेष्टो । 
+बभूवतुः शाश्वतिकेन भूम्ना बालों युवानाविव तो बलाढयौ ॥ ६८ ॥ 
+The two boys acting bravely like lion-cubs and easily threatening the cruel beasts away, were, with their ever-lasting glory, like two strong men. सिन्दुरितो वत्सपरागजा है। सितासितौ बालगजाविव द्वौ । उदारलीलानुपलक्ष्य गोप्यः सर्वास्तदाऽनन्यवशा बभूवुः ।। ६९ ।। 
+Then, the cowherdesses were completely over. come by the love-charm, on seeing the two, whose deeds were wonderful and who being completely raised by calves. 
+covered by the clouds of dust 
+appeared like two black and white elephants cove. red with red lead, 
+गोपायमाने पुरुषे परस्मिन् गोरूपतां वेदगिरो भजन्स्यः । 
+मन्यैरसेवन्त पदं तदीयं स्तोम प्रतिच्छन्दनिमेः स्वशब्दैः ॥ ७० ॥ 
+166 
+When the supreme Lord assumed the form of a cowherd, the Vedas taking the form of cows, attached themselves to His feet, with their auspicious cries "Humba", which were like the echoes of "Havu " of Samaveda [गो - i) Veda, ii) cow; so, Gopa means protector of cows (गो) as well as Vedas (गो). The protector of vedas became protector of cows, assum. ing the form of a 'Gopa' when the Vedas became. cows.j 
+अवालिसो बालिशवत् प्रजानां प्रख्यापयन् आत्मनि पारतन्त्र्यम् । न्यदर्शयत् विश्वपतिः पशूनां बन्धे च मोक्षे च निर्ज प्रभुत्वम् ।। 
+The Lord of the Universe, though really not a child, exemplified His sole power to bind souls in wordly life and to liberate them from it, by His bind- ing and unbinding the cows, showing to all people His dependence like a child. 
+आस्मोपमर्देऽप्यनुमोदमानादात्माधिकं पालयतश्च वत्खान् । गावस्तदानीमनपामविन्दन् वात्सल्य शिक्षामिव वासुदेवात् ॥ ७२ ॥ 
+Even when the calves were troublesome to Him 
+by rubbing against His feet was feeling happy and took 
+and so on, Sri Krishna care of them more than 
+of Himself, by which, then, the cows appeared to receive a good teaching, as to how affectionate they should be to their calves. 
+योऽसावनन्त प्रमुखैरनन्तैर्निर्विश्यते नित्यमनन्तभूमा । 
+वैमानिकानां प्रथमः स देवो वत्सेरले लियत जस्सलारमा ॥ ७३ ॥ 
+107 
+The Lord, the greatest among Gods, whose glory is endless and the happiness of being always in whose presence is enjoyed by Anantha and others, now allowed the calves with great kindness, often to lick His body. 
+महीयमा मण्डितपाणिपद्मं दध्यन्नसारेण मधुप्लुतेन । 
+दृष्ट्वा ननन्दुः क्षुषयाऽन्वितास्तं वत्सानुचर्यासु वयस्यगोपाः || 
+The cowherd boys of his age feeling hungry by following calves, rejoiced when they saw Him with His hands looking beautiful with a big ball of boiled rice mixed with co-agulated milk, with covering of honey. 
+स्वादूनि वन्यानि फलानि तेस्तैः स्निग्वैरुपानीय निदशितानि । रामाय पूर्वे प्रतिपाद्य शेषः स पिप्रिये सादरवज्यमानैः ॥ ७५ ॥ 
+When sweet forest fruits were brought and shown to Him by His friends (cowherds and fores- ters) as sweet ones, He first gave them to Balarama and satisfied Himself by eating the remainder, with pleasure along with His friends. 
+ताभ्यां तदा नन्दनिदेशिताभ्यां रक्षावतीं रामजनार्दनाभ्याम् | विशेषभोग्याममजत् विभूतिं वृन्दावनं व्यापृतधेनुवृन्दम् ॥ ७६ ॥ 
+Brindavana, where many herds of cows were spread, being protected by Balarama and Sri Krishna, by the order of Nanda, became highly enjoyable for its richness (in flowers, fruits, grass etc. etc.) 
+108 
+अगाध कासारमही नशष्पमतीक्ष्णसूर्य तदचण्डवातम् । प्रच्छाय निद्रा यितवेनुवत्सं प्रौढे निदानेऽपि बभूव भोग्यम् ॥ ७७ 
+That Brindavana with deep lakes, abundant grass, the sun being mild the wind being not wild cows and calves sleeping under the shades of trees was enjoyable even in the hot summer. 
+न व्याधिपीडा न च देस्यशङ्का नासीत् गव व्याघ्रभयं च तस्मिन् । स्वबाहुकरपेन बलेन सार्धं नारायणे रक्षति नन्दलक्ष्मी ॥ ७८ ॥ 
+When God Narayana protected the property of Nanda, with Balarama as His arm, there was no trouble of diseases and danger from demons and tigers to the cows. 
+निरीतयस्ते निरपायव छ। निःश्रेयसादभ्यधिक प्रमोदाः । प्रपेदिरेऽपूर्व युगानुभूतिं गोपास्तदा गोप्तारं वासुदेवे ॥ ७९ ॥ 
+While Sri Krishna was their protector the cow- 
+herds being free from the six "Ithis" (calamities) with their desires ever fruitful and with happiness greater than that of "Moksha", felt themselves to be living in a Yuga other than the four known ones. 
+वत्सानुचर्याचतुरस्य काले वंशस्वनैः कर्ण सुर्धा विधातुः । गतागतप्राणदधामविन्दन् गोपीजनास्तस्य गतागतेषु ॥ ८० ॥ 
+The life of cowherdesses went away with the going away and returned with the coming back of 
+109 
+Sri Krishna, clever in following the calves, and pour ing Nectar into their ears with the sound of His flute. 
+आघातवमन मरण्यभागेष्वारण्य कैराश्रितधेनुभावैः । 
+केनापि तस्यापहर्त किरीटं प्रत्याहरन् प्रेक्षत पत्रिनाथः ॥ ८१ ॥ 
+Garuda, bringing the crown of Sri Krishna, which had been taken away by some one, saw Sri Krishna, whose path was smelt by the 'Aranyakas'- assuming the form of cows in the forest. [To sub- mit the crown, he came searching and found Him]. 
+देवस्य दुग्धोदयस्य दैश्याद्वैरोचनाइयालजोपनीता । कृष्णस्य मौलौ कृतभईचूडे न्यस्तः किरीटो निबिडीवभूव ॥ ८२ ॥ 
+The crown of the Lord lying on the milky ocean was brought by Garuda from Bali, the son of Viro- chana and placed upon Sri Krishna's head adorned with peacock feather and became fit to it. [As He was the same as Sri Narayana lying on the Milky ocean from whom the crown had been formerly stolen by Bali.] 
+समाहितैरग्निषु यायजूकैरधीयमानानि हवींषि भोक्ता । 
+भक्तैकलभ्यो भगवान् कदाचित् पस्नीमिरानीतमसुक्त भोज्यम् ॥ 
+Sri Krishna, the eater of only such oblations as are thrown into the fire by attentive-minded perfor- mers of sacrifices, becoming easily accessible to the 
+110 
+devotee, once ate the eatables brought to Him by the wives of the sages. 
+Note: [Once, Sri Krishna was wandering in the forest with His followers. They became very hungry and were very badly in need of food. Sri Krishna sent them for food, to sages who were performing sacrifices near about that place, with plenty of food. The sages refused to give them food. Again, He sent them to the wives of the sages, asking them to send food through them. At once, the women themselves arrived with sumptuous food in quick response to the request. Sri Krishna ate the food along with His. cowboys with great joy, to His heart's content, by which the sacrifice became much more fruitful than as if it had been completed by the sages. The sages felt ashamed for having refused to send food. Ladies are not eligible to perform any sacrifice as it is said "a gat gan" Still Sri Krishna ate the food offered by them, because they dedicated their heart and soul to Him. This is a splendid example to show how easily He is accessible to devotees, irrespective of their sex,] 
+फराम्बुजस्पर्शनिमीलिताञ्चान् आमशनैश कलितार्थ निद्रान् । वरसान् अनन्याभिमुखान् स मेने प्राकृतीन् भक्तिभरावनम्रान् ॥ 
+He thought the calves, which were stooping in front of Him with eyes shut by the happiness of the touch of His lotus-like hand and which became half sleepy when he touched them from head to foot, to be bent with the weight of devotion.111 
+रोमन्थफेनाश्चित सुगिमा गैरस्पन्दनैरर्ध निमीलिताक्षैः । अनादृतस्तन्यरसमुकुन्दः कण्डूयितैर्निर्वृतिमाप वत्सैः ॥ ८५ ॥ 
+Sri Krishna felt Himself happy with the calves which had the corners of their mouths full of the foam of rumination, which with their half-shut eyes were motionless and which being scratched by Sri Krishna did not care even for milk. 
+सिषेविरे छाद्वलितान् प्रदेशान् कृष्णस्य धाम्ना मणिमेचकेन । वसुन्धरायामपि केवलायां व्यापारयन्तो वदनानि वत्साः ॥ ८६ ॥ 
+Even the barren ground appeared to the calves grassy by Sri Krishna's rays, dark-blue as those of an emerald, falling upon it. So, they stooped and began to work with their mouth on it. 
+नवप्रस्वताः स तदा वनान्ते पर्यास्वनीरप्रतिमान दोहाः । परिभ्रमभ्रान्तपदान् अदूरात् प्रत्यागतान् पाययते स्म बहतान् ॥ 
+He caused the milk-cows which had recently delivered and which had an incomparably great amount of milk, to allow their calves to drink milk, which calves, getting tired of the gambols on the forest ground, returned before going far (even with- out allowing them to be milked.) 
+निविश्य मूलेषु वनद्रुमाणां निद्रायितानां निजतर्णकानाम् । अङ्गानि गाः सादरमा लिहन्तीरमंस्त संभाव्यगुणाः स्वमातुः ॥ ८८ ॥ 
+112 
+Seeing the cows lick their calves, which were sleeping under the shade of forest trees, Sri Krishna thought that their affection would be appre- ciated even by His mother (or thought their affection to have been obtained from His mother.) 
+मनैकी प्रत्यहमातपान्ते प्रत्युक्तघोषा इव वस्सनादैः । -मधूनि वंशस्वनिभिः प्रयच्छन् निनाय भूयोऽपि निवासभूमिम् ॥ 
+" 
+Every day in the evening, He, pouring honey with the sonnd of His flute drove the cows to whose cry the calves seemed to reply with their cries, again to the cow-pen. 
+समाव्रजन् विश्वपतिर्व्रजान्तं गोभिः समं मोपविलासिनीनाम् । उल्लासहेतुः सबभूव दुरादुद्यन् विवस्वानिव पद्मिनीनाम् ॥ ९० ॥ 
+The Lord of the Universe entering the village at its extremity with the cows was the cause of plea- sure to the cowherdesses as the Sun rising at a dis- tance is to the lotuses. 
+निवर्तयन् गोकुलपात्तवंशो मन्दायमाने विवसे मुकुन्दः । प्रियाश पारणया स्वकान्त्या वहतिं व्यातनुतेष विश्वम् ॥ ९१ ॥ 
+Sri Krishna returning in the evening, made, with His lustre pleasing to the eyes of His wives, the Uni- verse appear as if covered with pea-cock feathers. 
+बालं तरुण्यस्तरुणं च बालास्तमन्वरज्यन्त समानमाषाः । मदत्तं तस्य विलोभनं वा तस्यैव सर्वाईरसात्मता वा ।। ९२ ।। 
+113 
+The boys found Him a boy and loved Him with similar thoughts and feelings and the young women found Him a young man and loved Him with simi- lar thoughts and feelings, (though there was differ- ence of age 'between them and Sri Krishna.) This was either wonderful deceit or adopting His form appropriate to the feelings of all (being praised by the Veda as 'रसो वे स:') 
+अवेदिषातां पृथुकौ पितृभ्यां तारुण्यपूर्णौ तरुणीजनेन । वृद्धौ पुरावृत्तविशेषविद्भिः क्लृप्तेन्द्रजालाविव रामकृष्णौ ॥ ९३ ॥ 
+Balarama and Krishna who appeared to practise jugglery, were thought to be children by the parents, young men by the young women, and Ancient beings, by those who were well-versed in Ithihasa, or ancient history. 
+अथापदानं मदनस्य दातुमादातुमालोकयतां मनांसि । 
+नवं वय नाथसमं प्रपेदे गुणोत्तरं गोपकुमारिकाभिः ॥ ९४ ॥ 
+Then, the cowherd-girls, who were the apsaras incarnate, attuned suitably to the youth of Sri Krishna, their maturity, which with its fine accom - plishments increased the power of Cupid and attrac ted the minds of spectators. 
+अनङ्ग सिन्धोरमृतप्रथिम्ना रसस्य दिव्येन रसायनेन । 
+महीयसीं प्रीतिमवाप तासां योगी महान् यौवनसंभवेन ॥ ९५ ॥ 
+The great saint (Sri Krishna) was much pleased when they attained maturity, which was the nectar of 
+8 
+114 
+the Ocean of love and the divine elixir to 'Sringara' sentiment. [sentiment of sexual passion or erotic sentiment.) 
+विजृम्भमाणस्तनक्कुड्मलाना व्यक्तोन्मिषद्विभ्रमसौरमाणाम् । मधुव्रतत्वं मधुराकृतीनां लेभे लतानामिव वल्लवीनाम् ॥ ९६ ॥ 
+Sri Krishna was to the beautiful-bodied cow- herd-girls, with their enhancing bud-like breasts and their growing fragrance-like sports,-as a bee is to fine creepers with their growing breast-like buds and with their well-increasing sport-like fragrance. 
+अतिप्रसङ्गादवभीरयन्त्या प्राचीनया संयमितो नियस्या । पाश्चालकन्यामिव पञ्चमुक्तां धर्मः सतीराहत तादृशीस्ता ।। ९७ । 
+The enjoyment of the Cowherdesses with Sri Krishna was bound by His former promise to them and hence it was a Dharma to them, which does not allow itself to be stretched to other women, as in the case of Draupadi who married five husbands, by a Dharma bound by some former favour of God, peculiar to her alone, not to be stretched to other 
+women. 
+दिशागजानामिव शाकराणां शृङ्गाग्रनिर्भिनशिलोच्चयानाम् । 
+स तादृशा बाहुबलेन कण्ठान् निपीडय लेभे पणितेन नीलाम् ॥ ९८ ॥ 
+Having smashed to pieces the necks of the bulls which with the tips of their horns had broken moun- tains to pieces and which resembled the quarter. 
+115 
+elephants, Sri Krishna obtained Neela by this betting of the strength of His arm. 
+करेण दम्भोलिकठोरतुङ्गान् देहान् पृथून दानवदुर्वृषाणाम् । विमृद्य नूनं विदधे मुकुन्दः प्रियास्तन स्पर्शविहारयोग्याम् ॥ ९९ ॥ 
+In pressing to death the huge bodies of wicked and mighty demon-bulls which were tall and hard like Vajrayudha, Sri Krishna was certainly, making His hand fit for the sport of pressing the breasts of His beloved, Neela. 
+जात्मीय पर्यङ्कभुजङ्गकल्पों अक्षेप्यरक्षापरिषौ पृथिव्याः । 
+नीलोपधानीकरणात् स मेने भूयिष्ठधन्य भुजपारिजातौ ॥ १०० ॥ 
+Sri Krishna considered His Parijatha-like arms, which appeared like the body of His bed-serpent and which seemed like iron bars which cannot be cast off for protecting the earth, much blessed since they served the purpose of a cushion to Neela. 
+रागादिरोगप्रतिकारभूतं रसायनं सर्वदशानुमान्यम् । आसीदनुध्येयतमं मुनीनां दिव्यस्य पुंसो दयितोपभोगः ॥ १०१ 
+Sri Krishna's enjoyment with His beloved (Neela), which was the remedy for diseases of love and its consequences, and which was an elixir that could be used at all times, was highly worthy to be meditated upon by sages. 
+अनुदुता नूनमनङ्गवाणैः सुलोचना लोचन भागधेयम् । 
+प्रश्यग्रहीषुः प्रतिसंनिवृत्तं स्यक्तेतरैरक्षिभिरात्मना च ॥ १०२ ॥ 
+116 
+The beautiful-eyed cowherdesses, having been pursued by the arrows of Cupid due to separation from Him, received the pleasant-looking one with steady looks and minds when He returned Videha). 
+व्रजोपकण्ठे विबुधानुमान्यो गोपीजनैरात्मगुणावदातैः । समावृतो नन्दसुतकाशे तारागणैरिन्दुरिवान्तरिक्षे ।। १०३ ।। 
+(from 
+The son of Nanda, who deserves to be medi- tated upon by wise men, being encircled near the village by the pure-hearted cow-herdesses, shone as the Moon, whose disc is shared by the gods among themselves, shines in the sky encircled by stars which are themselves brilliant. 
+हस्वा सयर्थं तृणराजषण्डे रामाच्युतौ रासभस्यमुग्रम् । अतोषयेतां भृशमात्मभृत्यान् स्वाद्यैः सुधा पिण्ड निमैः फलौधैः ॥ 
+Having killed the fearful ass-shaped Dhenuka with his followers in a palm-grove, Balarama and Sri Krishna pleased their servants well with a large number of sweet fruits, which appeared like nectar- balls. 
+कदाचिदासादितगोपवेष | क्रीडाकुले गोपकुमारवृन्दे । 
+स्कन्धेन संगृह्य बलं बलीयान् दैत्यः प्रलम्बो दिवमुत्पपात ॥ १०५ ॥ 
+Once, the demon Palamba of enormous strength, having disguised himself like a cowherd in the 
+117 
+midst of the group of cowherd boys who were play- ing, took Balarama by the shoulder and rose to the sky. 
+पपात भूमौ सहसास देस्यस्तन्मुष्टिना ताडितशीर्णमौलिः । महेन्द्रहस्तप्रहितेन पूर्वे वज्रेण निर्मिन इवाचलेन्द्रः ।। १०६ ।। 
+Being beaten by Balarama, the demon fell down with his head shattered to pieces as a big mountain did formerly, being broken by Indra with his thunder-bolt. 
+स्ववाससा क्लृप्तकमङ्गलक्ष्मीः कान्त्या दिशश्चन्द्रिकयेव डिम्पन् । रराज रामो दनुजे निरस्ते स्वर्भानुना मुक्त इवोडुराजः ॥ १०७ ॥ 
+When the demon was destroyed, Balarama, making the quarters smeared with moon-light with his rays and spotted with his cloth, shone like the Moon just freed from Rahu. 
+विनैव रामेण विशुः कदाचित् संचारयन् धेनुगणं सवत्सम् । वनश्रिया दूरविलोभिताक्षः कंचित् ययौ कच्छमदृष्टपूर्वम् ॥ १०८ ॥ 
+Once, Sri Krishna, without having Balarama with Him. went, grazing the herd of cows and calves to a river-bank, never seen before, being drawn to a distance by the beauty of the forest. 
+यदृच्छया चारितधेनुचक्रः कुलान्तिके विश्वजनानुकूलः । 
+कलिन्दजां कालियपनगस्य क्ष्वेलोद्गमैः कञ्जलितां ददर्श ॥ १०९ ॥ 
+Sri Krishna, the well-wisher of all the people, driving the cows as He liked near the bank saw the 
+118 
+river Yamuna whose waters were made as black as Collyrium by the poison gushed forth by the serpent Kaliya. 
+विषाशिना रिप्रताने वैरोचनीतीरव नावकाशे । 
+महीन्द्रमा स्कन्दितु मध्यरुक्षत् काष्टकर्ति कंचन नीपवृक्षम् ॥ ११० ॥ 
+He got up, to kill the great serpent, a neepa (ree looking like a dry piece of wood in the bank-forest of the Yamuna river, burnt completely by the fire of poison. 
+मधुद्रवैरुक्मणहर्षमाष्पा रोमाञ्चिता केसरजालकेन । पत्राकरैश्चिततनुश्चकाशे कृष्णाश्रिता शुष्ककदम्वशाखा ।। १११ ॥ 
+The dry Kadamba branch uniting with Sri Krishna shone as if it shed clear tears of joy with the flowing of honey, as if it had its hairs erect out of joy by the large number of filaments and as if it had paint-- ings throughout by its sprouts. [The tree became full of flowers and fruits etc, by uniting with the God.] 
+निपत्य संक्षिप्तपयोधिकल्पे महाहदे मन्दरपोतरम्यः । विषव्यपोहादमृतं विधातुं स्वादूदयं क्षोभयति स्म सिन्धुम् ॥ ११२ ॥ 
+Jumping down into the deep pool, appearing like a small ocean, Sri Krishna, beautiful like a small Mandara Mountain, agitated the river (Ocean) in order to render the water sweet by removing the poison. 
+इताइतिः कृष्णनिपातवेगादानद्धरूपा विततैस्तरङ्गैः । 
+सर्पासारौषधिसंप्रयुक्ता भेरीव सा भीमवरं ररास ॥ १११ ॥ 
+119 
+Being beaten by the great force of Sri Krishna's fall and being bounded by the spreading waves, the river, made a fearful noise like a drum smeared with the juice of the serpent-driving plant. 
+प्रमुक्तकृष्णद्युतिभिस्तदीयैः पृषत्कणैहस्पतितैः प्रतूर्णम् ! अदृश्यताऽऽद्योवितमन्तरिक्षं पीतान्धकारैरिव तारकौमैः ॥ ११४ ॥ 
+Shining with the water particles at once risen being mixed up with the rays of Sri Krishna, the sky appeared as if shining with a multitude of stars which drank in the darkness. 
+उदग्रसंरम्भमुदीक्ष्य भीतास्तार्क्ष्यध्वजं तार्क्ष्यमिवाऽऽपतन्तम् । प्रपेदिरे सागरमाभितौघाः काकोदराः कालियमात्रशेषाः । ११५ ।। 
+Seeing Sri Krishna running against them like Garuda with fearful rage, all the serpents, except Kaliya, reached the ocean with the stream. 
+जयाम्भसः कालियनागमुग्रं व्यात्ताननं मृत्युमिवो जिहानम् । भोगेन बध्नन्तमपो शौरिः प्रह्वीकृतं तत्फनमारुरोह ॥ ११६ ॥ 
+Then, when the fierce Kaliya, with his mouth wide open (to bite Him ), like that of Death, rising up the surface of water, coiled round Sri Krishna, who disabled him, bent his hood and stood upon it. 
+सद्यो महानीलमयीं मुकुन्दः सपद्मरागामिव पादपीठीप् । 
+क्रामन् फणा कालिया भगस्य ग्रस्तोदितो भानुरिवावभासे ॥ ११७ ॥ 
+120 
+Treading down at once the hood of Kaliya which appeared like a foot-base made of sapphire with a ruby in it, Sri Krishna shone like the sun just emerging from the eclipse of being seized by Rahu. 
+फणामणीनां प्रभयोपरक्ते खेलन् बभौ चक्रिणि चक्रपाणिः । प्रदोष सिन्दुरितमम्बुवाहं प्राचेतसो नाग इवोपमृद्नन् ॥ ११८ ॥ 
+Sporting up on the body of the serpent which was rendered red with the splendour of hood-gems, Sri Krishna shone like the elephant of the western quarter treading under its feet a cloud red with twilight. 
+प्रणेमुषां प्राणभृतामुदीर्णे मनो विनेष्यन् विषमाक्षवक्त्रम् । 
+अकल्पयत् पन्नगमर्दनेन प्रायेण योग्यां पतगेन्द्रवाहः ।। ११९ ।। 
+Sri Krishna danced upon the heads of Kaliya whose eyes and faces were very cruel and odd- numbered also. Human mind has the five senses 
+for its faces which are also cruel and odd-numbered. By treading down the hoods of Kaliya and dispelling its poison, Sri Krishna appeared to be practising, as it were, how to tread down the minds of those who bow at His feet. (To dispel their poison like vanity or hankering after temporal pleasures.) 
+सद्भोगवृन्दे युगपन्मुकुन्दश्वारीविशेषेण समैक्षि नृत्यन् । पर्याकुले वीचिगणे पयोधे। संक्रान्तबिम्बो बहुधेव चन्द्रः ॥ १२० ॥ 
+Sri Krishna dancing upon the multitude of his hoods, in such a manner that His legs, knees and121 
+hips shook much, appeared like the Moon severally and simultaneously reflected upon a number of moving waves of the Ocean. 
+तदुत्तमाङ्गं परिकरुप्य रङ्गं तरङ्गनिष्पामृदङ्गनादम् । प्रशास्यमानस्त्रिदशैर कार्षीदव्याहता मारभटीमनन्तः ॥ १२१ ॥ 
+Having made the heads His stage where the waves served the purpose of drums performed an un-impeded and bold dance being praised by the Gods.. 
+एकेन इस्तेन निपीडय वालं पादेन चैकेन फणामुदग्राम् । हरिस्तदा हन्तुमियेष नाग स एव संसारमिवाश्रितानाम् ॥ १२२ ॥ 
+Pressing the tail with one hand and pressing. the fearful hood with one foot. Sri Krishna wished to destroy the serpent just as he would put an end to the wordly life of the devoted. 
+स पनगीनां प्रणिपात भाजां द्रवीभवन् दीनविलाप मेदैः । 
+प्रसादितः प्रादित भर्तृभिक्षां किमस्य नः स्यादपदं दयायाः ॥ १२३ ॥ 
+His heart melting by the pitiable cries of the prostrated female serpents, Sri Krishna, being pro- pitiated, gave them, the alms of their husband. Who among us, is not the object of His mercy? 
+लोलापतश्चरणलीलाइ विक्षरितद्दालाहले निजफणे 
+नृत्यन्तप्रतिषकस्यं तमप्रतिममत्यन्तचारुपुषम् । देवादिभिः समयसेवादर त्वरित हेवा कघोषमुखरै- 
+ष्टावधानमथ तुष्टाव शौरिमद्दिरिष्टावरोधसहितः ॥ १२४ ॥ 
+122 
+The serpent joining with his beloved wives praised Sri Krishna of very beautiful form whose actions were unchecked, who had no equal, who was dancing upon his hood, which being slightly beaten by His dancing feet gushed forth the poison and whe was looked at with attention by the gods and others who, being eager and hasty to see Him, were noisy with their joyful cries. 
+हरिचरणसरोजन्यासधन्योत्तमाङ्गः शमितगरुड भीतिः सानुबन्धः सनागः युगविरतिदशायां योग निद्रानुरूषां शरणमचरणः सन् प्रापशय्यां तदीयाभू 
+The serpent whose hood was rendered blessed by the placing thereon of Sri Krishna's lotus-like feet joining with all his relations and finding protection no where else, and by which he became free from fear of Garuda, sought shelter in the (middle of the Ocean, which is the bed of Sri Krishna fit to sleep on for 'Yoganidra' at the end of the Yugas. 
+Note Formerly Kaliya was in the ocean itself. Being defeated by Garuda and fearing his frequent attack, he had come to the river Yamuna where Garuda could not enter, due to Soubhari's curse. Now, his fear from Garuda was gone by Sri Krishna's favour. So, he went back to the ocean] 
+fataxyfaquìqziszálvi fanfkaadnor qdo ýar i azoa agar fagftaqat afazafkacsa, adtam 82§ 1; 
+When the crowd of serpents was driven away by Sri Krishna, the river Yamuna obtained great 
+123 
+clearness, with its water useful to sages like the three Vedas which obtained clearness and became useful to sages when all other religions were put down. 
+अवधूतभुजङ्गसङ्गदोषा हरिणा सूर्यसुता पवित्रिता च । 
+अपि तत्पदजन्मनः सपत्न्या बहुमन्तव्यतरा भृशं बभूव ॥ १२७ ॥ 
+When the evil of her union with the serpent (Paramours) was removed by Sri Krishna, and when she was made holy (by Himself bathing in her waters) the daughter of the Sun became highly respectable even to the river Ganges who has arisen from the foot of Sri Vishnu. 
+श्री: 
+श्रीमन्निगमान्तमहा देशिकविरचितं 
+पञ्चमः सर्गः 
+ततः समानीवर सालपाकः संवीजयन्पाटलगन्धवाहैः । निरूढमल्लीविभवो निदाघा सीरायुधं शौरिसस्त्रं सिषेवे ॥ १ 
+- 
+After the crushing of Kaliya, the Summer sea- son, in which the glory of the jasmine was estab- lished, which brought about the ripening of mangoes> and which made gentle breezes, laden with the fragrance of the patala flowers blown all around,- attended upon Balarama, the wielder of the plough, foot with (his brother) Sri Krishna. 
+124 
+अविभ्रतीनां कुचकुम्भकक्ष्यामा लिप्त कर्पूर हिमोदकानाम् | स सुभ्रुवां देहगुणेन यूनामासीद्वसन्तादपि माननीयः ॥ २ ॥ 
+That Summer season was more commendable than even the spring season, to the youths, on account of the charm of the bodies of ladies due to the non-wearing of the upper garments on their breasts and due to the swearing of the cool icy waters mixed with camphor. 
+विहारयूना भजता स्वयं तद् बजाङ्गनाविभ्रमकिंकरत्वम् | नितान्तधन्याः स्वगुणैरभूवन्निर्विश्यमाना ऋतवः क्रमेण ॥ ३ ॥ 
+At that time, the seasons one after the other- being enjoyed on account of their various qualities by that sportive youth, Sri Krishna, who by Him- self had assumed subservience of the graceful actions of love of the cowherdesses-became highly gratified. 
+कृतावसेका व कृष्ण गीतैर्वे नंदुमा वर्धितः । 
+अयत्नलब्धानि गवां बभ्रुवुः स्थायीनि वर्षातपवारणानि ॥ ४ ॥ 
+The trees of Vrindavana, watered as though with the songs of Krishna, grew to great heights, and became stationery umbrellas that were obtained even without any effort, for protection from the wind and the sun. 
+नमज्ज वातः प्रबलो न वृक्षान तिग्मरश्मिः सलिलं तताप | 
+ददाह वन्यां न च तत्र दावा संरक्षिता यत्र गवां स देवः || ५ ॥ 
+In that Vrindavana where Lord Krishna was the protector of the cows, the storms of Summer did 
+125 
+not fell the trees; the scorching sun did not boil the waters, and the wild fire did never burn the forest. गावो महिष्यथ गभीरनादाः सश्चारिताः शार्ङ्गभृता यथाईम् । कलिन्दकन्यामषगाथ काले धर्मापा संपदमेव मेजुः ॥ ६ ॥ 
+The cows and the buffaloes bellowed energiti- cally, being led to suitable places by Sri Krishna, with the sound of the horn which He held in His hand, and gained happiness alone even through the hazards of Summer, bathing in the waters of the Yamuna whenever they desired. 
+गतेऽपि भूयिष्ठगुणे वसन्ते गोपाः सुखं चारितगोधनास्ते । कलिन्दजानुपसमीपभाजः कालं कठोर । तपमस्यनैषुः ॥ ७ ॥ 
+Though that spring season of many merits had passed, the cowherds were comfortably grazing their cattle and spent the summer season of excessive heat, halting on the skirts of the waters of the river Yamuna. 
+विवेनिरे जङ्गमधाम कल्पैरनोभिरध्यासितचत्वराणि । 
+निदाघवर्षानुगुणानि गोपाः स्थानानि गोवत्सगुणोचितानि ॥ ८ ॥ 
+The cowherds constructed spacious residences that were fit for keeping the calves and cows separa- tely and being capable of facing the Sun and the rains, and in the yards of which, carts that were like moving houses, were stationed. 
+अकालकाल्येन परेण पुंसा साम्यं गतानामिव वल्लवीनाम् । 
+सुखाय सर्वे समया बभूवुः स्वैः स्वैरविच्छिन्नगुणैर्विशेषैः ॥ ९ ॥ 
+126 
+All the seasons (like the summer, rainy season and others ), with their own inseparable characte- ristic features, happened to please maidens of Vrinda- vana (the cowherdesses) who had, as in the state of salvation, gained similarity with the supreme person, who could not be disturbed by time. 
+सुधाप्लवस्वैर स स्वीमभिख्यां वनाश्रिते वर्षति कृष्णमेघे । मध्य दिनेऽप्याददिरे विहारान् गावः प्रकामं गतधर्म तापाः ।। १० । 
+As Sri Krishna, the dark cloud of Vrindavana, showered brilliance that was of the form of a plenti- ful bath of nectar, the cows of Nandagokula, being relieved of the heat, enjoyed moving as they pleased even during mid-day. 
+तापापहन्तुः स्वपदा श्रितानां तत्तारशा वस्य समीक्षणेन । 
+न तस्य गोपाध्युषितस्य जज्ञे ननस्य वातातपवह्निपीडा ॥ ११ ॥ 
+By such glances of Sri Krishna who destroys all afflictions of those who seek refuge with His feet, that forest occupied by the cowherds, was not affflicted by storm, heat and rain. 
+प्रसाधिताः पाटलपुष्पजालैः प्रच्छाय निद्राशमितोषतापाः । दिनावसानस्नपनेन शीता गोप्यः प्रियैर्निर्विविशुर्निशीथान ॥ १२ ॥ 
+Being freed from the heat of summer by sleeping under the shady trees, getting their bodies cooled by the evening-bath and being bedecked with the bunches of patala flowers, the cowherdesses enjoyed the nights with their lovers. 
+127 
+। 
+निदाघतैक्ष्ण्यादिह दुष्टसचाः श्रोमं गवां कुर्युरतिक्षुषा इतीक्षमाणः सहजेन सार्धं व्यधन नाथो मृगया बिहार ॥ १३ ॥ 
+Thinking that the wild animals suffering from excessive hunger due to the severe heat of summer, might cause torment to the cows of Vrindavana, Lord Krishna, engaged Himself in the sport of hunting along with His brother Balarama. प्रमुक्तानानुषक्स्या मासा तयोराहितगाढमोहाः । अयत्नतभ्योपगमास्तदा सन्ध्यालाः क्षणादर्भ कवेधयोग्याः ॥ १४ ॥ 
+Then, the wild beasts like the tiger and others, became at once fit to be easily attacked by even children who could approach them, without any effort, as they were under the powerful spell of the radiance of Sri Rama and Krishna who were like the confluence of the Ganges and the Yamuna. अनुप्रयातैरिव देवमाया मच्छेदनीयैरपि दिग्गजानाम् । वनं तदन्तर्गतसत्वजातं पाशैश्वारुन्धत वत्सपालाः ।। १५ ।। 
+The protectors of the calves (the followers of Sri Krishna) tied all around the bonds, that were like the Maya or illusion of the Lord with which all souls are tied like beasts, to obstruct the cruel animals that were within the forest, from going out. The bonds were such that they could not be broken even by the quarter-elephants. 
+अनन्तलीलोचित भूमिका सैरावेदितान्वेदवने चरेन्द्रेः । 
+रथः समास्थाय गृहीतचापा गुप्तस्थितिं गोपसुता वितेनुः ।। १६ । 
+128 
+The cowboys armed with bows, kept watch hiding themselves on the paths shown by the Vedas, dressed in the manner of hunter chiefs befitting the sport of Sri Krishna. 
+क्षणादनिर्धार्य निदान मेदं दत्ता पह | सैर्वनदेवताभिः । मृगायितं तत्र मृगेन्द्रमुख्यैः सिंहायितं गोकुलसारमेयैः ॥ १७ ॥ 
+The sylvan goddesses laughed mockingly at the wild animals like the lions etc., that behaved in a moment, like the deer and the dogs of Gokula, that behaved like lions (when let loose), without determining the root cause responsible for it. (namely, the result of Sri Krishna's greatness. ) परिस्फुरत्कविमसध्वजातेः प्रसारितैः श्यामपटैर्वनान्ते । 
+स्वयं तिरोधाय तदर्हशब्दा गोपा मृगान्गूढचराचकर्षुः । १८ ॥ 
+The cowherds spread out inside the forest, dark sheets of cloth, on which the forms of the wild beasts were brilliantly painted, and moving unseen behind them, making sounds similar to theirs, drew the beasts near them. 
+शतावरीदापनिबद्धः शाङ्गध्वनिवासितसिंह यूथान् । अनीकनाथप्रमुखान कार्षीदग्रेस रान्व्याधतनननन्तः ॥ १९ ॥ 
+Sri Krishna made Sri Vishwaksena and others, who had assumed the form of hunters, whose crests were tided with the threads of the Satavari plant and who frightened the herds of lions with the twang of the bow-march ahead of Him. 
+129 
+विमुक्तपाशा मधुवैरिभृत्यैर्जिह्वाल दुर्दश करालवक्त्रा । । निपेतुरन्योन्य विमुत्करोषाः श्वानो वराहेषु निशातदंष्ट्राः ॥ २० ॥ 
+The hounds, the faces of which were ferocious to see on account of the dangling tongues which had many sharp teeth, whose chains were let off by the servants of Sri Krishna, the Vanquisher of Madhu, fell upon the wild boars, giving up their mutual anger (due to their hatred towards their own class.) 
+संभूय गोपाः प्रसभं प्रयुक्तैः सच्वानि वन्यानि समग्रसच्चाः । गुहामुखाम्रेडितघांपैः कोलाहलैराकुलयांबभूवुः ॥ २१ ॥ 
+The cowherds equipped with all strength collec. ted together and caused distress to the wild beasts (which were hiding in the caves of the mountains) by their simultaneous and terrible uproar, the loud noises of which were echoed by the caves of the mountains. 
+अमृष्यतो मानुपसिंहनादं गिरीन्द्ररौधैरपि दुर्निरोधान् । 
+बभञ्ज हप्तो बलभद्रसिंहः सिंहाद्विपेन्द्रानिव दुर्निवारः ॥ २२ ॥ 
+The proud and unobstructable lion named Balabhadra struck, as if striking elephants, the lions that did not tolerate the uproar of men and could not be checked even by mountains. 
+गुञ्जाकलापप्रतिनद्ध के शेरा गुल्फमालम्बित पिञ्छिना है। निपङ्गिभिरुपृषत्कचापैर्गुप्तो बभौ गोपसुकुन्दः ॥ २३ ॥ 
+9 
+130 
+Mukunda shone, being guarded all around by the sons of cowherds, whose tresses were bound with garlands of Gunja beads, whose decorative. peacock feathers were hanging down to the ankles and who had quivers, beautiful arrows and bows. 
+माक्रान्त्यकम्पेषु नगेषु धैर्यं शौर्यक्रमं श्वापदविक्रमेषु । अशिक्षयत्क्षेमविदात्मभृत्यान्विहारगोपो मृगयापदेशात् ॥ २४ ॥ 
+Sri Krishna, the sportive cowherd, who knew the ways of granting protection, taught his servants under the pretext of the hunt, the quality.of fortitude as found in mountains that did not shake even when assailed by His own army and the quality of valorous action as found in the bold resistance of the wild beasts like the tigers and the boars. 
+आदाय लूनानि मुकुन्दबाणैः शृङ्गाणि शीघ्रं वनकासराणाम् । शार्ङ्गप्रमाणानि शनैरकार्षु तैरेव चारूणि धनूंषि बाला ।। २५ ।। 
+Quickly getting hold of the horns of the size of bows belonging to the wild buffaloes that were cut by the arrows of Sri Krishna, the boys made beautiful bows with them alone, at leisure. 
+मनुष्यमांसस्पृहया सरोषं गुहान्तरादुत्पतिंतु प्रवृत्तान् । 
+शिलीमुखैः कीलित शैल कण्ठान् कृष्णस्तदा केसरिणश्व कार ॥ २६ ॥ 
+Then, Sri Krishna made the lions, that tried to pounce upon him from within the caves, with great131 
+anger and with the desire for human flesh, trans- fixed them to the rocks by their necks with sharp 
+arrows. 
+नवाहतैनथिपरिष्क्रियाहां गुञ्जास्रजं गोपकुमारवीराः | विभिन्नवन्यद्विपकुम्भमुक्तैर्मुक्ताफलैरन्तरयां बभूवुः ॥। २७ ॥ 
+The young ones of cowherds covered the garland of Gunga beads that was a worthy ornament to Sri Krishna with the newly brought garlands of pearls that flowed out of the temple regions of the wild elephants when they were cut asunder. शराहतानां विपिने मृगाणामार्द्राहृतैश्वर्मभिरात्तहर्पाः । अकल्पयन्नास्तरणानि गोपाः संवेशयोग्यानि सहायिनीनाम् ॥ २८ ॥ 
+The cowherds made carpets fit for sleeping with ttheir consorts out of the skins of deer and others hat were killed in the forest and brought fresh even as they were wet, with great delight. अभिन्नपानवकाश भेदाद्भिनस्थितीन्भीतिमपोह्य वत्सान् । निरस्तसिंहेषु गुहागृहेषु न्यवीविशन्नाथ नियोग माजः || २४|| 
+The servants of Krishna stationed the calves quite apart from each other, getting rid of the fear from the lions, in the spaces of the caves from which the lions were killed and where there was wide accommodation and the sides of which were not sliding. 
+अयातयामैरचिरप्रतापात्सुमृष्टपाकैरधिशाल्यशृङ्गन् । 
+मांसर्मृगाणां मधुनावसिक्तैर्नन्दस्य भृत्या विपिने ननन्दुः ॥ ३० ॥ 
+132 
+The servants of Nanda delighted themselves with the meat of deer mixed with honey and which was not taste in stale as it was well cooked just then being heated at the tip of the arrows. निवेद्यमानान्वनदेवताभिः संगृह्य वन्यानुपदा विशेषान् । 
+समं सुहृद्भ्यः सहसा विभेजे रामानुरोधेन रमासहायः ।। ३१ ।। 
+Receiving the forest-produce such as fruits and roots which were offered as presents by the Sylvan Goddesses, Sri Krishna, the associate of Lakshmi, equally distributed them at once, among the friends, with the permission of Balarama. 
+त्राणं सतां दुष्कृतिनां विनाश तन्वन्नयीष्टं मृगयाच्छलेन । स्वच्छन्दचर्यानुगुणं गवां तच्चक्रे वनं शान्तमृगावशेषत् ॥ ३२ ॥ 
+Achieving the purpose of protecting the good and destroying the wicked, by making only the peaceful animals such as deer remain therein, through the pretext of hunting, Sri Krishna made that forest very convenient for the cows to move about as they desired. 
+fan&61509a1g3591 faktai fuqniqce41 1 
+Ħarfqan argftåkarei fagat Bylezfaggq1: || 33 || 
+By the glances of that cowherd, Sri Krishna, (who is) established in the Vedas, and which (glances) functioned with the waves of His natural compassion, some cruel animals like the lious and elephants were made to give up hatred and become tame as though they belonged to the class of cows alone. 
+133 
+विधुन्वता धूलिकदम्बरेणुन्धारा कदम्बाङकर कारणेन | निन्युः श्रमं निर्झर बिन्दुभाजा नमस्वता नन्दसुतानुयाताः ॥ ३४ ॥ 
+The followers of Sri Krishna, the son of Nanda, relieved themselves of their fatigue by the breeze that shook the pollen dust of the flowers of the Dhulikadamba tree, caused the sprouts of the Dharakadamba and carried drops of water from the mountain springs. 
+अमत्यक्षेश्वर धाम भाजोरारामयोरेकमिवावतारम् | प्रशान्तधर्मातिशयं प्रभावाद्दृन्दावनं नन्दसुतो वितेने ।। ३५ ।। 
+Sri Krishna, the son of Nanda made Vrindavana relieved of excessive heat, the Vrindavana which was verily like the joint incarnation of the pleasure- gardens namely Nandana and Chaitraratha, that were situated respectively in the capitals of the Lords of the Gods and the Yakshas. 
+दिशं समाक्रम्य करैरुदीचीं देते व दक्षिणतः प्रवृत्ते । 
+निदाघवलुप्त्या निगृहीतदेहां वृष्टिं पुनः स्रष्टुमियेष शौरिः || ३६ || 
+When the Sun-God began to move southwards after dominating the north with his rays, the God- Krishna desired again to create the rains whose body had been restrained by the creation of the 
+summer season. 
+Note: It is like a cruel king setting out to sack another's country tormenting its people by collecting 
+134 
+heavy taxes from them throwing the queen into prison and then returning, after which, a kind and brave one releases her for the good of the country.] [Rays and tax.] 
+प्रथाविरासीदपसार पन्ती तापं गवां चण्डकरप्रमृतम् । 
+विचित्र सस्योदय मेचकाङ्गी मेघाविला माधवयोगवेला || ३७ || 
+Then appeared the time of Yoganidra of Madhava, the time, which was cast with clouds, which relieved the cows of the strain of heat caused by the hot sun and which was dark-green on account of the growth of varied forms of vegetation. महीभृतः संभृततीर्थतोयैरम्भोधरैराचरिताभिषेकाः । 
+प्रनुक्तविद्युद्वलयैः पुनस्तैः प्रायेण नीराजनमन्वभूवन् ॥ ३८ ॥ 
+The mountains which were anointed like kings by the pot-like clouds with their waters drawn from the holy rivers, enjoyed, perhaps, 'Arathi'-i.e. the waving of lights, performed again by the clouds with their circular lightnings. 
+dialagià: #gasogiat qârfaxıraqcgfoaıq: i व्यदारयत्पुष्पशरः प्रतूर्ण मानग्रहं मानवतीजनानाम् ।। ३९ ।। 
+Manmatha, whose arrows are flowers, very soon cut asunder, the jealous indignation of the women- folk who were yearning with love, with the leaves of the Kethaki trees that were shining brightly being washed by the rains and being continuously noisy with the humming of the bees. 
+135 
+पयोमुचा सेकवत स्थलानां वीरुत्प्ररोहा विविधा बभ्रुवुः । समीक्षितानां मधुसूदनेन श्रद्धादयाद्या इव सद्गुणौघाः ॥ ४० ॥ 
+Just as hosts of virtues such as faith, mercy and so on originate in people who have been blessed with the glances of Madhusudana, there sprouted varieties of creepers and plants on the grounds that were drenched by the clouds. 
+शितेन पञ्चषुशरेण भिन्नाद्वियोगिनी मानसतो विकीर्णाः । तदेन्द्रको पत्वमिवाधिजग्मुः शोणाः क्षितौ शोणितबिन्दुभेदाः ॥ ४१ ॥ 
+During that rainy season, the Indrakopa worms which were red in colour, were scattered on the ground. They shone as the drops of blood shed from the minds of women separated from their lovers and being (therefore) shorn by the sharpend arrow of cupid. 
+मधुद्रुतेरुल्बणदन्तवीणा मेघानिले मेदुरबिन्दुजाले । 
+प्रभूतकरूपाः प्रथयविभृतुः शीतालुतां कण्टकिनः कदम्बा ॥ ४२ ॥ 
+The Kadamba trees with sharp thorns all over their body (as if having a horripilation) shivering severely (as though with severe cold), being blown by the wind carrying dense drops of rain water and with trickling drops of honey blown by the wind resembling the chattering of the teeth, (due to exces- sive cold) appeared as though they were not capable of bearing that excessive cold. 
+136 
+शहदाशस्त्र विलासदीप्ता धीरप्रणादा घृतचित्रचापा । कनला काध्वजपक्तिरासीत्कादम्बिनी कामचमूरपूर्वा ॥ ४३ ॥ 
+The row of clouds shone as a strange army of Cupid. The glittering lightnings therein were like waving of glittering swords. The loud roars of thunders were the uproar of the army. The rain- bows were like the wielding of huge and varied bows of the archers in the army. The row of the balaka birds was like the row of flags. 
+मृदङ्ग धीरस्तनितो विहायाः सौदामिनीसंभृतचारुलास्यः । बभौ नवानां प्रभवो रमानां रतिप्रियस्येव नटस्य रङ्गः ॥ ४४ ॥ 
+The sky having noises of thunder, similar to the deep sound of the drums, being adorned with the graceful dances of the lightnings and being the birth- place of fresh (न) waters, which were like the (नव) nine sentiments like sringara, veera and so on, shone as the stage for the actor, Cupid, the lover of Rathi. 
+अचिन्तितोपस्थित जीवनानामासेदुषामभ्यधिकां समृद्धिम् । तोयाशयानां परिवाहजन्या स्वगुप्तिरन्योपचयप्रदा भूत् । ४५ ।। 
+The self-protection provided by the outlets to the reservoirs that had gained excessive prosperity of water that had come unexpectedly (through rains), verily resulted in the prosperity of other tanks (just like the donations of wealth by the good (tarar:) people who have attained wealth unexpectedly, would fulfil the desires (of others,) 
+137 
+[* There is fear of theft etc, for the money of the rich people. By giving away their wealth in charity, they save themselves from such fear and get fame also.] 
+गुहासु गोवर्धनसंभवासु प्रकामविस्तीर्ण समस्थलीषु । 
+गुणाधिको विश्वसृजा प्रवर्षे वासः समाधीयत वल्लवानाम् ।। ४६ ।। 
+Drawing (those ) heavy rains, the caves that existed in the Govardhana mountains and which possessed plenty of wide and even space within and which also had many advantages such as warmth etc., were made the resort of the cowherds by Lord Krishna, the creator of the Universe. 
+दरीषु गोप्यः प्रसमीक्ष्य कृष्णं दिशासु जीमूतगणं मयुर्यः । अग्रे पतीनामधिगीतिनाई विवेनिरे चारु विहारलास्यम् ॥ ४७ ॥ 
+On seeing Sri Krishna in the caves, the cowher- desses, and on seeing the mass of clouds in all directions, the she-peacocks, both danced graceful dances of love before their husbands. to the accom- paniment of the sounds of music (namely, the cry of peacocks.) 
+- 
+Note: [In "aratai" the idea suggested is that the cowherdesses were attracted so much by the extraordinary beauty of Sri Krishna that they were moved to dance simply before Him even before their own husbands; i. e. without caring for their husbands.) 
+पयोद लक्ष्य प्रहिताग्रहस्तां कृष्णः स्वनेले इव चन्द्रमूर्यौ । 
+तिरोदधानां प्रतिरं धुमैच्छत्स्वैरी स्वलीलामिव जातलीलाम् ॥ ४८ ॥ 
+138 
+That all-independent Krishna desired to set aside, as though His own spouse, the rainy season, that was playful and as if covering His own eyes, the moon and the Sun with her palms under the pretext of clouds. 
+Note: [Here, the rainy season is as the spouse of Sri Krishna, clouds are as her hands. The Sun and the moon are as His eyes which are covered by the clouds. It is just like the sport in which His spouse covered the eyes of Sri Krishna for sport with her hands which He wanted to set aside-It is some thing like the play of the "Blind man's buff”—] qqışaftaman: 9410ı: gufaqi afqamlE9481: farg@lgıazzezıfar flaregaıcı faut aYJ: || 89 || 
+Then, (when the Lord willed to withdraw the rainy season) the days of autumn shone with power- less clouds and the sky became brilliant like thick collyriutn. There was a cessation of the grace- ful dances of lightning and the faces of the directions. became clear and pure. 
+लक्ष्यतीत्रातपमन्तरिक्षं सितसितैरम्बुधरचकाशे । Gàzqınıgganfaaıçì faci facðufaadmıâ: || 4° || 
+The sky wherein the severe heat of the sun was not yet seen, shone now with white and black clouds just like the minds of people aspiring to gain discri- mination shine in the beginning, when inferential doubts have not yet disappeared (completely cleared). 
+139 
+विहाय मद्यः कुटजार्जुनादीन्विरला वितान्कालविपर्ययेण । पुनर्वन्धुः प्रयं द्विरेफाः कोशोप पत्रेषु कुशेशयेषु ॥ ५१ ॥ 
+The bees, then, abandoning the kutaja and arjuna flowers that suffered decay on account of the change of seasons, sought friendship again with the lotuses that were bearing plenty of buds (just like a clever servant goes from an impoverished master to a person who has plenty of wealth.) [buds, wealth] 
+तरङ्गलीलाम्बुजतालवृन्ता बतपत्रायित मृयूपाः । 
+विधूनहंसा वलिचामरौघा नद्यः समातन्वत नाथसेवाम् ।। ५२ ।। 
+The rivers began to render service to Lord Krishna, (just like the attendants serve the king) with fans (in the form) of lotuses (that were ) tremulous on account of the waves, with the swarm of bees acting as umbrellas made of pea-cock- feathers, and with the group of swans acting as many chamaras (chowries). 
+तापानुबन्धप्रशमाय पुंमां शय्यार्थिना शार्ङ्गभृतोपहूता । पयोदमालाव्यपदेशदृश्या प्रायस्तिरोऽधीयत योगनिद्रा ॥ ५३ ॥ 
+The sleep-in-yoga (yoganidra) of the Lord which was visible in the form of the string of clouds that had been invited by the wielder of 'sharnga' bow who was intending to recline on the bed, with the purpose of relieving men of the strain of heat, disappeared at that time to a great extent. 
+140 
+इतस्ततः प्राप्तशरद्विहारं गोपीसखं द्रष्टुमतीव हर्षात् । aðîìfa àâfta graniù: möhkat fafaat æorq: || 48 || 
+The Goddess Earth, was shining forth, with the spread out feathers of the pea-cocks as if gazing with wide-opened eyes on account of excessive delight to see the friend of the Gopis who was engaged in appropriate sport of autumn, here and there in Vrindavana. 
+चराचरेष्वा हिनजीवनानामनुज्झतां सत्पथमम्बुदानाम् । gfazzzza&fgcwqzza1g+qınâ€¶nâ: qáà || 44 || 
+The whiteness within and without of the clouds that never left the path of the stars and that had already rained waters, was praised by the groups of swans that had come there (from the Manasa lake voluntarily. 
+Note: [in the sloka means 'the path of the virtuous', also. Then the idea suggested is: -Even saints-(gan:) approach the pious men who feed all animals without leaving the path of the virtuous people and are pure both at heart and in the body.] संस्कारमेदः कलमादिकानां क्रमेण लब्धोपचयस्थितीनाम् । समुन्नतिः सन्नतिहेतुरासीद्धमें निजं साधयितुं क्षमाणाम् ॥ ५६ ॥ 
+The prosperity attained by the plants such as 'Kalama' (on account of the very many refinements by way of putting in good manure and etc), that had reached gradually the stage of full fledged growth, and that were capable of achieving their141 
+nature (of yielding corn etc) was the cause of their bending down (with the weight of fruits). विहारगोपस्य गुणान्गृणद्भिः क्षीत्राशया गीतपदेरुदारैः । चकासुरासादितभक्तिभेाः सामोपशाखा हव शालिगोध्यः ।। ५७ ।। 
+The women-folk that were guarding the crops with their minds fully excited, attaining various moods of sentiments of devotion, shone out like the (very many ) branches of the Samaveda, with their five bhaktis or divisions (prasthava, udgitha etc, with the noble words of songs that sang the virtues of Krishna in sport. 
+[In Samaveda, the way of singing by Rithwiks with proper stops-is shown clearly,] विकस्वरेन्द्रायुधानः श्यामीकृतं कृष्णघनस्य धाम्ना । शरत्प्रसङ्गेऽपि तदा तदासीदुवृन्दावनं वज्रमयूरलास्यम् ।। ५८ ।। 
+Then, (during that autumnal season ) even though the autumn season had appeared, that Vrindavana became an abode where the pea-cocks danced gracefully as Vrindavana was darkened by the lustre of the dark-cloud named Krishna who wore an adornment of pea-cock feathers which looked like the spreading rain-bow and hence made the pea-cocks dance mistaking Him for the dark cloud having the rain-bow within. 
+समग्रबन्धूकरजा समेत स्मेरातसीमेचकमन्तरिक्षम् ! 
+पीताम्बरेण प्रभुना तदानीं अयत्नसंभूतमवाप साभ्यम् ॥ ५९ ॥ 
+142 
+At that time, the sky which was blue like the full-blown atasi flower and which was further asso- ciated with the pollen dust of the bandhuka flowers, assumed similarity without effort, with Lord 
+Krishna, wearing the yellow silk garment. 
+समग्र सप्तच्छद रेणु कीर्णेः स्रोतोभिरुन्नीतमदप्रवादः । senaà färgat narai mìabàì quafaâya, & ° }} 
+The Govardhana mountain, from which flowed down streams like the torrents of ichor, that were fully mixed with the dust of the 'saptacchada' flowers, appeared to be the king of elephants that move at will in their forest-abodes. 
+अधोमुखैव प्रतिबिम्बरूपरेभ्प्रमतेरात्मभिरध्यर्शयन् । 
+त्रिविक्रमस्य स्थितमुन्नतं च पदद्वयं पाथसि रक्तपद्माः । ६१ ॥ 
+The red lotuses, with their forms raised higher up and with their reflections inverted in water, seemed to praise (by imitation, the position of) the two feet of Lord Sri Vishnu who measured all the three worlds by His three strides of which one was placed on the ground and the other lifted up- wards. (while measuring the worlds.) 
+qgyà meazzdatat añau sqfxary=qfqs91g | afgĤageafaat sqqìè àâıfkaaifaa afès9101A__||| 83 || 
+On account of the disappearance of the mire on the ground, the straight paths that were once being 
+143 
+used, began to be used again. This was similar to the observance again of the virtuous actions pres- cribed by the Vedas on account of the refutation of heretics who had faith in the non-vedic schools of thought. 
+मदप्रभूत ध्वनयो महोक्षा रोधो विभेदौल्बणतुङ्गशृङ्गाः । दर्पस्य देहा इव योगसिद्धा । दन्ताचलानन्तरयां बभूवुः ।। ६३ ।। 
+The mighty bulls that bellowed loudly on account of their infatuation and had mighty horns which were sharpened by digging against the shores of rivers etc looked as though arrogance itself had taken the form of their bodies joined through Yoga, and vanquished the tuskers in fight. 
+सरोरुहां रक्तसितासितानां श्रिया बभौ शारदवासरश्रीः । विहारभाजा गुणमेदयोगाद्व्यक्तीकृता विश्वसृजेव माया ॥ ६४ ॥ 
+The beauty of the autumnal day was enhanced by the brilliance of the red, white and blue lotuses (in the ponds) which were like the Maya associated with the variation of the 'gunas ' [Satwa, Rajas and Tamas) brought to manifestation by the Creator of the universe engaged in sport. 
+आरक्त कल्हार विलोचनश्रीः क्लान्ता भृशं खेलगतिः स्खलन्ती । उनाउनालीकमधूपभोगान्मवमार्ताण्डसुता बभासे ॥ ६५ ॥ 
+The river Yamuna (the daughter of the Sun) with the beauty of the eyes of the all-red kalhara flowers ( red lotuses) being emaciated ( due to) 
+144 
+paucity of water), moving gracefully, stumbling (over stones) appeared as though she was intoxi- cated with the drinking of the nectar of the lotuses that bent down from their tall stalks. 
+Note: [Due to paucity of water in the river, the stalks of lotuses appeared tall and bent, also due to the weight of flowers. Eyes become red due to intoxication by drinking the flower-honey or so). 
+asasıàìfâadıfa¤gi mò aqnenazgłamsafą | वलनलग्नो मिंवलीविभङ्गां काले । 
+का अरंस्त पश्यन्ननघोऽनुरूप श्यामां सुट्टामपि सूर्यकन्याम् ॥ ६६ ॥ 
+The flawless Krishna delighted Himself in look- ing at the river Yamuna, the daughter of the Sun, (though He had seen her well before), who had the waves in the centre like the threc folds of the skin on the upper part of the belly, who had assumed during that autumn, her original slenderness, who was dark complexioned and who was suitable for His sport. 
+d1q1gfà dìınaqezıftaleturfsanımıfaq | faaigâ: aftaaradıcıà«ıqàmfka auygK || EV || 
+He enjoyed looking at that Yamuna, who though single in number seemed as if she assumed the forms of many (rivers, such as the form of river Sona on account of the vast red lotuses, the beauty of her own being glorified by the blue lotuses aud the form of the Ganges on account of the white lotuses which were indicative of it. 
+145 
+कुमुद्वतीं प्रेक्ष्य कलिन्दकन्यां तारापरिष्कारवतीं त्रियामाम् । नभःस्थलीं च स्फुटहंसमाला नाथस्त्रिधा भूतममन्यतैकम् ॥ ६८ ॥ 
+Looking at Yamuna decked with white lotuses, the night decorated with the stars, and the surface of the sky with the rows of swans, Lord Krishna considered that the same Yamuna had taken the shape of all the three. ( namely, the river, the night and the sky.) 
+बन्धुकजालैः परिधान शोमा मिन्दीवरैरप्रतिमामभिख्याम् ! मुखश्रियं तामरसैर्मुरारेः संभृत्य लेभे शरदानुरूप्यम् ॥ ६९ ॥ 
+Gaining ( संभृत्य) the beauty of the yellow silk garment of Lord Krishna with its hosts of Bandhuka flowers, the peerless brilliance of His body with its blue lotuses and the splendour of His face with lotuses, the Autumn attained similarity with Sri Krishna, the foe of the demon Mura: 
+पयोधराणां पलितं करण्या दिवश्च तारुण्यमिवार्पयन्त्या । विचित्रभूम्ना शरद । स्वशक्ति विख्यापयामास विहारगोपः ॥७०॥ 
+Sri Krishna, the sportive cowherd, made his rare ability explicit, through that Autumn of mysterious. powers that made the clouds whitish, and the sky clear. 
+कुमुदतीकल्पितमृङ्गगीतः संदर्शयन्दर्पणमिन्दुबिम्बम् | 
+स चामरचन्द्रिकया सिषेवे तमीश्वरं तत्र शरत्प्रदोषः ॥ ७१ ॥ 
+10 
+146 
+The autumnal twilight served Lord Krishna in Vrindavana then, with the humming music of the bees in the lines of blue lotuses, and showing the mirror of the form of the moon and with the moon- light which seemed as chamaras. 
+सरोरुहां रक्तसितासितानां स्थानेषु भृङ्गध्वनिभिः प्रतेने । जिगीषतः पञ्चशरस्य विश्वं तू प्रवृत्तेरिव तूर्यघोषैः ॥ ७३ ॥ 
+The humming sounds of the bees in the places of the red white and blue lotuses that spread every- where seemed as though the sounds of drums of the five-arrowed cupid, desirous of conquering the world, were raised all at once. 
+निर्मुक्त भोगीन्द्रनिभः पयोदेः नमस्थली व्याप्ततनुर्वभासे । अनङ्गयोग्यैई रिनीलभूमिर्धीतप्रकीर्णैरिव चामरौघैः ॥ ७३ ॥ 
+The span of the sky, which was covered by the clouds that were like serpent kings that had left off their slough, shone like the Indraneela floor spread over with chamar as that were washed and expanded, to be worthy of Cupid. 
+विभाव्य बन्धुकविभातसन्ध्यां कालोचिन कल्पयितुं विहारम् । द्विजेरुपाधावि निसर्गशुद्धरङ्गीकृताना विलतीर्थतोयैः ॥ ७४ ॥ 
+On seeing the crimson-hued early morning of the form of Bandhuka flowers, it was hastened by the swans which are white by nature, to perform sport suited to that time in waters that were thought 
+147 
+[Another meaning, – On 
+of as pure and clear. the crimsons-hued early morning of the form of Bandhuka flowers it was hastened by the pure Brahmins to bathe in waters that were thought of as clear and sacred, for performing the fire-worship suited to that time.] 
+Note : 
+[Here : means swans and pure Brahmins 'कालो चिंत' means suited to autumn in the case of swans and suited to morning time in the case of Brahmins] 
+अनिन्दितां ग्लानिमित्रोद्वहन्त्यो विवेनिरे मन्तरान्प्रचारान् । वर्षानिशीथे दयितेन मुक्ताः श्रान्तिं प्रयाता इव शैवलिन्यः ॥ ७५ ॥ 
+The clouds assuming beautiful slenderness. began to move very slowly as if under fatigue, being enjoyed to by their lover, the ocean, during the night namely the rainy season. 
+श्रिया समं भावितपद्मभूम्ना घनागमादुल्लसितः पयोधेः । रराज नीले रविरन्तरिक्षे मणीश्वरो माधववक्षसीव ॥ ७६ ॥ 
+The Sun shone in the blue sky, having risen from the Ocean, namely the rainy season, with the brilliance that caused the lotuses to bloom, just like the Kausthubha, the Lord of the gems with Sri Lakshmi, on the chest of Sri Vishnu. 
+अवाप्य संकोचमतीव भूयः कालागमादुषितो नमस्तः । 
+विभागमा पुर्विदिशो दिशय प्रजा प्रसन्नादिव विश्वधाम्नः ॥ ७७ ॥ 
+148 
+From the sky which gained again expansion on account of the advent of Autumn, having formerly attained intense abridgement (on account of the dense clouds) the main directions and sub-directions came to be differentiated just like the souls which become differentiated into gods, men, animals and non-sentients, from Lord Vishnu who is the abode of the Universe, who awakes from yoganidra, which He had at the dissolution of the Universe and becomes pleased to Create the world again. 
+aydaftarışaì qzpùzfazai qåg¶ıanıa i रथाङ्गपाणेरिव सिन्धुजन्मा सरोजिनी चारुसरोजलक्ष्या ॥ ७८ ॥ 
+Just like the Goddess Lakshmi, born from the ocean, and characterised by the charming lotuses in her hands, becomes awake. even before the Lord Sri Vishnu, the holder of the disc in hand rises from Yoganidra the lake, decorated with beautiful lotuses, awoke from sleep (i.e. lotus flowers bloomed) even before the Sun that arose out of the ocean of clouds 
+Note: [Though the autumn had set in, clouds were still continuing to cover the sun. But the lotuses began to bloom, due to the coming of autumn]. 
+उत्सारयञ्जीर्ण सिलिन्ध्रजालं प्रायो मदैः पेचकिनां प्रसिञ्चन् । चकार सप्तज्छद रेणुजालैः कालो महीं कामविहारयोग्याम् ।। ७९ ।। 
+Pushing aside the dried-up plantain flowers, (or mushroom), and sprinkling profusely with the ichor 
+149 
+of the elephants and pouring heaps of pollen dust of Sapthachchada flowers, the autumnal season made the earth fit for the sportive movement of Cupid. 
+कतोदयाः कृष्णबलाहकेन स्रोतोवहा । स्वरविहारभाजः । 
+aufaa zunanfanátçun amifasi «sseDraaig; || 6° || 
+The rivers made prosperous in water by the dark cloud and having sported at will (by over- flowing the banks) and now becoming charming after attaining their original river bed, gained their natural pure state. (just like women coming under the spell of some person move astray and later, gaining their natural pure state, display shame for their misdeed and look charming.) 
+सुखावगाद्यैः सुशामतुष्यत्स्वादोत्तरैः शौरिरपेतपङ्के । । gggðîîâmâ: qâìfq: zaxmfaħfia argââ: || <? || 
+Lord Krishna was pleased with the waters of the Yamuna in which women could easily take a dip (since it was not deep as in the rainy season), which was exceedingly tasteful and free from muddy waters, which was pleasingly cool and refreshing, as though with the minds of His devotees that can be easily entered into, by the virtuous that are qualified by excessive delight of Brahman, that are free from sin, which are peaceful owing to the absence of passion, which are compassionate and which are interested in Sri Yamunacharya. 
+150 
+अनुल्बणेरन्वहमूर्मिभेदैः संपन्न रेखाः सरितामधोऽधः । श्रियो दधुः पद्मवनावतारे सोपानतां सैकतसंनिवेशाः ॥ ८२ ॥ 
+The portions of the sands on the banks of the rivers that were marked by successive lines one below the other every day on account of the splash of the waves of the rivers that were not rising high on account of the decreasing water level, bore the state of a flight of steps for Goddess Lakshmi, for walk- ing down to the lotus-grove. 
+प्रसादमाजा समयेन दत्ता स्त्रैलोक्यलक्ष्म्यास्तरलभ्वभावाः । पयोधरस्थानगता विरेजुः द्वाराः प्रभूता इव हंसमाला || ८३ ।। 
+The rows of swans of an unsteady nature, that gained their position on the clouds, appeared like innumerable garlands of the Goddess of the three worlds, offered by the season of Autumn, which is 
+pure. 
+जलातपत्यागसमागमाभ्यां प्राचीमवक्रां प्रकृतिं भजन्त्यः । तदन्वयत्यागवशादवाप्तैः पङ्करमुच्यन्त शनैः पदव्यः ॥ ८४ ॥ 
+The roads that gained their former nature of being straight on account of the absence of water and the advent of sun-shine were gradually released from dirts that were formerly contacted on account of the presence of the one (water) and the absence of the other (Sunshine). स्थाने विनिद्राः स्थलपद्मकोशाः प्रायोगतिं पान्थजनस्य रोद्धुम् । अरुंतुदाना मुमुचुः परागाना श्यानपङ्केषु महापथेषु ।। ८५ ॥151 
+The buds of the land-lotuses that bloomed in time, cast their pollen, which was very painful to the travellerfolk (in separation from their beloveds), on the slightly dried up mire on the highways perhaps to obstruct the travellers' movement (from their beloveds). 
+.. 
+पतवलीलाहत पुष्करान्। पद्मालया नूपुरसौम्यनादैः । gâcaifa zaqaftarıza: niggddfia ua¿â: || 26 || 
+Beating the surface of the lotuses with their wings in sport and with the melodious cries similar to the tinkling of the anklets of Lakshmi, the Rajahamsas appeared as though they were provid. ing the auspicious instrumental rousic in the morning for awakening Lord Vishnu, who was asleep in the ocean, (on the advent of Autumn). कल्हार निष्पादन कर्णपूरा वितीर्णचन्धूकविशेषकश्रीः । आयुक्तपद्मोत्पल रेणुरासीत्सैरन्धिका कापि शरविघानः ॥ ८७ ॥ 
+The Autumn became verily a decorator of Sri Krishna, by providing the ear-ring with the Saugan- dhika flowers, by intensifying the beauty of the Tilaka of the form of the petal of the bandhooka flower, and scattering the pollen dust of the lotuses. सरोजकोशान्मितः प्रभुग्नशालीन्विपाकान त पिञ्चरा ग्रान् । gota à¤¶¤âìsgàà âkı aqrulia aingozla || 66 || 
+Seeing the blossoming lotus-buds that were bent down (from their tall stalks), the paddy-plants, the 
+152 
+tips of which were yellowish red on account of their ripening grains, and the red mouthed parrots that were falling on them (for eating the grains), Sri Krishna considered them all to be belonging to one and the same class. 
+स्ववेग संछभगभीर मावं स्रोतस्विनीनामपहाय तोयम् । कालुष्यमायोधन कालयोगाद्वीराङ्गनानां हृदयं विवेश ॥ ८९ ॥ 
+Turbidity which had concealed by its excess, the depths of rivers, left off the waters of the rivers as the time of warfare had come and entered into the heart of the wives of heroes, (overpowering their noble nature and causing anxiety about their husbands that would proceed to war). 
+Note: [* The depth of water in the river is seen only when the water is clear and not turbid.] aansŝâfsalısıð: aiufo àgfaasırgang: | स्फुरत्कलङ्कस्य तुषारधाम्नश्छ । याभिरन्या मिरिवाविशेषम् ॥ ९० ॥ 
+The waters of the petty ponds, variegated by the tender leaves of the lotuses, that sprouted afresh, gained non-difference as it were with the reflection of the moon decked with the dark spot, without reflectors (such as a mirror). 
+affadamfq qfuðtat disda qqizacenaħa | सामोदमन्दस्मितहार्य भृङ्गं युक्तं श्रिया यौवनमाविरासीत् ॥ ९१ ॥ 
+On account of the beautiful autumn which was itself the elixir of youth, even the lotuses that had 
+153 
+become old, gained youth associated with beauty and captivating the bees by their fragrance and the mouth somewhat opened, 
+Note: [Though old, the lotus-ponds looked quite young, due to the abundance of tendrils and flowers on account of the autumn.] 
+शरद्विभूतिं कुमुदावदातां संवीत नीलाम्बरदर्शनीयाम् । adea faqaqznosat qfi asrda gai ggiz! || 92 || 
+Lord Mukunda considered the beautiful splen- dour of autumn, which was white with white lotuses, which was beautiful with the blue sky strewn with birds (.fa.g.) all around and bereft of the hanging down of clouds, as if it were the body of Balarama which was white like white lotus, charming being decked with the blue garment and which had vanquished the strong demon Pralamba- [- all around. - birds- ga strewn in one case and- #ta- 'covered' in the other case. - (i) Sky, (ii) garment (i) Hanging down (ii) name of a demon whom Balarama had killed ] 
+निद्रायितेव प्रथमं पयोदे। प्रशान्तनिद्रेव शरत्प्रसादात् । जगत्त्रयी तद्वतिनीव भेजे जातोयमं जागरणे मुकुन्दम् ।। ९३ ।। 
+The Universe comprising the three worlds, which was as if asleep during the rainy season on account of the clouds and which appeared then to have, risen from sleep on account of the clear autumn, seemed 
+154 
+to follow Mukunda who was asleep in the rainy season interested in awaking from sleep in the autumn just like a devoted wife who follows the vow of her husband. 
+निद्रापदेशेन जगद्विभूतिं विभावयन्नित्य विधूतनिद्रः । 
+प्रबुध्यमाना स विश्वः प्रजानां प्रादात्स्वधर्मानुगुणं प्रबोधम् ॥ ९४ ॥ 
+The Lord who by His nature is eternal, averse to sleep and who was only thinking of the good of the world under the pretext of sleep now waking up granted to the living beings awakening according to their own merit or dharma. 
+[as it is said :- स्वयि सुप्ते जगन्नाथ जगत् मुतं भवेदिदम् । 
+उथिते चेष्टते सर्व मुसिष्ठोत्तिष्ठ माधव ] 
+अव्यासङ्ग जलधिशयनादुत्थितस्याऽऽत्म धाम्नः 
+पत्युः पुण्यं प्रथमनयन स्पन्दितं प्राप्तुकामा । 
+नित्या पूर्व श्रुतिपरिमलं न्यस्तलीलारविन्दा 
+पादाम्भोजं सह वसुधया धारयामास पद्मा ॥ ९५ ॥ 
+The Goddess Lakshmi kept aside Her play-lotus and along with the Goddess Earth, held in Her hands, the lotus-feet of the Lord which has the eternal and unique fragrance of the Vedas, with the desire of winning the first glance that is aupsicious and that has not contacted other objects, of Sriman Narayana, Her Lord who is established in His own eminence and who would get up from His bed in the milk.ocean. 
+155 
+अनुचरितविधिज्ञैराहता पूर्व पूर्वैर्महदिदमनपायं मङ्गलं मन्यमानाः । प्रचितविविधभोग्या प्रारभन्त प्रतीतां वलमथनसपर्या वल्लवा जन्दमुख्या 
+The cowherds such as Nanda and others, then commenced the worship of Indra, considering that as eternal, great and prosperous, a worship which was performed with regard by the ancients who were experts in performing them according to family tradition, which was famous and which was performed with various and plentiful articles of enjoyment. 
+वाहेषु गोषु द्विरदेषु चाग्रयां तज्जन्यया जीविकयोपपन्नाः । तदर्द संभारवतीं सपर्या क्षिप्तापदं क्षेमविदो वितेनुः ॥ ९७ ॥ 
+Nanda and others who were convinced of their being protected before and were endowed with pros- perous livelihood in their wealth of horses, cows and elephants by Indra's grace, (by way of giving rain and causing grass etc. to grow well ), performed the worship which was attended with devotion, and which had set at nought their afflictions (in previous years), with accessories of worship that were befit. ting him. 
+आबालप्रेक्षणीयं प्रणतमनिमिषैग्सुतानां प्रधानं 
+धूतत्रैलोक्यदोषध्वजममरपतेस्तूर्णमुत्थापयन्तः । 
+घृष्टीनामचना मिः स्तुतिगुणनिका गीतनृत्तोपहारै- 
+रुद्वेलप्रीतिलोला विदधुर विकलेरुसावं गोपवृद्ध || || ९८ ॥ 
+156 
+Hoisting at once the flag of Indra worthy of being seen by all, including children, which was saluted by the gods, the wonder of wonders, and the remover of the defects of the three worlds, the elderly cowherds moving excitedly with overflowing devotion, celebrated the worship, with the adoration of cows, recital of praises again and again, and with elaborate songs, dances and offerings. 
+षष्ठः सर्गः । 
+चित्रसर्ग - Description of Govardhana 
+in fa-Poetical charm. 
+शमयता पुरुहूतमहोत्सवं व्रजपतिः सह वल्लत्रपूथपैः । निभृतमज्जुगिरा निजसूनुना निजगदे जगदेककुटुम्बिना ॥ १ ॥ 
+Sri Nandagopa, the master of Gokula was told along with chief cowherds, as follows, in very polite and sweet words by his son (Sri Krishna), the Care- taker of the whole world, with the idea of stopping the great festival that they were going to celebrate in honour of Indra. 
+fafqazıfta fag191+q¿ gga à ogàfta nifay | qgwyfzić zgàani nnaat naat aft favd || 2 || 
+157 
+"With my childish mind, I speak as if I am a very learned one. Please listen to it, as listening to the words of a parrot, (though it is sapless). I am not giving any advice to such high-souled and compe- tent ones like you." 
+fanacefa¿ fafada at saa favant gaÌ fexà | य इह यामुपजीवति तचनुं स हि तथा हितया भुवि नाथवान् ॥ ३॥ 
+"(I am like a parrot trained by you alone.) Wha I am going to say is completely known to you from the Vedas alone, i.e, since God is omnipresent, the whole world is His body. He is the paramount Soul controlling the heart of all from within, qzaqtla so, by the favour of whichever form of that God we live, we must worship that form of Him only, because that form of God alone is our means of livelihood, on the earth. 
+Note:- [In fact, from whichever deity we may derive fruits, it is all due to the existence of the omnipresent God within it, alone. It is He that gives the fruit through those respective forms, as is said "gefarèt an de¿ nafta tà: 
+faiæ íünfò gaam aifa: aàaıftacagıg......" 
+So, what you may get from Indra by worshipping him, is given by the omnipresent God alone, through him. What speciality is there in worshipping Indra here?" at atai at ng #6: #carsfågfhæfa ...Tnà a aa: कामान् मयैद विहितान् हि तान् । says Sri Krishna ] 
+158 
+अतियजेत निजां यदि देवतामयतश्च्यवते जुषतेऽप्यधम् । क्षितिभृतैव सदैवतका वयं वनवताऽनवता किमहिदुद्दा || ४ || 
+If one worships a deity which is other than his own, he becomes deserted by both the deities, and becomes a sinner also, (as it is said ta eat at अविजयते प्रस्वायै देवतायै व्यवते न परां प्राप्नोति पापीयान् मनसि ) This mountain Govardhana alone, which is abounding In forests is affording livelihood to us by supplying water, food, shade and so on. So, we have this alone as our deity which is worthy of worship to us. What is to us by Indra who does not protect us? He is more over, the offender of Vrithrasura महिदूद अहि वृत्र 
+- 
+Note: This is to say we do not decry worship- ping deities other than God Vishnu. When our own deity is able to fulfil our desires, it is not right to neglect it and worship another. We have not only nothing to do with Indra, but he is also the offender of Vritra —who though a demon, was a great devotee, tof God also. He is said to have attained Moksha very quickly. So. Indra is a megtet 
+मनघशाद्वल काननसंपदा नदनदीहद निर्झर शालिना । 
+बहुपशुः पशुपालकसंत तिर्महिभृता हि भृता न मरुत्वता ॥ ५ ॥ 
+We belong to the race of cowherds. ( Also, we are like cows :) We have plenty of cattle; we are well- fed, not by Indra, but by the mountain which bears the splendour of forests abounding in pleasant green meadows, shines with न ( rivers flowing westward ) 
+159 
+and (rivers flowing eastward) and large and deep pools of water and cataracts 
+- 
+Note: The elegance in the word a 
+must 
+be noted here:-It means by the mountain! i.e. earth. That which bears or maintains it is # 
+t is 
+So, 
+happiness to those who are on the earth, is through the mountain which bears the earth and not by Indra who is in heaven ] 
+magnâa fá fagnað: gaaà naà a faÎxarq | क्षममनेन वने परिरक्षिते न हरिणा हरिणानपि बाधितुम् ॥ ६ ॥ 
+[Do you think that as between Indra and the mountain, Indra alone should be worshipped, as he is stronger than the mountain? -Nay:-] 
+Worship the mountain which is ever immoveable abounding is beautiful forests, being the place of amusement even to the gods: What is the use of worshipping the gods who have no stability? While this forest is being protected by the mountain, Indra cannot hurt even a timid animal like the deer. (fzáta ag&atzat; ameııqaınıgiaqasfala aasz¶dqfè:] 
+fùfig fasqfayfag youà fafasdaqdig a dig at i aguunfwaqzqqsînfaat ge fai ofai a aqâag || 9 || 
+The mountains are the chief ones among the splendours of Sri Vishnu. The cows have their bodies pervaded by all the deities (as said in - 
+160 
+बोईरि बातारौ शृङ्गमध्ये स्थित शिव: Both (the mountains and cows) are affording us livelihood. i.e. cows supply ghee, milk and so on; mountain supplies roots, fruits etc. So we who are living on both of them, must worship them both. This then has come down to us from a long time and is great and grati- fying also. 
+Note:- [So let us worship the mountain now. It deserves worship, as it is the fafa of Sri Vishnu.] 
+अभिमतं गिरयः कृतसत्क्रिया ददति दर्शितदेवतभूमिकाः । cfarguèrfa fagëziŝanıfganıafqqqqı: || 6 || 
+If well worshipped, mountains fulfill our desires, appearing before us in their divine form. If they are neglected the same mountains do us harm also (with- out showing their divine form) in the shape of lions, tigers and so on. 
+Note: [Since we invariably get their favour or dis-favour by worshipping them or doing other- wise, they must necessarily be worshipped. 
+It is also implied by this that there is a special deity called haar-in this, which is other than God Vishnu as in the case of the Himalaya mountain.] 
+पशुभिरद्रिचररुपकल्पिते व्रजनये जनयेम न विप्लवम् fufayèq adıfgafazà aafná a fœà quat ada || 9 || 
+The welfare of Vraja depends on our cattle. which graze wandering in the mountain. The161 
+cattle are our wealth. They must be kept safe-Let us not spoil what is good to them. If the mountain is insulted, the cattle can no longer live. They will be 
+destroyed by the cruel beasts living in the mountain. This mountain does not dissatisfy any one who approaches it for attainment of his desire. So, let us worship this mountain alone, for getting excel- 
+lence. 
+अपि च साधु गवामभिवर्धनादनृतहानिजया निजयाख्यया । भजति गोपगणैरभिराज्यतां वनमयं नमयन्फलसंपदा ॥१०॥ 
+Besides, by bestowing great prosperity to the cows very well by its forests bent with the weight of great splendour of fruits, this mountain is true to its name in its full sense, and hence is worthy of worship to the cowherds. 
+Note: [All the mountains are called nita'. This is also a (mountain); the word ma means— Protector of COWS. This Govardhana mountain only is true to its sense. गोवर्धन, गोत्र are synonyms] 
+हरति तापममावुपसेदुषां महिमवान हिमवानिव दक्षिणः । वितनुते मणिरश्मिभिरप्यसौ सुरपतेश्पतेज इवास्पदम् ॥ ११ ॥ 
+Being the abode of snow, the mountain, Himalaya (snow-mountain) removes the heat or affliction of persons who approach it. This Govar dhana is 'Dakshina' af (in the sense it is to the south of Himalaya and also it is desterous) as 
+11 
+162 
+against the Himalaya, which is to its north, and removes all kinds of afflictions of all persons who approach it, without possessing snow like Himalaya. By spreading the lustre of its gems as high as the Swargaloka of Indra, it makes its lustre also dim by its own, as it were. 
+Note: [This mountain is similar to Himalaya by its greatness and richness of many kinds of precious gems. The difference is in its being Dakshina, absence of snow and abundance of precious gems. ] 
+प्रदिशता मधुमूलफलानिं नः सतरुणा वरुणाद्भुतवीरुधा । उपकृतं गिरिणा वदिहायतां रसततं सततं हविराहुतम् ॥ १२ ॥ 
+This mountain supplies to us, food, consisting of honey, roots and fruits by its delightful creepers and trees. Let us offer always oblations full of six 
+ar's or flavours namely (pungent) a (sour), (sweet) a (saltish) fan (bitter) and 
+(astringent), to this mountain, [not to be gulity of ingratitude). समरुता मरुतापजितामुना नदवता दवतान्तिदवीयसा । अमहता महता कृतविभ्रमा वयमितो यमितोल्बणशाकराः ॥ १३ ॥ 
+By living in this great mountain which removes all our fatigue with its healthy winds and rivers, without the heat arising from waterlessness and the forest-fire, we have become strong enough to bring under control even the most powerful bulls. 
+Note: [Since it is affording livelihood to us in everyway, it is right to worship this mounatin alone 
+163 
+[Parts of the 4 T's in this sloka are 
+repeated. Therefore, it is said to be a 
+raft:] 
+बहुमतो मनुजा दधते धृतिं बहुमतोऽयमनन्यधृति । सताम् । fifaðìafınıafızı adi fufiaálqgalsfq #giya: || 28 || 
+All the people get much happiness from this mountain. Being possessed of extra-ordinary firmness which is not in any other mountain, this is highly praised by the virtuous. This is higher than the Himalaya mountain which gives happiness to Girisha (Siva) fifta ataşa (by giving his daughter Parvathi to him in marriage) (Height, here, means greatness). Himalaya is not giving all kinds of happiness to all. In fact, this is greater than hundreds of other mountains. Contrast between Himalaya and Govardhana:- The first is fùfin de ga the other is गिरिश तोच तिमान्. This mountain is equal to Sri Vishnu in greatness. (i-Sri Vishnu, who creates Siva उद्यतिमान् ( great ) like Him. यमकद्वय संसृष्टि fofiú a: añfa ¤; fafta: Vishnu.) 
+सनगरा नगराजिमतामुना कुहरिणा हरिणा समसंपदा । सतत मातत. मान-महीयसी वसुमती सुमतीश्वर धार्यते ॥ १५ ॥ 
+Oh, you, the wisest 
+one! This great earth, abounding in wealth is very extensive in both length and breadth, and is borne by this mountain which is like God Vishnu in greatness, with its rows of trees and caves for living in. 
+164 
+Note: [Many territories and towns are flourish- ing by this] It is anale: here 
+सुरसगन्धविभूतिनिषे हिंत परिगृहाण निजे पशुपालने । सुरसगन्धविभूतिनिधेहि तं हरिमवेत्य गिरिं हविरुत्तमम् ॥ १६ ॥ 
+Oh, you, equal to gods in splendour! Take to what is good for the work of protecting your cattle. You offer excellent oblations which are fragrant containing the six flavours (namely, and so on) to this mountain thinking it as Sri Narayana alone; (who is the Lord of all the three worlds) 
+[इदं प्रथम तृतीयपादयोः ऐकरूप्यात् संदेशनामकं पूर्णयमकं यत् पादे अर्थके वा भवति तत् पूर्णयमकं ततः अन्यत् ख 'डयमकम् ] 
+fagedqtaq;taqıâ gg1071: àa gaizadà | निराशिषो नित्यमिहाश्रयन्ते नैः श्रेयसं तात निवृत्ति धर्मम् ॥ १७ ॥ 
+[There is Swethadwipa in the middle of the milk ocean which is in Shakadwipa. Those who live there are all exclusively devoted to God Sri Vishnu alone being free from all other desires and without wor- shipping any deity other than Sri Vishnu.] Such pure-minded saints addicted to Moksha Dharma alone, are always living in this mountain with pure- watered rivers on its borders. 
+Note:- [So, you can worship this mountain taking it as God alone. Leaving this well-renowned Hari (Sri Vishnu) if we worship another Hari (Indra), the saints living here will simply laugh at us.] 
+165 
+इह वासमही समहीनगुणे स्थिरकुब्जगृहे जगृहे विबुधैः । अयमानमतां न मर्ता न तनुं क्षितिभृद्भजते मज तेन धृतिम् ॥१८॥ 
+Even Gods have occupied this mountain for living which has permanent towers like residen- tial houses and is matchless in excellence. This mountain helps all those who resort to it, taking any form they like. 
+mountain. 
+So, be pleased to worship this 
+[The sloka is in 'Totaka' Vritta] 
+तटभूमिरसौ जयति त्रिदिवं पवनागततापवना गतता । इह देवगणैर निश्चाध्युषिता युतकोकनदाघुतकोकनदा ॥ १९ ॥ 
+The foot-land of this mountain is abounding in forest-trees which are very cool by the wind every where. With lotuses, many thousands of Chakravaka birds and rivers, it excels even Swarga, and hence is occupied by hosts of Gods. [पादाधावृत्ति रूपपयमक द्वयसंसृष्टिः ] प्रकृष्टवं शोदयमाननीयः प्रभूततोयप्रथितानुरूप्यः । 
+प्रबालमुक्तामणिचित्रिताङ्गी पत्नीरयं प्रापयते पयोधिम् ॥ २० ॥ 
+This mountain is like a magnanimous person, i. e one born of a high family who is praised by all and gives in marriage some maidens who match with the husbands in many ways (such as nobility of blood, character, age and conduct) also being deco- rated with jewels set with corals and pearls. 
+[ वंश - means (i) family (ii) Bamboo trees. J - Hence it also means:-This mountain is praiseworthy 
+166 
+because of its (4) bamboo trees which are growing everywhere on it. This supplies rivers filled with waters suited to their husband namely the ocean' The rivers carry corals, pearls and gems with them from the mountain with them as if they are deco- rated by them. 
+[Rivers are said to be the wives of the ocean.] नन्द नीतिधन सर्वनन्दनी तवयातमतिभूष तच्वया । 
+साधुना क्षितिभृतो रसाधुना सेव्यतामिह गतेन सेव्यताम् || २१ || 
+Oh, you, the most pleasant one! Oh, the possessor of rich moral wealth! Oh, you, who are adorned with the knowledge of Reality! You, who being always engaged in the conduct of the virtuous ones are by nature fit to be resorted to by all. Please worship the (table)land of this mountain now. [पादान्तभागावृतिरूपयमकानां संसृष्टि: ] 
+[ रसा + अघुमा- रसा: भूमिः क्षितिभृतः of the mountain. [रसा+अघुमा-- The land of this mountain.) 
+नभ्यते नियता विभूतये भूतयेश्वरतया विराजते । 
+राजते तटीमहीयसे हीयसे न यदि नाम नभ्यते ॥ २२ ॥ 
+That you must bow to this mountain for the attainment of splendour is certain. Evil is certain, 
+if 
+you do not bow to this, which, shines with silvery foot-land, with its real splendour. 
+Note : पादान्स्पभागानां पादान्तरादिषु यमकं शृङ्खकायमकं नाम. [-means repetition in the same stanza (in any part of it) of words or syllables similar in sound, 
+167 
+but different in meaning, a kind of rhyme; of which various kinds are enumerated आवृतिं वर्णसंघातगोचरां यमकं विदु 
+योगनिद्रस्य हरेरिदानीं मान्ये पदे मानसतः प्रवृत्त।। । स्वदाशयस्वच्छस रिस्प्रवाहे हंसे। समं वासमिहाश्रयेम ॥ २३ ॥ 
+Sri Vishnu who was asleep in the rainy season has awakened now from Yoganidra. The faz swans live in the streams of this river which is pure like your mind. They come in the sky from the Manasa lake. The sky is said to be the place (पद) of that Vishnu. We shall also live here with them. It will be like living in your mind which is pure like the river, to us, who have sought refuge with the highly esteemable foot of Sri Vishnu. 
+निशाकरस्य स्फटिके विहाधिकं सुजातरूपा श्रयतो विभासिता रविप्रभा च स्पृशतीव सांध्यतां सुजातरूपाश्रयतो विभासिता ॥ २४ ॥ 
+When the Moon comes to this mountain his beams come into contact with its crystals and shine brighter still. The sun-beams coming into contact with the golden-spots here, shine like the twilight. 
+[This is द्वितीयचतुर्थपादयोः ऐकरूप्यात् संदष्टकं नाम यमकम् ] 
+न दन्तिनोऽस्मिन्मुदिता नदन्ति नो वनस्थलीला स्त्विह देवनस्थली । व्रजाधिपाघोन्नति तीव्रजाधिपा - प्रभावताम्राश्मगणप्रमातता || २५ | 
+Oh, Vrajadhipa ! (the master of Vraja!) The elephants which are in this mountain Trumpt freely with joy. Similarly it must be a place for amusement 
+168 
+to all beings like us, who live in this forest which removes the severe mental pain caused by cruel sins, being spread over with a number of red stones which shine like the morning time spread over by the red rays of Aruna. This is said to be सर्वेषु पादेषु भद्यन्त आगावृत्तियमकानां संसृष्टि 
+महीयसी गोपगणाश्रितामही वनैरुपेता फलपुष्पभावनैः । रसधरम्यैरपि निर्झरैरसौ चकास्त्यमुष्मिन्यनसैश्व मेचका ॥ २६ ॥ 
+This great forest-place is crowded by cowherds. There are forests abounding in trees filled with fruits and flowers. There are beautiful and sweet-watered streams here and this shines dark-blue with grass grown all over it. 
+(This is यमकसंसृष्टि:-as before.] 
+सदोषताय प्रणमत्यमुष्मै सतां कनिष्ठा प्रथमाङ्कनिष्ठा । निशामयास्मिन्सरितश्च रत्नप्रभासमानाः प्रतिमासमानाः ।। २७ ।। 
+कनिष्ठिका 
+In counting any thing with the hand (little finger) is bent first i.e. counting starts with the little finger alone. In counting the most excel- lent things in the world, the virtuous people bend their little fingers with respect to this mountain, first of all see the rivers in this mountain are very clear and shine with the lustre of precious stones (gems). 
+इह वंशलताग्निवालाः प्रियवाला नतकंधराश्वमर्थः । 
+शबरी कबरीनिरीक्षणेन तपमाणा इव निश्चला भवन्ति ।। २८ ।। 
+169 
+Here, the chamari mrigas are standing steadily without moving on, with their necks bent round in oblique direction, looking at their tails which are very dear to them, being clung to the bamboo- creepers, as if with shame by seeing the more beautiful locks of hairs of the Kiratha-women, (who are there). 
+efidissar saafaðì feaàsfi zyciafancia: 1 
+निशि चैष तपोधनाङ्गदीप्त्या दिनमोह| दविभक्तको कपुग्मः ॥ २९ ॥ 
+By mistaking for night, the darkness spread by the blue lustre of sapphire in the mountain. the lustre-creepers catch flame and burn brightly like lamps even in the day time. The chakravaka pairs are united without separation from one another even at night, as it appears like the day time, by the all- pervading lustre of the body of the yogins, living there. 
+Note:- [Since the mountain shines like night in the day and like day at night, its greatness is wonderful.] 
+व्रजवैरवतीषु वल्लवानां वृष सेनासु सदानवासु देवाः । 
+अचलाकृतिराशु नैष गोप्ता वृषसेनासु प्रदा न वासुदेवः ॥ ३० ॥ 
+Oh, (the chiefest of cowherds!), even if the armies of both the demons and Indra come united, with batred against the Vraja, Sri Vasudeva who is in the shape of this mountain will always save us, quickly from them. 
+170 
+Note:- [Getting angry by puja done to the mountain Indra may make alliance with the demons and send his army along with theirs to destroy Vraja. But the God who is in the form of this mountain will protect us. ] 
+मधुजा सविभव सन्तं मदनधनं यं वदन्ति शुभदिवसं तम् । नियतमिव वसन्तं निष्कामधियोऽपि निर्विशन्ति वसन्तम् ॥ ३१ ॥ 
+Oh, splendid one! The spring season in which flowers are pouring honey everywhere and which having moderate heat and cold is said to be the splendour of Cupid, does always exist here alone. So, even those, who have dislike for worldly desires, enjoy this. 
+काननं दवदसौं सदोममत्काञ्चनारककुभं सरक्षकः 
+मन्दरस्य महता स्ववर्मणा कां च नार ककुभं सहक्षकः ॥ ३२ ॥ 
+This mountain abounding in forests with very tall trees like Kovidara (कांचनार) and Arjuna grown in them, shine with stars resting on it, and its peaks are like Mandara mountain. With its huge size, it has pervaded all directions. 
+[को] ककुभं को वा दिश न आर ? [न प्राप ?] 
+अनेहसा हा निरुपति नेहसा न कंदरस्थस्य दिशत्यकं दरः । अपास्य तो भीतिमसावुपास्यतो सदा-नवा भूमिरियं सदानवा ॥ 
+As days pass on, things become more and more sapless. That defect does not exist here. (It is always splendid). There is no fear or sorrow to those who live in its caves. It is always quite fresh.171 
+Demons also are living without doing any harm here. So, this mountain is fit to be resorted to by all with- out any fear. 
+Note This is to say, that if Indra does any harm to Gokula, the demons themselves will answer him, because this is such a pleasure-giving place for them also.] 
+दरः अयं. अकं दुःखं न विशति 
+सदानवा असुरस हिता 
+afq=aàsfeqaagcanifası: amfomálafta: fequsur | fungua afda: ugnanagıtandg aq: «qafkuar: 11 
+Some Yogins who are ceaselessly engaged in meditation only, with the mind unmatched and unexcelled and intent on permanent fruit are shining. here. There are also who have liking for worldly desires always, strong-minded bachelors, and Vana- prasthas who are engaged in sacrificial and other rites like Agnihotra, Chaandrayana also which are to be done only by those who are living with wives. 
+[सदार- साध्येषु - दाशसहितैः कर्तयेषु 
+सदा. रसाः विषयाभिलाषिणः zazygfdqzaaètaiggai famfa mafasıfsızzi | विचित्ररत्ना महती च मेखला विभाति भास्वत्तिकालिकानना || 
+The marvellous sylvan deity (aaaar) whose face is shining with lustrous Tilaka (made of gems) on its forehead (विभ - अति भास्वत् — विलकमळिक - भानना) is living here. The great table-land of this mountain shines with wonderful gems and row of bright Tilaka. trees. ((i) Table land or ridge (ii) girdle.) 
+172 
+Note: [This ridge or table-land is like the girdle of this sylvan deity . ] 
+1 विभवा (प्रभया) अविभास्वत् भास्वन्तमतिक्रान्तः शिळक: रत्न निर्मित 
+यस्मिन् वारयां, मलिकं कलादं यस्य तत् आननं यस्याः 
+भास्वतो (भ्राजमाना ) तिलकानां (क्षुरकवृक्षाण) माहि: (पङ्क्ति) यस्मिन् 
+तत् काननं यस्याः सा] 
+तपस्विनामात्मविदां निवासैः समानभूमावस मानभूमा । इहाटवी काश्चन कर्णिकारपराग ताम्राप्यपरागताम्रा ॥ ३६ ॥ 
+This forest in this mountain which contains spots similar to the hermitages of great sages like Vyasa, who perform penance, has unequalled great- ness, being red with the pollen of the flowers of Champaka and Karnikara trees scattered everywhere ( पराग ताम्रा ). Though पराग ताम्रा like this, it is 'अपराग वान' also i e. अपरागत + al ie not devoid of पान (mango trees) i. e. Many mango trees also have grown in this. 
+[ अपरागता: ( अनपगता:) आम्रा: (चूतवृक्षाः) बास्यो ला] 
+सरस्सु जातैर्नलिनैः सुजातैरपां तरङ्गैम सुधान्तरङ्गैः । 
+इहास मेऽतिव्रततौ समेति महत्तुषारः श्रमरुत्तषारः ॥ ३७ ॥ 
+The gentle and cool wind which removes fatigue, is blowing in this mountain, which is possessed of peerless creepers along with excellent lotuses growning in lakes, the waves of which are 
+sweet as nectar. 
+(भ्रमरुष: श्रातिरोधिनः तुषार (श्रीकराः ) यस्मिन ] 
+यमभिप्लुतमम्बुधरैरभितः सरसा। सरसा स रसाऽऽसरसा ! स्थिरधर्म तथा गिरिराद्रियते स मया समयासम या समया 2 ! ३८ ॥ 
+173 
+This mountain which receives good rain is surrounded on all sides by already well-watered, lands, due to the existence of lakes, Oh, Sthira- dharma (Oh, one indulging in the permanent Dharmat Oh, Sainayaasama. (unequalled in the knowledge of shasthras! This mountain is intensely loved by me for reason of having such land near it. 
+भास] 
+[i रमाः - भूमि: सरसा, सरसा (सर्वैः सरोभि:) मरसा - जल साहिव 
+1 
+ii निकटे 
+प्रणम तमिममचल ममरम हित महितमहित महित । 
+भजनमलघु विफलमिह न सदय सदय सदश्य सदय 4 ॥ ३९ ॥ 
+. 
+Oh, you who are favourable to the low Indra who is the slaughterer of Vritrasura who was a Brahmin! or you, whose greatness is praised even by the enemies! bow to this great mountain which is fit to be bowed by gods also, Oh, मदय सदय the possessor of goodness without effort ! सदय Oh, compassionate one! सदय (सत् + अब ) Oh, most fortunate onel The wor- ship of the mountain is very exalted and never fails to bear fruit. 
+अहे वृत्रस्थ तमः इन्द्र सराव भविहीनः तस्य हित! हौनपक्षपाविनू । 
+२ जयसतः अप्रयतमानस्य भयः यत्नं विना संपद्यमानः भयः 
+1 
+शुभावहः विधि: अयत्नलब्धभाग्यशालिन् 
+३ सत सत्पुरुषाणां भय अभिगन्तः ! ( वृद्धसे वापर !) 
+४ दयासहित ! ] 
+रश्नोपसंघटितपङ्ग फणासहस्रः स्फारोदितस्फटिकर श्मिविशुद्धकायः । नित्यं वहन्निजबलेन महीमहीनः पुष्यत्यसौ मधुरिपोरपि मोगयोगम् ॥ 
+· 
+174 
+This mountain which has thousands of gem-set pearls is white throughout its body by the lustre of many crystals. It bears the earth always by its strength and is always not abandoned by fe (Adi- sesha) (since it is being carried by him). Adisesha also has thousand hoods shining with lustrous gems, He is also white and is very much liked by God. He is also બ્રાહિમ +i.e. lord of serpents. His 
+― 
+body is always associated with God also. 
+[Due to striking comparison between the mountain and Adisesha, this mountain is said to be as Adisesha] 
+मरुद्गणसमाश्रितो मघवरत्न नीलद्य तिर्विभाति वनमालया विततनित्य- 
+तुङ्गाकृतिः Gazyfanai fum Gaseß¤qta-qu: sifa fagfa ya: 
+कथमसौ न विश्वंभरः ॥ ४१ ॥ 
+This mountain, which is always very wide and lofty, shiness with the rows of forests, being resorted to, by a large number of gods and bright with the lustre of sapphire and spreads its : (beauty) on all sides. It shines as if it is wearing at or yellow silk garment by its gold-lustre. Besides, it bears the earth. So why should it not be the God called Viswambhara? (fat) as He also wears Vana- mala, like the mountain which has rows of trees. He also shines by: (the Goddess Lakshmi), wears Pithambara (at) shining like gold, and bears the earth like the mountain, but in the sense of giving happines to the goddess namely the earth (); 
+Note: [So by 
+175 
+or double meanings of words this sloka applies to both the mountain and God 
+Vishnu.] 
+मुहुखवीरितोऽपि भजतीह युवा गणय- 
+न्हितमतिभूरितान वसुधे वनितां तरसा । सपदि विहाय मानमियमृच्छति तं प्रति सा 
+हितमतिभूरिता नवसुधेव नितान्तरसा ॥ ४२ ॥ 
+In this mountain which contains a very wide golden area, the youth, who though disrespected by his consort again and again, is still anxious to have her at once. She also is always thinking of him and goes to him giving up pride and enjoys him, fresh The greatness of this mountain 
+nectar, as it were. 
+is such as not to allow lovers to separate from one another. 
+इह मरुतो वद्दन्ति सुरसिन्धु सगन्धसरि- 
+द्विकसितमको कन दसौरभसारभृतः । मधुकरमौलिदघ्न मददन्तुरदन्तिघटा- 
+करटकट (हवा हिघन शीकरशीभरिताः ॥ ४३ ॥ 
+The winds blow here spreading dense particles of ichor which flows deeply enough to sink the heads of bees, from the mount-like temples of multitudes of intoxicated elephants, along with the fragrance of opened gold-lotuses grown on the celestial Ganges. 
+मनः प्रियमिह प्रमी मधुरसादरं सादरं 
+विधत्स्व हविरयन्त्रतशुभावन भावनाम् । 
+176 
+कुरुष्व च गुरुष्त्रष क्षपणदक्षिणां दक्षिणां 
+ryssfa aàftuá qqqqqa: qâa: || 88 | 
+Ob, master! offer the oblation which is more tasteful than honey and dear to the mind also, to the mountain, with devotion, which safeguards auspiciousness, expressing whichever object is desired by you. You must give rich presents to the purohits, which is capable of removing all sins. This mountain fulfils whatever you desire. (geit zá) 
+Note:- [f(Dakshina)-is a present or gift to Brahmins at the completion of a religious rite such as a sacrifice. Dakshina is regarded as a daughter of Prajapathi and as the wife of Sacrifice personi - fied.] 
+गिरिभजनोदितप्रिय मिकासमये समये 
+जनितनभः प्रचारजलप त्रिदशै स्त्रिदशैः । 
+सह यदि नः समेति हरिरप्रतिघप्रतिघः 
+ufacfang geaudiefðar efðar || 84 || 
+When all our friends are rejoicing at the worship offered to the mountain, by us, if Indra comes to fight with us with irresistible wrath, with all the gods, who are like silly young birds which are just trying to fly in the sky, then, Balarama who is eager to destroy the wicked ones, will answer him with his plough. 
+177 
+प्रत्यक्ष गोलमा सर्च किमनारस्य गोधनैः । 
+gerdì mafacesfaga: mú nàcaà || 88 || 
+The cattle is all our wealth. So, we must worship one who is -- the protector of cows. (i. e, the mountain here.) It is very near and clearly visible also. Neglecting such protector of ours, why should we go searching for Indra who is far (in Swarga) from us for worship, being invisible, and also the destroyer of a (the protector of cows)? This mountains is a-zez is na fan-i. e. the destroyer of. So the mountain alone is adorable to us and not Indra. 
+- 
+Note: a means mountain, the protector of cows and the dynasty or family. According to this another idea is also suggested: when a revered one, of our own (family) is available very near, should we go in search of a far off one, who does not belong to our and is opposed to it also, offering all worship to him, neglecting the former one.] 
+mat fafauniðuræ¶fagurafo | 
+अहार्यो 
+This (1) mountain at 
+aqfifəsaqàìsaî aait: aâzıæst || 80 || 
+attracting fagura afq gods also by विविषैः भोगे! various enjoyable things, or essential parts, such as gems and etc a quintes. sence. Its root has gone very deep under the earths which cannot be found. It removes all miserie. 
+12 
+178 
+(The cause of miseries is our neglecting its worship. If we do not worship it, the deep-rooted mountain will bring miseries only, instead of removing them.) 
+1 
+Note:- [This sloka is of fagnat type. If we insert a dot in the word aan here, it reads as Then, the meaning is Karma, which is the cause of Samsara, is deep-rooted warf we cannot get rid of it, however much worldly pleasures we enjoy. It attracts even the learned. Its root is n Unless we cut off the root our miseries will grow.] 
+नन्दगोपप्रभो धर्मैर्वज वृद्धाय सद्गतिम् । 
+na ada ggwife ag anù nfà naig 11 86 || 
+Oh!! (the master of cowherds!) (:)— By performing Dharma, (Nanda)—be joyful oh -very advanced in knowledge! Oh, (and!) revered one! or high-born one! [aaf - Take to the best course. Taking this mountain as the best recourse, resort to it or seek refuge with it. Be very earnest in the protection of the cows. [This is possible by favour of this mountain only.] 
+This is called atfer (Riddle)-according to this Nanda is addressed as नन्दगोप, बजवृद भत्रत तनुत्राण ! (armour.) 
+नाना फलवनालीके नालीकेद्वामितोदके । 
+àìcò a guina ain atafjá lágt || 89 || 
+(fag: :) It is known to the elders, that (, wa) to dwell in this mountain which has many rows of 
+179 
+forests filled with various kinds of fruits (मामा-फल- बन- wet) with unlimited waters (af) shining with the lustre of lotuses (नालीक- इद shining) and therefore alone removing hunger (gat atç*)- is very good for those who are frightened (we fea) 
+सहसा सह सार्थेर्मा तरसे तरसेवनम् । 
+og ala galesianat a nats=åaig || 40 || 
+Oh, father! Do not use all your resources with your Kinsmen, for the worship of any other (than this mountain) hastily, without due consideration. Indra who has thunderbolt in hand does not deserve worship, before this praise-worthy mountain. 
+जुषतामिद धीः सूर्यसमा हि तब सुन्दरीम् । रक्षार्थमिह यक्षेण समाहितवसुं दरीम् ॥ ५१ ॥ 
+Your mind must be directed towards the beauti- ful cave of this mountain, where treasure is kept by Kubera for its safety. Your intellect is equal to the sun in its lustre, indeed. 
+सभा-जनं वदाभ्येतद्द्रव्यैः सरस भाजनम् । 
+amaá fhìreâ zagiggla-alsaq || 48 || 
+This is my appeal to the great men assembled here. With the vessels containing things full of sap, like milk, curd and ghee, we should worship this mountain alone. This is the ground for prosperity of our profession. 
+180 
+भवता भव- तापघ्ने भाविते - मावि तेजसा । 
+सु-तरा सुतरामस्मिन्सुरभी। सुरभीश्वर ॥ ५३ ॥ 
+Oh, सुरभीश्वर (the lord of the cows ! ). If you worship this mountain well, which removes all mise- ries of samsara, the fears that may come from gods will all be easily overcome, by the prowess got from that worship. 
+बहुविन्द्रयः समग्राहि समग्रा हि मतिस्त्वया । अतोऽन्यजन संदिग्धे न संदिग्धे हिताहिते ।। ५४ ॥ 
+You have obtained full knowledge from those who are well-versed in many sastras. So, your mind, with such full knowledge, does not admit of doubt with respect to both good and bad, which 
+others have. 
+गोवर्धन प्रकाशिन्या गोवर्धन समाख्यया । 
+समक्षेsपि गिरेरस्य समक्षेपि क्षमा स्तुतिः ॥ ५५ ॥ 
+The name Govardhana (which makes cows prosper) itself shows briefly its greatness, which is fit to be praised both at sight and out of sight. 
+वयं घेनुशतैः सार्धमला संकट कान्वयाः । 
+अन्वभूम निराबाधमत्रासं कटकान्वयाः ॥ ५६ ॥ 
+All of us consisting of various families have been happily living together in series, with hundreds of cattle, without any difficulty (because it is so very181 
+spacious) for space, in the ridges of this mountain, without fear. 
+अनन्तमहिमा सोऽयं समस्त वसुधाधरः । 
+मौलिमण्डनमस्येन्दुः समस्तव सुधाधरः ।। ५७ ।। 
+This mountain which bears the whole earth, has boundless greatness, or has the greatness of Anantha (Adisesha or Sri Krishna). The moon who has nectar and is an ornament to the peak of this mountain is like you in gladdening all the people and being an ornament to the mountain. 
+तपोधनैरय शॅलो महाभाग महीयते । 
+गोधनैरपि न स्वल महाभागम हीयते ॥ ५८ ॥ 
+Oh (oh, very great fortunate onel) this mountain is very highly esteemed by those whose wealth is penance, oh -¤¤. (possessor of great merriment and lustre). There is no detriment of any kind even to those who have cows as wealth in this 
+mountain. 
+रोधोरोषो ज्झितै रे तैरुत्सैरुत्सैकतैरसौ । 
+agtagtai agd nlmsgiathaires: || 48 || 
+This (mountain) which touches the stars with its peaks possesses lands abounding in springs which flow tearing away the banks, and setting 
+aside the sands on both sides. 
+182 
+faqurala faqur Stackung sich gaisfend ag-at aa àsıftaar aà 11 §• || 
+Oh, fura (more intellectual than Brihaspathi!) ata! (oh, father!) Let your intellect view this exalted mountain which is pervaded with wealth and lustre, (in its reality) in the universally accepted way or in an extra-ordinary way. 
+Note:- [The fe or universally accepted way here is, that we must do good to those who do good to us.] 
+पादापादपर्यन्ता दीनादीनामसौ गतिः । 
+गोप गोपनयोग्याऽस्मिन् कान्ता कान्तारभूरपि ॥ ६१ ॥ 
+Oh, Nanda, the protector of cows! this beautiful forest ground in this mountain, which is the refuge for orphans and so on, (by giving them fruits and other food) and is abounding in trees growing around it, is able to protect us. 
+इइ पुष्पौधनिष्पन्नव जामोदे वने हिते । भृशमुत्सषसंतोषं व्रजामो देवने हिते ॥ ६२ ॥ 
+Let us feel intense joy by having the festivity, namely the worship of the mountain in this forest, which by pouring flowers which spread fragrance to the whole of Gokula, -is very desirable for our sport and favourable to all kinds of our happiness. 
+183 
+प्रयत्स्व गिरेरस्य व्रजदेव सभाजने । 
+खपुष्पकल्पे मा भक्ति व्रज देव सभा-जने ॥ ६३ ॥ 
+Oh, Lord of Vrajal try to 
+worship this mountain. Offering puja (worship) to the gods (like Indra) is like "sky-flower" (an impossibility or unreal thing). Do not cling to it, with dedication. 
+देवस्थानमिवेन्धानं परायणमवारितम् । 
+गोवर्धन मवेन नारायणमिवागतम् ॥ ६४ ॥ 
+This mountain which is unimpeded refuge to us, shines like swarga, the abode of gods. You must take this as Sri Narayana, who is the foremost refuge and means of refuge also, to be sought by all and above all This is गोमूत्रिका बन्ध as it is said:- 
+"वर्णानां एकरूपत्वं यद्येकान्तमयोः । गोमूसिकेति तां प्राहु: दुष्करं द्विवो यथा" 
+व स्थान मि वे 
+य ण म वारि नम् 
+नं 
+ने नोरा येणं मि वांगं तम 
+मोघाशो मघवान् देवः स्यादवस्यस्य सादने । 
+मेघानामपि वा भावा सादमेस्यद्रिसादने ॥ ६५ ॥ 
+Indra's desire to destroy those who live in this mountain will be in vain. Even if all the clouds 
+184 
+come together, they will come to decay, by our re- sorting to this mountain. [This sloka also is in गोमूत्रिकामध]. 
+मोघा शो मघवान्द्रे. 
+में घां नां में पि वा भावः सां 
+अचञ्चलाङ्गसचा कश्चलाचलघना ततः । 
+न्यू स्य सा 
+अचलः कस्य नाकस्यः साध्यानन्दस्य सिद्धिकत् ।। ६६ ।। 
+This mountain is immoveable in all its parts, with clouds moving around it and supplying, free of our efforts, the bliss which is to be obtained with great efforts. Hence, to whom is it not worthy of respect? 
+[त्रिस्थान चित्रम् ] 
+भगः सनग आसनः सालवाललतातवः । 
+सततं संहतघनः संगतानन्दसाधकः ।। ६७ ।। 
+This mountain which is surrounded by hills (सनगः ) is near to us (आसन). It is abounding in trees like sala, tala, and many creepers also (areaisaiaa:). It is always associated with clouds (due to high stature ( सवयं संहतवन). It gives bliss to all who reside in it 
+( सङ्गतानन्दसाध :). 
+[[वस्थान चित्रम् ] 
+अहहाङ्ग खगङ्गा काहिकाङ्गागागका । अघाका गाङ्गकागाङ्कगाङ्गागखगाङ्गकः ॥ ६८ ॥ 
+[ एकस्थान चित्रम्-] 
+185 
+[ET] Vishnu, & His enemies, their enemies i.e. the virtuous persons. !, one who has such Virtuous persons as limbs i.e. oh, the greatest of the devotees! (Nandal) 
+(CC-N$T-016.715-7---7:) - the celestial Ganges, streams or floods, nrgs those who bathe (of Gods who bathe in the streams or floods of the celestial Ganges, F (their) limbs, signs, (clothes, jewels, etc.) having trees. [i.e. The trees (of this mountain) which bear the signs (cloths, jewels etc.) of the bodies or limbs of gods who bathe in the streams of the celestial Ganges.] [The excel- lence of the stature of the mountain is implied in this adjective, qualifying the mountain.] 
+3) M¤ ATE HIM AFS HIT ME U UN « «in Wn1F5:] 4 sins having, limbs (among samsarins) 
+1 streams *ITUT joined Avidya, Karma Vasana etc. འ having a (water) particles waters i.e. In the waters of Govardhana, « entered having the waters of the celestial Ganges or the bodies of gods or birds which travel in the sky. [ie the gods or birds or the waters of the celestial Ganges, who or which have entered the waters of Govardhana mountain, the water particles of which take away the Avidya, Karma Vasana etc of those [who are in Samsara, having streams of sins as limbs or body.] [This implies, how excellently purifying the waters of Govardhana are, as even the waters of the 
+186 
+celestial Ganges, or the gods themselves come to bathe in this, to get rid of their sins] 
+Summary Oh, the greatest of the devotees of Sri Vishnu oh, Nanda! This mountain is most wonderful, having birds or gods swimming or bathing in the Ganges the waters of which remove all sins, namely, Avidya, Karma vasana etc. and having trees to which the clothes, jewels which are (the signs) worn by gods are clinging, while they bathe in the celestial Ganges or the waters of such celestial Ganges themselves enter into the waters of Govardhana for more purification, or the gods who bathe in celestial Ganges come to bathe in the waters of this Govardhana to get rid of their sins (as it is more sacred than that Ganges). 
+रजतगैरिकरत्नगणैरथं कनति कान्तलवाश्चितकाननः । 
+विजगदेक निधानतथाऽधिक स्त्रिदश राजधराधरतल्लजात् ।। ६९ ।। 
+This mountain which bas forests containing beautiful creepers, is prominent, like the treasure of all the three worlds. So, it is greater even than that great Meru, which is the pleasure-place for gods only, shining brilliantly with the lustre of heaps of silver, gold, and gems. 
+[जमोहन चित्रम्) 
+सहेत पर्वतोऽयं वो गोप्तुं वचन कन्दरे । 
+अदरिद्रा वसामोऽत्र सर्वहेतोरिवोदरे ॥ ७० ॥ 
+This mountain is able to lodge all of you in one of its caves only. We are living in this, without any 
+187 
+struggle for accomodation, as in the belly of Sri Vishnu who is the cause of all the worlds. 
+[This is गृह चतुर्थ चित्रम् ] 
+घनाघना घनाघनाद्यते शाखिसन्ततिः । 
+वना वना वना वनानुरूप सरफला वृता ॥ ७१ ॥ 
+A 
+[इह - — in this mountain, वनावना - in the forest ground, घना - dense अघना - sinless or thin or without tenderness, घनावनात - marvellous like the clouds of the rainy season, (black liket hem) सखि सन्तति : - row of trees अन अवन भनुरूप सरफल - आवृता 
+0 
+― 
+abounding in, 
+excellent fruits for protecting animals. 
+Summary:- In the forest-places of this mountain trees have grown densely (compact) in some places and thin in some other places. They are marvellous like the clouds of the rainy season with black colour like them. They are abounding in excellent fruits for protecting all animals. 
+वह भाति हेमभूर्नमेरुणा समन्ततः । 
+प्रतीहि नैनमवृतं न मेरुणा समं ततः ।। ७२ ।। 
+The golden floors in this mountain, shine very well, being surrounded by shady trees on all sides. So, you take this mountain certainly, to be equal to the gold mountain, named Meru. 
+इह प्रभूतवाहिनीवने वने बने बने | 
+फलेन भूयते स्वयं नतेन तेन तेन ते ।। ७३ ।। 
+188 
+In this () bright mountain which has plenty of river-waters the trees in every forest, are themselves bent down to give you whatever fruits you desire. 
+अहार्यमेति वेतनासितासितानराज ते । 
+Merìùfà daar fæutfgar a traà || 08 || 
+Oh, in you, who have splendour which cannot be taken away by others! (oh, Nanda!) 
+Oh, qlà èararfaafaran-Oh, The chief of animals which should be famous for intellect i.e. chief of those who have reputation for wisdom! (Oh, Nandal) your mind is as in a swing with doubt as to whether the mountain should be worshipped, or Indra should be worshipped. Therefore alone, it does not shine well. 
+[This is अर्चबमक चित्रम् ] 
+समग्रगुण भूमाऽसौ सानुमानागमानितः । 
+xaifea fuqi àða: algqratqqrfaa: 11 04 || 
+[131 (This mountain) is 
+1. gri) has plenty of magnificient quali- ties like firmness, stature etc. (To Sri Vishnu)-ii) has plenty of magnificient quali- ties like ज्ञान, शक्ति, बल, ऐश्वर्य, बीर्य, तेजस् 
+2. Bigatainmfa: i) worthy of respect for reason of having trees as high as its peaks. To Sri Vishnu ii) agara-umma. af:-Not to be fully realised even by Vedas with Tarka 
+189 
+3. wife faut à: i) Fit to be resorted to by Yogins who have concentration of mind (to Sri Vishnu ii) Fit to be meditated upon by yogins who have concentration of mind. 
+4. भागमान् इस famous in Puranas. 
+(To Sri Vishnu ii) anafaa:-made known by am's, i.e. prapannas. The above four adjectives qualify both the mountain and Sri Vishnu with different meanings as shown above, showing that God Himself is in the form of that mountain]. 
+Summary i) The greatness of this mountain is famous in Puranas also. It is full of magnificent qualities such as firmness, high stature and so on. The trees therein are as high as its peak bringing honour to the mountain. It is fit for yogins to live in it and practise yoga, with concentration of mind. 
+ii) This mountain is the God Vishnu Himself in that form. He too is full of auspicious qualities namely ज्ञान, शक्ति, बल, ऐश्वर्य, वीर्य, तेजम् etc. i. e. समग्रगुणभूमा He cannot be fully realised by Vedas with the help of Tarka, so He is also सानुमानागमानिता. 
+iii) He too is to be resorted to by yogins who have concentration of mind, being fit for meditation iv) fa- (prapannas) - Made known by prapannas. 
+याचले जरसानेता ताने सारजले चया । 
+कालिमानवसायामा माया सा वनमालिका ॥ ७६ ॥ 
+190 
+i) [art-beneficial, a-having excellent waters, .in the mountain, arm, which, by old age, 
+-not attained, with means. @bar7q8171A1- the path understandable due to the thickness of trees by which the place has become dark, ar, arfØST- that row of forests. IT-is very surprising.] 
+Summary: The row of forests in this mountain which has useful and excellent waters in abundance is flourishing without the touch of old age. It is marvellous like the Maya of Sri Vishnu with its thick growth of trees which have made the forests so dark as no path can be discerned within it. [The beauty of this sloka consists in its 
+"अनुलोम प्रतिलोम गत प्रस्थातपाइ चित्रम्" 
+ii) [-tirm (not changing with the change of Manvantara), ara-in the creator of the world, en að (en-Sudarshana, ws, born out of water i. e. conch [Panchajanya]) who has chakra and Shankha, met भनेar- Existing always, मचया unfailing काळिमानवलाबामाका- humming :- bees being motionless having drunk the flower-honey so much that they had no desire to go to another flower and were sleeping in those flowers alone very happily, such 
+ar such aनमालिका- Vaijayanthi, T-is the Maya of God Sri Vishnu ] 
+Summary: The row of forests is resembling the Vaijayanthi which is the Maya of Sri Vishnu. It is highly esteemed by Sri Vishnu who is not changing with the change of Manvantaras like Indra and so on,191 
+holding Panchajanya and Sudarshana, and being untouched by old age. The humming bees in the flowers of the Vaijayanthi have become steady having drunk the honey amply therein and without the idea of going to any other flower, as the flowers in Vaijayanthi are so full of excellent honey. The garland shines like Lakshmi covering the chest of Sri Vishnu with its lustre. 
+axıranfaqdâc faußaaqınà | 
+निशामयालीनपनं सालौघमतिनन्दनम् ॥ ७७ ॥ 
+i) [-near the cloud. fa-going beyond बिराजितसमागमे shining with trees, excellently, नाकीनघनं- stuck up with cloud, f. Excelling the celestial garden (Nandana) ''-groves of sala trees, 
+-in this mountain, fara-see.] 
+See the groups of the sala trees in this mountain which shines very well with the groves of trees tear- ing away the clouds, going beyond them and surpas- sing Nandana Vana, the garden of Indra. 
+ii), aa! Oh, most wealthy one! .faufa. shining with birds which are sleepy, an. in the mountain, a--ufa.«-great bees-dense with them अतिनन्दनं most pleasing, बाहौ सार-water-ओघ stream- श्रभ्रान्तमति-with concentration of mind, मिशामब-see !. 
+Summary:- Oh, the possessor of abundant splendour! See with concentration of mind, the most 
+192 
+pleasant streams of waters, spread over with great bees (flying from lotus to lotus,) in this mountain which shines with birds which are sleeping happily. 
+agsflüger dei szaitzám | 
+चिरोचरोचिरचरो रुचिरो रुचिराचरः । ७८ ।। 
+- 
+अदस्य इयक्षरः 
+aar by the lustre of birds named 'ghyl- lika'-which are lovely, shining, by wan- derings of Krishnasaramriga, : without the fear of cruel animals. fifa-always having bright lustre of gems, a-mountain fu-beautiful, ferat: illuminating trees etc.] 
+Summary: This mountain increases liking for its ownself with its beautiful trees, spreading the lustre of its precious gems always. Showing that there is no fear of cruel animals in it by the deer wandering always as they like, and shining with the lustre of lovely birds called ff (ghyllika). 
+नीतिनेत्र नतानन्त नितान्तोन्नतवानतः । aràáìsagðìsátá a gàðgatzaa: || 09 || 
+हे, नीति नेत्र नतानन्त तात 
+निवास-उत- तानत: - very high and broad भवनुत: - very great 
+g-resorted to by sages who are praised by 
+the great who are deprived of sons, 
+mountain, unobtained, -nо 
+:-from this 
+193 
+Oh, you who have the Nithisastra as the eye, oh you, who bow to Sri Vishnu! oh, father! Is there any desire unobtained from this lofty and very ex- tensive mountain, by the people, which is resorted to by the great ones, also being praised by the grea people, who are rid of their sins? 
+सराससारसासारैः सुरोत्र सरुसारसः । 
+TAB: ATAÃÀ: AC: amorâtaî 11 6° 11 
+[असौ सरलसारसासारै:- with movements of Sarasa birds making sounds, सूरोख वह पारसै:- with lotuses open by the rays of the sun, -with oozing sweet waters, : साररसैः with waters of great lakes, रसल :- creates liking.] 
+Summary:-This mountain creates vehement longing in its ownself, to all, by its lakes whereic sweet waters are oozing out, and lotuses are opened by the rays of the Sun and where intoxicated chakra- vaka birds are moving uttering their sounds. [NT] 
+धीर! धीरघुराधारी धाराधरधरोऽधरे । 
+रोधोधरा रोधरो विधाराधारो धराधरः ॥ ८१ ॥ 
+Oh, bold one! This mountain bears Kumkuma trees called (Dheera). There are clouds at its foot, and has streams overflowing their banks. 
+13 
+[cawake 
+194 
+भूमि मेम मानेनानेन भूनाभिनेनम । भानुमानुममाभिन्न नुन्नं नृनं न नो नमः ॥ ८२ ॥ 
+! possesser of lustre like that of the Sun ! भूमिभमानेन with the place where elephants like mountains are shining fat prominent on the earth, by this mountain. gg. faй mixed 
+with the lustre of stars and the Sun-beams sky, नूनं- indeed, न नो नुद्यम् - torn away] 
+: the 
+[द्वयश्वरः ] 
+Summary: Oh, you, who shine like the Sun ! the sky which is joined by the Sun shine (in the day) and the lustre of stars (at night) is indeed torn away by this mountain which is prominent on the earth manifesting elephants which are like hills, (i.e. so very high and huge) 
+तत्र तत्रावितारेऽत्र तारावीततरूचरे । 
+तरेचावारती रेवातते त्रातरि ते रतिः ।। ८३ ।। 
+1 
+[इयक्षeः ] 
+[t, aralan, an, fart-very high sounding lions or having Pure pearls. alangat-trees streching up higher than the stars, qaraa-pervaded by those who have come for protection. - in this mountain, àfo:-Your desire, - fatigues ata-cross] 
+Summary:- Oh, father! your love for this mountain which spreads the lustre of precious stones everywhere, (or where the high sounding roars of fions are heard), having great trees stretching higher 
+195 
+up than the stars, and being surrounded by all who come for staying in it and protecting them also removes all your fatigues (or dissatisfaction.) 
+faadtargfagà ataratargargat i ararararfagàsfa aiàìsalaraàsafa || 68 || 
+(tara ! faafu.qui-igf-qà,-covered by trees having flocks of birds, --.having streams with assem- blage of birds known as 'f', - ara-fa. q-resorted 
+to for dwelling by those who 
+worldly pleasures. 
+(in this mountain) 
+अतीव भासते 
+have resigned to 
+Very spacious. 
+-in all the seasons :- 
+wind fa-very much afa-protects.] 
+Summary: Oh, father! the wind blows very favourably in all the seasons in this mountain, which is very spacious, the abode of the impassioned ones, having streams possessed of birds known as enfa (Athi) and surrounded by groves of trees with flocks of birds in them. 
+नुनैनसां निनसून सानूनासनसानुना । 
+81a8f a: æðarat aisàaissaag: afa: || 64 || 
+[द्वयक्षर] 
+सानून- असन सानुना with 
+[rat rid of sins fut desirous of bowing to the mountain, erant with carts, aatat with troops, नः to us, सा, सनि: that prayer, ridges abounding in a trees, ara: bears fruit quickly.] 
+by this mountain, 
+196 
+Summary:- All our prayers will quickly bear fruit by this mountain whose ridges are abounding in trees known as ", (asana) removing all our sins, if we desire to bow to this mountain and adore it with all our carts and troops which are ready with 
+us. 
+Note: What fruit can be obtained from Indra by worshipping him can be obtained, even more quickly by worshipping this mountain.] 
+कल्लोलोल्लोलकीलाले केका कलकलाकुले । 
+कालिका कलिलालो के काले काले किलैककुः ॥ ८६ ॥ 
+This mountain alone is the place of refuge to us when the rainy season comes with large stretch of waters having huge, waves, the pea-cocks making their sounds of ke-ka and the black clouds making the light dim by blocking the sky. 
+qaar gaaìda: qfààìeqfaa189: 1 
+qan qìàìgardìsfq aq: qaqà fqa: 11 60 || 
+[द्वचक्षर : ] 
+[aq: qaqà! faa: ! qaar gaar sta: qfaateqfuraraq: dlate a1q: fq qtar] Oh, the best of those who are pure by penance! oh, father! this mountain, where birds are flying here and there, the sunshine is falling down- wards, on its lowlands and rising up on its high- lands, and the sun's heat is cooled down (by the dense shade of the trees), will protect all of us. 
+[द्वयक्षरः ] 
+197 
+भूतभृते भूतभृतो भीतता भीतिभूतिभूः । 
+मातीतो भूभृतो माभृङ्गाता माता तु भूतितः ॥ ८८ ॥ 
+Oh! भूतभूते भी तत- अमोति भूतिभूः मातीत भूतित: मूतभृत: भूभूतः भामृत्, भाता भाता । 
+Oh, you, having everlasting splendour ! This mountain, which is great like the Kailasa mountain of Siva, the Lord of the Bhutas, rises above the orb of the stars and is the assurer of safety to those who are frightened and will always shine with splendour- 
+नाम ] 
+मरुसुर्मुरमर्मारिं मारमारेऽमरामरे । 
+रमार। मे मुरारौ रुरामेममुरुमेरुमम् ॥ ८९ ॥ 
+[वयक्षरः] 
+[मारमारे, भमरामरे, स्मारामे. बृरारौ ह: महमुर्मुर मारिं, उमेदमं 
+. 
+The renowned Sharanagati Dharma, (i. e, the dharma of protecting those who seek refuge with Him,) for which, Sri Vishnu who is the Cupid of Cupids, God of Gods, the gladdener of Sri Lakshmi and the destroyer of the demon Mura-is famous--came to this mountain, which ( by its abun- dant water places ) - is piercing the vitals of ithe chaff - fire (मुमुंर ) namely the desert (waterless place) and excels even Meru in greatness. [The God Govar- dhana gave His greatness of 'Sharanagataraksahna' to this mountain.] 
+198 
+वीरेर।वरावारोऽवर वैरिविरावर । 
+विवराराविविवरो वीर बत्रे वरैरुरुः ॥ ९० ॥ 
+[अवर ! वैरिविरावर वीर र विरेश्वरावर (विवर मारावि-विवर) हरु परैः वत्रे] विवरेषु (कोटरेषु) आराविण: (चन्दायमानाः) विवशः पक्षिषष्ठाः परिमन् 
+Oh, the seeker of Sri Vishnu ! ( अ-वर ) ! you, who cause the enemies to cry out,! Oh, heroic one! This great (:) mountain, whose highland touches the globe of the Sun (रविरेशवरावर ) !, and in the hollows of whose trees, birds make confused noise,-is chosen by saffron trees. ( ब ) ( everywhere). 
+रवि ईश्यन्ति या इरावरा : ( उत्तम भूमयः) तासां भयो (युटि सं ऋच्छवि इति विमल स्पृगूर्ण भूमिक । 
+मानयानन्य नियमो मान्यमेनमनामयः । 
+[प्रचक्षर: ] 
+यमिनां नाम नभ्योऽयममेयो मौनमानिनाम् ॥ ९१ ॥ 
+Give up devotion to Indra and others and worship this praiseworthy mountain alone. Yogins (saints) also bow to this mountain, which give health by removing all ill-health. Those who feel by conceit, that they are capable of cogitation, cannot know it well. 
+[अमूर्धन्नाथक्षरः ] 
+निःसमानेन मानेन सुमनोमानसैः समः । सोमसीमासमा समसानुमान्सानुमानसौ ॥ ९२ ॥ 
+199 
+(निःसमानेन मानेन, (Of unequalled largeness and spaciousness) सुमनोमानसैः समः सोमसीमासमासप्रसानुमान् बसौ सानुमान्] 
+This mountain is unequalled in largeness. This is very exalted, like the minds of the virtuous ones. Its peaks have stretched up to the orb of the Moon. 
+[अधन्यश्चारः ] 
+वातातीतितातीतः केका का कुक के किकः । 
+पापोपपापपापापो नानानानामनामनी ॥ ९३ ॥ 
+. 
+- 
+है ( तात) ! (इत अतीसिता प्रतीत) (के का का कुक के किकः) पाप-पपप- पाप बापः) नाम बनान-आन्न नाम-नीः 
+· 
+Oh, father! this mountain protects all, namely those who eat various kinds of food, those who take only a single kind of food, and those who take no food at all (being engaged in penance), by supplying them all, whatever food is desired and also by making the penance of the sages successful, having abundant sacred waters which remove both major and minor sins, pea.cocks which produce notes namely and is shining well, without any distress arising from the six troubles-namely, excessive rain, drought, beasts, rats, parrots, and foreign invasion. [प्रतिपादभित्रै काक्षर:] 
+यये या याय यो योऽयः स सोऽसौ साम सासुखः । मम मामोऽवमानाम गोगागोगागगोगगुः ॥ ९४ ॥ 
+200 
+Splitting up ( बवे (ईजये) या या भय मोब: भयः समः मसौ सास, छासुसूः मम मामः श्रममामाम, गोगा गोगमा गोलगु : ] 
+" 
+Prose order [ अबे ! सास ! ममबामाम ! गो-गा- आग-ग-ग- योगगुगो Sun-beams, गr-entering, भाग- offence, मग trees-n- going t-cows ng such Gokul #g-Having Sanjeeva- naushadhi असौ this mountain, या वा ई-the goddess Lakshmi, the wife of (a) Sri Vishnu auspicious fate स स मम माम this mountain comes to my mind in this way.] 
+Oh, (you) devoted to Sri Vishnu ! the destroyer of enemies ! (सा- असं ) oh, the bestower of riches to the poor! (an destitate or Lakshmi, माम- bestower ) ! this mountain which has trees exposed to the heat of the sun under which cows take rest, has herbs which bring one back to life: It is the source of all kinds of splendour and auspicious things. 
+Note: [All our splendour and good fortune 
+are from this mountain alone.] 
+रुरुरुरुरिरारोऽरं ददादीं दददा दिद। । 
+[प्रतिपादमितकाक्षर : ] 
+लालिलोला लिलीलालो हाहाहुहुहुहे हि ।। ९५ ।। 
+(रु. रु. उरुः ) ( इरा-र: ) (अरं) (दु.इ.आ-दी- ददत्) (मादि-दः) लालि.कोळ कि. लीला का ) हाहाहूह-अ-ह-इह ) 
+i) -Deer, ग़-sounds उरु:-great ( Violent sound of deer) 
+ii) इरा water i abundant (Full of water )201 
+iii) i-quickly (iv) grief-giving, a-t-destroy- ing 'completely-giving) Complete destroyer of the cause of grief.) 
+v) af-Those devoted to enjoyment -protector (giving pleasure to the pleasure-enjoying persons) vi) art.desroius of flowers etc., .unsteady f-bees, mar-sport-giver vii) E-celestial musi- cians or singers, -are who are very famous ones, -imaginative power, -destroys -your history, The imaginative power of such famous also celestial singers becomes dull in singing your history. Oh, one of such extraordinary fr.indeed. 
+career! 
+Summary:-Oh, the destroyer of those who give sorrow to others! oh, you, whose splendid deeds cannot sufficiently be sung even by the famous celestial singers. This mountain is full of the noise of wild animals like the deer: it has abundance of waters; this supplies full enjoyment to the seekers of enjoyment; this provides sport to the unsteady bees which move about, being desirous of flower-honey: 
+[afaqızfàasım:] 
+नानानानानानानाना नानानानाना ना जाना । 
+ना नानानाना ना नाना नानाना ना नानानाना ॥ ९६ ॥ 
+( नामान - अनानाम- धन- अन ) अना ना नाना न अः न अः नान arat mar gåtar majar atat atat a x; a a: Amer 
+[This is an q@@=; 
+अन-जन) 
+202 
+is addressed in the first word (rata-galatas 
+(Those who are) mi. e. those who live by fi. e. the five vital airs or life-winds namely प्राण, अपान, व्यान, उदान, समान those who are (अनान): i.e. who live without the five vital airs, (to both of them) :- who enlivens (both of them) i.e God. wa! the enlivens of such God i. e, the father of Sri Vishnu! ii) non-man, iii) man, iv) are different from one another. Hence they are, not protector. (Neither man nor gods like Indra are protectors) 
+vii) viii) ix) Sri Vishnu cannot become many He is single only-this is borne out by the next half of the slokai- 
+नाना, नाना That which is many is many भनाना, war that which is single is single alone. ATAT, ATAT ~, ◄: Vishnu cannot be many without the world, as He is omnipresent and all pervading. Hence He is said to be all. (सर्व खश्विदं ब..." ) 
+alend 
+arar the protector cannot be many. Vishnu alone is the protector 
+Summary, Oh, father of God Vishnu, by whom those who live by the five vital airs and others who live without them exist, i. e. men and gods they cannot be protectors. God Vishnu is single and not many. Everything is Sri Vishnu only (a feww.....') Many is many: single is single. One cannot become 
+203 
+the other (since one is opposed to many). Without the world, Sri Vishnu cannot be seen as many (since He is all-pervading). The protector is single i. e. Sri Vishnu alone is the protector and none other, as it is said "न हि पालन सामर्थ्य ऋते सर्वेश्वरं हरिम्" 
+इति तत्त्वमतत्त्वं च यथावदवगठिया । 
+अयन च्यौं धिया भिन्दन् गोधनान्यव गाढया ॥ ९७ ॥ 
+In this way, with the mind-well determined as to the reality and the unreality and discriminating which is to be worshipped from which is not to be worshipped, save our wealth, namely, the cattle. 
+वयानयान यानयानयानयानयानया । 
+नयानयानयानयानयानयानयानया ॥ 
+यानयानयानयान यानयानयानयान । 
+या नयानयानया न यानयानया नया न ॥ ९८ ॥ 
+Words in No : 1 - Can be split up in two ways :- 
+नया नयान् भयानमान् अयानयानया अनया नय आनय मनबानू जयान् अयानया नयानया 
+नयान् भयाः न बानबानू अयानयान् अब अनया नयानयान अयान यान 
+अब नया 
+i नबा:. morals. अनया :- immorals. 
+ii भयाः-auspicious precepts अनया: - reverse of them jji moja.matgà (without vehicle) a-going (By 
+that). 
+204 
+iv -with the mind said in previous sloka, 
+va-expel or take away vi ta.Bring. 
+viin.devoid of a (justice) Those who are 
+devoid of justice 
+viii. without going to 
+ix tag ¶ -- Vishnu, ari-going (refuge) 
+(Their) -path, (In this) ar-going (going 
+in the way of Sathwikas.) 
+Prose order 
+मनयात्, अयात् (सन्) अयानमानयानया अयानमानया अनवा -नयानयान्, अयानयाश्च, नय आनय च [ie नयान् अयौश्र, आनय, 
+ध्यानयान् अनयाश्च, नय] 
+(Oh, father!) (you), without taking to injustice and without looking out for the advice of any other, with the mind going by itself in the path of those who resort to Vishnu, which is choose the path which is just and auspicious and give up or expel, what is unjust and inauspicious 98-(2) is the above sloka reversed - (letters are in the reverse afa- ਅ order.) 
+· 
+( यान यान पान पान !), बान-पान यान-पान ! ) (या) नथ - अनय- अनथा (म) (बा) (न) यान मान या ) न 
+Ohl you, who walk on the high road on which vehicles like chariots freely move! i.e. not going in the wrong path oh, you addicted to good conduct getting rid of sins leading to decay! with the mind, 
+205 
+which cannot be said to be incapable of knowing justice and injustice, and is free from the evils like passion etc., ( follow the just and auspicious path, giving up the unjust and inauspicious one.) (goes with the above sloka) 
+माया मासा सामायामा या सताया याताया । मातायायायायातामा सा यायागे गेयायासा ।। ९९ ।। 
+[माया भासा साभायामा, या, सूताया, यातासूया, भात. आमाया ! अयात बाभा सा अथाया, भगे गेय मायासा ] 
+4 
+। 
+Your intellect is marvellous with imaginative: power, and it is very broad also. It is the cause for attainment of wealth. It is devoid of jealousy. It shines with inclination towards good fortune to you. It is directed towards Sri Vishnu alone. If, with such mind, you try to worship this mountain. that mind will be praised and sung by all, for its greatness. 
+सेवा माननमावासे वासिताहिहितासिया । 
+[सर्वतोभद्रम् ] 
+माता पिता तापितामा नहितावतता हि न ॥ १०० ॥ 
+[हे, वासिताहिहित ! आवासे, सेवा, माननं, बासिषा, माँता, पिवर, वापितामा न दिवाततता] 
+Oh, you, who are dear to Sri Vishnu, who has Adisesha as abode! Worship to this mountain, which 
+206 
+is our place of refuge, increases splendour. It is done by only those who are very fortunate. It is our mother and father. It removes all afflictions. It cannot be had by sinful persons. 
+गेहा देववदेहागे हासताननतासहा । 
+[सर्वतोभद्रम ] 
+देवानयायाssनतादेऽव नयात तथाऽऽनव ॥ १०१ ॥ 
+हे, देव वद ! मनवा दे | नयात! आनव ! छह अंगे गेहा, हासवान नवा 'सहा देतानयाया तथा भव] 
+Oh, devotee of God! Oh, modest of the modests ! Oh, you, 
+adhere to the righteous path! Oh, mighty one! The very desire to praise this mountain fulfils all our desires quickly. It does not tolerate the worship done to those who are to be worshipped for a long time, like Indra and such others. It eradicates all evils. Offer worship to this mountain and save Gokula, thereby. 
+नदीसारसमेताव दीप्ता भासा नरावृता । 
+सामानासौ माभिरामे रसा सौभ्या सुमानस ॥ १०२ ॥ 
+[सर्वतोभद्रम् ] 
+[ हे सुमानस ! सामान ! मा भिरामे, मत्र, नदीसारखमेवा, समास 
+सौम्या ] 
+नसो, रसा, 
+Oh, auspicious minded one! ohl illustrious onel This splendid mountain region is very pleasant with great rivers and the lustre of precious gems. 
+207 
+चसुदा वपदानन्द बोसुदान्त हुदा नता । 
+नानदा मुक्तिदा रम्या सनदाव सदा रसा ॥ १०३ ॥ 
+(t napazz ŵ-g-qta un, agat, geraaı, atası, gluer, सबदा, रसा, सदा, स्था 
+Oh. gladdener of the frightened! (by assuring them of safety), oh, subduer of the organs of sense very well, by prudence! This mountain region is always shining very beautifully, by protecting wealth, and giving joy to those who reside herein; It is very kind to those who have faith in it, gives salvation, and has rivers which are in high floods. 
+सदैवेऽङ्कुरया तबै भवलताशोम्बुच्चनानागमे । भव्यं कर्म सदार्चितोद्भव नदीयादः सनाथीकृते । चित्राटन्यनुवाहिबातवलन श्रेयः प्रवेयोत्सवे । 
+[सुरजबन्धः] 
+वेदोक्त्या समये भजेः शुचि गिरौ मेरूनतेऽस्मिन्धुवे ॥ १०४ ॥ 
+[हे, अर्चितोद्भव ! सईये, अनूकुरयात वैमवताशोम्युच्च नानागमे, दोवादः सनाथीकृते चित्रादन्यनुवाहि वाटवरून शेषः प्रचेयोत्सवे, मेरुखते भवे अस्मिन् गिरी, वेदोक्त्या, मध्यं, शुचि, सत् कर्म, समये, भजेः ] 
+Oh, the son of the most revered one I offer the good, pure and worthy worship, in the manner said in the Vades [" यो वै स्वाम् ....... 
+.........] 
+to this mountain which is firm, lofty like Meru. deserving auspicious jubilees, with winds blowing favourably in its great and wonderful forests, 
+208 
+shining with rivers containing aquatic animals, abounding in various kinds of tall trees, to which. highly estimable creepers bearing flowers and fruits are clinging, and which is said to be the good fortune of the virtuous persons. 
+[This sloka is in which contains the names of the poet and the poem, namely. "aga- ardhat algan*gga:" is extracted in the third and sixth rounds of the ] 
+anà aiffæ-gænsèar ait araiâtariar | arıenfaqaıstaı aısłanaichai àm || 204 1s 
+[अष्टदलपद्मबन्धः] 
+(2) ait (alà) əfenq) ala-andtaı-Killar) qai, a-tel a 
+बाज ईसा बद्दीन सेवा वार- आहि- आविर्भूत - आजीवा 
+Oh, the son of the learned in Vada (discussion)! (Do not say that the worship offered to this mountain with sounds of instruments is only to a life-less thing and not to any deity (as the mountain itself is the deity). The worship offered with rich materials like abundant cooked-rice, ghee and so on, to this mountain will grant as water, grass etc., 
+Notet- [By worshipping this mountain. we can get abundant water, grass etc., which we pray for, more quickly than by worshipping Indra.] 
+सानुमानयमतीततारकः सानुमानयमतीतवारकः । सानुमानयमतीततारका सानुमानयमतीततारकः ।। १०६ ॥ 
+[महायमकम् ] 
+209 
+This mountain stretches above the globe of stars. It has pearls which illuminate its passages: since it has protected those who were in this, it can be inferred that it protects us also. It grants fruits for its worship; much more than what is expected of that worship. 
+विराजमानादसमान भूमाविराजमानादसमान भूमा । 
+विराजमानादसमान भूमाविराजमानादसमान भूमा ।। १०७ ।। 
+[विराजमानात्, भू-मा-विराज-मानात, असमान असमान भूमा, चिं- राजमान अत्' अस मान-भू-मा, वि-राज-मानात, मा.न. भूमा, अस] 
+[महायमकम् ] 
+Oh, you ; ( Nandal), who possess unequal splen. dour, shining brilliantly with the knowledge about Sri Hari, who is illustrious by His queens namely Sri Devi and Bhoo Devi, [as it is said: "ब्रह्मविद व से सोम्य मुखं भाति”. ] and, you, who are absorbed in meditation of God, who is revealed to all by Garuda, with the mind devoid of self-conceit, treat my speech as that of a parrot (abide by it) and shine (अस) with greatness which is conduces to the enhancement of splendour. 
+अक्लिष्ट चित्रमिदमत्र मनागिवोक्तं 
+चित्रायुतानि सुवचनानि पुनस्तमापि । कृत्यं विभोनिंगमनीयमनन्यभक्तै 
+राराध्यतां हरिरसौ पृथिवीधरात्मा || 
+Only a few of the wonders are said in the case 
+of this mountain, in the form of this easy शब्दचित्र - or 
+14 
+210 
+poetical charm. Many thousands of such slokas can 'be said without any strain. But, Sri Vishnu's worship is to be performed by those who are exclusively intent thereon, without delay. So, let Sri Hari who is in the form of this mountain be worshipped. 
+इति कथयति कृष्णे गोपवृद्धा निदध्युः 
+शरणमशरणानां शाद्वलश्यामलाङ्गम् । पुलकितवनमालं पुपकिञ्जल्कजालैः 
+पुरुषमचलशृङ्गे पुण्डरीकायताक्षम् ॥ २०९ ॥ 
+Just when Sri Krishna was saying that the mountain God, Sri Vishnu alone should be wor- shipped, the elderly cowherds saw a person in human form on the mountain peak: it could not be determined whether it was Sri Vishnu Himself in that form or the mountain itself, because, it was like Sri Vishnu who is the protector of those who seek His protection, the mountain also protects its seekers by lodging them and giving them fruits, roots etc., for food. The dark green meadows there were like the colour of His body. The row of trees spread. over by the pollen like horripilation, was like the Vaijayanthi garland worn by Sri Vishnu. The fully open lotuses in it were like His wide eyes. 
+शतमखमणिशैलः स्यादसौ देवतात्मा 
+शरदि समुदितं वा तोयकालस्य तोकम् ।211 
+चिरपरिचितपूर्व चेतसां किं न भाग्यं 
+न किमिदमिति चिन्ता न व्यतीयाय नन्दः ॥ ११० ॥ 
+Nanda Gopa could not come to a conclusion, thinking about that divine person as, whether it should be the Mountain of sapphire (Mountain Indraneela) appearing in that form, or the young one of the cloud of the rainy season appearing in the Autumn, or the ripeness of great good fortune. which had been long cherished before, or what else which it cannot become! 
+Note: [ By its dark blue colour, brilliance, and delighting form it was doubted in various ways.] 
+आद्यं किमेतदधिदैवतमद्भुताना- 
+माकालिकं फलमुतैकमिंद शुभानाम् । एकीभवन्निधिरसौ किमभीप्सिताना- 
+मित्यन्वभावि सविधोपगतैः स देवः ।। १११ ॥ 
+The cowherds who were near, enjoyed the Mountain-deity as, the first and foremost of all marvels, an aggregate and instant fruit of all auspiciousness and as the reservoir of all their desires, joined into one. 
+पीतांशुके पृथुलबाहुभुजान्तराले 
+मेघाभिजन्मनि मियाः प्रतिविम्वबुद्धया । धन्यानि गोपनयनानि तदान्वभूवन् 
+कुष्णे च तत्र च कियन्ति गतागतानि ॥ ११२ ॥ 
+212 
+Then Sri Krishna and the Mountain deity had both worn yellow silk garments (ta), and had very stout arms and chests. Both resembled the clouds in colour. They so closely resembled each other, that they were doubted to be the reflection of each other. So, the blessed eyes of the cowherds enjoyed seeing both of them alternately, with to and fro-movements, between them, for sometime. 
+॥ शम् ॥ 
+सप्तम सर्गः । 
+[गोवर्धनधारणम्- (Lifting up of Govardhana) व्रजौकसौ विस्मयमन्थराक्षा बालार्कवर्णे वसनं वसानम् । श्यामं युवानं शतपत्रनेवं शैलोदितं देवमथोपसेदुः ॥ १ ॥ 
+After seeing the God on the mountain peak, the cowherds went with eyes steady due to wonder, to the God who appeared on the mountain, as a dark blue youth with lotus-like eyes, wearing silken garment which shone as the newly risen sun. 
+यमाहुरन्त हिरण्यलक्ष्यं योगेश्वरं योगिभिरेव दृश्यम् । 
+तमद्रिशृङ्गे समुदीक्षमाणा गोपं सतां गोपगणाः प्रणेमुः || २ || 
+Seeing the Lord of yogas on the mountain peak, with eyes lifted up, all the cowherds bowed to Him who is the saviour of the virtuous, and whom the Vedas say as being visible to the yogins only and not to others, either inside or outside, though He is omnipresent. 
+213 
++ 
+स तान शेषान्सुधयेव दृष्ट्या प्रहर्षयन्प्रत्ययितप्रसादः । सरामकृष्णान्सनका दिगभ्यः स्वामी सतां स्वागतमन्वयुक्त ॥ 
+Though perceivable to those such as Sanaka, the master of all virtuous people enraptured them all with Balarama and Krishna, by His nectar-like glance, reposing confidence in His favour, and said welcome to them asking about their welfare. 
+gungeâa Dagmâ avar einfafta: gaan: | faùfà¤â: ggåßatafaufzuaıkafasıan || 8 || 
+By the God's speech, the minds of the cowherds became pure, being cleared of all doubts. By mutual deliberation, they came to the conclusion that He alone should be worshipped. Due to the coming of the Autumn, the moon-beams shone clearly in the sky making lilies also open and illuminating all directions: Like the bright Autumn, their minds also became bright and joyful. It was indicative of the fulfilment of their desires also. 
+विधानदक्षा विपिनाश्रयास्ते तदन्य संर। धनवीतसङ्गाः । तमर्चयामासुरदीनसाः संप्रीणनैः शक्रमखोपनीतैः ॥ ५ ॥ 
+The cowherds dwelling in the forest, who were very well skilled in the execution of their duties, left off the desire for the worship of any other than the mountain God and with generous mind, they worshipped the mountain with all the materials of worship which they had brought for worshipping 
+214 
+Indra. [By worshipping the mountain, they wor- shipped the God Narayana alone who was seen at its top). 
+अनन्ययोगादयजन्त चैनं कृष्णेन तेनैव कृतानुचाराः । 
+समे घकैलासनिभर संख्यैः सव्यञ्जनैः सादरमन्नकूटः ॥ ६ ॥ 
+With the help of the same Krishna who Himself is to be worshipped, they earnestly worshipped the God presiding over the mountain, resorting to the methods of exclusively pleasing Him, with countless heaps of cooked rice, bearing condiments upon them each looking like the mountain Kailasa covered with clouds at the top. 
+Note:- [The heap of cooked rice was like the Kailasa mountain and the condiments on them were like clouds on the mountain.] 
+निर्धारितार्थेषु निजोपदेशान् यस्तोपहारेषु महीवारार्थम् । अयस्वमाचार्यकमप्ययासीद्रोपेषु कृष्णो भुवनेषु गोप्ता || 
+By the instructions given by Sri Krishna, the protector of all the worlds, the cowherds got enligh- tened and with clear decision, they offered all the food etc., they had collected, to the mountain alone. By this, Sri Krishna became both Acharya (precep- tor) and also the God to be worshipped, to the cowherds, for He ate all those offerings. 
+Note:- [It was known to them and to all others also, that He was the same as the God presiding 
+215 
+over the mountain also, and that He alone is to be worshipped above all, by all the people, both directly and indirectly and that all worships ultima. tely goes to Him alone and please Him alone.] 
+उपाहरन् यानि सभाजनार्थे बलद्विषो वल्लववंशवृद्धाः । परेण पुंसा परिगृह्यमाणैः प्राप्तं फलं पुष्पफलादिभिस्तैः ॥ ८ ॥ 
+Whatever flowers and fruits and etc, the elderly cowherds had brought for the worship of Indra, were all favoured by being accepted by the Supreme Spirit (Sri Krishna) by which they all attained the fruitfulness of their birth (along with the trees etc, which bore them.) 
+Note! [Not only the trees etc. but also the fruits. flowers and so on have life in them.] 
+मृत्यूपसिक्तैर्भुवनैरशेषैरनन्यदत्तैरपि हव्यकव्यैः । अलब्धपूर्वामभजसदानीं गोपाहृतैः प्रीतिमशेषगोप्ता ॥ ९ ॥ 
+By the Upanishadic hymn 
+"यस्य ब्रह्म च क्षत्रं च उभे भवत मोदनः । मृत्युर्यस्योपसेचनं ... 
+It is said that the whole world consisting of all animates and inanimates implied by the words and become the food of the Almighty (Sri Krishna) at the dissolution of the world with g the God of death as the condiments for the food. The 
+(oblations to the Gods) and (oblations to the manes) offered to Him, the protector of all, by religions devotees become much more tasteful than 
+216 
+that which He Himself eats. The food offered by the cowherds then became much more tasteful than the food He ever had, due to their excellence of faith. 
+Note: [Obviously by His ngs in public, their faith in 
+more. That also shows how favourable to them.] 
+eating all their offer- Him increased still exceedingly He was 
+विधिप्रयुक्ते हविषि प्रभूते संसृज्यमाने हरिणा समक्ष । gaınaxızofaqısfq anı xzıafazzza angāì¶1: ||20|| 
+When the abundant oblations offerd in accor- dance with the religious commandments (sacred precepts) to the God presiding over the mountain were being eaten by Him before their very eyes even those, whose minds were not trained by pursuit of Sastras (sacred scriptures) to the extent of thinking that all the oblations offered by them do please the respective deities concerned, became now overjoyed with full faith in the fact that gods do eat their offerings. 
+Note:- [How is it possible for ony one not to be convinced of this fact, when such heaps of food were being eaten by the God before their very eyes? ] 
+अमृष्यमाणो विहतां स्वपूजामणां सहस्रेण तदा महेन्द्रः । अनेहसं रक्त शिलीन्ध्रजालैरा का लिंकेर श्चि तमन्वकार्षीत् ॥ २२ ॥ 
+When the worship. first intended for him, was impeded by their worship of the mountain, Indra 
+217 
+could not tolerate it. All his thousand eyes became red with anger, like the Autumn adorned with untimely red mushrooms everywhere. 
+Note, [Mushrooms grow in the rainy season and not in the Autumn. So their appearance now i.e. in the Autumn, is the sign of untimely rainy season. His eyes are compared to red mushrooms to indicate the rain-fall which was to follow immedi. ately. Here, is Autumn, (age time); Indra became like Autumn containing red mushrooms, (with his red eyes) risen, out of season. The time alone when he became angry, had mushrooms indicating rain in Autumn, Indra is er sattwika His anger is untimely: so, similar to Autumn having untimely, mushrooms.] 
+अवश्थितान्यूनपयः प्रदानानाराध कान्कालमियन्तमिन्द्रः । आहारकर्षादभिहन्तुमैच्छत्कृतानभिज्ञेषु किमानृशंस्यम् ॥ १२ ॥ 
+Indra wanted to destroy completely, those who were worshipping him all along with offerings of full quantity of milk without deceit, for the simple reason of their having diverted his food to another this time. Where is mercy to the ungrateful? 
+अथाजुहाव प्रतिघानुषङ्गाद्वोराशयो घोषविमर्दकांक्षी । 
+समेष्यतां संभवमर्णवानां संवर्तक नाम गंण घनानाम् ॥ १३ ॥ 
+Then, [After he desired to kill them] due to the continuance of fury, the cruel-minded Indra called the group of clouds named 'Samvartaka⚫ which cause the union of all the oceans by heavy 
+218 
+down-pour of rains at the end of the yuga, being desirous of destroying Gokula. 
+प्रदीपिताको पहुताभूना पीतोदधीन्वारिधरायुधौघान् । मरुद्वजेन त्वरितं मरुत्वान्त्रायुक्त घोषाभिमुख सघोषान् ॥ 
+Getting angry, Indra sent at once towards Gokula, the clouds which with their roars of thunders, glowing with the excessive fury of Indra, having drunk the waters of all oceans (for pouring them in the form of rain) and being forcibly driven by the winds, shone like the weapons of Indra, well. heated by the fire, then made to drink water, produc. ing noise by being shaken, and thrown forcibly with his arm. 
+प्रकल्पयन्तः परिवेषचक्रं वृन्दावने विह्नलगोपवृन्दे । 
+समीरनुन्नाः सहसा पयोदक्षा शक्रस्य ते शासनमन्वतिष्ठन् ॥ 
+Being forcibly driven by the wind, those clouds quickly obeyed the order of Indra, by forming circles like the halo of the Sun or the Moon, in Vrindavana where the cowherds were all agitated (by seeing such untimely clouds ). 
+टिस्सहस्रेण विदीप्तनेत्रा समेतबज्रो धृतचित्रचापः । 
+अतयैवेन्द्रः स्वयमभ्रवाहः कालात्मना भूमिकयेव खेलन् ॥ 
+The clouds, with thousands of fiery eyes of Indra, noise of thunders like that of his thunderbolt, in hand, and the rainbow variegated with different 
+219 
+colours, like the bent bow of Indra, seemed as though Indra himself had come riding on them for the destruction of the world, with thousands of his fiery eyes opened, holding thunderbolt in hand and bending the bow of different colours sporting in the shape of Kala. 
+असूयता वज्रभृता प्रयुक्तामाकालिकीं प्रावृषमादिदेवः । 
+आशानिरोध जगतां दिशन्तीं निरोद्धुमैच्छन्निजयान शक्तया || 
+Though Sri Krishna was all-powerful and the cause of all and hence could prevent the rain by His own will power alone in a moment, and although it was hindering all the rar's i e. all directions and desires of the world (by not making even a single direction visible and spoiling the desires of all), He did not like to stop the untimely rain caused by Indra with jealousy (for his worship being stopped), as the jealousy was only as transitory or momentary and hence would go of its own accord in a moment. Hence He did not want to stop it by His own direct will power. 
+- 
+Note:- [ 'direction' and 'desire', Since Indra's wrath was in connection with the stopping of his worship and the worship of the mountain in its stead, Sri Krishna wanted to remedy its reaction by Indra through the mountain alone. So He was quiet for sometime, watching the preparation of the clouds.] 
+220 
+faqaqṁìfă qfta: qâîêäsıamška aâmâ: | जिघांसता गोपगणान्मघोना च्छुभेन तस्थे मृगयार्थिनेव ॥ 
+When Indra stood hidden behind the clouds which had covered the sky all over, it seemed as if the sky itself was like an ocean, the clouds in the sky were like the tamala trees grown on its coast, the cowherds were the beasts hiding in the midst of trees. Indra was the hunter hiding himself, a waiting the coming out of the beasts from their hiding places, being desirous of killing them. 
+अदृश्यरूपः स तदा मरुत्वानम्भोमुचामन्तरतोऽवतस्थे । annazzagfha fazısı çifă farda gaıfàzqiq || अपारयन्द्रष्टुमिव दीसिं 
+Indra stood hidden behind the clouds and became invisible. This seemed as if he could not see the lustre of Sri Krishna (n:) which was three times more than that of the Sun-and hence he had hidden himself, like the owe which cannot see the light of the sun. 
+Note. It is to say -How can the owe which connot see the lustre of the sun even, see the lustre which is three times more than that Ta-means, 'lustre' and 'place'. God has three renowned places namely the disc of the sun, milk-ocean and Sri Vaikunta. So He is called fat. If is taken to mean 'lustre'-then it means "lustrous three times". So, the word f is to be construed in both the senses here.]221 
+अमर्षवेगादचमत्कियोस्थाज्जिघृक्षता वज्रमकुण्ठवीर्यम् । अलक्षिजीमृतरथे मघोना मोघक्रियो मुक्त इवेन्द्रचापः ॥ २० ॥ 
+The rainbow in the firmament appeared as the bow of Indra, being left there with wrath, seeing it unfit for further use, when he wanted to take up the thunderbolt of unfailing prowess 
+Note: [If one weapon becomes out of use in the middle of fighting, the warriors leave it in the chariot itself and take another This was just like that.] 
+सुतीबहुंकार भृतो निनादेः सौदामिनीदर्शितवर्जनीकाः । मरुत्वदाज्ञाविमुखानभीक्ष्णं निर्भयामासुरिवाम्बुवाहाः || 
+By the violent rumbling and the flashing of lightnings, the clouds seemed to threaten those who disregarded Indra's order by the menacing sound "Hum" and showing their fore-finger. 
+क्षणप्रभास्तत्क्षणमन्तरिक्षे प्रायेण गोपान् प्रसिंतु प्रवृत्ताः । बभासिरे वासवशेषज्वला ग्रजिह्वा इह जावलौल्याः ||२२|| 
+The unsteady lightnings in the sky, shone like the tongue.like tip of the flame of the fire of Indra's fury stretched with the eager desire of swallowing the cowherds in that moment alone. 
+किमन्तरिक्षेण घनीभूवे किमुत्थितं ध्वान्तमहीन्द्रलोकात् । 
+मूलं किमेतत्प्रयार्णवाना मितीव मेने मलिनाभ्रमाला ॥ २३ ॥ 
+222 
+The row of the black clouds (in the sky) was guessed in various ways by the people as: - 
+"Is it the sky itself solidified like this? or, Is it darkness risen up from Patala ? or, Is this the cause of all the oceans to become one at the dissolution of the world ?"— 
+व्रजोपमर्द समयो विधास्यन् बभार नम्रेण पयोदमूर्ध्ना । महीयसीं वासवचापलेखां मायाप्रदिष्टामिव माल्यशेपाम् ॥ 
+The Time is as the hero who is going to destroy the whole Vraja at the instance of the Maya of God. The cloud is the head of the hero. The rainbow amidst the clouds seemed as the huge wreaths of flowers used by God and then given him (the Time) by His Maya, to be worn on his bent head, namely the cloud, as God's favour and the sign of subordi- nation to Him. 
+कठोरगर्जापटहप्रणादः करप्रसूनैरवकीय पृथ्वीम् । क्षणप्रभाभिर्घटिताङ्गद्वारा कालः प्रतुष्टाव युगान्तनृत्तम् ॥ 
+The person, Kala (Time) began the dance now which he does at the time of annihilation (or, at the termination of the Yuga). The violent noise of the raining clouds was like the sound of Pataha (a kind of drum). The scattering of hails was like flowers thrown on the floor, (or stage). The flashes of lightn- ings were the movements of the body. 
+223 
+प्रणुद्यमानाः प्रबलैः समीरैरा प्लावयामासुरमन्द घोषाः । महीम पर्याय निपीत मुक्तैरौदन्वतै रम्बुभिरम्बुवाहाः ॥ २६ ॥ 
+Being impelled by strong winds, all the clouds brought the whole earth under waters, pouring down all, at one and the same time, all the waters of the oceans which they had all drunk at one and the same time. 
+अङ्गाररूक्षस्तनयित्नुपूर्णादैरम्मदे तेजसि तथ्यमानात् । 
+विहायसो नूनमभूद्विलीना द्विष्वङ्मुखी वृष्टिरवारणीया ॥ २७ ॥ 
+The sky was full with heated charcoal-like clouds everywhere. The fires attending the fall of thunderbolts, were burning everywhere. The un- impeded rain-fall seemed as if the sky itself being melted (like lead or so) was falling down in the form of liquid-with no impediment at all. 
+Note :- [The sky is विभु (Vibhu existing every- where.) So if, that sky melts who can check its liquid falling everywhere.] 
+प्रदीप्तविद्यद्रणदुर्नरीक्षान् सोढुं व्रजाः श्रोत्रविघातिघोषान् । न शेकुरावर्जित चापान्धाराशर श्रेणिमुचः पयोदान् ॥ २८ ॥ 
+The inhabitants of Vraja could not bear the clouds which were pouring sudden and violent showers like sharp arrows, being difficult to be seen, due to flashes of glowing lightnings therein, with their noises of thunders piercing the ears and containing beautiful rain bows also. 
+224 
+सहुकृताः सामिनिमीलिताक्षा दीर्घोरुशृङ्गा दरभुग्नवक्त्राः । प्रस्थ ग्रहीषुः प्रतिपन्नरो बाधाराः क्षणं धैर्यभृतो महोक्ष|| ॥ २९ ॥ 
+The great bullocks, with the sound "Hum"" with eyes half-shut, and faces bent a little, with their long and stout horns, endured boldly, the sharp- driven showers, with anger, for a moment. 
+स्तनाहितस्वस्तिका हुबन्धा स्त्यानालकाः संनतवक्त्र पद्मः । विलग्नदेहा वसनैर्न्यषीदन्त्रजस्त्रियों वादितदन्तवीणाः ॥ ३० ॥ 
+The cowherdesses, were sitting, shivering with cold due to which their teeth were producing sounds, both their rows striking against each other. Their wet sarees were stuck on their body very closely. Their lotus-like faces were bent. Their curly hairs were collected into a mass being drenched in water. They were keeping their arms cross-wise over their breasts. 
+चलरला कोल्बणशङ्खमाला पयोधरव्य क्तिधरोर्मिमाला । प्रावृट्पुनः संववृतेऽतिघोरा संवर्तसिन्धोरिव धर्मपत्नी ॥ ३१ ॥ 
+It was as the terrible rainy season came again in the Autumn. It shone as a river which is the lawful wife of the ocean of deluge. In the rainy season, the balaka birds come in lines under the clouds. It was like the lines of conches that come flowing in the streams of the river. The clouds that come over and over, were like the waves of the river. 
+225 
+The lines of balaka birds were like the garland made of conches, worn by the river who is the wife. of the ocean of deluge. This garland of conches is like the garland of bones of animals that perish at the time of deluge, and also the garland of conches that is commonly worn by all women. Similarly, the waves also shone as some garlands. Garlands shine on's. The waves of the streams of rain-waters also shine on पयोधर [पयोधर means breasts in the case of conch-garlands, and clouds in the case of the wave garlands-i. e. the waves are due to the rains talling from clouds. Hence the waves are also said to shine i. e. become visible by qatar. Hence the so called garlands and the garland-like waves are both said here, as पयोधरण्यक्ति धरोर्मिमाला. ] 
+गम्भीरगर्जापटहप्रणादं प्रारब्धझञ्झ । निलनादगीतम् । afegfauq1fgaajzá azsıseg doflanqåmıdłą || 
+A kind of frantic music which was the first of its kind took place in that rainy season. Music requires instrument, dance and songs. The delight- ful thundering of clouds was the instrumental song; the loud roar of the stormy gale was the vocal song; the flashing of lightnings was the dance. Such was the music of the Kala Purusha who began to destroy Gokula. 
+विद्युद्गुणैः संदितया समन्ताद्व्रजेमरुत्वान्मृगयामिवेच्छन् ! azıqoìzarezafaqqısır Àqrezzi atgcan zaięta || वनाद्रीन् ॥ 
+15 
+226 
+Indra spread over the forests and mountains, his net, namely, the clouds on all sides. The net is woven by threads. The creeper-like lightnings are the thread in the case of clouds which were like nets. If the net is spread in the dark place. the animals become easily caught in the net. So, this net of clouds also which were shining like dense darkness, was as spread in the darkness. Indra spread this net of dark clouds to catch all the animals of Gokula, as it were. 
+आसारधाराच्छुरितेन्द्रचापैर्मेधैर्दिशा माघवतीचकाशे । आमुक्तमुक्तागुणरत्नदामैः सिन्धोरपत्यैरिव वीरनादैः || 
+The direction of Indra (eastern quarter), shone with clouds which having rainbows spread over with sharp-driving downpour of rains and roaring loudly were like the young ones of the ocean. wear- ing pearl-garlands and gem-garlands. 
+हुंकारवन्तः स्तनितैरुदारैः क्षणप्रमाकाश्चनवेल भाजः । पुरंदरस्येव पुर : सरास्ते प्रचेरुरुत्सारितगोपवर्गाः ॥ ३५ ॥ 
+The clouds were wandering like attendants of Indra, going in front of him with the sound 'Hum ! Hum !" by the great roarings, and holding the golden canes, namely, the lightnings, driving away the crowd of the cowherds. 
+प्रकृष्टवत्रायुधचापचिह्नां पौरस्त्यवातेन कृतप्रकम्पाम् । कालस्य कृष्णामिव केतुमालां कादम्बिनीं प्रेक्ष्य जनश्चकम्पे || 
+227 
+People trembled with fear seeing the row of clouds which was like the row of flags of the Kala- purusha (God of Death,) being shaken by the eastern wind and bearing the excellent sign of thunders and rainbow. 
+qqngat qeffaraqqı qyzatÀgfaangal | 
+fazma91918 faðr*itat gaaddlefaat 6919f1q || 
+The row of clouds which with its unbearable sharp-driving showers, seemed to be piercing all the mountains, and hence was most terrific, imitated the sharp-edged sword, shining with the fury of Yama, the God of Death. 
+Note: (Indra had formerly cut off the wings of mountains with his Vajrayudha. Now, it seemed as if he was again waving his sword in the form of clouds to cut off all the mountains by himself or through Yama, being angry due to the mistake of Govardhana. 
+In this case, means mountains. It also means-kings, in which case, the sword is the sword or axe of Parashu Rama with which he slaughtered all kings.] 
+पयोद मारैर्नमित नमः किं शेषाहिना भूमिरुत प्रणुन्ना । अदूरतः संपुट भावभाजोरासीत्तयोरन्तरमल्पशेषम् ॥ ३८ ॥ 
+Since the cavity between the earth and the sky seemed to be reduced a good deal, because the sky was covered over by the clouds which were very near 
+228 
+the earth, it was to be guessed as:-"Is the sky bent down by the weight of the clouds? Or is the earth pushed upward by Adisesha who is carrying it?" 
+प्रायः प्रकीर्णाशनिविस्फुलिङ्गैर्लोकास्तदा लोचनरोधमापुः । पयोदरूपेण विवर्तमानैः पर्जन्य कोपानलधूमाजलैः ।। ३९ ।। 
+The masses of smoke of the fire of the fury of Indra (parjanya) itself was turning round into the shape of the clouds with many thunder bolts as sparks of fire, scattered forth, blocking up the eyes of the people as it were. 
+बलातकल्पाः करका स्त्रिलोकीमापूरयन्नद्भुतमीमरूपाः । युगान्तवात्यारभसावधूताः संभूय तारा इव संपतन्त्यः ॥४०॥ 
+The bails which were wonderful and terrific like fire brands (meteor), were showered, filling in all the three worlds like the stars falling together, being swept with force by the stormy gale at the termination of the Yuga. 
+'चकास चश्चत्करका स्थिमाला कादम्बिनीकण्टकभीषणा द्यौः । aviafasdqncıgeızı qfárazı qlenda dişi 11 88 || 
+The sky shone as Rudra, the destroyer of the world, who causes insensibility to all. The dashing of thunders against one another was like his boist- erous laughter, the line of clouds as horripilation caused by anger and the shower of bails as his garland of bones. 
+229 
+शतह्रदाभिर्धृत हेमकक्ष्या धाराधराः सेन्द्रधनुष्पताका' | अभ्रघोषध्वनयोऽनुचक्रुः सप्तस्रुतां शक्रमतङ्गजानाम् ॥ ४२ ॥ 
+The clouds shone as the intoxicated elephants of Indra. The lightnings were like the girth of the elephants. The rainbow was their flag. The ample fearful roars of the clouds were as their roaring. The downpour of rains was the ichor, oozing out of the seven parts of the body of elephants, 
+Note:- [The seven parts of the body of the elephants are:- कर (2 trunk holes ) कटाभ्यां (2 temples) नेत्राभ्यां (2 eyes) मेढ़ (the male organ of generation - 7 parts from where the ichor oozes out.) 
+महीन्द्रभोगप्रतिमाः पतन्त्यो धारास्तदा घोरमरुत्प्रणुभाः । अभावयन् भीमपयोदनकं व्योमार्णवं वीचिगणावकीर्णम् ॥ ४३ ॥ 
+The sky was like an ocean. The sharp-driving showers falling down like the body of great serpents being impelled by the terrible stormy gale, were its waves, and the terrifiic clouds themselves were like crocodiles therein. 
+आसार दुर्लक्ष व डित्प्रकाशमन्योन्यसंकीर्णहरिद्विभागम् । आसीदसास्तनित प्रजानामभिन्ननक्तं दिवमन्तरिक्षम् ॥ ४४ ॥ 
+(Due to the absence of sun-shine or moon-shine in the sky,) both days and nights became one to the people; so also all directions seemed as one. The lightnings were invisible due to continuous 
+230 
+down-pour of heavy rain. The noise of thunder 
+was unbearable 
+तडित्स्वभावेन तमः प्रकस्या निर्ह्रादरूपेण जलात्मना च । विवर्तते विश्वमितीच गोपाः प्रायो न चिन्तार्णवपारमापुः ।। ४५ ।। 
+The cowherds thought-"Is the whole of this world turning to become lightnings only or mere darkness, or thunders alone, or only waters?". thinking thus, they could not reach the other shore of their thinking. 
+प्रवर्तमानान् प्रतिसर्गक्लप्तौ पश्यन् घनान् पाशभृताप्यवार्थान् । अभीतिमुद्रामधुरेण गोपानाश्वासयामास करेण शौरि ॥ ४६ ॥ 
+Seeing the clouds engaged in the dissolution (of the world,) which could not be prevented even by Varuna (who is the Lord of Waters). Sri Krishna consoled the cowherds giving them assurance of safety by showing His lovely hand adorned with अभयमुद्रा - i. e. bearing the sign of security or safety. 
+Note : [ मुद्रा - sign अभय safety from danger. So, अभयमुद्रा - promise of safety from danger.] 
+यदर्चनादापदियं प्रसक्ता तेनैव गोपालगणस्य गुप्तिम् । अरोचयत् कर्तुमशेषगोप्ता रामेण संमन्त्र्य रथाङ्गपाणिः ॥ ४७ ॥ 
+In consultation with Balarama, Sri Krishna, the protector of all the worlds, wanted to protect all the cowherds, through the mountain alone, by the231 
+adoration of which there came this calamity (from Indra). 
+work for his plough. 
+Note: (In slokas 6-45 Sarga 6 of Sri Krishna had said to Nanda that any trouble coming from Indra as the result of stopping his worship, would be remedied by Balarama. So, He asked Balarama to react to Indra's mischief now. Balarama replied, that since Indra was not to be killed in this, he had nothing to do, as there was no His chakra or suggested remedying this evil through the mountain alone, which had received the worship. Hence, after consulting Balarama, Sri Krishna decided to save Gokula through the mountain alone]. स लीलया मेरुमिव द्वितीयं गोवर्धनं गोपकुलप्रदीपः । नवप्ररूढं निहितैकरस्तो नागो नलस्तम्बमिवोजहार ॥ ४८ ॥ 
+Sri Krishna, the illuminator of the dynasty of the cowherds. sportively lifted up the mountain Govardhana which was like another Meru, with one of his hands. as easily as an elephant lifts up a newly grown clump of grass. अधोमुखावस्थितमेरुकल्पं शैल तमुत्खाय शरणपगोपः । उदश्चयन् सत्वरमूर्ध्वमूलं चक्रे महेन्द्रं शमिता गर्वम् ॥ ४९ ॥ 
+The earth is like a big lotus. The Mount Meru is as its pericarp. So, like the pericarp, the mountain is broader at the top than at the bottom, But this Govardhana is like other mountains (i.e. broader at the bottom than at the top) and not like Meru. Hence it is said as "Meru turned top-down" (अधोमुखावास्थित मेरुकरूपम् ) 
+232 
+Sri Krishna, the protector of all. lifted up and 'quickly' inverted the mountain, holding' its head downwards and the foot upward, by which half the pride of Indra was gone. 
+Note: [By seeing this act of Sri Krishna, alone half of 'Indra's vanity was gone when the rains became all in vain, his vanity was fully gone]. 
+Konfquangazgatsz: fa¶ıgunsafa¶,9105} { शुजस्तदीयो गिरिणा बमासे भूमण्डलेनेव सुजङ्गराजः ॥ ५० ॥ 
+When Sri Krishna lifted up the mountain with His arm, the arm shone like Adisesha bearing the earth on the head. His fingers stretched out, were like the hoods of Adisesha. The arm smeared with sandal paste by His beloveds like Nila, was white like Adisesha. 
+So, bearing the mountain, Sri Krishna shone Jike Adisesha bearing the earth on his head. 
+आग्नरक्ताङ्गुलिपञ्जरं तत् रत्नोर्मिंकार मिशला कमन्तः । नवोदकक्षौमवृतं व्यमासीच्छत्र प्रकाण्ड हरिबा हुदण्डे ॥ ५१ ॥ 
+That mountain shone like a great umbrella, Sri Krishna's arm was its stick, which is held in the hand of the bearer of the umbrella. His somewhat bent fingers were like the cage inside the umbrella; The stretched-out rays of the gems in His rings, were as the spokes of the umbrella. The water that was falling upon the mountain was as the cloth covering the umbrella. 
+223 
+विहार पण स्पृहयेव कृष्णो भुजाद्रिणा भूमिधरं दधानः । स्वशेषभूतस्य हलायुधस्य प्राचीमवस्थां प्रथयबिभूव ॥ ५२ ॥ 
+Holding up the mountain with His mountain- like arms, as if with the desire of bearing a sportive lotus, Sri Krishna seemed to display the former state of His subordinate, Balarama, carrying the whole earth on bis head, 
+Note: [As if to show that Balarama's bearing the earth also was like that. To display the marvel- lous acts of His men in the world and honour them is Sri Krishna's nature. 
+Seeing Sri Krishna carrying the mountain, Balarama also thought that Sri Krishna's keeping all the worlds within Him also, was just like holding that mountain in his hand ] 
+निवासभूते निखिलस्य तस्मिन् बालकृत विभ्रति शैलमेकम् । सविस्मयान्वीक्षय जहास गोपान् संप्रीतिलक्ष्येण तदग्रजन्मा || ५३ || 
+When Sri Krishna, who is the dwelling place for all the worlds, was holding up that single mountain, as a young boy, the cowherds were looking at Him with very great wonder, at which Balarama, His elder brother laughed for their ignorance of His greatness, but showing outwardly, as he also was one with them who were taken by surprise. 
+स कालिका कालकपाणिकानां धाराशतैराहतसंधिबन्धः । अवासृजत् क्षिप्रतरं क्षरद्भिर्धातु वैर्नृनमसृखि शैलः ॥ ५४ ॥ 
+234 
+Being severely struck at the joints by the sharp- driving showers, the mountain-borne red chalks, mud etc., became matted by the downpour of rain and flowed down very quickly, mingled with the rain waters, which seemed like the flowing of blood from the mountain, which was being cut down by the pointed tips of Yama's swords, namely; the clouds. 
+सगैरिकस्तस्य गिरेः समन्ताद्विलम्वितो वर्षपयः प्रवाहः । वितानपर्यन्तजुषो बितेने विडम्वनां वर्णतिरस्करिण्याः ।। ५५ ।। 
+When the streams of rain-waters mixed with red chalk were falling down on all sides of the mountain it was like the screen variegated with different colours, hanging down on all sides from a canopy. इरमदा चिर्व्यतिषङ्गदीप्तः पाणौ हरेरद्रिपतिश्चकाशे । 
+प्रत्यस्त्रमिन्द्रेण मुमुक्षितानां प्रयुक्तमुखात इवाशनीनाम् ।। ५६ ।। 
+The mountain. glowing with the fire attending the fall of thunder bolts, shone in Sri Krishna's hand as the counter-weapon used to eradicate the thunders or thunder bolts, desired to be harnessed by Indra. 
+स बाहुदण्डेन बहन सलीलं प्रबालकल्पादगुलिपञ्जरेण । महीधरच्छतमनन्यवा मायामयीं व्याकुरुतेव लीलाम् ॥ ५७ ॥ 
+By sportively holding up the mountain as an umbrella, with His tendril-like fingers as its cage of spokes, and arm as its holding stick, which could not be held up by any other. He showed to the world, 
+235 
+as it were that all His wonderful sports were wonder.. ful like this. 
+कराल रूक्ष (कतिवर्णमेदान् कालाग्निनिर्वापण कल्पवृत्तीन् । 
+रुरोध शैली तथा स्वशक्त्या प्रायो घनान् पर्वतकूट कल्पान् ॥ ५८ ॥ 
+By turning His own strength into the form of the mountain, as it were, Sri Krishna prevented the attack of the clouds, which with cruel forms and colours, appeared like mountain-peaks, able to ex- tinguish even the fire at the dissolution of the world, पृथ्व्या यथावद्भरितं गिरेस्तन्मूलं निवासाय गवां बभूव । ग्रासानुभावग्रहणामासीदग्रं च तस्यानतिविप्रकृष्टम् ।। ५९ ।। 
+As the mountain was lifted up from its very foot, how could the cows and cowherds live under it? There must have been deep cavity which would be filled up with waters rushing in from all sides!— The answer to this is : -- 
+By the greatness of Sri Krishna, the cavity created by the lifting up of the mountain became well-filled up with earth so as to be fit, for cows etc., to live under the mountain. By being there, the cows could also eat the abundant grass grown on the top of the mountain which also became not far from them. (as the mountain was held up inverted.) 
+उदश्चितस्याद्रिपतेरुपान्ते पयः प्रवाहा निबिडं पतन्तः । 
+अतन्वत स्फाटिकर प्रशोभामन्तर्गतैरस्तमयैरवेक्ष्याम् ॥ ६० ॥ 
+236 
+The streams of rain-waters, falling down densely on all sides of the mountain, which had been lifted up, shone to the cowherds who were living inside without fear, as the fort-wall made of crystals. 
+अलब्धसूर्येन्दुकर प्रवेशे मूले गिरेशवसतां जनानाम् । स्वलोचन द्वंद्व विहारमेदानक्तं दिनान्पातनुते स्म नाथा । ६१ ।। 
+Since the mountain at its foot was covered over by waters around and the clouds above were perva- ding all over the sky, there was no room for the rays of the Sun or the Moon to enter inside there. 
+So, the God. Krishna, whose eyes themselves are the Sun and the Moon, was making day and night by opening his eyes one after another, for the cowherds. 
+Note : [That is to say :- When He opened His 1ight eye (the Sun ) was day, and then the left eye (the Moon) it was night to them.] 
+मुकुन्दगानं मणिदर्पणाम छायापदेशेन विगाहमानः । सगोधनैस्तत्र सुरेन्द्रभीत्या गोपस्तदा गूढमिव । वतस्थे ॥ ६२ ॥ 
+The cows and cowherds were all reflected in the body of Sri Krishna which was like a gem-set mirror, and therefore seemed as if they were all hiding them- selves inside Sri Krishna, out of the fear of Indra. 
+विभर्ति कृष्णः सुकुमारगालः क्षमाधरं तेन विभावयामः । 
+तदग्रजोऽसौ बिभृपादशेषां बलः क्षमा मित्यवदन्त्रजस्थाः ॥ ६३ ॥ 
+237 
+There was a discussion among some cowherds as to why the tender-bodied Krishna alone was carrying the mountain and not His elder, brother Balarama, who was even stronger. Then the others answered as since it was only the 
+mountain that 
+permitted his 
+was to be carried then, Balarama younger brother alone to carry it." If the whole earth were to be carried, then we think, that Balarama himself would have come forward." 
+Note: [Since Balarama was the Avatar of Adi- sesha, who is carrying the earth, this kind of conjec- ture on their part was right.] 
+बभ्रुः स्वशाखाग्रथिताग्रपादैस्तपोधनैः साकमधः शिरोभिः । कृताभिमुख्याः कविनो मुकुन्दे तपः प्रवृत्ता इव तत्र वृक्षाः ॥ ६४ ॥ 
+All the blessed trees in the inverted mountain were standing with heads down, all seeing Sri Krishna alone, as if performing penance along with the sages who were engaged in 'Tapas' sitting upon the branches with heads down, having firmly fixed their feet to their branches above. 
+। 
+galg@canfè¶à¤œmfa egegar ggeta fazfáarfa | Marger anfâd acë nıaeazı fäfafqatga=29: || 84 11 
+When Sri Krishna was showing the grass grown on the 'top-down' mountain touching them with His hand out of affection. the cows would eat them joy- fully, with longing for them, somewhat lifting up 
+their necks. 
+238 
+मणिप्रदीपैरतमांसि गोप्यः प्रविश्य रम्याणि गुहागृहाणि । अस्पृष्टशीतोष्णमयलब्ध स्वस्थाशयाः स्वर्गमिवान्वभूवन् ।। ६६ ।। 
+Having entered the beautiful caves which were like their own homes, illuminated by the illustrious gems and hence rid of darkness. with no cold and heat, the cowherdesses felt comfortable. taking it as Swarga, obtained free of effort. 
+यथापुरं तत्र सपुत्रदारै: अच्छिन्नगोदोहन मन्थन । द्यैः । स्वप्नावबोधप्रभृतीनि गोपैः सिषेविरे विस्मृतपूर्ववासैः ।। ६७ ।। 
+The cowherds were living there as before under the mountain with their wives and children attend- ing ceaselessly, to their works such as milking the cows, and so on, forgetting their former resi- dences. 
+अस्पृष्टधारा जलबिन्दु से कैर कम्पमानैरपदन्तवीणैः । गोपीजनैरादधिरे विहारा गिरीन्द्रमूले गृहनिर्विशेषम् ॥ ६८ ॥ 
+The cowherdesses were sporting as they pleased as in their own houses, at the foot of the mountain, being untouched by the wind-swept water.drops, (as the place was so extensive) and without the striking sound of the two rows of teeth against one another, due to shivering. 
+वनेचरा गोपगणैः समेता विमुक्तपर्जन्यभया विचेरुः । 
+महीधरच्छवधरे मुकुन्दे वन्यानि सच्चानि च तत्र गोभिः ।। ६९ ।। 
+239 
+When Sri Krishna was holding up the mountain as an umbrella; the hunters living in the forest were freely wandering in the forest along with the cow- herds without the fear of clouds in the least. The wild animals (like tigers, lions and so on) also, were wandering in the forest with the cows without the fear of clouds. 
+प्रभूतधारा प्रतिपन्नशैत्यं प्राप्तारमद्रिं प्रभुरवतानाम् । yg¶nızcafamınd¶leqfaaai qutqañadìmą 11 9° || 
+By holding up the mountain with His lotus-like hand, Sri Krishna made it more holy than His Chakrayudha; which also he holds with His hand. The points of comparison between the two, namely the mountain and Chakrayudha, are brought out by the words which have double-meaning i.e. Both are aчavıfaâa i.e. The mountain has coldness due to heavy and sharp-driving showers which fall on it. The Chakrayudha too is sharp-edged. Here means sharpness. It means edge. Both are rar- The mountain is ++ta excellent water an high sound; so the mountain has the high sounds produced by the falling of waters on it, or from it. The Chakra is also are (18+) spokes between the nave and the ring or felly of the wheel. Both are afa i.e. (sacred) the mountain has become af by its contact with Sri Krishna's hand. Secondly: qf thunder. It has saved all the Gokula now from thunders. This quality is extra in the case of the 
+འ 
+sacred 
+240 
+mountain. Hence, it is said that Sri Krishna, who is ng or able in "ya's namely the wonderful creation. etc.; of the worlds has made the mountain even greater than His chakra both of which are, सुदर्शन's i.e. good looking. 
+मुकुन्दहस्ताभ्रुद्धा धिरोहास्प्राप्तः श्रियं मेरुतुखेरलभ्याम् । वर्षापदेशेन गिरिः स लेमे नगाधिपत्यामिवाभिषेकम् ।। ७१ ।। 
+By ascending the lotus-like hand of Sri Krishna, the mountain Govardhana attained such splendour which was not attained by Meru or any other mountain, Hence, it seemed as if all other mountains were consecrating it as the king of all mountains, by sprinkling waters on it under the pretext of the Rain fall thereon. 
+मदोल्वणानामिव वल्लवीनां गीतं गणैः शौरिगुणानुबन्धम् । गुहा विशेष ध्रुवमन्ववादीद्गोवर्धनो गोपगणाभिनन्द्य ।। ७२ ।। 
+The cowherdesses, being intoxicated as it were, by their violent lustful passion, sang in a body, the meritorious qualities of Sri Krishna. Their songs were echoed in the caves of the mountain which was praiseworthy to the cowherds (for the protec- tion it gave them), and it seemed as if the mountain itself was repeating the songs. 
+कराग्रयन्त्रे घटितेन कृष्णः सवारिणा सानुमताऽभिगुप्तान् । अलम्भयङ्गीपगणान् रसदारान्धारागृहाभ्यन्तरवास सौख्यम् ॥ ७३ ॥241 
+By holding up the mountain with the machine- like fingers of His hand, Sri Krishna made the cowherds and their wives, who were all protected by the mountain, as having enjoyed the happiness of living in a bath-room furnished with fountains of water, in the hot season, by the rain-waters which were pouring down from all sides of the mountain. अचिन्त्यशक्तेरकुमार यूनः कौमारलीला कवचेन गुप्तम् । að aqmeyfsdfkangtana«qfifsqucîìfu mq: || 98 || 
+Sri Krishna is one who has unimaginable strength. He is not one who attained Youth gradually from boyhood, because He is a Youth always. He was only concealing his greatness. As a playful young boy, He stood lifting up the huge mountain with his fingers, seeing which the cowherds thought that was all His strength. They did not know that He was the Supreme Spirit with bound- less strength. 
+निमेषनिष्ठयूतयुगानि यासां येभ्यो निरोधव्यसनान्यभूवन् । 
+aiat a â: mrânyzadîçdı arayat agayQA14! || 04 || 
+स 
+The pretty young cowherdesses who were for- bidden by their husbands from seeing Sri Krishna, were spending even a single second as a Yuga (as is said in "fagmaà zai#quara”) very sorrowfully, with- out seeing Him. But now, the same had the enjoy ment of seeing Him well, with the same husbands. (when He stood lifting up the mountain.) 
+16 
+242 
+कृताथमावं भृशमादधाने कृष्णाङ्गसंस्पर्श विलोकनादौ । जयन्त्रिताभिश्विरमाशशंसे वर्षानुवृत्तिर्व्रजसुन्दरीभिः ॥ ७६ ॥ 
+The beautiful cowherdesses, who were contented by seeing and touching His body and praising His merits and so on, with no impediment whatever (due to heavy rush and also under the pretext of seeing the wonder of His lifting up the mountain)-prayed for the continuance of the rains in the same manner for a long time. (For after the ceasing of the rain, they had to go to their houses, having no chance of such enjoyment of seeing Sri Krishna). 
+धारानिपातैः स्तनतां घनानामक्षप्रमाणैरभिहन्यमानः । आकस्मिकी मन्वभवत्स शैलो वज्रव्यथ वासवरोषजाताम् ॥ ७७ ॥ 
+Being very severely struck with the sharp- driving showers as stout as the wheel of a carriage, caused suddenly by Indra's fury, for no fault on its part, the mountain felt the distress similar to that. which it had from Vajrayudha, formerly. 
+तमे कहस्ताद्गुलि यन्त्रलग्नं धाराहतं धारयतस्त्रिधाम्नः । अमुक्तबाल्यस्य समग्रशक्तेः क्षणार्धवस्त दिनान्यतीयुः ॥ ७८ ॥ 
+As Sri Krishna who was of full strength, was carrying that mountain which was being hit by severe strokes of hard showers. on a single finger, as a young boy alone, seven days passed as half a 
+moment. 
+243 
+सः तादृशांस्तोयभृतो युगान्ते श्वासानि है। शोषयितुं धमोऽपि । महेन्द्रदर्पास्यय मालकादशी प्रख्यापयामास गिरे। प्रभावम् ॥ ७९ 
+॥ 
+[It is said that Sri Vishnu dries up all the clouds, which bring the whole world under its waters as the dissolution of the world, by His breath wind alone :- चाराभिरक्षयात्राभिः पूयिश्वासिलो भुम् ।... अन्ध- कारीकृते छोके नटे स्थावरजङ्गमे ।... एकार्णवं भवत्येव त्रैलोक्यमकि हिज । सुखनिःश्वासजा विष्णोः वायुस्तान् जलदान् ततः । नाशयन् पाति मैत्रे वर्षाणामपरंश सम्” So, why did Sri Krishna who is the same Vishnu, take the trouble of lifting up the mountain to protect Gokula against the rain here? The answer to this question is given in this sloka.} 
+Though Sri Krishna was able to dry up those clouds by His breath-wind alone, as He does at the dissolution of the world, He wanted to remove only the pride of Indra by allowing the clouds to exhaust all their waters in vain, and to display the greatness of the mountain and make it well renowned in the world thereby; So He lifted up the mountain. 
+Note - It is to say - The vanity of Indra who got angry at the worship of Govardhana, must be removed by making the greatness of the mountain alone well renowned.] 
+एकत्र संरक्षति कृष्णमेघे गोत्रेण चैकेन गवां कुलानि । 
+अशेष गोत्रौघभिदा नियुक्तैर्मेघायु मोघमैवभूवे ॥ ८० ॥ 
+When a single black cloud (Sri Krishna) stood to protect all the cows through a single mountain, 
+244 
+all the efforts of thousands of clouds employed by Indra, the conqueror of all Mountains, became in vain. 
+Note: [Here clearly implied, 
+a greatness of Indra is a means mountain, earth, and the family to which one traces his origin. In any case must be honoured and lifted up, for by uplifting a single (mountain), Sri Krishna saved the whole Gokula. The destroyer of all the 's (mountains) i.e. Indra, could not stand before the saviour of a single and by a single (mountain), so it implies that in all its senses, must be saved, honoured and uplifted.] 
+बज्रोपमर्दे वितथे सुरेन्द्रः स्वयंवृतोऽपत्त्रपया भिया च । 
+दुनोति मा मिन्द्रपदं दुरन्तं किंपौरुषं केवलमित्यदुःख्यत् ॥ ८१ ॥ 
+When his plan of crushing Gokula became in vain, Indra was put to shame and fear and came to grief also, decrying his position as Indra to be simply worthless and tragic. 
+fagaùìì fagàsfa að defhæafafitaOM: | aagani ugesnafé âîdqqan ga arftarer: || 62 || 
+Though Indra became meek, giving up wrath, the clouds showed that they were still sticking to the original command of their Lord (Indra), by continuing their terrible stone-showers again and again, with hatred, as it were. 
+245 
+Note:- It is the nature of soldiers in fighting] to continue executing the master's command, until further orders, even after the master becomes calm.. 
+निवार्य दुर्गारजवान्पयोदानार्थ सतां नन्दसुतं प्रपित्सु । । करम्बितप्रीतिभयः क्षणार्धे व्यवर्ति भजन्न्योमतलेऽवतस्थे ॥ ८३ ॥ 
+Being desirous of seeking protection with Sri Krishna, the protector of the virtuous, Indra stop- ped the clouds of irresistible swiftness and being in a mixed state of joy and fear (joy, as his life was spared, and fear due to his guilty conscience) stood for half a moment being visible in the sky alone. 
+क्रमेण पृथ्वीमभिगन्तुकामः श्वेताम्रपर्यायगजाधिरूढः । विलोचनव्यञ्जितपद्यसंपद्वर्षात्ययो मूर्त इवावभासे ॥ ८४ ॥ 
+Being desirous of coming to the earth slowly, Indra who had mounted the elephant which resem- bled a white cloud, shone with his thousand eyes which were bright like lotuses, as the embodiment of Autumn. 
+पुनः प्रसभां पुरुहूतदान्त्या पश्यन् दिवं प्राणभृतामधीशः । 
+तमद्रिमव्याहत दिव्यलीलः संतोलयामास निवेशयिष्यन् ॥ ८५ ॥ 
+When Indra became tamed, the sky also became clear again, Seeing which, Sri Krishna, the Lord of all souls. whose extra-ordinary sport was un- impeded weighed the mountain in His hand to place it down in its former place. 
+246 
+विलक्षवृत्यैव तिरोहितेषु मेघेषु विश्रान्त विकत्थनेषु । स्थाने निवेशादचलीचकार छताचलं शौरिरखिणनाहु| || ८६ ॥ 
+When the clouds had all disappeared with no more loud roars. due to shame, Sri Krishna placed the mountain fixing it up firmly in its own place without the least strain to 
+his arm, though He had 
+stood holding it up for such a long time. 
+उत्क्षिप्यमाणः परिवर्त्यमानः संस्थाप्यमानोऽपि तथैव भूयः । स तस्य संकल्पवशेन भेजे शैलो न शैथिल्यकथाप्रसङ्गम् ॥ ८७ ॥ 
+Being lifted up (from its very root), turned top- down, and placed again in its former place alone, as before, the mountain did not have any laxity, by the will of Sri Krishna. 
+उपेतशैलव्यवधानदृश्यो विभूषितः स्वेदकणैः स बाला । दिशद्भिरामोदमभौमभोग्यं दिव्यैश्वाकीर्यत पुष्पवर्षैः ॥ ८८ ॥ 
+When He was no more covered by the mountain the young Krishna became clearly visible to the Gods, being adorned with drops of sweat Then, the Gods showered celestial flowers on Him, which were shedding around their fragrance, unenjoyed by the people on the earth. 
+निवेश्य कृष्णं शकटीरथाग्रे नाथोपचारैरुपसेदिवांसः । 
+सगोधनाः स्वं ब्रमाव्रजन्तः संगीतलीलामभजन्त गोपाः ॥ ८९ ॥ 
+Having seated Sri Krishna on a raised seat in a chariot-like cart, the cowherds adored Him in the 
+247 
+royal manner standing very close to Him and came to their Gokula with Him along with their 1reasure of cows also, where they amused with them- selves music (consisting of dance and songs, both ins trumental and vocal, out of joy . ) 
+कच्चिन खिन्नोऽसि वहन् गिरीन्द्रं कच्चिन्न विम्लायति पाणिपद्मम् । इति ब्रुवाणाः सुहृदो मुकुन्दं पर्याकुलाः पस्पृशुरङ्गमङ्गम् ॥ ९० ॥ 
+All His friends stretched their hands on all sides and feeling every part of His body, asked Him (with affection), as ;- " ( Oh, Sri Krishna ! ) Are you not tired of having carried that huge mountain? Is not your lotus-like hand wearied thereby ?” 
+अथावतीर्य स्वयमन्तरिक्षादनुज्झितैरावतदानवर्षात् । विलक्षचित्तो वसुदेवसनुं वल्गुस्मितं वज्रभृदाससाद ॥ ९१ ॥ 
+Then, Indra, feeling ashamed, descended to the earth by himself from the sky, wherein the pouring of ichor from the elephant Iravatha had not ceased, and approached Sri Krishna who was putting forth a pleasant smile. 
+पुरोदधानः सुरभिं प्रतीक्ष्यामाजग्मुषीमात्मवो नियोगात् । अपलपागाद्दमाबभाषे बद्धाञ्जलिं बालमुपेन्द्रमिन्द्रः ॥ ९२ ॥ 
+Leading in front the revered Kamadhenu (the celestial cow which had arrived for the auspicious bath of Sri Krishna with its milk, by the order of Brahma, Indra said to the young Krishna, who was 
+248 
+the same as his brother Upendra, with folded hands and in indistinct voice, out of shame. 
+नाथ त्वया नर्मविहारमाजा विमोहितो विप्रतिसारिवथ । 
+मकिञ्चनस्त्वामहमाश्रितः सन्क्षिप्तापकारो न बहिष्क्रियाई ॥ ९३ ॥ 
+Oh, Lord taking to jocular amusement, you tempted me to commit this sin, for which you have made me repent also. I am utterly destitute. I am seeking protection with you. I have given up offending you. So I am not fit for abandonment. कृतापराधेष्वपि सानुकम्पं क्षेमङ्करं क्षेत्र विवेचकानाम् । विश्वोपकाराध्वरबद्धदीक्षं वेद्यं परं वेदविदो विदुरुत्वाम् ॥ ९४ ॥ 
+You are compassionate even to the guilty (persons); you do good to those who have power of descrimination between the body and the soul. You have taken a vow to do good to all (the worlds.) Those who know the Vedas say that you are the Supreme Brahman, fit to be worshipped and medi- tated on by all. 
+- 
+निगृह्णनस्ते सृजतश्थ वर्षे निमित्तभावे निहितैस्त्वयैव । 
+प्रवर्तते निष्प्रतिघो विहारः स्वयं प्रयुक्तैरिव यन्त्रभेदे ॥ ९५ ॥ 
+To get or stop the rain is your work alone. We are your instruments only, made by you alone, for this work. Like various inanimate machines, we are made to move by you alone. Hence your sport is going on with no, impediment whatever. 
+249 
+अनन्य साधारणपारमेष्ठ्य | दन्या नशेषानतिसंदधानात् । गोपायितुं पारयति त्रिलोकीं गोपायमानादपि न त्वदन्यः ॥ ९६ ॥ 
+Though you appear as a cowboy, deceiving all others, by showing yourself as small in incarna- tions, you are in the most extra-ordinarily exalted place named Sri Vaikutha-None other than you is able to protect the three worlds, 
+जौकसां नाथ दिवौकसां वा विपत्प्रसङ्गे विहितावतारः । एकत्वमेव स्वयमीसितानां दयासहायो नियमेन दाता ॥ ९७ ॥ 
+At the time of calamity, either to the cowherds or to Gods (like us), you come down and fulfil their desires, with the help of your own compassion only. 
+स्वरूपतो विग्रहतय विश्व नित्यं स्वयैकेन धृतं यदेतत् । तदेकदेोहनादमुष्मान विस्मयं तत्त्वविदो मजन्ति ॥ ९८ ॥ 
+You bear the whole world by your own supreme self (परमात्मस्वरूप ) or free will, and by the body also (as said in "कस्थं जगत् कृत्स्नं") This is known to those who know your omnipresent form and also the form lying on the banyan leaf at the dissolution of the world. So the knowers of your reality do not feel surprised at your bearing this single mountain. 
+प्रयोजितोऽहं त्वयि भक्तिबन्धाद्गोभिः स्वलोकादुपसेदुषीभिः । इच्छामि संरक्षितगोत्रजं त्वां स्थाने गवामिन्द्रतयाभिषेक्तुम् ॥ ९९ 
+250 
+Being compelled by all the cows that have come with devotion, from the 'Goloka' I want to con- secrate you as Govinda, which isri ght; as you have protected the Gokula. 
+तिरोहितामम्भसि विन्दता गो पूर्व त्वया पोलिवरेण लब्धा । निरुक्तनिष्णात कृताभ्यनुज्ञा व्यक्ति पुनर्यात् शुभा त्वदाख्या ॥ १०० ॥ 
+You had once the name 'Govinda' in the sense, (गी + वित्तषाम् ), when as the great Boar, you got the earth, lifting it up from the waters, where it was sunk. It was accepted also by those who were well versed in निरुक (Niruktha ) ( etymological interpreta- tion of words). Let that auspicious name renowned again, in the sense (गयो विन्दनात् गोविन्दः) 
+be 
+Note: [निक is one of the 6 angas of Veda which contain glossarial explanation of obscure words, especially those occuring in the Vedas]. 
+उपेन्द्र भूताद्भवतोऽपि भूम्ना मान्यो मनुष्या मिनये मया त्वम् । अभ्यर्थनामादरतस्तदेनां प्रतीच्छ विश्वभर विश्वभूत्यै ॥ १०१ ॥ 
+You, playing the role of a hurnan being, are more worthy of respect to me than as Upendra. (It is to say that greatness alone is the ground for honour and not being god) So, oh, you, the protector of all! Please accept this request of mine joyfully- for the prosperity of the world. 
+इति ब्रुवाणो मघवान्धृताद्रे । श्रान्ति जगद्धातुरिवापनेष्यन् । 
+ध्यातोपयात त्रिदशप्रणेता दिव्यागां दर्शयति स्म देवीम् ।। १०३१९251 
+Saying like this, Indra, the Ruler of the Gods thought of the celestial Ganges, as if he was relieving Sri Krishna of the fatigue due to the lifting up of the mountain (though in fact, He had no such fatigue) and showed Him, the river which came being thus thought of. 
+Note: [He showed the river, because he was in a great hurry to consecrate Sri Krishna, then only]. अभीमगंज्ञापयसा प्रपूर्णामावर्जयन्नवारणराजघण्टाम् । sàvaınızqqıfafazá geâ nai mafnzzafqat || 2°3 || 
+Sri Krishna is by Himself consecrated as the paramount Lord of all the worlds. He was now consecrated by Indra, the mountain-cutter, as the protector of all the cows by the waters of the cele- stial Ganges, filling the waters in the bell adorning his royal elephant, named Iravatha. (i.e. He used the bell as the water-pot). 
+Note: [Since it is said that Kamadhenu also had come for the purpose, we must take that her milk-bath was followed by the bath in the waters of the Ganges). 
+तदङ्गसंम्पर्शवशेन धन्यैराप्लाव्यमानामभिषेकतोयैः । 
+४ 
+adamıufaa yamdiggnfaat åga altarY! || 298 IN 
+The consecration waters became blessed by their contact with the body of Sri Krishna. Being dren- ched in those waters, the earth who protects all the 
+252 
+animals, was thought by Indra, to be cured of her diseases, being relieved of the heavy burden (in the shape of Kamsa and so on). 
+Note. (The Asuras were very burdensome to the earth, which she could not put up with. So that weight self was a severe disease to her. The falling down of Sri Krishna's consecration waters on her, was as a healthy bath to her.] 
+कृताभिषेकः कृतिना मघोना गुप्तेन गोविन्द इति स्वनाम्ना । कृतप्रसाद ः प्रजिघाय कृष्णः स्वर्गाधिशेहाय पुनः सुरेन्द्रम् ॥ १०५ ॥ 
+The blessed Indra consecrated Sri Krishna as Govinda, which name being the part of a Vedic hymn is secretly kept by the sages as 'Mantra'. Then being favoured and sent by Sri Krishna, he went to 'Swarga' again. 
+प्रतिगतवति यूथे पुष्कलावर्तकानां 
+fafa ufa a farzaı Hâkðfæraq | 
+च 
+गुणगरिमसमृद्धं गोकुलं वीक्ष्य तुष्यन् 
+गुरुभिरभिनियुक्त। माशिषं प्रत्यगृह्णात् ।। १०६ ।। 
+The band of clouds named 'Pushkalavarthaka' returned (fortunately) without passing away (ie. they were so exhausted that they would have ceased to exist, if they had continued to rain further. Gokula was abounding in blessings and prosperity both in the sky and on the earth (bright sun-shine in the sky and plenty of milk etc on the earth) Here 
+253 
+Gokula has two meanings :- (i) The rays of the sun. (ii) the herd of cows or the village) 
+Seeing this, the elders in the village, Gokula, wished for great happiness to Sri Krishna which He received joyfully. 
+मुकुलितरविघाम्ना देहदीप्त्यैव मुष्णन् 
+अलदकदन जातं जीवलोकस्यजाडथम् । 
+व्यचरदचलभोगे चारयन्धेनुचक्रं 
+पिशुनित निजमायां भूषयन्पिष्छमालाम् ॥ १०७ ॥ 
+Taking away the frigity of the people that had been caused by the cloud-havoc, by the lustre of His body, which made the (lustrons) sun-shine also dim, and by wearing the pea-cock feathers, which were indicative of His Maya; showing that Maya (Prakriti) is under His control], Sri Krishna was wandering in the mountain, grazing the cows. 
+प्रणिहितमधिरोहन्प्रागिवाद्रि पृथिव्या- मवमत पुरुहूतैरचितो गोपवृन्दैः । व्रजपतिरुपसीदन्बालयोग्यान्विहारान् 
+बनचर परिबर्हो वत्सपालैः सिषेवे ।। १०८ । 
+Going up to the top of the mountain which He had replaced on the earth as before, and being honoured by the multitudes of cowherds who were regardless of Indra. He was engaged in sports 
+254 
+befitting boyhood, though being the Lord of Gokula being assisted by the hunters also, who were dwelling in the forest. 
+नाथः सोऽयं शिशुरपि सतां नन्दगोपस्थ सूनुः 
+प्रायः शैलः प्रधिनिधिरौ पद्मनाभस्य पुंसः । किं नः साध्य सुरपतिमुखैः किंपचानैस्तदन्यैः 
+साकं दारैरिति किल जगुस्तत्व संभूय गोप ।। ।। १०९ ॥ 
+"This son of Nandagopa, though a child is the protector of the virtuous people. This mountain is, indeed, like Sri Narayana. What can those such as Indra, who are other than these, (namely the mountain and Sri Krishna) do to us? (i. e. They can do nothing ) .”— All the cowherds assembled together were singing there, like this; with their wives. 
+॥ श्रम् ॥
