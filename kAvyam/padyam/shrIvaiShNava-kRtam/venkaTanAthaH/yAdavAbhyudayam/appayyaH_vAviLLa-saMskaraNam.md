@@ -1,5 +1,5 @@
 +++
-title = "अप्पय्यः- १-८ सर्गपर्यन्तः"
+title = "अप्पय्यः (वाविळ्ळ) १-८ सर्गपर्यन्तः"
 author = "श्रीमद्वेदान्तदोशि"
 "publish year" = "1951"
 domain = "काव्यानि"
@@ -11,6 +11,8 @@ printer = "वाविळ्ळ-रामस्वमिशास्त्र�
 source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MzQzNjc1Njg4MzU4&pageno=MjI0MjQyNjk5NTk="
 
 +++
+
+Source: [TW](https://ia802301.us.archive.org/0/items/gss.77.srimadvedantades0000appa/gss.77.srimadvedantades0000appa.pdf)
 [[यादावाभ्युदयः-१सर्गात् ८ सर्गपर्यन्तः	Source: [EB](https://www.ebharatisampat.in/readbook3.php?bookid=MDk2MzQzNjc1Njg4MzU4&pageno=MjI0MjQyNjk5NTk=)]]
 
 \[
