@@ -47,3 +47,5 @@ In dress of flowery brilliance with garland bright,
 One lotus hand with fearsome disc adorned,  
 and milk white conch (the other held)."
 
+## nAyanmArs
+> It must be noted that not one Nayanmar has sung about Thiruvengadam. Where as 10 Alwars ( or 11 ) have sung about Thiruvengadam/ Srinivasa. Iirc Nayanmars have sung many verses on the Lord of Kalahasti which is very close to Thirupati.
