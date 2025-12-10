@@ -80,7 +80,7 @@ Thirumalisai Alvar who can be safely placed chronologically immediately after th
 
 "(It is Vengadam that Devas worship. In truth it is Vengadam that frees us from all sins and diseases. Vengadam is the mountain of our Lord who has defeated the Danavas with his discus and saved the Devas)." 
 
-Tiruppanalvar has also been sung of the Lord though he has contributed only a hymn of ten stanzas (my co ou oog ogs) to the Nalayira- prabandham. Vengadam and Srirangam are the only two shrines celebrated by this Alvar in his hymns. 
+Tiruppanalvar has also been sung of the Lord though he has contributed only a hymn of ten stanzas (my co ou oog ogs) to the Nalayiraprabandham. Vengadam and Srirangam are the only two shrines celebrated by this Alvar in his hymns. 
 
 Tirumangai Alvar, one of the most learned of the alvars, is one who has contributed the greatest number of stanzas to the Nalayiram. He has as many as 64 stanzas in honour of Vengadam and its Lord. He has recorded the military achievements of Nandivarman Pallavamalla in his hymns, who lived in 8th Century A.D. Therefore, Tirumangai Alvar must have flourished in the middle of the eighth century A.D. This Alvar's hymn headed ‘gr@wsjme 6)wṁ pó' expresses the highest philosophical truth and in this the Lord is requested in all earnestness to save the Alvar from this worldly bondage. To translate the stanza:- 
 
@@ -114,7 +114,7 @@ THE TIRUMALA TEMPLE
 
 (v) Epic period. 
 
-From the hymnal age we enter the epic period of Tamil literature. The outstanding work of this period is Kamba Ramayanam. According to orthodox tradition Kamba Ramayanam was completed in the year 885 A.D. (Salivahana Saka 807). But there is a good deal of literary evidence to show that Kamba- nattalvar was a contemporary of the Chola king, Kulottunga II and of Prataparudra 1 of Warangal. From epigraphic evidence the date of these kings is fixed in the twelfth century A.D. Hence, present-day scholars consider that Kamba Ramayanam also would have been composed in the twelfth century A.D. Vengadam and its sanctity are described in Kamba Ramayanam, Kishkindha Kandam, ‘Nadavitta Padalam,' stanzas 26, 27 and 28 thus ;---- 
+From the hymnal age we enter the epic period of Tamil literature. The outstanding work of this period is Kamba Ramayanam. According to orthodox tradition Kamba Ramayanam was completed in the year 885 A.D. (Salivahana Saka 807). But there is a good deal of literary evidence to show that Kambanattalvar was a contemporary of the Chola king, Kulottunga II and of Prataparudra 1 of Warangal. From epigraphic evidence the date of these kings is fixed in the twelfth century A.D. Hence, present-day scholars consider that Kamba Ramayanam also would have been composed in the twelfth century A.D. Vengadam and its sanctity are described in Kamba Ramayanam, Kishkindha Kandam, ‘Nadavitta Padalam,' stanzas 26, 27 and 28 thus ;---- 
 
 "(Commanding his armies under different leaders to proceed in different directions in search of Sita, Sugriva says to Hanuman You will reach the cool Vengada Hill which is overgrown with forests full of bee-hives, which limits the boundary between the northern and the southern language, which contains the Truth enshrined in the Four Vedas and all the Sastras, which is the abode of all good deeds and which stands out as the eternal Satya. We have to worship the holy men that are on the Vengada hills even from here, holy men who do good deeds without any idea of reward, who have freed themselves from all Karma both good and bad, who look on riches and poverty alike and who have attained the highest bliss. The sacred Vengada Hill contains many rivers where a number of true brahmins bathe and has many Asramas where live a number of holy men of great tapas and of deep knowledge of the Vedas and hoary Sastras; cloud-topped slopes of the hill abound in precious stones and on this hill all animals, naturally inimical, sleep together forgetting their feuds, lured to sleep by the sweet music of Kinnara Vadya of the fair celestial maidens.)" 
 
@@ -194,7 +194,7 @@ The author states here that he had a vision of the Lord's Shankha and Chakra and
 
 (f) Venkata-Nagadhyaksha-Satakanı. 
 
-This is also a collection of verses and complains that the Lord is bereft of all mercy and is very busy in the collection of kasus from villagers and hence apparently has no time to respond to the call of the devotees. The poet gives expression to his inner expression that the spot of the temple is Vaikunta itself and ends with a graphic description of the Shankha and Chakra of the Lord and describes the holy feet of the Lord as radiating animadi asta- siddhis. 
+This is also a collection of verses and complains that the Lord is bereft of all mercy and is very busy in the collection of kasus from villagers and hence apparently has no time to respond to the call of the devotees. The poet gives expression to his inner expression that the spot of the temple is Vaikunta itself and ends with a graphic description of the Shankha and Chakra of the Lord and describes the holy feet of the Lord as radiating animadi astasiddhis. 
 
 (g) Sri Venkatesvara Kalyana, 
 
@@ -202,7 +202,7 @@ This is a reference to the Puranic story of Bhrigu Maharishi where the Rishi is 
 
 Venkamamba's Works. 
 
-The author Venkamamba had intense devotion to Lord Venkatesvara and on being forced to matrimony by her father, she forsook family life and devoted herself entirely to the service of the Lord. The author notes her father's name as Kanala Krishnayya and mother as Mangamba of Vashishta gotra belonging to Nandavara community. Her husband was Injeti Venka- chalapati and hence her surname came to be Injeti. 
+The author Venkamamba had intense devotion to Lord Venkatesvara and on being forced to matrimony by her father, she forsook family life and devoted herself entirely to the service of the Lord. The author notes her father's name as Kanala Krishnayya and mother as Mangamba of Vashishta gotra belonging to Nandavara community. Her husband was Injeti Venkachalapati and hence her surname came to be Injeti. 
 
 The author probably lived in the second half of the 18th Century and the first half of the 19th Century. She took to intense yoga and practiced meditation in "Tumburukona" amidst the thick forest about ten miles to the north of the Tirumala temple. It is generally believed that she had visions of the Lord. Her Samadhi still stands in a garden on the north side of the north street in Tirumala. She offered a mutyala hara in a silver plate embedded with pearls in the form of one of the dasavataras each night to Bhoga Srinivasa Murti. This is referred to in the Kankairya Patti prepared by the English East India Company in Fasli 1230 or 1890 A.D. 
 
@@ -269,7 +269,7 @@ This author lived in the 14th Century and was known as Shambhudasa and Prabandha
 
 He completed the unfinished portion of Aranya parva of the famous Telugu Mahabharata which was composed by Nannaya Bhatta and Tikkana Somayaji. He composed "Narasimha purana 
 
-dedicated to Lord Nara- simhaswamy of Ahobilam. In the last few stanzas of this work, the poet states that Sankhyas, Yogis, Saivas and Pancharatras and others worship the same Narasimhaswamy in different forms and names. In one of his verses he makes a reference to Lord Venkatapati and makes a complete surrender of his soul to the Lord of the universe. 
+dedicated to Lord Narasimhaswamy of Ahobilam. In the last few stanzas of this work, the poet states that Sankhyas, Yogis, Saivas and Pancharatras and others worship the same Narasimhaswamy in different forms and names. In one of his verses he makes a reference to Lord Venkatapati and makes a complete surrender of his soul to the Lord of the universe. 
 
 (vi) Chadalavada Mallayya kavi 
 
@@ -285,7 +285,7 @@ He closes the work with a fervent prayer that he the poet is an unfortunate pers
 
 Pedda Tirumalacharya the son of Annamacharya translated into easy Telugu verses in dvipada metre the suprabhata and designated it as 
 
-** Sri Venkateswara Prabhata Stava." This is intended to awake the Lord in the morning and to receive the adoration of his devotees. The Lord is said to have lived in the reigns of the Vijayanagara king Krishnadevaraya, Achyuta- raya and Sadasiva Raya. A peculiar and unique remark is made in this work that Krishnadevaraya did not evince any special favours towards the Lord but that Achyutaraya and Sadasivaraya patronised Him and granted Him villages etc. 
+** Sri Venkateswara Prabhata Stava." This is intended to awake the Lord in the morning and to receive the adoration of his devotees. The Lord is said to have lived in the reigns of the Vijayanagara king Krishnadevaraya, Achyutaraya and Sadasiva Raya. A peculiar and unique remark is made in this work that Krishnadevaraya did not evince any special favours towards the Lord but that Achyutaraya and Sadasivaraya patronised Him and granted Him villages etc. 
 
 212 
 
@@ -429,7 +429,7 @@ Purandaradasa the famous Kannada musician and poet is practically the author of 
 
 TIRUMALA IN LITERATURE AND SONG 
 
-He lived in the early years of the 16th Century. According to tradition Purandaradasa is said to have come to Tirumala on hearing the fame of Annamacharya. Tradition has it that on the occasion of their meeting each other, they jointly composed a song which, though, it is the same song, is differently addressed to the respective deities of the composers, with Trivenkata- nayaka being invoked by Annamacharya and Purandaradasa invoking Lord Vithala by prefixing his own name to the name of the god as his special ensign of the authorship of the song. 
+He lived in the early years of the 16th Century. According to tradition Purandaradasa is said to have come to Tirumala on hearing the fame of Annamacharya. Tradition has it that on the occasion of their meeting each other, they jointly composed a song which, though, it is the same song, is differently addressed to the respective deities of the composers, with Trivenkatanayaka being invoked by Annamacharya and Purandaradasa invoking Lord Vithala by prefixing his own name to the name of the god as his special ensign of the authorship of the song. 
 
 During this visit, Purandaradasa is said to have composed some poems in honour of Lord Venkatesa some of which are as follows:- 
 

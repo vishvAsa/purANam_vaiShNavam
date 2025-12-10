@@ -67,7 +67,7 @@ TIRUMALA TEMPLE
 
 III General Introduction to Sculptures and Iconography. 
 
-Tirumala temple, like several others of its kind in South India, is a veritable treasure house of varied types of sculptures. They are found in different parts of the temple. The dividing line between iconography and sculpture of South Indian temples is not clear cut, for the sculpture itself is dominated by images of Gods and Goddesses. However, broadly speaking icons can be classified as enshrined images for which puja and offerings are made every- day. We can classify them into two broad groups viz., the Dhruva Berams or fixed images, and Bhoga or Utsava murtis that are used in connection with the ceremonies. Generally speaking, all the Dhruva Berams are made in stone while the Bhogamurtis are made of metal. But there are a good number of exceptions to this rule. 
+Tirumala temple, like several others of its kind in South India, is a veritable treasure house of varied types of sculptures. They are found in different parts of the temple. The dividing line between iconography and sculpture of South Indian temples is not clear cut, for the sculpture itself is dominated by images of Gods and Goddesses. However, broadly speaking icons can be classified as enshrined images for which puja and offerings are made everyday. We can classify them into two broad groups viz., the Dhruva Berams or fixed images, and Bhoga or Utsava murtis that are used in connection with the ceremonies. Generally speaking, all the Dhruva Berams are made in stone while the Bhogamurtis are made of metal. But there are a good number of exceptions to this rule. 
 
 As far as sculptures are concerned they are found embedded in the walls of the various mandapas and that too mostly in their pillars. In other words sculpture is a non-enshrined figure found in the mandapas, gopura dvaras, vimanam, etc., of the temple. 
 
@@ -115,7 +115,7 @@ The Pratima mandapa is so called because it contains the bronzes of the Vijayana
 
 Plate 4: A Pillar. 
 
-This is a general view of the one of the pillars of this Mandapa showing the Yali designed with the warrior riding on a horse and the typical Vijaya- nagar cornice and corbel with typical sculptures on pilasters in it. 
+This is a general view of the one of the pillars of this Mandapa showing the Yali designed with the warrior riding on a horse and the typical Vijayanagar cornice and corbel with typical sculptures on pilasters in it. 
 
 Plate 5: Bronze of Krishnadeva Raya and his Queens. 
 
@@ -125,7 +125,7 @@ This is a bronze statue of the famous Vijayanagar Emperor Krishna Deva Raya (150
 
 THE TIRUMALA TEMPLE 
 
-The bronze shows long cylindrical kirita, two beautiful gem-set haras, jewelled keyuras and jewelled bangles and rings to the King. His antariya is beautifully designed. The kati sutra and the golden belt round the waist are made with marvellous delicacy of style. The queens are dressed in embroided silks. The lower end of the sarees and frilled and made to look like a fan, to appear pleasing to eye though it may appear artifiicial by modern artistic standards. It is interesting to note the type of ornaments which women of the Vijayanagar period wore. The queens are shown with a series of haras, the kanti with gem-steaded pataka and a yagnopavita also. Their head is combed and is tied up with a bun at the back of the head. The simanta or the middle parting line has a central gem-set ornament. They wear ratna- kundalas in the ear and beautiful keyuras and costly rings. 
+The bronze shows long cylindrical kirita, two beautiful gem-set haras, jewelled keyuras and jewelled bangles and rings to the King. His antariya is beautifully designed. The kati sutra and the golden belt round the waist are made with marvellous delicacy of style. The queens are dressed in embroided silks. The lower end of the sarees and frilled and made to look like a fan, to appear pleasing to eye though it may appear artifiicial by modern artistic standards. It is interesting to note the type of ornaments which women of the Vijayanagar period wore. The queens are shown with a series of haras, the kanti with gem-steaded pataka and a yagnopavita also. Their head is combed and is tied up with a bun at the back of the head. The simanta or the middle parting line has a central gem-set ornament. They wear ratnakundalas in the ear and beautiful keyuras and costly rings. 
 
 The bronzes are well known and the artist has succeeded in showing the deep devotion and humility before the Lord of the Emperor and his queens. 
 
@@ -177,7 +177,7 @@ The idea in publicly portraying such scenes is based on the theory that for man,
 
 THE TIRUMALA TEMPLE 
 
-as he is limited, and that it is much better to face these temptations and mental fantasies squarely and surmount them and sublimate them, if one has to think of communion with the Lord. Such is the basis for the scenes for the tempta- ions offered by Mana to Gautama, the Buddha in buddhist sculptures. 
+as he is limited, and that it is much better to face these temptations and mental fantasies squarely and surmount them and sublimate them, if one has to think of communion with the Lord. Such is the basis for the scenes for the temptaions offered by Mana to Gautama, the Buddha in buddhist sculptures. 
 
 As has been aptly stated by Kalidasa--- 
 
@@ -231,7 +231,7 @@ This is an excellent depiction of Gajendra Moksha with the elephant done in a ve
 
 Plate 17: Lord Srinivasa's kalyana scene. 
 
-This is an interesting sculpture showing the marriage of Lord Srinivasa to Goddess Padmavati. In the top of the sculpture are shown kinnaras, yakshas and gandharvas floating in the atmosphere. The scene actually depicts the kanyadana where the bride is offered with ablutions to the bride- groom. 
+This is an interesting sculpture showing the marriage of Lord Srinivasa to Goddess Padmavati. In the top of the sculpture are shown kinnaras, yakshas and gandharvas floating in the atmosphere. The scene actually depicts the kanyadana where the bride is offered with ablutions to the bridegroom. 
 
 Plate 18: Mohini. 
 
@@ -299,7 +299,7 @@ Plate 27: Vishnu as Varaha.
 
 (b) Sculptures. 
 
-This is an excellent picture of Vishnu as Bhuvaraha. The karnakudu and the salai at the feet of the Lord are typical. The Goddess is represented as sea- ted in the left lap of the Lord who has a face like the varaha. The righth and of the Lord is in Varada posture and the left two hands holds the Shankha and Chakra. The face of the Lord is turned towards the Devi as prescribed in the Vaikhanasa agama. Some of the snakes are shown as being trampled 
+This is an excellent picture of Vishnu as Bhuvaraha. The karnakudu and the salai at the feet of the Lord are typical. The Goddess is represented as seated in the left lap of the Lord who has a face like the varaha. The righth and of the Lord is in Varada posture and the left two hands holds the Shankha and Chakra. The face of the Lord is turned towards the Devi as prescribed in the Vaikhanasa agama. Some of the snakes are shown as being trampled 
 
 262 
 
@@ -337,9 +337,9 @@ THE TIRUMALA TEMPLE
 
 Plate 33 (a): This is a miniature gopura inside the Tirumalaraya Mandapa and shows the delicately carved pillars, basements, mouldings and the stupi in typical Vijayanagar style. 
 
-Plate 33 (b): This is the miniature mandapa which is inside the Tirumala- raya Mandapa and the pillars, carvings and lay out are also typical of Vijayanagar style. 
+Plate 33 (b): This is the miniature mandapa which is inside the Tirumalaraya Mandapa and the pillars, carvings and lay out are also typical of Vijayanagar style. 
 
-Plate 33 (c): This is the present Kalyana Mandapa inside the Tirumala- raya Mandapa which gives a composite idea of the whole Mandapa done in typical characteristic Vijayanagar style, 
+Plate 33 (c): This is the present Kalyana Mandapa inside the Tirumalaraya Mandapa which gives a composite idea of the whole Mandapa done in typical characteristic Vijayanagar style, 
 
 VIII. Kalyana Mandapa. 
 
@@ -349,7 +349,7 @@ The spacious Kalyana Mandapa in the south-west corner of the Vimana Pradakshina 
 
 The 
 
-The four pillared central mandapa within the Kalyana Mandapa is a marbel and a masterpiece of artistic skill. It is made of very highly polished black granite and the wealth of details and the exquisite and delicate workman- ship here makes it one of the greatest masterpiece of Vijayanagar art. flexible kodungu, the sharply cut pushpabhodika-punumai corbel with its beautiful stoop, the lovely miniature sculptures that adorn all the facets of the pillars lend to it an exquisite charm and delicacy that makes it probably the greatest masterpiece of the Vijayanagar workmanship. In addition this contains many has reliefs showing many interesting scenes. 
+The four pillared central mandapa within the Kalyana Mandapa is a marbel and a masterpiece of artistic skill. It is made of very highly polished black granite and the wealth of details and the exquisite and delicate workmanship here makes it one of the greatest masterpiece of Vijayanagar art. flexible kodungu, the sharply cut pushpabhodika-punumai corbel with its beautiful stoop, the lovely miniature sculptures that adorn all the facets of the pillars lend to it an exquisite charm and delicacy that makes it probably the greatest masterpiece of the Vijayanagar workmanship. In addition this contains many has reliefs showing many interesting scenes. 
 
 (b) Sculptures. 
 
@@ -399,7 +399,7 @@ This represents Vishnu as Seshasai where he reclines over Adisesha with his five
 
 Plate No. 42: Sudarshana 
 
-This is a very rare sculpture of Sudarshana. This represents the ayudha- purusha or Sudarshana the chief of the Vishnu weapons personified. Sudarsana is generally shown as standing within a circle of flames. Sometimes he is shown as standing within a circle of flames. Sometimes he is shown on the garuda and topped by adisesha. He generally has five faces and sixteen hands. In this sculpture Sudarshana is shown standing on alidasana with sixteen hands and wearing Karandamakuta and having flames around his head by way of jwalakesa. This is an excellent sculpture showing Sudarshana in one of his most ferocious aspects. 
+This is a very rare sculpture of Sudarshana. This represents the ayudhapurusha or Sudarshana the chief of the Vishnu weapons personified. Sudarsana is generally shown as standing within a circle of flames. Sometimes he is shown as standing within a circle of flames. Sometimes he is shown on the garuda and topped by adisesha. He generally has five faces and sixteen hands. In this sculpture Sudarshana is shown standing on alidasana with sixteen hands and wearing Karandamakuta and having flames around his head by way of jwalakesa. This is an excellent sculpture showing Sudarshana in one of his most ferocious aspects. 
 
 Plate No. 43: Mithuna 
 
@@ -453,7 +453,7 @@ This shows several episodes connected with Lord Vishnu. The top frieze shows Val
 
 Plate No. 53: 
 
-This is an interesting sculpture showing Hanuman and Sita probably the scene depicting anguliapradana. Hanuman is shown in an attitude of devo- tion, with his mouth closed with his left hand. Sita is shown with full breasts and with her hair done in a bun in the typical Vijayanagara fashion though Valmiki depicts her as with hair loosened on account of her distress. 
+This is an interesting sculpture showing Hanuman and Sita probably the scene depicting anguliapradana. Hanuman is shown in an attitude of devotion, with his mouth closed with his left hand. Sita is shown with full breasts and with her hair done in a bun in the typical Vijayanagara fashion though Valmiki depicts her as with hair loosened on account of her distress. 
 
 Plate No. 54: 
 
@@ -643,7 +643,7 @@ This is a Lakshmi Narasimha showing the Lord with Lakshmi.
 
 Plate No. 79: 
 
-This is a typical Rama, Lakshmana, and Sita which is found near Annama- charya shrine. 
+This is a typical Rama, Lakshmana, and Sita which is found near Annamacharya shrine. 
 
 Plate No. 80: Rama 
 
@@ -695,7 +695,7 @@ This is a beautiful sculpture of Hamsa done in the best Vijayanagara style. This
 
 Plate No. 87: Vaikuntadwara pillar 
 
-This is a pillar shown in the Vaikuntadwara and done in the late Vijaya- nagara style in black granite. The design and artistic and other details are typical. 
+This is a pillar shown in the Vaikuntadwara and done in the late Vijayanagara style in black granite. The design and artistic and other details are typical. 
 
 274 
 

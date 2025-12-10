@@ -74,7 +74,7 @@ Both the agamas recommend the use of the bilva in the worship of Vishnu. Hence t
 
 (k) So far as one could see there is no crystal Lingam anywhere in the Tirumala temple. Sometimes Sri Vidyaranya is said to have mentioned this. Sri Vidyaranya was a contemporary of Vedanta Desika who lived about 14th Century A.D. The temple has nearly 600 years of history of recorded inscriptions before that date and nowhere has a crystal Lingam been mentioned. 
 
-(l) About the association of Kapila, which is represented by the Kapileswara temple situated at the foot of the Hills, also, no signi- ficance need be attached since Kapila, Bhrigu, Ganesa, Durga, Siva and Brahma are all upadevatas in a Vaishnava temple according the Vaishnava agamas, 
+(l) About the association of Kapila, which is represented by the Kapileswara temple situated at the foot of the Hills, also, no significance need be attached since Kapila, Bhrigu, Ganesa, Durga, Siva and Brahma are all upadevatas in a Vaishnava temple according the Vaishnava agamas, 
 
 (m) The outlet from the Gomukham, the height of the garbha griha etc., are all sometimes mentioned as proof of its being a saivite temple. These are all based on misconceptions as the architecture of the temple has evolved through many centuries. 
 

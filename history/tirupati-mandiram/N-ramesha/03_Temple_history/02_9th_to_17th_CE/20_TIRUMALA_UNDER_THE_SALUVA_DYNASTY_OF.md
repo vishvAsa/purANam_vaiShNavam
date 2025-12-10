@@ -2,7 +2,7 @@
 title = "20 TIRUMALA UNDER THE SALUVA DYNASTY OF VIJAYANAGAR"
 +++
 
-Even during the last years of Devaraya II, the Saluvas appear to have been rising to power. Saluva Peri-Mallayadeva Maharaja, son of Errakampaya- deva Maharaja, comes to notice from No. 13-TT. dated in Saka 1368, Kshaya (10-10-1446 A.D.). 
+Even during the last years of Devaraya II, the Saluvas appear to have been rising to power. Saluva Peri-Mallayadeva Maharaja, son of Errakampayadeva Maharaja, comes to notice from No. 13-TT. dated in Saka 1368, Kshaya (10-10-1446 A.D.). 
 
 No. 100-TT. dated in Saka 1364, Dundubhi, registers the payment of 3000 honnu as kanike for the God by Tippada Nageya-Nayakkar, son of Muddiya-Nayara. Probably he was a general (Nayaka) under Devaraya II and belonged to the Vijayanagara forces stationed at Chandragiri. 
 
@@ -84,7 +84,7 @@ The following information about the temple is gathered from the inscriptions of 
   <tr>
    <td>200-TT. 
    </td>
-   <td>This record of 1476 A.D. refers to the practice of Malaikuniya- ninra-perumal going to a mantapam in the Varaha temple, to the car procession during the Panguni and Purattasi festivals and to the custom of the Nachachimar receiving a bath after being smeared with turmeric on the occasion of Kanuppadi. 
+   <td>This record of 1476 A.D. refers to the practice of Malaikuniyaninra-perumal going to a mantapam in the Varaha temple, to the car procession during the Panguni and Purattasi festivals and to the custom of the Nachachimar receiving a bath after being smeared with turmeric on the occasion of Kanuppadi. 
    </td>
   </tr>
   <tr>
@@ -132,7 +132,7 @@ The following information about the temple is gathered from the inscriptions of 
   <tr>
    <td>283-TT. 
    </td>
-   <td>This record of the same year refers to the practice of Malai- kuniyaninra-perumal and his consort having a galloping ride on the eight festival days. 
+   <td>This record of the same year refers to the practice of Malaikuniyaninra-perumal and his consort having a galloping ride on the eight festival days. 
    </td>
   </tr>
 </table>
@@ -151,13 +151,13 @@ The following information about the temple is gathered from the inscriptions of 
   <tr>
    <td>280-TT. 
    </td>
-   <td>This is another record, dated two years later, which mentions the festival days of Sri Jayanti, Sri Ramanavami and Vasanta- panchami. 
+   <td>This is another record, dated two years later, which mentions the festival days of Sri Jayanti, Sri Ramanavami and Vasantapanchami. 
    </td>
   </tr>
   <tr>
    <td>615-TT. 
    </td>
-   <td>This mentions that Narasamma, wife of Kommaraja Periya- Timmaraja, rebuilt the Anandampillai mantapam in the same year. 
+   <td>This mentions that Narasamma, wife of Kommaraja PeriyaTimmaraja, rebuilt the Anandampillai mantapam in the same year. 
    </td>
   </tr>
   <tr>
@@ -169,7 +169,7 @@ The following information about the temple is gathered from the inscriptions of 
   <tr>
    <td>307-TT. 
    </td>
-   <td>The practice of conducting a car festival during the Tirukkodi- tirunal comes to notice in this inscription of the same year. 
+   <td>The practice of conducting a car festival during the Tirukkoditirunal comes to notice in this inscription of the same year. 
    </td>
   </tr>
   <tr>
@@ -193,13 +193,13 @@ The following information about the temple is gathered from the inscriptions of 
   <tr>
    <td>626-TT. 
    </td>
-   <td>This record of the next year refers to the procession taken to the Navalurru mantapam and refers to the temple staff which included the Tiruppanipillai, Lachchinaikkarar, reciters of the Prabandham, Kanganippan, bearers of the vahanams, the Adhikari, Pachachadikkarars, lamp lighters, Vinnapam- seyvars, supplier of fire wood, proclaimer, dance-master, time-keeper, dancers, drummers, pipers, songsters, potters, sculptors and watchmen. 
+   <td>This record of the next year refers to the procession taken to the Navalurru mantapam and refers to the temple staff which included the Tiruppanipillai, Lachchinaikkarar, reciters of the Prabandham, Kanganippan, bearers of the vahanams, the Adhikari, Pachachadikkarars, lamp lighters, Vinnapamseyvars, supplier of fire wood, proclaimer, dance-master, time-keeper, dancers, drummers, pipers, songsters, potters, sculptors and watchmen. 
    </td>
   </tr>
   <tr>
    <td>336-TT. 
    </td>
-   <td>This is a record of 1496 A.D. which mentions the practice of smearing Pulugu-kappu to the bodies of Sri Venkatesvara and Alarmelmangai Nachchimar during the Pulugukappu- murai on alternative Fridays. 
+   <td>This is a record of 1496 A.D. which mentions the practice of smearing Pulugu-kappu to the bodies of Sri Venkatesvara and Alarmelmangai Nachchimar during the Pulugukappumurai on alternative Fridays. 
    </td>
   </tr>
   <tr>

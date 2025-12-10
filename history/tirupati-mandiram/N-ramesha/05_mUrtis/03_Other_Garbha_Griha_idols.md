@@ -55,7 +55,7 @@ The idol of Sri Rama is in the madhyama tala and tribhanga pose, the left arm ra
 
 The figure of Sugriva is in the standing pose and the hands folded in an attitude of prayer. This has already been referred to earlier. 
 
-There are also beautiful copper idols of Angada and Hanuman exhibited separately in the Ramar Medai platform outside the shrine in the Antarala Mantapam. Opposite to them beautiful copper idols of Vishvak- sena, Ananta and Garuda are found. 
+There are also beautiful copper idols of Angada and Hanuman exhibited separately in the Ramar Medai platform outside the shrine in the Antarala Mantapam. Opposite to them beautiful copper idols of Vishvaksena, Ananta and Garuda are found. 
 
 
 ## Chakrattalvar or Sudarshana. 
