@@ -11,8 +11,8 @@ Beyond this courtyard are 3 rooms, after which room number 4 is the main Garbhal
 Cameras are NOT allowed beyond the silver threshold in the temple. All the video footage we see, is of events which occur outside the silver threshold only. Any photos beyond it are either old ones or secretly captured and restricted.
 
 ## mUla-bera unphotographed
-real Mulavirat of Tirumala has never been photographed. 
-
+real Mulavirat of Tirumala has never been photographed (barring one rumored blurry image). 
+ 
 ### Video
 Video depiction is also fake. eg. one shot in Vijaya vAhinI studios set in chennai.
 
