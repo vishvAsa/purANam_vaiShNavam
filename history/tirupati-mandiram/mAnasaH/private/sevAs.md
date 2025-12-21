@@ -14,3 +14,8 @@ you will be able to stand near the lord for almost 25 minutes in this.
 you are also allowed to visit the other shrines in the temple ( normally these are off limits to the regular crowd)
 
 just go on a less busy day
+
+## पीठादिपति-श्लोकः
+उद्यत्-कोटि-दिवाकराभम् अनिशं शङ्खं गदा पङ्कजं  
+चक्रं बिभ्रति इन्दिरा-वसुमती-संशोभि-पार्श्व-द्वयम्।  
+
