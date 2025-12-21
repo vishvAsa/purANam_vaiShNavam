@@ -16,6 +16,25 @@ you are also allowed to visit the other shrines in the temple ( normally these a
 just go on a less busy day
 
 ## पीठादिपति-श्लोकः
-उद्यत्-कोटि-दिवाकराभम् अनिशं शङ्खं गदा पङ्कजं  
-चक्रं बिभ्रति इन्दिरा-वसुमती-संशोभि-पार्श्व-द्वयम्।  
+its called Atihyam of Venkateswara, recited whenever any mukhya peethadhipathi etc visits the temple.
 
+it was published in english in saptagiri magazine by TTD. however, he said its actually 2 slokas, with  Shardulavikrita chandas, and Mandakranta chandas.
+
+
+उद्यत्-कोटि-दिवाकराभम् अनिशं शङ्खं गदा पङ्कजं  
+चक्रं बिभ्रति?? इन्दिरा-वसुमती-संशोभि-पार्श्व-द्वयम्।  
+केयूराङ्गदहारकुण्डलधरं दीप्तं ???
+??? स्ववक्ष??-विवलसच् छ्रीवत्सचिह्नम् भजे॥
+(शार्दूलविक्रीडितम्)
+
+प्रलम्बसूत्रोत्पलमाल्यभूषणं  
+नमाम्यहं वेङ्कटशैलनायकम्॥  
+(वंशस्थम्)
+
+सुचक्रशङ्खं कटिवरदहस्तं स्वनाम्बरं रत्नकिरीटं
+पीतम् अम्बर??
+विश्वधरं विभुं
+
+Mag version - 
+
+> " Vidyut Koti Divaakaraabha manisam Sankham Gadaa Pankajam Chakram bibrati indiraa vasumateem Samsobhi Parsva dvayam peetaambaram kaustubham, kEyooraangada haara  kundala dharam deeptham viswa dharam vibhum,Suchkra Sankham, Kati Varada Hastham, Swanaambaram Ratna Kireetam,Sva Vaksha Vilasat Sreevatsa Chihnam Bhaje, Pralamba SootrOtpala Maalya bhushanam, Namamyaham Sree Venkata Saila Naayakam"
