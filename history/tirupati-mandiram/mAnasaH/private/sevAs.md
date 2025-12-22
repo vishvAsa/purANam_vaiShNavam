@@ -15,6 +15,10 @@ you are also allowed to visit the other shrines in the temple ( normally these a
 
 just go on a less busy day
 
+## mukkoTi-pradaxiNam
+Opened only during vaikuntha ekadasi + 12 days.  
+You can go through it on that day - if u join morning satthumurai ghoshti.
+
 ## पीठादिपति-श्लोकः
 its called Atihyam of Venkateswara, recited whenever any mukhya peethadhipathi etc visits the temple.
 
