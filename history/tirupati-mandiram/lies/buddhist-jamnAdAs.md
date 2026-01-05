@@ -2167,11 +2167,7 @@ Amaravati, one can understand the site being used as a quarry by modern builders
 
 India. But this never occurred at Nagarjunakonda as there are no towns and no cart roads in or out of the
 
-valley. Local tradition relates that the great Hindu philosopher and teacher Shankaracharya of medieval
-
-times came to Nagarjunakonda with a host of followers and destroyed the Buddhist monument. Be this as it may, the fact remains that the **cultivated lands in the valley on which ruined buildings stand represent a religious grant made to Shankaracharya** and it was only with the sanction of the present religious Head
-
-of the followers of the great teacher that I was to conduct the excavations. This same Brahmin pontiff, who
+valley. Local tradition relates that the great Hindu philosopher and teacher Shankaracharya of medieval times came to Nagarjunakonda with a host of followers and destroyed the Buddhist monument. Be this as it may, the fact remains that the **cultivated lands in the valley on which ruined buildings stand represent a religious grant made to Shankaracharya** and it was only with the sanction of the present religious Head of the followers of the great teacher that I was to conduct the excavations. This same Brahmin pontiff, who
 
 resides at Pushpagiri in the Guntur District, **also owns the Srisailam temple in the Nallamalais, which no**
 
