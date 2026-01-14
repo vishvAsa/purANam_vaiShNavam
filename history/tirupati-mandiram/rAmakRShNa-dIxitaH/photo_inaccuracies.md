@@ -2,7 +2,7 @@
 title = "Photo inaccuracies"
 +++
 
-![]("/purANam_vaiShNavam/history/tirupati-mandiram/images/mUla-vigraha-inaccuracies.png")
+![](/purANam_vaiShNavam/history/tirupati-mandiram/images/mUla-vigraha-inaccuracies.png)
 {caption="">}
 
 Ramakrishna Deekshitulu Archakam    
