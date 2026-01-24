@@ -11,17 +11,17 @@ Only 3 shrines have deshika-idols.
 
 
 ## 18 idols
-The origion of the suit: 
+The origin of the suit: 
+
 The Srivaishnava community is made up of two divisions namely Thenkalais and Vadakalais. The appellants are of Vadakalai and the respondents of Thenkalai. 
 
 In the copy this word has been written "Niyan" and Characterized as not legible, but the correct word is "Thaniyan", and hence its adoption.
 
 At Canjeevaram, there are 18 sthalams (shrines) of Vishu. In all these 18 shrines, and before the Vadakalais and the Thenkalais commence to recite Dravida (Tamil) Vedas in one combined group, it has been customary to chant, that the Mantram, (incantation) "Srisailesa dayapatram" (worthy of the grace of the Lord of Srisaila).  
-In all those 18 temples there is the image of Vedanta Chariar.  
-Even in his Sannadhi (presence),  
-both the Vadakalais and the Thenkalais have been in the habit of chanting the said Thaniyan* (special stanza),  
-while so, in respect of Vedanta Chariar Sannadhi attached to the Velakkadi temple,  
-one of the said 18 shrines the contention of the Vadakalais in this is that instead of chanting the Mantram of "Srisaila (sic) dayapatram" before the Vadakalais and the Thenkalais begin jointly to recite the Dravida Veda the new mantram of "Ramanujadayapatram" should be pronounced.  
+
+In all those 18 temples there is the image of Vedanta Chariar. Even in his Sannadhi (presence), both the Vadakalais and the Thenkalais have been in the habit of chanting the said Thaniyan* (special stanza), while so, in respect of Vedanta Chariar Sannadhi attached to the Velakkadi temple.  
+
+One of the said 18 shrines the contention of the Vadakalais in this is that instead of chanting the Mantram of "Srisaila (sic) dayapatram" before the Vadakalais and the Thenkalais begin jointly to recite the Dravida Veda the new mantram of "Ramanujadayapatram" should be pronounced.  
 
 The plea of the Thenkalais in this suit is that according to the mamul the mantram of "Srisailesadayapatram" should be cited in the Vedantachariar Sannadhi of above temple also, in the same way as such a "Srisailesadayapatram" citation is made in the Vedantachariar Sannadhi of all the remaining 17 shrines of Vishnu. This is all the purpose of this suit. 
 
