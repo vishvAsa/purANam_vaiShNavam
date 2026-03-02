@@ -28,3 +28,5 @@ T।T।D, Tirupati।
 Printed at :
 Tirumala Tirupati Devasthanams Press
 Tirupati - 517 507.
+
+Source: [TW](https://ebooks.tirumala.org/read?id=25040&title=Sri%20Venakteswara%20Swamyvaru)
