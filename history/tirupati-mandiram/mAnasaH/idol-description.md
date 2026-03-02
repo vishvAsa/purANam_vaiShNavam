@@ -91,7 +91,7 @@ To prevent this and for practical, ritualistic reasons (idol protection or _bimb
 
 _(Note: Curd is used only once every 12 years during the special Maha Samprokshana ritual, and it is used on all other smaller idols where cleaning is easier.)_
 
-**Main Murthy Dimensions**
+## Main Murthy Dimensions
 
 There are confusing reports about His height. The _murthy_ itself is approximately **8 feet tall**, standing on a lotus pedestal which adds another 16-18 inches. The proportions are magnificent, conforming to the _Uttama Dasa Tala_ standard. The waist is elegantly narrow, while the chest is broad and majestic.
 
@@ -545,3 +545,14 @@ BUT NAMMALVAR , the greatest of saints, who lived earlier than Bhoga srinvasa id
 today , all modern Vishnu Yantras, are actually modeled after this original. ( al least in Vaikhanasa temples). there are extra features added in, but this seems to be the root point.
 
 the lord of lords cannot be understood , in stone or in yantras. he both in them and beyond them. Narayana is unfathomable. Sri Venkatesaaya Namah !
+
+
+## Addenda
+The oldest vigraha is Ugra Srinivasa, which is dated to around 3rd century AD.
+
+The Bhoga Srinivasa, aka kautuka-bera, consecrated in 614 CE by Samavai Perundevi, a pallava princess. an exact true copy of the dhruva bera. the only difference being that the shanka chakra are permanently fixed in this. This 5 centuries before the shaiva - vaishnava showdown or Rananujacharya and his changes to the temple.
+
+If the temple was shaiva, why were kings periodically donating vishnu vigrahams ?
+
+
+

@@ -162,7 +162,9 @@ Conversely it can be stated that all the characteristic features of a Sakti idol
 ## subrahmaNya?
 It is also suggested that the temple could be that of Subramanya mainly for the reason that the 'pushkarini' is being called as 'swami pushkarini ' and swami is an abbreviation for Kumaraswami. 
 
-This is really no argument since the term 'swami' need not necessarily apply only to Kumaraswami which is the name of the Lord Subramanya. The term 'swami pushkarini' can also be interpreted as the swami of all pushkarinis f.e., the best of all the holy tirthas. Also the tirthas associated with Kumaraswami are never known as ‘pushkarini,' but only as Kumaradara. We have the authority of the Varaha purana which states that the 'Swami Pushkarini' is a tank which Vishnu brought down to earth from Vaikunta. Moreover, all the puranas state that Skanda came to worship Vishnu at Tirumala and it is inconceivable that a God that came to worship could be deified as the presiding god. Moreover the Lord's image has only four arms and one face whereas Skanda normally has six faces and twelve hands. This identification is totally not correct. 
+This is really no argument since the term 'swami' need not necessarily apply only to Kumaraswami which is the name of the Lord Subramanya. The term 'swami pushkarini' can also be interpreted as the swami of all pushkarinis f.e., the best of all the holy tirthas. Also the tirthas associated with Kumaraswami are never known as ‘pushkarini,' but only as Kumaradara. 
+
+We have the authority of the Varaha purana which states that the 'Swami Pushkarini' is a tank which Vishnu brought down to earth from Vaikunta. Moreover, all the puranas state that Skanda came to worship Vishnu at Tirumala and it is inconceivable that a God that came to worship could be deified as the presiding god. Moreover the Lord's image has only four arms and one face whereas Skanda normally has six faces and twelve hands. This identification is totally not correct. 
 
 ## Conclusion
 From the detailed examination of all the above points it can be seen that the idol is and has been all along a Vaishnava idol only, 
