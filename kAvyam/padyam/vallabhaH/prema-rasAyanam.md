@@ -1,7 +1,19 @@
 +++
-title = "Chaitanya prema ras Ayanam"
+title = "प्रेमामृत-रसायन-स्तोत्रम्"
 +++
 प्रेमामृत-रसायन-स्तोत्रम्
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+This work is doubtfully ascribed to Chaitanya Mahaprabhu, though Kusumasarovarawalla Krishna Das seems ready to accept it as such. 
+
+One tradition apparently holds that Gadadhar Pandit wrote it and Mahaprabhu was so pleased that he claimed it as his own. 
+
+I suspect that it was in fact written by Vallabha, who is also known to his sampradaya as Mahaprabhu. The fact that his son Vitthalanath Goswami wrote a lengthy commentary on the work and that it is well-known in the Vallabha sampradaya while being almost completely neglected by Gaudiyas seems ample proof. We will eventually publish this commentary also.
+
+Two editions were used: Krishna Das's undated version and the one found in Stava-kalpa-druma. The main text is the former and the alternative readings in the footnotes come from the latter.
+</details>
+
 
 **प्रेमावतार-श्रीमन्-महाप्रभु-कृष्ण-चैतन्य-देव-**  
 **मुख-पद्म-**विनिर्गत-
