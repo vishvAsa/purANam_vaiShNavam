@@ -2,7 +2,8 @@
 title = "parakAla-yati 1370"
 +++
 
-This markdown represents the content of the provided nine pages from **EPIGRAPHIA INDICA, Vol. XXV**.
+
+**EPIGRAPHIA INDICA, Vol. XXV**.
 
 
 No. 34.—CONJEEVERAM INSCRIPTION OF BRAHMA-TANTRA-SVATANTRA-JIYAR: SAKA 1282.
@@ -81,6 +82,14 @@ Before proceeding to examine the contents of this record, a few expressions occu
 **Śaṭhakōpaṇ-pāṭṭu kēḷāniṟka**—Śaṭhakōpa is the name of the Vaishṇava saint Nammālvār, whose **Tiruvāymoli** is considered equal to the Vēdas in sanctity and is chanted in the presence of the deity on particular occasions. Endowments made for this service in Vishṇu temples are often mentioned in inscriptions.[^320_4]
 
 (L. 3). **Perumāḷtātaṇ**—Perumāḷtātaṇ or Perumāḷdāsaṇ would ordinarily mean ‘a devotee of Perumāḷ (Vishṇu)’; but in this context it appears to have been the name of the agent, supervising the sacred business of the temple (*nam vīṭṭu karumam kēṭkum*), in whose presence and that of the **Bhaṭṭas** of the temple, the order is stated to have been promulgated.
+
+<details><summary>रविलोचनः (द्रष्टुं नोद्यम्)</summary>
+
+Even this inscription refers to the srikaryam as perumal tatan. Mr iyer wrongly inferred that tatan might be a reference to dasan. But the same inscription uses dasa very clearly in the word vaishnava dasa..whereas several inscriptions from 1200s refer to various individuals as tatan, tata nambi etc.. 
+
+kv raman made a futile attempt to claim that these are references to shudra bhagavatas (also called dasa nambis). But unfortunately for him, an inscription from 1200s clearly calls a tatan as somayaji (which makes it clear that these are not shudras. Interestingly mr raman doesn't mention this inscription at all :)).
+</details>
+
 
 [^320_1]: In these instances, the records commence with a Sanskrit verse specifying that the orders emanate from the god himself—
     (a) सर्वलोकसमुत्पत्तिस्थितिसंहारकारणम्।
