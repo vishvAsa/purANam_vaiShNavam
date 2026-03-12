@@ -2,9 +2,28 @@
 title = "Idol description"
 +++
 
-[PART-1 CAN BE READ HERE](https://www.reddit.com/r/hinduism/comments/1d4zim2/lord_venkateswara_part_1_detailed_description_of/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-[PART-2 CAN BE READ HERE](https://www.reddit.com/r/hinduism/comments/1d5jamd/lord_venkateswara_part_2_detailed_description/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[PART 1 IS HERE ](https://www.reddit.com/r/hinduism/comments/1d4zim2/lord_venkateswara_part_1_detailed_description_of/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+[PART 2 IS HERE ](https://www.reddit.com/r/hinduism/comments/1d5jamd/lord_venkateswara_part_2_detailed_description/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+[PART 3 IS HERE ](https://www.reddit.com/r/hinduism/comments/1d5jtbl/lord_venkateswara_part3_detailed_description_contd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+[PART 4 IS HERE ](https://www.reddit.com/r/hinduism/comments/1d62r4l/lord_venkateswara_part4_detailed_description_contd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+[PART 5 IS HERE](https://www.reddit.com/r/hinduism/comments/1d66g10/lord_venkateswara_part5_main_idol_description/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+[PART-6 IS HERE](https://www.reddit.com/r/hinduism/comments/1d68b3h/lord_venkateswara_part6_main_idol_description/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+[7](https://www.reddit.com/r/hinduism/comments/1d6z2uz/lord_venkateswara_part7_main_idol_few_more/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+[8](https://www.reddit.com/r/hinduism/comments/1d7025l/lord_venkateswara_part8_description_of_the_idol/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+[9](https://www.reddit.com/r/hinduism/comments/1d7oaif/lord_venkateswara_part_9_description_of_the_main/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+
+[10](https://www.reddit.com/r/hinduism/comments/1d7qgys/lord_venkateswara_part10_main_idol_connected/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+</details>
 
 
 
@@ -284,6 +303,54 @@ Given the insecure shrine and inconsistent worship, the original, precious (like
 The Puranic legend of the Lord "giving" His weapons to King Thondaimaan is almost certainly a devotional retelling of this practical, historical arrangement.
 
 Sometime before the 12th century, during this period of intermittent worship, these original, detachable weapons were lost to history. This is why by the time of Sri Ramanujacharya, the _Murthy's_ empty hands were a source of debate. When Ramanujacharya established permanent, daily worship and infrastructure on the hill, he had new, _permanent_ weapons affixed, ending the old practice and firmly securing the _Murthy's_ identity for all time.
+
+
+
+**Upper Body: Neck, Face, and Crown**
+
+The neck is elegant and perfectly sculpted, shaped like a "conch-shell" (_Kambugrīva_) as per _agamic_ descriptions.
+
+**The Face**
+
+The face is the most arresting feature of this idol. It is exquisitely sculpted with very fine lips and a sharp nose. There are fully formed, raised eyebrows and clear eyelids.
+
+A major point of difference from popular paintings is the eyes. Many believe them to be half-closed, but on the _Murthy_ they are **fully wide-open**, in _Sama Drishti_ (a level, direct gaze). The gaze is strong, and anyone standing there feels as if they are being looked at directly.
+
+This is a significant iconographic peculiarity. In _agamas_, half-closed eyes are recommended for "pleasant countenance" (_Saumya_) deities, while wide-open eyes are reserved for _Ugra_ (fierce) forms like Narasimha or Bhairava.
+
+The uniqueness of Sri Venkateswara is that His eyes are wide-open and alert, yet His face is not at all angry. Instead, He has a **very beautiful, natural smile** sculpted into the stone, which is further accentuated by the priests' application of civet oil (_punugu thailam_). The _Skanda Purāṇa_ captures this divine aspect:
+
+**मन्दस्मितेन सकलं मोहयन् भुवनत्रयम् । ...सुभक्तसुलभो देवो वेङ्कटेशो दयानिधिः ।**
+
+_Mandasmitēna sakalaṁ mōhayan bhuvanatrayam |_  
+_...Subhaktasulabhō devō vēṅkaṭēśō dayānidhiḥ |_
+
+"Captivating all three worlds with His gentle smile... the Lord Venkatesha, easily accessible to true devotees, the ocean of compassion."
+
+**The Forehead**
+
+There is a vertical line, slightly raised from the idol's surface, extending from the center of the eyebrows up to the top of the forehead. This is the **original, integral** _**Tilaka**_ of the idol. It is a _raised area_, not a chiseled indentation. Due to the dim ghee-lamp lighting, the shadows cast by this line can sometimes be misinterpreted as a "third eye," fueling more rumors. This raised line forms the base for the large, man-made camphor _Naamam_ (mark) applied daily.
+
+**Ears and Earrings (Integral)**
+
+massive earrings called **Makara Kundalas**. The tail of the mythical _makara_ (a sea creature) loops into the ear-hole while its body hangs down, with the head resting on the Lord's shoulders.
+
+**The Crown (Integral)**
+
+Above the forehead is a broad, sculpted headband or **Diadem** (_Mukha-patti_). This is the base upon which the crown rests.
+
+The crown sculpted into the idol itself is a narrow, tall crown, compressing at three places. Its height (above the diadem) is approximately 20 inches. This is the **Kireeta-makuta** (royal crown) of the _Aty-uttama_ class—the "superior-most" class of crown, reserved only for the highest form of the Deit, signifying His status as an Emperor.
+
+- **Shape:** The shape is called _Venu-karanaabha_ (like a bamboo shoot).
+    
+- **Top:** The crown is topped by an inverted lotus shape, known as the _Siromani_.
+    
+- **Back:** The crown has a very clear disc on the back—the **Siras-Chakra**—which is a common feature on divine idols. A tuft of sculpted hair (_Shikha_) emerges from the middle hole of this disc.
+    
+
+During decoration, various man-made gold versions of this _Siras-Chakra_, studded with precious stones, are tied with a string to the front of the crown. Most days, devotees will see a very large green emerald (_Mukha-mani_) at its center.
+
+Part 8 follows
 
 
 ## Sanctum Lamps, Heat, and Soot
