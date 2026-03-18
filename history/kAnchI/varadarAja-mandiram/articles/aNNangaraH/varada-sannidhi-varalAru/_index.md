@@ -1,7 +1,7 @@
 +++
 title = "+वरदऩ् सन्निधि वरलाऱु"
 +++
-Source: [TW](https://dn७२१६०६।ca।archive।org/०/items/vsv-pba-ao/vsv।pdf)
+Source: [TW](https://dn721606.ca.archive.org/0/items/vsv-pba-ao/vsv.pdf)
 
 [[१]]
 
