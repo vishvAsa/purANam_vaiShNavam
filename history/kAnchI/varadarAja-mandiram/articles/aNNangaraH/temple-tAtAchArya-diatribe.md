@@ -1,5 +1,5 @@
 +++
-title = "tenkalai-tAtAchArya-diatribe"
+title = "Temle tAtAchArya-diatribe"
 
 +++
 
