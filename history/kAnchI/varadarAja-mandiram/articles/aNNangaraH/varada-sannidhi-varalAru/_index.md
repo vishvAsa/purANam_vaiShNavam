@@ -38,7 +38,7 @@ Source: [TW](https://dn721606.ca.archive.org/0/items/vsv-pba-ao/vsv.pdf)
 
 १-६-१९५५।
 
-acharya।org
+
 
 ***
 
@@ -49,7 +49,7 @@ acharya।org
 **श्रीगाञ्जी पिरदिवादि पयङ्गरम्**
 **अण्णङ्गरासारिय स्वामि**
 
-acharya।org
+
 
 ***
 
