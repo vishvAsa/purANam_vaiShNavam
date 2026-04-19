@@ -57,3 +57,9 @@ Finally, there is the epithet jayanta. This name was traditionally applied to th
 
 ## Conclusion
 In conclusion, despite being a late text, the bhAgavata draws from some rather ancient motifs that filtered down through early pa~ncharAtra and were incorporated into its system of vibhava-s.
+
+## Layering
+
+> If we combine this with the arguments advanced by Hardy and Uskokov on the text's provenance we get a very fascinating picture of its author(s). The contents of course have varied origins like any purana but most scholars seem to hold to the position that its current form (especially the famous 10th canto) was uniformly redacted by one person/group, like the Jayadrathayamala
+
+I hold that the bhAgavata is a layered text like many others, viz, it was not composed from scratch in one go. That said it indeed looks rather likely that the version we have was reworked by v1 who were practitioners of the vaidika tradition, and perhaps as Uskokov suggests aligned with a specific vedanta-adherant group. A comparable fascinating matter is the role of vaidika-s in other late southern paurANika works like the lalitopAkhyAna and the south Indian skandapurANa.
