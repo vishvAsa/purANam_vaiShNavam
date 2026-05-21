@@ -51,9 +51,9 @@ But the nature of the paper on which the grant is written and the language and c
 
 Likely the earlier year, if the below is correct -
 
-> Tirumaliengar was a man of rare talents and ability, and during his time the kingdom of Mysore reached the summit of its prosperity. The king while on his deathbed entrusted his infant son Kantirava Narasaraja Wadayar who was deaf and dumb to the care of his Minister Tirumaliengar and his Pradhan Appajiah, and breathed his last in 1704. 
+> Tirumaliengar was a man of rare talents and ability, and during his time the kingdom of Mysore reached the summit of its prosperity. The king while on his deathbed entrusted his infant son Kantirava Narasaraja Wadayar who was deaf and dumb to the care of his Minister Tirumaliengar and his Pradhan Appajiah, and breathed his last in 1704.  – Mysore pradhans by M.A. SRINIVASACHARYA and M. A. NARAYANAINGAR (SRI. SRIVAASAANANDA SWAMY).
 
-tirumalai iyengar was melukoTe tenkalai. It's unlikely that, acting on behalf of a deaf and dumb king, would've issued a pro-vaDakalai order.
+While the claim that the mute king was an infant is false, the chief minister tirumalai iyengar was melukoTe tenkalai. It's unlikely that, acting on behalf of a deaf and dumb king, would've issued a pro-vaDakalai order.
 </details>
 
 
