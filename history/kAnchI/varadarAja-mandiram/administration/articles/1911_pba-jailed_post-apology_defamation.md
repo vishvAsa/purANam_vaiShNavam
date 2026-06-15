@@ -111,3 +111,8 @@ Sd. J.R.S. Jackson
 Joint Magistrate 6-1-1912.  
 /true copy/
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+You seek a certified copy of the judgment in Calendar Case No. 31 of 1911, decided on 6 January 1912 by J.R.S. Jackson, Joint Magistrate of Conjeevaram.
+
+</details>
