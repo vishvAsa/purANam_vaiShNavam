@@ -78,15 +78,15 @@ Actually he himself recited RDP only. But when his employment became an issue, T
 ## 1774 Kararnama acknowledgement
 **EXHIBIT C.** (dated २-७-१७७४)
 
-Kararnama executed on २०th Ani of Ananda year to Srinivasaragavachariar. Muthirakartha of Sri Devaraja Sami ॥॥॥॥॥॥ by the STHALATHAR of Sri Devaraja Swami Pagoda is as follows;-
+Kararnama executed on 20th Ani of Ananda year to Srinivasaragavachariar. Muthirakartha of Sri Devaraja Sami ॥॥॥॥॥॥ by the STHALATHAR of Sri Devaraja Swami Pagoda is as follows;-
 
-On sending for and asking us in respect of the disturbance relating to the mamool of Adyabakam in the Sri Swami Sannidhi what we know is:-According to the Agreement of Athan Jeeyangar it is only the members of Adhyapakam Sriramaiyangar-family used to commence and nobody else used to commence Srisailesadayapatram used to be recited in their houses also in auspicious and inauspicious occasions as in the temple as is done in our house This is the Kararuama that we know.
+On sending for and asking us in respect of the disturbance relating to the mamool of Adyabakam in the Sri Swami Sannidhi what we know is:- According to the Agreement of Athan Jeeyangar it is only the members of Adhyapakam Sriramaiyangar-family used to commence and nobody else used to commence Srisailesadayapatram used to be recited in their houses also in auspicious and inauspicious occasions as in the temple as is done in our house This is the Kararuama that we know.
 
-(Signed) Ragunathachari.
-(Signed) Thirumalaiyengar.
-" Sthanam Srirangaraja Batta
-" Kanara Venkataraman.
-" Mantapam Annachi
+(Signed) Ragunathachari.  
+(Signed) Thirumalaiyengar.  
+" Sthanam Srirangaraja Batta  
+" Kanara Venkataraman.  
+" Mantapam Annachi 
 " Karnam Muthukrishnan.
 (Sthalathar)
 
