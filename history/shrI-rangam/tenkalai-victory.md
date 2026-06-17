@@ -13,3 +13,9 @@ Tk won Srirangam as their temple by using koil olugu which was being maintained 
 ## vaDakalai funeral suppression
 > In 1800s, Tk sthalatthars in srirangam also kept a rule that all SVs inside saptaprakArams incl Vks should recite SDP or they should allow only tks to recite DP even during funerals. - shrIvAsaH
 
+## vedAnta-deshika utsava suppression
+> Earlier VD (and nAthamuni) used to take part in utsavams. Tks argued that VD can be brought out only in tk tiruman. So he is not brought out at all now; though ahobilamaTha shiShyas do nitya archanA.
+>
+> Sometimes I feel that courts have behaved randomly in these matters and given too many rights to TKS of srirangam. Shall we apply this rule to kanchi? Then nammazhvar and MM should not be brought out.
+>
+> Cases settled in brit period are not reopened easily by courts these days. And srirangam vdks hv mostly given up today.
