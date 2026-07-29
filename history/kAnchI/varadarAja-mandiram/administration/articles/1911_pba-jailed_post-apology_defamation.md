@@ -111,8 +111,27 @@ Sd. J.R.S. Jackson
 Joint Magistrate 6-1-1912.  
 /true copy/
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>Certified copy (द्रष्टुं नोद्यम्)</summary>
 
 You seek a certified copy of the judgment in Calendar Case No. 31 of 1911, decided on 6 January 1912 by J.R.S. Jackson, Joint Magistrate of Conjeevaram.
 
+_____________
+Response from Tamil Nadu Archives and Historical Research - 
+
+
+From
+Public Information Officer/ Research Officer,
+Tamil Nadu Archives and Historical Research, No.51, Gandhi Irwin Road, Egmore, Chennai - 600 008.  
+R Letter No.7402/A6/2026, Dated:9.07.2026.
+Sir,  
+Sub: Tamil Nadu Archives and Historical Research -RTI 2005-information requested for - Reg.  
+Ref:  
+Your Online Application, dated: 15.06.2026.
+
+With reference to letter cited, it is informed you that, the document you requested is not maintained by our Tamil Nadu Archives. Therefore, you are requested to approach the concerned office/department.
+
+க 24.7.26  
+Yours faithfully,  
+  
+Public Information Officer/ Research Officer
 </details>

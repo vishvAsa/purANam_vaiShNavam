@@ -31,7 +31,7 @@ Sri R. Varada Tatachariar, Hon. Trustee
 Sri Sudarshana Tatachariar, Hon. Trustee  
 
 
-<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+<details><summary>Digging up</summary>
 
 Please provide a copy and verification of the letter (D No. 325/1360) dated 13--11--50 from 
 
@@ -46,4 +46,6 @@ The Hindu Religious Endowments Board,
 Madras.
 
 Also please provide a copy of the report D.No.316/1360 dated 11-11-50 mentioned therein.
+
+
 </details>
