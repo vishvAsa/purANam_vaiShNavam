@@ -19,3 +19,12 @@ Tk won Srirangam as their temple by using koil olugu which was being maintained 
 > Sometimes I feel that courts have behaved randomly in these matters and given too many rights to TKS of srirangam. Shall we apply this rule to kanchi? Then nammazhvar and MM should not be brought out.
 >
 > Cases settled in brit period are not reopened easily by courts these days. And srirangam vdks hv mostly given up today.
+
+
+## AbharaNa-s
+> Of the old Srirangam jewels, almost half of near half are vdk but they r not taken out now. - RL
+
+> The utsava mandatory ones and yajnyopavita were remelted and repurposed into tk ones As per the records of brit collector in 1894
+
+## tk bhaTTas
+> Raman bhattar gets srimukham written by AS for his publications and full donation - but does anti VK stuff in srirangam
