@@ -2,6 +2,27 @@
 title = "1941 scheme"
 +++
 
+<details><summary>Implementation</summary>
+
+> They had one vote each. Executive trustee was sole authority. TTs can sit on the board and vote against. But ET can override with commissioner permission. Then TTs would have to challenge it in court only.  
+1941 scheme was horrible. As per TT trustee election rules, ET has to conduct elections for TT trustees by preparing the electoral rolls.  
+But they have not veen doing it since long.  
+TTs don't go to court because if they do, court will take its own time and ET in the meantime would become too pro tk.  
+The tks of kanchi r hand in glove with govt on all nonsense decisions.  
+But only now at least some TTs have decided enough is enough and have started fighting the ETs openly.
+\- RL
+
+> Around 1960s HR&ce started appointing a smartha/madhva who is their own employee as trustee of this temple, without thathachars conducting their election.  
+so govt employee was now the trustee of this temple for he last 60 years. - vivek surya  
+
+> He thinks that TTs can conduct elections by themselves and force their trustee nominations on the board. But the rules dont say so - RL
+
+Possible fix -  
+they can use the triplicane reinstation of their pre 1941 trustee system as precedence.  
+Triplicane had an Iyengar, komati and a shudra TK as three trustees. hrce tookover similar to varadaraja, now the old order has been reinstated
+</details>
+
+
 SRI DEVARAJASVAMI DEVASTHANAK, KANCHEEPURAM
 
 1. The temple of Sri Deyarajasvani at Little Conjeevaram and all the shrines attached thereto (herein after referred to as the Devasthanam) shall be administered under the following scheme:
@@ -21,7 +42,7 @@ The person appointed as Executive Trustee shall hold office for a period of five
    - a) No one shall be elected as honorary trustee, who is not-
       1. A lineal male descendent of Koti Kannikadanan Sri Thatha desikar.
       2. Over 25 and under 65 years of agos
-      3. Walling to rouide within 5 miles of Conjeevaram during period of his office.
+      3. Willing to reside within 5 miles of Conjeevaram during period of his office.
    - b) No one shall be elected an honorary trustee or shall continue to hold office as an honorary trustee - 
      - He been convicted of an offence involving moral turpitude or has had an order passed against him under sections 109 of 110 of the Criminal procedure code.
      - Is an undischarged insolvent. 

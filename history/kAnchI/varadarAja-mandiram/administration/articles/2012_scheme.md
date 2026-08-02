@@ -2,6 +2,11 @@
 title = "2012 scheme"
 +++
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Under stay by 2019 judgement.  
+</details>
+
 
 1. Thathachariar Trustee
 2. One Smartha or Madhwa Brahmin Trustee 
