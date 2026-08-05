@@ -4,8 +4,13 @@ title = "मुकुन्द-माला"
 
 <details><summary>कर्तृत्वम् (द्रष्टुं नोद्यम्)</summary>
 
-No citation from it prior to the 14th century.  
-Unlikely to be the work of kulashekhara ALvAr. 
+The text itself was definitely in vogue even in 10th/11th centuries -  
+inscription (Sanskṛit language and 135h CE Grantha alphabet) recording a gift to Vishṇu temple of Nânâdêśî-Viṇṇagar at Pukkam/ Arivattanapuram / Arimaddanapura / pagAn from Śrî-Kulaśêkhara-Nambi of Magôdayarpaṭṭaṇam (Cranganore) in Malaimaṇḍalam  
+refers to verse 6 - [TW](https://whatisindia.com/inscriptions/epigraphica_indica/vol7_1902-03/hultzsch51.html) .  
+
+
+Unlikely to be the work of kulashekhara ALvAr - since there is no reference to this text before MMs time.
+
 </details>
 
 
