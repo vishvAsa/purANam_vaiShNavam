@@ -21,6 +21,8 @@ I guess the question how "largely" do they ignore it. But let's say they don't s
 Counter speculation -  
 Early skandha-s may've been composed earlier by trans-Indian bhAgavata v1s, with strong connection to draviDa-desha.  
 Later skandhas (esp 10 and 11) have counter-normative bhakti-catatonia type content. Doesn't fit dominant SV bhakti orthodoxy of TN. They might've been added in the then devastated north.  
+
+> It's commonly accepted that 10th and 11th are the core and the rest accreted around it (cf Hazra, Bryant).
 </details>
 
 
