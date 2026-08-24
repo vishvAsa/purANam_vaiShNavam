@@ -15,3 +15,20 @@ An earlier veda-aligned phase by vaiShNava-oriented $V_1s$ engaged in shrauta pr
 This was followed by a second South Indian phase in a largely bhakti-oriented community. I suspect at least the $V_1s$ of these communities might have had some long-term continuity, even if they had migrated from the north to the south at some point.
 
 I guess the question how "largely" do they ignore it. But let's say they don't see it is a foundational text. It is indeed for reasons like that one cannot blindly accept a simple version of the South Indian theory.
+
+<details><summary>विश्वास-टिप्पनी</summary>
+
+Counter speculation -  
+Early skandha-s may've been composed earlier by trans-Indian bhAgavata v1s, with strong connection to draviDa-desha.  
+Later skandhas (esp 10 and 11) have counter-normative bhakti-catatonia type content. Doesn't fit dominant SV bhakti orthodoxy of TN. They might've been added in the then devastated north.  
+
+> It's commonly accepted that 10th and 11th are the core and the rest accreted around it (cf Hazra, Bryant).
+</details>
+
+
+## kerala
+> There is an interesting concentration of medieval Bhagavata exegetes in Kerala that have their lineages flow into the northern ones. It's far too late to be particularly definitive evidence for the text's origin, but it is interesting when we consider the other arguments. If we do accept e.g. Uskokov's speculation on the final redaction, then one can construct a narrative of a (prototype) form of the Bhagavata being passed down by Nambudiri-s. - Andra  
+It's quite possible that Nambudiri bhāgavata exegesis tradition postdates the arrival of tuluva mādhvas in large numbers, as a competing group of temple priests (primarily iirc) - aniruddha  
+
+
+it still leaves open the direction of transfer of the bhAgavata purAna tradition, if one happened.s
