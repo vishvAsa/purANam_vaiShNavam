@@ -25,6 +25,8 @@ Later skandhas (esp 10 and 11) have counter-normative bhakti-catatonia type cont
 > It's commonly accepted that 10th and 11th are the core and the rest accreted around it (cf Hazra, Bryant).
 </details>
 
+>  Parāśarabhaṭṭa seems to have not cited the Bhāgavatam in his Viṣṇusahasranāma bhāṣya, despite having cited numerous other texts. The lone citation identified by the editor as being from Bhāgavata - "nārāyaṇaparā vedāḥ" is however also found in the Hayaśiropākhyāna section of Mahābhārata, which, being pārt of the Nārayaṇīya, must have been familiar to Parāśarabhaṭṭa. Since PB himself seems to have not named the source, I'm inclined to think that he took it from the MBh. If, as I have determined, there are no other citations from B in his work, it'd be a very strange omission if the text was already available and in circulation in his circles. - aniruddha 
+
 
 ## kerala
 > There is an interesting concentration of medieval Bhagavata exegetes in Kerala that have their lineages flow into the northern ones. It's far too late to be particularly definitive evidence for the text's origin, but it is interesting when we consider the other arguments. If we do accept e.g. Uskokov's speculation on the final redaction, then one can construct a narrative of a (prototype) form of the Bhagavata being passed down by Nambudiri-s. - Andra  
