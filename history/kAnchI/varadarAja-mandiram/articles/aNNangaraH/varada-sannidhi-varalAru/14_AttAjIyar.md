@@ -35,13 +35,8 @@ Besides this I shall get Srisailesa thayapatram commenced, as at the Koil, by Sr
 
 <details><summary>रविलोचनः (द्रष्टुं नोद्यम्)</summary>
 
-Btw the aathaan jeeyar agreement version shown by TKS has no signature. Original is not found with anyone now. Even in 1915 court order this was submitted as an exhibit. But original was not found back then itself.
-
-We only know that Tenkalai patram was allowed by the agreement. The so called claim that it was the mamool in this temple (as claimed to have been written in the agreement) is certainly not proven.
-
-My hunch is that it was indeed the norm in 1710. And only because TTs had left kanchi after 1646. Utsavar was taken to udayarpalayam. TKS might have recited their own patram in the absence of TTs and their sishyas.
+See: [TW](/rAmAnujIyam/paramparA/kalai-quarrel/articles/ravilochanaH/dayA-pAtra-taniyans)
 </details>
-
 
 १११। इन्द उडऩ्बडिक्कै श्रीदेवराजस्वामि तेवस्ताऩत्तिल् मात्तिरमल्ल, काञ्जी पुरत्तिल् मऱ्ऱुमुळ्ळ १८ तिव्यदेशङ्गळिलुम् श्री वैष्णव आऴ्वार् आचार्यर्गळ् सऩ् ऩिदिगळिलुम् सकल श्रीवैष्णवर्गळिऩ् क्रुहङ्गळिलुम् वॆगुगालमाग मामूलाग श्रीसैलेसदयाबात्र तऩियऩे आचारत्तिल् इरुन्ददाऩ उण्मैयै विळक्कुगिऩ्ऱदु।
 

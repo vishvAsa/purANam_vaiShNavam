@@ -54,6 +54,11 @@ Likely the earlier year, if the below is correct -
 > Tirumaliengar was a man of rare talents and ability, and during his time the kingdom of Mysore reached the summit of its prosperity. The king while on his deathbed entrusted his infant son Kantirava Narasaraja Wadayar who was deaf and dumb to the care of his Minister Tirumaliengar and his Pradhan Appajiah, and breathed his last in 1704.  – Mysore pradhans by M.A. SRINIVASACHARYA and M. A. NARAYANAINGAR (SRI. SRIVAASAANANDA SWAMY).
 
 While the claim that the mute king was an infant is false, the chief minister tirumalai iyengar was melukoTe tenkalai. It's unlikely that, acting on behalf of a deaf and dumb king, would've issued a pro-vaDakalai order.
+
+Indeed, Origin and growth of Sri Brahmatantra Parakala Mutt : Desikacharya, N. correctly cites the earlier king [TW](https://archive.org/details/in.gov.ignca.7352/page/n172/mode/1up) - 
+
+> Kannada Sannad by Kanthlrava Narasaraja Wodeyar (1639-59) 13th lunar day of the dark half of Jyeshtha in the cyclic year of Virodhi. “The Sannad is issued in the name of the King Kanthlrava Narasaraja Wodeyar. ..." 
+
 </details>
 
 
