@@ -22,6 +22,8 @@ title = "स्तुति-मुक्तक-सङ्ग्रहः"
 तं देवमेव वरदं शरणं गतोऽस्मि ॥१ ॥
 </details>
 
+<div class="js_include" url="/rAmAnujIyam/kAvyam/padyam/parAshara-bhaTTaH/tvam_me.md" unfilled newLevelForH1="5" includeTitle="false">   
+
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 "त्वं मे" "ऽहं मे" "कुतस् तत्" "तद् अपि कुत" "इदं वेद-मूल-प्रमाणात्"  
@@ -80,7 +82,7 @@ So, when Parasara Bhattar sees the Lord’s idol wrapped with wet clothes during
 क्वाक्रोशः कस्य गीतादिषु मम विदितः कोऽत्र साक्षी सुधीः स्यात्  
 हन्त! त्वत्पक्षपाती स इति नृकलहे मृग्यमध्यस्थवत्त्वम् ॥ ५॥
 </details>
-
+</div>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
