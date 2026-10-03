@@ -2,6 +2,8 @@
 title = "ItihAsa-mAlA"
 +++
 
+Source: [TW](https://archive.org/details/srivenkatachalai015452mbp/page/n1/mode/1up)
+
 <details><summary>रविलोचनाभिप्रायः (द्रष्टुं नोद्यम्)</summary>
 
 Venkatachala itihasa mala is later day fraud- not written by anandanpillai. It claims that ramanuja installed Govindaraja in 1077 itself - which is wrong.

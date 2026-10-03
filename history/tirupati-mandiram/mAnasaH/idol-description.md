@@ -329,17 +329,18 @@ _...Subhaktasulabhō devō vēṅkaṭēśō dayānidhiḥ |_
 
 **The Forehead**
 
-There is a vertical line, slightly raised from the idol's surface, extending from the center of the eyebrows up to the top of the forehead. This is the **original, integral** _**Tilaka**_ of the idol. It is a _raised area_, not a chiseled indentation. Due to the dim ghee-lamp lighting, the shadows cast by this line can sometimes be misinterpreted as a "third eye," fueling more rumors. This raised line forms the base for the large, man-made camphor _Naamam_ (mark) applied daily.
+There is a vertical line, slightly raised from the idol's surface, extending from the center of the eyebrows up to the top of the forehead. This is the **original, integral** _**Tilaka**_ of the idol. It is a _raised area_, not a chiseled indentation.  
+Due to the dim ghee-lamp lighting, the shadows cast by this line can sometimes be misinterpreted as a "third eye," fueling more rumors. This raised line forms the base for the large, man-made camphor _Naamam_ (mark) applied daily.
 
 **Ears and Earrings (Integral)**
 
-massive earrings called **Makara Kundalas**. The tail of the mythical _makara_ (a sea creature) loops into the ear-hole while its body hangs down, with the head resting on the Lord's shoulders.
+Massive earrings called **Makara Kundalas**. The tail of the mythical _makara_ (a sea creature) loops into the ear-hole while its body hangs down, with the head resting on the Lord's shoulders.
 
 **The Crown (Integral)**
 
 Above the forehead is a broad, sculpted headband or **Diadem** (_Mukha-patti_). This is the base upon which the crown rests.
 
-The crown sculpted into the idol itself is a narrow, tall crown, compressing at three places. Its height (above the diadem) is approximately 20 inches. This is the **Kireeta-makuta** (royal crown) of the _Aty-uttama_ class—the "superior-most" class of crown, reserved only for the highest form of the Deit, signifying His status as an Emperor.
+The crown sculpted into the idol itself is a narrow, tall crown, compressing at three places. Its height (above the diadem) is approximately 20 inches. This is the **Kireeta-makuta** (royal crown) of the _Aty-uttama_ class—the "superior-most" class of crown, reserved only for the highest form of the Deity, signifying His status as an Emperor.
 
 - **Shape:** The shape is called _Venu-karanaabha_ (like a bamboo shoot).
     
@@ -598,10 +599,9 @@ due to its small size, it was frequently brought out of the main sanctum. this i
 
 every Wednesday, this idol is brought out into the main courtyard beyond the gatekeepers and given a 1000-kalash abhisekham (sahasra-kalasha abhisekham)
 
+## A CURIOUS YANTRA ON THE PEDESTAL
 A personal note - I had the fortune of seeing the sanctum up close , just at the threshold, very recently. Bhoga Srinivasa , was in absolute pristine condition, which is quite shocking for an idol that’s over 1500 years old.  
 This is a testament to the care taken by the Archakas to ensure no damage happens to these precious murthies.
-
-## A CURIOUS YANTRA ON THE PEDESTAL
 
 underneath the Bhoga Srinivasa idol, on the underside of the pedestal is a 6-pointed star. the SHADGUNA or shatkonaakaara yantra, symbolizing the 6 powers of Bhagavan.
 
