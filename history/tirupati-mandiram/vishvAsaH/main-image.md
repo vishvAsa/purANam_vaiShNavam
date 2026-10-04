@@ -10,6 +10,8 @@ Namoona Alayam (Replica Temple) at Tirupati - [TW](https://www.youtube.com/watch
 - Note pre-rAmAnujan copies - kautuka-bera, snapana-bera. 
 
 ## tilakam
+> There is a vertical line, slightly raised from the idol's surface, extending from the center of the eyebrows up to the top of the forehead. This is the **original, integral** _**Tilaka**_ of the idol. It is a _raised area_, not a chiseled indentation. - M
+
 > tirupati - Neither vdk nor tk. But with rights for both. Thats the reason why TKS lost their case to enforce tk namam on perumal. While vahanams and utsavar are to retain vdk namam.  
 OG supposed to be a case of kasturi tilaka only. Framed with pachakarpooram.  
 Then for want of more pachakarpooram the tilaka was expanded.
