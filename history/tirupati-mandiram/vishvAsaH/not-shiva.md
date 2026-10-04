@@ -50,3 +50,14 @@ and milk white conch (the other held)."
 
 ## nAyanmArs
 > It must be noted that not one Nayanmar has sung about Thiruvengadam. Where as 10 Alwars ( or 11 ) have sung about Thiruvengadam/ Srinivasa. Iirc Nayanmars have sung many verses on the Lord of Kalahasti which is very close to Thirupati.
+
+## अलीकानि
+### शङ्कर-विजये 
+शङ्कर-विजयाख्ये काव्ये ऽर्वाचीनतरे ऽपि - 
+
+> अद्रौ बिम्बाद् अधो-भागे  
+यन्त्रं संपत्-प्रदायकम् ।  
+षड्-आस्य--विष्णु-लक्ष्मीनां  
+धनाकर्षण-संज्ञकम् ॥ ३७
+
+इति विष्णु-लक्ष्म्योर् अन्तरा सुब्रह्मण्योल्लेखो वर्तते। 
