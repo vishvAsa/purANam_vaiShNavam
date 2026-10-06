@@ -167,7 +167,7 @@ THE TIRUMALA temple
 Immediately to the left of the gopuram entrance, there is a small shrine dedicated to Varadaraja, at a distance of 7 feet to the south from the inner gopuram, and 2 feet from the east prakaram wall. It is 20 feet in length and 15 feet in width. It consists of a high adhishtana, an antarala, a garbhagriha and a vimana of the Vesara type. The walls of the garbhagriha are decorated with four pilasters; the doorway is flanked by a pilaster on either side and surmounted by a kapota decorated with nasika surmounted by simhalalata. 
 
 
-## (xvii) Potu room xvii 
+## (xvii) Potu room
 
 To the south of the Varadaraja shrine is the main kitchen known as Potu which is 61 ft. x 30 feet and stands on a basement 24 feet high. The cooking of all naivedya articles is done here. Even now only earthen pots are used for this. There is a small shrine inside enclosed to the doorway of the kitchen dedicated to Madapalli Nachiyar, also known as Vakuladevi. She is popularly believed to be the mother of Srinivasa and is supposed to keep a watchful eye over the doings of the cooks. 
 
@@ -177,7 +177,7 @@ To the south of the Varadaraja shrine is the main kitchen known as Potu which is
 In front of the potu and adjoining the corridor which runs to the west, is a well known as Bangaru Bavi from which all the water required for the temple and the kitchen is drawn through stone pipes. This well is considered to be a holy one The site of it is as directed in the Agamas. The system of water supply here recalls a similar arrangement at Hampi city by the Vijayanagara kings. This is a very rare and interesting extant specimen of Vijayanagara style of well and method of drawing water from it. 
 
 
-## (xix) Kalyana Mandapam xix 
+## (xix) Kalyana Mandapam
 
 On the south-western corner of the Vimana pradakshina is a spacious Kalyana Mandapam noted for its exquisite sculptures. It is 80 feet × 36 feen Architecturally it is similar to the Tirumalaraya mandapam. At its western cnd is situated a small shrine of black granite containing four pillars cach with three pillarets projecting. Behind this shrine is a raised portion called the Yagasala. 
 
@@ -211,11 +211,11 @@ The earliest reference to this god who is popularly known as alagiyasingar, is f
 
 Originally there were two other rooms like the Chandana room and the Parimala room where sandal paste and perfumery articles were being kept. But these have now been removed. 
 
-## (xxii) The structural complex of the main shrine xxii 
+## (xxii) The structural complex of the main shrine
 
 The main shrine which contains the Garbhagriha is a complex of structures. It starts with the Tirumamani mandapa at the eastern and end goes on to the Bangaru Vakili, the Snapana mantapa, the Ramar Meda, the Sayana mandapa and the Garbhagriha in that order. Part of this area, ending with the northern and southern wings of the mukkoti pradakshinam inside, is enclosed by a thick stone wall which is plain. The northern wall of the mukkoti pradakshina is longer and covers a longer distance. The Tirumamanı mandapa and the Snapana mandapa project to the east from the front wall between the two side wings of the pradakshinam. Thus the main shrine appears to be in three sections if looked at from the north. 
 
-## (xxiii) Tirumamani mandapa xxiii 
+## (xxiii) Tirumamani mandapa
 
 This is an open pillared hall whose northern and southern walls are in three sections, the central section being wider then the other two. The front and back sections stand on an adhishtana which contains upana, a broad and a narrow patta, padma, gala, tripatta, fluted horizontal all over, another gala cut into compartments by short pilasters, and kapota decorated with 
 
@@ -253,7 +253,7 @@ Crossing the Snapana mandapa we enter the Ramar Medai. Originally the Ramar Meda
 
 The Mukkoti pradakshina is the first circumambulatory path around the original central shrine comprising of the garbhagriha and its mukha mandapa called Sayana mandapa. This pradakshina is open in the temple only one day in a year that is on Vaikunta Ekadasi day. The pradakshina is open only at the north, south and western portions. This is a pillared varandah in three sections. The southern section has a row of six pillars, the western section four, and the northern two rows of seven pillars each. All the pillars are round and have Chola capitols with the broad faces fluted and with a circle in the centre. There is a shrine of Vishvaksena (Senai Mudaliyar) on the northern side. The walls on the northern side have some sculptures and ornamental niches. 
 
-## (xxviii) Sayana mandapam xxviii 
+## (xxviii) Sayana mandapam
 
 Further to the west is the Sayana mandapa which must have been the original antarala. This is a room about 18'-6" square. This mandapa 
 
