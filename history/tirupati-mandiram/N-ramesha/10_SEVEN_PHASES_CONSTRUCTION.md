@@ -205,8 +205,7 @@ The architectural peculiarities in the above are listed below:
 
 Some explanation has to be found for the above peculiarities, and especially for the nearly 8’ thickness of the walls of the garbha griha. The probabilities are discussed below. 
 
-236 
-
+[[P236]]
 
 ### (vii) The fourth phase of the construction of the Tirumala temple, 
 
@@ -222,7 +221,7 @@ The agama rules also lay down elaborate instructions about the thickness of the 
 
 The area of the base of the Garbha griha being (12′-9′′), and since on an average, the proportion of the area of the Garbha griha to base of the Vimana is ½ , the area of the Vimana could only be 2×(12′-9′′)<sup>2</sup>(ie., 324sq. feet. The side of the Vimana square, which will be equal to the length of the wall of the Garbha Griha and twice the thickness of the surrounding wall, would be the square root of 324 or 18'. Deducting from this 12' 9", which is the inner length of the Garbha Griha, we have twice the thickness of the walls as 5' 3" or the thickness of each wall of the Garbha griha would be 314” or slightly more than 2} feet. The thickness could thus have only less than two hastams as per the measurement laid down in the Silpa texts. 
 
-237 
+[[P237]]
 
 At the moment the overall thickness of the wall is 7′ 9′′ a little over 5 hastams. 
 
@@ -255,7 +254,7 @@ When an incomplete inscription of this type is seen on a new wall of a later dat
 
 The reason as to why the Ramar Medai was closed cannot now be stated with complete certainty. Either it might have been done for the purposes of safety or it might have been deliberately done to frustrate any attempt to instal murthis in the niches of the Mukkoti pradakshina as a Kovil for two additional murthis, since perhaps after the religious reforms brought about Ramanuja, people might have been overanxious to prevent the Pancharatras by forming a chaturmurti alaya in the temple by putting up Pancharatra images on the outer faces of the south west and north walls of the Garbha griha. 
 
-240 
+[[P240]]
 
 SEVEN PHASES IN THE CONSTRUCTION OF THE TIRUMALA TEMPLE 
 
@@ -263,9 +262,9 @@ In inscription (No. 17-T.T.) the old temple is called the Koyil alvar and the re
 
 The old temple had a covered corridor surrounding it on all sides, with an open or covered antaralam to permit rain water from the vimanam or roof to flow into the drain below surrounding the walls. These had to be demolished to make room for the foundations and walls of the new structure. The old prakaram walls should have been demolished before the foundations for the new temple were laid. The inscription does not speak of the old prakaram walls nor does it state in clear terms that new prakaram walls were built. It says that certain old inscriptions which were on the walls of the old temple and true copies of which were already taken (before building the new temple walls) should be reengraved on the outer face of the north wall of the first prakaram. That there were the old prakaram walls together with pradakshinam could easily be understood from the very large number of stones showing fragmentary and incomplete inscriptions which have been built into the inner face of the walls of the new pradakshinam and also the roughly dressed bald round stone columns used in the new pradakshinam. These columns do not go well with the architectural beauty and finish of the new temple walls. The inner faces of the new prakaram walls containing fragmentary inscriptions on the roughly dressed faces of the old stones present a sorry contrast to the walls of the new temple. The portion of the old temple from which these stones could have come should be the old prakaram. The new pradakshinam along with its prakaram walls is also called a temple in the inscription "Kovilalvarukku Kovil" (a temple for the temple of the Koyilalvar). It is unusual to call the first pradakshinam a temple. A temple usually contains an image for worship. So we must presume that this new pradakshinam was designed to hold within it one or more images for worship. The design of the outer face of the new Garbhagriham walls and the closure of the antaralam space in the roof of the pradakshinam support this view. A look at the south wall will show that a niche is sculptured centrally in the body of the wall. There are similar nicheson the western and northern walls also. There was (and probably still is) oneon the cast wall also, a little to the south of the doorway. This has been covered up by one of the thick walls subsequently formed which enclose the Ramar Medai. The space enclosed by these two bits of walls on the south and north sides formed the eastern wing of the new pradakshinam. This was however subsequently walled up. These niches form an essential feature 
 
-16 
+[[P16]]
 
-241 
+[[P241]]
 
 THE TIRUMALA TEMPLE 
 
@@ -297,7 +296,7 @@ There are three important shrines in this prakara-shrines to Varadaraja, Ramanuj
 
 There are several fragmentary inscriptions on its base. The earliest of them narrates the pledge of Venkatatturaivar to carry on the Nandavanam, 
 
-243 
+[[P243]]
 
 THE TIRUMALA TEMPLE 
 
@@ -311,7 +310,7 @@ This is a simple pillared mandapa to house the holy Stambha and the Balipitha. L
 
 Its finely carved high pillars with warriors riding on horses etc., remind one of similar mandapas at Srirangam, Madurai and Sriperumbudur. They 
 
-244 
+[[P244]]
 
 SEVEN PHASES IN THE CONSTRUCITON OF THE TIRUMALA TEMPLE 
 
@@ -333,7 +332,7 @@ This seems to be the earliest mandapa in this prakara. There is an abandoned shr
 
 On its vyala-vari, in three places we see prominently the Pandyan emblem. The stambhas and the kodungai are in late Chola style with pushpa bodhikai and kudu with yali head. We have no inscription giving its exact date of construction. The earliest inscription on it is of the time of Yadavaraya Viranarasimha, 1217 A.D. Chronologically, the next inscription is dated 1260 A.D. But the most interesting one, though fragmentary, is the one in the first tier which refers to Sundara Pandya, 1251-1275. Hence, it can be 
 
-245 
+[[P245]]
 
 THE TIRUMALA TEMPLE 
 
@@ -357,7 +356,7 @@ from the first or second century A.D.
 
 (ii) The existence of the Saapana mandapa in the 10th century A.D. when the temple was known as Tiruvilan Kovil. 
 
-246 
+[[P246]]
 
 SEVEN PHASES IN THE CONSTRUCTION Of the tirumALA TEMPLE 
 
@@ -379,7 +378,7 @@ There is one peculiar feature in the modern Tirumala temple. In the present Aina
 
 To conclude, the Šri Venkatēšvara temple at Tirupati has a hoary antiquity. Šiļappadikāram of 3rd-4th-7th century A.D., refers to the standing figure of Vishnu on the high hill in the Vengadam hill range. The type of structure in which the image is enshrined is not however mentioned. Probably it was a free standing image mounted on a base in a ŝilä prākāra similar to Šankarshana Väsudēva of Nagari in Rajasthan. Subsequently it must have been enshrined in a garbhagriha with an entrance and a door step as we find mentioned in Tirumangai-Alvår hymns sung in praise of Lord Venkatesvara at Tiruvēngadam 
 
-247 
+[[P247]]
 
 THE TIRUMALA TEMPLE 
 
@@ -395,7 +394,7 @@ These features present a fully developed architectural decoration-meant to be se
 
 The epigraphical evidence available at Tirupati and elsewhere provides us with an interesting piece of  data about the development of this shrine complex. The history of this shrine between c. 600-1200 A. D. is not clear. The Tiruchänür inscription (219-G.T.) of Dantivarman Pallava in 51st regnal year registers the benefactions to Tiruchānür temple and also refers to the temple of the Vengadam hill. Another inscription dated in the 14th year of KöppătraMahendrapanmar, refers to a gift made by one Sāmavai alias Kādavaṇ Perundēvi, daughter of Pallavappërkaḍaiyär and queen of Sattivitañkaņ alias 
 
-248 
+[[P248]]
 
 SEVEN PHASES IN THE CONSTRUCTION OF THE TIRUMALA TEMPLE 
 
@@ -405,5 +404,4 @@ Probably the garbhagṛiha, antarāla, sayana-maṇḍapa were built during this
 
 Today there is a closed passage which runs around the sanctum called as vaikuntha pradakshṇa which is kept open only on vaikuṇṭha ēkādaši day in the year. Who was the author of this addition to the temple complex. When did he do it, and why did he do it. Since the garbhagṛiha with all the artistic embellishments was intended to be open for view it could not be the work of Yadavarayas who enlarged and improved the shrine. Since we find inscriptions of Krishṇa Rāya on the outer wall of the mukha maṇḍupa— which are partly covered by the Vaikuņţha pradakshiņa the same must post date the Krishṇaraya's reign. To the present author it appears to be the work of influential important Vaishnava Āchāryas during the post-Krishṇa Rāyas period particularly under Achyuta and Sadāŝiva who favoured Vaishnavism. During this period Vaishnavism became the dominant creed and influence of Tätächaryas was at its highest. It is quite likely that in order to highlight the supremacy of Vishņu for whom the Vaikuntha Ēkādasi is the most sacrep parvadina they might have introduced this new custom of allowing the pilgrims in the inner circuit of Vaikuntha-pradakshiņa by enclosing the Sanctum with a plain wall. 
 
-249 
-
+[[P249]]

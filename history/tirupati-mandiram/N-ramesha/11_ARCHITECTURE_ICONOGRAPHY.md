@@ -3,7 +3,7 @@ title = "11 ARCHITECTURE, ICONOGRAPHY"
 +++
 THE ARCHITECTURE SCULPTURE AND ICONOGRAPHY OF TIRUMALA TEMPLE 
 
-I. General. 
+## I. General.
 
 A 
 
@@ -11,13 +11,9 @@ study of the architecture of the Tirumala temple is interesting and throws light
 
 Even some of the Gopurams built during the 13th Century as for example, the entrance Gopura at Tirumala, have only retained the original basement whereas the super-structure has been continuously renovated throughout the ages. The Ananda Vimana has also been continuously and periodically renovated and gold-plated with the result that it is difficult to trace any architectural evolution in the structures of the temple. 
 
-The temple witnessed unparalleled patronage at the hands of the illustrious Vijayanagar emperors, and the impetus given by those rulers to the development 
+The temple witnessed unparalleled patronage at the hands of the illustrious Vijayanagar emperors, and the impetus given by those rulers to the development [[P250]] of temple architecture is felt wholly and fully in Tirumala temple. It is, in Tirumala temple, that we can at one spot study the evolution of the different motifs of the temple architecture of that period.
 
-250 
-
-of temple architecture is felt wholly and fully in Tirumala temple. It is, in Tirumala temple, that we can at one spot study the evolution of the different motifs of the temple architecture of that period. 
-
-II. General Introduction to Temple Architecture. 
+## II. General Introduction to Temple Architecture.
 
 To study the architectural features of a temple it is very necessary to study carefully the details which the various architectural motifs have undergone during the ages. The changes in the motifs and the ornamentations have been so characteristic of the architects and the sculptors of the each age, that it is possible to postulate with some measure of accuracy, the period to which any particular feature belongs. In a very broad classifications we may say that the South India temple motifs can be divided into five epochs viz., Pallava, Early Chola, Late Chola, Vijayanagar and Modern times. 
 
@@ -29,7 +25,7 @@ Temple structures are broadly divisible into five parts viz., the plinth called 
 
 Each of these has got its own sub-divisions with specific detailed names given to them in the agamas. Fig. 1 given below shows a modern temple with the names given to each architectural feature. 
 
-251 
+[[P251]]
 
 THE TIRUMALA TEMPLE 
 
@@ -59,7 +55,7 @@ Fig. 5 below shows the attic of different kinds of temples. These attics which a
 
 There are two kinds of ornamentation of temple walls viz., (i) the gosta panjara which contain images of the subsidiary dieties, done in high relief and (ii) the kumbha panjara which is a pilaster and the role of which is purely decorative. Fig. 6 & 7 below illustrate them. 
 
-252 
+[[P252]]
 
 THE ARCHITECTURE 
 
@@ -73,15 +69,15 @@ As far as sculptures are concerned they are found embedded in the walls of the v
 
 Just like the architectural features of the temple, the spectrum of the sculptures of Tirumala temple presents a very representative cross-section of the Vijayanagar contribution to the development of the art in the Country. Under the Vijayanagar patronage increased importance was given to more and more facilities for public worship not only in Tirumala, but in a number of other places like Kanchi etc. Several ancilliary structures like, kalyana mandapa, Vasanta mandapa, Neerali mandapa etc., came to be built as a central place for congregation for pilgrims and devotees to celebrate the festivals of the Gods. Of particular mention is the concept of the kalyana mandapa to which for various reasons the Vijayanagar kings attached a great deal of importance. In many of the temples kalyana mandapas are found generally in the agneya or the north-eastern corner of the outer court of the temple. In building these mandapas with their massive pillars, though the architectural framework remained more or less the same, the sculptor had a wide range of original motives in which he could exercise his genius and his art. The embellishments on the adhistana mouldings, pillars, etc., became markedly rich during Vijayanagar times, and the artistic excellence of these intricately worked colonnades attained their high watermark. The pillares are tall and monolithic and all the space is sculptured with hunters, yalis etc. The composite columns themselves with cubes alternating with cylinders present a pleasant appearance to the eye. The fine varastile step entrance and some marvellous works in stone add colour to this. 
 
-253 
+[[P253]]
 
 THE TIRUMALA TEMPLE 
 
 The various kinds of sculptures in the temple can be classed as those representing (i) natural scenery; (ii) floral designs; (iii) animals and birds; (iv) human figures; (v) portraits of kings and other personalities; (vi) Gods and Goddesses. All these are found in plenty in the kalyana mandapam and other places of the Tirumala Temple. 
 
-IV. The entrance Gopura and Mandapa of Tirumala Temple. 
+## IV. The entrance Gopura and Mandapa of Tirumala Temple.
 
-(a) Architecture. 
+### (a) Architecture.
 
 This is a solid stone structure and the style of the pilasters on the outer walls indicates the late Chola style. There is an inscription here of the Yadava king of 1217 A.D. in which the queen made a gift of sixty four cows etc., for service to the Lord. There are a few more inscriptions on the Gopura basement belonging to 13th Century A.D. and hence this Gopura must have been built about that period At the moment there are quite a number of stucco figures of Vaishnava Gods like Hanuman, Narasimha, etc., in this. This Gopura has been so heavily rebuilt and renovated till latest times that except for a trained expert the other architectural features are practically not traceable. 
 
@@ -95,7 +91,7 @@ Plate 2: Gopi-Vastrapaharana Scene.
 
 At the entrance Gopura mandapa is a sculpture of the Gopi Vastrapaharara scene. This is a famous incident in the Bhagavata purana. The Lord is said to have gathered the dress of the Gopis while they were having their bath and is said to have teased them for sometime. In the sculpture two of the 
 
-254 
+[[P254]]
 
 Gopis are shown with folded hands praying to the Lord to return their sarees. Krishna is shown on the top of the tree which is carved artificially with rather stylistic features. The tree looks quite unnatural. One of the Gopis is depicted as half-hiding behind a tree probably on account of her bashfulness. This is a typical type, of the representation of one of the famous lilas of Lord Krishna. 
 
@@ -105,13 +101,13 @@ At the entrance mandapa is also found an interesting sculpture of Vishnu as Adim
 
 Normally in icons of Adimurti,Vishnu are shown with the right leg hanging and left one folded and resting upon the seat. One hand normally rests upon the seat and the other on the left knee. In some ancient sculptures Brahma, Siva are also shown. This figure probably in consonance with the iconography of Lord Venkatesvara is shown in a standing posture with the hands in the abhaya and kati hasta postures. 
 
-V. Pratima Mandapa of the Tirumala Temple. 
+## V. Pratima Mandapa of the Tirumala Temple.
 
-(a) Architecture: 
+### (a) Architecture:
 
 The Pratima mandapa is so called because it contains the bronzes of the Vijayanagar King Krishnadeva Raya and his two consorts. The mandapa is in exquisite style and is full of sculptures typical of this period. 
 
-(b) Sculpture 
+### (b) Sculpture
 
 Plate 4: A Pillar. 
 
@@ -121,7 +117,7 @@ Plate 5: Bronze of Krishnadeva Raya and his Queens.
 
 This is a bronze statue of the famous Vijayanagar Emperor Krishna Deva Raya (1509-1529) with his two consorts Chinna Devi and Tirumala Devi standing in an Anjali pose before the Lord. 
 
-255 
+[[P255]]
 
 THE TIRUMALA TEMPLE 
 
@@ -143,7 +139,7 @@ Plate 8: Bronze of Raja Todarmal, his queen and his mother.
 
 The group of bronzes actually forms part of the Pratima mandapa. He was a general of the Nawab of Carnatic Sadatulla Khan who ruled at the beginning of the 18th Century A.D. His mother was Mata Mohan Dey and his queen was called Pita Bibi. The names of the ladies are inscribed on their shoulders. 
 
-256 
+[[P256]]
 
 THE ARCHITECTURE 
 
@@ -171,9 +167,9 @@ These are erotic scenes shown in the sculptures in the Pratima mandapa. Such sce
 
 The idea in publicly portraying such scenes is based on the theory that for man, erotic ideas, cannot be eliminated from the human mind so long 
 
-17 
+[[P17]]
 
-257 
+[[P257]]
 
 THE TIRUMALA TEMPLE 
 
@@ -197,17 +193,17 @@ In consonance with the above which are quite common in all Hindu temples, such s
 
 Of particular interest Plate 12 (f) above, which shows in the same pillar an amarus couple on one face, and a Rishi standing on one leg and his hands raised and doing the penance on the other side, to show that the life is composed of both good and bad and never wholly white or wholly black. 
 
-258 
+[[P258]]
 
 THE ARCHITECTURE.........................TIRUMALA TEMPLE 
 
-VI. Dhwajastamba Mandapa of Tirumala Temple. 
+## VI. Dhwajastamba Mandapa of Tirumala Temple.
 
-(a) Architecture. 
+### (a) Architecture.
 
 This is a very narrow mandapa in the western part of the Temple and has two rows of five pillars each in the north and the south. The pitha or base of this mandapa is covered in glittering gold plates. Apart from interesting sculptures in these pillars of this Mandapa, the Dhwajastamba itself carries small sculptures of Krishna as Kaliyamardana etc. Generally speaking it may be stated that this mandapa was built by about 15th Century A.D. 
 
-(b) Sculptures. 
+### (b) Sculptures.
 
 Plate 13: Matsyavatara. 
 
@@ -221,7 +217,7 @@ Plate 15: Chaturbhuja Venugopala.
 
 This is a rare image of the Lord as Venugopala showing the Lord playing on the flute with his front two hands, and the back two hands holding the Shankha and the Chakra. The Lord is depicted with his right foot hanging and with the left foot bent near the knee. He is shown as wearing a couple of tulasimalas both in the wrist and near the ankle. A typical kirita is also shown. This is a rare form of depicting Venugopala which is normally shown in a standing posture and with the legs crossed, 
 
-259 
+[[P259]]
 
 THE TIRUMala templE 
 
@@ -245,7 +241,7 @@ Plate 20: Gandabberunda.
 
 This is a typical sculpture of the Gandabherunda, which is so well known as an emblem of Vijayanagar kings. The fish like body, the face like eagle, 
 
-260 
+[[P260]]
 
 THE ARCHITECTURE......................... 
 
@@ -277,7 +273,7 @@ Plate 24 (b): Another pose of Hanuman.
 
 This is another figure of Hanuman probably in the battle field as there are prostrate figures on the ground. Alternatively the figure below may represent Rama and Lakshmana when they fell down unconscious on account of Sammohini and who were revived later when Hanuman brought the Sanjeevi. 
 
-261 
+[[P261]]
 
 THE TIRUMALA TEMPLE 
 
@@ -289,19 +285,19 @@ Plate 26: Srirama pattabhishekam.
 
 This is also found in the door jamb near the Dhwajastamba mandapa. This apparently represents the Rama pattabhishekam scene. Hanuman is shown on his knee in the ground. Sita is shown as seated to the left of the Lord. Only two brothers with bows in their hands are shown on the extreme right. 
 
-VII. Tirumalaraya Mandapa. 
+## VII. Tirumalaraya Mandapa.
 
-(a) Architecture. 
+### (a) Architecture.
 
 Originally this Mandapa must have been built by Saluva Narasimha and later extended by Tirumalaraya of the Aravidu dynasty of the 16th century after whom this mandapa is now mentioned. He was the brother of the famous Vijayanagar general Ramaraya who was beheaded in the battle of the Tallikota in 1565. This is also a pillar mandapa built in the typical Vijayanagar style. This has a central pillar surrounded by a smaller once, the main pillar having rearing horses with mounted warriors. There is a pavilion in black granite in the middle of the mandapa. Some of the best sculptures of the Tirumala temple in the finest or Vijayanagar school of sculptures are found in these. 
 
 Plate 27: Vishnu as Varaha. 
 
-(b) Sculptures. 
+### (b) Sculptures.
 
 This is an excellent picture of Vishnu as Bhuvaraha. The karnakudu and the salai at the feet of the Lord are typical. The Goddess is represented as seated in the left lap of the Lord who has a face like the varaha. The righth and of the Lord is in Varada posture and the left two hands holds the Shankha and Chakra. The face of the Lord is turned towards the Devi as prescribed in the Vaikhanasa agama. Some of the snakes are shown as being trampled 
 
-262 
+[[P262]]
 
 THE ARCHITECTURE............. 
 
@@ -331,7 +327,7 @@ Plate 32: Gaangopala or Venugopala.
 
 This is another figure of Venugopala shown with flute in the two hands and with the left leg bent to the knee and crossing the right. The Dhenu looking up to the Lord in rapt attention is also shown. 
 
-263 
+[[P263]]
 
 THE TIRUMALA TEMPLE 
 
@@ -341,9 +337,9 @@ Plate 33 (b): This is the miniature mandapa which is inside the Tirumalaraya Man
 
 Plate 33 (c): This is the present Kalyana Mandapa inside the Tirumalaraya Mandapa which gives a composite idea of the whole Mandapa done in typical characteristic Vijayanagar style, 
 
-VIII. Kalyana Mandapa. 
+## VIII. Kalyana Mandapa.
 
-(a) Architecture. 
+### (a) Architecture.
 
 The spacious Kalyana Mandapa in the south-west corner of the Vimana Pradakshina is well known and very famous for its exquisite sculptures. Judging from the style of the architecture and some of the sculptures this was perhaps built in the 15th century A.D. The Kalyanotsavams were being performed here till a few years ago. 
 
@@ -351,13 +347,13 @@ The
 
 The four pillared central mandapa within the Kalyana Mandapa is a marbel and a masterpiece of artistic skill. It is made of very highly polished black granite and the wealth of details and the exquisite and delicate workmanship here makes it one of the greatest masterpiece of Vijayanagar art. flexible kodungu, the sharply cut pushpabhodika-punumai corbel with its beautiful stoop, the lovely miniature sculptures that adorn all the facets of the pillars lend to it an exquisite charm and delicacy that makes it probably the greatest masterpiece of the Vijayanagar workmanship. In addition this contains many has reliefs showing many interesting scenes. 
 
-(b) Sculptures. 
+### (b) Sculptures.
 
 Plate No. 34: Yoga Narasimha. 
 
 This is a sculpture of Yoga Narasimha sitting with the two feet crossed and in an utkutika posture. A pattika or a piece of cloth is keeping his legs in position. The Lord's front two hands are hanging down gracefully over his knees. His left two hands hold the Shankha and Chakra. He has a kirita makuta and a stylised mane. He is shown as wearing several garments, 
 
-264 
+[[P264]]
 
 THE ARCHITECTURE...... ......................... TIRUMALA TEMPLE 
 
@@ -381,7 +377,7 @@ Plate No. 39: Lord Vishnu as Trivikrama
 
 This is an interesting sculpture of Vishnu in the form of a Trivikrama. The Lord is shown as standing on his left foot and the right foot extended 
 
-265 
+[[P265]]
 
 THE TIRUMALA TEMPLE 
 
@@ -405,7 +401,7 @@ Plate No. 43: Mithuna
 
 This is an exceedingly interesting sculpture of mithuna or amarus couple. The lady and the male figure are sculptured and caught in a graceful movement as if engaged in a dance. The lady has two hands held together as if begging 
 
-266 
+[[P266]]
 
 THE ARCHITECTURE.........................TIRUMALA TEMPLE 
 
@@ -431,7 +427,7 @@ Plate No. 48: Kamadhenu
 
 This is a rare sculpture of Kamadhenu shown in a middle square of a pillar. The Dhenu has a human face and is wearing a pointed cap. The left front of the paw is raised upwards. This is a very rare sculpture which is not found in plenty elsewhere. 
 
-267 
+[[P267]]
 
 THE TIRUMALA TEMPLE 
 
@@ -463,7 +459,7 @@ Plate No. 55: Ranganatha
 
 This is a sculpture of Ranganatha showing the Lord as sleeping on Adisesha and with Sridevi and Bhudevi in attendance near feet, and Brahma coming out of the Nabhikamala. 
 
-268 
+[[P268]]
 
 THE ARCHITECTURE.. 
 
@@ -491,43 +487,43 @@ These twelve show photographs of the various used in Tirumala temple for the use
 
 These vahanas are as follows:— 
 
-(a) Kalpavruksha vahana 
+### (a) Kalpavruksha vahana
 
-(b) Hamsa vahana 
+### (b) Hamsa vahana
 
-(c) Garuda vahana 
+### (c) Garuda vahana
 
-(d) Gaja vahana 
+### (d) Gaja vahana
 
-(e) Uchchaishrava vahana 
+### (e) Uchchaishrava vahana
 
-(f) Another garuda vahana 
+### (f) Another garuda vahana
 
-(g) Adisesha vahana 
+### (g) Adisesha vahana
 
-(h) Simha vahana 
+### (h) Simha vahana
 
-(i) Vimana Vahana 
+### (i) Vimana Vahana
 
 (j) The Simhasana of the Lord. 
 
-(k) Hanuman vahana 
+### (k) Hanuman vahana
 
 (1) Surya prabha. 
 
 vahanas which are now Some of them are very Even the antique ones ages that their original 
 
-269 
+[[P269]]
 
 THE TIRUMALA TEMPLE 
 
-IX. Pavitrotsava mantapam. 
+## IX. Pavitrotsava mantapam.
 
-(a) Architecture. 
+### (a) Architecture.
 
 The architecture of the mandapa is the same as the Kalyana Mandapa and there nothing special about it. 
 
-(b) Sculpture. 
+### (b) Sculpture.
 
 Plate No. 61: Narasimha 
 
@@ -553,17 +549,17 @@ Plate No. 65 (a), (b), (c);
 
 These three are sculptures of dance poses. (a) shows a dancer in an interesting karana with the head tilted to the left in a teasing posture while sitting at her heels. Similarly (b) shows a dancing couple in a typical dance posture. (c) appears to be a seated figure holding the Padma in the hand and the hair done in a bun in the typical Vijayanagara posture. 
 
-270 
+[[P270]]
 
 THE ARCHITECTURE.........................TIRUMALA TEMPLE 
 
-X. Vimana Pradakshina Mandapa. 
+## X. Vimana Pradakshina Mandapa.
 
 (a) Varadaraja shrine-Architecture: 
 
 The Varadaraja shrine is inside the Vimana Pradakshina and immediately to the left of the gopura. The architecture shows a high adhistana, an antarala, a garbhagriha and a Vimana above belonging to the Vesara order. The doorway is flanked by a pilaster on either side surmounted by a Kapota decorated with nasikas with simhalalatas above... Above these there is another kapota over the walls which is similarly decorated, the balastrades containing four steps showing the surul coming out of the mouth of the yali. The pumunai and the details of the corbels and the carnice in the pillars shows that this is done in the Vijayanagara style. 
 
-(b) Sculpture. 
+### (b) Sculpture.
 
 Plate No. 66: 
 
@@ -587,17 +583,17 @@ This shows a step in the Vimana Pradakshina.
 
 XL. Ranga Mandapa. 
 
-(a) Architecture. 
+### (a) Architecture.
 
 The Ranga mandapa is in the south-east corner of the court yard with a small portico. The Mandapa proper contains nine pillars. The front part of the shrine consists of an entrance flanked by a salakoshta on either 
 
-271 
+[[P271]]
 
 THE TIRUMALA TEMPLE 
 
 side. The kapota decorated with nasikas surmounted by simhalalatas surmount the entire front. On architectural grounds this may be slightly earlier and may be ascribed to the 14th century. 
 
-(b) Sculpture. 
+### (b) Sculpture.
 
 Plate No. 71: 
 
@@ -625,7 +621,7 @@ Plate No. 76 (a) and (b):
 
 These two show the figures of Tirumalacharya and Annamacharya the famous Tallapaka poets found near the Annamacharya shrine in the Vimana Pradakshina. Both of them are excellent and exquisite specimens or the ornate and charming style of the Vijayanagara school of art. The antariya, katisutra, the long cap, and the rich jewellery are typical. Of particular interest will be the shape of the tambura which both of them held in hand for sruti while singing. The shape of the tambura is completely different from the modern 
 
-272 
+[[P272]]
 
 THE ARCHITECTURE.................. 
 
@@ -657,13 +653,13 @@ Plate No. 81 (a) and (b): Scenes of Ramayana
 
 scenes. 
 
-18 
+[[P18]]
 
-273 
+[[P273]]
 
 THE TIRUMALA TEMPLE 
 
-XII. Narasimha shrine 
+## XII. Narasimha shrine
 
 Plate No. 82 (a), (b), (c) and (d): 
 
@@ -685,7 +681,7 @@ This shows Bala Krishna as dancing on his right foot and sucking his left toe.
 
 Plate No. 85: Alvar 
 
-XIII. Miscellaneous sculptures. 
+## XIII. Miscellaneous sculptures.
 
 This is a seated saint probably Nammalvar with his right hand held in the usual mudra found in the back corridor. 
 
@@ -697,7 +693,7 @@ Plate No. 87: Vaikuntadwara pillar
 
 This is a pillar shown in the Vaikuntadwara and done in the late Vijayanagara style in black granite. The design and artistic and other details are typical. 
 
-274 
+[[P274]]
 
 THE ARCHITECTURE......................... TIRUMALA TEMPLE 
 
@@ -724,4 +720,3 @@ This is a chain of moghul coins presented to the Lord.
 Plate No. 93: 
 
 This is an aerial view of the main Vimana and gopura from the back side. 
-

@@ -6,7 +6,6 @@ The chieftains of this family, who governed part of Tondamandalam first as Chola
 
 From these epigraphs some interesting details regarding the procedure for grants is known: 
 
-61
+[[P61]]
 
 No. 165-T.T. indicates the method of making grants of lands or villages by the kings. The Sthanattar of the temple submitted a petition for the grant of land probably in Agarapparru, which was considered by the nadavar of Kudavur-nadu and Tondapadiparr and latterly endorsed by the Variyavimanattan. The king was pleased to grant the request exactly as it was made in the petition, and his order issued orally was communicated by the Yadavaraya. This confirms the procedure observed during the Chola administration, particularly under Rajaraja III (No. 126-G. T.). 
-
