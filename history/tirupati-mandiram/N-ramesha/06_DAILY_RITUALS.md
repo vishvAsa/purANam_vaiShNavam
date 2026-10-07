@@ -126,21 +126,19 @@ During the Thomalaseva water is offered to the Lord for his daily needs. Abhishe
 
 The nityarchana then begins with the akasa ganga water being consecrated ritually and with some prescribed herbs and other articles mixed with it. The puja or archana is then done in the following manner to the Lord. 
 
-(a) Mantrasan 
+(a) Mantrasana 
 
 During this the Lord is offered water for arghya, padya and achamana. 
 
-(b) Snanasana: Sinoe abhishekam everyday to Dhruva Beram is not possible, it is done only to the Kautuka Beram. The gold kavacham of the holy feet of the Dhruva murti are removed in a separate set and the abhishekam is also done to them daily. A large number of saligramams also is given abhishekam. The Bhoga Srinivasamurti or Kautuka Beram is detached from his jivasthana and placed in a special abhishekam seat called snapana pitham. A light clothing is provided and the abhishekam according to the rituals is done, accompanied by vedic hymns. Oil is also applied and then removed by tamarind paste and water. Then abhishekam is again done with gokshira, chandana, haridrodaka, each abhishekam, being followed immediately by a suddhodaka snana. Finally a gandhodaka snana is given and the abhisehkam is closed with suddhodaka snana again. The Kautuka Beram is then dried with cloth, pushpanjali is done, and then it is restored to his Jivastana. After prokshana to the Dhruva Beram the golden link between the two is restored and pushpanyasa is done to the main Lord. All this is done between the chanting of the proper mantras. 
+(b) Snanasana: Since abhishekam everyday to Dhruva Beram is not possible, it is done only to the Kautuka Beram. The gold kavacham of the holy feet of the Dhruva murti are removed in a separate set and the abhishekam is also done to them daily. A large number of saligramams also is given abhishekam. The Bhoga Srinivasamurti or Kautuka Beram is detached from his jivasthana and placed in a special abhishekam seat called snapana pitham. A light clothing is provided and the abhishekam according to the rituals is done, accompanied by vedic hymns. Oil is also applied and then removed by tamarind paste and water. Then abhishekam is again done with gokshira, chandana, haridrodaka, each abhishekam, being followed immediately by a suddhodaka snana. Finally a gandhodaka snana is given and the abhishekam is closed with suddhodaka snana again. The Kautuka Beram is then dried with cloth, pushpanjali is done, and then it is restored to his Jivastana. After prokshana to the Dhruva Beram the golden link between the two is restored and pushpanyasa is done to the main Lord. All this is done between the chanting of the proper mantras. 
 
-(c) Pushpanyasa: This is offering of flower worship to the Devas in the first, second and third avarana starting from the purusha in the east. This is done to the three avarana devas, and then for Markandeya, Brahma and Siva. Then the offer is to be done to the Dwaradevas, Dwarapalas, Vimanapalas etc. The door step of the Garbha- 
+(c) Pushpanyasa: This is offering of flower worship to the Devas in the first, second and third avarana starting from the purusha in the east. This is done to the three avarana devas, and then for Markandeya, Brahma and Siva. Then the offer is to be done to the Dwaradevas, Dwarapalas, Vimanapalas etc. The door step of the Garbhagriha[[P134]]
 
-134 
+DETAILS OF
 
-DETAILS OF 
+WORSHIP AT TIRUMALA TEMPLE
 
-WORSHIP AT TIRUMALA TEMPLE 
-
-griha is then cleaned with water and archana is done. At present this does not appear to be done in Tirumala. 
+is then cleaned with water and archana is done. At present this does not appear to be done in Tirumala. 
 
 The agamic rule is that the nyasa for an absent deva should be deposited at the feet of the Lord. In Tirumala temple since there is no other idol represented in the Garbha Griha all the flowers are deposited at the feet of the Lord only. Since all the flowers to all the devatas is laid upon the feet of the Lord, tulasi which is laid along with others is not offered as prasadams to the devotees. 
 
@@ -158,7 +156,7 @@ There is no reference to this function nor to Koluvu Srinivasamurthy in any of t
 
 This is also an arjitha seva for which admission can be had by payment of Rs. 200/ie fee for amantranotsava 
 
-135 
+[[P135]]
 
 THE TIRUMALA TEMPLE 
 
@@ -180,13 +178,13 @@ An attempt was made in recent years to introduce madhuparkam, but local sentimen
 
 Though according to the agamic rules a homa is performed after the naivedya three times a day or atleast in connection with the morning puja, it is not being performed in the Tirumala temple. 
 
-136 
+[[P136]]
 
 DETAILS OF 
 
 WORSHIP AT TIRUMALA TEMPLE 
 
-(6) Yatrasana. 
+(b) Yatrasana. 
 
 For offering bali to all the 'devatas in the prakaram of the temple, the Baliberam or Koluvu Srinivasa should be taken out to the accompaniment of music, chants etc. In Tirumala however, such a function does not appear to have been conducted. The archaka and the paricharaka in this temple go round the vimana pradakshinam and offer Bali to Vishvaksena, Garuda, Dwaja and Yudadhipa and deposit the balance of the bali in the stones placed between the Balipitam and the Dwajasthambam. 
 
@@ -204,7 +202,7 @@ During this time free sarva darsanam of the Lord is allowed to all pilgrims. In 
 
 Naivedyam for a second time is now offered followed by a second archana with 108 names only. This is wholly a private one, and the Lord's astotharanama from the Varahapurana is now repeated. 
 
-137 
+[[P137]]
 
 During this naivedyam the food offerings (cherupulu) and other catables (panyarams or pallu) paid for by the devotees are offered to the Lord. This is an arjitha seva where the prasadam is paid for, by the devotee and after some quantity is taken away for the temple, the balance is given to the grihasta or the donor. 
 
@@ -220,7 +218,7 @@ The Ratripuja is done at night to the Lord. This is similar to the morning Tomal
 
 Ardhajamapuja or last function for the night is known as the ardhajama or the nisi puja. This is a private one and is meant for offering sweet, payasam, etc. 
 
-(xii) 9 p.m. to 12 midnight Fee Sarvadarshan is given again.  \
+(xii) 9 p.m. to 12 midnight Free Sarvadarshan is given again.  \
 Now Suddhi is again done at the temple. 
 
 (xiii) 12 midnight to 12-30 a.m. Ekantaseva.  \
@@ -228,7 +226,7 @@ Ekanta Seva or Pavalimpuseva.
 
 This is an arjita seva to which admission is given by ticket on a fee of Rs.200/-i.e. amantranotsavam. The Bhoga Srinivasa,except during the Margasira month, is laid down on the Vuyyalu hung by silver chains hanging from a beam in the mukhamantapam from which it derives its name of Sayana mantapam. This is also called Ekantaseva. At this time, milk, fruits, almond nuts etc., are offered to the Lord and a portion is distributed to the pilgrims. Two billas of perfumed chandanam are placed at the feet of the Dhruva Murti after removing the kavacham covering the feet. Half a Billa is also placed on the chest of Bhoga Srinivasa, a quarter for alarmelmangai on the chest of the Dhruva murthi. Another quarter is also left for the night puja by Brahma. 
 
-138 
+[[P138]]
 
 Tarikonda Venkamamba's barati in a plate inlaid with one of the Dasavatarams each day with pearls brought by a descendent of the family is waved before the Lord after offering milk and a few pieces of cashew nuts. During this function songs are also sung. The descendent of Tallapaka poets also sings sankirtanam of Tallapaka. 
 
@@ -251,7 +249,7 @@ After this is over the Ekanta seva takes place at about 10-30 p.m. following the
 
 It is not known from the epigraphs as to when and why this arrangement was first introduced. There is a reference in Silappadikaram, the early Tamil classic to 'puvadaiyil polindu tonriya.' The Tamil word ' Puvadai' is literally a translation of the Telugu word 'Pulangi' and hence we can ascertain that by about 8th century this Pulangi seva was in vogue. 
 
-139 
+[[P139]]
 
 THE TIRUMALA TEMPLE 
 
@@ -266,11 +264,7 @@ A ball-like paste of civet oil mixed with camphor is placed at the feet of the L
 
 It would appear that the custom of Friday abhishekam to the Lord started with the consecration of the Bhoga Srinivasa Murty whose abhishekam might have happened to fall on a Friday and the custom somehow continues that the Dhruva Murti gets Abhishekam on Friday. 
 
-The use of punugu or civet was first introduced by Devaraya in 1429 A.D. as per an inscription. From an endowment of 1496 A.D. by Kandadai Appachi Anna Ayyangar we learn that punugu kappu was applied every alternate Friday. An inscription of 1506 A.D. tells us that the application of Ponugu 
-
-140 
-
-kappu was for the abhishekam of the Dhruva Murti only, and that Alarmel Mangai Nachchiyar was having only abhishekam. This is also the current practice. 
+The use of punugu or civet was first introduced by Devaraya in 1429 A.D. as per an inscription. From an endowment of 1496 A.D. by Kandadai Appachi Anna Ayyangar we learn that punugu kappu was applied every alternate Friday. An inscription of 1506 A.D. tells us that the application of Ponugu [[P140]] kappu was for the abhishekam of the Dhruva Murti only, and that Alarmel Mangai Nachchiyar was having only abhishekam. This is also the current practice.
 
 That the Friday abhishekam became the usual weekly routine is clear from an inscription of Krishna Deva Raya of 1517 A.D. who set apart the sunkam of 1000 varahas for Punugu kapu on every 8th day. This makes it clear that the Tirumanjanam was on a weekly Friday. 
 
@@ -310,7 +304,7 @@ Tiruman kappu is put on soon after abhishekam is over. After this is done the de
 
 A portion of the paste of the refined camphor mixed with civet oil called Sripadarenu is distributed to the hereditary persons doing service and small quantities is also given to the grihastas also. 
 
-141 
+[[P141]]
 
 THE TIRUMALA TEMPLE 
 
@@ -496,4 +490,3 @@ Through the other record (No. 187-T.T.) Tirukkalikanridasar Alagappiranar provid
 This is the first mention we get of pulugu-kappu and here it is stated that it was arranged to be done every-day for six months. The next reference to it occurs in No. 336-T.T. dated in Saka 1418, wherein Kandadai Appachchiyar-Anna provided on the Friday occurring once in 15 days which happened to be the day of pulugu-kappu murai for Sri Venkatesvara, for the recitation of the Ula, a species of poem, in praise of Kandadai Ramanujayyangar and for the offering of two atirasappadi for the deity at the time of anointment with pulugukappu. The expressions of the record indicate that the pulugukappu function had been carried on for some time past and that men had become familiarised to it by that time. 
 
 There is a function, extant in the temple routine on Fridays, which is denominated punugukapu during which the Tirumeni, the holy body of the idol including the face, is smeared with civet-oil and then the Tiruman-kappu, the vertical white Vaishnavait mark in two thick patches, is formed with fine dust of refined camphor, together with an intermediate black one of musk. Further, in the present-day vocabulary of the temple, punugukapu includes not only the civet-oil and camphor but also musk and saffron, the former being used for putting on the middle mark Kasturi-tilakam on the forehead, and the latter for making up the sandal-paste besides being one of the articles of perfumery for the abhishekam. It is therefore probable that the two terms pulugu-kappu and punugu-kapu are mere variants and that the former comprised of the same four articles as the latter now does, namely punugu (civet) pachcha-karpuram (refined camphor), kasturi (musk) and kumkumapuvvu or kesari (saffron). 
-

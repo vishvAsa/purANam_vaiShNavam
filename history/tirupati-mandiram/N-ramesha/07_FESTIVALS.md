@@ -19,7 +19,7 @@ In Tirumala temple also the above type of festivals are also celebrated.
 
 ## (ii) The Brahmotsava festival. 
 
-The Brahmotsava festival at Tirumala is the most popular festival drawing huge crowds. This is a basic festival enjoined by the Sastras. The festival bear the name * Brahmotsava ' to commemorate the first Utsavam of the Lord of Tirumala which was conducted by Brahma, the Lord of Creation as per Varaha Purana. This Utsavam is conducted according to the injunctions of the Sastras. 
+The Brahmotsava festival at Tirumala is the most popular festival drawing huge crowds. This is a basic festival enjoined by the Sastras. The festival bears the name ‘Brahmotsava’ to commemorate the first Utsavam of the Lord of Tirumala which was conducted by Brahma, the Lord of Creation as per Varaha Purana. This Utsavam is conducted according to the injunctions of the Sastras. 
 
 Prior to 966 A.D., perhaps only one Brahmotsavam was conducted at Tirumala. In 966 A.D., The Pallava Queen Samavai who arranged for the installation of the Bhoga Srinivasa Murthy idol in the temple, made provisions to conduct two Brahmotsava festivals, one in Purattasi month and the other during the Mukkoti Dvadasi period. Thus two Brahmotsavas were being performed from the 10th Century A.D. The same Queen also presented a number of jewels and ornaments including a Kiritam or crown and arranged for endowments for the conduct of the festivals with a procession for the Bhoga Srinivasa Murthy for a few days immediately preceding the main festival as well as during the main festival itself in the month of Purattasi commencing on the day of Chittirai and lasting for nine days. In the same year the same Queen made a further provision for another festival for the same silver idol with two processions each day for seven days prior to Margazhi Tiru Dvadasi that is the Mukkoti Dvadasi. To meet the expenses of these, the Queen endo-wed certain lands to the temples and enjoined on the administrators called the Stanattars to take care to see that no tax was levied on the land granted by her. 
 
@@ -27,9 +27,9 @@ The Chola records make no mention of any of these festivals but a later epigraph
 
 At the time of Harihara II we learn that this King instituted a fresh festival in the month of masi at Tirumala through the agency of Mullai Tiruvenkata Jeer. The expenses were to be met from the income of the village Pungodu which was endowed by him to the temple (61 and 103-T.T.). From a critical study of the epigraph we can find that as times went on these festivals rose by the middle of the 16th Century to ten a year and they were probably distributed among the ten months of the year with the exception of Vaikasi and Ani in which two festivals were conducted at Tirupati for Sri Govindaraja. 
 
-The Brahmotsavam was celebrated for a period of twelve days counted from the day of ankurarpana (sowing of seeds) of nine kinds of seeds in earthenn vessels to the day of Vidayarru, or the day of preparations for relaxation after the exertions of the temple servants for twelve days during the festival. Each day after the procession was over, the Utsavamurthi was taken away into the temple to a mantapa, installed there in an asthana or an assembly, and was offered the special naivedya provided for the occasion by the devotees. Similar asthanams were also arranged by the devotees to be conducted in the mantapams built in their flower gardens, round the temple to which the Utsavamurthi was taken during the course of the procession before returning to the temple. In fact the asthana formed a feature not only in the brahmotsavam but in other festivals also. 
+The Brahmotsavam was celebrated for a period of twelve days counted from the day of ankurarpana (sowing of seeds) of nine kinds of seeds in earthen vessels to the day of Vidayarru, or the day of preparations for relaxation after the exertions of the temple servants for twelve days during the festival. Each day after the procession was over, the Utsavamurthi was taken away into the temple to a mantapa, installed there in an asthana or an assembly, and was offered the special naivedya provided for the occasion by the devotees. Similar asthanams were also arranged by the devotees to be conducted in the mantapams built in their flower gardens, round the temple to which the Utsavamurthi was taken during the course of the procession before returning to the temple. In fact the asthana formed a feature not only in the brahmotsavam but in other festivals also. 
 
-Till some decades ago the temple conducted four Brahmotsava festivals in a year; the first in purattasi month, the second on the Rathasaptami day, the Third on the Kausika Ekadasi day in the Kartika month and the fourth on Vaikunta Ekadasi or Mukkoti Ekadasi day. The festivals are conducted for several days. The festival during the Rathasapthami period is considered to be an arsha utsava, while that on the Kausika Dvadasi day is considered to be a rakshasic one. The most important of these is the purattasi month Utsavam generally conducted in September-October. The utsavam commences on the day when Sravana Nakshatra is prominent. At present only this festival is conducted. 
+Till some decades ago the temple conducted four Brahmotsava festivals in a year; the first in purattasi month, the second on the Rathasaptami day, the Third on the Kausika Ekadasi day in the Kartika month and the fourth on Vaikunta Ekadasi or Mukkoti Ekadasi day. The festivals are conducted for several days. The festival during the Rathasaptami period is considered to be an arsha utsava, while that on the Kausika Dvadasi day is considered to be a rakshasic one. The most important of these is the purattasi month Utsavam generally conducted in September-October. The utsavam commences on the day when Sravana Nakshatra is prominent. At present only this festival is conducted. 
 
 On the day before the Sravana star day (thithi) Ankurarpanam is done by sowing 'navadhanya' seeds for germination in specially decorated new pots called 'Palikas.' This is supposed to form part of the propitiatory offerings to the Nityasuris or celestials in the temple. A 'Poorna Kumbham' is also installed in the yagasala. 
 
@@ -37,13 +37,13 @@ The festival actually commences on the first day with the Dhvajarohanam ---a cer
 
 The important festival days are the fifth, eighth and eleventh days. The morning procession of the Lord on the 7th day with Surya Prabha Vahanam is also worth seeing. 
 
-156 
+[[P156]]
 
 The Utsavam on the night of the fifth day is called the Garuda Seva or Garudotsavam. On this day the processional deity alone is taken in procession on the Garuda; the consorts of the Lord are not seated by his side on the Vahanam as usual. On this day, the Lord is given Uyyala Seva" in the evening. This Uyyala Seva or 'Seva in the Swing' takes place in the open area near the Dhvajastambham. The processional deity comes out of the temple in a tiruchi and the poles of the tirucchi are fixed to chain (fixed to the ceiling) with rings attached to them and the whole is swung to and fro during the Swing or Uyyala Seva. During this Asthanam or durbar, songs are sung and Vedic hymns etc. chanted. 
 
 The deity is then taken and installed on the Garuda vehicle. The Makarakanti ornament and the Lakshmiharam on the Mula-vigraham are then brought and used for the decoration of the Lord on the Garuda vehicle. The vahanam is then taken in procession around the east, west, north and south Mada streets of Tirumalai. The Lord has the usual paraphernalia during this procession such as Chatra, Chamara, Mangala Vadyas, recital of the holy books etc. 
 
-The car festival takes place on the eighth day. This 'Rathotsavam ' attracts the largest crowd during the Brahmotvasam festival days. The Utsavamurthi along with the consorts is brought on to the temple car early in the morning. The Lord in the temple car and the temple car are then gaily decorated; the temple chariot is then taken round the streets of Tirumala. 
+The car festival takes place on the eighth day. This 'Rathotsavam ' attracts the largest crowd during the Brahmotsavam festival days. The Utsavamurthi along with the consorts is brought on to the temple car early in the morning. The Lord in the temple car and the temple car are then gaily decorated; the temple chariot is then taken round the streets of Tirumala. 
 
 On the eleventh day of the festival, the processional deity is taken on a Tirucchi Vahanam to the Swami Pushkarini. The Chakram of the Lord (also called Chakrattalvar) then gets a bath in the Swami Pushkarini. At the same time, the devotees of the Lord also plunge into the Swami Pushkarini. A bath at this time in the Swami Pushkarini is considered to be very holy and merit-giving. The Brahmotsavam comes to an end with this snana or bathing of the Lord in the Pushkarani. 
 
@@ -106,7 +106,7 @@ The Sankranti festival corresponds to the movement of the sun in the heavens. Of
 
 Many devotees have made endowments for special worship during these days. The first such endowment belongs to queen Samavai of 966 A.D. (18-TT) where she has made an endowment for worship on two ayana Sankrantis and the two vishu Sankrantis. Ever since this, during centuries endowments for special worship by the devotees have been increasing on the Sankranti days. In one case, we have the full and the new moon days on which occur the Soma Surya grahanam which are called Vishesha divasamgal as distinct from tingal-divasamgal which regularly occur in a routine manner every month. 
 
-160 
+[[P160]]
 
 Our special interest would be the Adi-Ayana in the administrative arrangements of the temple since this formed the new accounting year of the temple when the old registers were discarded and new registers of accounts commenced to be written on. The Adi-Ayana is consequently mentioned in these epigraphs with reference to this function as in the expressions: 
 
@@ -118,7 +118,7 @@ tiruvandeluttitta-taruvayile (58-G.T.)
 
 etc. etc. 
 
-(vi) Vasantotsavam am Grishmotsavam. 
+## (vi) Vasantotsavam am Grishmotsavam.
 
 The Lord of the universe is conceived by man in his own image and hence the Lord partakes also of the man's festivals like Vasantotsavam (Spring festival), Grishmotsavam (summer festival), Unja! Tirunal (swinging festival) and the tiruppali-odam-tirunal (the floating festival). 
 
@@ -157,10 +157,9 @@ This festival is not being conducted in the temple at present.
 
 Inscription No. 197-T.T., which records the institution of the Unjal festival at Tirumala by Saluva Narasimha, mentions that a Tiruppaliodattiruna. (floating festival) was also conducted as the dharmam of Saluva Narasimha, and that provision was made for offering four appa-padi on the occasion. 
 
-References to the swinging and the floating festivals occur in later records. Nos. 271-T.T. dated in Saka 1426 and 97-G.T. dated in Saka 1445 state that the Unjal festival was celebrated for a period of five days, in the two temples. But the references to the Tiruppaliodam point out to a one day's festival as in Nos. 281-T.T. and 256-G.T., while in No. 97-G.T. it is said to form a day's function, being affixed to the Kodai festival on its 10th day, and in No. 83T.T., dated in Saka 1445, Vijaya, it is stated that the Jalakridai-tiruppaliodattirunal was to be conducted for nine days in the Achyutarayar-Koneri. As the agamas do not specify any dates for these festivals, they came to be celebrated at the convenience of the founders. 
+References to the swinging and the floating festivals occur in later records. Nos. 271-T.T. dated in Saka 1426 and 97-G.T. dated in Saka 1445 state that the Unjal festival was celebrated for a period of five days, in the two temples. But the references to the Tiruppaliodam point out to a one day's festival as in Nos. 281-T.T. and 256-G.T., while in No. 97-G.T. it is said to form a day's function, being affixed to the Kodai festival on its 10th day, and in No. 83- T.T., dated in Saka 1445, Vijaya, it is stated that the Jalakridai-tiruppaliodattirunal was to be conducted for nine days in the Achyutarayar-Koneri. As the agamas do not specify any dates for these festivals, they came to be celebrated at the convenience of the founders. 
 
-163 
-
+[[P163]]
 
 ## (x) Jayanti festivals. 
 
@@ -170,13 +169,13 @@ Closely akin to the above are those festivals in temples which were instituted b
 
 Besides, certain other days, such as the Tai-Amavasya, Ani-Amavasya, Dipavali, Kartikai, Yugadi, Maha-Navami, Ratha-Saptami, etc., which are held sacred by the Hindu public, were also made festive occasions on which the deities were propitiated with offerings and taken out on some vehicles in procession. 
 
-(xi) Kalyana Utsavam. 
+## (xi) Kalyana Utsavam.
 
 The Kalyanotsavam is usually performed in the Kalyana Mantapam or the Tirumala Nayaka Mantapam. In this Utsavam the marriage of Sri Malayappan with his brides Sri Devi and Bhudevi is performed. This is an impressive ceremony and begins with the Panchamurthi Puja following the Vaikhanasa Agama rituals. The marriage is done with Mangala Sutra Dharana according to Vedic rites. The 'thalambralu' ceremony is also performed as in regular marriages. The Nachchiyars and the Lord are then garlanded. 
 
 This is purely an arjitham festival i.e., one which is conducted on payment of the scheduled fees. The donor is honoured at the end with a vastram from the temple. All the devotees present at the temple are given a dakshina of few paise along with the Lord's * Akshatalu.' 
 
-164 
+[[P164]]
 
 FESTIVALS IN TIRUMALA TEMPLE 
 
@@ -184,13 +183,13 @@ No inscription however gives any details of the marriage festival until we reach
 
 On the first day there was the preliminary function of Sadyonkura Ankurarpanam. Soma pratima, Brahma pratima, etc., were consecrated for the ceremony. Then Malaikuniya ninra perumal and the two Nachchimars (Bhudevi and Neela Devi) were given Tirumanjanam or bath of rose water in the Tirumamani mantapam. This was followed by a procession through the streets. On return the bridegroom was seated on a Unjal or swing plank in front of the Tirumamani mantapam and the Nachchimars were seated one on a Chataka pakshi vahanam and the other on a Hamsa Vahanam. Garlands were exchanged between the bridegroom and the two brides in the same way as in the case of a Hindu marriage. The Nachchimars were next placed on either side of Malaikuniya ninra perumal on the swing plank. Their feet were washed with milk and harti pancha varna pidi1were offered to them. In the Abhijit lagnam, the Deities were removed to the Tirumamani mantapam and all the articles required for the muhurta homam were brought. These consisted chiefly of clothes for the Nachchimars, Sandal paste and Sambhavana for putting on the Tirukkappunaan (consecrated string round the wrist?) and a cloth to serve as a screen between the bridegroom and the brides. 
 
-(xii) Ratha Sapthami Festival. 
+## (xii) Ratha Saptami Festival.
 
 This is a well known festival celebrated at sun rise on the Magha Suddha Saptami tithi. It is considered a Visesha Divasam which is generally celebrated in all Vishnu temples. It is first mentioned in an inscription of the year 1564. This is probably because no endowment was made for it till 1564 A.D.(No. 376– G. T.) 
 
-In the year 1538 A.D. one Tiruvanantalvar Kuppayyan made an endow. ment of 700 panams from the income of which a Ratha Saptami festival was to be celebrated for Sri Govindarajaswami on the Sukla Saptami day in the month of Tai. On this occasion there was a Tirumanjanam and procession in Suryaprabha along with Nachchimar and Senai mudaliar. 
+In the year 1538 A.D. one Tiruvanantalvar Kuppayyan made an endowment of 700 panams from the income of which a Ratha Saptami festival was to be celebrated for Sri Govindarajaswami on the Sukla Saptami day in the month of Tai. On this occasion there was a Tirumanjanam and procession in Suryaprabha along with Nachchimar and Senai mudaliar. 
 
-165 
+[[P165]]
 
 THE TIRUMALA TEMPLE 
 
@@ -200,11 +199,11 @@ On the night before the festival, sumptuous food offerings were made to Periya P
 
 The present day celebration of the festival in Tirumala is more elaborate. The daily Tiruvaradhanam of Periya Perumal is completed before day break and before the Utsavamurthi is taken out for the Suryaprabha procession. After the street procession with the Deity mounted in Suryaprabha is over, three more processions take place with the Deity mounted on the small Sesha Vahanam, Garuda Vahanam and Hanumanta Vahanam. It is only after completing these processions that Tiruvali alvan goes to Sri Varahaswami temple and offers Tirthavari. The second Archana and Naivedyam of Periya Perumal take place after the Tirthavari. Thereafter while the pilgrims are having darsan of the Periya Perumal, the Utsava Murti goes again in procession mounted successively on the Sarva Bhupala Vahanam, Kalpavriksha Vahanam and Chandraprabha. Thus seven processions on seven vahanams take place before sunset. It is not possible to state when these developments took place. 
 
-(xiii) Lakshmi Devi Mahotsavam. 
+## (xiii) Lakshmi Devi Mahotsavam.
 
 The festival was first instituted by Achutaraya Maharayar in the year 1535 A.D. It was intended to celebrate the union of Tiruvengadamudaiyan with Alarmelmangai Nachchiyar as stated in the inscription (No. 54), 
 
-166 
+[[P166]]
 
 FESTIVALS IN TIRUMALA TEMPLE 
 
@@ -214,31 +213,27 @@ All the customary rituals connected with a five day festival with the exception 
 
 In Tirupati also, a similar festival was celebrated from about 1537 A.D. (No. 258-G.T.). But it seems to have been a one day festival on the Suklapaksha navami day before the Vijayadasami. 
 
-(xiv) Pallavotsavam. 
+## (xiv) Pallavotsavam.
 
 This festival was instituted in 1545 A.D., by Sriman Mahamandalesvarar Vittalesvara Maharaja, son of Araviti Bukkaraja Ramaraja Timmarajayya He made a grant of three villages with an aggregate annual income of 1000 rekhai pon for various purposes. Out of this amount 492 R.P. was to be expended for the celebration of Pallavotsavam. was arranged to be celebrated in the month of Vaikasi so as to have the Sattumurai in Rohini Nakshatra which was the janma nakshatra of the donor. The festival commenced in the same manner as the other festivals with Ankurarpana sthapana, Tirumanjanam, Homam, Pancha havis, Namarchana, the recital of Vedas and the Tamil Prabandhams and the reading of Puranas. There were asthanams, naivedyam in asthanams, procession of the Utsavamurti with the Nachchimars round the streets, returning to the bed chamber etc. 
 
-167 
+[[P167]]
 
 THE TIRUMALA TEMPLE 
 
 For the performance of homam at the time of the ankurarpanam the usual images,-Sesha and Jayadi images, Brahma, garuda, eight varuna images, the images of the nine planets and one for the stars--were duly made and installed. Acharya and Ritviks were engaged and paid. It is seen that the festival continued to be celebrated till 1562 A. D. (No. 428-G.T.) an other donors also made endowments for food offerings on the five days of the festival. 
 
-(xv) Phalotsavam. 
+## (xv) Phalotsavam.
 
 This five days festival was not the same as Pallavotsavam. It is really a festival of fruits. Sottai Tirumalainambi Srinivasa Ayyangar made this festival from one of the items of his endowment of the grant of Periya Ekkalur village in Gutti Sirmai. It was celebrated on the same lines as the other festivals. It commenced with ankurarpanam; all the usual images were made and installed. Homams were offered every day. There were the Acharya, the Ritviks, the recital of Namarchana, the reading of Tiruvenkatamahatmyam and the recital of Vedas and Prabandhas, etc. The Muhurtam, or auspicious moment for commencing the festival was fixed by an astrologer. But its distinguishing feature was the offering of large quantities of fruits, wild as well as cultivated ones, to the deity and their free distribution to the members of the congregation. Mangoes, jack fruits, coconuts, wood apples, the two varieties of jambu fruits, kilikkirinji fruits, kommadi madalam fruits, kamamattam, muralam, palai and plantain fruits were offered and distributed. In this manner the total number of fruits offered every day amounted to 1200. During the festival, the Tirumanjanam of the Utsavar and Nachchimar took place in the Ulagamundan flower garden mantapam. The festival was celebrated for five days in the Tamil month of Masi; the ankurarpanam started in the Punarvasu nakshatram and the Sathumurai în the Puram nakshatram. There is also an endowment for food offerings in connection with this festival in 1562 A.D. 
 
-(xvi) Visesha Tirunal and tingal divasàms during 
+## (xvi) Visesha Tirunal and tingal divasàms during
 
 ages in Tirumala. 
 
 Epigraphs which are our main source of information give us valuable information about the details of the festivals conducted in the temple 
 
-No. 633-T.T. and No. 428-G.T. give full and complete details about the several festivals conducted on different dates for Lord Venkatesvara at Tirumala as follows:- 
-
-168 
-
-FESTIVALS IN TIRUMALA TEMPLE 
+No. 633-T.T. and No. 428-G.T. give full and complete details about the several festivals conducted on different dates for Lord Venkatesvara at Tirumala as follows:- [[P168]] FESTIVALS IN TIRUMALA TEMPLE
 
 10 Brahmotsavam running for 14 days each with the processional Images seated on each of the 14 days în the unja-mantapam constructed by Tirumalaraya opposite to the Dhvajastambham (flag-staff) in the Sampangi-Pradakshinam, the second circumambulatory passage, as a renovation and enlargement of Saluva Narasimha's mantapam: 
 
@@ -258,27 +253,26 @@ The Damana-arohana-Vasantotsavam with the covering of the bodies of the Images w
 
 The Unjal festival for 9 days; 
 
-The Pendli-tirunal or Vaivahikotsavam, marriage festival for 5 days (instituted by Tallapaka Tiruvenkatanatha alias Chinnanna in 1546 (No. 669T. T.), 
+The Pendli-tirunal or Vaivahikotsavam, marriage festival for 5 days (instituted by Tallapaka Tiruvenkatanatha alias Chinnanna in 1546 (No. 669- T. T.), 
 
-169 
+[[P169]]
 
-
-        The Lakshmidevi festival for 5 days. 
-
-
-        The Kodai-tirunal, summer festival, for 20 days; 
+The Lakshmidevi festival for 5 days. 
 
 
-        The float festival for 9 days; 
+The Kodai-tirunal, summer festival, for 20 days; 
 
 
-        The Pallavotsavam for 5 days; 
+The float festival for 9 days; 
 
 
-        The Phalotsavam for 3 days; 
+The Pallavotsavam for 5 days; 
 
 
-        The Adhyayanotsavam for Udaiyavar (Ramanuja) for 6 days; 
+The Phalotsavam for 3 days; 
+
+
+The Adhyayanotsavam for Udaiyavar (Ramanuja) for 6 days; 
 
 These 15 festivals, other than the 10 Brahmotsavams, are termed ViseshaTirunal, special or extra festivals. 
 
@@ -325,7 +319,7 @@ Sahasra Kalasabhishekam for Ugra-Srinivasa	 1
 Damanarohana Vasantotsavam 		5 
 
 
-                151 
+[[P151]]
 
 Visesha Tirunal. 			Days. 
 
@@ -347,7 +341,7 @@ Phalotsavam 			3
 Adhyayanotsavam for Tirumalai Udaiyavar 	6
 
 
-            Grand Total 204 
+Grand Total 204 
 
 Tingal Divasams. 			Days. 
 
@@ -366,7 +360,7 @@ Ekadasi (eleventh tithis)			25
 
 Dwadasis do. 				25
 
-					113
+[[P113]]
 
 Tingal Divasams. 				Days. 
 
@@ -390,7 +384,7 @@ Uttiradams 				13
 Tiruvonam (Sravanams) 			13
 
 
-            Grand Total 217 
+Grand Total 217 
 
 Visesha Divasams. 			Days. 
 
@@ -406,7 +400,7 @@ Dipavali 					1
 
 Kartikai 					1
 
-					6
+[[P6]]
 
 Visesha Divasams. 			Days. 
 
@@ -423,13 +417,13 @@ Srirama Navami 				1
 Vaikasi Visakam 				1
 
 
-            Grand Total 12 
+Grand Total 12 
 
 The number of days of visesha Tirunals was 204, of Tingal divasams 217; and of Visesha divasams 12 days. The total of all these is 433 days in a year of 365 days. There should therefore have been many overlappings. 
 
 The visesha divasams as devised in 1819 A.D. when the East India Company took over the temple, as seen from archival record were (1) Anivara-Asthanam (the commencement of Adi month) with food offering of 114 seers rice (2) Varalakshmi Vratam (a new item) (3) Sravana-Pournami; (4) Gokulashtami (not Sri Jayanti) (5) Utla festival (for Ugadi) (6) Vinayaka Chaturthi (a new festival) (7) Anantha Chaturdasi (a new festival) (8) Dipavali Asthanam 
 
-172 
+[[P172]]
 
 FESTIVALS IN TIRUMALA TEMPLE 
 
@@ -439,7 +433,7 @@ The present day arrangement is as follows:-
 
 Days. 
 
-50 
+[[P50]]
 
 Ekadasis and Dvadasis, 25 of each in a year Nakshatras-Sravana, Rohini, Arudra, Punarvasu 
 
@@ -460,4 +454,3 @@ Radha Saptami
 Brahmotsavam 
 
 Brahmotsavam in adhika month once in four year. 
-

@@ -8,26 +8,18 @@ THE EPIGRAPHS OF TIRUMALA TEMPLE.
 
 Tirumala temple like others in our country bears on its walls several epigraphs of various kings, queens, generals, other royal benefactors and common men who made gifts and endowments to the temple. These are of considerable interest, not only to scholars of history, to rebuild the political, social and economic history of the area, but also to those, who desire to know something of the ancient and time honoured institutions, endowments, administrative arrangement for management etc.,of the temples of our country. These inscriptions of the Tirumala temple, along with others from the neighbouring and ancilliary temples in lower Tirupathi and Tiruchanur, making a total of well over a thousand, furnish a continuous and authentic record of the transactions of the temple and the neighbouring area for the last seven or eight centuries. 
 
-The systematic collection, decipherment, analysis, and publication of the epigraphs of the temple has been due, wholly to the untiring efforts of Sri Mahant Prayagdasji who was the Vicharanakarta of the Tirumala temple in 1920, and also of the then Dewan Peshkar Sri Doraiswamiah garu who later retired as a Deputy Collector in the old Madras State. Dr. F.W. Thomas of the India Office Library, and the late Rao Bahadur H.Krishna Sastry, a wellknown epigraphist of India, chose for this work Sri Sadhu Subramanya Sastry who was given adequate epigraphical training. Sri S.Subramanya Sastry took up this work in 1922 and in the course of the next ten years or so, copied the inscriptions on the walls of the temples of Tirumala, Tirupati and Tiruchanur, and also compiled an invaluable epigraphical report in two parts, 
-
-276 
-
-the first relating to the routine of the temple and its administration, and the second'about the political history of the area. The epigraphs have been published in original along with English introductory notes in six volumes over a period of years by the TirumalaTirupati Devasthanam. The Devasthanam has thus done very valuable pioneering work in the field of proper epigraphical collection and publication of the inscriptions found on the walls of the temple. 
+The systematic collection, decipherment, analysis, and publication of the epigraphs of the temple has been due, wholly to the untiring efforts of Sri Mahant Prayagdasji who was the Vicharanakarta of the Tirumala temple in 1920, and also of the then Dewan Peshkar Sri Doraiswamiah garu who later retired as a Deputy Collector in the old Madras State. Dr. F.W. Thomas of the India Office Library, and the late Rao Bahadur H.Krishna Sastry, a wellknown epigraphist of India, chose for this work Sri Sadhu Subramanya Sastry who was given adequate epigraphical training. Sri S.Subramanya Sastry took up this work in 1922 and in the course of the next ten years or so, copied the inscriptions on the walls of the temples of Tirumala, Tirupati and Tiruchanur, and also compiled an invaluable epigraphical report in two parts, [[P276]] the first relating to the routine of the temple and its administration, and the second'about the political history of the area. The epigraphs have been published in original along with English introductory notes in six volumes over a period of years by the TirumalaTirupati Devasthanam. The Devasthanam has thus done very valuable pioneering work in the field of proper epigraphical collection and publication of the inscriptions found on the walls of the temple.
 
 
 ## 2. Total Number of Epigraphs. 
 
-There were in all 1180 inscriptions secured by Sri S.Subramanya Sastry. 236 of these belong to the times Pallavas, Cholas, Pandyas and the 1st Vijayanagar kings. There are 169 inscriptions of the period of Saluva Narasimha Raya, 229 of Sri Krishnadeva Raya, 251 of Sri Achyuta Raya, 147of SadasivaRaya and 135 of the Kings of Aravidu dynasty. The rest of the 13 inscriptions are miscellaneous ones. 
+There were in all 1180 inscriptions[^12_1] secured by Sri S.Subramanya Sastry. 236 of these belong to the times Pallavas, Cholas, Pandyas and the 1st Vijayanagar kings. There are 169 inscriptions of the period of Saluva Narasimha Raya, 229 of Sri Krishnadeva Raya, 251 of Sri Achyuta Raya, 147of SadasivaRaya and 135 of the Kings of Aravidu dynasty. The rest of the 13 inscriptions are miscellaneous ones. 
 
 During the same period between 1920 and 1930 the copper plate epigraphs of the famous Tallapaka poets containing sankirtanas and other poetical works, were also discovered from a closed small room in the northern wall of the Vimana pradakshina of the temple. These are inscribed on big copper plates. The composition of the Tallapaka poets are of two kinds viz., minor poetical works in Telugu mostly on grammar, ethics etc., and the Sankirtanas, viz., Sringara sankirtanas, Adhyatma sankirtanas and Vairagya sankirtanas. Some of the minor poems, and some of the sankirtanas have been edited and have been brought out by the Devasthanam. It is however a matter of deep regret that inspite of the fact that these were discovered more than 50 years ago, systematic attempts at complete and critical edition of these invaluable records is yet to see the light of the day. These copper plates of sankirtanas were known to have existed from a long time ago. Robert Sewell the famous indologist, was told of the existence of "two cartloads of copper sasanas" during the time of his enquiry in the epigraphs of South India. It is expected that if these are fully edited critically and published, they would add a great deal to our general knowledge of those times. 
 
 Of the 1180 and odd inscriptions which were copied between 1920 and 1930, 640 are from Sri Venkatesvara temple at Tirumala, 340 from Sri Govindarajaswamy temple at Tirupati and the remaining are from other small temples. 
 
-There are still about a 100 or more epigraphs in Tirumala temple which are yet to be copied and deciphered. This awaits the labours of future epigraphists and historians. Here also with all the modern facilities for research 
-
-277 
-
-available now,. it is a great pity that the Tirumala-Tirupati Devasthanam has  not been able to complete this work.
+There are still about a 100 or more epigraphs in Tirumala temple which are yet to be copied and deciphered. This awaits the labours of future epigraphists and historians. Here also with all the modern facilities for research [[P277]] available now,. it is a great pity that the Tirumala-Tirupati Devasthanam has  not been able to complete this work.
 
 
 ## 3. State of Preservation of The Epigraphs. 
@@ -41,7 +33,7 @@ The epigraphs on stone belonging to the pre-Vijayanagar period are mostly fragme
 
 Besides the stone inscriptions about 3000 copper plates containing on the aggregate about 16000 devotional songs in the sankirtana style and other literary 
 
-278 
+[[P278]]
 
 THE EPIGRAPHS OF TIRUMALA TEMPLE 
 
@@ -54,7 +46,7 @@ Enquiries have revealed that these copper plates were transported to Tirupati an
 
 The dates of the above-said stone records range from the 51st year of the reign of Ko-Vijaya-Dantivikrama Varman of the Pallava line (No.219-G.T.) 
 
-279 
+[[P279]]
 
 THE TIRUMALA TEMPLE 
 
@@ -70,7 +62,7 @@ Except a few, almost all the epigraphs are in the Tamil language and alphabet in
 
 Epigraphs of the pre-Vijayanagara times generally record services of lighting lamps in the presence of the different deities or elsewhere,in the evening or through-out day and night. For this purpose the donors paid a certain sum of money into the temple-treasury to carry on the service. In a few instances, they purchased cows and presented them to the temple. In later times certain donors adopted this latter course, when they arranged for offerings of milk and curds or offerings of food mixed with them. We find that ghee alone was used for all lamps inside the temple and this practice still continues at Tirumala. 
 
-280 
+[[P280]]
 
 Besides gifts of lamps, we meet with also gifts of lands, jewels and money. Kings, chiefs and rich persons contributed their quota of offerings and endowments. The later inscriptions record provision for nitya-naivedyam (daily food-offerings) and for several festivals, processions and asthanams in the temples for the different deities. To this end gifts of lands and villages as well as of money and gold were made to the temples. Money and gold thus deposited were only in a few cases lent out at interest, but usually they were invested in the devadana (grant to God) villages belonging to the temple through the excavation of fresh irrigation sources or renewal of the existing ones which were in disrepair at the time. Some cases occur in which waste and uncultivated land in the devandana villages was brought under the plough and adequate water-supply provided by the donors at their own cost, and, in return for this service, the temple was required to arrange for food-offerings to the deities in their name. Likewise, in the devadana villages in which sufficient irrigation facilities were lacking and from which, therefore, full benefit could not be derived, certain devoteee undertook the excavation of tanks, lakes and channels and thus provided for more extensive cultivation; and as a mark of recognition of such services the temple bound itself to perpetuate their memory by instituting in their name some charities, such as naivadyam (offering food) to the deities from the enhanced yield obtained from these villages and distributing the offered food among the devotees assembling in the temple to receive it. 
 
@@ -83,7 +75,7 @@ A few inscriptions register sales of houses and of house-sites to the temple. It
 
 The inscriptions clearly indicate that the temples of Sri Venkatesvara at Tirumala and Sri Govindaraja at Tirupati enjoyed the partonage of sovereigns 
 
-281 
+[[P281]]
 
 THE TIRUMALA TEMPLE 
 
@@ -103,7 +95,7 @@ and chiefs who richly endowed them. Among this class of benefactors stand out mo
 
 (vii) Devaraya II merited extensive divine grace through the help he rendered towards the revival of the Vedaparayanam in Sri Venkatesvara's shrine at Tirumala in Saka 1355. He had already granted three villages to the temple in Saka 1351 as the usual royal benefaction. 
 
-282 
+[[P282]]
 
 THE EPIGRAPHS OF TIRUMALA TEMPLE 
 
@@ -119,7 +111,7 @@ THE EPIGRAPHS OF TIRUMALA TEMPLE
 
 Many of the epigraphs record arrangements made for lighting a nitya dipam or keeping a nanda vilakku burning before the Lord. Some made arrangements for endowments from which naivedyam or food offerings were to be made to the Lord. 219-G.T. of the 51st year of the reign of the Pallava king Dantivikrama varman of circa 830 A.D. is the earliest inscription which records an arrangement for keeping a lamp burning before the utsava murti. The Chola records also register donations and gifts intended for nanda vilakku or for aradhana (food offerings). In the Vijayanagar period food offerings took precedence over lamp lighting, and in certain cases, presentation 
 
-283 
+[[P283]]
 
 THE TIRUMALA TEMPLE 
 
@@ -129,7 +121,7 @@ The most prominent instance of such a gift of cows occurs in the case of Sriman 
 
 No 59-T.T.is a somewhat peculiar record. Instead of the usual gift of lamps that we meet with in other inscriptions, we find here an arrangement made by Koneri and Ulagalandavelan, head-men (kartar) of SattukudiMarudur, a village in the sub-division of Narayanapurapparru in the Chandragiri-rajya, by which they deputed in Saka 1384 (1462 A.C.), for the merit of Saluva Narasimha, certain persons, being residents of the above village of whom four are mentioned by name, for the service of lighting lamps (tiruvilakkukkudi) in the temple of Tiruvenkatamudaiyan, and directed them to render service to the temple in perpetuity through their descendants. These were also enjoined to measure out two marakkals of ghee every year with the measure called chalukya-Narayanan-kal, as they used to do till then, and obtain the certificate issued by the Jiyar under his signature. It would appear that these men had to deliver two marakkals of ghee to the temple in Tirupati by virtue of some previous agreement or contract, probably for some favour received by them in the form of loan of cows belonging to the temple or for some other reason which is not explicitly stated in the record; and this delivery of ghee of two marakkals was declared to be imperative on them notwithstanding their prospective service in the temple at Tirumala. Neither is any reason given for the deputation of these men for lighting service in the Tirumala temple. Perhaps by the middle of the 14th century the duty of lighting the lamps presented liberally by the devotees had become very onerous and impossible of being fulfilled in the usual way by the then existing staff and consequently necessitated the appointment of additional hands to discharge it adequately. 
 
-284 
+[[P284]]
 
 THE EPIGRAPHS OF TIRUMALA TEMPLE 
 
@@ -139,7 +131,7 @@ During the Vijayanagar period food offerings came to be extensively provided for
 
 Sitakaragandan-sandhi (No. 195-T.T.) is the earliest in date belonging to the pre-Vijayanagara times that we meet with, for whose institution ImmadiRahuttarayan Singaya-Dannayakkan, a general under Tiruvenkatanatha Yadavaraya, gave to the temple, as a tiruvidaiyattam, Singana-nallur alias Pongalur in Illattur-nadu which had been previously bestowed upon him as a sarvamanya by Tiruvenkatanatha Yadavaraya. 
 
-1 
+[[P1]]
 
 Bukkarayan-sandhi is mentioned as the primary one during which, along with the tirupponakam (cooked rice mixed with green gram, ghee, etc.,) to be offered as originally stipulated, koyil-kelvi Emperumanar-Jiyar, manager of Pankayachchelli-tirunandavanam at Tirumala and the head of a religious institution at Tirumala and Tirupati, arranged in Saka 1367 for offering for Sri Venkatesvara two tirupponakam daily (No. 106-T.T.). And Periyaperumal jiyar arranged likewise in Saka 1380 for two tirupponakam daily (No. 47—T.T.). No. 23—T.T. which is dated in Saka 1372 mentions Rayarsandhi. We note from No. 3-T.T. that Saluva Narasimha provided in Saka 1378 for an offering of rajanna-tirupponakam during the udayakalasandhi and granted as sarvamanya the village of Alipuram; and again in Saka 1389, he gave five villages, four of which are mentioned to have been situated in the Chandragiri-rajya and the fifth in the Padaividu-sirmai, in order to serve for sandhi-muppadu, i.e., thirty units of cooked food (No. 66– T.T.). In Saka 1395, Saluva Narasimha instituted the dolotsavam for five days and provided for offerings of food during the night sandhi named after his mother Mallayamman. No. 46-T.T. dated in Saka 1393 and No. 188 -G.T. dated in Saka 1397 mention Narasimharaya-sandhi which perhaps indicates the thirty sandhis noted above. 
 
@@ -147,7 +139,7 @@ Bukkarayan-sandhi is mentioned as the primary one during which, along with the t
 
 Recitation of vedas in the temples is considered to be an essential part of the temple services. Vedaparayana in Tirumala temple was standardized properly by Devaraya II of the first Vijayanagar dynasty. The epigraphs state that Vedaparayana went out of vogue in the Tirumala temple and that 
 
-285 
+[[P285]]
 
 THE TIRUMALA TEMPLE 
 
@@ -157,7 +149,7 @@ The king approved of the arrangement and was pleased to grant the half-share bel
 
 It appears that the annual yield from the village of Srinivasapuram for the share of the temple was 200 panam and, if this share of the temple in the village had to be parted with this 200 panam had somehow to be made good, The villagers of all the full devadana villages belonging to the temple situated in the Tirukkudavur-nadu and Vaikunda-valanady were called upon to contribute their mite so that the full sum of 200 panam could be made up. The villagers agreed to this contribution, solemnly vowing with libations of gold and water on the Usthanadvadasi day in the cyclic year Pramadicha corresponding to Saka 1355 to pay their share collectively for each village into the temple-treasury, commencing from the same year, towards the conduct of the Vedaparayanam. On the strength of this agreement executed by the villagers represented by the Periyanattu-velan and the Ur-kanakku or the velan of each individual tiruvidaiyattam village, the Sthanattar of the temple were emboldened, their scruples and restraints being set at rest, to grant the half-share of the temple in the village of Srinivasapuram to the twentyfour Maha Brahmanar reciting the Vedas and thus gain a double object. No doubt the technical flaw arising from their alienation of property endowed for maintaining the original charity was desired to be obviated through these 
 
-286 
+[[P286]]
 
 THE EPIGRAPHS OF TIRUMALA TEMPLE 
 
@@ -175,7 +167,7 @@ Besides Vedaparayanam, we meet with arrangements for the reading of Puranams on 
 
 The epigraphs also give us extensive details about Tirumanjanam or abhishekam for the Lord at Tirumala. 
 
-287 
+[[P287]]
 
 THE TIRUMALA TEMPLE 
 
@@ -191,7 +183,7 @@ This is the first mention we get of pulugu-kappu and here it is stated that it w
 
 Thus we find the rite of pulugu-kappu first arranged apparently in Saka 1356 to form an item of the daily routine, passing by about Saka 1418 into a special fortnightly function combined with the bath on alternate Fridays. This does not, however, preclude the possibility of its daily course. For 
 
-288 
+[[P288]]
 
 THE EPIGRAPHS OF TIRUMALA TEMPLE 
 
@@ -205,15 +197,15 @@ Under royal patronage the temple had received gifts and endowments to serve for 
 
 The festivals in the temples may be classified into the fundamental, the auxilliary and the secondary ones, according to the nature of their institution. The fundamental festivals are obligatory, being enjoined by the sastras and agamas to be observed at fixed times, and their omission would be considered inauspicious while their restitution would call for special preliminary purificatory rites. To this class belongs the Brahmotsavam. The auxiliary festivals have their origin in the traditional divine life of the deity or in the incarnations of Vishnu on earth. Such are the tiruppalli-eluchchii.e., Margali or the Dhanurmasa festival and those conducted on the days of the birth-asterism of the deities. The secondary ones are of a subsidiary character and were instituted by devotees with a view to gain religious merit and invoke the blessings of the almighty on the days fixed for them. These are usually the days of the birth--asterism of the donor, his religious preceptor, liege-lord or other relation or friend. 
 
-19 
+[[P19]]
 
-289 
+[[P289]]
 
 THE TIRUMALA TEMPLE 
 
 As to festivals, the earliest epigraph in the collection from Tiruchanur, No. 219-G.T. dated in the 51st year of the reign of the Pallava king KoVijaya-Dantivikramavarman (equivalant to 830 A.D.), records a deposit of 40 kalanju of gold by Ulagapperumanar of Solanur in Solanadu with the assembly at Tiruchchukanur (Tiruchanur) for the purpose of keeping a lamp before the processional image newly installed in the shrine of TiruvenkatattuEmperuman-Adigal. Here occurs the earliest mention of the installation of a processional image. 
 
-64 
+[[P64]]
 
 The Chola records, so far available, make no mention of festivals, but the later ones enable us to discern the simultaneous increase in the quantity and variety of food-offerings with the number and magnitude of the festivals. This is the period of time, when on the decline of the ancient Hindu kingdoms of the South, there arose into prominence, in the middle region, certain political aspirants, such as the Gandagopalas, the Yadavarayas, the Kadavarayas and the Sambuvarayas, who apparently endeavoured to carve out independent kingdoms and claimed universal sway" over the land. These families of chieftains had, in their glorious days, rendered their share of service to the temples at Tirumala and Tirupati, directly, or otherwise, by means of gifts and grants, for the perpetuation of nitya-dipam and nitya-naivedyam, as well as utsavams for the deities, so much so that by about 1300 A.D., we find that, in addition to the two Brahmotsavams observed in the 10th century to have been celebrated in the months of Purattasi and Margali, similar festivals were established in the month of Adi at Tirumala for Sri Venkatesvara. (No. 189-T.T.). 
 
@@ -221,7 +213,7 @@ Coming to the Vijayanagara period, we note that Harihara II instituted a fresh f
 
 The earliest reference to Adhyayanotsavam occurs about 1400 A.D. and the latest is in 1635 A.D. It is still observed in all these temples at the present day. 
 
-290 
+[[P290]]
 
 THE EPIGRAPHS OF TIRUMALA TEMPLE 
 
@@ -237,7 +229,7 @@ The inscription No. 197–T.T., which records the institution of the Unjal festi
 
 References to the swinging and the floating festivals occur in later records. Nos. 271-T.T. dated in Saka 1426 and 97-G.T, dated in Saka 1445 state that the Unjal festival was celebrated for a period of 5 days in the two temples. 
 
-291 
+[[P291]]
 
 THE TIRUMALA TEMPLE 
 
@@ -253,7 +245,7 @@ Besides, certain other days, such as the. Tai-Amavasya, Ani-Amavasya, Dipavali, 
 
 The inscriptions give numerous references to festivals in the temples, but, in all but those that are dated in the 16th century, we have no information as to the Vahanam or vehicle used on each day of the procession of the deities through the streets during the Brahmotsavams. The epigraphs dated during the reigns of Achyutaraya and Sadasivaraya mention the names of about half a dozen vehicles and further indicate that the same vehicle was used for procession on different days. Nos. 269 and 270-G.T. record a present of two sets of golden elephant and horse vehicles, a set apiece to the two temples of Sri Venkatesvara and Sri Govindaraja, by Matla Kumara Anantarajayya, We also hear of other vehicles, such as Nampiran or Tiruchchi; (No. 66–G.T.), and Hamsa-vahanam (swan) and Ghatakapakshi-vahanam (the Indian or black cuckoo). As in the other cases, information is lacking as regards the days when they were employed. These Vahanams served their purpose not only during Brahmotsavams, but during all other festivals in which processions were conducted, as, for example, the employment of the Surya-prabha-vahanam on the Ratha-Saptami day (No. 321–G.T.). 
 
-292 
+[[P292]]
 
 THE EPIGRAPHS OF TIRUMALA TEMPLE 
 
@@ -265,7 +257,7 @@ Frequently these devotees built mantapams in their flower-gardens and in some ca
 
 Of the different kinds of flowers grown in the gardens and in ponds, Senkalunir, i.e., the red lotus, appears from its special mention and from the arrangements made for its cultivation in ponds. (Nos. 125-G.T. 
 
-293 
+[[P293]]
 
 THE TIRUMALA TEMPLE 
 
@@ -279,7 +271,7 @@ The earliest gift of land, so far known, was that of some seven thousand kuli of
 
 Under the auspices of some of the powerful local chiefs of the 13th and 14th centuries, viz., the Gandagopalas and the Yadavarayas, several gifts of land were made from time to time. Vijaya-Gandagopala's reign witnessed at least one instance of such a gift (No. 127—G.T.). The Yadavarayas evinced deep interest for the temple and endowed it with lands and villages. During 
 
-294 
+[[P294]]
 
 THE EPIGRAPHS OF TIRUMALA TEMPLE 
 
@@ -315,7 +307,7 @@ Saka
 
 1395 No.187~T.T. [1404 | No.248—T.T 
 
-295 
+[[P295]]
 
 THE TIRUMALA TEMPLE 
 
@@ -329,7 +321,7 @@ In the reign of Sadasivaraya, the temple was the recipient of more than half a d
 
 The permanent conduct of the several festivals and rites established in the temples depended on the facilities for irrigation provided in the villages endowed for the purpose and therefore the greater the attention paid to these facilities the greater the security of the festival. It was therefore the concern of the donor as well as of the authorities of the temple to look to the irrigation sources in the villages and keep them in constant repair. This indirectly benefited the cultivator of the soil who could not single-handed create these improvements by himself but would gladly endeavour to extend his helping hand to them, and thus it tended to his prosperity as well, besides that of the temples 
 
-296 
+[[P296]]
 
 THE EPIGRAPHS OF TIRUMALA TEMPLE 
 
@@ -341,7 +333,7 @@ J
 
 A long Telugu stanza in the Sisamalika metre, composed of 41 lines and engraved separately in Telugu, Tamil and Grantha characters on the walls of a small shrine dedicated to Sri Venkatesvara at the foot of the hill alongside of the pathway leading uphill, recounts in glowing terms deeds of valour and acts of piety performed by Matla Kumara-Ananta, son of Matla Tiruvengalanatha and Chennamamba. His charitable services at Tirupati, among others by which he pleased God Venkatachalapati, comprise the Sopana-marga and Agra-gopura. Most probably this Sopana-marga refers to the flight of stone-steps forming the pathway comencing from the foot of the hill usually called Alipiri (i.e. Adipadi, the bottom or lowest step) and extending on the side of the hill in a zigzag course upto the small tower commonly known as the Gali-gopuram (i.e. air-tower or towar-on-high) which stands on the summit of the front hill prominently visible on the plain country for a distance of about 8 to 10 miles. And the Agra-gopura is in all likelihood this Gali-gopuram, This flight of stone-steps is at the present time the only passage leading uphill to Tirumala from Tirupati. We may therefore take the expression Sopanamarga to convey the idea of an original formation of the pathway on the side of the front hill alone upto the Gali-gopuram by Matla Anantaraja. It is said that in earlier times the pathway from Tirupati lay by the side of the Kapilatirtham up the hill and over it as far as the Gali-gopuram. Matla Anantaraja's work therefore seems to have been the formation of the present pathway from Alipiri, instead of from Kapila-tirtham. Probably both the new and the old pathways upto the Gali-gopuram were used by the pilgrims for some time later and subsequently the present one became the only passage, while the older one was altogether given up. The flight of steps must have been provided in or before Saka 1550 in which year this inscription is dated. It cannot be taken that a new pathway was laid throughout the whole length upto the temple above, for we are sure that such a path existed already and a good number of devotees went up to Tirumala and worshipped the deity. 
 
-297 
+[[P297]]
 
 THE TIRUMALA TEMPLE 
 
@@ -351,7 +343,7 @@ Further we have in No. 53 –T.T. dated in Saka 1387, i.e., more than a century 
 
 Water-sheds are an absolute necessity both in Tirupati and on the way to Tirumala, where there is a lack of adequate supply of fresh water easily available to the pilgrim population visting the place. We have a reference to a water-shed in a record of the 14th century (No. 195–T.T.) in which discretion was allowed to the managers of the temple to utilise any balance, left after meeting certain specific charges from the endowment concerned, for the institution of a water-shed, a flower-garden and other acts of charity at Tirumala in the name of the donor, Singaya Dannayakkar. In No. 53-T.T. Saluva Parvataraja, son of Saluvaraja, provided for the maintenance of a water-shed which he established in the mulankal-murippan mantapam built by him on the way to Tirumala and also for the execution of repairs to the mantapam, both of them being placed under the supervision of one Goppayyan. During the time of festivals special arrangements were required to be made for supplying water in sufficiently large quantities to the devotees flocking to the place on those occasions. A typical arrangement comes to our notice in No. 142-G.T. wherein the donor, a temple-accountant by name Vighneswara Sriraman, provided for the payment from the temple-treasury of 3 panam monthly as salary for the permanent man who supplied water from the watershed together with the issue of a portion of the food offered to the deity and a special payment of 40 panam as wages for the persons temporarily engaged for distributing water at the water-shed during the 10 days of the purattasi tirunal. Srinivasan, the son of another temple-accountant Tiruvenkatamudiyan, deposited in Saka 1446 in the temple-treasury 700 panam which was required to be invested for increasing the irrigation sources in the devadana villages and, from the produce yielded thereby, the temple authorities bound themselves to maintain a water-shed in the mantapam built in a garden near Sri Govindaraja's temple, paying 6 panam as salary for the water-man and supplying ginger, etc., for flavouring the water, as also oil for the lamp to be kept lighted in the mantapam, and mud pots for distributing water, together with the execution of repairs to the said mantapam (No.109—G.T.). 
 
-298 
+[[P298]]
 
 THE EPIGRAPHS OF TIRumala temMPLE 
 
@@ -367,7 +359,7 @@ The original credit for instituting separate Ramanujkutam for free feeding house
 
 The next instance of a Ramanujakutam is the one referred to as having been established by Periya-Obala-Nayakar who made over to it his share, as donor of the one nali of the Paledu-Kulambu offered to Sri Venkatesvara daily during the Ardhayamam or the early hours of the night (No. 386–T.T. dated in Saka 1435). 
 
-299 
+[[P299]]
 
 THE TIRUMALA TEMPLE 
 
@@ -383,7 +375,7 @@ Matla Kumara-Anantaraja is seen to have been a great benefactor, for his chariti
 
 Thus the increase of festivals attracted greater number of pilgrims for whose gratification further additions were being made from time to time and for whose convenience facilities as regards boarding and lodging are seen to have been arranged by the rulers themselves primarily, though it might have been done at the instance of some of the prominent Vaishnava preceptors 
 
-300 
+[[P300]]
 
 THE EPIGRAPHS OF TIRUMALA TEMPLE 
 
@@ -401,7 +393,7 @@ In Saka 1404 the Sthanattar undertook the construction of a mantapam along with 
 
 No. 248-T.T. mentions another gopuram at Tirumala whose construction had been undertaken by the Sthanattar some time prior to Saka 1404, for the merit of Saluva Narasimha who confirmed in that year his previous grant of Durgasamudram in Kudavur-nadu made previously in the cyclic year Nandana on the Utthana-dvadasi day, corresponding to Saka 1394 (13—10—1472 A.D.). This village was dedicated as Tiruppanipuram and was registered in the name of and held by the Pillaitiruppani-Bhandarattar who were authorised to utilise its income for the construction of the gopurams at Tirumala and Tirupati as well as the Narasimharaya-mantpam which they had undertaken. The Agra-gopura mentioned in Nos. 269 and 270G.T. as the work of Matla Kumara-Anantaraja denotes_the_tower on the summit of the front hill, commonly known as the Gali-gopuram.) 
 
-301 
+[[P301]]
 
 THE TIRUMALA TEMPLE 
 
@@ -415,7 +407,7 @@ the big tower standing about 200 yards to the east of the temple premises. This 
 
 The head of a local Matham, established in Tirupati and Tirumala, and generally known as the Jiyar-matham and Jiyyangar-matham, has long bean a functionary of the temple. The earliest person that we meet with is Mullai Tiruvenkata Jiyar who, as the agent of Harihara II of the First Vijayanagara dynasty, arranged for the celebration of the Masi-tirunal in Saka 1309 (=1387 A.D.) in the king's name through the payment of 100 panam derived from the village of Pungodu granted by Harihara for the purpose (No. 103– T.T.). Mullai Tiruvenkata Jiyar's dates range from Saka 1309 to 1314, and he is mentioned as the manager of the Arisanalayan-nandavanam (flowergarden) (Nos. 57 and 43-T.T.). One of his successors, viz., Emperumanar Jiyar, with dates Saka 1367 to 1415, is seen to have been styled KoyilKelvi, a functionary whose assent to the conduct of the religious functions in the temple was imperative, and he was the supervisor of the Pankayachchelli-nandavanam (Nos. 106, 48, 15 and 369-T.T. and 190 and 411–G.T.). His service in the temple extended over a period of 50 years from about 1445 to 1493 A.D. His immediate successor was Ramanuja Jiyar, the manager of the Pankayachchelli-nandavanam (No. 333-T.T. of Saka 1414, Ananda, 
 
-302 
+[[P302]]
 
 THE EPIGRAPHS OF TIRUMALA' TEMPLE 
 
@@ -425,7 +417,7 @@ In No. 292-G.T. he is styled Periya Koyil-kelvi and this implies the existence o
 
 An insight into the origin of this matham is afforded No. 354-T.T.dated in the 3rd year of the reign of Sriranganatha Yadavaraya. It appears that a religious order known as the Siyars, who were Desantaris, i.e., immigrants from another locality, was attached to these Nandavanams and mathams and that one of them known as the Jiyar was vested with the management of these establishments. At the time of the record a certain Siyan and the Jiyar had handed over these mathams and nandavanams latter thereby acquired the right to their management. But it was, however, stipulated that the Siyan might reside in the matham till the end of the life of the Jiyar and that after 
 
-303 
+[[P303]]
 
 THE TIRUMALA TEMPLE 
 
@@ -437,7 +429,7 @@ Generally these Jiyars gave a visible expression to their piety and religiosity 
 
 Two other members of the list may also be identified, viz., our Mullaj Tiruvenkata Jiyar and his successor Emperumanar Jiyar with TiruvenkataRamanuja Jiyar and Emperumanar Jiyar mentioned in the list of the matham as the fourth and fifth Jiyars in succession to Sri Ramanuja. In the line of succession made out from the epigraphs of our collection may be noticed Vanamamalai Jiyar, the founder of the Vanamamalai or Totadri-matham in the Tinnevelly district. Tradition speaks of him that he first accepted the asramam of the sanyasi at Tirupati, evidently at the hands of Ramanuja Jiyar, sometime head of the local matham during the reign of Krishnaraya, moved to the south for a while, founded a new matham named after himself at Srivaramangai or the modern Nanguneri, returned to Tirupati after a time and spent his last days in the service of this temple. This is borne out by the long interval 
 
-304 
+[[P304]]
 
 THE EPIGRAPHS OFTIRUMALA TEMPLE 
 
@@ -501,11 +493,11 @@ Chakrattalvan.
 
 Tiruvaji Alvan 
 
-20 
+[[P20]]
 
-20 
+[[P20]]
 
-305 
+[[P305]]
 
 THE TIRUMALA TEMPLE 
 
@@ -581,7 +573,7 @@ Trustees or Managers of Tirumalai
 
 Temple. 
 
-306 
+[[P306]]
 
 Sabhaiyar 
 
@@ -695,7 +687,7 @@ Fuel-suppliers.
 
 Supervisors. 
 
-307 
+[[P307]]
 
 Anusandhanam Makarai-svarupam 
 
@@ -825,7 +817,7 @@ Charity, service or donation.
 
 Villages or lands granted to the temples. Tax free villages or lands. 
 
-308 
+[[P308]]
 
 THE EPIGRAPHS OF TIRUMALA TEMPLE 
 
@@ -951,7 +943,7 @@ Tenkulal
 
 Sacred food 
 
-309 
+[[P309]]
 
 THE TIRUMALA TEMPLE 
 
@@ -995,7 +987,7 @@ Vasanta-purnima
 
 Vasantotsavam 
 
-14 
+[[P14]]
 
 Annual festivals. Brahmotsavam Monthly festivals. Special festivals. 
 
@@ -1051,11 +1043,11 @@ entrance) in Tirupati temple. Front mantapam (near Dvarapalaka-
 
 entrance in Tirupati temple. Holy tank in Tirupati (Kapila Tirtham) 
 
-310 
+[[P310]]
 
-3L 
+[[P3L|P311]]
 
-311 
+[[P311]]
 
 Yanai-nambiran 
 
@@ -1113,5 +1105,5 @@ Tiruchchi vehicle.
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
 
-[^1]:
+[^12_1]:
       Note: This and similar references elsewhere represent the epigraph number in  Tirumala Temple (written as T,T.) and Govindaraja temple(written as G.T). The epigraph numbers are the same as those given in the six volumes of  "T T.D Inscriptions" published by  T.T.D. Thus 43 T. T. means 43rd inscriptions of Tirumala Temple in "T.T.D. inscription". 25G.T.. means 25th inscriptions of Govindaraja temple in "T.T D. Inscriptions" and so on.  

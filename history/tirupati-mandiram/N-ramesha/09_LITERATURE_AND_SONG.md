@@ -24,8 +24,7 @@ Tolkappiam, the earliest complete Tamil work extant, whose date is considered by
 
 This shows that Tirumala is known to South India from the earliest days of the Christian era. 
 
-201 
-
+[[P201]]
 
 ### (iii) Classic period. 
 
@@ -46,8 +45,7 @@ Srirangam, Tirupati and Tirumalkunram are the three other great shrines describe
 
 This also proves that Tirumala was considered to be a holy place during the centuries of the classic period. 
 
-202 
-
+[[P202]]
 
 ### (iv) Hymnal period. 
 
@@ -86,7 +84,7 @@ Tirumangai Alvar, one of the most learned of the alvars, is one who has contribu
 
 "(Till now I was fed up with the thoughts of my mother, father, wife, children and relatives. Oh! Lord of Vengadam, covered with beautiful gardens 
 
-204 
+[[P204]]
 
 TIRUMALA IN LITERATURE AND SONG 
 
@@ -104,7 +102,7 @@ Andal, the only lady Vaishnavite saint, who is reputed to be the daughter of Per
 
 Nammalvar, another saint of Pandiya nadu, whose contributions to the Nalayiram are copious and next only to those of Tirumangai Alvar has sung the praises of Vengadam and its Lord in as many as fifty-four stanzas. Though :ccording to the orthodox tradition this Alvar flourished in the beginning of Kaliyuga (3102 B.C.). still it is believed that this Alvar should have flourished in the first half of the tenth century A.D. The Lord of Vengada is described as, 
 
-205 
+[[P205]]
 
 + 
 
@@ -122,7 +120,7 @@ It may be mentioned that in the corresponding place in the Ramayana of Valmiki, 
 
 The foregoing extracts from the Tamil classics will give a general idea of the nature of the Deity on the Vengadam Hills and the hoary sanctity attached 
 
-206 
+[[P206]]
 
 TIRUMALA IN LITERATURE AND SONG 
 
@@ -142,7 +140,7 @@ Krisanu retorts to the above adulation that the Lord is an usurer, who extorts w
 
 In reply to this so-called criticism Visvavasu gives a graphic description of the great qualities of the Lord. He again praises the Lord and compares him to Lord Krishna who gave immense riches to Kuchela in exchange for a handful of beaten rice. The hill is said to resemble Srirama and this hill 
 
-207 
+[[P207]]
 
 THE TIRUMALA TEMPLE 
 
@@ -156,11 +154,11 @@ SECTION III: TELUGU LITERATURE.
 
 Krishnadevaraya of the great Vijayanagar empire makes a reference of Lord Venkatesvara in his work "Amuktamalyada." He was a great devotee of Lord Venkatesvara and visited Tirumala temple as much as seven times, and paid his respects to the Lord and presented invaluable jewellery and ornaments. He was also responsible for granting 30,000 varahas of gold for plating the Ananda Divya Vimana over the Garbhagriha of the Lord. Sri Krishnadevaraya is popularly known as "Sri Venkatagiri Vallabha Seva Paratantra Raya." His great work Amuktamalyada" was composed in 1516 A.D. while the emperor was camping at Vijayawada enroute to Srikakulam when Andhra Jalajaksha appeared in a dream to him, and directed him to compose a work to be dedicated to Lord Venkatesvara who is identical with Andhra Jalajaksha himself. The word * Amuktamalyada" means offering a garland of flowers to the Lord after wearing it oneself which is found in the legends of that great Vaishnavite saint Andal, also called as Sudi Koduththa Nachchiyar." 
 
-66 
+[[P66]]
 
 The book deals with the lives of Godadevi or Andal and her foster-father Vishnuchitta. This is a book which is full of the episodes of saints and other legends found in the Puranas and expounds the basic philosophy of Vishistadvaita. This book is dedicated to Lord Venkatesvara of Tirumala and contains much information about the contemporary beliefs and practices of Sri Vaishnavites of that period. 
 
-56 
+[[P56]]
 
 (ii) Chayapati. 
 
@@ -257,7 +255,7 @@ This is a dvipada kavya by Venkamamba describing the marriage of Lord Venkatesa 
 
 This contains 137 couplets by Venkamamba and begins each one with an invocation of Lord Venkatesa whom she considers to be an incarnation of Lord Krishna. The author says a perusal of this poem is equal to chanting the name of Krishna. This is a simple, lucid and pleasing work, and mentions that Lord Krishna taught her the supreme principle of utter surrender of her Atma to the Lord without bothering anything about other dharmas etc. 
 
-211 
+[[P211]]
 
 THE TIRUMALA TEMPLE 
 
@@ -265,7 +263,7 @@ THE TIRUMALA TEMPLE
 
 This author lived in the 14th Century and was known as Shambhudasa and Prabandha Parmesvara 
 
-19 
+[[P19]]
 
 He completed the unfinished portion of Aranya parva of the famous Telugu Mahabharata which was composed by Nannaya Bhatta and Tikkana Somayaji. He composed "Narasimha purana 
 
@@ -287,7 +285,7 @@ Pedda Tirumalacharya the son of Annamacharya translated into easy Telugu verses 
 
 ** Sri Venkateswara Prabhata Stava." This is intended to awake the Lord in the morning and to receive the adoration of his devotees. The Lord is said to have lived in the reigns of the Vijayanagara king Krishnadevaraya, Achyutaraya and Sadasiva Raya. A peculiar and unique remark is made in this work that Krishnadevaraya did not evince any special favours towards the Lord but that Achyutaraya and Sadasivaraya patronised Him and granted Him villages etc. 
 
-212 
+[[P212]]
 
 TIRUMALA IN LITERATURE AND SONG 
 
@@ -309,7 +307,7 @@ Siddhiraju Timmaraju was the governor of Kondavidu. He was a nephew of Aliya Ram
 
 This poet, a native of Chandragiri, wrote the poem ‘Chandrabhanu Charitam,' in which he describes the journey of crores of pilgrims who came to worship Venkatesa with cheeks pierced with wire, locking their mouth, 
 
-213 
+[[P213]]
 
 THE TIRUMALA TEMPLE 
 
@@ -357,7 +355,7 @@ vahana is hamsa.
 
 as mahisuta) travelled in it to the spot. 
 
-214 
+[[P214]]
 
 TIRUMALA IN LITERATURE AND SONG 
 
@@ -397,7 +395,7 @@ This poet of the 19th Century translated Sakuntala of Kalidasa into Telugu and d
 
 These are modern poets who have written upwards of hundred works, of which many are dedicated to Lord Venkatesvara. 
 
-215 
+[[P215]]
 
 THE TIRUMALA TEMPLE 
 
@@ -425,7 +423,7 @@ Pedda Tirumalacharya's son Chinna Tirumalacharya followed the foot steps of his 
 
 Purandaradasa the famous Kannada musician and poet is practically the author of modern Carnatic music. His patron diety was Lord Vithala of Pandaripur. 
 
-216 
+[[P216]]
 
 TIRUMALA IN LITERATURE AND SONG 
 
@@ -449,11 +447,11 @@ During this visit, Purandaradasa is said to have composed some poems in honour o
 
 Vyasaraya, otherwise known as Vyasatirtha was considered to be a guru of Purandaradasa. He was patronised by Krishnadevaraya of Vijayanagara 
 
-217 
+[[P217]]
 
 THE TIRUMALA TEMPLE 
 
-6 
+[[P6]]
 
 empire. He is said to have composed a song on Lord Venkatesa as Srinivasa in Todi raga and Rupaka tala entitled Ninna nodi, dhnya nađeno, Sri Srinivasa." 
 
@@ -495,7 +493,7 @@ Thyagaraja has composed two Kirtanas on Lord Venkatesvara and has mentioned him 
 
 In his Kirtana beginning with “Venkatesa ninu sevimpanu padi vela kannula kavalen ayya " in Madhyamavati Raga, Adi tala, the poet praises 
 
-218 
+[[P218]]
 
 TIRUMALA IN LITERATURE AND SONG 
 
@@ -505,11 +503,11 @@ Lord Venkatesvara and says that ten thousand eyes are needed to fully comprehend
 
 In another famous song “ Tera tiyagarada naloni tirupathi venkataramana matsaramanu in Goulipantu raga and Adi tala he prayed to the Lord to remove the screen of envy lurking in his mind and which was drawing him away from dharma, artha and moksha. 
 
-64 
+[[P64]]
 
 In his famous 'ghana raga panchaka' in Arabhi beginning with 'Sadinchane O'manasa there is also a reference to Lord Venkatesa. 
 
-25 
+[[P25]]
 
 (viii) Muthuswamy Dikshita: 
 
@@ -521,7 +519,7 @@ Muttuswamy dikshita also belonging to the 18th-19th century, was another famous 
 
 (c) In a third song in Purna chandrika raga and Rupaka tala, Muthuswamy Dikshita praises Lord Venkatesvara as follows ** Sanka Chakra Gada Panim aham vande, Sri Saranga Nandaka Kaustubha dharinam vande.” 
 
-64 
+[[P64]]
 
 (d) In a song Sheshachala nayakam bhajami vishesha phaladayakam " in Varali raga and Rupaka tala, he again praises the Lord of Seshachala who gives special boons to his disciples. 
 
@@ -531,7 +529,7 @@ Muttuswamy dikshita also belonging to the 18th-19th century, was another famous 
 
 Shyama Shastry the third of the famous triad of the Carnatic musicians also lived in 18th-19th Century was a contemporary of Thyagaraja and 
 
-219 
+[[P219]]
 
 THE TIRUMALA TEMPLE 
 
@@ -541,7 +539,7 @@ Muthuswamy Dikshita. He was originally named as Venkata Subramanya but his pet n
 
 Subbaraya Shastry the second son of Shyama Shastry is also a famous composer and he has composed a song beginning with “ Venkata saila vihara nive gati brova rada” in Hamir Kalyani raga, Adi tala, where he seeks the Lord to save him when he has surrendered his all on seeing the Hill, the gopuram and mantapam of the Lord. 
 
-66 
+[[P66]]
 
 (xi) Vina Kuppier: 
 
@@ -583,9 +581,9 @@ Patnam Subramania Iyer (1845—1902) is a well known musician. He has composed m
 
 (Bilahari raga; Misrajati Jampa tala). 
 
-220 
+[[P220]]
 
-39 
+[[P39]]
 
 TIRUMALA IN LITERATURE AND SONG 
 
@@ -617,5 +615,4 @@ There have been many other less well known musicians and poets who have composed
 
 From the above brief review, it will be seen that Lord Venkatesvara's fame had been extensive in the past five hundred years or so and the Lord has been the theme of many compositions both in music and in literature. 
 
-221 
-
+[[P221]]

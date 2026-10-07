@@ -8,7 +8,7 @@ No. 100-TT. dated in Saka 1364, Dundubhi, registers the payment of 3000 honnu as
 
 Srigiri, who presented a golden pattam (No. 99-TT.) in the cyclic year Sadharana corresponding to the Saka year 1352, expressed by “the eyes (2), the arrows (5), Rama (3), and the Moon (1),” (1-7-1430 A.D.), must be identical with Srigiri-Bhupala, surnamed Pratapa Devaraya, the son of Vijaya and the younger brother of Devaraya II “who witnessed the elephant-hunt ” 
 
-64
+[[P64]]
 
 (Ep. Ind., Vol. VIII, page 306; and Mad. Ep. rep. for 1905-06, page 82). He is said to have been ruling over the Marakatanagara-pranta, somewhere in the North Arcot district, in Saka year 1346 (Ar. Sur. Rep. for 1907-08, page 248, foot-note 5). 
 
@@ -59,8 +59,7 @@ The following information about the temple is gathered from the inscriptions of 
 </table>
 
 
-		65		
-
+[[P65]]
 
 <table>
   <tr>
@@ -209,5 +208,4 @@ The following information about the temple is gathered from the inscriptions of 
    </td>
   </tr>
 </table>
-
 

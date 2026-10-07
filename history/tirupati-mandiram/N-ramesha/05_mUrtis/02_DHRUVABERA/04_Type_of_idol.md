@@ -13,7 +13,7 @@ The details of an image of any of the above twelve types mentioned according to 
 | :--- | :--- | :--- | :--- |
 | **Yoga sthanaka uttama** | Shyama (dark) | Four arms. Sankha chakra to be shown. Right hand in abhaya pose and one of the left pose in katyavalambita pose. | Bhrigu and Markandeya to the right. Brahma with four arms in the right. Siva whose complexion should be white facing south. |
 | **Yoga madhyama sthanaka** | do. | do. | Parivara devatas Brahma and Shiva to be absent |
-| **Yoga adhama sthanaka** | Do. | do. | Brigu and Markandeya to be absent. |
+| **Yoga adhama sthanaka** | Do. | do. | Bhrigu and Markandeya to be absent. |
 | **Bhoga uttama sthanaka** | do. | Four arms. Sankha and Chakra to be shown. One of the right hands in abhaya or varada pose and one of the left hands in katyavalambita simha karana pose. | Siva and Brahma to the right. Sri Devi with a lotus in the left and prasaritha dakshina hastha (extended right hand to the right). Bhudevi with prasaritha and dhruthotpala hastha on the left. Bhrigu, Vyasa, Tumbura, Narada, Sanaka, Sanatkumara, Surya, Chandra, Maya, Samhaldini, Vyayagini, Kinnara Mithuna and Vidyadhara yaksha. |
 | **Bhoga madhyama sthanaka** | do. | Do. | Tumburu, Narada Yaksha and Vidyadhara to be absent. |
 | **Bhoga adhama sthanaka** | do. | Do. | Surya and Chandra are absent |

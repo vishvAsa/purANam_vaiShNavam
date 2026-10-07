@@ -4,11 +4,7 @@ title = "19 TIRUMALA UNDER THE SANGAMA DYNASTY"
 
 The first ruler of the First or Sangama dynasty who can be easily recognised in the temple epigraphs is Harihara II, mentioned in No. 103-TT. dated in Saka 1309, Prabhava. But there are three earlier records belonging to the reign of Bukka I (Nos. 487, 237 and 238, and 485-TT.) though the king is not mentioned in any of them, No. 487-TT. which is undated and fragmentary, registers the grant of a village to the temple for a sandhi (offerings) twice a day in the name of Bukkarayan and this Bukkarayan-Sandhi is again referred to in No.44 TT. dated in Saka 1379. 
 
-Mahamandalesvara Mangideva, a prominent feudatory, set up a golden kalasa on the sikhara of the vimana of the temple in 1369 A.D. (237-TT.) after gilding the sanctum (238-TT). A minister of Kumara Kampa gifted 28 cows and a bull. (373 and 485 T.T.) In 1388 A.D. a certain Mullai Tiruvenkata Jiyyar instituted the Masi-tirunal in the temple in the name of Harihara Raya, the then reigning King (103-TT). A record of 1390 A.D. mentions the Tiruppavai or the festival during which psalms were sung within the hearing of the processional image and his consort (57-TT.) Another record, dated 
-
-62
-
-three years later, refers to the Vidayyarri day of each of the festivals celebrated at Tirumala (43-TT.). The Kodai-tirunal is referred to in an inscription of 1404 A.D. (340-TT.). 
+Mahamandalesvara Mangideva, a prominent feudatory, set up a golden kalasa on the sikhara of the vimana of the temple in 1369 A.D. (237-TT.) after gilding the sanctum (238-TT). A minister of Kumara Kampa gifted 28 cows and a bull. (373 and 485 T.T.) In 1388 A.D. a certain Mullai Tiruvenkata Jiyyar instituted the Masi-tirunal in the temple in the name of Harihara Raya, the then reigning King (103-TT). A record of 1390 A.D. mentions the Tiruppavai or the festival during which psalms were sung within the hearing of the processional image and his consort (57-TT.) Another record, dated [[P62]] three years later, refers to the Vidayyarri day of each of the festivals celebrated at Tirumala (43-TT.). The Kodai-tirunal is referred to in an inscription of 1404 A.D. (340-TT.).
 
 No. 103 TT. belonging to Harihara II, records the institution of a festival for Sri Venkatesvara in his name in the month of Masi and an arrangement for its conduct by the head of a Srivaishnava Matha through the payment by him of 100 panam each year, being the income of the village of Pungodu. Probably the agent was given possession of the village also. This agency of a religious head would seem to indicate the slow pervasion among the kings of the First Vijayanagara dynasty of Vaishnava influence which bore its first fruits in this temple in the resuscitation of the Vedaparayanam during the reign of Devaraya II through the efforts of Mudaliyar Tirukkalikanridasar Alagappiranar and in the construction of mantapams and gopurams and the establishment of feeding-houses, flower-gardens, festivals and other services and charities together with the grant of villages towards their expenses by Saluva Narasimha at the instance of Kandadai Ramanujayyangar. 
 
@@ -16,7 +12,7 @@ Devaraya II is represented by half a dozen inscriptions. In Saka 1351, Saumya (5
 
 In addition to Devanna-Udaiyar, another Officer of Devaraya II Mallanna is referred to in an inscription of Saka 1330 Sarvadhari (13-3-1409 A.D.). He seems to have been originally appointed to administer the Mysore country, and later on transferred to the governorship of Chandragiri. Saka 1330 mentioned above, is probably the year of his taking over charge of the Chandragiri Rajya. He made arrangements for a naivedyam and nitya dipam to Sri Venkatesvara. 
 
-63
+[[P63]]
 
 The next date that occurs for him is Saka 1339, Hevilambi (25-8-1417 A.D.) (No. 88-TT.), and at this time he completed the construction of the Tirumamani-mantapam in front of the central shrine, from the stone basement to the roof and the eaves, and probably the renovation also of the Anandavimana over the Sanctum (No. 235-TT.). His latest known date is Saka 1366 Raktakshi (2-10-1444 A.D.) (No. 64-TT.), which takes us to within half a dozen years towards the close of Devaraya II's reign. He was Probably  transferred in Saka 1367, in succession to Irugapa-Odeya (Ar. Sur. Rep. for 1907-08, page 248, foot-note 10). 
 

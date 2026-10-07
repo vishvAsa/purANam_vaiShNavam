@@ -17,11 +17,7 @@ His first visit to Sri Venkatesvara's temple was made in company with his two qu
 
 ### His Second Visit: 
 
-The second visit, without his queens this time, came close upon the first within the next three months, on Monday, the 12th day of the dark fortnight of Vaisakha in Saka 1435, Srimukha (2nd May 1513 A.D.), when he gave a number of ornaments for the Lord and three small kiritams for the processional images of Sri Venkatesvara, Sridevi and Bhudevi, which are 
-
-68
-
-again recorded in three languages, No. 1-TT. in Telugu, No. 41-TT. in Tamil and Nos. 95 and 96-TT. in Kanarese. 
+The second visit, without his queens this time, came close upon the first within the next three months, on Monday, the 12th day of the dark fortnight of Vaisakha in Saka 1435, Srimukha (2nd May 1513 A.D.), when he gave a number of ornaments for the Lord and three small kiritams for the processional images of Sri Venkatesvara, Sridevi and Bhudevi, which are [[P68]] again recorded in three languages, No. 1-TT. in Telugu, No. 41-TT. in Tamil and Nos. 95 and 96-TT. in Kanarese.
 
 
 ### His Third Visit: 
@@ -33,11 +29,7 @@ The third visit of Krishnaraya to the temple was about a month and a half later 
 
 Another opportunity was availed of by Krishnaraya to pay his obeisance for the fourth time to God Venkatesa, during his return to his capital city of Vijayanagara after pursuing Prataparudra Gajapati as far as Kondavidu and capturing the Udayagiri fortress during his first campaign against the Gajapati in Saka 1436, Bhava, on Thursday, the full moon day in the month of Ashada (6-7-1514 A.D.). This time he had a *kanakabhishekam *performed for God Tiruvengalanatha with 30,000 varahas, presented some ornaments to Him, and arranged for His daily offerings for which he granted Talapaka village in the Pottapinanti-sima. From the donor's share of a quarter of the prasadams offered daily in his name, he stipulated for the issue of a portion to Ranga-Dikshitulu, Siva-Dikshitulu and Tiruppanipillai and the balance to the latter for being utilised for feeding Brahmanas in the satram (Nos. 201, 254, and 256-TT.). 
 
-Of his two queens who accompanied him to Tirumala from the military campaign, Chinnadevi presented a padakam (pendent) and a kanthamala (necklace) and gave Mudiyur village in Tonda-mandalam to serve for the daily offerings instituted by her with a similar provision for issue of the donor's share to Tiruppanipillai, a quarter for himself and three-quarters for the same satram (Nos. 202, 257 and 262 TT.), while Tirumaladevi presented a padakam and arranged for similar offerings and distribution from the produce 
-
-69
-
-derived in grain and coin from the village of Piratikulattur in Cholingavarapattu (Nos. 203, 255, and 261-T.T.). One of the above donees, Ranga-Dikshitulu, was the father of Krishnaraya's purohita Yagnanarayana-Dikshita who also appears to have followed the royal party to Tirumala and offered 10,000 chakrams to the temple for certain services only four days later, i.e., on the 10th July, 1514 A.D. (Nos. 192 and 254-T.T.). The father must have also followed the king so as to be the recipient of the granted prasadam. 
+Of his two queens who accompanied him to Tirumala from the military campaign, Chinnadevi presented a padakam (pendent) and a kanthamala (necklace) and gave Mudiyur village in Tonda-mandalam to serve for the daily offerings instituted by her with a similar provision for issue of the donor's share to Tiruppanipillai, a quarter for himself and three-quarters for the same satram (Nos. 202, 257 and 262 TT.), while Tirumaladevi presented a padakam and arranged for similar offerings and distribution from the produce [[P69]] derived in grain and coin from the village of Piratikulattur in Cholingavarapattu (Nos. 203, 255, and 261-T.T.). One of the above donees, Ranga-Dikshitulu, was the father of Krishnaraya's purohita Yagnanarayana-Dikshita who also appears to have followed the royal party to Tirumala and offered 10,000 chakrams to the temple for certain services only four days later, i.e., on the 10th July, 1514 A.D. (Nos. 192 and 254-T.T.). The father must have also followed the king so as to be the recipient of the granted prasadam.
 
 A set of four epigraphs in four languages, Telugu, Kanarese, Tamil and Sanskrit (Nos. 579, 580, 619 and 620-TT. respectively), introduces us to Krishnaraya's halt at Vijayanagara, on Thursday, the 3rd day of the dark fortnight of Kartika in Saka 1437, Yuva (25th October 1515 A.D.) and the presentation of a navaratna-prabhavali or makaratorana for God Tiruvengalanatha. 
 
@@ -63,7 +55,7 @@ The last time that we come across Krishnaraya's offerings at Tirumala is in Saka
 
 Achyutaraya, the half-brother and successor of Krishnaraya on the throne of Vijayanagar, is represented by a large number of inscriptions of this collection. His earliest mention occurs in No. 318-G.T. which registers the construction of a wooden car for Raghunatha, i.e., Sri Rama or Sri Kodanda 
 
-72
+[[P72]]
 
 Rama of Tirupati, by Kumara-Ramanujayyangar for the merit of Achyutaraya Maharaya. The record is dated on the 18th day of Tai in the cyclic year Virodhi, corresponding to the Saka year 1451 (equivalent to Friday, 14th January 1530 A.D.); but Achyutaraya had already begun to rule when his coronation was first celebrated at Tirupati where he was bathed in the water poured out of the conch in the hand of Lord Venkatesa. 
 
@@ -77,7 +69,7 @@ As in the case of Krishnaraya, we do not come across any frequent visits of Achy
 
 A second visit of Achyutaraya to God Venkatesa may be inferred from his two records, Nos. 544 and 546 - T.T. dated in Saka 1457, Manmatha (—26th December, 1535 A.D.). On this occasion he instituted two new festivals, viz., the Lakshmidevi-mahotsavam to be celebrated for Tiruvenkatamudaiyan and Alaimelmangai-Nachchiyar for five days, and the Punarvasu-tirunal for 
 
-73
+[[P73]]
 
 Raghunathan (Sri Rama), Nachchiyar (Sitadevi) and Ilaiya-Perumal (Lakshmana) on each of the 13 days of the Punarvasu star occuring in the year. Towards the expenses of the festivals, Achyutaraya granted to the temple the uttarayam of 300 rekhai-pon and 60 rekhai-pon respectively from the villages situated in the Kondavidu-sirmai and stipulated for the supply of all articles from the Sri Bhandaram. 
 
@@ -88,11 +80,7 @@ The third visit of Achyutaraya to Sri Venkatesvara's temple at Tirumala is indic
 
 About a year and a half prior to his first visit to Tirumala in Saka 1454, Nandana, Achyutaraya had provided with steps of granite stone the Kapilatirtham which he renamed “chakratirtham ” as being sacred to God Tiru vengalanatha, and also constructed Sandhya-vandana-mantapams on the east and west sides, and planted stones bearing the discus of Vishnu (Sudarsanasila or Tiruvalikkal) at the four corners of the pond excavated in rock. Three of these inscribed stones are visible, while the fourth is built into a parapet wall of a later building. They are dated in Saka 1453, Khara (25th June 1531 A.D.) and record, in the three South Indian languages Telugu, Kanarese and Tamil, this charitable service rendered by Achyutaraya through the laying of the stone steps and the construction of the mantapams for the attainment of the four human ends (chaturvidha-purusharthasıddhi). (Nos. 206, 207 and 208-G.T.). 
 
-Besides these charities, Achyutaraya had also built a temple in Tirupati for Achyuta-Perumal in the land belonging to the village of Kottur which was a tiruvidaiyattam of Tiruvenkatamudaiyan and established an agraharam of 120 houses built round the temple, after paying12400 narpanam into the Sri-Bhandaram (temple-treasury) of Sri Venkatesvara as compensation for 
-
-74
-
-the site taken up. To facilitate the daily worship of this deity, be granted the village of Parittiputtur dividing it into 20 shares assigned to this new temple. In Saka 1460, Vilambi (8-2-1539 A.D.) he made a gift of 100 out of 120 houses in the agraharam to the Brahmanas who occupied them at the time with all rights of possession, succession, sale, mortgage, transfer gift, etc., but reserved the 20 houses the occupants of which had also enjoyed the 20 shares of the village of Parittiputtur assigned to the temple of Achyutapperumal (No. 355 - G.T.). The reservation must have been occasioned by the suspicion of a prospective evacuation of the houses by their inmates who, probably being archakas, paricharakas and other servants of the temple, were responsible for the conduct of the daily worship, and the fear therefore of an eventual cessation of the puja of the deity in the case of such an evacuation. 
+Besides these charities, Achyutaraya had also built a temple in Tirupati for Achyuta-Perumal in the land belonging to the village of Kottur which was a tiruvidaiyattam of Tiruvenkatamudaiyan and established an agraharam of 120 houses built round the temple, after paying12400 narpanam into the Sri-Bhandaram (temple-treasury) of Sri Venkatesvara as compensation for [[P74]] the site taken up. To facilitate the daily worship of this deity, be granted the village of Parittiputtur dividing it into 20 shares assigned to this new temple. In Saka 1460, Vilambi (8-2-1539 A.D.) he made a gift of 100 out of 120 houses in the agraharam to the Brahmanas who occupied them at the time with all rights of possession, succession, sale, mortgage, transfer gift, etc., but reserved the 20 houses the occupants of which had also enjoyed the 20 shares of the village of Parittiputtur assigned to the temple of Achyutapperumal (No. 355 - G.T.). The reservation must have been occasioned by the suspicion of a prospective evacuation of the houses by their inmates who, probably being archakas, paricharakas and other servants of the temple, were responsible for the conduct of the daily worship, and the fear therefore of an eventual cessation of the puja of the deity in the case of such an evacuation.
 
 This agraharam of Achyutarayapuram must have formed the northern suburb of Tirupathi situated at the foot of the hill in which a ruined tower now stands with raised grounds of concrete and debris and broken idols and stones to its immediate west indicating the existence of a temple in the past there. 
 
@@ -100,10 +88,6 @@ In addition to these services of Achyutaraya in the cause of Hindu religion, he 
 
 Hanumasani, daughter of Uttida Timmayan, was another such damsel. The epigraph No. 422 T.T., which registers her gift of 820 narpanam to the temple in Saka 1461, Vikarı (21-1-1540 A.D.), for providing certain offerings to God, states that she was one among the damsels resident in Tirupati who had been assigned to the temple by Achyutaraya. 
 
-An inscription of 1561 A.D. states that Aravidu Tirumalaraya constructed an Unjal-mantapam in the Sampangi-Pradakshinam and that Saluva Narasimha instituted the Unjal-festival (633 - T.T.). This record enumerates the festivals celebrated in the temple at this time viz., Pavitrotsavam, Sahasra namarchanam, Sahasrakalasabhishekam, Adhyayanotsavam, Vasantotsavam, - 
-
-75
-
-Damanarohanam, Unjal festival, Pendli-tirunal, Lakshmidevi festival, Kodai tirunal, Floating festival, Pallavotsavam, Phalotsavam, Mesha-samkramanam, festival conducted on Amavasya, Purnima, Dasami, Ekadasi, Dvadasi, Rohini, Mrigasirsha, Punarvasu, Uttara, Mula, Purvashadha, Uttarabhadra, Sri Jayanti, Urai-adi, and Uttana-dvadasi, Arpasi-puradham, Deepavali, Yugadı, Kartikam, Makara-samkramanam, Padiyavettai, Tai-pusam and Tanniramudu, (633 - T.T.). One record of 1564 A.D. mentions the Rathasaptami festival (376 - G.T.). 
+An inscription of 1561 A.D. states that Aravidu Tirumalaraya constructed an Unjal-mantapam in the Sampangi-Pradakshinam and that Saluva Narasimha instituted the Unjal-festival (633 - T.T.). This record enumerates the festivals celebrated in the temple at this time viz., Pavitrotsavam, Sahasra namarchanam, Sahasrakalasabhishekam, Adhyayanotsavam, Vasantotsavam, - [[P75]] Damanarohanam, Unjal festival, Pendli-tirunal, Lakshmidevi festival, Kodai tirunal, Floating festival, Pallavotsavam, Phalotsavam, Mesha-samkramanam, festival conducted on Amavasya, Purnima, Dasami, Ekadasi, Dvadasi, Rohini, Mrigasirsha, Punarvasu, Uttara, Mula, Purvashadha, Uttarabhadra, Sri Jayanti, Urai-adi, and Uttana-dvadasi, Arpasi-puradham, Deepavali, Yugadı, Kartikam, Makara-samkramanam, Padiyavettai, Tai-pusam and Tanniramudu, (633 - T.T.). One record of 1564 A.D. mentions the Rathasaptami festival (376 - G.T.).
 
 It is known from an inscription dated 1586 A.D. that a certain Avasaram Chennappa constructed the Kalyanamantapa (150 - T.T.). A record of 1614 A.D. mentions the Ramapattabhishekam festival at Tirumala celebrated in the Venrumalaiyittan-mantapam on the day next to the Sriramanavam, day and the practice of reading the Vayupuranam during the festival (686T.T.). Two records of 1623 A.D. state that Matla Anantaraja presented several vehicles like the Svarnasva, Gaja, Samarabhu-palavahana, Padmapitha and Unna-tukkelimantapa, and that he built the Galigopuram on the stepped pathway (VI-25-26). The same chieftain is said to have built the Kottagopuram near Alipiri (279-G.T.) 

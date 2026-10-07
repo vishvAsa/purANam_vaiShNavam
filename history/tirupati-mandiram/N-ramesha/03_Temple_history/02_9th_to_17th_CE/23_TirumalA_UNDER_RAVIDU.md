@@ -2,11 +2,7 @@
 title = "23 TirumalA UNDER ÁRAVIDU"
 +++
 
-The ruling line of the Aravidu family commenced with Tirumala, who acquired power as the chief minister of Sadasivaraya in 1565 A.D. after the death of his elder brother Aliya-Ramaraya in the battle of Talikota, ascended the Vijayanagara throne ten years later in about 1575 A.D. having at the same time changed his capital to Penugonda. His was a brief reign lasting for two or three years during which his second son Srirangaraya or Ranga II ruled as co-regent with him. His Unjal-mantapam, generally called the Tirumalaraya-mantapam, with its exquisitely sculptured high pillars bearing the figures of a warrior riding a horse standing erect over an elephant with 
-
-78
-
-another elephant higher up, stands in tact to this day as a memorial of his service in the temple, and forms the seat of the asthanam of the processional image of Sri Venkatesvara during the annual Brahmotsavams in the temple. 
+The ruling line of the Aravidu family commenced with Tirumala, who acquired power as the chief minister of Sadasivaraya in 1565 A.D. after the death of his elder brother Aliya-Ramaraya in the battle of Talikota, ascended the Vijayanagara throne ten years later in about 1575 A.D. having at the same time changed his capital to Penugonda. His was a brief reign lasting for two or three years during which his second son Srirangaraya or Ranga II ruled as co-regent with him. His Unjal-mantapam, generally called the Tirumalaraya-mantapam, with its exquisitely sculptured high pillars bearing the figures of a warrior riding a horse standing erect over an elephant with [[P78]] another elephant higher up, stands in tact to this day as a memorial of his service in the temple, and forms the seat of the asthanam of the processional image of Sri Venkatesvara during the annual Brahmotsavams in the temple.
 
 Srirangadeva Maharaya II: The next reign, that is, that of Srirangadeva Maharaya, is represented by half a dozen inscriptions ranging in date between Saka 1501 (1579 A.D.) and Saka 1508 (1586 A.D.). 
 
@@ -18,7 +14,7 @@ Kumara-Venkatapatirayadeva Maharaya known from the temple by two records Nos. 32
 
 No. 328 - G.T. registers the provision made by a certain Ramachandrayya for offerings for Sri Venkatesa and Sri Govindaraja in Saka 1553, Prajotpatti, Kanya (29-9-1631 A.D.), and the construction of a mantapam by him to the west of the Matham of the Ilian-Kelvi-Jiyar on the south side of the street adjoining the Sannidhi-vidhi to the south. He excavated afresh the irrigation channel in Varadarajapuram which was at the time in disrepair. No. 63 – G.T. 
 
-79
+[[P79]]
 
 also refers to the excavation of an old damaged irrigation channel in the tiruvidaiyattam village Avilali by Alagarayyangar of Srivatsa-gotra, Apastambasutra and Yajus-sakha, and his gift of some lands therein. The measuring rod of 32 feet is mentioned in it. 
 
@@ -28,8 +24,4 @@ Srirangaraya is represented in the temple by two epigraphs of which only one is 
 
 Two later inscriptions, one dated in the cyclic year Rudhirodgari (1683 A.D.) and another in Saka year 1606, Raktakshi (1684 A D.), do not mention the reigning king, but they are referable to the reign of Venkata IV, the successor of Ranga VI (Ep. Ind., Vol. XVI, page 91). These two epigraphs, together with a third No. 290 - G.T., are written in Telugu, which was the main local language of this area No. 291 G.T. dated in Rudhirodgarı, Vaisakha (Saka 1605-16.5.1683 A.D.), registers the Ubhayam (service) of a certain Timma, son of Tuvarani Konda Pandita and the obeisance of his younger brother, while No. 290 - G.T. merely registers, as an extract, the Ubhayam of Rajasri Siddaluri Ramajı-Madarasu-Pantulungaru No 263 T.T of 
 
-Saka 1606, Raktakshi, Chaitra (—20-3-1684 A.D.), records the gift of a Kanthe (necklace) of pure gold valued at 575 srirangaraya-varahas as the capital for offerings for Tiruvengalanathasvami and Varahasvamı, following those of Maharajasri Shubabanuja-Pantulu by Rajasri Sivaraja-Ramachandra- 
-
-80
-
-Yetamataravu-Dabirusayi of Srivatsa-gotra, Asvalayana-sutra and Rik-sakha, and Timmanayyangaru. 
+Saka 1606, Raktakshi, Chaitra (—20-3-1684 A.D.), records the gift of a Kanthe (necklace) of pure gold valued at 575 srirangaraya-varahas as the capital for offerings for Tiruvengalanathasvami and Varahasvamı, following those of Maharajasri Shubabanuja-Pantulu by Rajasri Sivaraja-Ramachandra- [[P80]] Yetamataravu-Dabirusayi of Srivatsa-gotra, Asvalayana-sutra and Rik-sakha, and Timmanayyangaru.

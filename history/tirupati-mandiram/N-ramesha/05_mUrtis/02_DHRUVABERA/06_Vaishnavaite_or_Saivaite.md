@@ -30,7 +30,7 @@ The main characteristics of the Dhruva Bera of Sri Venkatesvara are as follows:
 (i) Sri Devi on the right breast seated on the Sri Vatsa.  
 (ii) The scars on the shoulders.  
 (iii) Free and easy posture of the two upper hands into which Sankham and Chakram have subsequently been placed.  
-(iv) The varada posture of the lower right hand and the KaTy-avalambita posture i.e., holding the hand inner to the left of him of the lower left hand. 
+(iv) The varada posture of the lower right hand and the Katyavalambita posture i.e., holding the hand inner to the left of him of the lower left hand. 
 
 It must be admitted that the varada posture i.e., the palm and the fingers pointing downwards is not associated with any of the agama forms of stanakamurti. As already explained above, the idol of the Lord is Svayambhu or self-maintaining or if any rational interpretation of the agama texts is to be given, the idol must have been made at a time when the agamic texts were not codified and hence this must be one of the most ancient idols of the Country. 
 
@@ -40,7 +40,7 @@ In the Trivikrama pose of Lord Vishnu, he points to his right foot, to ask Bali 
 
 The position in the fingers and specially that of the thumb of the left hand in the hip and the thigh suggests that the Kodanda bow of Srirama which was deemed to have passed inside of the thumb should be maintained in a steady position. 
 
-Another important feature of the idol is the *pralambasutra *and the katisutra, the former the sacred thread or Yagnopavitam and the latter the string round the loin called in Telugu, *molatadu.' They characterise Sri Vishnu alone. 
+Another important feature of the idol is the *pralambasutra* and the katisutra, the former the sacred thread or Yagnopavitam and the latter the string round the loin called in Telugu, *molatadu*. They characterise Sri Vishnu alone. 
 
 ### kaustubhAdi
 That the idol is undoubtedly that of Vishnu and not of Siva can be inferred from the following: 
@@ -53,7 +53,7 @@ That the idol is undoubtedly that of Vishnu and not of Siva can be inferred from
 
 (d) There is also factually, no jata on the head of the idol of the murti of the Lord. There is also no Srichakram or yantra on the kiritam of the Idol. 
 
-(e) Even Acharya purushas do not enjoy the privilege of closely inspecting the Druva Bera. So far as one could observe the idol from Kulasekhara padi to which only entrance is given to a devotee, and based on the evidence of the most observant archakas over a number of years, it can be factually ascertained that there is no serpant anywhere in the garbha griha, not to speak of its total absence of the body of the Deity. Somehow a misrepresentation has been created for long that this exists on the body of the idol, and this misrepresentation still persists though factually it is incorrect and inaccurate. 
+(e) Even Acharya purushas do not enjoy the privilege of closely inspecting the Dhruva Bera. So far as one could observe the idol from Kulasekhara padi to which only entrance is given to a devotee, and based on the evidence of the most observant archakas over a number of years, it can be factually ascertained that there is no serpent anywhere in the garbha griha, not to speak of its total absence of the body of the Deity. Somehow a misrepresentation has been created for long that this exists on the body of the idol, and this misrepresentation still persists though factually it is incorrect and inaccurate. 
 
 (f) The so called simhalalata is only an ordinary ornamentation jewel including those which cover the crucial parts of the parts of the idols of the Lord and his consort. What exists on the idol is only a rough delineation which can by no account be associated with the face of a lion. This kind of ornamentation can be seen on many idols. 
 
