@@ -13,12 +13,9 @@ title = "०९ ध्रुवराज्याभिषेकवर्णन�
 
 #### श्लोक-१
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -241,12 +238,9 @@ _________________
 
 #### श्लोक-६
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 ध्रुव उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -799,12 +793,9 @@ _________________
 
 #### श्लोक-१८
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -839,15 +830,12 @@ _________________
 
 #### श्लोक-१९
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m37]श्रीभगवानुवाच
 
 [^m37]: Ms श्री वैकुण्ठः
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1136,12 +1124,9 @@ _________________
 
 #### श्लोक-२६
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1228,12 +1213,9 @@ _________________
 
 #### श्लोक-२८
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 विदुर उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1279,12 +1261,9 @@ _________________
 
 #### श्लोक-२९
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1326,12 +1305,9 @@ _________________
 
 #### श्लोक-३०
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 ध्रुव उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1389,7 +1365,7 @@ _________________
 
 [^m56]:
 
-    W Reads - 
+W Reads - 
     तत्पश्यत ममानात्म्य महो शोच्यं वतेति यत् ।  
     गत्वा भवच्छिदः पादमूलं याचेऽन्तवत्फलम् ॥ ३१ ॥
 
@@ -1471,8 +1447,8 @@ _________________
 तप्ये द्वितीयेऽप्यसति भ्रातृ-भ्रातृव्यहृद्रुजा॥ ३३ ॥
 
 [^m60]:
-    
-    दैवीं गुणमयीं मायामुपाश्रित्य दुरत्ययाम् । असत्यपि द्वितीयेऽत्र प्रसुप्त इव भिन्नदृक् । भ्रातृ भ्रातृव्येऽतिरुजा तप्येऽहमपि हृद्रुजा ॥ मया प्रसाद्य तपसा दुष्प्रसादं भवच्छिदम् । याचेऽहं जगदात्मानं भावं भाग्यविवर्जितः ॥ स्वराज्यं यच्छतो मानः केवलं मेऽभिभिक्षितः । निर्धन क्षीणपुण्येन पुलीकारा निवेश्वरात् ॥
+
+दैवीं गुणमयीं मायामुपाश्रित्य दुरत्ययाम् । असत्यपि द्वितीयेऽत्र प्रसुप्त इव भिन्नदृक् । भ्रातृ भ्रातृव्येऽतिरुजा तप्येऽहमपि हृद्रुजा ॥ मया प्रसाद्य तपसा दुष्प्रसादं भवच्छिदम् । याचेऽहं जगदात्मानं भावं भाग्यविवर्जितः ॥ स्वराज्यं यच्छतो मानः केवलं मेऽभिभिक्षितः । निर्धन क्षीणपुण्येन पुलीकारा निवेश्वरात् ॥
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -1579,15 +1555,12 @@ _________________
 
 #### श्लोक-३६
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m65]मैत्रेय उवाच[^m65]
 
 [^m65]: W omits
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2749,7 +2722,7 @@ _________________
 
 [^v104]:
 
-    विस्मयम् आश्चर्य प्रपेदे This line is not found in W end. The verse to be the above lines pertained to sloka उत्तानपादो etc is also not found in W.
+विस्मयम् आश्चर्य प्रपेदे This line is not found in W end. The verse to be the above lines pertained to sloka उत्तानपादो etc is also not found in W.
 
 </details>
 </details>

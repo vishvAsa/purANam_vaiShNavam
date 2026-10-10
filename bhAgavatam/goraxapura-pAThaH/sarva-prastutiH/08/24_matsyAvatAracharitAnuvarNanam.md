@@ -3,8 +3,6 @@ title = "२४ मत्स्यावतारचरितानुवर्�
 +++
 [चतुर्विंशोऽध्यायः]
 
-
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -15,13 +13,9 @@ title = "२४ मत्स्यावतारचरितानुवर्�
 
 #### श्लोक-१
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 राजोवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -60,7 +54,6 @@ _________________
 </details>
 
 #### श्लोक-२
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -102,7 +95,6 @@ _________________
 
 #### श्लोक-३
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतन्नो भगवन् सर्वं यथावद् वक्तुमर्हसि।  
@@ -138,13 +130,9 @@ _________________
 
 #### श्लोक-४
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 सूत उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -184,13 +172,9 @@ _________________
 
 #### श्लोक-५
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्रीशुक उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -230,7 +214,6 @@ _________________
 
 #### श्लोक-६
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 उच्चावचेषु भूतेषु चरन् वायुरिवेश्वरः।  
@@ -262,7 +245,6 @@ _________________
 </details>
 
 #### श्लोक-७
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -298,7 +280,6 @@ _________________
 </details>
 
 #### श्लोक-८
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -341,7 +322,6 @@ _________________
 
 #### श्लोक-९
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ज्ञात्वा तद् दानवेन्द्रस्य हयग्रीवस्य चेष्टितम्।  
@@ -378,7 +358,6 @@ _________________
 </details>
 
 #### श्लोक-१०
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -417,7 +396,6 @@ _________________
 
 #### श्लोक-११
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योऽसावस्मिन्महाकल्पे तनयः स विवस्वतः।  
@@ -454,7 +432,6 @@ _________________
 
 #### श्लोक-१२
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एकदा कृतमालायां कुर्वतो जलतर्पणम्।  
@@ -486,7 +463,6 @@ _________________
 </details>
 
 #### श्लोक-१३
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -527,7 +503,6 @@ _________________
 </details>
 
 #### श्लोक-१४
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -573,16 +548,12 @@ _________________
 
 #### श्लोक-१५
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m14]श्रीशुक उवाच
 
 [^m14]:
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -619,7 +590,6 @@ _________________
 </details>
 
 #### श्लोक-१६
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -660,7 +630,6 @@ _________________
 
 #### श्लोक-१७
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सा तु तत्रैकरात्रेण वर्धमाना कमण्डलौ।  
@@ -700,16 +669,12 @@ _________________
 
 #### श्लोक-१८
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m20]मत्स्य उवाच
 
 [^m20]: A,B,G,J,M,Ma,T Omit
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -744,16 +709,12 @@ _________________
 
 #### श्लोक-१९
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m21]श्रीशुक उवाच
 
 [^m21]: A,B,G,J,M,Ma,T Omit
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -787,7 +748,6 @@ _________________
 </details>
 
 #### श्लोक-२०
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -823,7 +783,6 @@ _________________
 </details>
 
 #### श्लोक-२१
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -864,16 +823,12 @@ _________________
 
 #### श्लोक-२२
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m25]मीन उवाच
 
 [^m25]: A‚B,G,H,J,T,V,W Omit
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -911,16 +866,12 @@ _________________
 
 #### श्लोक-२३
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m26]श्रीशुक उवाच
 
 [^m26]: A,B,G,H,J,T,V,W Omit
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -954,7 +905,6 @@ _________________
 </details>
 
 #### श्लोक-२४
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -996,7 +946,6 @@ _________________
 
 #### श्लोक-२५
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं विमोहितस्तेन वदता वल्गुभारतीम्।  
@@ -1028,7 +977,6 @@ _________________
 </details>
 
 #### श्लोक-२६
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1071,7 +1019,6 @@ _________________
 
 #### श्लोक-२७
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नूनं त्वं भगवान् साक्षाद्धरिर्नारायणोऽव्ययः।  
@@ -1103,7 +1050,6 @@ _________________
 </details>
 
 #### श्लोक-२८
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1141,7 +1087,6 @@ _________________
 </details>
 
 #### श्लोक-२९
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1185,7 +1130,6 @@ _________________
 
 #### श्लोक-३०
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 न तेऽरविन्दाक्ष पदोपसर्पणं  
@@ -1227,13 +1171,9 @@ _________________
 
 #### श्लोक-३१
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्रीशुक उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1279,13 +1219,9 @@ _________________
 
 #### श्लोक-३२
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्रीभगवानुवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1322,7 +1258,6 @@ _________________
 </details>
 
 #### श्लोक-३३
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1363,7 +1298,6 @@ _________________
 
 #### श्लोक-३४
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 त्वं तावदोषधीः सर्वा बीजान्युच्चावचानि च।  
@@ -1395,7 +1329,6 @@ _________________
 </details>
 
 #### श्लोक-३५
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1429,7 +1362,6 @@ _________________
 
 #### श्लोक-३६
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 दोधूयमानां तां नावं समीरेण बलीयसा।  
@@ -1461,7 +1393,6 @@ _________________
 </details>
 
 #### श्लोक-३७
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1497,7 +1428,6 @@ _________________
 </details>
 
 #### श्लोक-३८
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1547,16 +1477,12 @@ _________________
 
 #### श्लोक-३९
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m40]श्रीशुक उवाच
 
 [^m40]: A,B,G,J,T,V,W Omit
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1591,7 +1517,6 @@ _________________
 
 #### श्लोक-४०
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 आस्तीर्य दर्भान् प्राक्‍कूलान् राजर्षिः प्रागुदङ्मुखः।  
@@ -1624,7 +1549,6 @@ _________________
 
 #### श्लोक-४१
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 ततः समुद्र उद्वेलः सर्वतः प्लावयन् महीम्।  
@@ -1656,7 +1580,6 @@ _________________
 </details>
 
 #### श्लोक-४२
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1695,7 +1618,6 @@ _________________
 
 #### श्लोक-४३
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमूचुर्मुनयः प्रीता राजन् ध्यायस्व केशवम्।  
@@ -1733,7 +1655,6 @@ _________________
 
 #### श्लोक-४४
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सोऽनुध्यातस्ततो राज्ञा प्रादुरासीन्महार्णवे।  
@@ -1770,7 +1691,6 @@ _________________
 </details>
 
 #### श्लोक-४५
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1814,13 +1734,9 @@ _________________
 
 #### श्लोक-४६
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 राजोवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1865,7 +1781,6 @@ _________________
 </details>
 
 #### श्लोक-४७
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1913,7 +1828,6 @@ _________________
 
 #### श्लोक-४८
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यत्सेवयाग्नेरिव रुद्ररोदनं  
@@ -1950,7 +1864,6 @@ _________________
 </details>
 
 #### श्लोक-४९
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1990,7 +1903,6 @@ _________________
 </details>
 
 #### श्लोक-५०
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2042,7 +1954,6 @@ _________________
 
 #### श्लोक-५१
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जनो जनस्यादिशतेऽसतीं मतिं  
@@ -2092,7 +2003,6 @@ _________________
 </details>
 
 #### श्लोक-५२
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2144,7 +2054,6 @@ _________________
 
 #### श्लोक-५३
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तं त्वामहं देववरं वरेण्यं  
@@ -2193,13 +2102,9 @@ _________________
 
 #### श्लोक-५४
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्रीशुक उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2242,7 +2147,6 @@ _________________
 
 #### श्लोक-५५
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पुराणसंहितां दिव्यां सांख्ययोगक्रियावतीम्।  
@@ -2274,7 +2178,6 @@ _________________
 </details>
 
 #### श्लोक-५६
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2312,7 +2215,6 @@ _________________
 </details>
 
 #### श्लोक-५७
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2358,7 +2260,6 @@ _________________
 
 #### श्लोक-५८
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स तु सत्यव्रतो राजा ज्ञानविज्ञानसंयुतः।  
@@ -2393,7 +2294,6 @@ _________________
 </details>
 
 #### श्लोक-५९
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2434,7 +2334,6 @@ _________________
 </details>
 
 #### श्लोक-६०
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2477,7 +2376,6 @@ _________________
 </details>
 
 #### श्लोक-६१
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

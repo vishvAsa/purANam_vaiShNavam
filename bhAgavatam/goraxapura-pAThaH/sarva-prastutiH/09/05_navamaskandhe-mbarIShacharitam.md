@@ -3,8 +3,6 @@ title = "०५ नवमस्कन्धेऽम्बरीषचरित�
 +++
 [पञ्चमोऽध्यायः]
 
-
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -15,13 +13,9 @@ title = "०५ नवमस्कन्धेऽम्बरीषचरित�
 
 #### श्लोक-१
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्रीशुक उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -62,7 +56,6 @@ _________________
 </details>
 
 #### श्लोक-२
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -108,13 +101,9 @@ _________________
 
 #### श्लोक-३
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 अम्बरीष उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -154,7 +143,6 @@ _________________
 
 #### श्लोक-४
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 सुदर्शन नमस्तुभ्यं सहस्राराच्युतप्रिय।  
@@ -189,7 +177,6 @@ _________________
 </details>
 
 #### श्लोक-५
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -241,7 +228,6 @@ _________________
 
 #### श्लोक-६
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 नमः सुनाभाखिलधर्मसेतवे  
@@ -281,7 +267,6 @@ _________________
 </details>
 
 #### श्लोक-७
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -329,7 +314,6 @@ _________________
 
 #### श्लोक-८
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यदा विसृष्टस्त्वमनञ्जनेन वै  
@@ -371,7 +355,6 @@ _________________
 
 #### श्लोक-९
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स त्वं जगत्त्राण खलप्रहाणये  
@@ -411,7 +394,6 @@ _________________
 
 #### श्लोक-१०
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यद्यस्ति दत्तमिष्टं वा स्वधर्मो वा स्वनुष्ठितः।  
@@ -446,7 +428,6 @@ _________________
 </details>
 
 #### श्लोक-११
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -483,13 +464,9 @@ _________________
 
 #### श्लोक-१२
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्रीशुक उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -529,7 +506,6 @@ _________________
 
 #### श्लोक-१३
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स मुक्तोऽस्त्राग्नितापेन दुर्वासाः स्वस्तिमांस्ततः।  
@@ -567,13 +543,9 @@ _________________
 
 #### श्लोक-१४
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 दुर्वासा उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -612,7 +584,6 @@ _________________
 </details>
 
 #### श्लोक-१५
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -655,7 +626,6 @@ _________________
 
 #### श्लोक-१६
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यन्नामश्रुतिमात्रेण पुमान् भवति निर्मलः।  
@@ -687,7 +657,6 @@ _________________
 </details>
 
 #### श्लोक-१७
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -726,16 +695,12 @@ _________________
 
 #### श्लोक-१८
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m25]श्रीशुक उवाच
 
 [^m25]: A,B,G,J,M,Ma omit
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -772,7 +737,6 @@ _________________
 </details>
 
 #### श्लोक-१९
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -813,16 +777,12 @@ _________________
 
 #### श्लोक-२०
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m29]दुर्वासा उवाच
 
 [^m29]: A,B,G,J,M,Ma omit
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -856,7 +816,6 @@ _________________
 </details>
 
 #### श्लोक-२१
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -895,13 +854,9 @@ _________________
 
 #### श्लोक-२२
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्रीशुक उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -935,7 +890,6 @@ _________________
 </details>
 
 #### श्लोक-२३
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -973,7 +927,6 @@ _________________
 </details>
 
 #### श्लोक-२४
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1022,7 +975,6 @@ _________________
 
 #### श्लोक-२५
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवंविधानेकगुणः स राजा  
@@ -1064,7 +1016,6 @@ _________________
 
 #### श्लोक-२६
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 अथाम्बरीषस्तनयेषु राज्यं  
@@ -1102,7 +1053,6 @@ _________________
 
 #### श्लोक-२७
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 इत्येतत् पुण्यमाख्यानमम्बरीषस्य भूपतेः।  
@@ -1120,7 +1070,7 @@ _________________
 
 [^m38]:
 
-    The following extra verse is found in B edition with in the brackets. अम्बरीषस्य चरितं ये श्रुण्वन्ति महात्मनः । मुक्तिं प्रयान्ति ते सर्वे भक्त्या विष्णो प्रसादत ॥
+The following extra verse is found in B edition with in the brackets. अम्बरीषस्य चरितं ये श्रुण्वन्ति महात्मनः । मुक्तिं प्रयान्ति ते सर्वे भक्त्या विष्णो प्रसादत ॥
 _________________
 इत्येतत्पुण्यमाख्यानमम्बरीषस्य भूपतेः  
 सङ्कीर्तयन्ननुध्यायन् भक्तो भगवतो भवेत् ॥

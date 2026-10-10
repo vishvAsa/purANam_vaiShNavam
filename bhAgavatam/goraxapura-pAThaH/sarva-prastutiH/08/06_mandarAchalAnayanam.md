@@ -271,12 +271,9 @@ _________________
 
 #### श्लोक-८
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 ब्रह्मोवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -386,7 +383,7 @@ _________________
 
 [^m24]:
 
-    This verse is found in M,Ma edition as follows - त्वथ्यग्रआसी दिदमात्मतन्त्रेत्वमादिरन्तो जगतोऽस्य मध्यम् । घटस्य मृत्स्नेन परः परस्मात् त्वमेवचाऽशेषमशेषनामा ।
+This verse is found in M,Ma edition as follows - त्वथ्यग्रआसी दिदमात्मतन्त्रेत्वमादिरन्तो जगतोऽस्य मध्यम् । घटस्य मृत्स्नेन परः परस्मात् त्वमेवचाऽशेषमशेषनामा ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -633,12 +630,9 @@ _________________
 
 #### श्लोक-१६
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्रीशुक उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -719,12 +713,9 @@ _________________
 
 #### श्लोक-१८
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्रीभगवानुवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1017,12 +1008,9 @@ _________________
 
 #### श्लोक-२६
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्रीशुक उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

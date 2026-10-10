@@ -13,12 +13,9 @@ title = "१२ ध्रुवचरितम्"
 
 #### श्लोक-१
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -73,12 +70,9 @@ _________________
 
 #### श्लोक-२
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 धनद उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -330,15 +324,12 @@ _________________
 
 #### श्लोक-८
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m10]मैत्रेय उवाच[^m10]
 
 [^m10]: B omits
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -722,7 +713,7 @@ _________________
 
 [^m22]:
 
-     M,Ma व्यसृजन्समाधौ, व्यसृजत् इत्यस्य स्थाने व्यसृजन् इति मूलश्लोकपाठो लभ्यते । परन्तु विजयध्वनीयव्याख्यानुसारेण विसृजन्, इति भाव्यम् ।
+M,Ma व्यसृजन्समाधौ, व्यसृजत् इत्यस्य स्थाने व्यसृजन् इति मूलश्लोकपाठो लभ्यते । परन्तु विजयध्वनीयव्याख्यानुसारेण विसृजन्, इति भाव्यम् ।
 </details>
 
 <details><summary>अनुवाद (हिन्दी)</summary>
@@ -949,15 +940,12 @@ _________________
 
 #### श्लोक-२३
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m31]सुनन्दनन्दावूचतुः[^m31]
 
 [^m31]: W omits
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1155,12 +1143,9 @@ _________________
 
 #### श्लोक-२८
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1251,7 +1236,7 @@ _________________
 
 [^m41]:
 
-    An additional verse is found in A,B,G,I,J,T Editions only. The commentary of the same is found in A,B,J,Va only. This appears in its proper place.
+An additional verse is found in A,B,G,I,J,T Editions only. The commentary of the same is found in A,B,J,Va only. This appears in its proper place.
 
 </details>
 
@@ -1660,15 +1645,12 @@ _________________
 
 #### श्लोक-४१
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m56]नारद उवाच[^m56]
 
 [^m56]: W omits
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1811,12 +1793,9 @@ _________________
 
 #### श्लोक-४४
 
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>

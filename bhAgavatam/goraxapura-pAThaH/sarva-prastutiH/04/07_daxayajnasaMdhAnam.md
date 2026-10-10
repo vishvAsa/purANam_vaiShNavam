@@ -3,8 +3,6 @@ title = "०७ दक्षयज्ञसंधानम्"
 +++
 [सप्तमोऽध्यायः]
 
-
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>भागसूचना</summary>
@@ -15,13 +13,9 @@ title = "०७ दक्षयज्ञसंधानम्"
 
 #### श्लोक-१
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -59,16 +53,12 @@ title = "०७ दक्षयज्ञसंधानम्"
 
 #### श्लोक-२
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्री[^m1]महादेव उवाच
 
 [^m1]: M,Ma,Ms रुद्र; V,W भव
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -112,7 +102,6 @@ title = "०७ दक्षयज्ञसंधानम्"
 </details>
 
 #### श्लोक-३
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -169,7 +158,6 @@ _________________
 
 #### श्लोक-४
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 पूषा तु यजमानस्य  
@@ -214,7 +202,6 @@ _________________
 
 #### श्लोक-५
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 बाहुभ्याम् अश्विनोः, पूष्णो  
@@ -252,13 +239,9 @@ _________________
 
 #### श्लोक-६
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -297,7 +280,6 @@ _________________
 </details>
 
 #### श्लोक-७
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -341,7 +323,6 @@ _________________
 
 #### श्लोक-८
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 **विधाय** कार्त्स्न्येन च तद्  
@@ -380,7 +361,6 @@ _________________
 </details>
 
 #### श्लोक-९
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -423,7 +403,6 @@ _________________
 
 #### श्लोक-१०
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा वृषध्वजद्वेष-  
@@ -462,7 +441,6 @@ _________________
 </details>
 
 #### श्लोक-११
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -505,7 +483,6 @@ _________________
 
 #### श्लोक-१२
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 कृच्छ्रात् संस्तभ्य च मनः  
@@ -540,13 +517,9 @@ _________________
 
 #### श्लोक-१३
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 दक्ष उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -596,7 +569,6 @@ _________________
 </details>
 
 #### श्लोक-१४
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -665,7 +637,6 @@ _________________
 
 #### श्लोक-१५
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 योऽसौ मयाविदिततत्त्वदृशा सभायां  
@@ -710,13 +681,9 @@ _________________
 
 #### श्लोक-१६
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -763,7 +730,6 @@ _________________
 
 #### श्लोक-१७
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 वैष्णवं यज्ञसन्तत्यै त्रिकपालं द्विजोत्तमाः।  
@@ -795,7 +761,6 @@ _________________
 </details>
 
 #### श्लोक-१८
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -841,7 +806,6 @@ _________________
 
 #### श्लोक-१९
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तदा स्वप्रभया तेषांद्योतयन्त्या दिशो दश।  
@@ -876,7 +840,6 @@ _________________
 </details>
 
 #### श्लोक-२०
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -913,7 +876,6 @@ _________________
 </details>
 
 #### श्लोक-२१
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -961,7 +923,6 @@ _________________
 
 #### श्लोक-२२
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तमुपागतमालक्ष्य सर्वे सुरगणादयः।  
@@ -996,7 +957,6 @@ _________________
 </details>
 
 #### श्लोक-२३
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1034,7 +994,6 @@ _________________
 </details>
 
 #### श्लोक-२४
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1074,7 +1033,6 @@ _________________
 </details>
 
 #### श्लोक-२५
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1132,13 +1090,9 @@ _________________
 
 #### श्लोक-२६
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 दक्ष उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1179,13 +1133,9 @@ _________________
 
 #### श्लोक-२७
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 ऋत्विज ऊचुः
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1228,13 +1178,9 @@ _________________
 
 #### श्लोक-२८
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 सदस्या ऊचुः
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1289,13 +1235,9 @@ _________________
 
 #### श्लोक-२९
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 रुद्र उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1349,13 +1291,9 @@ _________________
 
 #### श्लोक-३०
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 भृगुरुवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1405,16 +1343,12 @@ _________________
 
 #### श्लोक-३१
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m48]ब्रह्मोवाच
 
 [^m48]: M,Ma,Ms omit ब्रह्मोवाच
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1465,13 +1399,9 @@ _________________
 
 #### श्लोक-३२
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 इन्द्र उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1513,16 +1443,12 @@ _________________
 
 #### श्लोक-३३
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 ऋ[^m53]त्विक्पत्न्य ऊचुः
 
 [^m53]: A,B,G,I,J,T,V,W omit ऋत्विक्; M,Ma,Ms यज्ञ
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1565,13 +1491,9 @@ _________________
 
 #### श्लोक-३४
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 ऋषय ऊचुः
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1628,13 +1550,9 @@ _________________
 
 #### श्लोक-३५
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 सिद्धा ऊचुः
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1682,16 +1600,12 @@ _________________
 
 #### श्लोक-३६
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m61]यजमान्युवाच
 
 [^m61]: Ms प्रसूतिः
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1731,13 +1645,9 @@ _________________
 
 #### श्लोक-३७
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 लोकपाला ऊचुः
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1784,13 +1694,9 @@ _________________
 
 #### श्लोक-३८
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 योगेश्वरा ऊचुः
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1845,7 +1751,6 @@ _________________
 
 #### श्लोक-३९
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 जगदुद‍्भवस्थितिलयेषु दैवतो  
@@ -1894,16 +1799,12 @@ _________________
 
 #### श्लोक-४०
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 [^m71]शब्दब्रह्मोवाच
 
 [^m71]: A,B,G,I,J,T,M,Ma,Ms शब्द
 
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -1951,13 +1852,9 @@ _________________
 
 #### श्लोक-४१
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 अग्निरुवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2005,13 +1902,9 @@ _________________
 
 #### श्लोक-४२
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 देवा ऊचुः
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2058,13 +1951,9 @@ _________________
 
 #### श्लोक-४३
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 गन्धर्वा ऊचुः
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2108,13 +1997,9 @@ _________________
 
 #### श्लोक-४४
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 विद्याधरा ऊचुः
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2161,13 +2046,9 @@ _________________
 
 #### श्लोक-४५
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 ब्राह्मणा ऊचुः
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2219,7 +2100,6 @@ _________________
 </details>
 
 #### श्लोक-४६
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2273,7 +2153,6 @@ _________________
 
 #### श्लोक-४७
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 स प्रसीद त्वमस्माकमाकाङ्क्षतां  
@@ -2315,13 +2194,9 @@ _________________
 
 #### श्लोक-४८
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2363,7 +2238,6 @@ _________________
 
 #### श्लोक-४९
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 भगवान् स्वेन भागेन सर्वात्मा सर्वभागभुक्।  
@@ -2396,13 +2270,9 @@ _________________
 
 #### श्लोक-५०
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 श्रीभगवानुवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2447,7 +2317,6 @@ _________________
 </details>
 
 #### श्लोक-५१
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2495,7 +2364,6 @@ _________________
 
 #### श्लोक-५२
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 तस्मिन् ब्रह्मण्यद्वितीये केवले परमात्मनि।  
@@ -2540,7 +2408,6 @@ _________________
 
 #### श्लोक-५३
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 यथा पुमान्न स्वाङ्गेषु शिरःपाण्यादिषु क्वचित्।  
@@ -2572,7 +2439,6 @@ _________________
 </details>
 
 #### श्लोक-५४
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2623,13 +2489,9 @@ _________________
 
 #### श्लोक-५५
 
-
-<details><summary>सर्वाष् टीकाः</summary>
-
 <details open><summary>मूलम् (वचनम्)</summary>
 
 मैत्रेय उवाच
-</details>
 </details>
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
@@ -2670,7 +2532,6 @@ _________________
 
 #### श्लोक-५६
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 रुद्रं च स्वेन भागेन ह्युपाधावत्समाहितः।  
@@ -2707,7 +2568,6 @@ _________________
 </details>
 
 #### श्लोक-५७
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2749,7 +2609,6 @@ _________________
 
 #### श्लोक-५८
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एवं दाक्षायणी हित्वा सती पूर्वकलेवरम्।  
@@ -2786,7 +2645,6 @@ _________________
 </details>
 
 #### श्लोक-५९
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -2836,7 +2694,6 @@ _________________
 
 #### श्लोक-६०
 
-
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
 एतद‍्भगवतः शम्भोः कर्म दक्षाध्वरद्रुहः।  
@@ -2871,7 +2728,6 @@ _________________
 </details>
 
 #### श्लोक-६१
-
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
