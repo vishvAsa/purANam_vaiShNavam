@@ -1703,11 +1703,6 @@ _________________
 योगेश्वराखिलगुरो भगवन्नमस्ते॥
 </details>
 
-<details open><summary>मूलम् (वचनम्)</summary>
-
-सूत उवाच
-</details>
-
 <details><summary>सर्वाष् टीकाः</summary>
 
 <details><summary>मूलम्</summary>
@@ -1750,6 +1745,11 @@ _________________
 [^v72]: W कं
 
 </details>
+</details>
+
+<details open><summary>मूलम् (वचनम्)</summary>
+
+सूत उवाच
 </details>
 
 #### श्लोक-४४
